@@ -1,9 +1,3 @@
-- id: about
-  title: About
-  url: /about
-- id: blog
-  title: Blog
-  url: /blog
 - id: membership
   title: Membership
   url: /membership
@@ -13,3 +7,9 @@
 - id: shop
   title: Shop
   url: /shop
+- id: about
+  title: About
+  url: /about
+- id: blog
+  title: Blog
+  url: /blog

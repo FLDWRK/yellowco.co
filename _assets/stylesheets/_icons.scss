@@ -1,0 +1,27 @@
+.icon  {
+  display: inline-flex;
+
+  &.icon-block { display: flex; }
+  &.icon-center svg { margin: 0 auto; }
+  &.icon-rotate svg { transform: rotate(180deg); }
+  &.icon-black {
+    [stroke='#000'] { stroke: $brand-black; }
+    [fill='#000'] { fill: $brand-black; }
+    [stroke='#555'] { stroke: $brand-black; }
+    [fill='#555'] { fill: $brand-black; }
+  }
+
+  svg { width: 2.5rem; height: 2.5rem; }
+  &.icon-xs svg { width: 1.5rem; height: 1.5rem; }
+  &.icon-sm svg { width: 2rem; height: 2rem; }
+  &.icon-md svg { width: 2.5rem; height: 2.5rem; }
+  &.icon-lg svg { width: 3rem; height: 3rem; }
+  &.icon-xl svg { width: 4rem; height: 4rem; }
+  &.icon-xxl svg { width: 5rem; height: 5rem; }
+
+  [stroke='#000'] { stroke: $gray-light; }
+  [fill='#000'] { fill: $gray-light; }
+  [stroke='#555'] { stroke: $gray-dark; }
+  [fill='#555'] { fill: $gray-dark; }
+
+}

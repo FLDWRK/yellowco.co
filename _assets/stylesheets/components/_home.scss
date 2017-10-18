@@ -1,0 +1,30 @@
+.home {
+  p.lead {
+    font-size: 2.5rem;
+    line-height: 1.6;
+  }
+  .card-deck {
+    .card {
+      border: solid 3px $brand-black;
+      .card-category {
+        font-size: .75rem;
+        color: #9B9B9B;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: 350px;
+        color: #9B9B9B;
+        mark {
+          background-color: white;
+          padding: .75rem 1rem .5rem;
+          color: #9B9B9B;
+        }
+      }
+      .card-title {
+        font-size: 1.5rem;
+        line-height: 1.25;
+      }
+    }
+  }
+}

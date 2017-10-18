@@ -1,0 +1,31 @@
+.content {
+  a {
+    cursor: pointer;
+    border-bottom: 2px solid $brand-primary;
+    display: inline-block;
+    font-weight: 500;
+    line-height: 1.1;
+    text-shadow: 1px 1px white, 0px 0px white, 0px 2px white, -1px 1px white;
+
+    &.active,
+    &:hover {
+      border-bottom-color: transparent;
+      color: $brand-black;
+    }
+
+    &.active,
+    &:hover {
+      border-bottom-color: darken($brand-primary, 20%);
+    }
+  }
+
+  .alert > .alert-link {
+    text-shadow: none;
+    border-bottom-color: $gray-dark;
+  }
+}
+
+[data-href],
+[href] {
+  cursor: pointer;
+}
