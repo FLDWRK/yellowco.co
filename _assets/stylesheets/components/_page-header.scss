@@ -1,0 +1,8 @@
+header.page {
+  margin-bottom: 1.25rem;
+}
+@include media-breakpoint-down(md) {
+  header.page {
+    margin-bottom: .85rem;
+  }
+}

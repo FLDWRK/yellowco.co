@@ -1,41 +1,38 @@
 <footer class="page site-nav-push footer-site">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
-        <h6 class="text-uppercase">Members</h6>
-        <ul class="nav flex-column">
-          <li class="nav-item">
-            <a href="https://members.yellowco.co" class="nav-link">Member Login</a>
-          </li>
-          <li class="nav-item">
-            <a href="https://fldwrk.help/yellow-co" class="nav-link">Help Center</a>
-          </li>
-          <li class="nav-item">
-            <a href="/contact" class="nav-link">Contact</a>
-          </li>
-        </ul>
+    <div class="row pb-4 newsletter">
+      <div class="col-12 col-md-6 text-center px-5">
+        <h3>
+          <strong><em>Let your inbox bloom</em></strong>
+        </h3>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
+        <form class="form-inline justify-content-center">
+          <label class="sr-only" for="inlineFormInput">Email address</label>
+          <input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" id="inlineFormInput" placeholder="Jane Doe">
+          <button type="submit" class="btn btn-primary">Sign Up</button>
+        </form>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-6 py-3">
-        <h6 class="text-uppercase">More Goodness</h6>
+      <div class="col-12 col-md-6">
         <div class="row">
-          <div class="col-sm-6">
-            <ul class="nav flex-column">
-              <li class="nav-item">
-                <a href="/events" class="nav-link">Events</a>
-              </li>
-            </ul>
+          <div class="col-12 col-sm-6">
+            <i class="fa fa-fw fa-2x fa-instagram" aria-hidden="true"></i>
+            <i class="fa fa-fw fa-2x fa-facebook-square" aria-hidden="true"></i>
+            <i class="fa fa-fw fa-2x fa-twitter-square" aria-hidden="true"></i>
+            <i class="fa fa-fw fa-2x fa-pinterest-square" aria-hidden="true"></i>
+            <i class="fa fa-fw fa-2x fa-snapchat-square" aria-hidden="true"></i>
           </div>
-          <div class="col-sm-6">
-            <ul class="nav flex-column">
-              <li class="nav-item">
-                <a href="/faq" class="nav-link">FAQ</a>
-              </li>
-            </ul>
+          <div class="col-12 col-sm-6 text-sm-right">
+            <h3 class="email-yellow">
+              <strong><em>
+                <a href="mailto:heygirl@yellowco.co">heygirl@yellowco.co</a>
+              </em></strong>
+            </h3>
           </div>
         </div>
+        <hr>
       </div>
     </div>
-    <div class="row">
+    <div class="row text-center">
       <div class="col-12 pb-3">
         &copy; Copyright 2015-{{ site.time | date: '%Y' }} {{ site.title }}&trade; | All Rights Reserved
       </div>

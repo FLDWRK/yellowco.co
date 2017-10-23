@@ -1,0 +1,49 @@
+.card-deck-blog {
+  .card {
+    border: solid 3px $brand-black;
+    .card-category {
+      font-size: .75rem;
+      color: #9B9B9B;
+      position: absolute;
+      left: 0;
+      right: 0;
+      margin: auto;
+      top: 340px;
+      color: #9B9B9B;
+      mark {
+        background-color: white;
+        padding: .75rem 1rem .5rem;
+        color: #9B9B9B;
+      }
+    }
+    .card-title {
+      font-size: 1.5rem;
+      line-height: 1.25;
+    }
+    @include media-breakpoint-up(lg) {
+      flex-basis: calc(33.3333% - 30px);
+      max-width: calc(33.3333% - 30px);
+    }
+    @include media-breakpoint-only(md) {
+      flex-basis: calc(50% - 30px);
+      max-width: calc(50% - 30px);
+      .card-category {
+        top: 365px;
+      }
+    }
+    @include media-breakpoint-only(sm) {
+      flex-basis: calc(50% - 30px);
+      max-width: calc(50% - 30px);
+      .card-category {
+        top: 282px;
+      }
+    }
+    @include media-breakpoint-down(xs) {
+      flex-basis: 100%;
+      max-width: 100%;
+    }
+  }
+  .card:nth-child(2) {
+    margin-right: 0;
+  }
+}

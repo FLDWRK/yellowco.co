@@ -55,20 +55,22 @@ layout: site
     </div>
   </div>
   <div class="row justify-content-center mb-4">
-    <div class="col-12 col-lg-10 card-deck">
-      {% for post in site.posts limit:3 %}
-        <div class="card my-1">
-          {% if post.image %}
-            <a href="{{ post.url }}" class="_no-underline">
-              <img src="{{ post.image }}" class="{{ 'card-img-top img-fluid' | image_class }}" data-crop="fill" data-gravity="{{ post.image_transformations.gravity | default:'faces:center'}}">
-            </a>
-          {% endif %}
-          <div class="card-block text-center">
-            <h6 class="card-category"><mark>{{ post.category }}</mark></h6>
-            <h2 class="card-title"><a href="{{ post.url }}" class="_no-underline">{{ post.title }}</a></h2>
+    <div class="col-12 col-lg-12 col-xl-10 ppx-0">
+      <div class="card-deck card-deck-blog justify-content-center">
+        {% for post in site.posts limit:3 %}
+          <div class="card my-2">
+            {% if post.image %}
+              <a href="{{ post.url }}" class="_no-underline">
+                <img src="{{ post.image }}" class="card-img-top img-fluid" data-crop="fill" data-rjs="2">
+              </a>
+            {% endif %}
+            <div class="card-block text-center">
+              <h6 class="card-category"><mark>{{ post.category }}</mark></h6>
+              <h2 class="card-title"><a href="{{ post.url }}" class="_no-underline">{{ post.title }}</a></h2>
+            </div>
           </div>
-        </div>
-      {% endfor %}
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>

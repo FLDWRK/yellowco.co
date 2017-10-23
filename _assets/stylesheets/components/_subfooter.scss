@@ -1,3 +1,14 @@
 .subfooter {
   color: $brand-black;
+  a {
+    .card.card-primary {
+      opacity: 1;
+    }
+  }
+  a:hover {
+    text-decoration: none;
+    .card.card-primary {
+      opacity: .75;    
+    }
+  }
 }

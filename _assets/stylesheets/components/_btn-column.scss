@@ -1,0 +1,12 @@
+.btn-column {
+  .icon {
+    &.icon-xxl svg {
+      width: 9rem; height: 5.3rem;
+    }
+  }
+}
+@include media-breakpoint-down(md) {
+  .btn-column {
+    .icon.icon-xxl svg { width: 7rem; height: 4.8rem; }
+  }
+}
