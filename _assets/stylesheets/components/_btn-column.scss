@@ -3,6 +3,8 @@
     &.icon-xxl svg {
       width: 9rem; height: 5.3rem;
     }
+    [stroke='#000'] { stroke: $brand-primary; }
+    [fill='#000'] { fill: $brand-primary; }
   }
 }
 @include media-breakpoint-down(md) {

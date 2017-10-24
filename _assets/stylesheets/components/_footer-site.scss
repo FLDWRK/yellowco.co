@@ -5,9 +5,22 @@
   .newsletter {
     .form-control {
       border-color: $brand-black;
+      padding-top: .7rem;
+      padding-bottom: .70rem;
     }
     input {
       width: 70%;
+    }
+    @include media-breakpoint-down(lg) {
+      input {
+        width: 60%;
+      }
+    }
+    @include media-breakpoint-down(xs) {
+      input {
+        width: 65%;
+        margin-bottom: 0;
+      }
     }
   }
   .email-yellow {

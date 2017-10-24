@@ -1,0 +1,56 @@
+---
+layout: site
+title: Membership
+banners:
+- link: "/membership"
+  image: "/assets/images/banner-membership-lg.jpg"
+sm-banners:
+- link: "/membership"
+  image: "/assets/images/banner-membership-sm.jpg"
+details:
+- icon: smiley
+  title: Resources
+  text: "Have access to our private Facebook group &amp; Slack channel where we host encouraging weekly chats and monthly webcasts. Binge watch past conference speakers and download worksheets aimed at helping you become an agent of good."
+- icon: smiley
+  title: Gatherings
+  text: "Connect with like-minded women in 16 city chapters across the nation – and the world! Not near a city chapter? No problem. We offer a digital chapter so you can be part of the movement from anywhere."
+- icon: smiley
+  title: Workbook
+  text: "With content like a magazine and exercises like a workbook, each packet delivered by snail mail includes a do-good challenge, discounts to do-good products and space for personal reflection and growth."
+---
+
+<!-- BANNER -->
+<div class="mb-2 mb-lg-5">
+  <div class="fotorama page-banner hidden-sm-down pt-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+    {% for banner in page.banners %}
+      <div data-img="{{ banner.image }}" class="link" data-rjs="2">
+        <a href="{{ banner.link }}" class="_no-underline"></a>
+      </div>
+    {% endfor %}
+  </div>
+  <div class="fotorama hidden-md-up pt-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+    {% for sm-banner in page.sm-banners %}
+      <div data-img="{{ sm-banner.image }}" class="link" data-rjs="2">
+        <a href="{{ sm-banner.link }}" class="_no-underline"></a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- WHAT YOU GET -->
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <h2 class="mb-5">What you get</h2>
+      <div class="row">
+        {% for detail in page.details %}
+        <div class="col-12 col-sm-4 px-4">
+          {% include icon.html name=detail.icon classes="icon-xxl" %}
+          <h6 class="mt-2">{{ detail.title }}</h6>
+          {{ detail.text | markdownify }}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
