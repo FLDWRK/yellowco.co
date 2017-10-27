@@ -42,7 +42,7 @@ details:
   <div class="row">
     <div class="col text-center">
       <h2 class="mb-5">What you get</h2>
-      <div class="row">
+      <div class="row mb-3">
         {% for detail in page.details %}
         <div class="col-12 col-sm-4 px-4">
           {% include icon.html name=detail.icon classes="icon-xxl" %}
@@ -50,6 +50,121 @@ details:
           {{ detail.text | markdownify }}
         </div>
         {% endfor %}
+      </div>
+    </div>
+  </div>
+  <div class="btn-rule">
+    <div class="row justify-content-center">
+      <div class="col col-sm-6 col-md-6 col-lg-4">
+        <form action="https://members.yellowco.co/">
+            <button type="submit" class="btn btn-primary btn-lg btn-block"/>Get Started</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- IMPACT CALLOUT -->
+<div class="bg-faded py-5 my-3">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        image and arrow
+      </div>
+      <div class="col">
+        <p>
+          Your monthly membership not only send you goodies but contributes to benefit humankind. Your membership helps Yellow employ youths who are transitioning out of foster care, fund sex-trafficking rescue operations, and allows Yellow to support other initiatives taking place across the world!
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- SUBSCRIBE CHECKLIST -->
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <h2>Subscribe today</h2>
+      <h2 class="display-1">$33/mo</h2>
+      <p>Questions? <a href="#faqs">Read our FAQs</a></p>
+    </div>
+    <div class="col-12">
+      <ul>
+        <li>Free shipping in the US</li>
+        <li>Cancel anytime, hassle free</li>
+        <li>Exclusive ticket prices for annual conference and workshops</li>
+        <li>Discounts to partnering do-good resources and products</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- FAQ -->
+<div class="container my-3">
+  <div class="row justify-content-center">
+    <div class="col-12 col-lg-10 col-xl-9">
+      <h2 class="text-center mb-2">Membership FAQ</h2>
+      <div id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="card">
+          <div class="card-header" role="tab" id="headingOne">
+            <p class="mb-0">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" class="accordion-toggle">
+                Who is Yellow Co.?
+              </a>
+            </p>
+          </div>
+          <div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne">
+            <div class="card-block">
+              We are a community of women passionate about living creatively and bravely as Agents of Good!
+              <br /><br />
+              Our members stay connected with each other, growing and doing good, via our monthly membership subscription including digital resources, monthly chapter gatherings and our private Facebook group and Slack channel. We rally together once a year in Los Angeles for the Yellow Conference!
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" role="tab" id="headingTwo">
+            <p class="mb-0">
+              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                What is Yellow membership?
+              </a>
+            </p>
+          </div>
+          <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div class="card-block">
+              Yellow membership is a $33.00, monthly subscription connecting creative, entrepreneurial women that want to use their gifts, skills and talents to advance the common good. Our monthly subscription includes digital resources, monthly chapter gatherings and our private Facebook group and Slack channel. Attending the annual Yellow Conference is an additional fee.
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" role="tab" id="headingThree">
+            <p class="mb-0">
+              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                How do I become a Yellow member?
+              </a>
+            </p>
+          </div>
+          <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
+            <div class="card-block">
+              Head over to <a href="https://members.yellowco.co/signup">members.yellowco.co/signup</a> to create an account, enter your payment information and that's it! You'll instantly have access to our digital resources and online community. We'd love to have you as a member!
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" role="tab" id="headingFour">
+            <p class="mb-0">
+              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
+                What do I get as a Yellow member?
+              </a>
+            </p>
+          </div>
+          <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour">
+            <div class="card-block">
+              You’ll have access to online resources and amazing community both online and in person (for those who are located near an in person chapter). Plus a monthly packet of Yellow goodness delivered to your doorstep.
+
+              Together as creative, entrepreneurial women, we will be using the power of the collective to change the world. Your membership helps Yellow employ youths who are transitioning out of foster care, it helps fund sex-trafficking rescue operations, and it allows Yellow to support other life-changing initiatives taking place across the world!
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>

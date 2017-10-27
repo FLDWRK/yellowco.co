@@ -8,3 +8,13 @@ button.btn {
   color: $white;
   text-shadow: none !important;
 }
+.btn-rule {
+  border-top: 1px solid $brand-black;
+  margin-top: 2.75rem;
+  text-align: center;
+  form {
+    background: $white;
+    padding: 0 1rem;
+    transform: translateY(-62%);
+  }
+}
