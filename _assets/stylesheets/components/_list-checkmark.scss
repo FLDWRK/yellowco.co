@@ -1,0 +1,19 @@
+.list-checkmark {
+  margin: 1.5em 0;
+  padding-left: 2rem;
+  li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    margin: 1em;
+  }
+  li:before {
+    font-family: 'FontAwesome';
+    font-size: 1.5rem;
+    line-height: 1;
+    content: '';
+    float: left;
+    margin-left: -1.8em;
+    color: $gray;
+  }
+}
