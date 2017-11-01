@@ -1,0 +1,22 @@
+.card-price {
+  margin-bottom: 1rem;
+  .card-block {
+    padding: 2rem 1rem;
+    .card-text {
+      font-family: 'Playfair Display';
+      font-style: italic;
+      font-size: 2.25rem;
+      line-height: .5;
+      padding-bottom: 1rem;
+      .price {
+        font-size: 4.25rem;
+      }
+      .price:before {
+        content: '$';
+        font-size: 2.25rem;
+        position: relative;
+        top: -1rem;
+      }
+    }
+  }
+}
