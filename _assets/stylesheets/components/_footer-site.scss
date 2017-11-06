@@ -3,6 +3,9 @@
   padding-top: 3rem;
   padding-bottom: 1rem;
   .newsletter {
+    h3 {
+      font-size: 2rem;
+    }
     .form-control {
       border-color: $brand-black;
       padding-top: .7rem;
@@ -23,9 +26,12 @@
       }
     }
   }
-  .email-yellow {
+  h3.email-yellow {
     font-size: 1.5rem;
     letter-spacing: 1px;
+    &:hover {
+      text-decoration: none;
+    }
   }
   hr {
     border-top: 1px solid $brand-black;

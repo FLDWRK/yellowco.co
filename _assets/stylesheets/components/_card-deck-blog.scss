@@ -19,6 +19,12 @@
     .card-title {
       font-size: 1.5rem;
       line-height: 1.25;
+      a {
+        text-decoration: none;
+      }
+      a:hover {
+        border-bottom: 2px solid $brand-primary;
+      }
     }
     @include media-breakpoint-up(lg) {
       flex-basis: calc(33.3333% - 30px);
