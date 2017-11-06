@@ -8,6 +8,9 @@ button.btn {
   color: $white;
   text-shadow: none !important;
 }
+.btn.btn-primary {
+  border-bottom-color: $brand-black;
+}
 .btn-rule {
   border-top: 1px solid $brand-black;
   margin-top: 2.75rem;
