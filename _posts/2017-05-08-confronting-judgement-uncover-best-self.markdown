@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: CONFRONTING OUR INNER JUDGEMENT TO UNCOVER OUR BEST SELF
+author:
+  display_name: admin
+  login: hannasnyder
+  email: hanna@yellowco.co
+  url: ''
+author_login: hannasnyder
+author_email: hanna@yellowco.co
+wordpress_id: 8518
+wordpress_url: http://yellowco.co/?p=8518
+date: '2017-05-08 04:00:20 -0700'
+date_gmt: '2017-05-08 11:00:20 -0700'
+categories:
+- Wander
+tags:
+- day job
+- freelance
+- self employment
+- freelancer
+- entrepreneur
+- women
+- creative women
+- dream job
+- women entrepreneurs
+- entrepreneurs
+- creative entrepreneurs
+- running a business
+- judgement
+- judgmental thoughts
+- judgmental
+- confrontation
+comments: []
+---
+<p><span style="font-weight: 400;">Who am I, really? It&rsquo;s a question I&rsquo;ve put a lot of thought into over the past year. Every day, we are in the process of becoming ourselves. Each choice we make (about clothes, or business, or relationships, or food) is an unconscious decision about who we are not only on that day, but who we want to be in life as a whole. Deciding this is not a linear path, but a wandering one - full of detours. </span></p>
+<p><span style="font-weight: 400;">Like everyone else on the path to self discovery, my mind is regularly filled with discoveries and occasional judgements: about the virtue of the choices other people make, about values I accept or reject, and, most often, about myself.</span></p>
+<h3><strong>I applaud myself when I make a choice I consider good, yet agonize and judge myself as inferior or incapable when I make the slightest mistake.</strong></h3><br />
+<span style="font-weight: 400;">While I can recognize that those icky judgmental thoughts crossing my mind aren&rsquo;t helpful, I do accept that they&rsquo;re likely unavoidable. The good news is that in trying to understand the origins of my judgements, I&rsquo;ve learned a few valuable practices to&nbsp;decode and transform them.</span></p>
+<p><span style="font-weight: 400;">By confronting my&nbsp;thoughts about both myself and others, I noticed that the judgement within them is always worth exploring. I started asking myself <em>why</em> I felt judgmental, frustrated, or jealous of what was&nbsp;going on around me. Did I think what I was trying to do was impossible for me to accomplish? Was I unfairly assuming that someone who behaved in a&nbsp;rude way was always a rude person? Through the encouragement of my own coach and the coaching community, I started to observe the patterns that arose within these&nbsp;thoughts. I then used them as guides to direct my own personal development, rather than accepting them as truth.</span></p>
+<p><span style="font-weight: 400;">While examining my&nbsp;judgements, I also began to realize I was much more focused on determining who I am&nbsp;<em>not,</em> than who I am. On the surface, this might not sound like a big deal - but the consequences were&nbsp;huge.</span></p>
+<h3><strong>When you&rsquo;re 100% focused on the person you don&rsquo;t want to be, you lose&nbsp;the mental energy and creativity to visualize your ideal future.</strong></h3></p>
+<h3><strong><img class="aligncenter wp-image-8524 size-full" title="CONFRONTING OUR INNER JUDGEMENT TO UNCOVER OUR BEST SELF - THE YELLOW ROOM" src="http://yellowco.co/wp-content/uploads/2017/05/GraceYoon031.jpg" alt="CONFRONTING OUR INNER JUDGEMENT TO UNCOVER OUR BEST SELF - THE YELLOW ROOM" width="2400" height="3600" /></strong></h3><br />
+<span style="font-weight: 400;">Each time I thought &ldquo;I&rsquo;m just not good at social media&rdquo;, or &ldquo;I&rsquo;ll never find a career that lights me up&rdquo;, I was creating a new limitation for myself. I <em>could</em> have chosen to devote time focusing on everything&nbsp;I was great at, wanted to learn, or what my ideal career would look and feel like. But, my discouraging&nbsp;thoughts stopped my creativity in its tracks. Now, instead of dwelling on a judgmental thought that holds me back, I always try to shift my focus to life's present possibilities.</span></p>
+<p><span style="font-weight: 400;">Finally, I realized that all judgements have an ulterior motive because they&rsquo;re based in fear. Fear finds a way to almost always take some form. In my work as a life coach, I have seen it show up for people&nbsp;in a wide range of ways - especially when we decide to make changes in our lives. The interesting thing to note here is that fear is incredibly proactive. It&rsquo;s your mind and body&rsquo;s way of protecting you. And that&rsquo;s where judgement comes in - it is fear's voice trying to discourage you early on from stepping outside your box or learning better from others (under the guise of sticking to your &lsquo;values'). When I have a knee jerk, judgmental thought these days, I look for its&nbsp;ulterior motive so I can understand the type of fear causing it, and move past it.</span></p>
+<p><span style="font-weight: 400;">We <em>all</em> experience judgmental thoughts. We compare our journey to others, we doubt our abilities, and we may even internally criticize the actions or&nbsp;choices of people around us.</span></p>
+<h3><span style="font-weight: 400;"><strong>The key to weakening the control of these thoughts is not to ignore them, but to seek understanding.</strong></span></h3><br />
+<span style="font-weight: 400;">No judgmental thought is ever the undeniable truth - it is always a reflection of our own assumptions, and the personal development path we&rsquo;re walking on. But - if we can <em>use</em> those thoughts to learn about ourselves, reframe them in possibility, and identify their ulterior motive,&nbsp;they can actually become a tool to bring us to our best, and truest, self.</span></p>
+<p><em>Photos by: <a href="http://www.greyandelle.com/" target="_blank" rel="noopener noreferrer">Grey &amp; Elle</a></em></p>
+<p><a href="http://thewellsupportedwoman.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-8400 size-full" src="http://yellowco.co/wp-content/uploads/2017/04/LAURA-WELDY-BIO.jpg" alt="LAURA WELDY BIO" width="2699" height="980" /></a></p>

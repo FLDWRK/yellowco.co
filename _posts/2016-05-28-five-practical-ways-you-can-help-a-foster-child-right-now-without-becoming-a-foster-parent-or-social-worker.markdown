@@ -1,0 +1,58 @@
+---
+layout: post
+status: publish
+published: true
+title: FIVE PRACTICAL WAYS YOU CAN HELP A FOSTER CHILD RIGHT NOW (WITHOUT BECOMING
+  A FOSTER PARENT OR SOCIAL WORKER)
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 5626
+wordpress_url: http://yellowconference.com/?p=5626
+date: '2016-05-28 04:00:33 -0700'
+date_gmt: '2016-05-28 11:00:33 -0700'
+categories:
+- Advice
+- The Activist
+- Team Members
+- GRIT
+tags: []
+comments:
+- id: 4125
+  author: Meg Long
+  author_email: megmarylong@gmail.com
+  author_url: http://www.meglongcreative.com
+  date: '2016-06-01 15:43:00 -0700'
+  date_gmt: '2016-06-01 22:43:00 -0700'
+  content: SUCH A GREAT ARTICLE! Thank you Sally!!!
+- id: 4126
+  author: Yellow Conference
+  author_email: heygirl@yellowconference.com
+  author_url: http://yellowconference.com/
+  date: '2016-06-01 16:18:00 -0700'
+  date_gmt: '2016-06-01 23:18:00 -0700'
+  content: Isn't it great?? Sally is awesome :)
+---
+<h4><em><a href="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-28-copy.jpg"><img class="aligncenter size-full wp-image-5635" src="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-28-copy.jpg" alt="ValerieDenisePhotos-28 copy" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-38-copy.jpg"><br />
+</a>"I could never be a foster parent, it would be too hard to say goodbye."<br />
+</em><em>"I could never be a social worker; it would just be way too sad."&nbsp;</em></h4><br />
+A lot of people are under the misconception that the only way to actually help a child in the foster care system is to be a foster parent, or receive your MSW. While I'm huge (seriously, if you have a desire, please go for it) fan of both, and the need is so real there, in honor of the final days of Foster Care Awareness Month, we wanted to give you some practical resources to check out and see how <strong>you (yes, you...Seriously) </strong>can positively impact a foster child's life:</p>
+<ol>
+<li><strong>Become a CASA.</strong><br />
+<a href="http://www.casaforchildren.org/site/c.mtJSJ7MPIsE/b.5301303/k.6FB1/About_Us__CASA_for_Children.htm" target="_blank">Court Appointed Special Advocates</a> are volunteers who stand in the gap for foster children that could otherwise be lost in all the legal and political sides of the system. CASAs are given the opportunity to be the child's voice in ways that the social worker, foster parent, and attorney cannot through intentional mentoring and quality time directly with the child, and actually listening to their wants and needs without a lean towards the foster or birth parent. While the attorneys and social workers are juggling reunification, birth parent rights, and finding the child a safe, permanent housing situation, the CASA is able to be completely honed in the child. While most children are too scared or intimidated to go to court and speak up for themselves, CASA gets to be their voice&nbsp;<strong><em>in court </em></strong>(read: <em>awesome!!</em>)<strong><em>!</em></strong>There is a <em>major&nbsp;need</em>&nbsp;for more CASA's in California! We have first hand seen the impact a CASA can make with our 17 year old fost-adopted son, and are now on a waiting list for our other two foster sons.&nbsp;<a href="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-3-copy.jpg"><img class="aligncenter size-full wp-image-5627" src="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-3-copy.jpg" alt="ValerieDenisePhotos-3 copy" width="700" height="470" /></a></li></p>
+<li><strong>Check out <a href="http://www.advokids.org/" target="_blank">Advokids</a> and get educated.</strong><br />
+<em><strong>Or maybe even donate if you're interested!</strong></em> Advokids is a free, legal hotline for foster youth and foster parents to use as a resource. When the legal side of it can seem overwhelming, they bring it back home and present all the jargon in easy, relatable terms, with action steps to empower the caller to defend the child. There's also a ton on their website about the legal process, the juvenile system (read: juvenile hall and juvenile court are two very different things), attachment theory, and the need for a child to be in a safe, nurturing environment. There is a ton to read on their site to educate yourself and gain a little more insight and understanding into what goes into the foster care system.&nbsp;<a href="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-15.jpg"><img class="aligncenter size-full wp-image-5630" src="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-15.jpg" alt="ValerieDenisePhotos-15" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-17.jpg"><img class="aligncenter size-full wp-image-5629" src="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-17.jpg" alt="ValerieDenisePhotos-17" width="700" height="531" /></a></li></p>
+<li><strong>Check out these Instagrams...</strong><br />
+<a href="https://www.instagram.com/emilywrecker/?hl=en" target="_blank">Emily Wrecker</a> and <a href="https://www.instagram.com/designatedstrangers/" target="_blank">Designated Strangers</a>&nbsp;are two very different accounts of foster care journeys from the perspective of two very amazing mamas. And they are both artistic and fun to scroll through (bonus!). Don't miss these guys-they are a shining example of what it means to use your gifts, skills, and influence for the greater good.</li></p>
+<li><strong>Listen to <a href="http://www.thearchibaldproject.com/podcast/" target="_blank">this podcast.</a></strong><br />
+Podcast junkie? Consider taking the next few days or weeks on your commute to listen to this series by the <a href="http://www.thearchibaldproject.com/start-here-1/" target="_blank">Archibald Project,</a> a non-profit that uses storytelling and photography to impact the world orphan crisis. They have made major dents in the need for adoption through their unique ability to bring together art and justice, and are taking the entire month of both May and June to focus on the U.S. foster care system. &nbsp;<a href="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-27-copy.jpg"><img class="aligncenter size-full wp-image-5637" src="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-27-copy.jpg" alt="ValerieDenisePhotos-27 copy" width="700" height="467" /></a></li></p>
+<li><strong>Consider what you have to offer...<br />
+</strong>What are you good at? What is your talent or career? Are you a financial advisor? Great! There is a growing population of emancipated youth (kids that have outgrown the system without getting adopted) that need guidance in finances. Do you love kids? Offer a foster parent you know once a month or once a week babysitting with zero strings attached. Are you an artist? Ask a local children's home how you can bring more beauty into their space. Maybe you work for a retailer that has excess clothing or shoes that can be given to a local children's home...OR you're a gifted, caring therapist who just doesn't want to accept Cal Optima yet...I'm begging you. We <strong>need&nbsp;</strong>good therapists for these kids!&nbsp;What do you have to offer? Get creative and do something. <a href="http://yellowconference.com/2015/12/08/refinenotdefine/" target="_blank">Here's a post</a> on how I learned to use writing to advocate for our foster sons on my blog, <a href="http://lettersfromamister.tumblr.com/" target="_blank">Letters From A Mister.</a>&nbsp;There are a limitless amount of ways you can impact the orphan crisis in America! My husband and I love being parents to our Cubs (as we've grown to call them) but understand that, because of circumstance or heart, there are some people who cannot foster or adopt. Take note from our photog pal Valerie <em><a href="https://www.instagram.com/valeriedenisephotos/" target="_blank">(Valerie Denise Photos)</a></em> who uses her amazing skill to capture precious seasons of adoption and foster care.Foster care is overwhelming in the need, and the lack of knowing how and if and when to help. With 20,000 cases <em>in Los Angeles alone,&nbsp;</em><a href="http://kidsdata.org/topic/20/fostercare/table#fmt=16&amp;loc=2,127,347,1763,331,348,336,171,321,345,357,332,324,369,358,362,360,337,327,364,356,217,353,328,354,323,352,320,339,334,365,343,330,367,344,355,366,368,265,349,361,4,273,59,370,326,333,322,341,338,350,342,329,325,359,351,363,340,335&amp;tf=79&amp;sortColumnId=0&amp;sortType=asc" target="_blank">California has the largest amount of children in the foster care system</a>&nbsp;as of late. It's devastating, and something that is so hard to swallow. Orphans? Here?? Yes, they exist, and they are our kids to take care of. <em><strong>What part can you play in helping a child in the system this month? &nbsp;</strong></em></li><br />
+</ol><br />
+<em>Huge thanks to <a href="http://www.valeriedenisephotos.com/" target="_blank">Valerie Denise Photos</a> for this special photoshoot capturing our foster care journey.</em></p>
+<p><a href="http://lettersfromamister.tumblr.com/" target="_blank"><img class="aligncenter size-full wp-image-4705" src="http://yellowconference.com/wp-content/uploads/2015/12/sallykim.jpg" alt="sally kim for the yellow co. blog" width="700" height="264" /></a></p>
+<p>&nbsp;</p>

@@ -1,0 +1,22 @@
+---
+layout: acf-field
+status: publish
+published: true
+title: Hide Sidebar
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+excerpt: hide_sidebar
+wordpress_id: 8058
+wordpress_url: http://yellowco.co/?post_type=acf-field&p=8058
+date: '2017-02-28 01:50:45 -0800'
+date_gmt: '2017-02-28 09:50:45 -0800'
+categories: []
+tags: []
+comments: []
+---
+<p>a:7:{s:4:"type";s:10:"true_false";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:7:"message";s:0:"";s:13:"default_value";i:0;}</p>

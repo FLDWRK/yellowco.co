@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: CHASING DREAMS WHILE WAITING IN LINE
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 6929
+wordpress_url: http://yellowconference.com/?p=6929
+date: '2016-09-20 04:00:07 -0700'
+date_gmt: '2016-09-20 11:00:07 -0700'
+categories:
+- "#bloomyellow"
+- VALOR
+tags: []
+comments: []
+---
+<p><span style="font-weight: 400;">Ten years ago, I was about to get married; I was 23. I had just finished college, started my career in the mental health industry, and I was eager, enthusiastic,&nbsp;and optimistic about all the things I was going to conquer in my adult life. I had </span><i><span style="font-weight: 400;">dreams</span></i><span style="font-weight: 400;">, and nothing was going to stop me.&nbsp;</span></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/09/Chasing-Dreams1.jpg"><img class="aligncenter size-full wp-image-6934" src="http://yellowconference.com/wp-content/uploads/2016/09/Chasing-Dreams1.jpg" alt="chasing-dreams" width="700" height="1107" /></a></p>
+<p><span style="font-weight: 400;">There's just something about being in your early twenties and hopefully looking ahead to your adult self. The dream of who you'll become is something like looking into a bakery window and spotting that perfect cupcake. It's robust, fluffy, colorful, and it offers so much goodness. So much sweetness. Your mouth waters just thinking of the hope of gobbling it up and making it yours.&nbsp;</span></p>
+<p><span style="font-weight: 400;">And then you take all the steps to get into the bakery to acquire it, but there's a line. </span><i><span style="font-weight: 400;">A massive one</span></i><span style="font-weight: 400;">. As you're standing there, stuff starts to happen. The cash register breaks down. A woman loudly complains to someone on her phone and it's irritating. The guy behind you spills his coffee on your shoes.&nbsp;As you wait, it seems like everyone in front of you is walking out with their bakery items with huge smiles on their faces,&nbsp;and you wonder if your perfect cupcake will even be there when it&rsquo;s your turn.&nbsp;You wait there for so long that you begin to wonder if you should just leave, and&nbsp;</span><i><span style="font-weight: 400;">Hey!&nbsp;Doesn't that croissant look really good too</span></i><span style="font-weight: 400;">?</span></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1932.jpg"><img class="aligncenter wp-image-6936" src="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1932-1024x683.jpg" alt="img_1932" width="700" height="467" /></a></p>
+<p><span style="font-weight: 400;">That&rsquo;s the thing about dreams&mdash;they are like, you know, actual </span><i><span style="font-weight: 400;">dreams</span></i><span style="font-weight: 400;">.</span></p>
+<h2><em><span style="font-weight: 400;">When we&rsquo;re ambitiously closing our eyes and envisioning our goals, we aren&rsquo;t picturing the line it takes to achieve them; we&rsquo;re picturing the sweet stuff at the end.</span></em></h2><br />
+<span style="font-weight: 400;">How we picture our dreams isn&rsquo;t entirely rooted in reality, and we wouldn&rsquo;t want it to be anyway because then they wouldn&rsquo;t be dreams. They wouldn&rsquo;t be worth chasing. </span></p>
+<p><span style="font-weight: 400;">Reality inevitably comes, and along with it comes difficulty, challenge, fear, rejection, and insecurity. While we struggle against our realities, time inevitably goes by, and we may start to dream new dreams that fill new needs as they arise. That cupcake envisioned at the beginning of the journey-- the one that made our mouths water and seemed to be the only thing that mattered-- it may not look the same at the end of the line. </span><i><span style="font-weight: 400;">We wonder if we really want it to be the same anymore anyway</span></i><span style="font-weight: 400;">.&nbsp;</span></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1969.jpg"><img class="aligncenter wp-image-6938" src="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1969.jpg" alt="img_1969" width="700" height="1050" /></a></p>
+<p><span style="font-weight: 400;">This has been my experience with acquiring my dreams. Early in my family and career life, I dreamed rich, hearty dreams of who I wanted to become and what I wanted to be known for. Yet as I have grown older, I have faced obstacles and have been asked to wait with no promise of the outcome I got in line for in the first place. For a long time I was bitter about </span><i><span style="font-weight: 400;">my</span></i><span style="font-weight: 400;"> line, realizing I was spending a lot more time in it than I expected, and the hurdles I faced changed me. I was no longer hopeful, optimistic, and pursuing my cupcake-like dreams, I was just standing in a line feeling defeated.</span></p>
+<p><span style="font-weight: 400;">At some point I took a good long look at myself and realized I had grown deeply unhappy. Coming to terms with my sour outlook, I learned something. When we come up against obstacles, as we inevitably will, we have a choice-- We can get angry and bitter and allow them to defeat us, or we can face them with grace and humility, allowing them to be a beginning of a series of lessons.</span></p>
+<h2><em><span style="font-weight: 400;">Choosing to be a victim of the line offers nothing good&mdash;no sweet taste of victory when the prize is won. </span></em></h2></p>
+<h2><em><span style="font-weight: 400;">How</span><span style="font-weight: 400;">&nbsp;we narrow down and acquire our dreams&nbsp;</span><span style="font-weight: 400;">matters.</span><span style="font-weight: 400;">&nbsp;All those challenges we face, all that time spent&mdash;those are the things that actually shape us.</span></em></h2><br />
+<a href="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1840.jpg"><img class="aligncenter wp-image-6939" src="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1840.jpg" alt="img_1840" width="700" height="467" /></a></p>
+<p><span style="font-weight: 400;">As I&rsquo;ve started to work on changing how I view my line, I&rsquo;ve become much happier. I am learning to see obstacles and mistakes as learning opportunities instead of disappointments. My dream as I envisioned it might have been the end goal at first, but the line to reach that goal&nbsp;</span><i><span style="font-weight: 400;">is where I actually live my life</span></i><span style="font-weight: 400;">,&nbsp;and how I exist in that line matters more than acquiring the end goal anyway.&nbsp;</span></p>
+<p><span style="font-weight: 400;">For all of us, there are no guarantees that the goals we had when we started dreaming will still be there when it&rsquo;s our turn to grasp them. What are we going to do with the line we are in </span><i><span style="font-weight: 400;">now</span></i><span style="font-weight: 400;">? How are we going to handle it? I know I&rsquo;m going to choose to accept my line and the challenges that come with it.</span></p>
+<h2><em><span style="font-weight: 400;">I&rsquo;m going to look around, see a beautiful bakery and the awe-inspiring people in it, and choose to see how overcoming the obstacles in my line can become the dream in and of itself.</span></em></h2></p>
+<h2>
+<script src="https://yellowcollective.leadpages.co/leadbox-1474327197.js" type="text/javascript" data-leadbox="14275ef73f72a2:17a2246bc746dc" data-url="https://yellowcollective.leadpages.co/leadbox/14275ef73f72a2%3A17a2246bc746dc/5739407210446848/" data-config="%7B%7D"></script></h2><br />
+<a href="http://www.thebraveryboard.com/" target="_blank"><img class="aligncenter size-full wp-image-5105" src="http://yellowconference.com/wp-content/uploads/2016/03/michelle-houghton.jpg" alt="michelle houghton" width="700" height="264" /></a></p>
+<p><img src="https://lh3.googleusercontent.com/PLgiNHFRVmFsLP41efysqdUJ9SZ-AcJD3c5aX2chYUhgBTYI52sHFjId--lSB85ZE8liKk_tGGuQ32hJHUmjbw=s0" alt="" /></p>

@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: THE THREE QUESTIONS YOU MUST ASK BEFORE TAKING ON A PROJECT FOR FREE
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 5290
+wordpress_url: http://yellowconference.com/?p=5290
+date: '2016-04-19 04:00:33 -0700'
+date_gmt: '2016-04-19 11:00:33 -0700'
+categories:
+- Advice
+- The Solopreneur
+- GRIT
+tags: []
+comments:
+- id: 4114
+  author: 'Must-Reads for Creatives: Constraint vs. Freedom - In Tandem'
+  author_email: ''
+  author_url: http://www.createintandem.com/must-reads-creatives-constraint-vs-freedom/
+  date: '2016-04-24 07:36:47 -0700'
+  date_gmt: '2016-04-24 14:36:47 -0700'
+  content: "[&#8230;] The Three Questions You Must Ask Before Taking on a Project
+    for Free >>> [&#8230;]"
+---
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/04/2062928.jpg"><img class="aligncenter size-full wp-image-5291" src="http://yellowconference.com/wp-content/uploads/2016/04/2062928.jpg" alt="2062928" width="700" height="467" /></a>I recall one time being asked if I could drive an hour away to document an event for free because the photographer bailed. &ldquo;We can&rsquo;t pay you, but you would get as much free coffee as you want!&rdquo; I was told. As much as I love coffee, the event was at nighttime so... how many coffees would I have to drink exactly in order for this to be worth it to me and not feel sick by the end of the night?</p>
+<p>I weighed my pros and cons. Networking opportunities, photos I would probably never use again&hellip;realistically, they would probably tag me once or twice-not giving me substantial exposure&hellip;editing time, coffee, and maybe a goodie-bag. Okay... so I asked, <em>&ldquo;Could my gas at least be covered?&rdquo;</em></p>
+<p>As a freelancer, you&rsquo;ve probably been here and probably still come into contact with this. When building my business, I knew I would have to do a lot of work for free just to build a portfolio and get some news coverage, by news, I mean a facebook newsfeed.<a href="http://yellowconference.com/wp-content/uploads/2016/04/6448302_orig.jpg"><img class="aligncenter size-full wp-image-5294" src="http://yellowconference.com/wp-content/uploads/2016/04/6448302_orig.jpg" alt="6448302_orig" width="700" height="466" /></a></p>
+<p>In my case, photography is competitive and if you don&rsquo;t have work to bust out, you won&rsquo;t stick out and it won&rsquo;t be sustainable. However, I knew I didn&rsquo;t want to work for free for very long because I knew that if I wanted to succeed, I needed to be confident in my work and hopefully others would see that and value it as well. If you&rsquo;re in a creative business like me, you know that asking for people to pay you for something you love to do is hard enough as it is. You feel inferior to those who have been doing it for longer than you, but <em>you</em> know your potential.</p>
+<p>In reference to my experience above, the event coordinator told me that couldn&rsquo;t cover my gas because they exceeded budget for the party. So, I said no. The wheels in my mind kept turning for quite awhile thinking about how they couldn&rsquo;t spare $30 for me to drive all that way, but I realized that I couldn&rsquo;t let myself and my time be taken advantage of.<a href="http://yellowconference.com/wp-content/uploads/2016/04/9988173_orig.jpg"><img class="aligncenter size-full wp-image-5292" src="http://yellowconference.com/wp-content/uploads/2016/04/9988173_orig.jpg" alt="9988173_orig" width="700" height="466" /></a>I have had a really interesting track record concerning free work and collaborations: times I&rsquo;ve had to walk away, times where I saw how it would benefit me, and times where I thought, hey, &ldquo;this is for a good cause, they&rsquo;ll really appreciate it.&rdquo; Crazy stories, fails, and success stories aside, I want to stress how important it is to know your worth. Ask yourself these questions.</p>
+<h2>IS IT WORTH MY TIME?</h2><br />
+If you&rsquo;re like me, you get so caught it up in doing what you love that you have a hard time saying no. However, are you spending too much time on an unpaid project that you begin to loathe it? This isn&rsquo;t a good use of your time and your time is very valuable. What could you be using this time for? Marketing? Social media? Website updates? I&rsquo;ve found that I don&rsquo;t use a lot of the free work I&rsquo;ve done after I&rsquo;ve submitted it. I always think I&rsquo;m going to blog it later or use it for something, but compared to work I&rsquo;m very passionate about, it sits on a hard drive never to be seen again. Before saying yes to everything, think about how it will benefit you, and if you don&rsquo;t have any new projects to work on, use that free time to increase marketing.</p>
+<h2>IS THIS MY IDEAL CLIENT?</h2><br />
+I was once told, <em>book more of what you want to book.</em> In other words, people will see the work you put out and say, &ldquo;Hey, I want that; I think I fit that.&rdquo; Photography wise, my ideal client is someone who trusts me with unexpected location ideas, who is willing to follow a specific stylistic vision, and is definitely really kind, genuine, and easy-going. If we don&rsquo;t click, I know my productivity will be hindered: both emotionally and physically. I tend to tune-out and do something else if I don&rsquo;t feel passionate about my images or if they&rsquo;re not as good as they could have been. Also, if the clients and I didn&rsquo;t have a very good connection, you&rsquo;ll less likely want to go over the moon to make them happy. This isn&rsquo;t saying that you should be picking and choosing clients or discriminating, but rather, learn to be aware that the people you work with will continue to inspire future work&mdash;either negatively or positively.</p>
+<h2>WHAT ARE YOUR INTENTIONS?</h2><br />
+It&rsquo;s easy to give discounts and do things for free when you want to please people or when you desperately want to book more work. However, I&rsquo;ve realized that usually, people are willing to pay what you ask. Clients don&rsquo;t always want something for free, but they want the greatest quality for the most reasonable price. I&rsquo;ve come to learn that giving discounts and cheaper rates doesn&rsquo;t always mean someone will book. People want to know that they are paying you for the best they can get, so if you believe you are giving it your best and your all, help people to know that by knowing your craft is worth the money.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/04/9867032_orig.jpg"><img class="aligncenter size-full wp-image-5293" src="http://yellowconference.com/wp-content/uploads/2016/04/9867032_orig.jpg" alt="9867032_orig" width="700" height="466" /></a></p>
+<p>In the end, it&rsquo;s up to you to discern what&rsquo;s best for your business. I&rsquo;ve learned so much in the past couple years and I am continuing to do so by improving workflow, working with clients, and collaborating with other artists. The most important thing I&rsquo;ve learned is to be bold and trust myself and my talent, all while maintaining a humble heart and being open to new opportunities to learn and grow.</p>
+<p><em>Photos by <a href="http://andreadavidoc.com/2/category/lifestyle/1.html">Andrea David</a></em></p>
+<p><a href="http://andreadavidoc.com/index.html" target="_blank"><img class="aligncenter size-full wp-image-5295" src="http://yellowconference.com/wp-content/uploads/2016/04/ANDREADAVID.jpg" alt="ANDREADAVID" width="700" height="264" /></a></p>

@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: HOW A PARKING TICKET SHIFTED MY PERSPECTIVE ON THE VALUE OF ENERGY
+author:
+  display_name: admin
+  login: hannasnyder
+  email: hanna@yellowco.co
+  url: ''
+author_login: hannasnyder
+author_email: hanna@yellowco.co
+wordpress_id: 9456
+wordpress_url: http://yellowco.co/?p=9456
+date: '2017-09-04 04:00:56 -0700'
+date_gmt: '2017-09-04 11:00:56 -0700'
+categories:
+- Tension
+tags: []
+comments: []
+---
+<p><span style="font-weight: 400;">This is the story of the best parking ticket I ever got. When you live in LA, getting these&nbsp;is pretty common, but this time&nbsp;was special. This parking ticket left&nbsp;me feeling balanced and weirdly in control of my life.</span></p>
+<p><span style="font-weight: 400;">On my journey as an entrepreneur, there came a point where my business and my day job didn&rsquo;t play nicely together any more. When I first started, I was sneaking my side hustle into my schedule any way I could, but as it&nbsp;grew into a full blown business, it slowly started to outpace my day job. It seemed to happen overnight. I got really burned out, really fast, trying to do everything at once. </span></p>
+<p><span style="font-weight: 400;">On the day of this parking ticket, I woke up before sunrise to exercise, took client calls all morning, manipulated spreadsheets for my day job all afternoon, and then headed over to a friend&rsquo;s house to babysit that night. At the end of the day I was exhausted. I headed home after babysitting and pulled onto my street just a few minutes after midnight. </span></p>
+<p><i><span style="font-weight: 400;">&ldquo;Crap!&rdquo;</span></i><span style="font-weight: 400;"> I thought.</span></p>
+<p><span style="font-weight: 400;">It was Wednesday night. Or technically, very early Thursday morning. In my neighborhood, Thursday is street sweeping day - the day that trucks come by to&nbsp;clean dead leaves off the street, and parking officers write tickets for anyone parked in the vicinity.</span></p>
+<p><span style="font-weight: 400;">So on Wednesday nights I usually have a few options: park in the next neighborhood over and walk the half mile to my building, park on the street and get up at dawn to move my car, or leave my car on the street and risk a $73 ticket&hellip; whether or not the truck actually comes by.</span></p>
+<p><img class="aligncenter size-full wp-image-9466" src="http://yellowco.co/wp-content/uploads/2017/09/040917_American-Weekend_Eileen-Roche_1564-Edit.jpg" alt="HOW A PARKING TICKET SHIFTED MY PERSPECTIVE ON THE VALUE OF ENERGY - THE YELLOW ROOM" width="3861" height="2574" /></p>
+<p><span style="font-weight: 400;">It was past midnight, I was exhausted, and I didn&rsquo;t have the energy to walk the length&nbsp;to my building. But the thought of risking a ticket instantly prompted some bank account guilt.</span></p>
+<p><span style="font-weight: 400;">I put my car in park, and thought about my life - which is always a great idea after midnight.</span></p>
+<h3><strong>Until that moment, I hadn't realized that while I carefully guarded my bank account, I was terrible at protecting&nbsp;two other precious resources: my time and energy. </strong></h3><br />
+<span style="font-weight: 400;">As I sat in the driver&rsquo;s seat, bleary-eyed and waffling on what to do, I realized that there were more currencies in my life than money. There was time, physical energy, mental energy, and emotional energy. These less tangible currencies were actually much tougher to acquire than cash at that moment in my journey. </span></p>
+<p><i><span style="font-weight: 400;">&ldquo;What if I just rolled the dice and risked the parking ticket?&rdquo;</span></i><span style="font-weight: 400;"> I thought to myself.&nbsp;</span></p>
+<p><i><span style="font-weight: 400;">&ldquo;Who do you think you are?&rdquo;</span></i><span style="font-weight: 400;"> my inner critic answered. </span><i><span style="font-weight: 400;">&ldquo;Do you think money just grows on trees?&rdquo;</span></i></p>
+<p><i><span style="font-weight: 400;">&ldquo;Actually, it&rsquo;s paper, so yeah, but that&rsquo;s not the point,&rdquo;</span></i><span style="font-weight: 400;"> I replied. </span><i><span style="font-weight: 400;">&ldquo;The point is that money is energy like anything else, and I get to decide which, and how much, energetic currencies I spend at a given time. I am in charge of that choice.&rdquo;</span></i></p>
+<p><img class="aligncenter size-full wp-image-9467" src="http://yellowco.co/wp-content/uploads/2017/09/040917_American-Weekend_Eileen-Roche_1602.jpg" alt="HOW A PARKING TICKET SHIFTED MY PERSPECTIVE ON THE VALUE OF ENERGY - THE YELLOW ROOM" width="3861" height="2574" /></p>
+<p><span style="font-weight: 400;">I pulled the brake handle and headed into my building. Bring it on, Los Angeles Parking Enforcement!</span></p>
+<p><span style="font-weight: 400;">I realized that just because I don&rsquo;t store time and energy in a bank account, that doesn&rsquo;t mean they less valuable than dollars. Like most beginner entrepreneurs, I took on too much work in order to earn more money, but I was leaking my time and energy everywhere! When I actively chose to risk spending $73 on a parking ticket, I also chose to save two other currencies: time and energy. </span></p>
+<h3><strong>In doing so, I momentarily brought my personal currencies back into balance in a way that felt authentic to me.</strong></h3><br />
+<span style="font-weight: 400;">The experience wasn&rsquo;t comfortable, but it left me with two important questions about this tension that I still ask myself today:&nbsp;</span>Which of my personal currencies are in balance right now, and which ones aren&rsquo;t? What am I willing to do right now to achieve a better equilibrium?</p>
+<p><span style="font-weight: 400;">For me, sacrificing a little money to gain a little ease was worth it. I got a ticket, and the world didn&rsquo;t end. While I didn&rsquo;t enjoy writing the check, I did enjoy feeling like I made the choice on purpose. It felt weird, but a good weird - like stretching farther than you thought you could in yoga class and finding out you won&rsquo;t break. </span></p>
+<p><span style="font-weight: 400;">The entire experience left me with a more empowered understanding about my own version of balance. That when it comes to starting and sustaining a world-changing business, time, money, and energy are </span><i><span style="font-weight: 400;">all </span></i><span style="font-weight: 400;">are valuable currencies - and </span><i><span style="font-weight: 400;">I</span></i><span style="font-weight: 400;"> am in charge of how much value I choose to place on each.</span></p>
+<p><em>Photos by:&nbsp;<a href="http://eileen-roche.com/" target="_blank" rel="noopener noreferrer">Eileen Roche</a></em></p>
+<p><a href="http://www.amyeverhartcoaching.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-8429 size-full" src="http://yellowco.co/wp-content/uploads/2017/04/AMY-EVERHART-BIO.jpg" alt="AMY EVERHART BIO" width="2699" height="980" /></a></p>

@@ -1,0 +1,62 @@
+---
+layout: post
+status: publish
+published: true
+title: BEING AN ACTIVIST IS EASIER THAN YOU THINK...
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 3272
+wordpress_url: http://yellowconference.com/?p=3272
+date: '2015-07-21 04:00:30 -0700'
+date_gmt: '2015-07-21 11:00:30 -0700'
+categories:
+- Light Talk
+- Creative Ladies
+- Advice
+- CREATIVE ADVOCACY
+- Inspiration
+- The Activist
+- The Starter
+- Team Members
+- The Solopreneur
+tags: []
+comments:
+- id: 3957
+  author: Jessie O. Squires
+  author_email: jessie6385@gmail.com
+  author_url: http://www.chasingbelle.com
+  date: '2015-07-22 20:47:00 -0700'
+  date_gmt: '2015-07-22 20:47:00 -0700'
+  content: This advice is truly inspiring and wonderfully written. I struggle with
+    what drives my blogging and making sure my content is authentic to what drives
+    me. As a Peace Studies major I always imagined I would be an agent for change
+    by traveling the globe and/or working for a non-profit. I know that writing
+    is a powerful tool, but I often doubt it's power. This post re-assured me that
+    I am putting my energy in the right spot. Thank you ?
+---
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/07/k14.jpg"><img class="aligncenter size-full wp-image-3427" src="http://yellowconference.com/wp-content/uploads/2015/07/k14.jpg" alt="k14" width="700" height="1050" /></a></p>
+<p>I, like many of you, starting blogging because I wanted a place to put some things I found eye-capturing and inspiring: song quotes, videos, etc. This was before the Pinterest era. As I grew as a writer, and, more specifically, when I went on my trips to India, expanding my life experiences, it became more of a public diary-a place where I could share my heart, and release what was fogging my brain. Nothing too deep or personal, just a place that I had permission to grow as a writer, and share some thoughts and opinions along the way.</p>
+<p>Then I became the foster parent to my three little brothers. I was completely awakened to the issues residing in the system-like a stinky, mold-infested cheese shoved in the back of the fridge; the flaws of this system were brought to a blinding light, and I didn't know what to do about it. But I knew how to process it: so, I wrote.</p>
+<p>I wrote about the feelings I had, as a twenty-two year old, who had normal, extravagant dreams of being an activist in another country, for another population. I wrote about passing up grad school prep books for potty training guides and Bernstein Bear books. I wrote about the long nights of tantrums and tears, and the all-too-short days of laughter and tickle wars (and never ending dance parties).</p>
+<p>Then I started a <a href="http://mailchimp.com/?pid=GAW&amp;source=website&amp;gclid=Cj0KEQjw_YKtBRC7zZjFp8bF_foBEiQAfyigc1kNy1gOsLfSisVpswzUiEarHJQ0dWj2RZ4BH8P0LY4aAlSJ8P8HAQ" target="_blank">Mailchimp</a> titled <em>"Letters From a Mister."</em>&nbsp;This was the title one of my brother's gave me-combining my former familial identity of <em>sister&nbsp;</em>with that of my new one&nbsp;<em>mom...</em>hence,&nbsp;<em>Mister&nbsp;</em>was born.&nbsp;This &nbsp;newsletter was a way for me to share what was happening with the boys to people who were supporting us, whether emotionally, financially, or just spiritually through prayer.</p>
+<p>But something amazing happened. I noticed people, some that I didn't even know personally, started subscribing to my newsletter. And then asking permission to forward it along to others, and it grew and grew. Family attorneys were writing back to me with encouragements, non-profits were asking for my help in story-telling, and pastors were reading my letters <em>out loud</em>&nbsp;to their congregations, inspiring them to step into this cause of foster care and kinship support. My letters, my writings, were doing something.</p>
+<blockquote><p><span style="line-height: 1.5;"><em>I used to beat myself up about not going to grad school for social work, or not opening a safe house for trafficked women, or not moving to some third-world country...but now I've seen the bigger picture, and how writing, and blogging, can&nbsp;be used to facilitate activism and spread good throughout the world.</em></span></blockquote><br />
+<a href="http://yellowconference.com/wp-content/uploads/2015/07/k5.jpg"><img class="aligncenter size-full wp-image-3428" src="http://yellowconference.com/wp-content/uploads/2015/07/k5.jpg" alt="k5" width="700" height="1050" /></a></p>
+<p><strong><span style="line-height: 1.5;">So, I continued blogging.</span></strong></p>
+<p><span style="line-height: 1.5;">I changed </span><a style="line-height: 1.5;" href="http://lettersfromamister.tumblr.com/" target="_blank">my blog</a><span style="line-height: 1.5;"> name to Letters From a Mister, and used it as an outlet and to start&nbsp;using my heart, story, and knowledge to open peoples' eyes to others much like me: moms that don't fit the typical mold on mother's day, foster parents who have to relinquish their right to protect a child, siblings who have to be separated from their brothers and sisters because the system doesn't have any other solution (yet). When I felt the most voiceless and helpless for a cause, my blog and fingers hitting the keyboard gave me something to say, and an opportunity to be heard.</span></p>
+<p><a href="http://mailchimp.com/?pid=GAW&amp;source=website&amp;gclid=Cj0KEQjw_YKtBRC7zZjFp8bF_foBEiQAfyigc1kNy1gOsLfSisVpswzUiEarHJQ0dWj2RZ4BH8P0LY4aAlSJ8P8HAQ" target="_blank">Starting with a Mailchimp newsletter</a>, I was given the freedom to express needs for children in the system, using my own experience as a launch. Since then, I've seen a rise in awareness of foster care, and have been approached, because of my writing, to facilitate events, share my thoughts, and write more about a topic that hits oh-so-close to home.</p>
+<p>I used to beat myself up about not going to grad school for social work, or not opening a safe house for trafficked women, or not moving to some third-world country&nbsp;(all GREAT things, by the way)-but now I've seen the bigger picture, and how writing, and blogging, CAN be used to facilitate activism and spread good throughout the world. Here are some things I've learned along the way if you're looking to use your blog or writing to advocate for a cause:</p>
+<p>1. <strong>Don't say something in fifty words that could easily be said in fifteen:</strong>&nbsp;Be Concise. I will never forget a lesson I learned reading the book <em>Made to Stick</em>. It's called "The Curse of Knowledge." I don't know about you, but I'm a sucker for research and input. <a href="https://www.pinterest.com/mistersally/" target="_blank">My Pinterest</a> is a scary mess with how many pins I save and I can remember facts to issues I'm passionate about like they're ice cream flavors. But when I'm sharing about my cause, either vocally or in writing, I'm going to lose people's attention if I keep bogging them down with stats and details-this creates a sense of hopelessness and loss. Rather, be concise, and get to the point fast. Go through your piece, edit, adjust, and <em>eliminate&nbsp;unnecessary words like your life depends on it.</em></p>
+<p>2. <strong>Share your personal story:</strong> People want to know how this impacts YOU. Put a face to the cause. When I shared about my experience with Mother's Day, I noticed how people approached me differently when they asked me about&nbsp;being a mom to my newborn. They now look at me, and smile, and verbally recognize that I have been a mom for three years, just in a very different way. This is a huge success in my book.</p>
+<p>3. <strong>Be Approachable:</strong> I learned my lesson to not rant and rave (which, I'll admit...when I'm passionate, can happen a lot) in public places, to my friends, and to my sphere of influence. Now, I just rant and rave to my husband about issues and save my public platforms for <em>well-thought-out-thoughts only</em>. I want people to step further into my cause, not be turned off because I'm too bitter at the flaws and they're scared of me.</p>
+<p>4. <strong>Rome wasn't built in a day:</strong>&nbsp;We've all heard this saying; but it's a <em>great</em> reminder when it comes to social change. The foster care system will not reconstruct itself in three years. Human trafficking will not be eliminated tomorrow. But, there are small markers of encouragement to remember. Remember the movie<em> Taken</em>? Although the sequels are total sellouts (sorry, Liam), the first movie started a huge spread of interest in human trafficking! People were shocked that even a small portion of that movie were events<em> actually</em> happening in our world. Now, human trafficking is one of the most talked about causes, and organizations like <a href="https://www.ijm.org/" target="_blank">IJM</a> are getting the attention they need to move forward in their efforts. Don't despise small beginnings.</p>
+<p>5. <strong>Write how you speak:</strong> Please, writers, hear me...use&nbsp;<em>your&nbsp;</em>voice when you write. Don't try to sound like an expert when you aren't--people can smell this from a mile away, even through your writing. People want to hear <em>you,</em> what <em>you</em> have to say, what <em>you</em> think about these issues. If they want to hear it from a different perspective, they'll seek elsewhere. One of the joys and pains I have in being the content manager here at Yellow Co. is receiving submissions from bloggers. I <em>LOOOVE</em> reading through people's blogs and, sometimes, a blogger's style is different than what we are going for...so I'm faced to choose-will I edit the heck out of their work to make it sound more "Yellow" or will I encourage the writer to KEEP WRITING,&nbsp;IN THEIR OWN VOICE,&nbsp;and to move forward in their blogging ventures...I hope the answer to this is apparent.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/07/k21.jpg"><img class="aligncenter size-full wp-image-3426" src="http://yellowconference.com/wp-content/uploads/2015/07/k21.jpg" alt="k21" width="700" height="1050" /></a>I've been given a platform, an audience, and some influence to use my words for good, and I don't want to waste that opportunity. I want to use what I've got to bring light to situations like foster care, and, even though I can't build Rome in a day, I celebrate the small changes, and the growing awareness that happens as people follow and read my blog.</p>
+<p>Whether you are passionate about women's rights, human trafficking, racial reconciliation, or orphan care, your voice matters and your words are worth being shared. Write from your own voice, rejoice in small steps, make yourself accessible, be personal, and keep your thoughts compacted, and you'll have readers asking more about this cause that's so dear to your heart.</p>
+<p><em>Photos by&nbsp;<a href="http://eclecticstateofmind.com/" target="_blank">Kimberly Jurgens,</a> for Yellow</em></p>
+<p><a href="http://lettersfromamister.tumblr.com/" target="_blank"><img class="aligncenter size-full wp-image-3273" src="http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg" alt="sallykim Yellow Co. " width="700" height="264" /></a></p>

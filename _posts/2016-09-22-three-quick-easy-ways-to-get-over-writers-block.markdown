@@ -1,0 +1,48 @@
+---
+layout: post
+status: publish
+published: true
+title: THREE QUICK & EASY WAYS TO GET OVER WRITERS BLOCK
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 6943
+wordpress_url: http://yellowconference.com/?p=6943
+date: '2016-09-22 04:00:20 -0700'
+date_gmt: '2016-09-22 11:00:20 -0700'
+categories:
+- Advice
+- VALOR
+tags: []
+comments:
+- id: 4237
+  author: Kate @The Daily Soul Sessions
+  author_email: thedailysoulsessions@gmail.com
+  author_url: http://www.TheDailySoulSessions.com
+  date: '2016-10-26 17:25:00 -0700'
+  date_gmt: '2016-10-27 00:25:00 -0700'
+  content: Love this! Thanks for sharing...I definitely needed to read this one today
+    :)
+---
+<p>Writer&rsquo;s block is a very, very real thing, and it&rsquo;s been a thorn in my side for these last few months.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/09/Writers-Block.jpg"><img class="aligncenter size-full wp-image-6944" src="http://yellowconference.com/wp-content/uploads/2016/09/Writers-Block.jpg" alt="writers-block" width="700" height="1116" /></a></p>
+<p>I&rsquo;ve lacked the creativity, the motivation, and the confidence to get what&rsquo;s in my mind onto paper...I&rsquo;ve chosen to say that life has gotten in the way, when in reality, I&rsquo;ve been binge-watching Orange is the New Black and hanging out with my friends. I have had plenty of time to create, but I&rsquo;ve chosen not to.</p>
+<p>I&rsquo;m a writer. It&rsquo;s how I&rsquo;ve chosen to label and identify myself. I firmly believe I was created to use words. I&rsquo;ve been ignoring that. It&rsquo;s a weird feeling to ignore your passion, especially when you feel like you just cannot create. I went through an episode of depression a while back and while that was happening, I built this giant wall between myself and my creative-self. I couldn&rsquo;t bust through it and just paint or write or photograph. I was stunned with a pen in my hand. It&rsquo;s been some time since I&rsquo;ve recovered from that episode, but the wall is still there.</p>
+<p>Sometimes I can climb over it and create something for a second, it usually ends up being an Instagram post or a nice edit of an old photo. I&rsquo;ve learned to be okay with that. Because that small thing I created is still mine originally. It&rsquo;s still a little thing of what I&rsquo;m supposed to be doing. Even if I don&rsquo;t take 300 photos and edit them all beautifully or write four essays about the soul-searching I&rsquo;ve been doing, I still created.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/09/MG_1294.jpg"><img class="aligncenter wp-image-6945" src="http://yellowconference.com/wp-content/uploads/2016/09/MG_1294-1024x683.jpg" alt="_mg_1294" width="700" height="467" /></a></p>
+<p>I have to keep reminding myself that on the days when I only post something on Instagram or I manage to come up with a line I&rsquo;ll use in an essay someday.</p>
+<p>Creativity is really, really hard. Especially with the struggle of mental health added on top of it. On the days I fight through it and create something I&rsquo;m really proud of, I want to show everyone. I want to call my boyfriend, text my best friend, post it on Facebook. On the days I create something when I&rsquo;m having a bad day or am feeling especially anxious or depressed, I hide it in a folder on my computer or give up with my brush halfway to the paper. It&rsquo;s a vicious cycle.</p>
+<p>Creating when your brain is a hot mess is hard. But when you push through it, amazing things happen and beauty is created. Whether it&rsquo;s a sketch, a painting, a drawing, or a poem, creating something is so worth it. It&rsquo;s worth the sweat and the tears. By putting something beautiful into the world, the world is that much brighter and more colorful. I think we can all agree that we kind of need that beauty right now.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/09/MG_1338.jpg"><img class="aligncenter wp-image-6946" src="http://yellowconference.com/wp-content/uploads/2016/09/MG_1338-1024x683.jpg" alt="_mg_1338" width="700" height="467" /></a><br />
+So how do you push through? How do you create or write when there are times you feel like you just can&rsquo;t do it?</p>
+<p><strong><em>Here are three quick and simple&nbsp;things you can do to get out of that block!</em></strong></p>
+<p><strong>1. START SMALL.</strong> <em>Try starting with what you have, where you have it. It could be a blurb on a napkin or a sentence&nbsp;on a post-it. Wherever you are, whatever you can do, start there.&nbsp;There will be days where I hop on&nbsp;Instagram and write a&nbsp;short blurb. Sometimes, that inspires a whole blog post and I feel back in the game again.&nbsp;</em></p>
+<p><strong>2. GET OUT OF YOUR NORMAL.</strong><em>&nbsp;Get out of your day to day norm&nbsp;and read something from an author you haven't read in awhile.&nbsp;Some&nbsp;days I read my favorite writers and a single line jumps out to me and I&rsquo;m able to expound on that idea in my own words and experiences.&nbsp;</em></p>
+<p><strong>3. CREATE CREATE CREATE &amp; BE HONEST.</strong><em>&nbsp;Even if the work is bad- get it out of your system. If you have writer's block, write that down! Write down how crappy it feels to be in this position. No one has to know your wrote it, no one has to see it. It's for your eyes only.&nbsp;The simple act of MAKING and CREATING does wonders, helps us perfect our craft and ultimately, we can't create anything good if we aren't creating anything terrible to begin with!</em></p>
+<p>I implore you and even beg you to just keep creating...It will seem practically impossible and maybe not even worth it, but it will be. Because there will be something original floating around in our universe that you created from nothing. And that is a beautiful accomplishment in itself.</p>
+<p><a href="https://justineakopischke.wordpress.com/" target="_blank"><img class="aligncenter size-full wp-image-6950" src="http://yellowconference.com/wp-content/uploads/2016/09/Justine-Bio.jpg" alt="justine-bio" width="700" height="264" /></a></p>
+<p><a href="https://yellowcollective.leadpages.co/leadbox/14275ef73f72a2%3A17a2246bc746dc/5739407210446848/" target="_blank"><img src="https://lh3.googleusercontent.com/PLgiNHFRVmFsLP41efysqdUJ9SZ-AcJD3c5aX2chYUhgBTYI52sHFjId--lSB85ZE8liKk_tGGuQ32hJHUmjbw=s0" alt="" /></a><script src="https://yellowcollective.leadpages.co/leadbox-1474492808.js" type="text/javascript" data-leadbox="14275ef73f72a2:17a2246bc746dc" data-url="https://yellowcollective.leadpages.co/leadbox/14275ef73f72a2%3A17a2246bc746dc/5739407210446848/" data-config="%7B%7D"></script></p>

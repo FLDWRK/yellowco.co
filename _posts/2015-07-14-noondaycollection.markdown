@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: 'BUSINESS HIGHLIGHT: NOONDAY COLLECTION'
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 3278
+wordpress_url: http://yellowconference.com/?p=3278
+date: '2015-07-14 04:00:50 -0700'
+date_gmt: '2015-07-14 11:00:50 -0700'
+categories:
+- Creative Ladies
+- CREATIVE ADVOCACY
+- The Activist
+- Yellow 2015
+tags: []
+comments: []
+---
+<p><em><a href="http://www.noondaycollection.com/pws/homeoffice/tabs/home.aspx" target="_blank">Noonday Collection</a> is a business that uses fashion to create meaningful opportunities around the world. We travel the world to identify artisan entrepreneurs&nbsp;who share our dream of creating meaningful opportunity in vulnerable communities. We design jewelry and accessories in collaboration with talented Artisans, using unique materials and traditional skills to create beautiful, unique jewelry. We develop artisan businesses through fair trade, empowering them to grow sustainably. By connecting artisan businesses to a growing market for their goods, we enable them to create more jobs for people in their communities who need them.</em></br><br />
+<em>When you shop our collection, <a href="http://www.noondaycollection.com/pws/homeoffice/tabs/host.aspx" target="_blank">host a Trunk Show</a> or <a href="http://www.noondaycollection.com/pws/homeoffice/tabs/join.aspx" target="_blank">become an Ambassador</a>, you join us in creating a flourishing world where children are cherished, women are empowered, people have jobs and we are connected.</em></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/07/Screen-shot-2015-07-13-at-9.21.19-PM.png"><img class="aligncenter size-full wp-image-3306" src="http://yellowconference.com/wp-content/uploads/2015/07/Screen-shot-2015-07-13-at-9.21.19-PM.png" alt="Screen shot 2015-07-13 at 9.21.19 PM" width="700" height="679" /></a></p>
+<p>Standing at no more than 5 ft. 3 in. tall, Sunita is an amiable force to be reckoned with. Kindness exudes from every part of her small frame. Everywhere she walks in her small community in southern New Delhi, Sunita smiles and waves to her neighbors&mdash;most of whom call to her, smile and wave back. Sunita&rsquo;s life was not always like this, however. She wasn&rsquo;t always strong enough to care for those around her.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/07/131109_NoondayIndia_EstherHavens_330.jpg"><img class="aligncenter size-full wp-image-3281" src="http://yellowconference.com/wp-content/uploads/2015/07/131109_NoondayIndia_EstherHavens_330.jpg" alt="Sunita" width="700" height="467" /></a></p>
+<p>Sunita was married when she was only fourteen years old. She became pregnant with her first child three years later, but tragically lost her baby shortly after his birth. Depressed and isolated, Sunita says she felt numb after the baby&rsquo;s death. She was expected to continue having children, but not expected to do anything on her own or make any of her own decisions. Not long after the loss of her son, Sunita gave birth to her daughter, Vandana, and for the first time began thinking about her future.&nbsp;<em>"Every family wants a boy. The same was the case with my family,"</em> Sunita says. <em>"I was afraid for my daughter. I really wanted to do something for her in case I wasn&rsquo;t around in a few years."</em></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/07/131109_NoondayIndia_EstherHavens_307.jpg"><img class=" size-full wp-image-3282 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/07/131109_NoondayIndia_EstherHavens_307.jpg" alt="Sunita's children, 18-year-old, Vandana, and 13-year-old, Honey." width="700" height="467" /></a>Out of a desire to make sure her daughter was provided for, Sunita joined a local jewelry-making group. The work was far from easy&mdash;Sunita was abused and never paid a fair, livable wage. Many of her workdays ran late, sometimes lasting more than 9 hours.&nbsp; Throughout the three years Sunita worked for the group, she never earned more than 40 rupees, or about $0.65 per day.&nbsp;<em>"You can&rsquo;t imagine how happy I was. It was the first time I managed to do something on my own," she says.</em></p>
+<p>Once Sunita began working and earning an income, everything changed. Her confidence grew as she learned more about what it meant to stand up for herself. She was finally able to provide for her two children as well as her in-laws and husband. Through Noonday&rsquo;s partner group, Sunita also learned about the difference that health, education and Fair Trade programs could make in her community. Sunita saw the change that had happened in her own life as something bigger than herself, something that could change the lives of those around her.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/07/131109_NoondayIndia_EstherHavens_388.jpg"><img class=" size-full wp-image-3280 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/07/131109_NoondayIndia_EstherHavens_388.jpg" alt="Sunilaa is one of Sunita's closest friends and a part of the same community jewelry-making coop" width="700" height="478" /></a><strong>As Sunita began recruiting other women to join her in a jewelry-making co-op, however, she ran into trouble.</strong></p>
+<p>"None of the husbands were convinced to send their wives to work."</p>
+<p>To prevent them from leaving their homes, Sunita says the men were beating their wives and threatening her. India is one of the most difficult countries in the world for women, in part because domestic violence there is often seen as deserved.&nbsp;According to a UNICEF study, 57 percent of Indian boys and 53 percent of girls between the ages of 15 and 19 think wife-beating is justified. Sunita was not just fighting to get women to work, she was fighting against domestic violence&mdash;the cultural norm keeping women from working.</p>
+<p>"I didn&rsquo;t give up. I went to the neighbors in the absence of their husbands in order to convince them to come to the co-op. I told them if they can do this, it will work."</p>
+<p><strong>Sunita&rsquo;s persistence paid off.</strong> As more and more women began to join her as artisans, their husbands realized the benefits of their wives earning money. Fair Trade jobs not only allow women to provide for their families&mdash;sometimes as the sole breadwinners&mdash;they also create a supportive community strengthened by the talents and abilities of all members.</p>
+<p><strong>Sunita has not stopped at assisting the women in her community find work.</strong> She also oversees micro-finance programs in her area, advocates for stronger education programs at local government schools, and played an integral part in the establishment of a community computer center down the road from the jewelry co-op. She is a strong advocate for education and a firm believer in the impact education can have for a community of people.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/07/131109_NoondayIndia_EstherHavens_443.jpg"><img class=" size-full wp-image-3279 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/07/131109_NoondayIndia_EstherHavens_443.jpg" alt="Sunita-NOONDAY COLLECTION FOR YELLOW CONFERENCE" width="700" height="467" /></a>How has she accomplished so much without any education for herself? The ever-eloquent Sunita credits the difficulties she faced early on in life as one reason for her current joy and success.</p>
+<p>"Because I&rsquo;ve seen many difficult phases of life, I have to fight for small things. Past experiences have given me the confidence to not hold back."</p>
+<p>This small but vibrant woman says she will continue to work to change others&rsquo; lives for the better. Sunita is thankful for the meaning that her work has given her life and wants to make sure others receive the same opportunities.</p>
+<p>"I&rsquo;m able to support many others when before I wasn&rsquo;t even able to support myself," Sunita says. "Now, I am living for others."</p>
+<p><b><i>We are so excited to have Noonday Collection as one of our Yellow Conference sponsors this year! We at Yellow Co. love and support what Noonday Collection is doing around the globe, and are so proud to have them as a part of our honorary Yellow Squad for life.&nbsp;</i></b></p>

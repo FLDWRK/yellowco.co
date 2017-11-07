@@ -1,0 +1,61 @@
+---
+layout: post
+status: publish
+published: true
+title: THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE
+author:
+  display_name: admin
+  login: hannasnyder
+  email: hanna@yellowco.co
+  url: ''
+author_login: hannasnyder
+author_email: hanna@yellowco.co
+wordpress_id: 9196
+wordpress_url: http://yellowco.co/?p=9196
+date: '2017-08-04 04:00:55 -0700'
+date_gmt: '2017-08-04 11:00:55 -0700'
+categories:
+- Tension
+tags: []
+comments:
+- id: 4395
+  author: paige j
+  author_email: paigejoost@gmail.com
+  author_url: http://www.paigejoost.com
+  date: '2017-08-09 21:31:00 -0700'
+  date_gmt: '2017-08-10 04:31:00 -0700'
+  content: |-
+    this article hit so close to home! so inspiring....I love that you referenced the artists way.  I love that book--I've struggled with morning pages in the past, but I know they're so good for you, I need to get back into them.  Also, i love the idea of breaking the morning up into little chunks.  Sometimes the thought of "working out" or "morning pages" seems like such an overwhelming task for the morning, but when done in mini sessions it is so much more achievable!
+
+    www.paigesofnothing.blogspot.com
+---
+<p><span style="font-weight: 400;">I love being a lawyer. That is not a typo. I really do. In my day-to-day work, I take care of the legal details for artists, entrepreneurs, and small businesses who are making our world more vibrant and interesting and good.</span> <span style="font-weight: 400;">The law practice I co-founded,&nbsp;</span><a href="https://wilkinsonmazzeo.com/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Wilkinson Mazzeo</span></a><span style="font-weight: 400;">, helps people go after that nagging ambition, that wild dream, that big idea that can change lives. It&rsquo;s exciting, tiring, and rewarding work - and I wouldn&rsquo;t give it up for anything.</span></p>
+<p><span style="font-weight: 400;">But the thing is, I&rsquo;m not just a lawyer. I&rsquo;m actually one of those very people I work with; I&rsquo;m an artist, a poet. Before my 9 to 5 begins, I spend the morning writing haikus and exploring the wonder of words - <em>every</em> morning.</span></p>
+<p><span style="font-weight: 400;">I make this time not because I love mornings - I don&rsquo;t. I&rsquo;m learning to, but they&rsquo;re new to me. I make the time because poetry is my own nagging ambition. And there&rsquo;s never going to be time for it between working, and commuting, and paying bills, and debating doing Whole30. But </span><a href="http://darlingmagazine.org/exploring-modern-womanhood-haiku/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">writing poetry is something I want and, honestly, need to do</span></a><span style="font-weight: 400;">. &nbsp;</span></p>
+<p><span style="font-weight: 400;">So, here&rsquo;s my case for creating your own morning routine to explore a creative passion. I promise that is the only legal wordplay I will use.</span></p>
+<h3><b>Getting Up Doesn&rsquo;t Have to Mean Going Far</b></h3><br />
+<span style="font-weight: 400;">Like I said, I am not a morning person and I never was. My parents had to lure me out of bed with hot chocolate on Christmas morning, like Garfield and his lasagna.</span></p>
+<p><span style="font-weight: 400;">Inspired by their tactic, my routine starts with getting up, making tea or coffee, and literally getting right back into bed with it. In fact, the majority of my routine occurs </span><i><span style="font-weight: 400;">in bed</span></i><span style="font-weight: 400;">. Creating a comfortable environment is key. <strong>You want to look forward to your routine, not dread it.</strong> This is not like that one morning you tried P90X.</span></p>
+<p><img class="aligncenter wp-image-9214 size-full" title="THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM" src="http://yellowco.co/wp-content/uploads/2017/08/Photo-Aug-03-5-24-51-PM.jpg" alt="THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM" width="2590" height="2593" /></p>
+<h3><b>Tune Out the Noise (and Notifications)</b></h3><br />
+<span style="font-weight: 400;">If you can help it, tune out for a bit. That is, leave your phone (and computer and tablet and Amazon Alexa) along with any other news or notification source off. There&rsquo;s a reason most writers get up early and do their work in the wee morning hours - it&rsquo;s before all the distractions and demands get in and dampen your energy and ideas. <strong>When you wake up, your brilliance and spirit are rested and ready to unfold; give them the quiet space to do so. &nbsp;</strong></span></p>
+<h3><b>Create a Sacred Ritual</b></h3><br />
+<span style="font-weight: 400;">Across beliefs, the &ldquo;higher power&rdquo; is often referred to as the &ldquo;Creator&rdquo;, or &ldquo;Oprah.&rdquo; (I&rsquo;m kidding about the second one, sort of.) This isn&rsquo;t surprising when you think about it. Creativity is, in essence, a spiritual practice where you are channeling something greater than yourself.</span></p>
+<p><span style="font-weight: 400;">To help get centered and connected, I recommend creating a sacred ritual for yourself. I practice about 10 minutes of meditation. Then, I pick out a few healing gemstones that I am energetically drawn to (like&nbsp;</span><span style="font-weight: 400;">rose quartz</span><span style="font-weight: 400;">, which symbolizes love). Finally, I pull cards from a few oracle card decks, which provide guidance to reflect on throughout the day and help me connect with my intuition.</span></p>
+<p><span style="font-weight: 400;">The</span><span style="font-weight: 400;">&nbsp;<a href="https://itunes.apple.com/us/app/ens%C5%8D-meditation-timer-bell/id840637879?mt=8" target="_blank" rel="noopener noreferrer">Enso app</a> is a good meditation timer,&nbsp;</span><a href="http://www.blueangelonline.com/sacred_rebels_oracle.html" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">these</span></a><a href="https://www.amazon.com/Osho-Zen-Tarot-Transcendental-Game/dp/0312117337" target="_blank" rel="noopener noreferrer"> <span style="font-weight: 400;">two</span></a><span style="font-weight: 400;"> are my favorite oracle card decks at the moment, and the&nbsp;</span><a href="https://itunes.apple.com/us/app/stone-metaphysical-crystals-illuminated/id1146323083?mt=8" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">stone app</span></a><span style="font-weight: 400;"> is a fun place to start exploring the magical world of gemstones. Regardless of what your ritual includes, just find one that works best for you.</span></p>
+<h3><b>Practice Morning Pages</b></h3><br />
+Central to my routine is something called&nbsp;<a href="http://www.chriswinfield.com/morning-pages/" target="_blank" rel="noopener noreferrer">Morning Pages</a>, a practice I learned about through the book&nbsp;<a href="https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252/ref=sr_1_1?ie=UTF8&amp;qid=1497934827&amp;sr=8-1&amp;keywords=the+artist%27s+way" target="_blank" rel="noopener noreferrer">The Artist's Way</a>. Essentially, you write three pages freehand in your journal every morning. The only rule is that you must write without constraint, without editing, without hitting backspace.</p>
+<p><img class="aligncenter wp-image-9215 size-full" src="http://yellowco.co/wp-content/uploads/2017/08/Photo-Aug-12-5-21-20-PM.jpg" alt="THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM" width="2592" height="2592" /></p>
+<h3></h3><br />
+<span style="font-weight: 400;">The idea is that first thing in the morning, your internal censor/left brain is still asleep; the part of your mind that is constantly editing and telling you that anything creative and novel is wrong or unoriginal. This part of your brain is what we call &ldquo;a hater.&rdquo; </span><span style="font-weight: 400;">When you write with your internal censor off, what comes out is beautiful, pure - and might surprise you. <strong>The first time I tried this exercise, I was moved to tears. It was so cathartic and daring and freeing.</strong></span></p>
+<p><span style="font-weight: 400;">As a result of practicing morning pages, I have become much more comfortable creating without getting in my own way. Furthermore, since starting a year ago, I have published poetry and film photography, experimented with watercolor, drawing, and dance - creative outlets I would have never dreamed of beforehand.</span></p>
+<h3><b>Do Something That Feels Good</b></h3><br />
+<span style="font-weight: 400;">I wrap up my morning routine on my yoga mat, with a combination of stretching and strengthening exercises that feel right for my body. I&rsquo;ve struggled with lower back problems for years and it wasn&rsquo;t until I implemented a simple routine in the morning that I got the pain and discomfort under control. It&rsquo;s amazing what 10 or so minutes of &ldquo;physical therapy&rdquo; can do for you, if practiced consistently.</span></p>
+<p><span style="font-weight: 400;">Breaking exercise up into bite-size pieces at the beginning of the day makes me feel good from the start, and is&nbsp;less overwhelming to me than a regular gym or yoga studio commitment. <strong>Doing something physical is centering and empowering;&nbsp;the perfect way to get ready to take on the day.</strong> Plus, you can brag about having already worked out when you get to the office.</span></p>
+<h3><b>A Closing Argument </b></h3><br />
+<span style="font-weight: 400;">I know, I said no more legal wordplay, but I couldn&rsquo;t resist that one. </span><span style="font-weight: 400;">A morning routine is the time to explore your magic, to give your ideas a chance, to be creative and unfettered. The rest of the day can be reactive, in the "weeds", and centered around others&rsquo; needs and agendas. I find my&nbsp;days are more satisfying, my spirits are more buoyant, and my problems are less threatening when I start the day doing what makes me feel good, alive, and like I am an active part of this world. </span></p>
+<p><span style="font-weight: 400;">So why not try it? The morning is waiting for you.</span></p>
+<h5><a href="http://yellowco.co/yellow-2017-workshops/" target="_blank" rel="noopener noreferrer">JOINING US AT THE 2017 YELLOW CONFERENCE? TAKE EMILY'S WORKSHOP: HOW TO LEVERAGE YOUR UNIQUE PERSONALITY IN ANY FIELD</p>
+<p></a></h5><br />
+<em>Photos by:&nbsp;<a href="http://www.nuanceandbubbles.com/" target="_blank" rel="noopener noreferrer">Valerie Moreno</a></em></p>
+<p><a href="https://www.instagram.com/em_wilkinson/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-9211 size-full" src="http://yellowco.co/wp-content/uploads/2017/08/Emily-Wilkinson-Bio.jpg" alt="Emily Wilkinson Bio" width="2699" height="980" /></a></p>

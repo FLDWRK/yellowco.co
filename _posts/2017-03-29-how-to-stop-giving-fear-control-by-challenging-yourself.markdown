@@ -1,0 +1,54 @@
+---
+layout: post
+status: publish
+published: true
+title: HOW TO STOP GIVING FEAR CONTROL BY CHALLENGING YOURSELF
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 8173
+wordpress_url: http://yellowco.co/?p=8173
+date: '2017-03-29 04:00:11 -0700'
+date_gmt: '2017-03-29 11:00:11 -0700'
+categories:
+- PIONEER
+tags: []
+comments:
+- id: 4336
+  author: shannon
+  author_email: shanoreilly@yahoo.com
+  author_url: ''
+  date: '2017-03-29 11:50:00 -0700'
+  date_gmt: '2017-03-29 18:50:00 -0700'
+  content: Such a great inspirational story! Thank you!
+---
+<p>Every quarter, we assign our members in <a href="http://yellowcollective.com" target="_blank">The Yellow Collective</a> a community challenge. It helps to get members involved, set goals as a group, and have a bit of fun together in a way that is growth-oriented.</p>
+<p>This quarter, to go with our theme of &lsquo;Pioneer&rsquo;, we challenged our members to try something they&rsquo;ve never done before. There were 2 rules. 1. It had to be something that scared them, and 2. they had to share about it publicly to hold them accountable. It could be anything large or small &mdash; from trying to learn a new language to finally launching the business they&rsquo;ve always wanted to start.</p>
+<p>We chose this challenge because of the impact we knew it would have on our members. You see, when you step out in both big ways and small, you're telling fear that although he is there, although he is very real, he does not have control and he does not decide your fate.</p>
+<p>Fear is a very real emotion that can be healthy at times. It tells us not to go to close to the edge of a cliff, or warns us when we're driving too fast. It serves a purpose and saves us from a lot of things that can endanger us. Fear also creeps up when we enter into the unknown. The unknown is not a bad place to be, in fact, if you want to accomplish your goals, grow as a person and move towards being the person you were created to be, you must move out of your comfort zone and into the unknown. Setting a challenge for yourself allows us to see just what we are capable of, and changes our outlook on fear.</p>
+<p>Just as we challenged our members this quarter, we want to challenge you too.</p>
+<p><strong>Here are 3 things you can do to challenge yourself and begin shifting the way you interact with fear.</strong></p>
+<p>1 // Get out a piece of paper and stream of consciousness write out all of the things you've wanted to do before, but you've never done because of fear.</p>
+<p>2 // After you've had a chance to step away from your brainstorm paper, come back to it later and circle 3 things that are practical for you to do within 3 months time.</p>
+<p>3 // Out of the three things you circled, choose 1 thing, mark your deadline on your calendar and get going! Don't forget to tell someone about it so they can help keep you accountable!</p>
+<h3>Once you experience the fact that&nbsp;that fear does not have to control you, the possibilities are endless.</h3><br />
+To help get you inspired, we wanted to share with you the stories of three&nbsp;Yellow Collective members who stepped out this quarter, challenged themselves and faced their fears. Read all about&nbsp;what they did and their stories below!</p>
+<p><a href="http://yellowco.co/wp-content/uploads/2017/03/Amy-Everhart-1.jpg"><img class="alignnone size-full wp-image-8268" src="http://yellowco.co/wp-content/uploads/2017/03/Amy-Everhart-1.jpg" alt="" width="1000" height="400" /></a></p>
+<p><em>&ldquo;I created my Journaling Workbook, Soul Scribbles, a while ago, and put it on my site for free. A mentor of mine suggested that I get it out there in a bigger way, and I was so terrified by the idea of sharing my voice with the world that I knew I needed to practice what I preached and do it.</em></p>
+<p><em>It&rsquo;s so incredibly scary to create something near and dear to your heart and then release it into the wild. I was afraid people wouldn&rsquo;t like the book. I was afraid people wouldn&rsquo;t like me. I&rsquo;m really, boldly myself in my writing, and exposing that truest side of me to a bigger audience felt really vulnerable. The sense of accomplishment has been downright intoxicating.</em></p>
+<p><em>There&rsquo;s a certain magic that comes from doing the thing you think you can&rsquo;t do. Now, I feel unstoppable! I think the biggest thing I learned from this challenge is that I am capable of figuring out things I don&rsquo;t know. If I can learn to self-publish, I can learn other things, too. It&rsquo;s really inspired me to look at what else I&rsquo;ve shut down because I didn&rsquo;t have the know-how at the time. I feel like my creativity and content options have expanded!&rdquo; ~ Amy Everhart</em></p>
+<p><a href="http://yellowco.co/wp-content/uploads/2017/03/Taylor-Davis-2.jpg"><img class="alignnone size-full wp-image-8267" src="http://yellowco.co/wp-content/uploads/2017/03/Taylor-Davis-2.jpg" alt="" width="1000" height="400" /></a></p>
+<p><em>&ldquo;In an effort to better understand moving past discomfort, my relationships with others and my relationship with myself, I booked a [yoga and surf] retreat to Nicaragua where I'd be put in a position to be my most genuine self and figure out who that person was. Nicaragua helped me to shake off my fear, in more ways than one...I was put in a position where I had to come to terms with how I was feeling...and to look deep inside myself and ask what it was I wanted out of the trip and this stage of my life in general.</em></p>
+<p><em>Driving to the airport to actually go on the trip was hard for me...I cried on my way there because the unknown scared me. I was placed in an environment where everyone around me was interested in bettering themselves holistically, and I took the opportunity to ask questions about what they'd want out of someone with my area of expertise. I also took it as an opportunity to decide if I wanted to further pursue yoga as part of my career and holistic business. The answer is a resounding yes...I'm already trying to decide if I want to go to Bali, Nepal, or Tulum, Mexico.&rdquo;</em></p>
+<p><a href="http://yellowco.co/wp-content/uploads/2017/03/Zantika-2.jpg"><img class="alignnone size-full wp-image-8269" src="http://yellowco.co/wp-content/uploads/2017/03/Zantika-2.jpg" alt="" width="1000" height="400" /></a></p>
+<p><em>&ldquo;Writing soothes my soul. Writing says what I don't say out loud. I feel that poetry gave me a voice when I felt like I didn't have one as a child. I want to tap into that voice again. I feel understood when I read the words of others. I want to share my words, no longer allowing the fear of how those words will be received to stop me. I'm in the process of reflecting on the pain and trauma that I've experienced in my life. It weighs heavily on my heart. I need to put that weight down and allow this book of poetry to carry it for me.</em></p>
+<p><em>I gain powerful insight from self-reflection. I'm writing out those reflections, taking the pieces that stick out to me the most and writing poems from there.. Writing is so personal to me. Sharing this book of poetry is sharing parts of me that I have only allowed a few of my best friends to see.</em></p>
+<p><strong><em>My advice for other members wanting to face their fears in this area is to use your voice. Don't silence what needs to be said. Don't ignore what needs to be heard. You owe it to yourself, to those around you and to art to express yourself. Create what you want and need to see in the world. This challenge has inspired me to share my story. It has also inspired me to continue having conversations about trauma and mental health issues.&rdquo;</em></strong></p>
+<p>Every quarter we host a different challenge for our members to do together. The next quarter begins on April 1st. If you're interested in becoming a <a href="https://yellowco.myshopify.com/products/the-yellow-collective" target="_blank">Yellow Collective member</a> for the upcoming quarter, membership closes March 31st. We'd love to have you apart of our community.</p>
+<h3><a href="https://yellowco.myshopify.com/products/the-yellow-collective" target="_blank">CLICK HERE TO BECOME A MEMBER</a></h3><br />
+<em>Huge thanks to our Yellow Collective members for sharing your stories with us!</em></p>
+<p>Photo by <a href="http://www.valeriedenisephotos.com/" target="_blank">Valerie Denise Photos</a></p>

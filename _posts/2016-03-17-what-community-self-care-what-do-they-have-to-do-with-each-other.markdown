@@ -1,0 +1,79 @@
+---
+layout: post
+status: publish
+published: true
+title: COMMUNITY AND SELF CARE-WHAT DO THEY HAVE TO DO WITH EACH OTHER?
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 5079
+wordpress_url: http://yellowconference.com/?p=5079
+date: '2016-03-17 04:00:01 -0700'
+date_gmt: '2016-03-17 11:00:01 -0700'
+categories:
+- Advice
+- The Activist
+- The Starter
+- The Solopreneur
+- The Leader
+- BUILD
+tags: []
+comments:
+- id: 4083
+  author: Jason Wert
+  author_email: jason@jcwert.com
+  author_url: http://www.mustardseedyear.com/
+  date: '2016-03-17 10:02:00 -0700'
+  date_gmt: '2016-03-17 17:02:00 -0700'
+  content: Michelle rocks.
+- id: 4084
+  author: Yellow Conference
+  author_email: heygirl@yellowconference.com
+  author_url: http://yellowconference.com/
+  date: '2016-03-17 12:42:00 -0700'
+  date_gmt: '2016-03-17 19:42:00 -0700'
+  content: Agreed.
+- id: 4085
+  author: Julie Fiandt - In Tandem
+  author_email: julie@createintandem.com
+  author_url: http://www.createintandem.com
+  date: '2016-03-18 09:17:00 -0700'
+  date_gmt: '2016-03-18 16:17:00 -0700'
+  content: This is a fabulous piece! Thank you!
+- id: 4086
+  author: 'Must-Reads for Creatives: Radical Imagination for a Just World - In Tandem'
+  author_email: ''
+  author_url: http://www.createintandem.com/must-reads-creatives-radical-imagination/
+  date: '2016-03-18 12:28:44 -0700'
+  date_gmt: '2016-03-18 19:28:44 -0700'
+  content: "[&#8230;] Community and Self-Care&mdash;What Do They Have to Do With Each
+    Other? >>> [&#8230;]"
+- id: 4087
+  author: Yellow Conference
+  author_email: heygirl@yellowconference.com
+  author_url: http://yellowconference.com/
+  date: '2016-03-18 14:11:00 -0700'
+  date_gmt: '2016-03-18 21:11:00 -0700'
+  content: Glad you liked it Julie!!
+---
+<h2><a href="http://yellowconference.com/wp-content/uploads/2016/03/unspecified.jpg"><img class="aligncenter size-full wp-image-5081" src="http://yellowconference.com/wp-content/uploads/2016/03/unspecified.jpg" alt="unspecified" width="700" height="466" /></a>Striving. If I could use one word to describe the current state of my life in a very neat and tidy way,<em> striving</em> would be it.</h2><br />
+Striving for new opportunities in my career and creative life. Striving for balance in being a new(ish) mom. Striving to maintain friendships and a healthy marriage. Striving to find sanity amongst the gazillion things I pile into a week to meet my goals and spend time in the areas I care about and am responsible in.</p>
+<p>Striving is a great word; a <em>go-after-it-you-can-do-it! </em>word. But it&rsquo;s also rather&hellip; well, exhausting.</p>
+<p>As a counselor I work with many individuals who, like me, are mired in a place of striving. They may be dealing with heartbreak, loss, difficulty developing healthy relationships, struggling in their careers, or with hefty anxiety. Whatever the deal is, they are striving to improve, which is often an uphill battle with a lot of work involved. What I typically find myself repeating to each of them is that when the going gets rough, you should always, <em>always</em>, be practicing some sort of self-care.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/03/unspecified-1.jpg"><img class="aligncenter size-full wp-image-5082" src="http://yellowconference.com/wp-content/uploads/2016/03/unspecified-1.jpg" alt="unspecified-1" width="700" height="482" /></a>When striving becomes overwhelmingly stressful, we often try to plow through the situation as best we can, leaving our interests and passions as last priorities. I have been the victim of many &nbsp;crash-and-burn situations when I&rsquo;ve tried to put my head down to just get through a hard time in my life, and have forgotten about the things that bring me joy. Because of that, my philosophy has become that when times get tough, we should lean into the things that make us come alive. We need pillars of self-support when we are dragged down and striving to meet hefty goals. Drawing, running, walking, journaling, cooking, sewing, getting out in nature, yoga, reading&hellip; whatever <em>works</em>, do more of it is what I always say.</p>
+<h2>Recently, however, I ran into a problem where all of the self-care I preach about just wasn&rsquo;t helping. Like, <em>at all.</em></h2><br />
+I would recognize my anxious reactions to stress as reminders to schedule some fun into my life, so I would carve out time to read that inspirational book I&rsquo;d been meaning to finish, or try to fit that yoga class into a busy day, and end up feeling even <em>worse</em>. I was left with a giant &ldquo;Now what?&rdquo; feeling. A &ldquo;What-is-wrong-with-me-I-am-a-counselor-for-goodness-sakes<em>&rdquo; </em>feeling. Wasn&rsquo;t I supposed to have this all together?</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/03/unspecified-2.jpg"><img class="aligncenter size-full wp-image-5080" src="http://yellowconference.com/wp-content/uploads/2016/03/unspecified-2.jpg" alt="unspecified-2" width="700" height="466" /></a>Then I remembered a word of wisdom Bren&eacute; Brown shared on a <em>Magic Lessons</em> podcast with Elizabeth Gilbert. Brene makes a strong statement about the antidote to shame being empathy. I was definitely feeling shame. I was definitely feeling empathetic. For <em>myself</em>. Then it clicked. Empathy is a connecting word. Connecting with <em>others. </em>Oh...</p>
+<blockquote><p><em>Then it clicked. Empathy is a connecting word. Connecting with others.</em></blockquote><br />
+The thought hit me smack in the gut. I was focusing so hard on giving empathy to MYSELF that it had turned into yet another form of self-centered striving, ignoring the fact that I am a person meant for community and connection. I was being ridiculously hard on myself when I was incapable to lift my own mood or I wasn&rsquo;t able to give myself grace and perspective.</p>
+<h2>If there is anything that kills momentum in recovering from stress the most, it's overly focusing on yourself.</h2><br />
+I was definitely doing plenty of that. I was not allowing for the healing salve of connection to come in and take my gaze away from my problems which offers a fresh breath of perspective to aide the process of healing.</p>
+<p>Now, when all of my striving is taking a toll and I feel overwhelmed and rough around the edges, I still practice self-care, but instead of slugging it out on my own I recognize my need to look to others for connection. Sure, I allow myself some time to stop for that latte or to go for a long walk, but lately I have been tempering my &ldquo;I can take care of myself<em>&rdquo;</em> attitude with a healthy dose of humility and understanding that I need others in my life and I need to be in theirs as well.</p>
+<blockquote><p><em>Now, when all of my striving is taking a toll and I feel overwhelmed and rough around the edges, I still practice self-care, but instead of slugging it out on my own I recognize my need to look to others for connection.</em></blockquote><br />
+I can&rsquo;t say that my intense striving has subsided in the slightest, but instead of mostly focusing on how I can take care of myself, I pick out people in my immediate vicinity and just ask them how they are doing. We can all stand to take our focus off ourselves sometimes and turn the lens on how we can best see the person across from us, whether that be at work, in our homes, or in our communities. Interact with them, Connect with them. See if it doesn&rsquo;t heal you in ways you cannot heal yourself. It's so simple, and yet it tempers the striving with a little bit of being.</p>
+<p><i>Photos by <a href="http://karenmariehernandez.com/" target="_blank">Karen Hernandez</a></i></p>
+<p><a href="http://www.michellehoughton.com/" target="_blank"><img class="aligncenter size-full wp-image-5105" src="http://yellowconference.com/wp-content/uploads/2016/03/michelle-houghton.jpg" alt="michelle houghton" width="700" height="264" /></a></p>

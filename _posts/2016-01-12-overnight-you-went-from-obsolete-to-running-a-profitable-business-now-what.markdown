@@ -1,0 +1,53 @@
+---
+layout: post
+status: publish
+published: true
+title: YOU'VE LANDED YOUR FIRST FREELANCE CLIENTS...NOW WHAT?
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 4794
+wordpress_url: http://yellowconference.com/?p=4794
+date: '2016-01-12 04:00:23 -0800'
+date_gmt: '2016-01-12 12:00:23 -0800'
+categories:
+- Advice
+- The Starter
+- Free Downloads
+- BUILD
+tags: []
+comments: []
+---
+<h2><a href="http://yellowconference.com/wp-content/uploads/2016/01/image1.jpg"><img class="aligncenter size-full wp-image-4807" src="http://yellowconference.com/wp-content/uploads/2016/01/image1.jpg" alt="Yellow Co. Blog: where do you start? we've got you covered. Here's our tips to navigate your overnight success. " width="700" height="467" /></a>I know the feeling.&nbsp;Out of nowhere on a Tuesday morning you wake up to 3 new emails from potential clients.</h2><br />
+Friends have finally given out your card, someone looked at your LinkedIn profile, and your perfectly imperfect Instagram feed reeled in another.</p>
+<h2>Overnight you&rsquo;ve gone from being obsolete to running a somewhat profitable business.</h2><br />
+The initial delight leads to Beyonc&eacute;-worthy dance moves as you pour your morning coffee and clean the dishes from last night. And approximately 4 minutes later, panic sets in. You sit at your laptop again and begin google-ing phrases like <em>pricing schedules, client contracts, business plans, and email templates;</em> and your head spins.</p>
+<h2>So, what now?</h2></p>
+<h4><strong>Speak your purpose</strong></h4><br />
+I know it seems premature to write a vision statement when there are 5 million questions on your list, but trust me on this one, it&rsquo;s the best place to start. In simple, clear language: <strong><em>write down what you offer and why.</em></strong> Simon Sinek, a great entrepreneurial author, writes, &ldquo;For values or guiding principles to be truly effective they have to be verbs.&nbsp;<em>It&rsquo;s not &ldquo;integrity,&rdquo; it&rsquo;s &ldquo;always do the right thing.&rdquo; It&rsquo;s not &ldquo;innovation,&rdquo; it&rsquo;s &ldquo;look at the problem from a different angle.&rdquo;</em> Articulating our values as verbs gives us a clear idea - we have a clear idea of how to act in any situation.&rdquo; In the next few months there will be plenty of opportunities to get overwhelmed, nervous, insecure, and confused. Taking the time to write this now is saving you from getting off course later. Here are some questions to help you get started:</p>
+<p><em>1-</em><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em><em>Who specifically is your intended clientele?</em></p>
+<p><em>2-</em><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em><em>What value are you bringing to them?</em></p>
+<p><em>3-</em><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em><em>Can you provide 5 descriptive words that describe the core values of your company?</em></p>
+<p><em>4-</em><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em><em>How does your business stand out?</em></p>
+<p><em>5-</em><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em><em>Why did you start this company and why do you enjoy it?</em></p>
+<p><em>6-</em><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em><em>What image of your business would you like to convey?</em></p>
+<blockquote><p>&ldquo;For values or guiding principles to be truly effective they have to be verbs.&nbsp;<em>It&rsquo;s not &ldquo;integrity,&rdquo; it&rsquo;s &ldquo;always do the right thing.&rdquo; It&rsquo;s not &ldquo;innovation,&rdquo; it&rsquo;s &ldquo;look at the problem from a different angle.&rdquo;</em> Articulating our values as verbs gives us a clear idea - we have a clear idea of how to act in any situation.&rdquo; Simon Sinek</blockquote><br />
+And remember, <em>&ldquo;People don&rsquo;t buy WHAT you do, they buy WHY you do it.&rdquo;</em> <em>-Simon Sinek</em></p>
+<h4><strong>Don&rsquo;t panic (seriously)</strong></h4><br />
+This once dreamy new opportunity feels like a burst water pipe in your apartment and you&rsquo;re trying to clean it up with a washcloth of business knowledge. <strong><em>Sit down, don&rsquo;t delete your email address and change your phone number.</em> You can do this.</strong> The internet is a vast and glorious storehouse of practical information, there are other women out there happy to guide you along the way, and your clients won&rsquo;t expect you to be an expert on everything right away, I promise! Breathe, <em>you don&rsquo;t have to do this with perfection</em>.</p>
+<h4><strong>Research</strong></h4></p>
+<p style="text-align: left;">Get online. Google the heck (and other expletives) out of your field. The purpose of this is not to read every article that comes up on the, &ldquo;How to start a freelance graphic design business,&rdquo; search result. Don't overload your brain with new information and fall asleep crying over a bowl of popcorn. Instead, start slow, skim articles, and get a general overview of things you&rsquo;ll need to learn. Keep a list of these things, this will come in handy later.<a href="http://yellowconference.com/wp-content/uploads/2016/01/photo2.jpg"><img class="aligncenter size-full wp-image-4814" src="http://yellowconference.com/wp-content/uploads/2016/01/photo2.jpg" alt="The Yellow Co. Blog: Overnight success take you by surprise? Don't worry, we got you covered. " width="700" height="525" /></a></p></p>
+<h4><strong>Phone a friend</strong></h4><br />
+Get on the phone and call a friend or family member who runs their own business, even if it isn&rsquo;t in your field. Yes, I said call--not text or FB message. Ask them about the items on your list and write as much down as you can. Knowledge from someone who has walked through the fire of self-employment will give you a sense of direction and reality that articles just can&rsquo;t live up to. Also, <em>these people are your lifelines</em>. When a question or issue comes up in the next few months these forerunners are your instant business gurus.</p>
+<h4><strong>To the Drawing Board</strong></h4><br />
+You have your list, your lifelines, and a glass of wine; it&rsquo;s development time. <em>Decide on the 3 most essential things you need to create and start from there</em>. <strong>My suggestion is that you start with a pricing schedule, contract, and 1-3 simple email templates.</strong></p>
+<p><strong>Let&rsquo;s start with the pricing schedule:</strong> To begin, read a few articles on the ups and downs of flat rates vs. hourly rates, listing prices on your website vs. not, etc. Read until you get a sense of what feels right for you. Don&rsquo;t get commitment phobic, you can always adapt these numbers and policies later. It feels like a lot of new information but go at your own pace one by one through your list and soon you&rsquo;ll have a working draft of a business plan and contract.</p>
+<h4><strong>Be your best</strong></h4><br />
+If we&rsquo;re honest even after all the research is done and templates are written, there is still so much to learn. With each new client you&rsquo;ll find adjustments to make and upgrades to your process. The best way to keep viewing this as an adventure and not the scariest thing you&rsquo;ve ever done is to embrace constantly learning. Take classes, read new articles, watch vlogs, buy books, try new techniques, and continually try to be your best.</p>
+<p>The excitement and fear, insecurity and boldness are all mixed up right now. Part of you wants to turn back toward the steady 9-5 and part of you can&rsquo;t wait to run forward. As you venture forward, <em>do it boldly</em>. There are so many women who have walked before you and left a trail of advice and guidance.&nbsp;<em>May this be your best adventure yet!</em></p>
+<p>&nbsp;</p>
+<p><a href="http://www.natalieskeith.com/" target="_blank"><img class="aligncenter size-full wp-image-4805" src="http://yellowconference.com/wp-content/uploads/2016/01/NATALIESKIETH.jpg" alt="Yellow Co. Blog: Overnight Success? We've got your next steps covered. " width="700" height="264" /></a></p>

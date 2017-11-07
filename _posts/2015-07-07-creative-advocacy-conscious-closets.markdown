@@ -1,0 +1,58 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Creative Advocacy: Conscious Closets'
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 3237
+wordpress_url: http://yellowconference.com/?p=3237
+date: '2015-07-07 04:00:48 -0700'
+date_gmt: '2015-07-07 11:00:48 -0700'
+categories:
+- Light Talk
+- Creative Ladies
+- Advice
+- CREATIVE ADVOCACY
+- Inspiration
+- The Activist
+tags: []
+comments:
+- id: 3951
+  author: 10 REALISTIC WAYS YOU CAN START FIGHTING MODERN DAY SLAVERY NOW - Yellow
+    ConferenceYellow Conference
+  author_email: ''
+  author_url: http://yellowconference.com/stophumantrafficking/
+  date: '2015-08-20 04:03:45 -0700'
+  date_gmt: '2015-08-20 11:03:45 -0700'
+  content: "[&#8230;] super helpful when it comes to groceries and Overdressed can
+    help you shop clothing&mdash;or check out this post about having a conscious [&#8230;]"
+---
+<p style="text-align: left;"><em>I couldn't think of a better way to kick off our Creative Activism series than with a guest post by my beautiful&nbsp;friend Johanna (pronounced Jo-ha-na...accentuate the <strong>ha</strong>...). When she's not doing some radical work with <a href="https://www.ijm.org/" target="_blank">International Justice Mission,</a>&nbsp;she's using her influence via social media to encourage women to dress fab with a conscious using&nbsp;<a href="https://instagram.com/explore/tags/consciousclosets/" target="_blank">#consciousclosests</a>. I asked her to share some of her advice on dressing with&nbsp;awareness and care, and simply loved everything&nbsp;she had to say...</em></p><br />
+<strong><a href="http://yellowconference.com/wp-content/uploads/2015/07/untitled-6-of-2-copy.jpg"><img class="aligncenter size-full wp-image-3243" src="http://yellowconference.com/wp-content/uploads/2015/07/untitled-6-of-2-copy.jpg" alt="untitled (6 of 2) copy" width="700" height="956" /></a>We all have those pivot points in our lives.</strong> You know what I&rsquo;m talking about, moments that change us from the inside out. I had yet another one (my life has consisted of many over the years) this past December. You see, I work for <a href="http://www.ijm.org">IJM</a>, the largest anti-trafficking organization in the world, and I have to tell you, <em>I love my job,</em> but it is HARD work--everything about it. Trafficking and justice work is my passion and all the incredible effort is worth it when my colleagues shut down <a href="http://thecnnfreedomproject.blogs.cnn.com/2013/03/20/toddlers-freed-from-brick-kiln-bondage/" target="_blank">another brick kiln in India</a> or rescue another girl from a brothel in Cebu.</p>
+<p><strong>But I have to confess something else. I also love fashion.</strong> My obsession with fashion has dated back to my time as a toddler when I would seriously cry if my mom wouldn&rsquo;t let me wear a dress every day.</p>
+<blockquote><p><span style="line-height: 1.5;">And these questions followed:&nbsp;<em>&ldquo;who made these boots&rdquo;, &ldquo;where are they from&rdquo;, &ldquo;what are the conditions of the workers?&rdquo;&nbsp;</em>The sad answer? I had no idea. So here I am working incredibly hard to fight for people&rsquo;s freedom while at the same time enslaving them with my consumerism. Something had to change.</span></blockquote><br />
+<span style="line-height: 1.5;">Well, my passion for fashion and my passion for working for an NGO directly conflicts, because, as many of you understand, good fashion is expensive. Working for an NGO, well, let me just way, I&rsquo;ll never be a millionaire.</span></p>
+<p>So what&rsquo;s a gal to do to shop and look good?</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/07/untitled-7-of-2.jpg"><img class="aligncenter size-full wp-image-3241" src="http://yellowconference.com/wp-content/uploads/2015/07/untitled-7-of-2.jpg" alt="Yellow Conference: Creative Advocacy" width="700" height="956" /></a>Now back to that pivot point. I ordered three boots from Forever 21 for a total of $6o! Amazing, right? They shipped them to me, and as I anxiously started unwrapping them, I started to get this knot in my stomach...<em>Uh-oh</em> (I hate that knot). And these questions followed:&nbsp;<em>&ldquo;who made these boots&rdquo;, &ldquo;where are they from&rdquo;, &ldquo;what are the conditions of the workers?&rdquo;&nbsp;</em>The sad answer? I had no idea. So here I am working incredibly hard to fight for people&rsquo;s freedom while at the same time enslaving them with my consumerism. Something had to change.</p>
+<p><strong>I decided at that moment to no longer buy any article of shoes, clothing, or jewelry unless I knew who made them or where they came from.</strong></p>
+<p>In the past several months, this has been a radical change in my life as I have sought to change my closet from a consumerist one to a conscious one, and doing so without destroying the budget.</p>
+<blockquote><p><span style="line-height: 1.5;">.<em>..my passion for fashion and my passion for working for an NGO directly conflicts, because, as many of you understand, good fashion is expensive. Working for an NGO, well, let me just way, I&rsquo;ll never be a millionaire.</em></span></blockquote><br />
+<span style="line-height: 1.5;">So here are a few of the tricks I have learned on my conscious closets journey so far:</span></p>
+<ol>
+<li><strong>Less is more!</strong> This has been a huge change for me but I&rsquo;m getting much more comfortable with loving and wearing one beautiful dress or one amazing pair of heels a season rather than buying 5 cheap dresses or 5 cheap shoes.</li>
+<li><strong>Bring the classics back!</strong> No more funky patterns or wild colors. My style is all about a beauty and grace that will last a lifetime.</li>
+<li><strong>Buy pieces that complement each other!</strong> And mix them up! I love pieces that can transition from casual to elegant with the simple switch of a necklace or bag or shoe.</li>
+<li><strong>There are some awesome ethical companies out there with really good design!</strong> I&rsquo;ve fallen for <a href="https://www.everlane.com/" target="_blank">Everlane</a> and <a href="http://31bits.com/" target="_blank">31 Bits,</a> and <a href="http://www.haydenharnett.com/#close" target="_blank">Hayden Harnett</a> (check Hayden&rsquo;s awesome sales). But there are so many others if you do the research. You can also follow along my Instagram where I and others catalogue ethical companies using the hashtag <a href="https://instagram.com/explore/tags/consciousclosets/" target="_blank">#consciousclosets</a></li>
+<li><strong>Shop local and thrift, thrift, thrift!</strong> This is by far the best way to start your ethical fashion journey on a budget.</li>
+<li><strong>Vintage en vogue!</strong> I love finding awesome vintage shoes , jewelry, and sunglasses especially. See number 2. Always.</li><br />
+</ol></p>
+<p style="text-align: left;"><span style="line-height: 1.5;"><a href="http://yellowconference.com/wp-content/uploads/2015/07/untitled-4-of-5.jpg"><img class="aligncenter size-full wp-image-3240" src="http://yellowconference.com/wp-content/uploads/2015/07/untitled-4-of-5.jpg" alt="untitled (4 of 5)" width="700" height="1050" /></a></span></p></p>
+<p style="text-align: left;">I hope you find this enlightening and helpful as you think about your fashion choices. But I also want you to give yourself grace! It&rsquo;s not an easy transition, and it&rsquo;s not for everyone. However, I have found, and continue to find, that this crazy life is a beautiful journey, and my hope is to always travel mindfully and consciously. I pray that for you too. Bring on those pivot points!</p></p>
+<p style="text-align: left;"><em>Photos by <a href="http://briantropiano.com/" target="_blank">Brian Tropiano Photography</a></em></p></p>
+<p style="text-align: left;"><a href="https://instagram.com/johannatropiano/" target="_blank"><img class="aligncenter size-full wp-image-3244" src="http://yellowconference.com/wp-content/uploads/2015/07/johannabio.jpg" alt="Yellow Conference Guest Blogger: Johanna Tropiano" width="700" height="264" /></a></p></p>

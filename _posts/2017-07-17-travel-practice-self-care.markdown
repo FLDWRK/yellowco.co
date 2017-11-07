@@ -1,0 +1,70 @@
+---
+layout: post
+status: publish
+published: true
+title: TRAVEL-FRIENDLY WAYS TO PRACTICE SELF CARE ON THE ROAD
+author:
+  display_name: admin
+  login: hannasnyder
+  email: hanna@yellowco.co
+  url: ''
+author_login: hannasnyder
+author_email: hanna@yellowco.co
+wordpress_id: 9061
+wordpress_url: http://yellowco.co/?p=9061
+date: '2017-07-17 04:00:59 -0700'
+date_gmt: '2017-07-17 11:00:59 -0700'
+categories:
+- Tension
+tags:
+- Self care
+- summer
+- routine
+- travel
+- practice
+- trip
+- essentials
+comments:
+- id: 4380
+  author: Dieulita Datus
+  author_email: dieulitadatus@gmail.com
+  author_url: ''
+  date: '2017-07-17 11:31:00 -0700'
+  date_gmt: '2017-07-17 18:31:00 -0700'
+  content: Love all the tips. I will be sure to put them to good use on my next trip.
+- id: 4391
+  author: Rebecca
+  author_email: sunnyrebeccamail@gmail.com
+  author_url: http://www.sunnyrebecca.com
+  date: '2017-08-03 15:13:00 -0700'
+  date_gmt: '2017-08-03 22:13:00 -0700'
+  content: |-
+    This is such a great post idea! It's so easy to neglect self care when traveling and these are some great tips to make sure that self-care isn't lost!
+    Rebecca
+    www.thebloomly.com
+- id: 4397
+  author: Keely Merrett
+  author_email: k.merrett@gmail.com
+  author_url: ''
+  date: '2017-09-04 18:05:00 -0700'
+  date_gmt: '2017-09-05 01:05:00 -0700'
+  content: |-
+    Love this post :) I'm going away soon and being able to set boundaries about my morning routine is definitely something I struggle with and notice the difference in how I feel. Am going to try a lot harder this time.
+    Keely x
+    www.keelymerrett.com
+---
+<p>I don&rsquo;t know about you, but it&rsquo;s taken me a few years to get in the groove of practicing my self-care routine while traveling! When I&rsquo;m at my home base, it&rsquo;s so easy to be diligent about my morning rituals, self-care practices, healthy eating, and exercise. But the minute I travel back to East Africa for work with my non-profit, everything seems to fly right out the window! In the past, I would make excuses for myself to skip these practices - like I have to eat what the locals eat, the weather is too hot to do yoga, or I don&rsquo;t have extra room in my suitcase to bring my clean beauty supplies, vitamins, or wide-brim hat.</p>
+<p><span style="font-weight: 400;">But now that I&rsquo;m wiser, have gone through burn out during travel, and am on the other side, I truly&nbsp;recognize the importance of self care even when traveling. Because no matter if you are on vacation or on a work trip, it is key to keep our bodies and minds in balance when our environment is&nbsp;shifting. I&rsquo;ve found a few ways to help&nbsp;stay on track even when my regular routine gets disrupted:</span></p>
+<h3><b>Drink lots of water before, during, and after your trip.</b></h3><br />
+<span style="font-weight: 400;">This seems obvious and so simple, but it makes a world of difference. Did you know that hydration from water consumption is not immediate? So if you drink the recommended daily amount today, you can still be dehydrated if you didn&rsquo;t get enough water yesterday! A&nbsp;couple days before embarking on a trip, I make sure to drink plenty (at least 3 liters) of water. I also love to drink cold pressed juices from&nbsp;</span><a href="https://urbanremedy.com" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Urban Remedy</span></a><span style="font-weight: 400;"> and&nbsp;</span><span style="font-weight: 400;"><a href="http://www.pressedjuicery.com" target="_blank" rel="noopener noreferrer">Pressed Juicery</a>&nbsp;before traveling. T</span><span style="font-weight: 400;">he </span><span style="font-weight: 400;">ones filled with greens are some of my favorites, and give me an extra boost of vitamins and energy before starting my journey - not to mention&nbsp;help prevent catching a cold on the plane.</span></p>
+<p><span style="font-weight: 400;">During your plane ride, bring a reusable bottle&nbsp;so you don&rsquo;t need to keep refilling plastic cups (</span><a href="http://www.mybkr.com" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">BKR</span></a><span style="font-weight: 400;"> and&nbsp;</span><a href="http://www.yuhme.se" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Yuhme</span></a><span style="font-weight: 400;"> are my faves). One of the first things I do when I land in a country is go to the market and stock up on water and hydrating food, like fresh fruits and veggies. T</span><span style="font-weight: 400;">o avoid jet lag when I return home, I drink plenty of water, take a pressed juice shot, and head to my favorite health food store to stock up on greens and protein.</span></p>
+<p><img class="aligncenter size-full wp-image-9069" src="http://yellowco.co/wp-content/uploads/2017/07/Photo-Nov-05-10-05-58-AM.jpg" alt="TRAVEL-FRIENDLY WAYS TO PRACTICE SELF CARE ON THE ROAD - THE YELLOW ROOM" width="3456" height="5184" /><b></b></p>
+<h3><b>Don&rsquo;t leave&nbsp;your travel essentials</b><span style="font-weight: normal;">&nbsp;<strong>at home.</strong></span></h3><br />
+<span style="font-weight: 400;">Before overpacking, make sure to bring the things you need to stay healthy and happy. This includes hats, a natural sunscreen (I use one from&nbsp;</span><span style="font-weight: 400;"><a href="http://www.juicebeauty.com" target="_blank" rel="noopener noreferrer">Juice Beauty</a>)</span><span style="font-weight: 400;">, clothing that makes you feel like you, and your skincare products. I love to bring a scented candle and essential oils for an extra pick me up, a neck pillow for the long flight, my favorite books, a journal, and my yoga mat. Lately, I&rsquo;ve also been making it a priority to bring vitamins and basic medicines in case I need them.</span></p>
+<p><span style="font-weight: 400;">Sometimes when traveling, food isn't readily available, or it may not be &ldquo;healthy&rdquo; or to your liking. I've learned to pack some of my favorite healthy snacks to stay nourished along the way. I&rsquo;m a big fan of&nbsp;</span><a href="http://www.justins.com" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Justin&rsquo;s</span></a><span style="font-weight: 400;"> almond butter squeeze packs, granola bars, dried fruit, green smoothie powder mixes, and naturally cured turkey jerky.</span></p>
+<h3><b>Create a non-negotiable morning routine</b><span style="font-weight: normal;">.</span></h3><br />
+<span style="font-weight: 400;">Keeping up with my morning routine when traveling is an ongoing struggle. Because I know this about myself, I now really make an effort to carve out this time for myself while away. Even if your schedule is dependent on other factors and people, try to make whatever time for yourself you need. If you know that your travel buddies&nbsp;get up and cook breakfast at a certain time, wake up beforehand&nbsp;to incorporate your exercise routine, meditation, writing, or any other grounding activity you do to make you, you! </span></p>
+<p><span style="font-weight: 400;">Having all your necessary &ldquo;tools&rdquo; like a&nbsp;journal, yoga mat, or meditation app, like&nbsp;</span><span style="font-weight: 400;"><a href="http://www.headspace.com" target="_blank" rel="noopener noreferrer">Headspace</a>,</span><span style="font-weight: 400;">&nbsp;downloaded on your phone makes practicing your morning routine much more accessible. Prioritizing your ritual will also mean creating some boundaries and saying &ldquo;no&rdquo; sometimes. If you would rather have a relaxing start to some days, skip going on the early visit into town. Stay true to your&nbsp;desires so that your day gets off to a good start!</span></p>
+<p><span style="font-weight: 400;">Learning to maintain a routine of self-care while traveling is a challenge I deal with every time I head to the airport. But now that I have these tools in place, I&rsquo;m better able to practice some of my grounding, healthy rituals that keep me at my best self - and really, that's what helps make an adventure away the most life-giving.</span></p>
+<p><em>Photos by:&nbsp;<a href="http://www.nuanceandbubbles.com/" target="_blank" rel="noopener noreferrer">Valerie Moreno</a></em></p>
+<p><a href="http://www.globaldreamcollective.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-9062 size-full" src="http://yellowco.co/wp-content/uploads/2017/07/Elisabetta-Colabianchi-BIO.jpg" alt="Elisabetta Colabianchi BIO" width="2699" height="980" /></a></p>

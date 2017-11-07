@@ -1,0 +1,22 @@
+---
+layout: acf-field
+status: publish
+published: true
+title: Social Networks
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+excerpt: social_networks
+wordpress_id: 84
+wordpress_url: http://yellowco.co/?post_type=acf-field&#038;p=84
+date: '2016-11-23 02:12:07 -0800'
+date_gmt: '2016-11-23 02:12:07 -0800'
+categories: []
+tags: []
+comments: []
+---
+<p>a:9:{s:4:"type";s:16:"flexible_content";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:12:"button_label";s:7:"Add Row";s:3:"min";s:0:"";s:3:"max";s:0:"";s:7:"layouts";a:5:{i:0;a:6:{s:3:"key";s:13:"5834fab85ca3c";s:5:"label";s:9:"Instagram";s:4:"name";s:9:"instagram";s:7:"display";s:5:"block";s:3:"min";s:0:"";s:3:"max";s:0:"";}i:1;a:6:{s:3:"key";s:13:"5834fb4df680a";s:5:"label";s:8:"SnapChat";s:4:"name";s:14:"snapchat-ghost";s:7:"display";s:5:"block";s:3:"min";s:0:"";s:3:"max";s:0:"";}i:2;a:6:{s:3:"key";s:13:"5834fb49f6808";s:5:"label";s:9:"Pinterest";s:4:"name";s:9:"pinterest";s:7:"display";s:5:"block";s:3:"min";s:0:"";s:3:"max";s:0:"";}i:3;a:6:{s:3:"key";s:13:"5834fb6af680c";s:5:"label";s:8:"Facebook";s:4:"name";s:8:"facebook";s:7:"display";s:5:"block";s:3:"min";s:0:"";s:3:"max";s:0:"";}i:4;a:6:{s:3:"key";s:13:"5834fb7ff680e";s:5:"label";s:7:"Twitter";s:4:"name";s:7:"twitter";s:7:"display";s:5:"block";s:3:"min";s:0:"";s:3:"max";s:0:"";}}}</p>

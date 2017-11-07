@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: 3 STEPS TO CREATE THE SPECIFIC SUPPORT NETWORK YOU NEED
+author:
+  display_name: admin
+  login: hannasnyder
+  email: hanna@yellowco.co
+  url: ''
+author_login: hannasnyder
+author_email: hanna@yellowco.co
+wordpress_id: 9784
+wordpress_url: http://yellowco.co/?p=9784
+date: '2017-10-20 04:00:16 -0700'
+date_gmt: '2017-10-20 11:00:16 -0700'
+categories:
+- COME TOGETHER
+tags: []
+comments: []
+---
+<h3>One of the richest pieces of the human experience is watching individuals come together to console, comfort, advise, and champion one another.</h3><br />
+Both giving and receiving support from others&nbsp;creates&nbsp;an opportunity to be selfless, and to connect more deeply with the experiences of those around us. It broadens our horizons, and encourages growth on all fronts - so why aren&rsquo;t more of us taking advantage of this? As the CEO of <a href="http://thewellsupportedwoman.com/" target="_blank" rel="noopener noreferrer">The Well Supported Woman</a>, a life coaching and personal development hub for millennial women, this is a conversation that I have with my clients all the time.</p>
+<p>There are many reasons that asking for support, customizing it to our needs, and even intentionally moving on from old sources of support all feel difficult for women.&nbsp;For one,&nbsp;it can feel immensely&nbsp;challenging and overwhelming to build up intentional support networks, and to learn how to ask for what you truly need. The good news is that it&rsquo;s really not too difficult - many of us just never learned how to do so, or haven&rsquo;t considered how we might benefit from additional support in our lives.</p>
+<p>The term &lsquo;support network&rsquo; can sound stuffy and old-school, but these intentional&nbsp;groups are actually more relevant and necessary than ever before.<strong>&nbsp;</strong><span style="font-weight: 300;">We have access to all the information we could ever need at our fingertips, and fewer in person relationships than in the past. When I use the term support networks, I am not only talking about formalized support groups or work teams, but&nbsp;also the people you choose to surround yourself with and seek advice from in all areas of life. </span><span style="font-weight: 300;">In fact, it&rsquo;s totally normal and helpful to have not just one set-in-stone team of advisors, but to have a rotating cast of characters whose insight you can seek out depending on your needs.</span></p>
+<p><img class="aligncenter size-full wp-image-9789" src="http://yellowco.co/wp-content/uploads/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-2.jpg" alt="3 STEPS TO CREATE THE SPECIFIC SUPPORT NETWORK YOU NEED - YELLOW CO." width="2048" height="1356" /></p>
+<h3><strong>Remember: regardless of the relationships you were born into, you have the freedom to create a system of support for yourself around anything you desire. </strong></h3><br />
+<span style="font-weight: 300;">It&rsquo;s also sometimes healthy to outgrow members of your current support network. If you have ever outgrown a friendship or co-working situation, you&rsquo;ll know that it&rsquo;s tempting to feel guilty or hold on to a relationship past its due date. Instead, I encourage you to drop the shame and celebrate your growth. It means that you&rsquo;re challenging yourself, and you (as well as your former support network) are ready for bigger, better things. So if you&rsquo;ve reached a point in your personal, professional, or spiritual life where you&rsquo;re ready to intentionally craft a new support network (or networks) for yourself, read on for my favorite tips! </span></p>
+<h3><span style="font-weight: 300;"><strong>1. Identify where you could most use support right now.</strong></span></h3><br />
+<span style="font-weight: 300;">Do you have a solid mentor at work, but feel unsure about how to proceed in your own personal development? Do you want to feel like you have more family support? Do you crave closer friendships with others? If you&rsquo;re not sure which part of your life could benefit most from support, think about the goals you have in mind for this year, and who might be able to support you in checking each of them off the list.</span></p>
+<h3><span style="font-weight: 300;"><strong>2. Know who to ask.</strong></span></h3><br />
+<span style="font-weight: 300;">This is hugely important. Too often we turn to the people we&rsquo;re close to for advice or a listening ear without considering whether they&rsquo;re the best kind of support for us in this situation. Take a moment to consider their current life situation, past experience with this topic, and the likelihood that their communication style will feel supportive to you. If you have a difficult relationship with a family member, for example, don&rsquo;t approach them for advice when you&rsquo;re feeling vulnerable expecting that it will work out perfectly.</span></p>
+<p><img class="aligncenter size-full wp-image-9790" src="http://yellowco.co/wp-content/uploads/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-1.jpg" alt="3 STEPS TO CREATE THE SPECIFIC SUPPORT NETWORK YOU NEED - YELLOW CO." width="5760" height="3840" /></p>
+<h3><span style="font-weight: 300;"><strong>3. Specify&nbsp;what you need, and ask for it.</strong></span></h3><br />
+<span style="font-weight: 300;">This part is on you. Before you can effectively utilize your new support network&nbsp;to start crushing goals and climbing the ranks, you need to be crystal clear on the type of support you respond to best. Are you best with blunt feedback, or do you need a gentle touch? Do you want the person you&rsquo;re talking to to offer you advice, to hear you out without judgement, or to get upset along with you and validate your feelings? Let them know what you want and need (and respect if they can&rsquo;t give you that right now), so that you can seek out the best person in the moment to give you those things. </span></p>
+<p><span style="font-weight: 300;">At the end of the day, a support network is less so the formal networking community you may imagine, and more of a constellation map; starred with people whose backgrounds, experiences, and insights vary greatly. Bring in new voices, don&rsquo;t be afraid to shake things up, and always be expanding your connections in number and in depth. The one unifying factor of all of those in your network should be that they have your best intentions at heart. Everything else is up to you.</span></p>
+<p><em>Photos by:&nbsp;<a href="http://ironandfern.com/" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironandfern.com&amp;source=gmail&amp;ust=1508277878058000&amp;usg=AFQjCNELDTh_qkr12fJckUWOzz1K1ys54g">Iron and Fern</a>&nbsp;and&nbsp;<a href="https://stevecowellphoto.com/" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://stevecowellphoto.com&amp;source=gmail&amp;ust=1508277878058000&amp;usg=AFQjCNGUWU9_7RjNYVy-5DHe3K93K6b_nA">Steve Cowell Photo</a>&nbsp;for&nbsp;<a href="https://fldwrk.io/" target="_blank" rel="noopener noreferrer">FLDWRK</a></em></p>
+<p><a href="http://thewellsupportedwoman.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-8400 size-full" src="http://yellowco.co/wp-content/uploads/2017/04/LAURA-WELDY-BIO.jpg" alt="LAURA WELDY BIO" width="2699" height="980" /></a></p>

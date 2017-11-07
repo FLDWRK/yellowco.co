@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: 'THE HER INITIATIVE: HOW ONE CAUSE BROUGHT TOGETHER FOUR POWERHOUSE CREATIVES'
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 3976
+wordpress_url: http://yellowconference.com/?p=3976
+date: '2015-09-22 04:00:40 -0700'
+date_gmt: '2015-09-22 11:00:40 -0700'
+categories:
+- Creative Ladies
+- CREATIVE ADVOCACY
+- The Activist
+- The Starter
+- The Leader
+tags: []
+comments: []
+---
+<h5><a href="http://yellowconference.com/wp-content/uploads/2015/09/herinitiative1.jpg"><img class="aligncenter size-full wp-image-3968" src="http://yellowconference.com/wp-content/uploads/2015/09/herinitiative1.jpg" alt="Yellow Conference Blog: spread good and bloom" width="700" height="467" /></a></h5></p>
+<h5>Worth and Dignity.</h5><br />
+Those words have been spoken over me for as long as I can remember. But have they really settled in and taken root in my heart? Have they taken root in your heart?<br />
+As women, we can so quickly deny ourselves worth and dignity. That may come in simply being unable to accept a compliment or as far as reeling us into a lifestyle choice we never thought possible. Regardless, there is a lot of power in those two words and I have a real love/hate relationship with them.<br />
+I recently had an incredible opportunity to take four amazing women on a trip to the Dominican Republic through <a href="http://theherinitiative.org/" target="_blank">The Her Initiative,</a> the women&rsquo;s campaign I started through Healing Waters International. I had spent months planning out the trip to the smallest of details and was a bit nervous about what it was going to be like to spend 5 days straight with 4 power house women, none of us having ever met in person! This journey included photographer&nbsp;<a href="http://photosbyjennaleigh.com/" target="_blank">Jenna Kutcher,</a> former bachelorette <a href="http://www.desireehartsock.com/" target="_blank">Desiree Hartsock,</a>&nbsp;and bloggers&nbsp;<a href="http://carriebradshawlied.com/about" target="_blank">Kathleen Barnes</a>, and <a href="http://sunshadesandsnowflakes.blogspot.com/" target="_blank">Lauren Steele.</a></p>
+<blockquote><p>I spent three days in the Dominican Republic with these four women visiting some of the poorest communities we&rsquo;ve ever seen, playing with kiddos, meeting with amazing women leaders, and seeing how clean water can truly change someone&rsquo;s life in every way possible!</blockquote><br />
+<span style="line-height: 1.5;">See, I had been feeling so completely unworthy. Unworthy of The Her Initiative; unworthy of this trip; unworthy of all the amazing things that have been happening through all of this. And then it hit me: </span><em style="line-height: 1.5;">I&rsquo;m not deserving.</em><span style="line-height: 1.5;"> I&rsquo;m not deserving&nbsp;of any of this. </span><strong style="line-height: 1.5;">But it&rsquo;s my responsibility</strong><span style="line-height: 1.5;"> for us to bring worth and dignity to the women and children that we will be working with on this trip!</span></p>
+<h6><a href="http://yellowconference.com/wp-content/uploads/2015/09/herinitiative.jpg"><img class="aligncenter size-full wp-image-3969" src="http://yellowconference.com/wp-content/uploads/2015/09/herinitiative.jpg" alt="Yellow Conference Blog: Spread Good and Bloom" width="700" height="467" /></a><br />
+So that is what we set out to do...And you know what&rsquo;s funny? The paradox of the whole thing is that when you offer worth and dignity to others, you in return give worth and dignity to yourself.</h6><br />
+I spent three days in the Dominican Republic with these four women visiting some of the poorest communities we&rsquo;ve ever seen, playing with kiddos, meeting with amazing women leaders, and seeing how clean water can truly change someone&rsquo;s life in every way possible! The curriculum that the women go through is called <em>&ldquo;Clothed In Strength and Dignity&rdquo;</em> and we truly saw that lived out. Young girls who have never been taught their worth, who often get married and/or pregnant by the time they are 13, are now walking examples of strength and dignity. Through The Her Initiative and the <em>&ldquo;Clothed In Strength and Dignity&rdquo;</em> curriculum, they have been taught about their worth. They are making safe and healthy choices, and they are seeing a future of hope. It&rsquo;s an incredible thing to witness.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/09/tuesdaypost.jpg"><img class="aligncenter size-full wp-image-3970" src="http://yellowconference.com/wp-content/uploads/2015/09/tuesdaypost.jpg" alt="Yellow Conference Blog: spread good and bloom" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2015/09/HealingWaters-43.jpg"><img class="aligncenter size-full wp-image-3971" src="http://yellowconference.com/wp-content/uploads/2015/09/HealingWaters-43.jpg" alt="yellow conference blog: spread good and bloom" width="700" height="467" /></a></p>
+<p>The four women who went on this trip with me have become my people. We laughed together, cried together, danced together, and served together. Through each of them I saw worth and dignity fleshed out and they poured it back on me.<br />
+In that week I saw my dream of what The Her Initiative could be, truly lived out: women just like me, who have their own struggles and insecurities, coming together to empower other women. To forget about ourselves for a little while so that we could be fully present. To love in a deep and authentic way and to invest in others. To use our gifts, talents, and creativity to develop something that other women could be invited into. Those few days were some of the most beautiful days I have ever lived.</p>
+<h6>So what are you supposed to take away from my ramblings?</h6><br />
+Well, for starters, as a community of creatives who want to change the world, <strong>never give up.</strong> Keep leaning into the hardship. Keep pressing forward. Let your weaknesses become strengths. Let the insecurities in your life come to the surface and be surprised how they just might propel you into what you should be doing.</p>
+<p><strong>And go.</strong> Go serve at the local shelter. Go on that international trip. Go teach your skill set to at-risk youth. Go be the change you wish to see in the world.</p>
+<p>Photos by <a href="http://photosbyjennaleigh.com/" target="_blank">Jenna Kutcher</a></p>
+<p><a href="http://theherinitiative.org/" target="_blank"><img class="aligncenter size-full wp-image-3982" src="http://yellowconference.com/wp-content/uploads/2015/09/GUEST_Author_Template-3.jpg" alt="Yellow Conference Blog: SPREAD GOOD AND BLOOM" width="700" height="264" /></a></p>

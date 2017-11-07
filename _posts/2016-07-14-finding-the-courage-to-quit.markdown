@@ -1,0 +1,71 @@
+---
+layout: post
+status: publish
+published: true
+title: FINDING THE COURAGE TO QUIT
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 6090
+wordpress_url: http://yellowconference.com/?p=6090
+date: '2016-07-14 04:00:11 -0700'
+date_gmt: '2016-07-14 11:00:11 -0700'
+categories:
+- Advice
+- Encouragement
+- VALOR
+tags: []
+comments:
+- id: 4154
+  author: That First Year
+  author_email: info@thatfirstyearblog.com
+  author_url: http://www.thatfirstyearblog.com/
+  date: '2016-07-14 15:25:00 -0700'
+  date_gmt: '2016-07-14 22:25:00 -0700'
+  content: EXACTLY what I needed to read today -- thank you for this encouragement!
+    - Ally
+- id: 4155
+  author: Christy Allen
+  author_email: hello.christyallen@gmail.com
+  author_url: ''
+  date: '2016-07-14 16:10:00 -0700'
+  date_gmt: '2016-07-14 23:10:00 -0700'
+  content: "Love this. Thank you for sharing it. \nI was once given similar advice
+    from my dad. He said, \"No matter what decision you make, someone won't be happy.
+    Just make sure that someone isn't you.\""
+- id: 4156
+  author: Bri Towne
+  author_email: hello@lifebybri.com
+  author_url: http://www.lifebybri.com/
+  date: '2016-07-18 12:47:00 -0700'
+  date_gmt: '2016-07-18 19:47:00 -0700'
+  content: i LOVE that advice! it's often so hard to follow but ya gotta do what's
+    best for you. xo
+- id: 4157
+  author: Jannely Fern&aacute;ndez
+  author_email: jannelye@gmail.com
+  author_url: ''
+  date: '2016-07-26 10:38:00 -0700'
+  date_gmt: '2016-07-26 17:38:00 -0700'
+  content: I stuck to a relationship for 4 years because I was afraid what would others
+    think. I didn't want to be the quitter. This article spoke to me. In life you
+    have to quit things sometimes to be redirected to the right path.
+---
+<h2><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-75.jpg"><img class="aligncenter size-full wp-image-6099" src="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-75.jpg" alt="ValerieDenisePhotos-75" width="700" height="467" /></a>I am a quitter.</span></h2><br />
+I&rsquo;ve quit more things in my life than I can count. I quit dancing, I quit my high school&rsquo;s musical, I even quit a full-ride to study musical theater. The list goes on and on.</p>
+<p>Growing up, I felt immense guilt and shame whenever I had the desire to quit something. My 5th grade basketball team, the high school cheer squad, gymnastics. I knew what people, friends, family, thought of quitters and I did not want to be one of them. Lumping me into a group of kids who never finish or accomplish anything.</p>
+<p>As I&rsquo;ve gotten older and a tiny bit wiser, I&rsquo;ve come to realize something that&rsquo;s changed my entire outlook on quitting: <strong><em>It&rsquo;s a good thing.<a href="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-73.jpg"><img class="aligncenter size-full wp-image-6094" src="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-73.jpg" alt="Yellow Co. Blog: It's ok to quit" width="700" height="467" /></a></em></strong>There&rsquo;s no possible way one can go through life without being a quitter at some point. Nearly every child these days is enrolled in a ballet class or kickball league. Not all of them grow up to become ballerinas or professional kickball players (if there is such a thing). They can&rsquo;t. It&rsquo;s impossible. And it&rsquo;s a good thing. Because the kid who quits kickball can then go on to try out basketball and then soccer and then finally realize he doesn&rsquo;t thrive in team sports and finds himself as a star swimmer.</p>
+<h2>Every activity I&rsquo;ve quit has lead me down a path towards something better and more suitable for myself.</h2><br />
+Looking back, I can also see a theme emerging from the sorts of activities that I&rsquo;ve left behind. From ballet and cheer to theater I&rsquo;ve realized that I am clearly trying to get away from performance. It&rsquo;s been incredibly difficult to walk away from some of those things. I thought I was going to be a big Broadway star. Taking the lead in my high school&rsquo;s musical, getting a handsome scholarship to study theater at a prestigious school had me convinced this was what I was supposed to do. <strong>But being great at something doesn&rsquo;t mean you have to keep at it.</strong> If it drains your energy and makes you yearn for something else, it&rsquo;s clearly not for you. No matter how great you are, no matter what anyone else may think.</p>
+<h2><a href="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-79.jpg"><img class="aligncenter size-full wp-image-6092" src="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-79.jpg" alt="Yellow Co. Blog: It's ok to quit" width="700" height="467" /></a><span style="font-weight: 400;"><strong>Quitting is an essential part of life.</strong> Knowing when and how to quit however, is not the easiest. </span></h2><br />
+<span style="font-weight: 400;">Friends and family may not understand. Total strangers may seem like they know the answers better than you. When I decided to leave behind my life in theater, I was embarrassed and ashamed. I didn&rsquo;t want to tell people and when I did, I was so worried about what they would think. As it turned out, once I did start sharing the news, it was worse than I imagined. My fellow theater students treated me differently, I wasn&rsquo;t invited to parties or shows. Friends and classmates would made side comments like </span><i><span style="font-weight: 400;">&ldquo;but you won&rsquo;t be here then, anyway.&rdquo;</span></i><span style="font-weight: 400;"> It&rsquo;s things like this that made me rethink my decision, made me ashamed of what I was doing. Ashamed of being a quitter.<a href="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-74.jpg"><img class="aligncenter size-full wp-image-6093" src="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-74.jpg" alt="Yellow Co. Blog: It's ok to quit" width="700" height="467" /></a></span><span style="font-weight: 400;">It was my father who said to me: &ldquo;</span><i><span style="font-weight: 400;">Who cares what they think? What do they know? You&rsquo;re the only person who can decide what&rsquo;s best for you&rdquo;</span></i><span style="font-weight: 400;"> (but with slightly more colorful language). And he was right. <strong>Worrying about what others think is incredibly draining.</strong> It&rsquo;s not worth the time and energy. I spent so much of my life worrying about what people thought of me that I didn&rsquo;t really live my life. It&rsquo;s like I was living it for someone else. Now that I&rsquo;m a mother and a wife and have been out in the world for a while; away from the umbrella under which I grew up, I see the importance of making my own decisions. </span></p>
+<h2><span style="font-weight: 400;">It takes a great deal of courage and bravery to stop, think for yourself and up and quit. </span></h2><br />
+<span style="font-weight: 400;">Often there have been times in my life where I didn&rsquo;t have that courage, I wasn&rsquo;t brave enough to walk away from something that didn&rsquo;t make my heart soar. Or stuck with something for far too long because I was scared. Scared of what others would think of me, scared of the unknown that came after, scared of becoming a <em>&lsquo;quitter&rsquo;. </em></span></p>
+<p>It&rsquo;s been almost ten years since I left theater, since I was a big fat quitter, and ever since, every time I think about walking away from something in my life, I think about what my father said to me about doing what&rsquo;s best for me. Then I muster up all the bravery and courage I can and I do the big scary thing:</p>
+<p><span style="font-weight: 400;">I quit.</span></p>
+<p><em>Photos by <a href="http://www.valeriedenisephotos.com/" target="_blank">Valerie Denise Photos</a></em></p>
+<p><a href="http://www.lifebybri.com/" target="_blank"><img class="aligncenter size-full wp-image-6121" src="http://yellowconference.com/wp-content/uploads/2016/07/BriTowne.jpg" alt="BriTowne" width="700" height="264" /></a></p>

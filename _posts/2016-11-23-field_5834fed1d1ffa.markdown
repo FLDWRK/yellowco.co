@@ -1,0 +1,21 @@
+---
+layout: acf-field
+status: publish
+published: true
+title: Bottom
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 132
+wordpress_url: http://yellowco.co/?post_type=acf-field&#038;p=132
+date: '2016-11-23 02:28:51 -0800'
+date_gmt: '2016-11-23 02:28:51 -0800'
+categories: []
+tags: []
+comments: []
+---
+<p>a:7:{s:4:"type";s:3:"tab";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:9:"placement";s:3:"top";s:8:"endpoint";i:0;}</p>

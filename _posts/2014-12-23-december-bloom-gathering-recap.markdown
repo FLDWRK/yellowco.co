@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: DECEMBER BLOOM GATHERING RECAP
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 1508
+wordpress_url: http://yellowconference.com/?p=1508
+date: '2014-12-23 04:00:58 -0800'
+date_gmt: '2014-12-23 12:00:58 -0800'
+categories:
+- Resources
+- Creative Ladies
+- The Activist
+- Yellow 2015
+tags: []
+comments:
+- id: 3843
+  author: JANUARY BLOOM GATHERING | Yellow ConferenceYellow Conference
+  author_email: ''
+  author_url: http://yellowconference.com/january-bloom-gathering/
+  date: '2015-01-12 11:06:05 -0800'
+  date_gmt: '2015-01-12 19:06:05 -0800'
+  content: "[&#8230;] hang outs where we do anything and everything from raising money
+    for a cause, or simply have a holiday party. They are great ways to get out of
+    the house, get inspired and connected with women who truly want [&#8230;]"
+---
+<p>This month's gathering was full of Christmas cheer, bubbly, and shopping with a cause. We partnered with <span style="color: #ffcc00;"><a style="color: #ffcc00;" href="http://www.shareanddogood.com/learn/" target="_blank">Share and Do Good</a></span>: an&nbsp;<strong>adorable&nbsp;and conscious&nbsp;</strong>shop in the heart of downtown Fullerton that offers sustainable products that tell a story, support a cause, and do good around the world. We were super excited to discover this gem, and even more excited to support socially-conscious Christmas shopping all the while mingling with some of our favorite gals.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-14.gif"><img class="aligncenter wp-image-1520 size-full" src="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-14.gif" alt="holiday-bloom-2014-14" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-38.jpg"><img class="aligncenter wp-image-1537 size-full" src="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-38.jpg" alt="holiday bloom 2014-38" width="700" height="467" /></a></p>
+<p>The night was full of connecting with women from all over Orange and Los Angeles County, sharing snacks and drinks potluck style, and hearing the story of Share and Do Good from the owner, Lilly. There was an excited buzz around the shop as the Christmas tree was lit, the table full of treats, and everyone gathered around the different goodies by some of our favorite brands like Sevenly, The Giving Keys, 31 Bits, and Krochet Kids.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-52.jpg"><img class="aligncenter wp-image-1535 size-full" src="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-52.jpg" alt="holiday bloom 2014-52" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-52.jpg"><img class="aligncenter wp-image-1525 size-full" src="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-201.gif" alt="holiday-bloom-2014-20" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-75.jpg"><img class="aligncenter wp-image-1536 size-full" src="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-75.jpg" alt="holiday bloom 2014-75" width="700" height="1050" /></a></p>
+<p>We listened to each others dreams, shopped together, laughed together, and found common ground in a rooted desire to see good spread throughout the world. By shopping at Share and Do Good, we supported a variety of causes, from providing a night of shelter for an orphan (<a href="http://www.bridgewatercandles.com/light-a-candle-feed-a-child.aspx" target="_blank">Bridewater Candles</a>) or buying a box of socially conscious goods (<a href="https://causebox.sevenly.org/" target="_blank">Causebox by Sevenly</a>)-and, to top off the night, we collected a table full of toys for Toys for Tots!</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-96.jpg"><img class="aligncenter wp-image-1521 size-full" src="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-96.jpg" alt="holiday bloom 2014-96" width="700" height="467" /></a></p>
+<p>My friends, it was a good December night (and anything Christmas is FTW anyways, am I right?). Stay tuned on the blog for information on our next month's gathering! We cannot&nbsp;<strong>wait&nbsp;</strong>for our next opportunity to connect with you!</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-83.jpg"><img class="aligncenter wp-image-1540 size-full" src="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-83.jpg" alt="holiday bloom 2014-83" width="700" height="467" /></a></p>
+<p>A huge shout out and thank you to the amazing <a href="http://www.ashleytingleyphotography.com/" target="_blank"><span style="color: #ffcc00;">Ashley Tingley </span></a>for capturing this event!</p>
+<p>&nbsp;</p>
+<p><span style="color: #000000;"><strong>SAVE THE DATE: Our next Bloom Gathering will be in L.A. on January 19th. Details coming to the blog soon!&nbsp;</strong>In the meantime...</span></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-59.jpg"><img class="aligncenter wp-image-1531 size-large" src="http://yellowconference.com/wp-content/uploads/2014/12/holiday-bloom-2014-59-682x1024.jpg" alt="holiday bloom 2014-59" width="682" height="1024" /></a></p>
