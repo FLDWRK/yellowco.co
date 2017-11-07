@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 7695
+wordpress_url: http://yellowco.co/?p=7695
+date: '2017-01-19 23:16:57 -0800'
+date_gmt: '2017-01-19 23:16:57 -0800'
+categories: []
+tags: []
+comments: []
+---
+

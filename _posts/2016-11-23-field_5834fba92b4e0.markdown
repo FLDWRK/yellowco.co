@@ -1,0 +1,22 @@
+---
+layout: acf-field
+status: publish
+published: true
+title: Links
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+excerpt: links
+wordpress_id: 90
+wordpress_url: http://yellowco.co/?post_type=acf-field&p=90
+date: '2016-11-23 02:18:49 -0800'
+date_gmt: '2016-11-23 02:18:49 -0800'
+categories: []
+tags: []
+comments: []
+---
+<p>a:10:{s:4:"type";s:8:"repeater";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:9:"collapsed";s:0:"";s:3:"min";s:0:"";s:3:"max";s:0:"";s:6:"layout";s:5:"table";s:12:"button_label";s:7:"Add Row";}</p>

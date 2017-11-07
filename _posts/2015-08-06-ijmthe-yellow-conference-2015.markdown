@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: IJM+THE YELLOW CONFERENCE 2015
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 3507
+wordpress_url: http://yellowconference.com/?p=3507
+date: '2015-08-06 04:00:51 -0700'
+date_gmt: '2015-08-06 11:00:51 -0700'
+categories:
+- CREATIVE ADVOCACY
+- Inspiration
+- The Activist
+- Team Members
+- Yellow 2015
+tags: []
+comments: []
+---
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-05-at-11.47.58-PM.png"><img class="aligncenter size-full wp-image-3523" src="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-05-at-11.47.58-PM.png" alt="Screen shot 2015-08-05 at 11.47.58 PM" width="700" height="635" /></a>In his book <em>Adopted for Life</em>, Russell Moore writes, <em>&ldquo;Think of the plight of the orphan somewhere right now out there in the world. It&rsquo;s not just that she&rsquo;s lonely. It&rsquo;s that she has no inheritance, no future. With every passing year, she&rsquo;s less &lsquo;cute,&rsquo; less adoptable. In just a few years, on her eighteenth birthday, she&rsquo;ll be expelled from the orphanage or from &lsquo;the system.&rsquo; What will happen to her then? Maybe she&rsquo;ll join the military or find some job training. Maybe she&rsquo;ll stare at a tile on the ceiling above her as her body is violated by a man who&rsquo;s willing to pay her enough to eat for a day, alone in a back alley or in front of a camera crew of strangers&hellip;Can you feel the force of such desperation?&rdquo;</em></p>
+<p><strong>This imagery is hard to swallow. </strong></p>
+<p>According to International Justice Mission&rsquo;s website, <strong>32 million</strong> people are currently enslaved worldwide. Daily, there are <strong>32 million people</strong> <strong>who endure forced labor and prostitution as a way of life</strong>, while their captors go free. For multitudes, this is reality.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-04-at-5.05.52-PM1.jpg"><img class="aligncenter size-full wp-image-3513" src="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-04-at-5.05.52-PM1.jpg" alt="IJM+Yellow" width="700" height="641" /></a></p>
+<p>The pictures painted here are graphic, and sometimes it can feel overwhelmingly hopeless. Criminals go free, the poor and poverty-stricken are taken advantage of, and justice is bought with a higher price than most can even afford. <strong>Regardless of one&rsquo;s personal moral convictions or religious beliefs, we can find common ground in knowing that these statistics are not acceptable and these numbers are not OK.</strong></p>
+<p>That is where <a href="https://www.ijm.org/" target="_blank">International Justice Mission (IJM)</a> comes in. Established in 1997, IJM&rsquo;s vision is to <em>&ldquo;Rescue thousands. Protect millions. Prove that justice for the poor is possible.&rdquo;</em> Every day, IJM works to protect people from crime and violence such as slavery and trafficking, as well as rescue those currently entrapped, and prosecute the criminals who carry out these unspeakable acts. IJM also works alongside the country&rsquo;s leaders to strengthen their criminal justice systems in order to prevent these crimes from happening, and ensure the criminals are brought to justice.</p>
+<blockquote><p><em><span style="line-height: 1.5;">Regardless of one&rsquo;s personal moral convictions or religious beliefs, we can find common ground in knowing that these statistics are not acceptable and these numbers are not OK.</span></em></blockquote><br />
+<span style="line-height: 1.5;">Just as these men, women and children face crime as a daily reality, IJM is working </span>daily<span style="line-height: 1.5;"> to rescue and protect these same people and ensure that it never happens again; and they are making leaps and bounds in the right direction. In their 2014 Year-in-Review report, IJM notes that through their organization, &ldquo;4,376 [people] were rescued from violence and oppression in 2014.&rdquo;</span></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-04-at-5.07.03-PM.jpg"><img class="aligncenter size-full wp-image-3509" src="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-04-at-5.07.03-PM.jpg" alt="Yellow+IJM" width="700" height="632" /></a></p>
+<p><strong>Currently, IJM is helping to protect a collective of more than 21 million people from crime and injustice around the globe.</strong> Considering the organization&rsquo;s establishment is less than twenty years old, that&rsquo;s approximately 1 million people being protected each year!</p>
+<p>Perhaps at this point, you are moved to ask, &ldquo;How can I help? What can I do to make a difference?&rdquo;</p>
+<p>Part of The Yellow Conference&rsquo;s mission is to gather women who desire to &ldquo;bring goodness to the world through everyday living.&rdquo; Women who are intentional with their lives, purposeful with their resources, and who strive to &ldquo;fight for goodness, fight for love, and spread it throughout the world.&rdquo;</p>
+<p>Because of the vision that IJM and The Yellow Conference share, we are excited to announce that IJM will be presenting at our Thursday night dinner during this year&rsquo;s Yellow Conference! In addition to their presentation, attendees will have the opportunity to collectively raise money for IJM and live out the mission of The Yellow Conference by fighting for goodness and love, and spreading it throughout the world through the global work of IJM. Join us this year as we link hearts for a common goal &ndash; to rescue and protect vulnerable men, women and children, bring their captors to justice, and educate others about the work that IJM is doing around the world.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/08/EmilyKarsikbio.jpg"><img class="aligncenter size-full wp-image-3515" src="http://yellowconference.com/wp-content/uploads/2015/08/EmilyKarsikbio.jpg" alt="EmilyKarsikbio" width="700" height="264" /></a></p>

@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: 'BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH
+  BOGOBRUSH'
+author:
+  display_name: admin
+  login: hannasnyder
+  email: hanna@yellowco.co
+  url: ''
+author_login: hannasnyder
+author_email: hanna@yellowco.co
+wordpress_id: 9306
+wordpress_url: http://yellowco.co/?p=9306
+date: '2017-08-23 04:00:31 -0700'
+date_gmt: '2017-08-23 11:00:31 -0700'
+categories:
+- Tension
+tags: []
+comments: []
+---
+<p>Protect the planet. Buy ethically made. Give back. They're all on our to-do list, but when time is short and convenience is tempting, it's easy to scrap the whole thing. Thankfully, more and more companies are making it possible to do all of these things every day - and not just with a product you want, but one you already <em>need</em>. I had the opportunity to dive into the mission and workings behind <a href="https://www.bogobrush.com/" target="_blank" rel="noopener noreferrer">Bogobrush</a> with co-founder Heather McDougall. This brother-sister founded business not only&nbsp;champions a buy one-give one program, but designs environmentally friendly (and I'll just say it, <em>beautiful</em>)&nbsp;toothbrushes&nbsp;that turn a daily routine into something to really get excited about.</p>
+<h4><b>How did <a href="https://www.bogobrush.com/" target="_blank" rel="noopener noreferrer">Bogobrush</a> begin? Tell us a little bit of your story of starting a company with your brother.</b></h4><br />
+<span style="font-weight: 400;">HM: We like to say the <a href="https://www.bogobrush.com/" target="_blank" rel="noopener noreferrer">Bogobrush</a> story started when we were kids, growing up as children of a dentist. But, really, neither of us had any intention of following in the family business. John studied design and I studied law, and through our formative years we grew more passionate about using our talents to help the world be a more balanced, sustainable place. We talked about a lot of products and business ideas, but couldn&rsquo;t help coming back to the idea of a toothbrush.</span></p>
+<h4><b>There are <em>so</em>&nbsp;many products made today that have a social-consciousness factor. I love that you set out to not only create something that brings good to the world, but is also a product we </b><strong>already</strong><b>&nbsp;use everyday. I have to ask though, why toothbrushes?</b></h4><br />
+<span style="font-weight: 400;">HM:&nbsp;We wanted to create a product that brought social and environmental awareness into people&rsquo;s everyday lives, and a toothbrush fit so many of the boxes. First of all, it&rsquo;s a product people use every morning and every night. Second, in the USA more than 450 million toothbrushes end up in landfills or polluting natural habitats. And third, more than 80 million Americans lack access to adequate oral care, and that can affect everything from education, to work, and overall health. These facts are just the tip of the iceberg for how important toothbrushes are to our lives.</span></p>
+<p><img class="aligncenter size-full wp-image-9358" src="http://yellowco.co/wp-content/uploads/2017/08/Bogobrush-006.jpg" alt="BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH BOGOBRUSH - THE YELLOW ROOM" width="2600" height="1733" /></p>
+<h4><b>What does good design mean to you?</b></h4><br />
+HM:&nbsp;Good design is something I feel intuitively.</p>
+<h3>Visually, sensually, and functionally, good design transcends the need for analysis.</h3><br />
+Good design is art, and it gets me to connect and react beyond pure function. The best design is that which does all of this with minimal waste and harm to society and the planet.</p>
+<h4><b>It is so fascinating to me that you not only create a toothbrush that is recyclable, but also one that is </b><b><i>bio-degradable</i></b><b>. Are there any other eco-friendly developments you&rsquo;re working on?</b></h4><br />
+HM:&nbsp;Yes! We just developed a brush and stand with a new plant-based material made from hemp. Our current brush is made from flax, and we&rsquo;re so excited to be expanding the biodegradable collection in the coming months.</p>
+<p>Down the road, we want to help community composting programs. Many city dwellers don&rsquo;t have access to composting, especially folks who don&rsquo;t have yard spaces. If they&rsquo;re purchasing a biodegradable Bogobrush, the end of life cycle is difficult to achieve. We&rsquo;re eager to be involved in this effort.</p>
+<h4><b><a href="https://www.bogobrush.com/pages/about-us" target="_blank" rel="noopener noreferrer">As sibling-founders,</a> how do your professional and personal dynamics work between you and John?&nbsp;</b></h4><br />
+HM:&nbsp;Creating a company with John has been awesome. I trust and respect him 100%, and I feel the same from him toward me. We listen to each other, work through different perspectives, and make very transparent decisions together. It&rsquo;s a great partnership.</p>
+<p>I don&rsquo;t think specifically about separating professional and personal life with John; to me Bogobrush is just one of the cool things I get to do with him, like hiking, watching concerts, and trying new food. Certainly, Bogobrush is work and requires specific attention, but I want to have a well-rounded relationship with John and that means deliberately making time for all the things we like to experience together. For us, that just happens to include starting a business.</p>
+<p><img class="aligncenter size-full wp-image-9360" src="http://yellowco.co/wp-content/uploads/2017/08/Bogobrush-0003.jpg" alt="BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH BOGOBRUSH - THE YELLOW ROOM" width="2600" height="1733" /></p>
+<h4><b>You&rsquo;re really transparent about your supply chain and where each part of production happens - down to the bristles. Have there been sacrifices along the way in creating a product designed and made in the USA?&nbsp;</b></h4><br />
+<span style="font-weight: 400;">HM: The biggest sacrifice with US manufacturing so far has been the cost - it&rsquo;s expensive to start manufacturing here. With any manufacturing relationship - overseas or local - I think cost savings come when demand is proven and trust is built. But the cost scale is so much lower overseas and it&rsquo;s easy to see how companies get lured there, especially as a start-up when costs are so high. &nbsp;</span></p>
+<p><span style="font-weight: 400;">For us, the rewards of U.S. manufacturing are worth it. For instance, we can communicate efficiently for product development or troubleshooting, we can make site visits easily, we have personal relationships and trust the source of Bogobrush materials, and we get to support local communities. (Fun fact: Bogobrush handles and stands are coincidentally formed in our Grandma&rsquo;s hometown!) Fortunately, we are at the cusp of growth and are taking steps that will help Bogobrush scale and provide savings to our customers.</span></p>
+<h4><b>What is the biggest lesson you&rsquo;ve learned as a CEO?</b></h4><br />
+HM:&nbsp;First, I&rsquo;ll say learning to know and trust my gut. My gut tells me to ask questions until I&rsquo;m ready to move forward, and my gut tells me to take risks.</p>
+<h3>I&rsquo;m learning that trusting my gut doesn&rsquo;t mean 100% answers, it means peace with a risk.</h3><br />
+Peace comes from gathering information and trusting sources, mentors, and teammates. At the end of the day, action leads to learning, so if my gut is confused, I try to make a decision, move forward, and see what happens.</p>
+<p>Second, I&rsquo;m learning the balance between innovation and the gritty work. I love the process of dreaming and can get caught up in the fear of missing an opportunity. The fact is there is <i>always</i> something to innovate. I&rsquo;m learning to keep my mind open, but stay committed to laying the groundwork of the business so dreaming and innovation can be fruitful in the future.</p>
+<p><img class="aligncenter size-full wp-image-9359" src="http://yellowco.co/wp-content/uploads/2017/08/Bogobrush_-Heather.jpg" alt="BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH BOGOBRUSH - THE YELLOW ROOM" width="2600" height="1733" /></p>
+<h4><b>What is the most fulfilling part of your work for you?</b></h4><br />
+HM:&nbsp;Connecting with people and collaborating to do good and beautiful things.</p>
+<h4><b>You also have a buy one, give one program built into your business. Why was this such a big priority of your&rsquo;s (given that it&rsquo;s even in your name)?&nbsp;</b></h4><br />
+<span style="font-weight: 400;">HM:&nbsp;Sustainability requires us to live in balance with our planet and social environment.</span></p>
+<h3><strong>We needed to build social impact into the fibers of our product and company to&nbsp;help move the needle of our world toward a balanced, sustainable place. </strong></h3><br />
+<span style="font-weight: 400;">Through our giving, we&rsquo;ve met amazing people who are passionate about their communities. One of my favorite stories is from an event we did in Detroit with our partner Covenant Community Care. We helped organize a health fair and one of the things provided by Covenant was assistance signing up for insurance coverage under the Affordable Care Act. We learned that the process was a major barrier for folks in under-insured communities. This example is beyond giving toothbrushes, but because of our giving mission, we have a reason to help make things happen for communities.</span></p>
+<h4></h4></p>
+<h4><b>If there was one truth you could share with other women who aspire to also be agents of good in the world, what would it be?</b></h4><br />
+HM:&nbsp;Some days, you will feel defeated. On those days, close your eyes, breathe into the passion you have for your mission, and trust that it&rsquo;s part of the process and will pass.</p>
+<p><span style="font-weight: 400;">When you keep moving forward with intention, you learn lessons, gain power, and confidence. And, allow yourself to take breaks - go for a hike, practice yoga, dance, or whatever will inspire joy. Who knows, maybe that day of defeat is helping you see a new opportunity. I certainly still cope with these types of days, but experience has shown me that being patient with myself helps me stay committed to my dreams.</span></p>
+<p><em>Photos&nbsp;provided by <a href="https://www.bogobrush.com/" target="_blank" rel="noopener noreferrer">Bogobrush</a></em></p>
+<p><a href="http://hannasnyder.com" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-8312 size-full" src="http://yellowco.co/wp-content/uploads/2017/04/HANNA-BIO-1.jpg" alt="Hanna Snyder Bio" width="2699" height="980" /></a></p>

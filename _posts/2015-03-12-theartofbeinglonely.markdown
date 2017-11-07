@@ -1,0 +1,57 @@
+---
+layout: post
+status: publish
+published: true
+title: 'REDISCOVERING AUTHENTICITY: THE ART OF BEING LONELY'
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 1884
+wordpress_url: http://yellowconference.com/?p=1884
+date: '2015-03-12 04:00:24 -0700'
+date_gmt: '2015-03-12 11:00:24 -0700'
+categories:
+- Advice
+- Inspiration
+- Encouragement
+- REDISCOVERING AUTHENTICITY
+tags: []
+comments:
+- id: 3875
+  author: Susan Marie Stewart
+  author_email: smstew05@gmail.com
+  author_url: http://www.stewarthunterphotography.com
+  date: '2015-03-13 11:42:00 -0700'
+  date_gmt: '2015-03-13 18:42:00 -0700'
+  content: 'I love these thoughts and the idea that things in life get messy! It is
+    always great to know there are other people that feel the exact same way you feel!
+    This is such an amazing idea to start up a creative community! '
+- id: 3876
+  author: Joanna
+  author_email: joannanoelwaterfall@gmail.com
+  author_url: ''
+  date: '2015-03-19 22:31:57 -0700'
+  date_gmt: '2015-03-20 05:31:57 -0700'
+  content: Yes! This is something everyone can relate to at least once in their life.
+    So glad it inspired you!
+---
+<p style="text-align: left;"><img class="aligncenter wp-image-1885 size-full" src="http://yellowconference.com/wp-content/uploads/2015/01/karenpost.jpg" alt="The Yellow Conference Blog: The Art of Being Lonely" width="700" height="1069" /></p></p>
+<p style="text-align: left;">In this season, I spend a fair amount of time alone, which is kind&nbsp;of hard for me because I like people. But I find it difficult to put&nbsp;myself out there when I feel intimidated, not &ldquo;successful&rdquo;&nbsp;enough, or &ldquo;artsy&rdquo; enough to be approached. What I&rsquo;m realizing in&nbsp;this time alone, though, is that <strong>loneliness allows for true&nbsp;self-inspection.</strong> And what is more, it is necessary to grow, and to&nbsp;live a fulfilled life.&nbsp;Being truly alone gives the opportunity to look at yourself and&nbsp;evaluate who you are and where you are. It is a challenge&mdash;we&nbsp;don't want to be faced with our true selves. Without time to truly&nbsp;evaluate the self, we are robbed of the ability to will ourselves to&nbsp;change, make hard/difficult decisions, and admit that we&rsquo;ve got a&nbsp;long way to go&mdash;which involves the hard task pruning--cutting&nbsp;off things that hinder growth. <strong>When a person isn't willing to go&nbsp;through the pain of pruning, they can&rsquo;t thrive.&nbsp;</strong></p></p>
+<blockquote>
+<p style="text-align: left;">Do not settle for a life marked with fake loneliness. Be courageous&nbsp;enough to admit you&rsquo;re alone and work to become comfortable&nbsp;with the person you find there.</p><br />
+</blockquote></p>
+<p style="text-align: left;">This season of evaluating loneliness has given me a new&nbsp;<span style="font-size: 16px; line-height: 1.5;">appreciation for true, intimate relationships. In times of loneliness,&nbsp;life can feel messy: finger-painting, mud splattering-all-over-thenew-carpet,&nbsp;jumping-in-lakes-fully-clothed, kind of messy. But, you know&nbsp;what I&rsquo;m starting to realize and understand? <em>That&rsquo;s what it&rsquo;s supposed&nbsp;to look like.</em> </span></p></p>
+<p style="text-align: left;"><span style="font-size: 16px; line-height: 1.5;">We are constantly pressured to put up a front as if we&nbsp;have it together. Social media tempts us to put up our best pictures&nbsp;and experiences up there and leave out the messy bits. Social&nbsp;Media threatens life&rsquo;s authentic messiness. Let me be the first to&nbsp;say:<em> it&rsquo;s okay to not be &ldquo;okay.&rdquo;</em></span></p></p>
+<p style="text-align: left;"><img class="aligncenter wp-image-1891 size-full" src="http://yellowconference.com/wp-content/uploads/2015/03/IMG_3114.jpg" alt="The Yellow Conference Blog: The Art of Being Lonely" width="700" height="686" /></p></p>
+<p style="text-align: left;">And in those moments of being &ldquo;not okay,&rdquo; it isn't&nbsp;a list of self-help&nbsp;steps, nor a perfectly-timed word of wisdom that got&nbsp;me through- it was community. The community who committed&nbsp;to rolling around in the muck of my life with me- the community&nbsp;who looked me straight in the eyes when I confessed my biggest&nbsp;insecurities- they were the ones who were there and just told me&nbsp;they thought I was beautiful...I hope you have people like that. If you don't,<strong> take heart, and find&nbsp;them.</strong> Seek after those people who surround you when life feels&nbsp;messy and lonely. We all need someone to tell us this truth: you&nbsp;are beautiful, you are enough- every broken inch of you.</p></p>
+<p style="text-align: left;">Do not settle for a life marked with fake loneliness. Be courageous&nbsp;enough to admit you&rsquo;re alone and work to become comfortable&nbsp;with the person you find there. Go find a coffee shop and sit down. Turn off the phone and computer, grab a journal and just be.&nbsp;There are hard questions and hard life situations that cannot be&nbsp;ignored because they don&rsquo;t fit into our American "instaperfect" molds. Filters do not make hard situations (<strong>real&nbsp;</strong>situations)&nbsp;happier. There&nbsp;aren&rsquo;t words to comfort people with broken hearts.</p></p>
+<blockquote>
+<p style="text-align: left;">And in those moments of being &ldquo;not okay,&rdquo; it isn't&nbsp;a list of self-help&nbsp;steps, nor a perfectly-timed word of wisdom that got&nbsp;me through- it's been...[t]he community who committed&nbsp;to rolling around in the muck of my life with me...I hope you have people like that. If you don't,<strong> take heart, and find&nbsp;them.</strong> Seek after those people who surround you when life feels&nbsp;messy and lonely...</p><br />
+</blockquote></p>
+<p style="text-align: left;">All you can do is be there in the messiest muckiest bits of life and&nbsp;let them know you&rsquo;re not going anywhere.&nbsp;With these two rhythms living in harmony, I believe we will&nbsp;thrive.</p></p>
+<p style="text-align: left;"><i>Photos by <a href="http://whitneydarling.com/" target="_blank">Whitney Darling Photography</a>&nbsp;and Karen Hernandez</i></p></p>
+<p style="text-align: left;"><a href="http://alwaysjoyfulkaren.blogspot.com " target="_blank"><img class=" size-full wp-image-2024 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/03/Karenbio.jpg" alt="Karenbio" width="700" height="264" /></a></p></p>

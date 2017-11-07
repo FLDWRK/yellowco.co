@@ -1,0 +1,78 @@
+---
+layout: post
+status: publish
+published: true
+title: 'WORK HARD, TRUST YOURSELF, SEEK THE HELP OF OTHERS, AND DON''T GIVE UP: HOW
+  I TURNED MY PASSION INTO A CAREER IN LESS THAN A YEAR'
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 4763
+wordpress_url: http://yellowconference.com/?p=4763
+date: '2016-01-07 04:00:07 -0800'
+date_gmt: '2016-01-07 12:00:07 -0800'
+categories:
+- The Activist
+- BUILD
+tags: []
+comments:
+- id: 4036
+  author: Melanie The Nomadic Wife
+  author_email: bymphoto@gmail.com
+  author_url: http://www.thenomadicwife.com
+  date: '2016-01-07 13:34:00 -0800'
+  date_gmt: '2016-01-07 21:34:00 -0800'
+  content: Awesome article. I love reading about women who not only create beautiful
+    things but also make a point to make a difference!
+- id: 4037
+  author: Yellow Conference
+  author_email: heygirl@yellowconference.com
+  author_url: http://yellowconference.com/
+  date: '2016-01-07 18:07:00 -0800'
+  date_gmt: '2016-01-08 02:07:00 -0800'
+  content: Yay! Same :) Thanks for hanging out with us over here Melanie!!
+- id: 4038
+  author: Links for the Weekend No. 2 |
+  author_email: ''
+  author_url: http://heartandhustlepodcast.com/2016/resources/links-for-the-weekend-no-2/
+  date: '2016-01-29 04:14:37 -0800'
+  date_gmt: '2016-01-29 12:14:37 -0800'
+  content: "[&#8230;] It&#8217;s possible to turn your passion into a career so don&#8217;t
+    give [&#8230;]"
+---
+<p><em><a href="http://www.uncvrdjewelry.com/the-uncvrd-story/" target="_blank">UNCVRD Jewelry</a> gives 40% of each sale to efforts to end local human trafficking (in the Los Angeles/Orange County area). They are the epitome of great design matched with a great cause. We asked founder and designer, Jen Bedrossian, to share some of her story, her journey, and her wisdom.&nbsp;</em></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/01/Jen-Bedrossian-photo1.jpg"><img class="aligncenter wp-image-4766" src="http://yellowconference.com/wp-content/uploads/2016/01/Jen-Bedrossian-photo1-1024x746.jpg" alt="Jen Bedrossian photo1" width="700" height="510" /></a></p>
+<p>My son was seven months old, and I was working part-time at a museum in downtown Los Angeles in a Development position. I enjoyed my job, but as a creative, I yearned for an outlet to do just that &ndash; create. I decided to take a stab at jewelry making. At the same time, over the past year, I had been learning more and more about the world&rsquo;s fastest growing crime &ndash; human trafficking. It was something that I had gone my whole life not really knowing about, and it was something that was literally happening in my own city. Once I knew that this form of modern-day slavery existed, I knew I couldn&rsquo;t just turn a blind eye.</p>
+<blockquote><p><em>I yearned for an outlet to do just that &ndash; create. I decided to take a stab at jewelry making. At the same time, over the past year, I had been learning more and more about the world&rsquo;s fastest growing crime &ndash; human trafficking.</em></blockquote><br />
+My idea was to create a line of jewelry and donate a percentage of each sale towards a local non-profit fighting trafficking on the front lines. It sounded great! I was so excited to start planning, and immediately started designing, researching, creating. A few months later, doubt started to creep in. &ldquo;What if no one buys this stuff?&rdquo; &ldquo;What if I fail?&rdquo; &ldquo;I have an infant&hellip;am I really going to have time for this? Am I crazy?&rdquo; &ldquo;I already have a part-time job and I want to be a good mom, do I need more on my plate?&rdquo;</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-75.jpg"><img class="aligncenter size-full wp-image-4772" src="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-75.jpg" alt="UNCVRD -- Holiday 2015-75" width="700" height="467" /></a> <a href="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-131.jpg"><img class="aligncenter size-full wp-image-4769" src="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-131.jpg" alt="UNCVRD -- Holiday 2015-131" width="700" height="467" /></a>As I was nursing my little babe one night, I was scrolling through Pinterest and saw an image that changed everything. In beautiful handwritten script, it read&hellip; <em>&ldquo;What if I fail? But darling&hellip;what if you fly?&rdquo;</em> I realized right then and there that I wouldn&rsquo;t get to taste the reward without taking the risk. Was it scary? Oh my goodness, yes. Was it worth it? Oh my goodness. <em>Yes.</em></p>
+<h2>The greatest favor I did for myself in those early months of planning my launch was to surround myself with people who knew way more than I did.</h2><br />
+I&rsquo;m embarrassingly bad with math and all things number-related. So I enlisted the help of a friend who had experience with charts and spreadsheets and actually <em>enjoyed</em> that stuff (totally beyond me). I was, and still am, learning about trafficking. So I sought out experts and people with experience to be my resources when I had questions. You get the idea &ndash; the second that you think you know it all will be the second that you sabotage the good thing you&rsquo;ve got going.</p>
+<h2>I was a zombie &ndash; but a passionate zombie!</h2><br />
+As many of you know, it&rsquo;s not always easy to work, be a full-time mom, and build a business in the wee hours of the night. It&rsquo;s tiring and requires multiple cups of coffee. As much as I&rsquo;d like to say it gets easier, I&rsquo;m sorry, friends &ndash; it doesn&rsquo;t. Dreams require work! A few months after my launch I became pregnant with baby number two. So now, I found myself mothering a toddler full-time, working part-time, building my business during nap times and after bedtime, all while growing a human and trying not to throw up on everything (sorry if that&rsquo;s graphic, but #realtalk. We can be real, right??!). I was a zombie &ndash; but a passionate zombie!</p>
+<h2><a href="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-36.jpg"><img class="aligncenter size-full wp-image-4771" src="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-36.jpg" alt="UNCVRD -- Holiday 2015-36" width="700" height="467" /></a> <a href="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-8.jpg"><img class="aligncenter size-full wp-image-4768" src="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-8.jpg" alt="UNCVRD -- Holiday 2015-8" width="700" height="467" /></a>I also trusted my gut. Because I knew deep down that this was my calling, whether in this season or otherwise, I was willing to take big risks.</h2><br />
+I was also able to carry out tasks with a matter of confidence that I hadn&rsquo;t experienced before. So, after months of planning and prepping, I launched my online store a few weeks before Christmas. The response I got was nothing short of overwhelming. Through social media and word of mouth, my business quickly grew and I began to hear stories from customers who had been given opportunities to spread awareness about trafficking due to a compliment on their jewelry.</p>
+<h2>My mission was becoming more and more clear &ndash; to connect women with the issue of trafficking, and to provide them with an opportunity to have a real impact through purchasing beautiful jewelry.</h2><br />
+After a few months, it became evident that if I was going to continue to grow my business and not be spread too thin, it was time to say goodbye to my part-time museum job and pursue <a href="http://www.uncvrdjewelry.com/" target="_blank">UNCVRD</a> full time. It wasn&rsquo;t easy by any means, but I can honestly say, it has been worth it.</p>
+<h2><a href="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-194.jpg"><img class="aligncenter size-full wp-image-4770" src="http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-194.jpg" alt="UNCVRD -- Holiday 2015-194" width="700" height="467" /></a>Sometimes the path to making your dream a reality isn&rsquo;t the most linear one.</h2><br />
+Sometimes you&rsquo;ll find yourself devoting hours every night after your full time day job to the one thing that brings you the most joy. Don&rsquo;t give up. When you begin to grow weary, go back to the beginning &ndash; the reason why you started.</p>
+<p>A few weeks ago, I was given the opportunity to teach a jewelry-making workshop to a few girls who are survivors of trafficking. They were there with their mothers, and because they were from another country and spoke very limited English, we communicated through a translator. Due to the sensitive nature of their trip, I can&rsquo;t go into very much detail. What I can say, however, is that the purpose of this workshop was to be a few hours of respite, a few hours of laughter and fun in the midst of some tough stuff. One young girl in particular picked up things rather quickly. Within minutes, she was creating and designing pieces all on her own, without any help on my part &ndash; which I loved! After making a few pieces for herself and for her sisters, she began to work on a more intricate piece. It was truly beautiful &ndash; her eye for design was clearly a natural gift. I watched as she concentrated and as her hands moved swiftly to finish this necklace. When she had completed it, she said a few words to her translator, who then turned to me and said that she had actually made this necklace for me. Tears streamed down my face as she gave me the necklace and hugged me. I have to say&hellip;if the whole reason I started UNCVRD was for this one moment &ndash; it was worth it. That one day made every bump in the road, every tough call, every uncomfortable moment, every hardship, totally and completely 100% worth it.</p>
+<blockquote><p><em>I watched as she concentrated and as her hands moved swiftly to finish this necklace. When she had completed it, she said a few words to her translator, who then turned to me and said that she had actually made this necklace for me. Tears streamed down my face as she gave me the necklace and hugged me.</em></blockquote><br />
+There&rsquo;s no easy formula to turning your passion into a career, to turning your dreams into a reality. There will be mountain-top moments, and there will be crying-in-the-shower deep valleys. That being said, I&rsquo;m a firm believer that our passions are given to us for a reason. So, my friend &ndash; work hard, trust yourself, seek out the help of others, and don&rsquo;t you dare give up.</p>
+<p><em>Psst...<a href="http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning-2.jpg" target="_blank">here's a free inspirational print</a> with a quote from this post. Pin it, #bloomyellow it, or just print it out for your workspace to remind yourself to keep moving forward when the going gets rough.</em></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning-2.jpg" target="_blank"><img class="aligncenter size-full wp-image-4783" src="http://yellowconference.com/wp-content/uploads/2016/01/Prettyful2.jpg" alt="Prettyful" width="700" height="1334" /></a></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning_iphone.jpg" target="_blank"><img class="aligncenter size-full wp-image-4784" src="http://yellowconference.com/wp-content/uploads/2016/01/On-the-go.jpg" alt="On-the-go" width="700" height="600" /></a></p>
+<p style="text-align: left;"><em>CLICK TO DOWNLOAD FOR:&nbsp;<a href="http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning_iphone.jpg" target="_blank">iphone</a>&nbsp; // &nbsp;<a href="http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning_ipad.jpg" target="_blank">ipad</a>&nbsp;&nbsp;&nbsp;// &nbsp;<a href="http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning-2.jpg" target="_blank">desktop</a></em></p><br />
+&nbsp;</p>
+<hr />
+<p><i>Free download provided by Yellow Co. just for you!</i></p>
+<p><em>All other photos provided by UNCVRD from their holiday line.&nbsp;</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://www.uncvrdjewelry.com/the-uncvrd-story/" target="_blank"><img class="aligncenter size-full wp-image-4773" src="http://yellowconference.com/wp-content/uploads/2016/01/JENNUNCVRD.jpg" alt="JENNUNCVRD" width="700" height="264" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

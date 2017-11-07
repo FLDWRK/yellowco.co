@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE
+author:
+  display_name: admin
+  login: hannasnyder
+  email: hanna@yellowco.co
+  url: ''
+author_login: hannasnyder
+author_email: hanna@yellowco.co
+wordpress_id: 8754
+wordpress_url: http://yellowco.co/?p=8754
+date: '2017-06-12 04:00:11 -0700'
+date_gmt: '2017-06-12 11:00:11 -0700'
+categories:
+- Wander
+tags:
+- passion project
+- freelancer
+- women entrepreneurs
+- purpose
+- creative entrepreneurs
+- community
+- productivity
+- unproductive
+- volunteer
+- self development
+comments:
+- id: 4374
+  author: Melissa AuClair
+  author_email: melissaauclair@gmail.com
+  author_url: http://www.thecreativeseason.com
+  date: '2017-06-14 19:55:00 -0700'
+  date_gmt: '2017-06-15 02:55:00 -0700'
+  content: Great ideas when the inspiration isn't coming! I find that energy and inspiration
+    are more likely to come when I try new things for the sake of discovery and getting
+    out of my routine.
+- id: 4388
+  author: How to Build Your Tribe of Creative Women Who Do Good - The Fabulous Giver
+  author_email: ''
+  author_url: http://thefabulousgiver.com/yellow-collective-build-your-tribe/
+  date: '2017-07-28 00:00:18 -0700'
+  date_gmt: '2017-07-28 07:00:18 -0700'
+  content: "[&#8230;] As with any tools, you have to put in the work to see any results.
+    Regardless of whether you become a member, check out the Yellow Room&nbsp;blog
+    for an ongoing dose of encouragement and inspiration across posts like &#8220;Unleashing
+    Your Talents and Creativity to Give Back&#8221; and &#8220;Finding Purpose When
+    You Feel Unproductive.&#8221; [&#8230;]"
+---
+<p><span style="font-weight: 400;">Have you ever been the woman who wants to change the world? The woman with the heart, the guts, and the brain to get the job done, but who has been stopped short with one question: <em>now what?</em>&nbsp;</span><span style="font-weight: 400;">I have.</span></p>
+<p><span style="font-weight: 400;">The time between deciding what we want to do and actually getting to do that kind of work can be challenging. We can feel in ourselves the capability, gifts, and drive to do something meaningful, but struggle to identify what it is. Most often, while we wander, we feel like we&rsquo;re getting nothing done because we don&rsquo;t know what we are supposed to be doing! This is certainly a frustrating experience, but I&rsquo;d like to reframe this feeling for us. This wandering place, this period of waiting and expectation, can actually be very good for you.</span></p>
+<p><span style="font-weight: 400;">Your experience during this time can change who you are and what you offer to the world. If you are tired of feeling unproductive, try these steps to re-gain some purpose during&nbsp;this important&nbsp;time in the middle.</span></p>
+<h3><b>Volunteer</b></h3><br />
+<span style="font-weight: 400;">Even if you lack definite direction about what your career or meaningful contribution is going to be, there's a good chance&nbsp;you still get fired up about certain ideas. Maybe it&rsquo;s the environment, art, or empowerment of marginalized people. Find an organization in your area and begin to volunteer a couple hours a week. It may not lead directly to a calling, but your time will be spent meaningfully&nbsp;on something you care about.</span></p>
+<p><img class="aligncenter wp-image-8758 size-full" title="FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM" src="http://yellowco.co/wp-content/uploads/2017/06/GraceYoon019.jpg" alt="FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM" width="3600" height="2400" /></p>
+<h3><b>Go to Meet-ups</b></h3><br />
+<span style="font-weight: 400;">So you&rsquo;re looking for your thing, wandering alone through the vast desert of choices and failing to fall in love with any of them. You may also be wondering where all &ldquo;your people&rdquo; are. </span><span style="font-weight: 400;">Go find them. </span><span style="font-weight: 400;">See what they are doing. (Maybe join the <a href="http://yellowcollective.co/" target="_blank" rel="noopener noreferrer">Yellow Collective!</a>)&nbsp;</span></p>
+<p><span style="font-weight: 400;">Enter into community with people who are doing something they care about. Rather than letting it intimidate you, allow it to inspire you! This will be cooperation, not competition. Listen to their stories. Most of them were once where you are now, and someday you will find yourself where <em>they</em> are&nbsp;if you stay inspired and motivated.</span></p>
+<h3><b>Grow</b></h3><br />
+<span style="font-weight: 400;">For creative thinkers, freelancers, and entrepreneurs, remembering to take time for self-development ranks pretty high on the list of </span><i><span style="font-weight: 400;">things we aren&rsquo;t great at making time for.</span></i><span style="font-weight: 400;"> Once you start on a new project or passion, you will be completely enthralled and overwhelmed (in a good way) by what you get to spend your life doing. So right now, while you&rsquo;re looking for that next calling, use this downtime to do the things you always wanted to but didn&rsquo;t make time for. Learn a new skill. Practice a hobby. Build new relationships. Go to therapy. Pray, meditate, do yoga or cardio for </span><i><span style="font-weight: 400;">a whole hour each day</span></i><span style="font-weight: 400;">.</span></p>
+<p><img class="aligncenter wp-image-8760 size-full" title="FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM" src="http://yellowco.co/wp-content/uploads/2017/06/GraceYoon021.jpg" alt="FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM" width="3600" height="2400" /></p>
+<p><span style="font-weight: 400;">Trying these suggestions might result in a eureka moment for you. Maybe in volunteering for a cause you care about, spending time with like-minded people, or developing as a human being, bam! You'll find your next passion.&nbsp;But</span><span style="font-weight: 400;">, you may also do all&nbsp;of the above and remain in the waiting game for quite a while. Both are <em>completely</em> okay.</span></p>
+<p><span style="font-weight: 400;">There&rsquo;s no magic trick. No one exit to the desert strategy. What I can tell you is this: don&rsquo;t waste this precious time. We get one shot at this life. Use it all, the driven times and the wandering times, and challenge yourself to be the most authentic person you can be and make the world a better place.</span></p>
+<p><em>Photos by:&nbsp;<a href="http://www.greyandelle.com/" target="_blank" rel="noopener noreferrer">Grey &amp; Elle</a></em></p>
+<p><a href="http://www.katealsup.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-8755 size-full" src="http://yellowco.co/wp-content/uploads/2017/06/KATE-ALSUP-BIO.jpg" alt="KATE ALSUP BIO" width="2699" height="980" /></a></p>

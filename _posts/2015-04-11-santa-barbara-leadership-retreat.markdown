@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: Santa Barbara Leadership Retreat
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 2737
+wordpress_url: http://yellowconference.com/?p=2737
+date: '2015-04-11 04:30:34 -0700'
+date_gmt: '2015-04-11 11:30:34 -0700'
+categories:
+- Creative Ladies
+- The Leader
+tags: []
+comments:
+- id: 3907
+  author: Consider The Possibilities | Stilettos On The Rocks
+  author_email: ''
+  author_url: http://www.stilettosontherocks.com/consider-the-possibilities/
+  date: '2015-04-14 19:46:35 -0700'
+  date_gmt: '2015-04-15 02:46:35 -0700'
+  content: "[&#8230;] image shot by Ellen Wildhagen at the Leadership Retreat the
+    Yellow Conference hosted in [&#8230;]"
+---
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-2.jpg"><img class="wp-image-2763" src="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-2.jpg" alt="unnamed (2)" width="700" height="1050" /></a></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8562.jpg"><img class=" size-full wp-image-2743 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8562.jpg" alt="IMG_8562" width="700" height="467" /></a><br />
+<a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8841.jpg"><img class=" size-full wp-image-2748 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8841.jpg" alt="IMG_8841" width="700" height="467" /></a></p>
+<p>Back in February we had an amazing 2-day weekend&nbsp;up in Santa Barbara at the airstream trailer park<a href="http://autocamp.com/" target="_blank"> Autocamp</a>.&nbsp;We joined with some awesome #ladybosses who are working hard to make the best impact they can in their positions of leadership.</p>
+<p>We&nbsp;stayed the weekend in these super cool renovated airstream trailers that Autocamp provides.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8498.jpg"><img class=" size-full wp-image-2740 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8498.jpg" alt="IMG_8498" width="700" height="467" /></a></p>
+<p>We had the incredible&nbsp;<a href="http://www.stilettosontherocks.com/" target="_blank">Krysta Masciale</a> leading the group through her <a href="http://www.stilettosontherocks.com/shop/" target="_blank">START Goal Setting booklet</a>. Throughout the weekend, we took time to&nbsp;get real with each other, down and dirty with our fears and doubts, and the meaning of "impact".</p>
+<p>We talked about what it means to redefine goals and set priorities, not only for our career, but for our life. Krysta asked us the tough question, <em>"What if we put as much effort into our personal lives as we do into our careers?"</em></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8593.jpg"><img class="aligncenter size-full wp-image-2744" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8593.jpg" alt="IMG_8593" width="700" height="467" /></a><br />
+<a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8636.jpg"><img class="aligncenter size-full wp-image-2746" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8636.jpg" alt="IMG_8636" width="700" height="467" /></a></p>
+<p>Krysta challenged us to take a good hard look at&nbsp;what we are struggling with, and to take the time to figure out&nbsp;what the the deeper issue is. It's amazing what can come up when you really start diving into an issue. It was a time of reflection and searching within ourselves. Getting to root issues is not an easy thing, and we were challenged.<br />
+<a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8984.jpg"><img class="aligncenter size-full wp-image-2749" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8984.jpg" alt="IMG_8984" width="700" height="467" /></a><br />
+<a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8998.jpg"><img class="aligncenter size-full wp-image-2750" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8998.jpg" alt="IMG_8998" width="700" height="467" /></a>After a full day of group discussion and learning, we hopped on bikes(<a href="http://autocamp.com/" target="_blank">Autocamp provides bikes to each trailer!</a>) and explored the beautiful beach town of Santa Barbara.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-3.jpg"><img class="aligncenter wp-image-2762" src="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-3.jpg" alt="unnamed (3)" width="700" height="467" /></a><br />
+<a href="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-1.jpg"><img class="aligncenter wp-image-2764" src="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-1.jpg" alt="unnamed (1)" width="700" height="1050" /></a><a href="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-5.jpg"><img class="aligncenter wp-image-2768" src="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-5.jpg" alt="unnamed (5)" width="700" height="1050" /></a></p>
+<p>Attendees left with a goodie bag filled with treats from <a href="https://www.ohhellofriend.com/" target="_blank">Oh Hello Friend</a>, <a href="http://www.sugarfina.com/" target="_blank">Sugarfina</a>, <a href="http://www.jacklyndenise.com/prints/" target="_blank">Prints</a> from <a href="http://www.jacklyndenise.com/" target="_blank">Jacklyn Denise Communications</a>, <a href="http://www.thisbarsaveslives.com/" target="_blank">This Bar Saves Lives</a>, <a href="http://31bits.com/" target="_blank">31 Bits</a>, <a href="http://www.stilettosontherocks.com/shop/" target="_blank">START booklet</a> and various goodies provided by <a href="http://autocamp.com/" target="_blank">Autocamp</a>.<br />
+<a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_9074.jpg"><img class="aligncenter size-full wp-image-2752" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_9074.jpg" alt="IMG_9074" width="700" height="467" /></a><br />
+<a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_9085.jpg"><img class="aligncenter size-full wp-image-2753" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_9085.jpg" alt="IMG_9085" width="700" height="467" /></a><br />
+<a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_9053.jpg"><img class="aligncenter size-full wp-image-2751" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_9053.jpg" alt="IMG_9053" width="700" height="467" /></a></p>
+<p>It was a unique&nbsp;time of reflection, new friends, and digging deep into intentional goal setting. Thanks to <a href="http://autocamp.com/" target="_blank">Autocamp</a> for having us, <a href="http://www.stilettosontherocks.com/" target="_blank">Krysta Masciale</a>&nbsp;for being our fearless leader, our goodie bag sponsors and all of our attendees! Also big thanks to <a href="http://ellenwildhagen.com/" target="_blank">Elle Wildhagen</a> and <a href="http://jesskoehler.com" target="_blank">Jessica Koehler</a>&nbsp;for capturing our weekend through photos so beautifully.</p>
+<p>Hang out with us <a href="https://instagram.com/yellowconference/" target="_blank">online</a> and sign up for our <a href="http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&amp;id=7cb1ced4ff" target="_blank">email list</a>&nbsp;to stay&nbsp;in the know of all we are up to. Have you seen our new Kickstarter campaign? If you're a creative lady looking to make an impact on the world, <a href="https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c" target="_blank">definitely check it out!</a></p>
+<p>&nbsp;</p>

@@ -1,0 +1,86 @@
+---
+layout: post
+status: publish
+published: true
+title: 'MOTHER''S DAY: WHY WE MUST REMEMBER THAT IT''S COMPLICATED'
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 2810
+wordpress_url: http://yellowconference.com/?p=2810
+date: '2015-05-05 04:00:27 -0700'
+date_gmt: '2015-05-05 11:00:27 -0700'
+categories:
+- Advice
+- Inspiration
+- The Activist
+- Encouragement
+tags: []
+comments:
+- id: 3908
+  author: Abbie Driscoll
+  author_email: abbiedriscoll@gmail.com
+  author_url: http://www.ritesofasylum.com
+  date: '2015-05-05 14:06:00 -0700'
+  date_gmt: '2015-05-05 21:06:00 -0700'
+  content: This is beautiful, Sally; thank you so much for sharing your heart :)
+- id: 3909
+  author: Ali Mooney
+  author_email: alihall2@mac.com
+  author_url: http://takeheartcreative.com
+  date: '2015-05-06 13:03:00 -0700'
+  date_gmt: '2015-05-06 20:03:00 -0700'
+  content: I couldn't agree more. Thank you for your vulnerability and grace while
+    shedding light on this subject.
+- id: 3910
+  author: Nadeena
+  author_email: n.seodarsan@gmail.com
+  author_url: http://nadeenaportraits.com/
+  date: '2015-05-12 03:05:00 -0700'
+  date_gmt: '2015-05-12 10:05:00 -0700'
+  content: I did not cry reading this at all. No, not at all. Just sweaty eyeballs
+    over here, that's all. Sweaty eyeballs.
+- id: 3911
+  author: Beckerss Stone
+  author_email: beccastone3311@yahoo.com
+  author_url: ''
+  date: '2015-06-01 13:23:00 -0700'
+  date_gmt: '2015-06-01 20:23:00 -0700'
+  content: I am so thankful and grateful that you shared this Sally. My heart was
+    breaking as i fought through the tears your words inspired. You are incredible.
+    I wish that everyone valued the privileged of parenting in the same way you do.
+    You are an inspiration. An those boys will feel that love throughout their life.
+---
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0005.jpg"><img class="aligncenter size-full wp-image-2811" src="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0005.jpg" alt="2014-09-03_0005" width="700" height="467" /></a>There has been a recent awakening regarding peoples' response to Mother's Day-a growing awareness that it's not as simple as buying flowers and chocolates, and saying a sweet prayer to the standing ladies, the mothers, at church. It's complicated, and voices are starting speak this truth with more bravery and challenging people to open their eyes to the fact that <strong>Mother's Day is complicated.&nbsp;</strong></p>
+<p>My journey with Mother's Day started almost three years ago. In the middle of the night, I received multiple voicemails and phone calls from the police...the kind you see in movies:&nbsp;<em>There's been an accident; we need you to come right away.&nbsp;</em></p>
+<p>And I did. I drove what felt like the longest drive, the longest empty freeway, the longest breaths of my life. I arrived at 22 year old single, just graduated college student, and left with custody of my three little brothers, ages 2, 7, and 13. Our grandfather died in the accident, exposing just how bad my mom's alcoholism had gotten (I moved out when I was 16), and the need for Social Service's intervention.</p>
+<p>This was my first Mother's Day weekend.</p>
+<p>Fast forward a year; I was an official foster parent, running my own circus of a home, with three awesome kids. One, we'll call him Young Buck, a typical teen with a less than typical story, that needed a&nbsp;sister to guide, but a mom to take care of basic needs, giving me the title: <i>Mister&nbsp;</i>(get it? Mom+Sister=Mister). The other two strictly needed a mom: homework helping, potty training, bottle weaning, chore-charting mom...along with all-too-often court dates, kissing dreams of grad-school goodbye, transportation to painful visitations with birth parents, and getting my PhD in the fine art of all-things-toddler-related. This was my life; and....yes, just like any mom will say, it had it's days...but I <em>loved</em>&nbsp;it. The snuggles, the small victories, the goodnight prayers and little laughs around the table? I would give up any dream career to have those small joys forever a part of my life. But, I will say too...<em>man, was I tired.&nbsp;</em></p>
+<blockquote><p>This experience raised the question in me: how can we approach this delicate day better? How can we celebrate these unsung heros that don't fit the typical "mom-mold"?</blockquote><br />
+That year for Mother's Day at my church, they decided to give every mom a flower...I didn't, however get a flower. Please hear my tone: there's no resentment, no anger-but there was a wave of confusion and hurt. Here I was, fulfilling this role, weak, tired, but doing it. And the mother who was never able to properly care for these boys was the one custom was congratulating. She was the "real" mom because she gave birth to them. Me? I was just a glorified babysitter.</p>
+<p>That year started a rise of questions in me: what about mom's that could never bear their own baby, but adopted? Or have tried and tried and aren't ready to give up even after one, two, three miscarriages? Are they any less moms? There are too many silent warriors of women who are moms in waves and waves of different capacities. And I was one of them.</p>
+<p>This experience raised the question in me: how can we approach this delicate day better? How can we celebrate these unsung heros that don't fit the typical "mom-mold"?</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/04/GreigLove0010.jpg"><img class="aligncenter size-full wp-image-2812" src="http://yellowconference.com/wp-content/uploads/2015/04/GreigLove0010.jpg" alt="GreigLove0010" width="700" height="520" /></a>That October, we received news that, while I was able to adopt Young Buck (by then, age 15), the other two boys (4 and 10) were to be reunified with their birth mom. They gave us three days to say goodbye. There were significant reasons to believe this was not the best situation for them, but all my fighting efforts failed, and they went back. But, like a mom does, I painted a picture of excitement for them, that their mom was healthy again, and that we would always be here to love them and celebrate with them through life. In May, after their case completely closed, their mom decided to stop letting our family see them, celebrate, and love them. We still waited every week at the same pick up spot until July, just in case they showed up.</p>
+<p>That Mother's Day, last year, was another chapter of questions and confusions. <i>If I wasn't viewed as a mom when I had the boys, what about now that I don't have them? Does anyone see the mother's heart in me that aches for them?&nbsp;</i>The physical ache I felt that day, this entire year, is real...too real sometimes. There are nights that I still look at my husband (yes, somewhere in all this crazy I met a fabulous man and snatched him up real fast), and say&nbsp;<em>I miss them,&nbsp;</em>with a tear soaked pillow. My mother's heart aches for them every single day, my mother's mind worries for them every single day.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0010.jpg"><img class="aligncenter size-full wp-image-2813" src="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0010.jpg" alt="The Yellow Conference: Mother's Day " width="700" height="467" /></a>That year, some responded with such heartfelt love and an understanding that, well, they can never fully understand...--flower deliveries, cupcakes--little reminders to say&nbsp;<em>we see you, and we know your mother's heart. Happy Day to You.&nbsp;</em> But there are still other's that can't or don't want to step into the complicated spider's web of these different chapters of motherhood. The ones that don't fit the norm, and that have stories that look way way way different than most. It's easier to just celebrate who the day is supposed to celebrate...the mom's with their babes in arms, that birthed them...the "real" moms...</p>
+<p><i>The real moms?&nbsp;</i></p>
+<p>I&rsquo;ve laid on the floor next to one boy as he melts with a tantrum, yelling about a jacket, but my mommy-heart telling me there&rsquo;s something deeper, way deeper, happening here.</p>
+<p>I&rsquo;ve grounded and taken off doors because of grades and choices that need someone to say <i>&ldquo;enough&hellip;&rdquo;</i>because we believe he is worth it.</p>
+<p>I&rsquo;ve cuddled and cradled and sang and danced after hours of work, exhausted, because the giggles and toddler ramblings are just&hellip;the best.</p>
+<p>But I&rsquo;ve also experienced the deep stab wound of people saying &ldquo;Yea&hellip;but you don&rsquo;t really know, you&rsquo;ll never really know until it&rsquo;s your own."</p>
+<p><strong>These are my own.&nbsp;</strong></p>
+<p><strong>They are my own.&nbsp;</strong></p>
+<p>And I've made it my mission, for life, to continue to walk this uphill battle of communicating that <b>mother's day is so much more than we've let it become.&nbsp;</b>There are so many more that need to be celebrated, cheered on, sat with, seen.</p>
+<p>Stepmoms need to hear,&nbsp;<em>"I see you, and you're doing good at your job."&nbsp;</em></p>
+<p>The woman longing to get pregnant needs to hear,&nbsp;<em>"I see you, and this battle you are facing. I am with you in it."&nbsp;</em></p>
+<p>The woman who adopts, fosters, or steps in the gap for a child, whether married or alone, must hear,&nbsp;<em>"I see you, and you are a warrior. You deserve to be celebrated."&nbsp;</em></p>
+<p>And so. much. more. There are stories upon stories of women who don't fit the mother's-day-mold, and there are reasons to celebrate the day-to-day blessings of moms with a "normal" experience (but let's face it, moms, nothing is normal about parenting). But let's be a people that stands up and gives voice to those who don't fit the normal experience, who's delicately crafted story of motherhood deserves to be noticed and celebrated, as well.</p>
+<p>Let us carry in our hearts that this day is complicated, and needs to be handled with great care.</p>
+<p><em>Photos by <a href="http://whitneydarling.com/" target="_blank">Whitney Schey</a></em></p>
+<p><a href="http://lettersfromamister.tumblr.com/" target="_blank"><img class="aligncenter size-full wp-image-1966" src="http://yellowconference.com/wp-content/uploads/2015/02/skimbio1.jpg" alt="Sally Kim Yellow Conference" width="700" height="264" /></a></p>
+<p><em>&nbsp;</em></p>
+<p>&nbsp;</p>

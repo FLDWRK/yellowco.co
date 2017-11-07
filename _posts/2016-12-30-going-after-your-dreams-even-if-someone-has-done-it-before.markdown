@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: GOING AFTER YOUR DREAMS...EVEN IF SOMEONE HAS DONE IT BEFORE
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 7542
+wordpress_url: http://yellowconference.com/?p=7542
+date: '2016-12-30 04:00:04 -0800'
+date_gmt: '2016-12-30 12:00:04 -0800'
+categories:
+- Encouragement
+- HEART
+tags: []
+comments: []
+---
+<p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/12/K1.jpg"><img class="aligncenter size-full wp-image-7543" src="http://yellowconference.com/wp-content/uploads/2016/12/K1.jpg" alt="k1" width="700" height="1050" /></a>As a little girl, I enjoyed playing with wooden blocks or braiding my doll&rsquo;s hair, but most of all, I </span><i><span style="font-weight: 400;">loved</span></i><span style="font-weight: 400;"> reading books. I believe this interest has innate components to it, but more than anything, I think it was fostered by my parents, who took the time to read to (and with) me from when I was very young. </span></p>
+<p><span style="font-weight: 400;">Out of all the classic children&rsquo;s books, one still sticks out in my memory: </span><i><span style="font-weight: 400;">The Little Engine That Could</span></i><span style="font-weight: 400;">. If I close my eyes, I can picture my small, stubby hands eagerly helping my mom turn each page as she repeats the book&rsquo;s catchphrase: <em>I think I can. I think I can. I think I can.&nbsp;</em></span></p>
+<p><span style="font-weight: 400;">I would read it with my dad, too. Me, a small child, curled up on his lap, he would speak the words slowly at first, repeating them faster and faster as the story progressed: </span><i><span style="font-weight: 400;">I think I can, I think I can, I think I can.</span></i></p>
+<p><span style="font-weight: 400;">I&rsquo;m sure you know the story, too. A long train needs to be pulled over a steep mountain, and each of the large engines turn down the job, saying they can&rsquo;t pull it. One small, blue engine is the only one who volunteers to try...</span><strong><i>I think I can. </i></strong><span style="font-weight: 400;">Notice the small engine isn&rsquo;t phased by how any of the others answer; it simply looks at its own abilities and speaks for itself.</span></p>
+<p>Remember when Yellow's series on <em><a href="http://yellowconference.com/?s=valor" target="_blank">Valor</a></em>? The definition of <em>&ldquo;valor&rdquo;</em> is to maintain great courage through a tough battle, and I&rsquo;d say the little engine can be classified as an engine of valor. As for me? The greatest &ldquo;battle&rdquo; I&rsquo;ve ever faced is the creative process. You&rsquo;ve been there, right? You&rsquo;re staring at a blank page &mdash; whether it&rsquo;s a Word document or a canvas, and you&rsquo;ve got <em>nothing.</em></p>
+<p><span style="font-weight: 400;">Yet, you keep chugging along...</span><i><span style="font-weight: 400;">I think I can.</span></i><span style="font-weight: 400;"> But somewhere along the way, another phrase creeps in <em>&ldquo;...but she already did it better.&rdquo;</em> </span></p>
+<blockquote><p><strong><em>My fears, real or imagined, revolve around not wanting to look like a copycat, a competitor, a wannabe or &nbsp;&mdash; at worst &mdash; a fraud. Truthfully, listening to these fears stops me from taking chances much more often than I&rsquo;d like to admit.</em></strong></p>
+<p>&nbsp;</blockquote><br />
+It&rsquo;s crept up in my mind in many different ways, most of them applying to various creative endeavors. I could write a whole book about battling the creative process, I think, but Elizabeth Gilbert already did that, and she did it much better than I ever could.<a href="http://yellowconference.com/wp-content/uploads/2016/12/k2.jpg"><img class="aligncenter size-full wp-image-7544" src="http://yellowconference.com/wp-content/uploads/2016/12/k2.jpg" alt="k2" width="700" height="1050" /></a>In each of my creative pursuits, I have others I admire (often personal friends) who &ldquo;do it better.&rdquo; Alyce is a stronger editor. Shailey is an effortlessly talented designer. Isha dresses herself infinitely more creatively than I do. And don&rsquo;t even get me started on the amount of people who can draw things better than I can.</p>
+<p>There are times when I have an idea or inspiration, but I think of another individual who has already done something similar, so I shy away from starting my engine.</p>
+<h3><em>And then I think: Isn&rsquo;t battling my own insecurity a worthwhile mountain to climb?</em></h3><br />
+<span style="font-weight: 400;">My fears, real or imagined, revolve around not wanting to look like a copycat, a competitor, a wannabe or &nbsp;&mdash; at worst &mdash; a fraud. Truthfully, listening to these fears stops me from taking chances much more often than I&rsquo;d like to admit.</span></p>
+<p><span style="font-weight: 400;">And then I think: Isn&rsquo;t battling my own insecurity (</span><i><span style="font-weight: 400;">I think I can, but...)</span></i><span style="font-weight: 400;"> &mdash; boldly fighting it and overcoming it &mdash; helping me become brave?</span></p>
+<p>What if Mozart had never written a symphony because Beethoven had already published one? What if Amy Poehler had never gone into acting because Tina Fey had already started her career? What if Qdoba had never opened business because Chipotle was already the best fast-casual Mexican restaurant there ever could be?<a href="http://yellowconference.com/wp-content/uploads/2016/12/k3.jpg"><img class="aligncenter size-full wp-image-7545" src="http://yellowconference.com/wp-content/uploads/2016/12/k3.jpg" alt="k3" width="700" height="1050" /></a><i></i></p>
+<h2><i><span style="font-weight: 400;">What if the little engine didn&rsquo;t think she could?</span></i></h2><br />
+There will always be someone who does it &mdash; whatever &ldquo;it&rdquo; is &mdash; better, but that doesn&rsquo;t mean you can&rsquo;t still do it well. Truthfully, there will be more people who wanted to try but didn&rsquo;t have the courage to fail, and shying away from making because someone else has already &ldquo;done it better&rdquo; reduces creativity to competition. Confronting the insecurity to dream up something, call it good, and share it with the world will help you become, slowly but surely, an innovative woman of heart.</p>
+<p>It applies to creative pursuits and it applies to life: You can only succeed at what you&rsquo;ve started, so brave up and begin. Write that blog post. Apply for that job. Submit your work to that agency, museum, producer, whatever. You will get much further by saying, &ldquo;I think I can&rdquo; than by giving yourself the excuse: <em>&ldquo;...but she did it better.&rdquo;</em></p>
+<p>Someone else&rsquo;s talent in your industry or field doesn&rsquo;t negate yours. This world, especially presently, needs more than one great writer, painter, poet and pianist. Let's&nbsp;brave up to their own insecurities and face the process.</p>
+<p><span style="font-weight: 400;">After all, the little engine didn&rsquo;t get anywhere by saying, &ldquo;I think I can, but...&rdquo;</span></p>
+<p><em>Photos by <a href="http://eclecticstateofmind.com/" target="_blank">Kimberly Jurgens</a></em></p>
+<p><a href="http://www.shelearnsthings.com/" target="_blank"><img class="aligncenter size-full wp-image-5511" src="http://yellowconference.com/wp-content/uploads/2016/05/AnaPierce.jpg" alt="AnaPierce" width="700" height="264" /></a></p>

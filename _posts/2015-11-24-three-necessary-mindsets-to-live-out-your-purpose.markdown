@@ -1,0 +1,63 @@
+---
+layout: post
+status: publish
+published: true
+title: WANT TO LIVE A PURPOSEFUL LIFE? HERE ARE THREE MINDSETS YOU CAN'T DO WITHOUT
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 4294
+wordpress_url: http://yellowconference.com/?p=4294
+date: '2015-11-24 04:00:09 -0800'
+date_gmt: '2015-11-24 12:00:09 -0800'
+categories:
+- Creative Ladies
+- Advice
+- REFINE
+- The Starter
+- Encouragement
+tags: []
+comments:
+- id: 4014
+  author: Jennifer Sacco
+  author_email: jennifer@jennifersacco.com
+  author_url: https://www.jennifersacco.com
+  date: '2015-11-25 03:47:00 -0800'
+  date_gmt: '2015-11-25 11:47:00 -0800'
+  content: 'Such a great article! By far #2 is the most important to me! I try to
+    pass that message on as much as I can.'
+---
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/11/mscollection-94.jpg"><img class="aligncenter size-full wp-image-4297" src="http://yellowconference.com/wp-content/uploads/2015/11/mscollection-94.jpg" alt="Yellow Conference Blog: Empowering Creative Women to Spread Good and Bloom" width="700" height="467" /></a></p>
+<h5>I&rsquo;ve always felt a little on the outside. Maybe you could relate.</h5><br />
+<span style="line-height: 1.5;">Not quite &ldquo;cool girl&rdquo;, not quite &ldquo;outcast&rdquo; and not quite sure of myself. Because I existed on that shaky ground, jealousy and comparison became my habit. </span><em style="line-height: 1.5;">What does she have that makes the boys not put her in the friend zone? How can I be as cool or as pretty as her? What is that person doing to make them as talented as they are, when I&rsquo;m just mediocre?</em></p>
+<p>Nobody told me those voices would follow me in my career.</p>
+<blockquote><p><em><span style="line-height: 1.5;">What you know, what you&rsquo;re doing with the resources you have, that&rsquo;s the best you can do. And it is so good. So give yourself some grace and allow yourself to be at peace with who you are and what you&rsquo;re doing. Stay true to your mission and your vision, be kind to yourself, work well and the rest will follow.</span></em></blockquote><br />
+<span style="line-height: 1.5;">You see, I came to my profession as a videographer through strange means. I randomly chose film as a degree&ndash;so randomly that I declared it my major without having ever opened a creative computer program and having never so much as recorded videos on a home video camera. That meant that, if I really wanted it, I was going to have to put in extra work. A few years later the word &ldquo;hustle&rdquo; would become a buzzword, and that&rsquo;s exactly what I was doing from the beginning. I had to work extra hours, look for extra instructions, and find my voice as quickly as possible to keep up with the other students.</span></p>
+<p><strong>And then the other professionals.</strong><br />
+<strong> And then Pinterest.</strong><br />
+<strong> And then the bloggers and Instagram accounts.</strong></p>
+<h6>And somewhere between &ldquo;hustle hard&rdquo; and &ldquo;great artists borrow&rdquo; I lost <em>it</em>.</h6><br />
+My skills grew, my business grew, but I lost my message. I started this journey because I realized that I could be a storyteller. A voice that cuts through negativity and bad news and says &ldquo;yes, but this couple just vowed to love each other forever! Let&rsquo;s celebrate their love and remember our own!&rdquo; or &ldquo;this person is creating beautiful music! Let&rsquo;s stop and let it fill us up!&rdquo; Instead, I was just making pretty things by everyone else&rsquo;s&rsquo; standards, and that fell flat. So, much like with figuring out other beliefs, there was only one place to turn: inside.<a href="http://yellowconference.com/wp-content/uploads/2015/11/mscollection-95.jpg"><img class="aligncenter size-full wp-image-4296" src="http://yellowconference.com/wp-content/uploads/2015/11/mscollection-95.jpg" alt="The Yellow Co. Blog: empowering creative women to spread good and bloom" width="700" height="467" /></a><br />
+I know it&rsquo;s clich&eacute;, but you really do have to put that oxygen mask on yourself first before you can look to see how you can serve those around you. What I had done was basically work the air out of myself, and it was time to begin to breathe deeply again.</p>
+<h5><strong>So here are my tips for how to breathe as a creative looking to leave something significant in the world:</strong></h5><br />
+&nbsp;</p>
+<h6>1: Give yourself grace:</h6><br />
+The first thing I did as I set out to truly refine what I believed about myself, my mission, and my company was to accept the fact that I would have to give myself grace. I will never have it all figured out&ndash;repeat: <em>I will NEVER have it all figured out.</em> But that&rsquo;s what makes it fun, right? If we had it all together, we&rsquo;d just stay in our comfortable ruts forever, and where&rsquo;s your chance to change the world if you&rsquo;re holed up away from it?</p>
+<p><em>Breathe in&hellip;. &ldquo;I don&rsquo;t know all the answers.&rdquo; Breathe out&hellip; &ldquo;but I don&rsquo;t have to.&rdquo;</em></p>
+<p>What you know, what you&rsquo;re doing with the resources you have, that&rsquo;s the best you can do. And it is so good. So give yourself some grace and allow yourself to be at peace with who you are and what you&rsquo;re doing. Stay true to your mission and your vision, be kind to yourself, work well and the rest will follow.</p>
+<h6>2: Look to people for inspiration, not competition.</h6><br />
+The tinge of jealousy, comparison, the drive to be the best are not inherently bad. It&rsquo;s our response that determines whether it is helpful or harmful. Jealousy is your gut letting you know what you really want out of life. Comparison and drive can push you to learn more, or take an extra risk. Don&rsquo;t feel guilty about jealousy, but don&rsquo;t get consumed by it either. Those people doing what you want to be doing? Let them become your teachers and mentors, not your competitors. The work you wish you could create? Go create something that feels that good, but is yours. That impact that someone else is making on the world? Live your story, live your mission, and you will be doing the same soon enough. Honestly, you probably already are, you&rsquo;re just too caught up in their story to notice.</p>
+<p><em>Breathe in&hellip; &ldquo;I will constantly be wanting to dream bigger and go farther,&rdquo;. Breathe out&hellip;&ldquo;and that&rsquo;s okay as long as it&rsquo;s used to fuel my fire instead of my envy.&rdquo;</em></p>
+<blockquote><p><em><span style="line-height: 1.5;">Jealousy is your gut letting you know what you really want out of life. Comparison and drive can push you to learn more, or take an extra risk. Don&rsquo;t feel guilty about jealousy, but don&rsquo;t get consumed by it either.</span></em></blockquote></p>
+<h6>3: Wild, Messy, but on Purpose:</h6><br />
+That became my phrase as I strengthened myself, my company, and my mission. I needed to embrace what it is that makes me uniquely me. I&rsquo;m the girl who will be tearing up at the wedding I&rsquo;m filming or squeal with excitement once I yell &ldquo;cut!&rdquo; because I&rsquo;m just so in love with people and I can&rsquo;t believe I get the honor to tell their stories. I am not trendy in my work or my appearance, but I am steady. I will get sentimental, and that&rsquo;s because, now that I&rsquo;m looking in instead of out, my work means the world to me. My legacy will give people stories of love, beauty, and victories to keep going back to even when the world is heavy, and I would never trade that for a Pinterest perfect haircut or a million Instagram followers or a famous client. Rock your weird, stay true to your purpose, live your best moment by moment. There&rsquo;s no such thing as looking the part, we&rsquo;ve all got our own special role to play and the world is seriously missing out if you&rsquo;re too busy trying to be someone else to be yourself.</p>
+<p><em>Breathe in&hellip; &ldquo;I have enough. I am enough. I can give enough.&rdquo; Breathe out&hellip; &ldquo;this is my story to live&rdquo;.</em></p>
+<blockquote><p><em>Rock your weird, stay true to your purpose, live your best moment by moment. There&rsquo;s no such thing as looking the part, we&rsquo;ve all got our own special role to play and the world is seriously missing out if you&rsquo;re too busy trying to be someone else to be yourself.</em></blockquote><br />
+We&rsquo;ve got some incredibly beautiful marks to leave on this world, and it can&rsquo;t be done without you. Take some time to get a hold of your voice, your mission, your vision, and then refuse to let go when the world is telling you to trade it in for someone else&rsquo;s dream. I can only hope that through embracing the fact that I am enough in all my parts: physically, mentally, creatively, I can better tell that story to other people and remind them that they, too, are doing okay. <em>YOU are doing okay.</em> You are just as &ldquo;good enough&rdquo; as the next person. You have what you need to succeed because you have their heart and you story-something no book can teach anyone to copy. Refine it, own it, live it.</p>
+<p><em>Photos by <a href="http://karenmariehernandez.com/" target="_blank">Karen Marie Hernandez</a></em></p>
+<p><a href="http://www.truebadours.com/" target="_blank"><img class="aligncenter size-full wp-image-4309" src="http://yellowconference.com/wp-content/uploads/2015/11/jessicaWHALEN.jpg" alt="Yellow Co. Blog" width="700" height="264" /></a></p>
+<p>&nbsp;</p>

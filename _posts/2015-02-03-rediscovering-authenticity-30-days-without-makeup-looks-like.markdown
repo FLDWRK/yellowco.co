@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: 'REDISCOVERING AUTHENTICITY: WHAT 30 DAYS WITHOUT MAKEUP LOOKS LIKE'
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 1836
+wordpress_url: http://yellowconference.com/?p=1836
+date: '2015-02-03 04:00:07 -0800'
+date_gmt: '2015-02-03 12:00:07 -0800'
+categories:
+- Creative Ladies
+- Inspiration
+- The Activist
+- The Starter
+- REDISCOVERING AUTHENTICITY
+- The Solopreneur
+- The Leader
+tags: []
+comments:
+- id: 3863
+  author: 'Press: Yellow Conference Gives Us Love | 30DaysNoMakeup'
+  author_email: ''
+  author_url: http://30daysnomakeup.com/press-yellow-conference-gives-us-love/
+  date: '2015-02-03 08:37:25 -0800'
+  date_gmt: '2015-02-03 16:37:25 -0800'
+  content: "[&#8230;] Read&nbsp;full article here. [&#8230;]"
+---
+<p>I can't think of a better way to start <i>"the month of looove"&nbsp;</i>than with this interview.</p>
+<p>Inspiring, <em>strong,&nbsp;</em>energizing, gentle, funny, motivating...while I was adjusting my continually growing baby bump in the most unprofessional, unattractive ways, this beautiful lady introduces herself to me as Sarah Jaggard, co-founder of&nbsp;<a href="http://30daysnomakeup.com/" target="_blank">30DaysNoMakeup</a><em>,&nbsp;</em>with a giant smile, and a basket full of all yellow treats, including bright yellow dandelions that found their perfect home today on my <em>(ehem...yellow)</em> kitchen table. I'd heard about the movement, checked out their website and <a href="http://darlingmagazine.org/beautician-embodied-30-days-makeup/" target="_blank">interview with Darling</a>, and expected to meet with her for our interview in Malibu on a sunny Friday morning...I went into this thinking it was an interview, instead it was nothing short of an exciting conversation of life, beauty, and future dreams.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/02/IMG_3310.JPG.jpg"><img class=" size-full wp-image-1830 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/02/IMG_3310.JPG.jpg" alt="IMG_3310.JPG" width="700" height="525" /></a></p>
+<p>To say the least, it was a sweet time of laughter, listening, and meeting on common ground about wanting to see genuine&nbsp;change in our world.</p>
+<p>The biggest thing to know about this movement:&nbsp;<strong>it's about so much more than the makeup.&nbsp;</strong></p>
+<p>We walk up to the cutest back-yard area at a Malibu Urban Outfitters, trying to find the perfect spot to talk, and laughing about how we're both so awkward "acting natural" while someone snaps a couple pictures of us (even though, this 'someone' wasn't just anyone; she was a precious gal named Shannon who is preparing to go to Kenya for four months to work with youth living on the street...helllloooo future blog post). We parked ourselves on the picnic bench resting in gravel, surrounded by a garden of lights and bright greens...</p>
+<p>"So," I start the interview, "you're wearing makeup today...the challenge must be over," and we both laugh. "Well, even going off that comment, it's not about the makeup.&nbsp;It's about the experience of what it brings up for the people that&nbsp;participate...We aren't an anti-cosmetics movement, we want people to allow themselves the gift of experience. What we are finding is that it's based on what other people think, and what people feel based on what other people think...that's more what it's about."</p>
+<p><em>Boom.&nbsp;</em>See what I mean?</p>
+<p>Sarah approached her (now) 30DaysNoMakeup partner, Natalie, after a restless night full of dreaming and scheming what it would be like to challenge women to cease to use makeup for a total of thirty days, <em>"we decided 30 days was the perfect amount of time because it is long enough to break the cycle of habit, 21 days,"&nbsp;</em>and are now in the middle of their second round of the challenge.</p>
+<p>They started their first campaign November 15th, after wrestling with when would be the perfect date, what the perfect start would look like...the questions of a true Starter.&nbsp;<em>Will people participate with the holidays coming up? </em>They accepted the challenge, no matter the results.&nbsp;"We saw it as a great opportunity to challenge women to really experience what this will be like..." Sarah wrote a post for people to know that&nbsp;it's not a program of rules, but an experiment for participants in discovering something new about themselves.</p>
+<p>And the participants? "We have people from&nbsp;all ages, all backgrounds, all ethnicities...the only pattern was women who wanted to do something for themselves...Currently having 16-17 year olds to the oldest being probably about 50 years old; every mix of ethnicity; a couple overseas; we had bloggers, therapists, missionaries, sports medicine coaches, product developers...we had one girl who owned an etsy store..."</p>
+<p>Sarah's comfort in her own skin, confidence in her personal direction, and belief in this cause comes effortlessly, like breathing. She shares the stories and victories of this challenge with steady rhythm.</p>
+<p><b><i>"</i></b>Really what I care most about is starting a conversation about identity...30DaysNoMakeup works because it's experiential learning. It takes the pressure off of Natalie [co-founder] and I to be the teachers-instead we say, '<em>Hey, you are going to be the teachers and teach us about what your experience is.'&nbsp;</em>And from the women that did the first campaign, it was so varied, but the pattern that we saw was women saying,<em> 'I'm so glad I did this. It changed me.'</em>&nbsp;...some women felt deep, internal change and felt so much more comfortable with their bare face, that they've decided they don't want to wear makeup anymore. Other women realized that they were wearing concealer because &nbsp;they weren't sleeping enough, they were covering bags under their eyes...And with just that one simple adjustment, they were able to see deeper truth..."</p>
+<blockquote><p>Can a movement with the pure motive of internal reflection and change really be purposeful and worthy of attention? Sarah defends the cause well by teaching that <strong>internal change makes better world-changers.</strong> Internal change is necessary for realistic, authentic impact on our surroundings.</blockquote><br />
+So what makes this campaign different from other no-makeup campaigns? The purpose: "There've been different no-makeup campaigns to bring awareness to [different issues]... but there was not a single campaign focusing on the person finding a healthy self love...this makes more effective photographers, entrepreneurs, business women, etc. because we are going to be open and available, and breaking the barriers of social media filters and people pleasing...That's the world we live in today, we have to create a hashtag to let people know that we aren't using a filter on our pictures.</p>
+<p>Our motivation is in providing a platform and opportunity for change for women, even in a small way.&nbsp;We tell the women that this is not a campaign of deprivation, it's a campaign of filling something old with something new...so what are you doing with that time [you used to use putting on makeup]?"</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/02/IMG_2984.jpg"><img class=" size-full wp-image-1845 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/02/IMG_2984.jpg" alt="IMG_2984" width="700" height="525" /></a></p>
+<p>And the responses have been as diverse as the participants, from husbands being inspired by their wife's change, to the followers' motivations for doing the challenge, Sarah shared a scroll of stories for how this experiment made waves among participants and onlookers alike.</p>
+<p>"...The most popular blog post&nbsp;was one where I interviewed my fiance...and I'm sure there were a lot of reasons for that: [the question of] what's a man's perspective, the vulnerability of it etc...and I was being called out on things...he said, <em>'without makeup, you're softer when you talk to people.'</em>&nbsp;...One time Natalie [co-founder] posted [on Instagram] the question, <em>What inspired you to participate</em>, and women had some amazing things to say: <em>'my daughter, my lack of self-care, just seeing what it's done for women who have done it before.'&nbsp;</em>...There was not a single person who walked away and wasn't touched by it, who didn't leave with some sort of impact...Everyone walked away with something different, and the way they were impacted was different. It wasn't a three step program to better their self-esteem, we were inviting people to share their experience."</p>
+<p>Sarah participated in the first movement of 30DaysNoMakeup alongside everyone else--now, she's re-entered into the "with makeup" world, and is still finding the adjustment for herself--Much like someone who has spent months abroad, she is re-entering slowly with the question of who is she after this experience?</p>
+<p><b><i>"</i></b>I'm just easier on myself. Well first, the presentness...why do I wear this? Is it just part of my routine? Am I trying to impress somebody? And now, if I need that extra 15 minutes to sleep instead of putting makeup on, I give myself permission to do that...I feel so much more comfortable in my own skin, which I wasn't expecting...</p>
+<p>...We had some guest blog posts from current participants writing about their experience, and then past participants posting about their experience going back to makeup and how foreign it felt, how they weren't even sure if they really liked it, and just that pause of asking yourself, <em>do I even want to do this right now?</em> "</p>
+<p>But not everyone has been onboard with this movement, "we've received so much hate mail too..."</p>
+<p>People have questioned the importance of the challenge, and the heart of the challenge (found in the tagline: <em>The Brave Ones Face Themselves</em>). People have questioned the purpose, and if it's truly "brave" in comparison to what's happening around the world. Can a movement with the pure motive of internal reflection and change really be purposeful and worthy of attention? Sarah defends the cause well by teaching that <strong>internal change makes better world-changers.</strong> Internal change is necessary for realistic, authentic impact on our surroundings.</p>
+<blockquote><p>Our motivation is in providing a platform and opportunity for change for women, even in a small way.</blockquote><br />
+And the male response? "They follow us, too! They comment saying things like, <em>'beautiful, love what you're doing, love your vision!'</em>...We had one woman from Nashville that's husband saw such a shift in her in the first week, that he was like, I'm going to do something too, <em>I'm going to shave my beard off</em>. So he shaved his face &nbsp;and went bare face for the remainder of the campaign, and the two of them together got to experience this vulnerable journey, where they both felt so exposed...and I was like, wow, that wasn't our idea, he understood what the value was."</p>
+<p>30 Days No Makeup's mission continues to expand, from L.A. rehab centers encouraging it as a resource to high school girls dancing in the bathroom (a fun addition to 30DaysNoMakeup's instagram called "#humpdaybrave") and Sarah's dreams for the mission are growing along with it,&nbsp;<em>"I want it to continue to be its own brand...Natalie has a dream of a children's book...that enhances minds and self-esteem...we have so many dreams...spreading it beyond women, starting research on other things..."&nbsp;</em></p>
+<p>[caption id="attachment_1844" align="aligncenter" width="700"]<a href="http://yellowconference.com/wp-content/uploads/2015/02/30days.jpg"><img class="wp-image-1844 size-full" src="http://yellowconference.com/wp-content/uploads/2015/02/30days.jpg" alt="30days" width="700" height="702" /></a> Photo of founders, Sarah and Natalie, from <a href="http://instagram.com/30daysnomakeup" target="_blank">@30DaysNoMakeup </a>[/caption]</p>
+<p><strong>So what does Sarah have to say to the readers over at Yellow?</strong></p>
+<p>"Good starts with us; I think the only way it can be effective...is if it's authentic...<em>30DaysNoMakeup necessitates an internal exploration...</em>doing something on the outside doesn't necessarily mean something is changing on the inside. Don't hide behind the results...I value quality over quantity, that's my value. I want things to feel honest and authentic, and if that's not happening in something I'm investing in...then I step away...I will never make something seem bigger than it is...</p>
+<p>I don't believe in failure, it's all a part of it. The results we see...we're foolish to think those are the actual results...I don't believe in failure the same way I don't believe in flaws...Who did we get that from, where did we get this idea of flaws? With that: really, what's failure?"</p>
+<p><em>For more information on the 30DaysNoMakeup movement, and ways to get involved, click <a href="http://30daysnomakeup.com/" target="_blank">here</a>.&nbsp;</em></p>
+<p style="text-align: center;"><a href="http://lettersfromamister.tumblr.com" target="_blank"><img class=" size-full wp-image-1839 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/02/skimbio.jpg" alt="skimbio" width="700" height="264" /></a></p></p>

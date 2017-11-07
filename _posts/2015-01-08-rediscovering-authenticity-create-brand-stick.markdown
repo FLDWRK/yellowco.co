@@ -1,0 +1,58 @@
+---
+layout: post
+status: publish
+published: true
+title: 'REDISCOVERING AUTHENTICITY: HOW TO CREATE YOUR BRAND, AND STICK WITH IT'
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 1632
+wordpress_url: http://yellowconference.com/?p=1632
+date: '2015-01-08 04:00:38 -0800'
+date_gmt: '2015-01-08 12:00:38 -0800'
+categories:
+- Advice
+- The Starter
+- REDISCOVERING AUTHENTICITY
+- The Solopreneur
+tags: []
+comments:
+- id: 3845
+  author: This week-1 - Truebadours | Truebadours
+  author_email: ''
+  author_url: http://www.truebadours.com/2015/01/09/week-1/
+  date: '2015-01-09 09:17:00 -0800'
+  date_gmt: '2015-01-09 17:17:00 -0800'
+  content: "[&#8230;] From the Yellow Conference Blog: Rediscovering Authenticity:
+    A Series; How to Create Your Brand and Stick With It. [&#8230;]"
+- id: 3846
+  author: Kristin Tovar
+  author_email: kristin@whyilovewhereilive.com
+  author_url: http://www.whyilovewhereilive.com
+  date: '2015-01-12 12:08:01 -0800'
+  date_gmt: '2015-01-12 20:08:01 -0800'
+  content: Wonderful post!  I really believe it is important to slow down and reflect
+    on why and how we use social media.  Thank you for your insight on the topic.
+---
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/01/socialmedia.jpg"><img class=" size-full wp-image-1621 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/01/socialmedia.jpg" alt="socialmedia" width="700" height="466" /></a>Social media is a powerful tool to help grow your business or personal brand&mdash;but it can also be overwhelming. We have all had moments where we feel like we are losing ourselves&hellip;so we go looking for inspiration, and in attempt to capture some of the success that we see from our favorite brand, we start to lose our own brand-identity. We end up losing ourselves, our content suffers, and how we display ourselves on social media begins to look a lot different than our real selves.</p>
+<p>It&rsquo;s part of my job to know who the top bloggers and brands are. I find them very inspiring, but the pressure to be like them gets to me sometimes. Finding my own voice and brand persona has been a struggle, but these are the key things I&rsquo;ve learned in the process:</p>
+<p><strong>Create Goals</strong></p>
+<p>Think about where you want to be tomorrow, in three months, and in six months. How is social media going to help you get there? Who do you need to connect with? Who do you need to collaborate with? Why are you on Instagram? What is Pinterest going to do for your business?&nbsp;Have a purpose for everything you do in your social space.</p>
+<p>There's a lot of information out there about marketing, branding, and building followers, but it's not useful without&nbsp;a clear understanding of who you are, your goals, and what kind of community you want to create on social media. But with the right perspective, and tools, this kind of &ldquo;social-media-identity-crisis&rdquo; can be easily avoided.</p>
+<blockquote><p>There's a lot of information out there about marketing, branding, and building followers, but it's not useful without&nbsp;a clear understanding of who you are, your goals, and what kind of community you want to create on social media.</blockquote><br />
+<strong>Create First, Be Inspired Later&nbsp;</strong></p>
+<p>If you want to have a strong voice online give yourself the opportunity and space to hear it. When creating content, start with a clear head. Get your ideas out of your head and in front of you, and try not to look at other profiles (Intagram, Pinterest, etc.) until you&rsquo;ve established your own sense of self and direction. If you find yourself stuck and need a little inspiration to polish it off that&rsquo;s okay&mdash;the goal is to avoid getting so caught up in everyone else&rsquo;s ideas, that we don&rsquo;t give our own a chance. When we get too caught up in being like other people, we end up inadvertently copying them, creating muddled content, and, most importantly, losing our own voice. The content that highlights our own strengths and passions is the content that resonates with followers. It&rsquo;s also the content that builds our confidence and makes us feel good about who we are and our creative abilities.</p>
+<p><strong>Find your (social media) tribe</strong></p>
+<p>Following the right people on social media will build your confidence and inspire you to be the best version of yourself. If your Twitter feed is full of&nbsp;distracting noise when you login, you might need to reevaluate who you&rsquo;re following. If you feel inadequate and pressure to be someone you are not when looking through your Instagram feed, you may need to unfollow some people. It&rsquo;s best to follow people that have positive, useful content that speaks to you, leaving you feeling energized and inspired.</p>
+<p>My personal rule: I only follow people I&rsquo;ve personally interacted with, whether it&rsquo;s chatting over coffee or we have had multiple positive interactions online. I also follow people I would like to collaborate with. For instance, on Instagram the people I follow inspire me creatively and in turn I inspire them. Being selective helps create a positive space that inspires you, helping to avoid competition and negativity, and preventing distraction.</p>
+<p><strong>Write Out Guidelines For Your Brand</strong></p>
+<p>Writing down brand guidelines will serve as a map to help you navigate social media, find focus, and stay true to yourself. It can also serve as a reminder of your values and make you aware when your content isn&rsquo;t in line with them.</p>
+<p>An exercise that my business coach introduced me to is &ldquo;I believe&rdquo; statements: Take some time to write out 30&ndash;50 &ldquo;I believe&rdquo; statements. Read through the statements and pull out common threads and values to use as the foundation for your branding. Using these statements as guides for your brand and content will make your online persona easy to navigate.</p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/01/IBelieve.jpg"><img class=" size-full wp-image-1641 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/01/IBelieve.jpg" alt="IBelieve" width="700" height="702" /></a></p>
+<p>We attract what we put out into the world. Always be kind and positive, and you will attract kind and positive people. Forget perfection, wave goodbye to fear, and let people fall in love with the imperfect, but wonderful, amazing you.</p>
+<p><em>Images via <a href="http://www.mattiapelizzari.com/" target="_blank">Mattia Pellizari</a>&nbsp;and <a href="http://instagram.com/iteratesocial/" target="_blank">Elizabeth Fein</a></em></p>
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/01/Fein-Bio.jpg"><img class=" size-full wp-image-1633 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/01/Fein-Bio.jpg" alt="Fein Bio" width="700" height="264" /></a></p>

@@ -1,0 +1,85 @@
+---
+layout: post
+status: publish
+published: true
+title: WHY LOVING WELL AND SUCCEEDING GREATLY IS NOT AN EITHER/OR
+author:
+  display_name: admin
+  login: hannasnyder
+  email: hanna@yellowco.co
+  url: ''
+author_login: hannasnyder
+author_email: hanna@yellowco.co
+wordpress_id: 9180
+wordpress_url: http://yellowco.co/?p=9180
+date: '2017-07-28 04:00:55 -0700'
+date_gmt: '2017-07-28 11:00:55 -0700'
+categories:
+- Tension
+tags: []
+comments:
+- id: 4389
+  author: Marienne
+  author_email: marienne.un@gmail.com
+  author_url: http://www.genaradenis.com
+  date: '2017-07-30 06:56:00 -0700'
+  date_gmt: '2017-07-30 13:56:00 -0700'
+  content: |-
+    This is an interesting topic! I certainly agree that we, as women can handle both a successful career and a healthy relationship. These 4 codes of conduct are very helpful, especially for starting entrepreneurs like myself. Thank you for sharing!
+    Xo,
+    Marienne
+    http://www.genaradenis.com
+    GENARA DENIS JEWELRY &bull; Fun-Classy Handmade Jewelry for a Fashion Statement and/or Spiritual Purpose. #ShopGenaraDenis
+- id: 4390
+  author: THURSDAY LINK ROUND-UP VOL. VI &#8902; lyndsey dee
+  author_email: ''
+  author_url: http://lyndseydee.com/thursday-link-round-vol-vi/
+  date: '2017-08-03 12:39:02 -0700'
+  date_gmt: '2017-08-03 19:39:02 -0700'
+  content: "[&#8230;] Why loving well and succeeding greatly is not an either/or
+    [&#8230;]"
+- id: 4396
+  author: Isabell Springer
+  author_email: isabell@berelationshipready.com
+  author_url: ''
+  date: '2017-08-24 14:31:00 -0700'
+  date_gmt: '2017-08-24 21:31:00 -0700'
+  content: |-
+    Love your article. Happy to share it.  Keep up the inspirational message.
+    XO
+    BeRelationshipReady.com
+- id: 4398
+  author: Jackie
+  author_email: jackieviramontez@gmail.com
+  author_url: ''
+  date: '2017-09-07 14:46:00 -0700'
+  date_gmt: '2017-09-07 21:46:00 -0700'
+  content: thanks marienne
+---
+<h3>&ldquo;I don&rsquo;t have time for a relationship.&rdquo;</h3><br />
+Flashback six years, and I remember how 80-hour work weeks aren&rsquo;t conducive to relationships.&nbsp;<span style="font-weight: 400;">Clients tell me, &ldquo;I&rsquo;m still single because I&rsquo;m focusing on my career.&rdquo; This saying reflects a myth that exists when it comes to entrepreneurial women. The myth goes like this: We have to choose.</span></p>
+<p>Do we choose a successful career, or a healthy relationship? I don&rsquo;t think we have to choose at all.<strong>&nbsp;</strong><span style="font-weight: 400;">I think women can balance both, if we learn to balance the tension.</span></p>
+<p><span style="font-weight: 400;">This morning I woke up early to write. Not long after my alarm rang, a distraction scratched its way in to sabotage my goals: My husband. He had a story he wanted to tell. </span><span style="font-weight: 400;">While I had discipline on my side, I also had a deadline. My inner achiever begged me to tune him out, but my inner wife told me to set my work aside and be present. You might be thinking, if I were a good person I would listen to him and love it. But, what happens when the story lasts 30 minutes, and then a friend stops by for a surprise coffee date, and then mom calls and wants to chat?</span></p>
+<p><span style="font-weight: 400;">If I choose relationships over my career, my work falls to the wayside. I wind up bitter. If I choose work over the relationships, my partner might complain. I feel guilty. </span><span style="font-weight: 400;">Researchers have found that women struggle with this balance more than men. We have a biological tendency to choose relationships over achievement. Many of us even have a voice that says, &ldquo;always put others first.&rdquo; This voice can be healthy in moments, but only when it is balanced with another voice: &ldquo;My work&nbsp;needs deserve to come first too.&rdquo;</span></p>
+<p><span style="font-weight: 400;">What is the right way to respond to relational distractions? When the loquacious friend calls do we send her to voicemail? Or, do we pick up and feel resentful when she steals 50 minutes of our work day?</span></p>
+<p><img class="aligncenter size-full wp-image-9185" src="http://yellowco.co/wp-content/uploads/2017/07/Pioneer16.jpg" alt="WHY LOVING WELL AND SUCCEEDING GREATLY IS NOT AN EITHER/OR - THE YELLOW ROOM" width="3600" height="2400" /></p>
+<p><span style="font-weight: 400;">When I met my husband, I had a job that kept me up until midnight and woke me up at 5 am. If he tried to talk to me while I was in the zone, my selective hearing would usually win. This scenario happened so many times that he turned it into a joke that he uses to this day. After his third time attempt to engage with me, he quietly utters, &ldquo;Never mind, I&rsquo;ll call back later.&rdquo; </span></p>
+<p><span style="font-weight: 400;">When he says this, a large part of me feels guilty for not pausing to chat. I worry he will think of me as a workaholic, or worse, a narcissist who always chooses my agenda over him. Another part of me wants to tell him that if he valued my career he wouldn&rsquo;t interrupt me.</span></p>
+<h3>The fascinating part of balancing loving well and working well is that it becomes harder when we don&rsquo;t have a boss.</h3><br />
+<span style="font-weight: 400;">A boss won&rsquo;t allow us to steal away for an hour to chat with a partner. But when&nbsp;we are the boss, we let that boundary slide. On the other hand, a good boss rarely demands that we ignore our partners to meticulously market the business. When we are our own boss though, we cross this boundary without thinking twice. </span></p>
+<p><span style="font-weight: 400;">Good bosses enforce codes of conduct that let us focus on work </span><i><span style="font-weight: 400;">and</span></i><span style="font-weight: 400;"> have healthy personal time. If we </span><i><span style="font-weight: 400;">are</span></i><span style="font-weight: 400;"> the boss, we can achieve balance with similar boundaries. As an equal fan of my business and my marriage, I am practicing four codes of conduct to ensure I work well and love even better.</span></p>
+<h3><b>#1 Respect my boundaries and my partner&rsquo;s equally.</b></h3><br />
+<span style="font-weight: 400;">My boundary is that when I&rsquo;m writing I don't want to be interrupted. If my husband walks up to me and tries to chat I tell him I want to listen, but I have a deadline. </span><span style="font-weight: 400;">On the other hand, he needs to feel appreciated and respected. Telling him I don&rsquo;t want to listen feels like a slap in the face. </span><span style="font-weight: 400;">While vocalizing my boundaries is important, I must be willing to honor his as well. </span><span style="font-weight: 400;">This leads to the second code of conduct:</span></p>
+<p><img class="aligncenter size-full wp-image-9186" src="http://yellowco.co/wp-content/uploads/2017/07/Pioneer14.jpg" alt="WHY LOVING WELL AND SUCCEEDING GREATLY IS NOT AN EITHER/OR - THE YELLOW ROOM" width="3600" height="2400" /></p>
+<h3><b>#2 Be willing to compromise. </b></h3><br />
+<span style="font-weight: 400;">My husband will never like being ignored and I will never enjoy being interrupted. If we want to stay happily married, compromise is key.&nbsp;</span><span style="font-weight: 400;">When he starts to tell a story, I swallow the urge to keep writing, make eye contact, and tell him I will listen in 7 minutes. I&rsquo;m getting better at being more realistic with how much time I&rsquo;ll need. </span></p>
+<p><span style="font-weight: 400;">Do I ever feel guilty for putting my projects before his feelings? Yep. But I remind myself that he&rsquo;s man enough to tame his excitement and wait. </span><span style="font-weight: 400;">Does putting my needs first sometimes annoy him? Yes, but I have a trick.</span></p>
+<h3><b>#3 Celebrate Success Together.</b></h3><br />
+When my book was published (because I stuck to deadlines!), I didn&rsquo;t host a solo book launch. We collaborated to celebrate both of our recent work. Celebrating success together eases the tension of long-hours, distracted conversations, and the stress of planning an event alone. The launch party felt like a moment to cheer each other on as individuals and as entrepreneurs.&nbsp;<span style="font-weight: 400;">Relationships that celebrate each other end up having more to celebrate.</span></p>
+<h3><b>#4 Value relationships like the bottom line in my business. </b></h3><br />
+<span style="font-weight: 400;">When my relationships are healthy, my business benefits. When work gets tough, I need a solid foundation I can trust. My relationships, however distracting, love me more than my clients ever will. </span></p>
+<p><span style="font-weight: 400;">If you&rsquo;re dating or married, treat your relationship like your bottom line. Will there be tension? Yes, but the lessons you learn in relationship will eventually serve your customers and vice versa. If you&rsquo;re single, prioritizing your career doesn&rsquo;t repel future partners. In fact, healthy codes of conduct attract partners who support and respect your work more than they ever could distract.</span></p>
+<p><span style="font-weight: 400;">We have the honor of being the boss. We create the code. When we&rsquo;re working, we can politely say no to distractions. While on deadline, it&rsquo;s okay to tell partners to wait until dinner to tell us the news. Then when dinner arrives, we have permission to turn off technology and nurture our relationship.</span></p>
+<p><span style="font-weight: 400;">There is always room for both. Or as my entrepreneurial and PhD-laden mother-in-law puts it: &ldquo;There is no </span><i><span style="font-weight: 400;">either-or</span></i><span style="font-weight: 400;">, there&rsquo;s just </span><i><span style="font-weight: 400;">and.&rdquo;</span></i></p>
+<p><em>Photos by:&nbsp;<a href="http://andreadavid.co/" target="_blank" rel="noopener noreferrer">Andrea David</a></em></p>
+<p><a href="https://www.amazon.com/dp/1683502809/ref=asc_df_16835028095085146?smid=ATVPDKIKX0DER&amp;tag=shopzilla0d-20&amp;ascsubtag=shopzilla_rev_455-20;15012125790140187802310070301008005&amp;linkCode=df0&amp;creative=395093&amp;creativeASIN=1683502809" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-8327 size-full" src="http://yellowco.co/wp-content/uploads/2017/04/JACKIE-BIO.jpg" alt="JACKIE VIRAMONTEZ BIO" width="2699" height="980" /></a></p>

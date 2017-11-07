@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: 'NONPROFIT TRANSPARENCY: FINDING A PARTNERSHIP THAT MAKES REAL IMPACT'
+author:
+  display_name: admin
+  login: hannasnyder
+  email: hanna@yellowco.co
+  url: ''
+author_login: hannasnyder
+author_email: hanna@yellowco.co
+wordpress_id: 8734
+wordpress_url: http://yellowco.co/?p=8734
+date: '2017-06-07 04:00:15 -0700'
+date_gmt: '2017-06-07 11:00:15 -0700'
+categories:
+- Wander
+tags:
+- nonprofit
+- nonprofit partner
+- transparency
+- making impact
+- social entrepreneurs
+comments: []
+---
+<p><span style="font-weight: 400;">There are more than 1.5 million nonprofit organizations registered in the U.S. That&rsquo;s right, 1.5 </span><i><span style="font-weight: 400;">million</span></i><span style="font-weight: 400;">. I&rsquo;ve worked with a small percentage of these organizations and some of them are truly amazing. They&rsquo;re doing the work that&rsquo;s changing the world. But, if we&rsquo;re being real here, some of them are not.</span></p>
+<p><span style="font-weight: 400;"><strong>This surely comes as no surprise, but some nonprofit organizations simply aren&rsquo;t doing a good job.</strong> For many, this is completely unintentional. For others, unfortunately, it&rsquo;s not. No matter the case, I know we all want our support to be making an impact that matters. If you're feeling lost of how to begin, use these four steps to help you navigate the nonprofit world and choose the best organizations to partner with.&nbsp;</span></p>
+<h3><b>Research &amp; Ask Questions</b></h3><br />
+<span style="font-weight: 400;">Before you jump in, do a little homework to find out about the organization. You can usually read their mission and vision, review their programming, and check out their team right on their website. Ask yourself questions like: Are their programs results-oriented? How do they measure success? Who makes up their board? You can discover a lot simply by looking at their website. Start there. </span></p>
+<h3><b>Look to Third-Party Platforms </b></h3><br />
+<span style="font-weight: 400;">Platforms such as </span><a href="https://www.charitynavigator.org/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Charity Navigator</span></a><span style="font-weight: 400;">, </span><a href="https://www.guidestar.org/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Guidestar</span></a><span style="font-weight: 400;">, and </span><a href="http://www.givewell.org/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Give Well</span></a><span style="font-weight: 400;"> offer everything from ratings and reviews to financial insights on nearly every registered organization. Not only can you find out how an organization is rated, but also see for yourself details on important areas - such as financial transparency and wellbeing, program outcomes, and external oversight.</span></p>
+<p><img class="aligncenter wp-image-8738 size-full" title="NONPROFIT TRANSPARENCY: FINDING A PARTNERSHIP THAT MAKES REAL IMPACT - THE YELLOW ROOM" src="http://yellowco.co/wp-content/uploads/2017/06/TheFinerFewer-Final-013.jpg" alt="NONPROFIT TRANSPARENCY: FINDING A PARTNERSHIP THAT MAKES REAL IMPACT - THE YELLOW ROOM" width="3600" height="2400" /></p>
+<h3><b>Consider Impact Over Outcomes</b></h3><br />
+<span style="font-weight: 400;">Many organizations are doing a lot of work. And we can presume the work is making a positive impact, but to be certain, make sure you consider impact and not just outcomes. For example, say an organization is working to ensure increased literacy for low-income children. Is the organization only measuring how many children go through their program (outcome)? Or are they also measuring the rate at which literacy has increased in the program participants (impact), and what this means for their future success (long-term impact)? This step is a bit more tricky, but it&rsquo;s vital to ensure we&rsquo;re supporting truly impactful work. </span></p>
+<h3><b>Do a Gut Check </b></h3><br />
+<span style="font-weight: 400;">Last, but not least, it should </span><i><span style="font-weight: 400;">feel</span></i><span style="font-weight: 400;"> right. This is a real piece of advice I give all my clients. At the end of the day, even if an organization looks amazing on paper, move on if you don&rsquo;t vibe with them. <strong>Like any relationship, you want this partnership to be a good fit, with open communication and lots of trust.</strong> Listen to your gut. </span></p>
+<p><span style="font-weight: 400;">Collaborations are important and you want to make sure you&rsquo;re picking the right partners. I was chatting with an attorney recently who works specifically with social entrepreneurs. She said one area she&rsquo;d really like to see her clients do better is auditing their nonprofits partners. She feels as if some of them are &ldquo;throwing their money away.&rdquo; Yikes! This is completely avoidable. Yes, it takes a little time and a bit of effort, but it&rsquo;s so worth it to know where you invest yourself is making a meaningful impact.</span></p>
+<p><em>Photos by:&nbsp;<a href="http://www.euncreative.com/" target="_blank" rel="noopener noreferrer">Eun Creative</a></em></p>
+<p><a href="http://www.defininggood.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-8589 size-full" src="http://yellowco.co/wp-content/uploads/2017/05/RACHAEL-PARKER-CHAVEZ-BIO.jpg" alt="RACHAEL PARKER CHAVEZ BIO" width="2699" height="980" /></a></p>

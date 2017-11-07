@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: 'OUR NEXT THEME: REFINE'
+author:
+  display_name: admin
+  login: yellowco
+  email: heygirl@yellowconference.com
+  url: ''
+author_login: yellowco
+author_email: heygirl@yellowconference.com
+wordpress_id: 3994
+wordpress_url: http://yellowconference.com/?p=3994
+date: '2015-10-01 04:00:48 -0700'
+date_gmt: '2015-10-01 11:00:48 -0700'
+categories:
+- Light Talk
+- Creative Ladies
+- Inspiration
+- REFINE
+- The Activist
+- The Starter
+- Encouragement
+- The Solopreneur
+- The Leader
+tags: []
+comments: []
+---
+<p><a href="http://yellowconference.com/wp-content/uploads/2015/09/kelseypicforrefine-copy.jpg"><img class="aligncenter size-full wp-image-3996" src="http://yellowconference.com/wp-content/uploads/2015/09/kelseypicforrefine-copy.jpg" alt="yellow conference blog: spread good and bloom" width="700" height="467" /></a></p>
+<p>I can't think of a better time to launch this series: the pumpkin spice lattes are out, cozy sweaters are being hung, and there's a sense of new as the leaves and trees are being painted with Autumn's colors.</p>
+<p>It is Fall, my friends!</p>
+<p>And there's something so sweet, so fresh and new about this season--the wind chimes blow welcoming in new, crisp, refreshing air. We warm our hands with full cups, and there's a sense of <em>gathering</em>&nbsp;and <em>slowness&nbsp;</em>that's unique to this season. I love it.</p>
+<h6>Our next series is all about this: the brilliant air of new; the restorative feeling of letting what's past fall, and anticipating what's new to bloom.</h6><br />
+By definition, to be refined is to make oneself more polished, cultivated, elegant, subtle, precise.</p>
+<p>In other words:</p>
+<h6>To be refined is to know why you are doing what you are doing, and to do it as well as you possibly can.</h6><br />
+I think that the terms&nbsp;elegance and subtle have been far lost and misconstrued as adjectives only applicable to an&nbsp;Audrey Hepburn movie. Being elegant is a lost art that we want to dive into and redefine and repurpose into our dreams, our personal lives, our businesses, and our crafts.</p>
+<blockquote><p><span style="line-height: 1.5;">This is a series on how to become more of yourself in order to change the world, build your brand, grow your character, and cultivate the legacy you want leave behind.</span></blockquote><br />
+<span style="line-height: 1.5;">We want to grow more as leaders, professionals, a wife, a mom, a sister, teacher, painter...whoever you are-to take what you have and fine tune to become more of what you've always dreamed of.</span></p>
+<p><span style="line-height: 1.5;">This is what being refined is all about.&nbsp;</span></p>
+<h6>This is not a series about shutting yourself down to grow more famous on social media or get rich quick.</h6><br />
+This is a series on how to become more of yourself in order to change the world, build your brand, grow your character, and cultivate the legacy you want leave behind.</p>
+<p>The posts featured will be tangible, full of evidence that we can&nbsp;enrich ourselves personally and professionally to signify our mark on the world.</p>
+<p>We at Yellow Co. are driven by the desire to&nbsp;empower, build, harvest, and glean our brand, organization, and self into something useful for the greater good.</p>
+<p>Growth, refreshment, nourishment, refinement...cultivate. Whether in business or personal life, we all need this, and we are excited to journey along with you.</p>
+<p>Always be blooming,</p>
+<p>Sally+The Yellow Co. Team</p>
+<p>Photo by <a href="http://sheinthemaking.blogspot.com/" target="_blank">Kelsey Lemons</a></p>
+<p><a href="http://lettersfromamister.tumblr.com/" target="_blank"><img class="aligncenter size-full wp-image-3273" src="http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg" alt="Sally Kim Content manager for the Yellow Co. " width="700" height="264" /></a></p>
