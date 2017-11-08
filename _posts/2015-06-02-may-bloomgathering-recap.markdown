@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'How To Learn Healthy Time Management - May #Bloomgathering Recap'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3040
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3040
 date: '2015-06-02 04:30:49 -0700'
-date_gmt: '2015-06-02 11:30:49 -0700'
 categories:
 - Advice
-tags: []
-comments: []
 ---
 <p>I grew up in a small beach town where instead of people bragging about how many hours they work per week, they bragged about how many hours they spend <em>not</em>&nbsp;working and instead how many hours they spent out on the water. Here in LA, busy is glorified. The more hours a person works per week, the better.</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/BenFranklin.jpg"><img class=" size-full wp-image-3044 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/06/BenFranklin.jpg" alt="BenFranklin" width="700" height="746" /></a></p>

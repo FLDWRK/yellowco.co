@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO HOST A YELLOW CONFERENCE STREAMING PARTY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3026
+title: How to Host a Yellow Conference Streaming Party
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3026
 date: '2015-05-28 04:00:08 -0700'
-date_gmt: '2015-05-28 11:00:08 -0700'
 categories:
 - Light Talk
 - Creative Ladies
 - Yellow 2015
 - TRIBE
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/05/LiveStreamingParty.jpg"><img class=" size-full wp-image-3033 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/05/LiveStreamingParty.jpg" alt="LiveStreamingParty" width="700" height="891" /></a></p>
 <p><strong><em>(Psssttt....Did you know this year we are offering a live-stream of the Yellow Conference?! Grab your ticket <a href="https://ti.to/yellowconference/yellow-conference-2015" target="_blank">here!!</a>)</em></strong></p>

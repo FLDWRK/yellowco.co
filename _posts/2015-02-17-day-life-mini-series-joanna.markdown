@@ -1,40 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'A DAY IN THE LIFE: WITH JOANNA WATERFALL'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1987
+title: 'A Day in the Life: With Joanna Waterfall'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1987
 date: '2015-02-17 04:00:24 -0800'
-date_gmt: '2015-02-17 12:00:24 -0800'
 categories:
 - Light Talk
 - Creative Ladies
 - Team Members
 - Yellow 2015
-tags: []
-comments:
-- id: 3881
-  author: Rachel Oberg
-  author_email: demacuisine@racheloberg.com
-  author_url: ''
-  date: '2015-02-17 12:42:00 -0800'
-  date_gmt: '2015-02-17 20:42:00 -0800'
-  content: This is fun! We're thankful to have you and Nolan in our lives, Jo. :)
-- id: 3882
-  author: Lorina Daiana
-  author_email: lorinaisthename@yahoo.com
-  author_url: http://lorinadaiana.com/
-  date: '2015-02-17 23:03:00 -0800'
-  date_gmt: '2015-02-18 07:03:00 -0800'
-  content: I love this! It's fun to see the peeps behind this wonderful brand :)
 ---
 <p>Starting <strong>today,</strong> we are going to be introducing you to one of our team members every Tuesday...These are the gals with late night dreams about all things Yellow, and we think it's time for you to get to know us on a real&nbsp;level...So, join us, as we show you&nbsp;(through selfies, iphone pics, and short commentaries) the unglamourous, untouched, <em>authentic </em>(there's that word again!), exceptionally normal parts of our days!</p>
 <p>What better way to start this "mini series" than with Yellow's visionary and founder: Joanna Waterfall...</p>

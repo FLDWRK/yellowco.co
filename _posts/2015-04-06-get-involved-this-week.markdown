@@ -1,38 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Get Involved This Week
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2513
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2513
 date: '2015-04-06 00:52:04 -0700'
-date_gmt: '2015-04-06 07:52:04 -0700'
 categories:
 - Resources
-tags: []
-comments:
-- id: 3905
-  author: Savanna HR
-  author_email: savanna@hazelandroman.com
-  author_url: ''
-  date: '2015-04-06 11:00:00 -0700'
-  date_gmt: '2015-04-06 18:00:00 -0700'
-  content: Awesome. Just signed up for the webinar tonight and will be joining the
-    Twitter chat!
-- id: 3906
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-04-06 11:50:00 -0700'
-  date_gmt: '2015-04-06 18:50:00 -0700'
-  content: Sweet! See you there!
 ---
 <p><a href="https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c" target="_blank"><img class=" size-full wp-image-2515 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/04/Bloomtogether_April6-111.jpg" alt="#Bloomtogether_April6-11" width="700" height="1344" /></a><br />
 It's a new week ladies! On Thursday we launched our <a href="https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c" target="_blank">Kickstarter campaign</a> and this week we have more ways for you to get involved in what we are doing. See below and mark your calendars!</p>

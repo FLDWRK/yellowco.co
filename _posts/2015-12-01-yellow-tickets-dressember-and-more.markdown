@@ -1,30 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Yellow tickets, Dressember and More!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4403
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4403
 date: '2015-12-01 06:37:18 -0800'
-date_gmt: '2015-12-01 14:37:18 -0800'
 categories:
 - Resources
-tags: []
-comments:
-- id: 4028
-  author: Abigail Driscoll
-  author_email: abigailrdriscoll@gmail.com
-  author_url: http://www.ritesofasylum.com
-  date: '2015-12-02 02:17:43 -0800'
-  date_gmt: '2015-12-02 02:17:43 -0800'
-  content: WOOOHOOoO!!!! New website looks great, ladies! <3
 ---
 <p class="p1"><a href="http://yellowconference.com/wp-content/uploads/2015/12/Yellow-2016.jpg"><img class=" size-full wp-image-4404 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/12/Yellow-2016.jpg" alt="Yellow-2016" width="700" height="574" /></a></p></p>
 <p class="p1">Happy December 1 everyone! My name is Joanna Waterfall. I&rsquo;m the founder of Yellow Co. and am interrupting this Tuesday&rsquo;s blog post because there is so much good stuff happening in our little Yellow world today I had to take up a full post to tell you about it all.</p></p>

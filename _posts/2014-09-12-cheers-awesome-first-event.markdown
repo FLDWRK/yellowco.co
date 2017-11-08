@@ -1,48 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: Cheers to an awesome first event!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 814
+title: Cheers to an Awesome First Event!
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=814
 date: '2014-09-12 17:37:59 -0700'
-date_gmt: '2014-09-12 17:37:59 -0700'
 categories:
 - Light Talk
-tags: []
-comments:
-- id: 3525
-  author: Emily Webb
-  author_email: emilyann44@gmail.com
-  author_url: https://plus.google.com/+EmilyWebb
-  date: '2014-09-13 00:32:16 -0700'
-  date_gmt: '2014-09-13 00:32:16 -0700'
-  content: I know this year's conference just got over but are you ladies already
-    planning for next year!? I want to start saving up so I can go!! :)
-- id: 3526
-  author: Joanna
-  author_email: joannanoelwaterfall@gmail.com
-  author_url: ''
-  date: '2014-09-17 02:51:37 -0700'
-  date_gmt: '2014-09-17 02:51:37 -0700'
-  content: Yes! Next year will be held Aug 27th and 28th in LA :)
-- id: 3527
-  author: Wholesale Jerseys Black Friday
-  author_email: ''
-  author_url: http://www.wholesalejerseysnflforcheap.com/
-  date: '2014-11-21 11:31:18 -0800'
-  date_gmt: '2014-11-21 19:31:18 -0800'
-  content: |-
-    <strong>Wholesale Jerseys Black Friday</strong>
-
-    Noheless, devoted airsoft persons could possibly wish volume of added in airsoft aessories like hand in addition to with protect in addition to breasts protectors. Having right safeguard working with aeptable airsoft equipnt you can be lots better in t&#8230;
 ---
 <p><a href="http://www.bloglovin.com/blog/12410677/?claim=pmtt5crfajx"></a><br />
 <a href="http://yellowconference.com/wp-content/uploads/2014/09/THANKYou.jpg"><img class="alignnone size-full wp-image-816" alt="THANKYou" src="http://yellowconference.com/wp-content/uploads/2014/09/THANKYou.jpg" width="700" height="1050" /></a></p>

@@ -1,45 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: DON'T FOCUS ON THE DESTINATION
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2875
+title: Don't Focus On The Destination
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2875
 date: '2015-04-30 04:15:48 -0700'
-date_gmt: '2015-04-30 11:15:48 -0700'
 categories:
 - Advice
-tags: []
-comments:
-- id: 3931
-  author: Danielle Jasbon
-  author_email: danielle.noondaycollection@gmail.com
-  author_url: ''
-  date: '2015-04-30 11:09:00 -0700'
-  date_gmt: '2015-04-30 18:09:00 -0700'
-  content: Love this, Joanna! So encouraging to embrace where God has placed us right
-    now.
-- id: 3932
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-04-30 13:17:00 -0700'
-  date_gmt: '2015-04-30 20:17:00 -0700'
-  content: So glad you enjoyed it Danielle :)
-- id: 3933
-  author: Abbie Driscoll
-  author_email: abbiedriscoll@gmail.com
-  author_url: http://www.ritesofasylum.com
-  date: '2015-05-01 07:20:00 -0700'
-  date_gmt: '2015-05-01 14:20:00 -0700'
-  content: preach! you're awesome, Joanna :)
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/EMBRACE.png"><img class="aligncenter size-full wp-image-2877" src="http://yellowconference.com/wp-content/uploads/2015/04/EMBRACE.png" alt="EMBRACE" width="700" height="986" /></a></p>
 <p>Thursday. This day can mean many things to many people.&nbsp;For most, Thursday is just a means to an end.&nbsp;Friday, of course, being the end.</p>

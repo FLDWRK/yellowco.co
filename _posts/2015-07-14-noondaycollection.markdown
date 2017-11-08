@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'BUSINESS HIGHLIGHT: NOONDAY COLLECTION'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3278
+title: 'Business Highlight: Noonday Collection'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3278
 date: '2015-07-14 04:00:50 -0700'
-date_gmt: '2015-07-14 11:00:50 -0700'
 categories:
 - Creative Ladies
 - CREATIVE ADVOCACY
 - The Activist
 - Yellow 2015
-tags: []
-comments: []
 ---
 <p><em><a href="http://www.noondaycollection.com/pws/homeoffice/tabs/home.aspx" target="_blank">Noonday Collection</a> is a business that uses fashion to create meaningful opportunities around the world. We travel the world to identify artisan entrepreneurs&nbsp;who share our dream of creating meaningful opportunity in vulnerable communities. We design jewelry and accessories in collaboration with talented Artisans, using unique materials and traditional skills to create beautiful, unique jewelry. We develop artisan businesses through fair trade, empowering them to grow sustainably. By connecting artisan businesses to a growing market for their goods, we enable them to create more jobs for people in their communities who need them.</em></br><br />
 <em>When you shop our collection, <a href="http://www.noondaycollection.com/pws/homeoffice/tabs/host.aspx" target="_blank">host a Trunk Show</a> or <a href="http://www.noondaycollection.com/pws/homeoffice/tabs/join.aspx" target="_blank">become an Ambassador</a>, you join us in creating a flourishing world where children are cherished, women are empowered, people have jobs and we are connected.</em></p>

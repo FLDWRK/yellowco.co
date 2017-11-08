@@ -1,40 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: TEN (FUN!) IDEAS FOR BUILDING YOUR TRIBE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2944
+title: Ten (Fun!) Ideas for Building Your Tribe
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2944
 date: '2015-05-19 04:00:44 -0700'
-date_gmt: '2015-05-19 11:00:44 -0700'
 categories:
 - Light Talk
 - Encouragement
 - TRIBE
-tags: []
-comments:
-- id: 3934
-  author: Nicole Terrell
-  author_email: decendingblue@hotmail.com
-  author_url: ''
-  date: '2015-05-21 19:35:00 -0700'
-  date_gmt: '2015-05-22 02:35:00 -0700'
-  content: "SOO GOOD! \n\n#Answeredprayer!! :)\n\nThank you lovely! :)"
-- id: 3935
-  author: 'Happy Thursday: Links I Love | a little berdie'
-  author_email: ''
-  author_url: http://alittleberdie.com/2015/05/28/happy-thursday-links-i-love-5/
-  date: '2015-05-28 09:43:46 -0700'
-  date_gmt: '2015-05-28 16:43:46 -0700'
-  content: "[&#8230;] these ideas for building stronger connections with your friends
-    [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/05/Flickr-Lavina.jpg"><img class="aligncenter size-full wp-image-2946" src="http://yellowconference.com/wp-content/uploads/2015/05/Flickr-Lavina.jpg" alt="Yellow Conference TRIBE" width="700" height="525" /></a></p>
 <p>When it comes to cultivating community, there are a myriad of ways to approach this topic. Here I suggest <strong>10 ideas</strong> that come from my own personal experiences for developing stronger connections between your own friends:</p>

@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: We need you! + A Giveaway
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4076
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4076
 date: '2015-09-29 04:30:25 -0700'
-date_gmt: '2015-09-29 11:30:25 -0700'
 categories:
 - Yellow 2016
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/09/SURVEY-GIVEAWAY2.jpg"><img class=" size-full wp-image-4082 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/09/SURVEY-GIVEAWAY2.jpg" alt="SURVEY-GIVEAWAY" width="700" height="950" /></a><br />
 <em><br />

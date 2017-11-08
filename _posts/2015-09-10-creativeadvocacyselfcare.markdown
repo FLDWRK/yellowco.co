@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'SELF CARE IS NOT SELFISH: HOW SELF CARE CAN LENGTHEN THE LIFE OF YOUR CAUSE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3765
+title: 'Self Care is Not Selfish: How Self Care Can Lengthen the Life of Your Cause'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3765
 date: '2015-09-10 04:00:24 -0700'
-date_gmt: '2015-09-10 11:00:24 -0700'
 categories:
 - Light Talk
 - Creative Ladies
@@ -21,38 +10,6 @@ categories:
 - CREATIVE ADVOCACY
 - The Activist
 - Encouragement
-tags: []
-comments:
-- id: 3965
-  author: Lydia A.
-  author_email: lydiaalbano@msn.com
-  author_url: ''
-  date: '2015-09-11 13:06:00 -0700'
-  date_gmt: '2015-09-11 20:06:00 -0700'
-  content: |-
-    wow!  this is inspiring and convicting in so many ways- I think because my work is so all over the place and takes several different forms, it's really hard for me to separate from that craziness and let myself take a break. and when I do, I feel super guilty the whole time. I literally can't watch a movie these days without being wracked by guilt that I could be sending emails and making schedules.  and sabbaths don't exist at this point- I work most Saturdays and volunteer at church all day Sundays. I need to sort that out.
-
-     I'm gonna write all of these on sticky notes and try to check some off each week.  you're the bomb. I'm really grateful for this post, and I think it's super important.
-
-    also: love the bio. so much.
-- id: 3966
-  author: 'Brown Paper Packages: Yellow Conference Edition | Her Inklings'
-  author_email: ''
-  author_url: https://herinklings.wordpress.com/2015/09/07/brown-paper-packages-yellow-conference-edition/
-  date: '2015-09-14 13:19:45 -0700'
-  date_gmt: '2015-09-14 20:19:45 -0700'
-  content: "[&#8230;] the Yellow Conference? While you&#8217;re waiting for the next
-    #BloomGathering, check out this&nbsp;blog&nbsp;post I wrote as a Yellow contributing
-    writer,&nbsp;and hang out on their Instagram&nbsp;for a bright spot on the [&#8230;]"
-- id: 3967
-  author: We were on the mountain, pt. 2 | Her Inklings
-  author_email: ''
-  author_url: https://herinklings.wordpress.com/2015/11/18/we-were-on-the-mountain-pt-2/
-  date: '2015-11-18 17:05:01 -0800'
-  date_gmt: '2015-11-19 01:05:01 -0800'
-  content: "[&#8230;] this weekend I&#8217;m&nbsp;meeting with&nbsp;the founder of
-    the Yellow Conference to talk about self-care, like I&#8217;m supposed to be an&nbsp;expert
-    on being healthy and whole. Like any of us are supposed [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/09/Untitled-1.jpg"><img class="aligncenter size-full wp-image-3783" src="http://yellowconference.com/wp-content/uploads/2015/09/Untitled-1.jpg" alt="Yellow Conference Blog: Self Care is not Selfish" width="700" height="474" /></a></p>
 <p>A few days ago, I sat in Los Angeles traffic behind a Subaru with a license plate frame that read, <em>&ldquo;If I knew the way, I would take you home.&rdquo;&nbsp;</em>Having just been at work at a service provider for homeless women in LA&rsquo;s Skid Row, I had that line from The Grateful Dead&rsquo;s song stuck in my head for the rest of my drive.</p>

@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE SECRET TO CREATING A CULTIVATED PERSONAL BRAND
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4278
+title: The Secret to Creating a Cultivated Personal Brand
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4278
 date: '2015-11-19 04:00:29 -0800'
-date_gmt: '2015-11-19 12:00:29 -0800'
 categories:
 - Creative Ladies
 - Advice
@@ -21,8 +10,6 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/11/Song-of-Solomon-All-Photos-0105.jpg"><img class="aligncenter size-full wp-image-4279" src="http://yellowconference.com/wp-content/uploads/2015/11/Song-of-Solomon-All-Photos-0105.jpg" alt="The Yellow Co. Blog: a gathering for creative women to be empowered to do good" width="700" height="1050" /></a>While most people think of refining as a process of eliminating all of the extraneous things that keep something from being pure, my process looks a little bit different. Instead of removing things, I&rsquo;ve been adding things back in.</p>
 <p>As I first began to create my brand as a content developer, I was very conscious of wanting every aspect of it, from my website to my social media feeds, to be impeccably professional. I made sure never to post anything too personal, even to the point of being&nbsp;hesitant to post images of myself. At the time, I thought that this would keep me from alienating any potential clients and keep the focus purely on my services, instead of me as an individual.</p>

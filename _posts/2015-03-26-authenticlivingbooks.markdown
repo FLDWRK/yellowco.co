@@ -1,47 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: 5 BOOKS YOU SHOULD READ TO IGNITE AUTHENTIC LIVING'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2161
+title: 'Rediscovering Authenticity: 5 Books You Should Read to Ignite Authentic Living'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2161
 date: '2015-03-26 04:00:24 -0700'
-date_gmt: '2015-03-26 11:00:24 -0700'
 categories:
 - Light Talk
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments:
-- id: 3887
-  author: Bekah Pogue
-  author_email: bekah@upcycledjane.com
-  author_url: http://www.upcycledjane.com
-  date: '2015-04-20 11:36:00 -0700'
-  date_gmt: '2015-04-20 18:36:00 -0700'
-  content: 'Abigail, your recommendations are spot on. All those books currently take
-    up residence on my side table. And Donald Miller''s Scary Close is rocking my
-    world at the moment. Can''t get enough of his authenticity and boldness in encouraging
-    others to share their stories through true connection. Especially loving his words,
-    "Remarkably, the most common regret of the dying was this: they wish they''d had
-    the courage to live a life true to themselves and not the life others expected
-    of them." Cheers to living out our created selves and being fully known in the
-    process. Another life-changing read I''d add to the list is Jeff Shinabarger''s
-    Yes or No. Uh-mazing!! Happy reading! ~ Bekah, www.upcycledjane.com'
-- id: 3888
-  author: Sarah Lochelt
-  author_email: sarah.lochelt@gmail.com
-  author_url: ''
-  date: '2016-01-04 11:37:00 -0800'
-  date_gmt: '2016-01-04 19:37:00 -0800'
-  content: YES! I totally agree with ALL of these! What a great list, and so perfectly
-    described! Thanks for posting this! :)
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/03/Screenshot-2015-03-09-21.55.07.jpg"><img class="alignleft size-full wp-image-2199" src="http://yellowconference.com/wp-content/uploads/2015/03/Screenshot-2015-03-09-21.55.07.jpg" alt="Screenshot-2015-03-09-21.55.07" width="700" height="463" /></a></p>
 <p>We crave authenticity in every area of our lives. We see the necessity of bringing it into our inner dialogue, our relationships, our online presence, and our work. However, cultivating an authentic life is much easier said than done. Our fears and insecurities get in the way and quickly pull us back into our shell. We compare ourselves to others and are not so eager to put our honest faces on. The pressures we feel from life weigh heavy on us and we are so tempted to place our masks back over our eyes and pretend to be someone we&rsquo;re not.</p>

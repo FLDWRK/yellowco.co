@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: how I accidentally developed a practice of achieving goals
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3090
+title: How I accidentally Developed a Practice of Achieving Goals
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3090
 date: '2015-06-11 04:00:03 -0700'
-date_gmt: '2015-06-11 11:00:03 -0700'
 categories:
 - Creative Ladies
 - Advice
@@ -22,15 +11,6 @@ categories:
 - The Solopreneur
 - The Leader
 - TRIBE
-tags: []
-comments:
-- id: 3946
-  author: vastskies
-  author_email: karishmachopra9@hotmail.com
-  author_url: ''
-  date: '2015-06-12 03:15:21 -0700'
-  date_gmt: '2015-06-12 10:15:21 -0700'
-  content: Such a refreshing read! very relatable and realistic!  Loved it!
 ---
 <p><em><strong><a href="http://yellowconference.com/wp-content/uploads/2015/06/IMG_8593.jpg"><img class="aligncenter size-full wp-image-3094" src="http://yellowconference.com/wp-content/uploads/2015/06/IMG_8593.jpg" alt="IMG_8593" width="700" height="467" /></a></strong></em></p>
 <p>I used to believe I was a pioneer; an independent Girl Boss who prided herself on never asking for help. And then I got my first &lsquo;real job&rsquo; my senior year of college and had a boss who was such a generous <em>bad-a</em> that <strong>she single-handedly paved the way for my career.</strong> It was during that time that I wised up and realized I had never actually done it alone. There were always people pushing, supporting, paving the way for me. Which was both humiliating, humbling and empowering.</p>

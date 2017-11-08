@@ -1,42 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Rediscovering Authenticity: Be Kind to Yourself (Part One)'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1662
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1662
 date: '2015-01-15 04:00:35 -0800'
-date_gmt: '2015-01-15 12:00:35 -0800'
 categories:
 - Inspiration
 - Encouragement
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments:
-- id: 3849
-  author: 'REDISCOVERING AUTHENTICITY: BE KIND TO YOURSELF (PART TWO) | Yellow ConferenceYellow
-    Conference'
-  author_email: ''
-  author_url: http://yellowconference.com/rediscovering-authenticity-kind-part-two/
-  date: '2015-01-20 04:01:25 -0800'
-  date_gmt: '2015-01-20 12:01:25 -0800'
-  content: "[&#8230;] part one of &ldquo;Rediscovering Authenticity: Be Kind to Yourself,&rdquo;
-    we addressed the ways in which we usually handle our faults and weaknesses: most
-    of the time, we [&#8230;]"
-- id: 3850
-  author: This Week-2 - Truebadours Videographers blog | Truebadours
-  author_email: ''
-  author_url: http://www.truebadours.com/2015/01/23/week-2/
-  date: '2015-01-23 08:50:21 -0800'
-  date_gmt: '2015-01-23 16:50:21 -0800'
-  content: "[&#8230;] Be Kind to Yourself (Part 1) [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/driscollpost2.jpg"><img class=" size-full wp-image-1663 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/01/driscollpost2.jpg" alt="driscollpost2" width="700" height="466" /></a></p>
 <p>To say that I am a klutz might be an understatement.</p>

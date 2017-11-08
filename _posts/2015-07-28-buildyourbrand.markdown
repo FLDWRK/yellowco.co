@@ -1,20 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY GREAT BRANDING IS NON-NEGOTIABLE FOR YOUR ORGANIZATION (IF YOU WANT TO
-  CHANGE THE WORLD)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3442
+title: Why Great Branding is Non-negotiable for Your Organization (if You Want to Change the World)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3442
 date: '2015-07-28 04:00:38 -0700'
-date_gmt: '2015-07-28 11:00:38 -0700'
 categories:
 - Creative Ladies
 - Advice
@@ -23,8 +11,6 @@ categories:
 - The Starter
 - Yellow 2015
 - The Leader
-tags: []
-comments: []
 ---
 <p><em><strong>We are honored to have the VP of creative at <a href="http://www.charitywater.org/?utm_medium=ppc&amp;utm_source=adwords&amp;utm_campaign=brand&amp;utm_content=brandcw5&amp;gclid=Cj0KEQjw58ytBRDMg-HVn4LuqasBEiQAhPkhuva01B7FnDK4xjZHpqwDvJq6gZzb5sD-aQ1eKogXYG0aAj-58P8HAQ" target="_blank">charity: water</a>, Vik Harrison (who also happens to be speaking at Yellow!), as our guest blogger today. She is responsible for changing the game in the non-profit world when it comes to branding. Her post is full of great advice for companies from someone who has done it best. Read on!</strong></em></p>
 <p><em><a href="http://yellowconference.com/wp-content/uploads/2015/07/Charity-Water-3.png"><img class="aligncenter size-full wp-image-3454" src="http://yellowconference.com/wp-content/uploads/2015/07/Charity-Water-3.png" alt="Charity-Water-3" width="700" height="416" /></a><br />

@@ -1,30 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: SUPRISE ANNOUNCEMENT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1321
+title: Surprise Announcement
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1321
 date: '2014-11-25 01:50:42 -0800'
-date_gmt: '2014-11-25 09:50:42 -0800'
 categories:
 - Yellow 2015
-tags: []
-comments:
-- id: 3841
-  author: Corina Nika
-  author_email: corinanika@cocorrina.com
-  author_url: http://www.cocorrina.com/
-  date: '2015-01-17 04:14:00 -0800'
-  date_gmt: '2015-01-17 12:14:00 -0800'
-  content: You are such a sunshine Joanna!! <3
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/11/EXCITED.jpg"><img class="alignnone size-full wp-image-1323" src="http://yellowconference.com/wp-content/uploads/2014/11/EXCITED.jpg" alt="EXCITED" width="700" height="1025" /></a></p>
 <p><iframe src="//player.vimeo.com/video/112790173" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>

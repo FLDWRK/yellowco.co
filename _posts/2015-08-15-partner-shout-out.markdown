@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Partner Shout Out
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3604
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3604
 date: '2015-08-15 12:24:20 -0700'
-date_gmt: '2015-08-15 19:24:20 -0700'
 categories:
 - Yellow 2015
-tags: []
-comments: []
 ---
 <p>With Yellow Conference coming up SO SOON (eek!!) we wanted to give&nbsp;a big 'ol shout out to the amazing brands who are partnering with us this year to make Yellow&nbsp;happen.</p>
 <p>We're beyond excited to have these partners come alongside us this year. We make sure that all the brands we partner with share our values and align with us on what we stand for. So you know these are brands you can trust!</p>

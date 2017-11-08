@@ -1,35 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'DESIGNATED STRANGERS: HOW ONE PHOTOGRAPHER USES INSTAGRAM TO ADVOCATE FOR
-  FOSTER CHILDREN'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3546
+title: 'Designated Strangers: How One Photographer Uses Instagram to Advocate for Foster Children'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3546
 date: '2015-08-13 04:00:57 -0700'
-date_gmt: '2015-08-13 11:00:57 -0700'
 categories:
 - Creative Ladies
 - CREATIVE ADVOCACY
 - Inspiration
 - The Activist
-tags: []
-comments:
-- id: 3959
-  author: Ali Mooney
-  author_email: alihall2@mac.com
-  author_url: http://takeheartcreative.com
-  date: '2015-08-13 13:49:00 -0700'
-  date_gmt: '2015-08-13 20:49:00 -0700'
-  content: Ashely, I am so encouraged by your story. Thank you for being so vulnerable
-    and loving those kiddos so sacrificially!
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/08/foster-care-post-1.jpg"><img class="aligncenter size-full wp-image-3550" src="http://yellowconference.com/wp-content/uploads/2015/08/foster-care-post-1.jpg" alt="YELLOW CONFERENCE BLOG" width="700" height="700" /></a></p>
 <h4><strong>Our kids&hellip;</strong></h4><br />

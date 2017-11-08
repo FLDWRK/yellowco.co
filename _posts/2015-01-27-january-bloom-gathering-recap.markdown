@@ -1,36 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: JANUARY BLOOM GATHERING RECAP
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1847
+title: January Bloom Gathering Recap
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1847
 date: '2015-01-27 04:00:07 -0800'
-date_gmt: '2015-01-27 12:00:07 -0800'
 categories:
 - Creative Ladies
 - Inspiration
 - The Starter
-tags: []
-comments:
-- id: 3861
-  author: 'FEBRUARY BLOOM GATHERING: COME BE A PART OF OUR KICKSTARTER! | Yellow ConferenceYellow
-    Conference'
-  author_email: ''
-  author_url: http://yellowconference.com/februarybloomgathering/
-  date: '2015-02-14 06:04:34 -0800'
-  date_gmt: '2015-02-14 14:04:34 -0800'
-  content: "[&#8230;] monthly hang outs where we do anything and everything from raising
-    money for a cause, to hosting a&nbsp;goal-setting workshop, to simply having an
-    evening&nbsp;party. They are great ways to get out of the house, get inspired
-    and [&#8230;]"
 ---
 <p>This month's Bloom Gathering took place at the idyllic&nbsp;<a href="http://www.communal-la.com/" target="_blank">Communal LA</a>&nbsp;gathering place. We started off the night with mingling and snacks, wine, and chocolate, and then gathered to hear <a href="http://www.stilettosontherocks.com/" target="_blank">Krysta Masciale</a>, one of the founders of <a href="http://www.bigdealbranding.com/" target="_blank">Big Deal Branding</a>&nbsp;and co-creator (along with <a href="http://www.ruthiauda.com/blog/" target="_blank">Ruthi Auda</a>, who also joined us that night!), of the <a href="http://www.stilettosontherocks.com/shop/" target="_blank">START&nbsp;booklet</a>, to talk us through tangible goal setting and to get us amped on our first quarter of creating these goals.</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/DSC_0105.jpg"><img class="aligncenter wp-image-1851 size-full" src="http://yellowconference.com/wp-content/uploads/2015/01/DSC_0105-e1422237964239.jpg" alt="DSC_0105" width="1000" height="1504" /></a> <a href="http://yellowconference.com/wp-content/uploads/2015/01/DSC_0273.jpg"><img class="aligncenter wp-image-1852 size-full" src="http://yellowconference.com/wp-content/uploads/2015/01/DSC_0273-e1422238001926.jpg" alt="DSC_0273" width="1000" height="1504" /></a> <a href="http://yellowconference.com/wp-content/uploads/2015/01/clipboards2.jpg"><img class="alignleft size-full wp-image-1853" src="http://yellowconference.com/wp-content/uploads/2015/01/clipboards2.jpg" alt="clipboards2" width="1000" height="664" /></a>Her demeanor was disarming, and she gave us a good taste of meaningful tough love--and a lot of great laughs. I know that I walked away ready and inspired to set my goals for this next quarter (the last quarter before Baby Scout comes!). Here's some insight Krysta shared with us last Monday:</p>

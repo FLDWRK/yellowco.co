@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW WILL YOU DEFINE 2016?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4338
+title: How Will You Define 2016?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4338
 date: '2015-12-15 04:00:04 -0800'
-date_gmt: '2015-12-15 12:00:04 -0800'
 categories:
 - Resources
 - Creative Ladies
@@ -25,58 +14,6 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
-tags: []
-comments:
-- id: 4018
-  author: Bri Towne
-  author_email: hello@lifebybri.com
-  author_url: http://www.lifebybri.com/
-  date: '2015-12-15 18:17:00 -0800'
-  date_gmt: '2015-12-15 18:17:00 -0800'
-  content: PATIENCE. With my husband being deployed for 6 months next year, 2 toddlers
-    and a baby on the way, my word for 2016 has GOT to be patience. Printing it out
-    and pasting it all over my house!
-- id: 4019
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-12-15 18:36:00 -0800'
-  date_gmt: '2015-12-15 18:36:00 -0800'
-  content: GREAT word :)
-- id: 4020
-  author: Meg Long
-  author_email: megmarylong@gmail.com
-  author_url: http://www.meglongcreative.com
-  date: '2015-12-15 20:40:00 -0800'
-  date_gmt: '2015-12-15 20:40:00 -0800'
-  content: I started doing this last year and it's been great! 2015's word was BELIEVE.
-    2016's is MEEK :)
-- id: 4021
-  author: Britney Clark
-  author_email: britneyclark85@gmail.com
-  author_url: ''
-  date: '2015-12-16 20:57:00 -0800'
-  date_gmt: '2015-12-16 20:57:00 -0800'
-  content: Great post! My word for 2016 is EXCELLENCE! Everyday I will excel the best
-    of my gifts, talents, and skills to reach my goals and help others.
-- id: 4022
-  author: 2016 | Sarah Rose Lochelt
-  author_email: ''
-  author_url: https://sarahlochelt.wordpress.com/2015/12/08/2016/
-  date: '2016-01-04 15:37:27 -0800'
-  date_gmt: '2016-01-04 23:37:27 -0800'
-  content: "[&#8230;] Rachel Dawson over at Yellow Co. wrote&nbsp;this great article&nbsp;about
-    choosing just one word for your year! Check it out and leave a comment about what
-    YOUR word [&#8230;]"
-- id: 4023
-  author: Full. &#8211; peculiarpearl
-  author_email: ''
-  author_url: http://peculiarpearl.com/2016/01/14/full/
-  date: '2016-01-14 04:11:04 -0800'
-  date_gmt: '2016-01-14 12:11:04 -0800'
-  content: "[&#8230;] is my 2016 Word. Read this Yellow + Co. post for more info.
-    Resolutions are not my thing. Well composed goals&nbsp;that include a plan of
-    [&#8230;]"
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2015/11/She-x-Eclectic-0831-1024x683.jpg"><img class="aligncenter size-full wp-image-4341" src="http://yellowconference.com/wp-content/uploads/2015/11/She-x-Eclectic-0831-1024x683.jpg" alt="Yellow Co. Blog: what's the word, hummingbird? " width="700" height="467" /></a>The world bombards us with new self-improvement messages every single day, and, let's be honest...it's overwhelming...</h2><br />
 <em>How to get the perfect spring break bod! How to make him want you! Be your own boss! You can make millions with this one simple trick! How to gain thousands of online followers in just a few clicks!</em></p>

@@ -1,59 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'MOTHER''S DAY: WHY WE MUST REMEMBER THAT IT''S COMPLICATED'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2810
+title: 'Mother's Day: Why We Must Remember that it's Complicated'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2810
 date: '2015-05-05 04:00:27 -0700'
-date_gmt: '2015-05-05 11:00:27 -0700'
 categories:
 - Advice
 - Inspiration
 - The Activist
 - Encouragement
-tags: []
-comments:
-- id: 3908
-  author: Abbie Driscoll
-  author_email: abbiedriscoll@gmail.com
-  author_url: http://www.ritesofasylum.com
-  date: '2015-05-05 14:06:00 -0700'
-  date_gmt: '2015-05-05 21:06:00 -0700'
-  content: This is beautiful, Sally; thank you so much for sharing your heart :)
-- id: 3909
-  author: Ali Mooney
-  author_email: alihall2@mac.com
-  author_url: http://takeheartcreative.com
-  date: '2015-05-06 13:03:00 -0700'
-  date_gmt: '2015-05-06 20:03:00 -0700'
-  content: I couldn't agree more. Thank you for your vulnerability and grace while
-    shedding light on this subject.
-- id: 3910
-  author: Nadeena
-  author_email: n.seodarsan@gmail.com
-  author_url: http://nadeenaportraits.com/
-  date: '2015-05-12 03:05:00 -0700'
-  date_gmt: '2015-05-12 10:05:00 -0700'
-  content: I did not cry reading this at all. No, not at all. Just sweaty eyeballs
-    over here, that's all. Sweaty eyeballs.
-- id: 3911
-  author: Beckerss Stone
-  author_email: beccastone3311@yahoo.com
-  author_url: ''
-  date: '2015-06-01 13:23:00 -0700'
-  date_gmt: '2015-06-01 20:23:00 -0700'
-  content: I am so thankful and grateful that you shared this Sally. My heart was
-    breaking as i fought through the tears your words inspired. You are incredible.
-    I wish that everyone valued the privileged of parenting in the same way you do.
-    You are an inspiration. An those boys will feel that love throughout their life.
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0005.jpg"><img class="aligncenter size-full wp-image-2811" src="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0005.jpg" alt="2014-09-03_0005" width="700" height="467" /></a>There has been a recent awakening regarding peoples' response to Mother's Day-a growing awareness that it's not as simple as buying flowers and chocolates, and saying a sweet prayer to the standing ladies, the mothers, at church. It's complicated, and voices are starting speak this truth with more bravery and challenging people to open their eyes to the fact that <strong>Mother's Day is complicated.&nbsp;</strong></p>
 <p>My journey with Mother's Day started almost three years ago. In the middle of the night, I received multiple voicemails and phone calls from the police...the kind you see in movies:&nbsp;<em>There's been an accident; we need you to come right away.&nbsp;</em></p>

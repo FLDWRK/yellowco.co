@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'THE HER INITIATIVE: HOW ONE CAUSE BROUGHT TOGETHER FOUR POWERHOUSE CREATIVES'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3976
+title: 'The Her Initiative: How One Cause Brought Together Four Powerhouse Creatives'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3976
 date: '2015-09-22 04:00:40 -0700'
-date_gmt: '2015-09-22 11:00:40 -0700'
 categories:
 - Creative Ladies
 - CREATIVE ADVOCACY
 - The Activist
 - The Starter
 - The Leader
-tags: []
-comments: []
 ---
 <h5><a href="http://yellowconference.com/wp-content/uploads/2015/09/herinitiative1.jpg"><img class="aligncenter size-full wp-image-3968" src="http://yellowconference.com/wp-content/uploads/2015/09/herinitiative1.jpg" alt="Yellow Conference Blog: spread good and bloom" width="700" height="467" /></a></h5></p>
 <h5>Worth and Dignity.</h5><br />

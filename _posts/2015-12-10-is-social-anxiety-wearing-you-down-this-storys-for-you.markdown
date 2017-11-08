@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: IS SOCIAL ANXIETY WEARING YOU DOWN? THIS STORY'S FOR YOU.
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4392
+title: Is Social Anxiety Wearing You Down? This Story's for You.
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4392
 date: '2015-12-10 04:00:37 -0800'
-date_gmt: '2015-12-10 04:00:37 -0800'
 categories:
 - Creative Ladies
 - Advice
@@ -22,28 +11,6 @@ categories:
 - Encouragement
 - The Solopreneur
 - Yellow 2016
-tags: []
-comments:
-- id: 4026
-  author: Rachel Oberg
-  author_email: demacuisine@racheloberg.com
-  author_url: ''
-  date: '2015-12-10 18:08:00 -0800'
-  date_gmt: '2015-12-10 18:08:00 -0800'
-  content: "Bri, if we ever have the chance to meet in person, feel free to come up
-    to me and say, &ldquo;gosh, I just hate social situations, they make me stress
-    sweat like crazy and honestly I just want to cry.&rdquo; I will undoubtably be
-    feeling the same way. ❤️\n\nPS The West Wing rocks! My husband and I got to \"walk
-    and talk\" with Bradley Whitford once. It was one of the highlights of the time
-    we've spent living in LA. "
-- id: 4027
-  author: Meg Long
-  author_email: megmarylong@gmail.com
-  author_url: http://www.meglongcreative.com
-  date: '2015-12-11 08:28:00 -0800'
-  date_gmt: '2015-12-11 08:28:00 -0800'
-  content: I can totally relate to your entire story!!! Thanks for being so vulnerable.
-    Here's to saying yes and diving in deeper when it's uncomfortable :)
 ---
 <h6><a href="http://yellowconference.com/wp-content/uploads/2015/11/2-800x533.jpg"><img class="aligncenter size-full wp-image-4396" src="http://yellowconference.com/wp-content/uploads/2015/11/2-800x533.jpg" alt="Standing up against socially anxiety, and how the yellow conference taught one woman to step out. " width="700" height="466" /></a></h6></p>
 <h2>I went to school with the same kids from kindergarten to graduation.</h2><br />

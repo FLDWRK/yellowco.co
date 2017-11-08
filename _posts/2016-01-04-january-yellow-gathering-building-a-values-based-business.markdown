@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'January Yellow Gathering: BUILDING A VALUES-BASED BUSINESS'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4736
+title: 'January Yellow Gathering: Building a Values-Based Business'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4736
 date: '2016-01-04 04:00:39 -0800'
-date_gmt: '2016-01-04 12:00:39 -0800'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p>Happy New Year!! 2016 is officially here. Our January gathering is going to be lead by the CEO of <a href="http://www.bigdealbranding.com/" target="_blank">Big Deal Branding</a>, Krysta Masciale. Whether you are in the early stages of building your business, have a desire to build a business, or have been running one for years, you should consider joining us on Jan 14th.</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/12/January-Blog-Post.jpg"><img class="aligncenter size-full wp-image-4737" src="http://yellowconference.com/wp-content/uploads/2015/12/January-Blog-Post.jpg" alt="January-Blog-Post" width="700" height="1547" /></a><br />

@@ -1,32 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'THE YELLOW BLOG''S NEXT SERIES: TRIBE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2831
+title: 'The Yellow Blog's Next Series: Tribe'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2831
 date: '2015-05-07 15:32:48 -0700'
-date_gmt: '2015-05-07 22:32:48 -0700'
 categories:
 - Creative Ladies
 - Inspiration
 - TRIBE
-tags: []
-comments:
-- id: 3912
-  author: Brittany @ Adventure &amp;the Wild
-  author_email: info@adventureandthewild.com
-  author_url: http://adventureandthewild.com/
-  date: '2015-05-07 18:55:00 -0700'
-  date_gmt: '2015-05-08 01:55:00 -0700'
-  content: This is beautiful :) So good!
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0042.jpg"><img class="aligncenter size-full wp-image-2832" src="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0042.jpg" alt="The Yellow Blog: Tribe Series" width="700" height="467" /></a>My sisters are my best friends<br />
 <span style="line-height: 1.5;">And they have been since the moment we figured out<br />

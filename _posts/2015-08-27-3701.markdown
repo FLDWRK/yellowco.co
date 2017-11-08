@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'YELLOW CONFERENCE 2015: LET''S DO THIS!'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3701
+title: 'Yellow Conference 2015: Let's Do This!'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3701
 date: '2015-08-27 11:58:12 -0700'
-date_gmt: '2015-08-27 18:58:12 -0700'
 categories:
 - Yellow 2015
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/08/its-happening_blog.png"><img class="aligncenter size-full wp-image-3702" src="http://yellowconference.com/wp-content/uploads/2015/08/its-happening_blog.png" alt="Yellow 2015!" width="700" height="900" /></a></p>
 <h5>Ladies, the moment we've all been waiting for is finally HERE!</h5><br />

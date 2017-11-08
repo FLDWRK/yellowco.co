@@ -1,45 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: IS YOUR SOCIAL MEDIA FOLLOWER COUNT MANAGING YOU?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2845
+title: Is Your Social Media Follower Count Managing You?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2845
 date: '2015-04-23 04:00:11 -0700'
-date_gmt: '2015-04-23 11:00:11 -0700'
 categories:
 - Light Talk
 - Advice
 - The Starter
 - The Solopreneur
-tags: []
-comments:
-- id: 3913
-  author: Brittany @ Adventure &amp;the Wild
-  author_email: info@adventureandthewild.com
-  author_url: http://adventureandthewild.com/
-  date: '2015-04-23 06:52:00 -0700'
-  date_gmt: '2015-04-23 13:52:00 -0700'
-  content: Thank you, thank you, thank you. I needed to read this so much today! Oh,
-    social media. It's fun and I love its potential, but boy, it can take over quick!
-    Even when I know it's silly to stress, it's so easy to get caught up in follower
-    counts and then before you know it, you're basing your entire worth on a number.
-    Thanks for the reminder to take a step back &amp; regain some perspective! :)
-- id: 3914
-  author: Aylin Carolina
-  author_email: cabellobycarolina@gmail.com
-  author_url: http://cabellobycarolina.com/
-  date: '2015-04-26 19:22:00 -0700'
-  date_gmt: '2015-04-27 02:22:00 -0700'
-  content: Thank you for sharing your thoughts. This is something I really needed
-    to hear and read!
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/Stocksy_txp44feb0093z0000_Small_55213-2.jpg"><img class="aligncenter size-full wp-image-2846" src="http://yellowconference.com/wp-content/uploads/2015/04/Stocksy_txp44feb0093z0000_Small_55213-2.jpg" alt="Stocksy_txp44feb0093z0000_Small_55213 (2)" width="700" height="466" /></a>Social media has recently gained a strong reputation, indicating that if you don&rsquo;t have thousands upon thousands of followers you haven&rsquo;t &ldquo;made it.&rdquo; It&rsquo;s easy to get obsessed with that number that shows up on the top of all our social media feeds: our follower count.</p>
 <blockquote><p>Yes, there are times when you should worry about your follower count. <strong>It is one of the ways you can measure whether your content is resonating with people or not.</strong> Just remember, it does not equal your worth and there are other ways of measuring success.</blockquote><br />

@@ -1,34 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WORKING WITH FOSTER TEENS | ORGANIZATION HIGHLIGHT: TEEN LEADERSHIP FOUNDATION'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3252
+title: 'Working With Foster Teens | Organization Highlight: Teen Leadership Foundation'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3252
 date: '2015-07-16 04:00:11 -0700'
-date_gmt: '2015-07-16 11:00:11 -0700'
 categories:
 - CREATIVE ADVOCACY
 - Inspiration
 - The Activist
-tags: []
-comments:
-- id: 3956
-  author: JULY BLOOM GATHERING RECAP - Yellow ConferenceYellow Conference
-  author_email: ''
-  author_url: http://yellowconference.com/july-bloom-gathering-recap/
-  date: '2015-07-30 04:00:37 -0700'
-  date_gmt: '2015-07-30 11:00:37 -0700'
-  content: "[&#8230;] month, we had Lisa Casteller, the founder of Teen Leadership
-    Foundation (remember this post from a few weeks back?), share with us her journey
-    from being big-time in the fashion industry [&#8230;]"
 ---
 <p><em>Beautiful, young, gracious, kind, and...southern...Nikki Vega is one of those rarer than rubies kind of ladies that has the unique ability to disarm you with her kindness, to draw you in with her welcoming demeanor and sweet tea. A lady of craft, with a love for finding vintage furniture and creating something beautiful, her smile tells you life is peachy. Once you're welcomed at her table for conversation, however, and you'll meet a woman of grit and grandeur-a woman unafraid to get her hands dirty for good cause. This southern belle is more than a pretty face-she is a bold woman, unwilling to sit back silently and let vulnerable people of any sort be stepped on by injustice. I asked Nikki to share her family's story and unique experience of working for <a href="http://teenleadershipfoundation.com/" target="_blank">Teen Leadership Foundation</a>, an&nbsp;organization&nbsp;dedicated to empowering foster youth that has aged out of the foster-care system, to show us that anyone can "...be the change [they] wish to see in the world" (Ghandi).</em></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/07/fbb52e8d692048c57d60ecd9d482351d.jpg"><img class="aligncenter size-full wp-image-3314" src="http://yellowconference.com/wp-content/uploads/2015/07/fbb52e8d692048c57d60ecd9d482351d.jpg" alt="fbb52e8d692048c57d60ecd9d482351d" width="700" height="466" /></a></p>

@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'THE STARTER: INTERESTED IN LETTERING? HERE''S SOME MUST-HAVE TOOLS'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2497
+title: 'The Starter: Interested In Lettering? Here's Some Must-Have Tools'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2497
 date: '2015-04-16 04:00:35 -0700'
-date_gmt: '2015-04-16 11:00:35 -0700'
 categories:
 - Light Talk
 - Creative Ladies
 - The Starter
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/esther-tor-fullosophie-class-5634-copy.jpg"><img class="aligncenter size-full wp-image-2500" src="http://yellowconference.com/wp-content/uploads/2015/04/esther-tor-fullosophie-class-5634-copy.jpg" alt="Esther Oh: FIVE MUST HAVE TOOLS FOR LETTERING" width="700" height="467" /></a></p>
 <p>As someone who loves words and appreciates art, I&rsquo;m so glad I get to combine the two to create lettering to share with others! <em>[Let this be a lesson to you dreamers out there: dream jobs exist with some hard work behind it.]</em></p>

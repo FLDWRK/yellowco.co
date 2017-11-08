@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: Starting The New Year With Thanks
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1591
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1591
 date: '2014-12-30 04:00:40 -0800'
-date_gmt: '2014-12-30 12:00:40 -0800'
 categories:
 - Advice
 - Inspiration
 - Encouragement
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/12/IMG_2798.jpg"><img class="aligncenter wp-image-1598 size-full" src="http://yellowconference.com/wp-content/uploads/2014/12/IMG_2798.jpg" alt="IMG_2798" width="700" height="699" /></a></p>
 <p>"The greatest thing is to give thanks for everything. He who has learned this knows what it means to live...He has penetrated the whole mystery of life: giving thanks for everything. "</p>

@@ -1,63 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: TELL HER, DARLING...WE ARE ALREADY WHOLE.'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1868
+title: 'Rediscovering Authenticity: Tell Her, Darling... We are Already Whole.'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1868
 date: '2015-02-05 04:00:59 -0800'
-date_gmt: '2015-02-05 12:00:59 -0800'
 categories:
 - Creative Ladies
 - Inspiration
 - Encouragement
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments:
-- id: 3870
-  author: Kelsey
-  author_email: sheinthemaking@gmail.com
-  author_url: ''
-  date: '2015-02-05 11:49:00 -0800'
-  date_gmt: '2015-02-05 19:49:00 -0800'
-  content: "#YASSS Arielle. I can hear your voice and the way you would deliver the
-    words as I read this. Absolutely lovely. And I love seeing your sweet face on
-    here Kim!!! <3"
-- id: 3871
-  author: Casey Kleeb
-  author_email: caseykleeb@gmail.com
-  author_url: ''
-  date: '2015-02-05 14:19:00 -0800'
-  date_gmt: '2015-02-05 22:19:00 -0800'
-  content: This is beautiful!
-- id: 3872
-  author: This Week-4 - Truebadours videographers blog | Truebadours
-  author_email: ''
-  author_url: http://www.truebadours.com/2015/02/06/week-4/
-  date: '2015-02-06 09:08:29 -0800'
-  date_gmt: '2015-02-06 17:08:29 -0800'
-  content: "[&#8230;] This beautiful piece up on the Yellow Conference blog. [&#8230;]"
-- id: 3873
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-02-10 09:29:00 -0800'
-  date_gmt: '2015-02-10 17:29:00 -0800'
-  content: We think so too. Arielle has a way with words :)
-- id: 3874
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-02-10 09:29:00 -0800'
-  date_gmt: '2015-02-10 17:29:00 -0800'
-  content: ":)"
 ---
 <p style="text-align: justify;"><a href="http://yellowconference.com/wp-content/uploads/2015/02/IMG_8092-copy.jpg"><img class="aligncenter size-full wp-image-3175" src="http://yellowconference.com/wp-content/uploads/2015/02/IMG_8092-copy.jpg" alt="Processed with VSCOcam with a6 preset" width="700" height="934" /></a></p></p>
 <p style="text-align: justify;">For so long we have been told that these bodies<br />

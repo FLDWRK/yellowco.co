@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: WANT TO LIVE AUTHENTICALLY? HERE'S THE RECIPE.
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1725
+title: Want To Live Authentically? Here's The Recipe.
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1725
 date: '2015-03-05 04:00:04 -0800'
-date_gmt: '2015-03-05 12:00:04 -0800'
 categories:
 - Advice
 - Inspiration
 - Encouragement
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/6068523867_a2c50c4446_o.jpg"><img class="aligncenter wp-image-1727 size-full" src="http://yellowconference.com/wp-content/uploads/2015/01/6068523867_a2c50c4446_o.jpg" alt="Recipe for Authenticity Yellow Conference Blog" width="700" height="467" /></a>Being authentic has never been an easy feat, but I would venture that being one in this culture has its own challenges unique from any other time and place. We're suffocating under layers and layers of counterfeit care, feigned friendships, and insincerity. And maybe I'm just a bit cynical, but if we're not careful we could find ourselves&nbsp;completely cut off from sincerity and authenticity. Our culture picks and hacks away at our humanity, but our humanness can be redeemed if we know how to build genuine relationships and authenticity within ourselves. And living a real, messy, authentic life is a better thing to strive for than any other resolution you make on a late December or early January morning.</p>
 <p>How do we do this? How do we start becoming more real with each other and with ourselves? I have a few ideas of what helps authenticity grow. Here is my recipe for authenticity:</p>

@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'MAY #BLOOMGATHERING'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2916
+title: 'May #bloomgathering'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2916
 date: '2015-05-15 04:00:03 -0700'
-date_gmt: '2015-05-15 11:00:03 -0700'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p><a href="https://ti.to/yellowconference/may-bloom-gathering" target="_blank"><img class=" wp-image-2924 size-full alignleft" src="http://yellowconference.com/wp-content/uploads/2015/05/MAY_BLOOMGATHERING_new3.jpg" alt="MAY_BLOOMGATHERING_new" width="700" height="1161" /></a><br />
 <br></br><br />

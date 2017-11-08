@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: HOW TO STAY REAL WHEN LIFE FEELS MESSY'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1897
+title: 'Rediscovering Authenticity: How to Stay Real When Life Feels Messy'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1897
 date: '2015-03-19 04:00:45 -0700'
-date_gmt: '2015-03-19 11:00:45 -0700'
 categories:
 - Advice
 - Inspiration
 - Encouragement
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/03/authenticitywhenlifeismessy.jpg"><img class=" size-full wp-image-2031 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/03/authenticitywhenlifeismessy.jpg" alt="Rediscovering Authenticity " width="700" height="467" /></a></p>
 <p>Suffering. Trouble. Pain. These are emotions that we never <i>really </i>want to talk about.</p>
