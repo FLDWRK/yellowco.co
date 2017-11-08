@@ -1,49 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'THOUGHTS ON THE FOURTEENTH: AS A SINGLE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1939
+title: 'Thoughts on the Fourteenth: As a Single'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1939
 date: '2015-02-12 04:00:19 -0800'
-date_gmt: '2015-02-12 12:00:19 -0800'
 categories:
 - Light Talk
 - Advice
 - Inspiration
 - Encouragement
-tags: []
-comments:
-- id: 3877
-  author: Kellie Krueger
-  author_email: kellie_krueger@yahoo.com
-  author_url: ''
-  date: '2015-02-12 11:14:00 -0800'
-  date_gmt: '2015-02-12 19:14:00 -0800'
-  content: 'I think these thoughts are pretty valid and inspiring even for people
-    who are NOT single. '
-- id: 3878
-  author: Joanna
-  author_email: joannanoelwaterfall@gmail.com
-  author_url: ''
-  date: '2015-02-14 17:55:43 -0800'
-  date_gmt: '2015-02-15 01:55:43 -0800'
-  content: We totally agree!! Nikole has a gift with words and connectedness!
-- id: 3879
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-02-18 09:41:00 -0800'
-  date_gmt: '2015-02-18 17:41:00 -0800'
-  content: SO true. No matter what stage of life we're in, we can always show love
-    to the people around us.
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/02/untitled-15-of-511.jpg"><img class=" size-full wp-image-1948 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/02/untitled-15-of-511.jpg" alt="untitled (15 of 511)" width="1200" height="800" /></a></p>
 <p>Here it is, sitting on our doorstep again&hellip;the holiday that tends to bring about the most extreme emotions, expectations, and often times, disappointments.</p>

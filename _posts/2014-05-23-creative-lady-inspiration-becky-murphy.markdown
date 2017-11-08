@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Creative Lady Inspiration: Becky Murphy'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 511
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=511
 date: '2014-05-23 15:07:09 -0700'
-date_gmt: '2014-05-23 15:07:09 -0700'
 categories:
 - Creative Ladies
 - Inspiration
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/05/BeckyMurphy.jpg"><img class="alignnone size-full wp-image-520" style="margin-top: 0px; margin-bottom: 10px;" alt="BeckyMurphy" src="http://yellowconference.com/wp-content/uploads/2014/05/BeckyMurphy.jpg" width="700" height="656" /></a><br />
 I am so happy to be starting a new interview series for the Yellow blog. We will be interviewing creative women who are out in the world making stuff happen. Our first lady is Becky Murphy from the blog <a href="http://chipperthings.com/">Chipper Things</a>. Becky is an illustrator and graphic designer living in Austin, TX. She recently wrote and illustrated her first book, "<a href="http://chipperthings.com/idratherbeshort/">I'd Rather Be Short</a>" , she has an <a href="https://www.etsy.com/shop/chipperthings">Etsy shop</a> with some adorable prints for sale, and takes on various <a href="http://beckycmurphy.com/">lettering and branding projects</a>. This girl's got her creativity on lock! See below for our interview with Becky, along with this adorable video from her website done by <a href="http://ellenwildhagen.com/">Elle Wildhagen</a>.</p>

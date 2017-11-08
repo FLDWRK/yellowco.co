@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE SIX LEADERSHIP QUALITIES YOU NEED TO START A MOVEMENT FOR YOUR CAUSE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3870
+title: The Six Leadership Qualities You Need to Start a Movement for Your Cause
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3870
 date: '2015-09-15 04:00:22 -0700'
-date_gmt: '2015-09-15 11:00:22 -0700'
 categories:
 - Creative Ladies
 - CREATIVE ADVOCACY
@@ -22,22 +11,6 @@ categories:
 - The Starter
 - Encouragement
 - The Leader
-tags: []
-comments:
-- id: 3969
-  author: Tika
-  author_email: zantika.ellis@gmail.com
-  author_url: ''
-  date: '2015-09-19 19:12:00 -0700'
-  date_gmt: '2015-09-20 02:12:00 -0700'
-  content: This was a great read. Thank you for the encouragement.
-- id: 3970
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-10-01 23:04:00 -0700'
-  date_gmt: '2015-10-02 06:04:00 -0700'
-  content: Thanks for reading Tika!
 ---
 <h6><a href="http://yellowconference.com/wp-content/uploads/2015/09/tuesday4.jpg"><img class="aligncenter size-full wp-image-3877" src="http://yellowconference.com/wp-content/uploads/2015/09/tuesday4.jpg" alt="building your leadership for your cause: yellow conference blog" width="700" height="1050" /></a>Have you ever been so passionate about something that you just wanted to tell the whole world about it and have every single person jump in with you?&nbsp;But even with all this passion, you just weren&rsquo;t quite sure how to start or where to go next?</h6><br />
 &nbsp;</p>

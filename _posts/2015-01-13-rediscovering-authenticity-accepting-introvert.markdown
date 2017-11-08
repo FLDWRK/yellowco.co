@@ -1,43 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: ACCEPTING THE INTROVERT IN YOU'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1645
+title: 'Rediscovering Authenticity: Accepting the Introvert in You'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1645
 date: '2015-01-13 04:00:50 -0800'
-date_gmt: '2015-01-13 12:00:50 -0800'
 categories:
 - Creative Ladies
 - Advice
 - Inspiration
 - Encouragement
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments:
-- id: 3847
-  author: Summer @ Coffee With S
-  author_email: contact@coffeewithsummer.com
-  author_url: http://coffeewithsummer.com/
-  date: '2015-01-13 09:32:00 -0800'
-  date_gmt: '2015-01-13 17:32:00 -0800'
-  content: I love this, Rachel! Thank you for sharing!!
-- id: 3848
-  author: Ali Kat
-  author_email: alikat@absolutelyalikat.com
-  author_url: ''
-  date: '2015-06-18 19:15:00 -0700'
-  date_gmt: '2015-06-19 02:15:00 -0700'
-  content: Once I learned what introversion really is, I embraced it! You're right
-    about being authentic with others. When we understand each other, we can have
-    better relationships! Love this post!
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/radpost1.jpg"><img class=" size-large wp-image-1656 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/01/radpost1-683x1024.jpg" alt="radpost1" width="683" height="1024" /></a></p>
 <p>Introverts, Let&rsquo;s Get Real...</p>

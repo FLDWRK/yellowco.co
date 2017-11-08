@@ -1,41 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'We''re Adding to our Team! UPDATE: These positions have been filled. THANKS!'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1047
+title: 'We're Adding to our Team! UPDATE: These Positions Have Been Filled. THANKS!'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1047
-date: '2014-10-30 02:45:20 -0700'
-date_gmt: '2014-10-30 09:45:20 -0700'
+date: '2014-10-30 02:45:20 -0700'date_gmt: '2014-10-30 09:45:20 -0700'
 categories:
 - Creative Ladies
 - Team Members
-tags: []
-comments:
-- id: 3832
-  author: cheap runescape gold
-  author_email: ''
-  author_url: http://www.rs4golds.com/
-  date: '2014-11-26 13:29:14 -0800'
-  date_gmt: '2014-11-26 21:29:14 -0800'
-  content: |-
-    <strong>cheap runescape gold</strong>
-
-    lol, It's a nice post! Like you, Thank you! Excuse me, Please look at my username!
-- id: 3833
-  author: COFFEE FILTER
-  author_email: marwamarti@gmail.com
-  author_url: http://keurigreusablecoffeefilter.blogspot.com/
-  date: '2015-06-29 08:46:00 -0700'
-  date_gmt: '2015-06-29 15:46:00 -0700'
-  content: Short and sweet! Yet so helpful!! What an inspiration!
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/10/JOInTeam1.jpg"><img class="alignnone size-full wp-image-1050" src="http://yellowconference.com/wp-content/uploads/2014/10/JOInTeam1.jpg" alt="JOInTeam" width="700" height="1117" /></a></p>
 <p>The time has come my friends, to make things a bit more official around here and expand our team. We are looking for an <a href="http://yellowconference.com/event-coordinator/" target="_blank">Event Coordinator</a>, a <a href="http://yellowconference.com/community-cultivator/" target="_blank">Community Cultivator</a>, and an <a href="http://yellowconference.com/bloom-gathering-intern/" target="_blank">intern for our Bloom Gatherings</a>. (And could not be more excited about it!!)</p>

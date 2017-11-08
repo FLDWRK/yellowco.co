@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'ATTENDEE EXPERIENCE: YELLOW CONFERENCE DAY ONE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3705
+title: 'Attendee Experience: Yellow Conference Day One'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3705
 date: '2015-08-29 11:09:50 -0700'
-date_gmt: '2015-08-29 18:09:50 -0700'
 categories:
 - Creative Ladies
 - The Activist
@@ -22,19 +11,6 @@ categories:
 - Yellow 2015
 - The Solopreneur
 - The Leader
-tags: []
-comments:
-- id: 3960
-  author: Megan Burroughs
-  author_email: mburroughs09@apu.edu
-  author_url: http://www.meganeliseevents.com
-  date: '2015-08-30 23:37:00 -0700'
-  date_gmt: '2015-08-31 06:37:00 -0700'
-  content: You're wonderful Arielle!! I loved seeing you at Yellow last week and you
-    explained the conference beautifully. I hope I get to go next year! And especially
-    your first point, I wholeheartedly echo that! I left feeling so empowered and
-    encouraged and ready to move forward in my business in a lot of new and exciting
-    ways! Also, I always feel refreshed after reading what you write! Keep goin! :)
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/08/ariellespost.jpg"><img class="aligncenter size-full wp-image-3711" src="http://yellowconference.com/wp-content/uploads/2015/08/ariellespost.jpg" alt="Yellow Conference Day One" width="700" height="701" /></a><b><i></i></b></p>
 <p><b><i>This post is originally found on&nbsp;Arielle Estoria's blog: <a href="http://chroniclesofalioness.com/" target="_blank">Chronicles of a Lioness</a></i></b></p>

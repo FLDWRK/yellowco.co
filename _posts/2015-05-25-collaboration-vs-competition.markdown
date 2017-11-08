@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: COLLABORATION VS. COMPETITION
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2992
+title: Collaboration Vs. Competition
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2992
 date: '2015-05-25 04:00:01 -0700'
-date_gmt: '2015-05-25 11:00:01 -0700'
 categories:
 - Light Talk
 - Creative Ladies
@@ -22,40 +11,6 @@ categories:
 - The Starter
 - Encouragement
 - TRIBE
-tags: []
-comments:
-- id: 3937
-  author: Brooke Saxon-Spencer
-  author_email: hello@brookesaxonspencer.com
-  author_url: http://www.brookesaxonspencer.com
-  date: '2015-05-26 21:27:00 -0700'
-  date_gmt: '2015-05-27 04:27:00 -0700'
-  content: This whole piece is so well written and full of life. (And I'd love to
-    meet up for a mojito anytime! ;))
-- id: 3938
-  author: 'On The Yellow Blog: Collaboration vs. Competition - Avery Johnson'
-  author_email: ''
-  author_url: http://www.avery-johnson.com/collaboration-vs-competition/
-  date: '2015-05-27 11:18:14 -0700'
-  date_gmt: '2015-05-27 18:18:14 -0700'
-  content: "[&#8230;] I am unpacking&nbsp;collaboration vs. competition&nbsp;on&nbsp;The
-    Yellow Blog. Give it a read and leave feeling inspired to lock the Green Eyed
-    Monster away for a [&#8230;]"
-- id: 3939
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-05-27 12:40:00 -0700'
-  date_gmt: '2015-05-27 19:40:00 -0700'
-  content: So glad you like it!
-- id: 3940
-  author: The 3 C&#8217;s of Collaboration (&amp; How to Halt the Need to Compete)
-    &#8211; Founded Magazine
-  author_email: ''
-  author_url: http://foundedmagazine.com/collaboration-vs-competition/
-  date: '2015-05-28 04:13:46 -0700'
-  date_gmt: '2015-05-28 11:13:46 -0700'
-  content: "[&#8230;] Originally published on The Yellow Conference Blog [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/05/brit.jpg"><img class="aligncenter size-full wp-image-2999" src="http://yellowconference.com/wp-content/uploads/2015/05/brit.jpg" alt="brit" width="700" height="466" /></a></p>
 <p>During college, I saw my future in the &ldquo;real world&rdquo; in a way that broke the norm. After graduation, my college roommates and I scattered: one to medical school, one to law school, and one to dental school. And then there was me, scrambling to make ends meet as I pursued my dream of launching my own company and designing a career in writing.</p>

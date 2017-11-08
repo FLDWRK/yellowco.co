@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Let's Get Positive
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 447
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=447
 date: '2014-05-02 06:58:04 -0700'
-date_gmt: '2014-05-02 06:58:04 -0700'
 categories:
 - Inspiration
-tags: []
-comments: []
 ---
 <p>I can't even begin to tell you how excited I am to have <a href="http://dalepartridge.com/" target="_blank">Dale Partridge</a> speak at Yellow this year. Founder at <a href="www.sevenly.org" target="_blank">Sevenly</a>, entrepreneur and author- this guy knows how to make things happen. He's a prime example of a talent used for good.</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/05/DalePart.png"><img class="alignnone size-full wp-image-448" alt="DalePart" src="http://yellowconference.com/wp-content/uploads/2014/05/DalePart.png" width="700" height="270" /></a></p>

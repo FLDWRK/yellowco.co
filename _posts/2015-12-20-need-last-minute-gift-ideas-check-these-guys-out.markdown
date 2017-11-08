@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: NEED LAST MINUTE GIFT IDEAS? CHECK THESE GUYS OUT.
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4700
+title: Need Last Minute Gift Ideas? Check These Guys Out.
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4700
 date: '2015-12-20 04:00:42 -0800'
-date_gmt: '2015-12-20 04:00:42 -0800'
 categories:
 - Light Talk
 - The Starter
 - Encouragement
 - Yellow 2015
 - The Leader
-tags: []
-comments: []
 ---
 <h2><em>Yellow 2015 attendees...how many of you are still swooning over this mug:</em></h2><br />
 <a href="http://yellowconference.com/wp-content/uploads/2015/12/Created-Co.-Yellow1.jpg"><img class="aligncenter size-large wp-image-4703" src="http://yellowconference.com/wp-content/uploads/2015/12/Created-Co.-Yellow1-683x1024.jpg" alt="The Created Co.+Yellow Co. " width="683" height="1024" /></a></p>

@@ -1,31 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'FEBRUARY BLOOM GATHERING: COME BE A PART OF OUR KICKSTARTER!'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1981
+title: 'February Bloom Gathering: Come be a Part of Our Kickstarter!'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1981
 date: '2015-02-14 06:03:48 -0800'
-date_gmt: '2015-02-14 14:03:48 -0800'
 categories:
 - "#bloomyellow"
-tags: []
-comments:
-- id: 3880
-  author: 'A DAY IN THE LIFE: WITH JOANNA WATERFALL | Yellow ConferenceYellow Conference'
-  author_email: ''
-  author_url: http://yellowconference.com/day-life-mini-series-joanna/
-  date: '2015-02-17 04:03:06 -0800'
-  date_gmt: '2015-02-17 12:03:06 -0800'
-  content: "[&#8230;] &#8230;In the meantime&#8230;have you bought your tickets for
-    our next Bloom Gathering yet?! For more information click here! [&#8230;]"
 ---
 <p>It&rsquo;s here! Our February&nbsp;Bloom Gathering will be happening on the 20th at 6:00pm on the <a href="http://www.hudsonloft.com/" target="_blank">Hudson Loft Rooftop</a>. Bloom Gatherings are our monthly hang outs where we do anything and everything from <a href="http://yellowconference.com/category/bloom-for-hope/" target="_blank">raising money for a cause</a>, to hosting a&nbsp;<a href="http://yellowconference.com/january-bloom-gathering-recap/" target="_blank">goal-setting workshop</a>, to simply having an evening&nbsp;<a href="http://yellowconference.com/december-bloom-gathering-recap/" target="_blank">party</a>. They are great ways to get out of the house, get inspired and connect with like-minded women who&nbsp;want to see good spread in the world.</p>
 <h4><strong>ATTENTION: This is a very special gathering...</strong></h4></p>

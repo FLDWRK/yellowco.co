@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Mother's Day Gifts That Give Back
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 424
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=424
 date: '2014-04-24 09:05:48 -0700'
-date_gmt: '2014-04-24 09:05:48 -0700'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p>Mother's day is creeping up on us once again! I love my mom, but every year I do the same thing- procrastinate on her gift. And every year I feel bad thinking how my mom deserves so much more than the semi-lame gift I end up throwing together last minute. Maybe you are a mother and have been on the other end of this scenario. Or maybe you're an awesome gift giver and don't share in my procrastinator struggles! Wherever you stand, we still have some time before Mother's Day to get our moms something meaningful &amp; special. (yay!)</p>
 <p>I thought this year it would be awesome to get my mom a gift that gives back. It's a win win- show your mom some love, and spread some good while doing it! In researching for this post I was so amazed at how many awesome companies there are out there doing great things. These days it's really not hard to find gifts that give back. Here are a select few I really fell in love with. I highly recommend checking out these companies- &nbsp;so much goodness! (see links to websites and products below)</p>

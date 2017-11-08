@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT CREATIVE ADVOCACY LOOKS LIKE IN THE PROFESSIONAL WORLD
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3480
+title: What Creative Advocacy Looks Like in the Professional World
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3480
 date: '2015-08-04 04:00:52 -0700'
-date_gmt: '2015-08-04 11:00:52 -0700'
 categories:
 - Light Talk
 - Creative Ladies
@@ -24,8 +13,6 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
-tags: []
-comments: []
 ---
 <p>[caption id="attachment_3490" align="aligncenter" width="700"]<a href="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-02-at-4.31.49-PM.jpg"><img class="wp-image-3490 size-full" src="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-02-at-4.31.49-PM.jpg" alt="Screen shot 2015-08-02 at 4.31.49 PM" width="700" height="396" /></a> Photo via @weld[/caption]</p>
 <p>Like me, you&rsquo;re probably exhausted by the sweeping and often negative stereotypes about millennials &mdash; but here&rsquo;s a good one: <strong>Millennials crave jobs that are meaningful.</strong> Studies indicate they&rsquo;re <a href="http://blogs.wsj.com/economics/2014/05/28/study-millennials-poised-to-shake-up-corporate-america/" target="_blank">more likely to take a pay cut</a> if they can do something they love. They <a href="http://money.cnn.com/2015/05/12/pf/millennials-work/" target="_blank">shy away from corporate work</a> to find interesting, challenging positions in positive social atmospheres. Sixty-three percent of them want their employers to <a href="http://blogs.wsj.com/economics/2014/05/28/study-millennials-poised-to-shake-up-corporate-america/" target="_blank">contribute to social or ethical causes</a>. And it&rsquo;s an effective approach:&nbsp;<a href="http://www.brookings.edu/~/media/research/files/papers/2014/05/millennials-wall-st/brookings_winogradfinal.pdf" target="_blank">experts say</a> this altruistic work ethic could reshape our economy, if not change the world.</p>

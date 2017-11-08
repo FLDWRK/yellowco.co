@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE IMPORTANCE OF CAPTURING THE MOMENT WHEN WE GATHER
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4013
+title: The Importance of Capturing the Moment When We Gather
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4013
 date: '2015-09-26 04:00:27 -0700'
-date_gmt: '2015-09-26 11:00:27 -0700'
 categories:
 - Light Talk
 - Creative Ladies
 - Encouragement
 - Yellow 2015
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/09/863waz0264-L1.jpg"><img class="aligncenter size-full wp-image-4015" src="http://yellowconference.com/wp-content/uploads/2015/09/863waz0264-L1.jpg" alt="Yellow Conference: Spread good and bloom" width="700" height="467" /></a></p>
 <p>Yellow Conference 2015 is over (can you believe it's almost been a month!?)--but so many people I've talked to are still buzzing with inspiration, new dreams, and motivation to get cracking on seasoned ones that we've been chewing on. The speakers and workshops taught us innumerable amounts of advice and wisdom, both in the professional and personal areas of our lives. But, the one thing that makes an everlasting impact on our spirits, to encourage and push and hold accountable, is the community.</p>

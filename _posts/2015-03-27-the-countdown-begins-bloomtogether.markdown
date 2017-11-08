@@ -1,40 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'The Countdown Begins! #Bloomtogether'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2383
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2383
 date: '2015-03-27 00:48:08 -0700'
-date_gmt: '2015-03-27 07:48:08 -0700'
 categories:
 - Light Talk
 - Inspiration
-tags: []
-comments:
-- id: 3901
-  author: emily_annadelores
-  author_email: emily@annadelores.com
-  author_url: ''
-  date: '2015-03-27 21:16:00 -0700'
-  date_gmt: '2015-03-28 04:16:00 -0700'
-  content: Awesome!  CANNOT WAIT!
-- id: 3902
-  author: MARCH BLOOM GATHERING RECAP - Yellow ConferenceYellow Conference
-  author_email: ''
-  author_url: http://yellowconference.com/march-bloom-gathering-recap/
-  date: '2015-03-31 04:01:11 -0700'
-  date_gmt: '2015-03-31 11:01:11 -0700'
-  content: "[&#8230;] April Bloom Gathering will be our Kickstarter Launch Party:
-    Bloom Together&nbsp;on April 2nd throughout the United States! For information
-    on waiting lists for sold out Bloom [&#8230;]"
 ---
 <h5 class="null"><a href="http://yellowconference.com/wp-content/uploads/2015/03/BloomTogether_Insta_white.jpg"><img class="alignleft wp-image-2389" src="http://yellowconference.com/wp-content/uploads/2015/03/BloomTogether_Insta_white.jpg" alt="BloomTogether_Insta_white" width="700" height="700" /></a></h5></p>
 <h5 class="null"><strong>HAPPY FRIDAY!</strong></h5></p>

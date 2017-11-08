@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Introducing: Bloom for Hope, a Bloom Gathering'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1177
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1177
 date: '2014-11-10 19:01:52 -0800'
-date_gmt: '2014-11-11 03:01:52 -0800'
 categories:
 - The Activist
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/11/BloomforHope_logo.jpg"><img class="alignnone size-full wp-image-1199" alt="BloomforHope_logo" src="http://yellowconference.com/wp-content/uploads/2014/11/BloomforHope_logo.jpg" width="700" height="866" /></a></p>
 <p>We are excited to announce a new breed of Bloom Gatherings that we will be hosting from time to time as specific causes call our hearts to action. We are starting with this Month's collaboration with <a href="http://www.coasttocoastcentral.com/" target="_blank">Coast to Coast Central</a> to host a <a href="http://www.coasttocoastcentral.com/thedarlingparty/" target="_blank">Darling Party</a>.</p>

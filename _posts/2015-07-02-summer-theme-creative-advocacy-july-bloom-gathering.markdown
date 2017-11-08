@@ -1,32 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Summer Theme: Creative Advocacy + July Bloom Gathering'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3227
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3227
 date: '2015-07-02 08:11:29 -0700'
-date_gmt: '2015-07-02 15:11:29 -0700'
 categories:
 - CREATIVE ADVOCACY
-tags: []
-comments:
-- id: 3950
-  author: 'WORKING WITH FOSTER TEENS | ORGANIZATION HIGHLIGHT: TEEN LEADERSHIP FOUNDATION
-    - Yellow ConferenceYellow Conference'
-  author_email: ''
-  author_url: http://yellowconference.com/organization-highlight-teen-leadership-foundation/
-  date: '2015-07-16 04:05:04 -0700'
-  date_gmt: '2015-07-16 11:05:04 -0700'
-  content: "[&#8230;] tell us about TLF and to give us proactive advice on being the
-    change we wish to see happen. Click here for more info and to purchase [&#8230;]"
 ---
 <p>I felt stuck.</p>
 <p>I was going through the motions. Project after project, not really seeing any larger purpose in my work or having an end goal.</p>

@@ -1,42 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: MARCH BLOOM GATHERING RECAP
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2405
+title: March Bloom Gathering Recap
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2405
 date: '2015-03-31 04:00:52 -0700'
-date_gmt: '2015-03-31 11:00:52 -0700'
 categories:
 - Light Talk
 - Creative Ladies
 - Yellow 2015
-tags: []
-comments:
-- id: 3903
-  author: Bri Towne
-  author_email: hello@lifebybri.com
-  author_url: http://www.lifebybri.com/
-  date: '2015-03-31 10:04:00 -0700'
-  date_gmt: '2015-03-31 17:04:00 -0700'
-  content: It was such a lovely morning! Thank you for putting on a fun event, despite
-    the 'hiccup' :)
-- id: 3904
-  author: Natalie | Circus &amp; Bloom
-  author_email: brittonna@gmail.com
-  author_url: http://www.circusandbloom.com/
-  date: '2015-04-01 07:56:00 -0700'
-  date_gmt: '2015-04-01 14:56:00 -0700'
-  content: "What a fun morning and what gorgeous photos! I hope I can attend a gathering
-    in the near future :) \n\n<a href=\"http://www.circusandbloom.com/\"
-    rel=\"nofollow\">Circus &amp; Bloom</a> \n&hearts;&hearts;&hearts;"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/03/blog-image-0.jpg"><img class="aligncenter size-full wp-image-2473" src="http://yellowconference.com/wp-content/uploads/2015/03/blog-image-0.jpg" alt="blog image 0" width="700" height="467" /></a></p>
 <blockquote><p><em>This mishap led into genuine conversation later on where authenticity and community were just a few of the buzzwords circulating the coffee shop. When we were finally able to enter the loft, the beautiful all white, studio became even brighter while women continued to engage&nbsp;in table discussion, laugh, and munch on fruit, cinnamon rolls and sipping on mimosas.</em></blockquote><br />

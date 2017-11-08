@@ -1,33 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW I DESIGN AN INSANELY PRODUCTIVE DAY, A GUEST POST BY WHITNEY ENGLISH
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4881
+title: How I Design an Insanely Productive Day, a Guest Post by Whitney English
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4881
 date: '2016-01-26 04:00:20 -0800'
-date_gmt: '2016-01-26 12:00:20 -0800'
 categories:
 - Creative Ladies
 - Advice
 - BUILD
-tags: []
-comments:
-- id: 4048
-  author: Aim&eacute;e | Little Trailer Studio
-  author_email: guzman.aimee@gmail.com
-  author_url: http://littletrailerstudio.com/
-  date: '2016-01-26 21:46:00 -0800'
-  date_gmt: '2016-01-27 05:46:00 -0800'
-  content: Great tips! I never thought of doing a not-to-do list but I'm looking forward
-    to giving it a try!
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-2.jpg"><br />
 </a><a href="http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-21.jpg"><img class="aligncenter size-full wp-image-4885" src="http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-21.jpg" alt="WhitneyEnglishPhoto_large-2" width="700" height="724" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-2-copy.jpg"><br />

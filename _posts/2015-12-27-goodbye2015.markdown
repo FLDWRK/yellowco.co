@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW PRACTICING GRATITUDE CAN MAKE 2016 GREAT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4621
+title: How Practicing Gratitude Can Make 2016 Great
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4621
 date: '2015-12-27 04:00:13 -0800'
-date_gmt: '2015-12-27 04:00:13 -0800'
 categories:
 - Light Talk
 - Resources
@@ -26,16 +15,6 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
-tags: []
-comments:
-- id: 4030
-  author: Britney Clark
-  author_email: britneyclark85@gmail.com
-  author_url: https://www.linkedin.com/in/britneyclark
-  date: '2015-12-28 10:33:00 -0800'
-  date_gmt: '2015-12-28 18:33:00 -0800'
-  content: 'Great post! I especially agree with the reading part of your routine.
-    The information we feed our minds is directly demonstrated in our actions. '
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2015/12/KAT_3110.jpg"><img class="aligncenter size-full wp-image-4623" src="http://yellowconference.com/wp-content/uploads/2015/12/KAT_3110.jpg" alt="The yellow Co. Blog: The Key to Starting 2016 Right" width="700" height="466" /></a><a href="http://yellowconference.com/wp-content/uploads/2015/12/KAT_3034.jpg"><br />
 </a>The holidays make it easy to focus on what we&rsquo;re grateful for, but what would happen if you expressed gratitude every day? I can tell you from personal experience -- it will affect your life in a surprising way.</h2><br />

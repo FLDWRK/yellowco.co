@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: BLOOM FOR HOPE RECAP
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1344
+title: Bloom For Hope Recap
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1344
 date: '2014-12-08 14:10:26 -0800'
-date_gmt: '2014-12-08 22:10:26 -0800'
 categories:
 - The Activist
-tags: []
-comments: []
 ---
 <p>Last month was a special version of our Bloom Gatherings, called "Bloom for Hope." We partnered up with <a href="http://www.coasttocoastcentral.com/" target="_blank">Coast to Coast Central</a> to give 100% of the event profits to create sustainable change for survivors of sex trafficking in Ecuador. Through the funds raised, we were able to pay for one girl to go through rehabilitation! This&nbsp;consists of getting a home,&nbsp;counseling sessions to help with inner healing, educational classes, business classes, and skills training. Her&nbsp;rehabilitation will equip her&nbsp;to enter back into society as a strong woman who both dreams and leads. This community is making a powerful difference in the world and that is SO exciting!!</p>
 <p>We had yummy bites and sips at <a href="http://littlemeatsla.com/" target="_blank">Little Meats LA</a>, the awesome community venue who&nbsp;hosted us.</p>

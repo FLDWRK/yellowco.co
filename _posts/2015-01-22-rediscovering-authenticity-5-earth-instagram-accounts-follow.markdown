@@ -1,55 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: 5 Down to Earth Instagram Accounts to Follow'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1786
+title: 'Rediscovering Authenticity: 5 Down To Earth Instagram Accounts To Follow'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1786
 date: '2015-01-22 04:00:42 -0800'
-date_gmt: '2015-01-22 12:00:42 -0800'
 categories:
 - Inspiration
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments:
-- id: 3857
-  author: Charity Craig
-  author_email: charity@thewoundeddove.com
-  author_url: http://thewoundeddove.com
-  date: '2015-01-22 13:41:00 -0800'
-  date_gmt: '2015-01-22 21:41:00 -0800'
-  content: Yay! I love making new friends on IG!
-- id: 3858
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-01-22 14:07:00 -0800'
-  date_gmt: '2015-01-22 22:07:00 -0800'
-  content: Same!! It's a great place to find like-minded people and make new friends
-    :)
-- id: 3859
-  author: Kelsey
-  author_email: sheinthemaking@gmail.com
-  author_url: ''
-  date: '2015-01-29 13:14:00 -0800'
-  date_gmt: '2015-01-29 21:14:00 -0800'
-  content: WHAAAAAT. I was just catching up on my Yellow blog reading to see THIS!!
-    I was like "YES. I love these ladies. They are so cool" and then I see me and
-    I let out a big WHAT and a little squeal. THANK YOU SWEET FRIEND! <3
-- id: 3860
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-02-03 16:22:00 -0800'
-  date_gmt: '2015-02-04 00:22:00 -0800'
-  content: We are fans of the Kelsster :) Keep doing what you're doing girl!
 ---
 <p>I'm sure you have a few people in your feed who's Insta-life just makes you want to curl up in a ball and cry in self pitty. Anyone else? With the life-curation that comes with social media,&nbsp;there are some people out there who just make you forget that they're human. You take one look at&nbsp;that mom with the great bod, 2 perfectly styled children who have just completed a happy day of baking and you think, "Wow, it's 3pm, I'm in yoga pants, I've had 3 cups of coffee (WITH heavy cream and sugar) my inbox is out of control, and I haven't washed my hair in 3 days. Where did I go wrong??!"</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/Blog_Image1.jpg"><img class="alignleft size-full wp-image-1826" src="http://yellowconference.com/wp-content/uploads/2015/01/Blog_Image1.jpg" alt="Blog_Image" width="700" height="700" /></a></p>

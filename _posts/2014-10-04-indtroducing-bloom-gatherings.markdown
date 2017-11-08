@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Introducing... Bloom Gatherings!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 951
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=951
 date: '2014-10-04 23:41:39 -0700'
-date_gmt: '2014-10-04 23:41:39 -0700'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/10/BLOOM_Gathering_blog.jpg"><img alt="BLOOM_Gathering_blog" src="http://yellowconference.com/wp-content/uploads/2014/10/BLOOM_Gathering_blog.jpg" width="700" height="802" /></a></p>
 <p>Not sure about you, but after Yellow Conference ended, I was craving more time with the dreamers, the creatives, the ones who want to change the world. Because of this, the decision was make to create smaller gatherings where us like-minded ladies can get together, have some time to hang out on a smaller level, and work together on a creative do-good project. Hello Bloom Gatherings!</p>

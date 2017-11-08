@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'February Yellow Gathering: BUILDING YOUR SOCIAL MEDIA TRIBE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4981
+title: 'February Yellow Gathering: Building Your Social Media Tribe'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4981
 date: '2016-02-08 07:26:46 -0800'
-date_gmt: '2016-02-08 15:26:46 -0800'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p>2016 is in full swing and it's time for another gathering! Our Feb gathering is going to be lead by the CEO + Founder of <a href="http://www.socialstudioshop.com/" target="_blank">Social Studio Shop</a>, Jessica Howell. Social media is a great way to build relationships, network and make new friends online! No matter how much experience you have in the realm of social media, there's always something to be learned.</p>
 <p>If you have any desire to connect, build and refine your social media platforms, consider joining us on Feb 18th!</p>

@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'A DAY IN THE LIFE: WITH KELLY VALENTINE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2244
+title: 'A Day in the Life: With Kelly Valentine'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2244
 date: '2015-03-17 04:00:30 -0700'
-date_gmt: '2015-03-17 11:00:30 -0700'
 categories:
 - Light Talk
 - Team Members
-tags: []
-comments: []
 ---
 <p>Yes, she's the go-getter-planner-get-it-done-girl behind our monthly Bloom Gatherings. And yes, that is her real last name (for now...she's soon to become a Mrs.!). Ladies, Miss Kelly Valentine:</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/03/kellydil.jpg"><img class="aligncenter size-full wp-image-2241" src="http://yellowconference.com/wp-content/uploads/2015/03/kellydil.jpg" alt="kelly day in the life" width="700" height="933" /></a>Since Bloom Gatherings are my passion project, my normal days are spent running around the LA market of Dinner of Dinner Lab. What is <a href="https://dinnerlab.com/" target="_blank">Dinner Lab</a>, you ask? It's a membership based pop up dining club that features a different Chef, menu, and venue every time. So today started off with a conference call with <a href="http://www.sidechef.com/" target="_blank">SideChef</a> (a step-by-step cooking app) to see possibilities for collaborating.</p>

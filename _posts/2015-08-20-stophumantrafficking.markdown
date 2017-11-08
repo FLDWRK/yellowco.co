@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 10 REALISTIC WAYS YOU CAN START FIGHTING MODERN DAY SLAVERY NOW
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3637
+title: 10 Realistic Ways You Can Start Fighting Modern Day Slavery Now
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3637
 date: '2015-08-20 04:00:03 -0700'
-date_gmt: '2015-08-20 11:00:03 -0700'
 categories:
 - Creative Ladies
 - CREATIVE ADVOCACY
@@ -21,8 +10,6 @@ categories:
 - The Activist
 - Encouragement
 - The Leader
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/08/sabrina-hill.jpeg"><img class="aligncenter size-full wp-image-3638" src="http://yellowconference.com/wp-content/uploads/2015/08/sabrina-hill.jpeg" alt="yellow conference blog " width="700" height="467" /></a>When it comes to big issues and injustices in the world, it can be so easy to get overwhelmed. Modern day slavery is an issue that has been put in front of my face many times over the past several years... and I keep running away from it.</p>
 <blockquote><p><em>&ldquo;I am only one, but I am one. I cannot do everything, but I can do something. And I will not let what I cannot do interfere with what I can do.&rdquo;</em></blockquote></p>

@@ -1,48 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WORK HARD, TRUST YOURSELF, SEEK THE HELP OF OTHERS, AND DON''T GIVE UP: HOW
-  I TURNED MY PASSION INTO A CAREER IN LESS THAN A YEAR'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4763
+title: 'Work Hard, Trust Yourself, Seek the Help of Others, and Don't Give Up: How
+  I Turned My Passion Into a Career in Less than a Year'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4763
 date: '2016-01-07 04:00:07 -0800'
-date_gmt: '2016-01-07 12:00:07 -0800'
 categories:
 - The Activist
 - BUILD
-tags: []
-comments:
-- id: 4036
-  author: Melanie The Nomadic Wife
-  author_email: bymphoto@gmail.com
-  author_url: http://www.thenomadicwife.com
-  date: '2016-01-07 13:34:00 -0800'
-  date_gmt: '2016-01-07 21:34:00 -0800'
-  content: Awesome article. I love reading about women who not only create beautiful
-    things but also make a point to make a difference!
-- id: 4037
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-01-07 18:07:00 -0800'
-  date_gmt: '2016-01-08 02:07:00 -0800'
-  content: Yay! Same :) Thanks for hanging out with us over here Melanie!!
-- id: 4038
-  author: Links for the Weekend No. 2 |
-  author_email: ''
-  author_url: http://heartandhustlepodcast.com/2016/resources/links-for-the-weekend-no-2/
-  date: '2016-01-29 04:14:37 -0800'
-  date_gmt: '2016-01-29 12:14:37 -0800'
-  content: "[&#8230;] It&#8217;s possible to turn your passion into a career so don&#8217;t
-    give [&#8230;]"
 ---
 <p><em><a href="http://www.uncvrdjewelry.com/the-uncvrd-story/" target="_blank">UNCVRD Jewelry</a> gives 40% of each sale to efforts to end local human trafficking (in the Los Angeles/Orange County area). They are the epitome of great design matched with a great cause. We asked founder and designer, Jen Bedrossian, to share some of her story, her journey, and her wisdom.&nbsp;</em></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/01/Jen-Bedrossian-photo1.jpg"><img class="aligncenter wp-image-4766" src="http://yellowconference.com/wp-content/uploads/2016/01/Jen-Bedrossian-photo1-1024x746.jpg" alt="Jen Bedrossian photo1" width="700" height="510" /></a></p>

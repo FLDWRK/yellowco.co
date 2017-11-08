@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'OUR NEXT SERIES: BUILD + A WORKSHEET'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4742
+title: 'Our Next Series: Build + a Worksheet'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4742
 date: '2016-01-05 04:00:32 -0800'
-date_gmt: '2016-01-05 12:00:32 -0800'
 categories:
 - Resources
 - The Activist
@@ -21,33 +10,6 @@ categories:
 - The Solopreneur
 - The Leader
 - BUILD
-tags: []
-comments:
-- id: 4033
-  author: Melanie The Nomadic Wife
-  author_email: bymphoto@gmail.com
-  author_url: http://www.thenomadicwife.com
-  date: '2016-01-07 13:36:00 -0800'
-  date_gmt: '2016-01-07 21:36:00 -0800'
-  content: 'I just signed up recently for The Yellow Co Blog &amp; I have to say I
-    am totally digging this worksheet so THANK YOU! #gratitude'
-- id: 4034
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-01-07 14:43:00 -0800'
-  date_gmt: '2016-01-07 22:43:00 -0800'
-  content: So glad you're liking it Melanie!! xoxo
-- id: 4035
-  author: Eileen for OSW
-  author_email: oursacredwomen@gmail.com
-  author_url: ''
-  date: '2016-01-20 20:12:00 -0800'
-  date_gmt: '2016-01-21 04:12:00 -0800'
-  content: Hey there! Would love to see something about building your network of suppliers
-    (i.e. tips on how to find the right people/business). I'm especially interested
-    in finding suppliers who share my vision for sustainability (organic, fair-trade,
-    etc.).
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2015/12/karenhernandezBUILD-opening-image.jpg"><img class="aligncenter size-full wp-image-4745" src="http://yellowconference.com/wp-content/uploads/2015/12/karenhernandezBUILD-opening-image.jpg" alt="The Yellow Co.: Build" width="700" height="467" /></a></h2></p>
 <h2>January. It's January.</h2><br />

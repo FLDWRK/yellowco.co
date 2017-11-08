@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: Why Passion Makes Things Happen
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 401
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=401
 date: '2014-05-07 16:16:51 -0700'
-date_gmt: '2014-05-07 16:16:51 -0700'
 categories:
 - Advice
 - Inspiration
 - Encouragement
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/05/CARE2.jpg"><img class="alignnone size-full wp-image-497" alt="CARE" src="http://yellowconference.com/wp-content/uploads/2014/05/CARE2.jpg" width="700" height="725" /></a></p>
 <p>The definition of passion: "an intense desire or enthusiasm for something." Definition of apathy: "lack of interest, enthusiasm, or concern."</p>

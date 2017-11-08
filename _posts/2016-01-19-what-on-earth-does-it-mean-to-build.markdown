@@ -1,40 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: STILL FEELING "UNDER CONSTRUCTION"? YOU'RE NOT ALONE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4836
+title: Still Feeling "Under Construction"? You're Not Alone
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4836
 date: '2016-01-19 04:00:25 -0800'
-date_gmt: '2016-01-19 12:00:25 -0800'
 categories:
 - Inspiration
 - The Starter
 - BUILD
-tags: []
-comments:
-- id: 4039
-  author: Kylie Farnsworth
-  author_email: kyfarns@hotmail.com
-  author_url: ''
-  date: '2016-01-20 05:31:00 -0800'
-  date_gmt: '2016-01-20 13:31:00 -0800'
-  content: Ari!!! This was so beautiful. And is EXACTLY the season I seem to be in.
-    I'm so glad we get to walk through the debris together :)
-- id: 4040
-  author: Arielle Estoria Wilburn
-  author_email: estorialeda91@gmail.com
-  author_url: ''
-  date: '2016-01-25 22:23:00 -0800'
-  date_gmt: '2016-01-26 06:23:00 -0800'
-  content: KYLIEEEE! Love you girl. Glad to be on your team <3
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/01/metzDARLING-26.jpg"><img class="aligncenter size-full wp-image-4838" src="http://yellowconference.com/wp-content/uploads/2016/01/metzDARLING-26.jpg" alt="Yellow Co. Blog: Build" width="700" height="1050" /></a>I&rsquo;m going to dive in and be completely honest okay?</h2><br />
 When I found out this quarter&rsquo;s theme for the blog, <em>Build,</em> I froze. I hesitated so much that I didn&rsquo;t even respond back to the email for writers. Yellow Co. reached back out to me and I responded with,<em> I don't feel like I have too much expertise at building because I&rsquo;m still currently doing it.</em></p>

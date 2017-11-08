@@ -1,32 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'THE YELLOW CONFERENCE YEAR TWO: FREEDOM IN FRAME'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3789
+title: 'The Yellow Conference Year Two: Freedom in Frame'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3789
 date: '2015-09-12 04:00:05 -0700'
-date_gmt: '2015-09-12 11:00:05 -0700'
 categories:
 - Yellow 2015
-tags: []
-comments:
-- id: 3968
-  author: LA Speaker Dinner Party with West Elm - Yellow ConferenceYellow Conference
-  author_email: ''
-  author_url: http://yellowconference.com/la-speaker-dinner-party-with-west-elm/
-  date: '2015-09-19 04:00:29 -0700'
-  date_gmt: '2015-09-19 11:00:29 -0700'
-  content: "[&#8230;] was a beautiful way to kick off Yellow 2015! If you missed our
-    recap of the event, head here. And don&#8217;t forget you can watch the videos
-    of all of these world changers talks buy [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/09/firsttimageforblog.jpg"><img class="aligncenter size-full wp-image-3821" src="http://yellowconference.com/wp-content/uploads/2015/09/firsttimageforblog.jpg" alt="yellow conference 2015" width="700" height="467" /></a></p>
 <p>Yellow Conference Year<em> Two</em> is complete--but we are still seeing the ripples, hashtags, and blog posts from attendees, even almost a month later! This was one for the books. Bringing together introverts, extroverts, artists, business women, social media specialists and hardcore activists all to <a href="http://www.thinktankgallery.org/" target="_blank">one spot in DTLA.</a></p>

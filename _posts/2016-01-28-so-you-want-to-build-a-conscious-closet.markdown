@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: SO, YOU WANT TO BUILD A CONSCIOUS CLOSET?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4890
+title: So, You Want To Build A Conscious Closet?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4890
 date: '2016-01-28 04:00:32 -0800'
-date_gmt: '2016-01-28 12:00:32 -0800'
 categories:
 - The Activist
 - BUILD
-tags: []
-comments: []
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/01/johannatropiano.jpg"><br />
 </a><a href="http://yellowconference.com/wp-content/uploads/2016/01/ConsciousClosets_JohannaTropiano_photosBrianTropiano0004.jpg"><img class="aligncenter size-full wp-image-4894" src="http://yellowconference.com/wp-content/uploads/2016/01/ConsciousClosets_JohannaTropiano_photosBrianTropiano0004.jpg" alt="ConsciousClosets_JohannaTropiano_photosBrianTropiano0004" width="700" height="467" /></a>Over the past two years I have battled my closet and my irresponsible shopping habits.</h2><br />

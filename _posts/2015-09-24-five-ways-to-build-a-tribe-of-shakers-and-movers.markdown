@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
 title: FIVE WAYS TO BUILD A TRIBE OF SHAKERS AND MOVERS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3984
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3984
 date: '2015-09-24 04:00:36 -0700'
-date_gmt: '2015-09-24 11:00:36 -0700'
 categories:
 - Creative Ladies
 - CREATIVE ADVOCACY
 - The Activist
 - Encouragement
-tags: []
-comments: []
 ---
 <h6><a href="http://yellowconference.com/wp-content/uploads/2015/09/Thursdaypost1.jpg"><img class="aligncenter size-full wp-image-3986" src="http://yellowconference.com/wp-content/uploads/2015/09/Thursdaypost1.jpg" alt="YELLOW CONFERENCE BLOG: SPREAD GOOD AND BLOOM" width="700" height="467" /></a>She wrapped her tiny fingers around my hand and led me onto the dirt path in Pignon, Haiti.</h6><br />
 This hometown of hers was filled to the brim with poverty. Even so, through the dust that clouded the trail before us, 6-year-old Fabianca quietly gazed ahead with eyes that said, <em>&ldquo;I am not defined by my current circumstances. I am a dreamer. I will not leave this earth without first showing it that I am brave, significant, and purposeful. This village will feel the weight of my footprint, and I will not go unheard.&rdquo;</em></p>

@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT WE CAN LEARN FROM SOCIAL CHANGE CAMPAIGNS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3430
+title: What We Can Learn From Social Change Campaigns
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3430
 date: '2015-07-23 15:29:16 -0700'
-date_gmt: '2015-07-23 22:29:16 -0700'
 categories:
 - Light Talk
 - Creative Ladies
@@ -23,8 +12,6 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/07/business-792113_1280.jpg"><img class="aligncenter size-full wp-image-3432" src="http://yellowconference.com/wp-content/uploads/2015/07/business-792113_1280.jpg" alt="business-792113_1280" width="700" height="466" /></a>The Internet has its good days and it&rsquo;s bad days.&nbsp;When it comes to social movements that create change and advocate justice - it&rsquo;s a good day.</p>
 <p>We all can instantly recognize and recall the days when&nbsp;social campaigns takeover your timeline and newsfeed. Sometimes you can&rsquo;t help but jump on the bandwagon, other times you might find yourself writing it off. Before you do, really take time to look into the movement and see what it&rsquo;s based on. It might relate to you more than you think.</p>

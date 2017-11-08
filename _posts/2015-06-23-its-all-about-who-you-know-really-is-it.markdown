@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: '"It''s all about who you know" - Really? Is it?'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3178
+title: '"It's All About Who You Know" - Really? Is it?'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3178
 date: '2015-06-23 04:45:25 -0700'
-date_gmt: '2015-06-23 11:45:25 -0700'
 categories:
 - Advice
 - The Solopreneur
 - The Leader
 - TRIBE
-tags: []
-comments: []
 ---
 <p>I stopped mid-scroll.</p>
 <p>I had been working my booty off trying to make a particular brand partnership&nbsp;happen, when one day I'm casually scrolling through my Instagram feed when there it was- the image that will make you mid-scroll stop. I see a post from a friend of mine that reads, <em>"So happy/excited to have landed an amazing partnership with 'X' brand! So awesome!"</em></p>

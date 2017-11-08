@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: SEEING THE DIAMONDS IN YOUR STRUGGLES
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4223
+title: Seeing the Diamonds in your Struggles
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4223
 date: '2015-11-10 03:00:37 -0800'
-date_gmt: '2015-11-10 11:00:37 -0800'
 categories:
 - Creative Ladies
 - Advice
@@ -21,23 +10,6 @@ categories:
 - REFINE
 - The Solopreneur
 - The Leader
-tags: []
-comments:
-- id: 3997
-  author: Delightful Reads and Web Links - Art in the Find
-  author_email: ''
-  author_url: http://www.artinthefind.com/delightful-weekend-web-links-2/
-  date: '2015-11-13 11:40:38 -0800'
-  date_gmt: '2015-11-13 19:40:38 -0800'
-  content: "[&#8230;] | This is a great article about how to see the positives in
-    the struggles we all face. | Yellow [&#8230;]"
-- id: 3998
-  author: Conni
-  author_email: styleiconnij@gmail.com
-  author_url: ''
-  date: '2015-11-14 06:54:00 -0800'
-  date_gmt: '2015-11-14 14:54:00 -0800'
-  content: This was a fantastic article, thank you for writing the piece, Elizabeth.
 ---
 <p>As creatives and as human beings, we all face struggles. It&rsquo;s a part of life to overcome those struggles and become stronger.&nbsp;Moving on from those battles is something that we want to happen, but what if we embraced those struggles AND took it a step further?</p>
 <p><em>What if we used them to shape our brand like a painter uses their art as fuel to connect with people? As professionals, we can.</em></p>

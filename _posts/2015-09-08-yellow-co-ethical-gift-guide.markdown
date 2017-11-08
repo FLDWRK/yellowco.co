@@ -1,41 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: YOUR 2015 ETHICAL GIFT GUIDE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3728
+title: Your 2015 Ethical Gift Guide
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3728
 date: '2015-09-08 04:00:29 -0700'
-date_gmt: '2015-09-08 11:00:29 -0700'
 categories:
 - Light Talk
 - Resources
 - CREATIVE ADVOCACY
 - The Activist
-tags: []
-comments:
-- id: 3961
-  author: Sarah Carter
-  author_email: sarahcarterstudio@yahoo.com
-  author_url: http://www.sarahcarterstudio.com
-  date: '2015-09-08 07:14:00 -0700'
-  date_gmt: '2015-09-08 14:14:00 -0700'
-  content: Thank you for including my artwork in such a wonderful list of great people
-    and companies! Love this community! <3
-- id: 3962
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-09-14 12:59:00 -0700'
-  date_gmt: '2015-09-14 19:59:00 -0700'
-  content: Thank you for all you're doing! Love your work!
 ---
 <p>Have you scoured Pinterest for hours trying to find the perfect Christmas, baby shower, wedding, birthday...you name it...gift? I don't know about you, but sometimes the pressure of finding the perfect gift can completely wear me down, and, on top of that, where is my money <em>really&nbsp;</em>going...Here at Yellow, we are trying our hardest (read: trying...not perfect) to put our money where our mouth is and invest only in items that we know were made with ethical statures in mind.</p>
 <p>So, I have been on the prowl, ya'll, for some cute, fun, AND ethical items, that you could feel good about buying for your friends, family, or...self!</p>
