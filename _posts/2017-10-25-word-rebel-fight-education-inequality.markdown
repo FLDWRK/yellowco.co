@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WHY WORDS ARE THE #1 WAY TO FIGHT EDUCATION INEQUALITY'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9828
+title: 'Why Words are the #1 Way to Fight Education Inequality'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9828
 date: '2017-10-25 04:00:14 -0700'
-date_gmt: '2017-10-25 11:00:14 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments: []
+- Come Together
 ---
 <p><span style="font-weight: 400;">The Bronx will change a girl. When Lauren Poinier began teaching Special Education in this NYC borough, she couldn't predict that this was the first step toward founding a non-profit. </span><strong><a href="http://www.wordrebel.org/" target="_blank" rel="noopener noreferrer">Word Rebel</a></strong><span style="font-weight: 400;"> closes the achievement gap before it starts by connecting the parents of pre-k students with literacy resources, so they can rebel against education inequality one word at a time. Learn more about how <a href="http://www.wordrebel.org/" target="_blank" rel="noopener noreferrer">Word Rebel</a> takes on this issue in this interview with Lauren:</span></p>
 <h4><b>Can you tell us what your rebellious organization is doing in the world?</b></h4><br />

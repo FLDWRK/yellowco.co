@@ -1,39 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE ART OF COMMUNICATION IN PARTNERSHIPS
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8366
+title: The Art of Communication in Partnerships
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8366
 date: '2017-04-19 04:00:43 -0700'
-date_gmt: '2017-04-19 11:00:43 -0700'
 categories:
 - Wander
-tags:
-- freelance
-- freelancer
-- women
-- creative women
-- dream job
-- dream business
-- women entrepreneurs
-- creative entrepreneurs
-- running a business
-- business partners
-- communication
-- partnerships
-- communicating
-- businesswomen
-- brunch
-- running
-comments: []
 ---
 <p><span style="font-weight: 400;">No matter the type of relationship, communication is </span><i><span style="font-weight: 400;">key</span></i><span style="font-weight: 400;">&nbsp;in having a healthy, successful one. When it comes to running a business with a partner, which, in our case is a running business, an ongoing lack in communication can cause irreparable harm. Not to mention,&nbsp;the&nbsp;business and its surrounding relationships to suffer - <em>if</em> it goes unchanged.</span></p>
 <p><span style="font-weight: 400;">Our relationship evolved over the years from acquaintances through a mutual friend, to friends and running buddies (&ldquo;sole-mates&rdquo; as we say), to&nbsp;business partners. Before our company, <a href="https://www.brunchrunning.com/" target="_blank">bRUNch Running</a>, ever came to fruition, we met up for runs either in the morning or after work to blow off some steam and chat about our lives, building a&nbsp;foundation of friendship with each other. At that time, it seemed&nbsp;like we communicated flawlessly. We had no problems at a friendship level, and it was only after we became business partners that our ability to communicate faltered. </span></p>

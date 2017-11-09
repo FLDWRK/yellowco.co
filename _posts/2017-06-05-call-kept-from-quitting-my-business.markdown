@@ -1,36 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW ONE PHONE CALL KEPT ME FROM QUITTING MY OWN BUSINESS
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8723
+title: How One Phone Call Kept Me from Quitting My Own Business
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8723
 date: '2017-06-05 04:00:31 -0700'
-date_gmt: '2017-06-05 11:00:31 -0700'
 categories:
 - Wander
-tags:
-- entrepreneur
-- women
-- running a business
-- community
-- quitting
-- creative entrepreneur
-comments:
-- id: 4372
-  author: Misty Castaneda
-  author_email: mistyp75@gmail.com
-  author_url: ''
-  date: '2017-06-05 16:02:00 -0700'
-  date_gmt: '2017-06-05 23:02:00 -0700'
-  content: 'I needed this post today- thank you for sharing your journey.  '
 ---
 <h3><strong>As entrepreneurs, girlbosses, and creators, there&rsquo;s going to come a time where we want to quit.</strong></h3><br />
 <span style="font-weight: 400;">Throw in the towel, kick up our feet with a glass of pinot, and say</span><i><span style="font-weight: 400;">&nbsp;"enough is enough!" </span></i><span style="font-weight: 400;">I know&nbsp;</span><span style="font-weight: 400;">I&rsquo;ve been in the I-want-to-quit stage more times than I can count. Most often, it&rsquo;s difficult to see past it. It feels suffocating and encapsulating and all you want to do is hide. Turn off the laptop, delete Instagram, reply &lsquo;no&rsquo; to every event, and just take a step back. But then, something will happen that brings it all back. <strong>The </strong></span><strong><i>why</i>, the essence&nbsp;of what you do. Why you&rsquo;re needed.</strong></p>

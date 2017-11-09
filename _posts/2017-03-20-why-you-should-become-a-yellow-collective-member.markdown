@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: A FEW WORDS FROM OUR MEMBERS (AKA THE COOLEST LADIES IN ALL THE LAND)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8164
+title: A Few Words from Our Members (AKA the Coolest Ladies in all the Land)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8164
 date: '2017-03-20 04:00:17 -0700'
-date_gmt: '2017-03-20 11:00:17 -0700'
 categories:
 - Yellow Collective
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p>If you haven't heard by now, The Yellow Collective is o-to-the-pen. Wide open until the 31st. That means this is your chance to join the COOLEST group of women I've ever had the chance of getting to know. The Yellow Collective members aren't you're average "women in business" kind of gals. The women&nbsp;in our community are&nbsp;fiercely passionate, extraordinarily creative, beautifully brave, aaaand&nbsp;they have a deep desire, a hunger even, to serve something bigger than themselves, to make the world a better place, to spread goodness, and come fully ALIVE.</p>
 <p>How POWERFUL is that?? Let me just tell you, when these women come together, BIG things happen. Like, world changing stuff.</p>

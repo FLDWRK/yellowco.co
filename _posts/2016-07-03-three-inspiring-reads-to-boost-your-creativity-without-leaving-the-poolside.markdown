@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: FIVE INSPIRING READS TO BOOST YOUR CREATIVITY... (WITHOUT LEAVING THE POOLSIDE)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5970
+title: Five Inspiring Reads to Boost Your Creativity... (Without Leaving the Poolside)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5970
 date: '2016-07-03 04:00:10 -0700'
-date_gmt: '2016-07-03 11:00:10 -0700'
 categories:
 - Light Talk
 - The Activist
 - The Starter
 - The Solopreneur
 - The Leader
-tags: []
-comments: []
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/07/free-people-6134.jpg"><img class="aligncenter size-full wp-image-5974" src="http://yellowconference.com/wp-content/uploads/2016/07/free-people-6134.jpg" alt="Kendall Hanna Photography" width="700" height="452" /></a>I'm going to keep this short and sweet because, let's be honest, <em>it's Fourth of July weekend, baby!</em></h2><br />
 So whatever you are doing this fine three day weekend, we hope you find it restful. And what better way to rest with a little inspirational reads by the pool, or the air conditioner, or&nbsp;on your patio, drinking some mint watermelon lemonade (or whatever your heart desires)?!</p>

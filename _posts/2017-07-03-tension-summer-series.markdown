@@ -1,31 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'TENSION: OUR SUMMER SERIES'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8964
+title: 'Tension: Our Summer Series'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8964
 date: '2017-07-03 04:00:26 -0700'
-date_gmt: '2017-07-03 11:00:26 -0700'
 categories:
 - Tension
-tags:
-- women
-- purpose
-- self development
-- tension
-- conflict
-- challenge
-- creatives
-- doing good
-comments: []
 ---
 <p><span style="font-weight: 400;">I&rsquo;ll remember this time with a fondness. With a smile and a sigh of how much I was growing, and how hard of a time I had doing it. </span></p>
 <p><span style="font-weight: 400;">If you asked me to name the most uphill year in my life thus far, the honest answer would be this past one. I&rsquo;d call it a free-fall, no feet touching the ground in sight kind of year. The list of internal conflicts to address has felt endless - from identity and wants all the way down to faith and finances. I&rsquo;ve longed for more than I&rsquo;ve been content with - more than I would like to admit. I&rsquo;ve craved stability, a home that feels like a haven, and finding the&nbsp;right balance in what feels like </span><i><span style="font-weight: 400;">everything</span></i><span style="font-weight: 400;">.</span></p>

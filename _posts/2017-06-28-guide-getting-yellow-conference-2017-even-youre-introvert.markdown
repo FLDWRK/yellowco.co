@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: YOUR GUIDE TO GETTING THE MOST OUT OF YELLOW CONFERENCE 2017 (EVEN IF YOU'RE
-  AN INTROVERT!)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8937
+title: Your Guide to Getting the Most Out of Yellow Conference 2017 (Even if You're
+  an Introvert!)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8937
 date: '2017-06-28 04:06:43 -0700'
-date_gmt: '2017-06-28 11:06:43 -0700'
 categories:
 - Wander
-tags: []
-comments: []
 ---
 <p><a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">Yellow Conference 2017</a> is just under two months away! This is consistently&nbsp;the highlight of my year. Without even trying, I always adopt do-good habits into my life after being surrounded by a group of women set out to make this world a better place for three days straight.</p>
 <p>Being that our conference happens once a year, we thought it would be helpful to put together a 5-step guide to help you get the most out of&nbsp;the&nbsp;4th Annual <a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">Yellow Conference</a>.</p>

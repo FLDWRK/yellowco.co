@@ -1,35 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'MEET MAGGIE DOYNE: A 2017 YELLOW CONFERENCE SPEAKER'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9071
+title: 'Meet Maggie Doyne: a 2017 Yellow Conference Speaker'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9071
 date: '2017-07-19 04:00:36 -0700'
-date_gmt: '2017-07-19 11:00:36 -0700'
 categories:
 - Tension
-tags:
-- yellow conference
-- yellow conference speakers
-- maggie doyne
-- blinknow foundation
-comments:
-- id: 4382
-  author: Misty Castaneda
-  author_email: mistyp75@gmail.com
-  author_url: ''
-  date: '2017-07-19 13:26:00 -0700'
-  date_gmt: '2017-07-19 20:26:00 -0700'
-  content: I am BEYOND excited that Maggie DOYNE is speaking at the conference this
-    year- thank you for bringing this amazing woman and her energy to us!
 ---
 <p dir="ltr">We are nearing in on being just a short month away from the&nbsp;&nbsp;<a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">2017 Yellow Conference</a>! Today we're continuing our <a href="http://yellowco.co/yellow-conference-2017-speakers/" target="_blank" rel="noopener noreferrer">speaker series</a> and introducing you to Maggie Doyne, Founder and CEO of the <a href="http://www.blinknow.org/" target="_blank" rel="noopener noreferrer">BlinkNow Foundation</a>.</p></p>
 <h4 dir="ltr">Tell us about BlinkNow, and what inspired&nbsp;you to start it.</h4></p>

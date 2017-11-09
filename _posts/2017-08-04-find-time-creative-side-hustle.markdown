@@ -1,33 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9196
+title: The Secret to Finding Time for Your Creative Side Hustle
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9196
 date: '2017-08-04 04:00:55 -0700'
-date_gmt: '2017-08-04 11:00:55 -0700'
 categories:
 - Tension
-tags: []
-comments:
-- id: 4395
-  author: paige j
-  author_email: paigejoost@gmail.com
-  author_url: http://www.paigejoost.com
-  date: '2017-08-09 21:31:00 -0700'
-  date_gmt: '2017-08-10 04:31:00 -0700'
-  content: |-
-    this article hit so close to home! so inspiring....I love that you referenced the artists way.  I love that book--I've struggled with morning pages in the past, but I know they're so good for you, I need to get back into them.  Also, i love the idea of breaking the morning up into little chunks.  Sometimes the thought of "working out" or "morning pages" seems like such an overwhelming task for the morning, but when done in mini sessions it is so much more achievable!
-
-    www.paigesofnothing.blogspot.com
 ---
 <p><span style="font-weight: 400;">I love being a lawyer. That is not a typo. I really do. In my day-to-day work, I take care of the legal details for artists, entrepreneurs, and small businesses who are making our world more vibrant and interesting and good.</span> <span style="font-weight: 400;">The law practice I co-founded,&nbsp;</span><a href="https://wilkinsonmazzeo.com/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Wilkinson Mazzeo</span></a><span style="font-weight: 400;">, helps people go after that nagging ambition, that wild dream, that big idea that can change lives. It&rsquo;s exciting, tiring, and rewarding work - and I wouldn&rsquo;t give it up for anything.</span></p>
 <p><span style="font-weight: 400;">But the thing is, I&rsquo;m not just a lawyer. I&rsquo;m actually one of those very people I work with; I&rsquo;m an artist, a poet. Before my 9 to 5 begins, I spend the morning writing haikus and exploring the wonder of words - <em>every</em> morning.</span></p>

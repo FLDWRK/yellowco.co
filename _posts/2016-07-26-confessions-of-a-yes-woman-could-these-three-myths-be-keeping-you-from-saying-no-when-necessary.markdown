@@ -1,75 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'CONFESSIONS OF A YES WOMAN: COULD THESE THREE MYTHS BE KEEPING YOU FROM SAYING
-  "NO" WHEN NECESSARY?'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6226
+title: 'Confessions of a Yes Woman: Could These Three Myths Be Keeping You from Saying
+  "No" When Necessary?'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6226
 date: '2016-07-26 04:00:23 -0700'
-date_gmt: '2016-07-26 11:00:23 -0700'
 categories:
 - Advice
 - Inspiration
-- VALOR
-tags: []
-comments:
-- id: 4197
-  author: Britney Clark
-  author_email: britneyclark85@gmail.com
-  author_url: https://www.linkedin.com/in/britneyclark
-  date: '2016-07-26 08:58:00 -0700'
-  date_gmt: '2016-07-26 15:58:00 -0700'
-  content: Awesome post, Samantha! It definitely takes courage and practice to master
-    protecting your time. Your perspective reminds me of a statement Jeff Shinabarger,
-    Executive Director of Plywood People, made at the Yellow 2015 Conference. He said
-    "Yes or No defines who we become and what will we will be known for." So much
-    truth!
-- id: 4198
-  author: Samantha Chaffin
-  author_email: samchaffin92@gmail.com
-  author_url: http://herinklings.wordpress.com
-  date: '2016-07-26 10:47:00 -0700'
-  date_gmt: '2016-07-26 17:47:00 -0700'
-  content: Thanks so much, Britney! <3 And YES, totally. Ever since last conference,
-    I haven&#039;t been able to get Jeff Shinabarger&#039;s talk out of my head. So
-    much wisdom.
-- id: 4199
-  author: Lydia A.
-  author_email: lydiaalbano@msn.com
-  author_url: ''
-  date: '2016-07-26 11:11:00 -0700'
-  date_gmt: '2016-07-26 18:11:00 -0700'
-  content: |-
-    this is so good and JUST what I need in my life; lately I've been lapsing back into too many yesses and I know it's not healthy. thanks for he wisdom and encouragement and conviction. you write so perfectly about this. thank you!
-
-    ps someone told me recently, "you should be as enthusiastic about your yesses as your nos" and it has changed my life.
-- id: 4200
-  author: Samantha Chaffin
-  author_email: samchaffin92@gmail.com
-  author_url: http://herinklings.wordpress.com
-  date: '2016-07-26 12:02:00 -0700'
-  date_gmt: '2016-07-26 19:02:00 -0700'
-  content: Tooootally get this feeling. I'm still guilty of saying too many yeses,
-    so much so that the other day when I actually forced myself to say no to a thing
-    I was initially going to reactively accept, I immediately told all my friends
-    about it because I was so proud of myself. Life, man.
-- id: 4201
-  author: 'More confessions of a yes-woman: take a f***ing vacation &#8211; Her Inklings'
-  author_email: ''
-  author_url: https://herinklings.wordpress.com/2016/07/26/more-confessions-of-a-yes-woman-take-a-fing-vacation/
-  date: '2016-07-27 12:19:21 -0700'
-  date_gmt: '2016-07-27 19:19:21 -0700'
-  content: "[&#8230;] past week, a post I wrote for The Yellow Conference went live,
-    and I reread it for the first time since I wrote it back in&nbsp;May. It&#8217;s
-    about saying no and [&#8230;]"
+- Valor
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/07/BLOG-IMAGE.jpg"><img class="aligncenter size-full wp-image-6237" src="http://yellowconference.com/wp-content/uploads/2016/07/BLOG-IMAGE.jpg" alt="CONFESSIONS OF A "YES" WOMAN: COULD THESE THREE MYTHS BE KEEPING YOU FROM SAYING "NO"?" width="700" height="1410" /></a></h2></p>
 <h2><span style="font-weight: 400;">Hey, <em>yes-woman! </em></span></h2><br />

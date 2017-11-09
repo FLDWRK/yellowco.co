@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'HEADBANDS OF HOPE: MAKING AN IMPACT ONE CHILD AT A TIME (& A GIVEAWAY!)'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9514
+title: 'Headbands of Hope: Making an Impact One Child at a Time (& a Giveaway!)'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9514
 date: '2017-09-15 04:00:44 -0700'
-date_gmt: '2017-09-15 11:00:44 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><em>It is easy to sometimes feel helpless in the face of something out of our control - but we should never underestimate&nbsp;the impact that can be made even in a small action. Jess Ekstrom, founder of <a href="https://www.headbandsofhope.com/" target="_blank" rel="noopener noreferrer">Headbands of Hope</a>,&nbsp;shared her story with us of this reality.&nbsp;For every headband they sell, one is given to a girl with cancer. In honor of childhood cancer awareness month, we have also partnered with them on a GIVEAWAY! <a href="https://www.instagram.com/p/BZEHS-0hE5I/?taken-by=headbandsofhope" target="_blank" rel="noopener noreferrer">See how to enter here for a Headbands of Hope subscription box and 1 month free of a Yellow Collective membership!</a>&nbsp;</em></p>
 <hr />

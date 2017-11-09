@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO MAKE SPACE FOR CREATIVITY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7832
+title: How to Make Space for Creativity
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=7832
 date: '2017-02-03 04:00:08 -0800'
-date_gmt: '2017-02-03 12:00:08 -0800'
 categories:
 - Creative Ladies
 - The Solopreneur
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p><strong>You know those types of days&mdash;the ones when you&rsquo;re <i>sure</i> you can&rsquo;t do anything more than you have already done. Your feet hurt (leave the dishes) your eyes hurt (turn down the brightness on that computer screen!) and you&rsquo;ve exhausted everything in yourself and can&rsquo;t possibly move on! <em>Okay everyone, hold on a second. </em></strong></p>
 <p><span style="font-weight: 400;">Is where you are in your career and life&nbsp;<em>right now</em> where you want to be next year? Humans thrive on forward motion, so I will assume you&rsquo;re working to make next year&rsquo;s you an even better version of who you are now. &nbsp;My last post was about </span><a href="http://yellowco.co/creative-ladies/how-to-create-a-vision-plan-that-works-for-you/"><span style="font-weight: 400;">vision planning.</span></a><span style="font-weight: 400;"> &nbsp;The key to getting to the extracurriculars is to set aside time to get them done, and this post is going to tell you just how to do exactly that. &nbsp;<a href="http://yellowco.co/wp-content/uploads/2017/01/Yellow2016-184.jpg"><img class="alignnone size-full wp-image-7817" src="http://yellowco.co/wp-content/uploads/2017/01/Yellow2016-184.jpg" alt="yellow2016-184" width="2400" height="3600" /></a></span><span style="font-weight: 400;">The business extracurriculars are the essential ingredients to you and your business&rsquo; growth. </span><span style="font-weight: 400;">That thing you&rsquo;ve been meaning to get to is the thing that will propel you beyond where you are today. </span></p>

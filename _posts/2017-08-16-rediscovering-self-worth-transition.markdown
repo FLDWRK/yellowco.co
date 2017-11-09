@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: REDISCOVERING MY SELF WORTH IN THE MIDST OF TRANSITION
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9285
+title: Rediscovering My Self Worth in the Midst of Transition
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9285
 date: '2017-08-16 04:00:39 -0700'
-date_gmt: '2017-08-16 11:00:39 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>We spend a good amount of&nbsp;time on our search for self worth. Whether it&rsquo;s struggling to search for the right group to fit into during our crazy high school years, or the world-opening moment we graduate from college, our journey always resurfaces, whether we like it or not.</p>
 <p><span style="font-weight: 400;">Growing up in an Asian family, I was taught by my parents that my self worth was found in everything thing I did. Academics, work, chores, church - you name it! I grew up questioning my worth on an almost daily basis. The older I got, the more I became aware of myself as a person, and allowed my personal experiences to shape the person I am today. But because of how I was raised, my struggles with my self worth seep out from time to time.</span></p>

@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: GAME-CHANGING TIPS TO TRANSFORM HOW YOU VIEW CONSTRUCTIVE FEEDBACK
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9770
+title: Game-Changing Tips to Transform How You View Constructive Feedback
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9770
 date: '2017-10-18 04:00:02 -0700'
-date_gmt: '2017-10-18 11:00:02 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments: []
+- Come Together
 ---
 <p>How well we give and receive feedback can determine the depth we experience in relationships, the impact we build in our careers, how quickly we bounce back from failure, and how sharply we chisel our skill sets. Whether you&rsquo;re working independently or in a team, in Corporate America or looking to grow yourself personally, constructive feedback is the quickest way to hone your craft and reach the sights you&rsquo;ve set for yourself. The more you understand yourself, the more value you can add to other people, which is what coming together is all about!</p>
 <h3>Feedback goes both ways, and if we are vulnerable enough, often enough, we will find ourselves on both ends of the spectrum of giving and receiving.</h3><br />

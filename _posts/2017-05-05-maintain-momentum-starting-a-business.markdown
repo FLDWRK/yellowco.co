@@ -1,42 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO MAINTAIN MOMENTUM WHILE STARTING A BUSINESS
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8455
+title: How to Maintain Momentum While Starting a Business
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8455
 date: '2017-05-05 04:00:06 -0700'
-date_gmt: '2017-05-05 11:00:06 -0700'
 categories:
 - Wander
-tags:
-- day job
-- build your business
-- freelance
-- self employment
-- freelancer
-- entrepreneur
-- women
-- creative women
-- dream job
-- dream business
-- women entrepreneurs
-- finding your purpose
-- purpose
-- entrepreneurs
-- starting a business
-- do good
-- creative entrepreneurs
-- starting your own business
-- running a business
-comments: []
 ---
 <p><span style="font-weight: 400;">Some people in life will tell you that figuring out what you want to do is the hard part. Honestly, I can't completely agree. Once I realized that I wanted to create&nbsp;my own company&nbsp;as a Holistic Health and Wellness Coach, I found out&nbsp;that deciding how to move forward when starting a business can be just as challenging! If you&rsquo;ve recently discovered your passion, but aren&rsquo;t sure how to make the jump from vision to reality, join me here. I want to share with you what I've learned by navigating the wild and wonderful world of turning a daydream into a day job.</span></p>
 <p><b>Just take action.</b></p>

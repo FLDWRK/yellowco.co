@@ -1,44 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: FOUR WAYS I FIGHT FOR ROUTINE WHEN LIFE FEELS OUT OF CONTROL
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6471
+title: Four Ways I Fight for Routine When Life Feels out of Control
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6471
 date: '2016-08-14 04:00:57 -0700'
-date_gmt: '2016-08-14 11:00:57 -0700'
 categories:
 - Advice
 - The Leader
-- VALOR
-tags: []
-comments:
-- id: 4214
-  author: Michelle Houghton
-  author_email: houghtonme@gmail.com
-  author_url: http://www.michellehoughton.com
-  date: '2016-08-18 07:52:00 -0700'
-  date_gmt: '2016-08-18 14:52:00 -0700'
-  content: Sally! This is so good! Thank you for sharing your wisdom in an obviously
-    crazy time. I have found myself in much the same season in so many ways and have
-    been learning to apply these same lessons to my life. I needed to be reminded
-    of them this week though- so THANK YOU. Enjoy maternity leave and the opportunity
-    to focus on your growing family. From watching/knowing you from afar it sounds
-    like your doing-the-best-I-can is knocking it right out of the park. Best, Michelle
-- id: 4215
-  author: admin
-  author_email: joannanoelwaterfall@gmail.com
-  author_url: ''
-  date: '2016-08-21 19:01:58 -0700'
-  date_gmt: '2016-08-22 02:01:58 -0700'
-  content: Thank you so much Michelle!
+- Valor
 ---
 <h2><em><a href="http://yellowconference.com/wp-content/uploads/2016/08/ValerieDenisePhotos-5.jpg"><img class="aligncenter wp-image-6472 size-full" src="http://yellowconference.com/wp-content/uploads/2016/08/ValerieDenisePhotos-5.jpg" alt="FOUR WAYS I FIGHT FOR ROUTINE WHEN LIFE FEELS OUT OF CONTROL" width="700" height="467" /></a>I'm nine months pregnant, helping run a creative business (with some freelance on the side), have four kids ranging from 1 to 17 years old...and my husband just started a new job. Oh, and we moved last week.&nbsp;</em></h2><br />
 Working from home used to be a breeze. I would put my daughter in her little bouncy chair and talk to her while I edited posts and returned emails, would find time to clean the house and have dinner ready by the time that my husband got home. I had my perfect set up little office in our bedroom, and my husband and I would watch Grey's Anatomy before bed. We had a routine, and we liked it. Then, everything changed.</p>

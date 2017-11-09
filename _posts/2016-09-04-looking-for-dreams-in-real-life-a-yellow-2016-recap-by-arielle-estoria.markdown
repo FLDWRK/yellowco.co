@@ -1,47 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: LOOKING FOR DREAMS IN REAL LIFE  //  A YELLOW 2016 RECAP BY ARIELLE
-  ESTORIA
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6846
+title: Looking for Dreams in Real Life  //  A Yellow 2016 Recap by Arielle
+  Estoria
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6846
 date: '2016-09-04 15:47:50 -0700'
-date_gmt: '2016-09-04 22:47:50 -0700'
 categories:
 - "#bloomyellow"
 - Yellow 2016
-tags: []
-comments:
-- id: 4231
-  author: Cheryl Elizaga
-  author_email: clelizaga@gmail.com
-  author_url: http://twitter.com/CheElizaga
-  date: '2016-09-04 16:25:00 -0700'
-  date_gmt: '2016-09-04 23:25:00 -0700'
-  content: "So beautifully written, Arielle. Thank you for the quick summaries of
-    all the speakers and for injecting this piece with your vibrant soul. \n-@cata7yst"
-- id: 4232
-  author: Yellow Conference 2016 Recap |
-  author_email: ''
-  author_url: http://arielleestoria.com/blog/1890-2/
-  date: '2016-09-06 22:49:51 -0700'
-  date_gmt: '2016-09-07 05:49:51 -0700'
-  content: "[&#8230;] also posted on the Yellow Conference blog [&#8230;]"
-- id: 4233
-  author: Arielle Estoria Wilburn
-  author_email: estorialeda91@gmail.com
-  author_url: ''
-  date: '2016-09-06 22:53:00 -0700'
-  date_gmt: '2016-09-07 05:53:00 -0700'
-  content: thank you!
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/09/Yellow2016SpeakerDinner-11.jpg"><img class="aligncenter wp-image-6854" src="http://yellowconference.com/wp-content/uploads/2016/09/Yellow2016SpeakerDinner-11.jpg" alt="Yellow2016SpeakerDinner-1" width="700" height="1050" /></a></p>
 <p>Before I sat down to fully grasp all of my thoughts from these past few days, I first wanted to read through my recaps from last year. Now as I write this, there are tears blurring my eyes because of how transcendent and applicable the wonder from #yellow2015 was found in #yellow2016 too. Beauty and wonder that I hope that it will even still be true for #yellow2040 or something really far from now but still changing the hearts and shaping the minds of creative women for years to come.</p>

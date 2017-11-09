@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: A FAMILY OF SEVEN AND A THRIVING, SOCIALLY GOOD BUSINESS?! HOW THIS BRAND IS
-  KILLING IT IN AREAS THAT MATTERANNDDD...A GIVEAWAY!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7175
+title: A Family of Seven and a Thriving, Socially Good Business?! How this Brand is
+  Killing it in Areas that Matter ANNDDD...a Giveaway!
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7175
 date: '2016-10-31 04:00:17 -0700'
-date_gmt: '2016-10-31 11:00:17 -0700'
 categories:
 - Inspiration
 - The Activist
 - Encouragement
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/10/sandsun.jpeg"><img class="aligncenter size-full wp-image-7180" src="http://yellowconference.com/wp-content/uploads/2016/10/sandsun.jpeg" alt="sandsun" width="700" height="467" /></a><em>November is Adoption Awareness month, and we can't think of a better way to kick it off than with a post by our friends <a href="http://www.parkerclay.com/story/" target="_blank">Parker Clay.</a>&nbsp;Not only are they passionate about adoption, but Ian and Brittany&nbsp;are making a practical difference through their business, and in their homes. This family of seven is killing it in so many areas...read on for some inspiration as you jump into your Monday (and for an awesome giveaway, in case you're already in a Monday slump).&nbsp;</em></p>
 <h4><em>How did Parker Clay come about? What&rsquo;s the story?&nbsp;</em></h4><br />

@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 3 STEPS TO CREATE THE SPECIFIC SUPPORT NETWORK YOU NEED
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9784
+title: 3 Steps to Create the Specific Support Network You Need
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9784
 date: '2017-10-20 04:00:16 -0700'
-date_gmt: '2017-10-20 11:00:16 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments: []
+- Come Together
 ---
 <h3>One of the richest pieces of the human experience is watching individuals come together to console, comfort, advise, and champion one another.</h3><br />
 Both giving and receiving support from others&nbsp;creates&nbsp;an opportunity to be selfless, and to connect more deeply with the experiences of those around us. It broadens our horizons, and encourages growth on all fronts - so why aren&rsquo;t more of us taking advantage of this? As the CEO of <a href="http://thewellsupportedwoman.com/" target="_blank" rel="noopener noreferrer">The Well Supported Woman</a>, a life coaching and personal development hub for millennial women, this is a conversation that I have with my clients all the time.</p>

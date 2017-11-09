@@ -1,54 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WE HAVE THE SECRET TO YOUR PERFECT MORNING ROUTINE   (HINT: IT STARTS WITH
-  YOU)'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7090
+title: 'We Have the Secret to Your Perfect Morning Routine (Hint: it Starts with
+  You)'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7090
 date: '2016-10-21 04:00:00 -0700'
-date_gmt: '2016-10-21 11:00:00 -0700'
 categories:
 - Creative Ladies
 - Advice
-- HEART
-tags: []
-comments:
-- id: 4242
-  author: Marlena
-  author_email: marlenapearl@gmail.com
-  author_url: http://www.marlenapearl.com/
-  date: '2016-10-28 19:53:00 -0700'
-  date_gmt: '2016-10-29 02:53:00 -0700'
-  content: Great advice!  I totally know exactly the kind of morning routine you're
-    talking about that everyone shares.  It seems like the phrase "morning routine"
-    is becoming a buzz word on the internet these days.  I've been trying to write
-    3-5 things in my gratitude journal each day and do about 5mins of meditation,
-    but I definitely have plenty of days where I don't do either (like today).  I
-    like your idea of setting reminders and giving yourself 21 days to try something
-    out, so I'm definitely going to do that!  Thanks for all of the tips! :)
-- id: 4243
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-10-31 10:43:00 -0700'
-  date_gmt: '2016-10-31 17:43:00 -0700'
-  content: So true! Glad you liked the post Marlena!!
-- id: 4370
-  author: Momentum, doing better &amp; gratitude. May Link Fest | One Infinite Life
-  author_email: ''
-  author_url: https://oneinfinitelife.com/may-link-fest-2/
-  date: '2017-06-01 23:08:03 -0700'
-  date_gmt: '2017-06-02 06:08:03 -0700'
-  content: "[&#8230;] &nbsp;How to create a morning routine that works for you. Plus
-    here&#8217;s the REAL morning routines&nbsp;of 5 awesome [&#8230;]"
+- Heart
 ---
 <p>&nbsp;</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-6.jpg"><img class="aligncenter size-full wp-image-7091" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-6.jpg" alt="valeriedenisephotos-6" width="700" height="467" /></a><span style="font-weight: 400;">You've seen the articles. The ones promising you a perfect day if you only follow these 5 morning routines:</span></p>

@@ -1,78 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO LET GO OF YOUR LIFE PLAN AND CHOSE TO BE BRAVE INSTEAD
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7140
+title: How to Let Go of Your Life Plan and Chose to Be Brave Instead
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7140
 date: '2016-10-28 04:00:57 -0700'
-date_gmt: '2016-10-28 11:00:57 -0700'
 categories:
 - Creative Ladies
 - Advice
-- HEART
-tags: []
-comments:
-- id: 4246
-  author: Marlena
-  author_email: marlenapearl@gmail.com
-  author_url: http://www.marlenapearl.com/
-  date: '2016-10-28 19:47:00 -0700'
-  date_gmt: '2016-10-29 02:47:00 -0700'
-  content: So empowering! thank you for this, Natalia!
-- id: 4247
-  author: Courtney CJ
-  author_email: c.nxjohnson@gmail.com
-  author_url: http://www.thirty30courtney.com
-  date: '2016-11-04 10:37:00 -0700'
-  date_gmt: '2016-11-04 17:37:00 -0700'
-  content: This resonates with me SO much and I appreciate you sharing your testimony.
-    "Do you feel like you are called to follow a different kind of path than the one
-    that was set before you?" This is literally me and my family is worried but I
-    can't keep letting what I don't even love anymore define me. Will definitely be
-    sharing this.
-- id: 4248
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-11-06 17:49:00 -0800'
-  date_gmt: '2016-11-07 01:49:00 -0800'
-  content: You got this!! Proud of you for stepping out Court!! Sending all the love
-    your way! xoxo
-- id: 4249
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-11-06 17:49:00 -0800'
-  date_gmt: '2016-11-07 01:49:00 -0800'
-  content: Glad you liked it Marlena!
-- id: 4250
-  author: This Stuff Is Golden | 10 Websites For When You Need Some Inspiration
-  author_email: ''
-  author_url: https://thisstuffisgolden.com/10-websites-for-when-you-need-some-inspiration
-  date: '2016-11-07 02:51:16 -0800'
-  date_gmt: '2016-11-07 10:51:16 -0800'
-  content: "[&#8230;] A particular favourite post: How To Let Go Of Your Life Plan
-    And Chose To Be Brave Instead [&#8230;]"
-- id: 4332
-  author: shannon
-  author_email: shanoreilly@yahoo.com
-  author_url: ''
-  date: '2017-03-21 11:00:00 -0700'
-  date_gmt: '2017-03-21 18:00:00 -0700'
-  content: "This is amazing! I'm at a crossroads in my life. I don't have the freedom
-    to just jump into something new. I have a family to help pay for and high student
-    loans to pay off (for a career that wasn't what I thought it was). So I have to
-    make calculated risks and I'm ready to do this. I've been trying to figure stuff
-    out for a few months now and keep getting closer to that answer. \n\nThank you
-    for sharing some tips! "
+- Heart
 ---
 <h2><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos17of43.jpg"><img class="aligncenter size-full wp-image-7144" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos17of43.jpg" alt="valeriedenisephotos17of43" width="700" height="467" /></a></span><span style="font-weight: 400;">Have you ever sat down and mapped out your entire life only to have your entire life plan fail? </span></h2><br />
 <span style="font-weight: 400;">I know I have. And I&rsquo;m not talking about a fail that was minute, I am talking about a big, epic, life-plan fail. You see, I did everything I was told to do and was supposed to do. I got decent grades in school, graduated, and got into a private four year university. The day I graduated high school I thought I had my entire life planned out, and that I was right on track. </span></p>

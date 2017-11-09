@@ -1,35 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'OUR NEXT SERIES: HEART'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6985
+title: 'Our Next Series: Heart'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6985
 date: '2016-10-03 04:00:31 -0700'
-date_gmt: '2016-10-03 11:00:31 -0700'
 categories:
 - Creative Ladies
 - Inspiration
-- HEART
-tags: []
-comments:
-- id: 4238
-  author: Yellow Co. &#124; HOW TO CREATE A VISION PLAN THAT WORKS FOR YOU - Yellow
-    Co.
-  author_email: ''
-  author_url: http://yellowconference.com/2016/10/05/how-to-create-a-vision-plan-that-works-for-you/
-  date: '2016-10-05 04:01:30 -0700'
-  date_gmt: '2016-10-05 11:01:30 -0700'
-  content: "[&#8230;] I was approached to share my thoughts on the subject Heart,
-    I immediately thought about what gets in my way when trying to fulfill my heart&#8217;s
-    desire. I [&#8230;]"
+- Heart
 ---
 <h2></h2></p>
 <h2><strong><a href="http://yellowconference.com/wp-content/uploads/2016/09/ValerieDenisePhotos-27.jpg"><img class="aligncenter size-full wp-image-6995" src="http://yellowconference.com/wp-content/uploads/2016/09/ValerieDenisePhotos-27.jpg" alt="valeriedenisephotos-27" width="700" height="467" /></a><em>SOMETHING BROUGHT YOU TO THIS POINT:&nbsp;</em></strong></h2><br />

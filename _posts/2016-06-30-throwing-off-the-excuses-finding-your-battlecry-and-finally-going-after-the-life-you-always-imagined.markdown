@@ -1,36 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: IT'S TIME TO THROW OFF THE EXCUSES, FIND YOUR BATTLECRY, AND FINALLY GO AFTER
-  THE LIFE YOU ALWAYS IMAGINED
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5951
+title: It's Time to Throw Off the Excuses, Find Your Battlecry, and Finally Go After
+  the Life You Always Imagined
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5951
 date: '2016-06-30 04:00:01 -0700'
-date_gmt: '2016-06-30 11:00:01 -0700'
 categories:
 - Light Talk
 - Inspiration
 - Encouragement
-- GRIT
-tags: []
-comments:
-- id: 4140
-  author: Blend My Love
-  author_email: rebeca@blendmylove.com
-  author_url: http://blendmylove.com/
-  date: '2016-07-14 16:48:00 -0700'
-  date_gmt: '2016-07-14 23:48:00 -0700'
-  content: This is such an inspiring post.  Many times I let fear win over what I
-    already have victory.  Thanks for sparking up a flame in heart to dream and pursue
-    my heart's desire. - Rebeca
+- Grit
 ---
 <h2 class="p1"><span class="s1"><b><a href="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-89.jpg"><img class="aligncenter size-full wp-image-5955" src="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-89.jpg" alt="The Yellow Co. Blog: We All Need Our Anthem" width="700" height="1050" /></a>We all need our own anthem.</b></span></h2></p>
 <p class="p3"><span class="s1">We need a&nbsp;heartfelt, love letter to ourselves. We need words and hope and tear stained pages full of both loud and silent reminders that we are not useless, that we are not hopeless, that we are not broken. </span></p></p>

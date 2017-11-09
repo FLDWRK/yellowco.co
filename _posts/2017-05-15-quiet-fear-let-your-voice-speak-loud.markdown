@@ -1,47 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: QUIETING FEAR TO LET YOUR VOICE SPEAK LOUD
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8566
+title: Quieting Fear to Let Your Voice Speak Loud
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8566
 date: '2017-05-15 04:00:15 -0700'
-date_gmt: '2017-05-15 11:00:15 -0700'
 categories:
 - Wander
-tags:
-- build your business
-- self employment
-- entrepreneur
-- women
-- creative women
-- women entrepreneurs
-- finding your purpose
-- mission
-- purpose
-- entrepreneurs
-- do good
-- creative entrepreneurs
-- running a business
-- fear
-comments:
-- id: 4359
-  author: Mio
-  author_email: miorfrye@gmail.com
-  author_url: ''
-  date: '2017-05-15 15:13:00 -0700'
-  date_gmt: '2017-05-15 22:13:00 -0700'
-  content: 'This blog was so timely, encouraging, and empowering to me. How grateful
-    I am to Sybil for sharing her story and her truth. I''m bookmarking her words
-    and taking them with me on my journey as I''m entering a similar season of scary
-    but exciting possibilities! '
 ---
 <h3><strong>I can remember standing in the bathroom mirror and practicing my resignation speech over, and over again.</strong></h3><br />
 <span style="font-weight: 400;">I went through the words that would speak my heart and intent, but clarify my courage to leave for my next level. Every time I finished it, expecting to feel at peace, I felt a knot of fear in my stomach - and I would say&nbsp;it all over again. For months, I rehearsed telling some of my favorite people at a company I helped to build that I would be saying farewell for.... what? <em>For what?</em> That's where I was stuck. </span></p>

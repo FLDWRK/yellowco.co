@@ -1,39 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: SO, WHAT EXACTLY IS A WOMAN'S PLACE?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7633
+title: So, What Exactly is a Woman's Place?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7633
 date: '2017-01-18 04:00:52 -0800'
-date_gmt: '2017-01-18 12:00:52 -0800'
 categories:
 - Creative Ladies
 - Encouragement
-- PIONEER
-tags: []
-comments:
-- id: 4308
-  author: Bri Towne
-  author_email: hello@lifebybri.com
-  author_url: http://www.lifebybri.com/
-  date: '2017-01-19 12:28:00 -0800'
-  date_gmt: '2017-01-19 12:28:00 -0800'
-  content: Oooookay so this is amazing. I just want to send it to everyone I know!!
-- id: 4328
-  author: txyogaprincess
-  author_email: txyogaprincess@yahoo.com
-  author_url: ''
-  date: '2017-02-28 09:34:00 -0800'
-  date_gmt: '2017-02-28 17:34:00 -0800'
-  content: Completely inspiring and motivating!!! Wow!! Thank you?❤
+- Pioneer
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2017/01/Yellow2016-4941.jpg"><img class="aligncenter wp-image-7649" src="http://yellowconference.com/wp-content/uploads/2017/01/Yellow2016-4941.jpg" alt="Yellow Co. Blog: This is our year" width="700" height="1050" /></a><a href="https://yellowco.myshopify.com/collections/frontpage/products/yellow-2016-speaker-sessions" target="_blank">At the Yellow Conference 2016, I had the honor of sharing a poem to kick off day two,</a> accompanied by a team of extremely talented dancers. In that piece, I talked about how it was time that we as women take our place at the table&mdash;the brainstorming, dreaming, creating table seated with everyone else. &nbsp;I think that 2016 was the rise of the voices; the rise of powerful, earth shattering, not so soft anymore voices of women from all over the world and I was honored to be part of it.</span></p>
 <p><span style="font-weight: 400;">I grew up with a certain skillfulness in the art of talking&mdash;the ability to string words together in ways that I am still learning the power of. In the majority of my family videos, you can find me on scene with a plastic microphone in my hand, matching plastic shoes, standing on whatever the nearest elevated platform was near me. I made up songs, never ending dialogue, stories&mdash;you name it; the art of creating with words has been embedded in me for as long as I can remember. I grew up not fully knowing it was acceptable for me to me to be both woman and communicator. I grew up with the tension of being a person of faith, a </span><i><span style="font-weight: 400;">woman </span></i><span style="font-weight: 400;">AND a communicator. &nbsp;I watched my mother give her first sermon from leveled floor, rather than a stage, so that she was &ldquo;equal&rdquo; with everyone else while two weeks earlier a twelve year old boy gave his from the elevated pulpit with authority. I heard one too many times about where a woman should be, how and </span><i><span style="font-weight: 400;">if </span></i><span style="font-weight: 400;">a woman should lead, and&nbsp;with the friction of knowing that I was made for more than the boxes I was continuously being placed in.</span></p>

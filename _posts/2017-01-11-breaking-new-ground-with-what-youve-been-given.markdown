@@ -1,71 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: STARTING A MOVEMENT WITH THE TALENTS YOU'VE BEEN GIVEN
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7599
+title: Starting a Movement with the Talents You've Been Given
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7599
 date: '2017-01-11 04:00:22 -0800'
-date_gmt: '2017-01-11 12:00:22 -0800'
 categories:
 - Advice
-- PIONEER
-tags: []
-comments:
-- id: 4304
-  author: indielight
-  author_email: jennyknight@mac.com
-  author_url: http://www.indielightphotography.com
-  date: '2017-01-14 08:10:00 -0800'
-  date_gmt: '2017-01-14 16:10:00 -0800'
-  content: I love this. I'm loving the freedom that delegating and setting aside a
-    budget to bring on team members who can do amazing work I cannot do--and do not
-    want to do--is giving me. For me, there is a fear of loss of creative control,
-    but I'm finding that it's all working out. For the visual side of my work, I've
-    decided that my brand is that I have no particularly nitch other than delight.
-    I work with the things that delight me. One day it may be the brilliant, lightness  of
-    kids playing in snow, and in another moment the mysterious sense of fading leaves
-    in dying light. Totally different look and feel and equally as beautiful. Why
-    should I make my work look exactly the same as itself--and everyone else's? At
-    first, it made me feel like I wasn't serious because my grid didn't look like
-    many others--all the same filter, all the same cotton candy light, all the same
-    subject matter with very little variance. While it's pretty, it came to appear
-    too strict and narrow for my tastes. Is this all those artists see? All they care
-    to document? I wanted more, so I am creating more. While different, I am as serious
-    as they are, but I love how adaptable I am as an artist.
-- id: 4305
-  author: Eileen for OSW
-  author_email: oursacredwomen@gmail.com
-  author_url: ''
-  date: '2017-01-15 19:38:00 -0800'
-  date_gmt: '2017-01-16 03:38:00 -0800'
-  content: Oh Sally, what a wonderful post!!! I love the call for everyone to awaken
-    their innate, unique talents. So needed, especially now. And YES to mood boards!!!
-    It's such a great exercise in allowing our unconscious to communicate as well
-    :) Much love and light to you sister!
-- id: 4306
-  author: Blog Love
-  author_email: ''
-  author_url: http://xosarah.com/2017/01/15/blog-love-202/
-  date: '2017-01-15 21:54:15 -0800'
-  date_gmt: '2017-01-16 05:54:15 -0800'
-  content: "[&#8230;] Starting a movement with the talents you&#8217;ve been given
-    >>> [&#8230;]"
-- id: 4312
-  author: Raquel
-  author_email: adamantly_so@yahoo.com
-  author_url: ''
-  date: '2017-01-25 21:45:00 -0800'
-  date_gmt: '2017-01-25 21:45:00 -0800'
-  content: Amazing. This post everything I needed to hear (and still always need to
-    hear). Thank you Sally.
+- Pioneer
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2017/01/untitled-131-of-1234.jpg"><img class="aligncenter size-full wp-image-7605" src="http://yellowconference.com/wp-content/uploads/2017/01/untitled-131-of-1234.jpg" alt="untitled-131-of-1234" width="1050" height="700" /></a><em><strong>I've seen a trend.</strong></em></h2><br />
 Blogs are popping up everywhere. Businesses, non-profits, personal..everyone, everywhere is blogging right now. And there's some good to it, and, there's also some negative aspects to it.</p>

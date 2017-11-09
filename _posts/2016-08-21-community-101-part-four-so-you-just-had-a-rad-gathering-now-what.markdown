@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'COMMUNITY 101 PART FOUR:  SO YOU JUST HAD AN AMAZING GATHERING, NOW WHAT?'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6497
+title: 'Community 101 Part Four:  so You Just Had an Amazing Gathering, Now What?'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6497
 date: '2016-08-21 04:00:46 -0700'
-date_gmt: '2016-08-21 11:00:46 -0700'
 categories:
 - Advice
 - Community 101
 - Sunday Series
-tags: []
-comments: []
 ---
 <p><i><span style="font-weight: 400;">This is the fourth and final(!)&nbsp;post in a new Sunday series by our <a href="http://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&amp;id=e811fb1a74">Yellow Collective</a> project manager </span></i><a href="http://www.laurencaselli.com/" target="_blank"><i><span style="font-weight: 400;">Lauren Caselli</span></i></a><i><span style="font-weight: 400;"> about finding, creating, and growing a community of people who have your back. Whether it&rsquo;s online or in-person, free or paid, having a community of people who understand and support you can move you toward your goals faster than ever. To read the other posts in this series, </span></i><b><i><a href="http://yellowconference.com/category/community-101/" target="_blank">click here.</a>&nbsp;</i></b></p>
 <p><b><i><a href="http://yellowconference.com/wp-content/uploads/2016/08/YellowCollectivexHeritage-AndreaDavid871.jpg"><img class="aligncenter size-full wp-image-6666" src="http://yellowconference.com/wp-content/uploads/2016/08/YellowCollectivexHeritage-AndreaDavid871.jpg" alt="YellowCollectivexHeritage-AndreaDavid(87)" width="700" height="467" /></a></i></b><span style="font-weight: 400;">So far, when talking about community, we&rsquo;ve identified </span><span style="font-weight: 400;">how to <a href="http://yellowconference.com/2016/07/10/community-101-a-new-series-about-making-friends-as-an-adult/" target="_blank">figure out who are the awesome people you want in your life</a></span><span style="font-weight: 400;">,</span><span style="font-weight: 400;"> and then <a href="http://yellowconference.com/2016/07/24/community-101-part-two-inviting-brilliant-people-into-your-life/" target="_blank">we figured out </a></span><a href="http://yellowconference.com/2016/07/24/community-101-part-two-inviting-brilliant-people-into-your-life/" target="_blank"><span style="font-weight: 400;">how we actually <em>ASK</em> them to be in your life</span><span style="font-weight: 400;">.</span></a>&nbsp;Last week<span style="font-weight: 400;">, we talked about <a href="http://yellowconference.com/2016/08/07/6408/" target="_blank">how to host an amazing, inspirational gathering</a><i>.&nbsp;</i></span></p>

@@ -1,37 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 10 TERMS TO KNOW TO BECOME A CONSCIOUS CONSUMER
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9073
+title: 10 Terms to Know to Become a Conscious Consumer
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9073
 date: '2017-07-21 04:00:17 -0700'
-date_gmt: '2017-07-21 11:00:17 -0700'
 categories:
 - Tension
-tags:
-- do good
-- giving back
-- conscious consumer
-- fair trade
-- free trade
-- organic
-- non-gmo
-- ethical
-- sustainable
-- b corp
-- one for one
-- charitable
-- socially responsible
-- environmentally friendly
-comments: []
 ---
 <p>I&rsquo;ve been there. Head held high, walking into the grocery store with a purpose. With a pep in your step and a champion&rsquo;s smile, you head in to grab some ethical, fair trade, organic, do-good coffee. You&rsquo;re stepping your game up these days, one item at a time. You&rsquo;re a conscious consumer &ndash; a social citizen!</p>
 <p><span style="font-weight: 400;">So you grab your fair trade coffee and brew the heck out of it. Or you&rsquo;re probably so on it&nbsp;that you're making a&nbsp;pour over (that&rsquo;s what cool kids are doing these days). You sit down in front of your laptop to peruse the latest news, and&nbsp;read something about &ldquo;free trade&rdquo; and how it's actually better than fair trade&hellip; wait, what?! You wonder, <em>"What have I&nbsp;done? Am I perpetuating some terrible cycle and enabling illegal coffee rings in Ecuador?"</em></span></p>

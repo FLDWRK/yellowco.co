@@ -1,40 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'HUSTLE LESS, PLAY MORE: YOUR CREATIVITY WILL THANK YOU'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8598
+title: 'Hustle Less, Play More: Your Creativity Will Thank You'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8598
 date: '2017-05-19 04:00:20 -0700'
-date_gmt: '2017-05-19 11:00:20 -0700'
 categories:
 - Wander
-tags:
-- passion project
-- freelance
-- self employment
-- freelancer
-- entrepreneur
-- women
-- creative women
-- dream business
-- women entrepreneurs
-- entrepreneurs
-- creative entrepreneurs
-- creativity
-- creative
-- hustle
-- play
-- rest
-- alive
-comments: []
 ---
 <p><span style="font-weight: 400;">How often have you sacrificed rest, play, and relationships to get ahead in your creative endeavor? For me</span><span style="font-weight: 400;">, the answer is</span><i><span style="font-weight: 400;"> a lot.</span></i></p>
 <p><span style="font-weight: 400;">My first year in business, I hustled - <em>hard</em>. In some regards I enjoyed working four jobs, pulling 80 hour weeks, and living on pure adrenaline and caffeine. I prided myself in saying no to friend hangouts and girls nights, passing up weekend trips to see my family, and not having&nbsp;time for play. My business was growing, my head was down, my hands were working, my life was crammed to the max. But my heart longed for more. </span></p>

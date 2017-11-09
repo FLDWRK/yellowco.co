@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE STEPS TO MAKING 2017 YOUR PIONEER YEAR
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7625
+title: Three Steps to Making 2017 Your Pioneer Year
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7625
 date: '2017-01-16 04:00:09 -0800'
-date_gmt: '2017-01-16 12:00:09 -0800'
 categories:
 - Advice
 - Inspiration
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2017/01/PIONEER6.jpg"><img class="aligncenter wp-image-7628" src="http://yellowconference.com/wp-content/uploads/2017/01/PIONEER6.jpg" alt="The Yellow Co.: Pioneer" width="700" height="1050" /></a>We begin each year as explorers of new unchartered territory. No one has embarked on 2017 before now. The future is uncertain but we aim to press deeper than the year before, crafting resolutions and goals to guide us there. </span></p>
 <p>There is something refreshing about a new start. A new year. The change of one day can turn well worn rhythms into a fresh cadence. The way we step into 2017 can guide the nature of the months that follow.</p>

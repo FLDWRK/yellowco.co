@@ -1,39 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: CONFRONTING OUR INNER JUDGEMENT TO UNCOVER OUR BEST SELF
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8518
+title: Confronting Our Inner Judgement to Uncover Our Best Self
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8518
 date: '2017-05-08 04:00:20 -0700'
-date_gmt: '2017-05-08 11:00:20 -0700'
 categories:
 - Wander
-tags:
-- day job
-- freelance
-- self employment
-- freelancer
-- entrepreneur
-- women
-- creative women
-- dream job
-- women entrepreneurs
-- entrepreneurs
-- creative entrepreneurs
-- running a business
-- judgement
-- judgmental thoughts
-- judgmental
-- confrontation
-comments: []
 ---
 <p><span style="font-weight: 400;">Who am I, really? It&rsquo;s a question I&rsquo;ve put a lot of thought into over the past year. Every day, we are in the process of becoming ourselves. Each choice we make (about clothes, or business, or relationships, or food) is an unconscious decision about who we are not only on that day, but who we want to be in life as a whole. Deciding this is not a linear path, but a wandering one - full of detours. </span></p>
 <p><span style="font-weight: 400;">Like everyone else on the path to self discovery, my mind is regularly filled with discoveries and occasional judgements: about the virtue of the choices other people make, about values I accept or reject, and, most often, about myself.</span></p>

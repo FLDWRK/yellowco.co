@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY ALL FREELANCERS SHOULD JOIN A CO-WORKING SPACE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9733
+title: Why All Freelancers Should Join a Co-Working Space
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9733
 date: '2017-10-11 04:00:32 -0700'
-date_gmt: '2017-10-11 11:00:32 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments: []
+- Come Together
 ---
 <h3>There is a place where everybody knows my name.</h3><br />
 <span style="font-weight: 400;">The <em>Cheers</em>&nbsp;dream is real. There are overflowing draft beverages (consisting of kombucha and drip coffee), and an ergonomic chair beckoning me to sit that adjusts perfectly to my 5&rsquo;10&rdquo; frame. There are regulars, intriguing new people coming in and out, and the most incredible team&nbsp;running the place that know just what I like.&nbsp;Co-working, you&rsquo;re my muse.</span></p>

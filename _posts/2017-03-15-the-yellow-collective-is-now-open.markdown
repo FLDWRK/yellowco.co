@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE YELLOW COLLECTIVE IS NOW OPEN!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8206
+title: The Yellow Collective is now open!
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8206
 date: '2017-03-15 04:00:41 -0700'
-date_gmt: '2017-03-15 11:00:41 -0700'
 categories:
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p>Woooo!! Today is the day where you can officially become a Yellow Collective member! It's always a bit scary and stressful to pull off another launch of the Collective.&nbsp;We officially launched <a href="http://yellowcollective.com/" target="_blank">The Yellow Collective</a> at our 2016 conference in August, and&nbsp;we are constantly working on making it better and better, learning a ton along the way.</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/12/Yellow2016-213.jpg"><img class="aligncenter wp-image-7478" src="http://yellowconference.com/wp-content/uploads/2016/12/Yellow2016-213.jpg" alt="yellow2016-213" width="700" height="467" /></a></p>

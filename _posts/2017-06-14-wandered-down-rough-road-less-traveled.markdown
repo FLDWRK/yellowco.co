@@ -1,34 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY I WANDERED DOWN THE (ROUGH) ROAD LESS TRAVELED
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8769
+title: Why I Wandered Down the (Rough) Road Less Traveled
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8769
 date: '2017-06-14 04:00:37 -0700'
-date_gmt: '2017-06-14 11:00:37 -0700'
 categories:
 - Wander
-tags:
-- day job
-- entrepreneur
-- creative women
-- dream job
-- owning a business
-- women entrepreneurs
-- finding your purpose
-- purpose
-- creative entrepreneurs
-- calling
-- wander
-comments: []
 ---
 <p><span style="font-weight: 400;">My husband and I love long road trips. We so enjoy&nbsp;the changing scenery and the ample time to talk or just listen to podcasts. It&rsquo;s concentrated time together with a chance for adventure - our winning combination. We even took a road trip as our honeymoon. Driving from Arkansas to Seattle and back, we made a giant circle around the western half of the US. </span></p>
 <p><span style="font-weight: 400;">At the time we were so excited to have just gotten married, of course, but were also so tired and worn out from our jobs. We worked for a company that had taken so much breath out of us and left us in a depressed state. Where when we got home from our long, stressful days, we wanted to do nothing but space out in front of the TV. But as we pulled out of our driveway the morning after our wedding, the air became clearer.</span></p>

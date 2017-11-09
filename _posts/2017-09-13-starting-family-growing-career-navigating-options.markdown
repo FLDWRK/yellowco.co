@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'STARTING A FAMILY VS. GROWING YOUR CAREER: NAVIGATING THE OPTIONS'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9499
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9499
 date: '2017-09-13 04:00:18 -0700'
-date_gmt: '2017-09-13 11:00:18 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>This year, I officially crossed over into my 30s.&nbsp;<span style="font-weight: 400;">I chose to celebrate this occasion with my husband and the waves of the Pacific Ocean crashing into the rugged coastline of Big Sur. From the sheer cliffs that drop a thousand feet or more, to the sound of the waves thrashing at the granite below; the dichotomy of danger and beauty reflected the state of my inner world as I entered another decade of existence. </span></p>
 <p><span style="font-weight: 400;">I spent my 20s planning my life away in an Excel spreadsheet. I planned to get married at the age of 24, have kids by 28, and be coasting in my career at the age of 30. What I didn&rsquo;t plan for was a broken engagement, health issues, experiencing misalignment in my work, and choosing to pivot and become a student all over again. </span></p>

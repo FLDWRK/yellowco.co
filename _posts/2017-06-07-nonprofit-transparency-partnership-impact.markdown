@@ -1,28 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'NONPROFIT TRANSPARENCY: FINDING A PARTNERSHIP THAT MAKES REAL IMPACT'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8734
+title: 'Nonprofit Transparency: Finding a Partnership that Makes Real Impact'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8734
 date: '2017-06-07 04:00:15 -0700'
-date_gmt: '2017-06-07 11:00:15 -0700'
 categories:
 - Wander
-tags:
-- nonprofit
-- nonprofit partner
-- transparency
-- making impact
-- social entrepreneurs
-comments: []
 ---
 <p><span style="font-weight: 400;">There are more than 1.5 million nonprofit organizations registered in the U.S. That&rsquo;s right, 1.5 </span><i><span style="font-weight: 400;">million</span></i><span style="font-weight: 400;">. I&rsquo;ve worked with a small percentage of these organizations and some of them are truly amazing. They&rsquo;re doing the work that&rsquo;s changing the world. But, if we&rsquo;re being real here, some of them are not.</span></p>
 <p><span style="font-weight: 400;"><strong>This surely comes as no surprise, but some nonprofit organizations simply aren&rsquo;t doing a good job.</strong> For many, this is completely unintentional. For others, unfortunately, it&rsquo;s not. No matter the case, I know we all want our support to be making an impact that matters. If you're feeling lost of how to begin, use these four steps to help you navigate the nonprofit world and choose the best organizations to partner with.&nbsp;</span></p>

@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: STANDING YOUR GROUND WHEN THE WORLD FEELS LOUD
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7592
+title: Standing Your Ground When the World Feels Loud
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7592
 date: '2017-01-09 04:00:41 -0800'
-date_gmt: '2017-01-09 12:00:41 -0800'
 categories:
 - Advice
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <h2><i><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2017/01/k4.jpg"><img class="aligncenter wp-image-7593 size-full" src="http://yellowconference.com/wp-content/uploads/2017/01/k4.jpg" alt="The Yellow Co. Blog: How to take care of yourself and live out your passion" width="700" height="1050" /></a>Stillness is a great teacher when the society of noise becomes overpowering. </span></i><span style="font-weight: 400;">- A.J. Sherrill</span></h2><br />
 <span style="font-weight: 400;"><em><strong>Tis' the season</strong></em>. The holidays have come and gone and now we find ourselves in the new year, new goals, new body, "let's get going" lifestyle. Our list of to-dos become as long as the New Year's resolutions people are putting together. Now, don't get me wrong...Goals are good. Planning is good. Having a vision is necessary. But I want you to take a moment and ask yourself, how much are you letting the external affect the internal of your life? </span></p>

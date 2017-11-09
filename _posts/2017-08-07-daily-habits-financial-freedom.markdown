@@ -1,39 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: TURNING YOUR DAILY HABITS INTO FINANCIAL FREEDOM (AND ENJOYING IT)
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9229
+title: Turning Your Daily Habits into Financial Freedom (and Enjoying it)
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9229
 date: '2017-08-07 04:00:18 -0700'
-date_gmt: '2017-08-07 11:00:18 -0700'
 categories:
 - Tension
-tags: []
-comments:
-- id: 4393
-  author: Jessica Anzai
-  author_email: makapiapia0.0@gmail.com
-  author_url: ''
-  date: '2017-08-07 14:05:00 -0700'
-  date_gmt: '2017-08-07 21:05:00 -0700'
-  content: Love the fact that you set aside money to give away. I think I'm going
-    to start doing that too! Great article and thank you for sharing.
-- id: 4394
-  author: Emily Schrems
-  author_email: emilyschrems@gmail.com
-  author_url: ''
-  date: '2017-08-07 16:20:00 -0700'
-  date_gmt: '2017-08-07 23:20:00 -0700'
-  content: Awesome! It makes a huge difference in how you feel day to day! Thanks
-    for reading!
 ---
 <p><span style="font-weight: 400;">To be totally honest, financial management has not been my forte. My close confidants would say it&rsquo;s been about as graceful watching me get my finances together as watching a dog ice-skate for the first time. I have gone from an intern earning nothing, to marketing manager earning six-figures, to mixologist figuring out her life earning somewhere in the middle. And through all of those transitions I managed to save essentially</span><b> nothing</b><span style="font-weight: 400;">.</span></p>
 <h3><strong>I learned that it&rsquo;s not necessarily about how much money I make, but first and foremost how savvy I am with the daily habits that create long-term security and wealth.</strong></h3><br />

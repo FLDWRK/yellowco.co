@@ -1,69 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: YELLOW 2016 RECAP
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6821
+title: Yellow 2016 Recap
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6821
 date: '2016-09-01 04:00:35 -0700'
-date_gmt: '2016-09-01 11:00:35 -0700'
 categories:
 - Yellow 2016
-tags: []
-comments:
-- id: 4226
-  author: The One With August&#8217;s Little Things &#8211; The One Where I Move To
-    California
-  author_email: ''
-  author_url: http://theonewhereimovetocalifornia.com/the-one-with-augusts-little-things/
-  date: '2016-09-01 11:07:01 -0700'
-  date_gmt: '2016-09-01 18:07:01 -0700'
-  content: "[&#8230;] absolute best! Last week I was lucky enough to volunteer at
-    the incredible, amazing, life-improving Yellow Conference&nbsp;and y&#8217;all&#8230;
-    It was everything. Seriously it was so wonderful to be surrounded by 500+ [&#8230;]"
-- id: 4227
-  author: Britney L. Clark
-  author_email: britneyclark85@gmail.com
-  author_url: https://www.britneylclark.com
-  date: '2016-09-01 12:18:00 -0700'
-  date_gmt: '2016-09-01 19:18:00 -0700'
-  content: I was inspired by the instant sense of community at the conference. Everyone
-    was enthusiastic and eager to learn about other women, their passions, and their
-    businesses. The venue was filled with so much grace, art, and appreciation for
-    the moments we will carry with us for the rest of our lives. Everything was absolutely
-    wonderful! ?
-- id: 4228
-  author: Genevieve - Packing Lust
-  author_email: genevievewrites@gmail.com
-  author_url: http://www.packinglust.com/
-  date: '2016-09-07 14:22:00 -0700'
-  date_gmt: '2016-09-07 21:22:00 -0700'
-  content: It looks so amazing Joanna! I'm sad I missed it this year and really hope
-    to make the next one. The color and design alone create such a warm welcoming
-    space. I'm sure with the people there in that space it was incredible.
-- id: 4229
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-09-07 16:46:00 -0700'
-  date_gmt: '2016-09-07 23:46:00 -0700'
-  content: So glad you enjoyed it Britney!! Thanks for being such an important part
-    of our community!!
-- id: 4230
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-09-07 16:47:00 -0700'
-  date_gmt: '2016-09-07 23:47:00 -0700'
-  content: You'll def have to come to the next one!! It was awesome! xoxo, Joanna
-    :)
 ---
 <p>It came! It happened! It went! Our third annual Yellow Conference flew by &mdash; a whirlwind of honest talks from incredible speakers, the launch of The Yellow Collective, and a deeper realization that we all possess Grit, Valor and Heart in unique ways. It was seriously amazing, and just makes us more and more excited to see what's ahead in the years to come!</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/08/Yellow2016-430.jpg"><img class="aligncenter wp-image-6832" src="http://yellowconference.com/wp-content/uploads/2016/08/Yellow2016-430.jpg" alt="Yellow2016-430" width="700" height="467" /></a></p>

@@ -1,54 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: EXPERIENCING THE IMPACT OF CULTURE (WITHOUT A PASSPORT)
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8588
+
+title: Experiencing the Impact of Culture (Without a Passport)
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8588
 date: '2017-05-17 04:00:08 -0700'
-date_gmt: '2017-05-17 11:00:08 -0700'
 categories:
 - Wander
-tags:
-- passion project
-- freelance
-- freelancer
-- entrepreneur
-- women
-- creative women
-- women entrepreneurs
-- mission
-- entrepreneurs
-- do good
-- giving back
-- creative entrepreneurs
-- culture
-- diversity
-- traveling
-- perspective
-comments:
-- id: 4363
-  author: Britney L. Clark
-  author_email: britneyclark85@gmail.com
-  author_url: https://www.britneylclark.com
-  date: '2017-05-18 17:58:00 -0700'
-  date_gmt: '2017-05-19 00:58:00 -0700'
-  content: 'Such a great post! Thank you Rachael for encouraging us to always stay
-    curious and open to new experiences! '
-- id: 4373
-  author: Rachael Parker-Chavez
-  author_email: rachaelparker111@gmail.com
-  author_url: ''
-  date: '2017-06-07 13:54:00 -0700'
-  date_gmt: '2017-06-07 20:54:00 -0700'
-  content: Thanks Britney!! :)
 ---
 <p><span style="font-weight: 400;">I spent the summer after eighth grade in a bright orange vest, parking cars at the fairgrounds. It was August in Michigan and we had the humidity to prove it. At age 13, this was hardly the glamorous image I wanted my peers to witness, but I was determined to raise enough money to take my first mission trip out of the country. I did, I went, and I was never the same. </span><span style="font-weight: 400;"><br />
 </span><span style="font-weight: 400;"><br />

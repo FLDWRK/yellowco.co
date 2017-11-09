@@ -1,48 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'OUR NEXT SERIES: VALOR  +A FREE DOWNLOAD TO INSPIRE THE CREATIVE WARRIOR IN
-  YOU'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5983
+title: 'Our Next Series: Valor  + a Free Download to Inspire the Creative Warrior in
+  You'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5983
 date: '2016-07-05 04:00:40 -0700'
-date_gmt: '2016-07-05 11:00:40 -0700'
 categories:
 - Creative Ladies
 - Free Downloads
-- VALOR
-tags: []
-comments:
-- id: 4141
-  author: Line
-  author_email: thyboline@gmail.com
-  author_url: ''
-  date: '2016-07-13 13:22:00 -0700'
-  date_gmt: '2016-07-13 20:22:00 -0700'
-  content: "I just found Yellow a few days ago. &amp; I'm falling more and more in
-    love with this consept. you guys inspire &amp; challenge me. There is so much
-    good stuff here. I didn't even know things like this is exist. I'm on a beginning
-    journey of starting a blog that I dream of becoming a community, a place for the
-    heart, a beginning for many new adventures, friendships &amp; magic moments with
-    Jesus &amp; the people Ilove, will love &amp; hopefully inspire to be a better
-    self &amp; to have a deeper relationship with Jesus. \nThis post &amp; the upcoming
-    posts (can't wait) is so interesting! So much good stuff.. Actually things I'm
-    in the beginning fase of.. So I'm really excited about what I'm going to learn..
-    Where the Lord will take me on adventures, who I'm gonna meet &amp; share life
-    with &amp; where this goes in the world..\n(born danish, but my home is in Norway
-    &amp; currently on a 6 months-ish missionary-journey in Polen.. so who knows where
-    I'll end up!)\n\nThanks for sharing your heart! I'm defiantly gonna be reading
-    &amp; checking by here a lot. Already following your Instagram &amp; on your e-mail
-    list. Looking forward to joining your journey &amp; hopefully sometime in the
-    future being able to attend your conferences! :)"
+- Valor
 ---
 <div class="page" title="Page 1">
 <div class="section">

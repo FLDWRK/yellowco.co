@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'MEET THE NEWEST MEMBER OF OUR TEAM: HANNA SNYDER'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8184
+title: 'Meet the Newest Member of Our Team: Hanna Snyder'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8184
 date: '2017-03-13 04:00:21 -0700'
-date_gmt: '2017-03-13 11:00:21 -0700'
 categories:
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p>Hey ladies! <a href="https://www.instagram.com/joannawaterfall/" target="_blank">Joanna</a> here. Today, I'm super excited to introduce to you our newest team member and Editorial Director, Hanna Snyder. Hanna is from Arizona,&nbsp;rocks her natural blonde curls like no one else, has some killer style, and is the new face&nbsp;behind our blog, The Yellow Room.</p>
 <p>Hanna moved out to LA after high school to go to FIDM, not knowing a soul or having lived in an urban city before. She's since flourished into a well rounded writer and designer.</p>

@@ -1,31 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE KEY TO BUILDING A BUSINESS THAT LASTS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7156
+title: The Key to Building a Business that Lasts
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7156
 date: '2016-10-24 04:00:11 -0700'
-date_gmt: '2016-10-24 11:00:11 -0700'
 categories:
 - Advice
-- HEART
-tags: []
-comments:
-- id: 4251
-  author: 'Blog Love: The best of blogging + biz this week'
-  author_email: ''
-  author_url: http://xosarah.com/2016/10/30/blog-love-195/
-  date: '2016-10-30 05:00:55 -0700'
-  date_gmt: '2016-10-30 12:00:55 -0700'
-  content: "[&#8230;] The key to building a business that lasts >>> [&#8230;]"
+- Heart
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-47.jpg"><img class="aligncenter size-full wp-image-7158" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-47.jpg" alt="valeriedenisephotos-47" width="700" height="1050" /></a>There I was, a full time entrepreneur, struggling to balance work and life. No matter what I did, I was continuously feeling like I&rsquo;d never be able to balance the two without having to sacrifice one for the other. I began to realize that the elusive &ldquo;work and life balance&rdquo; didn&rsquo;t exist. It was exhausting and both my business and life suffered.&nbsp;</span><span style="font-weight: 400;">What I craved was a way of living and working in a symbiotic rhythm. </span></p>
 <p><span style="font-weight: 400;">Work and life integration became the most important part of maintaining sanity in the midst of everything that mattered the most to me. Today, it&rsquo;s through integration that I can continue to hustle with heart as best I can. </span>Here are some pointers on integrating your work and life:</p>

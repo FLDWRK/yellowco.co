@@ -1,43 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO STAND TALL IN THE BATTLEFIELD OF THE CREATIVE PROCESS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6690
+title: How to Stand Tall in the Battlefield of the Creative Process
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6690
 date: '2016-08-16 04:00:28 -0700'
-date_gmt: '2016-08-16 11:00:28 -0700'
 categories:
 - Inspiration
 - Encouragement
-- VALOR
-tags: []
-comments:
-- id: 4219
-  author: Melissa Dowler
-  author_email: melissa@longhaulfilms.com
-  author_url: ''
-  date: '2016-08-17 19:32:00 -0700'
-  date_gmt: '2016-08-18 02:32:00 -0700'
-  content: This was a great read, and really resonated with me. Especially the idea
-    of being honest, speaking the truth proactively even when it doesn't feel easy.
-    As a person who sometimes sacrifices truth for being polite, I'm working on this
-    one, and feel extra motivation now that I think about how critical this is to
-    the creative process.
-- id: 4220
-  author: Michelle Houghton
-  author_email: houghtonme@gmail.com
-  author_url: http://www.michellehoughton.com
-  date: '2016-08-18 08:00:00 -0700'
-  date_gmt: '2016-08-18 15:00:00 -0700'
-  content: Great post Ana!
+- Valor
 ---
 <h2><em><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/08/STAND-TALL-BLOG-IMAGE.jpg"><img class="aligncenter wp-image-6708 size-full" src="http://yellowconference.com/wp-content/uploads/2016/08/STAND-TALL-BLOG-IMAGE.jpg" alt="HOW TO STAND TALL IN THE BATTLEFIELD OF THE CREATIVE PROCESS" width="700" height="1050" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/08/MG_1911.jpg"><br />
 </a>I&rsquo;ve never been face-to-face with a lion...</span></em></h2><br />

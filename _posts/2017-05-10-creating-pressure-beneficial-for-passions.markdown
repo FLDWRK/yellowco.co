@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY CREATING PRESSURE IS ACTUALLY BENEFICIAL FOR YOUR PASSIONS
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8532
+title: Why Creating Pressure is Actually Beneficial for Your Passions
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8532
 date: '2017-05-10 04:00:30 -0700'
-date_gmt: '2017-05-10 11:00:30 -0700'
 categories:
 - Wander
-tags: []
-comments: []
 ---
 <p>I sat down a few weeks ago with a dusty cowboy. Literally, covered in dust from training mustangs all day. He started a non-profit that helps rehabilitate veterans through teaching them to work with wild horses. The entire meeting was so inspiring, learning how&nbsp;their cause was all about a hand up, not a hand <em>out</em> (praise hands emoji!). What struck me most out of all the thoughtful insight he had was when he said, &ldquo;<em>People and nature are similar in that they both will only change because of two things: pressure and time.</em>&rdquo;</p>
 <p>This particular line&nbsp;struck a chord with me because it put words to something I've experienced often. When you&rsquo;re longing&nbsp;to take that leap of faith into a fresh adventure, doing so can feel terrifying. But with some added pressure, we tend to jump harder, faster. And, after a bit of&nbsp;time, we can actually start to see our desired change.</p>

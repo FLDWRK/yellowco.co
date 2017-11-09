@@ -1,46 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE FIVE LIFE LESSONS I LEARNED AS A SEXUAL ASSAULT COUNSELOR
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7704
+title: The Five Life Lessons I Learned as a Sexual Assault Counselor
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=7704
 date: '2017-01-22 04:00:19 -0800'
-date_gmt: '2017-01-22 04:00:19 -0800'
 categories:
 - The Activist
 - The Leader
-- PIONEER
-tags: []
-comments:
-- id: 4310
-  author: Samantha Sophia
-  author_email: ssrigby@gmail.com
-  author_url: http://www.twitter.com/raisingchild
-  date: '2017-01-23 19:58:00 -0800'
-  date_gmt: '2017-01-23 19:58:00 -0800'
-  content: "Super important to teach our sons and daughters about consent. To have
-    higher expectations from the boys and men in our lives as allies. \n\nI have done
-    some work with women rescued from sex trafficking and it is painful to learn the
-    abuses they've suffered. To become aware of that they don't know their true worth.
-    I'm hoping and praying for more widespread change."
-- id: 4311
-  author: Meg Long
-  author_email: megmarylong@gmail.com
-  author_url: http://www.meglongcreative.com
-  date: '2017-01-23 21:52:00 -0800'
-  date_gmt: '2017-01-23 21:52:00 -0800'
-  content: This is SO good! I wasn't educated about consent until *after* I was assaulted
-    in college and it took a counselor a year later to help me understand that it
-    wasn't my fault. Talking with other women is so vital, and it's amazing that you're
-    helping to bear burden with the victims, AND educating your boys. Amen sister!!!
+- Pioneer
 ---
 <p>The call could come in at any time really. Day, night, while I'm making dinner or brushing me teeth. Sometimes, I would get the call at 8am, other times at 4am. Still, others, in the afternoon. The calls came and were swift and I'd throw on my shoes and drive to the hospital. I'd walk through a private entrance, just for me and the women, men, or children I'd be meeting. I'd enter my code and go through the door, quickly say hi to the nurses, then gave everything I had, all my focus, attention, and energy, to the person I'd be sitting with through the most vulnerable experience of their life.</p>
 <p>I had just gotten engaged to my (now) husband. He knew I had always wanted to <a href="https://www.cspinc.org/">get certified to be a victim advocate</a> through the state. He championed me as I went to hundreds of hours of classes. Some difficult to sit through, not for lack of entertainment but rather the sheer horrific reality of the issue of sexual assault.</p>

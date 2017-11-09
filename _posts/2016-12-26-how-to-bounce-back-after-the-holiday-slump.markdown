@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO BOUNCE BACK AFTER THE HOLIDAY SLUMP
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7527
+title: How to Bounce Back After the Holiday Slump
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7527
 date: '2016-12-26 04:00:45 -0800'
-date_gmt: '2016-12-26 12:00:45 -0800'
 categories:
 - Advice
 - Team Members
 - The Solopreneur
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos53of64.jpg"><img class="aligncenter wp-image-7532" src="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos53of64.jpg" alt="valeriedenisephotos53of64" width="700" height="467" /></a>The presents are unwrapped, the tree is wilting, and you may (or may not) be putting your Holiday playlist to rest. The Holidays are over and it's time to pack and gear up for what 2017 brings, right?</p>
 <p>Woah woah woah...not so fast. The New Year is an exciting time; it's an invitation into something fresh and lively. New goals, new dreams to achieve, spring cleaning, back to the hustle...</p>

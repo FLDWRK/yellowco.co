@@ -1,28 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY BEAUTY IS FOUND IN HEALTHY LIVING
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8342
+title: Why Beauty is Found in Healthy Living
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8342
 date: '2017-04-10 04:00:47 -0700'
-date_gmt: '2017-04-10 11:00:47 -0700'
 categories:
 - Wander
-tags:
-- healthy living
-- beauty products
-- healthy beauty
-- Beauty Heroes
-- cosmetics
-comments: []
 ---
 <p>Do you remember when you first discovered the ugly side of beauty? I do, and it changed my life forever. It was early 2002,&nbsp;and I was the Spa Director at a luxury spa in downtown San Francisco, before the city - and the world - went tech. There was no social media. Googling wasn&rsquo;t a thing. And ingredient transparency wasn&rsquo;t in the collective conscience the way it is today. If you cared enough to look for it, you might have found little dribbles of information about parabens being bad for you, but conclusive research was sparse and evidence was dubious, leading brand founders, chemists, and other spa directors to various conclusions.</p>
 <p><span style="font-weight: 400;">I was one of few who did care enough to look, and I eventually determined that parabens had a reasonable chance of being a legitimate hormone disruptor,&nbsp;posing a threat to myself, our team of therapists, and our guests. I made the decision to pull all paraben-containing products from our spa, leaving only a handful of pioneering, clean beauty brands to choose from. &nbsp;</span></p>

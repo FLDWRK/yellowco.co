@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 12 RESOURCES ON INTUITIVE EATING + HAVING A HEALTHY RELATIONSHIP WITH YOUR
-  BODY
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9814
+title: 12 Resources in Intuitive Eating + Having a Healthy Relationship with Your
+  Body
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9814
 date: '2017-10-23 04:00:41 -0700'
-date_gmt: '2017-10-23 11:00:41 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments: []
+- Come Together
 ---
 <p><span style="font-weight: 400;">We are embodied beings. This means that we take on physical form. While we are not only the&nbsp;form that is our body, we are also not only a soul - we are both. Why does this matter? </span><span style="font-weight: 400;">How we interact with the world and connect with others occurs in the context of embodiment. </span></p>
 <p><span style="font-weight: 400;">Our relationship with our bodies; how we think and feel about them, ultimately creates how we talk about and treat them. </span><span style="font-weight: 400;">These actions and words do not occur in a vacuum, they absolutely influence how you show up in the world, and how you are able to contribute to your community. Bodies do not look the same. </span></p>

@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE WAYS TO TAKE CARE OF THE WOMAN OF ACTION  (HEY...THAT'S YOU!)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7070
+title: Three Ways to Take Care of the Woman of Action (Hey...that's You!)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7070
 date: '2016-10-12 04:00:17 -0700'
-date_gmt: '2016-10-12 11:00:17 -0700'
 categories:
 - Light Talk
 - The Activist
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <h2><strong><a href="http://yellowconference.com/wp-content/uploads/2016/10/MG_1915.jpg"><img class="aligncenter size-full wp-image-7073" src="http://yellowconference.com/wp-content/uploads/2016/10/MG_1915.jpg" alt="_mg_1915" width="700" height="1050" /></a>This is for the women of action, the dreamers, the go-getters, and the movers and shakers who forget to <i>slow down.</i></strong></h2><br />
 It's 7:00 A.M...Your alarm is ringing off the hook. Squinty eyed and annoyed, you fumble for your phone to swipe the loud buzzing noise away as you slowly sink back into your mattress. You bury yourself under the comfy and warm covers, refusing to go out into the world -- you're burnt out and too tired and just aren't ready. You doze back to sleep, and after twenty minutes pass by, you drowsily check your phone, panic and hop out of bed, realizing you have ten minutes to make your 8:30 A.M. meeting.</p>

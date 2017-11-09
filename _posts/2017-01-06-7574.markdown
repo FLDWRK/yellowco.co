@@ -1,58 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY I STOPPED TELLING MYSELF THAT I CAN'T DO IT ALL (AND WHY YOU SHOULD TOO)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7574
+title: Why I Stopped Telling Myself that I Can't Do it All (and Why You Should Too)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7574
 date: '2017-01-06 04:00:38 -0800'
-date_gmt: '2017-01-06 12:00:38 -0800'
 categories:
 - Encouragement
 - The Leader
-- PIONEER
-tags: []
-comments:
-- id: 4300
-  author: Rhonda LaBatt
-  author_email: rrlabatt@cox.net
-  author_url: https://redemption-market.myshopify.com/collections/all
-  date: '2017-01-06 11:26:00 -0800'
-  date_gmt: '2017-01-06 19:26:00 -0800'
-  content: Thank you so much for the inspiration!
-- id: 4301
-  author: Haleigh
-  author_email: haleighgirladventures@gmail.com
-  author_url: http://haleighgirladventures.blogspot.com
-  date: '2017-01-06 12:23:00 -0800'
-  date_gmt: '2017-01-06 20:23:00 -0800'
-  content: "While I don't fit into your categories, I see myself in the struggles.
-    I was (and am) looking for a mentor that's a woman, in business, and spiritual.
-    It's way harder than I thought it would be! \nYour tips are right on track. The
-    biggest and best thing I've done is to put myself out there and just. email. the.
-    person. Now, for the follow through..."
-- id: 4302
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2017-01-06 12:53:00 -0800'
-  date_gmt: '2017-01-06 20:53:00 -0800'
-  content: It can be super hard, you're totally right! Emailing and reaching out is
-    a great way to meet people you look up to. Thanks for reading Haleigh!
-- id: 4303
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2017-01-06 12:53:00 -0800'
-  date_gmt: '2017-01-06 20:53:00 -0800'
-  content: Bailey is great :)
+- Pioneer
 ---
 <h2><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2017/01/ValerieDenisePhotos-54.jpg"><img class="aligncenter wp-image-7580" src="http://yellowconference.com/wp-content/uploads/2017/01/ValerieDenisePhotos-54.jpg" alt="valeriedenisephotos-54" width="700" height="467" /></a><em>In starting a business, one of my saddest struggles has been yearning for a role model and a mentor that embodies the type of person I want to be: a mother, an entrepreneur, a wife, and spiritual. </em></span></h2><br />
 <span style="font-weight: 400;">I want all components of that to be folded in together, and damn...it&rsquo;s hard. Logically, I look to find other women I can follow and turn to for guidance, but sadly there are few ladies waiting in the wings to encourage and choreograph this dance I&rsquo;ve decided to perform. </span></p>

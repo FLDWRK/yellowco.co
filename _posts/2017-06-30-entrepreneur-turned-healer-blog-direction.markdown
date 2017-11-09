@@ -1,28 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'ENTREPRENEUR TURNED HEALER: HOW STARTING A BLOG SHIFTED MY DIRECTION'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8876
+title: 'Entrepreneur Turned Healer: How Starting a Blog Shifted My Direction'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8876
 date: '2017-06-30 04:00:37 -0700'
-date_gmt: '2017-06-30 11:00:37 -0700'
 categories:
 - Wander
-tags:
-- entrepreneur
-- healing
-- blog
-- starting a blog
-- direction
-comments: []
 ---
 <p><span style="font-weight: 400;">I was born bold, as many children in the eighties were. We believed we could do anything, and rightly so. As a tween I struggled to decide between becoming a Broadway Star (hear me roar!) or a Defense Attorney (I was </span><i><span style="font-weight: 400;">really</span></i><span style="font-weight: 400;"> good at arguing my point).</span></p>
 <p><span style="font-weight: 400;">I ended up an entrepreneur turned healer.</span></p>

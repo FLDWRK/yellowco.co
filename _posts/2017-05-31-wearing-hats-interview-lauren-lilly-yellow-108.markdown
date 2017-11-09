@@ -1,31 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8638
+title: 'Wearing All the Hats: Our Interview with Lauren Lilly, Founder of Yellow 108'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8638
 date: '2017-05-31 04:00:29 -0700'
-date_gmt: '2017-05-31 11:00:29 -0700'
 categories:
 - Wander
-tags:
-- running a business
-- yellow
-- yellow 108
-- lauren lilly
-- howl adventures
-- howl
-- balance
-- interview
-comments: []
 ---
 <p><em>One of our biggest joys at Yellow Co. is getting to know women, and brands, who are creating change for good in their very own, creative way. Of course, we're even more drawn to those that share our name (and a love for a certain bright color). So naturally, we chatted with Lauren Lilly, founder of <a href="https://www.yellow108.com/" target="_blank" rel="noopener noreferrer">Yellow 108</a>, to get her take on literally wearing many hats, creating sustainable products, and enjoying the ride of entrepreneurship.</em></p>
 <h3>Like many of our readers, you left a&nbsp;corporate job in pursuit of your own dream. Tell us about this transition, and how it brought you to founding <a href="https://www.yellow108.com/" target="_blank" rel="noopener noreferrer">Yellow 108</a>.</h3><br />

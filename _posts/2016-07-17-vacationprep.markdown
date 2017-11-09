@@ -1,51 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: FIVE WAYS I SET MYSELF UP FOR VACATION SUCCESS AS A FREELANCER
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6126
+title: Five Ways I Set Myself Up for Vacation Success as a Freelancer
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6126
 date: '2016-07-17 04:00:45 -0700'
-date_gmt: '2016-07-17 11:00:45 -0700'
 categories:
 - Advice
 - The Solopreneur
-tags: []
-comments:
-- id: 4158
-  author: 'Blog Love: The best of blogging + biz this week'
-  author_email: ''
-  author_url: http://xosarah.com/2016/07/17/blog-love-184/
-  date: '2016-07-17 14:26:38 -0700'
-  date_gmt: '2016-07-17 21:26:38 -0700'
-  content: "[&#8230;] Set yourself up for vacation success as a freelancer >>> [&#8230;]"
-- id: 4159
-  author: Kayla Illies
-  author_email: photographybykay@hotmail.com
-  author_url: ''
-  date: '2016-07-18 07:06:00 -0700'
-  date_gmt: '2016-07-18 14:06:00 -0700'
-  content: 'Great read! Thank you SO much for sharing! My family is doing a family
-    vacation in Colorado soon so I''m trying to prepare for it now and work ahead
-    so I can try to avoid the late nights! '
-- id: 4160
-  author: Lindsay | White Oak Creative
-  author_email: lindsay@whiteoakcreative.com
-  author_url: https://whiteoakcreative.com/
-  date: '2016-07-18 08:45:00 -0700'
-  date_gmt: '2016-07-18 15:45:00 -0700'
-  content: Great tips! I struggled to take a successfully take a vacation for so long.
-    Then, this year, I decided to block out weeks where I would take vacations, and
-    I set concrete client schedules so that no work would occur during that time.
-    It's been a huge life saver, and I was finally able to take a relaxing-no work
-    vacation.
 ---
 <h2><em><a href="http://yellowconference.com/wp-content/uploads/2016/07/k20.jpg"><img class="aligncenter wp-image-6128 size-full" src="http://yellowconference.com/wp-content/uploads/2016/07/k20.jpg" alt="The Yellow Co. Blog: Spread good and bloom" width="700" height="1050" /></a>Okay Freelancers/Odd Jobbers/Strange&nbsp;Hour-type of workers...this one's for you...</em></h2><br />
 When not working for Yellow Co., I have a few side freelance projects-my husband is also a full time worship pastor-so, combined, our work schedules are "non-traditional," to say the least. Freelancing gives me the flexibility to do my work out of office on odd days and hours, and my husband's job requires that we seek out rest and recuperation on days other than Saturday and Sunday.</p>

@@ -1,38 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE IMPACT OF PLANNING A PERSONAL RETREAT
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8351
+title: The Impact of Planning a Personal Retreat
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8351
 date: '2017-04-12 04:00:13 -0700'
-date_gmt: '2017-04-12 11:00:13 -0700'
 categories:
 - Wander
-tags:
-- passion project
-- time management
-- freelance
-- self employment
-- freelancer
-- entrepreneur
-- women
-- creative women
-- owning a business
-- personal retreat
-- retreat
-- alone time
-- business planning
-- women entrepreneurs
-- intentionality
-comments: []
 ---
 <p>Anxiety was growing. Stress was building. My head was swimming. And I had more questions than answers.&nbsp;<span style="font-weight: 400;">This was December 2015 for me.</span></p>
 <p><strong>I was stressed out, maxed out, and quickly reaching burn out. </strong><span style="font-weight: 400;">Just the way you want to enter into the &ldquo;most wonderful time of the year&rdquo;, right?&nbsp;</span><span style="font-weight: 400;">On the outside, life was good - but internally, I was completely overwhelmed. It wasn't until one&nbsp;morning breakfast with my mentor that it&nbsp;all finally came&nbsp;to the surface. She said, &ldquo;So, let&rsquo;s reflect on the year. How do you think it went?&rdquo;</span></p>

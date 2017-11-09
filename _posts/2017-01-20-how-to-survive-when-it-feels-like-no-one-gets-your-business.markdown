@@ -1,45 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO SURVIVE WHEN IT FEELS LIKE NO ONE "GETS" WHAT YOU DO
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7653
+title: How to Survive When it Feels Like No One "Gets" What You Do
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7653
 date: '2017-01-20 04:00:39 -0800'
-date_gmt: '2017-01-20 12:00:39 -0800'
 categories:
 - Advice
 - The Leader
-- PIONEER
-tags: []
-comments:
-- id: 4309
-  author: Janine Lombardi
-  author_email: janinemcdonald@live.com
-  author_url: ''
-  date: '2017-01-21 02:46:00 -0800'
-  date_gmt: '2017-01-21 02:46:00 -0800'
-  content: Great advice Bailey. Keeping shining your light and helping others shine
-    theirs. I am nine years into my journey as an solopreneuer helping people live
-    better so they can lead better. I have utilized many of the practices you shared
-    - and they work. Tenacity and perseverance helped get me here, and so did my wonderful
-    clients, colleagues, friends and family. Ever gratitude and ready to pay it forward.
-- id: 4358
-  author: Sunday Sampling / 059 - Heroine Training
-  author_email: ''
-  author_url: http://www.heroinetraining.com/sunday-sampling-059/
-  date: '2017-05-07 01:00:38 -0700'
-  date_gmt: '2017-05-07 08:00:38 -0700'
-  content: "[&#8230;] ? High fives and hugs to my fellow unusual entrepreneurs, especially
-    when met with that &#8216;what do you do?&#8217; question. Here&#8217;s how to
-    survive when it feels like no one &#8216;gets&#8217; what you do. [&#8230;]"
+- Pioneer
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2017/01/Yellow_2015_Dinner-98.jpg"><img class="aligncenter size-full wp-image-7654" src="http://yellowconference.com/wp-content/uploads/2017/01/Yellow_2015_Dinner-98.jpg" alt="The Yellow Co.: What to do when no one "gets" your business" width="1024" height="1536" /></a></span><span style="font-weight: 400;">When I started my company, <a href="http://www.abelimpact.com/" target="_blank">Abel Impact,</a> it was because I couldn&rsquo;t find a job doing what I wanted to do. I wanted to match businesses up with quality charitable organizations so that we could maximize the good being done. I felt like most businesses didn&rsquo;t know how to interface with charity (I was right), or didn&rsquo;t have the time to do it well (I was also right), so instead they had very passive interactions. Turns out this is how most people are too. </span></p>
 <p>The reason I couldn&rsquo;t find a job matchmaking charity and business is because no one was really doing it. Corporate Social Responsibility (CSR) is the technical term, and while some very big companies do in fact have someone on staff doing this, the mid-sized and small businesses do not. Why, you ask? Because it is too expensive to dedicate one person to it and it&rsquo;s very time consuming.</p>

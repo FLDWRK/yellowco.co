@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW BUILDING YOUR EMAIL LIST CAN HELP YOU DO LESS AND IMPACT MORE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7060
+title: How Building Your Email List Can Help You Do Less and Impact More
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7060
 date: '2016-10-10 04:00:49 -0700'
-date_gmt: '2016-10-10 11:00:49 -0700'
 categories:
 - Advice
 - The Solopreneur
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <h2><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-17.jpg"><img class="aligncenter size-full wp-image-7062" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-17.jpg" alt="valeriedenisephotos-17" width="700" height="1050" /></a><strong>It might shock you when you hear other bloggers talking about growing their email list. Why worry about emailing people when there are endless Instagram feeds to fill and Twitter chats to attend? </strong></span></h2><br />
 <span style="font-weight: 400;">Would it make more sense if I told you that those smart bloggers know that email is </span><b>40 times</b><span style="font-weight: 400;"> more effective at getting them new customers than social media? Probably. </span></p>

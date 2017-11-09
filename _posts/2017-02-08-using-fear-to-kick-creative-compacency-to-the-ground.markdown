@@ -1,44 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: USING FEAR TO KICK COMPLACENCY TO THE CURB
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7854
+title: Using Fear to Kick Complacency to the Curb
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=7854
 date: '2017-02-08 04:00:23 -0800'
-date_gmt: '2017-02-08 12:00:23 -0800'
 categories:
 - The Starter
 - Encouragement
-- PIONEER
-tags: []
-comments:
-- id: 4318
-  author: Ch&eacute; Elizaga
-  author_email: che.lynne@yahoo.com
-  author_url: ''
-  date: '2017-02-08 12:32:00 -0800'
-  date_gmt: '2017-02-08 20:32:00 -0800'
-  content: Great post Kiana. Thank you for sharing your struggles at work with such
-    transparency, though I'm sure you're soaring now! Perhaps as a follow-up piece
-    you can tell us how you began to get in a groove and excel at a place where you
-    once felt intimidated? Or you can just post it on here ;) Thanks again for sharing!
-- id: 4319
-  author: Kiana St Louis
-  author_email: kstlouis@oswego.edu
-  author_url: ''
-  date: '2017-02-08 19:00:00 -0800'
-  date_gmt: '2017-02-09 03:00:00 -0800'
-  content: Thank you so much Ch&eacute;! I was nervous to submit this but so happy
-    I did after reading your kind words. Be on the look out, I'll be sure to write
-    that follow up piece :)
+- Pioneer
 ---
 <h3><strong>I&rsquo;ve learned a great deal in 2016, but the greatest lesson of all, the one I will cherish, teach, and allow to be the mascot for 2017 is this: <i>Complacency is unacceptable.</i></strong></h3><br />
 <span style="font-weight: 400;">We all know what this means in our work, creative, and personal lives. To be complacent is to </span><span style="font-weight: 400;">be smug or show uncritical satisfaction with oneself or one's achievements. To be complacent is to have settled; to catch the curveballs life has thrown at you and hold onto them rather than throw them back.</span></p>

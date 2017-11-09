@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: GETTING OUR HANDS DIRTY IN A CULTURE OF COMFORT + A FREE GIFT
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 7862
+title: Getting Our Hands Dirty in a Culture of Comfort + a Free Gift
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=7862
 date: '2017-02-15 04:00:27 -0800'
-date_gmt: '2017-02-15 12:00:27 -0800'
 categories:
 - Creative Ladies
 - The Starter
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p><span style="font-weight: 400;">I was raised on a little ranch in Northern California. At the time I had no idea how lucky I was to be there, and couldn&rsquo;t wait to leave once I turned 18. Back then, I craved a faster pace and big city lights. After going to college in Southern California, and now living in Orange County, I am surrounded by a completely different culture than I was raised in. I find myself around people who don&rsquo;t share my same values and concerns, and haven&rsquo;t experienced the power of a simple life.<br />
 </span></p>

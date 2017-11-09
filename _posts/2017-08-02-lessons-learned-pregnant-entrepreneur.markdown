@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 4 LESSONS I LEARNED AS A PREGNANT ENTREPRENEUR
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9199
+title: 4 Lessons I Learned as a Pregnant Entrepreneur
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9199
 date: '2017-08-02 04:00:21 -0700'
-date_gmt: '2017-08-02 11:00:21 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>After months of deliberation and weeks of preparation, I was ready to hire my first major employee. I wanted to legitimize my business, grow it into something bigger, and become more institutionalized. I wanted to really boss-lady this thing. Gangbusters!</p>
 <h3><strong>And then, I found out I was pregnant one week before sitting down with my first big hire to tell her she had the job.</strong></h3><br />

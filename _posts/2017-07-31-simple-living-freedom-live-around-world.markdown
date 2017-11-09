@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW SIMPLE LIVING FREED ME TO LIVE AROUND THE WORLD
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9188
+title: How Simple Living Freed Me to Live Around the World
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9188
 date: '2017-07-31 04:00:24 -0700'
-date_gmt: '2017-07-31 11:00:24 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><span style="font-weight: 400;">I used to think that having less would constrain me and limit my freedom, but not until I embraced minimalism did I realize just how freeing this a&nbsp;</span><span style="font-weight: 400;">simpler</span><span style="font-weight: 400;"> life is. Minimizing within my life has created a side effect that has changed everything: the freedom to become location independent. Now, I get to travel for most of the year and spend the rest of the time at my home base in the San Francisco Bay Area!</span></p>
 <p><span style="font-weight: 400;">This type of life allows me to pick up and go whenever I choose, because I don&rsquo;t have anything holding me down. It is a result of freeing up space in my life for the things that I really love, and letting go of the rest. When we learn to simplify and get rid of all the excess that we don&rsquo;t need, we are left with our true desires and can focus on cherishing those items, people, and experiences!</span></p>

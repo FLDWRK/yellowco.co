@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 5 POSTS TO READ OVER THE WEEKEND
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7500
+title: 5 Posts to Read Over the Weekend
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7350
 date: '2016-11-25 11:58:39 -0800'
-date_gmt: '2016-11-25 19:58:39 -0800'
 categories:
 - Encouragement
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <p>So it begins! The holidays have officially started.</p>
 <p>The holidays bring out a lot of emotions in people. Therapists say this is their busiest time of year. Same with hair dressers... People are telling you what to buy and sales commercials are blasting in your face constantly. Especially today. Black Friday!</p>

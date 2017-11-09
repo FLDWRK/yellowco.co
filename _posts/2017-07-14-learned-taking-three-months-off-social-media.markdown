@@ -1,38 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT I LEARNED BY TAKING THREE MONTHS OFF FROM SOCIAL MEDIA
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9032
+title: What I Learned By Taking Three Months Off From Social Media
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9032
 date: '2017-07-14 04:00:41 -0700'
-date_gmt: '2017-07-14 11:00:41 -0700'
 categories:
 - Tension
-tags:
-- comparison
-- social media
-- false standards
-- procrastination
-- bloggers
-comments:
-- id: 4392
-  author: Rebecca
-  author_email: sunnyrebeccamail@gmail.com
-  author_url: http://www.sunnyrebecca.com
-  date: '2017-08-03 15:14:00 -0700'
-  date_gmt: '2017-08-03 22:14:00 -0700'
-  content: |-
-    3 months off of social media is amazing! I can't even stay off for a day, so way to go! It was so interesting to hear about how your life and perspective changed by taking social media out of your life.
-    Rebecca
-    www.thebloomly.com
 ---
 <p>Right now is the best time to have a heartbeat. Opportunities are directly in front of us if we ask and act for them. Our generation is booming with believers in creating the extraordinary - in every capacity from relationships to careers. Social media has become a tool to foster this connection, creativity, and growth, yet it's also a means of comparison, shame, and unhealthy addiction.</p>
 <p>Stuck somewhere in between these polarities, I had to ask myself: <strong><em>how can I create a&nbsp;sweet spot of using social media for all of its&nbsp;benefits, while staying clear of unhealthy, unproductive patterns?</em></strong> To find the answer, I gave up Facebook, Instagram, and Twitter for three months. I learned truths that have already sprung me forward into the next season. I became focused and clear. In the tension from start to finish, I learned three main principles about my relationship to social media:</p>

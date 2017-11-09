@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT I LEARNED FROM MY CREATIVE BURNOUT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7078
+title: What I Learned from My Creative Burnout
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7078
 date: '2016-10-14 04:00:07 -0700'
-date_gmt: '2016-10-14 11:00:07 -0700'
 categories:
 - Creative Ladies
 - Encouragement
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos39of77.jpg"><img class="aligncenter size-full wp-image-7080" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos39of77.jpg" alt="valeriedenisephotos39of77" width="700" height="467" /></a>There comes a point, a moment in everyone's life where they look back and wonder how in the world they got where they are. Did someone pick them up and plop them in this moment, in this body, this job, this home?</span></p>
 <p>Usually these experiences happen when tragedy hits and everything around you seems to halt for a moment and everything you&rsquo;ve known to be real completely shifts. Sometimes that happens when a creative or any type of person convince themselves that they were not made for something...(a lie...when in fact their very DNA spills that very thing is exactly what they are made for).</p>

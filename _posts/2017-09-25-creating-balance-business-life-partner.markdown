@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: CREATING BALANCE WHEN YOUR BUSINESS PARTNER IS ALSO YOUR LIFE PARTNER
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9618
+title: Creating Balance when Your Business Partner is also Your Life Partner
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9618
 date: '2017-09-25 04:00:59 -0700'
-date_gmt: '2017-09-25 11:00:59 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><span style="font-weight: 400;">There is a lot of talk about the work/life balance.&nbsp;It is a tricky balancing act that constantly shifts depending on what needs your attention more at the time.&nbsp;</span><span style="font-weight: 400;">And then to further complicate matters, you and your husband become business partners, and any hope of boundaries or balance goes out the window. Still, you feel pressured to draw some lines around what is &ldquo;work&rdquo; and what is &ldquo;life&rdquo;. My husband and I have been business partners for five years now. It has been a process of experimenting and figuring out what works for us, but we feel like we&rsquo;ve come to really embrace this tension between work and life.</span></p>
 <h3><strong>There are no &ldquo;rules&rdquo; in this game. </strong></h3><br />

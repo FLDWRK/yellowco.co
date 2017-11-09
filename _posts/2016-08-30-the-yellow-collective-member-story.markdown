@@ -1,23 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE YELLOW COLLECTIVE MEMBER STORY  //  MEMBERSHIP CLOSES SEPT 1!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6793
+title: The Yellow Collective Member Story  //  Membership Closes Sept 1!
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6793
 date: '2016-08-30 04:00:29 -0700'
 date_gmt: '2016-08-30 11:00:29 -0700'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p>The Yellow Conference is officially over and it. was. amazing. The air was buzzing with the energy and positivity of our amazing attendees. What an inspiring&nbsp;group of women.</p>
 <p><span style="font-weight: 400;">As mentioned in our last post, at Yellow Conference this year, we launched our brand new membership platform, <a href="http://yellowcollective.co/" target="_blank">The Yellow Collective</a>! Launching the </span><a href="http://yellowcollective.co/"><span style="font-weight: 400;">Yellow Collective</span></a><span style="font-weight: 400;"> has been nothing short of a DREAM. It's so exciting to see so many badass creatives wanting to join this community.</span></p>

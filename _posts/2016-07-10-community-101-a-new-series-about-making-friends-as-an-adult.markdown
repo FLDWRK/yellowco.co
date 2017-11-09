@@ -1,69 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'COMMUNITY BUILDING 101: A NEW SERIES ABOUT MAKING FRIENDS AS AN ADULT'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6048
+title: 'Community Building 101: A New Series About Making Friends as an Adult'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6048
 date: '2016-07-10 04:00:54 -0700'
-date_gmt: '2016-07-10 11:00:54 -0700'
 categories:
 - Advice
 - Yellow 2016
 - Yellow Collective
 - Community 101
 - Sunday Series
-tags: []
-comments:
-- id: 4147
-  author: Shanoya
-  author_email: photosmitten@gmail.com
-  author_url: ''
-  date: '2016-07-19 13:36:00 -0700'
-  date_gmt: '2016-07-19 20:36:00 -0700'
-  content: SO excited for this series, I've struggle so much with trying to build
-    community.  I can't wait to find out more actionable steps.
-- id: 4148
-  author: 'Yellow Co. &#124; COMMUNITY 101 PART TWO: INVITING BRILLIANT PEOPLE INTO
-    YOUR LIFE - Yellow Co.'
-  author_email: ''
-  author_url: http://yellowconference.com/2016/07/24/community-101-part-two-inviting-brilliant-people-into-your-life/
-  date: '2016-07-24 04:02:38 -0700'
-  date_gmt: '2016-07-24 11:02:38 -0700'
-  content: "[&#8230;] This is the second post in a new Sunday series by our Yellow
-    Collective project manager Lauren Caselli about finding, creating, and growing
-    a community of people who have your back. Whether it&rsquo;s online or in-person,
-    free or paid, having a community of people who understand and support you can
-    move you toward your goals faster than ever. To read the first&nbsp;post in this
-    series, click here. [&#8230;]"
-- id: 4149
-  author: 'Yellow Co. &#124; COMMUNITY 101 PART THREE: SIX STEPS TO AN UNFORGETTABLE
-    EVENT FOR YOUR NEW FOUND TRIBE - Yellow Co.'
-  author_email: ''
-  author_url: http://yellowconference.com/2016/08/07/6408/
-  date: '2016-08-07 04:01:21 -0700'
-  date_gmt: '2016-08-07 11:01:21 -0700'
-  content: "[&#8230;] series, click here.&nbsp;So far, when talking about community,
-    we&rsquo;ve identified how to figure out who are the awesome people you want in
-    your life, and then we figured out how we actually ASK them to be in your [&#8230;]"
-- id: 4150
-  author: 'Yellow Co. &#124; COMMUNITY 101 PART FOUR: SO YOU JUST HAD AN AMAZING GATHERING,
-    NOW WHAT? - Yellow Co.'
-  author_email: ''
-  author_url: http://yellowconference.com/2016/08/21/community-101-part-four-so-you-just-had-a-rad-gathering-now-what/
-  date: '2016-08-21 04:01:04 -0700'
-  date_gmt: '2016-08-21 11:01:04 -0700'
-  content: "[&#8230;] far, when talking about community, we&rsquo;ve identified how
-    to figure out who are the awesome people you want in your life, and then we figured
-    out how we actually ASK them to be in your life.&nbsp;Last week, we talked about
-    [&#8230;]"
 ---
 <p><i><span style="font-weight: 400;">This is the first post in a new Sunday series by our Yellow Collective project manager <a href="http://www.laurencaselli.com/" target="_blank">Lauren Caselli</a> about finding, creating, and growing a community of people who have your back. Whether it&rsquo;s online or in-person, free or paid, having a community of people who understand and support you can move you toward your goals faster than ever.</span></i></p>
 <h2><i><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/07/Community-Building.jpg"><img class="aligncenter size-full wp-image-6119" src="http://yellowconference.com/wp-content/uploads/2016/07/Community-Building.jpg" alt="Community-Building" width="700" height="1264" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/07/MG_0376-1.jpg"><br />

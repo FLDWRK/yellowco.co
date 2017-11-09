@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: RESILIENT CREATIVITY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6952
+title: Resilient Creativity
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6952
 date: '2016-09-25 04:00:35 -0700'
-date_gmt: '2016-09-25 11:00:35 -0700'
 categories:
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <p><b><i>"You can't use up creativity. The more you use, the more you have." - Maya Angelou </i></b></p>
 <p>&nbsp;</p>

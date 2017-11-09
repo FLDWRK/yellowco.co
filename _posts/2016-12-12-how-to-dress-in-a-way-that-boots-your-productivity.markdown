@@ -1,35 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO DRESS IN A WAY THAT BOOSTS YOUR PRODUCTIVITY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7657
+title: How to Dress in a Way that Boosts Your Productivity
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7450
 date: '2016-12-12 04:00:26 -0800'
-date_gmt: '2016-12-12 12:00:26 -0800'
 categories:
 - Creative Ladies
 - Advice
-- HEART
-tags: []
-comments:
-- id: 4283
-  author: Yellow Co. &#124; HOW TO BOUNCE BACK AFTER THE HOLIDAY SLUMP - Yellow Co.
-  author_email: ''
-  author_url: http://yellowconference.com/2016/12/26/how-to-bounce-back-after-the-holiday-slump/
-  date: '2016-12-26 04:02:03 -0800'
-  date_gmt: '2016-12-26 12:02:03 -0800'
-  content: "[&#8230;] talk), clear up any clutter that will distract you from being
-    your best the next day, lay out your&nbsp;productivity-power outfit, and set up
-    your workspace. I love starting my day with essential oils diffusing (like this
-    [&#8230;]"
+- Heart
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/12/9602307_orig.jpg"><img class="aligncenter wp-image-7457" src="http://yellowconference.com/wp-content/uploads/2016/12/9602307_orig.jpg" alt="9602307_orig" width="700" height="466" /></a>Finding a balance between work and life can be challenging. Especially because &nbsp;jobs are starting &nbsp;to appease employee demands for remote working options and flexibility. Job seekers are looking for something that gives them more freedom and value for their work instead of their time, and jobs that enhance their personal lives. Who wouldn&rsquo;t want that? But after working remotely for over a year, I have found it very challenging. </span></p>
 <p><span style="font-weight: 400;">The lines between clock in and clock out can get&nbsp;blurred, and I feel a constant need to be productive. My to do list runs through my head constantly. Maybe I am just preaching to myself over here, but I have definitely allowed work to consume my personal life. I work while I watch T.V. at night, the first thing I do when I wake up is work because of that 7am <a href="https://www.instagram.com/taperedmagazine/" target="_blank">Instagram</a> post, and, when I travel, finding a coffee shop with wifi is a priority because&hellip;<em>work.</em> &nbsp;It&rsquo;s endless and all consuming. </span></p>

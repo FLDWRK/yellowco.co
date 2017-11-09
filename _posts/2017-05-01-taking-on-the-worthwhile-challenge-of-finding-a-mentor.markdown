@@ -1,40 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: TAKING ON THE WORTHWHILE CHALLENGE OF FINDING A MENTOR
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8444
+title: Taking on the Worthwhile Challenge of Finding a Mentor
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8444
 date: '2017-05-01 04:00:36 -0700'
-date_gmt: '2017-05-01 11:00:36 -0700'
 categories:
 - Wander
-tags:
-- build your business
-- freelance
-- self employment
-- freelancer
-- women
-- creative women
-- women entrepreneurs
-- finding your purpose
-- do good
-- giving back
-- creative entrepreneurs
-- running a business
-- mentorship
-- finding a mentor
-- benefit of a mentor
-- mentor
-- mentoring
-comments: []
 ---
 <p><span style="font-weight: 400;">You're doing a lot right now. You could be&nbsp;stretching yourself right and left to meet deadlines for your side job <em>and</em>&nbsp;your passion project. Maybe you&nbsp;own your own business and are constantly creating events, taking care of your team, and trying to figure out what is next. Or, perhaps you're in the beginning of it all - just trying to sort out what in the world you're even doing with these things we call </span><i><span style="font-weight: 400;">life</span></i><span style="font-weight: 400;"> and&nbsp;</span><i><span style="font-weight: 400;">passions</span></i><span style="font-weight: 400;">.</span></p>
 <h3><strong>In a culture of constantly&nbsp;doing <em>more</em>, we are often&nbsp;juggling&nbsp;so much both physically and mentally. I am here to tell you we aren't meant to do it alone. </strong></h3><br />

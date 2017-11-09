@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: YELLOW 2016 SPEAKER SESSIONS NOW AVAILABLE!!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7112
+title: Yellow 2016 Speaker Sessions Now Available!!
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7112
 date: '2016-10-19 04:00:24 -0700'
-date_gmt: '2016-10-19 11:00:24 -0700'
 categories:
 - "#bloomyellow"
 - Yellow 2016
-tags: []
-comments: []
 ---
 <p>Let me guess... you didn't get to come to Yellow Conference 2016 and felt major FOMO when you were&nbsp;watching the entire thing unfold over social media. Or maybe you found out about Yellow Conference 1 day too late and missed the chance to come. Or maybe you're not local to LA and it was just too much to come up with the cash for a conference ticket, hotel room, flight, rental car, etc. The expenses add up!!&nbsp;I've been in all of these positions before&nbsp;and it's the WORST!</p>
 <h2><em><strong>Lucky for you, we have the conference speaker sessions available&nbsp;for&nbsp;purchase today!</strong></em></h2><br />

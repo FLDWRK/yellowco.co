@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 3 PRACTICES TO GET EMPOWERED ABOUT YOUR MENTAL HEALTH
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9120
+title: 3 Practices to Get Empowered About Your Mental Health
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9120
 date: '2017-07-26 04:00:19 -0700'
-date_gmt: '2017-07-26 11:00:19 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><span style="font-weight: 400;">I couldn't tell you&nbsp;the number&nbsp;of moments&nbsp;I have been completely overwhelmed. The times I've said,</span><span style="font-weight: 400;">&nbsp;<em>"</em></span><em><span style="font-weight: 400;">I am so tired and so stressed I haven't slept at all"</span></em><i><span style="font-weight: 400;">,&nbsp;</span></i><span style="font-weight: 400;">or <em>"</em></span><em><span style="font-weight: 400;">There is no possible way to get all of this done because I have no idea what I'm even doing"</span></em><i><span style="font-weight: 400;">. </span></i><span style="font-weight: 400;">Our thoughts, behaviors, and emotions can often get the best of us. It's almost as if they turn us into a different person completely. When tension, stress, uncertainty, and worry begin to fill our minds - our behaviors and emotions will almost always follow negatively - <em>if</em> we allow our thoughts to dictate who we are.</span></p>
 <p><span style="font-weight: 400;">As a mental health professional, we study this all of the time - it's one of the most research based practices. When a client of mine is dealing with a difficult circumstance in his/her life, we start to dissect their thoughts, behavior patterns, and emotions. This is called Cognitive Behavioral Therapy (CBT). If it's something you are interested in, I would highly recommend you doing a little bit of your own <a href="https://www.beckinstitute.org/get-informed/what-is-cognitive-therapy/" target="_blank" rel="noopener noreferrer">research in this area</a>!&nbsp;</span></p>

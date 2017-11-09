@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: A CONSCIOUS GIFT GUIDE FOR YOUR HOLIDAY SHOPPING
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7503
+title: A Conscious Gift Guide for Your Holiday Shopping
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7391
 date: '2016-12-02 04:00:49 -0800'
-date_gmt: '2016-12-02 12:00:49 -0800'
 categories:
 - Light Talk
 - The Activist
-tags: []
-comments: []
 ---
 <p><i>Need a last minute gift idea? How about one that you don't have to worry about the hands that made it for you? We know there's a lot of gift guides out there, but we've got the perfect line up of both beautiful and smart products that care about the people who made them as much as they care about the hands that will receive them.&nbsp;</i></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/12/Gift-Guide-Minimalist1.jpg"><img class="aligncenter size-full wp-image-7404" src="http://yellowconference.com/wp-content/uploads/2016/12/Gift-Guide-Minimalist1.jpg" alt="gift-guide-minimalist" width="700" height="1763" /></a></p>

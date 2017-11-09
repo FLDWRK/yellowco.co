@@ -1,46 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: SO WHAT'S A B-CORP, AND SHOULD MY BUSINESS BE ONE?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7103
+title: So What's a B-CORP, and Should My Business Be One?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7103
 date: '2016-10-17 04:00:08 -0700'
-date_gmt: '2016-10-17 11:00:08 -0700'
 categories:
 - Creative Ladies
 - The Activist
-- HEART
-tags: []
-comments:
-- id: 4244
-  author: My Sister Org
-  author_email: mandy@mysister.org
-  author_url: ''
-  date: '2016-10-17 13:36:00 -0700'
-  date_gmt: '2016-10-17 20:36:00 -0700'
-  content: My company, MY SISTER (mysister.org), is a benefit corporation and we love
-    it! It helps us explain to potential partners and customers how much we focus
-    on the cause of fighting sex trafficking and exploitation throughout everything
-    we do. Plus, although the annual report is another "to-do" it's a great way to
-    look back upon the year, keep track of all of the good your company is doing and
-    set future goals. We are in the midst of working to get our B Lab certification
-    and would love to be a resource to anyone thinking of becoming a benefit corp!
-    info@mysister.org
-- id: 4245
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-10-17 15:00:00 -0700'
-  date_gmt: '2016-10-17 22:00:00 -0700'
-  content: LOVE this!! Thanks for the info!!
+- Heart
 ---
 <h2><b><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-8.jpg"><img class="aligncenter size-full wp-image-7106" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-8.jpg" alt="valeriedenisephotos-8" width="700" height="467" /></a>What are Benefit Corporations?</b></h2><br />
 A business may operate as a <em><strong>&ldquo;for-profit&rdquo;</strong></em> or a <em><strong>&ldquo;not-for-profit&rdquo;</strong> </em>entity. For-profit businesses, often known as <strong>C corporations</strong>, primarily seek to generate revenue and maximize profit for the corporation&rsquo;s owners, whether it be a sole proprietor, multiple partners, members or shareholders. Directors of for-profit businesses must use their business judgments to run the company with one purpose only&mdash;to maximize shareholder profits, otherwise shareholders may sue directors for breach of their fiduciary duties.</p>

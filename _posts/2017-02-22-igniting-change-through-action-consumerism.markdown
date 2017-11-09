@@ -1,32 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: IGNITING CHANGE THROUGH OUR DAILY ACTIONS
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 7975
+title: Igniting Change through Our Daily Actions
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=7975
 date: '2017-02-22 04:00:07 -0800'
-date_gmt: '2017-02-22 12:00:07 -0800'
 categories:
 - Interviews
-- PIONEER
-tags: []
-comments:
-- id: 4327
-  author: Rhonda LaBatt
-  author_email: rrlabatt@cox.net
-  author_url: https://redemption-market.myshopify.com/collections/all
-  date: '2017-02-22 11:26:00 -0800'
-  date_gmt: '2017-02-22 19:26:00 -0800'
-  content: I love The Good Trade! Thank you so much for sharing and continuing to
-    spread the good word about ethical fashion. -Rhonda, owner Redemption Market
+- Pioneer
 ---
 <p><span style="font-weight: 400;">When AmyAnn Cadwell saw the harmful effects of fast fashion, she began thinking critically about how we can each do our part for the kind of world we want. So, she started </span><a href="http://www.thegoodtrade.com" target="_blank"><i><span style="font-weight: 400;">The Good Trade</span></i></a><span style="font-weight: 400;"> in 2014, an online magazine that features ethical brands. I sat down with AmyAnn to ask about her life experiences, inspiration, and advice for women wanting to do good.</span></p>
 <p><b>How has being a woman shaped your life experiences and inspiration to begin </b><b><i>The Good Trade</i></b><b>?</b></p>

@@ -1,41 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: SIX RELATIONSHIP KILLERS THAT YOU DON'T EVEN KNOW YOU'RE GUILTY OF (AND HOW
-  TO FIX THEM)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6696
+title: Six Relationship Killers that You Don't Even Know You're Guilty of (and How
+  to Fix Them)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6696
 date: '2016-08-18 04:00:15 -0700'
-date_gmt: '2016-08-18 11:00:15 -0700'
 categories:
 - Light Talk
 - Advice
-- VALOR
-tags: []
-comments:
-- id: 4221
-  author: Sarah Lochelt
-  author_email: sarah.lochelt@gmail.com
-  author_url: http://www.sarahroselochelt.com
-  date: '2016-08-18 10:07:00 -0700'
-  date_gmt: '2016-08-18 17:07:00 -0700'
-  content: Wow, this is SO helpful! I can definitely see from reading this that there
-    are some erlaitonships where I need this help to get out of the box! Thank you!
-- id: 4222
-  author: My capsule wardrobe experiment. Sustainable fashion, Unfancy free download.
-  author_email: ''
-  author_url: http://trouveshome.com/2016/08/30/my-capsule-wardrobe-experiment-sustainable-fashion-unfancy-free-download/
-  date: '2016-08-30 23:39:06 -0700'
-  date_gmt: '2016-08-31 06:39:06 -0700'
-  content: "[&#8230;] you catch my article I wrote for the Yellow [&#8230;]"
+- Valor
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/08/RELATIONSHIP-KILLERS-BLOG-IMAGE.jpg"><img class="aligncenter size-full wp-image-6714" src="http://yellowconference.com/wp-content/uploads/2016/08/RELATIONSHIP-KILLERS-BLOG-IMAGE.jpg" alt="SIX RELATIONSHIP KILLERS THAT YOU DON'T EVEN KNOW YOU'RE GUILTY OF (AND HOW TO FIX THEM)" width="700" height="963" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/08/JULIAGODDARD.jpg"><br />
 </a><a href="http://yellowconference.com/wp-content/uploads/2016/08/ValerieDenisePhotos-491.jpg"><br />

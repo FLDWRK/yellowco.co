@@ -1,40 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 5 MUSTS FOR BRINGING MEANING TO THE IN-BETWEEN OF ENTREPRENEURSHIP
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8453
+title: 5 Musts for Bringing Meaning to the In-Between of Entrepreneurship
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8453
 date: '2017-05-03 04:00:25 -0700'
-date_gmt: '2017-05-03 11:00:25 -0700'
 categories:
 - Wander
-tags:
-- passion project
-- freelance
-- self employment
-- freelancer
-- entrepreneur
-- creative women
-- owning a business
-- women entrepreneurs
-- mission
-- entrepreneurs
-- starting a business
-- creative entrepreneurs
-- running a business
-- entrepreneurship
-- in-between
-- meaning
-- meaningful
-comments: []
 ---
 <p><span style="font-weight: 400;">I was feeling a little guilty. I&rsquo;d worked so hard to get where I am, but now there was somewhere else I wanted to go. An old friend&rsquo;s stinging words flashed back into my mind and nagged at my heart, <strong>&ldquo;Won&rsquo;t you </strong></span><strong><i>ever</i></strong><span style="font-weight: 400;"><strong> be content?!&rdquo;</strong> But the truth is, I still am. I've realized in entrepreneurship, it's okay to want to move on to the next destination, as long as you give your all to your current home.</span></p>
 <p><span style="font-weight: 400;">Some people are built for lots and lots stability, consistency, and predictability. Although I believe we all need at least a little of these things in different seasons and unique doses - some of&nbsp;us thrive on wild ideas, adding to existing&nbsp;plans, and seeing where that next phase takes us. <em>Entrepreneurial wandering</em>, if you will. </span><span style="font-weight: 400;">Despite what it may seem on the surface, I don&rsquo;t think this trait means we are irresponsible or discontent. It doesn&rsquo;t mean we are&nbsp;pinballs, forcefully springing decisions into a crazy life of sporadic turns.</span></p>

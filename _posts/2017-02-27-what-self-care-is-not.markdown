@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT SELF CARE IS NOT
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 7998
+title: What Self Care is Not
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=7998
 date: '2017-02-27 04:00:54 -0800'
-date_gmt: '2017-02-27 12:00:54 -0800'
 categories:
 - Creative Ladies
 - Advice
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p><span style="font-weight: 400;">If you&rsquo;re like most people, you first heard of &ldquo;self-care&rdquo; in one of three places: from your therapist, from your friend who sees a therapist, or on the internet. At its most basic level, self-care means tending to personal needs that are within your control. This generally applies to maintaining health: working out, eating balanced meals, getting a full night&rsquo;s sleep, and showering regularly. These are simple tasks, sure, but easy to forget, rush through, or fulfill mindlessly. A rudimentary approach to self-care can be especially beneficial to people experiencing mental illness or trauma, for whom it can be difficult to pause and nurture oneself. </span></p>
 <p><span style="font-weight: 400;">But the categories of self-care have also stretched to include habits that are more rooted in personal relaxation, reaffirmation, </span><a href="https://www.youtube.com/watch?v=ZsABTmT1_M0" target="_blank"><span style="font-weight: 400;">&ldquo;treat yo self&rdquo;</span></a><span style="font-weight: 400;"> pampering.&nbsp;</span><span style="font-weight: 400;">This mindset means giving yourself permission to breathe deep and derive comfort and fulfillment from life - to not merely provide for yourself, but also to be generous with yourself. </span></p>

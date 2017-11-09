@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO CREATE A VISION PLAN THAT WORKS FOR YOU
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7040
+title: How to Create a Vision Plan that Works for You
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7040
 date: '2016-10-05 04:00:19 -0700'
-date_gmt: '2016-10-05 11:00:19 -0700'
 categories:
 - Creative Ladies
 - Advice
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-45.jpg"><img class="aligncenter size-full wp-image-7041" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-45.jpg" alt="valeriedenisephotos-45" width="700" height="467" /></a></p>
 <h2><em><strong>"Creating is not magic, but work" &mdash; Kevin Ashton</strong></em></h2><br />

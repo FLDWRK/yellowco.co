@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: FINDING PEACE IN LOSING CONTROL
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9099
+title: Finding Peace in Losing Control
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9099
 date: '2017-08-11 04:00:08 -0700'
-date_gmt: '2017-08-11 11:00:08 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>Hello, my name is Kristi, and I&rsquo;m a recovering control freak.</p>
 <p><span style="font-weight: 400;">Call me an overachiever, driven, a perfectionist, or Type A. Whatever label you use, it just means I want things on my terms. I want </span><i><span style="font-weight: 400;">control</span></i><span style="font-weight: 400;">. And to quote Willy Wonka&rsquo;s bratty Veruca Salt, &ldquo;I want it now!&rdquo;&nbsp;</span></p>

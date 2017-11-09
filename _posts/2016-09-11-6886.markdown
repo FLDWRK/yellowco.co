@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT IT LOOKS LIKE TO TRULY FLOURISH
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6886
+title: What it Looks Like to Truly Flourish
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6886
 date: '2016-09-11 00:56:03 -0700'
-date_gmt: '2016-09-11 07:56:03 -0700'
 categories:
 - "#bloomyellow"
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <p><em><strong>&ldquo;Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.&rdquo;-Rumi</strong></em></p>
 <p>Growing up, I always dreamed of becoming the next Zadie Smith, but I never felt like words came naturally to me. Crafting the perfect sentence would take me hours and my perfectionist tendencies hindered me, causing me to question my abilities. In high school, college, and even at the start of my career, my friends, professors, and coworkers were my motivators always applauding me on my ability to sew words together and encouraging me to pursue it. I was an avid writer in my previous job as a legal assistant and every writing assignment felt like a fun jigsaw puzzle I would have to solve. My love for words sparked into something unimaginable. My passion kept growing and I knew I had all the pieces to make it work, all I needed was just a little push...</p>

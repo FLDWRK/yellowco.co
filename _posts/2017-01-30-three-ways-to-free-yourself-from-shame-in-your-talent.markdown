@@ -1,32 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE WAYS TO FREE YOURSELF FROM FEELING SHAME IN YOUR TALENT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7776
+title: Three Ways to Free Yourself from Feeling Shame in Your Talent
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=7776
 date: '2017-01-30 04:00:23 -0800'
-date_gmt: '2017-01-30 12:00:23 -0800'
 categories:
 - Advice
 - The Starter
-- PIONEER
-tags: []
-comments:
-- id: 4313
-  author: Miranda B
-  author_email: mboisvert@live.com
-  author_url: ''
-  date: '2017-01-30 13:36:00 -0800'
-  date_gmt: '2017-01-30 21:36:00 -0800'
-  content: LOVE THIS <3 Way to go Jasmin.
+- Pioneer
 ---
 <p><span style="font-weight: 400;">Have you ever felt ashamed of your talent? Like you weren't good enough, like your accomplishments were nothing special, like you just wanted to hide? </span></p>
 <p>Like many creative and entrepreneurial-minded women, you have probably felt the sting of imposter syndrome before. For me, I have been struggling with it my entire career. As a writer who is paid to think creatively and engage with others through social media, I have often used the fact that I work for others as a way to hide. I never wanted to be in the spotlight and was almost ashamed to accept praise. Because of this, my career and my accomplishments have never really felt like my own.</p>

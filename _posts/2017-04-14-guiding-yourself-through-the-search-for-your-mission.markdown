@@ -1,34 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: GUIDING YOURSELF THROUGH THE SEARCH FOR YOUR MISSION
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8368
+title: Guiding Yourself Through the Search for Your Mission
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8368
 date: '2017-04-14 04:00:22 -0700'
-date_gmt: '2017-04-14 11:00:22 -0700'
 categories:
 - Wander
-tags:
-- women
-- creative women
-- finding your purpose
-- mission
-- purpose
-- entrepreneurs
-- starting a business
-- non-profit
-- do good
-- giving back
-- creative entrepreneurs
-comments: []
 ---
 <p>It took me two years and almost giving up my own company to finally recognize the deeper purpose behind my work.<b>&nbsp;</b><span style="font-weight: 400;">Before then, I was only sure of two things I wanted: to help businesses give back by partnering with charities, and to assist others in creating meaning in their lives. But, it was never clear to me </span><i><span style="font-weight: 400;">why</span></i><span style="font-weight: 400;"> I was so motivated to do that, and what the core of that mission would be.</span></p>
 <p><b>The importance of finding our ultimate purpose is because it keeps us grounded when at times we feel we have lost our ambition.&nbsp;</b><span style="font-weight: 400;">Even when you start a dream business and are flying high on being a girl-boss, the burn out can sneak up on you. Heck, I get to help make magic happen and change lives each day, but incredible as it is - I have days spent thinking, &ldquo;I can&rsquo;t talk to one more charity. I can&rsquo;t help one more person. I&rsquo;m just done.&rdquo; I am not proud of those moments, but what pulls me through them is knowing that I have a deeper intention motivating me every day. That tomorrow, I will wake up again in hot pursuit of that same inner calling. For me, that purpose is helping leaders realize their dreams.</span></p>

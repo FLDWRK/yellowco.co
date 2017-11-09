@@ -1,47 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT A BLANK CANVAS TAUGHT ME ABOUT LETTING GO
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7504
+title: What a Blank Canvas Taught Me About Letting Go
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7415
 date: '2016-12-05 04:00:01 -0800'
-date_gmt: '2016-12-05 12:00:01 -0800'
 categories:
 - Inspiration
 - The Starter
-- HEART
-tags: []
-comments:
-- id: 4272
-  author: Whitney Shindelar
-  author_email: wshindelar@gmail.com
-  author_url: ''
-  date: '2016-12-05 11:31:00 -0800'
-  date_gmt: '2016-12-05 19:31:00 -0800'
-  content: '"Step back, refocus, and remember why you started"...such fantastic advice!
-    Thank you!'
-- id: 4273
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-12-05 17:55:00 -0800'
-  date_gmt: '2016-12-06 01:55:00 -0800'
-  content: SO glad you like it Whitney!
-- id: 4274
-  author: Adrianne Verheyen
-  author_email: adrianneverheyen@gmail.com
-  author_url: ''
-  date: '2016-12-05 20:39:00 -0800'
-  date_gmt: '2016-12-06 04:39:00 -0800'
-  content: thanks for reading Whitney! :)
+- Heart
 ---
 <h2><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-49.jpg"><img class="aligncenter size-full wp-image-7416" src="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-49.jpg" alt="valeriedenisephotos-49" width="700" height="467" /></a><em><strong>This year has been one of chaos, of change, of newness. I graduated college. Got engaged. New Job. Moved. Marriage. Bliss. Chaos. </strong></em></span></h2><br />
 <span style="font-weight: 400;">With the beauty and the gift that change is, I&rsquo;m never prepared for the grief that it&rsquo;s paired with. </span><b>Transition melts you and reforms you</b><span style="font-weight: 400;"> to where you feel like a piece of playdough that a 3-year old pancake-smashed, mixed with other colors, and stuck on the bottom of a desk. I almost don&rsquo;t recognize myself. </span></p>

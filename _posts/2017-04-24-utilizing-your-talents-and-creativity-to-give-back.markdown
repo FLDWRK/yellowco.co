@@ -1,38 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: UTILIZING YOUR TALENTS AND CREATIVITY TO GIVE BACK
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8407
+title: Utilizing Your Talents and Creativity to Give Back
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8407
 date: '2017-04-24 04:00:55 -0700'
-date_gmt: '2017-04-24 11:00:55 -0700'
 categories:
 - Wander
-tags:
-- women
-- creative women
-- women entrepreneurs
-- mission
-- purpose
-- starting a business
-- non-profit
-- do good
-- giving back
-- creative entrepreneurs
-- running a business
-- social impact
-- business
-- charity
-- talents
-comments: []
 ---
 <p>You know you are meant for something bigger. You know that with your passion, empathy, and talents you can make a difference in the world around you. But where do you start? How do you identify what you should be focusing your energy on?</p>
 <p><span style="font-weight: 400;">I have often heard people say that they just don't have the time to give back, and I can relate. With busy day jobs and general over-scheduling of our lives, we often struggle with figuring out </span><i><span style="font-weight: 400;">what</span></i><span style="font-weight: 400;">&nbsp;we should be giving back to, let alone how to make the time to actually do it.&nbsp;</span><span style="font-weight: 400;">Whether you want to volunteer your time, or launch your own business that will start changing lives, there are a few steps to guide you through&nbsp;pinpointing your passions and making the most of the gifts you were given.</span></p>

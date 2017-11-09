@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 3 STEPS TO CALM FINANCIAL ANXIETY WHEN TAKING A RISK
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9580
+title: 3 Steps to Calm Financial Anxiety when Taking a Risk
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9580
 date: '2017-09-22 04:00:47 -0700'
-date_gmt: '2017-09-22 11:00:47 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><span style="font-weight: 400;">For some, there's this intuitive feeling that is undeniably knocking against our consciousness. The want to start our own business. So we get fired up, hit Pinterest, and read the blog posts about how someone made $14,000 just from their mommy blog. Then, the anxiety kicks in. <em>"Is that possible for me too?" What if this industry is already crowded and there's absolutely nothing new I can bring to the table?"</em></span></p>
 <h3><strong>There's no doubt that the fear of financial security in establishing our own businesses is enough to scare us away from our passions. </strong></h3><br />

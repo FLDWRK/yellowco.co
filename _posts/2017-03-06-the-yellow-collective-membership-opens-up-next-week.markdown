@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'ANNOUNCEMENT: THE YELLOW COLLECTIVE MEMBERSHIP OPENS UP NEXT WEEK!'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8158
+title: 'Announcement: the Yellow Collective Membership Opens Up Next Week!'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8158
 date: '2017-03-06 04:15:29 -0800'
-date_gmt: '2017-03-06 12:15:29 -0800'
 categories:
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p>Yes, you read that title right. Today is a special day where we get to "officially" announce... Yellow Collective memberships open back up NEXT WEDNESDAY, March 15th (also the same day the new Beauty and the Beast comes out - #bestdayever)! That's right!&nbsp;Get excited ladies.</p>
 <p>We open up the membership once a quarter and keep it open for 2 weeks. Once a quarter is only 4 times a year...&nbsp;so this is kind of a big deal.<a href="http://eepurl.com/bEZbaH" target="_blank"><img class="aligncenter wp-image-8162 size-full" src="http://yellowco.co/wp-content/uploads/2017/03/Membership.jpg" width="700" height="500" /></a></p>

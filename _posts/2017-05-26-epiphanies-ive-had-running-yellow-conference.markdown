@@ -1,47 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE EPIPHANIES I'VE HAD AFTER THREE YEARS OF RUNNING THE YELLOW CONFERENCE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8640
+title: Three Epiphanies I've Had After Three Years of Running the Yellow Conference
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8640
 date: '2017-05-26 04:00:58 -0700'
-date_gmt: '2017-05-26 11:00:58 -0700'
 categories:
 - Wander
-tags:
-- women
-- business
-- Yellow Collective
-- yellow conference
-- yellow
-- yellow co.
-- women's conference
-- los angeles conference
-- creative conference
-- entrepreneur conference
-comments:
-- id: 4367
-  author: Meg Long
-  author_email: megmarylong@gmail.com
-  author_url: http://www.meglongcreative.com
-  date: '2017-05-26 12:14:00 -0700'
-  date_gmt: '2017-05-26 19:14:00 -0700'
-  content: DANG, that quote tho. SO GOOD! Love this whole post!
-- id: 4368
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2017-05-26 12:49:00 -0700'
-  date_gmt: '2017-05-26 19:49:00 -0700'
-  content: So glad you liked it Meg! And yes, isn't that quote SO good???
 ---
 <p>Happy Friday ladies! My name is Joanna Waterfall, and I'm the Founder of Yellow Co. I started Yellow by putting on a&nbsp;<a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">conference</a> in 2014, and this August we will be holding our <a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">4th annual Yellow Conference</a>. In my&nbsp;three years of running Yellow, I've had the opportunity to meet and get to know so many inspiring women from all over the world. I've been empowered by them, I've learned about myself through them, and along the way have had some major, life changing realizations I want to let you in on.</p>
 <h3>1. WOMEN ARE CHANGING THE WORLD THROUGH BUSINESS</h3></p>

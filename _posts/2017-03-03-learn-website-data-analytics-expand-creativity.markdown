@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO USE YOUR WEBSITE ANALYTICS TO EXPAND YOUR IMPACT<br></br>(+  A WORKBOOK
-  DOWNLOAD)
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8009
+title: How to Use Your Website Analytics to Expand Your Impact<br></br>(+  a Workbook
+  Download)
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8009
 date: '2017-03-03 04:00:09 -0800'
-date_gmt: '2017-03-03 12:00:09 -0800'
 categories:
 - Resources
 - Free Downloads
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p><span style="font-weight: 400;">We live in a time where we have easy access to loads of data, and it can get overwhelming quickly. Whether it&rsquo;s data&nbsp;from Instagram Insights about our audience, email opens and click rates from MailChimp, or who is visiting our website with <a href="https://www.google.com/analytics/#?modal_active=none" target="_blank">Google Analytics</a>, all of this valuable information is at our disposal with no additional cost.&nbsp;</span>Not only is it baffling that all of this is at our fingertips, but what's more confusing is trying to answer the lingering question it leaves us with: <em><strong>what should I be doing with this?</strong></em></p>
 <p><span style="font-weight: 400;">Let&rsquo;s be honest, looking at a tool like Google Analytics can be an ugly task. The jumble of all those metrics and reports isn&rsquo;t exactly aesthetically pleasing.&nbsp;But</span><span style="font-weight: 400;">, I&rsquo;m here to tell you that although this process might seem daunting at first, <strong>in the long run getting familiarized with your data, specifically your site traffic, will not only help you make better decisions, but stimulate your creativity in new and amazing ways.</strong>&nbsp;Trust me, you don&rsquo;t need to have a statistics degree to get to know your site traffic, just a little bit of patience and structure will do!</span></p>

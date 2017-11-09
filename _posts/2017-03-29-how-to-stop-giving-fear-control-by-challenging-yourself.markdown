@@ -1,30 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO STOP GIVING FEAR CONTROL BY CHALLENGING YOURSELF
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8173
+title: How to Stop Giving Fear Control by Challenging Yourself
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8173
 date: '2017-03-29 04:00:11 -0700'
-date_gmt: '2017-03-29 11:00:11 -0700'
 categories:
-- PIONEER
-tags: []
-comments:
-- id: 4336
-  author: shannon
-  author_email: shanoreilly@yahoo.com
-  author_url: ''
-  date: '2017-03-29 11:50:00 -0700'
-  date_gmt: '2017-03-29 18:50:00 -0700'
-  content: Such a great inspirational story! Thank you!
+- Pioneer
 ---
 <p>Every quarter, we assign our members in <a href="http://yellowcollective.com" target="_blank">The Yellow Collective</a> a community challenge. It helps to get members involved, set goals as a group, and have a bit of fun together in a way that is growth-oriented.</p>
 <p>This quarter, to go with our theme of &lsquo;Pioneer&rsquo;, we challenged our members to try something they&rsquo;ve never done before. There were 2 rules. 1. It had to be something that scared them, and 2. they had to share about it publicly to hold them accountable. It could be anything large or small &mdash; from trying to learn a new language to finally launching the business they&rsquo;ve always wanted to start.</p>

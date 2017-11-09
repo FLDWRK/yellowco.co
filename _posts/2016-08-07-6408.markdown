@@ -1,35 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'COMMUNITY 101 PART THREE: SIX STEPS TO AN UNFORGETTABLE EVENT FOR YOUR NEW
-  FOUND TRIBE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6408
+title: 'Community 101 Part Three: Six Steps to an Unforgettable Event for Your New
+  Found Tribe'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6408
 date: '2016-08-07 04:00:05 -0700'
-date_gmt: '2016-08-07 11:00:05 -0700'
 categories:
 - Yellow Collective
-- VALOR
+- Valor
 - Community 101
 - Sunday Series
-tags: []
-comments:
-- id: 4213
-  author: Cheryl Elizaga
-  author_email: clelizaga@gmail.com
-  author_url: http://twitter.com/CheElizaga
-  date: '2016-08-22 16:35:00 -0700'
-  date_gmt: '2016-08-22 23:35:00 -0700'
-  content: Great advice Lauren! Thank you for putting structure around the thoughts
-    that buzz around my head.
 ---
 <p><i><span style="font-weight: 400;">This is the third post in a our <a href="http://yellowconference.com/category/sunday-series/" target="_blank">Sunday series</a> by our Yellow Collective project manager </span></i><a href="http://www.laurencaselli.com/" target="_blank"><i><span style="font-weight: 400;">Lauren Caselli</span></i></a><i><span style="font-weight: 400;"> about finding, creating, and growing a community of people who have your back. Whether it&rsquo;s online or in-person, free or paid, having a community of people who understand and support you can move you toward your goals faster than ever. To read the other posts in this series, </span></i><b><i><a href="http://yellowconference.com/category/community-101/" target="_blank">click here.</a>&nbsp;<a href="http://yellowconference.com/wp-content/uploads/2016/08/YellowCollectivexHeritage-AndreaDavid47.jpg"><img class="aligncenter wp-image-6409 size-full" src="http://yellowconference.com/wp-content/uploads/2016/08/YellowCollectivexHeritage-AndreaDavid47.jpg" alt="Steps to An Unforgettable Event: The Yellow Co. Blog" width="700" height="467" /></a></i></b><i></i><span style="font-weight: 400;">So far, when talking about community, we&rsquo;ve identified </span><span style="font-weight: 400;">how to figure out <a href="http://yellowconference.com/2016/07/10/community-101-a-new-series-about-making-friends-as-an-adult/" target="_blank">who are the awesome people you want in your life</a></span><a href="http://yellowconference.com/2016/07/10/community-101-a-new-series-about-making-friends-as-an-adult/" target="_blank"><span style="font-weight: 400;">,</span></a><span style="font-weight: 400;"> and then we figured out </span><a href="http://yellowconference.com/2016/07/24/community-101-part-two-inviting-brilliant-people-into-your-life/" target="_blank"><span style="font-weight: 400;">how we actually ASK them to be in your life.</span></a></p>
 <h2>Today, I want to talk about what happens when everyone finally gets together.</h2><br />

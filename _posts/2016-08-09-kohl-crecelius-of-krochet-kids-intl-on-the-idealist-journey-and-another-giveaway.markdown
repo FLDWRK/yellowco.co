@@ -1,77 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE PIECES OF ENCOURAGEMENT FOR THE DREAMER & DOER BY KOHL CRECELIUS, CO-FOUNDER
-  OF KROCHET KIDS INTL.
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6305
+title: Three Pieces of Encouragement for the Dreamer & Doer by Kohl Crecelius, Co-Founder
+  of Krochet Kids INTL.
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6305
 date: '2016-08-09 04:00:39 -0700'
-date_gmt: '2016-08-09 11:00:39 -0700'
 categories:
 - CREATIVE ADVOCACY
 - Inspiration
 - Yellow 2016
-tags: []
-comments:
-- id: 4205
-  author: jamsberry
-  author_email: jams005@gmail.com
-  author_url: ''
-  date: '2016-08-09 12:57:00 -0700'
-  date_gmt: '2016-08-09 19:57:00 -0700'
-  content: Wise words from an authentic guy! Thanks Kohl!
-- id: 4206
-  author: Natalie
-  author_email: nataliejeanhagen@gmail.com
-  author_url: http://www.atinytravelerblog.com
-  date: '2016-08-10 08:34:00 -0700'
-  date_gmt: '2016-08-10 15:34:00 -0700'
-  content: Just what I needed to read today. Thank you for this encouragement!
-- id: 4207
-  author: Yellow Conference Giveaway with KK intl.! Win 3 Day Passes and More!
-  author_email: ''
-  author_url: http://www.krochetkids.org/2016/yellow-conference/
-  date: '2016-08-10 13:37:16 -0700'
-  date_gmt: '2016-08-10 20:37:16 -0700'
-  content: "[&#8230;] CEO &#038; co-founder Kohl Crecelius recently shared his three
-    pieces of encouragement for dreamers and doers on their blog. Visit the post,
-    get encouraged, and enter to win a 3 day pass [&#8230;]"
-- id: 4208
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-08-10 16:15:00 -0700'
-  date_gmt: '2016-08-10 23:15:00 -0700'
-  content: So good, right??
-- id: 4209
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-08-10 16:15:00 -0700'
-  date_gmt: '2016-08-10 23:15:00 -0700'
-  content: He's the best!
-- id: 4210
-  author: Marisa Vitale
-  author_email: marisa@marisavitale.com
-  author_url: ''
-  date: '2016-08-10 17:43:00 -0700'
-  date_gmt: '2016-08-11 00:43:00 -0700'
-  content: Love Krochet Kids so much!
-- id: 4211
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-08-11 14:53:00 -0700'
-  date_gmt: '2016-08-11 21:53:00 -0700'
-  content: They're amazing!!
 ---
 <h2><em>PLUS...WIN $100 TO KROCHET KIDS, A TICKET TO YELLOW AAAND A SURPRISE GIFT WORTH $100! &nbsp;// Update: Giveaway closed, winner has been notified and chosen!</em></h2><br />
 <em><a href="http://www.krochetkids.org/" target="_blank">Krochet Kids intl.</a> is a lifestyle brand as well as an innovative non-profit empowering women in Uganda and Peru. In effort to bridge the gap between our clothing and the individuals creating them, every product they make is hand-signed by the woman who made it, and you can even leave her a<a href="http://www.krochetkids.org/what-we-do/meet-the-ladies/" target="_blank"> message of gratitude</a> on their website!&nbsp;Every product represents a path toward self-sufficiency for a lady in <a href="http://www.krochetkids.org/what-we-do/our-impact/" target="_blank">Uganda or Peru</a>, and in addition to consistent employment, the organization also provides mentorship and education.<a href="http://yellowconference.com/wp-content/uploads/2016/07/spring2016pike.jpg"><br />

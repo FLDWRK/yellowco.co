@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT I LEARNED ABOUT BEING A PIONEER AFTER A PLANE RIDE REGRET-FEST
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8274
+title: What I Learned About Being a Pioneer After a Plane Ride Regret-Fest
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8274
 date: '2017-03-31 04:00:10 -0700'
-date_gmt: '2017-03-31 11:00:10 -0700'
 categories:
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p>I'm currently writing this post while in a hotel room in China on a 22 hour layover. Yes, you read that right, 22 hour layover. They exist.</p>
 <p>I'm heading home to LA after spending&nbsp;the most amazing 3 weeks in Vietnam.&nbsp;I planned this trip last year for my husband Nolan's 30th birthday and our 5 year anniversary. Although these things happened in 2016, we weren't able to actually take the trip until now. I say extend celebrations as long as you can, right?</p>

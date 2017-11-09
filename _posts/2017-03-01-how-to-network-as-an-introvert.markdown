@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO NETWORK AS AN INTROVERT
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 7996
+title: How to Network as an Introvert
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=7996
 date: '2017-03-01 04:00:19 -0800'
-date_gmt: '2017-03-01 12:00:19 -0800'
 categories:
 - Advice
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p>Whether you're an entrepreneur or you work for someone else, you will inevitably be tasked with going out into the world and representing your either your business or yourself. If you are an introvert, that can feel like a <em>completely</em> overwhelming prospect. <strong>But trust me when I say that it is possible to get out there, network and grow your business, all while using your amazing personality type to your advantage.</strong></p>
 <p><span style="font-weight: 400;">Over time, I have discovered these&nbsp;tried, tested, and true ways that I was able to network like a pro, while honoring my introverted soul.</span></p>

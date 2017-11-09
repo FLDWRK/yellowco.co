@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 3 THINGS THAT ALMOST STOPPED THE YELLOW CONFERENCE FROM HAPPENING
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6165
+title: 3 Things that Almost Stopped the Yellow Conference from Happening
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6165
 date: '2016-07-19 04:00:40 -0700'
-date_gmt: '2016-07-19 11:00:40 -0700'
 categories:
 - Advice
 - The Starter
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/07/IDEAS-to-reality.jpg"><img class="aligncenter size-full wp-image-6193" src="http://yellowconference.com/wp-content/uploads/2016/07/IDEAS-to-reality.jpg" alt="IDEAS-to-reality" width="700" height="1156" /></a></p>
 <p>I came up with the idea for Yellow Conference while in the shower. I'll never forget it. It was December 2013, and after getting caught up in a competitive, catty, self-centered culture I was&nbsp;left in a not so great&nbsp;place emotionally and creatively.</p>

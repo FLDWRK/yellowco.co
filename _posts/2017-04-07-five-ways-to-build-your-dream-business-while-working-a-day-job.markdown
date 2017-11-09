@@ -1,53 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: FIVE WAYS TO BUILD YOUR DREAM BUSINESS WHILE WORKING A DAY JOB
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8296
+title: Five Ways to Build Your Dream Business While Working a Day Job
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8296
 date: '2017-04-07 04:00:16 -0700'
-date_gmt: '2017-04-07 11:00:16 -0700'
 categories:
 - Wander
-tags:
-- day job
-- passion project
-- build your business
-- priorities
-- time management
-- freelance
-- self employment
-- freelancer
-- entrepreneur
-- women
-- creative women
-- dream job
-- dream business
-- owning a business
-comments:
-- id: 4348
-  author: Mallory - MissMalaprop.com
-  author_email: mallory@missmalaprop.com
-  author_url: http://www.missmalaprop.com/
-  date: '2017-04-07 13:24:00 -0700'
-  date_gmt: '2017-04-07 20:24:00 -0700'
-  content: "Thank you so much for sharing your experience Jessica! I can totally identify
-    and relate to this. I wrote about my experience last year, after backing off to
-    a 32-hour work week at my day job. http://www.missmalaprop.com/elusive-glamour-of-quitting-your-day-job/\n\nThey've
-    been very supportive of my own entrepreneurial endeavors, which have enabled me
-    to bring a fresh perspective and new ideas back to our clients at the agency where
-    I work. I'm an advocate for intrapreneurship and thinking entrepreneurially within
-    your existing day job. The world needs more fresh minds and innovation. \n\nI've
-    had a chance to speak about this topic a couple of times already this year and
-    the idea seems to really resonate with people. It's not about either/or. It's
-    about finding what works best for YOU."
 ---
 <p><span style="font-weight: 400;">For the past five years, I have been employed full time while growing my own business. I know that seems like a long time - a lot of stories told&nbsp;are about people who just take the leap when the business begins. But sometimes the reality is you, your business, your finances, or your personal situation need you stick it out a bit longer. </span></p>
 <p><span style="font-weight: 400;">In April, I&rsquo;m finally taking my own business full-time, but I&rsquo;ve learned quite a bit through my five years of &ldquo;double duty&rdquo;. If this is where you are, my hope is that you utilize these to help with the impatient, but important task of building your dream outside of your 9 to 5. </span></p>

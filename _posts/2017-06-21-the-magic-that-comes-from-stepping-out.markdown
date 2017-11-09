@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: A FEW WORDS FROM OUR COLLECTIVE MEMBERS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8826
+title: A Few Words from Our Collective Members
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8826
 date: '2017-06-21 04:00:18 -0700'
-date_gmt: '2017-06-21 11:00:18 -0700'
 categories:
 - Wander
-tags: []
-comments: []
 ---
 <p>If you haven't heard by now, <a href="https://yellowco.myshopify.com/collections/the-yellow-collective" target="_blank" rel="noopener noreferrer">The Yellow Collective</a> is o-to-the-pen. Wide open until June 30th. That means this is your chance to join the most <em>incredible</em>&nbsp;group of women I've ever had the chance of getting to know. The Yellow Collective members aren't your average "women in business" kind of gals.</p>
 <h3>The women&nbsp;in our community are&nbsp;fiercely passionate, extraordinarily creative, beautifully brave, <em>and</em>&nbsp;they have a deep desire, a hunger even, to serve something bigger than themselves.</h3><br />

@@ -1,25 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: STOP LETTING UNMET EXPECTATIONS HOLD YOU BACK
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7750
+
+title: Stop Letting Unmet Expectations Hold You Back
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=7750
 date: '2017-01-27 04:00:40 -0800'
-date_gmt: '2017-01-27 12:00:40 -0800'
 categories:
 - Advice
 - Encouragement
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <h4><strong>The numbers were looking good. <i>Really</i></strong><span style="font-weight: 400;"><strong> good.</strong> </span></h4><br />
 <span style="font-weight: 400;">We had done plenty of workshops before. <em>They are our jam.</em> We thrive on connecting and&nbsp;bringing&nbsp;energy to a crowd.&nbsp;</span><span style="font-weight: 400;">But this time around was different. This was the first time we&rsquo;d be selling our brand new course and we had high expectations.</span></p>

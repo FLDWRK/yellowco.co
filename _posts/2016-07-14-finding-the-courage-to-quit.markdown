@@ -1,59 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: FINDING THE COURAGE TO QUIT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6090
+title: Finding the Courage to Quit
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6090
 date: '2016-07-14 04:00:11 -0700'
-date_gmt: '2016-07-14 11:00:11 -0700'
 categories:
 - Advice
 - Encouragement
-- VALOR
-tags: []
-comments:
-- id: 4154
-  author: That First Year
-  author_email: info@thatfirstyearblog.com
-  author_url: http://www.thatfirstyearblog.com/
-  date: '2016-07-14 15:25:00 -0700'
-  date_gmt: '2016-07-14 22:25:00 -0700'
-  content: EXACTLY what I needed to read today -- thank you for this encouragement!
-    - Ally
-- id: 4155
-  author: Christy Allen
-  author_email: hello.christyallen@gmail.com
-  author_url: ''
-  date: '2016-07-14 16:10:00 -0700'
-  date_gmt: '2016-07-14 23:10:00 -0700'
-  content: "Love this. Thank you for sharing it. \nI was once given similar advice
-    from my dad. He said, \"No matter what decision you make, someone won't be happy.
-    Just make sure that someone isn't you.\""
-- id: 4156
-  author: Bri Towne
-  author_email: hello@lifebybri.com
-  author_url: http://www.lifebybri.com/
-  date: '2016-07-18 12:47:00 -0700'
-  date_gmt: '2016-07-18 19:47:00 -0700'
-  content: i LOVE that advice! it's often so hard to follow but ya gotta do what's
-    best for you. xo
-- id: 4157
-  author: Jannely Fern&aacute;ndez
-  author_email: jannelye@gmail.com
-  author_url: ''
-  date: '2016-07-26 10:38:00 -0700'
-  date_gmt: '2016-07-26 17:38:00 -0700'
-  content: I stuck to a relationship for 4 years because I was afraid what would others
-    think. I didn't want to be the quitter. This article spoke to me. In life you
-    have to quit things sometimes to be redirected to the right path.
+- Valor
 ---
 <h2><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-75.jpg"><img class="aligncenter size-full wp-image-6099" src="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-75.jpg" alt="ValerieDenisePhotos-75" width="700" height="467" /></a>I am a quitter.</span></h2><br />
 I&rsquo;ve quit more things in my life than I can count. I quit dancing, I quit my high school&rsquo;s musical, I even quit a full-ride to study musical theater. The list goes on and on.</p>

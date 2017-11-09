@@ -1,43 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: FIVE TRUTHS WHY SUCCESS IS ROOTED IN LOVING PEOPLE WELL
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 7951
+title: Five Truths Why Success is Rooted in Loving People Well
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=7951
 date: '2017-02-20 04:00:40 -0800'
-date_gmt: '2017-02-20 12:00:40 -0800'
 categories:
 - Inspiration
 - The Leader
-- PIONEER
-tags: []
-comments:
-- id: 4325
-  author: Ch&eacute; Elizaga
-  author_email: che.lynne@yahoo.com
-  author_url: ''
-  date: '2017-02-21 11:33:00 -0800'
-  date_gmt: '2017-02-21 19:33:00 -0800'
-  content: '"Sweetness comes in living out a calling, rising to challenges, and being
-    part of something that truly loves others well." Beautiful Char! Thanks for reminding
-    us of the human side of business. I work for a tech company as a content writer
-    and my mentor is always encouraging me to dig out those nuggets of helpfulness
-    for humans. We''re not talking machine-to-machine here. Thanks for sharing :)'
-- id: 4326
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2017-02-21 13:02:00 -0800'
-  date_gmt: '2017-02-21 21:02:00 -0800'
-  content: So glad you liked it Che!!
+- Pioneer
 ---
 <p>I started my business eight years ago on an old Dell computer in the basement of my home. It&rsquo;s no exaggeration when I say I barely knew what a logo was - much less anything about business strategy. I really had no intention of owning a company. Simply, I was deeply passionate about creating with my camera (which I also knew nothing about), and decided I may as well make a small profit in the process. Business was a learning curve I didn&rsquo;t see coming. I learned the art of it by falling on my face and picking myself back up again - over, and over again. The journey of business is usually far less glamorous than we anticipate. It&rsquo;s small steps forward and certainly some backward. But in the process, the unexpected happened. I fell in love with business. Today my company, <a href="http://char-co.com/" target="_blank">Char Co., is a brand and marketing firm specializing in crafting powerful brand stories</a>. Our niche today was born out of our pain point, along with a deep love for people. Today we are honored to craft stories for brands around the world.</p>
 <p><span style="font-weight: 400;">If there is one thing I have learned over the years, it&rsquo;s this: </span><em><strong>Business is the art of loving people well. </strong></em></p>

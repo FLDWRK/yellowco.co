@@ -1,26 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE PASSIONS OF OUR LEADERS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8863
+title: The Passions of Our Leaders
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8863
 date: '2017-06-26 07:40:51 -0700'
-date_gmt: '2017-06-26 14:40:51 -0700'
 categories:
 - Wander
-tags:
-- women entrepreneurs
-- Yellow Collective
-- yellow collective chapters
-comments: []
 ---
 <p>As you may have heard, <a href="http://yellowcollective.com/" target="_blank" rel="noopener noreferrer">The Yellow Collective membership</a> is open until Friday of this week! If you want to get in on next quarter, make sure to <a href="http://yellowcollective.co/" target="_blank" rel="noopener noreferrer">hop on</a> before we close up!</p>
 <p>We currently have 16 Collective chapters across the country, meeting monthly (see current chapters in the image above). The women leading these chapters have a desire to come together and make this world a better place. They each have their own causes they're passionate about while they pour into and connect with our members every month, encouraging and inspiring them to lean into what they too, care about in this world.</p>

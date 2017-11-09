@@ -1,71 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: LIVING YOUR LIFE WITH YOUR LEGACY IN MIND, NO MATTER WHAT YOUR PAST HOLDS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7654
+title: Living Your Life with Your Legacy in Mind, No Matter What Your Past Holds
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7310
 date: '2016-12-19 04:00:29 -0800'
-date_gmt: '2016-12-19 12:00:29 -0800'
 categories:
 - Creative Ladies
 - Inspiration
-- HEART
-tags: []
-comments:
-- id: 4275
-  author: Becky Morquecho
-  author_email: becky@idealustlife.com
-  author_url: http://idealustlife.com/
-  date: '2016-12-19 12:56:00 -0800'
-  date_gmt: '2016-12-19 20:56:00 -0800'
-  content: 'Sally! Thank you for sharing this! You are incredible! And all 5 of those
-    kids are going to/are doing beautiful things because of your brave, brave
-    heart. '
-- id: 4276
-  author: Bri Towne
-  author_email: hello@lifebybri.com
-  author_url: http://www.lifebybri.com/
-  date: '2016-12-20 04:46:00 -0800'
-  date_gmt: '2016-12-20 12:46:00 -0800'
-  content: ugh. sally. making me cry again.
-- id: 4277
-  author: Amy Harris
-  author_email: 2amyharris@gmail.com
-  author_url: ''
-  date: '2016-12-20 09:59:00 -0800'
-  date_gmt: '2016-12-20 17:59:00 -0800'
-  content: Love
-- id: 4278
-  author: Meg Long
-  author_email: megmarylong@gmail.com
-  author_url: http://www.meglongcreative.com
-  date: '2016-12-20 11:39:00 -0800'
-  date_gmt: '2016-12-20 19:39:00 -0800'
-  content: Tears--this is so powerful. LOVE!
-- id: 4279
-  author: Madison Hedlund
-  author_email: madison@madisonhedlund.co
-  author_url: ''
-  date: '2017-01-14 17:18:00 -0800'
-  date_gmt: '2017-01-15 01:18:00 -0800'
-  content: Sally, you are such a beautiful spirit. I can't wait to meet you this year
-    at Yellow. Thanks for sharing your story here and at The Bravery Board. We were
-    so honored.
-- id: 4280
-  author: admin
-  author_email: joannanoelwaterfall@gmail.com
-  author_url: http://yellowconference.com
-  date: '2017-01-14 21:03:49 -0800'
-  date_gmt: '2017-01-15 05:03:49 -0800'
-  content: It will be the best!
+- Heart
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos9of64.jpg"><img class="aligncenter wp-image-7484" src="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos9of64.jpg" alt="valeriedenisephotos9of64" width="700" height="1010" /></a>I don't share much about my childhood. It's sometimes a relief to have such a distracting present-<em>Oh, you're a mom of five?! What!&nbsp;</em>-this is how many&nbsp;conversations go, and I don't mind the diversion.</h2><br />
 But there's a whole childhood resting under the hood of this (seemingly) well oiled machine. It impacts many of my choices, how words and actions affect me, my work and my relationships. It affects how I hear things, how I normalize things, and what causes me stress. No matter if you come from a great childhood or an extremely dysfunctional one like me, our stories effect our present, whether we like it or not. Our childhood can either shadow or haunt us-our perspective is what creates its form.</p>
