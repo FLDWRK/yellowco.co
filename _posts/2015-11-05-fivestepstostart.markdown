@@ -8,7 +8,7 @@ categories:
 - Creative Ladies
 - Advice
 - Inspiration
-- REFINE
+- Refine
 - The Activist
 - The Starter
 - Encouragement

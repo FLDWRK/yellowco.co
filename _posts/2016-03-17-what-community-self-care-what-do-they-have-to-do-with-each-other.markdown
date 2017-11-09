@@ -1,64 +1,15 @@
 ---
-layout: post
-status: publish
-published: true
-title: COMMUNITY AND SELF CARE-WHAT DO THEY HAVE TO DO WITH EACH OTHER?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5079
+title: Community and Self Care-What Do They Have to Do With Each Other?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5079
 date: '2016-03-17 04:00:01 -0700'
-date_gmt: '2016-03-17 11:00:01 -0700'
 categories:
 - Advice
 - The Activist
 - The Starter
 - The Solopreneur
 - The Leader
-- BUILD
-tags: []
-comments:
-- id: 4083
-  author: Jason Wert
-  author_email: jason@jcwert.com
-  author_url: http://www.mustardseedyear.com/
-  date: '2016-03-17 10:02:00 -0700'
-  date_gmt: '2016-03-17 17:02:00 -0700'
-  content: Michelle rocks.
-- id: 4084
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-03-17 12:42:00 -0700'
-  date_gmt: '2016-03-17 19:42:00 -0700'
-  content: Agreed.
-- id: 4085
-  author: Julie Fiandt - In Tandem
-  author_email: julie@createintandem.com
-  author_url: http://www.createintandem.com
-  date: '2016-03-18 09:17:00 -0700'
-  date_gmt: '2016-03-18 16:17:00 -0700'
-  content: This is a fabulous piece! Thank you!
-- id: 4086
-  author: 'Must-Reads for Creatives: Radical Imagination for a Just World - In Tandem'
-  author_email: ''
-  author_url: http://www.createintandem.com/must-reads-creatives-radical-imagination/
-  date: '2016-03-18 12:28:44 -0700'
-  date_gmt: '2016-03-18 19:28:44 -0700'
-  content: "[&#8230;] Community and Self-Care&mdash;What Do They Have to Do With Each
-    Other? >>> [&#8230;]"
-- id: 4087
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-03-18 14:11:00 -0700'
-  date_gmt: '2016-03-18 21:11:00 -0700'
-  content: Glad you liked it Julie!!
+- Build
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/03/unspecified.jpg"><img class="aligncenter size-full wp-image-5081" src="http://yellowconference.com/wp-content/uploads/2016/03/unspecified.jpg" alt="unspecified" width="700" height="466" /></a>Striving. If I could use one word to describe the current state of my life in a very neat and tidy way,<em> striving</em> would be it.</h2><br />
 Striving for new opportunities in my career and creative life. Striving for balance in being a new(ish) mom. Striving to maintain friendships and a healthy marriage. Striving to find sanity amongst the gazillion things I pile into a week to meet my goals and spend time in the areas I care about and am responsible in.</p>

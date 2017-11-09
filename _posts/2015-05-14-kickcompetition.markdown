@@ -7,7 +7,7 @@ categories:
 - Advice
 - Encouragement
 - Team Members
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/05/photo-1416838375725-e834a83f62b7.jpg"><img class="aligncenter size-full wp-image-2896" src="http://yellowconference.com/wp-content/uploads/2015/05/photo-1416838375725-e834a83f62b7.jpg" alt="photo-1416838375725-e834a83f62b7" width="700" height="466" /></a></p>
 <p>In high school, I wrote an essay about why we feel jealous when the people closest to us experience success. I remember sitting at my desk and just staring at my blank paper for a while. My first instinct was to eloquently share how I never felt that way. But the longer I sat there, the more I knew this wasn&rsquo;t true.</p>

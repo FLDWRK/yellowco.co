@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO BE A BOSS LADY WITHOUT BEING RUDE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5867
+title: How to Be a Boss Lady Without Being Rude
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5867
 date: '2016-06-21 04:00:52 -0700'
-date_gmt: '2016-06-21 11:00:52 -0700'
 categories:
 - Advice
 - The Leader
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <p class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-43.jpg"><img class="aligncenter size-full wp-image-5870" src="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-43.jpg" alt="Don't be a bossy boss lady-The Yellow Co. Blog" width="700" height="1025" /></a></span><span class="s1">It&rsquo;s a natural inclination to want to control in order to get. However, I want to challenge that idea with the thought that being&nbsp;<em>rude</em> in the pursuit for it&nbsp;isn&rsquo;t necessarily best. Allow me to elaborate&hellip;</span><a href="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-57.jpg"><img class="aligncenter size-full wp-image-5874" src="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-57.jpg" alt="Don't be a bossy boss lady-The Yellow Co. Blog" width="700" height="467" /></a><span class="s1">I still remember the first time I had the opportunity to manage my own team. I had just launched an online magazine and had acquired a team of writers. My childhood dreams of becoming an Editor-in-Chief of a magazine were finally coming true. It only took a couple of weeks for me to realize that I had no idea what I was doing when it came to managing other people. I remembered reporting to micromanagers in the workplace and due to wanting to avoid that I started by offering a completely lax environment. No rules, no guidelines, no vision. Tsk, tsk, tsk. And then, when I received the first round of articles I was, well, disappointed. Nobody had captured my vision, none of the formatting or writing was the same, and the topics were very sporadic. I was the only one to blame. Instantly, there was a desire to want to control; to want to tell people what to do and how to do it. I wanted everything to be perfect. I wanted to become a&nbsp;<i>bossy-pants.</i></span></p></p>
 <p class="p1"><span class="s1">Have you ever felt that way? Perhaps, had a colleague, an employee, a friend not do things the way you think they should be done and then instantly want to control? I know I have.<a href="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-60.jpg"><img class="aligncenter size-full wp-image-5872" src="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-60.jpg" alt="ValerieDenisePhotos-60" width="700" height="467" /></a></span><span class="s1">The trick is finding the balance. </span></p></p>

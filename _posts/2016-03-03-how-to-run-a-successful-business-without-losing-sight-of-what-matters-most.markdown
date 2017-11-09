@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO RUN A SUCCESSFUL BUSINESS WITHOUT LOSING SIGHT OF WHAT MATTERS MOST
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5048
+title: How to Run a Successful Business Without Losing Sight of What Matters Most
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5048
 date: '2016-03-03 04:00:55 -0800'
-date_gmt: '2016-03-03 12:00:55 -0800'
 categories:
 - Creative Ladies
 - Advice
-- BUILD
-tags: []
-comments: []
+- Build
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/03/MG_1261-copy.jpg"><img class="aligncenter size-full wp-image-5049" src="http://yellowconference.com/wp-content/uploads/2016/03/MG_1261-copy.jpg" alt="MG_1261-copy" width="700" height="1050" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/03/ac1.jpg"><br />
 </a>When my business partner and I founded <em><a href="http://inkandwell.org/" target="_blank">Ink &amp; Well</a>,</em> our number one goal was creating something that allowed life and family to come first while work came in second. As new moms, it was important for us to find ways to produce stellar results for our clients while still maintaining a daily, predictable presence in our children&rsquo;s lives. Babies crying in the background of conference calls and Cheerios in purses seemed inevitable, but we knew balance had to be attainable. It would just take a little finagling.</p>

@@ -6,7 +6,7 @@ date: '2015-07-30 04:00:21 -0700'
 categories:
 - Light Talk
 - Creative Ladies
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - The Activist
 - Yellow 2015
 ---

@@ -1,5 +1,5 @@
 ---
-title: Bloom For Hope Recap
+title: Bloom for Hope Recap
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1344
 date: '2014-12-08 14:10:26 -0800'

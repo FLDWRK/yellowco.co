@@ -1,5 +1,5 @@
 ---
-title: 'Help us #bloomtogether'
+title: 'Help Us #bloomtogether'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2316
 date: '2015-03-20 02:39:16 -0700'

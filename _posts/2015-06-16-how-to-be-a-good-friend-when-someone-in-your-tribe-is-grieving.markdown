@@ -1,5 +1,5 @@
 ---
-title: How to be There for a Grieving Friend
+title: How to Be There for a Grieving Friend
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3110
 date: '2015-06-16 04:00:07 -0700'
@@ -7,7 +7,7 @@ categories:
 - Advice
 - Inspiration
 - Encouragement
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/Andre-Freitas-copy.jpg"><img class="aligncenter size-full wp-image-3081" src="http://yellowconference.com/wp-content/uploads/2015/06/Andre-Freitas-copy.jpg" alt="Yellow Conference Blog" width="700" height="467" /></a></p>
 <p>We have all felt the hard truth that the world is not always kind to us. Suffering is real. Those we love get sick, we get our hearts broken, we hear those dreadful words: &ldquo;I&rsquo;m sorry, we have to let you go&rdquo; or &ldquo;The tumor is malignant.&rdquo; In life, things often do not go the way we envision them.</p>

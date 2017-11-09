@@ -1,5 +1,5 @@
 ---
-title: Don't Focus On The Destination
+title: Don't Focus On the Destination
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2875
 date: '2015-04-30 04:15:48 -0700'

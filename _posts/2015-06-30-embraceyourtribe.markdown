@@ -1,5 +1,5 @@
 ---
-itle: Three Ways to Make your Relationships Healthier
+itle: Three Ways to Make Your Relationships Healthier
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3203
 date: '2015-06-30 04:00:41 -0700'
@@ -7,7 +7,7 @@ categories:
 - Light Talk
 - Advice
 - Inspiration
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/image5.jpg"><img class="aligncenter size-full wp-image-3204" src="http://yellowconference.com/wp-content/uploads/2015/06/image5.jpg" alt="YELLOW CONFERENCE EMBRACE YOUR TRIBE" width="700" height="700" /></a></p>
 <p>I'm on my way home to the midwest from the American southwest with a few members of my tribe; my grandpa, grandma and cousin. We've spent the last few weeks driving from the flat land prairies to the mountainous desert to be a part of some life changing events for our family members&nbsp;who prefer living in the desert heat. We've driven 5,000 miles, outrun tornadoes, and stayed in a different state every night. I'm now master of transforming the camper kitchen table into a bed nook. I&rsquo;ve survived public showers with geckos, snakes and other 8-legged creatures.</p>

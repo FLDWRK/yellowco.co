@@ -1,5 +1,5 @@
 ---
-title: Starting The New Year With Thanks
+title: Starting the New Year With Thanks
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1591
 date: '2014-12-30 04:00:40 -0800'

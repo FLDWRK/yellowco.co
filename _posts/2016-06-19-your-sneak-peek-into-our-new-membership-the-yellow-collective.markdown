@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'YOUR SNEAK-PEEK INTO OUR NEW MEMBERSHIP: THE YELLOW COLLECTIVE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5857
+title: 'Your Sneak-Peek Into Our New Membership: the Yellow Collective'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5857
 date: '2016-06-19 04:00:58 -0700'
-date_gmt: '2016-06-19 11:00:58 -0700'
 categories:
 - Light Talk
 - Yellow 2016
 - Yellow Collective
-tags: []
-comments: []
 ---
 <p><em><a href="http://yellowconference.com/wp-content/uploads/2016/06/Author_Template.jpg"><br />
 </a><a href="http://yellowconference.com/wp-content/uploads/2016/06/untitled-128-of-1234.jpg"><img class="aligncenter size-full wp-image-5860" src="http://yellowconference.com/wp-content/uploads/2016/06/untitled-128-of-1234.jpg" alt="The Yellow Collective is The Yellow Co.'s way to bring the same empowerment, inspiration, and connection from the conference to women all year long. " width="700" height="467" /></a>Big things are happening at Yellow Co. this year! As some of you know, we&rsquo;re in the process of building our new membership platform, The Yellow Collective-Our vision is that this will be tangible way for women to feel empowered, inspired, and connected all year long through the use of a quarterly box, online resources and an in-person gathering. Interested in hearing more? Sign up for our interest list <a href="http://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&amp;id=e811fb1a74" target="_blank">here.</a>&nbsp;</em></p>

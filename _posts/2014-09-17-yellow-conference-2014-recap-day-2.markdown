@@ -1,5 +1,5 @@
 ---
-title: Yellow Conference 2014 RECAP &ndash; DAY 2
+title: Yellow Conference 2014 Recap &ndash; Day 2
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=869
 date: '2014-09-17 16:23:16 -0700'

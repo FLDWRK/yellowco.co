@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: OUR (free) MARCH GATHERING & SOME EXCITING NEWS!!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5030
+title: Our (Free) March Gathering & Some Exciting News!!
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5030
 date: '2016-02-25 04:07:18 -0800'
-date_gmt: '2016-02-25 12:07:18 -0800'
 categories:
 - Yellow Collective
-tags: []
-comments: []
 ---
 <p><a href="https://wayfare.ticketleap.com/yellow-collective-launch-party/dates/Mar-07-2016_at_0730PM" target="_blank"><img class="aligncenter size-full wp-image-5037" src="http://yellowconference.com/wp-content/uploads/2016/02/Pilot-party-Blog-Post-2.jpg" alt="Pilot-party-Blog-Post-2" width="700" height="1547" /></a></p>
 <p>Hey y'all! Joanna Waterfall here.</p>

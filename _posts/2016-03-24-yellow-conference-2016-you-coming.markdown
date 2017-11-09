@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: YELLOW CONFERENCE 2016- YOU COMING?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5115
+title: Yellow Conference 2016- You Coming?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5115
 date: '2016-03-24 04:16:29 -0700'
-date_gmt: '2016-03-24 11:16:29 -0700'
 categories:
 - Yellow 2016
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/03/Prices-go-up.jpg"><img class="aligncenter wp-image-5116" src="http://yellowconference.com/wp-content/uploads/2016/03/Prices-go-up-1024x1024.jpg" alt="Prices-go-up" width="700" height="700" /></a></p>
 <p style="text-align: center;"><a class="unii-listing-button unii-black unii-medium" href="https://www.universe.com/events/yellow-conference-2016-tickets-los-angeles-F2Q869">GRAB YOUR TICKET</a></p><br />

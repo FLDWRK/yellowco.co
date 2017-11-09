@@ -1,33 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE THREE QUESTIONS YOU MUST ASK BEFORE TAKING ON A PROJECT FOR FREE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5290
+title: The Three Questions You Must Ask Before Taking On a Project for Free
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5290
 date: '2016-04-19 04:00:33 -0700'
-date_gmt: '2016-04-19 11:00:33 -0700'
 categories:
 - Advice
 - The Solopreneur
-- GRIT
-tags: []
-comments:
-- id: 4114
-  author: 'Must-Reads for Creatives: Constraint vs. Freedom - In Tandem'
-  author_email: ''
-  author_url: http://www.createintandem.com/must-reads-creatives-constraint-vs-freedom/
-  date: '2016-04-24 07:36:47 -0700'
-  date_gmt: '2016-04-24 14:36:47 -0700'
-  content: "[&#8230;] The Three Questions You Must Ask Before Taking on a Project
-    for Free >>> [&#8230;]"
+- Grit
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/04/2062928.jpg"><img class="aligncenter size-full wp-image-5291" src="http://yellowconference.com/wp-content/uploads/2016/04/2062928.jpg" alt="2062928" width="700" height="467" /></a>I recall one time being asked if I could drive an hour away to document an event for free because the photographer bailed. &ldquo;We can&rsquo;t pay you, but you would get as much free coffee as you want!&rdquo; I was told. As much as I love coffee, the event was at nighttime so... how many coffees would I have to drink exactly in order for this to be worth it to me and not feel sick by the end of the night?</p>
 <p>I weighed my pros and cons. Networking opportunities, photos I would probably never use again&hellip;realistically, they would probably tag me once or twice-not giving me substantial exposure&hellip;editing time, coffee, and maybe a goodie-bag. Okay... so I asked, <em>&ldquo;Could my gas at least be covered?&rdquo;</em></p>

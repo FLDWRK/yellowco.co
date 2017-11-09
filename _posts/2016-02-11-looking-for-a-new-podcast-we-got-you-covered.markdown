@@ -1,83 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: LOOKING FOR A NEW PODCAST FOR YOUR COMMUTE? WE'VE GOT YOU COVERED.
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4975
+title: Looking for a New Podcast for Your Commute? We've Got You Covered.
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4975
 date: '2016-02-11 04:00:14 -0800'
-date_gmt: '2016-02-11 12:00:14 -0800'
 categories:
 - Light Talk
-- BUILD
-tags: []
-comments:
-- id: 4053
-  author: Kim @ Pattern of Purpose
-  author_email: kim@patternofpurpose.com
-  author_url: http://www.patternofpurpose.com
-  date: '2016-02-11 07:17:00 -0800'
-  date_gmt: '2016-02-11 15:17:00 -0800'
-  content: This is SO timely as I was just looking for podcast lists this morning!
-    I also love Being Boss and the Chalene Show.
-- id: 4054
-  author: Michelle Houghton
-  author_email: houghtonme@gmail.com
-  author_url: ''
-  date: '2016-02-11 09:13:00 -0800'
-  date_gmt: '2016-02-11 17:13:00 -0800'
-  content: I am a huge podcast fanatic and you named all of my top ones! Have you
-    ever listened any of the FORBS (Friends of Rob Bell) series with Pete Holmes?
-    Some of the authors, scientists, and theologians he has had on there are sharing
-    ideas that have changed my life. I highly recommend the Science Mike, Richard
-    Rhor, and Peter Rollins episodes. Completely changed my outlook on faith. Magic
-    Lessons and Dear Sugar are basically my bible as of late too. Thanks for sharing
-    this post! There are a few on here I haven't listened to yet and can't wait to
-    check them out!
-- id: 4055
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-02-12 09:01:00 -0800'
-  date_gmt: '2016-02-12 17:01:00 -0800'
-  content: These are awesome suggestions- def gonna check these out :)
-- id: 4056
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-02-12 09:01:00 -0800'
-  date_gmt: '2016-02-12 17:01:00 -0800'
-  content: Woo! Being Boss is so good :)
-- id: 4057
-  author: LINK LOVE NO. 2 | WANDERLETTE
-  author_email: ''
-  author_url: http://www.kahnitawilkerson.com/?p=401
-  date: '2016-02-12 14:24:31 -0800'
-  date_gmt: '2016-02-12 22:24:31 -0800'
-  content: "[&#8230;] A good way to mix it up the commute is to listen to podcasts.
-    The Yellow Blog rounds up some of the most interesting podcasts out right [&#8230;]"
-- id: 4058
-  author: Podcasts For All! | all this to say
-  author_email: ''
-  author_url: https://laurenrebekahblog.wordpress.com/2016/02/11/podcasts-for-all/
-  date: '2016-02-16 17:58:11 -0800'
-  date_gmt: '2016-02-17 01:58:11 -0800'
-  content: "[&#8230;] This post was published on the amazing Yellow Co. blog!&nbsp;
-    [&#8230;]"
-- id: 4059
-  author: Five Alive Friday &bull; Checks and Spots
-  author_email: ''
-  author_url: https://checksandspots.com/uncategorized/five-alive-friday-208/
-  date: '2016-02-25 21:02:34 -0800'
-  date_gmt: '2016-02-26 05:02:34 -0800'
-  content: "[&#8230;] new podcasts to dive [&#8230;]"
+- Build
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/02/2013-11-11_0011.jpg"><img class="aligncenter size-full wp-image-4977" src="http://yellowconference.com/wp-content/uploads/2016/02/2013-11-11_0011.jpg" alt="2013-11-11_0011" width="700" height="467" /></a>I commuted over two hours to work about 7 years ago, and I do not know how I would have been able to make it without podcasts. Sure, I love music, and there is something special about being able to listen to records all the way through without arriving at a destination &ndash; but day after day, it does get old.</p>
 <p>Podcasts are certainly not a new form of entertainment, but they are having their moment in the spotlight, particularly after <em>Serial</em> (a true crime-esque podcast produced by another podcast <em>This American Life</em> &ndash; that&rsquo;s some epic podcast-ception) garnered big media attention and was downloaded 68million times (cnn.com).</p>

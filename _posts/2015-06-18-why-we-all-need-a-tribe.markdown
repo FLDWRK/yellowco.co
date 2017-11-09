@@ -8,7 +8,7 @@ categories:
 - Advice
 - Inspiration
 - Encouragement
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/15771818379_76b0792ab8_k.jpg"><img class="aligncenter size-full wp-image-3117" src="http://yellowconference.com/wp-content/uploads/2015/06/15771818379_76b0792ab8_k.jpg" alt="15771818379_76b0792ab8_k" width="700" height="1050" /></a></p>
 <p><strong>We need community.&nbsp;Because, let&rsquo;s be honest: it&rsquo;s <em>super</em> lonely without others.</strong></p>

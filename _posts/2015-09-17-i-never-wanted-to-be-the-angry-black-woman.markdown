@@ -1,11 +1,11 @@
 ---
-title: '"I Never Wanted To Be ''the Angry Black Woman''"'
+title: '"I Never Wanted To Be "the Angry Black Woman""'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3895
 date: '2015-09-17 04:00:05 -0700'
 categories:
 - Creative Ladies
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - Inspiration
 - The Activist
 ---

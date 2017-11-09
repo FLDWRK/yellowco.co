@@ -1,5 +1,5 @@
 ---
-title: 'Social Media: There is Power Behind the Why and What you Post.'
+title: 'Social Media: There is Power Behind the Why and What You Post.'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4186
 date: '2015-10-27 04:00:05 -0700'
@@ -7,7 +7,7 @@ categories:
 - Creative Ladies
 - Advice
 - Inspiration
-- REFINE
+- Refine
 - The Activist
 - The Starter
 - Encouragement

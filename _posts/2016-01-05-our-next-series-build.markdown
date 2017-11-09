@@ -9,7 +9,7 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
-- BUILD
+- Build
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2015/12/karenhernandezBUILD-opening-image.jpg"><img class="aligncenter size-full wp-image-4745" src="http://yellowconference.com/wp-content/uploads/2015/12/karenhernandezBUILD-opening-image.jpg" alt="The Yellow Co.: Build" width="700" height="467" /></a></h2></p>
 <h2>January. It's January.</h2><br />

@@ -1,39 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: I TOOK ONE SMALL STEP TOWARD MY DREAM JOB EVERYDAY-AND IT WORKED. HERE'S HOW
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5276
+title: I Took One Small Step Toward My Dream Job Everyday-and it Worked. Here's How
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5276
 date: '2016-04-14 04:00:29 -0700'
-date_gmt: '2016-04-14 11:00:29 -0700'
 categories:
 - The Starter
 - The Leader
-- GRIT
-tags: []
-comments:
-- id: 4112
-  author: wobin950
-  author_email: robinmarieliefeld@gmail.com
-  author_url: ''
-  date: '2016-04-15 07:34:00 -0700'
-  date_gmt: '2016-04-15 14:34:00 -0700'
-  content: Yes!  Just, yes!
-- id: 4113
-  author: Esther Park
-  author_email: estherpark3@gmail.com
-  author_url: ''
-  date: '2016-04-29 19:11:00 -0700'
-  date_gmt: '2016-04-30 02:11:00 -0700'
-  content: Awesome.
+- Grit
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/04/IMG_7128-1024x683.jpg"><img class="aligncenter size-full wp-image-5277" src="http://yellowconference.com/wp-content/uploads/2016/04/IMG_7128-1024x683.jpg" alt="IMG_7128-1024x683" width="700" height="467" /></a>I was so nervous to quit my &ldquo;real job&rdquo; and start my consulting business that I made myself physically ill.</h2><br />
 I was driving up to Santa Barbara with my boyfriend (now husband) for a wedding and it was 3 days before I was going to be with talking to my CEO and giving him the news. I had run through all the plans, anticipated the whole conversation of giving my notice, but still I was in knots about it. And by knots, I mean that I actually thought I had food poisoning! We ended up having to turn around once we got to Santa Barbara because I had gotten so sick at a restaurant that my boyfriend said it looked like my &ldquo;soul was drained from my body&rdquo;. It was not a good look on me.<a href="http://yellowconference.com/wp-content/uploads/2016/04/Baylie.jpg"><br />

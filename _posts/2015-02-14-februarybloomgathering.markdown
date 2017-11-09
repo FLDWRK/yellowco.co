@@ -1,5 +1,5 @@
 ---
-title: 'February Bloom Gathering: Come be a Part of Our Kickstarter!'
+title: 'February Bloom Gathering: Come Be a Part of Our Kickstarter!'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1981
 date: '2015-02-14 06:03:48 -0800'

@@ -1,5 +1,5 @@
 ---
-title: We need you! + A Giveaway
+title: We Need You! + a Giveaway
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4076
 date: '2015-09-29 04:30:25 -0700'

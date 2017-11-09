@@ -1,43 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY RISK AND VULNERABILITY EQUALS GROWTH
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5513
+title: Why Risk and Vulnerability Equals Growth
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5513
 date: '2016-05-24 04:00:35 -0700'
-date_gmt: '2016-05-24 11:00:35 -0700'
 categories:
 - Advice
 - Inspiration
-- GRIT
-tags: []
-comments:
-- id: 4123
-  author: Samantha Suarez
-  author_email: samanthasuarezblog@gmail.com
-  author_url: http://www.samanthasuarez.com
-  date: '2016-05-24 22:03:00 -0700'
-  date_gmt: '2016-05-25 05:03:00 -0700'
-  content: |-
-    This was such an inspiring post Kristi! I think it's important to remind yourself that risk can be good. Loved this post because I've been having to make a lot of big and small decisions lately.
-
-    x, Sam
-    http://www.samanthasuarez.com
-- id: 4124
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-05-25 18:04:00 -0700'
-  date_gmt: '2016-05-26 01:04:00 -0700'
-  content: So glad you enjoyed it Sam!! xoxo
+- Grit
 ---
 <h2 class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/05/MG_2612.jpg"><img class="aligncenter size-full wp-image-5599" src="http://yellowconference.com/wp-content/uploads/2016/05/MG_2612.jpg" alt="_MG_2612" width="700" height="1050" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/05/MG_13941.jpg"><br />
 </a>Without risk, where is opportunity? </span></h2></p>

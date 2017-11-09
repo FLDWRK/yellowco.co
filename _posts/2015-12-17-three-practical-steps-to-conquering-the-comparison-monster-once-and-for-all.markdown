@@ -6,7 +6,7 @@ date: '2015-12-17 04:00:26 -0800'
 categories:
 - Creative Ladies
 - Advice
-- REFINE
+- Refine
 - Encouragement
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/12/5-800x533.jpg"><img class="aligncenter size-full wp-image-4540" src="http://yellowconference.com/wp-content/uploads/2015/12/5-800x533.jpg" alt="the yellow co. blog: i fought the comparison monster, and WON....here's how." width="700" height="466" /></a>In a world where we are constantly inundated with messages from social media and other outlets, sometimes it&rsquo;s hard to find the truth about who we are and what it is we are supposed to do with this one amazing life we&rsquo;ve been given.</p>

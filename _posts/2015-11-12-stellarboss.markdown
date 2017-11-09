@@ -1,12 +1,12 @@
 ---
-title: How to be a Relatable Leader
+title: How to Be a Relatable Leader
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4235
 date: '2015-11-12 04:00:43 -0800'
 categories:
 - Creative Ladies
 - Advice
-- REFINE
+- Refine
 - Encouragement
 - The Leader
 ---

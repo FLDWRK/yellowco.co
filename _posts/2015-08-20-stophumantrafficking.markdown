@@ -5,7 +5,7 @@ wordpress_url: http://yellowconference.com/?p=3637
 date: '2015-08-20 04:00:03 -0700'
 categories:
 - Creative Ladies
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - Inspiration
 - The Activist
 - Encouragement

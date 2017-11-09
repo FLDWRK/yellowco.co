@@ -1,5 +1,5 @@
 ---
-title: Beauty out of Brokenness
+title: Beauty Out of Brokenness
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=582
 date: '2014-06-06 16:35:10 -0700'

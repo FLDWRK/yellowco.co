@@ -1,40 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'LET''S TALK BUSINESS: LLC OR CORPORATION? WHAT ARE THEY AND WHICH IS BEST
-  FOR YOUR BUSINESS?'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4986
+title: 'Let's Talk Business: LLC or Corporation? What Are They and Which is Best
+  for Your Business?'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4986
 date: '2016-02-16 04:00:25 -0800'
-date_gmt: '2016-02-16 12:00:25 -0800'
 categories:
 - Advice
 - The Leader
-- BUILD
-tags: []
-comments:
-- id: 4060
-  author: Jonathan Chacko
-  author_email: chacko.ja@gmail.com
-  author_url: ''
-  date: '2016-02-16 11:34:00 -0800'
-  date_gmt: '2016-02-16 19:34:00 -0800'
-  content: Thank you for the simplicity of explanation on this topic - very helpful.
-- id: 4061
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-02-16 20:08:00 -0800'
-  date_gmt: '2016-02-17 04:08:00 -0800'
-  content: You're welcome Jonathan! Glad you liked it :)
+- Build
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/02/kiana2.jpg"><img class="aligncenter size-full wp-image-4988" src="http://yellowconference.com/wp-content/uploads/2016/02/kiana2.jpg" alt="Whitney Darling Photography" width="700" height="1050" /></a>Choosing between an LLC and a Corporation for your new (or existing) business can be a daunting decision. It is always best to consult with an attorney to discuss your concerns and specific needs, but these tips should help lay a foundation to help answer to this difficult question.</p>
 <p><strong>1. For Less Paperwork, Choose an LLC!</strong></p>

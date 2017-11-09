@@ -1,5 +1,5 @@
 ---
-title: Four Ways to Help us Fund this Kickstarter
+title: Four Ways to Help Us Fund This Kickstarter
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2822
 date: '2015-04-20 01:27:43 -0700'

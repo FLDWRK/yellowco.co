@@ -1,5 +1,5 @@
 ---
-title: 'GOODBYE 2015: LEARNING TO CELEBRATE ALL THE FEELS ONE YEAR BRINGS'
+title: 'Goodbye 2015: Learning to Celebrate All the Feels One Years Brings'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4718
 date: '2015-12-31 04:00:17 -0800'

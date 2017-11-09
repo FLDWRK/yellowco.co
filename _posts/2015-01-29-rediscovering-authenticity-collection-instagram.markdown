@@ -1,5 +1,5 @@
 ---
-title: 'Rediscovering Authenticity: You are More Than a Collection on Instagram'
+title: 'Rediscovering Authenticity: You Are More Than a Collection on Instagram'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1692
 date: '2015-01-29 04:00:53 -0800'
@@ -7,7 +7,7 @@ categories:
 - Creative Ladies
 - Inspiration
 - Encouragement
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p>A U T H E N T I C I T Y:&nbsp;<em>Legitimate, valid, dependable, and truthful</em></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/k14.jpg"><img class=" size-full wp-image-1775 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/01/k14.jpg" alt="k14" width="700" height="1050" /></a></p>

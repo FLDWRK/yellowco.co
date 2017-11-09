@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO BRING MORE PURPOSE INTO YOUR EVERYDAY LIFE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5837
+title: How to Bring More Purpose into Your Everyday Life
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5837
 date: '2016-06-16 04:00:26 -0700'
-date_gmt: '2016-06-16 11:00:26 -0700'
 categories:
 - Creative Ladies
 - The Activist
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h2 class="p1"><a href="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-7.jpg"><img class="aligncenter size-full wp-image-5839" src="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-7.jpg" alt="The Yellow Co. Blog: Building a sustainable lifestyle" width="700" height="467" /></a><span class="s1">We all want to see good win in the world.<span class="Apple-converted-space">&nbsp; </span>But still, in 2016, it seems that everywhere we look, the underdog is struggling. </span></h2></p>
 <p class="p1"><span class="s1">I was twelve years old when my passion for freedom and justice was ignited. I was in my early twenties when I started working to end human trafficking and since then I have worked with amazing teams and phenomenal leaders, written action plans, aided public policy, created educational resources, managed prevention programs, spoken to audience filled arenas and participated in my fair share of marches, rallies, petitions and protests. </span></p></p>

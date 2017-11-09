@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: FINDING YOUR SWEET SPOT IN LEADERSHIP (PSST...WE GOT THE SECRET)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4995
+title: Finding Your Sweet Spot in Leadership (Psst...We Got the Secret)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4995
 date: '2016-02-18 04:00:12 -0800'
-date_gmt: '2016-02-18 12:00:12 -0800'
 categories:
 - Advice
 - The Leader
-- BUILD
-tags: []
-comments: []
+- Build
 ---
 <h2><em>I was a born leader. Have been my whole life. </em></h2><br />
 Most of the time, I just seemed pretty bossy&hellip; but my heart was always just to get things done and done well. I&rsquo;ve naturally fallen into a variety of leadership roles over the years (worship team leader, editor-in-chief of the high school paper, small group leader, etc.) and have always preferred them to just being on the team.<a href="http://yellowconference.com/wp-content/uploads/2016/02/Photo-Dec-22-2-43-55-PM.jpg"><img class="aligncenter size-full wp-image-4996" src="http://yellowconference.com/wp-content/uploads/2016/02/Photo-Dec-22-2-43-55-PM.jpg" alt="Photo Dec 22, 2 43 55 PM" width="700" height="467" /></a></p>

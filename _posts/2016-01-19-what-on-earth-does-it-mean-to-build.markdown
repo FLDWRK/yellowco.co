@@ -6,7 +6,7 @@ date: '2016-01-19 04:00:25 -0800'
 categories:
 - Inspiration
 - The Starter
-- BUILD
+- Build
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/01/metzDARLING-26.jpg"><img class="aligncenter size-full wp-image-4838" src="http://yellowconference.com/wp-content/uploads/2016/01/metzDARLING-26.jpg" alt="Yellow Co. Blog: Build" width="700" height="1050" /></a>I&rsquo;m going to dive in and be completely honest okay?</h2><br />
 When I found out this quarter&rsquo;s theme for the blog, <em>Build,</em> I froze. I hesitated so much that I didn&rsquo;t even respond back to the email for writers. Yellow Co. reached back out to me and I responded with,<em> I don't feel like I have too much expertise at building because I&rsquo;m still currently doing it.</em></p>

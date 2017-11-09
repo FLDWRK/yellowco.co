@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'JEWELRY WITH GRIT: THE AKOLA PROJECT SPOTLIGHT'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5375
+title: 'Jewelry with Grit: the Akola Project Spotlight'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5375
 date: '2016-05-03 04:00:15 -0700'
-date_gmt: '2016-05-03 11:00:15 -0700'
 categories:
 - Light Talk
 - Creative Ladies
 - Inspiration
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h4><em><a href="http://yellowconference.com/wp-content/uploads/2016/04/Wolf_insta3_Feb16.jpg"><img class="aligncenter size-full wp-image-5378" src="http://yellowconference.com/wp-content/uploads/2016/04/Wolf_insta3_Feb16.jpg" alt="Wolf_insta3_Feb16" width="700" height="446" /></a>Akola &ndash; &ldquo;she works&rdquo; &ndash; is a social business that designs, produces, and sells jewelry and home goods globally within a non-profit framework. Their model is currently equipping over 400 mothers in Uganda and Dallas (7 communities in rural Uganda and 2 communities in Dallas) to provide for 3,000 dependents.&nbsp;This Mother&rsquo;s Day, we are proud to be partnering with <a href="http://akolaproject.org/" target="_blank">Akola Project</a> to help spread the word about their mission to empower thousands of women in Uganda and Dallas.</em></h4><br />
 <a href="http://yellowconference.com/wp-content/uploads/2016/04/Nali-Bagaga-1.jpg"><img class="aligncenter size-full wp-image-5376" src="http://yellowconference.com/wp-content/uploads/2016/04/Nali-Bagaga-1.jpg" alt="Nali Bagaga (1)" width="700" height="791" /></a>Nali Bagaga&nbsp;lives in&nbsp;Nabukosi, Eastern Uganda and cares for 10 children and 3 elderly dependents. Nali Bagaga&rsquo;s entire house could fit in a single bedroom here in the U.S. The floors are dirt; the roof, thatched. With one bed against the wall, enclosed by a mosquito net, she would offer up her only chair for you to sit in as she sits on a raffia-braided mat - an honor that she would not let you pass up.</p>

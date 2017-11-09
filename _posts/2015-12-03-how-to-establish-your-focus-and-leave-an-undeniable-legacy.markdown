@@ -1,5 +1,5 @@
 ---
-title: Establish Your Focus and you are Guarenteed to Leave an Undeniable Legacy
+title: Establish Your Focus and You Are Guaranteed to Leave an Undeniable Legacy
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4321
 date: '2015-12-03 04:00:52 -0800'
@@ -8,7 +8,7 @@ categories:
 - Creative Ladies
 - Advice
 - Inspiration
-- REFINE
+- Refine
 - The Activist
 - The Starter
 - Encouragement

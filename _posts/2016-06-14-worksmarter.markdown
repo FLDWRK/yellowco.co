@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE WAYS TO MAKE THE MOST OF YOUR WORKDAY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5807
+title: Three Ways to Make the Most of Your Workday
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5807
 date: '2016-06-14 04:00:23 -0700'
-date_gmt: '2016-06-14 11:00:23 -0700'
 categories:
 - Advice
 - The Solopreneur
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <div class="page" title="Page 1">
 <div class="section">

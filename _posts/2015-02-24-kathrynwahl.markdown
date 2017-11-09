@@ -1,5 +1,5 @@
 ---
-title: 'A Day In The Life: With Kathryn Wahl'
+title: 'A Day in the Life: With Kathryn Wahl'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2058
 date: '2015-02-24 04:00:12 -0800'

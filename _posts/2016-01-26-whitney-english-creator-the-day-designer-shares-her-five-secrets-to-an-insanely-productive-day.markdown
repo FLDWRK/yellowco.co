@@ -6,7 +6,7 @@ date: '2016-01-26 04:00:20 -0800'
 categories:
 - Creative Ladies
 - Advice
-- BUILD
+- Build
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-2.jpg"><br />
 </a><a href="http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-21.jpg"><img class="aligncenter size-full wp-image-4885" src="http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-21.jpg" alt="WhitneyEnglishPhoto_large-2" width="700" height="724" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-2-copy.jpg"><br />

@@ -1,5 +1,5 @@
 ---
-title: 'June #BloomGathering: Kick Start Your Summer with a Self Care Workshop!'
+title: 'June #BloomGathering: Kick Start Your Summer With a Self Care Workshop!'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3119
 date: '2015-06-10 04:45:38 -0700'

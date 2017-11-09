@@ -1,35 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT I LEARNED FROM A FIFTH GRADE GIRL WITH GRIT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5218
+title: What I Learned from a Fifth Grade Girl with Grit
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5218
 date: '2016-04-07 04:00:56 -0700'
-date_gmt: '2016-04-07 11:00:56 -0700'
 categories:
 - Creative Ladies
 - The Activist
 - Encouragement
-- GRIT
-tags: []
-comments:
-- id: 4102
-  author: Karen&eacute;
-  author_email: studiolouvain.photo@gmail.com
-  author_url: ''
-  date: '2016-04-11 00:11:00 -0700'
-  date_gmt: '2016-04-11 07:11:00 -0700'
-  content: Oh this is so so so true Lindsay! Buying ethically really can change things.
-    I am surrounded by Poppi-type people in South Africa, and my heart often bleeds
-    for the young people, who deserve a little more hope. Your business is an inspiration!
+- Grit
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/04/280.jpg"><img class="aligncenter size-full wp-image-5220" src="http://yellowconference.com/wp-content/uploads/2016/04/280.jpg" alt="280" width="700" height="466" /></a>I like to say that my husband and I went on our honeymoon in Ethiopia.</h2><br />
 Technically, it&rsquo;s true. We traveled there a week after our wedding (which was in Mexico, so most people would say that the wedding was also the honeymoon, but let&rsquo;s not get stuck on the details here). Ethiopia isn&rsquo;t exactly the most romantic place to honeymoon. And it wasn&rsquo;t my first choice. But that trip was the best and worst of my life, and it changed me forever&hellip;because of a girl named Poppi.</p>

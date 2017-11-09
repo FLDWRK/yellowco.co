@@ -1,29 +1,16 @@
 ---
-layout: post
-status: publish
-published: true
-title: WAIT! BEFORE YOU GRAB THAT THIRD CUP O' COFFEE...CHECK OUT THESE TASTY (AND
-  HEALTHY) DESK SNACK IDEAS...
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5092
+title: Wait! Before You Grab that Third Cup O' Coffee...Check Out These Tasty (and
+  Healthy) Desk Snack Ideas...
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5092
 date: '2016-03-15 04:00:27 -0700'
-date_gmt: '2016-03-15 11:00:27 -0700'
 categories:
 - Light Talk
 - The Activist
 - The Starter
 - The Solopreneur
 - The Leader
-- BUILD
-tags: []
-comments: []
+- Build
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Day_2-1941.jpg"><img class="aligncenter size-full wp-image-5099" src="http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Day_2-1941.jpg" alt="Yellow_2015_Day_2-194" width="700" height="1050" /></a>We all want to be healthy. Rather than turning to a new fad diet that you&rsquo;re likely to ditch, try to incorporate these healthy snacks during your workweek.</h2><br />
 Why have snacks at your desk? It&rsquo;s important to listen to your body&rsquo;s hunger signals because it knows what energy you need throughout the day. If it&rsquo;s telling you that you&rsquo;re hungry, it&rsquo;s because you are. Learn how to feel your physical hunger and then respond to it with food. Snacking at your desk while you&rsquo;re hungry will also help keep you from overeating or binge eating later in the day if you let yourself go too long without food. Check out these desk-ready snack ideas:</p>

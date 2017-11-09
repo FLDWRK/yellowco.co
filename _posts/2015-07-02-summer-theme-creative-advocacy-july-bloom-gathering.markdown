@@ -4,7 +4,7 @@ author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3227
 date: '2015-07-02 08:11:29 -0700'
 categories:
-- CREATIVE ADVOCACY
+- Creative Advocacy
 ---
 <p>I felt stuck.</p>
 <p>I was going through the motions. Project after project, not really seeing any larger purpose in my work or having an end goal.</p>

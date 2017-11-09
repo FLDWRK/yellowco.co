@@ -1,60 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'HOW TO ACTUALLY  CREATE WORK-LIFE BALANCE (HINT: IT TAKES SOME GRIT)'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5665
+title: 'How to Actually Create Work-Life Balance (Hint: It Takes Some Grit)'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5665
 date: '2016-06-02 04:00:39 -0700'
-date_gmt: '2016-06-02 11:00:39 -0700'
 categories:
 - Advice
 - The Solopreneur
 - The Leader
-- GRIT
-tags: []
-comments:
-- id: 4127
-  author: Latasha Green
-  author_email: mrstashagreen@gmail.com
-  author_url: ''
-  date: '2016-06-02 09:22:00 -0700'
-  date_gmt: '2016-06-02 16:22:00 -0700'
-  content: 'Love this article.  I''m an entrepreneur and have been literally since
-    10th grade and I have finally found the work life balance.
-
-'
-- id: 4128
-  author: Tuesday Things. | How Sweet It Is
-  author_email: ''
-  author_url: http://www.howsweeteats.com/2016/06/tuesday-things-260/
-  date: '2016-06-14 03:45:25 -0700'
-  date_gmt: '2016-06-14 10:45:25 -0700'
-  content: "[&#8230;] How to find the work &#8211; life balance. Million dollar [&#8230;]"
-- id: 4129
-  author: Megan Waltz
-  author_email: sweetsomethingsnapaca@gmail.com
-  author_url: ''
-  date: '2016-06-21 10:06:00 -0700'
-  date_gmt: '2016-06-21 17:06:00 -0700'
-  content: Great article.  Just what I needed to read. It's a bit discouraging knowing
-    that my tribe is very small, yet those that sing my praise sing it loud.  For
-    that I am very grateful!
-- id: 4130
-  author: Emily | Honeybee Joyous
-  author_email: honeybeejoyous@gmail.com
-  author_url: http://honeybeejoyous.com
-  date: '2016-07-05 18:00:00 -0700'
-  date_gmt: '2016-07-06 01:00:00 -0700'
-  content: Wow this is such awesome advice! Love love love! I'm just starting my own
-    business while in college and I definitely need to keep all of this in mind.
+- Grit
 ---
 <h2 class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/05/MG_1207-1.jpg"><img class="aligncenter size-full wp-image-5670" src="http://yellowconference.com/wp-content/uploads/2016/05/MG_1207-1.jpg" alt="Work/Life Balance...is it even real? The Yellow Co. Blog" width="700" height="1050" /></a>Work life balance. Oh the dream. </span></h2></p>
 <p class="p1"><span class="s1">Isn&rsquo;t it what&nbsp;we are all striving for? That glorious middle ground between hard work and a full life. We want all the joy of owning a business, being a front runner in our industry, and the hefty paycheck that comes along with that, on a consistent basis, as well as the normal 8 or less hour workday, possibly from home, with our phones turned off at night and multiple weeks of vacation per year.</span></p></p>

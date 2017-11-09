@@ -1,5 +1,5 @@
 ---
-title: Five Tips to Carry Conversation like a Pro
+title: Five Tips to Carry Conversation Like a Pro
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3170
 date: '2015-06-25 04:00:45 -0700'
@@ -8,7 +8,7 @@ categories:
 - Creative Ladies
 - The Starter
 - The Solopreneur
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/bepresent2.jpg"><img class="aligncenter size-full wp-image-3157" src="http://yellowconference.com/wp-content/uploads/2015/06/bepresent2.jpg" alt="bepresent2" width="700" height="466" /></a></p>
 <p>Whether we are hosting a much needed dinner party with our closest ladies, or establishing our creative community at a networking event,&nbsp;we want to take full advantage of this time! It would be easy to stick to small talk, the latest gossip and newest trends during our time together, but time is short(!) and we would be wise to use our conversations to develop deeper and more genuine relationships, helping each other grow, and spurring one another on toward our dreams.</p>

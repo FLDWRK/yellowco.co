@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO SELL YOURSELF AND YOUR SERVICES WITH CONFIDENCE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5704
+title: How to Sell Yourself and Your Services with Confidence
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5704
 date: '2016-06-07 04:00:52 -0700'
-date_gmt: '2016-06-07 11:00:52 -0700'
 categories:
 - Advice
 - The Leader
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h2 class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/06/KAT1285.jpg"><img class="aligncenter wp-image-5709 size-full" src="http://yellowconference.com/wp-content/uploads/2016/06/KAT1285.jpg" alt="STAYING STRONG IN SALES: THE YELLOW CO. BLOG" width="700" height="466" /></a>Any endeavor requiring sales can chew you up and spit you out - but being confident and fearless will get you way farther than being timid and wary. </span></h2></p>
 <p class="p1"><span class="s1">There are six key lessons that I have learned that work in any role where sales, business development, consulting, or fundraising are concerned. And let&rsquo;s be real, ALL jobs have a sales component &ndash; whether you&rsquo;re trying to get a promotion or trying to raise funds, knowing how to tactfully close that deal is everything. </span></p></p>

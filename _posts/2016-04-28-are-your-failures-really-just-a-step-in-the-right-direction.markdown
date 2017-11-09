@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: ARE BUSINESS FAILURES REALLY JUST A STEP IN THE RIGHT DIRECTION?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5361
+title: Are Business Failures Really Just a Step in the Right Direction?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5361
 date: '2016-04-28 04:00:03 -0700'
-date_gmt: '2016-04-28 11:00:03 -0700'
 categories:
 - Advice
 - Inspiration
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-15_0001.jpg"><img class="aligncenter size-full wp-image-5362" src="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-15_0001.jpg" alt="2015-02-15_0001" width="700" height="466" /></a>I remember the first time I launched a big, bold, beautiful project, and it didn&rsquo;t go as planned.</h2><br />
 I felt defeated and, perhaps, a little ashamed and less than worthy to be in the ranks of other entrepreneurs out there, who seem to always hit their mark. Their projects fly high, while I was left trying to figure out why mine seemed to flat line.</p>

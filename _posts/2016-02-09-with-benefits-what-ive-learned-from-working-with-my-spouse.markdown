@@ -6,7 +6,7 @@ date: '2016-02-09 04:00:49 -0800'
 categories:
 - Advice
 - The Solopreneur
-- BUILD
+- Build
 ---
 <h2>My husband and I met on Twitter.</h2><br />
 At the time, social media strategy was part of his day job, so we like to joke that wooing me might as well go on his r&eacute;sum&eacute;.</p>

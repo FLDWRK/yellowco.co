@@ -7,7 +7,7 @@ categories:
 - Creative Ladies
 - Advice
 - Inspiration
-- REFINE
+- Refine
 - Encouragement
 - The Solopreneur
 - Yellow 2016

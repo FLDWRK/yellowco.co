@@ -8,7 +8,7 @@ categories:
 - Inspiration
 - The Activist
 - The Starter
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 - The Solopreneur
 - The Leader
 ---

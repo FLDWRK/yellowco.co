@@ -1,12 +1,12 @@
 ---
-title: Necessary Lessons From From Raven + Lily Ceo And Founder Kirsten Dickerson
+title: Necessary Lessons from Raven + Lily Ceo and Founder Kirsten Dickerson
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3654
 date: '2015-08-25 04:00:36 -0700'
 categories:
 - Creative Ladies
 - Advice
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - The Activist
 - The Starter
 ---

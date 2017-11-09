@@ -4,7 +4,7 @@ author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3252
 date: '2015-07-16 04:00:11 -0700'
 categories:
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - Inspiration
 - The Activist
 ---
