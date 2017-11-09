@@ -1,45 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'COMMUNITY: WHAT''S THE POINT?'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3115
+title: 'Community: What's the Point?'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3115
 date: '2015-06-18 04:00:08 -0700'
-date_gmt: '2015-06-18 11:00:08 -0700'
 categories:
 - Light Talk
 - Advice
 - Inspiration
 - Encouragement
 - TRIBE
-tags: []
-comments:
-- id: 3947
-  author: Ali Kat
-  author_email: alikat@absolutelyalikat.com
-  author_url: ''
-  date: '2015-06-18 19:12:00 -0700'
-  date_gmt: '2015-06-19 02:12:00 -0700'
-  content: This one hurts to read but that's because it's so true. "I think of my
-    brain like an empty room. When I feel disconnected, critical dark thoughts echo
-    all over the place like a bouncy ball." That is exactly me in every way. Glad
-    I found you today!
-- id: 3948
-  author: Sally
-  author_email: sally@yellowconference.com
-  author_url: ''
-  date: '2015-08-02 17:35:34 -0700'
-  date_gmt: '2015-08-03 00:35:34 -0700'
-  content: We are SO glad you are finding inspiration on our blog, Ali! Hope you keep
-    reading and enjoying :)
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/15771818379_76b0792ab8_k.jpg"><img class="aligncenter size-full wp-image-3117" src="http://yellowconference.com/wp-content/uploads/2015/06/15771818379_76b0792ab8_k.jpg" alt="15771818379_76b0792ab8_k" width="700" height="1050" /></a></p>
 <p><strong>We need community.&nbsp;Because, let&rsquo;s be honest: it&rsquo;s <em>super</em> lonely without others.</strong></p>

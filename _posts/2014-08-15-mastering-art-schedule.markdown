@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Mastering The Art of the Schedule
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 784
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=784
 date: '2014-08-15 06:00:43 -0700'
-date_gmt: '2014-08-15 06:00:43 -0700'
 categories:
 - Resources
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/08/Mastering.jpg"><img class="alignnone size-full wp-image-786" alt="Mastering" src="http://yellowconference.com/wp-content/uploads/2014/08/Mastering.jpg" width="700" height="657" /></a></p>
 <p>Time. We never seem to have enough of it. There's always something to do, something to see, businesses to run, an article with a headline we just can't ignore (anyone else guilty??) or&nbsp;someone who wants our attention. Whatever the case, our time is always seemingly slipping away, and it's the only commodity we can not get more of.</p>

@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WITH BENEFITS: WHAT I''VE LEARNED FROM WORKING WITH MY SPOUSE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4966
+title: 'With Benefits: What I've Learned From Working With My Spouse'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4966
 date: '2016-02-09 04:00:49 -0800'
-date_gmt: '2016-02-09 12:00:49 -0800'
 categories:
 - Advice
 - The Solopreneur
 - BUILD
-tags: []
-comments: []
 ---
 <h2>My husband and I met on Twitter.</h2><br />
 At the time, social media strategy was part of his day job, so we like to joke that wooing me might as well go on his r&eacute;sum&eacute;.</p>

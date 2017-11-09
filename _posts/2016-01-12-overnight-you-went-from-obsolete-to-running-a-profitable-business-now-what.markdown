@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: YOU'VE LANDED YOUR FIRST FREELANCE CLIENTS...NOW WHAT?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4794
+title: You've Landed Your First Freelance Clients...now What?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4794
 date: '2016-01-12 04:00:23 -0800'
-date_gmt: '2016-01-12 12:00:23 -0800'
 categories:
 - Advice
 - The Starter
 - Free Downloads
 - BUILD
-tags: []
-comments: []
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/01/image1.jpg"><img class="aligncenter size-full wp-image-4807" src="http://yellowconference.com/wp-content/uploads/2016/01/image1.jpg" alt="Yellow Co. Blog: where do you start? we've got you covered. Here's our tips to navigate your overnight success. " width="700" height="467" /></a>I know the feeling.&nbsp;Out of nowhere on a Tuesday morning you wake up to 3 new emails from potential clients.</h2><br />
 Friends have finally given out your card, someone looked at your LinkedIn profile, and your perfectly imperfect Instagram feed reeled in another.</p>

@@ -1,35 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: WANT TO LIVE A PURPOSEFUL LIFE? HERE ARE THREE MINDSETS YOU CAN'T DO WITHOUT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4294
+title: Want to Live a Purposeful Life? Here are Three Mindsets you Can't Do Without
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4294
 date: '2015-11-24 04:00:09 -0800'
-date_gmt: '2015-11-24 12:00:09 -0800'
 categories:
 - Creative Ladies
 - Advice
 - REFINE
 - The Starter
 - Encouragement
-tags: []
-comments:
-- id: 4014
-  author: Jennifer Sacco
-  author_email: jennifer@jennifersacco.com
-  author_url: https://www.jennifersacco.com
-  date: '2015-11-25 03:47:00 -0800'
-  date_gmt: '2015-11-25 11:47:00 -0800'
-  content: 'Such a great article! By far #2 is the most important to me! I try to
-    pass that message on as much as I can.'
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/11/mscollection-94.jpg"><img class="aligncenter size-full wp-image-4297" src="http://yellowconference.com/wp-content/uploads/2015/11/mscollection-94.jpg" alt="Yellow Conference Blog: Empowering Creative Women to Spread Good and Bloom" width="700" height="467" /></a></p>
 <h5>I&rsquo;ve always felt a little on the outside. Maybe you could relate.</h5><br />

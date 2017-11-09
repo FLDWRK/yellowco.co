@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'ATTENDEE EXPERIENCE: YELLOW CONFERENCE DAY TWO'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3722
+title: 'Attendee Experience: Yellow Conference Day Two'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3722
 date: '2015-08-31 13:40:59 -0700'
-date_gmt: '2015-08-31 20:40:59 -0700'
 categories:
 - The Activist
 - The Starter
 - Yellow 2015
 - The Solopreneur
 - The Leader
-tags: []
-comments: []
 ---
 <p>This<i> post is originally found on&nbsp;Arielle Estoria&rsquo;s blog: <a href="http://chroniclesofalioness.com/" target="_blank">Chronicles of a Lioness</a></i></p>
 <blockquote><p><em>It&rsquo;s almost like the day after you return home from summer camp and everything around you feels the same but you yourself are not the person you were just a few days before. You are inspired, you are filled, homesick not for places but for people who made time for a moment seem infinite.</em></blockquote></p>

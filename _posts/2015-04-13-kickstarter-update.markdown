@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Kickstarter Update
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2775
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2775
 date: '2015-04-13 22:55:19 -0700'
-date_gmt: '2015-04-14 05:55:19 -0700'
 categories:
 - Resources
-tags: []
-comments: []
 ---
 <p>Dear Reader,</p>
 <p>Ok, so&nbsp;<a href="https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c" target="_blank" data-cke-saved-href="https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c">this Kickstarter</a>&nbsp;is moving steady, but it's really not steady enough. Honestly at this point it's going to take EVERY blog reader&nbsp;(that means you!) to get on board and donate to make this happen. If each of you donate just $5, we will be well on our way to making this goal happen.</p>

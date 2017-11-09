@@ -1,30 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO ESTABLISH ROOTS TO FIND YOUR PURPOSE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4362
+title: How to Establish Roots to Find Your Purpose
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4362
 date: '2015-12-29 04:30:06 -0800'
-date_gmt: '2015-12-29 04:30:06 -0800'
 categories:
 - Resources
-tags: []
-comments:
-- id: 4024
-  author: Must-Reads for Creatives 1.1.16 - In Tandem
-  author_email: ''
-  author_url: http://www.createintandem.com/must-reads-for-creatives-1-1-16/
-  date: '2016-01-01 06:17:11 -0800'
-  date_gmt: '2016-01-01 14:17:11 -0800'
-  content: "[&#8230;] How to Establish Roots to Find Your Purpose >>> [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/11/mscollection-77-1.jpg"><img class="aligncenter size-full wp-image-4364" src="http://yellowconference.com/wp-content/uploads/2015/11/mscollection-77-1.jpg" alt="yellow conference blog: refine your why" width="700" height="1050" /></a></p>
 <p>When a tree grows, its limbs stretch wider and higher into the atmosphere, but its roots also grow deeper, stronger, and wider too. And just as a tree grows, we as individuals, our businesses, and our potentials grow in both height and depth as we move forward in life. It is <em>so </em>exciting when we see our businesses grow and gain traction and popularity, but like any living thing, maintenance is necessary. Refining is needed. During times of growth, it is important to strengthen our roots with diligence and love. Because when we&rsquo;re grounded to our core values, our mission statement, and our community, as popularity or interest start to build, we can celebrate our achievements, but won&rsquo;t get caught up and swept away by all the flash and excitement.</p>

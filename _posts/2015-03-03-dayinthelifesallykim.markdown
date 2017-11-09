@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'A Day in the Life: With Sally Kim'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2121
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2121
 date: '2015-03-03 04:00:28 -0800'
-date_gmt: '2015-03-03 12:00:28 -0800'
 categories:
 - Light Talk
 - Team Members
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/03/IMG_5911-web-copy.jpg"><img class=" size-full wp-image-2148 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/03/IMG_5911-web-copy.jpg" alt="day in the life with sally kim" width="1050" height="750" /></a>So, I'm going to start by telling you <em>this day did not go according to plan.</em> I had big dreams, people! Grabbing coffee and going to the flower market with a galpal, working on the blog...you know, fun stuff that makes your life look a little more exciting when you document it for your readers. Well, reality kicked the door open in the form of a gnarly fever and flu on my hardworking husband. So all plans were interrupted with the need to nurse and transport and, well, show you a real glimpse into this beautifully ordinary wife/pregnant mommy/mister (my husband and I fost-adopted my teen half-brother last February...see <a href="http://lettersfromamister.tumblr.com/" target="_blank">here</a> to understand what I mean...) of a life...and I realized at the end, I don't think I would have it any other way. Cheers to authenticity, friends...</p>
 <p><strong>I start off my day with this...someone's gotta do it, people!</strong></p>

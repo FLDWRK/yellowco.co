@@ -1,45 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: '"I NEVER WANTED TO BE ''THE ANGRY BLACK WOMAN''"'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3895
+title: '"I Never Wanted To Be ''the Angry Black Woman''"'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3895
 date: '2015-09-17 04:00:05 -0700'
-date_gmt: '2015-09-17 11:00:05 -0700'
 categories:
 - Creative Ladies
 - CREATIVE ADVOCACY
 - Inspiration
 - The Activist
-tags: []
-comments:
-- id: 3971
-  author: http://www.miralink.net/index.php?page=item&amp;id=7000
-  author_email: latashia_stockman@gmail.com
-  author_url: http://www.miralink.net/index.php?page=item&amp;id=7000
-  date: '2015-12-02 14:15:34 -0800'
-  date_gmt: '2015-12-02 14:15:34 -0800'
-  content: "I'm very pleased to discover this website. I need to to thank you for
-    \nyour time just for this wonderful read!! I definitely loved every bit of it
-    and i \nalso have you book-marked to see new information in your website."
-- id: 3972
-  author: admin
-  author_email: joannanoelwaterfall@gmail.com
-  author_url: ''
-  date: '2015-12-02 16:55:43 -0800'
-  date_gmt: '2015-12-02 16:55:43 -0800'
-  content: |-
-    Thank you so much! We are so glad you found the Yellow Conference. To get each post delivered to your inbox, be sure to subscribe to our email list!
-
-    So glad we can inspire you.
 ---
 <p><em>Yellow blogger, Arielle Estoria, posted this powerful piece originally on her blog, <a href="http://chroniclesofalioness.com/" target="_blank">Chronicles of a Lioness</a>, in response to the&nbsp;Charleston, North Carolina shooting. She shared it with Yellow Co. for our current series, Creative Advocacy.</em></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/09/untitled-131-of-12341.jpg"><img class="aligncenter size-full wp-image-3886" src="http://yellowconference.com/wp-content/uploads/2015/09/untitled-131-of-12341.jpg" alt="Yellow Conference Blog " width="700" height="467" /></a></p>

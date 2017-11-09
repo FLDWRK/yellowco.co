@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: LA Bloom Gathering Recap
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 958
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=958
 date: '2014-10-20 03:30:43 -0700'
-date_gmt: '2014-10-20 03:30:43 -0700'
 categories:
 - Creative Ladies
 - Inspiration
-tags: []
-comments: []
 ---
 <p>Last week we had our very first Bloom Gathering here in LA. 25 of us got together to make new friends, sip bubbly and nibble on yummy desserts. All while getting creative by decorating yellow balloons with encouraging thoughts, words and phrases.<br />
 <a href="http://yellowconference.com/wp-content/uploads/2014/10/Yellow-Gathering-5.jpg"><img style="margin-top: 15px; margin-bottom: 5px;" alt="Yellow Gathering-5" src="http://yellowconference.com/wp-content/uploads/2014/10/Yellow-Gathering-5.jpg" width="700" height="439" /></a><a href="http://yellowconference.com/wp-content/uploads/2014/10/Florals1.jpg"><img class="alignnone size-full wp-image-968" style="margin-top: 0px; margin-bottom: 10px;" alt="Florals" src="http://yellowconference.com/wp-content/uploads/2014/10/Florals1.jpg" width="700" height="477" /></a><a href="http://yellowconference.com/wp-content/uploads/2014/10/Yellow-Gathering-19-copy.jpg"><img alt="Yellow Gathering-19 copy" src="http://yellowconference.com/wp-content/uploads/2014/10/Yellow-Gathering-19-copy.jpg" width="700" height="467" /></a><img style="margin-top: 5px; margin-bottom: 15px;" alt="Yellow Gathering-18" src="http://yellowconference.com/wp-content/uploads/2014/10/Yellow-Gathering-18.jpg" width="700" height="467" /><br />

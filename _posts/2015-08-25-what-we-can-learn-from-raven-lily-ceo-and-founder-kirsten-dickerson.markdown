@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: NECESSARY LESSONS FROM FROM RAVEN + LILY CEO AND FOUNDER KIRSTEN DICKERSON
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3654
+title: Necessary Lessons From From Raven + Lily Ceo And Founder Kirsten Dickerson
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3654
 date: '2015-08-25 04:00:36 -0700'
-date_gmt: '2015-08-25 11:00:36 -0700'
 categories:
 - Creative Ladies
 - Advice
 - CREATIVE ADVOCACY
 - The Activist
 - The Starter
-tags: []
-comments: []
 ---
 <h5><a href="http://yellowconference.com/wp-content/uploads/2015/08/rlp4.jpg"><img class=" size-full wp-image-3662 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/08/rlp4.jpg" alt="rlp4" width="350" height="337" /></a><a href="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-19-at-3.19.31-PM.jpg"><img class="size-full wp-image-3658 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-19-at-3.19.31-PM.jpg" alt="Screen shot 2015-08-19 at 3.19.31 PM" width="350" height="339" /></a><a href="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-19-at-3.19.31-PM.png"><br />
 </a><b><span class="il">"Raven</span>&nbsp;+&nbsp;<span class="il">Lily</span>&nbsp;was born out of my love of design and my passion to empower women out of poverty."</b></h5><br />

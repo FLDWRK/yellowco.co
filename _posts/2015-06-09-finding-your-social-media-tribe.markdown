@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: FINDING + BUILDING YOUR SOCIAL MEDIA TRIBE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3070
+title: Finding + Building Your Social Media Tribe
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3070
 date: '2015-06-09 04:00:03 -0700'
-date_gmt: '2015-06-09 11:00:03 -0700'
 categories:
 - Light Talk
 - Creative Ladies
@@ -21,20 +10,6 @@ categories:
 - The Starter
 - The Solopreneur
 - TRIBE
-tags: []
-comments:
-- id: 3945
-  author: Brittany @ Adventure &amp;the Wild
-  author_email: info@adventureandthewild.com
-  author_url: http://adventureandthewild.com/
-  date: '2015-06-23 12:37:00 -0700'
-  date_gmt: '2015-06-23 19:37:00 -0700'
-  content: Love this :) I'm an introvert as well, and a firm believer than relationship-based
-    marketing is the way to go. Typical marketing tactics (while effective for a lot
-    of people, which is great!) make me feel like I'm basically pestering people until
-    they buy my stuff, which is totally not me. Making genuine connections + loving
-    people well is so much more authentic, and develops a more lasting client base,
-    at least for me!
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/kellll.jpg"><img class="aligncenter size-full wp-image-3073" src="http://yellowconference.com/wp-content/uploads/2015/06/kellll.jpg" alt="kellll" width="700" height="467" /></a></p>
 <p><strong>Connecting with your tribe and staying true to yourself are the keys to making social media a positive experience.</strong></p>

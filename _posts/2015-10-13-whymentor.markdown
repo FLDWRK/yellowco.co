@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: WANT TO BE A MENTOR? HERE'S HOW TO MAKE IT HAPPEN.
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4102
+title: Want to be a Mentor? Here's How to Make It Happen.
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4102
 date: '2015-10-13 04:00:11 -0700'
-date_gmt: '2015-10-13 11:00:11 -0700'
 categories:
 - Light Talk
 - Creative Ladies
@@ -21,8 +10,6 @@ categories:
 - Inspiration
 - Encouragement
 - The Leader
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/10/untitled-142-of-1234.jpg"><img class="aligncenter size-full wp-image-4103" src="http://yellowconference.com/wp-content/uploads/2015/10/untitled-142-of-1234.jpg" alt="Yellow Co. Blog: spread good and bloom" width="700" height="467" /></a></p>
 <p>Growing up, my teachers were some of my biggest inspirations. They seemed to be masters of the subjects they taught and of life. They chose us, their students, to pour into, to teach the world&rsquo;s ways and academia. Knowing that my teachers chose me and others to educate, guide, and love has been one of the most humbling revelations in my life.</p>

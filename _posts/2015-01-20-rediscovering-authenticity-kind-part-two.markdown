@@ -1,34 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: BE KIND TO YOURSELF (PART TWO)'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1702
+title: 'Rediscovering Authenticity: Be Kind to Yourself (Part Two)'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1702
 date: '2015-01-20 04:00:31 -0800'
-date_gmt: '2015-01-20 12:00:31 -0800'
 categories:
 - Advice
 - Inspiration
 - Encouragement
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments:
-- id: 3856
-  author: Charity Craig
-  author_email: charity@thewoundeddove.com
-  author_url: http://thewoundeddove.com
-  date: '2015-01-22 13:36:00 -0800'
-  date_gmt: '2015-01-22 21:36:00 -0800'
-  content: I love these posts so much!! Great stuff for sure. Living a authentic life
-    is so worth all the scary vulnerability! <3
 ---
 <p style="text-align: left;"><a href="http://yellowconference.com/wp-content/uploads/2015/01/blogIMG_1257.jpg"><img class=" size-full wp-image-1722 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/01/blogIMG_1257.jpg" alt="blogIMG_1257" width="678" height="451" /></a></p></p>
 <p style="text-align: left;">In part one of <a href="http://yellowconference.com/rediscovering-authenticity-real-shortcomings/" target="_blank">&ldquo;Rediscovering Authenticity: Be Kind to Yourself,&rdquo;</a> we addressed the ways in which we usually handle our faults and weaknesses: most of the time, we either ignore them or we use them to fuel the fire of shame on ourselves. We proposed a third option&hellip;one where we are able to look <em>honestly</em> at our flaws and mistakes and give ourselves the perfect amount of grace to propel us forward--to experience freedom.</p><br />

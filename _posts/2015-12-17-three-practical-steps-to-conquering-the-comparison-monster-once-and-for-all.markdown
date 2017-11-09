@@ -1,34 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE PRACTICAL STEPS TO CONQUERING THE "COMPARISON MONSTER" ONCE AND FOR ALL
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4382
+title: Three Practical Steps to Conquering the "Comparison Monster" Once and For All
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4382
 date: '2015-12-17 04:00:26 -0800'
-date_gmt: '2015-12-17 04:00:26 -0800'
 categories:
 - Creative Ladies
 - Advice
 - REFINE
 - Encouragement
-tags: []
-comments:
-- id: 4025
-  author: 'Blog Love: The best of blogging + biz this week'
-  author_email: ''
-  author_url: http://xosarah.com/2015/12/20/blog-love-162/
-  date: '2015-12-20 18:52:14 -0800'
-  date_gmt: '2015-12-20 18:52:14 -0800'
-  content: "[&#8230;] Three practical steps to conquering the comparison monster >>>
-    [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/12/5-800x533.jpg"><img class="aligncenter size-full wp-image-4540" src="http://yellowconference.com/wp-content/uploads/2015/12/5-800x533.jpg" alt="the yellow co. blog: i fought the comparison monster, and WON....here's how." width="700" height="466" /></a>In a world where we are constantly inundated with messages from social media and other outlets, sometimes it&rsquo;s hard to find the truth about who we are and what it is we are supposed to do with this one amazing life we&rsquo;ve been given.</p>
 <h2>We compare. We hold back. We copy and ultimately trick ourselves, many times, into thinking that what we are doing is being true to ourselves, when in reality, we couldn&rsquo;t be further from authenticity.</h2></p>

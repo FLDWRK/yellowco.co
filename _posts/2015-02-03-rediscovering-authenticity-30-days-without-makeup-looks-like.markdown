@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: WHAT 30 DAYS WITHOUT MAKEUP LOOKS LIKE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1836
+title: 'Rediscovering Authenticity: What 30 Days Without Makeup Looks Like'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1836
 date: '2015-02-03 04:00:07 -0800'
-date_gmt: '2015-02-03 12:00:07 -0800'
 categories:
 - Creative Ladies
 - Inspiration
@@ -22,15 +11,6 @@ categories:
 - REDISCOVERING AUTHENTICITY
 - The Solopreneur
 - The Leader
-tags: []
-comments:
-- id: 3863
-  author: 'Press: Yellow Conference Gives Us Love | 30DaysNoMakeup'
-  author_email: ''
-  author_url: http://30daysnomakeup.com/press-yellow-conference-gives-us-love/
-  date: '2015-02-03 08:37:25 -0800'
-  date_gmt: '2015-02-03 16:37:25 -0800'
-  content: "[&#8230;] Read&nbsp;full article here. [&#8230;]"
 ---
 <p>I can't think of a better way to start <i>"the month of looove"&nbsp;</i>than with this interview.</p>
 <p>Inspiring, <em>strong,&nbsp;</em>energizing, gentle, funny, motivating...while I was adjusting my continually growing baby bump in the most unprofessional, unattractive ways, this beautiful lady introduces herself to me as Sarah Jaggard, co-founder of&nbsp;<a href="http://30daysnomakeup.com/" target="_blank">30DaysNoMakeup</a><em>,&nbsp;</em>with a giant smile, and a basket full of all yellow treats, including bright yellow dandelions that found their perfect home today on my <em>(ehem...yellow)</em> kitchen table. I'd heard about the movement, checked out their website and <a href="http://darlingmagazine.org/beautician-embodied-30-days-makeup/" target="_blank">interview with Darling</a>, and expected to meet with her for our interview in Malibu on a sunny Friday morning...I went into this thinking it was an interview, instead it was nothing short of an exciting conversation of life, beauty, and future dreams.</p>

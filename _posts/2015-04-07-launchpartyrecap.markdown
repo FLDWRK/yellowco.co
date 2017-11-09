@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: "#BLOOMTOGETHER: THE YELLOW ROOM KICKSTARTER LAUNCH PARTY RECAP"
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2522
+title: "#bloomtogether: The Yellow Room Kickstarter Launch Party Recap"
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2522
 date: '2015-04-07 04:00:44 -0700'
-date_gmt: '2015-04-07 11:00:44 -0700'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/6LvcybSAwNUpdOVIJEDkfnZiEnMvxDTSEWpj5uMcUpokVdshMNHROIz3wkt04G1FxH2y5tKh1VR6Tk5wZ_FMGI.jpg"><img class=" size-full wp-image-2730 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/04/6LvcybSAwNUpdOVIJEDkfnZiEnMvxDTSEWpj5uMcUpokVdshMNHROIz3wkt04G1FxH2y5tKh1VR6Tk5wZ_FMGI.jpg" alt="6LvcybSAwNUpdOVIJEDkfnZiEnMvxDTSEWpj5uMcUpo,kVdshMNHROIz3wkt04G1FxH2y5tKh1VR6Tk5wZ_FMGI" width="700" height="1051" /></a></p>
 <p>Last Thursday was a night of radical, creative, community all over the <strong>nation (and Canada!</strong>&nbsp;So, can we officially say, "across the world?!")!<strong>&nbsp;</strong>From Orange County to LA, to Cincinnati, to Toronto(!!), we had creative women&nbsp;in tons of <a href="http://yellowconference.com/blog/page/3/" target="_blank">locations</a>&nbsp;gather to encourage each other and have fun, and to tune in for our <a href="https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c" target="_blank">Kickstarter</a> Launch! For those unfamiliar or new to the Yellow Co. or our Kickstarter, we are hoping to raise <strong>$57,000&nbsp;</strong>to develop an online hub called <a href="http://theyellowroom.co/" target="_blank">The Yellow Room</a>. This will be a space for women to connect and support each other, be empowered through mentorships and classes, and be equipped through a variety of resources in their area of growth and/or expertise. This is a huge dream, ladies, and we believe it will change the world for the good.&nbsp;<strong>On Thursday alone we raised over $2,000.&nbsp;</strong>We want to keep that momentum going throughout the entire month of April! We have&nbsp;<strong>27 days&nbsp;</strong>left to reach our goal, and if we don't reach our goal, we receive none of the funds for this project.&nbsp;<strong>The Yellow Co. is so much more than a conference,&nbsp;and we want to invite you to be a part of this next step for our organization, that will impact generations of women to come.&nbsp;</strong></p>

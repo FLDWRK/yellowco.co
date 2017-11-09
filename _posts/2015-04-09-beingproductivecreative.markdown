@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: FIVE PRACTICAL STEPS TO STAYING ORGANIZED AS A CREATIVE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2356
+title: Five Practical Steps to Staying Organized as a Creative
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2356
 date: '2015-04-09 04:00:05 -0700'
-date_gmt: '2015-04-09 11:00:05 -0700'
 categories:
 - Creative Ladies
 - Advice
 - Inspiration
 - The Starter
 - The Solopreneur
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/094A4249-1.jpg"><img class="aligncenter size-full wp-image-2369" src="http://yellowconference.com/wp-content/uploads/2015/04/094A4249-1.jpg" alt="Being a Productive Creative--Yellow Conference Blog" width="700" height="467" /></a></p>
 <p>Working <a href="http://harbr.co/" target="_blank">in the creative industry</a>, I&rsquo;ve seen all types of workers and workspaces. Cluttered desks, inspiration hoarders (guilty), scatter-brained, and the work-a-holics. There is beauty in all of these workflows,&nbsp;but it&rsquo;s easy to lose track of tasks&nbsp;that&nbsp;<strong>have</strong>&nbsp;to&nbsp;be completed to help grow your business or maintain relationships.</p>

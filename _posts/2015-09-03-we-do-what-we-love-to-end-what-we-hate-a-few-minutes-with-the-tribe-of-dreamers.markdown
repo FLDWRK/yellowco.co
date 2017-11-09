@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WE DO WHAT WE LOVE TO END WHAT WE HATE: A FEW MINUTES WITH THE TRIBE OF DREAMERS'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3682
+title: 'We Do What We Love to End What We Hate: A Few Minutes with the Tribe of Dreamers'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3682
 date: '2015-09-03 04:00:35 -0700'
-date_gmt: '2015-09-03 11:00:35 -0700'
 categories:
 - Creative Ladies
 - CREATIVE ADVOCACY
@@ -22,8 +11,6 @@ categories:
 - The Starter
 - Yellow 2015
 - The Leader
-tags: []
-comments: []
 ---
 <p style="text-align: center;"><a href="http://yellowconference.com/wp-content/uploads/2015/08/Annie-and-Jen-2.jpg"><img class="aligncenter size-full wp-image-3677" src="http://yellowconference.com/wp-content/uploads/2015/08/Annie-and-Jen-2.jpg" alt="tribe of dreamers The Yellow Conference Blog" width="700" height="467" /></a></p></p>
 <h5 style="text-align: center;">"We believe your dreams can change the world. We make jewelry that encourages you to do it."</h5></p>

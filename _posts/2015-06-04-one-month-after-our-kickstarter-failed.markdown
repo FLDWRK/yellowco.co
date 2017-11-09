@@ -1,63 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
 title: One Month After Our Kickstarter Failed...
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3055
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3055
 date: '2015-06-04 04:30:07 -0700'
-date_gmt: '2015-06-04 11:30:07 -0700'
 categories:
 - Advice
 - Inspiration
 - The Activist
 - The Solopreneur
 - The Leader
-tags: []
-comments:
-- id: 3941
-  author: Aditi Mayer
-  author_email: aditi.mayer@gmail.com
-  author_url: ''
-  date: '2015-06-04 11:41:00 -0700'
-  date_gmt: '2015-06-04 18:41:00 -0700'
-  content: |-
-    Love love your resilience. Keep shining! xx
-
-
-    www.ADIMAY.com
-    instagram.com/aditimayer
-- id: 3942
-  author: Tim Oberg
-  author_email: timothy.d.oberg@gmail.com
-  author_url: ''
-  date: '2015-06-04 18:12:00 -0700'
-  date_gmt: '2015-06-05 01:12:00 -0700'
-  content: You are rad, Jo!
-- id: 3943
-  author: Rachel // Nourish
-  author_email: rgadiel@gmail.com
-  author_url: http://rachelgadiel.com/
-  date: '2015-06-19 02:35:00 -0700'
-  date_gmt: '2015-06-19 09:35:00 -0700'
-  content: Love your philosophy on failing - its all about learning! Very inspiring
-    xx
-- id: 3944
-  author: Get Brave and Share Your Story (It Benefits Everyone)
-  author_email: ''
-  author_url: http://www.bloomology.co/share-your-story/
-  date: '2015-07-29 06:29:32 -0700'
-  date_gmt: '2015-07-29 13:29:32 -0700'
-  content: "[&#8230;] post earlier this year about what it was like when their Kickstarter
-    campaign failed, and in a follow up post, she talked a lot about how sharing and
-    celebrating that experience so honestly brought forward a [&#8230;]"
 ---
 <p>It's been just over a month since our <a href="http://yellowconference.com/freetofail/" target="_blank">Kickstarter failure</a>, so I thought I would check in with you ladies for a little #realtalk. Thank you for&nbsp;the feedback you had on&nbsp;my <a href="http://yellowconference.com/freetofail/" target="_blank">original post</a>. It warms my heart to know it encouraged so many&nbsp;of you.</p>
 <p>To celebrate our failure (we have to celebrate these things!) we had a Fail Party a few weeks ago where we invited you all&nbsp;to come hang out with us, eat cupcakes and have intentional conversations&nbsp;about fear and&nbsp;risk taking. Women openly shared their experiences with failure, as well as their plan to take more risks.</p>

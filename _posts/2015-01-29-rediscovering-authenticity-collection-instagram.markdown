@@ -1,33 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: YOU ARE MORE THAN A COLLECTION ON INSTAGRAM'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1692
+title: 'Rediscovering Authenticity: You are More Than a Collection on Instagram'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1692
 date: '2015-01-29 04:00:53 -0800'
-date_gmt: '2015-01-29 12:00:53 -0800'
 categories:
 - Creative Ladies
 - Inspiration
 - Encouragement
 - REDISCOVERING AUTHENTICITY
-tags: []
-comments:
-- id: 3862
-  author: 'The Week + Links: 8.19.16 | Nubby Twiglet'
-  author_email: ''
-  author_url: http://nubbytwiglet.com/2016/08/19/the-week-links-8-19-16/
-  date: '2016-08-19 12:12:46 -0700'
-  date_gmt: '2016-08-19 19:12:46 -0700'
-  content: "[&#8230;] &bull; YES! You are more than your Instagram account. [&#8230;]"
 ---
 <p>A U T H E N T I C I T Y:&nbsp;<em>Legitimate, valid, dependable, and truthful</em></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/k14.jpg"><img class=" size-full wp-image-1775 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/01/k14.jpg" alt="k14" width="700" height="1050" /></a></p>

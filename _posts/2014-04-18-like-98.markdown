@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: I Like Being 98
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 418
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=418
 date: '2014-04-18 05:03:12 -0700'
-date_gmt: '2014-04-18 05:03:12 -0700'
 categories:
 - Inspiration
-tags: []
-comments: []
 ---
 <p>So inspired by Evelyn, who at 98 years old, while having limited resources and money, went out of her way to do something to help her friend. Just shows that no matter what our age and no matter what our circumstances are, we are valuable and have something good to bring to the world.</p>
 <p><iframe src="//www.youtube.com/embed/URLTQb5MmD8" height="455" width="700" allowfullscreen="" frameborder="0"></iframe></p>

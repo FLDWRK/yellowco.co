@@ -1,63 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Help us #bloomtogether'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2316
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2316
 date: '2015-03-20 02:39:16 -0700'
-date_gmt: '2015-03-20 09:39:16 -0700'
 categories:
 - Creative Ladies
 - Inspiration
-tags: []
-comments:
-- id: 3896
-  author: Melissa Kay
-  author_email: melissa.k.jones10@gmail.com
-  author_url: http://www.chiefencouragementoffice.com/
-  date: '2015-03-20 14:21:00 -0700'
-  date_gmt: '2015-03-20 21:21:00 -0700'
-  content: This is awesome! Wish there was a meetup in Chicago!
-- id: 3897
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-03-21 13:51:00 -0700'
-  date_gmt: '2015-03-21 20:51:00 -0700'
-  content: If there's enough interest maybe we can make it happen next time!
-- id: 3898
-  author: Shannon
-  author_email: sfdesigns@outlook.com
-  author_url: http://www.shannonfraserdesigns.etsy.com/
-  date: '2015-03-23 11:58:00 -0700'
-  date_gmt: '2015-03-23 18:58:00 -0700'
-  content: So happy to have found you!  And then disappointed there is no meet-up
-    in Montreal.  Would love to help organize an event in this area - will you be
-    heading this way?!
-- id: 3899
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-03-23 13:23:00 -0700'
-  date_gmt: '2015-03-23 20:23:00 -0700'
-  content: Hey Shannon! If you want to host one, shoot us an email at heygirl@yellowconference.com
-    and we can chat details! So glad you found us!
-- id: 3900
-  author: 'The Countdown Begins! #Bloomtogether - Yellow ConferenceYellow Conference'
-  author_email: ''
-  author_url: http://yellowconference.com/the-countdown-begins-bloomtogether/
-  date: '2015-03-27 00:48:14 -0700'
-  date_gmt: '2015-03-27 07:48:14 -0700'
-  content: "[&#8230;] out our existing locations and RSVP here, and if you are in
-    West Virginia, we just added a location in [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/03/female-community-gathering.jpg"><img class=" size-full wp-image-2318 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/03/female-community-gathering.jpg" alt="female-community-gathering" width="700" height="985" /></a></p>
 <p>Happy Friday ladies! As you may (or may not) know, we are busy busy over here planning for our #BloomTogether Kickstarter Launch Party happening in 8 (2 additional have been added!) locations all over the US + Canada on the evening of April 2nd :)</p>

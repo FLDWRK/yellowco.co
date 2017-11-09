@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: BEING AN ACTIVIST IS EASIER THAN YOU THINK...
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3272
+title: Being an Activist is Easier Than You Think...
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3272
 date: '2015-07-21 04:00:30 -0700'
-date_gmt: '2015-07-21 11:00:30 -0700'
 categories:
 - Light Talk
 - Creative Ladies
@@ -24,20 +13,6 @@ categories:
 - The Starter
 - Team Members
 - The Solopreneur
-tags: []
-comments:
-- id: 3957
-  author: Jessie O. Squires
-  author_email: jessie6385@gmail.com
-  author_url: http://www.chasingbelle.com
-  date: '2015-07-22 20:47:00 -0700'
-  date_gmt: '2015-07-22 20:47:00 -0700'
-  content: This advice is truly inspiring and wonderfully written. I struggle with
-    what drives my blogging and making sure my content is authentic to what drives
-    me. As a Peace Studies major I always imagined I would be an agent for change
-    by traveling the globe and/or working for a non-profit. I know that writing
-    is a powerful tool, but I often doubt it's power. This post re-assured me that
-    I am putting my energy in the right spot. Thank you ?
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/07/k14.jpg"><img class="aligncenter size-full wp-image-3427" src="http://yellowconference.com/wp-content/uploads/2015/07/k14.jpg" alt="k14" width="700" height="1050" /></a></p>
 <p>I, like many of you, starting blogging because I wanted a place to put some things I found eye-capturing and inspiring: song quotes, videos, etc. This was before the Pinterest era. As I grew as a writer, and, more specifically, when I went on my trips to India, expanding my life experiences, it became more of a public diary-a place where I could share my heart, and release what was fogging my brain. Nothing too deep or personal, just a place that I had permission to grow as a writer, and share some thoughts and opinions along the way.</p>

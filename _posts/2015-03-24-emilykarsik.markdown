@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'A DAY IN THE LIFE: WITH EMILY KARSIK'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2303
+title: 'A Day in the Life: With Emily Karsik'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2303
 date: '2015-03-24 04:00:27 -0700'
-date_gmt: '2015-03-24 11:00:27 -0700'
 categories:
 - Light Talk
 - Team Members
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/03/Bloom-Shoot-.jpg"><img class="aligncenter size-full wp-image-2304" src="http://yellowconference.com/wp-content/uploads/2015/03/Bloom-Shoot-.jpg" alt="Bloom Shoot" width="700" height="466" /></a>My name is Emily and I am the Event Coordinator for The Yellow Conference. I&rsquo;ve been working as an Event Coordinator for the past 3 years, and I love it! I enjoy coming up with big ideas and concepts for an event, and dreaming of the finished product. I also like getting into the finer details of event planning, like putting together Excel spreadsheets, guest lists, budgets, contracts, and itineraries, and putting these two aspects together &ndash; the big and the small &ndash; to make an event happen!</p>
 <p>My days differ from week-to-week. Aside from going to church on Sundays and Bible study on Wednesdays, there are very rarely two days (or nights) in my week that look the same.</p>

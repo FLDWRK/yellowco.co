@@ -1,20 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE EASY STEPS TO BECOMING AN ACTIVIST (WITHOUT FLIPPING YOUR WORLD UPSIDE
-  DOWN)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3265
+title: Three Easy Steps to Becoming an Activist (Without Flipping Your World Upside Down)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3265
 date: '2015-07-09 04:00:42 -0700'
-date_gmt: '2015-07-09 11:00:42 -0700'
 categories:
 - Creative Ladies
 - Advice
@@ -23,33 +11,6 @@ categories:
 - The Starter
 - Encouragement
 - The Leader
-tags: []
-comments:
-- id: 3952
-  author: Tori
-  author_email: toriloum@gmail.com
-  author_url: http://www.toristales.com/
-  date: '2015-07-13 05:19:00 -0700'
-  date_gmt: '2015-07-13 12:19:00 -0700'
-  content: |-
-    This piece spoke to my heart and soul - I'm a very-just-graduate (albeit a mature one - I'm 29) who is in a state of limbo-and-flail; I worked on-and-off for 10 years before uni and worked many-a-job that I found not to suit. And then...education didn't suit (which is a long story I won't go into here!), which means I'm currently overwhelmed and trying to figure it all out, although I have come to the conclusion that I want to make a difference, no matter how small, to others, their lives, or this planet as a whole. What I have are my words - something I pour my heart and soul into, and spill onto the page with an honest-to-goodness, this-is-me-as-and-where-I-am voice - and anything I can do to make writing a part of my future I will. And I love where Avery said her heart identified with what it does because yes, yes, YES - I am all about community building and connection via social media, and supporting all those I share that space with because, my goodness, do they light up my life!
-
-
-    Thank you so much for sharing this piece here, Avery. I'm so blown away.
-- id: 3953
-  author: 3 Questions to Discover Your Purpose &#8211; Founded Magazine
-  author_email: ''
-  author_url: http://foundedmagazine.com/bloglovin/
-  date: '2015-07-14 04:31:50 -0700'
-  date_gmt: '2015-07-14 11:31:50 -0700'
-  content: "[&#8230;] Originally published on The Yellow Blog [&#8230;]"
-- id: 3954
-  author: Joanna
-  author_email: joannanoelwaterfall@gmail.com
-  author_url: ''
-  date: '2015-08-02 17:32:46 -0700'
-  date_gmt: '2015-08-03 00:32:46 -0700'
-  content: We are so glad Avery's piece encouraged you!
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/07/108H.jpg"><img class="aligncenter size-full wp-image-3258" src="http://yellowconference.com/wp-content/uploads/2015/07/108H.jpg" alt="Creative Advocacy: Yellow Conference Blog" width="700" height="467" /></a></p>
 <p>In my two years since graduating college, I have held about seven different jobs. I began working in the startup industry originally before shifting roles to try my hand at freelancing, a brief stint at nannying to make ends meet, and even instructing indoor cycling classes.</p>

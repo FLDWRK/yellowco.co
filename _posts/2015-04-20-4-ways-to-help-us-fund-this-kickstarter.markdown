@@ -1,23 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 4 Ways to Help Us Fund This Kickstarter
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2822
+title: Four Ways to Help us Fund this Kickstarter
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2822
 date: '2015-04-20 01:27:43 -0700'
 date_gmt: '2015-04-20 08:27:43 -0700'
 categories:
 - Resources
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/Bloomtogether_April20-24.jpg"><img class=" size-full wp-image-2823 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/04/Bloomtogether_April20-24.jpg" alt="#Bloomtogether_April20-24" width="700" height="1344" /></a></p>
 <p>Happy Monday friends! We are less than half way through with this Kickstarter and just over 20% funded. The way Kickstarter works is that if you don't raise ALL the money, you don't get ANY of the money. Sooo we need your help to make this happen! Here are a few ways to join us:</p>

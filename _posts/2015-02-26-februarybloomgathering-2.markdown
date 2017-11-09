@@ -1,54 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: FEBRUARY BLOOM GATHERING RECAP
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2068
+title: February Bloom Gathering Recap
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2068
 date: '2015-02-26 04:00:54 -0800'
-date_gmt: '2015-02-26 12:00:54 -0800'
 categories:
 - Creative Ladies
 - Encouragement
 - Yellow 2015
-tags: []
-comments:
-- id: 3883
-  author: Abbie Driscoll
-  author_email: abbiedriscoll@gmail.com
-  author_url: http://www.ritesofasylum.com
-  date: '2015-02-26 09:37:00 -0800'
-  date_gmt: '2015-02-26 17:37:00 -0800'
-  content: Oh man. This sounds so lovely! I'm always sad to miss out, but so excited
-    for the future endeavors of Yellow and this community!
-- id: 3884
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-02-26 10:35:00 -0800'
-  date_gmt: '2015-02-26 18:35:00 -0800'
-  content: Thanks for the support Abbie! We heart you :)
-- id: 3885
-  author: sarahheyl
-  author_email: sarah.a.heyl@gmail.com
-  author_url: ''
-  date: '2015-02-26 11:03:00 -0800'
-  date_gmt: '2015-02-26 19:03:00 -0800'
-  content: so much yes to all of this! lovely times, lovely hearts.
-- id: 3886
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-02-26 15:55:00 -0800'
-  date_gmt: '2015-02-26 23:55:00 -0800'
-  content: SO glad you were able to be there with us!
 ---
 <p style="text-align: left;"><a href="http://yellowconference.com/wp-content/uploads/2015/02/BloomGatheringFeb_15-1.jpg"><img class=" size-full wp-image-2069 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/02/BloomGatheringFeb_15-1.jpg" alt="February Bloom Gathering" width="700" height="467" /></a></p></p>
 <p style="text-align: left;">What a night! Last Friday, we gathered with some incredible women (dreamers, achievers, and leaders of all sorts) to talk over the foundation and mission of Yellow, along with future plans. We not only shared with you our excitement over the future of Yellow, but also gave&nbsp;the Bloom Gathering attendees time to participate in an exercise called "Your Crazy Awesome Thing," where we explored what we'd like to accomplish (no dream too big or to small!) and what we felt were the barriers of these things...then we shared in groups and spent the rest of the evening mingling on the beautiful rooftop, with the most outrageous (in the very best way) view...</p><br />

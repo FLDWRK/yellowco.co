@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'TONIGHT: #BLOOMTOGETHER LAUNCH PARTY!'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2482
+title: 'Tonight: #bloomtogether Launch Party!'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2482
 date: '2015-04-02 04:00:37 -0700'
-date_gmt: '2015-04-02 11:00:37 -0700'
 categories:
 - Resources
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/BLOOMTOGETHERTONIGHT.jpg"><img class=" wp-image-2491 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/04/BLOOMTOGETHERTONIGHT.jpg" alt="BLOOMTOGETHERTONIGHT" width="700" height="706" /></a></p>
 <p>We can barely contain our excitement...the day is finally here! TONIGHT we will be having launch parties throughout the United States and Canada, led by amazing, creative, Yellow Co. loving ladies; and more than that...our Kickstarter Campaign will be going LIVE!</p>

@@ -1,20 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WHEN PASSION AND PURPOSE COLLIDE: HOW LANDMINE DESIGN IS LEAVING THEIR MARK
-  ON GLOBAL EXPLOITATION OF WOMEN'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3531
+title: 'When Passion and Purpose Collide: How Landmine Design is Leaving Their Mark on Global Exploitation of Women'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3531
 date: '2015-08-11 04:00:35 -0700'
-date_gmt: '2015-08-11 11:00:35 -0700'
 categories:
 - Creative Ladies
 - Advice
@@ -23,8 +11,6 @@ categories:
 - The Activist
 - The Starter
 - Encouragement
-tags: []
-comments: []
 ---
 <blockquote><em style="line-height: 1.5;"><a href="http://yellowconference.com/wp-content/uploads/2015/08/Sew-Vuy.jpg"><img class="aligncenter size-full wp-image-3541" src="http://yellowconference.com/wp-content/uploads/2015/08/Sew-Vuy.jpg" alt="landmine design+yellow" width="700" height="467" /></a><br />
 Landmine Design is pulling women and their families out of poverty, setting them on their feet, and giving them an education that no one can take from them. [These women]&nbsp;are&nbsp;in desperate need of a job, and even more desperately in need of education. These are the women LandMine Design exists to serve.<br />

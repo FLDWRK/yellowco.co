@@ -1,33 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'SNAPCHAT: WHAT''S THE BUZZ ABOUT AND CAN IT ACTUALLY HELP YOUR BUSINESS GROW?'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4913
+title: 'Snapchat: What's the Buzz About and Can It Actually Help Your Business Grow?'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4913
 date: '2016-02-02 04:00:53 -0800'
-date_gmt: '2016-02-02 12:00:53 -0800'
 categories:
 - The Solopreneur
 - The Leader
 - BUILD
-tags: []
-comments:
-- id: 4049
-  author: Wattlebird - Cool Internet Stuff, February 2016 Edition
-  author_email: ''
-  author_url: http://www.wattlebirdblog.com/2016/02/26/cool-internet-stuff-february-2016-edition/
-  date: '2016-02-26 09:03:39 -0800'
-  date_gmt: '2016-02-26 17:03:39 -0800'
-  content: "[&#8230;] you can use Snapchat as part of your business&#8217;s social
-    media [&#8230;]"
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/02/2Q.jpg"><img class="aligncenter size-full wp-image-4961" src="http://yellowconference.com/wp-content/uploads/2016/02/2Q.jpg" alt="2Q==" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/01/Emma_Fineman_-52.jpg"><br />
 </a>Snapchat&rsquo;s been getting lots of buzz lately, and it isn&rsquo;t just for teens anymore.</h2><br />

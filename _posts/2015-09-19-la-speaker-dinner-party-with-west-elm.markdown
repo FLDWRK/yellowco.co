@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: LA Speaker Dinner Party with West Elm
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3901
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3901
 date: '2015-09-19 04:00:16 -0700'
-date_gmt: '2015-09-19 11:00:16 -0700'
 categories:
 - Yellow 2015
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/09/Yellow_2015_Dinner-69.jpg"><img class=" size-full wp-image-3902 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/09/Yellow_2015_Dinner-69.jpg" alt="Yellow_2015_Dinner-69" width="700" height="1050" /></a>Every year we try and do something special to honor our conference speakers. This year we had the pleasure of hosting an intimate dinner at Hudson Loft the night before the conference. It was a special evening where some of the kindest souls gathered together in one room to converse, drink yummy wine and eat good food.</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/09/Yellow_2015_Dinner-3-copy.jpg"><img class="aligncenter size-full wp-image-3949" src="http://yellowconference.com/wp-content/uploads/2015/09/Yellow_2015_Dinner-3-copy.jpg" alt="Yellow_2015_Dinner-3 copy" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2015/09/Yellow_2015_Dinner-3.jpg"><br />

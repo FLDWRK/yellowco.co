@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: JULY BLOOM GATHERING RECAP
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3459
+title: July Bloom Gathering Recap
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3459
 date: '2015-07-30 04:00:21 -0700'
-date_gmt: '2015-07-30 11:00:21 -0700'
 categories:
 - Light Talk
 - Creative Ladies
 - CREATIVE ADVOCACY
 - The Activist
 - Yellow 2015
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/07/39.jpg"><img class="aligncenter size-full wp-image-3477" src="http://yellowconference.com/wp-content/uploads/2015/07/39.jpg" alt="JULY BLOOM GATHERING" width="700" height="465" /></a></p>
 <p><strong>This was a very, very special Bloom Gathering.&nbsp;</strong></p>

@@ -1,20 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'OUR HEIDAY: HOW ONE BRAND ELEVATES THE EVERYDAY PRODUCT AND GIVES BACK ALL
-  AT ONCE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4247
+title: 'Our Heiday: How One Brand Elevates the Everyday Product and Gives Back All At Once'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4247
 date: '2015-11-17 04:00:23 -0800'
-date_gmt: '2015-11-17 12:00:23 -0800'
 categories:
 - Creative Ladies
 - Advice
@@ -24,30 +12,6 @@ categories:
 - The Activist
 - The Starter
 - The Leader
-tags: []
-comments:
-- id: 4003
-  author: Nichole Fisher Banducci
-  author_email: choliefish@yahoo.com
-  author_url: ''
-  date: '2015-11-17 09:09:00 -0800'
-  date_gmt: '2015-11-17 17:09:00 -0800'
-  content: Such an inspirational story! Excited to explore the product line...looks
-    beautiful.
-- id: 4004
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-11-23 00:06:00 -0800'
-  date_gmt: '2015-11-23 08:06:00 -0800'
-  content: So good right??
-- id: 4005
-  author: Eileen Rosete
-  author_email: oursacredwomen@gmail.com
-  author_url: ''
-  date: '2015-12-01 02:53:00 -0800'
-  date_gmt: '2015-12-01 10:53:00 -0800'
-  content: LOVED this post! Always so helpful to hear about an entrepreneur's process.
 ---
 <h5><a href="http://yellowconference.com/wp-content/uploads/2015/11/titlepicture.jpg"><img class="aligncenter size-full wp-image-4250" src="http://yellowconference.com/wp-content/uploads/2015/11/titlepicture.jpg" alt="Our Heiday for Yellow Co. " width="700" height="526" /></a></h5></p>
 <h5><strong>Tell us a little about Our Heiday&mdash;how did it start?&nbsp;</strong></h5><br />

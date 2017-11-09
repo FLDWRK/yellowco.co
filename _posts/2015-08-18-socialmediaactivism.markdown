@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: CAN SOCIAL MEDIA REALLY CHANGE THE WORLD?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3621
+title: Can Social Media Really Change the World?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3621
 date: '2015-08-18 04:00:06 -0700'
-date_gmt: '2015-08-18 11:00:06 -0700'
 categories:
 - Creative Ladies
 - Advice
@@ -22,8 +11,6 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/08/IMG_1782.jpg"><img class="aligncenter size-full wp-image-3625" src="http://yellowconference.com/wp-content/uploads/2015/08/IMG_1782.jpg" alt="yellow conference blog" width="700" height="467" /></a>Everyone uses social media, but we don&rsquo;t all use it the same way. Some of us use it for personal use, some of us use it to market our business or blog, and some use it to get our creative work out there and inspire others. Of course, using social media in any of these ways is not mutually exclusive, but they all present an <strong>opportunity</strong> that has not been available to us in such a wide spread way before now: using social media to advocate for change. <strong>Whether it&rsquo;s for personal use or for business, we have an opportunity to create content that can inspire or change someone else&rsquo;s life.</strong> This sounds big and scary, but it&rsquo;s really not. Whatever it is you want to put out into the world, here are some tips for advocating for change on social media.<em><br />
 </em></p>

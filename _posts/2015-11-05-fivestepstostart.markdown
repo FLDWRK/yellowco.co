@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 5 SIMPLE STEPS TO (REALLY) STARTING YOUR DAY RIGHT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4205
+title: 5 Simple Steps to (Really) Starting Your Day Right
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4205
 date: '2015-11-05 04:00:41 -0800'
-date_gmt: '2015-11-05 12:00:41 -0800'
 categories:
 - Light Talk
 - Creative Ladies
@@ -25,48 +14,6 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
-tags: []
-comments:
-- id: 3992
-  author: 'Link Love: 11.5.15 | Nubby Twiglet'
-  author_email: ''
-  author_url: http://nubbytwiglet.com/2015/11/05/link-love-11-5-15/
-  date: '2015-11-05 09:00:59 -0800'
-  date_gmt: '2015-11-05 17:00:59 -0800'
-  content: "[&#8230;] 5 steps to starting your day [&#8230;]"
-- id: 3993
-  author: SUNDAY ROUNDUP /// 08.11.15 | girltime international
-  author_email: ''
-  author_url: https://girltimeinternational.wordpress.com/2015/11/08/sunday-roundup-08-11-15/
-  date: '2015-11-08 10:26:36 -0800'
-  date_gmt: '2015-11-08 18:26:36 -0800'
-  content: "[&#8230;] 5 Simple Steps to Starting Your Day Right.&nbsp;Really helpful
-    to me, as my attempts to take up running have been somewhat disrupted by a REALLY
-    painful rib injury and poor planning. [&#8230;]"
-- id: 3994
-  author: Currently in November | caroly96
-  author_email: ''
-  author_url: https://caroly96.wordpress.com/2015/11/16/currently-in-november/
-  date: '2015-11-15 18:10:11 -0800'
-  date_gmt: '2015-11-16 02:10:11 -0800'
-  content: "[&#8230;] Trying&#8230;a new morning routine this week in the hopes that
-    it will magically make my mornings pleasant and enjoyable versus the mad dash
-    as I run out the door 20 minutes after I wake up. Inspired by this post. [&#8230;]"
-- id: 3995
-  author: Blog Love
-  author_email: ''
-  author_url: http://xosarah.com/2015/11/29/blog-love-159/
-  date: '2015-11-29 05:00:21 -0800'
-  date_gmt: '2015-11-29 13:00:21 -0800'
-  content: "[&#8230;] 5 simple steps to really start your day right >>> [&#8230;]"
-- id: 3996
-  author: Rise &amp; Shine! | Sarah Rose Lochelt
-  author_email: ''
-  author_url: https://sarahlochelt.wordpress.com/2016/01/11/rise-shine/
-  date: '2016-01-11 16:41:46 -0800'
-  date_gmt: '2016-01-12 00:41:46 -0800'
-  content: "[&#8230;] an awesome post from November on The Yellow Blog about mornings,
-    and the amount of pressure and disappointment we [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/10/PHOTO1.jpg"><img class="aligncenter size-full wp-image-4210" src="http://yellowconference.com/wp-content/uploads/2015/10/PHOTO1.jpg" alt="STARTING YOUR MORNING RIGHT (REALLY HOW TO DO IT)" width="700" height="467" /></a></p>
 <h5>Mornings can feel more like war zones than invitations into a great day.</h5><br />
