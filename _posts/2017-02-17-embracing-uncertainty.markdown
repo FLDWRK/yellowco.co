@@ -1,38 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: EMBRACING THAT BITTERSWEET GIFT CALLED UNCERTAINTY
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 7882
+title: Embracing that Bittersweet Gift Called Uncertainty
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=7882
 date: '2017-02-17 04:00:29 -0800'
-date_gmt: '2017-02-17 12:00:29 -0800'
 categories:
 - Encouragement
-- PIONEER
-tags: []
-comments:
-- id: 4324
-  author: Tania Rascia
-  author_email: taniarascia@gmail.com
-  author_url: ''
-  date: '2017-02-20 05:21:00 -0800'
-  date_gmt: '2017-02-20 13:21:00 -0800'
-  content: Well said, and very relatable.
-- id: 4329
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2017-03-01 12:18:00 -0800'
-  date_gmt: '2017-03-01 20:18:00 -0800'
-  content: So glad you enjoyed it Tania!!
+- Pioneer
 ---
 <h3><strong>Let me be the first to say I have often enjoyed dwelling in the warmth of the comfortable.</strong></h3><br />
 <span style="font-weight: 400;">Every sense of peace that has come to me in the form of a well-ironed routine, rewatchable movie, or unconditional friendship, I have continually clung onto dearly. To me, there&rsquo;s always been something so alluring about the familiar. Although I will always celebrate finding these gems and cherishing them as such, I had to learn early on the inevitability of change. That life, without its constant shifting and newness, isn&rsquo;t really life at all. <em><strong>And while we greet some transitions with a lightened heart or tears of relief, others can dissolve the once solid ground beneath us in a moment.</strong></em>&nbsp;</span>Let me also be quick to admit that finding myself in this kind of uncertainty, the kind we know to take pieces of our lives with the tide, I have had to fight to see the good in.</p>

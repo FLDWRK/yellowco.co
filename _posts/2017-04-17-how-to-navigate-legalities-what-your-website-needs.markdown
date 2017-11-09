@@ -1,35 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'HOW TO NAVIGATE LEGALITIES: A BREAKDOWN OF YOUR WHAT YOUR WEBSITE NEEDS'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8382
+title: 'How to Navigate Legalities: a Breakdown of Your What Your Website Needs'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8382
 date: '2017-04-17 04:00:14 -0700'
-date_gmt: '2017-04-17 11:00:14 -0700'
 categories:
 - Wander
-tags:
-- women
-- women entrepreneurs
-- entrepreneurs
-- privacy policies
-- terms of use
-- website legalities
-- starting your own business
-- PII
-- website
-- running a business
-- legal
-- law
-comments: []
 ---
 <p><span style="font-weight: 400;">Let&rsquo;s talk Privacy Policies and Terms of Use for a moment. Arguably the dullest two pages on your website, these are the ones that no one ever wants to read - like the wall of text that pops up every time you update your iPhone (and which you scroll through as fast as possible&nbsp;and&nbsp;</span><span style="font-weight: 400;">click accept</span><span style="font-weight: 400;">). There is considerable confusion as to why these are important, and if they are even required. So, we want to address and explain them for all of you working on your websites.</span></p>
 <p><span style="font-weight: 400;">Privacy law in general is in a state of somewhat confusion due to the fact that the internet has no borders, and yet each individual country (and state) has varying restrictions and requirements in place, many of which apply to website operators outside of their boundaries. The lack of any overarching federal law&nbsp;regulating privacy in the US means that we have ended up with a patchwork of privacy laws, each with their own nuances, definitions, and penalties. Here are a few to be familiar with:</span></p>

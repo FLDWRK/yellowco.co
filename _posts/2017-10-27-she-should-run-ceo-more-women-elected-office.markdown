@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: "'SHE SHOULD RUN' CEO SHARES WHAT YOU CAN DO TODAY TO GET MORE WOMEN IN ELECTED
-  OFFICE"
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9839
+title: "'SHE SHOULD RUN' CEO Shares What You Can Do Today to Get More Women in Elected
+  Office"
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9839
 date: '2017-10-27 04:00:47 -0700'
-date_gmt: '2017-10-27 11:00:47 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments: []
+- Come Together
 ---
 <p><i><span style="font-weight: 400;">Perhaps more than ever, we can see a dire need for unity, diversity, and genuine collaboration in our nation's political offices. While strides have been made towards women being further represented in elected office, there is no doubt we still have a long way to go to close the gender gap. <a href="http://www.sheshouldrun.org/meet_the_staff" target="_blank" rel="noopener noreferrer">Erin Loos Cutraro</a>, Founder and CEO of&nbsp;<a href="http://www.sheshouldrun.org/" target="_blank" rel="noopener noreferrer">She Should Run</a>, resolved to make this gap much narrower. The non-partisan, non-profit organization she started has a mission to&nbsp;grow the amount of women running for office in the US through both community and multiple programs they offer. They dream to see women of all political leanings, ethnicities, and backgrounds come together to support one another and have equal opportunity to be leaders. Read more on how She Should Run is changing the culture of women in politics in our interview with Erin!</span></i></p>
 <h4><b>Can you share about the mission behind <a href="http://www.sheshouldrun.org/" target="_blank" rel="noopener noreferrer">She Should Run</a>?</b></h4><br />

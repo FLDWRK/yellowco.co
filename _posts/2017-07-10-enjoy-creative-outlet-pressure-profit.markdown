@@ -1,29 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: ENJOYING A CREATIVE OUTLET WITHOUT THE PRESSURE OF PROFIT
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8998
+title: Enjoying a Creative Outlet Without the Pressure of Profit
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8998
 date: '2017-07-10 04:00:49 -0700'
-date_gmt: '2017-07-10 11:00:49 -0700'
 categories:
 - Tension
-tags:
-- creative women
-- creatives
-- creative outlet
-- hobby
-- profit
-- profitable
-comments: []
 ---
 <p>As a creative lady, it&rsquo;s almost too easy to find new outlets to explore. I'm&nbsp;a blogger. I live to write, to share, to pour myself out with my words. I love what I do&nbsp;- how it&rsquo;s always changing, always evolving, always getting better. However, it&rsquo;s easy to feel pulled in different directions creatively. Often, we&nbsp;see someone on our Instagram feed start selling hand-lettered prints and think, "I can make that!". We&nbsp;hear of someone&nbsp;hosting an event at the local Madewell store and think, "I can do that!". Or we get an email from a favorite blogger announcing a new e-course, conference, or podcast - and the same thoughts surface every time.</p>
 <p><span style="font-weight: 400;">Growth as a creative can be tricky. Growing into yourself, your current gig, and what you love to do? That&rsquo;s the most amazing kind. But growth in different directions, down new paths? That can get tricky. There&rsquo;s nothing wrong with wanting to explore something new, but it is important to keep tabs on our intention with it.</span></p>

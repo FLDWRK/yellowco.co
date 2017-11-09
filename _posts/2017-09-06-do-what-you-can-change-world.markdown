@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: DOING WHAT YOU CAN, WHERE YOU ARE CAN CHANGE THE WORLD
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9458
+title: Doing What You Can: Where You are Can Change the World
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9458
 date: '2017-09-06 04:00:12 -0700'
-date_gmt: '2017-09-06 11:00:12 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>Do you ever have a moment of global realization? It&rsquo;s that instant when you suddenly realize that you&rsquo;re living as history is being created, and it occurs to you that all the things happening in the world around you will end up in textbooks someday.</p>
 <p><span style="font-weight: 400;">Sometimes these thoughts are fleeting. But more often that not recently, they have a strong pull. Monumental shifts in global society and politics feel commonplace these days, as though we&rsquo;re living in a narrative of history beyond our control. And honestly, it&rsquo;s easy to feel frustrated as we balance this tension. There are brilliant moments when we see the beautiful potential of our world and everyone in it, but that hope is rivaled by watching things moving in a direction we wish we could change. It&rsquo;s easy to feel completely helpless, small, and insignificant.</span></p>

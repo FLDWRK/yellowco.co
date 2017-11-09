@@ -1,31 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: DRAINED BY THE NEWS? WHY SETTING HEALTHY BOUNDARIES ACTUALLY FUELS CHANGE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8962
+title: Drained by the News? Why Setting Healthy Boundaries Actually Fuels Change
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8962
 date: '2017-07-07 04:00:40 -0700'
-date_gmt: '2017-07-07 11:00:40 -0700'
 categories:
 - Tension
-tags:
-- mission
-- purpose
-- boundaries
-- change
-- news
-- current events
-- injustice
-- agent of good
-comments: []
 ---
 <p><span style="font-weight: 400;">I read The Handmaid&rsquo;s Tale in college, so I knew what to expect when I turned the TV on to the new hit series. But as I snuggled into my couch to watch the dystopian future story, I felt an eerie familiarity wash over me. This world in which women were systematically stripped of their rights didn&rsquo;t seem all that different from our own.</span></p>
 <p><span style="font-weight: 400;">One&nbsp;particular episode contained every form of violence against women imaginable, and though the story was told respectfully, I couldn&rsquo;t help wanting to change the channel and watch something lighter instead. As I reached for the remote, it dawned on me: I was about to make a choice that many women around the world&nbsp;don&rsquo;t have.&nbsp;</span><strong>While I can choose to tune in or tune out of many of the world&rsquo;s atrocities, the pain shown on my screen is simply the reality for so many of our sisters across the globe.</strong></p>

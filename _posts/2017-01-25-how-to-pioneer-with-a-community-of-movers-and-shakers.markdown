@@ -1,36 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO BUILD YOUR COMMUNITY OF MOVERS AND SHAKERS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7717
+title: How to Build Your Community of Movers and Shakers
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=7717
 date: '2017-01-25 04:00:56 -0800'
-date_gmt: '2017-01-25 04:00:56 -0800'
 categories:
 - Advice
 - The Starter
 - The Solopreneur
 - The Leader
-- PIONEER
-tags: []
-comments:
-- id: 4316
-  author: Sunday Sampling / 056 - Heroine Training
-  author_email: ''
-  author_url: http://www.heroinetraining.com/sunday-sampling-056/
-  date: '2017-02-05 00:01:07 -0800'
-  date_gmt: '2017-02-05 08:01:07 -0800'
-  content: "[&#8230;] ?&nbsp;How to build your community of movers and shakers: &#8220;Sometimes
-    the connections you want to make begin with you stepping out and creating the
-    thing you want to see.&#8221; Yes yes yes! [&#8230;]"
+- Pioneer
 ---
 <p><span style="font-weight: 400;">Us dreamers, visionaries, solopreneurs, and gals with big hopes for the world, we long for people to champion our causes, hop on board, share our latest blog post, and be </span><i><span style="font-weight: 400;">just as excited</span></i><span style="font-weight: 400;"> as we are about our plans! We are passionate!! We are eager!!! And...well, sometimes it feels like we are </span><i><span style="font-weight: 400;">alone; </span></i><span style="font-weight: 400;">especially around the people we love most. </span></p>
 <p><span style="font-weight: 400;">When I launched <a href="http://www.madisonhedlund.co/">my life-coaching business</a> in a small midwestern town, many people gave me a kind smile and a sweet yet patronizing, </span><i><span style="font-weight: 400;">&ldquo;good luck!&rdquo;</span></i><span style="font-weight: 400;"> I&rsquo;m still not sure my family is convinced I have a real job! &nbsp;Don&rsquo;t get me wrong, they were supportive of my</span><i><span style="font-weight: 400;"> &ldquo;wild and crazy dreams,&rdquo;</span></i><span style="font-weight: 400;"> but deep down, I didn&rsquo;t feel supported. &nbsp;I felt alone, misunderstood, and like I didn&rsquo;t have a tribe of people who truly</span><i><span style="font-weight: 400;"> got it. </span></i><span style="font-weight: 400;">I allowed the belief that I was the only one with my mindset in my tiny city- that finding a tribe would be hard, and that I would have to do my adventure solo.</span></p>

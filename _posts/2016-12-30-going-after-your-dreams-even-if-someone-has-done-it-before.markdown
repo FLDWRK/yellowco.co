@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: GOING AFTER YOUR DREAMS...EVEN IF SOMEONE HAS DONE IT BEFORE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7542
+title: Going After Your Dreams...Even if Someone Has Done it Before
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7542
 date: '2016-12-30 04:00:04 -0800'
-date_gmt: '2016-12-30 12:00:04 -0800'
 categories:
 - Encouragement
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/12/K1.jpg"><img class="aligncenter size-full wp-image-7543" src="http://yellowconference.com/wp-content/uploads/2016/12/K1.jpg" alt="k1" width="700" height="1050" /></a>As a little girl, I enjoyed playing with wooden blocks or braiding my doll&rsquo;s hair, but most of all, I </span><i><span style="font-weight: 400;">loved</span></i><span style="font-weight: 400;"> reading books. I believe this interest has innate components to it, but more than anything, I think it was fostered by my parents, who took the time to read to (and with) me from when I was very young. </span></p>
 <p><span style="font-weight: 400;">Out of all the classic children&rsquo;s books, one still sticks out in my memory: </span><i><span style="font-weight: 400;">The Little Engine That Could</span></i><span style="font-weight: 400;">. If I close my eyes, I can picture my small, stubby hands eagerly helping my mom turn each page as she repeats the book&rsquo;s catchphrase: <em>I think I can. I think I can. I think I can.&nbsp;</em></span></p>

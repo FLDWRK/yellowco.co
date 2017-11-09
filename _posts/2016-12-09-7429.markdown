@@ -1,41 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO LET FEEDBACK SHAPE YOUR VISION, AND NOT DEFINE WHO YOU ARE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7656
+title: How to Let Feedback Shape Your Vision, and Not Define Who You Are
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7429
 date: '2016-12-09 04:00:21 -0800'
-date_gmt: '2016-12-09 12:00:21 -0800'
 categories:
 - Advice
 - Encouragement
-- HEART
-tags: []
-comments:
-- id: 4281
-  author: Blog Love
-  author_email: ''
-  author_url: http://xosarah.com/2016/12/11/blog-love-200/
-  date: '2016-12-11 10:56:27 -0800'
-  date_gmt: '2016-12-11 18:56:27 -0800'
-  content: "[&#8230;] How to let feedback shape your vision, not define who you are
-    >>> [&#8230;]"
-- id: 4282
-  author: Jessica Daveata
-  author_email: jdaveata@gmail.com
-  author_url: ''
-  date: '2016-12-12 07:28:00 -0800'
-  date_gmt: '2016-12-12 15:28:00 -0800'
-  content: Great read, exactly what I needed to read to help filter with everything
-    I am struggling with at the moment, thank you!
+- Heart
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos30of321.jpg"><img class="aligncenter size-full wp-image-7435" src="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos30of321.jpg" alt="valeriedenisephotos30of32" width="700" height="1050" /></a>Here&rsquo;s why it&rsquo;s taking me so long to write this blog post:&nbsp;</span><em><span style="font-weight: 400;">I am not the kind of person that struggles with being brave.</span></em></p>
 <p><span style="font-weight: 400;">Courage, fearlessness, audacity &ndash; not character traits I need to dig down deep to find.</span></p>

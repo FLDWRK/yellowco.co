@@ -1,36 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE UNDENIABLE IMPORTANCE OF STAYING CURIOUS FOR YOUR LIFE AND BUSINESS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7502
+title: The Undeniable Importance of Staying Curious for Your Life and Business 
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7379
 date: '2016-11-30 04:00:38 -0800'
-date_gmt: '2016-11-30 12:00:38 -0800'
 categories:
 - Creative Ladies
 - Encouragement
-- HEART
-tags: []
-comments:
-- id: 4271
-  author: Marlena
-  author_email: marlenapearl@gmail.com
-  author_url: http://www.marlenapearl.com/
-  date: '2016-11-30 20:15:00 -0800'
-  date_gmt: '2016-12-01 04:15:00 -0800'
-  content: This is such a beautiful post, Kristi.  And definitely something every
-    creative person needs to read.  Rarely do we stop during our busy day and observe
-    our surroundings or get curious.  This is something I've been focusing on over
-    the past year; learning to be present, practice gratitude, and  pay more attention
-    to the why &amp; now.  Thank you for this beautiful reminder :)
+- Heart
 ---
 <h2><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/11/YellowCollectivexHeritage-AndreaDavid18.jpg"><img class="aligncenter size-full wp-image-7385" src="http://yellowconference.com/wp-content/uploads/2016/11/YellowCollectivexHeritage-AndreaDavid18.jpg" alt="yellowcollectivexheritage-andreadavid18" width="700" height="467" /></a>Curiosity is a beautiful piece of us to embrace. Curiosity is innate. It is natural. To find it, we must look beyond the patterns of our day. We must be able to allow ourselves to come to the present and experience every moment as if it was to never cross our path again. </span></h2><br />
 <span style="font-weight: 400;">Each of us is given only 24 hours a day; therefore, we can become involved in a pattern that pulls us away from our creative self. This pattern can immerse us in the daily tasks and responsibilities that demand our time and attention. As a mental health professional, I have been trained to engage and assist others to engage in this innate trait called curiosity. Several psychologists have defined curiosity as <em>&ldquo;a state of active interest or genuinely wanting to know more about something.&rdquo;</em> This creates one to be more open, more vulnerable, and bring more satisfaction. </span></p>

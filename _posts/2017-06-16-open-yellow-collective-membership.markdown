@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WE''RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8784
+title: 'We're Open: the Yellow Collective Membership'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8784
 date: '2017-06-16 04:00:23 -0700'
-date_gmt: '2017-06-16 11:00:23 -0700'
 categories:
 - Wander
-tags: []
-comments: []
 ---
 <p>Our membership is officially OPEN and today is the day where you can become a <a href="https://yellowco.myshopify.com/collections/the-yellow-collective" target="_blank" rel="noopener noreferrer">Yellow Collective member</a>! We open up just four times a year, so this is a pretty special time. The Yellow Collective launched at our 2016 conference in August, and&nbsp;we are constantly working on making it better and better, learning a ton along the way.</p>
 <h3>The purpose of The Yellow Collective is to&nbsp;help creative women become agents of good.</h3><br />

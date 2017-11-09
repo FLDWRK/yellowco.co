@@ -1,57 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: TRAVEL-FRIENDLY WAYS TO PRACTICE SELF CARE ON THE ROAD
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9061
+title: Travel-Friendly Ways to Practice Self Care on the Road
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9061
 date: '2017-07-17 04:00:59 -0700'
-date_gmt: '2017-07-17 11:00:59 -0700'
 categories:
 - Tension
-tags:
-- Self care
-- summer
-- routine
-- travel
-- practice
-- trip
-- essentials
-comments:
-- id: 4380
-  author: Dieulita Datus
-  author_email: dieulitadatus@gmail.com
-  author_url: ''
-  date: '2017-07-17 11:31:00 -0700'
-  date_gmt: '2017-07-17 18:31:00 -0700'
-  content: Love all the tips. I will be sure to put them to good use on my next trip.
-- id: 4391
-  author: Rebecca
-  author_email: sunnyrebeccamail@gmail.com
-  author_url: http://www.sunnyrebecca.com
-  date: '2017-08-03 15:13:00 -0700'
-  date_gmt: '2017-08-03 22:13:00 -0700'
-  content: |-
-    This is such a great post idea! It's so easy to neglect self care when traveling and these are some great tips to make sure that self-care isn't lost!
-    Rebecca
-    www.thebloomly.com
-- id: 4397
-  author: Keely Merrett
-  author_email: k.merrett@gmail.com
-  author_url: ''
-  date: '2017-09-04 18:05:00 -0700'
-  date_gmt: '2017-09-05 01:05:00 -0700'
-  content: |-
-    Love this post :) I'm going away soon and being able to set boundaries about my morning routine is definitely something I struggle with and notice the difference in how I feel. Am going to try a lot harder this time.
-    Keely x
-    www.keelymerrett.com
 ---
 <p>I don&rsquo;t know about you, but it&rsquo;s taken me a few years to get in the groove of practicing my self-care routine while traveling! When I&rsquo;m at my home base, it&rsquo;s so easy to be diligent about my morning rituals, self-care practices, healthy eating, and exercise. But the minute I travel back to East Africa for work with my non-profit, everything seems to fly right out the window! In the past, I would make excuses for myself to skip these practices - like I have to eat what the locals eat, the weather is too hot to do yoga, or I don&rsquo;t have extra room in my suitcase to bring my clean beauty supplies, vitamins, or wide-brim hat.</p>
 <p><span style="font-weight: 400;">But now that I&rsquo;m wiser, have gone through burn out during travel, and am on the other side, I truly&nbsp;recognize the importance of self care even when traveling. Because no matter if you are on vacation or on a work trip, it is key to keep our bodies and minds in balance when our environment is&nbsp;shifting. I&rsquo;ve found a few ways to help&nbsp;stay on track even when my regular routine gets disrupted:</span></p>

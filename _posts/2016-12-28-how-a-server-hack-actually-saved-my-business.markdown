@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW A MASSIVE SECURITY BREACH ACTUALLY SAVED MY BUSINESS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7509
+title: How a Massive Security Breach Actually Saved My Business
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7509
 date: '2016-12-28 04:00:54 -0800'
-date_gmt: '2016-12-28 12:00:54 -0800'
 categories:
 - Advice
 - The Leader
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <h4><i><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-5.jpg"><img class="aligncenter wp-image-7513" src="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-5.jpg" alt="valeriedenisephotos-5" width="700" height="1050" /></a>Sticks and stones may break my bones, but words can never hurt me.&nbsp;</span></i>Ya, ok&hellip; Frankly, I&rsquo;d rather have the broken bones.</h4></p>
 <h4><i><span style="font-weight: 400;">When life throws you lemons, make lemonade.&nbsp;</span></i>What if I don&rsquo;t like lemonade? And who the heck would throw a lemon anyway?</h4><br />

@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY YOU DON'T NEED A MAN TO TRAVEL ALONE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6463
+title: Why You Don't Need a Man to Travel Alone
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6463
 date: '2016-08-11 04:00:07 -0700'
-date_gmt: '2016-08-11 11:00:07 -0700'
 categories:
 - Creative Ladies
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/08/YOU-DONT-NEED-A-MAN-BLOG-IMAGE-final.jpg"><img class="aligncenter wp-image-6492 size-full" src="http://yellowconference.com/wp-content/uploads/2016/08/YOU-DONT-NEED-A-MAN-BLOG-IMAGE-final.jpg" alt=""Courage sometimes comes in the form of accepting rejection and being one with your broken heart. Letting yourself cry so hard and have a nervous breakdown on a dark country road. Feeling complete, unrelenting fear. Letting all of that bubble to the surface of your consciousness and choosing to to keep going, to keep accepting and loving yourself despite what society may dub as a failure or shortcoming." -The Yellow Co. Blog" width="700" height="970" /></a></p>
 <p>&nbsp;</p>

@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 3 QUESTIONS EVERY LEADER SHOULD ASK THEMSELVES / A YELLOW COLLECTIVE LEADER
-  DINNER RECAP
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8068
+title: 3 Questions Every Leader Should Ask Themselves / A Yellow Collective Leader
+  Dinner Recap
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8068
 date: '2017-03-27 04:00:21 -0700'
-date_gmt: '2017-03-27 11:00:21 -0700'
 categories:
 - Yellow Collective
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p>The other night I had a dream filled with images of my laptop, my Chrome browser, and me hectically scrolling through a never ending website with a flashing red screen that I had somehow ruined. Talk about a stress dream!</p>
 <p>When you're in a position of leadership, it's important to remember to take care of yourself. Not just your body, but your heart. If we're not careful, we can become&nbsp;all consumed in our work and anxieties. Leading to burnout, overwhelm, and major stress dreams!</p>

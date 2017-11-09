@@ -1,33 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: YOUR 2017 ENTREPRENEUR TAX GUIDE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7865
+title: Your 2017 Entrepreneur Tax Guide
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=7865
 date: '2017-02-10 04:00:09 -0800'
-date_gmt: '2017-02-10 12:00:09 -0800'
 categories:
 - Advice
 - The Solopreneur
 - The Leader
-- PIONEER
-tags: []
-comments:
-- id: 4323
-  author: 'Blog Love: The best of blogging + biz this week'
-  author_email: ''
-  author_url: http://xosarah.com/2017/02/19/blog-love-203/
-  date: '2017-02-19 20:48:20 -0800'
-  date_gmt: '2017-02-20 04:48:20 -0800'
-  content: "[&#8230;] A 2017 entrepreneur tax guide >>> [&#8230;]"
+- Pioneer 
 ---
 <h3><em><strong>Starting a business is one thing, but running a business is a whole different animal&mdash;Read on to track some of the requirements your small business legally must fulfill each year:</strong></em></h3></p>
 <ol>

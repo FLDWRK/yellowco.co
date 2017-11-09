@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: NOW OPEN! THE YELLOW COLLECTIVE MEMBERSHIP
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7659
+title: Now Open! The Yellow Collective Membership
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7467
 date: '2016-12-14 04:30:49 -0800'
-date_gmt: '2016-12-14 12:30:49 -0800'
 categories:
 - "#bloomyellow"
 - Yellow Collective
-tags: []
-comments: []
 ---
 <p>Joanna Waterfall here (yes, that's my real last name)! I'm the founder of Yellow Co.- and can I take a second to be totally honest with you? Reading&nbsp;that headline above freaks me out. Like, sweaty palms and red face fear.</p>
 <p>There are sooo many "what if's" that come with doing something new. We officially launched <a href="http://yellowcollective.com/" target="_blank">The Yellow Collective</a> at our conference this year, and&nbsp;we have learned so much through it all!</p>

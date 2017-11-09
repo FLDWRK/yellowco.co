@@ -1,48 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: FIGHTING TO BE GRATEFUL WHEN LIFE IS HARD
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7317
+title: Fighting to Be Grateful When Life is Hard
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7317
 date: '2016-11-21 04:00:51 -0800'
-date_gmt: '2016-11-21 12:00:51 -0800'
 categories:
 - Light Talk
-- HEART
-tags: []
-comments:
-- id: 4265
-  author: Britney L. Clark
-  author_email: britneyclark85@gmail.com
-  author_url: https://www.britneylclark.com
-  date: '2016-11-21 06:53:00 -0800'
-  date_gmt: '2016-11-21 14:53:00 -0800'
-  content: 'Sally, thank you for reminding us that we have so much to be grateful
-    for EVERYDAY and not just this season. I needed this heartfelt, sincere perspective.
-    Thank you for sharing! '
-- id: 4266
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-11-21 12:06:00 -0800'
-  date_gmt: '2016-11-21 20:06:00 -0800'
-  content: Thanks for reading Britney! We all could use this reminder :)
-- id: 4267
-  author: Avery
-  author_email: akjohnson.13@gmail.com
-  author_url: http://avery-johnson.com
-  date: '2016-11-21 14:17:00 -0800'
-  date_gmt: '2016-11-21 22:17:00 -0800'
-  content: This is beautiful. Thank you Sally for that reminder! Sometimes it is enough
-    to just be breathing. Storms come &amp; storms go. Happy Thanksgiving!
+- Heart
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos27of64-copy.jpg"><img class="aligncenter wp-image-7319" src="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos27of64-copy.jpg" alt="Being grateful when life is hard: the yellow co. blog" width="700" height="922" /></a>Gratitude....it's a hot topic right now. People are making lists, writing books, buying signs at Hobby Lobby, just about anything, to remind themselves to give constant thanks-and I'm right there with them, of course! Thanksgiving (the verb, not the holiday) has a miraculous way of changing our perception into something positive. But here's the thing I'm not an advocate for: saying thanks just to say it, because we're being told that it will heal all our hurts, all our losses and all our pains.</p>
 <p>Here's the truth: gratitude doesn't clear the mud away from our circumstances. The person we love will still be sick. The bank account will still dwindle. Life will still feel overwhelming; and putting a Thanksgiving sticker on it (ok this time holiday...) won't make those circumstances go away or even change them in the slightest. But, here's the thing, gratitude can change our perception from complete distress to embracing the moment placed in front of us.<a href="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos19of64.jpg"><img class="aligncenter size-full wp-image-7329" src="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos19of64.jpg" alt="Being grateful when life is hard: the yellow co. blog" width="700" height="418" /></a>I don't want to look back in ten years and see that stress is what shaped my relationship with my daughters. And chanting "I'm grateful for her terrible two tantrums" isn't going to alleviate that stress by any means; but what may is the understanding that this tantrum (hers or mine) will pass. This moment, this hardship, this illness, this heartache, whatever is your story right now, will pass. It won't last forever. This wave will not run an everlasting course-it will eventually crash, and your feet will be back on the sand. And that's something to be grateful for.</p>

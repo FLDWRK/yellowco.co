@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: TEN STEPS TO STARTING YOUR CREATIVE BUSINESS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7619
+title: Ten Steps to Starting Your Creative Business
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7619
 date: '2017-01-13 04:00:42 -0800'
-date_gmt: '2017-01-13 12:00:42 -0800'
 categories:
 - Advice
 - The Starter
 - The Leader
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <h2><em><span style="font-weight: 400;"><strong><a href="http://yellowconference.com/wp-content/uploads/2017/01/ValerieDenisePhotos-66.jpg"><img class="aligncenter wp-image-7620" src="http://yellowconference.com/wp-content/uploads/2017/01/ValerieDenisePhotos-66.jpg" alt="Yellow Co. Bog: Ten Steps to Starting Your Business" width="700" height="467" /></a>You&rsquo;ve made a huge decision to start a business, congratulations! This stage can bring a whirlwind of emotion, including&mdash;optimism, excitement, anxiety, and confusion. We get it. It&rsquo;s perfectly normal to feel overwhelmed at this stage.</strong> </span></em></h2><br />
 <span style="font-weight: 400;">Let us help take away some of this angst so you can focus your creative entrepreneurial spirit on the magic that often comes with beginnings. Here we&rsquo;ve broken down the start of your journey by giving you a 10-step overview of how to form your business here:</span></p>

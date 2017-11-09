@@ -1,29 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO BREAK THE PATTERN OF BURN OUT
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9013
+title: How to Break the Pattern of Burn Out
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9013
 date: '2017-07-12 04:00:21 -0700'
-date_gmt: '2017-07-12 11:00:21 -0700'
 categories:
 - Tension
-tags:
-- priorities
-- burn out
-- schedule
-- routine
-- success
-- personality type
-comments: []
 ---
 <p>Many of us in the Yellow community have a million things going on, right? Maybe you're working&nbsp;a day job and a side hustle. Or you&nbsp;might be an entrepreneur working at a coffee shop to get by. Perhaps&nbsp;you&rsquo;re a mom too. Plus, you&rsquo;re probably involved in a community or might spend time volunteering. Not to mention, you try to exercise, stay healthy, spend time with your partner, have a social life, and find time to rest!</p>
 <p><span style="font-weight: 400;">Sure, there are so many useful books, articles, and podcasts on&nbsp;building a daily schedule that will increase your productivity, help avoid stress, and prevent the dreaded burn out. However, it&rsquo;s <em>super</em>&nbsp;important that we get really intentional about creating a schedule that works for us as </span><b><i>individuals</i></b> <span style="font-weight: 400;">if we want to truly protect ourselves from exhaustion in both work and relationships.</span></p>

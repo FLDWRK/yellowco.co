@@ -1,32 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE QUICK & EASY WAYS TO GET OVER WRITERS BLOCK
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6943
+title: Three Quick & Easy Ways to Get Over Writers Block
+author: heygirl@yellowconference.com  
 wordpress_url: http://yellowconference.com/?p=6943
 date: '2016-09-22 04:00:20 -0700'
-date_gmt: '2016-09-22 11:00:20 -0700'
 categories:
 - Advice
-- VALOR
-tags: []
-comments:
-- id: 4237
-  author: Kate @The Daily Soul Sessions
-  author_email: thedailysoulsessions@gmail.com
-  author_url: http://www.TheDailySoulSessions.com
-  date: '2016-10-26 17:25:00 -0700'
-  date_gmt: '2016-10-27 00:25:00 -0700'
-  content: Love this! Thanks for sharing...I definitely needed to read this one today
-    :)
+- Valor
 ---
 <p>Writer&rsquo;s block is a very, very real thing, and it&rsquo;s been a thorn in my side for these last few months.</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/09/Writers-Block.jpg"><img class="aligncenter size-full wp-image-6944" src="http://yellowconference.com/wp-content/uploads/2016/09/Writers-Block.jpg" alt="writers-block" width="700" height="1116" /></a></p>

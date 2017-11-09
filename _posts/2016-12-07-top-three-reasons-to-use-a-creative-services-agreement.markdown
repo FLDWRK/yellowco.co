@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: TOP THREE REASONS TO USE A CREATIVE SERVICES AGREEMENT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7655
+title: Top Three Reasons to Use a Creative Services Agreement
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7406
 date: '2016-12-07 04:00:24 -0800'
-date_gmt: '2016-12-07 12:00:24 -0800'
 categories:
 - Creative Ladies
 - Advice
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-62.jpg"><img class="aligncenter size-full wp-image-7408" src="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-62.jpg" alt="valeriedenisephotos-62" width="700" height="458" /></a>Starting your own business is often exciting, empowering, and sometimes terrifying. However, what if we told you it doesn&rsquo;t have to be&nbsp;</span><i><span style="font-weight: 400;">as</span></i><span style="font-weight: 400;">&nbsp;terrifying? One way to manage your risk is to use a Creative Services Agreement (CSA). CSA&rsquo;s are standard template contracts, which business owners and freelancers use as a basis for each client transaction. They are easy to implement by simply swapping out the specifics for each transaction.</span></p>
 <h2><strong>We get it&hellip;adding additional paperwork sounds like one more thing to worry about, but trust us, it&rsquo;s worth it in the long run. Below are the top three reasons why you should implement your very own CSA.</strong></h2></p>

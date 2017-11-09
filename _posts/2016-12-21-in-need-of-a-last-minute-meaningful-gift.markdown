@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: IN NEED OF A LAST MINUTE, BUT STILL TOTALLY MEANINGFUL GIFT?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7518
+title: In Need of a Last Minute, but Still Totally Meaningful Gift?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7518
 date: '2016-12-21 04:01:44 -0800'
-date_gmt: '2016-12-21 12:01:44 -0800'
 categories:
 - Creative Ladies
 - "#bloomyellow"
 - Encouragement
 - Yellow Collective
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos24of32.jpg"><img class="aligncenter size-full wp-image-7431" src="http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos24of32.jpg" alt="valeriedenisephotos24of32" width="700" height="467" /></a></p>
 <p>If you're anything like me, you overthink Christmas gifts. You want to make them thoughtful and meaningful, so you do a lot of thinking, brainstorming on what someone would want. What would make them feel loved and seen. Then, you spend so much time thinking and marinating on it, that all of a sudden you look up and Christmas is THREE days away! Sound at all familiar?</p>

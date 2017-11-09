@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE ART OF SAYING NO, GUILT-FREE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 7984
+title: The Art of Saying No, Guilt-Free
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=7984
 date: '2017-02-24 04:00:33 -0800'
-date_gmt: '2017-02-24 12:00:33 -0800'
 categories:
 - Advice
 - Encouragement
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p><span style="font-weight: 400;">It was Saturday afternoon, and I was finally done with work for the week. I had finished two huge projects on top of my regular client load, and all I wanted to do was sink into the couch with a frosty beer and Netflix.&nbsp;</span><span style="font-weight: 400;">Then, the phone rang. It was my best friend, and she just had yet another fight with her boyfriend. Obviously, I had to drop my beer and Netflix extravaganza to be there for her.</span></p>
 <p><span style="font-weight: 400;">&ldquo;Can you come over?&rdquo;&nbsp;</span><span style="font-weight: 400;">I can, I thought. But I don&rsquo;t want to. I&rsquo;m exhausted. I took on way too much this month and I haven&rsquo;t had a spare moment for myself.<br />

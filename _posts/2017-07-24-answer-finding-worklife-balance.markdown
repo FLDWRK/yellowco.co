@@ -1,30 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY YOU ARE THE ANSWER TO FINDING YOUR WORK/LIFE BALANCE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9102
+title: Why You are the Answer to Finding Your Work/Life Balance
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9102
 date: '2017-07-24 04:00:00 -0700'
-date_gmt: '2017-07-24 11:00:00 -0700'
 categories:
 - Tension
-tags:
-- entrepreneur
-- rest
-- balance
-- boundaries
-- work life balance
-- limits
-- women entrepreneur
-comments: []
 ---
 <h3><strong><i>&ldquo;There is an intersection between ambition and ease,&rdquo;</i></strong></h3><br />
 <span style="font-weight: 400;">my mentor told me recently. </span><i><span style="font-weight: 400;">&ldquo;It doesn&rsquo;t have to be an either/or scenario. You are allowed to have both.&rdquo;</span></i></p>

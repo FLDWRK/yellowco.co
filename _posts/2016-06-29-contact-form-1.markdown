@@ -1,22 +1,9 @@
 ---
-layout: wpcf7_contact_form
-status: publish
-published: true
 title: Contact form 1
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?post_type=wpcf7_contact_form&p=5
 date: '2016-06-29 21:20:27 -0700'
-date_gmt: '2016-06-29 21:20:27 -0700'
 categories: []
-tags: []
-comments: []
 ---
 <p>Your Name (required)<br /><br />
     [text* your-name] </p></p>

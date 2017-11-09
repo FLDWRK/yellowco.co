@@ -1,39 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: FIVE READS TO PICK UP WHEN YOU FEEL DIRECTIONLESS
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8642
+title: Five Reads to Pick Up When You Feel Directionless
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8642
 date: '2017-06-02 04:00:25 -0700'
-date_gmt: '2017-06-02 11:00:25 -0700'
 categories:
 - Wander
-tags:
-- women
-- purpose
-- creative
-- book challenge
-- books to read
-- calling
-- directionless
-- read
-comments:
-- id: 4371
-  author: Megan Hampson
-  author_email: duranmegan@gmail.com
-  author_url: ''
-  date: '2017-06-03 16:41:00 -0700'
-  date_gmt: '2017-06-03 23:41:00 -0700'
-  content: Thanks for sharing, Rachel! I'm excited to add some of these to my list
-    :)
 ---
 <p><span style="font-weight: 400;">I didn't know what I wanted to do with my life.&nbsp;</span><span style="font-weight: 400;">It had been a year of wandering &mdash; of feeling in-between and at a complete loss for which direction to go in. The boutique I had been working at closed down unexpectedly, and while I was excited for a new season, my hopefulness quickly dissolved into feeling stuck and confused.</span></p>
 <h3><strong>I tried everything the imagination could conjure up to get out of this directionless funk.</strong></h3><br />

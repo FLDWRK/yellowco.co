@@ -1,46 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: FINDING THE COMMUNITY I CRAVE AS AN INTROVERT
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9539
+title: Finding the Community I Crave as an Introvert
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9539
 date: '2017-09-18 04:00:14 -0700'
-date_gmt: '2017-09-18 11:00:14 -0700'
 categories:
 - Tension
-tags: []
-comments:
-- id: 4399
-  author: Haylee Reed
-  author_email: hlynnereed@yahoo.com
-  author_url: ''
-  date: '2017-09-18 21:19:00 -0700'
-  date_gmt: '2017-09-19 04:19:00 -0700'
-  content: I feel like I'm constantly in a conversation with the Yellow Room, and
-    it always knows exactly what I need to hear and exactly when I need to hear it.
-    This article couldn't have come at a better time. I'm a sophomore in college and
-    an INFP who both cherishes "me time", but also has a strong craving for community.
-    Although I have been enormously blessed to find that community here already, I
-    still struggle daily to find that happy medium between staying engaged in community
-    and finding time for myself as an introvert. For years, I have tried so hard to
-    push aside my introversion and be the social butterfly, in hopes that my introversion
-    would simply fade away, but that's just not how it works. This past year, in the
-    process of discovering my new community in college, amidst every awkward conversation,
-    every exhausting small talk, every get-to-know-you game, I learned to lean into
-    the discomfort instead of running away from it. Some days I want nothing but to
-    go back to my dorm, shut the door, cocoon myself in my covers, crack open a book,
-    and forget the world for a while, and that's okay. But our God created us to live
-    in community, both extroverts and introverts alike. Our souls yearn to be seen,
-    to be heard, and to be known, but you have to LET yourself be known - which means
-    sometimes putting down the book and putting yourself out there.
 ---
 <p><span style="font-weight: 400;">I remember the first time I took the Myers-Briggs test. It was my first semester of college and I was quite surprised to see that &ldquo;I&rdquo; was my first letter. I&rsquo;d considered myself the &ldquo;social butterfly&rdquo; my mom always called me, so the idea that I was an introvert seemed contradictory. But as I got older, I realized not only how true that letter was for me, but that I did have this contradiction within my introversion - I </span><i><span style="font-weight: 400;">craved </span></i><span style="font-weight: 400;">community. Especially in life after college, this has been a point of tension I&rsquo;ve had to learn to navigate. </span></p>
 <p><span style="font-weight: 400;">Growing up, I never had a huge group of friends. I had individuals and small groups of people that I had deep connections with. I didn&rsquo;t go to parties, but went on long drives and coffee dates with people I loved. In college, orientations and &ldquo;get to know you's" full of small talk exhausted and stressed me out. But I thrived in the late night conversations in dorm halls where we were all trying to figure out who we were in this new phase of life. I came out of college having lived a bit of a different experience, and with a handful of friends who I love dearly and continue to impact my life. </span></p>

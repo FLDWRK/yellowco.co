@@ -1,70 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO FIND YOUR ONE THING IN A SEA OF POSSIBILITES
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6044
+title: How to Find Your One Thing in a Sea of Possibilities
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6044
 date: '2016-07-07 04:00:17 -0700'
-date_gmt: '2016-07-07 11:00:17 -0700'
 categories:
 - Advice
 - The Starter
-- VALOR
-tags: []
-comments:
-- id: 4142
-  author: Britney Clark
-  author_email: britneyclark85@gmail.com
-  author_url: https://www.linkedin.com/in/britneyclark
-  date: '2016-07-07 12:07:00 -0700'
-  date_gmt: '2016-07-07 19:07:00 -0700'
-  content: Awesome post, Joanna!! Your honesty, practical steps, and encouragement
-    just made my day and path to finding that ONE thing a little brighter! Keep spreading
-    light!!
-- id: 4143
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-07-07 13:27:00 -0700'
-  date_gmt: '2016-07-07 20:27:00 -0700'
-  content: So glad you liked the post Britney! Same to you love!! xoxo, Joanna
-- id: 4144
-  author: Fiona C
-  author_email: fionac.nyc@gmail.com
-  author_url: ''
-  date: '2016-07-08 09:12:00 -0700'
-  date_gmt: '2016-07-08 16:12:00 -0700'
-  content: I mentor younger designers through work and always tell them to share their
-    portfolio for feedback with other professionals, but never had the idea to share
-    it without saying it's theirs. Good advice - thank you!
-- id: 4145
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-07-08 11:02:00 -0700'
-  date_gmt: '2016-07-08 18:02:00 -0700'
-  content: Nice! Yes, I feel like the person is more open to giving honest feedback
-    when they don't know the person who created the work is right there :) Glad you
-    liked it- good luck with the mentoring! xoxo- Joanna
-- id: 4146
-  author: Brittney Hale
-  author_email: britthale@live.com
-  author_url: ''
-  date: '2016-09-18 08:51:00 -0700'
-  date_gmt: '2016-09-18 15:51:00 -0700'
-  content: 'I am a mother of 5, a college graduate, a wife to a business owner, a
-    photographer, a crafter, a blogger, a fashionista, a party planner, an interior
-    designer.... and I am lost!! Lost in finding  MY own direction and what path I
-    should take to pursue my own career. Its time to focus and engage!! What a great
-    article.... Thank you!!!!! Im so glad I found your blog! '
+- Valor
 ---
 <p>If you have a phone, have ever scrolled&nbsp;through Instagram, and are anything like me in the slightest, you've experienced FOMO. FOMO (for those who don't know) FOMO stands for: <em>Fear Of Missing Out.</em><a href="http://yellowconference.com/wp-content/uploads/2016/07/Screenshot-2016-07-06-21.43.33.png"><br />
 </a></p>

@@ -1,64 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT I LEARNED WHEN MY DREAM JOB BECAME A CHORE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8628
+title: What I Learned When My Dream Job Became a Chore
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8628
 date: '2017-05-24 04:00:07 -0700'
-date_gmt: '2017-05-24 11:00:07 -0700'
 categories:
 - Wander
-tags:
-- day job
-- freelance
-- self employment
-- freelancer
-- entrepreneur
-- women
-- creative women
-- dream job
-- dream business
-- women entrepreneurs
-- finding your purpose
-- purpose
-- entrepreneurs
-- starting a business
-- do good
-- creative entrepreneurs
-- running a business
-- creativity
-- talents
-comments:
-- id: 4364
-  author: Meg Long
-  author_email: megmarylong@gmail.com
-  author_url: http://www.meglongcreative.com
-  date: '2017-05-25 00:56:00 -0700'
-  date_gmt: '2017-05-25 07:56:00 -0700'
-  content: Love this!!! Resonates so much with me.
-- id: 4365
-  author: Meg S
-  author_email: hello@megsummerfield.com
-  author_url: http://www.summerfield-delight.com
-  date: '2017-05-25 05:30:00 -0700'
-  date_gmt: '2017-05-25 12:30:00 -0700'
-  content: Agree! I went back to all the craziness that I used to associate with my
-    "dream job". Thanks so much for sharing :)
-- id: 4366
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2017-05-25 13:10:00 -0700'
-  date_gmt: '2017-05-25 20:10:00 -0700'
-  content: So glad it resonated with you ladies :)
 ---
 <p>Growing up in an Asian culture, everything revolved around my career. Having both of my parents graduate from nursing school, it was a no-brainer for them that I, too, was going to step into the medical field. But as I got older I realized that there was a huge scope of professions, and before I knew it I was researching and dreaming a world of possibilities.</p>
 <h3><strong>It was a constant internal and external battle trying to figure out what I wanted to do as a career, while also appeasing my parents.</strong></h3><br />

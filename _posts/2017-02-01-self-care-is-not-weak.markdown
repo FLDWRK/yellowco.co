@@ -1,25 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY SELF CARE IS NOT WEAK
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7762
+title: Why Self Care is Not Weak
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=7762
 date: '2017-02-01 04:00:19 -0800'
-date_gmt: '2017-02-01 12:00:19 -0800'
 categories:
 - Advice
-- PIONEER
-tags:
-- Self care
-comments: []
+- Pioneer
 ---
 <p><span style="font-weight: 400;"><em><strong>Shortly after college, I began working with a homeopathic practitioner in the hopes of resolving some long-term health issues that my western doctors hadn&rsquo;t been able to treat.</strong> </em>As part of my healing protocol, I avoided pharmaceuticals and instead opted to use traditional medicines including herbs, medicinal foods, and physical healing practices like breath work, yoga, and massage to achieve deep health as opposed to simply masking over symptoms with pills. All was going well and I seemed to be seeing positive shifts in my overall well-being, until I was hit with a pretty gnarly cold. I had a sore throat, chills, and was experiencing some pretty powerful fatigue, so I called my practitioner to inquire about what I should do to treat it.</span></p>
 <h3><strong>She told me that my body would heal itself if I simply took a couple of days to sleep, drink lots of water, and avoid processed foods.</strong></h3><br />

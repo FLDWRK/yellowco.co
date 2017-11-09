@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW MY INNER REBEL SAVED ME FROM GIVING UP ON FREELANCE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8292
+title: How My Inner Rebel Saved Me from Giving Up on Freelance
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8292
 date: '2017-04-05 04:00:01 -0700'
-date_gmt: '2017-04-05 11:00:01 -0700'
 categories:
 - Wander
-tags: []
-comments: []
 ---
 <p><span style="font-weight: 400;">Late one bloodshot night I nearly threw in the freelance towel. </span>I had become resentful of the self-employed life. I felt the inner rebel in me shouting out against the constant need to self-promote, the repetitive five-step webinars, and the ironic captivity of managing my own time. I found myself two hours into scrolling through LinkedIn job postings, wondering why I gave up the enticing stability of a nine to five job.</p>
 <p><span style="font-weight: 400;">Then, I remembered a conversation I had five years ago. Being the hippie that my mom is, she was telling me about the four stages of the spiritual journey. </span></p>

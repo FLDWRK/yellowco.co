@@ -1,36 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: SIX ETHICALLY MADE ESSENTIALS FOR YOUR SUMMER
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8635
+title: Six Ethically Made Essentials for Your Summer
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8635
 date: '2017-05-29 04:00:24 -0700'
-date_gmt: '2017-05-29 11:00:24 -0700'
 categories:
 - Wander
-tags:
-- beauty products
-- do good
-- giving back
-- ethically made
-- natural
-- summer
-- conscious consumer
-- made in usa
-- give back
-- ethical production
-- swimwear
-- sunglasses
-- skin care
-comments: []
 ---
 <p>Summer is fully upon us. And so begins the season of long beach days,&nbsp;traveling far and wide, warm breezy evenings, and so much&nbsp;<em>sun</em>. It is truly my favorite time of the year. But with each summer comes a need for a few essentials. Ones to soothe our sun kissed skin and keep us hydrated. While it's tempting to want to pick up a cheap bathing suit, or grab a bottle of water from the grocery store, we have a growing responsibility to be conscious consumers. Thankfully, more and more companies are making this easy&nbsp;for us. These six summer essentials&nbsp;are made by brands who create ethically made products, give back, or use sustainable practices.</p>
 <h3>1. <a href="https://www.memobottle.com/" target="_blank" rel="noopener noreferrer">Memobottle</a></h3><br />

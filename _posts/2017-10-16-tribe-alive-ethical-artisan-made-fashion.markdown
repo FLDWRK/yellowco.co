@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9759
+title: 10 Questions with Tribe Alive on Ethical, Artisan Made Fashion
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9759
 date: '2017-10-16 04:00:34 -0700'
-date_gmt: '2017-10-16 11:00:34 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments: []
+- Come Together
 ---
 <p>Have you heard of <a href="https://tribealive.com/" target="_blank" rel="noopener noreferrer">Tribe Alive</a> yet? If you haven&rsquo;t, settle into this interview with their founder, Carly Burson. Tribe Alive is an ethical fashion brand that creates beautiful clothing, accessories, and jewelry while empowering artisans in the developing world. I was so excited to talk with my friend, Carly, about her social enterprise, and I was even more excited to hear about how much she and her company value dignity, respect, and self-sufficiency of the artisans they partner with! As a founder of a social enterprise myself, I was so happy to hear how intentional Carly is about growing her company.</p>
 <h4><strong>1. How did Tribe Alive begin? Tell us a little bit more about your story.</strong></h4><br />

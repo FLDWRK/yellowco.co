@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WHEN WORK, PASSION, AND FASHION COLLIDE: OUR INTERVIEW WITH HANNA OF SOTELA'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7149
+title: 'When Work, Passion, and Fashion Collide: Our Interview with Hanna of Sotela'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7149
 date: '2016-10-26 04:00:59 -0700'
-date_gmt: '2016-10-26 11:00:59 -0700'
 categories:
 - Light Talk
 - Creative Ladies
-- HEART
+- Heart
 - Interviews
-tags: []
-comments: []
 ---
 <p><em><span style="font-family: georgia, serif;"><span style="color: #231f20;">If you're a part of the Yellow community, you're a creative woman who wants to use her passion, strengths,&nbsp;and influence to serve the greater good. A large&nbsp;component of spreading goodness in our daily lives</span>&nbsp;includes making conscious decisions about what we purchase.&nbsp;</span><span style="font-family: georgia, serif; font-size: small;">A quote I'm very fond of is by educator and writer,&nbsp;<a class="m_-985504876007201043gmail-authorOrTitle" href="http://www.goodreads.com/author/show/116088.Anna_Lapp_" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.goodreads.com/author/show/116088.Anna_Lapp_&amp;source=gmail&amp;ust=1477195863223000&amp;usg=AFQjCNFsFXTRqsu03Wplg4JsMUj9LsBFAA">Anna Lapp&eacute;</a>:&nbsp;</span><span style="font-family: georgia, serif; font-size: small;">&ldquo;Every time you spend money, you're casting a vote for the kind of world you want.&rdquo;</span></em></p>
 <p class="m_-985504876007201043gmail-quoteText"><em>The sweaters, dresses and pants we choose to buy reflects what we value and who we want to support. Hanna Baror-Padilla, founder of Sotela, a new clothing line, values how women want to feel (comfortable and confident), what fabrics are used (eco-friendly Modal and&nbsp;Tencel), and the well-being of who is making them (fairly-made in the USA). We chatted with Hanna about following her gut, launching a Kickstarter campaign, the&nbsp;misconceptions of ethical fashion and more.&nbsp;<a href="http://yellowconference.com/wp-content/uploads/2016/10/Sotela-Lookbook-lifestyle-0008.jpg"><img class="aligncenter size-full wp-image-7152" src="http://yellowconference.com/wp-content/uploads/2016/10/Sotela-Lookbook-lifestyle-0008.jpg" alt="View More: http://dulcet.pass.us/sotelalookbook" width="700" height="1050" /></a></em></p></p>

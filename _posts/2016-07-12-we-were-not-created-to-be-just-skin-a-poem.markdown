@@ -1,46 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'WE WERE NOT CREATED TO BE JUST SKIN: A POEM ON RACE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6075
+title: 'We Were Not Created to Be Just Skin: A Poem on Race'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6075
 date: '2016-07-12 04:00:10 -0700'
-date_gmt: '2016-07-12 11:00:10 -0700'
 categories:
 - Creative Ladies
 - Inspiration
-- VALOR
-tags: []
-comments:
-- id: 4151
-  author: Meg Long
-  author_email: megmarylong@gmail.com
-  author_url: http://www.meglongcreative.com
-  date: '2016-07-12 12:40:00 -0700'
-  date_gmt: '2016-07-12 19:40:00 -0700'
-  content: Wonderful vulnerable poem--Thank you Arielle!
-- id: 4152
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-07-13 15:05:00 -0700'
-  date_gmt: '2016-07-13 22:05:00 -0700'
-  content: ":)"
-- id: 4153
-  author: Marlo Ellis
-  author_email: marloellis@icloud.com
-  author_url: ''
-  date: '2016-10-12 06:52:00 -0700'
-  date_gmt: '2016-10-12 13:52:00 -0700'
-  content: YES! LOVE this! Thank you!
+- Valor
 ---
 <h4 class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/07/lifestyle-photo-portfolio-6.jpg"><img class="aligncenter size-full wp-image-6086" src="http://yellowconference.com/wp-content/uploads/2016/07/lifestyle-photo-portfolio-6.jpg" alt="lifestyle-photo-portfolio-6" width="700" height="500" /></a>This skin,<br />
 </span><span class="s1">Has always been a golden reflection of a <em>radiance<br />

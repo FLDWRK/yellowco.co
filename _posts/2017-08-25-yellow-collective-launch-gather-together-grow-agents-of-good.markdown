@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'THE YELLOW COLLECTIVE 2.0 LAUNCH: GATHERING TOGETHER TO BECOME AGENTS OF GOOD'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9362
+title: 'The Yellow Collective 2.0 Launch: Gathering Together to Become Agents of Good'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9362
 date: '2017-08-25 04:00:28 -0700'
-date_gmt: '2017-08-25 11:00:28 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <h3>One year ago, something huge happened.</h3><br />
 At Yellow Conference 2016, our team officially introduced The Yellow Collective into the world as a community experiment &mdash; one that we hoped would grow and develop into an unstoppable force of good for women across the country.</p>

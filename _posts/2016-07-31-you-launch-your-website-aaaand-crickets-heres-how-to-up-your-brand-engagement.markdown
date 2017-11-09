@@ -1,36 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: YOU LAUNCH YOUR WEBSITE... ...AAAAND CRICKETS... HERE'S HOW TO UP YOUR BRAND
-  ENGAGEMENT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6326
+title: You Launch Your Website... ...AAAAND Crickets... Here's How to Up Your Brand
+  Engagement
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6326
 date: '2016-07-31 04:11:00 -0700'
-date_gmt: '2016-07-31 11:11:00 -0700'
 categories:
 - Advice
 - The Starter
-- VALOR
-tags: []
-comments:
-- id: 4212
-  author: How to create Pinterest graphics packed with brand personality
-  author_email: ''
-  author_url: http://seebrittwrite.com/create-pinterest-graphics/
-  date: '2016-10-12 19:34:38 -0700'
-  date_gmt: '2016-10-13 02:34:38 -0700'
-  content: "[&#8230;] &ldquo;You launch your website&hellip;aaaand crickets&hellip;here&rsquo;s
-    how to up your brand engagement&rdquo; from The Yellow Co. and &ldquo;Why you
-    need to stay in your lane if you really want your blog to grow&rdquo; from XO
-    [&#8230;]"
+- Valor
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/07/BLOG-IMAGE2.jpg"><img class="aligncenter size-full wp-image-6335" src="http://yellowconference.com/wp-content/uploads/2016/07/BLOG-IMAGE2.jpg" alt="BLOG-IMAGE" width="700" height="1131" /></a></p>
 <p>So, you've spent a ton of your hard earned moolah on a beautiful website. It looks great- you've combed over every detail. You've told your friends and family that it's happening. You posted about it on your Facebook and Twitter. The big LAUNCH day is approaching. The day when you will show the WORLD your masterpiece and they will come running... waiting in line to give you their money and use your services. The entire world is watching.</p>

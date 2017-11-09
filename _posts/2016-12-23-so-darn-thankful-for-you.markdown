@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: SO DARN THANKFUL FOR YOU.
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7536
+title: So Darn Thankful for You.
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7536
 date: '2016-12-23 04:00:42 -0800'
-date_gmt: '2016-12-23 12:00:42 -0800'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/12/HAPPY-HOLIDAYS.jpg"><img class="aligncenter size-full wp-image-7537" src="http://yellowconference.com/wp-content/uploads/2016/12/HAPPY-HOLIDAYS.jpg" alt="happy-holidays" width="700" height="709" /></a></p>
 <h1></h1><br />

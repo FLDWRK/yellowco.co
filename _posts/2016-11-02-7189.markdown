@@ -1,43 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO MAKE DECISIONS WITH YOUR ENERGY TYPE IN MIND
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7189
+title: How to Make Decisions with Your Energy Type in Mind
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7189
 date: '2016-11-02 04:00:57 -0700'
-date_gmt: '2016-11-02 11:00:57 -0700'
 categories:
 - Advice
 - The Leader
-- HEART
-tags: []
-comments:
-- id: 4252
-  author: Avery
-  author_email: akjohnson.13@gmail.com
-  author_url: http://avery-johnson.com
-  date: '2016-11-02 13:04:00 -0700'
-  date_gmt: '2016-11-02 20:04:00 -0700'
-  content: '"When you lead with your heart, you will have to learn how to guide and
-    protect it."  <-- This quote is pure gold! Applicable to so many aspects of life.
-    Great piece, thanks for sharing! It is SO challenging to decide what to say yes
-    &amp; no to. I&#039;m an introvert &amp; working on creating boundaries, so I
-    appreciate the tips! Well done, Bailey.'
-- id: 4253
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-11-06 17:48:00 -0800'
-  date_gmt: '2016-11-07 01:48:00 -0800'
-  content: So true!! Love Bailey and all her wisdom she shares with us :)
+- Heart
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-20.jpg"><img class="aligncenter size-full wp-image-7194" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-20.jpg" alt="valeriedenisephotos-20" width="700" height="467" /></a>Energy type? What the what? This is actually my way of saying - </span><b><i>introvert or extrovert. </i></b></p>
 <p><span style="font-weight: 400;">Being introverted or extroverted has to do with how you get your energy, not your actual social skills. I am an extrovert, so I get energy from people and from crowds. I feel a buzz and a zip of energy when I walk into a room of people. This also means that I will absorb energy easily, and I can give energy easily. I do however run out of all my spunk once I&rsquo;ve spent it.&nbsp;A girl can only extrovert so far. </span></p>

@@ -1,50 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: CAN'T COME TO YELLOW, BUT STILL WANT TO EXPERIENCE THE GOODNESS? HERE'S HOW.
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6478
+title: Can't Come to Yellow, but Still Want to Experience the Goodness? Here's How.
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6478
 date: '2016-08-23 04:17:22 -0700'
-date_gmt: '2016-08-23 11:17:22 -0700'
 categories:
 - Yellow 2016
-tags: []
-comments:
-- id: 4216
-  author: Nuvea Santos Cobb
-  author_email: nuveaphotography@gmail.com
-  author_url: ''
-  date: '2016-08-23 11:52:00 -0700'
-  date_gmt: '2016-08-23 18:52:00 -0700'
-  content: Thanks for offering all this access for those of us who can't make it!
-- id: 4217
-  author: Emma Brooks
-  author_email: emmabrooksdesign@gmail.com
-  author_url: ''
-  date: '2016-08-25 05:02:00 -0700'
-  date_gmt: '2016-08-25 12:02:00 -0700'
-  content: |-
-    I can't wait to watch, next year goal to attend 2017 conference!
-    Love &amp; Conviction,
-    Emma ?
-    emmabrooksdesign.com
-- id: 4218
-  author: Yellow Co. &#124; Yellow Conference Day 1 // THE LAUNCH OF THE YELLOW
-    COLLECTIVE - Yellow Co.
-  author_email: ''
-  author_url: http://yellowconference.com/2016/08/25/yellow-conference-day-1-the-launch-of-the-yellow-collective/
-  date: '2016-08-25 11:31:29 -0700'
-  date_gmt: '2016-08-25 18:31:29 -0700'
-  content: "[&#8230;] over here. If you&#8217;re not joining us in person, don&#8217;t
-    forget to be checking in on our social media streams for all the good [&#8230;]"
 ---
 <h2><em>Hey girl!</em></h2><br />
 We are busy busy bees over here getting ready for Yellow in just TWO days. We're stoked!! This year is going to be amazing ladies, our best one yet.</p>

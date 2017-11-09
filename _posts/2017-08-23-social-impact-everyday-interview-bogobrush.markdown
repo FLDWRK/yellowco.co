@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH
-  BOGOBRUSH'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9306
+title: 'Bringing Social Impact to Everyday, One Brush at a Time: an Interview with
+  Bogobrush'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9306
 date: '2017-08-23 04:00:31 -0700'
-date_gmt: '2017-08-23 11:00:31 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>Protect the planet. Buy ethically made. Give back. They're all on our to-do list, but when time is short and convenience is tempting, it's easy to scrap the whole thing. Thankfully, more and more companies are making it possible to do all of these things every day - and not just with a product you want, but one you already <em>need</em>. I had the opportunity to dive into the mission and workings behind <a href="https://www.bogobrush.com/" target="_blank" rel="noopener noreferrer">Bogobrush</a> with co-founder Heather McDougall. This brother-sister founded business not only&nbsp;champions a buy one-give one program, but designs environmentally friendly (and I'll just say it, <em>beautiful</em>)&nbsp;toothbrushes&nbsp;that turn a daily routine into something to really get excited about.</p>
 <h4><b>How did <a href="https://www.bogobrush.com/" target="_blank" rel="noopener noreferrer">Bogobrush</a> begin? Tell us a little bit of your story of starting a company with your brother.</b></h4><br />

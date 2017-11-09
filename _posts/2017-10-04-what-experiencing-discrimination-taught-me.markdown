@@ -1,32 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT EXPERIENCING DISCRIMINATION TAUGHT ME ABOUT SKEPTICISM
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9697
+title: What Experiencing Discrimination Taught Me About Skepticism
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9697
 date: '2017-10-04 04:00:24 -0700'
-date_gmt: '2017-10-04 11:00:24 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments:
-- id: 4400
-  author: Rachel Elizabeth Bennett
-  author_email: rachellizbennett@yahoo.com
-  author_url: ''
-  date: '2017-10-04 21:08:00 -0700'
-  date_gmt: '2017-10-05 04:08:00 -0700'
-  content: This is so powerful.. as a skeptic myself -- it's so good to be reminded
-    my job isn't to judge how valid people's stories are based on my own experience.
-    It's first and foremost to love. Thank you Miss Gibbs ?
+- Come Together
 ---
 <p><span style="font-weight: 300;">When Netflix announced they were removing the try-not-to-cry-as-you-quote-every-line classic, </span><i><span style="font-weight: 300;">Pride &amp; Prejudice,</span></i><span style="font-weight: 300;"> from their list of streaming titles, I thought it was a cruel joke and not actually going to happen. </span><span style="font-weight: 300;">As a precocious child growing up, I didn&rsquo;t bother believing in Santa Claus because we didn&rsquo;t have a chimney.&nbsp;</span><span style="font-weight: 300;">And don&rsquo;t even get me started on avocado being classified as a fruit.</span></p>
 <p><span style="font-weight: 300;">It&rsquo;s taken me a quarter of a century to realize it, but I can&rsquo;t deny it anymore:&nbsp;</span><span style="font-weight: 300;">I am a skeptic. </span></p>

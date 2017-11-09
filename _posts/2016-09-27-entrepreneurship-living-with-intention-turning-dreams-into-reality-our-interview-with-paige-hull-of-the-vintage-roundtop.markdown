@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: ENTREPRENEURSHIP, LIVING WITH INTENTION & TURNING DREAMS INTO REALITY.  Our
+title: Entrepreneurship, Living with Intention & Turning Dreams into Reality.  Our
   interview with Paige Hull of The Vintage Round Top
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6963
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6963
 date: '2016-09-27 04:00:59 -0700'
-date_gmt: '2016-09-27 11:00:59 -0700'
 categories:
 - The Leader
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <p>Courageous, confident and kind women have been popping up in my life recently, and the first thing I think of is you, our fellow creatives, who crave inspiring yet real stories of women who are living purposeful lives. The next thing I think is...people need to hear.</p>
 <p>I'm a firm believer in double meaning...meaning: you go into something for one reason and the outcome is maybe that, but also so much more. Today we're talking with Paige Hull, who owns <a href="http://www.thevintageroundtop.com/" target="_blank">The Vintage Round Top</a> with her husband, Smoot, in Round Top, Texas. She drove past Round Top simply to take in the scenic route and in return, jumped on a journey that would turn into her current business.</p>

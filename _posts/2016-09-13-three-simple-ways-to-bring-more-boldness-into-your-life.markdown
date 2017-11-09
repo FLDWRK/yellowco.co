@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE SIMPLE WAYS TO BRING MORE BOLDNESS INTO YOUR LIFE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6894
+title: Three Simple Ways to Bring More Boldness into Your Life
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6894
 date: '2016-09-13 04:00:46 -0700'
-date_gmt: '2016-09-13 11:00:46 -0700'
 categories:
 - The Starter
 - "#bloomyellow"
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <p><em><strong>Boldness: not hesitating or fearful in face of actual or possible danger or rebuff</strong></em></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/09/The-graveyard-of-good-intentions.png"><img class="aligncenter size-full wp-image-6900" src="http://yellowconference.com/wp-content/uploads/2016/09/The-graveyard-of-good-intentions.png" alt="the-graveyard-of-good-intentions" width="700" height="1063" /></a></p>

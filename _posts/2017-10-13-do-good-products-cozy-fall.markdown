@@ -1,31 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 13 DO-GOOD PRODUCTS TO COZY UP WITH THIS FALL
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9735
+title: 13 Do-Good Products to Cozy Up with this Fall
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9735
 date: '2017-10-13 04:00:39 -0700'
-date_gmt: '2017-10-13 11:00:39 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments:
-- id: 4401
-  author: Anchal Project
-  author_email: anchalproject@gmail.com
-  author_url: http://anchalproject.org/
-  date: '2017-10-13 11:16:00 -0700'
-  date_gmt: '2017-10-13 18:16:00 -0700'
-  content: Such a great list Lindsay!  We own pieces from so many of these great brands
-    that are doing good in the world.
+- Come Together
 ---
 <p>Ahh, fall. It&rsquo;s finally here! There is so much to love about it &mdash; the crisp air, the chunky sweaters, the pumpkin spice lattes. I love the feeling of fall and the way in which people tend to gather more to make the cooler weather cozier. And while the turning leaves seem to indicate the end of a life cycle for foliage, I&rsquo;ve always associated fall with a new beginning; a time for re-invention or reflection.</p>
 <p>Part of that feeling always includes an urge to refresh my wardrobe with a few new pieces, change up my skin care routine, or update my home d&eacute;cor. So I&rsquo;ve gathered up my favorite fall finds that make a difference &mdash; all pieces are from charitable, fair-trade, or socially conscious companies that make a positive impact.</p>

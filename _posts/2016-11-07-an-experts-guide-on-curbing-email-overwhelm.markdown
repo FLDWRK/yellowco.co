@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: AN EXPERT'S GUIDE TO CURBING EMAIL OVERWHELM
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7164
+title: An Expert's Guide to Curbing Email Overwhelm
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7164
 date: '2016-11-07 04:00:19 -0800'
-date_gmt: '2016-11-07 12:00:19 -0800'
 categories:
 - Advice
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-171.jpg"><img class="aligncenter size-full wp-image-7171" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-171.jpg" alt="valeriedenisephotos-17" width="700" height="1050" /></a>Everyday I hear stories of clients, friends and co-workers being overwhelmed by distractions, unrealistic to-do lists, and a growing email inbox.</p>
 <h2><b>Smart folks are drowning in digital clutter. </b></h2><br />

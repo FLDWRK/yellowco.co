@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE ONE SECRET TO LIVING THE LIFE YOU'VE ALWAYS WANTED
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7340
+title: The One Secret to Living the Life You've Always Wanted
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7340
 date: '2016-11-23 04:00:47 -0800'
-date_gmt: '2016-11-23 12:00:47 -0800'
 categories:
 - Advice
 - Inspiration
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-37.jpg"><img class="aligncenter size-large wp-image-7343" src="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-37-658x1024.jpg" alt="valeriedenisephotos-37" width="658" height="1024" /></a>As we are reaching the end of 2016, many of us are checking our goal lists and looking forward to the new year with a sense of excitement. <em><strong>New year! New goals!</strong></em> <strong><em>New resolutions to set for ourselves! New projects and relationships and opportunities!</em> </strong>There are also those of us who are looking back on the year with a sense of discontent. We are confronted by the things we wanted but did not get, and face starting a new year still in want of those heartfelt desires. Every cloud has a silver lining, though. This discontent serves as a motivator. It pushes us to take on that project, or sign up for that course, or launch that business, or ask that guy to coffee. The ache of want brings a determination to lean into the things that can be achieved by hard work and dedication and faith in ourselves and the process.</span></p>
 <p><span style="font-weight: 400;">Unfortunately, there is also a cloud. There are things in this world we desire that we simply cannot achieve on our own. It is when we are confronted by those things that a distracting desperation sets in, and a longing to fight for the thing so worth fighting for, if only we knew how. I think it is because we do not know how to fight that sadness really makes itself at home. Our unmet wants are a day to day reminder that not everything is in our control. We lash out by trying to control the things we can: people, relationships, food, wardrobe, schedule.<a href="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-38.jpg"><img class="aligncenter size-full wp-image-7344" src="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-38.jpg" alt="valeriedenisephotos-38" width="700" height="467" /></a></span></p>

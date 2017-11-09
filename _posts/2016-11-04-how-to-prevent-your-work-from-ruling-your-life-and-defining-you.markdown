@@ -1,58 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO PREVENT YOUR WORK FROM RULING YOUR LIFE AND DEFINING YOU
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7204
+title: How to Prevent Your Work from Ruling Your Life and Defining You
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7204
 date: '2016-11-04 04:00:03 -0700'
-date_gmt: '2016-11-04 11:00:03 -0700'
 categories:
 - The Leader
-- HEART
-tags: []
-comments:
-- id: 4254
-  author: Britney L. Clark
-  author_email: britneyclark85@gmail.com
-  author_url: https://www.britneylclark.com
-  date: '2016-11-04 17:50:00 -0700'
-  date_gmt: '2016-11-05 00:50:00 -0700'
-  content: Awesome post! Thank you for sharing!
-- id: 4255
-  author: Marlena
-  author_email: marlenapearl@gmail.com
-  author_url: http://www.marlenapearl.com/
-  date: '2016-11-04 21:13:00 -0700'
-  date_gmt: '2016-11-05 04:13:00 -0700'
-  content: Oh my goodness, this is such a timely post because I am literally going
-    through this right now!  Thank you so much for your openness and honesty.  I'm
-    going to try going through my year and asking those close to me what I'm good
-    at.  I feel like I have a tendency to keep these thoughts to myself instead of
-    sharing them with others to help me work through them.  But you've inspired me
-    to look for help in others - thank you!
-- id: 4256
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-11-06 17:47:00 -0800'
-  date_gmt: '2016-11-07 01:47:00 -0800'
-  content: So glad you've found it helpful Marlena! Sharing your thoughts with others
-    is a great way to process. The best of luck to you!! xoxo
-- id: 4257
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-11-06 17:48:00 -0800'
-  date_gmt: '2016-11-07 01:48:00 -0800'
-  content: So glad you like it!!
+- Heart
 ---
 <h4><strong>I used to think the path to self discovery was a one time journey you embarked on in your late teens/early 20s. Yet, somehow I found myself, at 29-years-old, yet again on the trail of self-discovery. </strong></h4><br />
 <span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos5of32.jpg"><img class="aligncenter size-full wp-image-7206" src="http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos5of32.jpg" alt="valeriedenisephotos5of32" width="700" height="467" /></a>Here I was caught in the aftermath of a nonprofit job where I had lost sight of who I was after becoming everything to everyone. A chameleon to the needs of the cause I passionately served. My work had become my identity and without it I no longer knew how to define myself. </span></p>

@@ -1,44 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'CHALLENGE: TURN SIDE HUSTLE INTO MAIN HUSTLE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 8804
+title: 'Challenge: Turn Side Hustle into Main Hustle'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=8804
 date: '2017-06-19 11:01:23 -0700'
-date_gmt: '2017-06-19 18:01:23 -0700'
 categories:
 - Wander
-tags: []
-comments:
-- id: 4376
-  author: Crackmacs
-  author_email: crackmacscalgary@gmail.com
-  author_url: http://crackmacs.ca
-  date: '2017-06-20 05:10:00 -0700'
-  date_gmt: '2017-06-20 12:10:00 -0700'
-  content: |-
-    can i have some money?
-
-    thats my hustle
-
-    it never works
-- id: 4377
-  author: Ashley Delose
-  author_email: ashdelose@gmail.com
-  author_url: ''
-  date: '2017-06-20 11:02:00 -0700'
-  date_gmt: '2017-06-20 18:02:00 -0700'
-  content: Thanks for sharing Danielle's story! I agree taking the leap is personal
-    and the advice about doing it on your own time and no one else&rsquo;s rings true
-    for me. :)
 ---
 <div class="page" title="Page 12">
 <div class="layoutArea">

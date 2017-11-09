@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'CONNECTION, VALUE, AND MAKING A STATEMENT: AN INTERVIEW WITH OUR SACRED WOMEN'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8066
+title: 'Connection, Value, and Making a Statement: an Interview with Our Sacred Women'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8066
 date: '2017-03-08 04:00:16 -0800'
-date_gmt: '2017-03-08 12:00:16 -0800'
 categories:
 - Creative Ladies
 - Interviews
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p>To feel seen, understood, and honored. It's something we all crave, but for so many, can feel like grasping for something just out of reach. We chatted with&nbsp;Eileen Rosete, founder of <a href="http://www.oursacredwomen.com/" target="_blank">Our Sacred Women</a>, to hear more about her passion for making women feel valued, and the process of starting her business that does just that&nbsp;(and quite well).</p>
 <p><b>Tell us about <a href="http://www.oursacredwomen.com/" target="_blank">Our Sacred Women</a>.<br />

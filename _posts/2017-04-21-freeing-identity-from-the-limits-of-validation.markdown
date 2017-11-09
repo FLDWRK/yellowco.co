@@ -1,40 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: FREEING YOUR IDENTITY FROM THE LIMITS OF VALIDATION
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8398
+title: Freeing Your Identity from the Limits of Validation
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8398
 date: '2017-04-21 04:00:53 -0700'
-date_gmt: '2017-04-21 11:00:53 -0700'
 categories:
 - Wander
-tags:
-- freelance
-- freelancer
-- entrepreneur
-- women
-- creative women
-- dream job
-- dream business
-- women entrepreneurs
-- intentionality
-- entrepreneurs
-- creative entrepreneurs
-- validation
-- skills
-- identity
-- freeing identity
-- freedom
-- creativity
-comments: []
 ---
 <p><span style="font-weight: 400;">My entire life, I have based important decisions on what others told me I was good at.<strong>&nbsp;</strong></span><span style="font-weight: 400;">My teachers, family, supervisors, and every personality test made a point of praising me for my organization, writing, and outrageous work ethic. I was a straight A student growing up, and spent many of my early adult years chasing those gold stars I&rsquo;d grown accustomed to. My choice of college, the debate over career opportunities, and even my own sense of identity were all wrapped up in those tasks I excelled at. <em>The things I did well defined&nbsp;who I was </em>- and&nbsp;I genuinely believed this was the way everyone lived. </span><i>&nbsp;</i><span style="font-weight: 400;">Now, several transitional years later, <strong>I hold a fierce and controversial belief: if you want to be happier, quit just doing the things you&rsquo;re &lsquo;good&rsquo; at.</strong></span></p>
 <p><span style="font-weight: 400;">I know, it sounds blasphemous - but hear me out. I spent many years confusing excelling at something for&nbsp;genuine passion. I thought (and I don&rsquo;t think I was alone in this) that if I built a career around tasks that were easy for me to complete, well, I&rsquo;d be happy. I</span>t turns out that being proficient in a job is not the same thing as being passionate about it, regardless of how many accolades&nbsp;you receive.<span style="font-weight: 400;">&nbsp;I finally understood that this is why so many of my new career adventures didn&rsquo;t light me up! It was like I was cooking dinner with the same three ingredients, <em>night after night</em>. Although the presentation was different, it all tasted the same - and none of it was fulfilling or exciting.</span></p>

@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'MEET LISA GUNGOR: ONE OF OUR 2017 CONFERENCE SPEAKERS'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8840
+title: 'Meet Lisa Gungor: One of Our 2017 Conference Speakers'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8840
 date: '2017-06-23 04:00:10 -0700'
-date_gmt: '2017-06-23 11:00:10 -0700'
 categories:
 - Wander
-tags: []
-comments: []
 ---
 <p>With the <a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">2017 Yellow Conference</a> only a few short months away, we wanted you to start getting to know this year's incredible speakers a bit better! First up is <a href="http://www.gungormusic.com/" target="_blank" rel="noopener noreferrer">Lisa Gungor</a>, Grammy-nominated musician and artist, mother of two girls, and all around inspiring storyteller.</p>
 <h4><b>Tell us the story of starting Gungor, and what sparked you to create music.</b></h4><br />

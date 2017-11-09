@@ -1,37 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WALKING THE FINE LINE BETWEEN VULNERABILITY AND PROFESSIONALISM
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8960
+title: Walking the Fine Line Between Vulnerability and Professionalism
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8960
 date: '2017-07-05 04:00:07 -0700'
-date_gmt: '2017-07-05 11:00:07 -0700'
 categories:
 - Tension
-tags:
-- entrepreneur
-- vulnerability
-- professionalism
-- personal development
-- life coach
-comments:
-- id: 4381
-  author: Catherine Sanderson
-  author_email: catherineesanderson@gmail.com
-  author_url: ''
-  date: '2017-07-18 12:01:00 -0700'
-  date_gmt: '2017-07-18 19:01:00 -0700'
-  content: Love this article! The questions are a huge help for running through before
-    clicking "publish", totally going to use them the next time I share personal info
-    on Insta. Thank you Yellow for always sharing such useful content xo
 ---
 <p>When I turned seven, I made myself a promise: I'm going to write a book.</p>
 <p><span style="font-weight: 400;">Can you guess what happened this time last year? That promise came true. Did I wake up celebrating? Au Contraire!</span></p>

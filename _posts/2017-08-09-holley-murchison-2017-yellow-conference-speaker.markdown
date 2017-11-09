@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'MEET HOLLEY MURCHISON: A 2017 YELLOW CONFERENCE SPEAKER'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9240
+title: 'Meet Holley Murchison: a 2017 Yellow Conference Speaker'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9240
 date: '2017-08-09 04:00:47 -0700'
-date_gmt: '2017-08-09 11:00:47 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>Ladies, we are just TWO WEEKS away from this year's <a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">Yellow Conference</a>! If you haven't&nbsp;<a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">grabbed your ticket yet, make sure to do so</a> and join us for this incredible time! We&rsquo;re continuing our&nbsp;<a href="http://yellowco.co/yellow-conference-2017-speakers/" target="_blank" rel="noopener noreferrer">speaker series</a>&nbsp;and introducing you to Holley Murchison, Founder &amp; CEO of <a href="http://oratoryglory.com/" target="_blank" rel="noopener noreferrer">Oratory Glory</a>.</p>
 <h4><b>Tell us a little bit about your work. What sparked you to take on such unconventional roles as an </b><b>education producer and communication strategist</b><b>?</b></h4><br />

@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: IT'S OKAY TO BE A HOT MESS, IN FACT...IT'S BRAVE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6284
+title: It's Okay to Be a Hot Mess, in Fact...it's Brave
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6284
 date: '2016-08-02 04:00:58 -0700'
-date_gmt: '2016-08-02 11:00:58 -0700'
 categories:
 - Creative Ladies
 - Inspiration
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <h2><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/08/HOT-MESS-BLOG-IMAGE-FINAL-2.jpg"><img class="aligncenter wp-image-6350 size-full" src="http://yellowconference.com/wp-content/uploads/2016/08/HOT-MESS-BLOG-IMAGE-FINAL-2.jpg" alt="The Yellow Co. Blog: Take off the mask and start living bravely. Photos by: Karen Marie Co" width="683" height="1024" /></a><em>You&rsquo;re a creative woman who is making an inspiring life for herself. Am I right?&nbsp;</em></span></h2><br />
 <span style="font-weight: 400;">I know the type: Ambitious. Altruistic. Driven. Heart-centered. You are the kind of woman who wants to do something great, and not just for selfish gain. You&rsquo;re the kind of woman who wants to be her best and produce her best work.<em> You</em> are a woman of excellence. </span></p>

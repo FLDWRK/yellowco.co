@@ -1,40 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'PUTTING AUTHENTICITY FIRST: AN&nbsp;INTERVIEW WITH GENUINE & GINGER'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 7880
+title: 'Putting Authenticity First: An&nbsp;Interview with Genuine & Ginger'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=7880
 date: '2017-02-13 04:00:17 -0800'
-date_gmt: '2017-02-13 12:00:17 -0800'
 categories:
 - The Solopreneur
 - Interviews
 - PIONEER
-tags: []
-comments:
-- id: 4320
-  author: Chiereme Fortune
-  author_email: cdfortunep56@gmail.com
-  author_url: ''
-  date: '2017-02-14 08:48:00 -0800'
-  date_gmt: '2017-02-14 16:48:00 -0800'
-  content: "Love this! Especially the mantra. Its comforting to known that overexertion
-    and fatigue dont have to be a part of the starting hustle. Great inspo!! \n"
-- id: 4321
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2017-02-14 11:01:00 -0800'
-  date_gmt: '2017-02-14 19:01:00 -0800'
-  content: So glad you liked it Chiereme!!
 ---
 <p><em>In any new adventure in life,&nbsp;we all know how important (albeit rarely easy) it is to bring the best part of ourselves along for the ride. When it comes to making those tough decisions in&nbsp;both our work and&nbsp;personal lives, it's always helpful to have some guidance from those who have walked where we're standing. So, we decided to chat with Kyla Donner, the founder of <a href="http://www.genuineandginger.com/" target="_blank">Genuine &amp; Ginger</a>. Someone&nbsp;who oozes such an authentic spirit, it's even&nbsp;in her business name.</em></p>
 <p><b>Tell us about Genuine and Ginger...</b></p>

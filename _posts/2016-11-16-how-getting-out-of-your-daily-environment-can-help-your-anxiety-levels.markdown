@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE SIMPLE WAYS TO CALM YOUR ANXIETY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7291
+title: Three Simple Ways to Calm Your Anxiety
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7291
 date: '2016-11-16 04:00:41 -0800'
-date_gmt: '2016-11-16 12:00:41 -0800'
 categories:
 - Advice
-- HEART
-tags: []
-comments: []
+- Heart
 ---
 <h2><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-182.jpg"><img class="aligncenter size-full wp-image-7300" src="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-182.jpg" alt="valeriedenisephotos-18" width="700" height="467" /></a><strong>I learned about this term &ldquo;soul places&rdquo; from a little boutique owner in Laguna Beach, and have now used it to describe the paces where I come most alive and feel most grounded - my favorite feeling. </strong></span></h2><br />
 <span style="font-weight: 400;">I love the feeling of being led by my inner truth, and feeling like I am connected to a deeper source of life. When things become crazy and unbalanced and I need some grounding, it&rsquo;s not always evident until these warning signs pop up: I&rsquo;m extra critical of others, I&rsquo;m overly sensitive and emotional to things I&rsquo;m normally easy going about, I start to cancel or dread important meetings, and I start telling my friends I&rsquo;m &ldquo;going rogue," which involves moving to Costa Rica to bartend and live off of coconut milk and papaya. These are my personal warning signs, but everyone&rsquo;s are different. </span></p>

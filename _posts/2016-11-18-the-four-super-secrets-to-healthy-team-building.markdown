@@ -1,31 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE FOUR SUPER SECRETS TO HEALTHY TEAM BUILDING
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7280
+title: The Four Super Secrets to Healthy Team Building
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7280
 date: '2016-11-18 04:00:54 -0800'
-date_gmt: '2016-11-18 12:00:54 -0800'
 categories:
 - The Leader
-- HEART
-tags: []
-comments:
-- id: 4264
-  author: 'The Week + Links: 11.19.16 | Nubby Twiglet'
-  author_email: ''
-  author_url: http://nubbytwiglet.com/2016/11/19/the-week-links-11-19-16/
-  date: '2016-11-19 17:26:36 -0800'
-  date_gmt: '2016-11-20 01:26:36 -0800'
-  content: "[&#8230;] The 4 secrets to healthy team [&#8230;]"
+- Heart
 ---
 <p><span style="font-weight: 400;"><strong>We were created to live and breathe community.</strong> To be around others, learn from others, grow from others, and also be teachable to others. Communities can vary in different types of settings: from church groups, to exercise buddies, philanthropy friends, and so on. Not only is building a healthy community in our personal lives important &ndash; it is just as vital to know how to build a healthy team in your organization or business. When we begin to place an importance on building this nature of a team, we are providing ourselves the space to grow and lead successfully.<a href="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-59.jpg"><img class="aligncenter size-large wp-image-7283" src="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-59-683x1024.jpg" alt="valeriedenisephotos-59" width="683" height="1024" /></a></span><span style="font-weight: 400;">The first and very most important part of building a healthy and successful team is incorporating self-care. Eryn Eddy once said,</span><b><i> "If you work harder on your job than yourself, you will lose yourself."</i></b><span style="font-weight: 400;"> Self-care is provided for you, by you. It is about identifying your own needs and taking steps to meet them, taking the time to do some of the activities that nurture you, and taking proper care of yourself and treating yourself as kindly as you would treat others. </span></p>
 <ol>

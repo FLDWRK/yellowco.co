@@ -1,30 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHERE SHIFTING YOUR PERSPECTIVE ON PAIN CAN LEAD YOU
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8743
+title: Where Shifting Your Perspective on Pain Can Lead You
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8743
 date: '2017-06-09 04:00:21 -0700'
-date_gmt: '2017-06-09 11:00:21 -0700'
 categories:
 - Wander
-tags:
-- perspective
-- pain
-- healing
-- clarity
-- powerful
-- comparison
-- health
-comments: []
 ---
 <p>What&rsquo;s the first thing we do when we feel pain? Well, first we complain. Then we try anything we can to get rid of it.</p>
 <p><span style="font-weight: 400;">Let&rsquo;s say you have a stomach ache. You might take an antacid or some Pepto, or lay down with a heating pad. <strong>But one of the biggest mistakes we can make is to simply get rid of the pain&nbsp;without asking what actually </strong></span><strong><i>caused </i></strong><span style="font-weight: 400;"><strong>it.</strong> When we do this, we&rsquo;re most likely just putting a band aid on the problem, not actually solving it. For example, if my stomach ache is caused by a food intolerance, then I need to think about what I just ate and take note. Doing this will not only prevent future stomach aches, but avoid any lasting damage done by continually eating something my body doesn&rsquo;t jive with.</span></p>

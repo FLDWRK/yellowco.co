@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 3 WAYS TO PERSUADE YOUR EMPLOYER TO GIVE BACK CORPORATELY
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9258
+title: 3 Ways to Persuade Your Employer to Give Back Corporately
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9258
 date: '2017-08-14 04:00:53 -0700'
-date_gmt: '2017-08-14 11:00:53 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>We all want to contribute. We know that our world feels more full when we are giving back to those who need it most. But it&rsquo;s not a matter of <em>if</em> we should, it&rsquo;s a matter of <em>how</em> we can. Some of us have the desire to be entrepreneurs, others want to be artists. Some of us so desperately want to create organizations, products, or ideas that have a sole purpose to help those in need. Others&nbsp;of us aren&rsquo;t really there yet.&nbsp;<span style="font-weight: 400;">Either way, it&rsquo;s okay. </span></p>
 <h3><strong>There&rsquo;s no right way to have a social impact, there isn&rsquo;t even one answer. </strong></h3><br />

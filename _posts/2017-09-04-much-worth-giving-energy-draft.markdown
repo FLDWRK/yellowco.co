@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW A PARKING TICKET SHIFTED MY PERSPECTIVE ON THE VALUE OF ENERGY
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9456
+title: How a Parking Ticket Shifted My Perspective on the Value of Energy
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9456
 date: '2017-09-04 04:00:56 -0700'
-date_gmt: '2017-09-04 11:00:56 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><span style="font-weight: 400;">This is the story of the best parking ticket I ever got. When you live in LA, getting these&nbsp;is pretty common, but this time&nbsp;was special. This parking ticket left&nbsp;me feeling balanced and weirdly in control of my life.</span></p>
 <p><span style="font-weight: 400;">On my journey as an entrepreneur, there came a point where my business and my day job didn&rsquo;t play nicely together any more. When I first started, I was sneaking my side hustle into my schedule any way I could, but as it&nbsp;grew into a full blown business, it slowly started to outpace my day job. It seemed to happen overnight. I got really burned out, really fast, trying to do everything at once. </span></p>

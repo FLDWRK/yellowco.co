@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: BREAKING FREE FROM THE BOUNDS OF PEOPLE-PLEASING
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8134
+title: Breaking Free from the Bounds of People-Pleasing
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8134
 date: '2017-03-17 04:00:48 -0700'
-date_gmt: '2017-03-17 11:00:48 -0700'
 categories:
 - Inspiration
 - Encouragement
-- PIONEER
-tags: []
-comments: []
+- Pioneer 
 ---
 <p><span style="font-weight: 400;">I have been a people pleaser for as long as I can remember. And&nbsp;</span><span style="font-weight: 400;">I was really, really good at it. Who am I kidding? I am </span><i><span style="font-weight: 400;">still </span></i><span style="font-weight: 400;">really, really good at it. I mean, who doesn&rsquo;t want to be liked by everyone?&nbsp;On one hand, I enjoy receiving compliments and being placed on a pedestal - but on the other hand, it gets really exhausting. <strong>Living up to everyone&rsquo;s expectations takes up a lot of energy, and too often, it takes a big&nbsp;mental and emotional toll.</strong></span><strong><br />
 </strong> <span style="font-weight: 400;"><br />

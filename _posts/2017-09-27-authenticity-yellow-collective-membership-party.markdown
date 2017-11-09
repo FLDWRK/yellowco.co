@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: AN EVENING OF AUTHENTICITY AT THE YELLOW MEMBERSHIP LAUNCH PARTY
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9632
+title: An Evening of Authenticity at the Yellow Membership Launch Party
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9632
 date: '2017-09-27 04:00:45 -0700'
-date_gmt: '2017-09-27 11:00:45 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><em>&ldquo;You&rsquo;ve got this Allie. You can take on LA tonight...&rdquo;</em></p>
 <h3><strong>Amongst the social and logistical anxiety, I had been giving myself a pep talk all week. </strong></h3><br />

@@ -1,44 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'COMMUNITY 101 PART TWO: INVITING BRILLIANT PEOPLE INTO YOUR LIFE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6158
+title: 'Community 101 Part Two: Inviting Brilliant People into Your Life'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6158
 date: '2016-07-24 04:00:25 -0700'
-date_gmt: '2016-07-24 11:00:25 -0700'
 categories:
 - Yellow 2016
 - Yellow Collective
 - Community 101
 - Sunday Series
-tags: []
-comments:
-- id: 4161
-  author: 'Yellow Co. &#124; COMMUNITY 101 PART FOUR: SO YOU JUST HAD AN AMAZING GATHERING,
-    NOW WHAT? - Yellow Co.'
-  author_email: ''
-  author_url: http://yellowconference.com/2016/08/21/community-101-part-four-so-you-just-had-a-rad-gathering-now-what/
-  date: '2016-08-21 19:10:47 -0700'
-  date_gmt: '2016-08-22 02:10:47 -0700'
-  content: "[&#8230;] we&rsquo;ve identified how to figure out who are the awesome
-    people you want in your life, and then we figured out how we actually ASK them
-    to be in your life.&nbsp;Last week, we talked about how to host an amazing, [&#8230;]"
-- id: 4162
-  author: 'Must-Reads for Creatives: From Comparison to Creative Freedom - In Tandem'
-  author_email: ''
-  author_url: http://www.createintandem.com/must-reads-creatives-comparison-freedom/
-  date: '2016-08-28 10:15:16 -0700'
-  date_gmt: '2016-08-28 17:15:16 -0700'
-  content: "[&#8230;] Community Building 101 Part Two: Inviting Brilliant People Into
-    Your Life >>> [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/07/Community-Building.jpg"><img class="aligncenter size-full wp-image-6119" src="http://yellowconference.com/wp-content/uploads/2016/07/Community-Building.jpg" alt="The Yellow Co. Sunday Series: Community Building 101" width="700" height="1264" /></a><i><span style="font-weight: 400;">This is the second post in a new Sunday series by our Yellow Collective project manager </span></i><a href="http://www.laurencaselli.com/" target="_blank"><i><span style="font-weight: 400;">Lauren Caselli</span></i></a><i><span style="font-weight: 400;"> about finding, creating, and growing a community of people who have your back. Whether it&rsquo;s online or in-person, free or paid, having a community of people who understand and support you can move you toward your goals faster than ever. To read the first&nbsp;post in this series, </span></i><b><i><a href="http://yellowconference.com/2016/07/10/community-101-a-new-series-about-making-friends-as-an-adult/" target="_blank">click here.</a><a href="http://yellowconference.com/wp-content/uploads/2016/07/MG_1442.jpg"><img class="aligncenter size-full wp-image-6168" src="http://yellowconference.com/wp-content/uploads/2016/07/MG_1442.jpg" alt="Finding Your Squad: The Yellow Co. Blog" width="700" height="1050" /></a></i></b></p>
 <p><a href="http://yellowconference.com/2016/07/10/community-101-a-new-series-about-making-friends-as-an-adult/" target="_blank">In this series' first post,</a> you&rsquo;ll remember that I mentioned making a list of the people that you want to be a part of your company&rsquo;s/life&rsquo;s steering committee. <em>A steering committee</em> is another word for an advisory board, but another way to think about it is to <em>choose the people that you would want to bounce ideas off of, and who would have a good perspective on issues you may be facing.</em></p>

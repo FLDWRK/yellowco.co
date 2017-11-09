@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO EXPERIENCE THE GOODNESS OF YELLOW CONFERENCE (EVEN IF YOU CAN'T MAKE
-  IT!)
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9330
+title: How to Experience the Goodness of Yellow Conference (Even if You Can't Make
+  it!)
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9330
 date: '2017-08-21 04:00:51 -0700'
-date_gmt: '2017-08-21 11:00:51 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <h3><em>Hey ladies,</em></h3></p>
 <h3><em>Are you ready for <a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">Yellow Conference 2017</a>?</em></h3><br />

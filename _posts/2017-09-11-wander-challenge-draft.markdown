@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: HOW ONE SIMPLE CHALLENGE SPONTANEOUSLY LANDED ME IN CUBA
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9482
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9482
 date: '2017-09-11 04:00:19 -0700'
-date_gmt: '2017-09-11 11:00:19 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><em>As you know, each quarter Yellow has focused on one overarching theme to see how it inspires, shapes, and challenges us. Not only do we explore themes like <a href="http://yellowco.co/category/pioneer/" target="_blank" rel="noopener noreferrer">Pioneer</a>, <a href="http://yellowco.co/category/wander/" target="_blank" rel="noopener noreferrer">Wander</a>, and <a href="http://yellowco.co/category/tension/" target="_blank" rel="noopener noreferrer">Tension</a> here on the blog, but our <a href="https://yellowcollective.co/" target="_blank" rel="noopener noreferrer">Yellow Collective members</a> spend time diving into them together! Each quarter, all of the members take on a challenge together -&nbsp;each woman interpreting it in her own way, but all held accountable to each other. In our Spring series, <a href="http://yellowco.co/category/wander/" target="_blank" rel="noopener noreferrer">Wander</a>, the <a href="https://yellowcollective.co/" target="_blank" rel="noopener noreferrer">Collective</a> challenge was:</em></p>
 <p><em>Go to a place you've never been before. Have no plans. None. Let yourself explore and reflect.</em></p>

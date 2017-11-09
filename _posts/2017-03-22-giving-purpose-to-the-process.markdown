@@ -1,44 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: GIVING PURPOSE TO THE PROCESS
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8186
+title: Giving Purpose to the Process
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8186
 date: '2017-03-22 04:00:08 -0700'
-date_gmt: '2017-03-22 11:00:08 -0700'
 categories:
 - Advice
 - The Starter
-- PIONEER
-tags: []
-comments:
-- id: 4333
-  author: Britney L. Clark
-  author_email: britneyclark85@gmail.com
-  author_url: https://www.britneylclark.com
-  date: '2017-03-22 08:17:00 -0700'
-  date_gmt: '2017-03-22 15:17:00 -0700'
-  content: 'Jessica, thank you for this beautifully written post. It holds so many
-    truths and reminders for this season of my life. '
-- id: 4357
-  author: Anna Oates
-  author_email: ako1994@gmail.com
-  author_url: http://annadownsouth.com/
-  date: '2017-05-05 15:55:00 -0700'
-  date_gmt: '2017-05-05 22:55:00 -0700'
-  content: 'This is a wonderful post. This is exactly what I needed to hear today:
-    "It&rsquo;s bold to seek inspiration without comparing yourself. It&rsquo;s brave
-    to ride the wave of uncertainty and be curious about where the tide is going to
-    take you. It&rsquo;s courageous to begin somewhere even if you don&rsquo;t know
-    if that somewhere is right."'
+- Pioneer
 ---
 <p><span style="font-weight: 400;">Growing up, I loved getting lost in a good book. I remember that giddy feeling that would take over the moment I laid my hands on a brand new novel, just waiting for me to dive into its crisp pages. There was so much to look forward to - an unfamiliar plot full of possibilities. But by the third page, I would surrender to impatience and skip to the end to find out how the story ends. Immediately, a sense of disappointment would loom over me, realizing that without the heart of the book, the story lacks meaning and context. The essential parts containing themes of growth, change, and maturity lie in the middle of every story, just like our own.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Unfortunately, it can be hard to identify the gifts of the process. Many times, we become so concerned with the outcome of our perils that we have a hard time focusing on the precious moments in our present. </span><b>We get so stumped on the could&rsquo;ve, would&rsquo;ve, and should&rsquo;ve that we forget what this journey is all about.</b><span style="font-weight: 400;"> We are our worst critics, and often compare our experience to other's, hindering our growth.</span></p>

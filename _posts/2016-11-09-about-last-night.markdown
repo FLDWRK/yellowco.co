@@ -1,42 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: ABOUT LAST NIGHT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7233
+title: About Last Night
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7233
 date: '2016-11-09 06:30:36 -0800'
-date_gmt: '2016-11-09 14:30:36 -0800'
 categories:
 - "#bloomyellow"
 - Encouragement
-tags: []
-comments:
-- id: 4259
-  author: Mol C. Nichols
-  author_email: molle3258@gmail.com
-  author_url: ''
-  date: '2016-11-11 12:59:00 -0800'
-  date_gmt: '2016-11-11 20:59:00 -0800'
-  content: Wow, so fitting for this time, "Have respect for those around you not because
-    you agree with them, but because they are a human being and they deserve it. You
-    are more like them than you even know."
-- id: 4260
-  author: Maria
-  author_email: maria@ratherbesweating.com
-  author_url: ''
-  date: '2016-11-15 17:24:00 -0800'
-  date_gmt: '2016-11-16 01:24:00 -0800'
-  content: Thank you for this insightful post. I think I am afraid, you hit the nail
-    on the head. But fear is so paralyzing. And knowledge is power. So learning about
-    what others are facing and struggling with can actually help bring us together.
 ---
 <p>We had another post originally planned to go up today, but with the election last night and everything our country is facing right now, I thought I would share some thoughts.</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/08/YellowCollectivexHeritage-AndreaDavid27.jpg"><img class="aligncenter size-full wp-image-6600" src="http://yellowconference.com/wp-content/uploads/2016/08/YellowCollectivexHeritage-AndreaDavid27.jpg" alt="YellowCollectivexHeritage-AndreaDavid(27)" width="700" height="467" /></a></p>

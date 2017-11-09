@@ -1,60 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: FOUR WAYS TO STAY ROOTED WHEN LIFE FEELS SHAKY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7019
+title: Four Ways to Stay Rooted When Life Feels Shaky
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7019
 date: '2016-10-07 04:00:59 -0700'
-date_gmt: '2016-10-07 11:00:59 -0700'
 categories:
 - Encouragement
-- HEART
-tags: []
-comments:
-- id: 4239
-  author: 'Wholeness Linking Up: Volume 3 - Wholeness'
-  author_email: ''
-  author_url: http://wholenessnz.com/2016/10/wholeness-linking-volume-3/
-  date: '2016-10-08 13:05:11 -0700'
-  date_gmt: '2016-10-08 20:05:11 -0700'
-  content: "[&#8230;] Feeling a little shaky lately? Going through some kind of transition
-    in your life? You might like this post. [&#8230;]"
-- id: 4240
-  author: Marlo Ellis
-  author_email: marloellis@icloud.com
-  author_url: ''
-  date: '2016-10-12 06:49:00 -0700'
-  date_gmt: '2016-10-12 13:49:00 -0700'
-  content: Christine, this is SUCH a beautiful and heart-felt post. It's funny how
-    just 4 small steps can change a life.  I don't have a child - I am not a mother,
-    but starting my Freedom Coaching work last year was much like birthing a baby.
-    I felt totally excited and grounded in it, but I was bound at the same time. I
-    found myself spending hundreds of hours behind a computer, connecting and caring
-    for everyone else but myself. The past month I decided it was time to put me back
-    into my life. Like you I schedule date nights with my partner and he and I just
-    play and laugh, sip coffee and let it go. I have found that my work has improved,
-    I have more energy to connect with those I serve, and the depth of it is richer.
-    I live a more balanced. So, I get you. I feel this and I am relieved to hear you
-    have found your way back. What a gorgeous message to share. The darkness has brought
-    more light, and you are sharing that lesson with the women of the world! Standing
-    O!! Great job Sister! I am excited to read more of your words. Love and light.
-    Marlo
-- id: 4241
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-10-12 10:14:00 -0700'
-  date_gmt: '2016-10-12 17:14:00 -0700'
-  content: So glad you liked the post Marlo. Congrats on your coaching work birthday!
-    That's a big deal!
+- Heart
 ---
 <h2><em><span style="font-weight: 400;">I have days where I feel like I'm suffocating, unable to come out for air in this busyness of life. Feeling lonely and empty, wanting to desperately cry out for help but unable to vocalize it. Sound familiar to anyone out there?<br />
 </span></em></h2><br />

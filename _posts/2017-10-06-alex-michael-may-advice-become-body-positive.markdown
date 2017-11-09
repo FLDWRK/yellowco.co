@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: ALEX MICHAEL MAY'S ADVICE ON BECOMING BODY POSITIVE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9707
+title: Alex Michael May's Advice on Becoming Body Positive
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9707
 date: '2017-10-06 04:00:39 -0700'
-date_gmt: '2017-10-06 11:00:39 -0700'
 categories:
-- COME TOGETHER
-tags: []
-comments: []
+- Come Together
 ---
 <p><em><span style="font-weight: 400;">You may have encountered <a href="http://alexmichaelmay.com/" target="_blank" rel="noopener noreferrer">Alex Michael May</a> on <a href="https://www.instagram.com/alexmichaelmay/" target="_blank" rel="noopener noreferrer">Instagram</a> as your &ldquo;virtual bff,&rdquo; heard her speak at <a href="http://yellowco.co/conference/" target="_blank" rel="noopener noreferrer">The Yellow Conference</a>, or seen her featured in an article using her voice vulnerably about body positivity. I had the opportunity to speak with her about her journey</span> <span style="font-weight: 400;">speaking out in vulnerability about her mindset and experiences, and how they allowed her to connect with others through real-life experiences that every woman encounters.</span></em></p>
 <hr />

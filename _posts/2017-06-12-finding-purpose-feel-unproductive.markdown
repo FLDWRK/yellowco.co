@@ -1,53 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8754
+title: Finding Purpose When You Feel Unproductive
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8754
 date: '2017-06-12 04:00:11 -0700'
-date_gmt: '2017-06-12 11:00:11 -0700'
 categories:
 - Wander
-tags:
-- passion project
-- freelancer
-- women entrepreneurs
-- purpose
-- creative entrepreneurs
-- community
-- productivity
-- unproductive
-- volunteer
-- self development
-comments:
-- id: 4374
-  author: Melissa AuClair
-  author_email: melissaauclair@gmail.com
-  author_url: http://www.thecreativeseason.com
-  date: '2017-06-14 19:55:00 -0700'
-  date_gmt: '2017-06-15 02:55:00 -0700'
-  content: Great ideas when the inspiration isn't coming! I find that energy and inspiration
-    are more likely to come when I try new things for the sake of discovery and getting
-    out of my routine.
-- id: 4388
-  author: How to Build Your Tribe of Creative Women Who Do Good - The Fabulous Giver
-  author_email: ''
-  author_url: http://thefabulousgiver.com/yellow-collective-build-your-tribe/
-  date: '2017-07-28 00:00:18 -0700'
-  date_gmt: '2017-07-28 07:00:18 -0700'
-  content: "[&#8230;] As with any tools, you have to put in the work to see any results.
-    Regardless of whether you become a member, check out the Yellow Room&nbsp;blog
-    for an ongoing dose of encouragement and inspiration across posts like &#8220;Unleashing
-    Your Talents and Creativity to Give Back&#8221; and &#8220;Finding Purpose When
-    You Feel Unproductive.&#8221; [&#8230;]"
 ---
 <p><span style="font-weight: 400;">Have you ever been the woman who wants to change the world? The woman with the heart, the guts, and the brain to get the job done, but who has been stopped short with one question: <em>now what?</em>&nbsp;</span><span style="font-weight: 400;">I have.</span></p>
 <p><span style="font-weight: 400;">The time between deciding what we want to do and actually getting to do that kind of work can be challenging. We can feel in ourselves the capability, gifts, and drive to do something meaningful, but struggle to identify what it is. Most often, while we wander, we feel like we&rsquo;re getting nothing done because we don&rsquo;t know what we are supposed to be doing! This is certainly a frustrating experience, but I&rsquo;d like to reframe this feeling for us. This wandering place, this period of waiting and expectation, can actually be very good for you.</span></p>

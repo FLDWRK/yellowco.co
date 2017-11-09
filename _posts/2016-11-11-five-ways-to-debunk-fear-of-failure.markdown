@@ -1,41 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: FIVE WAYS TO DEBUNK YOUR FEAR OF FAILURE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7220
+title: Five Ways to Debunk Your Fear of Failure
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7220
 date: '2016-11-11 04:00:32 -0800'
-date_gmt: '2016-11-11 12:00:32 -0800'
 categories:
 - Advice
 - Inspiration
 - The Starter
-- HEART
-tags: []
-comments:
-- id: 4258
-  author: 'The Week + Links: 11.19.16 | Nubby Twiglet'
-  author_email: ''
-  author_url: http://nubbytwiglet.com/2016/11/19/the-week-links-11-19-16/
-  date: '2016-11-19 17:25:11 -0800'
-  date_gmt: '2016-11-20 01:25:11 -0800'
-  content: "[&#8230;] 5 ways to get over your fear of [&#8230;]"
-- id: 4268
-  author: Weekend Reading 11.25.2016 - asmp
-  author_email: ''
-  author_url: https://www.asmp.org/uncategorized/weekend-reading-11-25-2016/
-  date: '2016-11-25 00:00:59 -0800'
-  date_gmt: '2016-11-25 08:00:59 -0800'
-  content: "[&#8230;] &bull; Five exercises to help you debunk&nbsp;your fears of
-    failure.&nbsp; [&#8230;]"
+- Heart
 ---
 <p><span style="font-weight: 400;"><a href="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-17.jpg"><img class="aligncenter size-full wp-image-7223" src="http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-17.jpg" alt="valeriedenisephotos-17" width="700" height="1050" /></a>I have a Giving Key that says &ldquo;Fearless.&rdquo; If you don&rsquo;t have a </span><a href="https://www.thegivingkeys.com/"><span style="font-weight: 400;">Giving Key</span></a><span style="font-weight: 400;">, I encourage you to get one, and then give it away.</span></p>
 <p><span style="font-weight: 400;">I bought my Fearless key for myself in January of 2015. It was my mantra for the year, and let me tell you, I pursued fearlessness in an unusual and slightly terrifying way. I still wear my key almost every day, and haven&rsquo;t yet been blessed with the right moment to pass it along.</span></p>

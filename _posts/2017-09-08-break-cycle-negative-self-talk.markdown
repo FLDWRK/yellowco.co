@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: BREAKING THE CYCLE OF NEGATIVE SELF-TALK
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9480
+title: Breaking the Cycle of Negative Self-Talk
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9480
 date: '2017-09-08 04:00:30 -0700'
-date_gmt: '2017-09-08 11:00:30 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>Tell me if any of these thoughts sound familiar to you:</p>
 <p><span style="font-weight: 400;">&ldquo;Why can&rsquo;t I do anything right?&rdquo;&nbsp;</span><span style="font-weight: 400;">&ldquo;I never have enough money.&rdquo;&nbsp;</span><span style="font-weight: 400;">&ldquo;People are always disrespecting my boundaries.&rdquo;&nbsp;</span><span style="font-weight: 400;">&ldquo;I&rsquo;m too fat / too skinny / not pretty enough.&rdquo;</span></p>

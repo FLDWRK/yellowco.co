@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'MY PRESENT JOURNEY: EXPERIENCING YELLOW 2017'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9435
+title: 'My Present Journey: Experiencing Yellow 2017'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9435
 date: '2017-09-01 04:00:24 -0700'
-date_gmt: '2017-09-01 11:00:24 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><span style="font-weight: 400;">I&rsquo;ve been a fan of Yellow for years, but this year was the first time that I&nbsp;was&nbsp;able to attend the conference. I had some idea of what to expect, but nothing could&rsquo;ve truly prepared me for what it would be like to experience Yellow 2017 in person.&nbsp;</span></p>
 <p><span style="font-weight: 400;">To be honest, I was apprehensive to come to Los Angeles for the conference. In general, I love cities. I enjoy the architecture, the diversity, the food, and the hustle and bustle. But for me LA represents stress and sadness. Several years ago, fresh out of college with a degree in social work, I started my career working in the foster care system for LA County. Of course the traffic wasn&rsquo;t my favorite, but I got used to it. However, the sadness and isolation of my job combined with the tragedies I saw on a daily basis were too much for my sensitive heart to handle. I was burnt out. So I left. Even though I now only live an hour away (without traffic of course), I&rsquo;ve only returned to LA on a few rare occasions.</span></p>

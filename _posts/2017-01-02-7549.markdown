@@ -1,44 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'OUR NEXT SERIES: PIONEER'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7549
+title: 'Our Next Series: Pioneer'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7549
 date: '2017-01-02 04:00:45 -0800'
-date_gmt: '2017-01-02 12:00:45 -0800'
 categories:
 - The Activist
 - The Starter
 - The Solopreneur
 - The Leader
-- PIONEER
-tags: []
-comments:
-- id: 4284
-  author: Monique Melton
-  author_email: hello@moniquemelton.com
-  author_url: ''
-  date: '2017-01-10 08:37:00 -0800'
-  date_gmt: '2017-01-10 16:37:00 -0800'
-  content: Love this perspective. Thank you for sharing...and yes we are pioneers!!!
-- id: 4285
-  author: Ch&eacute; Elizaga
-  author_email: che.lynne@yahoo.com
-  author_url: ''
-  date: '2017-01-11 16:11:00 -0800'
-  date_gmt: '2017-01-12 00:11:00 -0800'
-  content: Hi Sally! Thank you for writing this&mdash;I always resonate with your
-    pieces so keep it up! I'm so excited for the Pioneer theme as this word has consistently
-    been spoken over me this past year. Thanks for the reminder of the GRIT required
-    to reap the sweets by first putting in work.
+- Pioneer
 ---
 <p class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/12/MG_2605.jpg"><img class="aligncenter wp-image-7554" src="http://yellowconference.com/wp-content/uploads/2016/12/MG_2605.jpg" alt="The Yellow Co. PIONEER" width="700" height="1050" /></a>There are two books in the Bible named after women&hellip;<strong><em>Two&nbsp;</em></strong>of sixty-six books have a women&rsquo;s name in small caps at the top of every page as a reminder to whose story you&rsquo;re reading. I&rsquo;m not talking from a spiritual perspective, but a historic and literary one. Do you understand the significance? Whether you believe them to be true or false isn&rsquo;t the point (right now, at least), this was groundbreaking.</span></p></p>
 <p class="p1">No matter what you believe about politics, or who you voted for this past election, we were inches away from having our first woman president. Whether you liked Hilary Clinton, despised her, didn't trust her, loved her, idolized her...this, too was <em>groundbreaking.&nbsp;</em></p></p>

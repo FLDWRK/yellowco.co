@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: CHASING DREAMS WHILE WAITING IN LINE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6929
+title: Chasing Dreams While Waiting in Line
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6929
 date: '2016-09-20 04:00:07 -0700'
-date_gmt: '2016-09-20 11:00:07 -0700'
 categories:
 - "#bloomyellow"
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <p><span style="font-weight: 400;">Ten years ago, I was about to get married; I was 23. I had just finished college, started my career in the mental health industry, and I was eager, enthusiastic,&nbsp;and optimistic about all the things I was going to conquer in my adult life. I had </span><i><span style="font-weight: 400;">dreams</span></i><span style="font-weight: 400;">, and nothing was going to stop me.&nbsp;</span></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/09/Chasing-Dreams1.jpg"><img class="aligncenter size-full wp-image-6934" src="http://yellowconference.com/wp-content/uploads/2016/09/Chasing-Dreams1.jpg" alt="chasing-dreams" width="700" height="1107" /></a></p>

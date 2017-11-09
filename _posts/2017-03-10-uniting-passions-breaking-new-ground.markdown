@@ -1,40 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: UNITING PASSIONS AND BREAKING NEW GROUND ALONG THE WAY
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8054
+title: Uniting Passions and Breaking New Ground Along the Way
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8054
 date: '2017-03-10 04:00:37 -0800'
-date_gmt: '2017-03-10 12:00:37 -0800'
 categories:
 - Creative Ladies
 - The Activist
-- PIONEER
-tags: []
-comments:
-- id: 4330
-  author: Rhonda LaBatt
-  author_email: rrlabatt@cox.net
-  author_url: https://redemption-market.myshopify.com/collections/all
-  date: '2017-03-10 13:06:00 -0800'
-  date_gmt: '2017-03-10 21:06:00 -0800'
-  content: This is such an amazing post! Black sheep unite! I will share this on my
-    platforms, thank you.   Rhonda, founder of Redemption Market
-- id: 4331
-  author: Your Noona's Unnie
-  author_email: noonafromtheblock@gmail.com
-  author_url: http://noona4mthablock.tumblr.com/
-  date: '2017-03-12 13:04:00 -0700'
-  date_gmt: '2017-03-12 20:04:00 -0700'
-  content: This screams of privilege. Must be nice.
+- Pioneer
 ---
 <p><span style="font-weight: 400;">Three years ago I felt&nbsp;fulfilled as a creative entrepreneur living 'The American Dream': make money, buy things, repeat. There were plenty of small business hurdles to overcome, but for the most part I felt semi-accomplished. My husband and I were wedding photographers and we attended all of the networking events, bridal shows, and expos, on top of having&nbsp;a 12-month schedule full of happy clients. But something was always missing in the work I did - <em><strong>g</strong></em></span><em><strong>enuine intentionality and impact. </strong></em></p>
 <p><span style="font-weight: 400;">Everyone was so concerned about creating a&nbsp;Pinterest-perfect, publication-worthy wedding. No one cared about where the thousands of dollars worth of flowers or leftover catered meals would go after their big day. They weren't aware of how their choices as a wedding consumer would impact others, or the environment. It depressed me regularly how far off some wedding intentions had been taken, and I longed&nbsp;to meet new clients that had&nbsp;plans of purpose within their wedding planning process. </span></p>

@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: SCARED OF NEGOTIATIONS? HERE'S 5 WAYS TO PERFECT THE ART OF NEGOTIATING
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6318
+title: Scared of Negotiations? Here's 5 Ways to Perfect the Art of Negotiating
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6318
 date: '2016-08-04 04:00:57 -0700'
-date_gmt: '2016-08-04 11:00:57 -0700'
 categories:
 - Advice
 - The Leader
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <h2><span style="font-weight: 400;"><em><a href="http://yellowconference.com/wp-content/uploads/2016/08/NEgotiation.jpg"><img class="aligncenter size-full wp-image-6406" src="http://yellowconference.com/wp-content/uploads/2016/08/NEgotiation.jpg" alt="NEgotiation" width="700" height="737" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/08/Negotiation-Bravery1.jpg"><br />
 </a>There is an art to negotiating, and I didn&rsquo;t know anything about it until I was in over my head in a sales role.</em> </span></h2><br />

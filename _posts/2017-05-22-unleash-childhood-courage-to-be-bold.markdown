@@ -1,51 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: UNLEASHING YOUR CHILDHOOD COURAGE TO BE YOUR BOLDEST SELF
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 8609
+title: Unleashing Your Childhood Courage to be Your Boldest Self
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=8609
 date: '2017-05-22 04:00:20 -0700'
-date_gmt: '2017-05-22 11:00:20 -0700'
 categories:
 - Wander
-tags:
-- freelance
-- freelancer
-- women
-- creative women
-- dream job
-- dream business
-- women entrepreneurs
-- finding your purpose
-- mission
-- starting a business
-- do good
-- giving back
-- creative entrepreneurs
-- courage
-- bold
-- boldness
-- inner child
-- childhood
-comments:
-- id: 4369
-  author: Katie
-  author_email: katie.e.kemp@gmail.com
-  author_url: ''
-  date: '2017-05-30 05:38:00 -0700'
-  date_gmt: '2017-05-30 12:38:00 -0700'
-  content: 'Yes!!! That little girl joy is so needed in the world that runs on production
-    as a form of worthiness. Getting lost in something is never concerned with what
-    others will think of it- it''s a joy that doesn''t need approval!!! Loved this
-    article! '
 ---
 <p><span style="font-weight: 400;">Do you remember that feeling of getting lost in something &ndash; </span><i><span style="font-weight: 400;">really </span></i><span style="font-weight: 400;">getting lost in something the way you used to as a child? What was that &ldquo;something&rdquo; for you &ndash; playing doctor, dressing up, cooking in a perfectly curated play kitchen, pretending to be a mommy?</span></p>
 <p><span style="font-weight: 400;">For me, it was writing. When I wasn&rsquo;t writing &ndash; or pretending to write (I can&rsquo;t quite make sense of the scribbles in one of my earliest &ldquo;journals&rdquo;) &ndash; I was reading other people&rsquo;s writing in the form of books. My dad, who worked in construction, would set aside pads of blank invoices for me to write in. I went through </span><i><span style="font-weight: 400;">so</span></i><span style="font-weight: 400;"> much paper, but that didn&rsquo;t concern me. It was always the words that had their hold on me.</span></p>

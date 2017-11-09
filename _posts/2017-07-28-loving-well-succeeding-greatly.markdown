@@ -1,60 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY LOVING WELL AND SUCCEEDING GREATLY IS NOT AN EITHER/OR
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9180
+title: Why Loving Well and Succeeding Greatly is Not an Either/Or
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9180
 date: '2017-07-28 04:00:55 -0700'
-date_gmt: '2017-07-28 11:00:55 -0700'
 categories:
 - Tension
-tags: []
-comments:
-- id: 4389
-  author: Marienne
-  author_email: marienne.un@gmail.com
-  author_url: http://www.genaradenis.com
-  date: '2017-07-30 06:56:00 -0700'
-  date_gmt: '2017-07-30 13:56:00 -0700'
-  content: |-
-    This is an interesting topic! I certainly agree that we, as women can handle both a successful career and a healthy relationship. These 4 codes of conduct are very helpful, especially for starting entrepreneurs like myself. Thank you for sharing!
-    Xo,
-    Marienne
-    http://www.genaradenis.com
-    GENARA DENIS JEWELRY &bull; Fun-Classy Handmade Jewelry for a Fashion Statement and/or Spiritual Purpose. #ShopGenaraDenis
-- id: 4390
-  author: THURSDAY LINK ROUND-UP VOL. VI &#8902; lyndsey dee
-  author_email: ''
-  author_url: http://lyndseydee.com/thursday-link-round-vol-vi/
-  date: '2017-08-03 12:39:02 -0700'
-  date_gmt: '2017-08-03 19:39:02 -0700'
-  content: "[&#8230;] Why loving well and succeeding greatly is not an either/or
-    [&#8230;]"
-- id: 4396
-  author: Isabell Springer
-  author_email: isabell@berelationshipready.com
-  author_url: ''
-  date: '2017-08-24 14:31:00 -0700'
-  date_gmt: '2017-08-24 21:31:00 -0700'
-  content: |-
-    Love your article. Happy to share it.  Keep up the inspirational message.
-    XO
-    BeRelationshipReady.com
-- id: 4398
-  author: Jackie
-  author_email: jackieviramontez@gmail.com
-  author_url: ''
-  date: '2017-09-07 14:46:00 -0700'
-  date_gmt: '2017-09-07 21:46:00 -0700'
-  content: thanks marienne
 ---
 <h3>&ldquo;I don&rsquo;t have time for a relationship.&rdquo;</h3><br />
 Flashback six years, and I remember how 80-hour work weeks aren&rsquo;t conducive to relationships.&nbsp;<span style="font-weight: 400;">Clients tell me, &ldquo;I&rsquo;m still single because I&rsquo;m focusing on my career.&rdquo; This saying reflects a myth that exists when it comes to entrepreneurial women. The myth goes like this: We have to choose.</span></p>

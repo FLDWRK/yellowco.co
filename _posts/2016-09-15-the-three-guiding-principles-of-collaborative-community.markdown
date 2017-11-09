@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE THREE GUIDING PRINCIPLES OF COLLABORATIVE COMMUNITY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6907
+title: The Three Guiding Principles of Collaborative Community
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6907
 date: '2016-09-15 04:00:16 -0700'
-date_gmt: '2016-09-15 11:00:16 -0700'
 categories:
 - The Leader
 - Free Downloads
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <p>For most of my work life I have had to collaborate, communicate, and create with people who aren't living in my head with me.</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/09/THREE-Guiding2.jpg"><img class="aligncenter size-full wp-image-6913" src="http://yellowconference.com/wp-content/uploads/2016/09/THREE-Guiding2.jpg" alt="three-guiding" width="700" height="1050" /></a></p>

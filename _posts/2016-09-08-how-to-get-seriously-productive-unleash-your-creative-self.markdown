@@ -1,48 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO GET SERIOUSLY PRODUCTIVE, FIND YOUR PRODUCTIVITY STYLE & UNLEASH YOUR
-  CREATIVE SELF + A FREE WORKSHEET
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6867
+title: How to Get Seriously Productive, Find Your Productivity Style & Unleash Your
+  Creative Self + a Free Worksheet
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6867
 date: '2016-09-08 04:00:50 -0700'
-date_gmt: '2016-09-08 11:00:50 -0700'
 categories:
 - Advice
-- VALOR
-tags: []
-comments:
-- id: 4234
-  author: Blog Love
-  author_email: ''
-  author_url: http://xosarah.com/2016/09/11/blog-love-188/
-  date: '2016-09-11 11:32:49 -0700'
-  date_gmt: '2016-09-11 18:32:49 -0700'
-  content: "[&#8230;] Get seriously productive + find your productivity style >>>
-    [&#8230;]"
-- id: 4235
-  author: Monday Links to Love - buttons and blossoms
-  author_email: ''
-  author_url: http://www.buttonsandblossoms.com/2016/09/19/monday-links-love-29/
-  date: '2016-09-19 07:47:32 -0700'
-  date_gmt: '2016-09-19 14:47:32 -0700'
-  content: "[&#8230;] Need this right now: how to unleash your productivity [&#8230;]"
-- id: 4236
-  author: Extra reading - creativity + content - Creative ideas + content inspiration
-  author_email: ''
-  author_url: http://dairepaddy.com/2016/11/04/extra-reading-creativity-content-8/
-  date: '2016-11-04 08:58:19 -0700'
-  date_gmt: '2016-11-04 15:58:19 -0700'
-  content: "[&#8230;] How to get seriously productive and unleash your creative self
-    >> HERE [&#8230;]"
+- Valor
 ---
 <p>Today&rsquo;s world is fast. It&rsquo;s competitive. It&rsquo;s constantly changing. Yet, we keep hearing and reading that our creativity and innovation will be essential to our growth, leadership, and performance.</p>
 <p>And I love to hear that creativity has that power. I feel inspired, enlightened, encouraged.</p>

@@ -1,9 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE TWENTY-TWO STEPS I TOOK TO CREATE MY SUCCESSFUL BUSINESS
-author:
+title: The Twenty-Two Steps I Took to Create My Successful Business
+author: heygirl@yellowconference.com
   display_name: admin
   login: yellowco
   email: heygirl@yellowconference.com

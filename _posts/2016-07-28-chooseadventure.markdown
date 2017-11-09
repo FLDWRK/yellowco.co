@@ -1,53 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY I DECIDED TO QUIT THE STATUS QUO AND LIVE AN ADVENTURE INSTEAD
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6239
+title: Why I Decided to Quit the Status Quo and Live an Adventure Instead
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6239
 date: '2016-07-28 04:00:31 -0700'
-date_gmt: '2016-07-28 11:00:31 -0700'
 categories:
 - Creative Ladies
 - Inspiration
-- VALOR
-tags: []
-comments:
-- id: 4202
-  author: Tiffany
-  author_email: tiffany.adams@gmail.com
-  author_url: http://www.popandbanter.com
-  date: '2016-07-28 06:42:00 -0700'
-  date_gmt: '2016-07-28 13:42:00 -0700'
-  content: I love this! I can definitely relate and while I'm not planning to sell
-    everything and move overseas, I hope to make some radical changes. I can so relate
-    to having what looks like the perfect life, but feels empty of meaning.
-- id: 4203
-  author: Laura
-  author_email: laurawiessner@gmail.com
-  author_url: http://www.mominmanolos.com
-  date: '2016-07-28 09:18:00 -0700'
-  date_gmt: '2016-07-28 16:18:00 -0700'
-  content: I love the line "...because I don&rsquo;t want to live the same year 75
-    times and call it a life." That is my 'aha!' moment for this week, thank you.
-    I'm currently in the middle of uprooting my safe life and getting off the hamster
-    wheel. Thanks for the inspiration!
-- id: 4204
-  author: Stacy
-  author_email: stacynjeffries@gmail.com
-  author_url: ''
-  date: '2016-07-28 11:44:00 -0700'
-  date_gmt: '2016-07-28 18:44:00 -0700'
-  content: This post really resonated with me and my current journey. Thank you Emma
-    for sharing your heart with us and encouraging us to make the most of our one
-    life!
+- Valor
 ---
 <h2 class="p1"><span class="s2"><a href="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-28.jpg"><img class="aligncenter size-full wp-image-6244" src="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-28.jpg" alt="Quit the Status Quo and Find ADVENTURE!" width="700" height="467" /></a><em>I used to have a morning commute, drink too much expensive coffee and sit in a desk from 9-5 just like the rest of Chicago does.&nbsp;</em></span></h2></p>
 <p class="p1"><span class="s2">I worked in fashion, lived in Lincoln Park, shopped on Michigan Avenue,&nbsp;partied on yachts, flew in private jets, ate at extravagant restaurants, attended black tie affairs (you get the idea)&nbsp;and&nbsp;overall tried to ignore the fact that I was becoming a boring, mundane, basic, and superficial.</span></p></p>

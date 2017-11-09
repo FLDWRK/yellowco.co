@@ -1,45 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO MOVE FROM IDEA TO EXECUTION & START CHANGING  THE WORLD
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7236
+title: How to Move from Idea to Execution & Start Changing the World
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7236
 date: '2016-11-10 17:00:42 -0800'
-date_gmt: '2016-11-11 01:00:42 -0800'
 categories:
 - "#bloomyellow"
-tags: []
-comments:
-- id: 4261
-  author: DeeAnn Sims
-  author_email: connect@spbxsocial.com
-  author_url: http://www.spbxsocial.com/
-  date: '2016-11-14 23:01:00 -0800'
-  date_gmt: '2016-11-15 07:01:00 -0800'
-  content: 'Love this! Absolutely agree and have definitely been there myself! '
-- id: 4262
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-11-15 12:44:00 -0800'
-  date_gmt: '2016-11-15 20:44:00 -0800'
-  content: So glad you can relate DeeAnn!!
-- id: 4263
-  author: Thursday Thoughts + Links List 11.17.16 &#8211; The Rose Era
-  author_email: ''
-  author_url: https://theroseera.wordpress.com/2016/11/17/thursday-thoughts-links-list-11-17-16/
-  date: '2016-11-17 13:57:48 -0800'
-  date_gmt: '2016-11-17 21:57:48 -0800'
-  content: "[&#8230;] love Yellow Conference&#8217;s mission, and they run&nbsp;a
-    great blog too. Here is a guide on how to execute your world-changing [&#8230;]"
 ---
 <p>I know you have an idea.</p>
 <p>You're a creative entrepreneur at heart. You have a thing within you that whispers to you on the daily. When you acknowledge it- butterflies twirl around in your stomach. It feels exciting but completely terrifying at the same time.</p>

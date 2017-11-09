@@ -1,42 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE STEPS TO MAKING ONE BOLD LIFE CHANGE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 6743
+title: Three Steps to Making One Bold Life Change
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=6743
 date: '2016-09-06 04:00:17 -0700'
-date_gmt: '2016-09-06 11:00:17 -0700'
 categories:
 - The Starter
 - Encouragement
-- VALOR
-tags: []
-comments:
-- id: 4223
-  author: Ahyana
-  author_email: ahyana.king@gmail.com
-  author_url: ''
-  date: '2016-09-06 09:19:00 -0700'
-  date_gmt: '2016-09-06 16:19:00 -0700'
-  content: 'It''s funny how we have to get acquainted with giving ourselves permission...permission
-    to trust our heart calling us, pushing us, knowing us and therefore what we are
-    capable of if we will let ourselves leap...and then rest, taking it all in, being
-    present where we are at. Such a good read Avery! '
-- id: 4224
-  author: Wattlebird - Cool Internet Stuff, September 2016 Edition - Wattlebird
-  author_email: ''
-  author_url: http://www.wattlebirdblog.com/2016/10/03/cool-internet-stuff-september-2016-edition/
-  date: '2016-10-03 09:52:43 -0700'
-  date_gmt: '2016-10-03 16:52:43 -0700'
-  content: "[&#8230;] steps you need to take before making a big life change [&#8230;]"
+- Valor
 ---
 <p><span style="text-decoration: underline;"><a href="http://yellowconference.com/wp-content/uploads/2016/08/ValerieDenisePhotos-41.jpg"><img class="aligncenter size-full wp-image-6745" src="http://yellowconference.com/wp-content/uploads/2016/08/ValerieDenisePhotos-41.jpg" alt="ValerieDenisePhotos-41" width="700" height="1050" /></a></span><span style="font-weight: 400;">I spent much of 2015 in a state of unrest. After over two years of freelancing and struggling to grow my own business, I began to question not only my career moves, but if San Diego, where I was residing at the time, was the place for me. </span></p>
 <h2><em>I had spent seven years in this beautiful beach town. I had grown a solid community. I had been dating a wonderful man for five years...</em></h2><br />

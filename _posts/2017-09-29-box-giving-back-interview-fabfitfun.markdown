@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'THE BOX THAT KEEPS GIVING BACK: AN INTERVIEW WITH THE CO-FOUNDER OF FABFITFUN'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9670
+title: 'The Box that Keeps Giving Back: an Interview with the Co-Founder of FabFitFun'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9670
 date: '2017-09-29 04:00:45 -0700'
-date_gmt: '2017-09-29 11:00:45 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p dir="ltr">From ethically made clothing to eco-friendly items, we are always excited by brands that get creative with the good they do. Today we are here with Katie Rosen Kitchens, co-founder and editor-in-chief of <a href="https://fabfitfun.com/" target="_blank" rel="noopener noreferrer">FabFitFun</a>,&nbsp;to hear all about their give-back model, when she knew they were onto something, and the box that started&nbsp;it all.</p></p>
 <h4 dir="ltr">Tell us about FabFitFun. What is it and what do you do?</h4></p>

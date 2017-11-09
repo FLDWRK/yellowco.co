@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW ONE DREAM SENT ME ON THE JOURNEY OF A LIFETIME
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7003
+title: How One Dream Sent Me On the Journey of a Lifetime
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=7003
 date: '2016-09-29 04:00:07 -0700'
-date_gmt: '2016-09-29 11:00:07 -0700'
 categories:
 - Inspiration
 - "#bloomyellow"
-- VALOR
-tags: []
-comments: []
+- Valor
 ---
 <p>I slip brie crostinis into the oven, turn around and pour myself a glass of wine. One of my guests&rsquo; voices comes slightly mumbled from the hallway, &ldquo;Guys, everyone! Come down here, you&rsquo;ve got to see this.&rdquo; Something in my gut feels instantly nauseous. I slowly close the oven door and turn around. I hear the footsteps of everyone shuffling on the carpet toward the caller. As I turn the corner of the hallway from where the voice came, I see it. A door to a hall closet is open and everyone is staring into it in shock, their faces illuminated by its dim light.</p>
 <p>I feel momentarily as if I&rsquo;m hallucinating, where did that closet come from? What is everyone looking at? How have I never noticed that door? I make my way through the crowd and their faces are shy and sympathetic as they meet mine. As I look into the closet the slight nausea I felt in the kitchen richens into the sinking of my entire abdomen. I feel like I may need to sit down. In the closet lies every embarrassing, broken memento of my life.</p>

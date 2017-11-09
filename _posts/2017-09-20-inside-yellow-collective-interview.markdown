@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'INSIDE OUR MEMBERSHIP: AN INTERVIEW WITH OUR NYC CO-LEADER'
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9537
+title: 'Inside Our Membership: an Interview with Our NYC Co-Leader'
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9537
 date: '2017-09-20 04:00:01 -0700'
-date_gmt: '2017-09-20 11:00:01 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p>Heard about our membership, the <a href="https://yellowcollective.co/" target="_blank" rel="noopener noreferrer">Yellow Collective</a> but are still wondering what it actually looks like to be a member? Today our vivacious and incredible New York Chapter Co-leader,&nbsp;<span class="gD" data-hovercard-id="jmingucci@kidville.com"><a href="https://www.instagram.com/jenwithlime/" target="_blank" rel="noopener noreferrer">Jennifer Mingucci</a>, is here to share her experience of the <a href="https://yellowcollective.co/" target="_blank" rel="noopener noreferrer">Collective</a>.</span></p>
 <h4>What drew you to the <a href="https://yellowcollective.co/" target="_blank" rel="noopener noreferrer">Yellow Collective</a> in the first place?</h4><br />

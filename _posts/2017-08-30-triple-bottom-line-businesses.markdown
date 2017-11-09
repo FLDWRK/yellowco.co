@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT IS A TRIPLE BOTTOM LINE BUSINESS?
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9294
+title: What is a Triple Bottom Line Business?
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9294
 date: '2017-08-30 04:00:38 -0700'
-date_gmt: '2017-08-30 11:00:38 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><span style="font-weight: 400;">The reason why many of us purpose-driven women choose careers in social justice, non-profit, or international development is because we want to make a truly tangible difference in the world! We want to use our skills and strengths to create positive change for society. We value social consciousness and environmental sustainability, and overall we value </span><i><span style="font-weight: 400;">people over profit</span></i><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">Though&nbsp;our hearts are in the right place, every so often we forget how important it is to take care of ourselves and create viable companies. Sometimes we create, or are a part of, businesses that put all resources into the social mission, or give back all proceeds before having enough for operations. This can easily cause us to become burned out or even give up!</span></p>

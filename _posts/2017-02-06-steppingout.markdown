@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT MY PASSION FOR HUMAN RIGHTS TAUGHT ME ABOUT CREATIVITY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 7812
+title: What My Passion for Human Rights Taught Me About Creativity
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowco.co/?p=7812
 date: '2017-02-06 04:00:28 -0800'
-date_gmt: '2017-02-06 12:00:28 -0800'
 categories:
 - Creative Ladies
 - Encouragement
-- PIONEER
-tags: []
-comments: []
+- Pioneer
 ---
 <p><span style="font-weight: 400;">Beginnings are beautiful, life-changing, terrifying, and enticing all at the same time. We shine at the idea of the beginning new relationships, starting a dream job, moving to an unfamiliar town, etc. because they lure us to endless possibility and transformational&nbsp;change. But this also brings about feelings of fear and doubt. </span></p>
 <h3><strong>The rambling thoughts &mdash; <i>"what's next?&rdquo;&nbsp;</i>and<i> &ldquo;change is scary,"</i>&nbsp;or even,<i>&nbsp;"I don't have what it takes to make it"</i>&mdash; saturate our minds.</strong></h3><br />

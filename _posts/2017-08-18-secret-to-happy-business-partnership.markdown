@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: THESE 4 LITTLE WORDS ARE THE KEY TO A HAPPY BUSINESS PARTNERSHIP
-author:
-  display_name: admin
-  login: hannasnyder
-  email: hanna@yellowco.co
-  url: ''
-author_login: hannasnyder
-author_email: hanna@yellowco.co
-wordpress_id: 9310
+title: These 4 Little Words are the Key to a Happy Business Partnership
+author: hanna@yellowco.co
 wordpress_url: http://yellowco.co/?p=9310
 date: '2017-08-18 04:00:07 -0700'
-date_gmt: '2017-08-18 11:00:07 -0700'
 categories:
 - Tension
-tags: []
-comments: []
 ---
 <p><span style="font-weight: 400;">When I set out to </span><a href="https://wilkinsonmazzeo.com/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">start a business partnership</span></a><span style="font-weight: 400;">, I had no idea what I was doing. I vaguely realized that I was signing up to spend the rest of my life with someone, if things went well, and that entering into a platonic marriage was kind of a big deal. (Said the lawyer, of all people.) So I did what any sitcom character would do, and I asked my friends for some guidance over brunch.</span></p>
 <p><span style="font-weight: 400;">I didn&rsquo;t ask just any friends though, I asked several friends who also happened to be business partners </span><i><span style="font-weight: 400;">and</span></i><span style="font-weight: 400;"> their company was one of my favorite brands. These guys appeared&nbsp;to have it all - a thriving business, an amazing quality of life, and they seemed to really enjoy being around each other. I asked them what their secret was and, without hesitation, they answered: the 4 A&rsquo;s. </span><span style="font-weight: 400;">(This is the part where I leaned in eagerly.)</span></p>
