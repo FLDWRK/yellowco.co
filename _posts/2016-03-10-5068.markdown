@@ -1,56 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE MOST IMPORTANT STEP IN BUILDING YOUR BUSINESS IS...
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5068
+title: The Most Important Step in Building Your Business is...
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5068
 date: '2016-03-10 04:00:07 -0800'
-date_gmt: '2016-03-10 12:00:07 -0800'
 categories:
 - Resources
 - Advice
 - Inspiration
-- BUILD
-tags: []
-comments:
-- id: 4079
-  author: Imani Chet Lytle
-  author_email: imanichet@gmail.com
-  author_url: ''
-  date: '2016-03-10 08:51:00 -0800'
-  date_gmt: '2016-03-10 16:51:00 -0800'
-  content: Great read and great motivation!
-- id: 4080
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-03-11 23:31:00 -0800'
-  date_gmt: '2016-03-12 07:31:00 -0800'
-  content: Glad you liked it, Imani!
-- id: 4081
-  author: 'The Week + Links: 3.26.16 | Nubby Twiglet'
-  author_email: ''
-  author_url: http://nubbytwiglet.com/2016/03/26/the-week-links-3-26-16/
-  date: '2016-03-26 11:59:02 -0700'
-  date_gmt: '2016-03-26 18:59:02 -0700'
-  content: "[&#8230;] &bull;&nbsp;This is such a great read about the most important
-    part of building your business. [&#8230;]"
-- id: 4082
-  author: Fayann D'souza
-  author_email: fayanndsouza@gmail.com
-  author_url: http://thousandbytendays.com
-  date: '2016-04-05 19:53:00 -0700'
-  date_gmt: '2016-04-06 02:53:00 -0700'
-  content: Great post loved this, especially the bit where it's about being the same
-    as you are on social media :) x
+- Build
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/03/DSC_1749.jpg"><img class="aligncenter size-full wp-image-5069" src="http://yellowconference.com/wp-content/uploads/2016/03/DSC_1749.jpg" alt="DSC_1749" width="700" height="467" /></a>Do you love stories? I do. They are the heart and soul of good conversation. So let&rsquo;s start with a story!</h2><br />
 My dad was a contractor. He built custom homes in the booming Bay Area of California. I grew up on job sites, watching him and his crew start from an empty plot of land, slowly building the most elaborate, intricate and beautiful homes I&rsquo;ve ever seen. When they began the project, it was all big equipment, bulldozers and dump trucks and backhoes, clearing and leveling the land, making it suitable for a structure to be built upon it. Then the cement trucks and lumber trailers would enter, preparing to lay what I considered the lamest part, THE FOUNDATION.</p>

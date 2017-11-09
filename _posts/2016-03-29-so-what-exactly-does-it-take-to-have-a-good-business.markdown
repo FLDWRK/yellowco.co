@@ -1,57 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: SO, WHAT EXACTLY MAKES A BUSINESS "SOCIALLY CONSCIOUS"?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5162
+title: So, What Exactly Makes a Business "Socially Conscious"?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5162
 date: '2016-03-29 12:34:56 -0700'
-date_gmt: '2016-03-29 19:34:56 -0700'
 categories:
 - Advice
 - The Activist
 - The Leader
-- BUILD
-tags: []
-comments:
-- id: 4095
-  author: Karen&eacute;
-  author_email: studiolouvain.photo@gmail.com
-  author_url: ''
-  date: '2016-03-29 22:33:00 -0700'
-  date_gmt: '2016-03-30 05:33:00 -0700'
-  content: Some really important points to remember! In South Africa social entrepreneurship
-    is blossoming and can really make a big impact on our society, if done right!
-    As customers we do need to become more aware of which of these are authentic and
-    which are not, but I think the entrepreneurs need to learn more about how to showcase
-    and clarify what they are doing, too. Thank you for pointing this out. I will
-    forward the link.
-- id: 4096
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-03-30 13:01:00 -0700'
-  date_gmt: '2016-03-30 20:01:00 -0700'
-  content: So true, it's important for entrepreneurs to know how to show their legitimacy!
-    Great point. Thanks for reading girl :)
-- id: 4097
-  author: Melanie The Nomadic Wife
-  author_email: bymphoto@gmail.com
-  author_url: http://www.thenomadicwife.com
-  date: '2016-04-06 09:06:00 -0700'
-  date_gmt: '2016-04-06 16:06:00 -0700'
-  content: I'm so happy you're discussing this. It's such an important movement and
-    it needs all the voice it can get! Over at TNW I give back 5% of my meal plan
-    sales to a charity (right now it's pencils of promise..) as a way to leverage
-    my community to do something bigger for people who truly need it. It's a wonderful
-    &amp; humbling feeling to be able to help like this.
+- Build
 ---
 <h2><em><a href="http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-15.jpg"><img class="aligncenter size-large wp-image-5169" src="http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-15-683x1024.jpg" alt="Yellow_2015_Dinner-15" width="683" height="1024" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/03/MG_8397-66.jpg"><br />
 </a>&ldquo;I wish it were easier to find social businesses&mdash;truly good businesses&mdash;that make a difference, rather than make rich shareholders richer.&rdquo; </em></h2><br />

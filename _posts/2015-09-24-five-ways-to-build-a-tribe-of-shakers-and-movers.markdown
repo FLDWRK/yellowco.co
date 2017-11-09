@@ -1,11 +1,11 @@
 ---
-title: FIVE WAYS TO BUILD A TRIBE OF SHAKERS AND MOVERS
+title: Five Ways to Build a Tribe of Shakers and Movers
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3984
 date: '2015-09-24 04:00:36 -0700'
 categories:
 - Creative Ladies
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - The Activist
 - Encouragement
 ---

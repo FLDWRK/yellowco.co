@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: GIRL, IT'S TIME TO GET YOUR HANDS GRITTY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5463
+title: Girl, it's Time to Get Your Hands Gritty
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5463
 date: '2016-05-12 04:00:43 -0700'
-date_gmt: '2016-05-12 11:00:43 -0700'
 categories:
 - Creative Ladies
 - Inspiration
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h2 class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/05/6448302_orig.jpg"><img class="aligncenter size-full wp-image-5467" src="http://yellowconference.com/wp-content/uploads/2016/05/6448302_orig.jpg" alt="6448302_orig" width="700" height="466" /></a>The beginning of any story, of any journey is uncertain, chaotic, ambiguous and sometimes downright filled with angst. </span></h2></p>
 <p class="p1">We don&rsquo;t get to see the full picture in the beginning&mdash;only glimpses, only introductions to the characters that will have big and small influence. I don&rsquo;t about you but, to be honest, I really don&rsquo;t like beginnings, they stress me out because I just want to know what happens --- I just want to know if the heroine finds out the truth of her identity, if the underdog becomes victorious, if the unlikely choice wins the one whom they love over.</p></p>

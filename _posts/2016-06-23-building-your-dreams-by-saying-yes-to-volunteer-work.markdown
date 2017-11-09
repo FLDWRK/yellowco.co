@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW SAYING YES TO VOLUNTEER WORK CAN HELP YOU FIND MORE PURPOSE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5880
+title: How Saying Yes to Volunteer Work Can Help You Find More Purpose
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5880
 date: '2016-06-23 04:00:51 -0700'
-date_gmt: '2016-06-23 11:00:51 -0700'
 categories:
 - Advice
 - The Starter
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <p class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-34.jpg"><img class="aligncenter size-full wp-image-5885" src="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-34.jpg" alt="Using Volunteer Work to Build Your Dreams//the yellow co. blog" width="700" height="467" /></a>When I fill out paperwork at the doctor's office I never quite know what to write when it asks for <em>"occupation."</em> Mom? Homeschooling mom? Writer? Content manager? I never want to explain my answer in response to a blank stare so I typically just write in <i>&ldquo;homeschooling mom.&rdquo;</i> (Although that raises enough eyebrows- not sure why I thought it was the simplest answer).</span></p></p>
 <p class="p1"><span class="s1">If you get a paycheck for a job it's simple enough to tell people what you do. You have a title or a job description or you can map out your typical day and you find people nodding their heads in understanding. Your life is similar to theirs. When you move into less conventional paths you have to be more resourceful with your explanations and be prepared to explain further. There are still people who have no idea what a podcast is. Usually a vague <em>"I do a little side work"</em> suffices unless there's genuine interest.&nbsp;</span></p></p>

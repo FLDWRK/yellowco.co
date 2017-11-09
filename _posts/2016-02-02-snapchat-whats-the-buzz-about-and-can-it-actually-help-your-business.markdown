@@ -6,7 +6,7 @@ date: '2016-02-02 04:00:53 -0800'
 categories:
 - The Solopreneur
 - The Leader
-- BUILD
+- Build
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/02/2Q.jpg"><img class="aligncenter size-full wp-image-4961" src="http://yellowconference.com/wp-content/uploads/2016/02/2Q.jpg" alt="2Q==" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/01/Emma_Fineman_-52.jpg"><br />
 </a>Snapchat&rsquo;s been getting lots of buzz lately, and it isn&rsquo;t just for teens anymore.</h2><br />

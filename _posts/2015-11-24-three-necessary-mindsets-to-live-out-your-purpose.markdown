@@ -1,12 +1,12 @@
 ---
-title: Want to Live a Purposeful Life? Here are Three Mindsets you Can't Do Without
+title: Want to Live a Purposeful Life? Here Are Three Mindsets You Can't Do Without
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4294
 date: '2015-11-24 04:00:09 -0800'
 categories:
 - Creative Ladies
 - Advice
-- REFINE
+- Refine
 - The Starter
 - Encouragement
 ---

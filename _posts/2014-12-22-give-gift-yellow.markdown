@@ -1,5 +1,5 @@
 ---
-title: Give The Gift Of Yellow!
+title: Give the Gift of Yellow!
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1565
 date: '2014-12-22 07:28:55 -0800'

@@ -1,5 +1,5 @@
 ---
-title: 'Rediscovering Authenticity: The Art of Being Lonely'
+title: 'Rediscovering Authenticity: the Art of Being Lonely'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1884
 date: '2015-03-12 04:00:24 -0700'
@@ -7,7 +7,7 @@ categories:
 - Advice
 - Inspiration
 - Encouragement
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p style="text-align: left;"><img class="aligncenter wp-image-1885 size-full" src="http://yellowconference.com/wp-content/uploads/2015/01/karenpost.jpg" alt="The Yellow Conference Blog: The Art of Being Lonely" width="700" height="1069" /></p></p>
 <p style="text-align: left;">In this season, I spend a fair amount of time alone, which is kind&nbsp;of hard for me because I like people. But I find it difficult to put&nbsp;myself out there when I feel intimidated, not &ldquo;successful&rdquo;&nbsp;enough, or &ldquo;artsy&rdquo; enough to be approached. What I&rsquo;m realizing in&nbsp;this time alone, though, is that <strong>loneliness allows for true&nbsp;self-inspection.</strong> And what is more, it is necessary to grow, and to&nbsp;live a fulfilled life.&nbsp;Being truly alone gives the opportunity to look at yourself and&nbsp;evaluate who you are and where you are. It is a challenge&mdash;we&nbsp;don't want to be faced with our true selves. Without time to truly&nbsp;evaluate the self, we are robbed of the ability to will ourselves to&nbsp;change, make hard/difficult decisions, and admit that we&rsquo;ve got a&nbsp;long way to go&mdash;which involves the hard task pruning--cutting&nbsp;off things that hinder growth. <strong>When a person isn't willing to go&nbsp;through the pain of pruning, they can&rsquo;t thrive.&nbsp;</strong></p></p>

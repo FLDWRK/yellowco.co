@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: IS IT TIME TO CHANGE YOUR JOB OR YOUR ATTITUDE?
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5495
+title: Is it Time to Change Your Job or Your Attitude?
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5495
 date: '2016-05-19 04:00:54 -0700'
-date_gmt: '2016-05-19 11:00:54 -0700'
 categories:
 - Creative Ladies
 - Advice
 - The Starter
 - The Leader
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h4 class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/05/2013-11-11_0029.jpg"><img class="aligncenter size-full wp-image-5501" src="http://yellowconference.com/wp-content/uploads/2016/05/2013-11-11_0029.jpg" alt="2013-11-11_0029" width="700" height="467" /></a>The excitement of a new job is unparalleled. Then one day you get to work, and the office coffee isn&rsquo;t quite as hot. Your boss doesn&rsquo;t seem so considerate, and you realize the funny guy in the department actually and truly laughs like a hyena. Each morning, you wake up less eager to pick out the perfect outfit for your brand-spanking-new career because it starts to feel more and more like&hellip; well, a job. What do you do? Do you change positions? Or do you change your attitude?</span></h4></p>
 <p class="p1"><span class="s1">I faced this dilemma with my first job out of college, which I not so affectionately referred to as #MadMenLife, on Twitter and in person, to anyone who would listen. <em>&ldquo;Think of Mad Men, but without any of the cool, sexy parts,&rdquo;</em> is how I would describe it. To be fair, that&rsquo;s a pretty realistic description of what it was. Within about a month, my excitement from my first &ldquo;big girl job&rdquo; dwindled to mild enthusiasm. Is this the right fit for me? I asked myself that question over and over, knowing full well the answer.</span></p></p>

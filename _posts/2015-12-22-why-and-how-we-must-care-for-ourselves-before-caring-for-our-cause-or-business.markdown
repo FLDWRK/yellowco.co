@@ -1,5 +1,5 @@
 ---
-title: The Super Secret No One Told You About Time Management (And hot to Take a Giant Step in the Right Direction)
+title: The Super Secret No One Told You About Time Management (and How to Take a Giant Step in the Right Direction)
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4501
 date: '2015-12-22 04:00:01 -0800'
@@ -7,9 +7,9 @@ categories:
 - Resources
 - Creative Ladies
 - Advice
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - Inspiration
-- REFINE
+- Refine
 - The Activist
 - The Starter
 - Encouragement

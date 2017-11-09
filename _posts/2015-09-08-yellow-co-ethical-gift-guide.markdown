@@ -6,7 +6,7 @@ date: '2015-09-08 04:00:29 -0700'
 categories:
 - Light Talk
 - Resources
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - The Activist
 ---
 <p>Have you scoured Pinterest for hours trying to find the perfect Christmas, baby shower, wedding, birthday...you name it...gift? I don't know about you, but sometimes the pressure of finding the perfect gift can completely wear me down, and, on top of that, where is my money <em>really&nbsp;</em>going...Here at Yellow, we are trying our hardest (read: trying...not perfect) to put our money where our mouth is and invest only in items that we know were made with ethical statures in mind.</p>

@@ -5,7 +5,7 @@ wordpress_url: http://yellowconference.com/?p=2954
 date: '2015-05-21 04:00:20 -0700'
 categories:
 - Light Talk
-- TRIBE
+- Tribe
 ---
 <blockquote><em>Soiree: noun; an evening party or gathering...for conversation or music</em></blockquote><br />
 It&rsquo;s finally the weekend, and you&rsquo;ve invited some of your favorite people over for an evening together. Delicious aromas are wafting from your kitchen and stomachs are grumbling. Maybe you have a bottle of red wine breathing or the makings of cocktails ready at the bar or icy glasses of lemonade at every spot. The appetizers are out and dessert&rsquo;s ready and waiting for it&rsquo;s time in the spotlight&hellip;all you need now is a soundtrack to tie it all together. Look no further&mdash;here is the perfect playlist for your dinner together!</p>

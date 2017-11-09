@@ -9,7 +9,7 @@ categories:
 - Advice
 - The Starter
 - The Solopreneur
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/kellll.jpg"><img class="aligncenter size-full wp-image-3073" src="http://yellowconference.com/wp-content/uploads/2015/06/kellll.jpg" alt="kellll" width="700" height="467" /></a></p>
 <p><strong>Connecting with your tribe and staying true to yourself are the keys to making social media a positive experience.</strong></p>

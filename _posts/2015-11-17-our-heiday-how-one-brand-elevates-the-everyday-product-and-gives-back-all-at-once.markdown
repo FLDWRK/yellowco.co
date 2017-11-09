@@ -8,7 +8,7 @@ categories:
 - Advice
 - CREATIVE ADVOCACY
 - Inspiration
-- REFINE
+- Refine
 - The Activist
 - The Starter
 - The Leader

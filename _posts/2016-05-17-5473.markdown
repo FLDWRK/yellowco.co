@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'USING GRIT FOR GOOD: OUR INTERVIEW WITH BRANDIE FROM THOUGHTFULLY MAGAZINE'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5473
+title: 'Using Grit for Good: Our Interview with Brandie from Thoughtfully Magazine'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5473
 date: '2016-05-17 04:00:51 -0700'
-date_gmt: '2016-05-17 11:00:51 -0700'
 categories:
 - Creative Ladies
 - Advice
 - The Solopreneur
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <div><em>I'm not one for magazines full of perfume&nbsp;samples,&nbsp;airbrushed advertisements and empty articles. I crave a magazine with words as well-crafted as the design, one that&nbsp;encourages and informs me to&nbsp;live my best life with less&nbsp;toxic beauty products, processed foods or fast fashion ( I say "less" because this transition can be quite the process).&nbsp;Then one day I came across&nbsp;<a href="https://thoughtfullymag.com/" target="_blank">Thoughtfully Magazine</a>, an independent publication that inspires&nbsp;readers&nbsp;to live&nbsp;passionately, beautifully, and thoughtfully every day.&nbsp;Right away I wanted to know more about who was behind my new coffee table read (that also fits perfectly into my bag). I got to chat with founder and creative director,&nbsp;Brandie&nbsp;Gilliam,&nbsp;and get her take on this quarter's theme: GRIT. Read on to find out more about this Solopreneur's journey.</em></div></p>
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/05/Thoughtfully_Brandie_Mag_soft.jpg"><img class="aligncenter size-full wp-image-5478" src="http://yellowconference.com/wp-content/uploads/2016/05/Thoughtfully_Brandie_Mag_soft.jpg" alt="Thoughtfully_Brandie_Mag_soft" width="700" height="1036" /></a>Where are you from and where do you live now?</h2><br />

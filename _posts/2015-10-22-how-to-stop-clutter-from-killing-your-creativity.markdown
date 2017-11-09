@@ -1,5 +1,5 @@
 ---
-title: How to Keep your Clutter at Bay so your Creativity is on Point
+title: How to Keep Your Clutter at Bay so Your Creativity is on Point
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4167
 date: '2015-10-22 04:00:54 -0700'

@@ -7,7 +7,7 @@ categories:
 - Advice
 - Inspiration
 - Encouragement
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/03/authenticitywhenlifeismessy.jpg"><img class=" size-full wp-image-2031 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/03/authenticitywhenlifeismessy.jpg" alt="Rediscovering Authenticity " width="700" height="467" /></a></p>
 <p>Suffering. Trouble. Pain. These are emotions that we never <i>really </i>want to talk about.</p>

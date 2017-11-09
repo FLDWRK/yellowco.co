@@ -1,11 +1,11 @@
 ---
-title: 'Rediscovering Authenticity: 5 Down To Earth Instagram Accounts To Follow'
+title: 'Rediscovering Authenticity: 5 Down to Earth Instagram Accounts to Follow'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1786
 date: '2015-01-22 04:00:42 -0800'
 categories:
 - Inspiration
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p>I'm sure you have a few people in your feed who's Insta-life just makes you want to curl up in a ball and cry in self pitty. Anyone else? With the life-curation that comes with social media,&nbsp;there are some people out there who just make you forget that they're human. You take one look at&nbsp;that mom with the great bod, 2 perfectly styled children who have just completed a happy day of baking and you think, "Wow, it's 3pm, I'm in yoga pants, I've had 3 cups of coffee (WITH heavy cream and sugar) my inbox is out of control, and I haven't washed my hair in 3 days. Where did I go wrong??!"</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/Blog_Image1.jpg"><img class="alignleft size-full wp-image-1826" src="http://yellowconference.com/wp-content/uploads/2015/01/Blog_Image1.jpg" alt="Blog_Image" width="700" height="700" /></a></p>

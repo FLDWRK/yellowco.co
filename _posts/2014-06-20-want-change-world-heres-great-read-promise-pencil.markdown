@@ -1,5 +1,5 @@
 ---
-title: 'Want to Change the World? Here''s a Great Read: The Promise of a Pencil'
+title: 'Want to Change the World? Here's a Great Read: The Promise of a Pencil'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=631
 date: '2014-06-20 15:45:14 -0700'

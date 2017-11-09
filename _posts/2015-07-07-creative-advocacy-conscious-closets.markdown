@@ -7,7 +7,7 @@ categories:
 - Light Talk
 - Creative Ladies
 - Advice
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - Inspiration
 - The Activist
 ---

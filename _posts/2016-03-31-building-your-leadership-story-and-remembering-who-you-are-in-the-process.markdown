@@ -1,26 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'SOCIAL IDENTITY: HOW WHERE WE COME FROM, WHAT WE LOOK LIKE, OUR AGE AND GENDER
-  IMPACTS HOW WE LEAD'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5178
+title: 'Social Identity: How Where We Come from, What We Look Like, Our Age and Gender
+  Impacts How We Lead'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5178
 date: '2016-03-31 04:00:59 -0700'
 date_gmt: '2016-03-31 11:00:59 -0700'
 categories:
 - Advice
 - The Leader
-- BUILD
-tags: []
-comments: []
+- Build
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/03/picture1.jpg"><img class="aligncenter size-full wp-image-5188" src="http://yellowconference.com/wp-content/uploads/2016/03/picture1.jpg" alt="picture1" width="700" height="525" /></a>The first step in refining yourself is to <em>know</em> yourself. Every leader must be self-aware in order to effectively lead and in order to create honestly from yourself and for others.</p>
 <h2>The story of my leadership and creativity is born from my social identities.</h2><br />

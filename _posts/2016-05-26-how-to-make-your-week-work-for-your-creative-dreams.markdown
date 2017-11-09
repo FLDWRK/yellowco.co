@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO MAKE TIME FOR YOUR CREATIVE DREAMS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5593
+title: How to Make Time for Your Creative Dreams
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5593
 date: '2016-05-26 04:00:20 -0700'
-date_gmt: '2016-05-26 11:00:20 -0700'
 categories:
 - Advice
 - The Solopreneur
 - The Leader
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h2 class="p1"><span class="s1"><em><a href="http://yellowconference.com/wp-content/uploads/2016/05/MG_1488.jpg"><img class="aligncenter size-full wp-image-5597" src="http://yellowconference.com/wp-content/uploads/2016/05/MG_1488.jpg" alt="_MG_1488" width="700" height="1050" /></a>As a creative, I usually have a lot of irons in the fire...and I'm sure you do too.</em> </span></h2></p>
 <p class="p1"><span class="s1">Right now I&rsquo;m in the middle of directing my second feature documentary, developing a new short series, writing a folk musical and preparing to lead a women&rsquo;s lifestyle retreat. One of my greatest strengths as an artist has been my adaptability. Over the years, it has served my craft but at the start of&nbsp;2016 I wanted to take my work to the next level. I wanted to create with more quality and intention, finally giving time to those dream projects sacrificed at the altar of adaptability. </span></p></p>

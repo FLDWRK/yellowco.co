@@ -6,7 +6,7 @@ date: '2015-05-07 15:32:48 -0700'
 categories:
 - Creative Ladies
 - Inspiration
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0042.jpg"><img class="aligncenter size-full wp-image-2832" src="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0042.jpg" alt="The Yellow Blog: Tribe Series" width="700" height="467" /></a>My sisters are my best friends<br />
 <span style="line-height: 1.5;">And they have been since the moment we figured out<br />

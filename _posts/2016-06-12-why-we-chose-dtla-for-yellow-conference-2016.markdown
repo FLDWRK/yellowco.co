@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY WE CHOSE DTLA FOR YELLOW CONFERENCE 2016
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5742
+title: Why We Chose DTLA for Yellow Conference 2016
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5742
 date: '2016-06-12 04:00:45 -0700'
-date_gmt: '2016-06-12 11:00:45 -0700'
 categories:
 - Creative Ladies
 - Yellow 2016
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h2 dir="ltr"><em><a href="http://yellowconference.com/wp-content/uploads/2016/06/dtla.jpg"><img class="aligncenter size-full wp-image-5767" src="http://yellowconference.com/wp-content/uploads/2016/06/dtla.jpg" alt="The Yellow Conference 2016" width="700" height="467" /></a>GRIT is the first word making up the theme for #yellow2016.</em></h2><br />
 I recently watched a <a href="https://www.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit?language=en" target="_blank">TED Talk with Dr. Angela Lee Duckworth</a> where she talks about the importance of grit when it comes to success and learning. She says:</p>

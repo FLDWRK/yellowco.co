@@ -1,5 +1,5 @@
 ---
-title: Happy Holidays From Yellow!
+title: Happy Holidays from Yellow!
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1584
 date: '2014-12-24 20:33:29 -0800'

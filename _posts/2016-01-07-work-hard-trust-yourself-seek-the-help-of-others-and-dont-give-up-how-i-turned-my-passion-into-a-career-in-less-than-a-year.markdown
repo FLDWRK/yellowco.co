@@ -1,12 +1,12 @@
 ---
 title: 'Work Hard, Trust Yourself, Seek the Help of Others, and Don't Give Up: How
-  I Turned My Passion Into a Career in Less than a Year'
+  I Turned My Passion Into a Career in Less Than a Year'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4763
 date: '2016-01-07 04:00:07 -0800'
 categories:
 - The Activist
-- BUILD
+- Build
 ---
 <p><em><a href="http://www.uncvrdjewelry.com/the-uncvrd-story/" target="_blank">UNCVRD Jewelry</a> gives 40% of each sale to efforts to end local human trafficking (in the Los Angeles/Orange County area). They are the epitome of great design matched with a great cause. We asked founder and designer, Jen Bedrossian, to share some of her story, her journey, and her wisdom.&nbsp;</em></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/01/Jen-Bedrossian-photo1.jpg"><img class="aligncenter wp-image-4766" src="http://yellowconference.com/wp-content/uploads/2016/01/Jen-Bedrossian-photo1-1024x746.jpg" alt="Jen Bedrossian photo1" width="700" height="510" /></a></p>

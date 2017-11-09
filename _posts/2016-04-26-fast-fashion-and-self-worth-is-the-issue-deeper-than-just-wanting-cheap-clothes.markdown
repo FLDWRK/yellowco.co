@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'THE ONE SURPRISING THING FUELING FAST FASHION & MODERN DAY SLAVERY. HINT:
-  IT''S NOT WHAT YOU THINK.'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5351
+title: 'The One Surprising Thing Fueling Fast Fashion & Modern Day Slavery. Hint:
+  it's Not What You Think.'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5351
 date: '2016-04-26 04:00:31 -0700'
-date_gmt: '2016-04-26 11:00:31 -0700'
 categories:
 - Advice
 - The Activist
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <p><i>We at Yellow Co. are committed to ethical fashion and goods. We try our best to identify key partners and products that are ethical in their business models and know the factories and hands behind their product (psst...interested in having your product at our conference?&nbsp;Email kathryn@yellowconference.com). In light&nbsp;of <a href="http://fashionrevolution.org/" target="_blank">#fashionrevolutionday</a>&nbsp;this week,&nbsp;we are super excited to have Yellow Blogger, <a href="http://abigailrdriscoll.com/" target="_blank">Abigail Driscoll</a>, bringing the heart of the issue to light. We realize there's no perfect way to live this out-but, in all honesty, it's our duty as humans and as Creative Warriors, justice seekers, ground breakers and mountain movers to at least give freedom a fighting chance. Am I right?! Ok, back to the post (thank you Abigail!)-xoxo Yellow Co.&nbsp;</i></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/04/2013-11-11_0008.jpg"><img class="aligncenter size-full wp-image-5353" src="http://yellowconference.com/wp-content/uploads/2016/04/2013-11-11_0008.jpg" alt="2013-11-11_0008" width="700" height="467" /></a>In 2006, people were buying one&nbsp;third more clothes than they were in 2002, according to a Cambridge University study. Women's closets are now filled with four times as much clothing as they were in 1980. Where there used to be just four main collections of clothing released by brands each year, one for each season, labels now average about 18 collections a year.</p>

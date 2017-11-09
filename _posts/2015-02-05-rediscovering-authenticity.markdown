@@ -1,5 +1,5 @@
 ---
-title: 'Rediscovering Authenticity: Tell Her, Darling... We are Already Whole.'
+title: 'Rediscovering Authenticity: Tell Her, Darling... We Are Already Whole.'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1868
 date: '2015-02-05 04:00:59 -0800'
@@ -7,7 +7,7 @@ categories:
 - Creative Ladies
 - Inspiration
 - Encouragement
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p style="text-align: justify;"><a href="http://yellowconference.com/wp-content/uploads/2015/02/IMG_8092-copy.jpg"><img class="aligncenter size-full wp-image-3175" src="http://yellowconference.com/wp-content/uploads/2015/02/IMG_8092-copy.jpg" alt="Processed with VSCOcam with a6 preset" width="700" height="934" /></a></p></p>
 <p style="text-align: justify;">For so long we have been told that these bodies<br />

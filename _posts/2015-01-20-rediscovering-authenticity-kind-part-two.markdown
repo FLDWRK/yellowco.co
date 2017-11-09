@@ -7,7 +7,7 @@ categories:
 - Advice
 - Inspiration
 - Encouragement
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p style="text-align: left;"><a href="http://yellowconference.com/wp-content/uploads/2015/01/blogIMG_1257.jpg"><img class=" size-full wp-image-1722 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/01/blogIMG_1257.jpg" alt="blogIMG_1257" width="678" height="451" /></a></p></p>
 <p style="text-align: left;">In part one of <a href="http://yellowconference.com/rediscovering-authenticity-real-shortcomings/" target="_blank">&ldquo;Rediscovering Authenticity: Be Kind to Yourself,&rdquo;</a> we addressed the ways in which we usually handle our faults and weaknesses: most of the time, we either ignore them or we use them to fuel the fire of shame on ourselves. We proposed a third option&hellip;one where we are able to look <em>honestly</em> at our flaws and mistakes and give ourselves the perfect amount of grace to propel us forward--to experience freedom.</p><br />

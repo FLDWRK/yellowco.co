@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHAT YOU NEED TO KNOW BEFORE STARTING YOUR OWN NON-PROFIT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5267
+title: What You Need to Know Before Starting Your Own Non-Profit
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5267
 date: '2016-04-12 04:00:57 -0700'
-date_gmt: '2016-04-12 11:00:57 -0700'
 categories:
 - Advice
 - The Activist
 - The Starter
 - The Leader
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0014.jpg"><img class="aligncenter size-full wp-image-5269" src="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0014.jpg" alt="2015-02-21_0014" width="700" height="466" /></a>Of course it is easy to get excited about creating a valuable community institution to solve problems and meet needs.</h2><br />
 However, be sure you&rsquo;ve thought beyond the &ldquo;vision&rdquo; and considered the community&rsquo;s needs, the day-to-day management of such an organization, and whether you&rsquo;re up for the rewarding, yet difficult road ahead. An organization built on a good vision alone will not ensure survival in today&rsquo;s day and age&mdash;skepticism, hostility, and limited resources continue to plague new non-profit organizations and wear down the will of its creators, who often find themselves drained from playing dual roles as a motivating leader and day-to-day manager. This, combined with outsiders&rsquo; pressure and demands, often transforms a great vision into a discouraging reality. We aren&rsquo;t trying to be cynical here, we just want to ensure you&rsquo;ve thought through everything and are not letting your vision cloud reality.</p>

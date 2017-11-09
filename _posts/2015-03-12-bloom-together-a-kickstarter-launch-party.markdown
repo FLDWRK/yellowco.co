@@ -1,5 +1,5 @@
 ---
-title: 'Bloom Together: A Kickstarter Launch Party'
+title: 'Bloom Together: a Kickstarter Launch Party'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2209
 date: '2015-03-12 03:00:49 -0700'

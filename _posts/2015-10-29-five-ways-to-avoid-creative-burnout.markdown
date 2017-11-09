@@ -5,7 +5,7 @@ wordpress_url: http://yellowconference.com/?p=4197
 date: '2015-10-29 04:00:52 -0700'
 categories:
 - Creative Ladies
-- REFINE
+- Refine
 - The Activist
 - The Starter
 - Encouragement

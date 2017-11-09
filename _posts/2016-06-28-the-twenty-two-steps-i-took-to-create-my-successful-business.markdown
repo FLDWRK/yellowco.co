@@ -1,45 +1,13 @@
 ---
 title: The Twenty-Two Steps I Took to Create My Successful Business
 author: heygirl@yellowconference.com
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5921
 wordpress_url: http://yellowconference.com/?p=5921
 date: '2016-06-28 04:00:09 -0700'
-date_gmt: '2016-06-28 11:00:09 -0700'
 categories:
 - Creative Ladies
 - Advice
 - The Leader
-- GRIT
-tags: []
-comments:
-- id: 4137
-  author: 'The Week + Links: 7.1.16 | Nubby Twiglet'
-  author_email: ''
-  author_url: http://nubbytwiglet.com/2016/07/01/the-week-links-7-1-16/
-  date: '2016-07-01 11:31:24 -0700'
-  date_gmt: '2016-07-01 18:31:24 -0700'
-  content: "[&#8230;] shares the 22 steps she took to create a successful [&#8230;]"
-- id: 4138
-  author: Andi Jenkins
-  author_email: andiljenkins@gmail.com
-  author_url: ''
-  date: '2016-07-01 12:25:00 -0700'
-  date_gmt: '2016-07-01 19:25:00 -0700'
-  content: I read a lot of biz advice blogs and this post is one of the best I've
-    read in AGES. Thanks so much for sharing your story. :)
-- id: 4139
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-07-05 00:31:00 -0700'
-  date_gmt: '2016-07-05 07:31:00 -0700'
-  content: So glad you enjoyed it Andi!!
+- Grit
 ---
 <p class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0057.jpg"><img class="aligncenter size-full wp-image-5932" src="http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0057.jpg" alt="2014-02-18_0057" width="700" height="1050" /></a>I feel like there are so many things they should have taught us in college (or high school for that matter). So in an effort to keep the school days short but the content valuable, I have a few proposals:</span></p></p>
 <ol class="ol1">

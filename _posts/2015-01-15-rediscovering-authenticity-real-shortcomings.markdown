@@ -6,7 +6,7 @@ date: '2015-01-15 04:00:35 -0800'
 categories:
 - Inspiration
 - Encouragement
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/driscollpost2.jpg"><img class=" size-full wp-image-1663 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/01/driscollpost2.jpg" alt="driscollpost2" width="700" height="466" /></a></p>
 <p>To say that I am a klutz might be an understatement.</p>

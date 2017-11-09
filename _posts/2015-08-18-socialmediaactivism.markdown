@@ -6,7 +6,7 @@ date: '2015-08-18 04:00:06 -0700'
 categories:
 - Creative Ladies
 - Advice
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - The Activist
 - The Starter
 - The Solopreneur

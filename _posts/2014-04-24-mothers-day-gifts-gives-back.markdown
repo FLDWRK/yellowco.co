@@ -1,5 +1,5 @@
 ---
-title: Mother's Day Gifts That Give Back
+title: Mother's Day Gifts that Give Back
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=424
 date: '2014-04-24 09:05:48 -0700'

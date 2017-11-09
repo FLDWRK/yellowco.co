@@ -1,12 +1,12 @@
 ---
-title: Struggling with Jealousy? Here's 5 Ways to Stop.
+title: Struggling With Jealousy? Here's 5 Ways to Stop.
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2894
 date: '2015-05-12 04:00:55 -0700'
 categories:
 - Advice
 - Encouragement
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/05/photo-1421906284732-6d9421e37a99.jpg"><img class="aligncenter size-full wp-image-2897" src="http://yellowconference.com/wp-content/uploads/2015/05/photo-1421906284732-6d9421e37a99.jpg" alt="photo-1421906284732-6d9421e37a99" width="700" height="467" /></a>Let&rsquo;s get one thing straight: <em>they don&rsquo;t call it the green-eyed monster for nothing.</em> Jealousy is definitely a monster that has the power to rip your happiness to shreds with her long, unfiled nails and burn your productivity to a pile of ashes with her nasty fire-breath. And it&rsquo;s one thing when you feel jealous of a celebrity or some random person on Instagram... But when you are experiencing envy of another member of your tribe, it&rsquo;s a whole different ballgame. That monster just takes a seat right on your little shoulder, props up her feet like she owns the place, and whispers torturous things in your ear all day, distracting you from your purpose and trying to transform you into a monster yourself.</p>
 <p>When it comes to some things (like this), giving "Five Steps to Combat Jealousy" might not seem all that helpful. The roots of envy most often grow deeper than we&rsquo;d like to acknowledge and for this reason, these feelings are likely not going to change or disappear overnight or by following five simple steps. However, hopefully these five things will be a good place for us to start. What can make these feelings worse is when you feel like you have no control over them. So try and consciously implement these things into your life by taking baby steps and be patient with yourself in the process.</p>

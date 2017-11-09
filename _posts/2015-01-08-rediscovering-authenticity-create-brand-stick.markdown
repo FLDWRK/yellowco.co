@@ -6,7 +6,7 @@ date: '2015-01-08 04:00:38 -0800'
 categories:
 - Advice
 - The Starter
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 - The Solopreneur
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/socialmedia.jpg"><img class=" size-full wp-image-1621 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/01/socialmedia.jpg" alt="socialmedia" width="700" height="466" /></a>Social media is a powerful tool to help grow your business or personal brand&mdash;but it can also be overwhelming. We have all had moments where we feel like we are losing ourselves&hellip;so we go looking for inspiration, and in attempt to capture some of the success that we see from our favorite brand, we start to lose our own brand-identity. We end up losing ourselves, our content suffers, and how we display ourselves on social media begins to look a lot different than our real selves.</p>

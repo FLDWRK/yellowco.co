@@ -6,7 +6,7 @@ date: '2015-12-08 04:00:15 -0800'
 categories:
 - Advice
 - Inspiration
-- REFINE
+- Refine
 - The Activist
 - The Starter
 - Encouragement

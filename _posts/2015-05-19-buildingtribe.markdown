@@ -6,7 +6,7 @@ date: '2015-05-19 04:00:44 -0700'
 categories:
 - Light Talk
 - Encouragement
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/05/Flickr-Lavina.jpg"><img class="aligncenter size-full wp-image-2946" src="http://yellowconference.com/wp-content/uploads/2015/05/Flickr-Lavina.jpg" alt="Yellow Conference TRIBE" width="700" height="525" /></a></p>
 <p>When it comes to cultivating community, there are a myriad of ways to approach this topic. Here I suggest <strong>10 ideas</strong> that come from my own personal experiences for developing stronger connections between your own friends:</p>

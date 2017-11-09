@@ -1,5 +1,5 @@
 ---
-title: 'Rediscovering Authenticity: A Series'
+title: 'Rediscovering Authenticity: a Series'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1607
 date: '2015-01-06 04:00:47 -0800'
@@ -7,7 +7,7 @@ categories:
 - Advice
 - Inspiration
 - Encouragement
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/redefiningauthenticity4.jpg"><img class="aligncenter wp-image-1615 size-large" src="http://yellowconference.com/wp-content/uploads/2015/01/redefiningauthenticity4-682x1024.jpg" alt="View More: http://carolinero.pass.us/blakelycurtis" width="682" height="1024" /></a></p>
 <p>Authenticity: it's something that our generation deeply strives towards and appreciates. Being real, being genuine, being one of a kind, knowing and expressing yourself...we want this, we seek this--but, sometimes, <em>this&nbsp;</em>can feel utterly unattainable.</p>

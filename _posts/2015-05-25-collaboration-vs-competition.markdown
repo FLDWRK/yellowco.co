@@ -1,5 +1,5 @@
 ---
-title: Collaboration Vs. Competition
+title: Collaboration vs. Competition
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2992
 date: '2015-05-25 04:00:01 -0700'
@@ -10,7 +10,7 @@ categories:
 - Inspiration
 - The Starter
 - Encouragement
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/05/brit.jpg"><img class="aligncenter size-full wp-image-2999" src="http://yellowconference.com/wp-content/uploads/2015/05/brit.jpg" alt="brit" width="700" height="466" /></a></p>
 <p>During college, I saw my future in the &ldquo;real world&rdquo; in a way that broke the norm. After graduation, my college roommates and I scattered: one to medical school, one to law school, and one to dental school. And then there was me, scrambling to make ends meet as I pursued my dream of launching my own company and designing a career in writing.</p>

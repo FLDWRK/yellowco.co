@@ -1,5 +1,5 @@
 ---
-title: Why Investing in your Audience is Crucial for your Brand
+title: Why Investing in Your Audience is Crucial for Your Brand
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4175
 date: '2015-11-03 04:00:05 -0800'
@@ -8,7 +8,7 @@ categories:
 - Creative Ladies
 - Advice
 - Inspiration
-- REFINE
+- Refine
 - The Activist
 - The Starter
 - The Solopreneur

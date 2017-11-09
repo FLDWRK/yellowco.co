@@ -8,7 +8,7 @@ categories:
 - Advice
 - Inspiration
 - Encouragement
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/radpost1.jpg"><img class=" size-large wp-image-1656 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/01/radpost1-683x1024.jpg" alt="radpost1" width="683" height="1024" /></a></p>
 <p>Introverts, Let&rsquo;s Get Real...</p>

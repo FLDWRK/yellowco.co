@@ -6,7 +6,7 @@ date: '2016-01-21 04:00:40 -0800'
 categories:
 - Advice
 - The Leader
-- BUILD
+- Build
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/01/conni-jespersen.jpg"><br />
 </a><a href="http://yellowconference.com/wp-content/uploads/2016/01/2015-10-19_0042.jpg"><img class="aligncenter size-full wp-image-4848" src="http://yellowconference.com/wp-content/uploads/2016/01/2015-10-19_0042.jpg" alt="Network like a boss||the yellow co. blog" width="700" height="466" /></a>My husband and I received the exciting news last December that we would be relocating across the country from San Diego, California to Toronto, Canada for his job for two years. This news was met with both immense excitement and a bit of trepidation.</p>

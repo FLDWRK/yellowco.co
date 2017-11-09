@@ -1,5 +1,5 @@
 ---
-title: Know Yourself, Know Your Brand (and a Worksheet to Help you Define it)
+title: Know Yourself, Know Your Brand (and a Worksheet to Help You Define it)
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4131
 date: '2015-10-20 04:00:27 -0700'
@@ -8,7 +8,7 @@ categories:
 - Resources
 - Creative Ladies
 - Advice
-- REFINE
+- Refine
 ---
 <h5><a href="http://yellowconference.com/wp-content/uploads/2015/10/h0qNpnAlHCLM34IzAn2gJf_46qmwHq4MubRaBDSsbdA.jpg"><img class="aligncenter size-full wp-image-4140" src="http://yellowconference.com/wp-content/uploads/2015/10/h0qNpnAlHCLM34IzAn2gJf_46qmwHq4MubRaBDSsbdA.jpg" alt="YELLOW CO. BLOG: BRAND YOURSELF" width="700" height="525" /></a>During college, I was always told that each individual has an opportunity to cultivate their own personal brand.</h5><br />
 How you present yourself on social media, in your daily lives, and how others perceive you is all part of this &lsquo;brand.&rsquo;</p>

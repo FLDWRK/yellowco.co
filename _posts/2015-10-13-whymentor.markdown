@@ -1,5 +1,5 @@
 ---
-title: Want to be a Mentor? Here's How to Make It Happen.
+title: Want to be a Mentor? Here's How to Make it Happen.
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4102
 date: '2015-10-13 04:00:11 -0700'

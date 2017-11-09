@@ -1,42 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO KNOW WHEN IT'S TIME TO GO AGAINST THE GRAIN AND FOLLOW YOUR DREAM...
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5717
+title: How to Know When It's Time to Go Against the Grain and Follow Your Dream...
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5717
 date: '2016-06-09 04:00:59 -0700'
-date_gmt: '2016-06-09 11:00:59 -0700'
 categories:
 - Advice
 - Inspiration
-- GRIT
-tags: []
-comments:
-- id: 4131
-  author: Ashley Ormon
-  author_email: a-ormon@proverbsnwisdom.com
-  author_url: http://ashleyormon.com/
-  date: '2016-06-09 07:30:00 -0700'
-  date_gmt: '2016-06-09 14:30:00 -0700'
-  content: What a beautiful article. I'm glad taking the risk in going with your bliss
-    made you happier than ever. Thanks for sharing your journey.
-- id: 4132
-  author: ashley berry
-  author_email: helloashleyberry@gmail.com
-  author_url: ''
-  date: '2016-06-09 22:52:00 -0700'
-  date_gmt: '2016-06-10 05:52:00 -0700'
-  content: Thank you for your kind words and I am truly so grateful for every part
-    of the journey as well as the wonderful opportunity to share it with others! Warmest
-    wishes! xo
+- Grit
 ---
 <p class="p1"><span class="s1"><a href="http://yellowconference.com/wp-content/uploads/2016/06/MG_45021.jpg"><img class="aligncenter size-full wp-image-5733" src="http://yellowconference.com/wp-content/uploads/2016/06/MG_45021.jpg" alt="The Yellow Co. Blog: Go against the grain and chase your dreams" width="700" height="467" /></a>In 2008, I was 3/4 of the way through a Masters Program to be a Marriage and Family Therapist. I had done really well in my coursework, was receiving rave reviews from my supervisors at the training clinic where I was working with my first handful of clients, and I was <i>absolutely miserable</i>. </span></p></p>
 <h2 class="p1"><span class="s1">The work was very heavy and I didn't have much of a support network at that time in my life. I also didn't know how to manage my own stress very well yet, so I stuffed it, and was suffering with terrible anxiety, insomnia, and a loss of appetite. Essentially, I was a total wreck.</span></h2></p>

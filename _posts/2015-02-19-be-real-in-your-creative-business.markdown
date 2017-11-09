@@ -1,12 +1,12 @@
 ---
-title: 'Rediscovering Authenticity: Three Reasons to be Real in Your Creative Business'
+title: 'Rediscovering Authenticity: Three Reasons to Be Real in Your Creative Business'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1905
 date: '2015-02-19 04:00:27 -0800'
 categories:
 - Creative Ladies
 - Advice
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 - The Solopreneur
 ---
 <p class="p1"><img class=" size-full wp-image-1909 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/02/IMG_0539.jpg" alt="IMG_0539" width="700" height="1050" /></p></p>

@@ -8,7 +8,7 @@ categories:
 - Advice
 - Inspiration
 - Encouragement
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/02/KimWedding-479.jpg"><img class=" size-full wp-image-1901 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/02/KimWedding-479.jpg" alt="KimWedding-479" width="700" height="467" /></a></p>
 <p>I don't want to bore you with another cheesy marriage post. I don't want to fool you with the thought that my marriage is flawless; it is not by any means perfect. Let's talk about marriage...for real. Yours may...yours <strong>will...</strong>look different, because you have two very different hearts from us that are bonding. But, what I do know, is that I am so exhausted of the lingering doubts caused by false beliefs and staged perfections--telling me that what we (the Kims) have is not enough.</p>

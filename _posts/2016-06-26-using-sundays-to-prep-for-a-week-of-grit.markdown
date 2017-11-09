@@ -1,55 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO USE SUNDAY AS YOUR DAY TO PREP FOR A WEEK OF GRIT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5892
+title: How to Use Sunday as Your Day to Prep for a Week of Grit
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5892
 date: '2016-06-26 04:00:58 -0700'
-date_gmt: '2016-06-26 11:00:58 -0700'
 categories:
 - Light Talk
 - Creative Ladies
 - Advice
-- GRIT
-tags: []
-comments:
-- id: 4134
-  author: Blog Love
-  author_email: ''
-  author_url: http://xosarah.com/2016/06/26/blog-love-182/
-  date: '2016-06-26 11:05:19 -0700'
-  date_gmt: '2016-06-26 18:05:19 -0700'
-  content: "[&#8230;] How to use your Sunday as your day to prep >>> [&#8230;]"
-- id: 4135
-  author: Kathryn J. LeMaster
-  author_email: kathryn@kathrynjlemaster.com
-  author_url: ''
-  date: '2016-07-10 14:29:00 -0700'
-  date_gmt: '2016-07-10 21:29:00 -0700'
-  content: 'Love this!! I''ve started implementing some new margin in my life this
-    year to help "curb the cray" - as I say! Not working Sunday has been huge (aside
-    from a bit of planning, like you suggested) as I was notorious in the first couple
-    years of my business of working 7 days a week non stop, while still trying to
-    balance family, friends, church, me-time... Can we say, burnt out?! Yeah. So!
-    Being realistic about my limits, creating margin, sticking to off days and off
-    time, and planning planning planning has been life changing for me this year!!
-    ?? Thanks for the encouragement and inspiration! '
-- id: 4136
-  author: 'The Weekend Update : July 1 &#8211; Everything Bloom'
-  author_email: ''
-  author_url: http://everythingbloom.com/blog/the-weekend-update-july-1/
-  date: '2016-08-31 20:12:13 -0700'
-  date_gmt: '2016-09-01 03:12:13 -0700'
-  content: "[&#8230;] How to realistically use Sunday to prep for your next week of
-    work without touching the [&#8230;]"
+- Grit
 ---
 <p><em><a href="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-75.jpg"><img class="aligncenter size-full wp-image-5915" src="http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-75.jpg" alt="The Yellow Co. Blog: Using Sunday's to Prep for Grit" width="700" height="1050" /></a></em>Weak spots, we all have one-for some, the weak spot may be Instagram...others, we Pinterest until our eyes bleed...Still, for others, we have people in our community that are just one step ahead in living the life, the dream, the career we always wanted.</p>
 <h2>Often, we mistake the hard work, hours, and tears they've put into their brand, career, or passion project for sheer luck and talent...I hope I'm not alone in&nbsp;thinking this way.</h2><br />

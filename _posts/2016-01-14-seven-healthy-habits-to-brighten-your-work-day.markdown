@@ -6,7 +6,7 @@ date: '2016-01-14 04:00:10 -0800'
 categories:
 - Light Talk
 - Advice
-- BUILD
+- Build
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/01/2-800x533.jpg"><img class="aligncenter size-full wp-image-4817" src="http://yellowconference.com/wp-content/uploads/2016/01/2-800x533.jpg" alt="The Yellow Co. Blog: Seven Healthy Habits for the new year" width="700" height="466" /></a>When the New Year hits, many of us have lofty health goals that we&rsquo;re determined to accomplish. We usually think about how we are going to get healthier when we&rsquo;re outside of the office. We set goals to join a gym, set our alarms earlier to exercise before work, and tell our friends that we won&rsquo;t be heading to happy hour as much anymore because we want to start going to that spin class more often.</p>
 <p>While all of these health goals are usually well intended, they can be unrealistic and set the bar out of reach, so come February 1<sup>st</sup>, we find ourselves feeling like failures again.</p>

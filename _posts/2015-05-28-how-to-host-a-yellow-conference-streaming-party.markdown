@@ -7,7 +7,7 @@ categories:
 - Light Talk
 - Creative Ladies
 - Yellow 2015
-- TRIBE
+- Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/05/LiveStreamingParty.jpg"><img class=" size-full wp-image-3033 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/05/LiveStreamingParty.jpg" alt="LiveStreamingParty" width="700" height="891" /></a></p>
 <p><strong><em>(Psssttt....Did you know this year we are offering a live-stream of the Yellow Conference?! Grab your ticket <a href="https://ti.to/yellowconference/yellow-conference-2015" target="_blank">here!!</a>)</em></strong></p>

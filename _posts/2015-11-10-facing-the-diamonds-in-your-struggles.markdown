@@ -1,5 +1,5 @@
 ---
-title: Seeing the Diamonds in your Struggles
+title: Seeing the Diamonds in Your Struggles
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4223
 date: '2015-11-10 03:00:37 -0800'
@@ -7,7 +7,7 @@ categories:
 - Creative Ladies
 - Advice
 - Inspiration
-- REFINE
+- Refine
 - The Solopreneur
 - The Leader
 ---

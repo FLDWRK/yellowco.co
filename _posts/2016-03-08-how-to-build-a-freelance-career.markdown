@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: DREAMING ABOUT BECOMING A FREELANCER? DON'T MISS THESE EIGHT STEPS
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5057
+title: Dreaming About Becoming a Freelancer? Don't Miss These Eight Steps
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5057
 date: '2016-03-08 04:00:48 -0800'
-date_gmt: '2016-03-08 12:00:48 -0800'
 categories:
 - Advice
 - The Starter
-- BUILD
-tags: []
-comments: []
+- Build
 ---
 <p>&nbsp;</p>
 <h2><a href="http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-19.jpg"><img class="aligncenter wp-image-5060 size-full" src="http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-19.jpg" alt="The Yellow Co. Blog" width="700" height="1050" /></a></h2></p>

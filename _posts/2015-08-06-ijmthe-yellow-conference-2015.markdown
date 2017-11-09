@@ -1,10 +1,10 @@
 ---
-title: Ijm+ The Yellow Conference 2015
+title: IJM + the Yellow Conference 2015
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3507
 date: '2015-08-06 04:00:51 -0700'
 categories:
-- CREATIVE ADVOCACY
+- Creative Advocacy
 - Inspiration
 - The Activist
 - Team Members

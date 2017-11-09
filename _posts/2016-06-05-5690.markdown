@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW HAND AND CLOTH HAS USED COMPASSION AND ENDURANCE TO CHANGE WOMEN'S LIVES
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5690
+title: How Hand and Cloth Has Used Compassion and Endurance to Change Women's Lives
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5690
 date: '2016-06-05 04:00:43 -0700'
-date_gmt: '2016-06-05 11:00:43 -0700'
 categories:
 - Creative Ladies
 - The Activist
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <p><em>This quarter, we're pumped to be partnering with <a href="http://handandcloth.org/?utm_source=yellowblog&amp;utm_medium=blog&amp;utm_campaign=yellow" target="_blank">Hand &amp; Cloth,</a>&nbsp;a company that exists to support dignified work to at-risk women through specific, unique, collaborations and partnerships and through their gorgeous textiles and blankets, and honor towards tradition.&nbsp;</em></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/06/Rohima3AF-2.jpg"><img class="aligncenter size-full wp-image-5696" src="http://yellowconference.com/wp-content/uploads/2016/06/Rohima3AF-2.jpg" alt="Hand&amp;Cloth on the Yellow CO. Blog" width="700" height="1053" /></a></p>

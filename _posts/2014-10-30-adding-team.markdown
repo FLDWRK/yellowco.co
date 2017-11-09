@@ -1,5 +1,5 @@
 ---
-title: 'We're Adding to our Team! UPDATE: These Positions Have Been Filled. THANKS!'
+title: 'We're Adding to Our Team! UPDATE: These Positions Have Been Filled. Thanks!'
 author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1047
 date: '2014-10-30 02:45:20 -0700'date_gmt: '2014-10-30 09:45:20 -0700'

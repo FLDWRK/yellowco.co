@@ -1,41 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: FIVE PRACTICAL WAYS YOU CAN HELP A FOSTER CHILD RIGHT NOW (WITHOUT BECOMING
-  A FOSTER PARENT OR SOCIAL WORKER)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5626
+title: Five Practical Ways You Can Help a Foster Child Right Now (Without Becoming
+  a Foster Parent or Social Worker)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5626
 date: '2016-05-28 04:00:33 -0700'
-date_gmt: '2016-05-28 11:00:33 -0700'
 categories:
 - Advice
 - The Activist
 - Team Members
-- GRIT
-tags: []
-comments:
-- id: 4125
-  author: Meg Long
-  author_email: megmarylong@gmail.com
-  author_url: http://www.meglongcreative.com
-  date: '2016-06-01 15:43:00 -0700'
-  date_gmt: '2016-06-01 22:43:00 -0700'
-  content: SUCH A GREAT ARTICLE! Thank you Sally!!!
-- id: 4126
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2016-06-01 16:18:00 -0700'
-  date_gmt: '2016-06-01 23:18:00 -0700'
-  content: Isn't it great?? Sally is awesome :)
+- Grit
 ---
 <h4><em><a href="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-28-copy.jpg"><img class="aligncenter size-full wp-image-5635" src="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-28-copy.jpg" alt="ValerieDenisePhotos-28 copy" width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/05/ValerieDenisePhotos-38-copy.jpg"><br />
 </a>"I could never be a foster parent, it would be too hard to say goodbye."<br />

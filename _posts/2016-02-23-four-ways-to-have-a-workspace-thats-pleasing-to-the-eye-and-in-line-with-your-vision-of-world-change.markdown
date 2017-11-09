@@ -1,24 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
-title: 4 OFFICE HACKS FOR AN IMPACTFUL WORKSPACE
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5005
+title: 4 Office Hacks for an Impactful Workspace
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5005
 date: '2016-02-23 04:00:00 -0800'
-date_gmt: '2016-02-23 12:00:00 -0800'
 categories:
 - The Activist
-- BUILD
-tags: []
-comments: []
+- Build
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/02/4-officehacks.jpg"><img class="size-full wp-image-5025 aligncenter" src="http://yellowconference.com/wp-content/uploads/2016/02/4-officehacks.jpg" alt="4-officehacks" width="700" height="526" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/02/Photo-Apr-22-5-16-22-PM.jpg"><br />
 </a>Let&rsquo;s be honest here for a moment. Do you get inspired when working from a cluttered corner in your kitchen? Probably not. What about an 10x10 drab after bare room? My guess is no. We spend the majority of our days in our offices, and we&rsquo;ve worked so hard to be able to do inspiring work that we love. At my company,&nbsp;<em><a href="http://www.mariemae.com/" target="_blank">Marie Mae Company</a></em>, <strong>we believe it is important that our workspaces be just as inspiring as the work that we do.</strong></p>

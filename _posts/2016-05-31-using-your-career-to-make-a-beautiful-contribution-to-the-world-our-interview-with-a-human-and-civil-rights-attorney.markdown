@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: USING YOUR CAREER TO MAKE A BEAUTIFUL CONTRIBUTION TO THE WORLD-OUR INTERVIEW
-  WITH A HUMAN AND CIVIL RIGHTS ATTORNEY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 5655
+title: Using Your Career to Make a Beautiful Contribution to the World-Our Interview
+  with a Human and Civil Rights Attorney
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=5655
 date: '2016-05-31 04:00:35 -0700'
-date_gmt: '2016-05-31 11:00:35 -0700'
 categories:
 - Advice
 - The Activist
-- GRIT
-tags: []
-comments: []
+- Grit
 ---
 <h4 class="p1"><em><span style="font-weight: 400;">Mary Tanagho Ross is an international human rights and civil rights attorney at one of the nation&rsquo;s oldest civil rights firms, <a href="http://www.hadsellstormer.com/" target="_blank">Hadsell Stormer &amp; Renick,</a>&nbsp;a wife, a mother, and an ongoing advocate.&nbsp;After just two years in practice, Mary was named to the Southern California Super Lawyers &ndash; Rising Stars list. &nbsp;Prior to her current litigation practice, Mary represented victims of persecution and human trafficking seeking immigration relief, and completed a prestigious federal judicial clerkship. Today, she's sharing with the Yellow Co. insight and perspective on her job as a Human and Civil Rights attorney, and our role in promoting both Human and Civil rights (whether or not we've ever considered going to law school), protecting the voiceless and using what we've got to promote good and beauty throughout the world as agents of change.&nbsp;</span></em></h4></p>
 <h4 class="p1"><a href="http://yellowconference.com/wp-content/uploads/2016/05/IMG_0176.jpg"><img class="aligncenter size-full wp-image-5656" src="http://yellowconference.com/wp-content/uploads/2016/05/IMG_0176.jpg" alt="If you really want to be an agent of change, make every place more beautiful because of your contribution.-The Yellow Co. Blog" width="700" height="466" /></a></h4></p>

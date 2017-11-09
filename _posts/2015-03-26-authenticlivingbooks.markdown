@@ -5,7 +5,7 @@ wordpress_url: http://yellowconference.com/?p=2161
 date: '2015-03-26 04:00:24 -0700'
 categories:
 - Light Talk
-- REDISCOVERING AUTHENTICITY
+- Rediscovering Authenticity
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/03/Screenshot-2015-03-09-21.55.07.jpg"><img class="alignleft size-full wp-image-2199" src="http://yellowconference.com/wp-content/uploads/2015/03/Screenshot-2015-03-09-21.55.07.jpg" alt="Screenshot-2015-03-09-21.55.07" width="700" height="463" /></a></p>
 <p>We crave authenticity in every area of our lives. We see the necessity of bringing it into our inner dialogue, our relationships, our online presence, and our work. However, cultivating an authentic life is much easier said than done. Our fears and insecurities get in the way and quickly pull us back into our shell. We compare ourselves to others and are not so eager to put our honest faces on. The pressures we feel from life weigh heavy on us and we are so tempted to place our masks back over our eyes and pretend to be someone we&rsquo;re not.</p>
