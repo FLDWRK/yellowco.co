@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: GET INVOLVED THIS WEEK
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2772
+title: Get Involved This Week
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2772
 date: '2015-04-13 00:05:15 -0700'
-date_gmt: '2015-04-13 07:05:15 -0700'
 categories:
 - Resources
-tags: []
-comments: []
 ---
 <div class="post-body pe-wp-default jpibfi_container">
 <p><a href="https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c" target="_blank"><img class="aligncenter size-full wp-image-2773" src="http://yellowconference.com/wp-content/uploads/2015/04/Bloomtogether_April13-17.jpg" alt="#Bloomtogether_April13-17" width="700" height="1344" /></a></p>

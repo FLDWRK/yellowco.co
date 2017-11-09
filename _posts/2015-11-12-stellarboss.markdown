@@ -1,59 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO BE A RELATABLE LEADER
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4235
+title: How to be a Relatable Leader
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4235
 date: '2015-11-12 04:00:43 -0800'
-date_gmt: '2015-11-12 12:00:43 -0800'
 categories:
 - Creative Ladies
 - Advice
 - REFINE
 - Encouragement
 - The Leader
-tags: []
-comments:
-- id: 3999
-  author: Jennifer Sacco
-  author_email: jennifer@jennifersacco.com
-  author_url: https://www.jennifersacco.com
-  date: '2015-11-12 08:26:00 -0800'
-  date_gmt: '2015-11-12 16:26:00 -0800'
-  content: If your not learning you are not growing. If you are not growing you aren't
-    experiencing. Fantastic blog post!
-- id: 4000
-  author: Meg Long
-  author_email: megmarylong@gmail.com
-  author_url: ''
-  date: '2015-11-12 12:13:00 -0800'
-  date_gmt: '2015-11-12 20:13:00 -0800'
-  content: Such a truly great article! Thank you!
-- id: 4001
-  author: Samantha Chaffin
-  author_email: samchaffin92@gmail.com
-  author_url: http://herinklings.wordpress.com
-  date: '2015-11-16 10:53:00 -0800'
-  date_gmt: '2015-11-16 18:53:00 -0800'
-  content: YES, absolutely agree! Thank you so much for reading! :)
-- id: 4002
-  author: We were on the mountain, pt. 2 | Her Inklings
-  author_email: ''
-  author_url: https://herinklings.wordpress.com/2015/11/18/we-were-on-the-mountain-pt-2/
-  date: '2015-11-18 17:02:49 -0800'
-  date_gmt: '2015-11-19 01:02:49 -0800'
-  content: "[&#8230;] other things. My fiction-making brain cells&nbsp;were pretty
-    much&nbsp;shot, so I wrote blog posts for the Yellow Conference&nbsp;and the Higgins
-    Creative (forthcoming). I wrote an article about an amazing veteran&nbsp;I met
-    at [&#8230;]"
 ---
 <h6><a href="http://yellowconference.com/wp-content/uploads/2015/10/214-800x598.jpg"><img class="aligncenter size-full wp-image-4237" src="http://yellowconference.com/wp-content/uploads/2015/10/214-800x598.jpg" alt="Yellow Co Blog: being the best supervisor" width="700" height="523" /></a></h6></p>
 <h6>I felt like I was an intern forever.</h6><br />

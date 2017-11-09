@@ -1,20 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE SUPER SECRET NO ONE TOLD YOU ABOUT TIME MANAGEMENT (AND HOW TO TAKE A GIANT
-  STEP IN THE RIGHT DIRECTION)
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4501
+title: The Super Secret No One Told You About Time Management (And hot to Take a Giant Step in the Right Direction)
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4501
 date: '2015-12-22 04:00:01 -0800'
-date_gmt: '2015-12-22 04:00:01 -0800'
 categories:
 - Resources
 - Creative Ladies
@@ -27,8 +15,6 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/12/15-800x533.jpg"><img class="aligncenter size-full wp-image-4504" src="http://yellowconference.com/wp-content/uploads/2015/12/15-800x533.jpg" alt="Caring for yourself before caring for your cause" width="700" height="466" /></a>How wild can life be sometimes? The wild that just takes us to a point that we feel like we are climbing Mt. Everest, trying to make it out of the valley to reach the summit. The point where we can take a break for one moment and look at what we have just accomplished, what we just overcame, and where we are going next. What does your life look like right now?</p>
 <h2><em>How are you managing your time, your family, your career, your business, and most importantly &ndash; yourself?</em></h2><br />

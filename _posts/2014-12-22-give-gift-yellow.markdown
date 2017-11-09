@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: GIVE THE GIFT OF YELLOW!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1565
+title: Give The Gift Of Yellow!
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1565
 date: '2014-12-22 07:28:55 -0800'
-date_gmt: '2014-12-22 15:28:55 -0800'
 categories:
 - Yellow 2015
-tags: []
-comments: []
 ---
 <p>Happy Christmas week ladies! Just wanted to drop in real quick to give you a quick reminder that today is the last day to grab your Yellow Conference ticket at the <a href="https://ti.to/yellowconference/yellow-conference-2015" target="_blank">Early Bird price</a>. Tomorrow the price will go up!</p>
 <p>If you're still looking for the perfect gift for your bestie / wife / girlfriend / daughter / sister / creative friend, give her a ticket to The Yellow Conference. This not just giving her a gift, it's giving her&nbsp;an experience that will have a life changing impact. A Yellow Conference ticket gift is telling your that person that you don't only believe in them, but you want to invest in them, their dreams and their future.</p>

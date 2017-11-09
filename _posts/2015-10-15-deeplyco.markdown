@@ -1,20 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'THE IMMEASURABLE WORTH IN PURSUING WHAT MAKES YOU COME ALIVE: JILLIAN EDWARDS+THE
-  DEEPLY CO'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4124
+title: 'The Immeasurable Worth in Pursuing What Makes You Come Alive: Jillian Edwards+ the Deeply Co'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4124
 date: '2015-10-15 04:00:53 -0700'
-date_gmt: '2015-10-15 11:00:53 -0700'
 categories:
 - Creative Ladies
 - CREATIVE ADVOCACY
@@ -24,8 +12,6 @@ categories:
 - The Starter
 - Encouragement
 - The Leader
-tags: []
-comments: []
 ---
 <h5><span style="line-height: 1.5;">I am after celebrating the art of a beautiful life &ndash; one evening, one human at a time.</span></h5></p>
 <h6><a href="http://yellowconference.com/wp-content/uploads/2015/10/IMG_4157-formatted.jpg"><img class="aligncenter size-full wp-image-4119" src="http://yellowconference.com/wp-content/uploads/2015/10/IMG_4157-formatted.jpg" alt="Jillian Edwards for Yellow Conference" width="700" height="467" /></a><span style="line-height: 1.5;">One of the dearest truths ever taught to me is this: </span><em style="line-height: 1.5;">every person has their own magic.</em></h6><br />

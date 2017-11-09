@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: THE DIFFICULT LESSONS I LEARNED FROM CLEARING OUT MY CLOSET
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4047
+title: The Difficult Lessons I Learned from Clearing Out My Closet
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4047
 date: '2015-10-06 04:00:15 -0700'
-date_gmt: '2015-10-06 11:00:15 -0700'
 categories:
 - Creative Ladies
 - Advice
@@ -21,24 +10,6 @@ categories:
 - The Activist
 - Encouragement
 - The Leader
-tags: []
-comments:
-- id: 3975
-  author: dignifysj
-  author_email: sjones@dignify.ca
-  author_url: http://www.dignify.ca/
-  date: '2015-10-06 08:21:00 -0700'
-  date_gmt: '2015-10-06 15:21:00 -0700'
-  content: Love, love, love this. I appreciate so much your honesty, Johanna, and
-    it was such a pleasure to meet you! This is a fantastic question and a great first
-    step. Let's do it!
-- id: 3976
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-10-11 20:54:00 -0700'
-  date_gmt: '2015-10-12 03:54:00 -0700'
-  content: So glad you enjoyed it :)
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/09/johanna2.jpg"><br />
 </a><a href="http://yellowconference.com/wp-content/uploads/2015/10/Yellow_2015_Day_1-281-copy.jpg"><img class="aligncenter size-full wp-image-4068" src="http://yellowconference.com/wp-content/uploads/2015/10/Yellow_2015_Day_1-281-copy.jpg" alt="yellow conference blog" width="700" height="1050" /></a></p>

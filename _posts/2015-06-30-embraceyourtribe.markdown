@@ -1,34 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: THREE WAYS TO MAKE YOUR RELATIONSHIPS HEALTHIER
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3203
+itle: Three Ways to Make your Relationships Healthier
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3203
 date: '2015-06-30 04:00:41 -0700'
-date_gmt: '2015-06-30 11:00:41 -0700'
 categories:
 - Light Talk
 - Advice
 - Inspiration
 - TRIBE
-tags: []
-comments:
-- id: 3949
-  author: Weekender Bags | Brave Girl Blog
-  author_email: ''
-  author_url: http://bravegirlspirit.com/weekender-bags/
-  date: '2016-07-17 09:38:02 -0700'
-  date_gmt: '2016-07-17 16:38:02 -0700'
-  content: "[&#8230;] zipper broke. I like the Aztec pattern and colors and looks
-    like can hold a lot. It reminds me ofmy trips to Arizona last [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/image5.jpg"><img class="aligncenter size-full wp-image-3204" src="http://yellowconference.com/wp-content/uploads/2015/06/image5.jpg" alt="YELLOW CONFERENCE EMBRACE YOUR TRIBE" width="700" height="700" /></a></p>
 <p>I'm on my way home to the midwest from the American southwest with a few members of my tribe; my grandpa, grandma and cousin. We've spent the last few weeks driving from the flat land prairies to the mountainous desert to be a part of some life changing events for our family members&nbsp;who prefer living in the desert heat. We've driven 5,000 miles, outrun tornadoes, and stayed in a different state every night. I'm now master of transforming the camper kitchen table into a bed nook. I&rsquo;ve survived public showers with geckos, snakes and other 8-legged creatures.</p>

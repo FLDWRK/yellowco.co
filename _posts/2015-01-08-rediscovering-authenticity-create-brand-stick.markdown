@@ -1,42 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: HOW TO CREATE YOUR BRAND, AND STICK WITH IT'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1632
+title: 'Rediscovering Authenticity: How to Create Your Brand, and Stick With It'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1632
 date: '2015-01-08 04:00:38 -0800'
-date_gmt: '2015-01-08 12:00:38 -0800'
 categories:
 - Advice
 - The Starter
 - REDISCOVERING AUTHENTICITY
 - The Solopreneur
-tags: []
-comments:
-- id: 3845
-  author: This week-1 - Truebadours | Truebadours
-  author_email: ''
-  author_url: http://www.truebadours.com/2015/01/09/week-1/
-  date: '2015-01-09 09:17:00 -0800'
-  date_gmt: '2015-01-09 17:17:00 -0800'
-  content: "[&#8230;] From the Yellow Conference Blog: Rediscovering Authenticity:
-    A Series; How to Create Your Brand and Stick With It. [&#8230;]"
-- id: 3846
-  author: Kristin Tovar
-  author_email: kristin@whyilovewhereilive.com
-  author_url: http://www.whyilovewhereilive.com
-  date: '2015-01-12 12:08:01 -0800'
-  date_gmt: '2015-01-12 20:08:01 -0800'
-  content: Wonderful post!  I really believe it is important to slow down and reflect
-    on why and how we use social media.  Thank you for your insight on the topic.
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/01/socialmedia.jpg"><img class=" size-full wp-image-1621 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/01/socialmedia.jpg" alt="socialmedia" width="700" height="466" /></a>Social media is a powerful tool to help grow your business or personal brand&mdash;but it can also be overwhelming. We have all had moments where we feel like we are losing ourselves&hellip;so we go looking for inspiration, and in attempt to capture some of the success that we see from our favorite brand, we start to lose our own brand-identity. We end up losing ourselves, our content suffers, and how we display ourselves on social media begins to look a lot different than our real selves.</p>
 <p>It&rsquo;s part of my job to know who the top bloggers and brands are. I find them very inspiring, but the pressure to be like them gets to me sometimes. Finding my own voice and brand persona has been a struggle, but these are the key things I&rsquo;ve learned in the process:</p>

@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'REDISCOVERING AUTHENTICITY: THREE REASONS TO BE REAL IN YOUR CREATIVE BUSINESS'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1905
+title: 'Rediscovering Authenticity: Three Reasons to be Real in Your Creative Business'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1905
 date: '2015-02-19 04:00:27 -0800'
-date_gmt: '2015-02-19 12:00:27 -0800'
 categories:
 - Creative Ladies
 - Advice
 - REDISCOVERING AUTHENTICITY
 - The Solopreneur
-tags: []
-comments: []
 ---
 <p class="p1"><img class=" size-full wp-image-1909 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/02/IMG_0539.jpg" alt="IMG_0539" width="700" height="1050" /></p></p>
 <p class="p1">At the core of each of us, we want to be understood.&nbsp;We all want to feel connected, appreciated &amp; accepted for exactly who we are.</p></p>

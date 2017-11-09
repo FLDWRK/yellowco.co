@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: WHY INVESTING IN YOUR AUDIENCE IS CRUCIAL FOR YOUR BRAND
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4175
+title: Why Investing in your Audience is Crucial for your Brand
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4175
 date: '2015-11-03 04:00:05 -0800'
-date_gmt: '2015-11-03 12:00:05 -0800'
 categories:
 - Resources
 - Creative Ladies
@@ -24,47 +13,6 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
-tags: []
-comments:
-- id: 3977
-  author: Jamie Delaine
-  author_email: jamie@jamiedelaine.com
-  author_url: http://www.jamiedelaineblog.com/
-  date: '2015-11-03 06:33:00 -0800'
-  date_gmt: '2015-11-03 14:33:00 -0800'
-  content: Loving the articles here lately! I so agree with this!
-- id: 3978
-  author: Abigail Driscoll
-  author_email: abigailrdriscoll@gmail.com
-  author_url: ''
-  date: '2015-11-03 07:03:00 -0800'
-  date_gmt: '2015-11-03 15:03:00 -0800'
-  content: Love this!
-- id: 3979
-  author: Yellow Conference
-  author_email: heygirl@yellowconference.com
-  author_url: http://yellowconference.com/
-  date: '2015-11-04 11:02:00 -0800'
-  date_gmt: '2015-11-04 19:02:00 -0800'
-  content: Thanks Jamie!
-- id: 3980
-  author: Conni
-  author_email: styleiconnij@gmail.com
-  author_url: ''
-  date: '2015-11-06 07:52:00 -0800'
-  date_gmt: '2015-11-06 15:52:00 -0800'
-  content: This is such a fantastic article Jessica!  I'm featuring it on my Delightful
-    Weekend Links post today on my blog.  Thanks for reminding us about the importance
-    of empathy.  xx, Conni
-- id: 3981
-  author: Delightful Weekend reads from Across the Web
-  author_email: ''
-  author_url: http://www.artinthefind.com/delightful-weekend-reads-from-the-web-2/
-  date: '2015-11-06 12:02:17 -0800'
-  date_gmt: '2015-11-06 20:02:17 -0800'
-  content: "[&#8230;] | Whether you&#8217;re investing in work, your children, or
-    your business, this weekend read&nbsp;is such a great reminder that what we put
-    out there should resonate on an emotional level with [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/10/image3.jpg"><img class="aligncenter size-full wp-image-4177" src="http://yellowconference.com/wp-content/uploads/2015/10/image3.jpg" alt="Social Studio Shop for Yellow Co. " width="700" height="500" /></a></p>
 <h5>We have a saying here at <a href="http://www.socialstudioshop.com/" target="_blank">Social Studio Shop</a>&hellip;</h5></p>

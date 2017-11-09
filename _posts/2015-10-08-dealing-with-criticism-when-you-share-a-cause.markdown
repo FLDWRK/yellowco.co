@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: LETTING CRITICISM MAKE YOU, NOT BREAK YOU.
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4029
+title: Letting Criticism Make You, Not Break You
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4029
 date: '2015-10-08 04:00:56 -0700'
-date_gmt: '2015-10-08 11:00:56 -0700'
 categories:
 - Creative Ladies
 - Advice
@@ -21,28 +10,6 @@ categories:
 - The Activist
 - The Starter
 - Encouragement
-tags: []
-comments:
-- id: 3973
-  author: Life Out of the Box
-  author_email: lifeoutthebox@gmail.com
-  author_url: ''
-  date: '2015-10-08 13:01:00 -0700'
-  date_gmt: '2015-10-08 20:01:00 -0700'
-  content: You are such an inspiration Sally. I read your article on Letters From
-    a Mister, which was beautifully written, as was this one. This was something I
-    needed to read and wish I could have read it in the past when I experienced something
-    similar. Keep being your beautiful self and stand by what you believe in--you're
-    helping us ALL. :) -Quinn
-- id: 3974
-  author: Allie baran
-  author_email: allie.baran376@topper.wku.edu
-  author_url: ''
-  date: '2015-10-08 14:00:00 -0700'
-  date_gmt: '2015-10-08 21:00:00 -0700'
-  content: 'Very beautifully written! Needed to read this today
-
-'
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/09/81-800x533.jpg"><img class="aligncenter size-full wp-image-4031" src="http://yellowconference.com/wp-content/uploads/2015/09/81-800x533.jpg" alt="yellow conference: spread goodness and bloom" width="700" height="466" /></a></p>
 <h5>It is nearly 2 a.m.</h5><br />

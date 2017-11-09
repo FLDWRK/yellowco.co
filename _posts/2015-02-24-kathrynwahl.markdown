@@ -1,26 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'A DAY IN THE LIFE: WITH KATHRYN WAHL'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2058
+title: 'A Day In The Life: With Kathryn Wahl'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2058
 date: '2015-02-24 04:00:12 -0800'
-date_gmt: '2015-02-24 12:00:12 -0800'
 categories:
 - Light Talk
 - Creative Ladies
 - Team Members
 - Yellow 2015
-tags: []
-comments: []
 ---
 <p>Whimsical, free-spirit, yet full of deep thoughts and creativity...Kathryn Wahl, our eyes behind our <a href="https://instagram.com/yellowconference/" target="_blank">Instagram</a> and our voice behind social media, is a true one-of-kind gem, and we are excited to share a little glimpse into her life with you today...</p>
 <p>So, without further adieu, ladies and gents, Kathryn Wahl...</p>

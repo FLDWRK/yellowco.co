@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: HOW TO KEEP YOUR CLUTTER AT BAY SO YOUR CREATIVITY IS ON POINT
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4167
+title: How to Keep your Clutter at Bay so your Creativity is on Point
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4167
 date: '2015-10-22 04:00:54 -0700'
-date_gmt: '2015-10-22 11:00:54 -0700'
 categories:
 - Light Talk
 - Creative Ladies
@@ -22,8 +11,6 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/10/bneato-hp-office-edit-for-quiz.jpg"><img class="aligncenter size-full wp-image-4161" src="http://yellowconference.com/wp-content/uploads/2015/10/bneato-hp-office-edit-for-quiz.jpg" alt="bneato bar for yellow co. blog" width="700" height="467" /></a></p>
 <h5>Clutter. We all have it (even me, a professional organizer). But clutter shouldn&rsquo;t be seen as a dirty word.</h5><br />

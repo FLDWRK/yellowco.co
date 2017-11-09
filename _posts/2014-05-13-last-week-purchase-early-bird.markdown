@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Last Week to Purchase Early Bird
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 501
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=501
 date: '2014-05-13 04:22:32 -0700'
-date_gmt: '2014-05-13 04:22:32 -0700'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/05/EarlyBird.jpg"><img class="alignnone size-full wp-image-503" alt="EarlyBird" src="http://yellowconference.com/wp-content/uploads/2014/05/EarlyBird.jpg" width="700" height="419" /></a></p>
 <p>Hey Ladies!&nbsp;Just wanted to give you all the heads up- our Early Bird pricing is ending May 17th. The cost for admission <a href="https://ti.to/yellowconference/the-yellow-conference">right now is $229</a>, and it will go up to $289 after Early Bird.</p>

@@ -1,25 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: "#BLOOM TOGETHER: KICKSTARTER UPDATE"
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2837
+title: "#bloom Together: Kickstarter Update"
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2837
 date: '2015-04-21 04:00:34 -0700'
-date_gmt: '2015-04-21 11:00:34 -0700'
 categories:
 - Light Talk
 - Inspiration
 - Encouragement
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/photo-1421986527537-888d998adb74.jpg"><img class="aligncenter size-full wp-image-2843" src="http://yellowconference.com/wp-content/uploads/2015/04/photo-1421986527537-888d998adb74.jpg" alt="YELLOW CO. KICKSTARTER" width="700" height="467" /></a></p>
 <p>In the midst of all the craziness of this month with our Kickstarter Campaign happening, we want to pause and remember&nbsp;<strong>why&nbsp;</strong>we are so invested in this project in the first place:&nbsp;<strong>you.&nbsp;</strong></p>

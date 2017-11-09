@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Creative Advocacy: Conscious Closets'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3237
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3237
 date: '2015-07-07 04:00:48 -0700'
-date_gmt: '2015-07-07 11:00:48 -0700'
 categories:
 - Light Talk
 - Creative Ladies
@@ -21,17 +10,6 @@ categories:
 - CREATIVE ADVOCACY
 - Inspiration
 - The Activist
-tags: []
-comments:
-- id: 3951
-  author: 10 REALISTIC WAYS YOU CAN START FIGHTING MODERN DAY SLAVERY NOW - Yellow
-    ConferenceYellow Conference
-  author_email: ''
-  author_url: http://yellowconference.com/stophumantrafficking/
-  date: '2015-08-20 04:03:45 -0700'
-  date_gmt: '2015-08-20 11:03:45 -0700'
-  content: "[&#8230;] super helpful when it comes to groceries and Overdressed can
-    help you shop clothing&mdash;or check out this post about having a conscious [&#8230;]"
 ---
 <p style="text-align: left;"><em>I couldn't think of a better way to kick off our Creative Activism series than with a guest post by my beautiful&nbsp;friend Johanna (pronounced Jo-ha-na...accentuate the <strong>ha</strong>...). When she's not doing some radical work with <a href="https://www.ijm.org/" target="_blank">International Justice Mission,</a>&nbsp;she's using her influence via social media to encourage women to dress fab with a conscious using&nbsp;<a href="https://instagram.com/explore/tags/consciousclosets/" target="_blank">#consciousclosests</a>. I asked her to share some of her advice on dressing with&nbsp;awareness and care, and simply loved everything&nbsp;she had to say...</em></p><br />
 <strong><a href="http://yellowconference.com/wp-content/uploads/2015/07/untitled-6-of-2-copy.jpg"><img class="aligncenter size-full wp-image-3243" src="http://yellowconference.com/wp-content/uploads/2015/07/untitled-6-of-2-copy.jpg" alt="untitled (6 of 2) copy" width="700" height="956" /></a>We all have those pivot points in our lives.</strong> You know what I&rsquo;m talking about, moments that change us from the inside out. I had yet another one (my life has consisted of many over the years) this past December. You see, I work for <a href="http://www.ijm.org">IJM</a>, the largest anti-trafficking organization in the world, and I have to tell you, <em>I love my job,</em> but it is HARD work--everything about it. Trafficking and justice work is my passion and all the incredible effort is worth it when my colleagues shut down <a href="http://thecnnfreedomproject.blogs.cnn.com/2013/03/20/toddlers-freed-from-brick-kiln-bondage/" target="_blank">another brick kiln in India</a> or rescue another girl from a brothel in Cebu.</p>

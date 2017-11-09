@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'SOCIAL MEDIA: THERE IS POWER BEHIND THE WHY AND WHAT YOU POST.'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4186
+title: 'Social Media: There is Power Behind the Why and What you Post.'
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4186
 date: '2015-10-27 04:00:05 -0700'
-date_gmt: '2015-10-27 11:00:05 -0700'
 categories:
 - Creative Ladies
 - Advice
@@ -24,8 +13,6 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
-tags: []
-comments: []
 ---
 <h6><a href="http://yellowconference.com/wp-content/uploads/2015/10/mscollection-65.jpg"><img class="aligncenter size-full wp-image-4188" src="http://yellowconference.com/wp-content/uploads/2015/10/mscollection-65.jpg" alt="yellow conference blog" width="700" height="467" /></a></h6></p>
 <h6>I have fallen in love with social media.</h6><br />

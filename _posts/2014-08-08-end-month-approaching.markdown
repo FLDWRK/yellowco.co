@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: The end of the month is approaching!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 770
+title: The End of the Month is Approaching!
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=770
 date: '2014-08-08 07:19:13 -0700'
-date_gmt: '2014-08-08 07:19:13 -0700'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/08/1798375_688079017895783_9181625871227757614_n.jpg"><img class="alignnone  wp-image-771" alt="1798375_688079017895783_9181625871227757614_n" src="http://yellowconference.com/wp-content/uploads/2014/08/1798375_688079017895783_9181625871227757614_n.jpg" width="700" height="700" /></a></p>
 <p>The end of the month is coming up quick- which means one thing: Yellow Conference is almost upon us ladies! We are busy getting ready for the big event.</p>

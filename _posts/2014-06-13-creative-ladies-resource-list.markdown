@@ -1,23 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: Get on our Resource List
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 602
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=602
 date: '2014-06-13 07:30:09 -0700'
-date_gmt: '2014-06-13 07:30:09 -0700'
 categories:
 - Resources
 - Inspiration
-tags: []
 comments:
 - id: 2324
   author: Rachel Dawson

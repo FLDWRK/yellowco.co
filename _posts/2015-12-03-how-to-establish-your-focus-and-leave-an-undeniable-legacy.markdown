@@ -1,19 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: ESTABLISH YOUR FOCUS AND YOU ARE GUARENTEED TO LEAVE AN UNDENIABLE LEGACY
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4321
+title: Establish Your Focus and you are Guarenteed to Leave an Undeniable Legacy
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4321
 date: '2015-12-03 04:00:52 -0800'
-date_gmt: '2015-12-03 04:00:52 -0800'
 categories:
 - Resources
 - Creative Ladies
@@ -25,24 +14,6 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
-tags: []
-comments:
-- id: 4016
-  author: Jennifer Sacco
-  author_email: jennifer@jennifersacco.com
-  author_url: https://www.jennifersacco.com
-  date: '2015-12-04 01:43:00 -0800'
-  date_gmt: '2015-12-04 01:43:00 -0800'
-  content: I asked myself that question two and half years ago... still enjoying the
-    journey! Truly a remarkable article!
-- id: 4017
-  author: Karina Renee
-  author_email: karina.renee.guionista@gmail.com
-  author_url: http://www.greenpiazza.com
-  date: '2015-12-04 21:30:00 -0800'
-  date_gmt: '2015-12-04 21:30:00 -0800'
-  content: In many ways I'm just starting the journey.  Thanks for sharing this encouraging
-    article.
 ---
 <h2><a href="http://yellowconference.com/wp-content/uploads/2015/12/photo2-14-06-51.jpg"><img class="aligncenter wp-image-4521 size-full" src="http://yellowconference.com/wp-content/uploads/2015/12/photo2-14-06-51.jpg" alt="the yellow conference blog: what will your legacy be? " width="700" height="467" /></a><a href="http://yellowconference.com/wp-content/uploads/2015/11/photo2-copy.jpg"><br />
 </a>1. Establish Your Focus</h2><br />

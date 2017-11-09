@@ -1,33 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
-title: HAPPY THANKSGIVING! HERE'S FIVE LINKS KEEPING US INSPIRED WHILE THE PIE IS
-  BAKING...
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 4314
+title: Happy Thanksgiving! Here's Five Links Keeping Us Inspired While the Pie is Baking...
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=4314
 date: '2015-11-26 04:00:48 -0800'
-date_gmt: '2015-11-26 12:00:48 -0800'
 categories:
 - Light Talk
 - Creative Ladies
 - Inspiration
-tags: []
-comments:
-- id: 4015
-  author: Jennifer Sacco
-  author_email: jennifer@jennifersacco.com
-  author_url: https://www.jennifersacco.com
-  date: '2015-11-27 05:06:00 -0800'
-  date_gmt: '2015-11-27 13:06:00 -0800'
-  content: Thanks for keeping the inspiration flowing!
 ---
 <h5>Happy Thanksgiving from the Yellow Co.!</h5><br />
 While you're waiting for that turkey to finish cooking, we thought we'd share some of our favorite blogs and sites to keep you busy and inspired!</p>

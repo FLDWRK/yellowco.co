@@ -1,27 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
-title: IJM+THE YELLOW CONFERENCE 2015
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3507
+title: Ijm+ The Yellow Conference 2015
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3507
 date: '2015-08-06 04:00:51 -0700'
-date_gmt: '2015-08-06 11:00:51 -0700'
 categories:
 - CREATIVE ADVOCACY
 - Inspiration
 - The Activist
 - Team Members
 - Yellow 2015
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-05-at-11.47.58-PM.png"><img class="aligncenter size-full wp-image-3523" src="http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-05-at-11.47.58-PM.png" alt="Screen shot 2015-08-05 at 11.47.58 PM" width="700" height="635" /></a>In his book <em>Adopted for Life</em>, Russell Moore writes, <em>&ldquo;Think of the plight of the orphan somewhere right now out there in the world. It&rsquo;s not just that she&rsquo;s lonely. It&rsquo;s that she has no inheritance, no future. With every passing year, she&rsquo;s less &lsquo;cute,&rsquo; less adoptable. In just a few years, on her eighteenth birthday, she&rsquo;ll be expelled from the orphanage or from &lsquo;the system.&rsquo; What will happen to her then? Maybe she&rsquo;ll join the military or find some job training. Maybe she&rsquo;ll stare at a tile on the ceiling above her as her body is violated by a man who&rsquo;s willing to pay her enough to eat for a day, alone in a back alley or in front of a camera crew of strangers&hellip;Can you feel the force of such desperation?&rdquo;</em></p>
 <p><strong>This imagery is hard to swallow. </strong></p>

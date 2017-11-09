@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Summer Care Package - Rosemary Cornbread
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 665
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=665
 date: '2014-07-11 15:00:57 -0700'
-date_gmt: '2014-07-11 15:00:57 -0700'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/07/HeroImage.jpg"><img class="alignnone size-full wp-image-666" alt="HeroImage" src="http://yellowconference.com/wp-content/uploads/2014/07/HeroImage.jpg" width="700" height="1050" /></a></p>
 <p>Happy Friday ladies! Summer is well underway here in LA. This past week has been hot! The Yellow Conference is just a little over a month away and we are so excited!</p>

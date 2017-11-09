@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'June #BloomGathering: Kick Start Your Summer with a Self Care Workshop!'
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 3119
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=3119
 date: '2015-06-10 04:45:38 -0700'
-date_gmt: '2015-06-10 11:45:38 -0700'
 categories:
 - The Activist
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/06/June_BLOOMGATHERING.jpg"><img class=" size-full wp-image-3120 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/06/June_BLOOMGATHERING.jpg" alt="June_BLOOMGATHERING" width="700" height="1035" /></a></p>
 <p>Super excited to announce our next <a href="http://yellowconference.com/wp-admin/post.php?post=1088&action=edit" target="_blank">#bloomgathering</a>. This month we are hanging out with <a href="http://www.thephilosophie.com/" target="_blank">Philosophie</a> founder, Sophie Jaffe. Sophie is going to be leading us through some self care tips along with a yoga class. The perfect way to jump start your health this summer. </p>

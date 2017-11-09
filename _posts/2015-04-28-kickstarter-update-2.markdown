@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Kickstarter Update!
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2867
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2867
 date: '2015-04-28 08:28:08 -0700'
-date_gmt: '2015-04-28 15:28:08 -0700'
 categories:
 - Resources
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/Jku6j2xC9AjRQwqLyYK-zAu9iJCYcZTZeOElvwlKVkEXI6ae0-Y3_7Ug8wtUjlnzt-8gt6RQI0R5Z5AWY1bVV41.jpg"><img class="aligncenter wp-image-2868 size-full" src="http://yellowconference.com/wp-content/uploads/2015/04/Jku6j2xC9AjRQwqLyYK-zAu9iJCYcZTZeOElvwlKVkEXI6ae0-Y3_7Ug8wtUjlnzt-8gt6RQI0R5Z5AWY1bVV41.jpg" alt="Jku6j2xC9AjRQwqLyYK-zAu9iJCYcZTZeOElvwlKVkE,XI6ae0-Y3_7Ug8wtUjlnzt-8gt6RQI0R5Z5AWY1bVV4" width="700" height="466" /></a></p>
 <p>Hey loves!</p>

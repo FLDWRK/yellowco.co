@@ -1,32 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: Santa Barbara Leadership Retreat
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 2737
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=2737
 date: '2015-04-11 04:30:34 -0700'
-date_gmt: '2015-04-11 11:30:34 -0700'
 categories:
 - Creative Ladies
 - The Leader
-tags: []
-comments:
-- id: 3907
-  author: Consider The Possibilities | Stilettos On The Rocks
-  author_email: ''
-  author_url: http://www.stilettosontherocks.com/consider-the-possibilities/
-  date: '2015-04-14 19:46:35 -0700'
-  date_gmt: '2015-04-15 02:46:35 -0700'
-  content: "[&#8230;] image shot by Ellen Wildhagen at the Leadership Retreat the
-    Yellow Conference hosted in [&#8230;]"
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-2.jpg"><img class="wp-image-2763" src="http://yellowconference.com/wp-content/uploads/2015/04/unnamed-2.jpg" alt="unnamed (2)" width="700" height="1050" /></a></p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8562.jpg"><img class=" size-full wp-image-2743 alignleft" src="http://yellowconference.com/wp-content/uploads/2015/04/IMG_8562.jpg" alt="IMG_8562" width="700" height="467" /></a><br />

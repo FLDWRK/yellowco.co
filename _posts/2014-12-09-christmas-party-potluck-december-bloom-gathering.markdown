@@ -1,23 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Christmas Party Potluck! Our December Bloom Gathering
-author:
-  display_name: admin
-  login: yellowco
-  email: heygirl@yellowconference.com
-  url: ''
-author_login: yellowco
-author_email: heygirl@yellowconference.com
-wordpress_id: 1474
+author: heygirl@yellowconference.com
 wordpress_url: http://yellowconference.com/?p=1474
 date: '2014-12-09 10:48:09 -0800'
-date_gmt: '2014-12-09 18:48:09 -0800'
 categories:
 - "#bloomyellow"
-tags: []
-comments: []
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2014/12/DECEMBER_BLOOMGATHERING.jpg"><img class="size-full wp-image-1475 alignleft" src="http://yellowconference.com/wp-content/uploads/2014/12/DECEMBER_BLOOMGATHERING.jpg" alt="DECEMBER_BLOOMGATHERING" width="700" height="1035" /></a><br />
 Our December Bloom Gathering is here! Join us next Monday at the <a href="http://www.shareanddogood.com/" target="_blank">Share and Do Good Storefront</a>.</p>
