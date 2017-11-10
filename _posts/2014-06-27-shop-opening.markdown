@@ -1,11 +1,12 @@
 ---
 title: Shop Opening!
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=651
 date: '2014-06-27 20:04:35 -0700'
 categories:
 - "#bloomyellow"
+redirect_from: "/bloomyellow/shop-opening/"
 ---
+
 <p>Happy Friday ladies!</p>
 <p>If you follow us on <a href="instagram.com/yellowconference" target="_blank">Instagram</a>, yesterday&nbsp;you may have gotten a peek at our new little project. We have a new <a href="http://yellowshop.bigcartel.com/" target="_blank">online shop</a>! Everything that we put in this shop will fall in line with our heart, "spread goodness and bloom". When we are able to do things for others, work for something greater than ourselves, it is then we are able to truly come alive. That's what we're here for!</p>
 <p>Right now we have these <a href="http://yellowshop.bigcartel.com/product/friend-postcard" target="_blank">adorable postcards</a> for sale. Each pack comes with 7 postcards, all for the purpose of telling your friends that you love them and are thankful for them. The front reads, "Just wanted to say thank you for being a great friend".</p>

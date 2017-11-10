@@ -20,7 +20,7 @@ Almost 3 years ago now, I had an idea too. It was the kind that hit me like a fr
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/08/Yellow_2015_Day_2-105.jpg"><img class="aligncenter wp-image-6488" src="http://yellowconference.com/wp-content/uploads/2016/08/Yellow_2015_Day_2-105-1024x683.jpg" alt="Yellow_2015_Day_2-105" width="700" height="467" /></a></p>
 <p><strong>How did I get from that idea in the shower to where I am today?</strong></p>
 <p>Here are three things I did in the VERY beginning to make my shower idea become a reality. My hopes in telling you these very beginning steps is that it will help you too know how to move forward!</p>
-<h2><span style="text-decoration: underline;"><strong>1. I FIGURED OUT MY WHY</strong></span></h2><br />
+<h2> <strong>1. I FIGURED OUT MY WHY</strong> </h2><br />
 I knew that in order to really tell people about what I was doing and for myself to understand how I was going to make decisions, I&nbsp;really needed to figure out my mission statement. WHY I'm doing this. This is the heartbeat of your brand, and moving forward without knowing your why isn't the best idea.</p>
 <p><strong>HERE'S WHAT TO DO:</strong></p>
 <p>1. Take out a piece of paper or open up a new document on your computer and just WRITE. Let it flow and don't think about it. Write out everything that comes to you.</p>
@@ -29,7 +29,7 @@ I knew that in order to really tell people about what I was doing and for myself
 <p><a href="http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-12.49.30-PM.png"><img class="aligncenter size-full wp-image-7249" src="http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-12.49.30-PM.png" alt="screen-shot-2016-11-10-at-12-49-30-pm" width="670" height="498" /></a></p>
 <p>I find stepping away and getting my brain in a new space then revisiting really helps me approach my writing with a fresh and clear perspective.</p>
 <p>After you've done this a few times, see if you can get it down to 2-4 sentences. Congrats! You have your mission statement!!</p>
-<h2><span style="text-decoration: underline;"><strong>2. I DEVELOPED A MINIMUM VIABLE PRODUCT</strong></span></h2><br />
+<h2> <strong>2. I DEVELOPED A MINIMUM VIABLE PRODUCT</strong> </h2><br />
 A what the what?? Also refferred to as the MVP.</p>
 <p><strong>The MVP is the&nbsp;the minimum thing you can do to get your&nbsp;business started.&nbsp;Meaning, what can you get up and running to start testing things out and getting started with the LEAST amount of time, money and effort?</strong></p>
 <p>Far too often I see people pour a ton of money into a beautiful new website, packaging materials and product development, when they don't even know if the way they want to do business is going to work or not. When launch day comes, here you are with a ton of money into this project, a beautiful site &amp; branding, but you have no data to figure out if people actually like what you've made. NOT fun!!</p>
@@ -63,7 +63,7 @@ The words that you use to communicate your idea are just as important if not mor
 <h2><em><strong>&bull; If all else fails, go back to your WHY. (AKA: DON'T YOU DARE GIVE UP GIRL!!)</strong></em></h2><br />
 Just because what your idea didn't work out, doesn't mean that you can't tweak it and move towards a new idea that helps solve the same problem. If your WHY&nbsp;relates to helping teens in the foster care system earn a living&nbsp;and your idea was to have the teens making oven mits to sell... you can still help these teens&nbsp;and act upon your&nbsp;WHY, but maybe you need to think of a different product for them to make. Something people will get really excited about buying.</p>
 <p>&nbsp;</p>
-<h2><span style="text-decoration: underline;"><strong>3. I&nbsp;ASKED AWESOME PEOPLE TO GET INVOLVED</strong></span></h2><br />
+<h2> <strong>3. I&nbsp;ASKED AWESOME PEOPLE TO GET INVOLVED</strong> </h2><br />
 Once you have something you know is good- it's amazing how much faster you can grow and create better work when you have kind, talented people on board with you. Even if you don't have the money to pay people at first, creating ambassadors, creating volunteer positions or even doing a trade of services is a great way to get awesome people to help you in the beginning.</p>
 <p style="padding-left: 30px;"><strong>&bull; First, start an Excel spreadsheet and brainstorm out what you need help with.</strong></p></p>
 <p style="padding-left: 30px;"><strong>&bull; Second,</strong> <strong>list all of the people you know who are awesome at what they do along with their email addresses, and what jobs you could see them doing.</strong> How could their skills help you where you need it?</p></p>

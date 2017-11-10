@@ -9,8 +9,8 @@ categories:
 - Tribe
 ---
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0042.jpg"><img class="aligncenter size-full wp-image-2832" src="http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0042.jpg" alt="The Yellow Blog: Tribe Series" width="700" height="467" /></a>My sisters are my best friends<br />
-<span style="line-height: 1.5;">And they have been since the moment we figured out<br />
-</span><span style="line-height: 1.5;">that we&rsquo;re sort of stuck with one another</span></p>
+ And they have been since the moment we figured out<br />
+  that we&rsquo;re sort of stuck with one another </p>
 <p>We would have moments where we we&rsquo;re just so in love<br />
 We would cuddle and tease<br />
 Laugh and share ridiculous stories</p>

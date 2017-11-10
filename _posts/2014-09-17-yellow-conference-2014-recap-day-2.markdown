@@ -5,6 +5,7 @@ wordpress_url: http://yellowconference.com/?p=869
 date: '2014-09-17 16:23:16 -0700'
 categories:
 - Yellow 2014
+redirect_from: ""
 ---
 <p>The second day of the conference was filled with different speakers and goodies, but the spirit and inspiration was very much the same.<br />
 <a href="http://yellowconference.com/wp-content/uploads/2014/09/xONIp0shiB0LannkT8hFyTEiZG6joGa9WyinXcErNZAAFqbv_9DB03ieF_fDYH5kuaDURPEujakfJILLq-ZoHs.jpg"><img class="alignnone size-full wp-image-870" style="margin-top: 15px; margin-bottom: 15px;" alt="xONIp0shiB0LannkT8hFyTEiZG6joGa9WyinXcErNZA,AFqbv_9DB03ieF_fDYH5kuaDURPEujakfJILLq-ZoHs" src="http://yellowconference.com/wp-content/uploads/2014/09/xONIp0shiB0LannkT8hFyTEiZG6joGa9WyinXcErNZAAFqbv_9DB03ieF_fDYH5kuaDURPEujakfJILLq-ZoHs.jpg" width="700" height="466" /></a><br />

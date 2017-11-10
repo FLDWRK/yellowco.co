@@ -6,6 +6,7 @@ wordpress_url: http://yellowco.co/?p=9626
 date: '2017-10-09 04:00:54 -0700'
 categories:
 - Come Together
+
 ---
 <p>When we are faced with acts of hate, so many questions arise. How could a human possibly be capable of such a thing? How can we help those most hurt by it? And when one particular group of people&nbsp;are&nbsp;the target of that hate, how can we&nbsp;come together and show empathy, though we may never be able to fully understand their experience?</p>
 <p>Today, we are so glad to share&nbsp;a conversation we had about all of this with Gabby Almon, founder of&nbsp;<a href="https://riseofthebulls.com/" target="_blank" rel="noopener noreferrer">Rise of the Bulls</a>.&nbsp;With a&nbsp;deep background in homeland security and humanitarian aid, she decided to create a new effort to make change.&nbsp;Rise of the Bulls&nbsp;is a&nbsp;strategic collection of disrupters, creatives, and doers, who are mobilizing to radically shift how our world works. Together, they find &ldquo;big problems&rdquo;, break up the systems that make those problems possible, and put their solutions in the hands of people who are ready to put those ideas to work.</p>

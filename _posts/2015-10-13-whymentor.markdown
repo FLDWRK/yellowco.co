@@ -18,8 +18,8 @@ We can be that type of person to someone else. You, with the knowledge and wisdo
 <h5>You could be that teacher, that mentor someone is looking for to guide them on their own creative journey.</h5><br />
 Mentoring stretches us to evaluate where our worth, identity, and confidence lies (God, business, popularity, etc), provides us with an opportunity to examine why we make certain choices, and elevates others to chase their dreams and reach their potential. We get better as we help others grow too. It&rsquo;s intentional and beautiful. A total win-win!</p>
 <p><a href="http://yellowconference.com/wp-content/uploads/2015/10/untitled-74-of-1234.jpg"><img class="aligncenter size-full wp-image-4104" src="http://yellowconference.com/wp-content/uploads/2015/10/untitled-74-of-1234.jpg" alt="yellow conference blog" width="700" height="467" /></a></p>
-<h5><span style="line-height: 1.5;">Mentoring gives us a chance to help someone reach and achieve their dreams, while also refining ourselves and our work.</span></h5><br />
-<span style="line-height: 1.5;">Over the past 6-7 years, I&rsquo;ve had the privilege of mentoring young women in their spiritual growth. I believe that my experience mentoring these girls has given me helpful insight about the mentoring process to inspire you to consider mentoring others too!</span></p>
+<h5> Mentoring gives us a chance to help someone reach and achieve their dreams, while also refining ourselves and our work. </h5><br />
+ Over the past 6-7 years, I&rsquo;ve had the privilege of mentoring young women in their spiritual growth. I believe that my experience mentoring these girls has given me helpful insight about the mentoring process to inspire you to consider mentoring others too! </p>
 <ol>
 <li>
 <h6><strong>Be open</strong> <strong>+ available.</strong></h6><br />
