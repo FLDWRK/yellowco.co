@@ -38,8 +38,8 @@ A designer/dear college friend shared this truth and I take it to heart daily: <
 <div id="mc_embed_signup">
 <form id="mc-embedded-subscribe-form" class="validate" action="//yellowconference.us3.list-manage.com/subscribe/post?u=3f8e45f74e0653e404965e2ef&amp;id=8d40e73403" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 <div id="mc_embed_signup_scroll">
-<p class="indicates-required"><em><span class="asterisk">*</span> indicates required</em></p></p>
-<div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span><br />
+<p class="indicates-required"><em> *  indicates required</em></p></p>
+<div class="mc-field-group"><label for="mce-EMAIL">Email Address  * <br />
 </label><br />
 <input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></div></p>
 <div id="mce-responses" class="clear"></div><br />

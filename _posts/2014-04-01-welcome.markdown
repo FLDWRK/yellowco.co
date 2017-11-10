@@ -1,10 +1,10 @@
 ---
 title: Welcome!
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=371
 date: '2014-04-01 19:27:41 -0700'
 categories:
 - Light Talk
+redirect_from: "/light-talk/welcome/"
 ---
 
 [![Blog_2](http://yellowconference.com/wp-content/uploads/2014/04/Blog_21.jpg)](http://yellowconference.com/wp-content/uploads/2014/04/Blog_21.jpg)

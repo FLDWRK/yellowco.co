@@ -24,6 +24,6 @@ I was just as surprised! By the end of the night, I couldn&rsquo;t even remember
 <h4><a href="http://yellowco.co/membership/" target="_blank" rel="noopener noreferrer">CLICK HERE FOR MORE INFO ON THE YELLOW COLLECTIVE MEMBERSHIP</a></h4></p>
 <h5>Interested in being a part of or helping out with next year's Yellow tour? Get in touch with our Operations Coordinator, Kacy, at: kacy@fldwrk.io</h5><br />
 &nbsp;</p>
-<p><em>Photos by:&nbsp;<a href="https://www.lepetitenoir.com/" target="_blank" rel="noopener noreferrer"><span class="gD" data-hovercard-id="alandrachavarria@gmail.com">Alandra Chavarria</span>&nbsp;</a></em><em><a href="https://www.instagram.com/alandramichelle/" target="_blank" rel="noopener noreferrer"><br />
+<p><em>Photos by:&nbsp;<a href="https://www.lepetitenoir.com/" target="_blank" rel="noopener noreferrer">Alandra Chavarria &nbsp;</a></em><em><a href="https://www.instagram.com/alandramichelle/" target="_blank" rel="noopener noreferrer"><br />
 </a></em></p>
 <p><a href="https://www.cheerfull.co/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-9633 size-full" src="http://yellowco.co/wp-content/uploads/2017/09/Allie-Fleming-Bio.jpg" alt="Allie Fleming Bio" width="2699" height="980" /></a></p>

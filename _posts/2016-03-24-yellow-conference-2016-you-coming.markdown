@@ -17,8 +17,8 @@ I mean, Jedidiah Jenkins (have you seen <a href="https://vimeo.com/120206922" ta
 <p>[expand title="ALEXIS JONES</p>
 <p><em>Writer. Speaker. Activist.</em>" tag="p"]</p>
 <div>
-<p class="p1"><em><span class="s1">Leveraging her entertainment background as a vehicle to empower youth, Lex launched I AM THAT GIRL, and quickly became an internationally recognized speaker, media personality, activist, and author. She has established herself as a thought leader for her generation and an expert on Gen Y. Recently, after being asked to speak to the 18 most influential high school quarterbacks in the country for an ESPNU TV show called Elite 11, she transitioned into empowering young women through the empowerment of young men. Lex is working to broaden the narrow definition of &ldquo;manhood&rdquo; and instill in young men the importance of respecting the girls and women in their lives. Her program, ProtectHer, is aimed at just that. She has spoken around the world, most recently bringing her ProtectHer program to the locker rooms at University of Washington, University of Florida, UCLA, USC, and more.</span></em></p></p>
-<p class="p1"><em><span class="s1">She has been featured as one of AOL&rsquo;s MAKERS along with Oprah Winfrey, Hilary Clinton, Ellen DeGeneres and Sheryl Sandberg. She was highlighted as an Ambassador for L&rsquo;Oreal&rsquo;s new STEM initiative, for Secret&rsquo;s &ldquo;Mean Stinks&rdquo; anti-bullying campaign, listed as one of DELL&rsquo;s #Inspire 100 List, Fast Company&rsquo;s &ldquo;Female Trailblazers,&rdquo; ESPN&rsquo;s &ldquo;Pop Culture&rsquo;s Top Ten,&rdquo; and recently as a Profiles in Power winner from Austin Business Journal.</span></em></p></p>
+<p class="p1"><em> Leveraging her entertainment background as a vehicle to empower youth, Lex launched I AM THAT GIRL, and quickly became an internationally recognized speaker, media personality, activist, and author. She has established herself as a thought leader for her generation and an expert on Gen Y. Recently, after being asked to speak to the 18 most influential high school quarterbacks in the country for an ESPNU TV show called Elite 11, she transitioned into empowering young women through the empowerment of young men. Lex is working to broaden the narrow definition of &ldquo;manhood&rdquo; and instill in young men the importance of respecting the girls and women in their lives. Her program, ProtectHer, is aimed at just that. She has spoken around the world, most recently bringing her ProtectHer program to the locker rooms at University of Washington, University of Florida, UCLA, USC, and more. </em></p></p>
+<p class="p1"><em> She has been featured as one of AOL&rsquo;s MAKERS along with Oprah Winfrey, Hilary Clinton, Ellen DeGeneres and Sheryl Sandberg. She was highlighted as an Ambassador for L&rsquo;Oreal&rsquo;s new STEM initiative, for Secret&rsquo;s &ldquo;Mean Stinks&rdquo; anti-bullying campaign, listed as one of DELL&rsquo;s #Inspire 100 List, Fast Company&rsquo;s &ldquo;Female Trailblazers,&rdquo; ESPN&rsquo;s &ldquo;Pop Culture&rsquo;s Top Ten,&rdquo; and recently as a Profiles in Power winner from Austin Business Journal. </em></p></p>
 <p class="p1">FIND MORE OF ALEXIS&nbsp;HERE:</p><br />
 <a href="http://alexisjones.com/" target="_blank">alexisjones.com</a>&nbsp;/ <a href="https://twitter.com/missalexisjones" target="_blank">Twitter</a> / <a href="https://www.instagram.com/missalexisjones/" target="_blank">Insta</a></p>
 <p>[/expand]</p>
@@ -27,7 +27,7 @@ I mean, Jedidiah Jenkins (have you seen <a href="https://vimeo.com/120206922" ta
 <img class="aligncenter wp-image-4862 size-full" src="http://yellowconference.com/wp-content/uploads/2015/11/Jessica-Hische-website.jpg" alt="" width="288" height="288" /></p>
 <p>[expand title="JESSICA HISCHE</p>
 <p><em>Letterer, Illustrator, &amp;&nbsp;Type Designer</em>" tag="p"]</p>
-<p><em><span class="run-in">Jessica Hische is a lettering artist</span>, illustrator, author, and self-described &ldquo;avid internetter&rdquo; working in San Francisco and Brooklyn. After graduating with a degree in Graphic and Interactive Design from Tyler School of Art (Temple University) in 2006, she worked for Headcase Design in Philadelphia before taking a position as Senior Designer at Louise Fili Ltd. In 2009, after two and a half years, Jessica left to further her freelance career and embark on several fun personal projects. Jessica began Daily Drop Cap, a project in which every day she created a new illustrative letter, working through the alphabet a total of twelve times. The popularity of Daily Drop Cap really kickstarted her career as a letterer, and has inspired many other designers to start daily lettering projects. Daily Drop Cap concluded in 2011, but you can find the letters in all sorts of places, from postcard sets to iPhone cases.</em></p>
+<p><em> Jessica Hische is a lettering artist , illustrator, author, and self-described &ldquo;avid internetter&rdquo; working in San Francisco and Brooklyn. After graduating with a degree in Graphic and Interactive Design from Tyler School of Art (Temple University) in 2006, she worked for Headcase Design in Philadelphia before taking a position as Senior Designer at Louise Fili Ltd. In 2009, after two and a half years, Jessica left to further her freelance career and embark on several fun personal projects. Jessica began Daily Drop Cap, a project in which every day she created a new illustrative letter, working through the alphabet a total of twelve times. The popularity of Daily Drop Cap really kickstarted her career as a letterer, and has inspired many other designers to start daily lettering projects. Daily Drop Cap concluded in 2011, but you can find the letters in all sorts of places, from postcard sets to iPhone cases.</em></p>
 <p><em>Jessica&rsquo;s clients includes Wes Anderson, The United States Postal Service, Tiffany &amp; Co., The New York Times, Penguin Books, Target, Starbucks, American Express, and Wired Magazine. She has also released several commercial typefaces which are available in her store. Jessica has been named a Print Magazine New Visual Artist (20 under 30), one of Forbes 30 under 30 in Art and Design, an ADC Young Gun, and a &ldquo;Person to Watch&rdquo; by GD USA. She&rsquo;s been personally profiled in many magazines including Eye Magazine (UK),Communication Arts, Grafik Magazine (UK), and Novum Magazine (Germany). Her first book, In Progress, is available through Chronicle Books.</em></p>
 <p>FIND MORE OF JESSICA&nbsp;HERE:</p>
 <p><a href="http://jessicahische.is/" target="_blank">jessicahische.is</a>&nbsp;/ <a href="https://twitter.com/jessicahische" target="_blank">Twitter</a> / <a href="https://www.instagram.com/jessicahische/" target="_blank">Insta</a></p>
@@ -46,7 +46,7 @@ I mean, Jedidiah Jenkins (have you seen <a href="https://vimeo.com/120206922" ta
 <p>[expand title="ARIELLE WILBURN</p>
 <p><em>Yellow 2016 Emcee</em>" tag="p"]<br />
 <em>"Words not for the ears but for the soul."</em></p>
-<p><em><span class="il">Arielle</span>&nbsp;is a Spoken Word Artist, Blogger and Motivational speaker. Published author of her first collaboration book of poetry, Vagabonds and Zealots (available on Amazon). Diligent in &nbsp;instilling "worthy" back into an insecure generation</em><i>.</i></p>
+<p><em> Arielle &nbsp;is a Spoken Word Artist, Blogger and Motivational speaker. Published author of her first collaboration book of poetry, Vagabonds and Zealots (available on Amazon). Diligent in &nbsp;instilling "worthy" back into an insecure generation</em><i>.</i></p>
 <p>&nbsp;</p>
 <div>FIND MORE OF ARIELLE HERE:</div></p>
 <div></div></p>
@@ -54,7 +54,7 @@ I mean, Jedidiah Jenkins (have you seen <a href="https://vimeo.com/120206922" ta
 <div></div></p>
 <div>[/expand]</div></p>
 <div class="yj6qo ajU"></div><br />
-<span style="line-height: 1.5;">[/ezcol_1third] [ezcol_1third]</span><img class="aligncenter wp-image-4617 size-medium" src="http://yellowconference.com/wp-content/uploads/2015/11/Kirsten-Dickerson-Instagram-300x300.jpg" alt="" width="300" height="300" /></p>
+ [/ezcol_1third] [ezcol_1third] <img class="aligncenter wp-image-4617 size-medium" src="http://yellowconference.com/wp-content/uploads/2015/11/Kirsten-Dickerson-Instagram-300x300.jpg" alt="" width="300" height="300" /></p>
 <p>[expand title="KIRSTEN&nbsp;DICKERSON</p>
 <p><em>CEO, Raven + Lily</em>" tag="p"]</p>
 <p><em>Kirsten Dickerson, CEO and Founder of <a href="http://www.ravenandlily.com/" target="_blank">Raven + Lily</a>, is a thought leader in the social business and ethical fashion industry.</em></p>
@@ -89,14 +89,14 @@ I mean, Jedidiah Jenkins (have you seen <a href="https://vimeo.com/120206922" ta
 <div class="gmail_default"></div></p>
 <div class="gmail_default">[/expand]</div><br />
 &nbsp;</p>
-<p><span style="line-height: 1.5;">[/ezcol_1third] [ezcol_1third_end]</span><img class="aligncenter wp-image-4616 size-medium" src="http://yellowconference.com/wp-content/uploads/2015/11/Krysta-Masciale-300x300.jpg" alt="" width="300" height="300" /></p>
+<p> [/ezcol_1third] [ezcol_1third_end] <img class="aligncenter wp-image-4616 size-medium" src="http://yellowconference.com/wp-content/uploads/2015/11/Krysta-Masciale-300x300.jpg" alt="" width="300" height="300" /></p>
 <p>[expand title="KRYSTA MASCIALE</p>
 <p><em>CEO, B!G DEAL BRANDING</em>" tag="p"]</p>
 <p><em>Krysta Masciale co-founded BDB in 2011 and continues to lead the agency as CEO, shaping the&nbsp;company&rsquo;s culture and leading the&nbsp;strategy team. She has a bachelor&rsquo;s degree from Wichita State University in Integrated Marketing and Communications and a graduate degree from Chapman University in Organizational Leadership. She lives in Los Angeles with her husband, son and two dogs.</em></p>
 <p>FIND MORE OF KRYSTA HERE:</p>
 <p><a href="http://www.bigdealbranding.com/" target="_blank">BigDealBranding.com</a> / <a href="https://twitter.com/krysta_masciale" target="_blank">Twitter</a> / <a href="https://www.instagram.com/krystamasciale/" target="_blank">Insta</a></p>
 <p>[/expand]</p>
-<p><span style="line-height: 1.5;">[/ezcol_1third_end]</span></p>
+<p> [/ezcol_1third_end] </p>
 <p>[ezcol_1third]<br />
 <a href="http://yellowconference.com/wp-content/uploads/2015/11/Tim-Harris-website.jpg"><img class="wp-image-5119 aligncenter" src="http://yellowconference.com/wp-content/uploads/2015/11/Tim-Harris-website.jpg" alt="" width="217" height="217" /></a></p>
 <p>[expand title="TIM HARRIS</p>

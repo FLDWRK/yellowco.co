@@ -23,7 +23,7 @@ Was I made all wrong?</p>
 </em><em>Too much flat in her chest,<br />
 </em><em>Too little grace in her bones?</em></p></p>
 <p style="text-align: justify;">I have tried to live on a thin line of embracing these love handles<br />
-<span style="font-size: 16px; line-height: 1.5;">And being too much to handle in order to love</span></p></p>
+ And being too much to handle in order to love </p></p>
 <p style="text-align: justify;">Living life as an attempt to be seen beautiful in everyone else&rsquo;s eyes but my own<br />
 So afraid that if no would dare get close enough to hold me,<br />
 sit me down tell me <em>girl, you were created for beautiful things&nbsp;</em></p></p>
@@ -42,12 +42,12 @@ Than temporary home</p></p>
 <p style="text-align: justify;">She is a lighthouse, always guiding, always leading<br />
 And no one has to tell her when to stop shining, because it&rsquo;s already her job</p></p>
 <p style="text-align: justify;">That she is more temple than ally way<br />
-<span style="font-size: 16px; line-height: 1.5;">She is no ones passing through</span></p></p>
+ She is no ones passing through </p></p>
 <p style="text-align: justify;">Tell her that, <em>Darling, don&rsquo;t let anyone trace out the atlas of your own maps</em><br />
 Do not let them re-write your namesake</p></p>
 <p style="text-align: justify;">Tell her, that her creator already said <em>it was good<br />
 </em>very good<br />
-<span style="line-height: 1.5;">when he took his first glance at you</span></p></p>
+ when he took his first glance at you </p></p>
 <p style="text-align: justify;"><em>Don&rsquo;t let anyone take that away from you</em></p></p>
 <p style="text-align: justify;">For so long we&rsquo;ve been told that these bodies are not ours,<br />
 It&rsquo;s time we told them differently.</p></p>
