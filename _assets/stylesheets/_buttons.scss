@@ -7,9 +7,18 @@ button.btn {
   padding: 0.8rem 0.85rem 0.8rem;
   color: $white;
   text-shadow: none !important;
+  border-bottom: none;
 }
 .btn.btn-primary {
   border-bottom-color: $brand-black;
+}
+.btn.btn-outline-primary {
+  border-bottom: 4px solid $brand-black;
+  color: $brand-black;
+  &:hover {
+    border-bottom: 4px solid $brand-black;
+    color: $white;
+  }
 }
 .btn-rule {
   border-top: 1px solid $brand-black;
