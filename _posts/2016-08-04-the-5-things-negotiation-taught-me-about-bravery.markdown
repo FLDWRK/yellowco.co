@@ -1,33 +1,54 @@
 ---
 title: Scared of Negotiations? Here's 5 Ways to Perfect the Art of Negotiating
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=6318
 date: '2016-08-04 04:00:57 -0700'
 categories:
 - Advice
 - The Leader
 - Valor
+redirect_from: "/advice/the-5-things-negotiation-taught-me-about-bravery/"
 ---
-<h2> <em><a href="http://yellowconference.com/wp-content/uploads/2016/08/NEgotiation.jpg"><img class="aligncenter size-full wp-image-6406" src="http://yellowconference.com/wp-content/uploads/2016/08/NEgotiation.jpg" alt="NEgotiation" width="700" height="737" /></a><a href="http://yellowconference.com/wp-content/uploads/2016/08/Negotiation-Bravery1.jpg"><br />
-</a>There is an art to negotiating, and I didn&rsquo;t know anything about it until I was in over my head in a sales role.</em>  </h2><br />
- Like most of my peers coming out of college I did NOT want a job in &ldquo;sales", because sales in my mind was slimy&hellip; and scary. Hello Mr. Rejection, would you like to be friends? No thanks.  </p>
-<p>Well, I soon found myself being thrown into a fundraising role at a non profit and reading tons of books about it &ndash; I was desperate for that magic bullet full of answers on how to bring in the big bucks. I quickly realized that I was just being insecure about my product and if I refocused myself on the passion I had for my job and our cause, mixed with some basic negotiating skills I could overcome all the anxiety and worry.</p>
-<p>I have now been in some sort of a sales, fundraising, or business development position for over five years. And it&rsquo;s taught me more about myself and being brave in your beliefs than anything else has.</p>
-<h2>Here's what I&rsquo;ve learned:</h2></p>
-<h4> 1. You have to ask for what you want &ndash;  <b style="line-height: 1.5;">first</b></h4><br />
- Putting your stake in the ground first is a negotiating tactic that I was taught. You set the tone, and start the conversation where YOU want it to be. Expect the other person to work to find your boundaries, and then you can settle somewhere you both are comfortable with. The hard part is this:  <i> knowing what you want. </i>  Ain&rsquo;t that the truth about life?! Identify what you want &ndash; and ask for it. If you don&rsquo;t know what you want, it&rsquo;s pretty hard to ask for the right cure.  </p>
-<h4><strong>2. After you ask, be silent</strong></h4><br />
-The most awkward part of the negotiation is right after you make your ask or give your number, then you must be silent. Don&rsquo;t make excuses, don&rsquo;t hedge, don&rsquo;t babble &ndash; <em>just sit silently. </em></p>
-<p>I find this to be true in terms of meditation, prayer, and even my relationship with my husband. Once I&rsquo;ve asked for what I want/need, then I need to let everyone involved sit with it and allow for a response. The universe/God/your husband/your client/etc. will respond in their own way. Make space for it. Allow it.<a href="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-25.jpg"><br />
-</a></p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-53.jpg"><img class="aligncenter size-full wp-image-6323" src="http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-53.jpg" alt="ValerieDenisePhotos-53" width="700" height="467" /></a></p>
-<h4><strong>3. Know your worth</strong></h4><br />
-Oh baby this is a big one. You need to be able to justify the value of what you are asking. From a charitable donation to a client proposal, you must know and believe the cost that you are asking for &ndash; you need to be able to outline how the money will be spent, why it&rsquo;s important and how you came up with the numbers you&rsquo;re asking for. Same goes for being a human &ndash; <i>know your worth, respect yourself and don&rsquo;t be afraid to stand up and fight for that worth. </i></p>
-<h4>4. Be OK with walking away from a deal</h4><br />
- If it&rsquo;s not meant to be, and it&rsquo;s not a win for both parties, then be content with walking away. No one ever knows the full story, so if something doesn&rsquo;t feel right, walk away. Or if someone gives  <i> you </i>  a no, let them walk, too. You shouldn&rsquo;t live and die by a deal, or a situation, or a circumstance, or a person &ndash; be OK walking away if it&rsquo;s just not right.  </p>
-<p><i> Note:  </i> this is at the time of negotiation &ndash; I&rsquo;d have different advice for an agreed upon situation, which would be to stay the course. More on that another day... </p>
-<h4><strong>5. It&rsquo;s not losing if you stuck to your guns and it didn&rsquo;t work out</strong></h4><br />
-If you know your worth and truly believe in it, and asked for it, and it didn&rsquo;t work out it&rsquo;s not a failure. That&rsquo;s called a lesson. Ask yourself (or even the other person), <i>&ldquo;why didn&rsquo;t this work?&rdquo;</i> Sometimes it just takes a tweak to get it right, or a different client, or a new way of saying things. Don&rsquo;t give up on who you are, and what your value is.</p>
-<p>All of these things are easier said than done. The first few times you have to negotiate and stand up for what you believe is completely dizzying. But, stick with your plan and what you know to be true and you&rsquo;ll go places &ndash; I promise.<a href="http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&amp;id=7cb1ced4ff" target="_blank"><img class="aligncenter size-full wp-image-6077" src="http://yellowconference.com/wp-content/uploads/2016/07/EMAIL-LIST.png" alt="The Yellow Co. Blog Email List...so much goodness in just one email..." width="700" height="187" /></a></p>
-<p><em>Photos by <a href="http://www.valeriedenisephotos.com/" target="_blank">Valerie Denise</a></em></p>
-<p><a href="http://www.abelimpact.com/" target="_blank"><img class="aligncenter size-full wp-image-5281" src="http://yellowconference.com/wp-content/uploads/2016/04/Baylie.jpg" alt="Baylie" width="700" height="264" /></a></p>
+
+## _[![NEgotiation](http://yellowconference.com/wp-content/uploads/2016/08/NEgotiation.jpg)](http://yellowconference.com/wp-content/uploads/2016/08/NEgotiation.jpg)[  
+](http://yellowconference.com/wp-content/uploads/2016/08/Negotiation-Bravery1.jpg)There is an art to negotiating, and I didn’t know anything about it until I was in over my head in a sales role._
+
+Like most of my peers coming out of college I did NOT want a job in “sales", because sales in my mind was slimy… and scary. Hello Mr. Rejection, would you like to be friends? No thanks.
+
+Well, I soon found myself being thrown into a fundraising role at a non profit and reading tons of books about it – I was desperate for that magic bullet full of answers on how to bring in the big bucks. I quickly realized that I was just being insecure about my product and if I refocused myself on the passion I had for my job and our cause, mixed with some basic negotiating skills I could overcome all the anxiety and worry.
+
+I have now been in some sort of a sales, fundraising, or business development position for over five years. And it’s taught me more about myself and being brave in your beliefs than anything else has.
+
+## Here's what I’ve learned:
+
+#### 1\. You have to ask for what you want – **first**
+
+Putting your stake in the ground first is a negotiating tactic that I was taught. You set the tone, and start the conversation where YOU want it to be. Expect the other person to work to find your boundaries, and then you can settle somewhere you both are comfortable with. The hard part is this: _knowing what you want._ Ain’t that the truth about life?! Identify what you want – and ask for it. If you don’t know what you want, it’s pretty hard to ask for the right cure.
+
+#### **2\. After you ask, be silent**
+
+The most awkward part of the negotiation is right after you make your ask or give your number, then you must be silent. Don’t make excuses, don’t hedge, don’t babble – _just sit silently._
+
+I find this to be true in terms of meditation, prayer, and even my relationship with my husband. Once I’ve asked for what I want/need, then I need to let everyone involved sit with it and allow for a response. The universe/God/your husband/your client/etc. will respond in their own way. Make space for it. Allow it.[  
+](http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-25.jpg)
+
+[![ValerieDenisePhotos-53](http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-53.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-53.jpg)
+
+#### **3\. Know your worth**
+
+Oh baby this is a big one. You need to be able to justify the value of what you are asking. From a charitable donation to a client proposal, you must know and believe the cost that you are asking for – you need to be able to outline how the money will be spent, why it’s important and how you came up with the numbers you’re asking for. Same goes for being a human – _know your worth, respect yourself and don’t be afraid to stand up and fight for that worth._
+
+#### 4\. Be OK with walking away from a deal
+
+If it’s not meant to be, and it’s not a win for both parties, then be content with walking away. No one ever knows the full story, so if something doesn’t feel right, walk away. Or if someone gives _you_ a no, let them walk, too. You shouldn’t live and die by a deal, or a situation, or a circumstance, or a person – be OK walking away if it’s just not right.
+
+_Note:_ this is at the time of negotiation – I’d have different advice for an agreed upon situation, which would be to stay the course. More on that another day...
+
+#### **5\. It’s not losing if you stuck to your guns and it didn’t work out**
+
+If you know your worth and truly believe in it, and asked for it, and it didn’t work out it’s not a failure. That’s called a lesson. Ask yourself (or even the other person), _“why didn’t this work?”_ Sometimes it just takes a tweak to get it right, or a different client, or a new way of saying things. Don’t give up on who you are, and what your value is.
+
+All of these things are easier said than done. The first few times you have to negotiate and stand up for what you believe is completely dizzying. But, stick with your plan and what you know to be true and you’ll go places – I promise.[![The Yellow Co. Blog Email List...so much goodness in just one email...](http://yellowconference.com/wp-content/uploads/2016/07/EMAIL-LIST.png)](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)
+
+_Photos by [Valerie Denise](http://www.valeriedenisephotos.com/)_
+
+[![Baylie](http://yellowconference.com/wp-content/uploads/2016/04/Baylie.jpg)](http://www.abelimpact.com/)

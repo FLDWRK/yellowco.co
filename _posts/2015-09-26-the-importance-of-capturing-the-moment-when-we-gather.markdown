@@ -1,24 +1,35 @@
 ---
 title: The Importance of Capturing the Moment When We Gather
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=4013
 date: '2015-09-26 04:00:27 -0700'
 categories:
 - Light Talk
 - Creative Ladies
 - Encouragement
 - Yellow 2015
+redirect_from: "/light-talk/the-importance-of-capturing-the-moment-when-we-gather/"
 ---
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/09/863waz0264-L1.jpg"><img class="aligncenter size-full wp-image-4015" src="http://yellowconference.com/wp-content/uploads/2015/09/863waz0264-L1.jpg" alt="Yellow Conference: Spread good and bloom" width="700" height="467" /></a></p>
-<p>Yellow Conference 2015 is over (can you believe it's almost been a month!?)--but so many people I've talked to are still buzzing with inspiration, new dreams, and motivation to get cracking on seasoned ones that we've been chewing on. The speakers and workshops taught us innumerable amounts of advice and wisdom, both in the professional and personal areas of our lives. But, the one thing that makes an everlasting impact on our spirits, to encourage and push and hold accountable, is the community.</p>
-<h6>We gather with the sole intention of learning together, then inspiring one another towards goodness.</h6><br />
-And, sometimes, when we are sitting alone in a coffee shop, bugged by a deadline or feeling like our writer's block is terminal, it's easy to feel alone. Isolation and "dis-inspiration" (is that a word?!) can bog us down to a dark place. This is why it is necessary for us to document how and why we gather, and what happens when we do just that!</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/09/Untitled-12.jpg"><img class="aligncenter size-full wp-image-4016" src="http://yellowconference.com/wp-content/uploads/2015/09/Untitled-12.jpg" alt="Yellow Conference: Spread good and bloom" width="700" height="697" /></a></p>
-<p>It may be through journaling or blogging. Or it may be through a Polaroid or your smart phone. Whatever way you like to capture moments (scrapbooking party, anyone?), please, find your nitch and&nbsp;<strong>do it!</strong></p>
-<h6>At Yellow 2015, <a href="http://smilebooth.com/#/blog/" target="_blank">Smilebooth</a> partnered with us to help you capture those moments.</h6><br />
-Whether it was with new friends or old friends, messy volunteer hair (it's a real thing), or photos of your fabulous self, browsing through the memories brings back the inspiration you just might need to get through a day lacking in motivation or joy. It could possibly be the pick-me-up you need this week to finish that project, write that paper, handle that client, or just get out of a slump!</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/09/8665ag0154-L.jpg"><img class="aligncenter size-full wp-image-4017" src="http://yellowconference.com/wp-content/uploads/2015/09/8665ag0154-L.jpg" alt="Yellow Conference: Spread good and bloom" width="700" height="467" /></a> <a href="http://yellowconference.com/wp-content/uploads/2015/09/8665ag0050-L.jpg"><br />
-</a> <a href="http://yellowconference.com/wp-content/uploads/2015/09/865pyb0092-L.jpg"><img class="aligncenter size-full wp-image-4019" src="http://yellowconference.com/wp-content/uploads/2015/09/865pyb0092-L.jpg" alt="865pyb0092-L" width="700" height="467" /></a> <a href="http://yellowconference.com/wp-content/uploads/2015/09/863waz0214-L.jpg"><img class="aligncenter size-full wp-image-4020" src="http://yellowconference.com/wp-content/uploads/2015/09/863waz0214-L.jpg" alt="863waz0214-L" width="700" height="467" /></a> <a href="http://yellowconference.com/wp-content/uploads/2015/09/863waz0182-L.jpg"><img class="aligncenter size-full wp-image-4021" src="http://yellowconference.com/wp-content/uploads/2015/09/863waz0182-L.jpg" alt="863waz0182-L" width="700" height="467" /></a> <a href="http://yellowconference.com/wp-content/uploads/2015/09/863waz0110-L.jpg"><br />
-</a> <a href="http://yellowconference.com/wp-content/uploads/2015/09/863waz0058-L1.jpg"><img class="aligncenter size-full wp-image-4023" src="http://yellowconference.com/wp-content/uploads/2015/09/863waz0058-L1.jpg" alt="863waz0058-L" width="700" height="467" /></a> <a href="http://yellowconference.com/wp-content/uploads/2015/09/863waz0028-L.jpg"><img class="aligncenter size-full wp-image-4024" src="http://yellowconference.com/wp-content/uploads/2015/09/863waz0028-L.jpg" alt="863waz0028-L" width="700" height="467" /></a> <a href="http://yellowconference.com/wp-content/uploads/2015/09/863txh0018-L.jpg"><img class="aligncenter size-full wp-image-4025" src="http://yellowconference.com/wp-content/uploads/2015/09/863txh0018-L.jpg" alt="863txh0018-L" width="700" height="467" /></a></p>
-<p>Have you checked out the Yellow Conference 2015 on Smilebooth? Look for your pictures <a href="https://smilebooth.smugmug.com/gallery/51643998_XzzfDJ/" target="_blank">here!</a></p>
-<p><a href="http://lettersfromamister.tumblr.com/" target="_blank"><img class="aligncenter size-full wp-image-3273" src="http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg" alt="Sally Kim Content manager for the Yellow Co." width="700" height="264" /></a></p>
+
+[![Yellow Conference: Spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/09/863waz0264-L1.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/863waz0264-L1.jpg)
+
+Yellow Conference 2015 is over (can you believe it's almost been a month!?)--but so many people I've talked to are still buzzing with inspiration, new dreams, and motivation to get cracking on seasoned ones that we've been chewing on. The speakers and workshops taught us innumerable amounts of advice and wisdom, both in the professional and personal areas of our lives. But, the one thing that makes an everlasting impact on our spirits, to encourage and push and hold accountable, is the community.
+
+###### We gather with the sole intention of learning together, then inspiring one another towards goodness.
+
+And, sometimes, when we are sitting alone in a coffee shop, bugged by a deadline or feeling like our writer's block is terminal, it's easy to feel alone. Isolation and "dis-inspiration" (is that a word?!) can bog us down to a dark place. This is why it is necessary for us to document how and why we gather, and what happens when we do just that!
+
+[![Yellow Conference: Spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/09/Untitled-12.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/Untitled-12.jpg)
+
+It may be through journaling or blogging. Or it may be through a Polaroid or your smart phone. Whatever way you like to capture moments (scrapbooking party, anyone?), please, find your nitch and **do it!**
+
+###### At Yellow 2015, [Smilebooth](http://smilebooth.com/#/blog/) partnered with us to help you capture those moments.
+
+Whether it was with new friends or old friends, messy volunteer hair (it's a real thing), or photos of your fabulous self, browsing through the memories brings back the inspiration you just might need to get through a day lacking in motivation or joy. It could possibly be the pick-me-up you need this week to finish that project, write that paper, handle that client, or just get out of a slump!
+
+[![Yellow Conference: Spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/09/8665ag0154-L.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/8665ag0154-L.jpg)[  
+](http://yellowconference.com/wp-content/uploads/2015/09/8665ag0050-L.jpg)[![865pyb0092-L](http://yellowconference.com/wp-content/uploads/2015/09/865pyb0092-L.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/865pyb0092-L.jpg) [![863waz0214-L](http://yellowconference.com/wp-content/uploads/2015/09/863waz0214-L.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/863waz0214-L.jpg) [![863waz0182-L](http://yellowconference.com/wp-content/uploads/2015/09/863waz0182-L.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/863waz0182-L.jpg)[  
+](http://yellowconference.com/wp-content/uploads/2015/09/863waz0110-L.jpg)[![863waz0058-L](http://yellowconference.com/wp-content/uploads/2015/09/863waz0058-L1.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/863waz0058-L1.jpg) [![863waz0028-L](http://yellowconference.com/wp-content/uploads/2015/09/863waz0028-L.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/863waz0028-L.jpg) [![863txh0018-L](http://yellowconference.com/wp-content/uploads/2015/09/863txh0018-L.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/863txh0018-L.jpg)
+
+Have you checked out the Yellow Conference 2015 on Smilebooth? Look for your pictures [here!](https://smilebooth.smugmug.com/gallery/51643998_XzzfDJ/)
+
+[![Sally Kim Content manager for the Yellow Co.](http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

@@ -1,26 +1,41 @@
 ---
-title: 'A Day in the Life: With Kelly Valentine'
+title: 'A Day in the Life: with Kelly Valentine'
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=2244
 date: '2015-03-17 04:00:30 -0700'
 categories:
 - Light Talk
 - Team Members
+redirect_from: "/light-talk/a-day-in-the-life-with-kelly-valentine/"
 ---
-<p>Yes, she's the go-getter-planner-get-it-done-girl behind our monthly Bloom Gatherings. And yes, that is her real last name (for now...she's soon to become a Mrs.!). Ladies, Miss Kelly Valentine:</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/kellydil.jpg"><img class="aligncenter size-full wp-image-2241" src="http://yellowconference.com/wp-content/uploads/2015/03/kellydil.jpg" alt="kelly day in the life" width="700" height="933" /></a>Since Bloom Gatherings are my passion project, my normal days are spent running around the LA market of Dinner of Dinner Lab. What is <a href="https://dinnerlab.com/" target="_blank">Dinner Lab</a>, you ask? It's a membership based pop up dining club that features a different Chef, menu, and venue every time. So today started off with a conference call with <a href="http://www.sidechef.com/" target="_blank">SideChef</a> (a step-by-step cooking app) to see possibilities for collaborating.</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/app.jpg"><img class="aligncenter size-full wp-image-2239" src="http://yellowconference.com/wp-content/uploads/2015/03/app.jpg" alt="app" width="700" height="525" /></a>&nbsp;After that, I addressed more save the dates for my upcoming wedding (October 3rd!!). It's been quite the process, hand addressing all of these, so I've been doing them in chunks throughout the day to give my hands a break...</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/savethedate.jpg"><img class="aligncenter size-full wp-image-2232" src="http://yellowconference.com/wp-content/uploads/2015/03/savethedate.jpg" alt="Kelly Day in the Life" width="700" height="933" /></a>Then I took my sweet rescue pup, Liberty (aka Libby, shizza, stinkface, muffin girl), to get a MUCH needed grooming. I'm bummed I forgot to snap a&nbsp;before pic, but I assure you, she looked like a tiny Yeti. <em>Not</em> good...Whilst waiting for her to get done with her spa day, I decided to go shopping for our next Bloom Gathering coming up (March 22nd!!)!! I love coming up with a theme for each gathering, and this month we decided that we just wanted it to feel like Spring--even though it's been feeling more like the dead of Summer here in L.A. (I'm not complaining, I promise!!)...</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/spring.jpg"><img class="aligncenter size-full wp-image-2234" src="http://yellowconference.com/wp-content/uploads/2015/03/spring.jpg" alt="spring" width="700" height="525" /></a></p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/Notepads.jpg"><img class="aligncenter size-full wp-image-2235" src="http://yellowconference.com/wp-content/uploads/2015/03/Notepads.jpg" alt="Notepads" width="700" height="933" /></a></p>
-<p>All that shopping worked up an appetite, but I don't have too much time before I have to pick up the shiny new version of the dog I dropped off. I could only think of one place I wanted to go: In-N-Out Burger (Double-Double protein style...fun fact: I'm gluten free). It's the best fast-food burger out there-so all of you ladies that are coming from out of town to the Yellow Conference, put In-N-Out on your "to do" list while you're here. You're welcome.</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/doubledouble-1.jpg"><img class="aligncenter size-full wp-image-2233" src="http://yellowconference.com/wp-content/uploads/2015/03/doubledouble-1.jpg" alt="doubledouble (1)" width="700" height="933" /></a>Just got the call that my girl is ready for pick up! She got her Summer cut and now looks naked to me :/</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/dog.jpg"><img class="aligncenter size-full wp-image-2237" src="http://yellowconference.com/wp-content/uploads/2015/03/dog.jpg" alt="dog" width="700" height="933" /></a></p>
-<p>On the agenda for the evening? Good ol' dinner and a movie with my soon to be Hubs! First up-dinner at Stella Berra (they have gluten free pizza!):</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/menu.jpg"><img class="aligncenter size-full wp-image-2236" src="http://yellowconference.com/wp-content/uploads/2015/03/menu.jpg" alt="menu" width="700" height="933" /></a></p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/fiance.jpg"><img class="aligncenter size-full wp-image-2240" src="http://yellowconference.com/wp-content/uploads/2015/03/fiance.jpg" alt="fiance" width="700" height="933" /></a>Then we walk next door to our favorite cinema in the city--the Arclight to see the documentary "Going Clear" in their famous Cinerama Dome. The documentary was an incredible expose on Scientology--look for it soon on HBO!</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2015/03/cinemex.jpg"><img class="aligncenter size-full wp-image-2238" src="http://yellowconference.com/wp-content/uploads/2015/03/cinemex.jpg" alt="cinemex" width="700" height="933" /></a></p>
-<hr />
-<hr />
-<p>&nbsp;</p>
-<p>Every week or two, we like to give you a glimpse into one of our team member's days. This Thursday, we will continue our Rediscovering Authenticity series on Thursday! In the meantime...have you signed up for your local Kickstart Launch Party on April 2nd!? Check it out <a href="http://yellowconference.com/bloom-together-a-kickstarter-launch-party/" target="_blank">here!!!</a></p>
+
+Yes, she's the go-getter-planner-get-it-done-girl behind our monthly Bloom Gatherings. And yes, that is her real last name (for now...she's soon to become a Mrs.!). Ladies, Miss Kelly Valentine:
+
+[![kelly day in the life](http://yellowconference.com/wp-content/uploads/2015/03/kellydil.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/kellydil.jpg)Since Bloom Gatherings are my passion project, my normal days are spent running around the LA market of Dinner of Dinner Lab. What is [Dinner Lab](https://dinnerlab.com/), you ask? It's a membership based pop up dining club that features a different Chef, menu, and venue every time. So today started off with a conference call with [SideChef](http://www.sidechef.com/) (a step-by-step cooking app) to see possibilities for collaborating.
+
+[![app](http://yellowconference.com/wp-content/uploads/2015/03/app.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/app.jpg) After that, I addressed more save the dates for my upcoming wedding (October 3rd!!). It's been quite the process, hand addressing all of these, so I've been doing them in chunks throughout the day to give my hands a break...
+
+[![Kelly Day in the Life](http://yellowconference.com/wp-content/uploads/2015/03/savethedate.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/savethedate.jpg)Then I took my sweet rescue pup, Liberty (aka Libby, shizza, stinkface, muffin girl), to get a MUCH needed grooming. I'm bummed I forgot to snap a before pic, but I assure you, she looked like a tiny Yeti. _Not_ good...Whilst waiting for her to get done with her spa day, I decided to go shopping for our next Bloom Gathering coming up (March 22nd!!)!! I love coming up with a theme for each gathering, and this month we decided that we just wanted it to feel like Spring--even though it's been feeling more like the dead of Summer here in L.A. (I'm not complaining, I promise!!)...
+
+[![spring](http://yellowconference.com/wp-content/uploads/2015/03/spring.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/spring.jpg)
+
+[![Notepads](http://yellowconference.com/wp-content/uploads/2015/03/Notepads.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/Notepads.jpg)
+
+All that shopping worked up an appetite, but I don't have too much time before I have to pick up the shiny new version of the dog I dropped off. I could only think of one place I wanted to go: In-N-Out Burger (Double-Double protein style...fun fact: I'm gluten free). It's the best fast-food burger out there-so all of you ladies that are coming from out of town to the Yellow Conference, put In-N-Out on your "to do" list while you're here. You're welcome.
+
+[![doubledouble (1)](http://yellowconference.com/wp-content/uploads/2015/03/doubledouble-1.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/doubledouble-1.jpg)Just got the call that my girl is ready for pick up! She got her Summer cut and now looks naked to me :/
+
+[![dog](http://yellowconference.com/wp-content/uploads/2015/03/dog.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/dog.jpg)
+
+On the agenda for the evening? Good ol' dinner and a movie with my soon to be Hubs! First up-dinner at Stella Berra (they have gluten free pizza!):
+
+[![menu](http://yellowconference.com/wp-content/uploads/2015/03/menu.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/menu.jpg)
+
+[![fiance](http://yellowconference.com/wp-content/uploads/2015/03/fiance.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/fiance.jpg)Then we walk next door to our favorite cinema in the city--the Arclight to see the documentary "Going Clear" in their famous Cinerama Dome. The documentary was an incredible expose on Scientology--look for it soon on HBO!
+
+[![cinemex](http://yellowconference.com/wp-content/uploads/2015/03/cinemex.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/cinemex.jpg)
+
+* * *
+
+* * *
+
+Every week or two, we like to give you a glimpse into one of our team member's days. This Thursday, we will continue our Rediscovering Authenticity series on Thursday! In the meantime...have you signed up for your local Kickstart Launch Party on April 2nd!? Check it out [here!!!](http://yellowconference.com/bloom-together-a-kickstarter-launch-party/)
