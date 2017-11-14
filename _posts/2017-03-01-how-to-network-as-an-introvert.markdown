@@ -1,0 +1,29 @@
+---
+title: How to Network as an Introvert
+author: hanna@yellowco.co
+wordpress_url: http://yellowco.co/?p=7996
+date: '2017-03-01 04:00:19 -0800'
+categories:
+- Advice
+- Pioneer
+---
+<p>Whether you're an entrepreneur or you work for someone else, you will inevitably be tasked with going out into the world and representing your either your business or yourself. If you are an introvert, that can feel like a <em>completely</em> overwhelming prospect. <strong>But trust me when I say that it is possible to get out there, network and grow your business, all while using your amazing personality type to your advantage.</strong></p>
+<p> Over time, I have discovered these&nbsp;tried, tested, and true ways that I was able to network like a pro, while honoring my introverted soul. </p>
+<h3><b>Put in the prep work</b></h3><br />
+ Before I attended my first conference solo, I spent time researching networking advice. While I wish I had the gift of easy conversational flow, I know that it doesn't come naturally to me. By spending a little extra time preparing a few questions that would help me break the ice with people I had never met, I calmed myself down. Not only did I feel like I could handle whatever the networking portion of the conference threw at me, I also had some deeper&nbsp;questions in my back pocket that would help me get to know fellow attendees on a more personal level. </p>
+<p> Here's the thing: when I go to a conference, <strong>I don't want to just meet a bunch of people, grab their business card, and then promptly forget about them.</strong> In the quest to find my tribe, I go&nbsp;with the hope of meeting at least one or two people I can form friendships with and&nbsp;reach out to long after the conference is over. People who I can bounce ideas off of, who I can ask for advice from (and provide in return), and who will help push me to grow. </p>
+<p> So, have a few fun questions ready&nbsp;that are more than just, "Where are you from?". One of my favorites is, "What speaker are you looking forward to the most?" This invites the person&nbsp;you are speaking with to tell you a bit more about why they came to the conference, and what interests and inspires them the most.</p>
+<p> </p>
+<h3><img class="aligncenter size-full wp-image-8021" src="http://yellowco.co/wp-content/uploads/2017/02/Yellow2016-25.jpg" alt="How to Network as an Introvert - The Yellow Room" width="3600" height="2400" /><br />
+<b>Embrace the Unknown</b></h3><br />
+ Full disclosure: I am hyper-organized (in case you couldn't tell already). When it comes to going with the flow, well... I don't handle that well. I become easily flustered when something doesn't go according to the plan I had in my mind.&nbsp; </p>
+<p> <strong>When it comes to networking, a big part of it is unknown that you simply can't plan for.</strong> As I have been working to be more comfortable in these types of situations, I have learned that sometimes you just need to say yes. Inevitably, there will be after parties, sponsor dinners, and other unplanned activities&nbsp;related to an event&nbsp;you are attending. As an introvert, my initial reaction is to decline these invitations. After all, I didn't plan for them and they will be cutting into my much-needed recharging time. </p>
+<p> But what I discovered is that pushing myself to attend some of these events is&nbsp;a great way to connect with others in a more relaxed setting. During sessions and keynotes, everyone is so&nbsp;focused on what is being said, and trying to make the most of their ticket. Those dinners and after parties are where people are more willing to be themselves and you are able to get to know them better. </p>
+<p> Remember: you don't have to go to every party, but make it a goal challenge yourself at&nbsp;every conference or event you attend. You'll feel an immense sense of pride in yourself when you are back in the comfort of your room - and that is a feeling that simply can't be beat! </p>
+<h3><b>Take Time to Recharge</b></h3><br />
+ Last but definitely not least, it's important that you take the time to relax and recharge, especially during something hectic like a conference. If you know that you will be exhausted after a long day of networking, don't be too hard on yourself. Go back to your home or hotel room to decompress before heading out again. Take a bath, read a book, or my favorite - go for a solo exploring walk if you're in a different city. </p>
+<p> One of the best resources I have found for introverts is Susan Cain's website, <a href="http://www.quietrev.com/" target="_blank">Quiet Revolution</a>. In Susan's extremely popular <a href="http://www.quietrev.com/ted-talk/" target="_blank">TED Talk</a> on the subject, she discusses how introverts often feel the need to fundamentally change themselves in order to succeed in the world of business. <strong>She argues that we should instead be embracing what makes us unique, and celebrating the different personality types that make this world so wonderful.</strong> </p>
+<p> After all, we're all just people. Chances are, the extrovert you see across the room who seems to be networking like a pro was just as nervous before attending the event as you were. </p>
+<p><em>Photo by <a href="http://cacasantoro.com/" target="_blank">Cac&aacute; Santoro</a></em></p>
+<p><a href="https://blog.rebel.com/author/jasmin/" target="_blank"><img class="aligncenter wp-image-8020 size-full" src="http://yellowco.co/wp-content/uploads/2017/02/JASMINBOLLMAN.jpg" alt="JASMIN BOLLMAN BIO" width="700" height="264" /></a></p>
+<p>&nbsp;</p>

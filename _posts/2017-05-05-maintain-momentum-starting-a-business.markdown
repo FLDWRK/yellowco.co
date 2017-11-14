@@ -1,0 +1,27 @@
+---
+title: How to Maintain Momentum While Starting a Business
+author: hanna@yellowco.co
+wordpress_url: http://yellowco.co/?p=8455
+date: '2017-05-05 04:00:06 -0700'
+categories:
+- Wander
+---
+<p> Some people in life will tell you that figuring out what you want to do is the hard part. Honestly, I can't completely agree. Once I realized that I wanted to create&nbsp;my own company&nbsp;as a Holistic Health and Wellness Coach, I found out&nbsp;that deciding how to move forward when starting a business can be just as challenging! If you&rsquo;ve recently discovered your passion, but aren&rsquo;t sure how to make the jump from vision to reality, join me here. I want to share with you what I've learned by navigating the wild and wonderful world of turning a daydream into a day job. </p>
+<p><b>Just take action.</b></p>
+<p> One of the first things I learned in&nbsp;building my own business is it is way too easy to get stuck in the research, planning, and preparation phase. Instead of moving forward, we end up never actually  <i> doing </i>  anything. The truth is that you will never know  <i> everything </i>  that there is to know or&nbsp;feel  <i> truly </i>  ready. So, just start. Take whatever small steps feel manageable. Grow your confidence with each success. It can be&nbsp;as simple as starting to attend networking events for&nbsp;your industry, or starting to build an online presence as&nbsp;an identifiable brand. The steps of starting a business may feel uncomfortable at first, but over time you&rsquo;ll begin to build momentum, valuable experience, and create supportive connections. </p>
+<p><b>Drop the perfectionism. </b></p>
+<p> Perfectionism may seem like a supporting quality&nbsp;to create something truly great, but more often than not it is a cleverly disguised method of self-sabotage. Perfection is an ideal that exists on a continuously receding horizon. But if we wait for everything to be refined, we set ourselves up for a classic case of failure to launch. While it&rsquo;s certainly important to put your best work out into the world, I&rsquo;m a big believer in the idea that &ldquo;done is better than perfect&rdquo;. </p>
+<h3><strong>If you&rsquo;re having trouble letting your creation go into the world, try reconnecting with your original mission.</strong></h3><br />
+Focus on who you hope to support, and what you want to offer them. Ask yourself what it would mean if the people who&nbsp;would benefit from your specific gifts never had the opportunity to receive them. Then, take a deep breath, and put your perfectly imperfect work out there.</p>
+<h3><img class="aligncenter size-full wp-image-8475" src="http://yellowco.co/wp-content/uploads/2017/05/KaleidosNashville-100d.jpg" alt="HOW TO MAINTAIN MOMENTUM WHILE STARTING A BUSINESS - THE YELLOW ROOM" width="2400" height="1600" /></h3><br />
+<b>Don't be afraid to fail.</b></p>
+<p> Better yet, shift your whole mental framework so that failure doesn&rsquo;t exist. I used to be petrified by the idea of failure. I subscribed to the hairbrained notion that I had to excel at everything,&nbsp; <i> and </i>  on my first try. Not only did this perspective&nbsp;place massive amounts of pressure on everything I did, it left me so paralyzed with fear that I would rarely take on anything I wasn&rsquo;t certain I could do well. Talk about limiting! </p>
+<h3><strong>In time, you discover that failure really isn't a possibility.</strong></h3><br />
+ Thankfully, I learned to loosen up, take risks, give myself grace, and just laugh when I didn&rsquo;t knock something out of the park. We can either succeed, or learn something to&nbsp;help us succeed in the future. To me,&nbsp;that means there is no loss. </p>
+<p><b>Break it down.</b></p>
+<p> When you have a big vision, just thinking through&nbsp;all it will take to come to fruition&nbsp;can be overwhelming. In order to avoid burnout, break big goals down into smaller, actionable items. I recommend working backwards from your desired endpoint and asking yourself what needs to happen for each milestone along the way. Once you have created a flow chart of all of the steps of this project, calendar out&nbsp;key timeline points&nbsp;so you have a clear schedule of how to meet your desired goal.  </p>
+<p><b>Pace yourself.</b></p>
+<p> I can tell you from personal experience that starting&nbsp;a business, or really creating anything at all, is a delicate balance of action and patience. Whether you&rsquo;re trying to turn a side-hustle into your bread and butter, or you&rsquo;re already all in, remember that anything worth building takes time. No matter if you can accomplish one thing a month, a week, or a day, the point is that your efforts are steady and dedicated. </p>
+<p> Practicing endurance will give you&nbsp;a boost of satisfaction every time you knock out a task, and keep a balanced momentum as you make progress. Just remember, this is a marathon, not a sprint. Pace yourself accordingly, and make this journey of sharing your talents with the world an enjoyable one. </p>
+<p><em>Photos by:&nbsp;<a href="http://www.euncreative.com/" target="_blank" rel="noopener noreferrer">Eun Creative</a></em></p>
+<p><a href="http://helloashleyberry.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-8469 size-full" title="ASHLEY BERRY BIO" src="http://yellowco.co/wp-content/uploads/2017/05/ASHLEY-BERRY-BIO.jpg" alt="ASHLEY BERRY BIO" width="2699" height="980" /></a></p>
