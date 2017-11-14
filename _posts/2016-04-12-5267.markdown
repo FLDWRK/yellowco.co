@@ -1,7 +1,6 @@
 ---
 title: What You Need to Know Before Starting Your Own Non-Profit
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=5267
 date: '2016-04-12 04:00:57 -0700'
 categories:
 - Advice
@@ -9,53 +8,61 @@ categories:
 - The Starter
 - The Leader
 - Grit
+redirect_from: "/advice/5267/"
 ---
-<h2><a href="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0014.jpg"><img class="aligncenter size-full wp-image-5269" src="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0014.jpg" alt="2015-02-21_0014" width="700" height="466" /></a>Of course it is easy to get excited about creating a valuable community institution to solve problems and meet needs.</h2><br />
-However, be sure you&rsquo;ve thought beyond the &ldquo;vision&rdquo; and considered the community&rsquo;s needs, the day-to-day management of such an organization, and whether you&rsquo;re up for the rewarding, yet difficult road ahead. An organization built on a good vision alone will not ensure survival in today&rsquo;s day and age&mdash;skepticism, hostility, and limited resources continue to plague new non-profit organizations and wear down the will of its creators, who often find themselves drained from playing dual roles as a motivating leader and day-to-day manager. This, combined with outsiders&rsquo; pressure and demands, often transforms a great vision into a discouraging reality. We aren&rsquo;t trying to be cynical here, we just want to ensure you&rsquo;ve thought through everything and are not letting your vision cloud reality.</p>
-<h2><strong><u>Consider Yourself</u></strong></h2><br />
-Do some soul searching. Ask yourself why&mdash; <strong>why are&nbsp;<em>you</em>&nbsp;starting this organization?</strong> Maybe it&rsquo;s a desire to support your local community, a religious calling, or just a more rewarding career path&mdash;the point is you must know why you personally want to start this organization before you can proceed. Also ask, what kind of a person does it take to successfully run a non-profit organization &ndash; do I possess these qualities? <strong>Am I willing to dedicate years of my life before the organization has an impact?</strong></p>
-<h2><strong><u>Consider the Start-Up Costs</u></strong></h2><br />
-Make sure you&rsquo;re prepared for the lengthy and laborious road to start the organization. <strong>Each year 75,000-80,000 prospective organizations file for 501(c)(3) tax-exemption, but less than half survive the process.</strong> Why? For starters, prospective organizations must file a Form 1023 Application with the IRS. A typical Form 1023 Application package consists of 50-100 pages of materials and can take over 100 hours to prepare. The application fee itself can cost either $850 for a full application or $400 for a&nbsp;<a href="http://wilkinsonmazzeo.com/learn-new-irs-form-1023-ez-designed-help/">Form 1023-EZ application</a>. Form 1023 is only one part of the process, for instance 1023-EZ California filers must also apply for state income taxation with the Franchise Tax Board.</p>
-<p>Before the Form 1023 stage, organizations must complete various other procedural steps such as drafting and filing formation documents, holding organizational meetings, applying for an employer identification number, and obtaining necessary licenses and permits.</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0018.jpg"><img class="aligncenter size-full wp-image-5268" src="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0018.jpg" alt="2015-02-21_0018" width="700" height="466" /></a></p>
-<h2><strong><u>Consider the Details of the Organization Itself</u></strong></h2><br />
-Try to answer the following questions about your potential organization to get a better idea of how much you&rsquo;ve thought through the organizational details:</p>
-<ul>
-<li>Do you have a clear purpose and mission? If so, write it down in less than 25 words, if not figure out the organization&rsquo;s purpose before you proceed.</li>
-<li>How will you achieve it?</li>
-<li>Is there currently a similar, local organization?
-<ul>
-<li>If so, volunteer with the organization to ensure you enjoy the work.</li><br />
-</ul><br />
-</li></p>
-<li>Is there a need for it?
-<ul>
-<li>A &ldquo;needs analysis&rdquo; asks whether your organization&rsquo;s mission and purpose aligns with a need in your specific community.</li><br />
-</ul><br />
-</li></p>
-<li>Have you finished a business plan?
-<ul>
-<li>If not, create a business plan: The process of putting pen to paper allows you to think more clearly, solidify your mission, plan for the next steps, and recognize obstacles.</li><br />
-</ul><br />
-</li></p>
-<li>How much will it cost? How will you fund the organization?
-<ul>
-<li>Will you be able to generate more revenue than your operating costs?</li><br />
-</ul><br />
-</li></p>
-<li>Who will be on the Board of Directors?</li>
-<li>Who will manage the day-to-day operations?</li><br />
-</ul></p>
-<h2><strong><u>Consider Your Income Generating Activities</u></strong></h2><br />
-Non-profits earning an income or profit from their activities may seem like an oxymoron, but it is permissible in limited circumstances. The threshold rule of thumb&nbsp;to keep in mind is the 33% Rule, also known as the&nbsp;<a href="https://www.irs.gov/Charities-&amp;-Non-Profits/Exempt-Organizations-Annual-Reporting-Requirements-Form-990,-Schedules-A-and-B:-Public-Charity-Support-Test">Public Support Test</a>. This rule essentially requires all public charities to ensure that 33% (or one third) of their annual revenues are coming from public donations. Failure to maintain this level of public support will likely result in the IRS changing the non-profit&rsquo;s&nbsp;status from &ldquo;public charity&rdquo; to &ldquo;<a href="http://wilkinsonmazzeo.com/differences-behind-various-non-profit-models/">private foundation</a>&rdquo; on their 5-year anniversary (what a great birthday present!), which results in the loss of the entity&rsquo;s ability to conduct its own programs and activities.</p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0016.jpg"><img class="aligncenter size-full wp-image-5274" src="http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0016.jpg" alt="2015-02-21_0016" width="700" height="466" /></a>In terms of a non-profit&rsquo;s earned income (i.e. any money brought in other&nbsp;than from donations or grants), this revenue can be divided into either &ldquo;related&rdquo; or &ldquo;unrelated.&rdquo; Whether income is considered one or the other generally turns on whether the activity generating that income is or is not &ldquo;substantially related to the organization&rsquo;s exempt purpose.&rdquo; If the income-generating activity is&nbsp;<em>not</em>&nbsp;related to the non-profit&rsquo;s exempt purpose, other than simply providing cash allowing the organization to operate, then this income will be considered &ldquo;unrelated.&rdquo; Unrelated income is subject to regular income tax (generally known as&nbsp;<a href="https://www.irs.gov/Charities-&amp;-Non-Profits/Unrelated-Business-Income-Tax">UBIT</a>). Having too much UBIT will result in the IRS cancelling a non-profit&rsquo;s tax-exempt status, so it is important to keep unrelated income generating activities to a minimum.</p>
-<h2><strong><u>Consider Alternative Paths</u></strong></h2></p>
-<ul>
-<li>Over 965,000 nonprofits exist in the United States alone. Would you benefit the community more by getting involved with a local nonprofit rather than starting your own?</li>
-<li>Have you considered Fiscal Sponsorship? (Read our article&nbsp;<a href="http://wilkinsonmazzeo.com/ready-non-profit-hassle-consider-fiscal-sponsorship/">Not Ready For the Nonprofit Hassle? Consider Fiscal Sponsorship</a>).</li><br />
-</ul><br />
-Again, we don&rsquo;t want to crush your non-profit dream; being a part of a non-profit organization can truly be a rewarding experience, unlike any other type of work, but we do want to ensure your vision is the right fit for your community and that you&rsquo;re mentally, physically, and financially ready for the the challenging years that lay ahead.</p>
-<p><em><strong>Disclaimer:&nbsp;</strong>The information in this article is presented for informational purposes only, and should not be taken as legal advice. Before acting on any information presented in this article, you should consult an attorney regarding the facts of your specific situation. We would love to hear from you, so please feel free to&nbsp;<a href="http://wilkinsonmazzeo.com/">contact us</a>&nbsp;for a consultation.</em></p>
-<p><em>Photos by <a href="http://whitneydarling.com/irenepark/" target="_blank">Whitney Schey</a></em></p>
-<p><a href="http://wilkinsonmazzeo.com/" target="_blank"><img class="aligncenter size-full wp-image-4990" src="http://yellowconference.com/wp-content/uploads/2016/02/WILKINSONMAZZEO.jpg" alt="WILKINSONMAZZEO" width="700" height="264" /></a></p>
-<p>&nbsp;</p>
+
+## [![2015-02-21_0014](http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0014.jpg)](http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0014.jpg)Of course it is easy to get excited about creating a valuable community institution to solve problems and meet needs.
+
+However, be sure you’ve thought beyond the “vision” and considered the community’s needs, the day-to-day management of such an organization, and whether you’re up for the rewarding, yet difficult road ahead. An organization built on a good vision alone will not ensure survival in today’s day and age—skepticism, hostility, and limited resources continue to plague new non-profit organizations and wear down the will of its creators, who often find themselves drained from playing dual roles as a motivating leader and day-to-day manager. This, combined with outsiders’ pressure and demands, often transforms a great vision into a discouraging reality. We aren’t trying to be cynical here, we just want to ensure you’ve thought through everything and are not letting your vision cloud reality.
+
+## **<u>Consider Yourself</u>**
+
+Do some soul searching. Ask yourself why— **why are _you_ starting this organization?** Maybe it’s a desire to support your local community, a religious calling, or just a more rewarding career path—the point is you must know why you personally want to start this organization before you can proceed. Also ask, what kind of a person does it take to successfully run a non-profit organization – do I possess these qualities? **Am I willing to dedicate years of my life before the organization has an impact?**
+
+## **<u>Consider the Start-Up Costs</u>**
+
+Make sure you’re prepared for the lengthy and laborious road to start the organization. **Each year 75,000-80,000 prospective organizations file for 501(c)(3) tax-exemption, but less than half survive the process.** Why? For starters, prospective organizations must file a Form 1023 Application with the IRS. A typical Form 1023 Application package consists of 50-100 pages of materials and can take over 100 hours to prepare. The application fee itself can cost either $850 for a full application or $400 for a [Form 1023-EZ application](http://wilkinsonmazzeo.com/learn-new-irs-form-1023-ez-designed-help/). Form 1023 is only one part of the process, for instance 1023-EZ California filers must also apply for state income taxation with the Franchise Tax Board.
+
+Before the Form 1023 stage, organizations must complete various other procedural steps such as drafting and filing formation documents, holding organizational meetings, applying for an employer identification number, and obtaining necessary licenses and permits.
+
+[![2015-02-21_0018](http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0018.jpg)](http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0018.jpg)
+
+## **<u>Consider the Details of the Organization Itself</u>**
+
+Try to answer the following questions about your potential organization to get a better idea of how much you’ve thought through the organizational details:
+
+*   Do you have a clear purpose and mission? If so, write it down in less than 25 words, if not figure out the organization’s purpose before you proceed.
+*   How will you achieve it?
+*   Is there currently a similar, local organization?
+    *   If so, volunteer with the organization to ensure you enjoy the work.
+
+*   Is there a need for it?
+    *   A “needs analysis” asks whether your organization’s mission and purpose aligns with a need in your specific community.
+
+*   Have you finished a business plan?
+    *   If not, create a business plan: The process of putting pen to paper allows you to think more clearly, solidify your mission, plan for the next steps, and recognize obstacles.
+
+*   How much will it cost? How will you fund the organization?
+    *   Will you be able to generate more revenue than your operating costs?
+
+*   Who will be on the Board of Directors?
+*   Who will manage the day-to-day operations?
+
+## **<u>Consider Your Income Generating Activities</u>**
+
+Non-profits earning an income or profit from their activities may seem like an oxymoron, but it is permissible in limited circumstances. The threshold rule of thumb to keep in mind is the 33% Rule, also known as the [Public Support Test](https://www.irs.gov/Charities-&-Non-Profits/Exempt-Organizations-Annual-Reporting-Requirements-Form-990,-Schedules-A-and-B:-Public-Charity-Support-Test). This rule essentially requires all public charities to ensure that 33% (or one third) of their annual revenues are coming from public donations. Failure to maintain this level of public support will likely result in the IRS changing the non-profit’s status from “public charity” to “[private foundation](http://wilkinsonmazzeo.com/differences-behind-various-non-profit-models/)” on their 5-year anniversary (what a great birthday present!), which results in the loss of the entity’s ability to conduct its own programs and activities.
+
+[![2015-02-21_0016](http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0016.jpg)](http://yellowconference.com/wp-content/uploads/2016/04/2015-02-21_0016.jpg)In terms of a non-profit’s earned income (i.e. any money brought in other than from donations or grants), this revenue can be divided into either “related” or “unrelated.” Whether income is considered one or the other generally turns on whether the activity generating that income is or is not “substantially related to the organization’s exempt purpose.” If the income-generating activity is _not_ related to the non-profit’s exempt purpose, other than simply providing cash allowing the organization to operate, then this income will be considered “unrelated.” Unrelated income is subject to regular income tax (generally known as [UBIT](https://www.irs.gov/Charities-&-Non-Profits/Unrelated-Business-Income-Tax)). Having too much UBIT will result in the IRS cancelling a non-profit’s tax-exempt status, so it is important to keep unrelated income generating activities to a minimum.
+
+## **<u>Consider Alternative Paths</u>**
+
+*   Over 965,000 nonprofits exist in the United States alone. Would you benefit the community more by getting involved with a local nonprofit rather than starting your own?
+*   Have you considered Fiscal Sponsorship? (Read our article [Not Ready For the Nonprofit Hassle? Consider Fiscal Sponsorship](http://wilkinsonmazzeo.com/ready-non-profit-hassle-consider-fiscal-sponsorship/)).
+
+Again, we don’t want to crush your non-profit dream; being a part of a non-profit organization can truly be a rewarding experience, unlike any other type of work, but we do want to ensure your vision is the right fit for your community and that you’re mentally, physically, and financially ready for the the challenging years that lay ahead.
+
+_**Disclaimer: **The information in this article is presented for informational purposes only, and should not be taken as legal advice. Before acting on any information presented in this article, you should consult an attorney regarding the facts of your specific situation. We would love to hear from you, so please feel free to [contact us](http://wilkinsonmazzeo.com/) for a consultation._
+
+_Photos by [Whitney Schey](http://whitneydarling.com/irenepark/)_
+
+[![WILKINSONMAZZEO](http://yellowconference.com/wp-content/uploads/2016/02/WILKINSONMAZZEO.jpg)](http://wilkinsonmazzeo.com/)

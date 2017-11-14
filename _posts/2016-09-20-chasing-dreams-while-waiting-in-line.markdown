@@ -1,31 +1,49 @@
 ---
 title: Chasing Dreams While Waiting in Line
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=6929
 date: '2016-09-20 04:00:07 -0700'
 categories:
 - "#bloomyellow"
 - Valor
+redirect_from: "/bloomyellow/chasing-dreams-while-waiting-in-line/"
 ---
-<p> Ten years ago, I was about to get married; I was 23. I had just finished college, started my career in the mental health industry, and I was eager, enthusiastic,&nbsp;and optimistic about all the things I was going to conquer in my adult life. I had  <i> dreams </i> , and nothing was going to stop me.&nbsp; </p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2016/09/Chasing-Dreams1.jpg"><img class="aligncenter size-full wp-image-6934" src="http://yellowconference.com/wp-content/uploads/2016/09/Chasing-Dreams1.jpg" alt="chasing-dreams" width="700" height="1107" /></a></p>
-<p> There's just something about being in your early twenties and hopefully looking ahead to your adult self. The dream of who you'll become is something like looking into a bakery window and spotting that perfect cupcake. It's robust, fluffy, colorful, and it offers so much goodness. So much sweetness. Your mouth waters just thinking of the hope of gobbling it up and making it yours.&nbsp; </p>
-<p> And then you take all the steps to get into the bakery to acquire it, but there's a line.  <i> A massive one </i> . As you're standing there, stuff starts to happen. The cash register breaks down. A woman loudly complains to someone on her phone and it's irritating. The guy behind you spills his coffee on your shoes.&nbsp;As you wait, it seems like everyone in front of you is walking out with their bakery items with huge smiles on their faces,&nbsp;and you wonder if your perfect cupcake will even be there when it&rsquo;s your turn.&nbsp;You wait there for so long that you begin to wonder if you should just leave, and&nbsp; <i> Hey!&nbsp;Doesn't that croissant look really good too </i> ? </p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1932.jpg"><img class="aligncenter wp-image-6936" src="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1932-1024x683.jpg" alt="img_1932" width="700" height="467" /></a></p>
-<p> That&rsquo;s the thing about dreams&mdash;they are like, you know, actual  <i> dreams </i> . </p>
-<h2><em> When we&rsquo;re ambitiously closing our eyes and envisioning our goals, we aren&rsquo;t picturing the line it takes to achieve them; we&rsquo;re picturing the sweet stuff at the end. </em></h2><br />
- How we picture our dreams isn&rsquo;t entirely rooted in reality, and we wouldn&rsquo;t want it to be anyway because then they wouldn&rsquo;t be dreams. They wouldn&rsquo;t be worth chasing.  </p>
-<p> Reality inevitably comes, and along with it comes difficulty, challenge, fear, rejection, and insecurity. While we struggle against our realities, time inevitably goes by, and we may start to dream new dreams that fill new needs as they arise. That cupcake envisioned at the beginning of the journey-- the one that made our mouths water and seemed to be the only thing that mattered-- it may not look the same at the end of the line.  <i> We wonder if we really want it to be the same anymore anyway </i> .&nbsp; </p>
-<p><a href="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1969.jpg"><img class="aligncenter wp-image-6938" src="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1969.jpg" alt="img_1969" width="700" height="1050" /></a></p>
-<p> This has been my experience with acquiring my dreams. Early in my family and career life, I dreamed rich, hearty dreams of who I wanted to become and what I wanted to be known for. Yet as I have grown older, I have faced obstacles and have been asked to wait with no promise of the outcome I got in line for in the first place. For a long time I was bitter about  <i> my </i>  line, realizing I was spending a lot more time in it than I expected, and the hurdles I faced changed me. I was no longer hopeful, optimistic, and pursuing my cupcake-like dreams, I was just standing in a line feeling defeated. </p>
-<p> At some point I took a good long look at myself and realized I had grown deeply unhappy. Coming to terms with my sour outlook, I learned something. When we come up against obstacles, as we inevitably will, we have a choice-- We can get angry and bitter and allow them to defeat us, or we can face them with grace and humility, allowing them to be a beginning of a series of lessons. </p>
-<h2><em> Choosing to be a victim of the line offers nothing good&mdash;no sweet taste of victory when the prize is won.  </em></h2></p>
-<h2><em> How  &nbsp;we narrow down and acquire our dreams&nbsp;  matters.  &nbsp;All those challenges we face, all that time spent&mdash;those are the things that actually shape us. </em></h2><br />
-<a href="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1840.jpg"><img class="aligncenter wp-image-6939" src="http://yellowconference.com/wp-content/uploads/2016/09/IMG_1840.jpg" alt="img_1840" width="700" height="467" /></a></p>
-<p> As I&rsquo;ve started to work on changing how I view my line, I&rsquo;ve become much happier. I am learning to see obstacles and mistakes as learning opportunities instead of disappointments. My dream as I envisioned it might have been the end goal at first, but the line to reach that goal&nbsp; <i> is where I actually live my life </i> ,&nbsp;and how I exist in that line matters more than acquiring the end goal anyway.&nbsp; </p>
-<p> For all of us, there are no guarantees that the goals we had when we started dreaming will still be there when it&rsquo;s our turn to grasp them. What are we going to do with the line we are in  <i> now </i> ? How are we going to handle it? I know I&rsquo;m going to choose to accept my line and the challenges that come with it. </p>
-<h2><em> I&rsquo;m going to look around, see a beautiful bakery and the awe-inspiring people in it, and choose to see how overcoming the obstacles in my line can become the dream in and of itself. </em></h2></p>
-<h2>
-<script src="https://yellowcollective.leadpages.co/leadbox-1474327197.js" type="text/javascript" data-leadbox="14275ef73f72a2:17a2246bc746dc" data-url="https://yellowcollective.leadpages.co/leadbox/14275ef73f72a2%3A17a2246bc746dc/5739407210446848/" data-config="%7B%7D"></script></h2><br />
-<a href="http://www.thebraveryboard.com/" target="_blank"><img class="aligncenter size-full wp-image-5105" src="http://yellowconference.com/wp-content/uploads/2016/03/michelle-houghton.jpg" alt="michelle houghton" width="700" height="264" /></a></p>
-<p><img src="https://lh3.googleusercontent.com/PLgiNHFRVmFsLP41efysqdUJ9SZ-AcJD3c5aX2chYUhgBTYI52sHFjId--lSB85ZE8liKk_tGGuQ32hJHUmjbw=s0" alt="" /></p>
+
+Ten years ago, I was about to get married; I was 23\. I had just finished college, started my career in the mental health industry, and I was eager, enthusiastic, and optimistic about all the things I was going to conquer in my adult life. I had _dreams_ , and nothing was going to stop me. 
+
+[![chasing-dreams](http://yellowconference.com/wp-content/uploads/2016/09/Chasing-Dreams1.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/Chasing-Dreams1.jpg)
+
+There's just something about being in your early twenties and hopefully looking ahead to your adult self. The dream of who you'll become is something like looking into a bakery window and spotting that perfect cupcake. It's robust, fluffy, colorful, and it offers so much goodness. So much sweetness. Your mouth waters just thinking of the hope of gobbling it up and making it yours. 
+
+And then you take all the steps to get into the bakery to acquire it, but there's a line. _A massive one_ . As you're standing there, stuff starts to happen. The cash register breaks down. A woman loudly complains to someone on her phone and it's irritating. The guy behind you spills his coffee on your shoes. As you wait, it seems like everyone in front of you is walking out with their bakery items with huge smiles on their faces, and you wonder if your perfect cupcake will even be there when it’s your turn. You wait there for so long that you begin to wonder if you should just leave, and  _Hey! Doesn't that croissant look really good too_ ?
+
+[![img_1932](http://yellowconference.com/wp-content/uploads/2016/09/IMG_1932-1024x683.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/IMG_1932.jpg)
+
+That’s the thing about dreams—they are like, you know, actual _dreams_ .
+
+## _When we’re ambitiously closing our eyes and envisioning our goals, we aren’t picturing the line it takes to achieve them; we’re picturing the sweet stuff at the end._
+
+How we picture our dreams isn’t entirely rooted in reality, and we wouldn’t want it to be anyway because then they wouldn’t be dreams. They wouldn’t be worth chasing.
+
+Reality inevitably comes, and along with it comes difficulty, challenge, fear, rejection, and insecurity. While we struggle against our realities, time inevitably goes by, and we may start to dream new dreams that fill new needs as they arise. That cupcake envisioned at the beginning of the journey-- the one that made our mouths water and seemed to be the only thing that mattered-- it may not look the same at the end of the line. _We wonder if we really want it to be the same anymore anyway_ . 
+
+[![img_1969](http://yellowconference.com/wp-content/uploads/2016/09/IMG_1969.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/IMG_1969.jpg)
+
+This has been my experience with acquiring my dreams. Early in my family and career life, I dreamed rich, hearty dreams of who I wanted to become and what I wanted to be known for. Yet as I have grown older, I have faced obstacles and have been asked to wait with no promise of the outcome I got in line for in the first place. For a long time I was bitter about _my_ line, realizing I was spending a lot more time in it than I expected, and the hurdles I faced changed me. I was no longer hopeful, optimistic, and pursuing my cupcake-like dreams, I was just standing in a line feeling defeated.
+
+At some point I took a good long look at myself and realized I had grown deeply unhappy. Coming to terms with my sour outlook, I learned something. When we come up against obstacles, as we inevitably will, we have a choice-- We can get angry and bitter and allow them to defeat us, or we can face them with grace and humility, allowing them to be a beginning of a series of lessons.
+
+## _Choosing to be a victim of the line offers nothing good—no sweet taste of victory when the prize is won._
+
+## _How  we narrow down and acquire our dreams  matters.  All those challenges we face, all that time spent—those are the things that actually shape us._
+
+[![img_1840](http://yellowconference.com/wp-content/uploads/2016/09/IMG_1840.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/IMG_1840.jpg)
+
+As I’ve started to work on changing how I view my line, I’ve become much happier. I am learning to see obstacles and mistakes as learning opportunities instead of disappointments. My dream as I envisioned it might have been the end goal at first, but the line to reach that goal  _is where I actually live my life_ , and how I exist in that line matters more than acquiring the end goal anyway. 
+
+For all of us, there are no guarantees that the goals we had when we started dreaming will still be there when it’s our turn to grasp them. What are we going to do with the line we are in _now_ ? How are we going to handle it? I know I’m going to choose to accept my line and the challenges that come with it.
+
+## _I’m going to look around, see a beautiful bakery and the awe-inspiring people in it, and choose to see how overcoming the obstacles in my line can become the dream in and of itself._
+
+[![michelle houghton](http://yellowconference.com/wp-content/uploads/2016/03/michelle-houghton.jpg)](http://www.thebraveryboard.com/)
+
+![](https://lh3.googleusercontent.com/PLgiNHFRVmFsLP41efysqdUJ9SZ-AcJD3c5aX2chYUhgBTYI52sHFjId--lSB85ZE8liKk_tGGuQ32hJHUmjbw=s0)
