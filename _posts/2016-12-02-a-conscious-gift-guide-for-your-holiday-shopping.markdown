@@ -1,12 +1,11 @@
 ---
-title: A Conscious Gift Guide for Your Holiday Shopping
+title: "A Conscious Gift Guide for Your Holiday Shopping"
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=7391
 date: '2016-12-02 04:00:49 -0800'
 categories:
 - Light Talk
 - The Activist
-redirect_from: ""
+redirect_from: "/light-talk/a-conscious-gift-guide-for-your-holiday-shopping/"
 ---
 
 _Need a last minute gift idea? How about one that you don't have to worry about the hands that made it for you? We know there's a lot of gift guides out there, but we've got the perfect line up of both beautiful and smart products that care about the people who made them as much as they care about the hands that will receive them. _

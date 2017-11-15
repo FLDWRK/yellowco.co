@@ -1,6 +1,6 @@
 ---
-title: 'The One Surprising Thing Fueling Fast Fashion & Modern Day Slavery. Hint:
-  it's Not What You Think.'
+title: "The One Surprising Thing Fueling Fast Fashion & Modern Day Slavery. Hint:
+  It's Not What You Think"
 author: heygirl@yellowconference.com
 date: '2016-04-26 04:00:31 -0700'
 categories:

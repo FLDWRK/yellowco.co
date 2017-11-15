@@ -1,5 +1,5 @@
 ---
-title: 'Book Giveaway: Carlos Whittaker's MomentMaker'
+title: "Book Giveaway: Carlos Whittaker's MomentMaker"
 author: heygirl@yellowconference.com
 date: '2014-08-01 14:29:22 -0700'
 categories:
