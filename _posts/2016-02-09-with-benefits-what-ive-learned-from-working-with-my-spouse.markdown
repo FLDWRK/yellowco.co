@@ -1,5 +1,5 @@
 ---
-title: 'With Benefits: What I've Learned from Working with My Spouse'
+title: "With Benefits: What I've Learned from Working with My Spouse"
 author: heygirl@yellowconference.com
 date: '2016-02-09 04:00:49 -0800'
 categories:

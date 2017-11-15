@@ -1,5 +1,5 @@
 ---
-title: 'The Starter: Interested in Lettering? Here's Some Must-Have Tools'
+title: "The Starter: Interested in Lettering? Here's Some Must-Have Tools"
 author: heygirl@yellowconference.com
 date: '2015-04-16 04:00:35 -0700'
 categories:

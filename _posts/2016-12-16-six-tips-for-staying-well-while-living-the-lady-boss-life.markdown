@@ -1,14 +1,13 @@
 ---
-title: Six Tips for Staying Well While Living the Lady Boss Life
+title: "Six Tips for Staying Well While Living the Lady Boss Life"
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=7452
 date: '2016-12-16 04:00:28 -0800'
 categories:
 - Advice
 - "#bloomyellow"
 - The Leader
 - Heart
-redirect_from: ""
+redirect_from: "/advice/six-tips-for-staying-well-while-living-the-lady-boss-life/"
 ---
 
 [![Tips for staying well while living the girlboss life//the Yellow Co. blog](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-9.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-9.jpg)Whether you’re a CEO of a company, a solopreneur, or a master of the side hustle, staying on top of your wellness goals while living the lady boss life can be challenging to say the least. With mile-long to-do lists, the temptation to push self-care to the sidelines or even out of the picture completely is real, but long-term and sustainable success in your work life absolutely hinges on the wellness of your mind, body, and spirit. As a freelance [Holisitic Health Coach and Wellness Writer,](http://helloashleyberry.com/services-wellness/) I know how tricky it can be to find that balance of meeting your responsibilities as an entrepreneur while still honoring your own health and happiness. Here’s a few simple, but effective practices that I’ve developed for both myself and my lady boss clients to make sure that we not only build work lives that both challenge and light us up, but also feel great while doing it.[![Tips for staying well while living the girlboss life//the Yellow Co. blog](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-7.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-7.jpg)

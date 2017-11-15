@@ -1,5 +1,5 @@
 ---
-title: 'Community: What's the Point?'
+title: "Community: What's the Point?"
 author: heygirl@yellowconference.com
 date: '2015-06-18 04:00:08 -0700'
 categories:
