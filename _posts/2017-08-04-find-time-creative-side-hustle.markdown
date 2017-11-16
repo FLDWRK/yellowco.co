@@ -1,38 +1,66 @@
 ---
 title: The Secret to Finding Time for Your Creative Side Hustle
 author: hanna@yellowco.co
-wordpress_url: http://yellowco.co/?p=9196
 date: '2017-08-04 04:00:55 -0700'
 categories:
 - Tension
+redirect_from: "/tension/find-time-creative-side-hustle/"
 ---
-<p> I love being a lawyer. That is not a typo. I really do. In my day-to-day work, I take care of the legal details for artists, entrepreneurs, and small businesses who are making our world more vibrant and interesting and good.   The law practice I co-founded,&nbsp; <a href="https://wilkinsonmazzeo.com/" target="_blank" rel="noopener noreferrer"> Wilkinson Mazzeo </a> , helps people go after that nagging ambition, that wild dream, that big idea that can change lives. It&rsquo;s exciting, tiring, and rewarding work - and I wouldn&rsquo;t give it up for anything. </p>
-<p> But the thing is, I&rsquo;m not just a lawyer. I&rsquo;m actually one of those very people I work with; I&rsquo;m an artist, a poet. Before my 9 to 5 begins, I spend the morning writing haikus and exploring the wonder of words - <em>every</em> morning. </p>
-<p> I make this time not because I love mornings - I don&rsquo;t. I&rsquo;m learning to, but they&rsquo;re new to me. I make the time because poetry is my own nagging ambition. And there&rsquo;s never going to be time for it between working, and commuting, and paying bills, and debating doing Whole30. But  <a href="http://darlingmagazine.org/exploring-modern-womanhood-haiku/" target="_blank" rel="noopener noreferrer"> writing poetry is something I want and, honestly, need to do </a> . &nbsp; </p>
-<p> So, here&rsquo;s my case for creating your own morning routine to explore a creative passion. I promise that is the only legal wordplay I will use. </p>
-<h3><b>Getting Up Doesn&rsquo;t Have to Mean Going Far</b></h3><br />
- Like I said, I am not a morning person and I never was. My parents had to lure me out of bed with hot chocolate on Christmas morning, like Garfield and his lasagna. </p>
-<p> Inspired by their tactic, my routine starts with getting up, making tea or coffee, and literally getting right back into bed with it. In fact, the majority of my routine occurs  <i> in bed </i> . Creating a comfortable environment is key. <strong>You want to look forward to your routine, not dread it.</strong> This is not like that one morning you tried P90X. </p>
-<p><img class="aligncenter wp-image-9214 size-full" title="THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM" src="http://yellowco.co/wp-content/uploads/2017/08/Photo-Aug-03-5-24-51-PM.jpg" alt="THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM" width="2590" height="2593" /></p>
-<h3><b>Tune Out the Noise (and Notifications)</b></h3><br />
- If you can help it, tune out for a bit. That is, leave your phone (and computer and tablet and Amazon Alexa) along with any other news or notification source off. There&rsquo;s a reason most writers get up early and do their work in the wee morning hours - it&rsquo;s before all the distractions and demands get in and dampen your energy and ideas. <strong>When you wake up, your brilliance and spirit are rested and ready to unfold; give them the quiet space to do so. &nbsp;</strong> </p>
-<h3><b>Create a Sacred Ritual</b></h3><br />
- Across beliefs, the &ldquo;higher power&rdquo; is often referred to as the &ldquo;Creator&rdquo;, or &ldquo;Oprah.&rdquo; (I&rsquo;m kidding about the second one, sort of.) This isn&rsquo;t surprising when you think about it. Creativity is, in essence, a spiritual practice where you are channeling something greater than yourself. </p>
-<p> To help get centered and connected, I recommend creating a sacred ritual for yourself. I practice about 10 minutes of meditation. Then, I pick out a few healing gemstones that I am energetically drawn to (like&nbsp;  rose quartz  , which symbolizes love). Finally, I pull cards from a few oracle card decks, which provide guidance to reflect on throughout the day and help me connect with my intuition. </p>
-<p> The  &nbsp;<a href="https://itunes.apple.com/us/app/ens%C5%8D-meditation-timer-bell/id840637879?mt=8" target="_blank" rel="noopener noreferrer">Enso app</a> is a good meditation timer,&nbsp; <a href="http://www.blueangelonline.com/sacred_rebels_oracle.html" target="_blank" rel="noopener noreferrer"> these </a><a href="https://www.amazon.com/Osho-Zen-Tarot-Transcendental-Game/dp/0312117337" target="_blank" rel="noopener noreferrer">  two </a>  are my favorite oracle card decks at the moment, and the&nbsp; <a href="https://itunes.apple.com/us/app/stone-metaphysical-crystals-illuminated/id1146323083?mt=8" target="_blank" rel="noopener noreferrer"> stone app </a>  is a fun place to start exploring the magical world of gemstones. Regardless of what your ritual includes, just find one that works best for you. </p>
-<h3><b>Practice Morning Pages</b></h3><br />
-Central to my routine is something called&nbsp;<a href="http://www.chriswinfield.com/morning-pages/" target="_blank" rel="noopener noreferrer">Morning Pages</a>, a practice I learned about through the book&nbsp;<a href="https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252/ref=sr_1_1?ie=UTF8&amp;qid=1497934827&amp;sr=8-1&amp;keywords=the+artist%27s+way" target="_blank" rel="noopener noreferrer">The Artist's Way</a>. Essentially, you write three pages freehand in your journal every morning. The only rule is that you must write without constraint, without editing, without hitting backspace.</p>
-<p><img class="aligncenter wp-image-9215 size-full" src="http://yellowco.co/wp-content/uploads/2017/08/Photo-Aug-12-5-21-20-PM.jpg" alt="THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM" width="2592" height="2592" /></p>
-<h3></h3><br />
- The idea is that first thing in the morning, your internal censor/left brain is still asleep; the part of your mind that is constantly editing and telling you that anything creative and novel is wrong or unoriginal. This part of your brain is what we call &ldquo;a hater.&rdquo;   When you write with your internal censor off, what comes out is beautiful, pure - and might surprise you. <strong>The first time I tried this exercise, I was moved to tears. It was so cathartic and daring and freeing.</strong> </p>
-<p> As a result of practicing morning pages, I have become much more comfortable creating without getting in my own way. Furthermore, since starting a year ago, I have published poetry and film photography, experimented with watercolor, drawing, and dance - creative outlets I would have never dreamed of beforehand. </p>
-<h3><b>Do Something That Feels Good</b></h3><br />
- I wrap up my morning routine on my yoga mat, with a combination of stretching and strengthening exercises that feel right for my body. I&rsquo;ve struggled with lower back problems for years and it wasn&rsquo;t until I implemented a simple routine in the morning that I got the pain and discomfort under control. It&rsquo;s amazing what 10 or so minutes of &ldquo;physical therapy&rdquo; can do for you, if practiced consistently. </p>
-<p> Breaking exercise up into bite-size pieces at the beginning of the day makes me feel good from the start, and is&nbsp;less overwhelming to me than a regular gym or yoga studio commitment. <strong>Doing something physical is centering and empowering;&nbsp;the perfect way to get ready to take on the day.</strong> Plus, you can brag about having already worked out when you get to the office. </p>
-<h3><b>A Closing Argument </b></h3><br />
- I know, I said no more legal wordplay, but I couldn&rsquo;t resist that one.   A morning routine is the time to explore your magic, to give your ideas a chance, to be creative and unfettered. The rest of the day can be reactive, in the "weeds", and centered around others&rsquo; needs and agendas. I find my&nbsp;days are more satisfying, my spirits are more buoyant, and my problems are less threatening when I start the day doing what makes me feel good, alive, and like I am an active part of this world.  </p>
-<p> So why not try it? The morning is waiting for you. </p>
-<h5><a href="http://yellowco.co/yellow-2017-workshops/" target="_blank" rel="noopener noreferrer">JOINING US AT THE 2017 YELLOW CONFERENCE? TAKE EMILY'S WORKSHOP: HOW TO LEVERAGE YOUR UNIQUE PERSONALITY IN ANY FIELD</p>
-<p></a></h5><br />
-<em>Photos by:&nbsp;<a href="http://www.nuanceandbubbles.com/" target="_blank" rel="noopener noreferrer">Valerie Moreno</a></em></p>
-<p><a href="https://www.instagram.com/em_wilkinson/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-9211 size-full" src="http://yellowco.co/wp-content/uploads/2017/08/Emily-Wilkinson-Bio.jpg" alt="Emily Wilkinson Bio" width="2699" height="980" /></a></p>
+
+I love being a lawyer. That is not a typo. I really do. In my day-to-day work, I take care of the legal details for artists, entrepreneurs, and small businesses who are making our world more vibrant and interesting and good. The law practice I co-founded,  [Wilkinson Mazzeo](https://wilkinsonmazzeo.com/) , helps people go after that nagging ambition, that wild dream, that big idea that can change lives. It’s exciting, tiring, and rewarding work - and I wouldn’t give it up for anything.
+
+But the thing is, I’m not just a lawyer. I’m actually one of those very people I work with; I’m an artist, a poet. Before my 9 to 5 begins, I spend the morning writing haikus and exploring the wonder of words - _every_ morning.
+
+I make this time not because I love mornings - I don’t. I’m learning to, but they’re new to me. I make the time because poetry is my own nagging ambition. And there’s never going to be time for it between working, and commuting, and paying bills, and debating doing Whole30\. But [writing poetry is something I want and, honestly, need to do](http://darlingmagazine.org/exploring-modern-womanhood-haiku/) .  
+
+So, here’s my case for creating your own morning routine to explore a creative passion. I promise that is the only legal wordplay I will use.
+
+### **Getting Up Doesn’t Have to Mean Going Far**
+
+Like I said, I am not a morning person and I never was. My parents had to lure me out of bed with hot chocolate on Christmas morning, like Garfield and his lasagna.
+
+Inspired by their tactic, my routine starts with getting up, making tea or coffee, and literally getting right back into bed with it. In fact, the majority of my routine occurs _in bed_ . Creating a comfortable environment is key. **You want to look forward to your routine, not dread it.** This is not like that one morning you tried P90X.
+
+![THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Photo-Aug-03-5-24-51-PM.jpg "THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM")
+
+### **Tune Out the Noise (and Notifications)**
+
+If you can help it, tune out for a bit. That is, leave your phone (and computer and tablet and Amazon Alexa) along with any other news or notification source off. There’s a reason most writers get up early and do their work in the wee morning hours - it’s before all the distractions and demands get in and dampen your energy and ideas. **When you wake up, your brilliance and spirit are rested and ready to unfold; give them the quiet space to do so.  **
+
+### **Create a Sacred Ritual**
+
+Across beliefs, the “higher power” is often referred to as the “Creator”, or “Oprah.” (I’m kidding about the second one, sort of.) This isn’t surprising when you think about it. Creativity is, in essence, a spiritual practice where you are channeling something greater than yourself.
+
+To help get centered and connected, I recommend creating a sacred ritual for yourself. I practice about 10 minutes of meditation. Then, I pick out a few healing gemstones that I am energetically drawn to (like  rose quartz , which symbolizes love). Finally, I pull cards from a few oracle card decks, which provide guidance to reflect on throughout the day and help me connect with my intuition.
+
+The  [Enso app](https://itunes.apple.com/us/app/ens%C5%8D-meditation-timer-bell/id840637879?mt=8) is a good meditation timer,  [these](http://www.blueangelonline.com/sacred_rebels_oracle.html) [two](https://www.amazon.com/Osho-Zen-Tarot-Transcendental-Game/dp/0312117337) are my favorite oracle card decks at the moment, and the  [stone app](https://itunes.apple.com/us/app/stone-metaphysical-crystals-illuminated/id1146323083?mt=8) is a fun place to start exploring the magical world of gemstones. Regardless of what your ritual includes, just find one that works best for you.
+
+### **Practice Morning Pages**
+
+Central to my routine is something called [Morning Pages](http://www.chriswinfield.com/morning-pages/), a practice I learned about through the book [The Artist's Way](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252/ref=sr_1_1?ie=UTF8&qid=1497934827&sr=8-1&keywords=the+artist%27s+way). Essentially, you write three pages freehand in your journal every morning. The only rule is that you must write without constraint, without editing, without hitting backspace.
+
+![THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Photo-Aug-12-5-21-20-PM.jpg)
+
+The idea is that first thing in the morning, your internal censor/left brain is still asleep; the part of your mind that is constantly editing and telling you that anything creative and novel is wrong or unoriginal. This part of your brain is what we call “a hater.” When you write with your internal censor off, what comes out is beautiful, pure - and might surprise you. **The first time I tried this exercise, I was moved to tears. It was so cathartic and daring and freeing.**
+
+As a result of practicing morning pages, I have become much more comfortable creating without getting in my own way. Furthermore, since starting a year ago, I have published poetry and film photography, experimented with watercolor, drawing, and dance - creative outlets I would have never dreamed of beforehand.
+
+### **Do Something That Feels Good**
+
+I wrap up my morning routine on my yoga mat, with a combination of stretching and strengthening exercises that feel right for my body. I’ve struggled with lower back problems for years and it wasn’t until I implemented a simple routine in the morning that I got the pain and discomfort under control. It’s amazing what 10 or so minutes of “physical therapy” can do for you, if practiced consistently.
+
+Breaking exercise up into bite-size pieces at the beginning of the day makes me feel good from the start, and is less overwhelming to me than a regular gym or yoga studio commitment. **Doing something physical is centering and empowering; the perfect way to get ready to take on the day.** Plus, you can brag about having already worked out when you get to the office.
+
+### **A Closing Argument**
+
+I know, I said no more legal wordplay, but I couldn’t resist that one. A morning routine is the time to explore your magic, to give your ideas a chance, to be creative and unfettered. The rest of the day can be reactive, in the "weeds", and centered around others’ needs and agendas. I find my days are more satisfying, my spirits are more buoyant, and my problems are less threatening when I start the day doing what makes me feel good, alive, and like I am an active part of this world.
+
+So why not try it? The morning is waiting for you.
+
+##### [JOINING US AT THE 2017 YELLOW CONFERENCE? TAKE EMILY'S WORKSHOP: HOW TO LEVERAGE YOUR UNIQUE PERSONALITY IN ANY FIELD](http://yellowco.co/yellow-2017-workshops/)
+
+[](http://yellowco.co/yellow-2017-workshops/)
+
+_Photos by: [Valerie Moreno](http://www.nuanceandbubbles.com/)_
+
+[![Emily Wilkinson Bio](http://yellowco.co/wp-content/uploads/2017/08/Emily-Wilkinson-Bio.jpg)](https://www.instagram.com/em_wilkinson/)
