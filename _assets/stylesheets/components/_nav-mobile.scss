@@ -1,0 +1,54 @@
+.nav-mobile {
+  position: fixed;
+  right: -15.625rem;
+  width: 15.625rem;
+  background: $brand-primary;
+  z-index: 10000;
+
+  .nav-mobile-logo {
+    width: 13rem;
+    padding: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  > ul {
+    margin-bottom: 0.5rem;
+  }
+
+  > ul > .nav-item {
+    padding: 5px 10px;
+    border-bottom: 1px solid $gray-dark;
+    text-align: center;
+
+    > .nav-link {
+      font-family: $font-family-subheadings;
+      font-size: 1rem;
+      color: $brand-black;
+      letter-spacing: 2px;
+    }
+
+    &:first-child {
+      border-top: 1px solid $gray-dark;
+    }
+  }
+
+  > .list-social {
+    padding: 0.5rem 1rem 1rem 3.5rem;
+
+    > .list-social-item {
+      margin-bottom: 0;
+      padding-right: 3px;
+
+      [fill='#000'] {
+        fill: $white;
+      }
+    }
+  }
+}
+@include media-breakpoint-down(xs){
+  .nav-mobile {
+    width: 100%;
+  }
+}
