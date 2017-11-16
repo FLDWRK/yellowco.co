@@ -1,17 +1,19 @@
 #content {
   a {
     cursor: pointer;
-
-    &.active {
-      text-decoration: none;
-    }
+    // &.active, &:hover {
+    //   text-decoration: none;
+    // }
+    // &:hover {
+    //   border-bottom: lighten($brand-primary, 10%);
+    // }
   }
   .no-underline {
     border-bottom: none;
     text-decoration: none;
   }
   p a {
-        border-bottom: 2px solid $brand-primary;
+    border-bottom: 2px solid $brand-primary;
   }
 }
 

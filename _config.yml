@@ -42,3 +42,5 @@ whitelist:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
+collections:
+- partners
