@@ -3,7 +3,7 @@ title: Hanna Snyder
 company_name: Yellow Co.
 job_title: Communications Director
 bio_image:
-url: 
+url:
 is_guest: false
 ---
 
