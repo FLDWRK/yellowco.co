@@ -1,0 +1,20 @@
+.blockquote {
+  color: $brand-black;
+  font-size: 1.3rem;
+  font-family: $font-family-serif;
+  line-height: 2;
+  border-left: none;
+  p::before {
+    font-family: $font-family-serif;
+    font-weight: bold;
+    font-size: 5.5rem;
+    line-height: .5;
+    display: block;
+    content: '”';
+    color: #F4EF11;
+    margin-top: 1.25rem;
+  }
+  .blockquote-footer {
+    color: $gray;
+  }
+}
