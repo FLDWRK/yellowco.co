@@ -6,9 +6,15 @@ date: '2017-10-23 04:00:41 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/12-resources-healthy-relationship-body/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
-We are embodied beings. This means that we take on physical form. While we are not only the form that is our body, we are also not only a soul - we are both. Why does this matter? How we interact with the world and connect with others occurs in the context of embodiment. Our relationship with our bodies; how we think and feel about them, ultimately creates how we talk about and treat them. These actions and words do not occur in a vacuum, they absolutely influence how you show up in the world, and how you are able to contribute to your community. Bodies do not look the same.
+We are embodied beings. This means that we take on physical form.
+
+<!-- more -->
+
+While we are not only the form that is our body, we are also not only a soul - we are both. Why does this matter? How we interact with the world and connect with others occurs in the context of embodiment. Our relationship with our bodies; how we think and feel about them, ultimately creates how we talk about and treat them. These actions and words do not occur in a vacuum, they absolutely influence how you show up in the world, and how you are able to contribute to your community. Bodies do not look the same.
 
 ### **We come in different shapes and sizes. That fact can either be used maliciously to divide and create otherness, or it adds another layer to our diversity that can be celebrated and embraced.**
 

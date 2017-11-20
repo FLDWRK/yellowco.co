@@ -5,6 +5,8 @@ date: '2017-10-16 04:00:34 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/tribe-alive-ethical-artisan-made-fashion/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
 Have you heard of [Tribe Alive](https://tribealive.com/) yet? If you haven’t, settle into this interview with their founder, Carly Burson. Tribe Alive is an ethical fashion brand that creates beautiful clothing, accessories, and jewelry while empowering artisans in the developing world. I was so excited to talk with my friend, Carly, about her social enterprise, and I was even more excited to hear about how much she and her company value dignity, respect, and self-sufficiency of the artisans they partner with! As a founder of a social enterprise myself, I was so happy to hear how intentional Carly is about growing her company.

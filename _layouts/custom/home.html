@@ -59,13 +59,13 @@ layout: site
       <div class="card-deck card-deck-blog justify-content-center">
         {% for post in site.posts limit:3 %}
           <div class="card my-2">
-            {% if post.image %}
+            {% if post.image-feature %}
               <a href="{{ post.url }}" class="_no-underline">
-                <img src="{{ post.image }}" class="card-img-top img-fluid" data-crop="fill" data-rjs="2">
+                <img src="{{ post.image-feature }}" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
               </a>
             {% endif %}
             <div class="card-block text-center">
-              <h6 class="card-category"><mark>{{ post.category }}</mark></h6>
+              <h6 class="card-category"><mark>{{ post.categories }}</mark></h6>
               <h2 class="card-title"><a href="{{ post.url }}" class="_no-underline">{{ post.title }}</a></h2>
             </div>
           </div>
@@ -81,34 +81,18 @@ layout: site
     </div>
   </div>
   <div class="row">
+    {% for post in site.posts limit:6 %}
     <div class="col-12 col-sm-6 col-md-6 col-lg-4">
-      <a href="#">
+      <a href="{{ post.url }}">
         <div class="card card-deck-6">
-          <img class="card-img-top img-fluid" src="/assets/images/blog-story.png" alt="Card image cap" data-rjs="2">
+          <img class="card-img-top img-fluid" src="{{ post.image-thumb }}" alt="{{ post.title }}" data-rjs="2">
           <div class="card-block pl-0">
-            <h6 class="card-title">Card title</h6>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <h6 class="card-title">{{ post.title }}</h6>
+            <!-- <p class="card-text">{{ post.excerpt | markdownify | strip_html | strip | newline_to_br }}</p> -->
           </div>
         </div>
       </a>
     </div>
-    <div class="col-12 col-sm-6 col-md-6 col-lg-4">
-      <div class="card card-deck-6">
-        <img class="card-img-top img-fluid" src="/assets/images/blog-story.png" alt="Card image cap" data-rjs="2">
-        <div class="card-block pl-0">
-          <h6 class="card-title">Card title</h6>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-12 col-sm-6 col-md-6 col-lg-4">
-      <div class="card card-deck-6">
-        <img class="card-img-top img-fluid" src="/assets/images/blog-story.png" alt="Card image cap" data-rjs="2">
-        <div class="card-block pl-0">
-          <h6 class="card-title">Card title</h6>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-    </div>
+    {% endfor %}
   </div>
 </div>

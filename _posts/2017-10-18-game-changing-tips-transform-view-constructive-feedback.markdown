@@ -5,9 +5,15 @@ date: '2017-10-18 04:00:02 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/game-changing-tips-transform-view-constructive-feedback/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
-How well we give and receive feedback can determine the depth we experience in relationships, the impact we build in our careers, how quickly we bounce back from failure, and how sharply we chisel our skill sets. Whether you’re working independently or in a team, in Corporate America or looking to grow yourself personally, constructive feedback is the quickest way to hone your craft and reach the sights you’ve set for yourself. The more you understand yourself, the more value you can add to other people, which is what coming together is all about!
+How well we give and receive feedback can determine the depth we experience in relationships, the impact we build in our careers, how quickly we bounce back from failure, and how sharply we chisel our skill sets.
+
+<!-- more -->
+
+Whether you’re working independently or in a team, in Corporate America or looking to grow yourself personally, constructive feedback is the quickest way to hone your craft and reach the sights you’ve set for yourself. The more you understand yourself, the more value you can add to other people, which is what coming together is all about!
 
 ### Feedback goes both ways, and if we are vulnerable enough, often enough, we will find ourselves on both ends of the spectrum of giving and receiving.
 
