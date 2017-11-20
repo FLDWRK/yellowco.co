@@ -5,9 +5,15 @@ date: '2017-10-25 04:00:14 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/word-rebel-fight-education-inequality/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
-The Bronx will change a girl. When Lauren Poinier began teaching Special Education in this NYC borough, she couldn't predict that this was the first step toward founding a non-profit. [Word Rebel](http://www.wordrebel.org/) closes the achievement gap before it starts by connecting the parents of pre-k students with literacy resources, so they can rebel against education inequality one word at a time. Learn more about how [Word Rebel](http://www.wordrebel.org/) takes on this issue in this interview with Lauren:
+The Bronx will change a girl. When Lauren Poinier began teaching Special Education in this NYC borough, she couldn't predict that this was the first step toward founding a non-profit.
+
+<!-- more -->
+
+[Word Rebel](http://www.wordrebel.org/) closes the achievement gap before it starts by connecting the parents of pre-k students with literacy resources, so they can rebel against education inequality one word at a time. Learn more about how [Word Rebel](http://www.wordrebel.org/) takes on this issue in this interview with Lauren:
 
 #### Can you tell us what your rebellious organization is doing in the world?
 

@@ -1,14 +1,19 @@
 ---
-title: "'SHE SHOULD RUN' CEO Shares What You Can Do Today to Get More Women in Elected
-  Office"
+title: "She Should Run CEO Shares How You Can Get More Women in Office"
 author: hanna@yellowco.co
 date: '2017-10-27 04:00:47 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/she-should-run-ceo-more-women-elected-office/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
-Perhaps more than ever, we can see a dire need for unity, diversity, and genuine collaboration in our nation's political offices. While strides have been made towards women being further represented in elected office, there is no doubt we still have a long way to go to close the gender gap. [Erin Loos Cutraro](http://www.sheshouldrun.org/meet_the_staff), Founder and CEO of [She Should Run](http://www.sheshouldrun.org/), resolved to make this gap much narrower. The non-partisan, non-profit organization she started has a mission to grow the amount of women running for office in the US through both community and multiple programs they offer. They dream to see women of all political leanings, ethnicities, and backgrounds come together to support one another and have equal opportunity to be leaders. Read more on how She Should Run is changing the culture of women in politics in our interview with Erin!
+Perhaps more than ever, we can see a dire need for unity, diversity, and genuine collaboration in our nation's political offices.
+
+<!-- more -->
+
+While strides have been made towards women being further represented in elected office, there is no doubt we still have a long way to go to close the gender gap. [Erin Loos Cutraro](http://www.sheshouldrun.org/meet_the_staff), Founder and CEO of [She Should Run](http://www.sheshouldrun.org/), resolved to make this gap much narrower. The non-partisan, non-profit organization she started has a mission to grow the amount of women running for office in the US through both community and multiple programs they offer. They dream to see women of all political leanings, ethnicities, and backgrounds come together to support one another and have equal opportunity to be leaders. Read more on how She Should Run is changing the culture of women in politics in our interview with Erin!
 
 #### **Can you share about the mission behind [She Should Run](http://www.sheshouldrun.org/)?**
 
