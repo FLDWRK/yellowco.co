@@ -1,6 +1,6 @@
 ---
 title: Finding Purpose When You Feel Unproductive
-author: hanna@yellowco.co
+author: Kate Alsup
 date: '2017-06-12 04:00:11 -0700'
 categories:
 - Wander

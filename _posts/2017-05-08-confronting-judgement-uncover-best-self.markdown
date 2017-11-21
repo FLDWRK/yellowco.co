@@ -1,6 +1,6 @@
 ---
 title: Confronting Our Inner Judgement to Uncover Our Best Self
-author: hanna@yellowco.co
+author: Laura Weldy
 date: '2017-05-08 04:00:20 -0700'
 categories:
 - Wander

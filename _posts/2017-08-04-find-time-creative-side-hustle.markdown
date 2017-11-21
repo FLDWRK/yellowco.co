@@ -1,6 +1,6 @@
 ---
 title: The Secret to Finding Time for Your Creative Side Hustle
-author: hanna@yellowco.co
+author: Emily Wilkinson
 date: '2017-08-04 04:00:55 -0700'
 categories:
 - Tension

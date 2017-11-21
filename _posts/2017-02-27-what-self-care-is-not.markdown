@@ -1,6 +1,6 @@
 ---
 title: What Self Care is Not
-author: hanna@yellowco.co
+author: Alyce Youngblood
 date: '2017-02-27 04:00:54 -0800'
 categories:
 - Creative Ladies

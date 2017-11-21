@@ -1,6 +1,6 @@
 ---
 title: 'Connection, Value, and Making a Statement: an Interview with Our Sacred Women'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-03-08 04:00:16 -0800'
 categories:
 - Creative Ladies

@@ -1,6 +1,6 @@
 ---
 title: How My Inner Rebel Saved Me from Giving Up on Freelance
-author: hanna@yellowco.co
+author: Jackie Viramontez
 date: '2017-04-05 04:00:01 -0700'
 categories:
 - Wander

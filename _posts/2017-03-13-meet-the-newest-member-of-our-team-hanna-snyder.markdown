@@ -1,6 +1,6 @@
 ---
 title: 'Meet the Newest Member of Our Team: Hanna Snyder'
-author: hanna@yellowco.co
+author: Joanna Waterfall
 date: '2017-03-13 04:00:21 -0700'
 categories:
 - Pioneer

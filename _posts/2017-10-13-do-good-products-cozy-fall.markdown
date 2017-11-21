@@ -1,6 +1,6 @@
 ---
 title: 13 Do-Good Products to Cozy Up With This Fall
-author: hanna@yellowco.co
+author: "Lindsay Byers-Hirth"
 date: '2017-10-13 04:00:39 -0700'
 categories:
 - Come Together

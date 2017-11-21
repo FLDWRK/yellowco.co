@@ -1,6 +1,6 @@
 ---
 title: 'Tension: Our Summer Series'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-07-03 04:00:26 -0700'
 categories:
 - Tension

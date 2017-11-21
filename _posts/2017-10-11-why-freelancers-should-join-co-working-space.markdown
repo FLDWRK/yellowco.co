@@ -1,6 +1,6 @@
 ---
 title: Why All Freelancers Should Join a Co-Working Space
-author: hanna@yellowco.co
+author: Bailey Van Tassel
 date: '2017-10-11 04:00:32 -0700'
 categories:
 - Come Together

@@ -1,7 +1,7 @@
 ---
 
 title: Stop Letting Unmet Expectations Hold You Back
-author: heygirl@yellowconference.com
+author: Becky Morquecho
 date: '2017-01-27 04:00:40 -0800'
 categories:
 - Advice

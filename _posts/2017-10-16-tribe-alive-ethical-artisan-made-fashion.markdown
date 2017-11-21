@@ -1,6 +1,6 @@
 ---
 title: 10 Questions With Tribe Alive on Ethical, Artisan Made Fashion
-author: hanna@yellowco.co
+author: Elisabetta Colabianchi
 date: '2017-10-16 04:00:34 -0700'
 categories:
 - Come Together

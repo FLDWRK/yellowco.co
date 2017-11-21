@@ -1,6 +1,6 @@
 ---
 title: Giving Purpose to the Process
-author: hanna@yellowco.co
+author: Jessica Estrada
 date: '2017-03-22 04:00:08 -0700'
 categories:
 - Advice

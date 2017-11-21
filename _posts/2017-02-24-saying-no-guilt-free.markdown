@@ -1,6 +1,6 @@
 ---
 title: The Art of Saying No, Guilt-Free
-author: hanna@yellowco.co
+author: Amy Everhart
 date: '2017-02-24 04:00:33 -0800'
 categories:
 - Advice

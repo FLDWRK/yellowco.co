@@ -1,7 +1,7 @@
 ---
 title: 3 Questions Every Leader Should Ask Themselves / A Yellow Collective Leader
   Dinner Recap
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2017-03-27 04:00:21 -0700'
 categories:
 - Collective

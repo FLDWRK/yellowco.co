@@ -1,6 +1,6 @@
 ---
 title: Quieting Fear to Let Your Voice Speak Loud
-author: hanna@yellowco.co
+author: Sybil Clark Amuti
 date: '2017-05-15 04:00:15 -0700'
 categories:
 - Wander

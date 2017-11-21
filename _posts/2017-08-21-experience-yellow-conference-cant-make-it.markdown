@@ -1,7 +1,7 @@
 ---
 title: How to Experience the Goodness of Yellow Conference (Even if You Can't Make
   it!)
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-08-21 04:00:51 -0700'
 categories:
 - Tension

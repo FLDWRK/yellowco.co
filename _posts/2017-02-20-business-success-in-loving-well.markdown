@@ -1,6 +1,6 @@
 ---
 title: Five Truths Why Success is Rooted in Loving People Well
-author: hanna@yellowco.co
+author: Char Newswanger
 date: '2017-02-20 04:00:40 -0800'
 categories:
 - Inspiration

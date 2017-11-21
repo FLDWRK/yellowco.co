@@ -1,6 +1,6 @@
 ---
 title: 'Meet Holley Murchison: a 2017 Yellow Conference Speaker'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-08-09 04:00:47 -0700'
 categories:
 - Tension

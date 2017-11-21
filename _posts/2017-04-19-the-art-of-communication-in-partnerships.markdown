@@ -1,6 +1,6 @@
 ---
 title: The Art of Communication in Partnerships
-author: hanna@yellowco.co
+author: bRUNch Running
 date: '2017-04-19 04:00:43 -0700'
 categories:
 - Wander

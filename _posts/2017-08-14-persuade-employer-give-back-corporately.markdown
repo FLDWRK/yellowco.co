@@ -1,6 +1,6 @@
 ---
 title: 3 Ways to Persuade Your Employer to Give Back Corporately
-author: hanna@yellowco.co
+author: Salma Elbarmawi
 date: '2017-08-14 04:00:53 -0700'
 categories:
 - Tension

@@ -1,6 +1,6 @@
 ---
 title: What is a Triple Bottom Line Business?
-author: hanna@yellowco.co
+author: Elisabetta Colabianchi
 date: '2017-08-30 04:00:38 -0700'
 categories:
 - Tension

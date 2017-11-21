@@ -1,6 +1,6 @@
 ---
 title: How a Parking Ticket Shifted My Perspective on the Value of Energy
-author: hanna@yellowco.co
+author: Amy Everhart
 date: '2017-09-04 04:00:56 -0700'
 categories:
 - Tension

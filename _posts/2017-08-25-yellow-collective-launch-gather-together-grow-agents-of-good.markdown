@@ -1,6 +1,6 @@
 ---
-title: 'The Yellow Collective 2.0 Launch: Gathering Together to Become Agents of Good'
-author: hanna@yellowco.co
+title: "The Yellow Collective 2.0 Launch: Gathering Together to Become Agents of Good"
+author: Rachel Neal
 date: '2017-08-25 04:00:28 -0700'
 categories:
 - Tension

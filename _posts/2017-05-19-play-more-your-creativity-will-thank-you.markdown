@@ -1,6 +1,6 @@
 ---
 title: 'Hustle Less, Play More: Your Creativity Will Thank You'
-author: hanna@yellowco.co
+author: Madison Hedlund
 date: '2017-05-19 04:00:20 -0700'
 categories:
 - Wander

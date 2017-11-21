@@ -1,6 +1,6 @@
 ---
 title: Three Epiphanies I've Had After Three Years of Running the Yellow Conference
-author: hanna@yellowco.co
+author: Joanna Waterfall
 date: '2017-05-26 04:00:58 -0700'
 categories:
 - Wander

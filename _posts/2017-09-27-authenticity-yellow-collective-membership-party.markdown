@@ -1,6 +1,6 @@
 ---
 title: An Evening of Authenticity at the Yellow Membership Launch Party
-author: hanna@yellowco.co
+author: Allie Fleming
 date: '2017-09-27 04:00:45 -0700'
 categories:
 - Tension

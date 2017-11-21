@@ -1,7 +1,7 @@
 ---
 
-title: Experiencing the Impact of Culture (Without a Passport)
-author: hanna@yellowco.co
+title: "Experiencing the Impact of Culture (Without a Passport)"
+author: "Rachael Parker-Chavez"
 date: '2017-05-17 04:00:08 -0700'
 categories:
 - Wander

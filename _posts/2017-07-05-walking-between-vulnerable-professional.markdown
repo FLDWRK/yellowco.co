@@ -1,6 +1,6 @@
 ---
 title: Walking the Fine Line Between Vulnerability and Professionalism
-author: hanna@yellowco.co
+author: Jackie Viramontez
 date: '2017-07-05 04:00:07 -0700'
 categories:
 - Tension

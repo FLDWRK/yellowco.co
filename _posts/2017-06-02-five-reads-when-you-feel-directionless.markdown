@@ -1,6 +1,6 @@
 ---
 title: Five Reads to Pick Up When You Feel Directionless
-author: hanna@yellowco.co
+author: Rachel Neal
 date: '2017-06-02 04:00:25 -0700'
 categories:
 - Wander

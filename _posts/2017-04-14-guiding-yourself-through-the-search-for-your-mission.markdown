@@ -1,6 +1,6 @@
 ---
 title: Guiding Yourself Through the Search for Your Mission
-author: hanna@yellowco.co
+author: Bailey Van Tassel
 date: '2017-04-14 04:00:22 -0700'
 categories:
 - Wander
