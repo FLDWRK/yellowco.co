@@ -1,23 +1,28 @@
 ---
-title: 'How Crowdfunding Creates Families: an Interview with the Founder of Adopt Together + World Adoption Day'
+title: 'How Crowdfunding Creates Families: Interview with World Adoption Day Founder'
 author: Hanna Snyder
 date: '2017-10-30 04:00:43 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/crowdfunding-creates-families-interview-hank-fortener-adopt-together/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
-_In the face of large, discouraging statistics and a global need, finding a solution that really
+In the face of large, discouraging statistics and a global need, finding a solution that really
 works can either be a daunting task, or in the case of [Hank Fortener](http://hankfortener.com/), an
-exciting invitation. Seeing hope in humanity and a need to create accessibility to the beauty of
-adoption, he founded both [World Adoption Day](http://worldadoptionday.org/) and
+exciting invitation.
+
+<!-- more -->
+
+Seeing hope in humanity and a need to create accessibility to the beauty of adoption, he founded
+both [World Adoption Day](http://worldadoptionday.org/) and
 [AdoptTogether](https://adopttogether.org/), the world’s largest crowdfunding platform for adoption.
 I had the opportunity to speak with Hank on his family's history of adoption, what resources really
 matter, and how a smiley face can uplift the world's conversation on family. Let's just say he has a
-lot of good to say on all of it, but I highly recommend you find out for yourself. _ ####
+lot of good to say on all of it, but I highly recommend you find out for yourself.
 
-**Can you share a bit behind why you are so personally passionate about adoption and creating a
-solution to make it easier for families?**
+#### **Can you share a bit behind why you are so personally passionate about adoption and creating a solution to make it easier for families?**
 
 I had an eye-opening experience when one of my good friends, Rob Bell, helped me realize that
 adoption was not my calling. It wasn’t my singular thing I was going to do in the world. He helped

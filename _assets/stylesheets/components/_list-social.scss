@@ -1,0 +1,31 @@
+.list-social {
+  @include list-unstyled;
+  margin-bottom: 0;
+  > .list-social-item {
+    display: inline-block;
+    &:not(:last-child) {
+      margin-right: $list-inline-padding;
+    }
+    > .list-social-link {
+      width: 1rem; border-bottom: 0;
+      &:hover [fill='#000'] { fill: $brand-black; }
+      .icon.icon-xs svg {
+        width: 1.35rem; height: 1.35rem;
+      }
+    }
+  }
+
+  &.list-social-buttons {
+    > .list-social-item {
+      > .list-social-link {
+        background: $brand-black; width: 2.25rem; height: 2.25rem; border-radius: 3px;
+        display: flex; justify-content: center; align-items: center;
+        [fill='#000'] { fill: #fff; }
+        &:hover {
+          background: darken($brand-black,15%);
+          [fill='#000'] { fill: #ECEEEF; }
+        }
+      }
+    }
+  }
+}
