@@ -19,7 +19,7 @@ At the end of my junior year in April 2012, I launched [Headbands of Hope](https
 
 But my biggest accomplishment is donating headbands to every children’s hospital in the United States.
 
-![HEADBANDS OF HOPE: MAKING AN IMPACT ONE CHILD AT A TIME (& A GIVEAWAY!) - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/0T6A4657.jpg)
+![HEADBANDS OF HOPE: MAKING AN IMPACT ONE CHILD AT A TIME (& A GIVEAWAY!) - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/0T6A4657.jpg)
 
 Some moments, I’m euphoric with this movement I’ve created and the impact that it’s had on so many kids. But other moments (too many that I’d like to admit) I feel an anxiousness that I’m not doing enough, or that I could be doing _more_ .
 
@@ -29,7 +29,7 @@ Last year, I met an astronaut (pretty cool!) and he said no matter how great of 
 
 On one hand, I credit a lot of the success of my career to the mentality that I can always be doing more, because it’s fueled a lot of my hustle. On the other hand, it’s robbed me of a lot of the enjoyment and satisfaction of the process. And if I can’t enjoy the life I’ve created, that’s a big problem to me.  
 
-![HEADBANDS OF HOPE: MAKING AN IMPACT ONE CHILD AT A TIME (& A GIVEAWAY!) - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/0T6A0437.jpg)
+![HEADBANDS OF HOPE: MAKING AN IMPACT ONE CHILD AT A TIME (& A GIVEAWAY!) - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/0T6A0437.jpg)
 
 I found a lot of this anxiety stemmed from comparison. When you’re trying to do something big, you meet a lot of other people trying to create something cool too. I’ve loved being a part of a growing community of entrepreneurs, activists, and people who are going for it; but it’s so easy to hold a ruler between yourself and someone else.
 
@@ -39,7 +39,7 @@ I’ll start to compare what I’m doing with what they’re doing and start to 
 
 My mind is too cluttered with doubt that I have nothing else to give to my business or even my relationships. I learned a lot from a story Chelsea Handler told about a friend she invited to her comedy group. Her friend got picked up by a talent scout before Chelsea did. At first, she was jealous and angry. But then she learned from her sister that someone else’s success is not robbing you of your own.
 
-![HEADBANDS OF HOPE: MAKING AN IMPACT ONE CHILD AT A TIME (& A GIVEAWAY!) - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/Jess-334.jpg)
+![HEADBANDS OF HOPE: MAKING AN IMPACT ONE CHILD AT A TIME (& A GIVEAWAY!) - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/Jess-334.jpg)
 
 ### **Sometimes it may seem that success is just a small platform that only a few people can fit on, but there’s room for everyone at the top.**
 
@@ -51,4 +51,4 @@ On the outside, it seems the bigger [Headbands of Hope](https://www.headbandsofh
 
 Photos provided by [Headbands of Hope](https://www.headbandsofhope.com/)
 
-[![Jess Ekstrom BIO](https://s3.amazonaws.com/yellow-files/blog/2017/09/Jess-Ekstrom-BIO.jpg)](https://www.instagram.com/jess_ekstrom/)
+[![Jess Ekstrom BIO](https://yellow-blog-images.imgix.net/2017/09/Jess-Ekstrom-BIO.jpg)](https://www.instagram.com/jess_ekstrom/)

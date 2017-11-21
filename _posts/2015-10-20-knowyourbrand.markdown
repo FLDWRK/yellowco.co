@@ -11,7 +11,7 @@ categories:
 redirect_from: "/light-talk/knowyourbrand/"
 ---
 
-##### [![YELLOW CO. BLOG: BRAND YOURSELF](https://s3.amazonaws.com/yellow-files/blog/2015/10/h0qNpnAlHCLM34IzAn2gJf_46qmwHq4MubRaBDSsbdA.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/h0qNpnAlHCLM34IzAn2gJf_46qmwHq4MubRaBDSsbdA.jpg)During college, I was always told that each individual has an opportunity to cultivate their own personal brand.
+##### [![YELLOW CO. BLOG: BRAND YOURSELF](https://yellow-blog-images.imgix.net/2015/10/h0qNpnAlHCLM34IzAn2gJf_46qmwHq4MubRaBDSsbdA.jpg)](https://yellow-blog-images.imgix.net/2015/10/h0qNpnAlHCLM34IzAn2gJf_46qmwHq4MubRaBDSsbdA.jpg)During college, I was always told that each individual has an opportunity to cultivate their own personal brand.
 
 How you present yourself on social media, in your daily lives, and how others perceive you is all part of this ‘brand.’
 
@@ -25,12 +25,12 @@ Now keep in mind, I’m not talking about your company, or your new venture ­�
 
 ##### **Here are 6 questions you should ask yourself to help clarify and define your personal brand:**
 
-[![Screenshot 2015-10-19 19.49.37](https://s3.amazonaws.com/yellow-files/blog/2015/10/Screenshot-2015-10-19-19.49.37.png)](https://s3.amazonaws.com/yellow-files/blog/2015/10/Screenshot-2015-10-19-19.49.37.png)
+[![Screenshot 2015-10-19 19.49.37](https://yellow-blog-images.imgix.net/2015/10/Screenshot-2015-10-19-19.49.37.png)](https://yellow-blog-images.imgix.net/2015/10/Screenshot-2015-10-19-19.49.37.png)
 
-And guess what...we made this into a worksheet just.for.you... click [here](https://s3.amazonaws.com/yellow-files/blog/2015/10/blog-worksheet-1.pdf) to download and print it out!
+And guess what...we made this into a worksheet just.for.you... click [here](https://yellow-blog-images.imgix.net/2015/10/blog-worksheet-1.pdf) to download and print it out!
 
-#### [DOWNLOAD YOUR PERSONAL BRANDING WORKSHEET!](https://s3.amazonaws.com/yellow-files/blog/2015/10/blog-worksheet-1.pdf)
+#### [DOWNLOAD YOUR PERSONAL BRANDING WORKSHEET!](https://yellow-blog-images.imgix.net/2015/10/blog-worksheet-1.pdf)
 
 _Photo by [Karen Hernandez](http://www.karenmariehernandez.com/)_
 
-[![Yellow Co. Blog: define your brand](https://s3.amazonaws.com/yellow-files/blog/2015/07/SARAH-HEYL.jpg)](http://saltandsun.co/)
+[![Yellow Co. Blog: define your brand](https://yellow-blog-images.imgix.net/2015/07/SARAH-HEYL.jpg)](http://saltandsun.co/)

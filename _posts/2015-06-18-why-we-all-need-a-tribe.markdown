@@ -11,7 +11,7 @@ categories:
 redirect_from: "/light-talk/why-we-all-need-a-tribe/"
 ---
 
-[![15771818379_76b0792ab8_k](https://s3.amazonaws.com/yellow-files/blog/2015/06/15771818379_76b0792ab8_k.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/15771818379_76b0792ab8_k.jpg)
+[![15771818379_76b0792ab8_k](https://yellow-blog-images.imgix.net/2015/06/15771818379_76b0792ab8_k.jpg)](https://yellow-blog-images.imgix.net/2015/06/15771818379_76b0792ab8_k.jpg)
 
 **We need community. Because, let’s be honest: it’s _super_ lonely without others.**
 
@@ -29,7 +29,7 @@ So I allowed myself time to process and get real in the disconnected feelings. A
 
 I think of my brain like an empty room. When I feel disconnected, critical dark thoughts echo all over the place like a bouncy ball. Boing, boing boing. But put a piece of furniture in that room and it absorbs the sound. When I choose to reach close to community even when I don’t feel like it, when I invite them into the room, the bouncy echo no longer has power because people absorb it. Their very existence takes up otherwise empty space. Community becomes the furniture who decorate our life. They sturdy and accent, offering home and safety. The less we isolate ourselves, the richer our rooms are designed with community. While some are confident couches or quirky leg lamps, others are colorful coasters, a shag rug, a classy set of champagne flutes, or a one-of-a-kind wingback. Wouldn’t it be beautiful to fill our rooms with a community that echo stories and faith and bright bold colors instead of dark silence?
 
-[![8260351343_7ea6c3779e_o (1)](https://s3.amazonaws.com/yellow-files/blog/2015/06/8260351343_7ea6c3779e_o-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/8260351343_7ea6c3779e_o-1.jpg)
+[![8260351343_7ea6c3779e_o (1)](https://yellow-blog-images.imgix.net/2015/06/8260351343_7ea6c3779e_o-1.jpg)](https://yellow-blog-images.imgix.net/2015/06/8260351343_7ea6c3779e_o-1.jpg)
 
 Dorothy Day says, “We have all known the long loneliness and we have learned that the only solution is love and that love comes with community.”
 
@@ -51,4 +51,4 @@ _Photos by [Sandra Vucovic Pagaimo](https://www.flickr.com/photos/54132946@N08/w
 
 _This piece was first published on Bekah's blog, [Upcycled Jane](http://www.upcycledjane.com/)_
 
-[![bekahpogue](https://s3.amazonaws.com/yellow-files/blog/2015/06/bekahpogue.jpg)](http://www.upcycledjane.com/)
+[![bekahpogue](https://yellow-blog-images.imgix.net/2015/06/bekahpogue.jpg)](http://www.upcycledjane.com/)

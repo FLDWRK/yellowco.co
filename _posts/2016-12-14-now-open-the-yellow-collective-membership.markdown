@@ -13,7 +13,7 @@ Joanna Waterfall here (yes, that's my real last name)! I'm the founder of Yellow
 
 There are sooo many "what if's" that come with doing something new. We officially launched [The Yellow Collective](http://yellowcollective.com/) at our conference this year, and we have learned so much through it all!
 
-[![yellow2016-213](https://s3.amazonaws.com/yellow-files/blog/2016/12/Yellow2016-213.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/12/Yellow2016-213.jpg)
+[![yellow2016-213](https://yellow-blog-images.imgix.net/2016/12/Yellow2016-213.jpg)](https://yellow-blog-images.imgix.net/2016/12/Yellow2016-213.jpg)
 
 I'm super excited for the new things we have in store for the membership to make it an even more amazing experience for our members, but I'm also terrified- because it feels so BIG!
 
@@ -61,7 +61,7 @@ To which I would answer, "WHY YES OF COURSE, I'D BE HAPPY TO!"
 
 I'll start off by elaborating a bit more about the **EMPOWERMENT BOXES** the membership comes with. Sound good?
 
-![yellow2016-207](https://s3.amazonaws.com/yellow-files/blog/2016/12/Yellow2016-207.jpg)
+![yellow2016-207](https://yellow-blog-images.imgix.net/2016/12/Yellow2016-207.jpg)
 
 ## 1\. THE EMPOWERMENT BOX
 
@@ -118,7 +118,7 @@ LET'S DIVE IN A BIT DEEPER, SHALL WE?
 
 Let me start off by telling you a bit about the digital resources portion of the membership and what that means...
 
-## ![_mg_1412](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_1412.jpg)
+## ![_mg_1412](https://yellow-blog-images.imgix.net/2016/12/MG_1412.jpg)
 
 ## 2\. THE DIGITAL RESOURCES  
 
@@ -156,7 +156,7 @@ The coolest part is that you get to do it with a community who is supporting you
 * * *
 
 Which brings me to...  
-![yellow2016-442](https://s3.amazonaws.com/yellow-files/blog/2016/12/Yellow2016-442.jpg)
+![yellow2016-442](https://yellow-blog-images.imgix.net/2016/12/Yellow2016-442.jpg)
 
 ## 3\. THE COMMUNITY
 
@@ -224,7 +224,7 @@ Community is where we grow, where we learn more about who we are, where we can l
 * * *
 
 [  
-![valeriedenisephotos-62](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-62.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-62.jpg)
+![valeriedenisephotos-62](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-62.jpg)](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-62.jpg)
 
 ## _Invest in yourself this year._
 
@@ -248,4 +248,4 @@ _Joanna Waterfall_
 
 _Founder of Yellow Co._
 
-[![joannawaterfall](https://s3.amazonaws.com/yellow-files/blog/2016/06/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)
+[![joannawaterfall](https://yellow-blog-images.imgix.net/2016/06/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)

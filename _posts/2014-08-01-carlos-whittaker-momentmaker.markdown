@@ -9,7 +9,7 @@ redirect_from: "/bloomyellow/carlos-whittaker-momentmaker/"
 
 Happy Friday ladies! We have an awesome giveaway for you today. One of our speakers, Carlos Whittaker, has recently come out with an awesome book called [Moment Maker](http://ragamuffinsoul.com/book/). And lucky for you, we are giving away a free copy! If you haven't heard of this book, get ready. As a creative woman who wants to change the world, learning to live in the moment and live your life to the fullest is key to living a life filled with passion. This book will guide and give you direction on how to live that life.
 
-[![MomentMaker](https://s3.amazonaws.com/yellow-files/blog/2014/04/MomentMaker.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/04/MomentMaker.jpg)
+[![MomentMaker](https://yellow-blog-images.imgix.net/2014/04/MomentMaker.jpg)](https://yellow-blog-images.imgix.net/2014/04/MomentMaker.jpg)
 
 To give you an idea of what this book is about, here's the description from Carlos's site:  
 _"In Moment Maker, Carlos shares moments from his own life that have formed his methodology for living on purpose and with purpose. As you will find in these pages, the beauty of having a moment making life is that it does not require a big investment in time, energy, or money. It simply requires a commitment to pay attention._

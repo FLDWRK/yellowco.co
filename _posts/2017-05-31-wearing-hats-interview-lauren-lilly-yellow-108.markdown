@@ -21,7 +21,7 @@ Around the clock hard work, while exhausting, is really personally fulfilling. T
 
 For me it’s simple, Yellow represents sunshine, and sunshine makes people happy. Observing or interacting with happy people is contagious and inspiring!
 
-![WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/05/YELLOW-CO-x-YELLOW-108-20.jpg "WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM")
+![WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/05/YELLOW-CO-x-YELLOW-108-20.jpg "WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM")
 
 ### We love that you value sustainability by creating with salvaged materials. What are your other values as a brand?
 
@@ -41,7 +41,7 @@ We utilize materials that are waste from eco textile factories which enables us 
 
 **Honestly, staying creatively inspired when you are working around the clock as a creative professionally is not easy.** Over the last decade I’ve developed some amazing friendships with other creatives that feel the same way. So [Howl](http://howladventures.com/) was simply created to inspire. It’s a contributor based network of working professionals that have the need to stay inspired. Working together and collaborating allows us all to keep that sparkle alive in each other! Since Howl has launched, that network has grown immensely. Howl believes adventure can start in your own backyard and can be a simple project, or an adventure in a country or city you’ve never visited. My hope is that the Howl network continues to grow and be a staple in the community that people look to for some stress free connections with other amazing humans!
 
-![WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/05/YELLOW-CO-x-YELLOW-108-6.jpg "WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM")
+![WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/05/YELLOW-CO-x-YELLOW-108-6.jpg "WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM")
 
 ### Creating community seems to be something that drives you. Why is this such a key factor in your businesses?
 
@@ -56,7 +56,7 @@ I would say my greatest challenge by far has been taking time for myself to stop
 ### How do you create a healthy work/life balance?
 
 I’d say this is likely one of the most difficult parts about owning your own business. You always take your work home, and you never “clock out”. When it’s your passion, it’s your life. But that doesn’t mean it isn’t work. If you’d like to keep it your passion, it’s vital you stay aware and put a ton of energy into staying balanced. It’s okay to take a day off. It’s okay to disconnect from your phone. Rest and relaxation are key components. Carefree, mindless fun is generally what works best for me. A sunset bike ride. Really good live music and a dance party. Staying active is a key component as well.  
-![WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/05/YELLOW-CO-x-YELLOW-108-18.jpg "WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM")Lauren Lilly, founder of [Yellow 108](https://www.yellow108.com/)
+![WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/05/YELLOW-CO-x-YELLOW-108-18.jpg "WEARING ALL THE HATS: OUR INTERVIEW WITH LAUREN LILLY, FOUNDER OF YELLOW 108 - THE YELLOW ROOM")Lauren Lilly, founder of [Yellow 108](https://www.yellow108.com/)
 
 ### If you could say one thing to other women entrepreneurs, what would it be?
 
@@ -64,4 +64,4 @@ Believe in yourself the most. If you do not believe in yourself and trust yourse
 
 _Photos by: [Marianna Jamadi](https://www.instagram.com/nomadic_habit/) for [Yellow 108](https://www.yellow108.com/)_
 
-[![Hanna Snyder Bio](https://s3.amazonaws.com/yellow-files/blog/2017/04/HANNA-BIO.jpg)](http://hannasnyder.com)
+[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/04/HANNA-BIO.jpg)](http://hannasnyder.com)

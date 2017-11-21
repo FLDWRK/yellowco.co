@@ -9,13 +9,13 @@ categories:
 redirect_from: "/light-talk/estheroh_letteringtools/"
 ---
 
-[![Esther Oh: FIVE MUST HAVE TOOLS FOR LETTERING](https://s3.amazonaws.com/yellow-files/blog/2015/04/esther-tor-fullosophie-class-5634-copy.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/esther-tor-fullosophie-class-5634-copy.jpg)
+[![Esther Oh: FIVE MUST HAVE TOOLS FOR LETTERING](https://yellow-blog-images.imgix.net/2015/04/esther-tor-fullosophie-class-5634-copy.jpg)](https://yellow-blog-images.imgix.net/2015/04/esther-tor-fullosophie-class-5634-copy.jpg)
 
 As someone who loves words and appreciates art, I’m so glad I get to combine the two to create lettering to share with others! _[Let this be a lesson to you dreamers out there: dream jobs exist with some hard work behind it.]_
 
 Brush lettering has become one way I can showcase my creativity, as well as a way to share inspiring, thought-provoking, and (occasionally) funny words and quotes with others, especially on [Instagram](https://instagram.com/estheroh_/). Before I began lettering and putting it out there for the world to see, I made it my mission to use it as a source of good and encouragement. Knowing that Instagram is such a fast-paced platform, I desired for my lettered posts to make people want to stop for a second, read, and become motivated or have a laugh! You just never know what people might be going through. I wanted the words I lettered to speak to others and brighten their day a little. I’m so grateful for the opportunity to share my work on Instagram, because these posts have allowed me to connect with others and start conversations, making way for community in an unexpected place!
 
-[![Esther Oh: FIVE MUST HAVE TOOLS FOR LETTERING](https://s3.amazonaws.com/yellow-files/blog/2015/04/img_1479.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/img_1479.jpg)
+[![Esther Oh: FIVE MUST HAVE TOOLS FOR LETTERING](https://yellow-blog-images.imgix.net/2015/04/img_1479.jpg)](https://yellow-blog-images.imgix.net/2015/04/img_1479.jpg)
 
 Now, if you’re reading this, you’re probably either itching to start lettering or you’re already lettering and want to see what another letterer uses to do her thing. Both types of people are totally cool! So, let’s get on with it, shall we? Here are 5 tools I can’t do without:
 
@@ -27,7 +27,7 @@ This is the ink that I use for most of my brush-lettered pieces. I like it for i
 
 These seem a little trivial, but I can’t live without them. These jars are mainly for my inks. Rather than dipping my brushes straight into the actual ink bottles, I like to separate the ink into smaller jars for mixing purposes. Because I’m constantly dipping my brush into water to cleanse it, I don’t want there to be any chance of excess water entering the original bottles of ink and compromising the pure form of the medium. So, protect your ink and try these!
 
-[![Esther Oh: FIVE MUST HAVE TOOLS  FOR LETTERING](https://s3.amazonaws.com/yellow-files/blog/2015/04/esther-tor-fullosophie-class-56222.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/esther-tor-fullosophie-class-56222.jpg)
+[![Esther Oh: FIVE MUST HAVE TOOLS  FOR LETTERING](https://yellow-blog-images.imgix.net/2015/04/esther-tor-fullosophie-class-56222.jpg)](https://yellow-blog-images.imgix.net/2015/04/esther-tor-fullosophie-class-56222.jpg)
 
 *   **Computer paper**
 
@@ -41,10 +41,10 @@ When creating, experiment, experiment, experiment!! Especially with your brushes
 
 This last one is for people who want to digitize their lettering to use for graphic design work or to sell prints. After lots of research, I settled on getting the Epson Perfection V600, because I wanted a scanner that would last and produce great results, especially since I’m thinking of creating and selling prints in the future. This scanner is in the pricier range, but I’ve heard that HP scanners work well for scanning too! If you’re interested in digitizing your work, do your research and find out which scanner works best for your needs and budget. But if you’re not in a place to invest in a scanner, you could even use your phone to scan your work! I’ve got the CamScanner app on my phone so I can make quick scans of lettering projects when I’m on the go. It doesn’t work too well for brush-lettered work because it captures the ink weird, but it works amazingly for lettering done with pens!
 
-[![Esther Oh: Five Must Have Tools for Lettering](https://s3.amazonaws.com/yellow-files/blog/2015/04/esther-tor-fullosophie-class-5609.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/esther-tor-fullosophie-class-5609.jpg)
+[![Esther Oh: Five Must Have Tools for Lettering](https://yellow-blog-images.imgix.net/2015/04/esther-tor-fullosophie-class-5609.jpg)](https://yellow-blog-images.imgix.net/2015/04/esther-tor-fullosophie-class-5609.jpg)
 
 I hope my list gets you started on your lettering journey or provides a worthwhile resource to add to your list of things to try.
 
 _Photos by [Kelsey Lemons](http://www.lemonsandtea.com/) from one of Esther's recent workshops. _
 
-[![estherohbio](https://s3.amazonaws.com/yellow-files/blog/2015/03/estherohbio.jpg)](https://estherohx.wordpress.com/)
+[![estherohbio](https://yellow-blog-images.imgix.net/2015/03/estherohbio.jpg)](https://estherohx.wordpress.com/)

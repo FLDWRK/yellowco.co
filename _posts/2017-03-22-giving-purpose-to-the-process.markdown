@@ -37,4 +37,4 @@ The woman of purpose within us thrives on finding joy in the process. Remember t
 
 _Photos by [Andrea David](http://andreadavid.co/)_
 
-[![](https://s3.amazonaws.com/yellow-files/blog/2017/01/JEssica-Estrada1-1.jpg)](http://jessica-marie.com/)
+[![](https://yellow-blog-images.imgix.net/2017/01/JEssica-Estrada1-1.jpg)](http://jessica-marie.com/)

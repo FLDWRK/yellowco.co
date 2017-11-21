@@ -15,9 +15,9 @@ redirect_from: "/creative-ladies/buildyourbrand/"
 
 _**We are honored to have the VP of creative at [charity: water](http://www.charitywater.org/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand&utm_content=brandcw5&gclid=Cj0KEQjw58ytBRDMg-HVn4LuqasBEiQAhPkhuva01B7FnDK4xjZHpqwDvJq6gZzb5sD-aQ1eKogXYG0aAj-58P8HAQ), Vik Harrison (who also happens to be speaking at Yellow!), as our guest blogger today. She is responsible for changing the game in the non-profit world when it comes to branding. Her post is full of great advice for companies from someone who has done it best. Read on!**_
 
-_[![Charity-Water-3](https://s3.amazonaws.com/yellow-files/blog/2015/07/Charity-Water-3.png)](https://s3.amazonaws.com/yellow-files/blog/2015/07/Charity-Water-3.png)  
-[![Charity-Water-2](https://s3.amazonaws.com/yellow-files/blog/2015/07/Charity-Water-2.png)](https://s3.amazonaws.com/yellow-files/blog/2015/07/Charity-Water-2.png)[  
-](https://s3.amazonaws.com/yellow-files/blog/2015/07/7304235038_1b126734c0_o.jpg)Recently, a thought leader I admire came to speak to a small group at [charity: water](http://www.charitywater.org/) about marketing. I’ve always been a fan of him for speaking his mind, even when his opinion was unpopular. Fortunately that day, he did not disappoint. His opening line to a room full of charity folks was: **“People don’t like giving to charity."**_
+_[![Charity-Water-3](https://yellow-blog-images.imgix.net/2015/07/Charity-Water-3.png)](https://yellow-blog-images.imgix.net/2015/07/Charity-Water-3.png)  
+[![Charity-Water-2](https://yellow-blog-images.imgix.net/2015/07/Charity-Water-2.png)](https://yellow-blog-images.imgix.net/2015/07/Charity-Water-2.png)[  
+](https://yellow-blog-images.imgix.net/2015/07/7304235038_1b126734c0_o.jpg)Recently, a thought leader I admire came to speak to a small group at [charity: water](http://www.charitywater.org/) about marketing. I’ve always been a fan of him for speaking his mind, even when his opinion was unpopular. Fortunately that day, he did not disappoint. His opening line to a room full of charity folks was: **“People don’t like giving to charity."**_
 
 He wasn’t talking about people like me who work for a charity. And he wasn’t talking about people like you who are reading this post right now, which likely means you’re pretty familiar with the social good scene. He was talking about the masses. And what he meant was this: People don’t like giving to charity because it’s much more fun to go out for dinner with your friends, buy a new pair of shoes or do just about 1,500 other things that satisfy your earthly desires instead of giving your hard-earned cash to help solve the world’s complex and often overwhelming problems.
 
@@ -31,7 +31,7 @@ Every interaction a person has with your organization, no matter how big or smal
 
 > _We knew that if we could get more people to like…even **love** giving to charity, we’d not only have a shot at solving the global water crisis, we’d also change our generation’s attitude towards giving forever. That’s why, to this day, branding is not a nice-to-have or an afterthought at charity: water — it is a very real and essential part of our fundraising strategy._
 
-[![Charity-water](https://s3.amazonaws.com/yellow-files/blog/2015/07/Charity-water.png)](https://s3.amazonaws.com/yellow-files/blog/2015/07/Charity-water.png)
+[![Charity-water](https://yellow-blog-images.imgix.net/2015/07/Charity-water.png)](https://yellow-blog-images.imgix.net/2015/07/Charity-water.png)
 
 Branding is an incredibly powerful tool that can take your mission to the next level. Unfortunately, too many charities fail to pay attention to it and neglect their brand and alienate their supporters. If you are ready to get serious about branding your non-profit, here are a few steps to get you started:
 
@@ -61,4 +61,4 @@ Nicholas Kristof of the New York Times once said “Toothpaste is peddled with f
 
 _Photos via [charity: water](http://www.charitywater.org/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand&utm_content=brandcw5&gclid=Cj0KEQjw58ytBRDMg-HVn4LuqasBEiQAhPkhuva01B7FnDK4xjZHpqwDvJq6gZzb5sD-aQ1eKogXYG0aAj-58P8HAQ)_
 
-[![vikharrison yellow blog guestpost](https://s3.amazonaws.com/yellow-files/blog/2015/07/vikharrison.jpg)](http://www.charitywater.org/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand&utm_content=brandcw5&gclid=Cj0KEQjw58ytBRDMg-HVn4LuqasBEiQAhPkhuva01B7FnDK4xjZHpqwDvJq6gZzb5sD-aQ1eKogXYG0aAj-58P8HAQ)
+[![vikharrison yellow blog guestpost](https://yellow-blog-images.imgix.net/2015/07/vikharrison.jpg)](http://www.charitywater.org/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand&utm_content=brandcw5&gclid=Cj0KEQjw58ytBRDMg-HVn4LuqasBEiQAhPkhuva01B7FnDK4xjZHpqwDvJq6gZzb5sD-aQ1eKogXYG0aAj-58P8HAQ)

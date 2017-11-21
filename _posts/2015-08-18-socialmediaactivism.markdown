@@ -13,7 +13,7 @@ categories:
 redirect_from: "/creative-ladies/socialmediaactivism/"
 ---
 
-[![yellow conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/08/IMG_1782.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/08/IMG_1782.jpg)Everyone uses social media, but we don’t all use it the same way. Some of us use it for personal use, some of us use it to market our business or blog, and some use it to get our creative work out there and inspire others. Of course, using social media in any of these ways is not mutually exclusive, but they all present an **opportunity** that has not been available to us in such a wide spread way before now: using social media to advocate for change. **Whether it’s for personal use or for business, we have an opportunity to create content that can inspire or change someone else’s life.** This sounds big and scary, but it’s really not. Whatever it is you want to put out into the world, here are some tips for advocating for change on social media.
+[![yellow conference blog](https://yellow-blog-images.imgix.net/2015/08/IMG_1782.jpg)](https://yellow-blog-images.imgix.net/2015/08/IMG_1782.jpg)Everyone uses social media, but we don’t all use it the same way. Some of us use it for personal use, some of us use it to market our business or blog, and some use it to get our creative work out there and inspire others. Of course, using social media in any of these ways is not mutually exclusive, but they all present an **opportunity** that has not been available to us in such a wide spread way before now: using social media to advocate for change. **Whether it’s for personal use or for business, we have an opportunity to create content that can inspire or change someone else’s life.** This sounds big and scary, but it’s really not. Whatever it is you want to put out into the world, here are some tips for advocating for change on social media.
 
 ##### Keep It Positive
 
@@ -29,13 +29,13 @@ Social media makes it really easy to strive for perfection and curate to the poi
 
 Say the hard things out loud. Say it out loud, say it out loud, say it out loud. I cannot reiterate this enough. I use the negative things I see marketers do to fuel conversations with my followers. **If you read something and it makes you feel bad there are other people it makes feel bad, too. If you see something that isn’t right, you can start a conversation and put the spotlight on an issue.** **When you say it loud, you are giving others courage to do the same.** We all need that courage to advocate for change. It’s easy to sit back and let someone else do it, but when you lead the conversation we all gain a little more courage to do the same.
 
-[![yellow conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/08/IMG_1452.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/08/IMG_1452.jpg)
+[![yellow conference blog](https://yellow-blog-images.imgix.net/2015/08/IMG_1452.jpg)](https://yellow-blog-images.imgix.net/2015/08/IMG_1452.jpg)
 
 ##### Every Post Counts
 
 When we think about advocating for change it feels big and scary, but it doesn’t have to be. It’s not something we have to tackle all at once, and it’s not something we have to scream from the rooftops. We can start movements and change perspectives one post at a time. We can choose to reframe our blog posts from negative to positive. We can choose to use every single pixel of that square on Instagram to start a conversation or make someone’s day. We can tweet an article that addresses the issue we are tackling. We can start a Facebook community that allows for open and positive interactions. **Not everything needs to be a big, loud revolution.** We can make the decision every day to do something small. After all, it all counts and it all builds, and it will make a big difference in the long run. Social media has given us a platform to create and post content that can change someone’s day, educate them, and give them a new perspective. Why not use that opportunity to it’s fullest?
 
-[![yellow conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/08/IMG_1484.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/08/IMG_1484.jpg)
+[![yellow conference blog](https://yellow-blog-images.imgix.net/2015/08/IMG_1484.jpg)](https://yellow-blog-images.imgix.net/2015/08/IMG_1484.jpg)
 
 ##### Create Experiences
 
@@ -45,4 +45,4 @@ What are you going to do today to ignite that fire in someone?
 
 _Photos by [Emma Fineman](http://emma-fineman.squarespace.com/)_
 
-[![Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/08/EFeinbio.jpg)](http://www.iteratesocial.com/)
+[![Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/08/EFeinbio.jpg)](http://www.iteratesocial.com/)

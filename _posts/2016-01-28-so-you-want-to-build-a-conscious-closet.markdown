@@ -9,7 +9,7 @@ redirect_from: "/the-activist/so-you-want-to-build-a-conscious-closet/"
 ---
 
 ## [  
-](https://s3.amazonaws.com/yellow-files/blog/2016/01/johannatropiano.jpg)[![ConsciousClosets_JohannaTropiano_photosBrianTropiano0004](https://s3.amazonaws.com/yellow-files/blog/2016/01/ConsciousClosets_JohannaTropiano_photosBrianTropiano0004.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/ConsciousClosets_JohannaTropiano_photosBrianTropiano0004.jpg)Over the past two years I have battled my closet and my irresponsible shopping habits.
+](https://yellow-blog-images.imgix.net/2016/01/johannatropiano.jpg)[![ConsciousClosets_JohannaTropiano_photosBrianTropiano0004](https://yellow-blog-images.imgix.net/2016/01/ConsciousClosets_JohannaTropiano_photosBrianTropiano0004.jpg)](https://yellow-blog-images.imgix.net/2016/01/ConsciousClosets_JohannaTropiano_photosBrianTropiano0004.jpg)Over the past two years I have battled my closet and my irresponsible shopping habits.
 
 In doing so, I have decided to only purchase clothing if I know it was made without slave labor. It has been a challenging but rewarding experience transitioning my closet to a totally conscious one. One thing I’ve learned throughout this process is that it takes time. And patience. And money. So one of the mantra’s I have adopted in my closet clean-out over the past two years is to _buy better not more._ That has served me well.
 
@@ -39,7 +39,7 @@ And most importantly:
 
 *   #### Where did the fabric come from?
 
-[![static1.squarespace-1](https://s3.amazonaws.com/yellow-files/blog/2016/01/static1.squarespace-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/static1.squarespace-1.jpg)Once I’ve gathered as much information as I can about the potential purchase, I think about how it will fit in with other items in my closet. Cleaning out your closet is a long process. So give yourself patience!
+[![static1.squarespace-1](https://yellow-blog-images.imgix.net/2016/01/static1.squarespace-1.jpg)](https://yellow-blog-images.imgix.net/2016/01/static1.squarespace-1.jpg)Once I’ve gathered as much information as I can about the potential purchase, I think about how it will fit in with other items in my closet. Cleaning out your closet is a long process. So give yourself patience!
 
 Here are a few pieces that have been core for me in re-building my conscious closet. My hope is it will kickstart you on your own conscious closets journey and give you a good foundation from which to grow.
 
@@ -71,13 +71,13 @@ Again, look for a dress that you can wear multiple ways, like over jeans, or a b
 
 ([Modern Vice Blue Suede Handlers](http://www.modernvice.com/collections/handlers)) Because I dress very simply and monochromatic, I love a cool shoe. And the comfier the better.
 
-[![static1.squarespace](https://s3.amazonaws.com/yellow-files/blog/2016/01/static1.squarespace.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/static1.squarespace.jpg)These are pieces that I consistently love and come back to. They form the basis of my closet and most everything I purchase now works with these main items.
+[![static1.squarespace](https://yellow-blog-images.imgix.net/2016/01/static1.squarespace.jpg)](https://yellow-blog-images.imgix.net/2016/01/static1.squarespace.jpg)These are pieces that I consistently love and come back to. They form the basis of my closet and most everything I purchase now works with these main items.
 
 Lastly, if you are a fashionista on a budget, check out Tradesy.com or eBay for awesome finds at a much cheaper price. I do a lot of my conscious shopping at thrift stores. And lookout for sales! I got my modern vice booties (pictured above) for half price!
 
 _I wish you all the best in 2016 and can’t wait to see the conscious closets transitions you make this year. Share them with me on social media at #consciousclosets.[  
-](https://s3.amazonaws.com/yellow-files/blog/2016/01/ConsciousClosets_JohannaTropiano_photosBrianTropiano0004.jpg)_
+](https://yellow-blog-images.imgix.net/2016/01/ConsciousClosets_JohannaTropiano_photosBrianTropiano0004.jpg)_
 
 _Photos by [Brian Tropiano ](http://briantropiano.com/)_
 
-[![johanna tropiano](https://s3.amazonaws.com/yellow-files/blog/2016/01/johannatropiano1.jpg)](http://www.consciousclosets.co/blog/)
+[![johanna tropiano](https://yellow-blog-images.imgix.net/2016/01/johannatropiano1.jpg)](http://www.consciousclosets.co/blog/)

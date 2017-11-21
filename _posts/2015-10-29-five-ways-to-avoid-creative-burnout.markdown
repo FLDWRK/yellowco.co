@@ -13,7 +13,7 @@ categories:
 redirect_from: "/creative-ladies/five-ways-to-avoid-creative-burnout/"
 ---
 
-[![yellow conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/10/DSC_1176.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/DSC_1176.jpg)You're staring at your computer. The screen is blank and the curser is ready. You know you're supposed to be writing or designing or somehow making something out of nothing. But—nothing is coming…
+[![yellow conference blog](https://yellow-blog-images.imgix.net/2015/10/DSC_1176.jpg)](https://yellow-blog-images.imgix.net/2015/10/DSC_1176.jpg)You're staring at your computer. The screen is blank and the curser is ready. You know you're supposed to be writing or designing or somehow making something out of nothing. But—nothing is coming…
 
 You decide to pack up and go to your favorite coffee shop, order your go-to drink, and put on your most inspirational playlist.... but five hours later, the page is still blank.
 
@@ -21,7 +21,7 @@ You decide to pack up and go to your favorite coffee shop, order your go-to dri
 
 You've said yes too many times and you've created and worked more than you've rested or been inspired. Your schedule is constantly filled to the brim. And as much as you know you _should_ be practicing self-care, that 45 minutes on your yoga mat once a week just isn't cutting it.
 
-[![yellow conference blog: avoiding creative burnout](https://s3.amazonaws.com/yellow-files/blog/2015/10/DSC_1298.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/DSC_1298.jpg)Even though it seems it is bound to happen to us at some point, there are ways we can prevent burnout in our creative endeavors and vocational pursuits. Here are five ways to start taking better care of yourself and ensure you won't lose steam as you work toward your calling:
+[![yellow conference blog: avoiding creative burnout](https://yellow-blog-images.imgix.net/2015/10/DSC_1298.jpg)](https://yellow-blog-images.imgix.net/2015/10/DSC_1298.jpg)Even though it seems it is bound to happen to us at some point, there are ways we can prevent burnout in our creative endeavors and vocational pursuits. Here are five ways to start taking better care of yourself and ensure you won't lose steam as you work toward your calling:
 
 ###### **1\. Never settle thinking that work alone will fulfill you.**
 
@@ -49,10 +49,10 @@ Who are the people you can always trust to give an honest opinion of a new idea 
 
 Nothing has the power to break up monotony and get your creative juices flowing like doing something you wouldn't normally find yourself comfortable with. Maybe it's starting a new project you've been thinking a lot about. Maybe it's reaching out to someone different than you to hear his or her story. Maybe it's going skydiving or on a crazy trip to a third world country! When we get ourselves out of our comfort zones, we remember what we're capable of. We are revived and reminded that life is full of adventure and we can use that to put a spark in our creative endeavors.
 
-[![yellow conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/10/DSC_1301.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/DSC_1301.jpg)
+[![yellow conference blog](https://yellow-blog-images.imgix.net/2015/10/DSC_1301.jpg)](https://yellow-blog-images.imgix.net/2015/10/DSC_1301.jpg)
 
 Burnout is real and it can really suck the life out of us when it happens. But if we practice self care and make these things a priority, we are less likely to crash and more likely to have a long and healthy career, making the world more beautiful every day. So go spread goodness and bloom - just don't forget to take care of yourself along the way!
 
 _Photos by [Emma Fineman](http://emma-fineman.squarespace.com/new-gallery-1/9nkm8d0cnl978ql4dbp0qx3z6p6hht)_
 
-[![Abigail Driscoll Yellow Conference](https://s3.amazonaws.com/yellow-files/blog/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)
+[![Abigail Driscoll Yellow Conference](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

@@ -15,7 +15,7 @@ categories:
 redirect_from: "/creative-ladies/social-media-its-better-than-you-think/"
 ---
 
-###### [![yellow conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/10/mscollection-65.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/mscollection-65.jpg)
+###### [![yellow conference blog](https://yellow-blog-images.imgix.net/2015/10/mscollection-65.jpg)](https://yellow-blog-images.imgix.net/2015/10/mscollection-65.jpg)
 
 ###### I have fallen in love with social media.
 
@@ -29,7 +29,7 @@ If it wasn’t for twitter, I wouldn’t have been flown to Houston, Texas for a
 
 For awhile, I really struggled with what my “brand” or social media presence was. I asked myself a lot of pointed questions in regards to what it could entail and what it could represent. Was it me personally or was it a social media presence that was only slightly connected to who I am? I’m not a photographer per say, I’m not a musician, fashionista or founder of anything and so I wrestled with how that transcended into a virtual space. And amidst of that searching, I realized that it wasn’t necessarily about my brand _at all._
 
-[![Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/10/mscollection-57.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/mscollection-57.jpg)
+[![Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/10/mscollection-57.jpg)](https://yellow-blog-images.imgix.net/2015/10/mscollection-57.jpg)
 
 As I continued to work on it, and think of ways to grow and engage via social media, I realized what I wanted to do was _cultivate_. The definition of _cultivate_ is to_“promote or improve the growth of (a plant, crop, etc.) by labor and attention.”_ The way I view _cultivating_ in this regard, is that with social media whether it be Twitter, Instagram, Facebook, a website or Linkedin, **you are cultivating a space either professional, interactive or personal.** Yes, the aesthetics are important and yes you want to have an inviting and exciting space for people to want to come to but you know what keeps them there? Interaction. The ability to make individuals feel seen amidst all of the internet chaos.
 
@@ -55,4 +55,4 @@ Your social media is a breathing, living venue that can grow and can be fostered
 
 _Photos by [Karen Hernandez](http://www.karenmariehernandez.com/)_
 
-[![Arielle Estoria for the Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/09/arielleestoria.jpg)](http://chroniclesofalioness.com/)
+[![Arielle Estoria for the Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/09/arielleestoria.jpg)](http://chroniclesofalioness.com/)

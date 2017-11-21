@@ -7,7 +7,7 @@ categories:
 redirect_from: "/bloomyellow/christmas-party-potluck-december-bloom-gathering/"
 ---
 
-[![DECEMBER_BLOOMGATHERING](https://s3.amazonaws.com/yellow-files/blog/2014/12/DECEMBER_BLOOMGATHERING.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/12/DECEMBER_BLOOMGATHERING.jpg)  
+[![DECEMBER_BLOOMGATHERING](https://yellow-blog-images.imgix.net/2014/12/DECEMBER_BLOOMGATHERING.jpg)](https://yellow-blog-images.imgix.net/2014/12/DECEMBER_BLOOMGATHERING.jpg)  
 Our December Bloom Gathering is here! Join us next Monday at the [Share and Do Good Storefront](http://www.shareanddogood.com/).
 
 [Share & Do Good](http://www.shareanddogood.com/) is a giving boutique located in Downtown Fullerton who’s goal is to bring you good designs made by great causes that tell amazing stories of hope from around the world. They will be giving us **10% off** all items in their shop that night! They sell products like The Giving Keys, Krochet Kids, 31 Bits and so many more cause based brands. So come ready to do some mingling, eating, cause based Christmas shopping, and community building!

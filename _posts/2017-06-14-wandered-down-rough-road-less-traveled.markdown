@@ -17,7 +17,7 @@ This lead to our “honeymoon baby”. Just to get our minds out of the rut we 
 
 We started out small, asking friends and family if we could film things for them. I also reached out to a community craft fair, asking if they needed any highlight coverage. In this beginning stage, I had an idea of a name and a logo of what our dream could become. So, we got to work building what became [Truebadours](http://www.truebadours.com/), our now five-year old. Yes, I still worked my day job. But our nights and weekends were spent bringing this dream to life.
 
-![WHY I WANDERED DOWN THE (ROUGH) ROAD LESS TRAVELED - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/040917_American-Weekend_Eileen-Roche_2000.jpg "WHY I WANDERED DOWN THE (ROUGH) ROAD LESS TRAVELED - THE YELLOW ROOM")
+![WHY I WANDERED DOWN THE (ROUGH) ROAD LESS TRAVELED - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/06/040917_American-Weekend_Eileen-Roche_2000.jpg "WHY I WANDERED DOWN THE (ROUGH) ROAD LESS TRAVELED - THE YELLOW ROOM")
 
 This company has been the rollercoaster that I wasn’t prepared for, and I’m so lucky for it. My husband lost his job three months after we got married, but that same day my meeting with the craft show became our first major exposure. We’ve had tech glitches one day, and videos go viral another. At times I will feel so confident in my calling, then turn around to get caught up in my inadequacies and doubts.
 
@@ -27,7 +27,7 @@ Moments when I begin to doubt if it will ever become financially feasible to jus
 
 ### **These are the moments you know that your purpose is protected by something so much bigger than you, and all you have to do is just show up.**
 
-![WHY I WANDERED DOWN THE (ROUGH) ROAD LESS TRAVELED - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/040917_American-Weekend_Eileen-Roche_1982.jpg "WHY I WANDERED DOWN THE (ROUGH) ROAD LESS TRAVELED - THE YELLOW ROOM")
+![WHY I WANDERED DOWN THE (ROUGH) ROAD LESS TRAVELED - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/06/040917_American-Weekend_Eileen-Roche_1982.jpg "WHY I WANDERED DOWN THE (ROUGH) ROAD LESS TRAVELED - THE YELLOW ROOM")
 
 If you know what you are called to do, it’s worth pursuing with everything you can. Don’t hold back just because you have a full-time gig. Don’t hide it because you’re afraid of others thinking you’re taking an impractical leap. Be unapologetic in your prioritization of your own time. Use your day-job PTO as time to create something. Start re-framing yourself as who you _really_ are outside of the title you have right now. Take in the excitement of those new clients or heartfelt reviews. This is the way your calling nurtures you as you’re nurturing it.
 
@@ -35,4 +35,4 @@ You are not the first nor the last person with a dream - but be one of the few w
 
 _Photos by: [Eileen Roche](http://eileen-roche.com/)_
 
-[![JESSICA WHALEN BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/JESSICA-WHALEN-BIO.jpg)](http://www.truebadours.com/)
+[![JESSICA WHALEN BIO](https://yellow-blog-images.imgix.net/2017/04/JESSICA-WHALEN-BIO.jpg)](http://www.truebadours.com/)

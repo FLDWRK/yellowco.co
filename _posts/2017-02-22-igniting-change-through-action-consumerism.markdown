@@ -30,7 +30,7 @@ When it comes to being my own boss, I no longer have managers leveraging my husb
 
 _**There’s a new wave of feminism and it’s inclusive, collaborative, and emerging quickly in the social impact sector, and I’m thrilled to be a part of it.**_
 
-![Igniting change through our daily actions - The Good Trade - The Yellow Room](https://s3.amazonaws.com/yellow-files/blog/2017/02/Pioneer16.jpg "Igniting change through our daily actions - The Good Trade - The Yellow Room")
+![Igniting change through our daily actions - The Good Trade - The Yellow Room](https://yellow-blog-images.imgix.net/2017/02/Pioneer16.jpg "Igniting change through our daily actions - The Good Trade - The Yellow Room")
 
 **What has been your biggest challenge since starting** **_The Good Trade_****?**
 
@@ -46,4 +46,4 @@ There are so many great resources out there for building an online publication. 
 
 _Photos by: [Andrea David](http://andreadavid.co/)_
 
-[![Henah Parikh Bio](https://s3.amazonaws.com/yellow-files/blog/2017/02/Henah-Bio.jpg)](http://www.thegoodtrade.com/)
+[![Henah Parikh Bio](https://yellow-blog-images.imgix.net/2017/02/Henah-Bio.jpg)](http://www.thegoodtrade.com/)

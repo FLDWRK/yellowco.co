@@ -39,4 +39,4 @@ When we're feeling stuck or just plain over it, a good old walk will do just the
 
 Despite the obstructions and inclement weather, flowers keep showing up. In the cheesiest way, we can realize a great deal about our creative slumps through the plant life cycle. In some form, the visionaries and dreamers of this world want to become the most graceful and resilient flowers, trying to develop in a wild world where we're faced with strains, setbacks, and barriers that attempt to hold us back. And it comes back to our fixed roots--no matter how many times we get torn down, we keep growing back.
 
-[![jessica-estrada](https://s3.amazonaws.com/yellow-files/blog/2016/09/JEssica-Estrada1.jpg)](http://jessica-marie.com/)
+[![jessica-estrada](https://yellow-blog-images.imgix.net/2016/09/JEssica-Estrada1.jpg)](http://jessica-marie.com/)

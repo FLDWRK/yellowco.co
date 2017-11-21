@@ -7,7 +7,7 @@ categories:
 redirect_from: "/resources/get-involved-this-week/"
 ---
 
-[![#Bloomtogether_April6-11](https://s3.amazonaws.com/yellow-files/blog/2015/04/Bloomtogether_April6-111.jpg)](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)  
+[![#Bloomtogether_April6-11](https://yellow-blog-images.imgix.net/2015/04/Bloomtogether_April6-111.jpg)](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)  
 It's a new week ladies! On Thursday we launched our [Kickstarter campaign](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c) and this week we have more ways for you to get involved in what we are doing. See below and mark your calendars!
 
 _**Monday (today!):**_ We're talking business, design & how to kill it online with [Promise Tangeman](http://www.promisetangeman.com/) and [Meg Long](https://instagram.com/megmarylong/) of [Go Live HQ](http://www.golivehq.co/). [RSVP](http://live.theyellowroom.co  ), grab a glass of wine and [tune in](http://live.theyellowroom.co) at 7:30 PST for some tips and tricks on making your biz stand out online. [http://live.theyellowroom.co](http://live.theyellowroom.co)

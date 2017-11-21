@@ -17,13 +17,13 @@ redirect_from: "/advice/worksmarter/"
 
 <div class="column">
 
-## [![Work smarter, not harder-The Yellow Co. ](https://s3.amazonaws.com/yellow-files/blog/2016/06/MG_1442.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/06/MG_1442.jpg)If you’re like me, you are a busy gal trying to change the world. On the upside you love what you and you don’t mind working nonstop because your business inspires you. On the downside, you’re only one person so you wear many hats within your business.
+## [![Work smarter, not harder-The Yellow Co. ](https://yellow-blog-images.imgix.net/2016/06/MG_1442.jpg)](https://yellow-blog-images.imgix.net/2016/06/MG_1442.jpg)If you’re like me, you are a busy gal trying to change the world. On the upside you love what you and you don’t mind working nonstop because your business inspires you. On the downside, you’re only one person so you wear many hats within your business.
 
 Although you love your business, working too much and not working smart can cause burnout which is not good for your business or for the people it serves.
 
 Today I was talking to one of my previous coworkers who is now also a creative entrepreneur. I left my last job in May 2015 to start my own design studio. A few months later she left the company to take her side hustle to full-time hustle. One thing we both acknowledged is how many distractions there can be in an office. Between non-stop emails, meetings, and marketing “emergencies” by the time I sat down to do my actual job the day would be over. It’s no wonder I had so many late nights at the office. **But staying late at work doesn’t mean you’re being productive.** So I’ve outlined three methods you can implement today that will help you to work smarter not harder.
 
-[![Work smarter not harder-The Yellow Co.](https://s3.amazonaws.com/yellow-files/blog/2016/06/MG_1495.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/06/MG_1495.jpg)
+[![Work smarter not harder-The Yellow Co.](https://yellow-blog-images.imgix.net/2016/06/MG_1495.jpg)](https://yellow-blog-images.imgix.net/2016/06/MG_1495.jpg)
 
 ## Cut the Distractions
 
@@ -41,7 +41,7 @@ Ever since I started working from home people seem to think that it’s okay to 
 
 Okay so I know you’re excited that you’ve started implementing a new Instagram strategy but checking your social media multiple times a day going to do more harm than good. Reserve a time to catch up on social media and stick to that time slot.
 
-[![Work smarter not harder-The Yellow Co.](https://s3.amazonaws.com/yellow-files/blog/2016/06/MG_1367.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/06/MG_1367.jpg)
+[![Work smarter not harder-The Yellow Co.](https://yellow-blog-images.imgix.net/2016/06/MG_1367.jpg)](https://yellow-blog-images.imgix.net/2016/06/MG_1367.jpg)
 
 ## Do One Thing at a Time
 
@@ -49,11 +49,11 @@ Remember back in the day when we used to put “multitasking” on our skills se
 
 ## Use a Time Tracker
 
-When I first launched my design studio I did not know how to manage my time. It felt like the work week would go by and I didn’t accomplish what needed to get done and I would end up feeling like “where did my time go?!” So I started using a free time tracker called [Toggl](https://toggl.com/). I track how much time I spend on email, social media, writing blog posts, admin stuff, and client projects. For my business, I should be spending most of my time on client projects because that’s where my income comes from. So if you see that you’re spending too much time on email or social media or other admin tasks that are not direct money-makers for your business try to find a way to automate those tasks.[![Work smarter not harder-The Yellow Co.](https://s3.amazonaws.com/yellow-files/blog/2016/06/MG_1488.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/06/MG_1488.jpg)These are just a few ways to work smarter rather than harder. What are some other ways that you make the most of your time?
+When I first launched my design studio I did not know how to manage my time. It felt like the work week would go by and I didn’t accomplish what needed to get done and I would end up feeling like “where did my time go?!” So I started using a free time tracker called [Toggl](https://toggl.com/). I track how much time I spend on email, social media, writing blog posts, admin stuff, and client projects. For my business, I should be spending most of my time on client projects because that’s where my income comes from. So if you see that you’re spending too much time on email or social media or other admin tasks that are not direct money-makers for your business try to find a way to automate those tasks.[![Work smarter not harder-The Yellow Co.](https://yellow-blog-images.imgix.net/2016/06/MG_1488.jpg)](https://yellow-blog-images.imgix.net/2016/06/MG_1488.jpg)These are just a few ways to work smarter rather than harder. What are some other ways that you make the most of your time?
 
 _Photos by [Karen Marie](http://karenmarieco.com/)_
 
-[![Aimee Guzman](https://s3.amazonaws.com/yellow-files/blog/2016/06/AimeeGuzman1.jpg)](http://littletrailerstudio.com/)
+[![Aimee Guzman](https://yellow-blog-images.imgix.net/2016/06/AimeeGuzman1.jpg)](http://littletrailerstudio.com/)
 
 </div>
 

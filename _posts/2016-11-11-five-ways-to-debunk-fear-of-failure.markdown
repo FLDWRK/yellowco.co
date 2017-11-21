@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/five-ways-to-debunk-fear-of-failure/"
 ---
 
-[![valeriedenisephotos-17](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-17.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-17.jpg)I have a Giving Key that says “Fearless.” If you don’t have a [ Giving Key ](https://www.thegivingkeys.com/) , I encourage you to get one, and then give it away.
+[![valeriedenisephotos-17](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-17.jpg)](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-17.jpg)I have a Giving Key that says “Fearless.” If you don’t have a [ Giving Key ](https://www.thegivingkeys.com/) , I encourage you to get one, and then give it away.
 
 I bought my Fearless key for myself in January of 2015\. It was my mantra for the year, and let me tell you, I pursued fearlessness in an unusual and slightly terrifying way. I still wear my key almost every day, and haven’t yet been blessed with the right moment to pass it along.
 
@@ -47,7 +47,7 @@ With my Type A, planner and overachiever personality, fear of failure is somethi
 
 Doesn’t that sound so much better? This makes you FEARLESS.
 
-However, gaining that knowledge and having access to those tools is a whole other story. That itself is a task. In my own journey to be fearless, I strived hard for these first, using them as the building blocks for my year of vulnerable fearlessness.[![valeriedenisephotos-20](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-20.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-20.jpg)
+However, gaining that knowledge and having access to those tools is a whole other story. That itself is a task. In my own journey to be fearless, I strived hard for these first, using them as the building blocks for my year of vulnerable fearlessness.[![valeriedenisephotos-20](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-20.jpg)](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-20.jpg)
 
 ## **Using my top 5 “failure fears,” I found and executed the tools I needed to overcome them. These are also failure fears I hear from my own tribe, and my clients, almost daily:**
 
@@ -90,7 +90,7 @@ There are lots of tips and tricks out there on how to stay inspired or spark you
 
 For me, if I reflect on my life, I almost always find that it’s rooted in relationships. If I am struggling in my creativity, I can usually bet that there is someone I love who is suffering or that I am at odds with someone dear to me. My relationships are my inspiration, and when they aren’t in tip top shape, neither is my work.
 
-Work on fixing the real root of the problem, and I promise your inspiration will return with bells on.[![valeriedenisephotos-22](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-22.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-22.jpg)
+Work on fixing the real root of the problem, and I promise your inspiration will return with bells on.[![valeriedenisephotos-22](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-22.jpg)](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-22.jpg)
 
 _**Failure fear #5 : Money. How do you make any money, and what happens if you don’t?**_
 
@@ -122,4 +122,4 @@ _**I am fearless and I can walk into this new adventure with the knowledge and t
 
 _Photos by [Valerie Denise](http://www.valeriedenisephotos.com/)_
 
-[![NICOLE ANDREINI](https://s3.amazonaws.com/yellow-files/blog/2016/05/NCIOLEANDREINI.jpg)](http://www.studiotwenty-two.com/)
+[![NICOLE ANDREINI](https://yellow-blog-images.imgix.net/2016/05/NCIOLEANDREINI.jpg)](http://www.studiotwenty-two.com/)

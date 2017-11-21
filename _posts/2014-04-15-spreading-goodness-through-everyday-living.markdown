@@ -15,6 +15,6 @@ It's how we live our everyday lives, the small choices that we make in the midst
 
 Below are some small, easy things you an do to bring a little bit of goodness to the world. Small things add up, and turn into big things. Never underestimate the power of starting small :) 
 
-[![SpreadGood_1](https://s3.amazonaws.com/yellow-files/blog/2014/04/SpreadGood_11.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/04/SpreadGood_11.jpg)
+[![SpreadGood_1](https://yellow-blog-images.imgix.net/2014/04/SpreadGood_11.jpg)](https://yellow-blog-images.imgix.net/2014/04/SpreadGood_11.jpg)
 
 Commit to doing a few of these this week. It's amazing how fulfilling it is to focus on something outside of your own bubble. Something greater, bigger than yourself.

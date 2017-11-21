@@ -26,7 +26,7 @@ After getting the hang of the coaching world’s status quo, I entered stage two
 
 Conformity and questioning were both safe stages that couldn’t last too long. At some point last year, I slid, unprepared, into stage three: Rebellion. **For the first time, I admitted every reason I was fed up with freelance life.**
 
-![HOW MY INNER REBEL SAVED ME FROM GIVING UP ON FREELANCE](https://s3.amazonaws.com/yellow-files/blog/2017/04/MG_1954.jpg)
+![HOW MY INNER REBEL SAVED ME FROM GIVING UP ON FREELANCE](https://yellow-blog-images.imgix.net/2017/04/MG_1954.jpg)
 
 No, I don’t want to post spam-like Facebook ads.  
 No, I don’t want to offer another five-step webinar.  
@@ -48,4 +48,4 @@ For now, I feel privileged to follow a calling. I will honor my entrepreneurial 
 
 _Photos by: [Karen Hernandez](http://karenmarieco.com/)_
 
-[![JACKIE VIRAMONTEZ BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/JACKIE-BIO.jpg)](http://www.jackieviramontez.com/)
+[![JACKIE VIRAMONTEZ BIO](https://yellow-blog-images.imgix.net/2017/04/JACKIE-BIO.jpg)](http://www.jackieviramontez.com/)

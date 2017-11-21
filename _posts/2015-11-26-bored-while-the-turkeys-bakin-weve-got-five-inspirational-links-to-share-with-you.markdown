@@ -15,18 +15,18 @@ While you're waiting for that turkey to finish cooking, we thought we'd share so
 
 1.  ###### [The Created Co. ](http://thecreated.co/blogs/news)
 
-    [![Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/11/IMG_5353.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/IMG_5353.jpg)Rumor has it the Created Co. is going to have a stellar Black Friday sale. Remember their mugs at the Yellow Conference this year? They also have some delicious fall recipes like Pumpkin Spice Lattes and Apple Cider...what would make Thanksgiving that much better? Apple Cider, of course!
+    [![Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/11/IMG_5353.jpg)](https://yellow-blog-images.imgix.net/2015/11/IMG_5353.jpg)Rumor has it the Created Co. is going to have a stellar Black Friday sale. Remember their mugs at the Yellow Conference this year? They also have some delicious fall recipes like Pumpkin Spice Lattes and Apple Cider...what would make Thanksgiving that much better? Apple Cider, of course!
 
 3.  ###### Johanna Tropiano's [Conscious Closets Blog](http://www.consciousclosets.co/)  
-    [![Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/11/BotanicaWorkshop_for_ConsciousClosets-01.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/BotanicaWorkshop_for_ConsciousClosets-01.jpg)
+    [![Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/11/BotanicaWorkshop_for_ConsciousClosets-01.jpg)](https://yellow-blog-images.imgix.net/2015/11/BotanicaWorkshop_for_ConsciousClosets-01.jpg)
 
     From Coco Chanel inspiration to lingerie, this gal is our go-to for information on ways to keep our spending ethical. Her new blog consists of different inspirational shoots, information on sustainable and ethical brands, and [interviews with people like Blythe Hill, the founder of Dressember.](http://www.consciousclosets.co/blog/2015/10/27/conscious-closets-and-blythe-hill) December is just around the corner! This could be your perfect read as those candied yams are just melting to perfection.
 
 5.  ###### Aren't sure what to do with that Black Friday cash? Maybe consider helping fund [this family's adoption](http://www.melinda-ann.com/search/label/Our%20House) instead...
 
-    [![fam pic new background-002 copy](https://s3.amazonaws.com/yellow-files/blog/2015/11/fam-pic-new-background-002-copy.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/fam-pic-new-background-002-copy.jpg)This woman's blog shares about her family's journey to adopting the cutest kid in the world (the pictures are honestly reason enough to check them out). Now they're in the process of adopting baby number **TWO!**
+    [![fam pic new background-002 copy](https://yellow-blog-images.imgix.net/2015/11/fam-pic-new-background-002-copy.jpg)](https://yellow-blog-images.imgix.net/2015/11/fam-pic-new-background-002-copy.jpg)This woman's blog shares about her family's journey to adopting the cutest kid in the world (the pictures are honestly reason enough to check them out). Now they're in the process of adopting baby number **TWO!**
 
-7.  ######  Read [Ruthie Lindsey's](http://www.ruthielindsey.com/hello/) inspiring story of healing and gratitude. [![Ruthie-Headshot](https://s3.amazonaws.com/yellow-files/blog/2015/11/Ruthie-Headshot.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/Ruthie-Headshot.jpg)
+7.  ######  Read [Ruthie Lindsey's](http://www.ruthielindsey.com/hello/) inspiring story of healing and gratitude. [![Ruthie-Headshot](https://yellow-blog-images.imgix.net/2015/11/Ruthie-Headshot.jpg)](https://yellow-blog-images.imgix.net/2015/11/Ruthie-Headshot.jpg)
 
 9.  ###### Check out [this app](http://www.1secondeveryday.com/)...
 

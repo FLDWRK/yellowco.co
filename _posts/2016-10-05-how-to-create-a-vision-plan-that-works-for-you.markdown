@@ -9,7 +9,7 @@ categories:
 redirect_from: "/creative-ladies/how-to-create-a-vision-plan-that-works-for-you/"
 ---
 
-[![valeriedenisephotos-45](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-45.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-45.jpg)
+[![valeriedenisephotos-45](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-45.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-45.jpg)
 
 ## _**"Creating is not magic, but work" — Kevin Ashton**_
 
@@ -19,14 +19,14 @@ When I was approached to share my thoughts on the subject [Heart](http://yellowc
 
 ## **This is an action based article to help you connect your goals to achievable tasks, ask the right questions, reflect, then plan.**
 
-**![valeriedenisephotos-82](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-82.jpg)Let’s talk about the logistics of creating the path:** I’ve included a handful of questions and examples which I often use to prompt myself to build and stay committed to better planning models.
+**![valeriedenisephotos-82](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-82.jpg)Let’s talk about the logistics of creating the path:** I’ve included a handful of questions and examples which I often use to prompt myself to build and stay committed to better planning models.
 
 _“Vision”  _is a broad term with billions of resources about how you can create a vision plan for yourself. This isn’t a new concept, but I hope the way I talk, examples I give, and outline will spark inspiration to get in touch with what you want.
 
 **Every day, I work with clients who let me hold them accountable to their vision**. For every decision these entrepreneurs make, in careers, relationships, and health, I encourage them to ask this question of themselves: _“Will this push to me reach my goal?”_
 
 **Let’s think of your career goals as a vacation (ha!).**  When you have a limited amount of time and money, you want to know where you’re going and what you’re doing to plan the exact adventure you want. Let’s say a modest budget, staying off the usual tourist path & eating amazing food were your three big goals.[  
-](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-81.jpg)
+](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-81.jpg)
 
 **No plan or adventure is without its pivots.** Sleeping accommodations throw in an extra fee, or you have a fancy meal that wasn’t on the original itinerary. These “setbacks” adjust the budget (you stayed in a beautiful town you didn’t know existed!) and if each decision is made with the end goal in mind (the food was recommended by every local!) — you’re on the right path.
 
@@ -34,11 +34,11 @@ _“Vision”  _is a broad term with billions of resources about how you can cr
 
 > _...If each decision is made with the end goal in mind...— you’re on the right path. Walking away from an adventure with a sense of accomplishment, knowing you've made decisions with your best self in mind, is priceless._
 
-## _[![valeriedenisephotos-81](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-81.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-81.jpg)__Finding your purpose (and capturing it in a mission statement):_
+## _[![valeriedenisephotos-81](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-81.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-81.jpg)__Finding your purpose (and capturing it in a mission statement):_
 
 You are used to taking action. You’re a high-achiever with goals in mind. _But you want more._ Bigger! Broader! But stop and ask yourself this: _**what is your purpose?**_ To be the best copywriter anyone has ever worked with? To project manage your clients like a rock star? To take the best pet portraits the world has ever seen?
 
-First, ask yourself _what_ you do for others, _why_ you do it, and _refine_ it into a mission statement. A mission statement may sound like a big, scary, or pointless exercise. **It's not.** Writing out who you are now and where you’d like to go and what you want is not pointless.[![valeriedenisephotos-80](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-80.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-80.jpg) **Assignment One (of three): The questions below are simple. Take 10-30 minutes on each without censoring or editing: **
+First, ask yourself _what_ you do for others, _why_ you do it, and _refine_ it into a mission statement. A mission statement may sound like a big, scary, or pointless exercise. **It's not.** Writing out who you are now and where you’d like to go and what you want is not pointless.[![valeriedenisephotos-80](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-80.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-80.jpg) **Assignment One (of three): The questions below are simple. Take 10-30 minutes on each without censoring or editing: **
 
 *   _What do you do?_
 *   _What happened to get you where you are now?_
@@ -74,7 +74,7 @@ Knowing where you’ve been is the start to understanding what’s actually poss
 *   What do you want to be different this upcoming year?
 *   If you could do ANYTHING, what would it be?
 
-## **[![valeriedenisephotos-51](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-51.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-51.jpg)Now, create a pathway:**
+## **[![valeriedenisephotos-51](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-51.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-51.jpg)Now, create a pathway:**
 
 You have uncovered who you are, who you want to be, and the goals associated with all of it. Now let’s make a path toward achieving your goals. Goals can be daunting and like most things in life, small, actionable sub-task will be the way to success. I lean heavily on questions (on top of questions) to inspire strategy and creativity.
 
@@ -93,6 +93,6 @@ _I’d love to hear about your goals. We will talk about your pathways to goals,
 
 _Photos by [Valerie Denise](http://www.valeriedenisephotos.com/) in the [Art by BBR Studio](http://www.brigitbellritchie.com/)_
 
-[![The Yellow Co. Blog Email List...so much goodness in just one email...](https://s3.amazonaws.com/yellow-files/blog/2016/07/EMAIL-LIST.png)](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)
+[![The Yellow Co. Blog Email List...so much goodness in just one email...](https://yellow-blog-images.imgix.net/2016/07/EMAIL-LIST.png)](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)
 
-[![sarah_schulweis](https://s3.amazonaws.com/yellow-files/blog/2016/10/Sarah_Schulweis.jpg)](http://www.anchorandorbit.com/)
+[![sarah_schulweis](https://yellow-blog-images.imgix.net/2016/10/Sarah_Schulweis.jpg)](http://www.anchorandorbit.com/)

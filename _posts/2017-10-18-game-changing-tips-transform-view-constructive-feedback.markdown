@@ -19,7 +19,7 @@ In my time training young professionals in this area, I noticed that one of the 
 
 Your first build should be genuine and specific. Your break should be honest. And your last build should communicate what the result will be after the feedback is applied. Here’s an example: Rather than saying, _“You’re doing awesome, but you didn’t clear the table fast enough,”_ get specific. _“Emily, great job talking to that customer about our mission when they asked about us. Moving forward, make sure to clear their table while you’re talking to leave them with a clean space and to maximize your time.”_
 
-![GAME-CHANGING TIPS TO TRANSFORM HOW YOU VIEW CONSTRUCTIVE FEEDBACK - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/YELLOW-CO-x-YELLOW-108-7.jpg)
+![GAME-CHANGING TIPS TO TRANSFORM HOW YOU VIEW CONSTRUCTIVE FEEDBACK - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/YELLOW-CO-x-YELLOW-108-7.jpg)
 
 ### **Though it might seem like you’re holding someone’s hand, they won’t see your feedback genuinely if you haven’t already established a relationship.**
 
@@ -31,7 +31,7 @@ Have you ever gone into a review with your boss and she/he tells you 47 things y
 
 He ripped my first interview he listened to apart. A series of criticisms came out of his mouth so effortlessly you would have thought he was reading from a book about what not to do while conducting an interview. My tone was wrong, my verbiage messy, the depiction of the position unclear, and I’m sure if he would have seen my body language he would have had 35 more things to point out. As a fresh, new businessperson, I was devastated. I felt like I would never get better. But then he taught me about the 48-Hour Rule .
 
-![GAME-CHANGING TIPS TO TRANSFORM HOW YOU VIEW CONSTRUCTIVE FEEDBACK - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/YELLOW-CO-x-YELLOW-108-8.jpg)
+![GAME-CHANGING TIPS TO TRANSFORM HOW YOU VIEW CONSTRUCTIVE FEEDBACK - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/YELLOW-CO-x-YELLOW-108-8.jpg)
 
 The 48-Hour Rule means you sit with feedback and live as if it’s true for 48 hours. This is typically enough time to let the emotions settle and digest the feedback in a rational way. Ask yourself, what is the relationship between this person and I? Is this a mentor who cares about me? A close friend who is looking out for me? If roles were reversed, would I see things in the same way without the emotion attached?
 
@@ -43,4 +43,4 @@ Feedback makes you a stronger leader, better friend, more skillful professional,
 
 _Photos by: [Marianna Jamadi](https://www.instagram.com/nomadic_habit/) for [Yellow 108](https://www.yellow108.com/) x [Yellow Co.](http://yellowco.co/)_
 
-[![EMILY SCHREMS BIO](https://s3.amazonaws.com/yellow-files/blog/2017/07/EMILY-SCHREMS-BIO.jpg)](https://www.instagram.com/emschrems/)
+[![EMILY SCHREMS BIO](https://yellow-blog-images.imgix.net/2017/07/EMILY-SCHREMS-BIO.jpg)](https://www.instagram.com/emschrems/)

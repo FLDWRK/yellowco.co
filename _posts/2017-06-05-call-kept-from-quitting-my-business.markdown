@@ -19,7 +19,7 @@ That’s where I found myself. At the base of a cliff, looking up. Thinking ther
 
 After about a week of staring at that cliff, a friend called me. She had a quiver in her voice and told me she’s expecting her third baby. That it's a total surprise, and she doesn’t know how she can possibly deal with this incredible change in her life. But then she said, **_"T_** **_hank goodness for your blog and your community. I’m going to need your encouragement now more than ever."_**
 
-![HOW ONE PHONE CALL KEPT ME FROM QUITTING MY OWN BUSINESS - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/KelsieMcNair-160.jpg)
+![HOW ONE PHONE CALL KEPT ME FROM QUITTING MY OWN BUSINESS - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/06/KelsieMcNair-160.jpg)
 
 Tears filled my eyes as I tried to comfort her. I realized that this cliff I was about to start climbing would indeed be the hardest one yet, but I had my friend standing next to me to go through it. And another behind her, and another and another. But most importantly, I realized I’m not doing this for me.
 
@@ -33,4 +33,4 @@ I took a rest, and brushed the dirt off. This journey is a constant one,  but 
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![BRIANNA TOWNE BIO](https://s3.amazonaws.com/yellow-files/blog/2017/06/BRIANNA-TOWNE-BIO.jpg)](http://lifebybri.com/)
+[![BRIANNA TOWNE BIO](https://yellow-blog-images.imgix.net/2017/06/BRIANNA-TOWNE-BIO.jpg)](http://lifebybri.com/)

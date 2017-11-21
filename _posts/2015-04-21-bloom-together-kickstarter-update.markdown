@@ -9,7 +9,7 @@ categories:
 redirect_from: "/light-talk/bloom-together-kickstarter-update/"
 ---
 
-[![YELLOW CO. KICKSTARTER](https://s3.amazonaws.com/yellow-files/blog/2015/04/photo-1421986527537-888d998adb74.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/photo-1421986527537-888d998adb74.jpg)
+[![YELLOW CO. KICKSTARTER](https://yellow-blog-images.imgix.net/2015/04/photo-1421986527537-888d998adb74.jpg)](https://yellow-blog-images.imgix.net/2015/04/photo-1421986527537-888d998adb74.jpg)
 
 In the midst of all the craziness of this month with our Kickstarter Campaign happening, we want to pause and remember **why **we are so invested in this project in the first place: **you. **
 
@@ -65,7 +65,7 @@ _Photo by [Morgan Sessions](http://www.morgansessions.com/?utm_source=Unsplash&u
 
 <div dir="ltr">
 
-<div>[![skimbio](https://s3.amazonaws.com/yellow-files/blog/2015/02/skimbio.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/02/skimbio.jpg)</div>
+<div>[![skimbio](https://yellow-blog-images.imgix.net/2015/02/skimbio.jpg)](https://yellow-blog-images.imgix.net/2015/02/skimbio.jpg)</div>
 
 </div>
 

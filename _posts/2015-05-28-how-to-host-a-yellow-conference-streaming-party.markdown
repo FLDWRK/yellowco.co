@@ -10,7 +10,7 @@ categories:
 redirect_from: "/light-talk/how-to-host-a-yellow-conference-streaming-party/"
 ---
 
-[![LiveStreamingParty](https://s3.amazonaws.com/yellow-files/blog/2015/05/LiveStreamingParty.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/LiveStreamingParty.jpg)
+[![LiveStreamingParty](https://yellow-blog-images.imgix.net/2015/05/LiveStreamingParty.jpg)](https://yellow-blog-images.imgix.net/2015/05/LiveStreamingParty.jpg)
 
 **_(Psssttt....Did you know this year we are offering a live-stream of the Yellow Conference?! Grab your ticket [here!!](https://ti.to/yellowconference/yellow-conference-2015))_**
 
@@ -18,7 +18,7 @@ My heart was bursting with excitement when I first discovered Yellow Conference.
 
 It was tempting to feel defeated, but being determined women we decided to get creative instead. We’re taking advantage of the live-streaming ticket and planning our very own Yellow Conference party – and we think you should too! Below I’ve outlined some helpful steps to get started:
 
-[![Screenshot-2015-01-16-16.38.19](https://s3.amazonaws.com/yellow-files/blog/2015/01/Screenshot-2015-01-16-16.38.19.png)](https://s3.amazonaws.com/yellow-files/blog/2015/01/Screenshot-2015-01-16-16.38.19.png)
+[![Screenshot-2015-01-16-16.38.19](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-16-16.38.19.png)](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-16-16.38.19.png)
 
 >  ...It was tempting to feel defeated, but being determined women we decided to get creative instead. We’re taking advantage of the live-streaming ticket and planning our very own Yellow Conference party
 
@@ -28,7 +28,7 @@ In addition to inviting your best buds, I encourage you to step outside your com
 **Choose a Location:**  
 Find a space that’s both comfortable and functional. You can keep it simple by throwing a party at your house or apartment – buy fresh flowers and a few simple decorations to make the streaming feel extra special. Better yet, get your tribe together before the event and DIY some decorations together! Or if you desire something a little different, reach out to community workspaces in your area, coffee shops or a local Bed & Breakfast. The event can be as big or small as you want it to be. _[Pro Tip: Make sure to choose a space with great lighting for photos...and share them using #bloomyellow!]_
 
-[![Yellow-39](https://s3.amazonaws.com/yellow-files/blog/2015/04/Yellow-391.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/Yellow-391.jpg)
+[![Yellow-39](https://yellow-blog-images.imgix.net/2015/04/Yellow-391.jpg)](https://yellow-blog-images.imgix.net/2015/04/Yellow-391.jpg)
 
 **Plan Your Own Workshops:**  
 There’s nothing more satisfying than putting what you learned to practice, so I recommend planning a couple in-person activities to do as a group. This can be a great chance to reach out to some of the local talent in your community to see if they’d be willing to lead a small workshop. Chances are you have friends with talents that are worth sharing!
@@ -38,4 +38,4 @@ In addition to making sure you’re in a location with excellent Wi-Fi, you’ll
 
 **My last recommendation is to make sure you really have fun with it.** It can be tempting to feel as though the cool things only happen in places like Los Angeles. The online arena makes it all too easy to jump to the fear of missing out on something. I encourage you to challenge this notion and instead make the most out of what you have, where you are. This is a chance to #bloomtogether – regardless of distance or location. How will _you_ be joining the party?
 
-[![LindsayAshcraft](https://s3.amazonaws.com/yellow-files/blog/2015/05/LindsayAshcraft.jpg)](https://instagram.com/northern_daisy/)
+[![LindsayAshcraft](https://yellow-blog-images.imgix.net/2015/05/LindsayAshcraft.jpg)](https://instagram.com/northern_daisy/)

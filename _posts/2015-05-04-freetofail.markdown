@@ -9,7 +9,7 @@ redirect_from: "/resources/freetofail/"
 
 Well ladies, we worked our booties off. We cried, we shouted, we laughed, we smiled, we got angry and we got happy. All of these things happened throughout this past month of our Kickstarter. And you know what? It failed.
 
-[![6LvcybSAwNUpdOVIJEDkfnZiEnMvxDTSEWpj5uMcUpo,kVdshMNHROIz3wkt04G1FxH2y5tKh1VR6Tk5wZ_FMGI](https://s3.amazonaws.com/yellow-files/blog/2015/04/6LvcybSAwNUpdOVIJEDkfnZiEnMvxDTSEWpj5uMcUpokVdshMNHROIz3wkt04G1FxH2y5tKh1VR6Tk5wZ_FMGI-682x1024.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/6LvcybSAwNUpdOVIJEDkfnZiEnMvxDTSEWpj5uMcUpokVdshMNHROIz3wkt04G1FxH2y5tKh1VR6Tk5wZ_FMGI.jpg)
+[![6LvcybSAwNUpdOVIJEDkfnZiEnMvxDTSEWpj5uMcUpo,kVdshMNHROIz3wkt04G1FxH2y5tKh1VR6Tk5wZ_FMGI](https://yellow-blog-images.imgix.net/2015/04/6LvcybSAwNUpdOVIJEDkfnZiEnMvxDTSEWpj5uMcUpokVdshMNHROIz3wkt04G1FxH2y5tKh1VR6Tk5wZ_FMGI-682x1024.jpg)](https://yellow-blog-images.imgix.net/2015/04/6LvcybSAwNUpdOVIJEDkfnZiEnMvxDTSEWpj5uMcUpokVdshMNHROIz3wkt04G1FxH2y5tKh1VR6Tk5wZ_FMGI.jpg)
 
 I (Joanna) really believed we could make this happen. I know we were trying to raise a lot of money, but I really believed deep down that we had the power to do this, if only we worked hard enough. When I first realized this maybe wasn't going to happen, it was really hard. I had migraines, got sick, cried a lot and felt extremely embarrassed and vulnerable. I just couldn't take the thought that this thing I had poured so much of myself into, this thing that I believed in so strongly could fail.
 
@@ -33,7 +33,7 @@ This Kickstarter may have failed, but this project is not a failure. We have lea
 
 We had brunch as a Yellow team last weekend and decided that we needed to celebrate this failure. So because of that we are going to have a #freetofail party this Friday night- and you're invited! Nothing fancy, just a hangout, closure and celebration of the end of our Kickstarter campaign. We would love to have you [join us](https://ti.to/yellowconference/free-to-fail-party).
 
-[![FreetoFail_Party](https://s3.amazonaws.com/yellow-files/blog/2015/05/FreetoFail_Party-1024x666.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/FreetoFail_Party.jpg)Space is limited, so if you'd like to come, [RSVP here](https://ti.to/yellowconference/free-to-fail-party) and let us know you're coming.
+[![FreetoFail_Party](https://yellow-blog-images.imgix.net/2015/05/FreetoFail_Party-1024x666.jpg)](https://yellow-blog-images.imgix.net/2015/05/FreetoFail_Party.jpg)Space is limited, so if you'd like to come, [RSVP here](https://ti.to/yellowconference/free-to-fail-party) and let us know you're coming.
 
 Thank you to every single person who backed our Kickstarter. And thank you to everyone who posted about it on social media, talked to friends or sent an encouraging email or text. Every single one of you is apart of what we're doing.
 

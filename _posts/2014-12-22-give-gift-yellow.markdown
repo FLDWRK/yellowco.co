@@ -13,6 +13,6 @@ If you're still looking for the perfect gift for your bestie / wife / girlfriend
 
 We made this little graphic for you to print out (or email) and give to the friend you are gifting to!
 
-[![Gift_Note-01](https://s3.amazonaws.com/yellow-files/blog/2014/12/Gift_Note-01-791x1024.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/12/Gift_Note-01.jpg)
+[![Gift_Note-01](https://yellow-blog-images.imgix.net/2014/12/Gift_Note-01-791x1024.jpg)](https://yellow-blog-images.imgix.net/2014/12/Gift_Note-01.jpg)
 
-[Click here to download the pdf,](https://s3.amazonaws.com/yellow-files/blog/2014/12/Gift_Note.pdf) and [click here](https://ti.to/yellowconference/yellow-conference-2015) to grab you and your girlfriend, wife, bestie, sister's Yellow Conference ticket at the least expensive price it will ever be!
+[Click here to download the pdf,](https://yellow-blog-images.imgix.net/2014/12/Gift_Note.pdf) and [click here](https://ti.to/yellowconference/yellow-conference-2015) to grab you and your girlfriend, wife, bestie, sister's Yellow Conference ticket at the least expensive price it will ever be!

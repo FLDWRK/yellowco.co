@@ -23,7 +23,7 @@ As a Brené Brown fan, I understand the power of vulnerability, but where do we 
 
 The gap between the two is large, gray, and growing. In our parents' generation, work was separate from personal life. In the new era of personalities as brands, entrepreneurs and writers are left to wonder: How do we balance the tension between vulnerable and professional?
 
-![WALKING THE FINE LINE BETWEEN VULNERABILITY AND PROFESSIONALISM - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/TheFinerFewer-Final-114-1.jpg "WALKING THE FINE LINE BETWEEN VULNERABILITY AND PROFESSIONALISM - THE YELLOW ROOM")
+![WALKING THE FINE LINE BETWEEN VULNERABILITY AND PROFESSIONALISM - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/07/TheFinerFewer-Final-114-1.jpg "WALKING THE FINE LINE BETWEEN VULNERABILITY AND PROFESSIONALISM - THE YELLOW ROOM")
 
 Even though the book is about dissolving relationship conflict, I found myself mediating on an inner conflict: One part of me wanted to celebrate the professional achievement, but another part worried that what I had written wasn’t professional at all. Should I call my editor and tell them to delete chapter one, pretending that a robot with no past had written the rest?
 
@@ -37,7 +37,7 @@ While I don’t think there is a hard set of rules around bringing vulnerability
 **#2 Does my story instill trust in my customers?  
 **My former boyfriends still think my book is a memoir, but I didn't write it for them. I wrote it for clients. Clients want to know that their frustrations are in trustworthy hands. Letting them know you have walked the walk can instill trust. That being said, clients are not therapists or friends so share as a way to show empathy, not to receive pity. I shared my personal experience as a way of saying, “Hey I’ve been there, and I’ve learned some things along the way.”
 
-![WALKING THE FINE LINE BETWEEN VULNERABILITY AND PROFESSIONALISM - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/TheFinerFewer-Final-168.jpg "WALKING THE FINE LINE BETWEEN VULNERABILITY AND PROFESSIONALISM - THE YELLOW ROOM")
+![WALKING THE FINE LINE BETWEEN VULNERABILITY AND PROFESSIONALISM - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/07/TheFinerFewer-Final-168.jpg "WALKING THE FINE LINE BETWEEN VULNERABILITY AND PROFESSIONALISM - THE YELLOW ROOM")
 
 **#3 Does my vulnerability honor the people involved?  
 **This is tough. Sometimes the truth doesn't paint us or others in golden light. If sharing about someone else, address both points of view: The men who betrayed me have left me with more good memories than bad. And, although they betrayed me, I also betrayed them. Vulnerability exists in the context of relationships, so consider the relationships involved. This leads to the final question.
@@ -57,4 +57,4 @@ _Disclaimer: If sharing about another person, ask permission. There are strict p
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![JACKIE VIRAMONTEZ BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/JACKIE-BIO.jpg)](https://www.amazon.com/Cant-Believe-Dated-Him-Knowing/dp/1683502809)
+[![JACKIE VIRAMONTEZ BIO](https://yellow-blog-images.imgix.net/2017/04/JACKIE-BIO.jpg)](https://www.amazon.com/Cant-Believe-Dated-Him-Knowing/dp/1683502809)

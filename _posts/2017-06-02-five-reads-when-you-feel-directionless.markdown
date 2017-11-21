@@ -19,7 +19,7 @@ _"I could do that!_" I thought.
 
 Not only would a book challenge give me a passion project to focus on, it would give me an excuse to learn about a lot of different topics and spend time playfully exploring the realm of possibilities! Plus, reading is _LIFE._
 
-![FIVE READS TO PICK UP WHEN YOU FEEL DIRECTIONLESS - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/ValerieDenisePhotos-55.jpg "FIVE READS TO PICK UP WHEN YOU FEEL DIRECTIONLESS - THE YELLOW ROOM")
+![FIVE READS TO PICK UP WHEN YOU FEEL DIRECTIONLESS - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/06/ValerieDenisePhotos-55.jpg "FIVE READS TO PICK UP WHEN YOU FEEL DIRECTIONLESS - THE YELLOW ROOM")
 
 So, in January I committed to reading 40 books over the course of 2017\. I'm on book 12 currently (I know — I'm behind). So far, these are my top five recommendations of those that have impacted me most during my season of wandering. If you're feeling directionless too, pick one up and join me.
 
@@ -35,7 +35,7 @@ It turns out that this book and its method of tidying really is magic. **Using t
 
 This book is a hefty biography about Deitrich Bonhoeffer — a German Lutheran pastor, theologian, conspiracist against the Nazi regime, and martyr during World War II when he was executed for his role in the plot to assassinate Adolf Hitler. Pretty heavy, I know. While I don't necessarily think you need to read _this_ biography in particular, I deeply recommend picking up a biography or autobiography on someone that inspires you, especially when you feel stuck creatively or professionally. **There's something wildly refreshing about delving into the life of someone else when your own feels unclear.**
 
-![FIVE READS TO PICK UP WHEN YOU FEEL DIRECTIONLESS - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/ValerieDenisePhotos-54.jpg "FIVE READS TO PICK UP WHEN YOU FEEL DIRECTIONLESS - THE YELLOW ROOM")
+![FIVE READS TO PICK UP WHEN YOU FEEL DIRECTIONLESS - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/06/ValerieDenisePhotos-54.jpg "FIVE READS TO PICK UP WHEN YOU FEEL DIRECTIONLESS - THE YELLOW ROOM")
 
 ### **4\. Essentialism by Greg McKeown**
 
@@ -49,4 +49,4 @@ If you want to keep following along as I continue my 40 book challenge this yea
 
 _Photos by:[Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![RACHEL NEAL BIO](https://s3.amazonaws.com/yellow-files/blog/2017/05/RACHEL-NEAL-BIO.jpg)](https://www.instagram.com/rachelhneal/)
+[![RACHEL NEAL BIO](https://yellow-blog-images.imgix.net/2017/05/RACHEL-NEAL-BIO.jpg)](https://www.instagram.com/rachelhneal/)

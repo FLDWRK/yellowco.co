@@ -10,7 +10,7 @@ redirect_from: "/bloomyellow/about-last-night/"
 
 We had another post originally planned to go up today, but with the election last night and everything our country is facing right now, I thought I would share some thoughts.
 
-[![YellowCollectivexHeritage-AndreaDavid(27)](https://s3.amazonaws.com/yellow-files/blog/2016/08/YellowCollectivexHeritage-AndreaDavid27.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/08/YellowCollectivexHeritage-AndreaDavid27.jpg)
+[![YellowCollectivexHeritage-AndreaDavid(27)](https://yellow-blog-images.imgix.net/2016/08/YellowCollectivexHeritage-AndreaDavid27.jpg)](https://yellow-blog-images.imgix.net/2016/08/YellowCollectivexHeritage-AndreaDavid27.jpg)
 
 We talk a lot about fear on this blog. Getting past it, moving forward, taking risks, being brave and running after our dreams.
 
@@ -26,7 +26,7 @@ The truth is, we have not lived a thousand lives. We have only lived ours.
 
 We only know what we have experienced, what we have lived through, and what we have been taught. Our opinions and fickle things that form over time in response to our individual circumstances. I do believe that it's important to speak our minds, and stand for something. But at the same time, we have to have understanding for other people's opinions even when we disagree with all that we are. Because just like you have your thoughts and opinions because of what you've lived through and experienced, so do others.
 
-[![YellowCollectivexHeritage-AndreaDavid(26)](https://s3.amazonaws.com/yellow-files/blog/2016/08/YellowCollectivexHeritage-AndreaDavid26.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/08/YellowCollectivexHeritage-AndreaDavid26.jpg)
+[![YellowCollectivexHeritage-AndreaDavid(26)](https://yellow-blog-images.imgix.net/2016/08/YellowCollectivexHeritage-AndreaDavid26.jpg)](https://yellow-blog-images.imgix.net/2016/08/YellowCollectivexHeritage-AndreaDavid26.jpg)
 
 The reason I talk about this right now is because our country is divided. We don't understand each other and we don't care to. This isn't the first time this has happened. I often think of how Martin Luther King Jr. went about his protests. He fought with peace. He approached with empathy. He spoke his opinion and stood for truth in love.
 

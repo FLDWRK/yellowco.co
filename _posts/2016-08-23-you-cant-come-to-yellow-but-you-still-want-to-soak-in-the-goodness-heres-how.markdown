@@ -17,7 +17,7 @@ All that being said, we know that not everyone can make it to the conference who
 
 _**Here's how:**_
 
-![Yellow_2015_Day_2-105](https://s3.amazonaws.com/yellow-files/blog/2016/08/Yellow_2015_Day_2-105.jpg)
+![Yellow_2015_Day_2-105](https://yellow-blog-images.imgix.net/2016/08/Yellow_2015_Day_2-105.jpg)
 
 • **[FACEBOOK LIVE](https://www.facebook.com/The-Yellow-Conference-1393841977549340/?fref=ts)**  //  We are going to be hanging out on [Facebook Live](https://www.facebook.com/The-Yellow-Conference-1393841977549340/?fref=ts) with the amazing host, Alex Michael May of [Beautilitarian](https://www.instagram.com/beautilitarian/). How can you watch us? Head to our [Facebook page](https://www.facebook.com/The-Yellow-Conference-1393841977549340/?fref=ts), click that "like" button, and make sure to be on the lookout this Thursday and Friday for the live streaming bits from the event.
 
@@ -53,7 +53,7 @@ _**[Click here for Instagram Stories](https://www.instagram.com/yellowconferenc
 
 #### [_**Click here to bookmark the blog**_](http://yellowconference.com/blog/)
 
-[![Screen Shot 2016-07-19 at 11.44.21 AM](https://s3.amazonaws.com/yellow-files/blog/2016/08/Screen-Shot-2016-07-19-at-11.44.21-AM.png)](https://s3.amazonaws.com/yellow-files/blog/2016/08/Screen-Shot-2016-07-19-at-11.44.21-AM.png)
+[![Screen Shot 2016-07-19 at 11.44.21 AM](https://yellow-blog-images.imgix.net/2016/08/Screen-Shot-2016-07-19-at-11.44.21-AM.png)](https://yellow-blog-images.imgix.net/2016/08/Screen-Shot-2016-07-19-at-11.44.21-AM.png)
 
 We're super sad you won't be able to make it to the conference in person this year, but there's always next year, right?? Luckily we live in a day and age where so much info and so many experiences can be shared with just a wifi connection.
 

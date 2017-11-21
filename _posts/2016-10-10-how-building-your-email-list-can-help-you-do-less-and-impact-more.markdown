@@ -9,7 +9,7 @@ categories:
 redirect_from: "/advice/how-building-your-email-list-can-help-you-do-less-and-impact-more/"
 ---
 
-## [![valeriedenisephotos-17](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-17.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-17.jpg)**It might shock you when you hear other bloggers talking about growing their email list. Why worry about emailing people when there are endless Instagram feeds to fill and Twitter chats to attend?**
+## [![valeriedenisephotos-17](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-17.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-17.jpg)**It might shock you when you hear other bloggers talking about growing their email list. Why worry about emailing people when there are endless Instagram feeds to fill and Twitter chats to attend?**
 
 Would it make more sense if I told you that those smart bloggers know that email is **40 times** more effective at getting them new customers than social media? Probably.
 
@@ -25,7 +25,7 @@ No matter how much we loathe checking our inboxes, [email is not dead](https://c
 
 Have you ever posted something you were excited about to your Twitter or Instagram to only see a few likes or comments and even fewer clicks through to your blog? You are not alone, my friend.
 
-Growing an email list to 700 or 7,000 or 70,000 IS possible and can seriously make all the difference when it comes to reaching your revenue goals. When you’re focused solely on social media, you’re stuck with something you ultimately can’t control.[![valeriedenisephotos-24](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-24.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-24.jpg) Yes, social media is essential to connect with your audience, share relatable pieces of your life, and drive traffic back to your blog, but if Instagram, Pinterest, Facebook, and Twitter all decided to shut down tomorrow (or, maybe worse, start charging you for every single post you make) what options do you have for staying in touch with all of those followers you’ve built up?
+Growing an email list to 700 or 7,000 or 70,000 IS possible and can seriously make all the difference when it comes to reaching your revenue goals. When you’re focused solely on social media, you’re stuck with something you ultimately can’t control.[![valeriedenisephotos-24](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-24.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-24.jpg) Yes, social media is essential to connect with your audience, share relatable pieces of your life, and drive traffic back to your blog, but if Instagram, Pinterest, Facebook, and Twitter all decided to shut down tomorrow (or, maybe worse, start charging you for every single post you make) what options do you have for staying in touch with all of those followers you’ve built up?
 
 An email list is something you can control. You get to talk to people directly and your emails land in their inboxes when you want them to. They get your most important updates, they get to know you like a friend, and it has a direct impact on your revenue.
 
@@ -47,10 +47,10 @@ Personal emails create happy audience members… happy audience members become h
 
 When people subscribe to your email list, they are showing a high level of interest in you and your business. They’re inviting you into their inbox because they want to know you better, to follow you, to get your content. And when they’re actively interested in you and your content, they’re more likely to be interested in your services and products. _Every subscriber is a potential customer._
 
-By emailing your subscribers regularly, you build on that all-important trust and also get a backstage pass to share what you’re working on directly with them – right in their inbox.[![valeriedenisephotos-18](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-18.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-18.jpg)
+By emailing your subscribers regularly, you build on that all-important trust and also get a backstage pass to share what you’re working on directly with them – right in their inbox.[![valeriedenisephotos-18](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-18.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-18.jpg)
 
 ## Do Less, Impact More
 
 So while social media and other forms of community engagement are a valid way to connect and expand your reach, don’t skip over email. In fact, I’d encourage you to start building your email list today. This is why I wrote [this free guide](https://convertkit.com/complete-guide-email-marketing/?ref=YellowCo) , to walk you through _exactly_ what you need to know, read, and do to make the most of your email game plan. Yes, you can do less and impact more. And email is how you’ll make it happen.
 
-[![valgeisler](https://s3.amazonaws.com/yellow-files/blog/2016/10/VALGEISLER.jpg)](https://convertkit.com/)
+[![valgeisler](https://yellow-blog-images.imgix.net/2016/10/VALGEISLER.jpg)](https://convertkit.com/)

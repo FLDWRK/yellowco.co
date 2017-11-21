@@ -9,13 +9,13 @@ redirect_from: "/advice/may-bloomgathering-recap/"
 
 I grew up in a small beach town where instead of people bragging about how many hours they work per week, they bragged about how many hours they spend _not_ working and instead how many hours they spent out on the water. Here in LA, busy is glorified. The more hours a person works per week, the better.
 
-[![BenFranklin](https://s3.amazonaws.com/yellow-files/blog/2015/06/BenFranklin.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/BenFranklin.jpg)
+[![BenFranklin](https://yellow-blog-images.imgix.net/2015/06/BenFranklin.jpg)](https://yellow-blog-images.imgix.net/2015/06/BenFranklin.jpg)
 
 I've recently been learning so much about productivity and how much time we waste throughout the day. Now, instead of bragging about how many hours I work, I'd rather brag about how many hours I got to spend with friends and family and all the things I still got done because I was smart and efficient with my time.
 
 Our May #bloomgathering was one of my favorite so far. We had Beth from [Bneato Bar](http://bneatobar.com/) lead us through productivity tips, email hacks, and overall info on how to save time and make the most of your work day.
 
-[![Screenshot 2015-06-01 22.38.25 copy](https://s3.amazonaws.com/yellow-files/blog/2015/06/Screenshot-2015-06-01-22.38.25-copy.png)](https://s3.amazonaws.com/yellow-files/blog/2015/06/Screenshot-2015-06-01-22.38.25-copy.png)
+[![Screenshot 2015-06-01 22.38.25 copy](https://yellow-blog-images.imgix.net/2015/06/Screenshot-2015-06-01-22.38.25-copy.png)](https://yellow-blog-images.imgix.net/2015/06/Screenshot-2015-06-01-22.38.25-copy.png)
 
 To live a whole-hearted life, we can't be spending every hour on work.
 
@@ -67,7 +67,7 @@ _Setting a timer or giving yourself chunks of work time, then promising yourself
 
 _"You can do it!" -coffee... Beth finished us off with a pep talk from our favorite caffeinated drink, telling us that we are strong, we can do this, we just have to make the mental decision to do so. It won't happen on it's own, it's not something you will stumble into. You have to be intentional and you have to work hard. So let's get out there and be productive!!_
 
-[![2015-05-28 20.52.05 copy](https://s3.amazonaws.com/yellow-files/blog/2015/06/2015-05-28-20.52.05-copy.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/2015-05-28-20.52.05-copy.jpg)
+[![2015-05-28 20.52.05 copy](https://yellow-blog-images.imgix.net/2015/06/2015-05-28-20.52.05-copy.jpg)](https://yellow-blog-images.imgix.net/2015/06/2015-05-28-20.52.05-copy.jpg)
 
 Let's be honest, focusing for millennials is not easy. It's been said that we have an 8 second attention span. I hope that's not true, but I did head to Instagram quite a few times and wrote 2 emails as I was writing this blog post. And I was really _trying_ to focus! But just like anything, focusing and concentration is a skill that can be learned, harnessed and mastered! So let's get to it ladies, let's master this efficiency thing so we can spend time on the things we love. Living life and changing the world!
 

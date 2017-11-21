@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/rediscovering-authenticity-kind-part-two/"
 ---
 
-[![blogIMG_1257](https://s3.amazonaws.com/yellow-files/blog/2015/01/blogIMG_1257.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/01/blogIMG_1257.jpg)
+[![blogIMG_1257](https://yellow-blog-images.imgix.net/2015/01/blogIMG_1257.jpg)](https://yellow-blog-images.imgix.net/2015/01/blogIMG_1257.jpg)
 
 In part one of [“Rediscovering Authenticity: Be Kind to Yourself,”](http://yellowconference.com/rediscovering-authenticity-real-shortcomings/) we addressed the ways in which we usually handle our faults and weaknesses: most of the time, we either ignore them or we use them to fuel the fire of shame on ourselves. We proposed a third option…one where we are able to look _honestly_ at our flaws and mistakes and give ourselves the perfect amount of grace to propel us forward--to experience freedom.
 
@@ -50,4 +50,4 @@ Start honest conversations with people about what it means to balance honesty an
 
 _Photo by [Whitney Darling Photography](http://whitneydarling.com/)_
 
-[![adriscoll](https://s3.amazonaws.com/yellow-files/blog/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)
+[![adriscoll](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

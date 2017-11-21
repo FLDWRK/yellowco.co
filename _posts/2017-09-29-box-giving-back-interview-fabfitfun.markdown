@@ -25,7 +25,7 @@ As editor-in-chief, I received so many products and we thought, “How great wou
 
 Each season we choose a new charitable partner for our Box and use the FabFitFun platform to help promote and raise money for their cause. Our most recent box for the Fall Season supported UNICEF and we raised $100,000 for them - our biggest contribution to date! But, I actually think the brand awareness we can bring to our non-profit partners is far more compelling that the dollar amount. We create original videos and articles for all of our partners that are promoted on our social channels, through influencers, and at our quarterly events. Previous charitable partners have included The ASPCA, I Am That Girl, More than Me, The Starlight Foundation, Pencils of Promise, The Purple Purse Foundation, and Tribe Alive, among others.
 
-![THE BOX THAT KEEPS GIVING BACK: AN INTERVIEW WITH FABFITFUN - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/065A6927.jpg)
+![THE BOX THAT KEEPS GIVING BACK: AN INTERVIEW WITH FABFITFUN - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/065A6927.jpg)
 
 #### Clearly, you place a big importance on giving back as a company. What has driven you to make this such a key factor in your business?
 
@@ -41,7 +41,7 @@ One of the biggest milestones was hitting the 100k member mark. I remember plann
 
 On the positive side, we ended up selling out of those 2,000 boxes in 48 hours . The less positive side? Well those last 1,000 boxes were not quite up to our standards. It was definitely a learning lesson in merchandising, planning, and customer service. Luckily our members stuck with us and we were able to hit the 100k mark quite quickly - it was amazing. And that was just the beginning. We have grown so much since then – now that number actually seems small. It continues to get more and more exciting.
 
-![THE BOX THAT KEEPS GIVING BACK: AN INTERVIEW WITH FABFITFUN - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/065A7334.jpg)
+![THE BOX THAT KEEPS GIVING BACK: AN INTERVIEW WITH FABFITFUN - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/065A7334.jpg)
 
 #### What has been your biggest struggle in launching a company?
 

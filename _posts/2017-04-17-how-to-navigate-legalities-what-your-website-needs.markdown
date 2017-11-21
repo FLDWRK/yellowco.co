@@ -23,7 +23,7 @@ So, how are Privacy Policies legally enforceable? When you post a Privacy Policy
 
 As your business grows, your data handling practices will usually change and evolve to reflect your needs and the needs of other stakeholders. **Having an accurate and up-to-date Privacy Policy that clearly reflects your data and PII handling practices is one of the most significant risk-reducing tools you can have on your website.**
 
-![HOW TO NAVIGATE LEGALITIES: A BREAKDOWN OF YOUR WHAT YOUR WEBSITE NEEDS](https://s3.amazonaws.com/yellow-files/blog/2017/04/ValerieDenisePhotos56of64.jpg)
+![HOW TO NAVIGATE LEGALITIES: A BREAKDOWN OF YOUR WHAT YOUR WEBSITE NEEDS](https://yellow-blog-images.imgix.net/2017/04/ValerieDenisePhotos56of64.jpg)
 
 ### **Terms of Use**
 
@@ -48,4 +48,4 @@ The journey of running your own business, or even just your own website, is undo
 
 _Photos by: [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![WILKINSON MAZZEO BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/WILKINSON-MAZZEO-BIO.jpg "WILKINSON MAZZEO BIO")](https://wilkinsonmazzeo.com/)
+[![WILKINSON MAZZEO BIO](https://yellow-blog-images.imgix.net/2017/04/WILKINSON-MAZZEO-BIO.jpg "WILKINSON MAZZEO BIO")](https://wilkinsonmazzeo.com/)

@@ -11,7 +11,7 @@ categories:
 redirect_from: "/light-talk/july-bloom-gathering-recap/"
 ---
 
-[![JULY BLOOM GATHERING](https://s3.amazonaws.com/yellow-files/blog/2015/07/39.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/39.jpg)
+[![JULY BLOOM GATHERING](https://yellow-blog-images.imgix.net/2015/07/39.jpg)](https://yellow-blog-images.imgix.net/2015/07/39.jpg)
 
 **This was a very, very special Bloom Gathering. **
 
@@ -21,11 +21,11 @@ Now, all of our Bloom Gatherings have been amazing, special in their own way. Fu
 
 This month, we had Lisa Casteller, the founder of [Teen Leadership Foundation](http://teenleadershipfoundation.com/) (remember [this](http://yellowconference.com/organization-highlight-teen-leadership-foundation/) post from a few weeks back?), share with us her journey from being big-time in the fashion industry to facing head-on her burden for foster teens and those aging out of the system.
 
-[![Bloom Gathering: TLF](https://s3.amazonaws.com/yellow-files/blog/2015/07/361.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/361.jpg)Lisa, was a high ranking business woman in the apparel industry by 23 years of age. After meeting and mentoring a young lady in the foster care system, she couldn't run from the call of action imposing on her heart. So, she began TLF.
+[![Bloom Gathering: TLF](https://yellow-blog-images.imgix.net/2015/07/361.jpg)](https://yellow-blog-images.imgix.net/2015/07/361.jpg)Lisa, was a high ranking business woman in the apparel industry by 23 years of age. After meeting and mentoring a young lady in the foster care system, she couldn't run from the call of action imposing on her heart. So, she began TLF.
 
 TLF supports emancipated foster youth (meaning, they're too old for foster care) through mentorship, housing, and providing various resources, to help develop life skills. Now, these kids are _smart._ I (Sally) speak from personal experience from not only volunteering with TLF, but also having our very own teenage foster youth in our home (and, essentially being an undocumented foster kid myself)--kids in and out of the system are streets smart. They know the ins and outs of things you wouldn't believe. They're problem solvers, and have skills that are extraordinary considering their background-they've learned to adapt and survive according to their circumstances. What they are lacking are life skills: budgeting, cooking, dish-washing, driving...etc. Things many of us just are assumed to know, actually are pretty difficult to learn when you're in a group home.
 
-![july bloom gathering](https://s3.amazonaws.com/yellow-files/blog/2015/07/Foster_Facts.jpg)
+![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/Foster_Facts.jpg)
 
 **This is where TLF steps in. **
 
@@ -39,15 +39,15 @@ The questions people had varied from _how can I help, _to _what's the differen
 
 I couldn't help but feel overwhelmed with pride that this is the direction Yellow Co. is taking, and that these are the kinds of women we are attracting. Hands were flying up and questions that were hard to answer (the best kind) were being asked. There were world changers in our midst, and they are well-en-route to breaking ground.
 
-[![july bloom gathering](https://s3.amazonaws.com/yellow-files/blog/2015/07/18-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/18-1.jpg)
+[![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/18-1.jpg)](https://yellow-blog-images.imgix.net/2015/07/18-1.jpg)
 
-[![july bloom gathering](https://s3.amazonaws.com/yellow-files/blog/2015/07/11-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/11-1.jpg)
+[![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/11-1.jpg)](https://yellow-blog-images.imgix.net/2015/07/11-1.jpg)
 
-[![july bloom gathering](https://s3.amazonaws.com/yellow-files/blog/2015/07/46-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/46-1.jpg)From cookies (like the amazing ones we had at this month's gathering, by [GIVE](http://www.thecookiethatgives.com/)-raise your hand if you had _at least_ four...enter emoji here...) to whole shops dedicated, like our OC fave [Share and Do Good](http://www.shareanddogood.com/) (our host for this gathering), creative women _are _changing the world, and dominating at it.
+[![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/46-1.jpg)](https://yellow-blog-images.imgix.net/2015/07/46-1.jpg)From cookies (like the amazing ones we had at this month's gathering, by [GIVE](http://www.thecookiethatgives.com/)-raise your hand if you had _at least_ four...enter emoji here...) to whole shops dedicated, like our OC fave [Share and Do Good](http://www.shareanddogood.com/) (our host for this gathering), creative women _are _changing the world, and dominating at it.
 
-[![july bloom gathering](https://s3.amazonaws.com/yellow-files/blog/2015/07/6.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/6.jpg)
+[![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/6.jpg)](https://yellow-blog-images.imgix.net/2015/07/6.jpg)
 
-[![july bloom gathering](https://s3.amazonaws.com/yellow-files/blog/2015/07/9.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/9.jpg)
+[![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/9.jpg)](https://yellow-blog-images.imgix.net/2015/07/9.jpg)
 
 We're so proud of the women that are a part of our crew. Our followers and attendees, you guys are rockstars, game-changers, beacons of light...and you will change the world.
 
@@ -57,4 +57,4 @@ _Our next month's gathering will be [the Yellow Conference](http://yellowconfere
 
 Want information on TLF and how you can help? Check it out [here.](http://teenleadershipfoundation.com/donate/)
 
-[![sallykim Yellow Co.](https://s3.amazonaws.com/yellow-files/blog/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

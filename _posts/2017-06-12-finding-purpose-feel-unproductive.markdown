@@ -17,7 +17,7 @@ Your experience during this time can change who you are and what you offer to th
 
 Even if you lack definite direction about what your career or meaningful contribution is going to be, there's a good chance you still get fired up about certain ideas. Maybe it’s the environment, art, or empowerment of marginalized people. Find an organization in your area and begin to volunteer a couple hours a week. It may not lead directly to a calling, but your time will be spent meaningfully on something you care about.
 
-![FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/GraceYoon019.jpg "FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM")
+![FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/06/GraceYoon019.jpg "FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM")
 
 ### **Go to Meet-ups**
 
@@ -29,7 +29,7 @@ Enter into community with people who are doing something they care about. Rather
 
 For creative thinkers, freelancers, and entrepreneurs, remembering to take time for self-development ranks pretty high on the list of _things we aren’t great at making time for._ Once you start on a new project or passion, you will be completely enthralled and overwhelmed (in a good way) by what you get to spend your life doing. So right now, while you’re looking for that next calling, use this downtime to do the things you always wanted to but didn’t make time for. Learn a new skill. Practice a hobby. Build new relationships. Go to therapy. Pray, meditate, do yoga or cardio for _a whole hour each day_ .
 
-![FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/GraceYoon021.jpg "FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM")
+![FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/06/GraceYoon021.jpg "FINDING PURPOSE WHEN YOU FEEL UNPRODUCTIVE - THE YELLOW ROOM")
 
 Trying these suggestions might result in a eureka moment for you. Maybe in volunteering for a cause you care about, spending time with like-minded people, or developing as a human being, bam! You'll find your next passion. But , you may also do all of the above and remain in the waiting game for quite a while. Both are _completely_ okay.
 
@@ -37,4 +37,4 @@ There’s no magic trick. No one exit to the desert strategy. What I can tell yo
 
 _Photos by: [Grey & Elle](http://www.greyandelle.com/)_
 
-[![KATE ALSUP BIO](https://s3.amazonaws.com/yellow-files/blog/2017/06/KATE-ALSUP-BIO.jpg)](http://www.katealsup.com/)
+[![KATE ALSUP BIO](https://yellow-blog-images.imgix.net/2017/06/KATE-ALSUP-BIO.jpg)](http://www.katealsup.com/)

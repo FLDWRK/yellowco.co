@@ -13,7 +13,7 @@ categories:
 redirect_from: "/light-talk/wait-before-you-grab-that-third-cup-o-coffee-check-out-these-tasty-desk-snack-ideas/"
 ---
 
-## [![Yellow_2015_Day_2-194](https://s3.amazonaws.com/yellow-files/blog/2016/03/Yellow_2015_Day_2-1941.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/03/Yellow_2015_Day_2-1941.jpg)We all want to be healthy. Rather than turning to a new fad diet that you’re likely to ditch, try to incorporate these healthy snacks during your workweek.
+## [![Yellow_2015_Day_2-194](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Day_2-1941.jpg)](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Day_2-1941.jpg)We all want to be healthy. Rather than turning to a new fad diet that you’re likely to ditch, try to incorporate these healthy snacks during your workweek.
 
 Why have snacks at your desk? It’s important to listen to your body’s hunger signals because it knows what energy you need throughout the day. If it’s telling you that you’re hungry, it’s because you are. Learn how to feel your physical hunger and then respond to it with food. Snacking at your desk while you’re hungry will also help keep you from overeating or binge eating later in the day if you let yourself go too long without food. Check out these desk-ready snack ideas:
 
@@ -27,7 +27,7 @@ Grab an orange, some clementines, or make a chopped fruit salad. Fruit is fabulo
 
 1.  #### **Bars**
 
-Whether you have time to make your own from scratch or just grab one at the grocery store, bars are an easy snack to keep in your desk drawer that’ll last longer than some of the other options. When you find yourself stuck at the office later than you anticipated, you can avoid getting too hangry by pulling out your stashed bar. When shopping for bars at the grocery store, look for those with more protein and fiber with less sugar and salt. Some of my favorites are Larabars and KIND Bars.[![Yellow_2015_Day_2-139](https://s3.amazonaws.com/yellow-files/blog/2016/03/Yellow_2015_Day_2-139.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/03/Yellow_2015_Day_2-139.jpg)
+Whether you have time to make your own from scratch or just grab one at the grocery store, bars are an easy snack to keep in your desk drawer that’ll last longer than some of the other options. When you find yourself stuck at the office later than you anticipated, you can avoid getting too hangry by pulling out your stashed bar. When shopping for bars at the grocery store, look for those with more protein and fiber with less sugar and salt. Some of my favorites are Larabars and KIND Bars.[![Yellow_2015_Day_2-139](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Day_2-139.jpg)](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Day_2-139.jpg)
 
 1.  #### **Apple & nut butter**
 
@@ -39,11 +39,11 @@ While meal prepping on Sunday, throw some chickpeas in the oven to roast for the
 
 1.  #### **Veggie sticks & hummus**
 
-Chop up a bunch of celery, carrots, zucchini, and/or cucumbers at the beginning of the week and grab a container of hummus for a quick snack. Get your veggies on while eating some more chickpeas, in hummus form.[![Yellow_2015_Day_2-61](https://s3.amazonaws.com/yellow-files/blog/2016/03/Yellow_2015_Day_2-61.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/03/Yellow_2015_Day_2-61.jpg)
+Chop up a bunch of celery, carrots, zucchini, and/or cucumbers at the beginning of the week and grab a container of hummus for a quick snack. Get your veggies on while eating some more chickpeas, in hummus form.[![Yellow_2015_Day_2-61](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Day_2-61.jpg)](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Day_2-61.jpg)
 
 1.  #### **Hardboiled egg**
 
-Eggs are a complete protein, containing all nine essential amino acids. They’re another great inexpensive source of protein. They’re full of great vitamins and minerals including vitamin D, B6, B12, A, E, K, iron, zinc, and copper. Set yourself up for success ahead of time by hard-boiling a few for the week and pre-peeling them so there are no excuses when you’re complaining mid-morning that you forgot to eat breakfast.[![Yellow_2015_Day_2-108](https://s3.amazonaws.com/yellow-files/blog/2016/03/Yellow_2015_Day_2-108.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/03/Yellow_2015_Day_2-108.jpg)
+Eggs are a complete protein, containing all nine essential amino acids. They’re another great inexpensive source of protein. They’re full of great vitamins and minerals including vitamin D, B6, B12, A, E, K, iron, zinc, and copper. Set yourself up for success ahead of time by hard-boiling a few for the week and pre-peeling them so there are no excuses when you’re complaining mid-morning that you forgot to eat breakfast.[![Yellow_2015_Day_2-108](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Day_2-108.jpg)](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Day_2-108.jpg)
 
 1.  #### **Goat cheese, tomato, and cucumber salad**
 
@@ -56,10 +56,10 @@ Keep a dark chocolate bar in your desk for when you’re feeling extra PMS-y, th
 1.  #### **Quinoa salad**
 
 Remember how eggs were a complete protein? Guess what – so is quinoa, which is pretty unique for a plant. Plus, it’s also a whole grain. Basically, it’s a nutritional rock-star that’s easy to combine in a salad. My favorite is throwing together a southwestern style salad: chopped bell pepper, a can of black beans, a cup of quinoa, an avocado, a cucumber, a can of corn, chopped green onions, lime juice, salt, pepper, cumin, and chipotle seasoning.[  
-](https://s3.amazonaws.com/yellow-files/blog/2016/03/Yellow_2015_Day_2-194.jpg)
+](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Day_2-194.jpg)
 
 _(Psst...Some of our faves from past conferences include [Tillamook](https://www.tillamook.com/), [Vita Coco](http://vitacoco.com/), and [Skinny Pop!](http://skinnypop.com/))_
 
 _Photos by [Caca Santoro](http://cacasantoro.com/)_
 
-[![LAUREN CASH BIO](https://s3.amazonaws.com/yellow-files/blog/2016/03/LAUREN-CASH-BIO.jpg)](https://laurencashrdn.com/)
+[![LAUREN CASH BIO](https://yellow-blog-images.imgix.net/2016/03/LAUREN-CASH-BIO.jpg)](https://laurencashrdn.com/)

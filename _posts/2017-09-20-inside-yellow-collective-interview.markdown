@@ -17,7 +17,7 @@ In the summer of 2016, I saw posts from the [Yellow Conference](http://yellowco.
 
 ### **I knew I had to join to explore more of what Yellow had to offer to not only enrich my own life, but give me tools, stories, and inspiration for my team at large.**
 
-[![INSIDE THE YELLOW COLLECTIVE - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/03/YCD0062.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/03/YCD0062.jpg)
+[![INSIDE THE YELLOW COLLECTIVE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/03/YCD0062.jpg)](https://yellow-blog-images.imgix.net/2017/03/YCD0062.jpg)
 
 #### **If you could describe your Yellow chapter in one word, what would it be? Why?**
 
@@ -31,7 +31,7 @@ YES, the Collective has brought me out of hiding. I was building a life in my co
 
 The Yellow community was the door to my future. I am incredibly grateful for that first step through, and have been surrounded by nothing by positivity, encouragement, and FIERCE sisterhood. This community keeps me balanced, while also propelling me forward to a future that is filled with vulnerability, authenticity, and tons of opportunity to FAIL FORWARD!
 
-[![INSIDE THE YELLOW COLLECTIVE - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/03/YCD0319-copy.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/03/YCD0319-copy.jpg)
+[![INSIDE THE YELLOW COLLECTIVE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/03/YCD0319-copy.jpg)](https://yellow-blog-images.imgix.net/2017/03/YCD0319-copy.jpg)
 
 #### **What does an evening with the NYC chapter of the [Collective](https://yellowcollective.co/) look like?**
 
@@ -45,7 +45,7 @@ Our stories are 100000% what bind us together. I have seen women grow their bran
 
 ### **The Yellow Collective has created a space for every woman to join in - whatever season, or spot on her journey she is in.**
 
-![INSIDE THE YELLOW COLLECTIVE - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/IMG_3860.jpg)_Yellow Collective NYC Chapter_
+![INSIDE THE YELLOW COLLECTIVE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/IMG_3860.jpg)_Yellow Collective NYC Chapter_
 
 #### Who are the top three Beyoncé’s of your life?
 
@@ -63,4 +63,4 @@ _Photos by [Marisa Vitale](http://www.marisavitale.com/) and courtesy of [Jenn
 
 ### [LIVE IN LA? JOIN US AT OUR YELLOW MEMBERSHIP LAUNCH PARTY TOMORROW NIGHT! DETAILS HERE.](https://www.universe.com/events/yellow-collective-2-0-launch-party-tickets-los-angeles-C4D0K1)
 
-[![Hanna Snyder Bio](https://s3.amazonaws.com/yellow-files/blog/2017/04/HANNA-BIO.jpg)](www.hannasnyder.com)
+[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/04/HANNA-BIO.jpg)](www.hannasnyder.com)

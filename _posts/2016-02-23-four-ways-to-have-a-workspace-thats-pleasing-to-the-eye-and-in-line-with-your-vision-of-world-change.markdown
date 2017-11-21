@@ -8,8 +8,8 @@ categories:
 redirect_from: "/the-activist/four-ways-to-have-a-workspace-thats-pleasing-to-the-eye-and-in-line-with-your-vision-of-world-change/"
 ---
 
-[![4-officehacks](https://s3.amazonaws.com/yellow-files/blog/2016/02/4-officehacks.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/02/4-officehacks.jpg)[  
-](https://s3.amazonaws.com/yellow-files/blog/2016/02/Photo-Apr-22-5-16-22-PM.jpg)Let’s be honest here for a moment. Do you get inspired when working from a cluttered corner in your kitchen? Probably not. What about an 10x10 drab after bare room? My guess is no. We spend the majority of our days in our offices, and we’ve worked so hard to be able to do inspiring work that we love. At my company, _[Marie Mae Company](http://www.mariemae.com/)_, **we believe it is important that our workspaces be just as inspiring as the work that we do.**
+[![4-officehacks](https://yellow-blog-images.imgix.net/2016/02/4-officehacks.jpg)](https://yellow-blog-images.imgix.net/2016/02/4-officehacks.jpg)[  
+](https://yellow-blog-images.imgix.net/2016/02/Photo-Apr-22-5-16-22-PM.jpg)Let’s be honest here for a moment. Do you get inspired when working from a cluttered corner in your kitchen? Probably not. What about an 10x10 drab after bare room? My guess is no. We spend the majority of our days in our offices, and we’ve worked so hard to be able to do inspiring work that we love. At my company, _[Marie Mae Company](http://www.mariemae.com/)_, **we believe it is important that our workspaces be just as inspiring as the work that we do.**
 
 The aesthetics of our environment can have a powerful effect on our productivity and mood through out our workday. Think about it. What makes you feel better? Working in a space that’s organized, bright and creating an impact, or working amidst clutter with no view of the outside world and with products that were produced in less than stellar working environments? In order to maximize our efforts, I believe we should have a workspace that is pleasing to the eye, as well as in line with our world changing vision. Our offices say more about us than we think. Let’s make them look good and do good!
 
@@ -24,8 +24,8 @@ The aesthetics of our environment can have a powerful effect on our productivity
 5.  **Organization is also key.** Everything should have a place, and I personally love these bowls from [Local + Lejos](http://www.localandlejos.com/collections/bowls/products/zera-bowl-medium) for that purpose. You will also need to fill your workspace with paper products that help you work productively towards your world changing vision, such as Marie Mae's [Good Office Box](http://www.mariemae.com/shop/the-good-office-box-steel-blue) where all products are produced in the U.S. and provide an hour of business school for women in emerging markets.
 
 **We make an impact with our purchases, whether we think about it or not.** The products we use in business matter, and will also influence our family or co-workers to think about them[  
-](https://s3.amazonaws.com/yellow-files/blog/2016/02/Photo-Apr-22-5-16-22-PM.jpg)the same way. We can make an impact each and every day by making conscious decisions about how we dress up our workspace. So the next time you go to put together an office you love, remember, even these purchases can and do make an impact.
+](https://yellow-blog-images.imgix.net/2016/02/Photo-Apr-22-5-16-22-PM.jpg)the same way. We can make an impact each and every day by making conscious decisions about how we dress up our workspace. So the next time you go to put together an office you love, remember, even these purchases can and do make an impact.
 
 _Photos by [Karen Marie Hernandez](http://www.karenmariehernandez.com/lifestyle/)_
 
-[![Jillian Ryan](https://s3.amazonaws.com/yellow-files/blog/2016/02/Jillian-Ryan.jpg)](http://www.mariemae.com/)
+[![Jillian Ryan](https://yellow-blog-images.imgix.net/2016/02/Jillian-Ryan.jpg)](http://www.mariemae.com/)

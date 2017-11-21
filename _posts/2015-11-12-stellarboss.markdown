@@ -11,7 +11,7 @@ categories:
 redirect_from: "/creative-ladies/stellarboss/"
 ---
 
-###### [![Yellow Co Blog: being the best supervisor](https://s3.amazonaws.com/yellow-files/blog/2015/10/214-800x598.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/214-800x598.jpg)
+###### [![Yellow Co Blog: being the best supervisor](https://yellow-blog-images.imgix.net/2015/10/214-800x598.jpg)](https://yellow-blog-images.imgix.net/2015/10/214-800x598.jpg)
 
 ###### I felt like I was an intern forever.
 
@@ -31,7 +31,7 @@ I look at my current intern, and I remember what it was like when I was in her s
 
 And after stumbling through my first few supervising experiences, I’ve realized if I’m going to become the kind of teacher I wished I had, I’m going to have to remember what it was like to be the student.
 
-##### [![Yellow Co. blog: being a stellar boss. ](https://s3.amazonaws.com/yellow-files/blog/2015/10/36-800x533.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/36-800x533.jpg)Here are a few points I use to remind me how to be a leader who can relate and empathize with those I’m teaching:
+##### [![Yellow Co. blog: being a stellar boss. ](https://yellow-blog-images.imgix.net/2015/10/36-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/10/36-800x533.jpg)Here are a few points I use to remind me how to be a leader who can relate and empathize with those I’m teaching:
 
 ###### **1\. The _I-Don’t-Know-BUT_**
 
@@ -70,12 +70,12 @@ So maybe your company isn’t used to letting interns take the lead. That’s fi
 
 I once interned at a start-up creative agency that would pull the entire staff into a tiny room with four chairs, a table, and a sofa shoved into the corner, and we would sit practically on top of each other and wouldn’t come out until every person had gotten the chance to share every half-decent idea in their head.  Even the totally not-decent ideas got thrown around. No one was made fun of, and no one laughed at the interns when we said we wanted to play a worldwide game of telephone and film it.
 
-[![yellow co. blog: tips for being a stellar supervisor](https://s3.amazonaws.com/yellow-files/blog/2015/10/56-800x533.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/56-800x533.jpg)We threw it in the pile. We wrote it on the whiteboard. We doodled rocket ships and film canisters and telegrams. And we—interns and supervisors together—tried to figure out how it would work...  
+[![yellow co. blog: tips for being a stellar supervisor](https://yellow-blog-images.imgix.net/2015/10/56-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/10/56-800x533.jpg)We threw it in the pile. We wrote it on the whiteboard. We doodled rocket ships and film canisters and telegrams. And we—interns and supervisors together—tried to figure out how it would work...  
 It didn’t end up working. But it did lead to another idea, and another idea, and that idea became something great, and if we hadn’t built the room, it might never have existed.
 
 **Letting our experiences as interns, students, or employees can shape the way we lead and teach, if we let it. Learn from your experiences and grow from what you don’t think worked, and glean from what you enjoyed most.**[  
-](https://s3.amazonaws.com/yellow-files/blog/2015/10/214-800x598.jpg)
+](https://yellow-blog-images.imgix.net/2015/10/214-800x598.jpg)
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/category/uncategorized/)_
 
-[![Samantha Chaffin for Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/09/Samantha-Chaffin.jpg)](https://herinklings.wordpress.com/)
+[![Samantha Chaffin for Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/09/Samantha-Chaffin.jpg)](https://herinklings.wordpress.com/)

@@ -13,7 +13,7 @@ categories:
 redirect_from: "/creative-ladies/guest-blogger-krysta-masciale/"
 ---
 
-_**[![IMG_8593](https://s3.amazonaws.com/yellow-files/blog/2015/06/IMG_8593.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/IMG_8593.jpg)**_
+_**[![IMG_8593](https://yellow-blog-images.imgix.net/2015/06/IMG_8593.jpg)](https://yellow-blog-images.imgix.net/2015/06/IMG_8593.jpg)**_
 
 I used to believe I was a pioneer; an independent Girl Boss who prided herself on never asking for help. And then I got my first ‘real job’ my senior year of college and had a boss who was such a generous _bad-a_ that **she single-handedly paved the way for my career.** It was during that time that I wised up and realized I had never actually done it alone. There were always people pushing, supporting, paving the way for me. Which was both humiliating, humbling and empowering.
 
@@ -41,4 +41,4 @@ So here’s how I’ve accidentally developed a practice of achieving goals in m
 
 No matter where you are on this quest to dominate goals, I would highly suggest tapping into your tribe as a place to begin the process. Don’t fool yourself into thinking you can do this alone or that people don’t want to be a part of your goal domination. Nothing makes this world more interesting than a bunch of scrappy people with some crazy ideas coming together to move one step closer to the life they’ve always wanted. You’ve got this!
 
-[![krysta](https://s3.amazonaws.com/yellow-files/blog/2015/06/krysta.jpg)](http://www.stilettosontherocks.com/)
+[![krysta](https://yellow-blog-images.imgix.net/2015/06/krysta.jpg)](http://www.stilettosontherocks.com/)

@@ -15,7 +15,7 @@ I know, it sounds blasphemous - but hear me out. I spent many years confusing ex
 
 This was a major shift for me. Instead of desperately trying to create an exciting position out of the skills I already possessed, **it occurred to me that I could tap into an infinite capacity to learn something new.** While I can't pinpoint exactly when I began to believe that the abilities I was recognized for were all I would ever have, I know it happened early on in life. I had unknowingly put myself inside of a box, and now, I was no longer comfortable there. It was time for a change.
 
-![FREEING YOUR IDENTITY FROM THE LIMITS OF VALIDATION - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/04/BeBangles-Summer2016-008.jpg "FREEING YOUR IDENTITY FROM THE LIMITS OF VALIDATION - THE YELLOW ROOM")
+![FREEING YOUR IDENTITY FROM THE LIMITS OF VALIDATION - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/04/BeBangles-Summer2016-008.jpg "FREEING YOUR IDENTITY FROM THE LIMITS OF VALIDATION - THE YELLOW ROOM")
 
 To make this transformation, I had to embrace being a beginner again. I still used the expertise I’d developed throughout my life, but rather than allowing it to limit my career, I utilized it as a starting point. I stopped working outrageously hard in a dead-end corporate job so I could use that work ethic for myself. I stopped organizing everyone else’s work, and focused on my own. **Most importantly, I sought to understand myself outside of the traits I’d been praised for and defined by.** I recognized what I actually enjoyed doing, and started to intentionally flex those muscles instead. With time and attention, those muscles started to strengthen, and became new skills of their own.  Now, my career and life are built around what I love.
 
@@ -27,4 +27,4 @@ Be encouraged and inspired to step outside of your comfort zone and into the un
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![LAURA WELDY BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/LAURA-WELDY-BIO.jpg "LAURA WELDY BIO")](http://thewellsupportedwoman.com/)
+[![LAURA WELDY BIO](https://yellow-blog-images.imgix.net/2017/04/LAURA-WELDY-BIO.jpg "LAURA WELDY BIO")](http://thewellsupportedwoman.com/)

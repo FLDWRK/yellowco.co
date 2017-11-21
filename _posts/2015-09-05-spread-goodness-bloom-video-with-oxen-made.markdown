@@ -18,6 +18,6 @@ The girl in this video is headed to work, stops by the flower market to get some
 
 In filming this video, we actually did this. We handed out these flowers with the desire to bring a bit of joy to someone's day. We had a blast chatting with people, telling them who we are and why we're doing what we're doing. We got some really good responses.
 
-[![2015-08-23 17.45.24](https://s3.amazonaws.com/yellow-files/blog/2015/09/2015-08-23-17.45.24.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/2015-08-23-17.45.24.jpg)
+[![2015-08-23 17.45.24](https://yellow-blog-images.imgix.net/2015/09/2015-08-23-17.45.24.jpg)](https://yellow-blog-images.imgix.net/2015/09/2015-08-23-17.45.24.jpg)
 
 So ladies, this is our challenge to you. Whatever you have in your life. Be it a skill, a story, an item, use it to bring some light into this world. Spread joy, spread good. And bloom.

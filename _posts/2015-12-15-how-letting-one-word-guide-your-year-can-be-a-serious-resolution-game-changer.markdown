@@ -16,7 +16,7 @@ categories:
 redirect_from: "/resources/how-letting-one-word-guide-your-year-can-be-a-serious-resolution-game-changer/"
 ---
 
-## [![Yellow Co. Blog: what's the word, hummingbird? ](https://s3.amazonaws.com/yellow-files/blog/2015/11/She-x-Eclectic-0831-1024x683.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/She-x-Eclectic-0831-1024x683.jpg)The world bombards us with new self-improvement messages every single day, and, let's be honest...it's overwhelming...
+## [![Yellow Co. Blog: what's the word, hummingbird? ](https://yellow-blog-images.imgix.net/2015/11/She-x-Eclectic-0831-1024x683.jpg)](https://yellow-blog-images.imgix.net/2015/11/She-x-Eclectic-0831-1024x683.jpg)The world bombards us with new self-improvement messages every single day, and, let's be honest...it's overwhelming...
 
 _How to get the perfect spring break bod! How to make him want you! Be your own boss! You can make millions with this one simple trick! How to gain thousands of online followers in just a few clicks!_
 
@@ -25,8 +25,8 @@ _How to get the perfect spring break bod! How to make him want you! Be your own 
 Bucket lists, New Years resolutions, new planners guaranteed to keep you organized, new exercises classes with grand promises, new diet trends…  
 **We seem to be a culture obsessed with self-improvement.** _Am I right?!_
 
-[![Yellow Co. Blog: what's the word, hummingbird?](https://s3.amazonaws.com/yellow-files/blog/2015/11/She-x-Eclectic-0802.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/She-x-Eclectic-0802.jpg)[  
-](https://s3.amazonaws.com/yellow-files/blog/2015/12/She-x-Eclectic-0802-copy.jpg)I’ve made the lists (and loved them)...but I found something that has taken the lists and the goals and all of the big ideas and made it even more powerful and doable for me: **one word.**
+[![Yellow Co. Blog: what's the word, hummingbird?](https://yellow-blog-images.imgix.net/2015/11/She-x-Eclectic-0802.jpg)](https://yellow-blog-images.imgix.net/2015/11/She-x-Eclectic-0802.jpg)[  
+](https://yellow-blog-images.imgix.net/2015/12/She-x-Eclectic-0802-copy.jpg)I’ve made the lists (and loved them)...but I found something that has taken the lists and the goals and all of the big ideas and made it even more powerful and doable for me: **one word.**
 
 I first heard about this idea at [oneword365.com](http://oneword365.com/)—where people are choosing one word (usually inspired by all of their goals and hopes and resolutions) to focus on in the coming year.
 
@@ -47,7 +47,7 @@ _
 
 This year has been about _selah_—pausing and praising. It’s been a year of learning to keep my eyes wide open so I don’t miss out on what’s happening right in front of me. It’s been a year of choosing gratitude even in the midst of stressful workweeks or uncertain circumstances. It’s been a year of taking time to reflect, to give thanks, to appreciate, and to just be still. These words have been the backbone of my years, and the changes in my life that came as a result of my concentrated focus on them are so evident.
 
-[![What's the story, morning glory? How will you define 2016? ](https://s3.amazonaws.com/yellow-files/blog/2015/11/She-x-Eclectic-0834-1024x683.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/She-x-Eclectic-0834-1024x683.jpg)
+[![What's the story, morning glory? How will you define 2016? ](https://yellow-blog-images.imgix.net/2015/11/She-x-Eclectic-0834-1024x683.jpg)](https://yellow-blog-images.imgix.net/2015/11/She-x-Eclectic-0834-1024x683.jpg)
 
 ## **My challenge to you is to find your own word and to jump right into all that it means for you in this season of your life.**
 
@@ -61,4 +61,4 @@ Let’s be people that seek the good stuff, the rich stuff, the meaningful stuff
 
 _Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/)_
 
-[![Rachel Dawson](https://s3.amazonaws.com/yellow-files/blog/2015/05/Dawson.jpg)](http://www.racheladawson.com/)
+[![Rachel Dawson](https://yellow-blog-images.imgix.net/2015/05/Dawson.jpg)](http://www.racheladawson.com/)
