@@ -1,6 +1,5 @@
 ---
-title: "Work Hard, Trust Yourself, Seek the Help of Others, and Don't Give Up: How
-  I Turned My Passion Into a Career in Less Than a Year"
+title: "Work Hard, Trust Yourself, Seek the Help of Others, and Don't Give Up: Turning My Passion Into a Career in Less Than a Year"
 author: heygirl@yellowconference.com
 date: '2016-01-07 04:00:07 -0800'
 categories:
