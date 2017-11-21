@@ -8,7 +8,7 @@ categories:
 redirect_from: "/advice/websites-love/"
 ---
 
-[![UsefulLinks](https://s3.amazonaws.com/yellow-files/blog/2014/07/UsefulLinks.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/07/UsefulLinks.jpg)
+[![UsefulLinks](https://yellow-blog-images.imgix.net/2014/07/UsefulLinks.jpg)](https://yellow-blog-images.imgix.net/2014/07/UsefulLinks.jpg)
 
 Sometimes it seems as if the internet is a vast sea of everything and anything you could ever want. Which can equal overwhelming. We've gathered a list of some useful websites for creative ladies like you that you might find useful. Anything from entrepreneurial business advice to a visually stunning Tumblr.
 

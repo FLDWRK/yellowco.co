@@ -12,7 +12,7 @@ categories:
 redirect_from: "/light-talk/creativeadvocacyselfcare/"
 ---
 
-[![Yellow Conference Blog: Self Care is not Selfish](https://s3.amazonaws.com/yellow-files/blog/2015/09/Untitled-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/Untitled-1.jpg)
+[![Yellow Conference Blog: Self Care is not Selfish](https://yellow-blog-images.imgix.net/2015/09/Untitled-1.jpg)](https://yellow-blog-images.imgix.net/2015/09/Untitled-1.jpg)
 
 A few days ago, I sat in Los Angeles traffic behind a Subaru with a license plate frame that read, _“If I knew the way, I would take you home.” _Having just been at work at a service provider for homeless women in LA’s Skid Row, I had that line from The Grateful Dead’s song stuck in my head for the rest of my drive.
 
@@ -36,7 +36,7 @@ I wish someone had told me that self-care is first and foremost learning to live
 
 Self-care can be difficult to talk about, especially among the activist community, because we’re all pretty prone to “I got this” syndrome. So let’s break self-care down into a few, equally important categories...
 
-[![Yellow Conference Blog: Self Care is not Selfish](https://s3.amazonaws.com/yellow-files/blog/2015/09/DSC_03451.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/DSC_03451.jpg)
+[![Yellow Conference Blog: Self Care is not Selfish](https://yellow-blog-images.imgix.net/2015/09/DSC_03451.jpg)](https://yellow-blog-images.imgix.net/2015/09/DSC_03451.jpg)
 
 ###### **For the body:**
 
@@ -88,4 +88,4 @@ Actress-Model [Felicia Miracle Cipolla ](feliciamiraclecipolla.com)
 
 <div class="gmail_default">Twitter: @feliciamiracle</div>
 
-[![Samantha Chaffin for Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/09/Samantha-Chaffin.jpg)](https://herinklings.wordpress.com/)
+[![Samantha Chaffin for Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/09/Samantha-Chaffin.jpg)](https://herinklings.wordpress.com/)

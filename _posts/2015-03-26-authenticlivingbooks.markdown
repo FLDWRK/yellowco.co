@@ -8,13 +8,13 @@ categories:
 redirect_from: "/light-talk/authenticlivingbooks/"
 ---
 
-[![Screenshot-2015-03-09-21.55.07](https://s3.amazonaws.com/yellow-files/blog/2015/03/Screenshot-2015-03-09-21.55.07.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/Screenshot-2015-03-09-21.55.07.jpg)
+[![Screenshot-2015-03-09-21.55.07](https://yellow-blog-images.imgix.net/2015/03/Screenshot-2015-03-09-21.55.07.jpg)](https://yellow-blog-images.imgix.net/2015/03/Screenshot-2015-03-09-21.55.07.jpg)
 
 We crave authenticity in every area of our lives. We see the necessity of bringing it into our inner dialogue, our relationships, our online presence, and our work. However, cultivating an authentic life is much easier said than done. Our fears and insecurities get in the way and quickly pull us back into our shell. We compare ourselves to others and are not so eager to put our honest faces on. The pressures we feel from life weigh heavy on us and we are so tempted to place our masks back over our eyes and pretend to be someone we’re not.
 
 This is why it is helpful to look to people who have been there before. We seek the insight of those who have worn many masks themselves and have found that their guises leave them unsatisfied. Here are five books that just might help us continue to learn how to be real with ourselves and each other. These five books carry common themes, yet are generally focused on a certain area of life. All of these authors have asked the difficult questions about living authentically, and graciously give us practical guidance for how to be who we really are.
 
-[![FIVE BOOKS TO IGNITE AUTHENTIC LIVING YELLOW CONFERENCE](https://s3.amazonaws.com/yellow-files/blog/2015/03/7645143992_1bd04fb20c_b-copy.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/7645143992_1bd04fb20c_b-copy.jpg)
+[![FIVE BOOKS TO IGNITE AUTHENTIC LIVING YELLOW CONFERENCE](https://yellow-blog-images.imgix.net/2015/03/7645143992_1bd04fb20c_b-copy.jpg)](https://yellow-blog-images.imgix.net/2015/03/7645143992_1bd04fb20c_b-copy.jpg)
 
 **1\. Being authentic with yourself**: [_The Gifts of Imperfection_ by Brene Brown](http://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace/dp/159285849X/ref=sr_1_1?ie=UTF8&qid=1425369941&sr=8-1&keywords=the+gift+of+imperfection+by+brene+brown)
 
@@ -43,4 +43,4 @@ So, read away, my friends! And don’t forget to join in the conversation by com
 
 _Photos by [Mariam Sitchinava](https://www.flickr.com/photos/mariamsitchinava/)_
 
-[![adriscoll bio](https://s3.amazonaws.com/yellow-files/blog/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)
+[![adriscoll bio](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

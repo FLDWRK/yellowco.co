@@ -17,7 +17,7 @@ Sometimes the greatest changes come from the small moments: putting pen to paper
 
 There are so many ways you can get involved in a way that works for you. One of my favorite examples is the women of [Threads Worldwide](https://threadsworldwide.com/), who make the world a little fairer from within their own homes. I first connected with [Threads Worldwide](https://threadsworldwide.com/) in the early days of writing about conscious consumerism, and we’ve remained firm friends ever since as [my little corner of the internet](http://ethicalunicorn.com/) has grown, alongside my own understanding. At a time when I was very much a newbie exploring the world of ethical living, it was encouraging to meet likeminded women who understand how the economy, everyday choices, and the environment are all inherently involved in the global nature of social justice.
 
-![DOING WHAT YOU CAN, WHERE YOU ARE CAN CHANGE THE WORLD - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/BeBangles-Summer2016-030.jpg)
+![DOING WHAT YOU CAN, WHERE YOU ARE CAN CHANGE THE WORLD - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/BeBangles-Summer2016-030.jpg)
 
 Threads Worldwide is a female run company dedicated to empowering women across the world. They partner with female artisans to provide a market for their fair trade, consciously created accessories, as well as help other women harness their power to make a difference through business. These women, no matter who they are, can host showcases to introduce the artisan items to their local communities - building their own businesses, advancing fair trade, and using their skills to empower others.
 
@@ -29,7 +29,7 @@ When a woman is empowered she doesn’t feel helpless. Instead, she can confiden
 
 These are their small moments, they will add up to create impact. The longer I continue to try to live and write about a lifestyle that prioritizes sustainability and social justice, the more I find this to be true. I am only able to explore this kind of life through a multitude of small actions that start to add up, which then enable me to make bigger changes as time passes.
 
-![DOING WHAT YOU CAN, WHERE YOU ARE CAN CHANGE THE WORLD - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/BeBangles-Summer2016-029.jpg)
+![DOING WHAT YOU CAN, WHERE YOU ARE CAN CHANGE THE WORLD - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/BeBangles-Summer2016-029.jpg)
 
 ### **I stopped feeling powerless and paralyzed by the problems when I started moving at a pace that was achievable.**
 
@@ -41,4 +41,4 @@ There will always be global shifts that we can’t control and things in life th
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![FRANCESCA WILLOW BIO](https://s3.amazonaws.com/yellow-files/blog/2017/09/FRANCESCA-WILLOW-BIO.jpg)](http://ethicalunicorn.com/)
+[![FRANCESCA WILLOW BIO](https://yellow-blog-images.imgix.net/2017/09/FRANCESCA-WILLOW-BIO.jpg)](http://ethicalunicorn.com/)

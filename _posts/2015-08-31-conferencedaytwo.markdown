@@ -93,4 +93,4 @@ Don’t be surprised if these next couple of months I refer to this sweet little
 
 Sorry not sorry.
 
-[![ARIELLE ESTORIA FOR YELLOW](https://s3.amazonaws.com/yellow-files/blog/2015/08/ARIELLEESTORIA.jpg)](http://chroniclesofalioness.com/2015/08/31/and-scene-final-reflection-of-my-yellow-conference-experience/)
+[![ARIELLE ESTORIA FOR YELLOW](https://yellow-blog-images.imgix.net/2015/08/ARIELLEESTORIA.jpg)](http://chroniclesofalioness.com/2015/08/31/and-scene-final-reflection-of-my-yellow-conference-experience/)

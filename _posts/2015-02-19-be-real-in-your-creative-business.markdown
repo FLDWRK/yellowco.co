@@ -10,7 +10,7 @@ categories:
 redirect_from: "/creative-ladies/be-real-in-your-creative-business/"
 ---
 
-![IMG_0539](https://s3.amazonaws.com/yellow-files/blog/2015/02/IMG_0539.jpg)
+![IMG_0539](https://yellow-blog-images.imgix.net/2015/02/IMG_0539.jpg)
 
 At the core of each of us, we want to be understood. We all want to feel connected, appreciated & accepted for exactly who we are.
 
@@ -32,10 +32,10 @@ Telling a client I couldn't get something done last minute used to spin me into 
 
 You are the expert in your field but that doesn't mean you’re exempt from making mistakes (oh how I wish I would've said this to myself earlier!). It's what you do with each mistake that makes all the difference. I recently worked on a client’s website where I billed her for one part of the project that had already been finalized & approved before I was part of it. When she asked about this fee, I dug into some old emails to discover I overlooked the original files she mentioned when we began working together. Oops, my mistake! I apologized & ate some of the cost for the mishap & wrapped it up as a good learning experience; lesson learned: read client emails thoroughly. Of course, I’ll make more mistakes. People are usually understanding that these things happen from time to time.
 
-[![kiana2](https://s3.amazonaws.com/yellow-files/blog/2015/02/kiana2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/02/kiana2.jpg)
+[![kiana2](https://yellow-blog-images.imgix.net/2015/02/kiana2.jpg)](https://yellow-blog-images.imgix.net/2015/02/kiana2.jpg)
 
 Being real will lead you in to some murky waters. I can’t candy-coat this fact. Instead of fearing these depths, face them. They’re not trying to hurt you. They’re testing your authenticity. I’m in those waters every day trying to steer my ship and I have a feeling you are too. The beautiful thing is, we’re all in this together.
 
 _Photos by [Whitney Darling Photography](http://whitneydarling.com/)_
 
-[![EWatzbio](https://s3.amazonaws.com/yellow-files/blog/2015/01/EWatzbio.jpg)](http://bravegirlspirit.com/)
+[![EWatzbio](https://yellow-blog-images.imgix.net/2015/01/EWatzbio.jpg)](http://bravegirlspirit.com/)

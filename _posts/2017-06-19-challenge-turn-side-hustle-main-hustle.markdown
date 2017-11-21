@@ -39,7 +39,7 @@ A Michigan native and life-long resident of the Mitten State, Danielle wanted to
 
 While business is clearly booming, Danielle told us why she started MI ICE POPS: “I wanted to connect with my community one on one and have fun while doing it...Who knows what will happen? Stay tuned!” We certainly plan on it!
 
-[![](https://s3.amazonaws.com/yellow-files/blog/2017/06/MI-POPS-LOGO.png)](https://s3.amazonaws.com/yellow-files/blog/2017/06/MI-POPS-LOGO.png)
+[![](https://yellow-blog-images.imgix.net/2017/06/MI-POPS-LOGO.png)](https://yellow-blog-images.imgix.net/2017/06/MI-POPS-LOGO.png)
 
 </div>
 
@@ -78,7 +78,7 @@ of lady entrepreneurs taking crazy chances to grow their own businesses. And it 
 
 A: I can’t believe how many opportunities have already opened up. I have a seasonal business that means that I work crazy hours: on the weekend, in the summer, at events that everyone is having fun at... Since I have given notice, I have been asked to be a vendor at a major music festival, found multiple incredible employees and had time to really boost my profile in my local community. By having more time I have been able to attend networking events, business classes at my local Small Business Association and connect with really great people. I can’t believe how well it’s working out. I know many business owners that told me that although scary, leaving my career would open up the possibilities for my business. I never thought it would have worked so quickly.
 
-[![](https://s3.amazonaws.com/yellow-files/blog/2017/06/Screenshot-2017-06-19-11.00.05.png)](https://s3.amazonaws.com/yellow-files/blog/2017/06/Screenshot-2017-06-19-11.00.05.png)
+[![](https://yellow-blog-images.imgix.net/2017/06/Screenshot-2017-06-19-11.00.05.png)](https://yellow-blog-images.imgix.net/2017/06/Screenshot-2017-06-19-11.00.05.png)
 
 </div>
 
@@ -111,7 +111,7 @@ If you'd like to join us as a [Yellow Collective](http://yellowcollective.co/) m
 
 ### [CLICK HERE TO BECOME A MEMBER](https://yellowco.myshopify.com/collections/the-yellow-collective)
 
-[![RACHEL NEAL BIO](https://s3.amazonaws.com/yellow-files/blog/2017/05/RACHEL-NEAL-BIO.jpg)](https://www.instagram.com/rachelhneal/)</div>
+[![RACHEL NEAL BIO](https://yellow-blog-images.imgix.net/2017/05/RACHEL-NEAL-BIO.jpg)](https://www.instagram.com/rachelhneal/)</div>
 
 </div>
 

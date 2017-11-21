@@ -16,7 +16,7 @@ You might argue that if you are dissatisfied with your body and your diet, that 
 
 Often, how we feel about our bodies and food choices relates to shame. Shame resilience requires empathy; and if we desire to connect, we must decrease shame and amplify empathy. This starts with our relationship to ourselves. If we are busy indulging in negative self-talk and building up our inner critic, we will be hard-pressed to be able to be present and full of grace for those around us. Instead, we allow fear and insecurity to further push us apart. Brené also says, “Shame often prevents us from presenting our real selves to the people around us — it sabotages our efforts to be authentic.”
 
-![12 RESOURCES ON INTUITIVE EATING + HAVING A HEALTHY RELATIONSHIP WITH YOUR BODY - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/3I5A1662.jpg)
+![12 RESOURCES ON INTUITIVE EATING + HAVING A HEALTHY RELATIONSHIP WITH YOUR BODY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/3I5A1662.jpg)
 
 The way we eat directly reflects our ability to relate with others. As Dr. Steven Bratman states, _“Diet is an ambiguous and powerful tool, too unclear and emotionally charged for comfort, too powerful to be ignored.”_ This concept is challenging to express, but Dr. Bratman sums it up well:
 
@@ -32,7 +32,7 @@ For me, self-imposed rigidity that robs us of joy and connection is not how I wa
 
 When I am able to be completely in my body, have minimal negative self-talk, and sync my dietary choices with my core values, I am able to not only connect with others, but to contribute to the world. This continues to provide a motivation larger than myself and my external appearance.  When we subscribe to the belief that there is a limited scope for an acceptable body type, shape, or way of eating, we cease to appreciate and uplift our differences, and further create division in our world.
 
-![12 RESOURCES ON INTUITIVE EATING + HAVING A HEALTHY RELATIONSHIP WITH YOUR BODY - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/3I5A1339.jpg)
+![12 RESOURCES ON INTUITIVE EATING + HAVING A HEALTHY RELATIONSHIP WITH YOUR BODY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/3I5A1339.jpg)
 
 To dive into figuring out how you can improve your relationship with your body and with your food, I would highly recommend starting with these resources:
 
@@ -64,7 +64,7 @@ This website is geared toward those who are recovering from an eating disorder a
 
 Unsure if you have a disordered relationship with food? Complete the quick screening on the National Eating Disorder Association’s website.
 
-![12 RESOURCES ON INTUITIVE EATING + HAVING A HEALTHY RELATIONSHIP WITH YOUR BODY - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/3I5A1563.jpg)
+![12 RESOURCES ON INTUITIVE EATING + HAVING A HEALTHY RELATIONSHIP WITH YOUR BODY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/3I5A1563.jpg)
 
 ### **Podcasts**
 
@@ -98,4 +98,4 @@ Written from the experience of an author in a larger body who has been on many d
 
 _Photos by: [Amy Hulst](https://www.instagram.com/amyhulstforpresident/)_
 
-[![LAUREN CASH BIO](https://s3.amazonaws.com/yellow-files/blog/2016/03/LAUREN-CASH-BIO.jpg)](https://laurencashrdn.com/)
+[![LAUREN CASH BIO](https://yellow-blog-images.imgix.net/2016/03/LAUREN-CASH-BIO.jpg)](https://laurencashrdn.com/)

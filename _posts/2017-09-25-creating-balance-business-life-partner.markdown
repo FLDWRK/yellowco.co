@@ -15,7 +15,7 @@ You do not have to have specific lines drawn of “this is where we talk/do busi
 
 Just like everything else with your life partner, you have to learn to communicate your needs. For example: money stresses me out, but my husband is always working to make sure our finances are in order. He’ll be going through spreadsheets or wanting to make spending plans, and sometimes I have to ask him to table the conversation. If it’s either too late in the evening to where I’ll lose sleep stressing about it, or I’m too deep in an edit to focus on anything bigger picture, it is best for me to put it off. Instead, we’ll schedule a “business meeting” where we mutually agree to reserve time to just talk through business, ideas, etc.
 
-![CREATING BALANCE WHEN YOUR BUSINESS PARTNER IS ALSO YOUR LIFE PARTNER - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/KelsieMcNair-108.jpg)
+![CREATING BALANCE WHEN YOUR BUSINESS PARTNER IS ALSO YOUR LIFE PARTNER - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/KelsieMcNair-108.jpg)
 
 Just like when you need help around the house, or need to talk through something you can’t get out of your head, ask for what you need from your partner for work. In turn, make sure you’re open and receptive to their needs as well. Sometimes, it's okay to put a “no work” rule on whatever we’re doing to remind ourselves that we’re more than business partners – even if we’re just watching tv or eating a meal together. When we take vacations, we make it very clear if one of us has an expectation of non-working time (not even e-mail/social media), or if we’re planning on sprinkling in productive time as well.
 
@@ -23,7 +23,7 @@ Just like when you need help around the house, or need to talk through something
 
 In addition, spend some time apart every once in awhile. If you’re running a business, you’re probably spending your days, nights, and weekends together. As important as it is to have “couple friends”, make sure you each have your own group as well. My husband has a standing poker night with his friends on Fridays, and I will use that time to fill up my introverted energy and relax at home. Then at some point during the weeknights or weekends, I meet up with friends for coffee, brunch, etc. This practice was suggested by our pre-marital counselor (before we were even thinking about running a business) for the sake of maintaining our individual identities in the context of marriage, and to keep any resentment or co-dependence at bay.
 
-![CREATING BALANCE WHEN YOUR BUSINESS PARTNER IS ALSO YOUR LIFE PARTNER - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/KelsieMcNair-088.jpg)
+![CREATING BALANCE WHEN YOUR BUSINESS PARTNER IS ALSO YOUR LIFE PARTNER - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/KelsieMcNair-088.jpg)
 
 When working and doing life together, it’s even more essential to get out of your own bubble. You will be more ready and willing to put in the hours needed together if you’ve had time outside of your four walls. Some new scenery and human engagement can truly re-inspire and re-energize you. No matter how much you love hanging out with each other, make an intentional effort to invest in your outside life as well. Your partner, your marriage, and your business will thrive by taking time for a healthy, differentiated relationship. Mostly, I just want to encourage you to own it and have fun.
 
@@ -33,4 +33,4 @@ It’s about creating a life that feels right to you, regardless of if it sounds
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![JESSICA WHALEN BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/JESSICA-WHALEN-BIO.jpg)](http://www.truebadours.com/)
+[![JESSICA WHALEN BIO](https://yellow-blog-images.imgix.net/2017/04/JESSICA-WHALEN-BIO.jpg)](http://www.truebadours.com/)

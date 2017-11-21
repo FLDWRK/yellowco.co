@@ -19,7 +19,7 @@ It was Wednesday night. Or technically, very early Thursday morning. In my neigh
 
 So on Wednesday nights I usually have a few options: park in the next neighborhood over and walk the half mile to my building, park on the street and get up at dawn to move my car, or leave my car on the street and risk a $73 ticket… whether or not the truck actually comes by.
 
-![HOW A PARKING TICKET SHIFTED MY PERSPECTIVE ON THE VALUE OF ENERGY - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/040917_American-Weekend_Eileen-Roche_1564-Edit.jpg)
+![HOW A PARKING TICKET SHIFTED MY PERSPECTIVE ON THE VALUE OF ENERGY - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/040917_American-Weekend_Eileen-Roche_1564-Edit.jpg)
 
 It was past midnight, I was exhausted, and I didn’t have the energy to walk the length to my building. But the thought of risking a ticket instantly prompted some bank account guilt.
 
@@ -35,7 +35,7 @@ _“Who do you think you are?”_ my inner critic answered. _“Do you think mon
 
 _“Actually, it’s paper, so yeah, but that’s not the point,”_ I replied. _“The point is that money is energy like anything else, and I get to decide which, and how much, energetic currencies I spend at a given time. I am in charge of that choice.”_
 
-![HOW A PARKING TICKET SHIFTED MY PERSPECTIVE ON THE VALUE OF ENERGY - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/040917_American-Weekend_Eileen-Roche_1602.jpg)
+![HOW A PARKING TICKET SHIFTED MY PERSPECTIVE ON THE VALUE OF ENERGY - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/040917_American-Weekend_Eileen-Roche_1602.jpg)
 
 I pulled the brake handle and headed into my building. Bring it on, Los Angeles Parking Enforcement!
 
@@ -51,4 +51,4 @@ The entire experience left me with a more empowered understanding about my own v
 
 _Photos by: [Eileen Roche](http://eileen-roche.com/)_
 
-[![AMY EVERHART BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/AMY-EVERHART-BIO.jpg)](http://www.amyeverhartcoaching.com/)
+[![AMY EVERHART BIO](https://yellow-blog-images.imgix.net/2017/04/AMY-EVERHART-BIO.jpg)](http://www.amyeverhartcoaching.com/)

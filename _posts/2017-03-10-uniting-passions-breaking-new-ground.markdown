@@ -21,7 +21,7 @@ It was on my first trip to West Africa in 2013 that I realized this wedding ind
 
 I became overwhelmed with reverse culture shock, and shortly after that episode, I told my husband I no longer wanted to be supported by an industry that has all the money in the world to impact thousands, but chooses to selfishly use it all for the ‘finer things’ in life. He quickly reminded me that our business fed our children and we needed weddings to survive - a good point. So, I took a step back and reflected, realizing that I had a problem, and needed a solution. Instead of dwelling on what I thought was _wrong_ with the wedding industry, I began a journey of discovering what was _right_ with it.
 
-### ![UNITING PASSIONS AND BREAKING NEW GROUND ALONG THE WAY](https://s3.amazonaws.com/yellow-files/blog/2017/03/MG_1433.jpg "UNITING PASSIONS AND BREAKING NEW GROUND ALONG THE WAY")
+### ![UNITING PASSIONS AND BREAKING NEW GROUND ALONG THE WAY](https://yellow-blog-images.imgix.net/2017/03/MG_1433.jpg "UNITING PASSIONS AND BREAKING NEW GROUND ALONG THE WAY")
 
 ### **It was during this time that I recognized the only way to accomplish my goal was to build a bridge between my passions: weddings and humanitarianism.**
 
@@ -37,4 +37,4 @@ So, that leads me to ask you... What are you passionate about? **What are you s
 
 _Photos by [Karen Hernandez](http://karenmarieco.com/)_
 
-[![Danielle Calhoun Bio](https://s3.amazonaws.com/yellow-files/blog/2017/03/Danielle-Calhoun-Bio.jpg)](http://www.blacksheepbride.com)
+[![Danielle Calhoun Bio](https://yellow-blog-images.imgix.net/2017/03/Danielle-Calhoun-Bio.jpg)](http://www.blacksheepbride.com)

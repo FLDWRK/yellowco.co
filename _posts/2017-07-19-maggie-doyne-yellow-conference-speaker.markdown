@@ -17,7 +17,7 @@ One day as I was walking along a dry river bed that I frequently passed, a littl
 
 So I enrolled more kids in school. I later decided to tackle the issue of orphan care and created a children’s home. I used $5,000 of my babysitting money to buy a home for orphaned and abandoned children, and we named it the Kopila Valley Children’s Home. It was just the beginning. Two years later, we opened the Kopila Valley School to educate children in the Surkhet region of Nepal. The BlinkNow Foundation was established shortly after to provide financial support to both the school and home. It’s amazing how far we’ve come, and to think it all started with my desire to help just one child.
 
-![MEET MAGGIE DOYNE: A 2017 YELLOW CONFERENCE SPEAKER](https://s3.amazonaws.com/yellow-files/blog/2017/07/DSC00553-Version-2.jpg)
+![MEET MAGGIE DOYNE: A 2017 YELLOW CONFERENCE SPEAKER](https://yellow-blog-images.imgix.net/2017/07/DSC00553-Version-2.jpg)
 
 #### What times of transition in your life have proved most important to get you where you are now?
 
@@ -31,7 +31,7 @@ I don’t think anyone, including myself, could have seen that direction coming,
 
 MD: The path and journey have changed a over time. I started by thinking I would take in just five or six kids to the home. Now we have 50! We have also expanded our programs and our team tremendously. We’ve launched a women’s center, a school ranging from preschool to high school, a counseling center, and a sustainable farm. It all began with just me and my co-founder, but now we have over 150 people on our team in both Nepal and around the world.
 
-![MEET MAGGIE DOYNE: A 2017 YELLOW CONFERENCE SPEAKER](https://s3.amazonaws.com/yellow-files/blog/2017/07/DSC00461-Version-2.jpg)
+![MEET MAGGIE DOYNE: A 2017 YELLOW CONFERENCE SPEAKER](https://yellow-blog-images.imgix.net/2017/07/DSC00461-Version-2.jpg)
 
 #### What has been your greatest struggle as a founder and CEO?
 
@@ -49,4 +49,4 @@ That being said, I try to take deep breaths and create moments to reflect throug
 
 _Photos provided by [BlinkNow](http://www.blinknow.org/)_
 
-[![Hanna Snyder Bio](https://s3.amazonaws.com/yellow-files/blog/2017/04/HANNA-BIO.jpg)](http://www.hannasnyder.com)
+[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/04/HANNA-BIO.jpg)](http://www.hannasnyder.com)

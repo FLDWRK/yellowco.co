@@ -30,7 +30,7 @@ That’s right - Google Analytics will tell you exactly how many visits you are 
 
 ### **_This type of information can influence where you spend your time, money, and creative expression._**
 
-### ![WHY LEARNING YOUR WEBSITE ANALYTICS EXPANDS CREATIVITY - THE YELLOW ROOM ](https://s3.amazonaws.com/yellow-files/blog/2017/02/ValerieDenisePhotos-24-2.jpg)
+### ![WHY LEARNING YOUR WEBSITE ANALYTICS EXPANDS CREATIVITY - THE YELLOW ROOM ](https://yellow-blog-images.imgix.net/2017/02/ValerieDenisePhotos-24-2.jpg)
 
 So, instead of wasting that precious creative energy obsessing about whether to spend more time on your emails or Instagram, just ask your analytics! _And then_ go back and create more amazing content to focus on in that marketing area.  
 
@@ -50,4 +50,4 @@ Trust me, and set a date to start getting to know your data. Even if it’s five
 
 _Photos by [Valerie Denise Photography](http://www.valeriedenisephotos.com/)_
 
-[![Cinthia Pacheco Bio](https://s3.amazonaws.com/yellow-files/blog/2017/02/Cinthia-Pacheco-Bio.jpg "Cinthia Pacheco Bio")](http://www.digimorphs.com/)
+[![Cinthia Pacheco Bio](https://yellow-blog-images.imgix.net/2017/02/Cinthia-Pacheco-Bio.jpg "Cinthia Pacheco Bio")](http://www.digimorphs.com/)

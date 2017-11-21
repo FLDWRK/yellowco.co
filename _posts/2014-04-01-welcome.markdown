@@ -7,7 +7,7 @@ categories:
 redirect_from: "/light-talk/welcome/"
 ---
 
-[![Blog_2](https://s3.amazonaws.com/yellow-files/blog/2014/04/Blog_21.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/04/Blog_21.jpg)
+[![Blog_2](https://yellow-blog-images.imgix.net/2014/04/Blog_21.jpg)](https://yellow-blog-images.imgix.net/2014/04/Blog_21.jpg)
 
 Hello dear.
 

@@ -8,7 +8,7 @@ categories:
 redirect_from: "/resources/4-ways-to-help-us-fund-this-kickstarter/"
 ---
 
-[![#Bloomtogether_April20-24](https://s3.amazonaws.com/yellow-files/blog/2015/04/Bloomtogether_April20-24.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/Bloomtogether_April20-24.jpg)
+[![#Bloomtogether_April20-24](https://yellow-blog-images.imgix.net/2015/04/Bloomtogether_April20-24.jpg)](https://yellow-blog-images.imgix.net/2015/04/Bloomtogether_April20-24.jpg)
 
 Happy Monday friends! We are less than half way through with this Kickstarter and just over 20% funded. The way Kickstarter works is that if you don't raise ALL the money, you don't get ANY of the money. Sooo we need your help to make this happen! Here are a few ways to join us:
 

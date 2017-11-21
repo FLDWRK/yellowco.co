@@ -11,7 +11,7 @@ categories:
 redirect_from: "/creative-ladies/three-necessary-mindsets-to-live-out-your-purpose/"
 ---
 
-[![Yellow Conference Blog: Empowering Creative Women to Spread Good and Bloom](https://s3.amazonaws.com/yellow-files/blog/2015/11/mscollection-94.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/mscollection-94.jpg)
+[![Yellow Conference Blog: Empowering Creative Women to Spread Good and Bloom](https://yellow-blog-images.imgix.net/2015/11/mscollection-94.jpg)](https://yellow-blog-images.imgix.net/2015/11/mscollection-94.jpg)
 
 ##### I’ve always felt a little on the outside. Maybe you could relate.
 
@@ -29,7 +29,7 @@ You see, I came to my profession as a videographer through strange means. I rand
 
 ###### And somewhere between “hustle hard” and “great artists borrow” I lost _it_.
 
-My skills grew, my business grew, but I lost my message. I started this journey because I realized that I could be a storyteller. A voice that cuts through negativity and bad news and says “yes, but this couple just vowed to love each other forever! Let’s celebrate their love and remember our own!” or “this person is creating beautiful music! Let’s stop and let it fill us up!” Instead, I was just making pretty things by everyone else’s’ standards, and that fell flat. So, much like with figuring out other beliefs, there was only one place to turn: inside.[![The Yellow Co. Blog: empowering creative women to spread good and bloom](https://s3.amazonaws.com/yellow-files/blog/2015/11/mscollection-95.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/mscollection-95.jpg)  
+My skills grew, my business grew, but I lost my message. I started this journey because I realized that I could be a storyteller. A voice that cuts through negativity and bad news and says “yes, but this couple just vowed to love each other forever! Let’s celebrate their love and remember our own!” or “this person is creating beautiful music! Let’s stop and let it fill us up!” Instead, I was just making pretty things by everyone else’s’ standards, and that fell flat. So, much like with figuring out other beliefs, there was only one place to turn: inside.[![The Yellow Co. Blog: empowering creative women to spread good and bloom](https://yellow-blog-images.imgix.net/2015/11/mscollection-95.jpg)](https://yellow-blog-images.imgix.net/2015/11/mscollection-95.jpg)  
 I know it’s cliché, but you really do have to put that oxygen mask on yourself first before you can look to see how you can serve those around you. What I had done was basically work the air out of myself, and it was time to begin to breathe deeply again.
 
 ##### **So here are my tips for how to breathe as a creative looking to leave something significant in the world:**
@@ -62,4 +62,4 @@ We’ve got some incredibly beautiful marks to leave on this world, and it can�
 
 _Photos by [Karen Marie Hernandez](http://karenmariehernandez.com/)_
 
-[![Yellow Co. Blog](https://s3.amazonaws.com/yellow-files/blog/2015/11/jessicaWHALEN.jpg)](http://www.truebadours.com/)
+[![Yellow Co. Blog](https://yellow-blog-images.imgix.net/2015/11/jessicaWHALEN.jpg)](http://www.truebadours.com/)

@@ -17,7 +17,7 @@ I can’t pinpoint precisely what allowed my successful pregnancy in 2009\. I ca
 
 ### **It is ultimately our responsibility to protect our own health.**
 
-### ![WHY BEAUTY IS FOUND IN HEALTHY LIVING - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/04/ValerieDenisePhotos-39.jpg "WHY BEAUTY IS FOUND IN HEALTHY LIVING - THE YELLOW ROOM")
+### ![WHY BEAUTY IS FOUND IN HEALTHY LIVING - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/04/ValerieDenisePhotos-39.jpg "WHY BEAUTY IS FOUND IN HEALTHY LIVING - THE YELLOW ROOM")
 
 After decades of research, I can condense my knowledge about healthy beauty into five key learnings. Hopefully, they will help you in your search for healthy living too.   
 
@@ -39,4 +39,4 @@ If this post has you itching to do a beauty cabinet detox, I designed this [Ingr
 
 _Photos by: [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![JEANNIE JARNOT BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/Jeannie-Jarnot-BIO.jpg "JEANNIE JARNOT BIO")](https://www.beauty-heroes.com/)
+[![JEANNIE JARNOT BIO](https://yellow-blog-images.imgix.net/2017/04/Jeannie-Jarnot-BIO.jpg "JEANNIE JARNOT BIO")](https://www.beauty-heroes.com/)

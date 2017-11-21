@@ -9,7 +9,7 @@ categories:
 redirect_from: "/advice/jealousyandtribe/"
 ---
 
-[![photo-1421906284732-6d9421e37a99](https://s3.amazonaws.com/yellow-files/blog/2015/05/photo-1421906284732-6d9421e37a99.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/photo-1421906284732-6d9421e37a99.jpg)Let’s get one thing straight: _they don’t call it the green-eyed monster for nothing._ Jealousy is definitely a monster that has the power to rip your happiness to shreds with her long, un-filed nails and burn your productivity to a pile of ashes with her nasty fire-breath. And it’s one thing when you feel jealous of a celebrity or some random person on Instagram... But when you are experiencing envy of another member of your tribe, it’s a whole different ballgame. That monster just takes a seat right on your little shoulder, props up her feet like she owns the place, and whispers torturous things in your ear all day, distracting you from your purpose and trying to transform you into a monster yourself.
+[![photo-1421906284732-6d9421e37a99](https://yellow-blog-images.imgix.net/2015/05/photo-1421906284732-6d9421e37a99.jpg)](https://yellow-blog-images.imgix.net/2015/05/photo-1421906284732-6d9421e37a99.jpg)Let’s get one thing straight: _they don’t call it the green-eyed monster for nothing._ Jealousy is definitely a monster that has the power to rip your happiness to shreds with her long, un-filed nails and burn your productivity to a pile of ashes with her nasty fire-breath. And it’s one thing when you feel jealous of a celebrity or some random person on Instagram... But when you are experiencing envy of another member of your tribe, it’s a whole different ballgame. That monster just takes a seat right on your little shoulder, props up her feet like she owns the place, and whispers torturous things in your ear all day, distracting you from your purpose and trying to transform you into a monster yourself.
 
 When it comes to some things (like this), giving "Five Steps to Combat Jealousy" might not seem all that helpful. The roots of envy most often grow deeper than we’d like to acknowledge and for this reason, these feelings are likely not going to change or disappear overnight or by following five simple steps. However, hopefully these five things will be a good place for us to start. What can make these feelings worse is when you feel like you have no control over them. So try and consciously implement these things into your life by taking baby steps and be patient with yourself in the process.
 
@@ -36,7 +36,7 @@ Take your eyes off of everyone else for a while and concentrate your efforts on 
 STOP. WAIT HERE. Don’t skim anymore. If you don't read anything else in this article, read this:  
 I believe that the most powerful tool we have in combatting jealousy of those close to us is our ability to celebrate _who we are_. If you know your own worth, the likelihood of being able to celebrate the members of your lady-tribe instead of feeling envy and bitterness towards them increases twentyfold.
 
-[![photo-1416838323145-1ef7c72c4e22](https://s3.amazonaws.com/yellow-files/blog/2015/05/photo-1416838323145-1ef7c72c4e22.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/photo-1416838323145-1ef7c72c4e22.jpg)Hear me: You are so valuable. You are worthy of love and recognition. You are a human being and are made miraculously (pay attention to the word miracle there).
+[![photo-1416838323145-1ef7c72c4e22](https://yellow-blog-images.imgix.net/2015/05/photo-1416838323145-1ef7c72c4e22.jpg)](https://yellow-blog-images.imgix.net/2015/05/photo-1416838323145-1ef7c72c4e22.jpg)Hear me: You are so valuable. You are worthy of love and recognition. You are a human being and are made miraculously (pay attention to the word miracle there).
 
 Please celebrate that! Accept and embrace **_who you are._ **I know it sounds cliche, but it’s true! As the one and only Dr. Seuss says, _“Today you are you, that is truer than true. There is no one alive who is youer than you!”_
 
@@ -46,4 +46,4 @@ Unfortunately, jealousy happens to all of us. It’s not something that we can g
 
 _Photos by [Chelsea Francis](https://unsplash.com/ohhhchelsea)_
 
-[![adriscoll bio](https://s3.amazonaws.com/yellow-files/blog/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)
+[![adriscoll bio](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

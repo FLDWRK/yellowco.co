@@ -10,9 +10,9 @@ redirect_from: "/advice/finding-your-one-thing-in-a-sea-of-possibilites/"
 ---
 
 If you have a phone, have ever scrolled through Instagram, and are anything like me in the slightest, you've experienced FOMO. FOMO (for those who don't know) FOMO stands for: _Fear Of Missing Out._[  
-](https://s3.amazonaws.com/yellow-files/blog/2016/07/Screenshot-2016-07-06-21.43.33.png)
+](https://yellow-blog-images.imgix.net/2016/07/Screenshot-2016-07-06-21.43.33.png)
 
-[![Find-your-ONE-THING](https://s3.amazonaws.com/yellow-files/blog/2016/07/Find-your-ONE-THING1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/Find-your-ONE-THING1.jpg)
+[![Find-your-ONE-THING](https://yellow-blog-images.imgix.net/2016/07/Find-your-ONE-THING1.jpg)](https://yellow-blog-images.imgix.net/2016/07/Find-your-ONE-THING1.jpg)
 
 These days, we have the world at our fingertips. There is so much that we have access to, so much to see, so much to learn from, and so. much. possibility.
 
@@ -38,7 +38,7 @@ It takes VALOR to put your other skills and desires on the back-burner and let *
 
 Lucky for you, this quarter's theme is VALOR. And I'm here today to talk about how to move from moving in a scattered direction with no purpose or intention, to a clear, intentional purposeful and focused one. It's scary, yes, but you gotta be brave and step out. You with me??
 
-[![#1](https://s3.amazonaws.com/yellow-files/blog/2016/07/1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/1.jpg)
+[![#1](https://yellow-blog-images.imgix.net/2016/07/1.jpg)](https://yellow-blog-images.imgix.net/2016/07/1.jpg)
 
 This might seem counter intuitive, but the word "passionate" has been really watered down. When our culture thinks of "passion" we often think of what we enjoy, or what we've always dreamed about doing since we were little girls. We think of the things that tug at our heart. We think about what makes us cry and what makes us excited.
 
@@ -52,7 +52,7 @@ It may be a cause like "fighting human trafficking"- or it might be something as
 
 What you are willing to suffer for?
 
-[![#2](https://s3.amazonaws.com/yellow-files/blog/2016/07/2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/2.jpg)
+[![#2](https://yellow-blog-images.imgix.net/2016/07/2.jpg)](https://yellow-blog-images.imgix.net/2016/07/2.jpg)
 
 I was a Fine Arts major in college, and it was always sad for me to see students spend a ton of money on their art degree, when they had NO natural ability, and they weren't putting in the really hard and time consuming work it takes to get better in an area they weren't naturally skilled.
 
@@ -72,7 +72,7 @@ This being said, hard work _will_ trump natural talent any day. There are plenty
 
 **You're doing great. You've thought about what you're willing to suffer for. You've thought about what you're actually good at. Here's where the VALOR comes in.**
 
-[![#3](https://s3.amazonaws.com/yellow-files/blog/2016/07/3.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/3.jpg)
+[![#3](https://yellow-blog-images.imgix.net/2016/07/3.jpg)](https://yellow-blog-images.imgix.net/2016/07/3.jpg)
 
 One of the pieces of advice I'm constantly telling people is this:
 
@@ -102,8 +102,8 @@ Joanna Waterfall
 
 _Founder of Yellow Co._
 
-[![EMAIL-LIST](https://s3.amazonaws.com/yellow-files/blog/2016/07/EMAIL-LIST.png)](http://eepurl.com/RrZtL)
+[![EMAIL-LIST](https://yellow-blog-images.imgix.net/2016/07/EMAIL-LIST.png)](http://eepurl.com/RrZtL)
 
 _Photo by [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![JOANNA WATERFALL--YELLOW 2016](https://s3.amazonaws.com/yellow-files/blog/2016/06/Screen-Shot-2016-06-07-at-1.43.27-AM.png)](https://www.instagram.com/joannawaterfall/)
+[![JOANNA WATERFALL--YELLOW 2016](https://yellow-blog-images.imgix.net/2016/06/Screen-Shot-2016-06-07-at-1.43.27-AM.png)](https://www.instagram.com/joannawaterfall/)

@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/ten-steps-to-starting-your-creative-business/"
 ---
 
-## _**[![Yellow Co. Bog: Ten Steps to Starting Your Business](https://s3.amazonaws.com/yellow-files/blog/2017/01/ValerieDenisePhotos-66.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/01/ValerieDenisePhotos-66.jpg)You’ve made a huge decision to start a business, congratulations! This stage can bring a whirlwind of emotion, including—optimism, excitement, anxiety, and confusion. We get it. It’s perfectly normal to feel overwhelmed at this stage.**_
+## _**[![Yellow Co. Bog: Ten Steps to Starting Your Business](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos-66.jpg)](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos-66.jpg)You’ve made a huge decision to start a business, congratulations! This stage can bring a whirlwind of emotion, including—optimism, excitement, anxiety, and confusion. We get it. It’s perfectly normal to feel overwhelmed at this stage.**_
 
 Let us help take away some of this angst so you can focus your creative entrepreneurial spirit on the magic that often comes with beginnings. Here we’ve broken down the start of your journey by giving you a 10-step overview of how to form your business here:
 
@@ -49,7 +49,7 @@ If your legal name matches your business name you can skip this step—if you ar
 
 **Step 05 | Obtain Local Tax Certificate**
 
-You may be wondering—more taxes? Really? Unfortunately, yes. In addition to the IRS and California’s Franchise Tax Board (which charges a minimum annual $800 fee), your local government also wants a cut of your business income. Localities tax businesses on criteria such as net profit, gross income, number of employees, total payroll, number of vehicles, number of machines, and sometimes even seating capacity. Most cities categorize businesses and use different tax structures for each category. For instance, businesses within one category may pay a flat annual fee, while others pay a tax rate dependent upon gross receipts. Some cities also tax businesses based on activity, such as holding a live performance event.[![Yellow Co. Bog: Ten Steps to Starting Your Business](https://s3.amazonaws.com/yellow-files/blog/2017/01/ValerieDenisePhotos-80.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/01/ValerieDenisePhotos-80.jpg)
+You may be wondering—more taxes? Really? Unfortunately, yes. In addition to the IRS and California’s Franchise Tax Board (which charges a minimum annual $800 fee), your local government also wants a cut of your business income. Localities tax businesses on criteria such as net profit, gross income, number of employees, total payroll, number of vehicles, number of machines, and sometimes even seating capacity. Most cities categorize businesses and use different tax structures for each category. For instance, businesses within one category may pay a flat annual fee, while others pay a tax rate dependent upon gross receipts. Some cities also tax businesses based on activity, such as holding a live performance event.[![Yellow Co. Bog: Ten Steps to Starting Your Business](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos-80.jpg)](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos-80.jpg)
 
 **Step 06 | Open a Business Bank Account**
 
@@ -59,7 +59,7 @@ As far as selecting a bank goes, consider your options before you default to whe
 
 **Step 07 | Obtain Business Permits and Licenses **
 
-The permits and licenses you need will vary greatly depending on the type of business. For instance, if you sell retail goods in the state, you’ll need to obtain a state seller’s permit and collect state sales tax. You’ll also need to comply with local business regulations and zoning laws, as well as federal and state regulations. In California,   [Cal Gold](http://www.calgold.ca.gov/)   provides a convenient way to look up the federal, state, and local permits and licenses you need based on your county and business type.[![Yellow Co. Bog: Ten Steps to Starting Your Business](https://s3.amazonaws.com/yellow-files/blog/2017/01/ValerieDenisePhotos-82.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/01/ValerieDenisePhotos-82.jpg)**  
+The permits and licenses you need will vary greatly depending on the type of business. For instance, if you sell retail goods in the state, you’ll need to obtain a state seller’s permit and collect state sales tax. You’ll also need to comply with local business regulations and zoning laws, as well as federal and state regulations. In California,   [Cal Gold](http://www.calgold.ca.gov/)   provides a convenient way to look up the federal, state, and local permits and licenses you need based on your county and business type.[![Yellow Co. Bog: Ten Steps to Starting Your Business](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos-82.jpg)](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos-82.jpg)**  
 Step 08 | Reach out to an Insurance Broker **
 
 Businesses manage risk through insurance policies. The insurance market provides businesses with lots of options. In fact, companies can cover damages arising out of everything from a UFO crash to a zombie apocalypse. With that being said, you don’t want to over-insure, instead you want to strike the right balance—obtain maximum protection without paying for policies for every conceivable risk.
@@ -86,4 +86,4 @@ All done with these 10 steps? Well we have good news and bad news. The good news
 
 **_Disclaimer_** _: Although this article may be considered advertising under applicable law and ethical rules, the information in this article is presented for informational purposes only. Nothing herein should be taken as legal advice and this content does not form an attorney-client relationship. If you would like further information, _ [_Wilkinson Mazzeo_ ](http://www.wilkinsonmazzeo.com/)_would love to hear from you, so please feel free to _ [_reach out_ ](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=holler@wilkinsonmazzeo.com&tf=1)_with any questions!_
 
-[![WILKINSONMAZZEO](https://s3.amazonaws.com/yellow-files/blog/2016/02/WILKINSONMAZZEO.jpg)](https://wilkinsonmazzeo.com/)
+[![WILKINSONMAZZEO](https://yellow-blog-images.imgix.net/2016/02/WILKINSONMAZZEO.jpg)](https://wilkinsonmazzeo.com/)

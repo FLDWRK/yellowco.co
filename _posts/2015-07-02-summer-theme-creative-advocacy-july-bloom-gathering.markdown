@@ -21,7 +21,7 @@ Using what we have to make the world a better place. To create change, to fight 
 
 I'm personally very excited to bring you articles under this theme, and I'm really excited to start it off with our Bloom Gathering that carries the same theme.
 
-[![July_BLOOMGATHERING](https://s3.amazonaws.com/yellow-files/blog/2015/07/July_BLOOMGATHERING.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/July_BLOOMGATHERING.jpg)
+[![July_BLOOMGATHERING](https://yellow-blog-images.imgix.net/2015/07/July_BLOOMGATHERING.jpg)](https://yellow-blog-images.imgix.net/2015/07/July_BLOOMGATHERING.jpg)
 
 **Whether you're an activist, entrepreneur or are curious about ways to use what you have to serve a greater purpose, this gathering is for you.**
 

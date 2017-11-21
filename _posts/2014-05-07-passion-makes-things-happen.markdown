@@ -9,7 +9,7 @@ categories:
 redirect_from: "/advice/passion-makes-things-happen/"
 ---
 
-[![CARE](https://s3.amazonaws.com/yellow-files/blog/2014/05/CARE2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/05/CARE2.jpg)
+[![CARE](https://yellow-blog-images.imgix.net/2014/05/CARE2.jpg)](https://yellow-blog-images.imgix.net/2014/05/CARE2.jpg)
 
 The definition of passion: "an intense desire or enthusiasm for something." Definition of apathy: "lack of interest, enthusiasm, or concern."
 

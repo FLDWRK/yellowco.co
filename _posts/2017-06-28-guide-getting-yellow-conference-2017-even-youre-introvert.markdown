@@ -24,7 +24,7 @@ It's fun to show up to a conference and discover new speakers and people to foll
 
 For the first time ever, we're hosting special events for our [Yellow Collective Members](http://yellowcollective.co/) surrounding the conference. Things like a Soul Cycle class and brunch the day before the conference, a member only lunch happening the first day of the conference, and a Friday night hangout with small bites, drinks, and live music. It's going to be a great time to get some smaller group time (talking to you introverts!) to connect with women from all over the country. You can grab your [Membership](http://yellowcollective.co/) up until Friday of this week. [More info right here](http://yellowcollective.co/). We'd love to have you [join us](http://yellowcollective.co/)!
 
-[![](https://s3.amazonaws.com/yellow-files/blog/2017/06/Yellow2016SpeakerDinner-44.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/06/Yellow2016SpeakerDinner-44.jpg)
+[![](https://yellow-blog-images.imgix.net/2017/06/Yellow2016SpeakerDinner-44.jpg)](https://yellow-blog-images.imgix.net/2017/06/Yellow2016SpeakerDinner-44.jpg)
 
 ### 4\. GRAB A WORKSHOP DAY PASS
 
@@ -42,4 +42,4 @@ SO SO SO looking forward to hanging out this August!!
 
 [_Photos by: Caca Santoro_](http://cacasantoro.com/)
 
-[![JOANNA WATERFALL BIO](https://s3.amazonaws.com/yellow-files/blog/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)
+[![JOANNA WATERFALL BIO](https://yellow-blog-images.imgix.net/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)

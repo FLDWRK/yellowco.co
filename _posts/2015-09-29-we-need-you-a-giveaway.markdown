@@ -7,7 +7,7 @@ categories:
 redirect_from: "/yellow-2016/we-need-you-a-giveaway/"
 ---
 
-[![SURVEY-GIVEAWAY](https://s3.amazonaws.com/yellow-files/blog/2015/09/SURVEY-GIVEAWAY2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/SURVEY-GIVEAWAY2.jpg)  
+[![SURVEY-GIVEAWAY](https://yellow-blog-images.imgix.net/2015/09/SURVEY-GIVEAWAY2.jpg)](https://yellow-blog-images.imgix.net/2015/09/SURVEY-GIVEAWAY2.jpg)  
 _  
 This giveaway is now closed. Huge congrats to KATRINA HUSSAIN for winning!! We will be contacting you through email!_
 

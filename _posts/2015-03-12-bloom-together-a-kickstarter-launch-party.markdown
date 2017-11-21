@@ -11,7 +11,7 @@ The time has come ladies. We've mentioned it here and there, and now it's finall
 
 Yes, we will be having multiple parties all over the country + one in Canada! (Thanks [Jacklyn Denise Co.](http://www.jacklyndenise.com/) in Toronto for making us international!) We would love for you to attend, meet new like-minded women in your area, view our Kickstarter + a special message from the Yellow Team.
 
-[![BloomTogether_Insta_Final](https://s3.amazonaws.com/yellow-files/blog/2015/03/BloomTogether_Insta_Final.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/BloomTogether_Insta_Final.jpg)
+[![BloomTogether_Insta_Final](https://yellow-blog-images.imgix.net/2015/03/BloomTogether_Insta_Final.jpg)](https://yellow-blog-images.imgix.net/2015/03/BloomTogether_Insta_Final.jpg)
 
 **The parties will be happening the evening of Thursday, April 2nd.**
 

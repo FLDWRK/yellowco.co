@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/rediscovering-authenticity-create-brand-stick/"
 ---
 
-[![socialmedia](https://s3.amazonaws.com/yellow-files/blog/2015/01/socialmedia.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/01/socialmedia.jpg)Social media is a powerful tool to help grow your business or personal brand—but it can also be overwhelming. We have all had moments where we feel like we are losing ourselves…so we go looking for inspiration, and in attempt to capture some of the success that we see from our favorite brand, we start to lose our own brand-identity. We end up losing ourselves, our content suffers, and how we display ourselves on social media begins to look a lot different than our real selves.
+[![socialmedia](https://yellow-blog-images.imgix.net/2015/01/socialmedia.jpg)](https://yellow-blog-images.imgix.net/2015/01/socialmedia.jpg)Social media is a powerful tool to help grow your business or personal brand—but it can also be overwhelming. We have all had moments where we feel like we are losing ourselves…so we go looking for inspiration, and in attempt to capture some of the success that we see from our favorite brand, we start to lose our own brand-identity. We end up losing ourselves, our content suffers, and how we display ourselves on social media begins to look a lot different than our real selves.
 
 It’s part of my job to know who the top bloggers and brands are. I find them very inspiring, but the pressure to be like them gets to me sometimes. Finding my own voice and brand persona has been a struggle, but these are the key things I’ve learned in the process:
 
@@ -38,10 +38,10 @@ Writing down brand guidelines will serve as a map to help you navigate social me
 
 An exercise that my business coach introduced me to is “I believe” statements: Take some time to write out 30–50 “I believe” statements. Read through the statements and pull out common threads and values to use as the foundation for your branding. Using these statements as guides for your brand and content will make your online persona easy to navigate.
 
-[![IBelieve](https://s3.amazonaws.com/yellow-files/blog/2015/01/IBelieve.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/01/IBelieve.jpg)
+[![IBelieve](https://yellow-blog-images.imgix.net/2015/01/IBelieve.jpg)](https://yellow-blog-images.imgix.net/2015/01/IBelieve.jpg)
 
 We attract what we put out into the world. Always be kind and positive, and you will attract kind and positive people. Forget perfection, wave goodbye to fear, and let people fall in love with the imperfect, but wonderful, amazing you.
 
 _Images via [Mattia Pellizari](http://www.mattiapelizzari.com/) and [Elizabeth Fein](http://instagram.com/iteratesocial/)_
 
-[![Fein Bio](https://s3.amazonaws.com/yellow-files/blog/2015/01/Fein-Bio.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/01/Fein-Bio.jpg)
+[![Fein Bio](https://yellow-blog-images.imgix.net/2015/01/Fein-Bio.jpg)](https://yellow-blog-images.imgix.net/2015/01/Fein-Bio.jpg)

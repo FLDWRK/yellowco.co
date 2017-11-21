@@ -9,8 +9,8 @@ categories:
 redirect_from: "/creative-ladies/how-to-run-a-successful-business-without-losing-sight-of-what-matters-most/"
 ---
 
-[![MG_1261-copy](https://s3.amazonaws.com/yellow-files/blog/2016/03/MG_1261-copy.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/03/MG_1261-copy.jpg)[  
-](https://s3.amazonaws.com/yellow-files/blog/2016/03/ac1.jpg)When my business partner and I founded _[Ink & Well](http://inkandwell.org/),_ our number one goal was creating something that allowed life and family to come first while work came in second. As new moms, it was important for us to find ways to produce stellar results for our clients while still maintaining a daily, predictable presence in our children’s lives. Babies crying in the background of conference calls and Cheerios in purses seemed inevitable, but we knew balance had to be attainable. It would just take a little finagling.
+[![MG_1261-copy](https://yellow-blog-images.imgix.net/2016/03/MG_1261-copy.jpg)](https://yellow-blog-images.imgix.net/2016/03/MG_1261-copy.jpg)[  
+](https://yellow-blog-images.imgix.net/2016/03/ac1.jpg)When my business partner and I founded _[Ink & Well](http://inkandwell.org/),_ our number one goal was creating something that allowed life and family to come first while work came in second. As new moms, it was important for us to find ways to produce stellar results for our clients while still maintaining a daily, predictable presence in our children’s lives. Babies crying in the background of conference calls and Cheerios in purses seemed inevitable, but we knew balance had to be attainable. It would just take a little finagling.
 
 ## Knowing how to use your life as a framework to build a business around is tough, especially because there’s really no _right_ answer.
 
@@ -22,10 +22,10 @@ Even if you don’t have kids, you’ll wonder what exactly to prioritize and wh
 4.  **Know when to say “no.”** That tiny little word is so hard to say when every dollar counts, but some opportunities will not allow you to continue living the life you want to live while running your business. If a potential client seems hard, unbending, and like he or she doesn’t understand your unique schedule, the partnership may be one you need to consider turning down.
 5.  **Draw a line between your personal life and your business, but know that line will be blurry.** When your home is your office and your office is your home, how can you not feel like you live in a gray area? It takes a lot of effort to make sure you’re not working all the time. I’ve been known to respond to emails while cooking, running, or “taking time for myself.” It’s okay to let your business and your life become one, but know when it’s time to draw the line and be present.
 
-[![ac1](https://s3.amazonaws.com/yellow-files/blog/2016/03/ac1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/03/ac1.jpg)
+[![ac1](https://yellow-blog-images.imgix.net/2016/03/ac1.jpg)](https://yellow-blog-images.imgix.net/2016/03/ac1.jpg)
 
 Regardless of the challenges inherent in starting and running a business that is shaped around your ideal life, I’d recommend it to anyone. The freedom to live in the moment and nurture myself personally and professionally has undeniably changed who I am. I’m a better wife, a better mom, a better friend, and a better person. I’d say that’s worth all the finagling in the world.
 
 _Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/page/4/)_
 
-[![ALEEANDERSON](https://s3.amazonaws.com/yellow-files/blog/2016/03/ALEEANDERSON.jpg)](http://inkandwell.org/)
+[![ALEEANDERSON](https://yellow-blog-images.imgix.net/2016/03/ALEEANDERSON.jpg)](http://inkandwell.org/)

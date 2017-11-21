@@ -34,15 +34,15 @@ Each quarter we have a theme - you may have seen us post about it on our blog. T
 
 To get a real feel for them, here are a few photos from our members who have posted about their boxes when they arrive:
 
-![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://s3.amazonaws.com/yellow-files/blog/2017/06/Screenshot-2017-06-15-21.01.28.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
+![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://yellow-blog-images.imgix.net/2017/06/Screenshot-2017-06-15-21.01.28.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
 
 @[stefaniebalesfineart](https://www.instagram.com/stefaniebalesfineart/)  - "_Do you know what I look forward to every couple of months? This happy yellow box arriving at my doorstep. If you are a fellow female creative and/or small business owner and you aren't familiar with the Yellow Collective, you should be! I've also been waiting until it was official, but I'm super excited to announce that I'm the new San Diego co-leader :)"  
 _  
-![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://s3.amazonaws.com/yellow-files/blog/2017/06/Screenshot-2017-06-15-20.59.32.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
+![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://yellow-blog-images.imgix.net/2017/06/Screenshot-2017-06-15-20.59.32.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
 
 @[rachelfelous](https://www.instagram.com/rachelfelous/)  - "_Came back from my trip to Denver to find this gem waiting for me... thanks @yellowconference for featuring my zero waste story in this quarter's periodical! So honored and proud to be part of this amazing group of women <3"  
 _  
-![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://s3.amazonaws.com/yellow-files/blog/2017/06/Screenshot-2017-06-15-21.07.40.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
+![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://yellow-blog-images.imgix.net/2017/06/Screenshot-2017-06-15-21.07.40.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
 
 @[carolinakormanphoto](https://www.instagram.com/carolinakormanphoto/)  -_ "Happy Thursday! So many beautiful things in the new @yellowconference @theyellowcollective #empowerement box. The next series theme is #Wander. To quote #yellowcollective #EditorialDirector @hanna.snyder "...No matter our age or conditions, we all find ourselves lost in places we have yet to walk through." So this next series will explore just that: "...The in-between of trying to make it possible to leave your day job for your #passionproject. The search of not yet knowing your individual calling to make an impact..." The box includes pretty postcards, @ravenandlily #fairtrade #handmade journal (#empowering women in North India), @austinkleon's book #steallikeanartist, the yellow collective periodical, #bamboopens & a lovely quote in print. Looking forward to the yellow collective May gathering ? Wishing everyone a blissful day ?"_
 
@@ -78,7 +78,7 @@ Which brings us to...
 
 ### **3\. THE COMMUNITY**
 
-![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://s3.amazonaws.com/yellow-files/blog/2017/06/Screenshot-2017-06-15-21.12.29.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
+![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://yellow-blog-images.imgix.net/2017/06/Screenshot-2017-06-15-21.12.29.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
 
 Our desire with Yellow is to provide women with a safe and genuine community. A place where they feel seen, heard, and can completely be who they are. Bringing the messiness, weirdness, the complicatedness (is that a word?), the badassery, the strengths, the hardships and everything in between. Embraced with no judgement, just love.
 
@@ -105,7 +105,7 @@ We include a postcard in the Empowerment Box addressed to another woman in the c
 **• Community Challenge**  
 As we mentioned previously, we will be hosting a community challenge every quarter. The idea is that the members hold each other accountable to accomplishing the challenge, because challenges are always better when we do them together, right?
 
-![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://s3.amazonaws.com/yellow-files/blog/2017/06/Screenshot-2017-06-15-21.33.08.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
+![WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP](https://yellow-blog-images.imgix.net/2017/06/Screenshot-2017-06-15-21.33.08.png "WE'RE OPEN: THE YELLOW COLLECTIVE MEMBERSHIP")
 
 **PLUS...**  
 • Weekly Slack Chats  
@@ -121,4 +121,4 @@ xoxo,
 
 _Joanna Waterfall, Founder of Yellow Co._
 
-[![JOANNA WATERFALL BIO](https://s3.amazonaws.com/yellow-files/blog/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)
+[![JOANNA WATERFALL BIO](https://yellow-blog-images.imgix.net/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)

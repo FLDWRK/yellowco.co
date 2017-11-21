@@ -16,60 +16,60 @@ So, I have been on the prowl, ya'll, for some cute, fun, AND ethical items, that
 
 ###### FOR THE SHOE LOVER: THE ROOT COLLECTIVE
 
-[![IMG_3427](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3427.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3427.jpg)
+[![IMG_3427](https://yellow-blog-images.imgix.net/2015/09/IMG_3427.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3427.jpg)
 
 The Root Collective partners with small-scale artisan businesses in rural and urban slum communities in Guatemala to promote economic development and independence. Many of these artisans can't be part of formal economy due to lack of education. Most women the Root Collective work with aren't given the opportunity to learn Spanish, and speak only indigenous languages spoken in their communities. The thing I LOVE about the Root Collective's model is they believe that, while the people they work with were born into poverty, they are still capable, smart, and worthy of dignity--they want to come alongside them as an equal and empower, NOT rescue! The shoes fight against gang violence, using former gang members with stories of transformation to make their shoes and work their shops. Check out more about them [here.](http://www.therootcollective.com/)
 
-###### [![yellow ethical gift guide](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3420.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3420.jpg)
+###### [![yellow ethical gift guide](https://yellow-blog-images.imgix.net/2015/09/IMG_3420.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3420.jpg)
 
 **_(Psst...their fall line is WAY cute, and they're offering all Yellow Blog readers 20% off! Just use the code YELLOW20 at checkout!)_ **
 
 ###### FOR THE BASICS LOVER: EVERLANE[  
-](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3427.jpg)[![yellow ethical gift guide](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3430.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3430.jpg)
+](https://yellow-blog-images.imgix.net/2015/09/IMG_3427.jpg)[![yellow ethical gift guide](https://yellow-blog-images.imgix.net/2015/09/IMG_3430.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3430.jpg)
 
 As a mom...I'm _all _about the basics....ok let's be honest...I've been all about comfy basics for as long as I could remember...
 
 [Everlane](https://www.everlane.com/) is a San Francisco based clothing company committed to providing quality, modern, basics, at a reasonable price, that are made ethically. Their mantra is **radical transparency **to the point where you can see pictures, videos, and info-graphs of  how and where your items are being made and shipped from, and exactly how much it costs to produce. I wear my Everlane shirts _at least_ three times a week...To say I'm a huge fan would be quite the understatement. Not only do they have great basics, but they have guys clothes, shoes, leather bags...you name it! All reasonable, all ethical, and all quality--and all without the fear that an enslaved child is making my favorite shirt...FAN FAN FAN.
 
-[![yellow ethical gift guide](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3438.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3438.jpg)
+[![yellow ethical gift guide](https://yellow-blog-images.imgix.net/2015/09/IMG_3438.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3438.jpg)
 
 ###### FOR THE HOME: SARA CARTER STUDIOS
 
-[![yellow ethical giving guide](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3450.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3450.jpg)
+[![yellow ethical giving guide](https://yellow-blog-images.imgix.net/2015/09/IMG_3450.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3450.jpg)
 
 Sara Carter...I have a lot of things to say about this woman...She exemplifies the kind of mom I want to be--creative and inspiring. She is an artist who uses her creativity in partnership with nonprofits in Ghana, and works to raise awareness and support for the liberation of child slaves along the Lake Volta region. She invites her two kids to live wild and free with whimsical hearts and big dreams, and empowers them to believe in themselves...to the point where she helped her (then) six year old son raise funds for a shoe drop off in Africa...yup...she's someone to keep an eye on, and will inspire you, ladies, to use whatever ounce of creativity you have for the greater good.
 
-[![IMG_3505](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_35051.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_35051.jpg)
+[![IMG_3505](https://yellow-blog-images.imgix.net/2015/09/IMG_35051.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_35051.jpg)
 
 She passed along this beautiful _explore _painting for Scout's nursery, and has many many more inspirational mixed media art pieces that are sure to breathe life into any home. In her own words, her pieces are "one of a kind original paintings...using a variety of mediums such as acrylic paint, oil pastels, and charcoal. Created in her studio, the painting evokes a rich depth, inspires reflection, and enriches the space it inhabits....All proceeds of my artwork support [City of Refuge Ministries Ghana](http://www.cityofrefugeoutreach.org/), an amazing organization that works to rescue, heal, and empower child slaves in the Lake Volta region. My son and I had the chance to travel there last year and work with them and it was an incredibly powerful experience!"
 
-[![yellow ethical giving guide](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3498.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3498.jpg)
+[![yellow ethical giving guide](https://yellow-blog-images.imgix.net/2015/09/IMG_3498.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3498.jpg)
 
 In the meantime, follow her on [Instagram](https://instagram.com/heysarahcarter/), [read her blog,](http://www.sarahcarterstudio.com/) and [check out her shop](http://www.sarahcarterstudio.com/fine-art/)...on any level you will **not** be disappointed.
 
 ###### FOR THE JEWELRY LOVER: LINK OF HEARTS
 
-[![YELLOW GIFT GUIDE](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3478.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3478.jpg)
+[![YELLOW GIFT GUIDE](https://yellow-blog-images.imgix.net/2015/09/IMG_3478.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3478.jpg)
 
 Speaking of everyday wear...I have only taken off my [Link of Hearts](http://www.linkofhearts.com/) necklace to sleep and shower...the combination of inspirational words and beautiful design..._swoonworthy!_
 
-[![yellow gift guide](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3455.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3455.jpg)
+[![yellow gift guide](https://yellow-blog-images.imgix.net/2015/09/IMG_3455.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3455.jpg)
 
 AND for every purchase, Link of Hearts gives one piece of inspirational jewelry to someone battling with depression as a symbol of hope. Minimal, simple, style, filled with BOLD inspiration, heart, and intention--dedicated to connecting personally with those they partner with.
 
 ###### FOR THE TRAVEL-BUG: HUMBLE HILO BAGS
 
-[![IMG_3509](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_35091.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_35091.jpg)
+[![IMG_3509](https://yellow-blog-images.imgix.net/2015/09/IMG_35091.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_35091.jpg)
 
 Big bags, small bags, baby sandals, backpacks...[Humble Hilo](http://humblehilo.com/pages/projects-we-support) works on behalf of World Link Partners by creating job opportunities and giving back a portion of all it's profits to make a sustainable difference in the lives of Guatemalans in need through infant and child nutrition, literacy and education, and micro-finance loans for women. Founders Lauren and Erica use fashion, philanthropy, ancient techniques and modern styles to provide great product, that gives the consumer (you) opportunity to choose which project you would like to support with your purchase.
 
-[![yellow gift guide](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3447.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/IMG_3447.jpg)Not only is your purchase supporting families in need of employment, but a portion of every purchase goes to support one of their three focus projects (hello, awesome).
+[![yellow gift guide](https://yellow-blog-images.imgix.net/2015/09/IMG_3447.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3447.jpg)Not only is your purchase supporting families in need of employment, but a portion of every purchase goes to support one of their three focus projects (hello, awesome).
 
 ###### FOR THE COFFEE LOVER: THE CREATED CO. AND SWEET AROMA COFFEE
 
 Who doesn't love a good cup of coffee?! Moms need it, teachers need it, college students...the options are endless...and who doesn't love great coffee, served in an inspirational mug, where **both** the items are tackling major social injustices like human trafficking and hazardous water in Africa?!
 
-[![yellow giving guide](https://s3.amazonaws.com/yellow-files/blog/2015/09/tuesday.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/09/tuesday.jpg)
+[![yellow giving guide](https://yellow-blog-images.imgix.net/2015/09/tuesday.jpg)](https://yellow-blog-images.imgix.net/2015/09/tuesday.jpg)
 
 You may recognize [The Created Co.](http://thecreated.co/) from the Yellow Conference 2015-they gifted us those amazing Get it Girl mugs! Every mug not only inspires the person you gift it to, but supports organizations like [charity:water](http://www.charitywater.org/) to bring clean drinking water to developing countries.
 
@@ -79,4 +79,4 @@ Christmas is just around the corner, folks, and we got the perfect gift guide he
 
 _Photos by [Nikole Sparks](http://cargocollective.com/nikolesparks) _
 
-[![sallykim Yellow Co.](https://s3.amazonaws.com/yellow-files/blog/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

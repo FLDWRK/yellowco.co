@@ -10,9 +10,9 @@ categories:
 redirect_from: "/light-talk/akola-project-jewelry-with-grit/"
 ---
 
-#### _[![Wolf_insta3_Feb16](https://s3.amazonaws.com/yellow-files/blog/2016/04/Wolf_insta3_Feb16.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/04/Wolf_insta3_Feb16.jpg)Akola – “she works” – is a social business that designs, produces, and sells jewelry and home goods globally within a non-profit framework. Their model is currently equipping over 400 mothers in Uganda and Dallas (7 communities in rural Uganda and 2 communities in Dallas) to provide for 3,000 dependents. This Mother’s Day, we are proud to be partnering with [Akola Project](http://akolaproject.org/) to help spread the word about their mission to empower thousands of women in Uganda and Dallas._
+#### _[![Wolf_insta3_Feb16](https://yellow-blog-images.imgix.net/2016/04/Wolf_insta3_Feb16.jpg)](https://yellow-blog-images.imgix.net/2016/04/Wolf_insta3_Feb16.jpg)Akola – “she works” – is a social business that designs, produces, and sells jewelry and home goods globally within a non-profit framework. Their model is currently equipping over 400 mothers in Uganda and Dallas (7 communities in rural Uganda and 2 communities in Dallas) to provide for 3,000 dependents. This Mother’s Day, we are proud to be partnering with [Akola Project](http://akolaproject.org/) to help spread the word about their mission to empower thousands of women in Uganda and Dallas._
 
-[![Nali Bagaga (1)](https://s3.amazonaws.com/yellow-files/blog/2016/04/Nali-Bagaga-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/04/Nali-Bagaga-1.jpg)Nali Bagaga lives in Nabukosi, Eastern Uganda and cares for 10 children and 3 elderly dependents. Nali Bagaga’s entire house could fit in a single bedroom here in the U.S. The floors are dirt; the roof, thatched. With one bed against the wall, enclosed by a mosquito net, she would offer up her only chair for you to sit in as she sits on a raffia-braided mat - an honor that she would not let you pass up.
+[![Nali Bagaga (1)](https://yellow-blog-images.imgix.net/2016/04/Nali-Bagaga-1.jpg)](https://yellow-blog-images.imgix.net/2016/04/Nali-Bagaga-1.jpg)Nali Bagaga lives in Nabukosi, Eastern Uganda and cares for 10 children and 3 elderly dependents. Nali Bagaga’s entire house could fit in a single bedroom here in the U.S. The floors are dirt; the roof, thatched. With one bed against the wall, enclosed by a mosquito net, she would offer up her only chair for you to sit in as she sits on a raffia-braided mat - an honor that she would not let you pass up.
 
 ## Yes, her floors are dirt and her roof is thatched but notice the bricks. A luxury she afforded through her work with Akola.
 
@@ -26,7 +26,7 @@ And, if you were to visit her house, you'd notice a group of sweet kids curiousl
 
 A group of Akola members designed and purchased uniforms for themselves. **Those uniforms are a sign of dignity.** She is so so proud that she has a job, that she earning for her family, and she wants everyone to know it. 
 
-## [![Wolf_insta7_feb16](https://s3.amazonaws.com/yellow-files/blog/2016/04/Wolf_insta7_feb16.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/04/Wolf_insta7_feb16.jpg)This is the generational impact of Akola’s work first-hand. Nali Bagaga is just 1 of 400 women Akola empowers through our social mission.
+## [![Wolf_insta7_feb16](https://yellow-blog-images.imgix.net/2016/04/Wolf_insta7_feb16.jpg)](https://yellow-blog-images.imgix.net/2016/04/Wolf_insta7_feb16.jpg)This is the generational impact of Akola’s work first-hand. Nali Bagaga is just 1 of 400 women Akola empowers through our social mission.
 
 Living and working on the ground in Uganda, taught the team at Akola that there are _thousands_ of mothers like Nali Bagaga.
 
@@ -34,7 +34,7 @@ Mothers who would forgo eating if their children did not have food.
 Mothers who worked any odd job they could find in order to afford the school fees for just one of their children.  
 Mothers who were having to make the decision about which child would get health care that year because she could not afford it for all of them.  
 And mothers who were _dying_ giving labor in their mud hut because they had sacrificed their own health care, so more of their children would have coverage.[  
-](https://s3.amazonaws.com/yellow-files/blog/2016/04/Wolf_insta7_feb16.jpg)[![Wolf_WestDallas_Headshot4](https://s3.amazonaws.com/yellow-files/blog/2016/04/Wolf_WestDallas_Headshot4.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/04/Wolf_WestDallas_Headshot4.jpg)Akola decided that they had to do more.
+](https://yellow-blog-images.imgix.net/2016/04/Wolf_insta7_feb16.jpg)[![Wolf_WestDallas_Headshot4](https://yellow-blog-images.imgix.net/2016/04/Wolf_WestDallas_Headshot4.jpg)](https://yellow-blog-images.imgix.net/2016/04/Wolf_WestDallas_Headshot4.jpg)Akola decided that they had to do more.
 
 They are currently equipping over 400 mothers in Uganda and Dallas (7 communities in rural Uganda and 2 communities in Dallas) to provide for 3,000 dependents. Akola products have retailed in over more than 450 specialty and department stores.
 
@@ -44,4 +44,4 @@ _This Mothers' Day, consider giving a gift that not only makes them feel beautif
 
 _Huge thanks to [Ashley Turner](http://www.hazelandpine.com/) and [Alex Wolf](http://alexwolfphotography.org/) for photos, provided by Akola Project. _
 
-[![akolaprojectbio](https://s3.amazonaws.com/yellow-files/blog/2016/05/akolaprojectbio.jpg)](http://akolaproject.org/pages/our-team)
+[![akolaprojectbio](https://yellow-blog-images.imgix.net/2016/05/akolaprojectbio.jpg)](http://akolaproject.org/pages/our-team)

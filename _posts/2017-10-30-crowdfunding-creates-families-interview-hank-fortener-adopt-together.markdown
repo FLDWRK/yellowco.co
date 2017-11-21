@@ -37,7 +37,7 @@ whom much is given, much is required.” And I was given this, not just passion 
 this family mission. I'm moving it forward with AdoptTogether, and I think my brothers, sisters, and
 cousins will all move it forward in their own way. I'm a very small part of a really big thing that
 started almost a hundred years ago with two people I never met.
-![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/042416_ERoche_Singh_277.jpg) ####
+![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/042416_ERoche_Singh_277.jpg) ####
 
 **On the [AdoptTogether site](https://adopttogether.org/), you note that 73.5 million people are
 considering adoption at any time - 4x the number of adoptable children in the world. However, cost
@@ -61,7 +61,7 @@ thinking too small. I think it’s an incredible act of faith when people like M
 founders of Instagram and Snapchat, start imagining something that the whole world can touch and
 feel. That's an incredible spiritual experience. I didn't have an idea to start a big company, but I
 knew that I could solve these humanitarian issues utilizing that that same level of thinking.
-![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/042416_ERoche_Singh_382.jpg) ####
+![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/042416_ERoche_Singh_382.jpg) ####
 
 **You shared that you had no funding or sponsors when you started
 [AdoptTogether](https://adopttogether.org/), yet the platform spread to people far and wide without
@@ -80,7 +80,7 @@ million dollars worth of work. ###
 
 **The two currencies are passion and relationships. When you have a passion, you won't care that you
 don't have resources. And when you have relationships, resources will follow.**
-![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/042416_ERoche_Singh_123.jpg) ####
+![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/042416_ERoche_Singh_123.jpg) ####
 **Is there anyone who has provided you with support to make this dream happen that you were
 surprised by?**
 
@@ -107,7 +107,7 @@ wanted people to feel connected to each other and to others in the adoption comm
 people to come together, you're extending an invitation. And really, your power ends at the
 invitation - it's people who create the experience.You can invest and do your part, but the rest of
 your posture is to just keep giving and inviting. Your people will find you.
-![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/042416_ERoche_Singh_381.jpg)
+![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/042416_ERoche_Singh_381.jpg)
 I think that's what happened with [World Adoption Day](http://worldadoptionday.org/). All I did was
 open the door, buy a domain, pitch the idea, and 54 countries participated in the first year.
 Somehow, in some universe, in whatever God was doing in the world, people were ready for it - it
@@ -125,7 +125,7 @@ morale of not only the adoption conversation, but of the family conversation; of
 conversation. ###
 
 **I wanted people to reimagine family, to reimagine adoption, to re-believe in us as a people.**
-![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/042416_ERoche_Singh_227.jpg) ####
+![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/042416_ERoche_Singh_227.jpg) ####
 
 **Have you seen any particularly amazing instances of people coming together through
 [World Adoption Day](http://worldadoptionday.org/)?**
@@ -155,7 +155,7 @@ the way to go do that other thing. My kids know about work; that I leave, come h
 there's no way that they are going to think that I was trying to rush our time together, even if
 it's only for 30 minutes before they go to bed. I try to even keep my physical movements slow, so it
 feels like we're stopping the universe.
-![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/042416_ERoche_Singh_205.jpg) ####
+![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/042416_ERoche_Singh_205.jpg) ####
 
 **What is an essential practice you have?**
 

@@ -21,7 +21,7 @@ The same can be said for other types of pain as well: emotional, relational, and
 
 The first step in using our pain as a guide is simply being _willing_ to lean into it. We must choose to actually get to know our pain, and dare I say, even become friends with it. I mean, not the kind of friend you want to hang out with 24/7\. The kind you’re totally fine _not_ hanging out with, but when you do see her, you’re not afraid. You embrace her, you ask her what’s going on, and you kindly figure out why she’s there.
 
-![WHERE SHIFTING YOUR PERSPECTIVE ON PAIN CAN LEAD YOU - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/1T5A1010_v2.jpg "WHERE SHIFTING YOUR PERSPECTIVE ON PAIN CAN LEAD YOU - THE YELLOW ROOM")
+![WHERE SHIFTING YOUR PERSPECTIVE ON PAIN CAN LEAD YOU - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/06/1T5A1010_v2.jpg "WHERE SHIFTING YOUR PERSPECTIVE ON PAIN CAN LEAD YOU - THE YELLOW ROOM")
 
 ### **Find healing through clarity.**
 
@@ -45,4 +45,4 @@ As long as we’re living, we will experience hardship. But we have the power wi
 
 _Photos by: [Liz Calka](https://www.lizcalka.photo/)_
 
-[![ABIGAIL DAVIDSON BIO](https://s3.amazonaws.com/yellow-files/blog/2017/06/ABIGAIL-DAVIDSON-BIO.jpg)](https://www.theschoolofwellbeing.com/)
+[![ABIGAIL DAVIDSON BIO](https://yellow-blog-images.imgix.net/2017/06/ABIGAIL-DAVIDSON-BIO.jpg)](https://www.theschoolofwellbeing.com/)

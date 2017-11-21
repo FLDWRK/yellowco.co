@@ -13,7 +13,7 @@ categories:
 redirect_from: "/creative-ladies/is-social-anxiety-wearing-you-down-this-storys-for-you/"
 ---
 
-###### [![Standing up against socially anxiety, and how the yellow conference taught one woman to step out. ](https://s3.amazonaws.com/yellow-files/blog/2015/11/2-800x533.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/2-800x533.jpg)
+###### [![Standing up against socially anxiety, and how the yellow conference taught one woman to step out. ](https://yellow-blog-images.imgix.net/2015/11/2-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/11/2-800x533.jpg)
 
 ## I went to school with the same kids from kindergarten to graduation.
 
@@ -21,16 +21,16 @@ I never had to make friends because everyone was kind of already thrown together
 
 ## And then I moved to a city where I didn't know a soul.
 
-[![overcoming-social-anxiety](https://s3.amazonaws.com/yellow-files/blog/2015/12/Overcoming-Social-Anxiety.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/12/Overcoming-Social-Anxiety.jpg)
+[![overcoming-social-anxiety](https://yellow-blog-images.imgix.net/2015/12/Overcoming-Social-Anxiety.jpg)](https://yellow-blog-images.imgix.net/2015/12/Overcoming-Social-Anxiety.jpg)
 
 I began to realize how terrible I was at making friends. And meeting people. _And just getting myself out of the house._ With no plans on the horizon with friends or activities, I quickly fell in to the trap of binging Netflix in my pajamas instead of leaving the house. When I had to go out and was forced in to social situations, I was awkward and shy. I vividly remember going to an event in Los Angeles where I didn't know anyone. I had met the host once but had convinced myself she wouldn’t remember me. I walked in, walked around the room, and walked out. I drove an hour each way and I didn't even open my mouth to a single person.
 
-[![social anxiety wearing you down? read this story of how volunteering at the Yellow Conference changed everything for one woman. ](https://s3.amazonaws.com/yellow-files/blog/2015/11/113-800x265.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/113-800x265.jpg)[![social anxiety wearing you down? read this story of how volunteering at the Yellow Conference changed everything for one woman. ](https://s3.amazonaws.com/yellow-files/blog/2015/11/123-800x265.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/123-800x265.jpg)
+[![social anxiety wearing you down? read this story of how volunteering at the Yellow Conference changed everything for one woman. ](https://yellow-blog-images.imgix.net/2015/11/113-800x265.jpg)](https://yellow-blog-images.imgix.net/2015/11/113-800x265.jpg)[![social anxiety wearing you down? read this story of how volunteering at the Yellow Conference changed everything for one woman. ](https://yellow-blog-images.imgix.net/2015/11/123-800x265.jpg)](https://yellow-blog-images.imgix.net/2015/11/123-800x265.jpg)
 
 I came home and cried to my husband because I was so disappointed in myself. My social anxiety had reached an all-time high and I just wanted to wallow in self-pity and never try again. That summer I sank into a depression. I had just given birth to my second child and was living 3,000 miles away from anyone I knew and was just having the worst time of my life. I started thinking of ways to pull myself out; how to be less terrified of social situations and I remembered back to my high school and college days. Sure, I actually had friends there, I knew people, but the way I was meeting them and befriending them and actually comfortable in my own skin was being involved in a plethora of activities. From the debate team to the cheerleading squad, to organizing events on campus and my sorority, I was INVOLVED in the most extreme sense of the word. So when I read on Twitter that the first Yellow Conference was happening and they were looking for volunteers, I jumped at the opportunity.
 
 [  
-](https://s3.amazonaws.com/yellow-files/blog/2015/11/113-800x265.jpg)[![social anxiety wearing you down? read this story of how volunteering at the Yellow Conference changed everything for one woman. ](https://s3.amazonaws.com/yellow-files/blog/2015/11/181-800x533.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/181-800x533.jpg)
+](https://yellow-blog-images.imgix.net/2015/11/113-800x265.jpg)[![social anxiety wearing you down? read this story of how volunteering at the Yellow Conference changed everything for one woman. ](https://yellow-blog-images.imgix.net/2015/11/181-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/11/181-800x533.jpg)
 
 ## Thankfully, I was invited to help out at the first conference.
 
@@ -44,6 +44,6 @@ I know social anxiety is not a subject that's talked about often. Obviously some
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/)_
 
-[![BriTowne for yellow co.](https://s3.amazonaws.com/yellow-files/blog/2015/12/BriTowne.jpg)](http://www.lifebybri.com/)
+[![BriTowne for yellow co.](https://yellow-blog-images.imgix.net/2015/12/BriTowne.jpg)](http://www.lifebybri.com/)
 
 _Interested in being a volunteer for this year's conference? Email us at thescoop@yellowconference.com with the subject line: **Hey Girl! I'm interested in volunteering! **for information on our application process. _
