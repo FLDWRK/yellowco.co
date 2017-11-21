@@ -5,7 +5,7 @@ wordpress_url: http://yellowconference.com/?p=7467
 date: '2016-12-14 04:30:49 -0800'
 categories:
 - "#bloomyellow"
-- Yellow Collective
+- Collective
 redirect_from: "/?p=7467"
 ---
 
