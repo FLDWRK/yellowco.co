@@ -21,7 +21,7 @@ I got it into my head that my business was only legit if it had employees and pa
 
 Well news flash: you don’t start a business to make someone else happy. You don’t run a marathon or dye your hair to make someone else happy either. You do it for yourself and your soul.
 
-![4 LESSONS I LEARNED AS A PREGNANT ENTREPRENEUR - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Photo-Mar-14-11-50-46-PM.jpg)
+![4 LESSONS I LEARNED AS A PREGNANT ENTREPRENEUR - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/Photo-Mar-14-11-50-46-PM.jpg)
 
 ### **I quickly realized that I had been making these growth decisions out of a place of feeling "not enough".**
 
@@ -35,7 +35,7 @@ There was and is no perfect solution. No way to “do it right” in maternity l
 
 I realized the perfect solution for me meant doing what would: one - strengthen my family, and two - respect my employees and clients. In that order. Because whether what I chose was “right” or not, it was meaningless if it weakened my family or disrespected the business and those people impacted by it.
 
-![4 LESSONS I LEARNED AS A PREGNANT ENTREPRENEUR - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Photo-Mar-14-11-52-19-PM.jpg)
+![4 LESSONS I LEARNED AS A PREGNANT ENTREPRENEUR - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/Photo-Mar-14-11-52-19-PM.jpg)
 
 #### **3\. What I needed was already in front of me.**
 
@@ -55,4 +55,4 @@ I needed to slow down and reevaluate what _I_ wanted. Sure, the timing created t
 
 _Photos by: [Valerie Moreno](http://www.nuanceandbubbles.com/)_
 
-[![BAILEY VAN TASSEL BIO](http://yellowco.co/wp-content/uploads/2017/04/BAILEY-VAN-TASSEL-BIO-new.jpg)](http://www.abelimpact.com/about/)
+[![BAILEY VAN TASSEL BIO](https://yellow-blog-images.imgix.net/2017/04/BAILEY-VAN-TASSEL-BIO-new.jpg)](http://www.abelimpact.com/about/)

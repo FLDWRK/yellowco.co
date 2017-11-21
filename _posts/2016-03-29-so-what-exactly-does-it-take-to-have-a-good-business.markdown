@@ -10,8 +10,8 @@ categories:
 redirect_from: "/advice/so-what-exactly-does-it-take-to-have-a-good-business/"
 ---
 
-## _[![Yellow_2015_Dinner-15](http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-15-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-15.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2016/03/MG_8397-66.jpg)“I wish it were easier to find social businesses—truly good businesses—that make a difference, rather than make rich shareholders richer.”_
+## _[![Yellow_2015_Dinner-15](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Dinner-15-683x1024.jpg)](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Dinner-15.jpg)[  
+](https://yellow-blog-images.imgix.net/2016/03/MG_8397-66.jpg)“I wish it were easier to find social businesses—truly good businesses—that make a difference, rather than make rich shareholders richer.”_
 
 That was the thought that inspired me to start my own social business, [Society B](http://www.societyb.com/), connecting causes and the best products that give back to make a difference in people’s lives.
 
@@ -35,7 +35,7 @@ It seems that most social businesses do good in one of two ways:
 • They give back a portion of their revenue to make a social impact.  
 • They ethically source their goods. The beneficiary of the ethical part is typically the makers, the environment, or animals—sometimes all three.
 
-#### [![Yellow_2015_Dinner-18](http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-18-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-18.jpg)Give Backs
+#### [![Yellow_2015_Dinner-18](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Dinner-18-683x1024.jpg)](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Dinner-18.jpg)Give Backs
 
 When I look at give back businesses, I typically look for one of the following indicators to determine if their claims of social good are legitimate:  
 • Transparency. Social businesses that give back often work with charitable partners to provide the social benefit tied to their business. This partnership typically requires a lot of transparency. Many non-profits will not allow a corporation to use their name or logo if the business is donating a portion of proceeds or profits, as this amount is not transparent or consistently verifiable.
@@ -43,7 +43,7 @@ When I look at give back businesses, I typically look for one of the following i
 **At minimum, social businesses should explain the donation amount or the impact that each sale has toward providing a social benefit.** For example, [Conscious Step](http://consciousstep.com/) makes socks that fight poverty. Each pair of socks sold provides a specific social solution, such as 18 months of clean water or six therapeutic food packs. Better yet, the socks are certified fair-trade.  
 • B Corp Status. B-Corp status is a prestigious distinction granted to organizations like Patagonia, Apolis, Warby Parker, Seventh Generation, The Honest Co., and Method. Companies must pass a rigorous assessment of their policies and practices to determine how much benefit they provide to society. Given the rigorous nature of a B Corp assessment, I have found that this distinction goes a long way to determining the validity of a social business.
 
-[![Yellow_2015_Dinner-19 (1)](http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-19-1-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-19-1.jpg)
+[![Yellow_2015_Dinner-19 (1)](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Dinner-19-1-683x1024.jpg)](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Dinner-19-1.jpg)
 
 #### Ethical Sourcing
 
@@ -64,7 +64,7 @@ The best social businesses are those that are built around their mission to do g
 
 At Society B, we also only work with businesses that can truly demonstrate proof of social impact. We expect give back brands to be transparent about their giving, and we prefer brands that give at least 10% back. Why? Because we also donate 10% of every purchase to charity.
 
-[![Yellow_2015_Dinner-13](http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-13-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/Yellow_2015_Dinner-13.jpg)Do we demand that all businesses operate as non-profits or that our give back brands donate more than half of their profits? No. We understand that some organizations are simply not structured to operate sustainably that way. And businesses can only do good and make a difference if they’re, well, still in business.
+[![Yellow_2015_Dinner-13](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Dinner-13-683x1024.jpg)](https://yellow-blog-images.imgix.net/2016/03/Yellow_2015_Dinner-13.jpg)Do we demand that all businesses operate as non-profits or that our give back brands donate more than half of their profits? No. We understand that some organizations are simply not structured to operate sustainably that way. And businesses can only do good and make a difference if they’re, well, still in business.
 
 #### Red Flags
 
@@ -77,4 +77,4 @@ That said, consumers can often spot frauds. Here is a short list of red flags to
 
 So what’s just as important as the amount of good that a social business does? The fact that they have customers and the opportunities to fulfill their social ambitions. Author Anna Lappe once said, _“Every time you spend money, you're casting a vote for the kind of world you want.”_ Our purchases—as consumers and as business owners—matter. We have a world of good to do.
 
-[![LindsayByers-Mirth](http://yellowconference.com/wp-content/uploads/2016/03/LindsayByers-Mirth.jpg)](http://www.societyb.com/)
+[![LindsayByers-Mirth](https://yellow-blog-images.imgix.net/2016/03/LindsayByers-Mirth.jpg)](http://www.societyb.com/)

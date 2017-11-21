@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/whenlifefeelsmessy/"
 ---
 
-[![Rediscovering Authenticity ](http://yellowconference.com/wp-content/uploads/2015/03/authenticitywhenlifeismessy.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/authenticitywhenlifeismessy.jpg)
+[![Rediscovering Authenticity ](https://yellow-blog-images.imgix.net/2015/03/authenticitywhenlifeismessy.jpg)](https://yellow-blog-images.imgix.net/2015/03/authenticitywhenlifeismessy.jpg)
 
 Suffering. Trouble. Pain. These are emotions that we never _really_ want to talk about.
 
@@ -24,7 +24,7 @@ As the oldest child in my family and a pretty independent individual, I hate fin
 
 I’d carry on and try to carry the weight of my problems and my worries. But at some point, I would find myself at the brink of breaking and wonder if I could’ve ever “fixed it” earlier. And in the past couple of years, rather than learning to fix the situation, I’ve been learning to bare my heart, my life, and my battles with others, allowing them to encourage me, support me, and care for me. In turn, I get to do the same for and with them. We end up enduring the stuff life throws at us, _together_.
 
-[![Rediscovering Authenticity: When Life Feels Messy](http://yellowconference.com/wp-content/uploads/2015/03/messy4.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/messy4.jpg)
+[![Rediscovering Authenticity: When Life Feels Messy](https://yellow-blog-images.imgix.net/2015/03/messy4.jpg)](https://yellow-blog-images.imgix.net/2015/03/messy4.jpg)
 
 When we are able to share our insecurities and our lives with one another, we unlock moments for amazing things to happen, for us to really connect with each other. As I’ve opened up about some of my hardest times in life, I’ve found that other people have gone through some of the same or (freakishly) similar experiences and struggles, and it has always blown my mind! Because, before that, I would always think that I was a lone-ranger, that I had to go through my battles alone and fend for myself and simply survive it.
 
@@ -34,7 +34,7 @@ You don’t have to “just survive” through a crisis or onslaughts of conflic
 
 Authenticity is sincerity. It is us being real and raw. In an authentic life, I believe honesty is at the core of our living, our existing, our doing, and our relating. By being authentic, we don’t just gain a better understanding of who we are, but we also enable community. Our weakness lends itself to powerful consequences. You never really know what could happen from those moments of being vulnerable and weak before yourself and others. But more often than not, when we are open, we find common ground; common ground where we can walk and encourage one another and battle through our struggles side by side.
 
-[![Rediscovering Authenticity: When  Life Feels Messy](http://yellowconference.com/wp-content/uploads/2015/03/authenticitywhenlifeismessy3.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/authenticitywhenlifeismessy3.jpg)
+[![Rediscovering Authenticity: When  Life Feels Messy](https://yellow-blog-images.imgix.net/2015/03/authenticitywhenlifeismessy3.jpg)](https://yellow-blog-images.imgix.net/2015/03/authenticitywhenlifeismessy3.jpg)
 
 My journey in realizing and experiencing the power that lies within weakness has revealed these 3 steps that I try to make regularly:
 
@@ -46,4 +46,4 @@ My journey in realizing and experiencing the power that lies within weakness has
 
 _Photos by [Karen Hernandez](http://alwaysjoyfulkaren.blogspot.com/)_
 
-[![estherohbio](http://yellowconference.com/wp-content/uploads/2015/03/estherohbio1.jpg)](https://estherohx.wordpress.com/)
+[![estherohbio](https://yellow-blog-images.imgix.net/2015/03/estherohbio1.jpg)](https://estherohx.wordpress.com/)

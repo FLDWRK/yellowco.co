@@ -19,7 +19,7 @@ There was just something about arranging words in an artful way, carefully craft
 
 A long time later I met my husband, Michael, by an old pay phone at the university we were attending. He was a musician and one grand evening we showed each other all of the songs we had written in a tiny little practice room. I sat at the piano, he sat on the floor. It was never the plan to write music together, we wrote pretty differently - in both theme and composition.
 
-![](http://yellowco.co/wp-content/uploads/2017/06/Gungor_1.jpg)
+![](https://yellow-blog-images.imgix.net/2017/06/Gungor_1.jpg)
 
 When we first tried to write together it crashed and burned. Crafting a piece of art with another person is a vulnerable thing. Thus, feelings can get hurt oh so easily when co-writing. It requires being un-attached to your ideas a lot. But eventually, we found ourselves writing together in a natural way. Like so many musicians, we both grew up playing music in church, and that is where our music started. Later we began getting invited to play in various venues, so we thought we should probably have an actual band to play with. Everything really took a turn though when we began writing from a deeper place - unafraid of speaking to deep pain or belief.
 
@@ -33,7 +33,7 @@ Honestly, it turned out more beautiful than I thought it could be. I feel pretty
 
 I definitely don’t claim to have arrived by any means, but I think there is something that suffering and pain has unearthed in me.
 
-![](http://yellowco.co/wp-content/uploads/2017/06/Gungor_Music1990-1.jpg)
+![](https://yellow-blog-images.imgix.net/2017/06/Gungor_Music1990-1.jpg)
 
 #### **What has been your greatest struggle as a musician and artist?**
 
@@ -55,4 +55,4 @@ LG: The present is all there is. That could be the theme of this year for me. We
 
 _Photos provided by [Lisa Gungor](http://www.gungormusic.com/)_
 
-[![Hanna Snyder Bio](http://yellowco.co/wp-content/uploads/2017/04/HANNA-BIO.jpg)](http://hannasnyder.com)
+[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/04/HANNA-BIO.jpg)](http://hannasnyder.com)

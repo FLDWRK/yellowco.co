@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/battling-overwhelm-in-your-business-or-side-hustle-or-life-this-post-is-for-you/"
 ---
 
-[![K1](http://yellowconference.com/wp-content/uploads/2016/03/K1.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/K1.jpg)I remember we had just gotten home from traveling and I was itching to get back to the office. I knew I had a gazillion things to do and I had so many rad ideas rolling through my head. This was going to be good! I dumped all of our sandy and stinky road trip attire in the washing machine and got all set up at my desk, cross-legged in my Lulus. And then, I just stared at my computer. I'm talking for probably 10 minutes. I had no idea where to start. Have you been there? Overwhelm started to creep in and then I realized that because we had been on the road, we hadn't had our Monday morning meeting. No wonder.
+[![K1](https://yellow-blog-images.imgix.net/2016/03/K1.jpg)](https://yellow-blog-images.imgix.net/2016/03/K1.jpg)I remember we had just gotten home from traveling and I was itching to get back to the office. I knew I had a gazillion things to do and I had so many rad ideas rolling through my head. This was going to be good! I dumped all of our sandy and stinky road trip attire in the washing machine and got all set up at my desk, cross-legged in my Lulus. And then, I just stared at my computer. I'm talking for probably 10 minutes. I had no idea where to start. Have you been there? Overwhelm started to creep in and then I realized that because we had been on the road, we hadn't had our Monday morning meeting. No wonder.
 
 About three years into our so-far seven-year career as entrepreneurs, my business partner (who also happens to be my hot hubby) and I realized something had to change with our to-do lists, schedules and really, how we viewed time. _We were always wanting more time._
 
@@ -27,9 +27,9 @@ Yes, all of them. This can definitely be a process. The best way to do this is t
 1.  #### **Prioritize your tasks**
 
 Rate your tasks 1-5\. Give them a 1 if they're essential to your business. Give them a 5 if no one would notice if they didn't get done, and a 2, 3 or 4 for everything in between. Now the fun part…give each task a happiness score! Use a 1 for tasks you love doing and a 5 for tasks you'd rather never do again. It's time for you to outsource those 4s and 5s, or get rid of them all together! What we're doing here is seeing what's essential to you and your business. Sometimes (most of the time) it's not only okay for you to just focus on what's essential, but it's actually better for your brain and better for your business![  
-](http://yellowconference.com/wp-content/uploads/2016/03/k3.jpg)
+](https://yellow-blog-images.imgix.net/2016/03/k3.jpg)
 
-[![k3](http://yellowconference.com/wp-content/uploads/2016/03/k3.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/k3.jpg)
+[![k3](https://yellow-blog-images.imgix.net/2016/03/k3.jpg)](https://yellow-blog-images.imgix.net/2016/03/k3.jpg)
 
 1.  #### **Group tasks**
 
@@ -37,7 +37,7 @@ Jumping from one thing to another, be it ideas, types of work or tasks is exhaus
 
 1.  #### **Create a schedule**
 
-This is where some serious magic happens! But, remember: If it's not on the calendar, it's not going to happen. Use your list of categories and prioritized tasks and group together things like client communication (shoot for twice a day and then close that inbox!), client projects (maybe twice a week for 4 hours each?) and bookkeeping (the 15th and 30th). **Another HOT TIP:** **Schedule things for you, _first!_** On the first of each month, we schedule our dates, activities and adventures before we lock in the work weeks. [![k2](http://yellowconference.com/wp-content/uploads/2016/03/k2.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/k2.jpg)
+This is where some serious magic happens! But, remember: If it's not on the calendar, it's not going to happen. Use your list of categories and prioritized tasks and group together things like client communication (shoot for twice a day and then close that inbox!), client projects (maybe twice a week for 4 hours each?) and bookkeeping (the 15th and 30th). **Another HOT TIP:** **Schedule things for you, _first!_** On the first of each month, we schedule our dates, activities and adventures before we lock in the work weeks. [![k2](https://yellow-blog-images.imgix.net/2016/03/k2.jpg)](https://yellow-blog-images.imgix.net/2016/03/k2.jpg)
 
 1.  #### **Create a weekly agenda**
 
@@ -55,4 +55,4 @@ It's safe to say we all agree that time is a hot commodity. And we can throw our
 
 _Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/)_
 
-[![beckymorquecho](http://yellowconference.com/wp-content/uploads/2016/03/beckymorquecho.jpg)](http://idealustlife.com/)
+[![beckymorquecho](https://yellow-blog-images.imgix.net/2016/03/beckymorquecho.jpg)](http://idealustlife.com/)

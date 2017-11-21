@@ -11,7 +11,7 @@ categories:
 redirect_from: "/advice/building-your-leadership-story-and-remembering-who-you-are-in-the-process/"
 ---
 
-[![picture1](http://yellowconference.com/wp-content/uploads/2016/03/picture1.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/picture1.jpg)The first step in refining yourself is to _know_ yourself. Every leader must be self-aware in order to effectively lead and in order to create honestly from yourself and for others.
+[![picture1](https://yellow-blog-images.imgix.net/2016/03/picture1.jpg)](https://yellow-blog-images.imgix.net/2016/03/picture1.jpg)The first step in refining yourself is to _know_ yourself. Every leader must be self-aware in order to effectively lead and in order to create honestly from yourself and for others.
 
 ## The story of my leadership and creativity is born from my social identities.
 
@@ -25,7 +25,7 @@ My challenge and responsibility as a leader and creative is to understand my bui
 
 From my identities come the stories I tell myself about how life works including my abilities, my limits, my privileges, my work ethic, how I should communicate with others, who I should befriend, expectations I should have for myself and others, and how I feel others perceive me, etc. All of this “stuff” shows up in how I lead others and in the things I create for others to consume. It’s how I compose my version of the truth.
 
-[![untitled (194 of 1234)](http://yellowconference.com/wp-content/uploads/2016/03/untitled-194-of-1234.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/untitled-194-of-1234.jpg)As a leader and a creative, I know that people will want to know and will pay attention to my identities in order to understand whether they can relate to me, learn from me, trust me, emulate and aspire to live the life I present, and ultimately it could determine whether they allow me to have an influence on their life.
+[![untitled (194 of 1234)](https://yellow-blog-images.imgix.net/2016/03/untitled-194-of-1234.jpg)](https://yellow-blog-images.imgix.net/2016/03/untitled-194-of-1234.jpg)As a leader and a creative, I know that people will want to know and will pay attention to my identities in order to understand whether they can relate to me, learn from me, trust me, emulate and aspire to live the life I present, and ultimately it could determine whether they allow me to have an influence on their life.
 
 ## The Big 8 are often the first identities we think about when taking a deep dive into how you identify yourself.
 
@@ -46,7 +46,7 @@ Appearance and Body Image- **Curvy, plus-size**Family Origin and Family Structur
 
 Some of my social identities are more salient than others. I think about my race, ethnicity, and gender but I rarely think about my ability or that English is my native language. Depending on the context of the current season of my life, my social identifiers move closer to or farther away from my core. I never thought deeply about my gender identity in college but when I moved into a fraternity house in graduate school with 34 men to serve as their Residential Fellow _(i.e. House Mom)_, this identity, that of woman, became very apparent and important to me in that space.
 
-[![untitled (512 of 1234)](http://yellowconference.com/wp-content/uploads/2016/03/untitled-512-of-1234.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/untitled-512-of-1234.jpg)To add another layer to this parfait, I’m not just one identity at a time. The intersectionality of my identities is key. I’m not _only_ a woman. I live my life as all of these identities simultaneously.
+[![untitled (512 of 1234)](https://yellow-blog-images.imgix.net/2016/03/untitled-512-of-1234.jpg)](https://yellow-blog-images.imgix.net/2016/03/untitled-512-of-1234.jpg)To add another layer to this parfait, I’m not just one identity at a time. The intersectionality of my identities is key. I’m not _only_ a woman. I live my life as all of these identities simultaneously.
 
 > _The first step in refining yourself is to know yourself. Every leader must be self-aware in order to effectively lead and in order to create honestly from yourself and for others._
 
@@ -62,4 +62,4 @@ The best thing that I’ve learned to do as a leader and creative is to recogniz
 
 _Photos by [Karen Hernandez](http://www.karenmariehernandez.com/)_
 
-[![KrystalClark](http://yellowconference.com/wp-content/uploads/2016/03/KrystalClark.jpg)](http://peculiarpearl.com/)
+[![KrystalClark](https://yellow-blog-images.imgix.net/2016/03/KrystalClark.jpg)](http://peculiarpearl.com/)

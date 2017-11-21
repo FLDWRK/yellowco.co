@@ -11,7 +11,7 @@ categories:
 redirect_from: "/light-talk/five-tips-to-carry-conversation-like-a-pro/"
 ---
 
-[![bepresent2](http://yellowconference.com/wp-content/uploads/2015/06/bepresent2.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/bepresent2.jpg)
+[![bepresent2](https://yellow-blog-images.imgix.net/2015/06/bepresent2.jpg)](https://yellow-blog-images.imgix.net/2015/06/bepresent2.jpg)
 
 Whether we are hosting a much needed dinner party with our closest ladies, or establishing our creative community at a networking event, we want to take full advantage of this time! It would be easy to stick to small talk, the latest gossip and newest trends during our time together, but time is short(!) and we would be wise to use our conversations to develop deeper and more genuine relationships, helping each other grow, and spurring one another on toward our dreams.
 
@@ -31,7 +31,7 @@ If you _have_ to take a pic (I get it), snap a few then post later (everyone kno
 
 If you work for a business or organization that needs you to be constantly active on social media, using tools like Hootsuite or scheduling posts on Facebook can help your brand still be "present" on the Internet without you really being there. Find some tricks that will help you to stay consistently in front of your audience on social media, without being distracted while with your evening's company.
 
-[![bepresent](http://yellowconference.com/wp-content/uploads/2015/06/bepresent.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/bepresent.jpg)
+[![bepresent](https://yellow-blog-images.imgix.net/2015/06/bepresent.jpg)](https://yellow-blog-images.imgix.net/2015/06/bepresent.jpg)
 
 **Make eye contact.**
 
@@ -57,4 +57,4 @@ If we really want to build a healthy and supportive tribe, we have to start with
 
 _Photos by [Whitney Darling](http://whitneydarling.com/)_
 
-_[![adriscoll bio](http://yellowconference.com/wp-content/uploads/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/) _
+_[![adriscoll bio](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/) _

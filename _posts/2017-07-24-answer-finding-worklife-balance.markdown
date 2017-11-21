@@ -23,7 +23,7 @@ You are the CEO of your life, the captain of your ship, and the expert in charge
 
 Luckily, you already have exactly what you need to decide the right balance - you have your inner authority. Learn to tap into it with these actionable tips, and create your own definition of work boundaries.
 
-![](http://yellowco.co/wp-content/uploads/2017/07/TheFinerFewer-Final-257-1.jpg)
+![](https://yellow-blog-images.imgix.net/2017/07/TheFinerFewer-Final-257-1.jpg)
 
 ### **Start with a crystal-clear goal.**
 
@@ -45,4 +45,4 @@ Creating a work/life balance as a creative entrepreneur is all about finding th
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![AMY EVERHART BIO](http://yellowco.co/wp-content/uploads/2017/04/AMY-EVERHART-BIO.jpg)](http://www.amyeverhartcoaching.com/)
+[![AMY EVERHART BIO](https://yellow-blog-images.imgix.net/2017/04/AMY-EVERHART-BIO.jpg)](http://www.amyeverhartcoaching.com/)

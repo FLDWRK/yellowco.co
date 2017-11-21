@@ -12,7 +12,7 @@ categories:
 redirect_from: "/light-talk/finding-your-social-media-tribe/"
 ---
 
-[![kellll](http://yellowconference.com/wp-content/uploads/2015/06/kellll.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/kellll.jpg)
+[![kellll](https://yellow-blog-images.imgix.net/2015/06/kellll.jpg)](https://yellow-blog-images.imgix.net/2015/06/kellll.jpg)
 
 **Connecting with your tribe and staying true to yourself are the keys to making social media a positive experience.**
 
@@ -38,7 +38,7 @@ So you found some people that you feel aligned with, what do you do next? Pick o
 
 I am an introvert and actually quite shy in person. I definitely take a different approach to social media. I make one connection at a time and create small goals. Overtime, these small connections have extended my network in a significant way. I talk very openly about my struggles and lead many conversations about it. I write blog posts about it and talk about it on Instagram quite often. This attracts people who are like-minded and want to know what you have to say about overcoming it. This encourages really positive conversations and allows you to speak what you believe in and what people can expect of you. At the end of the day, you are attracting ideal clients or customers.
 
-[![kell](http://yellowconference.com/wp-content/uploads/2015/06/kell.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/kell.jpg)**Use hashtags to your advantage.**
+[![kell](https://yellow-blog-images.imgix.net/2015/06/kell.jpg)](https://yellow-blog-images.imgix.net/2015/06/kell.jpg)**Use hashtags to your advantage.**
 
 Using hashtags that speak to like-minded people can be a game changer. Many of my consult clients are introverts. So on Instagram I often use the hashtag #introvert or other hashtags that speak to the personality of my ideal client. You can also get really specific about hashtags. To do this, follow people that have hired you or bought your product, see what hashtags they are using and use those. If you do this successfully and creatively, you will attract more people like them. Besides using the hashtags, you can click on them and start conversations with other people who use them. Easy peasy, right?
 
@@ -52,4 +52,4 @@ This is something that everyone says, but it is _so true._ Let your personality 
 
 _Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/)_
 
-[![EFeinbio](http://yellowconference.com/wp-content/uploads/2015/06/EFeinbio.jpg)](http://www.iteratesocial.com/)
+[![EFeinbio](https://yellow-blog-images.imgix.net/2015/06/EFeinbio.jpg)](http://www.iteratesocial.com/)

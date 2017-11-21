@@ -5,9 +5,15 @@ date: '2017-10-25 04:00:14 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/word-rebel-fight-education-inequality/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
-The Bronx will change a girl. When Lauren Poinier began teaching Special Education in this NYC borough, she couldn't predict that this was the first step toward founding a non-profit. [Word Rebel](http://www.wordrebel.org/) closes the achievement gap before it starts by connecting the parents of pre-k students with literacy resources, so they can rebel against education inequality one word at a time. Learn more about how [Word Rebel](http://www.wordrebel.org/) takes on this issue in this interview with Lauren:
+The Bronx will change a girl. When Lauren Poinier began teaching Special Education in this NYC borough, she couldn't predict that this was the first step toward founding a non-profit.
+
+<!-- more -->
+
+[Word Rebel](http://www.wordrebel.org/) closes the achievement gap before it starts by connecting the parents of pre-k students with literacy resources, so they can rebel against education inequality one word at a time. Learn more about how [Word Rebel](http://www.wordrebel.org/) takes on this issue in this interview with Lauren:
 
 #### Can you tell us what your rebellious organization is doing in the world?
 
@@ -23,7 +29,7 @@ LP: I was teaching middle and high school special education.
 
 ### My students were reading 4-6 years below grade level, but in my opinion, only 1 in 10 of them actually had a learning disability. The rest just had a vocabulary deficit.
 
-I began researching the most effective vocabulary interventions, but research showed that high school, middle school, and even elementary school is too late to intervene because the achievement gap begins before preschool. I found a study called the 30 Million Word Gap: a child needs to hear 30 million words before they learn the 1,100 words that put them on track for graduation. Low income students start preschool with a 600 word deficit. By 10th grade, it’s a 15,000\. Do the math on how many words that is to teach in one day. No teacher can teach that much vocabulary when they have high school content to teach. I was teaching 21-year-old seniors who had experienced 18 years of falling behind their high income peers - and there would only be more students like that. I could keep teaching, or I could reach students before they got misclassified with learning disabilities. ![WHY WORDS ARE THE #1 WAY TO FIGHT EDUCATION INEQUALITY - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/Yellow2016-80.jpg)
+I began researching the most effective vocabulary interventions, but research showed that high school, middle school, and even elementary school is too late to intervene because the achievement gap begins before preschool. I found a study called the 30 Million Word Gap: a child needs to hear 30 million words before they learn the 1,100 words that put them on track for graduation. Low income students start preschool with a 600 word deficit. By 10th grade, it’s a 15,000\. Do the math on how many words that is to teach in one day. No teacher can teach that much vocabulary when they have high school content to teach. I was teaching 21-year-old seniors who had experienced 18 years of falling behind their high income peers - and there would only be more students like that. I could keep teaching, or I could reach students before they got misclassified with learning disabilities. ![WHY WORDS ARE THE #1 WAY TO FIGHT EDUCATION INEQUALITY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/Yellow2016-80.jpg)
 
 #### What first steps did you take?
 
@@ -39,7 +45,7 @@ LP: Word Rebel is 100% volunteer-owned and operated. Along with 30 partner dayca
 
 #### What did you do to create a common ground with your day care partners?
 
-LP: I spent two years walking door to door through Brooklyn, Manhattan, and the Bronx. I wouldn’t even cold call. I would just show up and convince them to listen to me for fifteen minutes. I definitely felt the tension of, _“Who are you and what are you trying to sell me?”_ But once they learned my background and that I was connecting them to the literacy materials they already wanted, they were glad to accept a partnership. ![WHY WORDS ARE THE #1 WAY TO FIGHT EDUCATION INEQUALITY - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/Yellow2016-79.jpg)
+LP: I spent two years walking door to door through Brooklyn, Manhattan, and the Bronx. I wouldn’t even cold call. I would just show up and convince them to listen to me for fifteen minutes. I definitely felt the tension of, _“Who are you and what are you trying to sell me?”_ But once they learned my background and that I was connecting them to the literacy materials they already wanted, they were glad to accept a partnership. ![WHY WORDS ARE THE #1 WAY TO FIGHT EDUCATION INEQUALITY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/Yellow2016-79.jpg)
 
 #### **To address the elephant in the room, you are a White, 20-something going into project buildings. Were you welcomed with open arms?**
 
@@ -63,4 +69,4 @@ LP: Apricity. It means _“the warmth of the sun on your face on a cold winter d
 
 _Photos by: [Eun Creative](http://www.euncreative.com/) and [Cacá Santoro](http://cacasantoro.com/)_
 
-[![JACKIE VIRAMONTEZ BIO](http://yellowco.co/wp-content/uploads/2017/04/JACKIE-BIO.jpg)](https://www.amazon.com/dp/1683502809/ref=asc_df_16835028095085146?smid=ATVPDKIKX0DER&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_455-20;15012125790140187802310070301008005&linkCode=df0&creative=395093&creativeASIN=1683502809)
+[![JACKIE VIRAMONTEZ BIO](https://yellow-blog-images.imgix.net/2017/04/JACKIE-BIO.jpg)](https://www.amazon.com/dp/1683502809/ref=asc_df_16835028095085146?smid=ATVPDKIKX0DER&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_455-20;15012125790140187802310070301008005&linkCode=df0&creative=395093&creativeASIN=1683502809)

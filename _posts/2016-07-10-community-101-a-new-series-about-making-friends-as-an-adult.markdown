@@ -13,8 +13,8 @@ redirect_from: "/advice/community-101-a-new-series-about-making-friends-as-an-ad
 
 _This is the first post in a new Sunday series by our Yellow Collective project manager [Lauren Caselli](http://www.laurencaselli.com/) about finding, creating, and growing a community of people who have your back. Whether it’s online or in-person, free or paid, having a community of people who understand and support you can move you toward your goals faster than ever._
 
-## _[![Community-Building](http://yellowconference.com/wp-content/uploads/2016/07/Community-Building.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/Community-Building.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2016/07/MG_0376-1.jpg)_August 2014 was quite possibly the hardest month that I’ve ever had professionally (and when you work for yourself, professional sort of becomes personal, so it could be said it was the hardest month in recent memory).
+## _[![Community-Building](https://yellow-blog-images.imgix.net/2016/07/Community-Building.jpg)](https://yellow-blog-images.imgix.net/2016/07/Community-Building.jpg)[  
+](https://yellow-blog-images.imgix.net/2016/07/MG_0376-1.jpg)_August 2014 was quite possibly the hardest month that I’ve ever had professionally (and when you work for yourself, professional sort of becomes personal, so it could be said it was the hardest month in recent memory).
 
 I remember lying face up on my bed daily, staring at the ceiling, in the middle of the work day, alternating between crying and dry heaving into my kitchen sink. As a relatively fresh business owner, I debated quitting, moving back home to New York, and finding a “real job” like everyone else I knew, almost before my business even got out of its infancy.
 
@@ -28,7 +28,7 @@ My brother even offered to pay my moving costs from Montana, where I was living,
 
 _**Instead,**_ I took a six-week road trip around the east coast to get my bearings and truly make a decision about my next step (because if nothing else, I knew that a six-week road trip would be an excellent plot point in whatever my story became after that moment).
 
-Somewhere along the way, I stopped in a small town in North Carolina to attend a conference that I had heard about online. The agenda was vague and the premise wasn’t clearly defined, but I’d heard good things from people I trusted.[![Community 101: The Yellow Co. Blog](http://yellowconference.com/wp-content/uploads/2016/07/MG_0746.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/MG_0746.jpg)Most of the attendees were in various stages of business ownership and despite low expectations, when I walked out of the hotel three days later, I felt an overwhelming sense of belonging that I hadn’t felt in my nearly one year of captaining my own professional ship. These people had been to the front lines of life. And they came back to tell deeply personal, yet valorous stories about their experiences.
+Somewhere along the way, I stopped in a small town in North Carolina to attend a conference that I had heard about online. The agenda was vague and the premise wasn’t clearly defined, but I’d heard good things from people I trusted.[![Community 101: The Yellow Co. Blog](https://yellow-blog-images.imgix.net/2016/07/MG_0746.jpg)](https://yellow-blog-images.imgix.net/2016/07/MG_0746.jpg)Most of the attendees were in various stages of business ownership and despite low expectations, when I walked out of the hotel three days later, I felt an overwhelming sense of belonging that I hadn’t felt in my nearly one year of captaining my own professional ship. These people had been to the front lines of life. And they came back to tell deeply personal, yet valorous stories about their experiences.
 
 I knew these were the sort of people I needed more of in my life. But I wanted them to be there every day, in person, instead of a million miles away.
 
@@ -46,7 +46,7 @@ Over the course of the next twelve months, our _Creative Lady Club_ met regularl
 
 We’re each other’s first line of defense against all the icky things that life can throw at us. And man, it’s a nice feeling to have a team of people in the foxholes with you. And while this phenomenon is not new (think of every professional trade organization ever...they all have chapters to do exactly this), there’s something different about the way this particular generation approaches community-based groups.
 
-**Communities today are a place for total honesty.** They’re a place for people to feel like the walls can come down, where they can be themselves, and where they are encouraged to share the truths of their lives, their businesses, their missions, and their dreams.[![The Yellow Co. Blog: Community Building 101](http://yellowconference.com/wp-content/uploads/2016/07/MG_0316.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/MG_0316.jpg)
+**Communities today are a place for total honesty.** They’re a place for people to feel like the walls can come down, where they can be themselves, and where they are encouraged to share the truths of their lives, their businesses, their missions, and their dreams.[![The Yellow Co. Blog: Community Building 101](https://yellow-blog-images.imgix.net/2016/07/MG_0316.jpg)](https://yellow-blog-images.imgix.net/2016/07/MG_0316.jpg)
 
 ## **The next four Sundays on the blog are for exploring why building a tribe of people who have your back is the single greatest thing you can do for your business, and why every successful company has one.**
 
@@ -60,10 +60,10 @@ That’s it. Just write the list down. Identify women and men across industries 
 
 Write it down. Tape it on the wall. And then tune in on July 24 to read  about what to do next, once you have this list of badass people at your fingertips.
 
-_**To community and beyond![![Yellow Co. Blog: Community Building 101](http://yellowconference.com/wp-content/uploads/2016/07/MG_1477.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/MG_1477.jpg)**_ _Psst...Yellow Co. is **so** invested in having a community of amazing people around us that we’re launching something extra special [at our conference on August 25th.](http://yellowconference.com/) Want to be the first to know about it? Sign up for our first-to-know email list [here](http://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=e811fb1a74) (or if you’d rather be there in person for the big reveal, snag one of the final spots at Yellow Conference)._
+_**To community and beyond![![Yellow Co. Blog: Community Building 101](https://yellow-blog-images.imgix.net/2016/07/MG_1477.jpg)](https://yellow-blog-images.imgix.net/2016/07/MG_1477.jpg)**_ _Psst...Yellow Co. is **so** invested in having a community of amazing people around us that we’re launching something extra special [at our conference on August 25th.](http://yellowconference.com/) Want to be the first to know about it? Sign up for our first-to-know email list [here](http://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=e811fb1a74) (or if you’d rather be there in person for the big reveal, snag one of the final spots at Yellow Conference)._
 
-[![EMAIL-LIST](http://yellowconference.com/wp-content/uploads/2016/07/EMAIL-LIST.png)](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)
+[![EMAIL-LIST](https://yellow-blog-images.imgix.net/2016/07/EMAIL-LIST.png)](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)
 
 _Photos by [Karen Marie Co.](http://karenmarieco.com/)_
 
-[![LAURENCASELLI](http://yellowconference.com/wp-content/uploads/2016/07/LAURENCASELLI.jpg)](http://www.laurencaselli.com/)
+[![LAURENCASELLI](https://yellow-blog-images.imgix.net/2016/07/LAURENCASELLI.jpg)](http://www.laurencaselli.com/)

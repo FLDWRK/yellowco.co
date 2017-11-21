@@ -23,7 +23,7 @@ Instead, deal with it when it approaches. You can start facing your financial an
 
 Instead, give yourself a time frame of what you would like to accomplish before you up and quit. You can even be proactive and speak with a financial adviser to discuss your concerns and receive guidance. This will definitely help you ease your mind before you decide to leap forward full-time in your business.
 
-![3 STEPS TO CALM FINANCIAL ANXIETY WHEN TAKING A RISK - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/ValerieDenisePhotos-29.jpg)
+![3 STEPS TO CALM FINANCIAL ANXIETY WHEN TAKING A RISK - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/ValerieDenisePhotos-29.jpg)
 
 #### **2\. Do your research.**
 
@@ -35,7 +35,7 @@ It's the dream we're drooling over. The free time, staying indoors, and making m
 
 Then, open your eyes to potential multiple streams of income. Find one person in your industry that is doing well, and always remember that financial stability is attainable when fearful thoughts creep in. Make the plan, build your resources, use your grit, and your earnings will surely follow.
 
-![3 STEPS TO CALM FINANCIAL ANXIETY WHEN TAKING A RISK - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/ValerieDenisePhotos-38.jpg)
+![3 STEPS TO CALM FINANCIAL ANXIETY WHEN TAKING A RISK - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/ValerieDenisePhotos-38.jpg)
 
 #### **3\. Make the decision to go for it.**
 
@@ -47,4 +47,4 @@ Have gratitude in each stage of your business, and be proud of it when it grows.
 
 _Photos by: [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![Myasi Jackson Bio](http://yellowco.co/wp-content/uploads/2017/09/Myasi-Jackson-Bio.jpg)](http://www.purposecopy.com/)
+[![Myasi Jackson Bio](https://yellow-blog-images.imgix.net/2017/09/Myasi-Jackson-Bio.jpg)](http://www.purposecopy.com/)

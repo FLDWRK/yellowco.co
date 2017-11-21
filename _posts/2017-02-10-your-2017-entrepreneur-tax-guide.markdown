@@ -87,4 +87,4 @@ _**Related Resources:**_
 
 _Photo by [Cacá Santoro](http://cacasantoro.com/)_
 
-[![wilkinsonmazzeo](http://yellowco.co/wp-content/uploads/2017/02/WILKINSONMAZZEO.jpg)](https://wilkinsonmazzeo.com/)
+[![wilkinsonmazzeo](https://yellow-blog-images.imgix.net/2017/02/WILKINSONMAZZEO.jpg)](https://wilkinsonmazzeo.com/)

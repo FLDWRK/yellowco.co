@@ -16,7 +16,7 @@ But sleep was most important, she said. So I called into work and told my boss t
 
 Without skipping a beat, my boss asked me if I really needed to take time off and if I couldn’t just “take some Dayquil and tough it out.” I took a moment to consider her request before respectfully declining and making the necessary arrangements to take a couple of days off. While the interaction might not seem particularly extraordinary, I can look back now and see that my decision to put my health first was actually quite revolutionary and the starting point of my personal mission to create a cultural movement of self-care and wellness.
 
-[![YELLOW CO. BLOG: SELF CARE IS NOT WEAK](http://yellowco.co/wp-content/uploads/2017/01/ValerieDenisePhotos42of43.jpg)](http://yellowco.co/wp-content/uploads/2017/01/ValerieDenisePhotos42of43.jpg)
+[![YELLOW CO. BLOG: SELF CARE IS NOT WEAK](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos42of43.jpg)](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos42of43.jpg)
 
 If you look at the animal kingdom, you’ll see that all creatures from birds to mammals and even insects practice self-care instinctually. When they’re sick, they eat plants that heal them. When they’re tired or injured, they rest. If they’re social animals, they seek connection when they need it. But somewhere along the way in our evolution as a species, we learned how to override the needs of our bodies and minds, and eventually even built a culture around doing just that.  Almost everywhere we turn, there’s some sort of messaging that encourages us to push ourselves to our limits, to hustle, to grind, to work hard, and to play even harder. But where does rest factor into this equation? **At what point did self-care get deemed self-indulgent?**
 
@@ -24,7 +24,7 @@ Most of us know that our greatest wealth is health. There’s no amount of money
 
 ### We use busyness to avoid being present with ourselves because if we stopped and stood still, we might feel the full weight of the overwhelm we’ve created in our own lives.
 
-#### [![YELLOW CO. BLOG: SELF CARE IS NOT WEAK](http://yellowco.co/wp-content/uploads/2017/01/ValerieDenisePhotos41of43.jpg)](http://yellowco.co/wp-content/uploads/2017/01/ValerieDenisePhotos41of43.jpg)
+#### [![YELLOW CO. BLOG: SELF CARE IS NOT WEAK](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos41of43.jpg)](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos41of43.jpg)
 
 So the question is, how do we shift? How do we grab the reins and steer our culture to a place that is more supportive of our most basic needs?
 
@@ -38,4 +38,4 @@ Are these simple shifts revolutionary? In the context of a culture in which so m
 
 _Photos by [Valerie Denise](http://www.valeriedenisephotos.com/)_
 
-[![ashleyberry](http://yellowco.co/wp-content/uploads/2017/01/AshleyBerry.jpg)](http://helloashleyberry.com/)
+[![ashleyberry](https://yellow-blog-images.imgix.net/2017/01/AshleyBerry.jpg)](http://helloashleyberry.com/)

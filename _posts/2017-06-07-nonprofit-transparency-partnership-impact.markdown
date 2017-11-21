@@ -19,7 +19,7 @@ Before you jump in, do a little homework to find out about the organization. You
 
 Platforms such as [Charity Navigator](https://www.charitynavigator.org/) , [Guidestar](https://www.guidestar.org/) , and [Give Well](http://www.givewell.org/) offer everything from ratings and reviews to financial insights on nearly every registered organization. Not only can you find out how an organization is rated, but also see for yourself details on important areas - such as financial transparency and wellbeing, program outcomes, and external oversight.
 
-![NONPROFIT TRANSPARENCY: FINDING A PARTNERSHIP THAT MAKES REAL IMPACT - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/06/TheFinerFewer-Final-013.jpg "NONPROFIT TRANSPARENCY: FINDING A PARTNERSHIP THAT MAKES REAL IMPACT - THE YELLOW ROOM")
+![NONPROFIT TRANSPARENCY: FINDING A PARTNERSHIP THAT MAKES REAL IMPACT - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/06/TheFinerFewer-Final-013.jpg "NONPROFIT TRANSPARENCY: FINDING A PARTNERSHIP THAT MAKES REAL IMPACT - THE YELLOW ROOM")
 
 ### **Consider Impact Over Outcomes**
 
@@ -33,4 +33,4 @@ Collaborations are important and you want to make sure you’re picking the righ
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![RACHAEL PARKER CHAVEZ BIO](http://yellowco.co/wp-content/uploads/2017/05/RACHAEL-PARKER-CHAVEZ-BIO.jpg)](http://www.defininggood.com/)
+[![RACHAEL PARKER CHAVEZ BIO](https://yellow-blog-images.imgix.net/2017/05/RACHAEL-PARKER-CHAVEZ-BIO.jpg)](http://www.defininggood.com/)

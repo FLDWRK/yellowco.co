@@ -12,7 +12,7 @@ categories:
 redirect_from: "/resources/our-next-series-build/"
 ---
 
-## [![The Yellow Co.: Build](http://yellowconference.com/wp-content/uploads/2015/12/karenhernandezBUILD-opening-image.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/karenhernandezBUILD-opening-image.jpg)
+## [![The Yellow Co.: Build](https://yellow-blog-images.imgix.net/2015/12/karenhernandezBUILD-opening-image.jpg)](https://yellow-blog-images.imgix.net/2015/12/karenhernandezBUILD-opening-image.jpg)
 
 ## January. It's January.
 
@@ -30,7 +30,7 @@ Whether you just have an idea, a successful business, you're a soloprenuer, or y
 
 **_To help you do this, if you [sign up for our email list](http://eepurl.com/bLNDE1), you'll get a "[FIND THIS MONTH'S FOCUS AND BUILD](http://eepurl.com/bLNDE1)" worksheet to print out and work through on your own time._**
 
-[![Screen Shot 2016-01-04 at 6.09.42 PM](http://yellowconference.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-6.09.42-PM-1024x509.png)](http://yellowconference.us3.list-manage1.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=8a5a3900cc)
+[![Screen Shot 2016-01-04 at 6.09.42 PM](https://yellow-blog-images.imgix.net/2016/01/Screen-Shot-2016-01-04-at-6.09.42-PM-1024x509.png)](http://yellowconference.us3.list-manage1.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=8a5a3900cc)
 
 From legal talk to advice from other creative small business owners, to [events within the theme](https://www.eventbrite.com/e/building-a-value-based-business-tickets-20356073564), this series is going to give you the tools you need to live the life, build the business, and achieve the world domination you've always dreamed of.
 
@@ -48,4 +48,4 @@ Excited to grow and learn with you all. January, we're coming for ya...
 
 Photos by [Karen Hernandez](http://www.karenmariehernandez.com/)
 
-[![sally kim for the yellow co. blog](http://yellowconference.com/wp-content/uploads/2015/12/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![sally kim for the yellow co. blog](https://yellow-blog-images.imgix.net/2015/12/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

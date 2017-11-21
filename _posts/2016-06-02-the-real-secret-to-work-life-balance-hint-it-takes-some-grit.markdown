@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/the-real-secret-to-work-life-balance-hint-it-takes-some-grit/"
 ---
 
-## [![Work/Life Balance...is it even real? The Yellow Co. Blog](http://yellowconference.com/wp-content/uploads/2016/05/MG_1207-1.jpg)](http://yellowconference.com/wp-content/uploads/2016/05/MG_1207-1.jpg)Work life balance. Oh the dream.
+## [![Work/Life Balance...is it even real? The Yellow Co. Blog](https://yellow-blog-images.imgix.net/2016/05/MG_1207-1.jpg)](https://yellow-blog-images.imgix.net/2016/05/MG_1207-1.jpg)Work life balance. Oh the dream.
 
 Isn’t it what we are all striving for? That glorious middle ground between hard work and a full life. We want all the joy of owning a business, being a front runner in our industry, and the hefty paycheck that comes along with that, on a consistent basis, as well as the normal 8 or less hour workday, possibly from home, with our phones turned off at night and multiple weeks of vacation per year.
 
@@ -24,7 +24,7 @@ Being an entrepreneur does in fact give you this freedom. Building your own busi
 
 Now, I’ve been known to love a good pair of overalls, and in the creative industry particularly, being dressed in overalls is more of a fashion statement than it is a telltale sign of the working class…But still. You get the gist.
 
-[![The Yellow Co. Blog: does work/life balance really exist? ](http://yellowconference.com/wp-content/uploads/2016/06/MG_1289.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/MG_1289.jpg)
+[![The Yellow Co. Blog: does work/life balance really exist? ](https://yellow-blog-images.imgix.net/2016/06/MG_1289.jpg)](https://yellow-blog-images.imgix.net/2016/06/MG_1289.jpg)
 
 Some popular headlines that many see while starting or in the early years of their business read as such:
 
@@ -45,7 +45,7 @@ It takes a tribe to build a business; it is not something you can do all on your
 
 and they will understand that you are building your dream from the bottom up and that you WANT this. They supported you taking the leap in the first place, and they will continue to support you.  
 
-[![Work/Life Balance...is it even real? The Yellow Co. Blog](http://yellowconference.com/wp-content/uploads/2016/05/MG_1236.jpg)](http://yellowconference.com/wp-content/uploads/2016/05/MG_1236.jpg)
+[![Work/Life Balance...is it even real? The Yellow Co. Blog](https://yellow-blog-images.imgix.net/2016/05/MG_1236.jpg)](https://yellow-blog-images.imgix.net/2016/05/MG_1236.jpg)
 
 Unfortunately, there is not magic formula to making money as an entrepreneur, especially in the creative industry. That formula is actually quite simple:  **More work equals more everything.**
 
@@ -55,7 +55,7 @@ Let’s consider this: you are a graphic designer (raise your proud hand!), and 
 
 More work equals more GOOD concepts for that client. More well designed concepts equals more options for them. More options equals more praise for your hard work from them. More praise equals more good word of mouth (and maybe a tip...). More word of mouth equals more clients. More clients equal more work to be done, which in turn equals more money.  Now, you get enough clients that you can actually raise your price. Meaning, your demand has officially outweighed your supply. You have now taken the first leap into more equaling a little bit less. _More money for less work._
 
-[![The Yellow Co. Blog: does work/life balance really exist? ](http://yellowconference.com/wp-content/uploads/2016/05/MG_1328.jpg)](http://yellowconference.com/wp-content/uploads/2016/05/MG_1328.jpg)
+[![The Yellow Co. Blog: does work/life balance really exist? ](https://yellow-blog-images.imgix.net/2016/05/MG_1328.jpg)](https://yellow-blog-images.imgix.net/2016/05/MG_1328.jpg)
 
 ## Granted, the drive in you probably won’t stop.
 
@@ -69,4 +69,4 @@ Being an entrepreneur is so incredibly rewarding. To see your dream unfold in fr
 
 _Photos by [Karen Marie](http://www.karenmariehernandez.com/) _
 
-[![NCIOLE ANDREINI](http://yellowconference.com/wp-content/uploads/2016/05/NCIOLEANDREINI.jpg)](http://www.studiotwenty-two.com/)
+[![NCIOLE ANDREINI](https://yellow-blog-images.imgix.net/2016/05/NCIOLEANDREINI.jpg)](http://www.studiotwenty-two.com/)

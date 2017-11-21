@@ -24,7 +24,7 @@ It’s the glue to our partnership, try it.”  And I did. In fact, since day o
 
 For example - one day, about a year into working together, we were getting new cell phones at Best Buy and got into a disagreement about the contract. This led to a meltdown that would make The Real Housewives look like Little House on the Prairie. We were nearing a platonic partnership divorce all because of some fine print. As we were handling damage control, we realized we had skipped out on our 4A's for a few weeks. Lesson learned.
 
-![THESE 4 LITTLE WORDS ARE THE SECRET TO A HAPPY BUSINESS PARTNERSHIP - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/MG_5071-1.jpg "THESE 4 LITTLE WORDS ARE THE SECRET TO A HAPPY BUSINESS PARTNERSHIP - THE YELLOW ROOM")
+![THESE 4 LITTLE WORDS ARE THE SECRET TO A HAPPY BUSINESS PARTNERSHIP - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/MG_5071-1.jpg "THESE 4 LITTLE WORDS ARE THE SECRET TO A HAPPY BUSINESS PARTNERSHIP - THE YELLOW ROOM")
 
 Let’s unpack these magical A’s a little bit:
 
@@ -56,6 +56,6 @@ If you practice this simple, straightforward ritual, I promise your partnership 
 
 _Photos by: [Karen Marie Co.](http://www.karenmarie.co/) _
 
-[![Emily Wilkinson Bio](http://yellowco.co/wp-content/uploads/2017/08/Emily-Wilkinson-Bio.jpg)](https://www.instagram.com/em_wilkinson/)
+[![Emily Wilkinson Bio](https://yellow-blog-images.imgix.net/2017/08/Emily-Wilkinson-Bio.jpg)](https://www.instagram.com/em_wilkinson/)
 
 ### [THERE ARE STILL TICKETS AVAILABLE FOR THE YELLOW CONFERENCE _NEXT WEEK_, GRAB YOUR'S HERE!](http://yellowco.co/conference/)

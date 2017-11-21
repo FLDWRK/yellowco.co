@@ -10,7 +10,7 @@ redirect_from: "/advice/three-quick-easy-ways-to-get-over-writers-block/"
 
 Writer’s block is a very, very real thing, and it’s been a thorn in my side for these last few months.
 
-[![writers-block](http://yellowconference.com/wp-content/uploads/2016/09/Writers-Block.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/Writers-Block.jpg)
+[![writers-block](https://yellow-blog-images.imgix.net/2016/09/Writers-Block.jpg)](https://yellow-blog-images.imgix.net/2016/09/Writers-Block.jpg)
 
 I’ve lacked the creativity, the motivation, and the confidence to get what’s in my mind onto paper...I’ve chosen to say that life has gotten in the way, when in reality, I’ve been binge-watching Orange is the New Black and hanging out with my friends. I have had plenty of time to create, but I’ve chosen not to.
 
@@ -18,7 +18,7 @@ I’m a writer. It’s how I’ve chosen to label and identify myself. I firmly 
 
 Sometimes I can climb over it and create something for a second, it usually ends up being an Instagram post or a nice edit of an old photo. I’ve learned to be okay with that. Because that small thing I created is still mine originally. It’s still a little thing of what I’m supposed to be doing. Even if I don’t take 300 photos and edit them all beautifully or write four essays about the soul-searching I’ve been doing, I still created.
 
-[![_mg_1294](http://yellowconference.com/wp-content/uploads/2016/09/MG_1294-1024x683.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/MG_1294.jpg)
+[![_mg_1294](https://yellow-blog-images.imgix.net/2016/09/MG_1294-1024x683.jpg)](https://yellow-blog-images.imgix.net/2016/09/MG_1294.jpg)
 
 I have to keep reminding myself that on the days when I only post something on Instagram or I manage to come up with a line I’ll use in an essay someday.
 
@@ -26,7 +26,7 @@ Creativity is really, really hard. Especially with the struggle of mental health
 
 Creating when your brain is a hot mess is hard. But when you push through it, amazing things happen and beauty is created. Whether it’s a sketch, a painting, a drawing, or a poem, creating something is so worth it. It’s worth the sweat and the tears. By putting something beautiful into the world, the world is that much brighter and more colorful. I think we can all agree that we kind of need that beauty right now.
 
-[![_mg_1338](http://yellowconference.com/wp-content/uploads/2016/09/MG_1338-1024x683.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/MG_1338.jpg)  
+[![_mg_1338](https://yellow-blog-images.imgix.net/2016/09/MG_1338-1024x683.jpg)](https://yellow-blog-images.imgix.net/2016/09/MG_1338.jpg)  
 So how do you push through? How do you create or write when there are times you feel like you just can’t do it?
 
 **_Here are three quick and simple things you can do to get out of that block!_**
@@ -39,6 +39,6 @@ So how do you push through? How do you create or write when there are times you 
 
 I implore you and even beg you to just keep creating...It will seem practically impossible and maybe not even worth it, but it will be. Because there will be something original floating around in our universe that you created from nothing. And that is a beautiful accomplishment in itself.
 
-[![justine-bio](http://yellowconference.com/wp-content/uploads/2016/09/Justine-Bio.jpg)](https://justineakopischke.wordpress.com/)
+[![justine-bio](https://yellow-blog-images.imgix.net/2016/09/Justine-Bio.jpg)](https://justineakopischke.wordpress.com/)
 
 [![](https://lh3.googleusercontent.com/PLgiNHFRVmFsLP41efysqdUJ9SZ-AcJD3c5aX2chYUhgBTYI52sHFjId--lSB85ZE8liKk_tGGuQ32hJHUmjbw=s0)](https://yellowcollective.leadpages.co/leadbox/14275ef73f72a2%3A17a2246bc746dc/5739407210446848/)

@@ -24,7 +24,7 @@ _Boldness or determination in facing great danger, especially in a battle; heroi
 
 #### Synonyms: bravery, courage, pluck, nerve, daring, fearlessness, audacity, boldness, stout- heartedness heroism, backbone, spirit
 
-[![VALOR-ipad](http://yellowconference.com/wp-content/uploads/2016/07/VALOR-ipad.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/VALOR-ipad.jpg)
+[![VALOR-ipad](https://yellow-blog-images.imgix.net/2016/07/VALOR-ipad.jpg)](https://yellow-blog-images.imgix.net/2016/07/VALOR-ipad.jpg)
 
 Bravery, courage, pluck, nerve, daring, fearless, audacious, bold, heroic, backbone, _spirit_...All these are synonyms to our next theme: **Valor.**
 
@@ -79,9 +79,9 @@ So, let's do this-let's run into battle with our fists in the air, with our rall
 
 To help you get inspired to be brave this quarter, we have a desktop download created just for you by [Amanda Sandlin](http://www.amandasandlin.com/prints/) for Yellow. Put it on your desktop, put it on your iphone or ipad, and be reminded of the valor that already exists within you. Also, go check out [Amanda](http://www.amandasandlin.com/prints/) on [Instagram](https://www.instagram.com/amandsandlin/) and her shop- girl has some really awesome stuff happening over there!
 
-[![Template-VALOR](http://yellowconference.com/wp-content/uploads/2016/07/Template-VALOR.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/VALOR-desktop.jpg)
+[![Template-VALOR](https://yellow-blog-images.imgix.net/2016/07/Template-VALOR.jpg)](https://yellow-blog-images.imgix.net/2016/07/VALOR-desktop.jpg)
 
-_Click here to download for: [desktop](http://yellowconference.com/wp-content/uploads/2016/07/VALOR-desktop.jpg)  |  [iphone](http://yellowconference.com/wp-content/uploads/2016/07/VALOR-iphone.jpg)  |  [ipad](http://yellowconference.com/wp-content/uploads/2016/07/VALOR-ipad.jpg)_
+_Click here to download for: [desktop](https://yellow-blog-images.imgix.net/2016/07/VALOR-desktop.jpg)  |  [iphone](https://yellow-blog-images.imgix.net/2016/07/VALOR-iphone.jpg)  |  [ipad](https://yellow-blog-images.imgix.net/2016/07/VALOR-ipad.jpg)_
 
 <div class="page" title="Page 1">
 
@@ -89,7 +89,7 @@ _Click here to download for: [desktop](http://yellowconference.com/wp-content/up
 
 <div class="layoutArea">
 
-[![sally kim for the yellow co. blog](http://yellowconference.com/wp-content/uploads/2015/12/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![sally kim for the yellow co. blog](https://yellow-blog-images.imgix.net/2015/12/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
 
 </div>
 
