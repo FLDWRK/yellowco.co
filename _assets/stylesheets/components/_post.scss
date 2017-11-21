@@ -1,0 +1,11 @@
+.post {
+  > .post-title { margin-top: 2rem; margin-bottom: 1.5rem; }
+  > .post-text {
+    img { @include img-fluid(); @include border-radius($border-radius-lg); margin-top: 1rem; margin-bottom: 1rem; }
+  }
+  > .post-footer {
+    border-top: 1px solid $gray-lighter; padding-top: 1rem; margin-top: 2rem;
+    .name { margin-top: 1rem; margin-bottom: 0; }
+    .title { margin-bottom: 1rem; }
+  }
+}
