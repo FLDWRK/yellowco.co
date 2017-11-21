@@ -10,7 +10,7 @@ redirect_from: "/advice/i-moved-to-a-different-country-and-networked-like-a-boss
 ---
 
 [  
-](http://yellowconference.com/wp-content/uploads/2016/01/conni-jespersen.jpg)[![Network like a boss||the yellow co. blog](http://yellowconference.com/wp-content/uploads/2016/01/2015-10-19_0042.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/2015-10-19_0042.jpg)My husband and I received the exciting news last December that we would be relocating across the country from San Diego, California to Toronto, Canada for his job for two years. This news was met with both immense excitement and a bit of trepidation.
+](https://s3.amazonaws.com/yellow-files/blog/2016/01/conni-jespersen.jpg)[![Network like a boss||the yellow co. blog](https://s3.amazonaws.com/yellow-files/blog/2016/01/2015-10-19_0042.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/2015-10-19_0042.jpg)My husband and I received the exciting news last December that we would be relocating across the country from San Diego, California to Toronto, Canada for his job for two years. This news was met with both immense excitement and a bit of trepidation.
 
 Living in the same city for a long amount of time carries with it a sense of comfort: You know all the short cuts when the roads are backed up with traffic, who to call when you need to grab a glass of wine to brainstorm business ideas, where to go when you have to grab that last minute home item for a dinner party.
 
@@ -20,7 +20,7 @@ I thought a lot about the challenges that were soon to come. What would I do for
 
 After thinking it over during the few rapidly passing weeks left in my current city, I developed a goal: To reach out to as many new people and integrate myself as quickly as I possibly could into my new city. Prior to moving to Toronto, I knew very little about it. Having only visited Vancouver on the west side for three days, there was a lot of ground I needed to cover. I needed to develop some sort of plan to network with strangers.
 
-## [![Network like a boss||the yellow co. blog](http://yellowconference.com/wp-content/uploads/2016/01/2015-10-19_0037.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/2015-10-19_0037.jpg)Here's what worked to help me rebuild my network in a whole new city:
+## [![Network like a boss||the yellow co. blog](https://s3.amazonaws.com/yellow-files/blog/2016/01/2015-10-19_0037.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/2015-10-19_0037.jpg)Here's what worked to help me rebuild my network in a whole new city:
 
 #### _Social Media is a powerful tool to Network_
 
@@ -36,7 +36,7 @@ I knew if I was going to be reaching out to anyone, I needed to brush up on my r
 
 In addition to reaching out to new blogging friends, as a blogger/entrepreneur one of the most important networking goals for me was letting businesses, brands, and PR/Media know that I was out there and that I was moving to Toronto. I hopped on Twitter and Google and searched _‘PR companies Toronto’,_ _‘Social Media Marketing Companies Toronto’,_ and _‘Local Toronto Brands’._ I found their contact information and specific names of people **(bonus: _it is so important to try and address all emails by first names rather than “To Whom It May Concern”_)** and added them to my networking email list.
 
-[![Network like a boss||the yellow co. blog](http://yellowconference.com/wp-content/uploads/2016/01/2015-10-19_0031.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/2015-10-19_0031.jpg)I then created a generalized template email that politely introduced myself and gave them a brief story of our move, told them I was interested in collaborating and included my new updated bio & media kit. I made sure to add in a few specific details about them or why I felt I would be a good fit for them. **When networking, it’s crucial to highlight something unique about that brand or business that you recognize.** It really helps you to stand out among the plethora of emails they receive daily. Mention a brand they represent or how you can help create a blog post highlighting a product.
+[![Network like a boss||the yellow co. blog](https://s3.amazonaws.com/yellow-files/blog/2016/01/2015-10-19_0031.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/2015-10-19_0031.jpg)I then created a generalized template email that politely introduced myself and gave them a brief story of our move, told them I was interested in collaborating and included my new updated bio & media kit. I made sure to add in a few specific details about them or why I felt I would be a good fit for them. **When networking, it’s crucial to highlight something unique about that brand or business that you recognize.** It really helps you to stand out among the plethora of emails they receive daily. Mention a brand they represent or how you can help create a blog post highlighting a product.
 
 > _When networking, it’s crucial to highlight something unique about that brand or business that you recognize. It really helps you to stand out among the plethora of emails they receive daily. Mention a brand they represent or how you can help create a blog post highlighting a product._
 
@@ -54,4 +54,4 @@ When we decided to make our big move, there was a certain sense of familiarity t
 
 _Photos by [Whitney Schey](http://whitneydarling.com/)_
 
-[![conni jespersen](http://yellowconference.com/wp-content/uploads/2016/01/conni-jespersen.jpg)](http://www.artinthefind.com/)
+[![conni jespersen](https://s3.amazonaws.com/yellow-files/blog/2016/01/conni-jespersen.jpg)](http://www.artinthefind.com/)

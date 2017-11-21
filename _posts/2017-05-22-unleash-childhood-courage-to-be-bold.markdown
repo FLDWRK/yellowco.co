@@ -17,7 +17,7 @@ Into stability and a salary – security always a must. The longing for writing 
 
 Recently, I had the indescribable honor of not only hearing Gloria Steinem – by far, one of the most iconic American political activists, writers, and feminists of our time – speak, but also of asking her a question.  _Now at 83, a fearless leader, what would she go back to say to her younger self?_ Her response made the childhood writer in me take note:
 
-_![UNLEASHING YOUR CHILDHOOD COURAGE TO BE YOUR BOLDEST SELF - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/05/DSC_2323.jpg "UNLEASHING YOUR CHILDHOOD COURAGE TO BE YOUR BOLDEST SELF - THE YELLOW ROOM")_
+_![UNLEASHING YOUR CHILDHOOD COURAGE TO BE YOUR BOLDEST SELF - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/05/DSC_2323.jpg "UNLEASHING YOUR CHILDHOOD COURAGE TO BE YOUR BOLDEST SELF - THE YELLOW ROOM")_
 
 _"Everything’s going to be alright,”_ she chuckled. _“But really, I would listen to her. Just listen. I would ask: 'How are you? What do you love? What should you do? You know what to do. What do you love doing so much that you lose track of time doing that? Do that!"_
 
@@ -27,7 +27,7 @@ As we get older, we seem to let fears place so many limits on ourselves and, ine
 
 ### **Why not take a look at what we were doing when we were young girls that brought us such joy, and do those very things with that wide-eyed curiosity and boldness?**
 
-![UNLEASHING YOUR CHILDHOOD COURAGE TO BE YOUR BOLDEST SELF - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/05/DSC_2341.jpg)
+![UNLEASHING YOUR CHILDHOOD COURAGE TO BE YOUR BOLDEST SELF - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/05/DSC_2341.jpg)
 
 **Don’t take no for an answer.  
 **I mean, did your childhood self ever? Much to our parents’ displeasure at times, all of us likely did not stop at our first no. We asked, we pushed and we demanded – of others and of ourselves. I might’ve had the most astonishingly bruised-and-scarred-up knees, but _no one_ was going to keep me off of that fútbol field. In fact, we were taught, from an early age that we could do anything, and we set out to do just that, a couple of bruises and all.
@@ -40,4 +40,4 @@ As we get older, we seem to let fears place so many limits on ourselves and, ine
 
 _Photos by: [Anchor Pictures](http://anchor-pictures.com/)_
 
-[![Valeria L. Palmertree BIO](http://yellowco.co/wp-content/uploads/2017/05/VALERIA-PALMERTREE-BIO.jpg)](https://www.thepalmtreetype.com/)
+[![Valeria L. Palmertree BIO](https://s3.amazonaws.com/yellow-files/blog/2017/05/VALERIA-PALMERTREE-BIO.jpg)](https://www.thepalmtreetype.com/)

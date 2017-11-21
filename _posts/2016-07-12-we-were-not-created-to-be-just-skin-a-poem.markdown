@@ -9,7 +9,7 @@ categories:
 redirect_from: "/creative-ladies/we-were-not-created-to-be-just-skin-a-poem/"
 ---
 
-#### [![lifestyle-photo-portfolio-6](http://yellowconference.com/wp-content/uploads/2016/07/lifestyle-photo-portfolio-6.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/lifestyle-photo-portfolio-6.jpg)This skin,  
+#### [![lifestyle-photo-portfolio-6](https://s3.amazonaws.com/yellow-files/blog/2016/07/lifestyle-photo-portfolio-6.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/lifestyle-photo-portfolio-6.jpg)This skin,  
 Has always been a golden reflection of a _radiance  
 _I didn’t know was already in my veins
 
@@ -78,4 +78,4 @@ _Imagine_ how much _you_ would miss.
 
 _Photo by [Megan Floris](http://thewolfandthewildflower.com/travel/)_
 
-[![arielleestoria](http://yellowconference.com/wp-content/uploads/2016/07/arielleestoria.jpg)](http://arielleestoria.com/)
+[![arielleestoria](https://s3.amazonaws.com/yellow-files/blog/2016/07/arielleestoria.jpg)](http://arielleestoria.com/)

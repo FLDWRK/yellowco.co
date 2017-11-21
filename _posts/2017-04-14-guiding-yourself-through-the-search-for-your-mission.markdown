@@ -17,7 +17,7 @@ Ultimately discovering this was certainly not easy. There was a process I follow
 
 I took the approach of making a continuous list of answers to the question, “what else can you do that may work in the direction of your dream?”. Don’t stop until the list ends, and challenge yourself when it does. Keep adding to it indefinitely.
 
-![](http://yellowco.co/wp-content/uploads/2017/04/ACS_Andersons-1216.jpg)
+![](https://s3.amazonaws.com/yellow-files/blog/2017/04/ACS_Andersons-1216.jpg)
 
 ### **Allow yourself to be abstract.**
 
@@ -31,4 +31,4 @@ As you journey through the process of uncovering what you’re meant to do, go e
 
 _Photos by: [Amanda Christine Studio](http://www.amandachristinestudio.com/)_
 
-[![BAILEY VAN TASSEL BIO](http://yellowco.co/wp-content/uploads/2017/04/BAILEY-VAN-TASSEL-BIO-new.jpg)](http://www.abelimpact.com/about/)
+[![BAILEY VAN TASSEL BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/BAILEY-VAN-TASSEL-BIO-new.jpg)](http://www.abelimpact.com/about/)

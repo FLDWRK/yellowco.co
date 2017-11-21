@@ -11,7 +11,7 @@ categories:
 redirect_from: "/the-activist/7549/"
 ---
 
-[![The Yellow Co. PIONEER](http://yellowconference.com/wp-content/uploads/2016/12/MG_2605.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/MG_2605.jpg)There are two books in the Bible named after women…**_Two _**of sixty-six books have a women’s name in small caps at the top of every page as a reminder to whose story you’re reading. I’m not talking from a spiritual perspective, but a historic and literary one. Do you understand the significance? Whether you believe them to be true or false isn’t the point (right now, at least), this was groundbreaking.
+[![The Yellow Co. PIONEER](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_2605.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_2605.jpg)There are two books in the Bible named after women…**_Two _**of sixty-six books have a women’s name in small caps at the top of every page as a reminder to whose story you’re reading. I’m not talking from a spiritual perspective, but a historic and literary one. Do you understand the significance? Whether you believe them to be true or false isn’t the point (right now, at least), this was groundbreaking.
 
 No matter what you believe about politics, or who you voted for this past election, we were inches away from having our first woman president. Whether you liked Hilary Clinton, despised her, didn't trust her, loved her, idolized her...this, too was _groundbreaking. _
 
@@ -25,11 +25,11 @@ I held my newborn girl, watching her concession speech, with tear streaming down
 > </div>
 
 <div class="zn-body__paragraph">[  
-](http://yellowconference.com/wp-content/uploads/2016/12/MG_2603.jpg)There's a book in the Bible named after [Ruth;](https://www.biblegateway.com/passage/?search=Ruth+1&version=MSG) it's the account of a woman becoming a widow and following her also widowed mother-in-law back to her homeland. She didn’t know what would be waiting for her when she arrived, if she would be accepted or mistreated as a foreigner. She didn't know if she would remarry or stay widowed forever. She didn't know if she'd ever have kids (a big deal back then) or if she would be homeless or starving. But Ruth did what she believed was right. She chose the costly thing.[![The Yellow Co. Blog](http://yellowconference.com/wp-content/uploads/2016/12/MG_2603.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/MG_2603.jpg)</div>
+](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_2603.jpg)There's a book in the Bible named after [Ruth;](https://www.biblegateway.com/passage/?search=Ruth+1&version=MSG) it's the account of a woman becoming a widow and following her also widowed mother-in-law back to her homeland. She didn’t know what would be waiting for her when she arrived, if she would be accepted or mistreated as a foreigner. She didn't know if she would remarry or stay widowed forever. She didn't know if she'd ever have kids (a big deal back then) or if she would be homeless or starving. But Ruth did what she believed was right. She chose the costly thing.[![The Yellow Co. Blog](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_2603.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_2603.jpg)</div>
 
 <div class="zn-body__paragraph">She worked long days to bring food to her mother-in-law and was unafraid of getting her hands dirty to care for the one who needed her most. She risked everything for the sake, safety, and security of someone else; someone who was desperate, alone, and vulnerable to danger.</div>
 
-<div class="zn-body__paragraph">[![The Yellow Co. Blog](http://yellowconference.com/wp-content/uploads/2016/12/MG_2612.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/MG_2612.jpg) I have a picture ripped from a magazine above my desk of cupped hands covered in dirt-as if the woman in the photograph had been gardening or digging in the dirt. I look at it daily to remind myself that _I’m not meant to have manicured hands_—figuratively, I am meant to dig my hands into the trenches, to rest my knees in the mud, and **_do work._** It’s a reminder to not be afraid to get a dirt under my nails, and maybe even a bit on my face as I use my arm to push my hair back, because _this_ is where life happens. I am meant to step out--and you are too. </div>
+<div class="zn-body__paragraph">[![The Yellow Co. Blog](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_2612.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_2612.jpg) I have a picture ripped from a magazine above my desk of cupped hands covered in dirt-as if the woman in the photograph had been gardening or digging in the dirt. I look at it daily to remind myself that _I’m not meant to have manicured hands_—figuratively, I am meant to dig my hands into the trenches, to rest my knees in the mud, and **_do work._** It’s a reminder to not be afraid to get a dirt under my nails, and maybe even a bit on my face as I use my arm to push my hair back, because _this_ is where life happens. I am meant to step out--and you are too. </div>
 
 I am meant to break new ground; to cut through the weeds of uncharted territory; to accept twisted paths and chart unfamiliar roads. 
 
@@ -42,10 +42,10 @@ And it’s not easy to be a pioneer. It’s not easy to be the first at somethin
 
 Friends, **safety is _ not what we are made for._ **_What are you running towards? Where are **you **breaking new ground? _
 
-[![The Yellow Co. Blog](http://yellowconference.com/wp-content/uploads/2016/12/MG_1480.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/MG_1480.jpg)Are you ready to step out? You're not alone you know.  _We were not meant to have manicured hands._ Let’s press deeper into the ground we’ve already started to unearth. You ready? 
+[![The Yellow Co. Blog](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_1480.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_1480.jpg)Are you ready to step out? You're not alone you know.  _We were not meant to have manicured hands._ Let’s press deeper into the ground we’ve already started to unearth. You ready? 
 
 **This **is Pioneer.
 
 _Photos by [Karen Marie Co.](http://karenmarieco.com/) _
 
-[![Sally Rae Kim](http://yellowconference.com/wp-content/uploads/2016/11/Sally-Kim-Bio.jpg)](http://lettersfromamister.tumblr.com/)
+[![Sally Rae Kim](https://s3.amazonaws.com/yellow-files/blog/2016/11/Sally-Kim-Bio.jpg)](http://lettersfromamister.tumblr.com/)

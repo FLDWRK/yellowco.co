@@ -22,7 +22,7 @@ After talking with my friend asking them how they did this, I found out they we
 
 You've probably heard the phrase, "It's all about who you know" before. And if you're anything like me, you cringe at this thought. I despise the idea that I have to make friends with the right people in the right positions at the right company in order to get what I want. Something about that feels so icky and fake. I for sure don't want anyone trying to become my friend just so they can use me. No one wants to be used, nor should they.
 
-[![Yellow-35](http://yellowconference.com/wp-content/uploads/2015/04/Yellow-351.jpg)](http://yellowconference.com/wp-content/uploads/2015/04/Yellow-351.jpg)
+[![Yellow-35](https://s3.amazonaws.com/yellow-files/blog/2015/04/Yellow-351.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/Yellow-351.jpg)
 
 I hate to admit it, but the statement is absolutely true. It IS all about who you know. When you have a friend in a company, it's way easier to get a job, because they trust you already. Same goes for partnerships, investments, collaborations, etc. Knowing the right people _does_ make it easier to make stuff happen. Whether we like it or not!
 
@@ -34,7 +34,7 @@ Because again, like it or not- networking is necessary.
 
 * * *
 
-[![Oprah](http://yellowconference.com/wp-content/uploads/2015/06/Oprah.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/Oprah.jpg)
+[![Oprah](https://s3.amazonaws.com/yellow-files/blog/2015/06/Oprah.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/Oprah.jpg)
 
 I never ever want to be the kind of person who only hangs out with people who have "x" happening in their lives or business. I've been on the other end of that, and let me tell you- it does not feel good. People are people no matter how many followers they have on Instagram, what kind of clothes they wear or what their business status is. And I think that's where we need to start. _Paaa-leeease_ ladies and gents. Don't judge a book by it's cover. Or their social media following.
 
@@ -46,7 +46,7 @@ It's a lesson we can all learn from. Be interested in people because everyone is
 
 * * *
 
-**[![Skilzz](http://yellowconference.com/wp-content/uploads/2015/06/Skilzz.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/Skilzz.jpg)  
+**[![Skilzz](https://s3.amazonaws.com/yellow-files/blog/2015/06/Skilzz.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/Skilzz.jpg)  
 **
 
 You have to see networking as friend-making. Friends help each other out. They trust each other. You have skills, the women you're networking with have skills. Think about how you can help out the women who you want to network with, instead of having the "what's in it for me" mentality. Friends aren't about that ish.
@@ -55,7 +55,7 @@ If and when you do have the chance to offer up your skill set - do a darn good
 
 * * *
 
-[![Values](http://yellowconference.com/wp-content/uploads/2015/06/Values.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/Values.jpg)
+[![Values](https://s3.amazonaws.com/yellow-files/blog/2015/06/Values.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/Values.jpg)
 
 It's ok to make friends with women who inspire you and could potentially help out your business. I think the icky bad part comes from when you start to treat these people differently than you would treat anyone else, when you compromise your values or hide who you truly are for the sake of being friends with this person. That's when it starts to get icky and fake- because you're being icky and fake.
 
@@ -63,7 +63,7 @@ See networking as making friends. Building your tribe of women, and widening you
 
 * * *
 
-[![SURROUNGD](http://yellowconference.com/wp-content/uploads/2015/06/SURROUNGD.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/SURROUNGD.jpg)
+[![SURROUNGD](https://s3.amazonaws.com/yellow-files/blog/2015/06/SURROUNGD.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/SURROUNGD.jpg)
 
 You become like the people you hang out with. This doesn't mean ditching old friends, but it does mean investing intentional time in the people who build you up, encourage positivity, bring out the hard working passion in you.
 
@@ -71,7 +71,7 @@ Go to events where you know the women you want to meet will be hanging out (hin
 
 * * *
 
-[![FocusonWork](http://yellowconference.com/wp-content/uploads/2015/06/FocusonWork.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/FocusonWork.jpg)
+[![FocusonWork](https://s3.amazonaws.com/yellow-files/blog/2015/06/FocusonWork.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/FocusonWork.jpg)
 
 Life is so much more than work. Have something in common? Share your interests! Go to the gym together, take your cats on a play date (I've still always wanted to do this- any takers?), or hit up your favorite art museum together. If it's all about work all the time, it's hard to build a lasting relationship. You're a multi-dimensional person. Spread your wings and bring others with you!
 
@@ -85,4 +85,4 @@ Now go out there and make some power-house lady friends and together lets make t
 
 [_Photo by Larrison Photography_](http://larrisonphotography.com/)
 
-[![Author_Template_Joanna](http://yellowconference.com/wp-content/uploads/2015/01/Author_Template_Joanna.jpg)](http://instagram.com/joannawaterfall)
+[![Author_Template_Joanna](https://s3.amazonaws.com/yellow-files/blog/2015/01/Author_Template_Joanna.jpg)](http://instagram.com/joannawaterfall)

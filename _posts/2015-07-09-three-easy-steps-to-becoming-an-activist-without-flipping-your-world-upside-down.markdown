@@ -13,7 +13,7 @@ categories:
 redirect_from: "/creative-ladies/three-easy-steps-to-becoming-an-activist-without-flipping-your-world-upside-down/"
 ---
 
-[![Creative Advocacy: Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/07/108H.jpg)](http://yellowconference.com/wp-content/uploads/2015/07/108H.jpg)
+[![Creative Advocacy: Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/07/108H.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/108H.jpg)
 
 In my two years since graduating college, I have held about seven different jobs. I began working in the startup industry originally before shifting roles to try my hand at freelancing, a brief stint at nannying to make ends meet, and even instructing indoor cycling classes.
 
@@ -56,6 +56,6 @@ Whether you are creating something new as a side hustle, or simply finding your 
 All it takes is some thought and heart to start changing the world. Be the spark to start the fire.
 
 _Photos by [Ryan McGuire](http://www.gratisography.com/) and [Kimberly Jurgens](http://eclecticstateofmind.com/)[  
-](http://yellowconference.com/wp-content/uploads/2015/07/twins.jpg)_
+](https://s3.amazonaws.com/yellow-files/blog/2015/07/twins.jpg)_
 
-[![Yellow Conference blog](http://yellowconference.com/wp-content/uploads/2015/05/Averyjohnson.jpg)](http://www.avery-johnson.com/)
+[![Yellow Conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/05/Averyjohnson.jpg)](http://www.avery-johnson.com/)

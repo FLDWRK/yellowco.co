@@ -10,29 +10,29 @@ redirect_from: "/light-talk/a-day-in-the-life-with-kelly-valentine/"
 
 Yes, she's the go-getter-planner-get-it-done-girl behind our monthly Bloom Gatherings. And yes, that is her real last name (for now...she's soon to become a Mrs.!). Ladies, Miss Kelly Valentine:
 
-[![kelly day in the life](http://yellowconference.com/wp-content/uploads/2015/03/kellydil.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/kellydil.jpg)Since Bloom Gatherings are my passion project, my normal days are spent running around the LA market of Dinner of Dinner Lab. What is [Dinner Lab](https://dinnerlab.com/), you ask? It's a membership based pop up dining club that features a different Chef, menu, and venue every time. So today started off with a conference call with [SideChef](http://www.sidechef.com/) (a step-by-step cooking app) to see possibilities for collaborating.
+[![kelly day in the life](https://s3.amazonaws.com/yellow-files/blog/2015/03/kellydil.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/kellydil.jpg)Since Bloom Gatherings are my passion project, my normal days are spent running around the LA market of Dinner of Dinner Lab. What is [Dinner Lab](https://dinnerlab.com/), you ask? It's a membership based pop up dining club that features a different Chef, menu, and venue every time. So today started off with a conference call with [SideChef](http://www.sidechef.com/) (a step-by-step cooking app) to see possibilities for collaborating.
 
-[![app](http://yellowconference.com/wp-content/uploads/2015/03/app.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/app.jpg) After that, I addressed more save the dates for my upcoming wedding (October 3rd!!). It's been quite the process, hand addressing all of these, so I've been doing them in chunks throughout the day to give my hands a break...
+[![app](https://s3.amazonaws.com/yellow-files/blog/2015/03/app.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/app.jpg) After that, I addressed more save the dates for my upcoming wedding (October 3rd!!). It's been quite the process, hand addressing all of these, so I've been doing them in chunks throughout the day to give my hands a break...
 
-[![Kelly Day in the Life](http://yellowconference.com/wp-content/uploads/2015/03/savethedate.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/savethedate.jpg)Then I took my sweet rescue pup, Liberty (aka Libby, shizza, stinkface, muffin girl), to get a MUCH needed grooming. I'm bummed I forgot to snap a before pic, but I assure you, she looked like a tiny Yeti. _Not_ good...Whilst waiting for her to get done with her spa day, I decided to go shopping for our next Bloom Gathering coming up (March 22nd!!)!! I love coming up with a theme for each gathering, and this month we decided that we just wanted it to feel like Spring--even though it's been feeling more like the dead of Summer here in L.A. (I'm not complaining, I promise!!)...
+[![Kelly Day in the Life](https://s3.amazonaws.com/yellow-files/blog/2015/03/savethedate.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/savethedate.jpg)Then I took my sweet rescue pup, Liberty (aka Libby, shizza, stinkface, muffin girl), to get a MUCH needed grooming. I'm bummed I forgot to snap a before pic, but I assure you, she looked like a tiny Yeti. _Not_ good...Whilst waiting for her to get done with her spa day, I decided to go shopping for our next Bloom Gathering coming up (March 22nd!!)!! I love coming up with a theme for each gathering, and this month we decided that we just wanted it to feel like Spring--even though it's been feeling more like the dead of Summer here in L.A. (I'm not complaining, I promise!!)...
 
-[![spring](http://yellowconference.com/wp-content/uploads/2015/03/spring.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/spring.jpg)
+[![spring](https://s3.amazonaws.com/yellow-files/blog/2015/03/spring.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/spring.jpg)
 
-[![Notepads](http://yellowconference.com/wp-content/uploads/2015/03/Notepads.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/Notepads.jpg)
+[![Notepads](https://s3.amazonaws.com/yellow-files/blog/2015/03/Notepads.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/Notepads.jpg)
 
 All that shopping worked up an appetite, but I don't have too much time before I have to pick up the shiny new version of the dog I dropped off. I could only think of one place I wanted to go: In-N-Out Burger (Double-Double protein style...fun fact: I'm gluten free). It's the best fast-food burger out there-so all of you ladies that are coming from out of town to the Yellow Conference, put In-N-Out on your "to do" list while you're here. You're welcome.
 
-[![doubledouble (1)](http://yellowconference.com/wp-content/uploads/2015/03/doubledouble-1.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/doubledouble-1.jpg)Just got the call that my girl is ready for pick up! She got her Summer cut and now looks naked to me :/
+[![doubledouble (1)](https://s3.amazonaws.com/yellow-files/blog/2015/03/doubledouble-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/doubledouble-1.jpg)Just got the call that my girl is ready for pick up! She got her Summer cut and now looks naked to me :/
 
-[![dog](http://yellowconference.com/wp-content/uploads/2015/03/dog.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/dog.jpg)
+[![dog](https://s3.amazonaws.com/yellow-files/blog/2015/03/dog.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/dog.jpg)
 
 On the agenda for the evening? Good ol' dinner and a movie with my soon to be Hubs! First up-dinner at Stella Berra (they have gluten free pizza!):
 
-[![menu](http://yellowconference.com/wp-content/uploads/2015/03/menu.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/menu.jpg)
+[![menu](https://s3.amazonaws.com/yellow-files/blog/2015/03/menu.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/menu.jpg)
 
-[![fiance](http://yellowconference.com/wp-content/uploads/2015/03/fiance.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/fiance.jpg)Then we walk next door to our favorite cinema in the city--the Arclight to see the documentary "Going Clear" in their famous Cinerama Dome. The documentary was an incredible expose on Scientology--look for it soon on HBO!
+[![fiance](https://s3.amazonaws.com/yellow-files/blog/2015/03/fiance.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/fiance.jpg)Then we walk next door to our favorite cinema in the city--the Arclight to see the documentary "Going Clear" in their famous Cinerama Dome. The documentary was an incredible expose on Scientology--look for it soon on HBO!
 
-[![cinemex](http://yellowconference.com/wp-content/uploads/2015/03/cinemex.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/cinemex.jpg)
+[![cinemex](https://s3.amazonaws.com/yellow-files/blog/2015/03/cinemex.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/cinemex.jpg)
 
 * * *
 

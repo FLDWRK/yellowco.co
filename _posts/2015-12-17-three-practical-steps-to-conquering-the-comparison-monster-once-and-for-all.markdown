@@ -10,7 +10,7 @@ categories:
 redirect_from: "/creative-ladies/three-practical-steps-to-conquering-the-comparison-monster-once-and-for-all/"
 ---
 
-[![the yellow co. blog: i fought the comparison monster, and WON....here's how.](http://yellowconference.com/wp-content/uploads/2015/12/5-800x533.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/5-800x533.jpg)In a world where we are constantly inundated with messages from social media and other outlets, sometimes it’s hard to find the truth about who we are and what it is we are supposed to do with this one amazing life we’ve been given.
+[![the yellow co. blog: i fought the comparison monster, and WON....here's how.](https://s3.amazonaws.com/yellow-files/blog/2015/12/5-800x533.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/12/5-800x533.jpg)In a world where we are constantly inundated with messages from social media and other outlets, sometimes it’s hard to find the truth about who we are and what it is we are supposed to do with this one amazing life we’ve been given.
 
 ## We compare. We hold back. We copy and ultimately trick ourselves, many times, into thinking that what we are doing is being true to ourselves, when in reality, we couldn’t be further from authenticity.
 
@@ -42,4 +42,4 @@ Let’s challenge ourselves to ‘keep it real’ and connect in a new authentic
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/)_
 
-[![KenneshaBucks](http://yellowconference.com/wp-content/uploads/2015/12/KenneshaBucks.jpg)](http://www.restorationhouseinteriors.com/)
+[![KenneshaBucks](https://s3.amazonaws.com/yellow-files/blog/2015/12/KenneshaBucks.jpg)](http://www.restorationhouseinteriors.com/)

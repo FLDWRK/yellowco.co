@@ -11,8 +11,8 @@ categories:
 redirect_from: "/creative-ladies/what-we-can-learn-from-raven-lily-ceo-and-founder-kirsten-dickerson/"
 ---
 
-##### [![rlp4](http://yellowconference.com/wp-content/uploads/2015/08/rlp4.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/rlp4.jpg)[![Screen shot 2015-08-19 at 3.19.31 PM](http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-19-at-3.19.31-PM.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-19-at-3.19.31-PM.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2015/08/Screen-shot-2015-08-19-at-3.19.31-PM.png)**"Raven  +  Lily  was born out of my love of design and my passion to empower women out of poverty."**
+##### [![rlp4](https://s3.amazonaws.com/yellow-files/blog/2015/08/rlp4.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/08/rlp4.jpg)[![Screen shot 2015-08-19 at 3.19.31 PM](https://s3.amazonaws.com/yellow-files/blog/2015/08/Screen-shot-2015-08-19-at-3.19.31-PM.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/08/Screen-shot-2015-08-19-at-3.19.31-PM.jpg)[  
+](https://s3.amazonaws.com/yellow-files/blog/2015/08/Screen-shot-2015-08-19-at-3.19.31-PM.png)**"Raven  +  Lily  was born out of my love of design and my passion to empower women out of poverty."**
 
 _Today on the blog, we have Kirsten Dickerson, founder of Raven+Lily (an ethical, artisan, clothing, jewelry, accessory line) and future Yellow Conference 2016 speaker (yes. You heard right: 2016!!), sharing about her journey with a company of great design and purpose. We are inspired and excited about Raven+Lily's work. Here's what we learned from her..._
 
@@ -56,7 +56,7 @@ _It feels like growing pains often as we have been growing quickly the past 2 ye
 
 We started with just jewelry and gifts representing 2 partnerships (one in India and one in Ethiopia).  **The vision to empower women through design has not changed, but the ways to accomplish that have improved and expanded greatly.**  We have really come a long way from some of our initial design ideas.  **We've better defined our look and branding as time has gone by and we've learned what works and what doesn't work.**  Overall, I think of  Raven  +  Lily  as a modern bohemian style...more minimal in approach with a love of mid century and Moroccan design creeping into most collections.  You could see that instantly if you ever come to visit our [storefront or studio in Austin, Texas.](http://www.ravenandlily.com/our-story/our-storefront-retailers)  I think the key has been to work with really talented designers to help us make the most of the skills the women have in each artisan group.  **We start small and then grow as the women are able to grow in skill and scalability.** We've also expanded into leather bags, apparel, and soon home decor!  The possibilities are endless really. I love that there are so many talented women, and I love that as our company grows we can develop new partnerships to help provide sustainable employment for the women in that culture.  We look for artisans who are using techniques and materials that are unique and would compliment our current partnerships. **All the women are connected and the success of one partnerships helps us launch new ones.  **
 
-##### [![rlp](http://yellowconference.com/wp-content/uploads/2015/08/rlp.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/rlp.jpg)
+##### [![rlp](https://s3.amazonaws.com/yellow-files/blog/2015/08/rlp.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/08/rlp.jpg)
 
 ##### Obstacles will come.
 
@@ -82,6 +82,6 @@ They wanted to be honored in how we share about their life, so we work hard to m
 
 So many of the women's skills lend naturally towards home decor textiles and table top items. We are starting with a few textiles in Fall/Holiday 2015 and then expanding in to much more in 2016!
 
-<div>[![sallykim Yellow Co.](http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)</div>
+<div>[![sallykim Yellow Co.](https://s3.amazonaws.com/yellow-files/blog/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)</div>
 
  </div>

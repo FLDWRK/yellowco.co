@@ -19,7 +19,7 @@ Fitness: Create workout routine.  Look at Alexia Clark’s Instagram page for i
 
 Finances: Create budget.  See Tony Robbins in his private jet on Instagram. Become bummed that I don’t have three houses and one billion dollars.  Buy a $5 latte and read about becoming wealthy.
 
-![WHAT I LEARNED BY TAKING THREE MONTHS OFF FROM SOCIAL MEDIA - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/ValerieDenisePhotos-40.jpg)
+![WHAT I LEARNED BY TAKING THREE MONTHS OFF FROM SOCIAL MEDIA - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/ValerieDenisePhotos-40.jpg)
 
 No one is surprised that I got very little accomplished with these habits. **I was the poster child for knowledge without action, and comparison of those who took action.** It was a recipe for disaster. But even without social media, I found ways to compare myself to others who I thought lived a better lifestyle than me, simply because I was looking at their pretty, cropped lives from the outside.
 
@@ -31,7 +31,7 @@ Bored? Check Instagram. Not sure where to take this project? Scroll through upda
 
 Taking the option of checking social media off the table allowed me the space to figure out what daily choices would move me forward in my long-term goals. “More” is now a concrete destination that I actively work toward daily. It’s pretty crazy what happens when we allow ourselves permission to get clear on what we want. **For me, the comfortable convenience of social media was the roadblock that stood in my way.** To eliminate this pillar of safety meant I now had to put pressure on new muscles: productivity!  
 
-![WHAT I LEARNED BY TAKING THREE MONTHS OFF FROM SOCIAL MEDIA - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/ValerieDenisePhotos-47.jpg)
+![WHAT I LEARNED BY TAKING THREE MONTHS OFF FROM SOCIAL MEDIA - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/ValerieDenisePhotos-47.jpg)
 
 ### **3\. False standards get us nowhere. **
 
@@ -45,4 +45,4 @@ Everyone has vices. They are teachers that create healthy pressures and show us
 
 _Photos by: [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![EMILY SCHREMS BIO](http://yellowco.co/wp-content/uploads/2017/07/EMILY-SCHREMS-BIO.jpg)](http://www.free--bird.com/)
+[![EMILY SCHREMS BIO](https://s3.amazonaws.com/yellow-files/blog/2017/07/EMILY-SCHREMS-BIO.jpg)](http://www.free--bird.com/)

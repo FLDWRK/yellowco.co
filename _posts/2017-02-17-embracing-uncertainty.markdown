@@ -18,7 +18,7 @@ Oddly enough, I’ve reaped benefits more than once from change that at first ap
 
 For me, this has been most difficult when I am without work, but is also often so present in our relationships, finances, health - fill in the blank.  It’s time that feels slow and maybe without an end in sight. Of wondering who will make the first call of amends. Of when and if checks will arrive. Of simply having no idea where to start picking up these pieces we once knew as sturdy and whole. But more than anything, **_it is a time to harness_. ** To endlessly grab every drop of goodness you can find. You’d be surprised how easy it is against that question mark of a backdrop.
 
-![The Bittersweet Gift of Uncertainty - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/02/PIONEER5.jpg)
+![The Bittersweet Gift of Uncertainty - The Yellow Room](https://s3.amazonaws.com/yellow-files/blog/2017/02/PIONEER5.jpg)
 
 Last summer I was let go from a job I loved, and it was the first time in awhile I met uncertainty apart from my control. And it confronted me with the fact that I lost sight of what I wanted to chase after. I had been wonderfully content. It’s lovely place to be, but one we have to be cautious to never let become synonymous with complacency. Though in the thick of it instability can leave us hopeless, we cannot give into staying there. We must rise above any thoughts that lend ourselves too much pity and others not enough grace. _**No, these are the times we shake things out, and underripe as we feel, find the part of ourselves that can dream again.**_
 
@@ -32,4 +32,4 @@ This message is a simple one. There is no three-point plan. **_It is solely the 
 
 _Photos by: [Andrea David](http://andreadavid.co/)_
 
-[![Hanna Snyder Bio](http://yellowco.co/wp-content/uploads/2017/02/Hanna-Snyder-Bio-1.jpg)](http://www.hannasnyder.com/)
+[![Hanna Snyder Bio](https://s3.amazonaws.com/yellow-files/blog/2017/02/Hanna-Snyder-Bio-1.jpg)](http://www.hannasnyder.com/)

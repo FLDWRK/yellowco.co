@@ -21,7 +21,7 @@ When Eileen Rosete launched [Our Sacred Women](http://www.oursacredwomen.com/) a
 
 I’ve seen members walk away from a soul-diminishing season into a life-giving one through the encouragement of their fellow Collective ladies. What an honor to witness transformative change, tangible support, and intimate friendship through this community. I truly can’t wait to see all that’s to come this next year.
 
-![THE YELLOW COLLECTIVE 2.0 LAUNCH: GATHERING TOGETHER TO GROW AS AGENTS OF GOOD](http://yellowco.co/wp-content/uploads/2017/08/Yellow2016-436.jpg)
+![THE YELLOW COLLECTIVE 2.0 LAUNCH: GATHERING TOGETHER TO GROW AS AGENTS OF GOOD](https://s3.amazonaws.com/yellow-files/blog/2017/08/Yellow2016-436.jpg)
 
 That being said, we have listened to the community’s needs and desires, and have redirected our focus.
 
@@ -41,7 +41,7 @@ Rather than being product-focused through the quarterly empowerment box, we’re
 
 We know having the membership registration open for only two weeks every quarter has been hard for many of you — so we’re moving from a quarterly model to a monthly one. In other words, the membership will be open for sign-ups all the time! No more waiting three months to join or feeling the pressure to commit to an entire quarter. You can join at any point, which will make inviting your friends to the Collective much easier!
 
-![THE YELLOW COLLECTIVE 2.0 LAUNCH: GATHERING TOGETHER TO GROW AS AGENTS OF GOOD](http://yellowco.co/wp-content/uploads/2017/08/Yellow2016-410.jpg)
+![THE YELLOW COLLECTIVE 2.0 LAUNCH: GATHERING TOGETHER TO GROW AS AGENTS OF GOOD](https://s3.amazonaws.com/yellow-files/blog/2017/08/Yellow2016-410.jpg)
 
 #### [**The Collective Website**](https://yellowcollective.co/)
 
@@ -61,4 +61,4 @@ I can’t wait for all these changes, and I’m beyond excited to see the many w
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
 
-[![RACHEL NEAL BIO](http://yellowco.co/wp-content/uploads/2017/05/RACHEL-NEAL-BIO.jpg)](https://www.instagram.com/rachelhneal/)
+[![RACHEL NEAL BIO](https://s3.amazonaws.com/yellow-files/blog/2017/05/RACHEL-NEAL-BIO.jpg)](https://www.instagram.com/rachelhneal/)

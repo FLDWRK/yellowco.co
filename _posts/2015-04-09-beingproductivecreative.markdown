@@ -11,7 +11,7 @@ categories:
 redirect_from: "/creative-ladies/beingproductivecreative/"
 ---
 
-[![Being a Productive Creative--Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/04/094A4249-1.jpg)](http://yellowconference.com/wp-content/uploads/2015/04/094A4249-1.jpg)
+[![Being a Productive Creative--Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/04/094A4249-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/094A4249-1.jpg)
 
 Working [in the creative industry](http://harbr.co/), I’ve seen all types of workers and workspaces. Cluttered desks, inspiration hoarders (guilty), scatter-brained, and the work-a-holics. There is beauty in all of these workflows, but it’s easy to lose track of tasks that **have** to be completed to help grow your business or maintain relationships.
 
@@ -27,7 +27,7 @@ Time-tracking can definitely be a chore in itself, but as a test, take one week 
 
 Whether it’s client work, blogging, or answering emails, you don’t want to spend too much time on one task, or your brain will be too fried to tackle anything else. Once you have a grasp on the amount of hours it takes to do items you need to do each week, block that time out of each day and you’ll be done before you know it.
 
-[![Being a Productive Creative](http://yellowconference.com/wp-content/uploads/2015/04/094A4189-1.jpg)](http://yellowconference.com/wp-content/uploads/2015/04/094A4189-1.jpg)
+[![Being a Productive Creative](https://s3.amazonaws.com/yellow-files/blog/2015/04/094A4189-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/094A4189-1.jpg)
 
 As an example, for my job, we set a specific day to schedule phone meetings. I also spend two hours each day strictly answering and sending emails. One in the morning and one in the afternoon. If urgent emails come up throughout the day, of course those are tackled, but I have to make sure my other tasks are not overlooked.
 
@@ -57,7 +57,7 @@ You can also schedule a time in each task by clicking the (i) button on the rig
 
 Evernote is an amazing app that sync’s notes across all your devices. I use different notebooks to jot down ideas when it comes to blogs, client work and internal company work. I also sometimes make to do lists within these notes with their own little checkbox bullet points that make me feel all giddy every time I cross one off.
 
-[![Being a Productive Creative--The Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/04/evernote-reminder-img.jpg)](http://yellowconference.com/wp-content/uploads/2015/04/evernote-reminder-img.jpg)
+[![Being a Productive Creative--The Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/04/evernote-reminder-img.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/evernote-reminder-img.jpg)
 
 1.  **ORGANIZE YOUR FILES AND DESKTOP**
 
@@ -77,4 +77,4 @@ If you have any other techniques on staying organized, please share in the comm
 
 _This post was originally published on Sarah's blog: [sarahheyl.com](http://www.sarahheyl.com/)_
 
-[![SARAH HEYL for yellow conference](http://yellowconference.com/wp-content/uploads/2015/04/SARAH-HEYL.jpg)](http://www.sarahheyl.com/)
+[![SARAH HEYL for yellow conference](https://s3.amazonaws.com/yellow-files/blog/2015/04/SARAH-HEYL.jpg)](http://www.sarahheyl.com/)

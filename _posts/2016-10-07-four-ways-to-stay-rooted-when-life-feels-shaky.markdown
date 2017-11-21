@@ -11,11 +11,11 @@ redirect_from: "/encouragement/four-ways-to-stay-rooted-when-life-feels-shaky/"
 ## _I have days where I feel like I'm suffocating, unable to come out for air in this busyness of life. Feeling lonely and empty, wanting to desperately cry out for help but unable to vocalize it. Sound familiar to anyone out there?  
 _
 
-[![how-to-stay-rooted-when-life-feels-shaky](http://yellowconference.com/wp-content/uploads/2016/10/How-to-stay-rooted-when-life-feels-shaky1.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/How-to-stay-rooted-when-life-feels-shaky1.jpg)
+[![how-to-stay-rooted-when-life-feels-shaky](https://s3.amazonaws.com/yellow-files/blog/2016/10/How-to-stay-rooted-when-life-feels-shaky1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/How-to-stay-rooted-when-life-feels-shaky1.jpg)
 
 Adjusting to being a mom wasn't the easiest transition for me, but it's been the most rewarding part of my life. I quit my job working at my alma mater to become a stay-at-home mom for my son’s first year. I stopped writing and blogging because sleep deprivation is real when you have a baby; and without extra help, I couldn't find the time to write. Without realizing it, I had put my life on hold … well more like pressing on the brakes really hard before hitting the car in front of me.
 
-There were days where I felt lost. Felt like I didn't know who I was anymore. Of course, I knew I was a wife and a mother; but those are just two of many aspects that make me a whole person. I chose to suppress the rest in order to focus on what was currently important in my life. And now there's this inner struggle in my heart.[![valeriedenisephotos2of20](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos2of20.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos2of20.jpg)
+There were days where I felt lost. Felt like I didn't know who I was anymore. Of course, I knew I was a wife and a mother; but those are just two of many aspects that make me a whole person. I chose to suppress the rest in order to focus on what was currently important in my life. And now there's this inner struggle in my heart.[![valeriedenisephotos2of20](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos2of20.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos2of20.jpg)
 
 Like many of you, we hit seasons where we lose our sense of self. And it feels like you are in the middle of the battlefield, feeling lost, hopeless, and fearful. If you are looking for ways to reclaim your sense of self, here are some takeaways that can help steer you back that have encouraged me in this season:
 
@@ -27,7 +27,7 @@ When was the last time you stopped in the middle of whatever task you had before
 
 Before I became a mom, I LOVED to write during my free time. Whether it was for my personal blog, for my church, or for other organizations, the minute my hands touched the keys of my laptop they didn't stop until I flushed out my idea (or until I fell asleep...whichever came first!).
 
-**Start off by reuniting with something you love to do.** It doesn't need to be this big ordeal; just something small. You’d be surprised how even reconnecting with something you love can make you feel whole again.[![valeriedenisephotos10of43](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos10of43.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos10of43.jpg)
+**Start off by reuniting with something you love to do.** It doesn't need to be this big ordeal; just something small. You’d be surprised how even reconnecting with something you love can make you feel whole again.[![valeriedenisephotos10of43](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos10of43.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos10of43.jpg)
 
 ## **3\. Ask for Help**
 
@@ -43,4 +43,4 @@ I look at this season of admitting that I feel lost but moving in a direction th
 
 _Photos by [Valerie Denise](http://www.valeriedenisephotos.com/) featuring [Wildflower Roots](http://wildflower-roots.myshopify.com/) jewelry_
 
-[![christinestephens](http://yellowconference.com/wp-content/uploads/2016/09/ChristineStephens.jpg)](https://delightfulfindings.wordpress.com/)
+[![christinestephens](https://s3.amazonaws.com/yellow-files/blog/2016/09/ChristineStephens.jpg)](https://delightfulfindings.wordpress.com/)

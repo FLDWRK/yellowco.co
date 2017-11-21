@@ -14,7 +14,7 @@ categories:
 redirect_from: "/light-talk/what-we-can-learn-from-great-social-justice-campaigns/"
 ---
 
-[![business-792113_1280](http://yellowconference.com/wp-content/uploads/2015/07/business-792113_1280.jpg)](http://yellowconference.com/wp-content/uploads/2015/07/business-792113_1280.jpg)The Internet has its good days and it’s bad days. When it comes to social movements that create change and advocate justice - it’s a good day.
+[![business-792113_1280](https://s3.amazonaws.com/yellow-files/blog/2015/07/business-792113_1280.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/07/business-792113_1280.jpg)The Internet has its good days and it’s bad days. When it comes to social movements that create change and advocate justice - it’s a good day.
 
 We all can instantly recognize and recall the days when social campaigns takeover your timeline and newsfeed. Sometimes you can’t help but jump on the bandwagon, other times you might find yourself writing it off. Before you do, really take time to look into the movement and see what it’s based on. It might relate to you more than you think.
 
@@ -44,4 +44,4 @@ Social media **can** create change. Whether you’re an entrepreneur who wants t
 
 Have you seen any campaigns that resonated with you lately? Let us know in the comments below.
 
-[![SARAH HEYL](http://yellowconference.com/wp-content/uploads/2015/07/SARAH-HEYL.jpg)](http://www.sarahheyl.com/)
+[![SARAH HEYL](https://s3.amazonaws.com/yellow-files/blog/2015/07/SARAH-HEYL.jpg)](http://www.sarahheyl.com/)

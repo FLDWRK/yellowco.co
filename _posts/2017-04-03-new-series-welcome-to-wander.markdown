@@ -19,7 +19,7 @@ So, we want to talk about it. For many of us, we get so caught up in _how_ to ta
 
 Is it instead that we giving our fears more weight than our courage? Are we allowing our doubts to quickly cloud our faith? Do our insecurities speak louder than our confidence?  Has our focus shifted away from _why_ - the heart of what we are trying to accomplish in the first place?
 
-![Welcome to Wander - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/04/ValerieDenisePhotos-82.jpg)
+![Welcome to Wander - The Yellow Room](https://s3.amazonaws.com/yellow-files/blog/2017/04/ValerieDenisePhotos-82.jpg)
 
 The truth is, we cannot always give each other answers of what is to come. Instead, over these next three months, we want to address this time spent wandering in the middle. The in-between of trying to make it possible to leave your day job for your passion project. The search of not yet knowing your individual calling to make an impact. The indifference found in being too comfortable, in need of a push to your next adventure.
 
@@ -31,4 +31,4 @@ I encourage you to examine your purpose along with us. Hear the stories we’ll 
 
 _Photos by: [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![Hanna Snyder Bio](http://yellowco.co/wp-content/uploads/2017/04/HANNA-BIO-1.jpg)](http://www.hannasnyder.com)
+[![Hanna Snyder Bio](https://s3.amazonaws.com/yellow-files/blog/2017/04/HANNA-BIO-1.jpg)](http://www.hannasnyder.com)

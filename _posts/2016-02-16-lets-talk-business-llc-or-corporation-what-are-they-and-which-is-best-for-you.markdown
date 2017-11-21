@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/lets-talk-business-llc-or-corporation-what-are-they-and-which-is-best-for-you/"
 ---
 
-[![Whitney Darling Photography](http://yellowconference.com/wp-content/uploads/2016/02/kiana2.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/kiana2.jpg)Choosing between an LLC and a Corporation for your new (or existing) business can be a daunting decision. It is always best to consult with an attorney to discuss your concerns and specific needs, but these tips should help lay a foundation to help answer to this difficult question.
+[![Whitney Darling Photography](https://s3.amazonaws.com/yellow-files/blog/2016/02/kiana2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/02/kiana2.jpg)Choosing between an LLC and a Corporation for your new (or existing) business can be a daunting decision. It is always best to consult with an attorney to discuss your concerns and specific needs, but these tips should help lay a foundation to help answer to this difficult question.
 
 **1\. For Less Paperwork, Choose an LLC!**
 
@@ -22,7 +22,7 @@ Corporations must file Articles of Incorporation and sometimes must, and are alw
 
 There are more intricacies involved in investing in an LLC than a corporation, so choosing to only invest in corporations is very common in the investment community. LLCs sell membership interest in their company, which means interest is sold as a portion of the whole. For example, if there are currently two founders each with a 50% share of the company, somebody or both will have to give up a portion of their share in order to allot a certain amount to a third person, an investor. Now this investor owns a piece of the company and will receive a K-1 statement each year indicating her share of the profits and losses from the company. She will file the K-1 on her personal income tax return annually, and will have to pay taxes on any profits from the business, even if the business decides not to issue profit shares to its owners (i.e. reinvest those profits in the business). Many investors choose not to invest in LLCs because of the paperwork and taxing scheme.
 
-[![Whitney Darling Photography](http://yellowconference.com/wp-content/uploads/2016/02/IMG_0507.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/IMG_0507.jpg)Alternatively, a new corporation is granted a certain number of shares when it incorporates. The founders must choose how many to keep for themselves, how many to sell off to investors, and how many to divvy up to new employees. When a corporation sells a share of stock to an investor, the company gets the money that the investor put in and the investor gets to hang on to the stock (with her fingers crossed that the company will succeed and the value of the stock will increase). The investor will pay tax on her shares of stock if the value increases in a given year (called a capital gains tax) or if the company pays out a dividend to its shareholders. Many investors prefer the simplicity and passiveness of owning stock in a corporation and avoiding the tax complications that come with buying shares of an LLC, and most venture funds simply will not invest in LLCs.
+[![Whitney Darling Photography](https://s3.amazonaws.com/yellow-files/blog/2016/02/IMG_0507.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/02/IMG_0507.jpg)Alternatively, a new corporation is granted a certain number of shares when it incorporates. The founders must choose how many to keep for themselves, how many to sell off to investors, and how many to divvy up to new employees. When a corporation sells a share of stock to an investor, the company gets the money that the investor put in and the investor gets to hang on to the stock (with her fingers crossed that the company will succeed and the value of the stock will increase). The investor will pay tax on her shares of stock if the value increases in a given year (called a capital gains tax) or if the company pays out a dividend to its shareholders. Many investors prefer the simplicity and passiveness of owning stock in a corporation and avoiding the tax complications that come with buying shares of an LLC, and most venture funds simply will not invest in LLCs.
 
 **3\. For Simpler Taxes, Choose an LLC!**
 
@@ -30,7 +30,7 @@ LLCs are taxed just once. As noted above, owners pay personal income tax on thei
 
 Corporations, however, are taxed twice. First, corporate business tax is paid on the business income. Then, when profits are distributed as either wages to employees or dividends to shareholders, that money is taxed again on the personal tax return of the receiver. However, one advantage to the two-prong corporation tax is the ability to leave profits with the company. This means the money is not distributed as wages or dividends, therefore avoiding that second level of taxation. While this can be very advantageous, especially for a highly successful company, it can cause a lot of unnecessary confusion for a small company that intends to stay small.
 
-[![Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2016/02/IMG_0539.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/IMG_0539.jpg)
+[![Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2016/02/IMG_0539.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/02/IMG_0539.jpg)
 
 **4\. For More Ownership Flexibility, Choose an LLC!**
 
@@ -46,4 +46,4 @@ LLCs and corporations will both protect your personal assets from your businessâ
 
 _Photos by [Whitney Schey](http://whitneydarling.com/lifestyle-kiana-scott/)_
 
-[![WILKINSONMAZZEO](http://yellowconference.com/wp-content/uploads/2016/02/WILKINSONMAZZEO.jpg)](http://wilkinsonmazzeo.com/)
+[![WILKINSONMAZZEO](https://s3.amazonaws.com/yellow-files/blog/2016/02/WILKINSONMAZZEO.jpg)](http://wilkinsonmazzeo.com/)

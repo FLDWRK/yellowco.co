@@ -12,7 +12,7 @@ redirect_from: "/creative-ladies/finding-time-for-creativity-is-easier-than-you-
 
 **You know those types of days—the ones when you’re _sure_ you can’t do anything more than you have already done. Your feet hurt (leave the dishes) your eyes hurt (turn down the brightness on that computer screen!) and you’ve exhausted everything in yourself and can’t possibly move on! _Okay everyone, hold on a second._**
 
-Is where you are in your career and life _right now_ where you want to be next year? Humans thrive on forward motion, so I will assume you’re working to make next year’s you an even better version of who you are now.  My last post was about [vision planning.](http://yellowco.co/creative-ladies/how-to-create-a-vision-plan-that-works-for-you/)  The key to getting to the extracurriculars is to set aside time to get them done, and this post is going to tell you just how to do exactly that.  [![yellow2016-184](http://yellowco.co/wp-content/uploads/2017/01/Yellow2016-184.jpg)](http://yellowco.co/wp-content/uploads/2017/01/Yellow2016-184.jpg) The business extracurriculars are the essential ingredients to you and your business’ growth. That thing you’ve been meaning to get to is the thing that will propel you beyond where you are today.
+Is where you are in your career and life _right now_ where you want to be next year? Humans thrive on forward motion, so I will assume you’re working to make next year’s you an even better version of who you are now.  My last post was about [vision planning.](http://yellowco.co/creative-ladies/how-to-create-a-vision-plan-that-works-for-you/)  The key to getting to the extracurriculars is to set aside time to get them done, and this post is going to tell you just how to do exactly that.  [![yellow2016-184](https://s3.amazonaws.com/yellow-files/blog/2017/01/Yellow2016-184.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/01/Yellow2016-184.jpg) The business extracurriculars are the essential ingredients to you and your business’ growth. That thing you’ve been meaning to get to is the thing that will propel you beyond where you are today.
 
 ### **1 — Create and honor space**
 
@@ -52,4 +52,4 @@ _Sarah's 2017 business strengthening course starts February 13th ! She is openin
 
 _Photos by [Cacá Santoro](http://cacasantoro.com/) featuring [the Created Co.](https://thecreated.co/)_
 
-[![sarah_schulweis](http://yellowco.co/wp-content/uploads/2017/02/Sarah_Schulweis.jpg)](http://www.anchorandorbit.com/)
+[![sarah_schulweis](https://s3.amazonaws.com/yellow-files/blog/2017/02/Sarah_Schulweis.jpg)](http://www.anchorandorbit.com/)

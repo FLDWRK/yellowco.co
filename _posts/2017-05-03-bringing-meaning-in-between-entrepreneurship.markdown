@@ -17,7 +17,7 @@ I've had my fair share of this. I moved from Wisconsin, to California, to Africa
 
 That said, I think it is super important to give our all to where we’re at, even if we know it’s not where we’ll stay. I’ve seen, time and time again, that when I’m intentional with what I’ve been given, the next stepping stone rises up naturally. **This is the way I want to forge my path: organically, easily, at the perfect time.**
 
-![5 MUSTS FOR BRINGING MEANING TO THE IN-BETWEEN OF ENTREPRENEURSHIP](http://yellowco.co/wp-content/uploads/2017/05/TheFinerFewer-Final-070.jpg "5 MUSTS FOR BRINGING MEANING TO THE IN-BETWEEN OF ENTREPRENEURSHIP")
+![5 MUSTS FOR BRINGING MEANING TO THE IN-BETWEEN OF ENTREPRENEURSHIP](https://s3.amazonaws.com/yellow-files/blog/2017/05/TheFinerFewer-Final-070.jpg "5 MUSTS FOR BRINGING MEANING TO THE IN-BETWEEN OF ENTREPRENEURSHIP")
 
 So, even though I’m currently living in a season I worked so hard to get to (being a business coach), I’m also on the verge of newness and more change (adopting from China and working on my book about infertility). Sometimes the in-between gets uncomfortable, but I’m determined to explore every nook and cranny of this time and I hope you’ll do the same, alongside me, wherever you’re at. 
 
@@ -35,4 +35,4 @@ So, even though I’m currently living in a season I worked so hard to get to (b
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![BECKY MORQUECHO BIO](http://yellowco.co/wp-content/uploads/2017/05/BECKY-MORQUECHO-BIO.jpg)](http://idealustlife.com/)
+[![BECKY MORQUECHO BIO](https://s3.amazonaws.com/yellow-files/blog/2017/05/BECKY-MORQUECHO-BIO.jpg)](http://idealustlife.com/)

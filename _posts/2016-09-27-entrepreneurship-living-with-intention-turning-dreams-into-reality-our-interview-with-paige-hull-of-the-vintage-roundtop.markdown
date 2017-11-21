@@ -15,7 +15,7 @@ I'm a firm believer in double meaning...meaning: you go into something for one r
 
 Read on to hear about how living with intention and putting action to her dreams continues to grow her brand with bumps along the way that only a woman with true valor could pursue.
 
-![dsc_4860](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4860-1024x684.jpg)[![dsc_5454](http://yellowconference.com/wp-content/uploads/2016/09/DSC_5454-1024x635.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/DSC_5454.jpg)
+![dsc_4860](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4860-1024x684.jpg)[![dsc_5454](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_5454-1024x635.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_5454.jpg)
 
 _**Where do you live and what brought you there?**_
 
@@ -25,7 +25,7 @@ _**What inspired you to start [The Vintage Round Top](http://www.thevintageround
 
 No, quite honestly owning a vacation home rental had never crossed our minds. The original inspiration was just to find something creative Smoot and I could do together. The house rental definitely provided that, but also was the springboard in developing our [lifestyle brand](http://www.thevintageroundtop.com/shoprtv/) which includes antiques, artisan made home goods, workshops and retreats, and a hotel amenities line.
 
-[![dsc_4527](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4527.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4527.jpg)
+[![dsc_4527](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4527.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4527.jpg)
 
 _**What were you doing before RVT?**_
 
@@ -35,7 +35,7 @@ _**Personally and professionally, what obstacles have you had to overcome in cre
 
 Developing and growing a business based an hour and half away from our home has its challenges. Most of the work is done from our home office in Houston, but it would certainly be easier and better if we were closer to the property. There is the juggle of being working parents and living in a “devices in our faces” world. Social media and the demands of a growing business can often be a slippery slope. Also, we still operate our construction company so are always trying to give each brand/ company the attention it deserves.
 
-[![dsc_4555](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4555.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4555.jpg)
+[![dsc_4555](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4555.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4555.jpg)
 
 _**Do you have a favorite quote or motto that you live by?**_
 
@@ -49,13 +49,13 @@ _**Last April, you faced a devastating blow when your home was flooded. What kep
 
 Our faith in God and each other as well as the help of our family. We could not have done it without them. It’s been one of the hardest experiences we’ve gone through as it is a never ending process. In fact, we are still rebuilding the house from almost three months ago. We have also been reminded that material possessions come and go, but our faith and love for our family is a never ending commitment.
 
-[![dsc_4600](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4600.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4600.jpg)
+[![dsc_4600](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4600.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4600.jpg)
 
 _**Tell us about your commitment to sustainability and how your company gives back...**_
 
 We give objects a second life by repurposing them into updated home décor. We also use reclaimed materials whenever possible and provide antique furniture and vintage home décor options as an alternative to mass produced items. During renovations, we donated all of the usable materials not used from the original house to Habitat for Humanity and also donate a portion of our profits to this wonderful charity.
 
-[![dsc_5044](http://yellowconference.com/wp-content/uploads/2016/09/DSC_5044.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/DSC_5044.jpg)
+[![dsc_5044](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_5044.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_5044.jpg)
 
 _**Who has been one of the most interesting visitors you've had at the home and why?**_
 
@@ -65,7 +65,7 @@ _**What have been a few of the most rewarding aspects of starting The Vintage Ro
 
 Initially, it was designing the first house and all that followed from that experience. It’s been really great growing the brand in so many different directions. Even though we initially started the business as a creative outlet it’s been rewarding meeting people who have connected to our story and the adventure we are on. As the brand has grown and developed, more and more people would ask us how we did it. Through public speaking, workshops and events we have been blessed to share our story with others. We absolutely love being an inspiration and resource for other creatives. We discuss the realities of being a husband and wife team, how we built our brand from scratch, why “living with intention” is so important (it changed our life), and the strategies of turning your passions into profits and so much more!
 
-[![dsc_4173](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4173.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4173.jpg)[![dsc_4244](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4244.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/DSC_4244.jpg)
+[![dsc_4173](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4173.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4173.jpg)[![dsc_4244](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4244.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/09/DSC_4244.jpg)
 
 _**What's up next for The Vintage Round Top?**_
 
@@ -73,6 +73,6 @@ We are expanding our property with a new 2000 sq ft cottage that is attached to 
 
 _Photos by [Laura Morsman](http://lauramorsmanphotography.com/)_
 
-[![kathrynParrish](http://yellowconference.com/wp-content/uploads/2016/05/kathrynParrish.jpg)](https://www.instagram.com/kathryn_parrish/)
+[![kathrynParrish](https://s3.amazonaws.com/yellow-files/blog/2016/05/kathrynParrish.jpg)](https://www.instagram.com/kathryn_parrish/)
 
 [![](https://lh3.googleusercontent.com/PLgiNHFRVmFsLP41efysqdUJ9SZ-AcJD3c5aX2chYUhgBTYI52sHFjId--lSB85ZE8liKk_tGGuQ32hJHUmjbw=s0)](https://yellowcollective.leadpages.co/leadbox/14275ef73f72a2%3A17a2246bc746dc/5739407210446848/)

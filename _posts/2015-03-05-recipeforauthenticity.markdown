@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/recipeforauthenticity/"
 ---
 
-[![Recipe for Authenticity Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/01/6068523867_a2c50c4446_o.jpg)](http://yellowconference.com/wp-content/uploads/2015/01/6068523867_a2c50c4446_o.jpg)Being authentic has never been an easy feat, but I would venture that being one in this culture has its own challenges unique from any other time and place. We're suffocating under layers and layers of counterfeit care, feigned friendships, and insincerity. And maybe I'm just a bit cynical, but if we're not careful we could find ourselves completely cut off from sincerity and authenticity. Our culture picks and hacks away at our humanity, but our humanness can be redeemed if we know how to build genuine relationships and authenticity within ourselves. And living a real, messy, authentic life is a better thing to strive for than any other resolution you make on a late December or early January morning.
+[![Recipe for Authenticity Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/01/6068523867_a2c50c4446_o.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/01/6068523867_a2c50c4446_o.jpg)Being authentic has never been an easy feat, but I would venture that being one in this culture has its own challenges unique from any other time and place. We're suffocating under layers and layers of counterfeit care, feigned friendships, and insincerity. And maybe I'm just a bit cynical, but if we're not careful we could find ourselves completely cut off from sincerity and authenticity. Our culture picks and hacks away at our humanity, but our humanness can be redeemed if we know how to build genuine relationships and authenticity within ourselves. And living a real, messy, authentic life is a better thing to strive for than any other resolution you make on a late December or early January morning.
 
 How do we do this? How do we start becoming more real with each other and with ourselves? I have a few ideas of what helps authenticity grow. Here is my recipe for authenticity:
 
@@ -32,7 +32,7 @@ I will never forget a piece of advice that I latched onto from a book I read in 
 
 Listen to others; don't be afraid to lose your voice for a while as you take in more than you dish out. Let the world fill you up with its songs; you have plenty of time to sing back. Listen, listen, listen; take it all in. _Listening to others creates authentic community by inviting the people around you to feel cared for, be real, and eliminating judgment._
 
-[![Recipe for Authenticity; Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/01/6069070944_ecaf8ff1db_o.jpg)](http://yellowconference.com/wp-content/uploads/2015/01/6069070944_ecaf8ff1db_o.jpg)
+[![Recipe for Authenticity; Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/01/6069070944_ecaf8ff1db_o.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/01/6069070944_ecaf8ff1db_o.jpg)
 
 > ...living a real, messy, authentic life is a better thing to strive for than any other resolution you make on a late December or early January morning.
 
@@ -42,4 +42,4 @@ If you are genuinely striving towards an authentic life filled with acceptance, 
 
 _Photos by [Sandra Pagaimo](https://www.flickr.com/photos/54132946@N08/)_
 
-[![clairewoodbio](http://yellowconference.com/wp-content/uploads/2015/01/clairewoodbio.jpg)](https://convictionsofacollegegirl.wordpress.com/)
+[![clairewoodbio](https://s3.amazonaws.com/yellow-files/blog/2015/01/clairewoodbio.jpg)](https://convictionsofacollegegirl.wordpress.com/)

@@ -15,7 +15,7 @@ So, what’s the solution? How do we create and flourish a viable business that 
 
 I’d love to introduce to you the idea of a “Triple Bottom Line” business. This type of enterprise successfully promotes environmental sustainability, social consciousness, while also making a profit! The model values people, the planet, _and_ profits. Several companies have already even adopted this framework!  [Patagonia](http://www.patagonia.com) ,  [Seventh Generation](http://www.seventhgeneration.com) , and  [Everlane](http://www.everlane.com) are just three examples of companies that have created profitable businesses and put an enormous value on making the world a better place.
 
-![TRIPLE BOTTOM LINE BUSINESS - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/TheFinerFewer-Final-070.jpg)
+![TRIPLE BOTTOM LINE BUSINESS - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/TheFinerFewer-Final-070.jpg)
 
 When creating a Triple Bottom Line business, whether on your own or with a team, try starting with these steps:
 
@@ -31,7 +31,7 @@ When creating a socially-minded business, we can be so focused on making a diffe
 
 With so many issues in the world, it’s easy to feel the desire to support each and every cause that’s important to us. From education, to women’s empowerment, to health and human rights, it can be overwhelming trying to choose just one focus. But usually, you’ll see that the most successful organizations have one central cause. This will help focus your marketing efforts and make your mission crystal clear to customers and supporters.
 
-![TRIPLE BOTTOM LINE BUSINESS - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/TheFinerFewer-Final-013.jpg)
+![TRIPLE BOTTOM LINE BUSINESS - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/TheFinerFewer-Final-013.jpg)
 
 ### **4\. Incorporate environmental consciousness.**
 
@@ -47,4 +47,4 @@ No one said creating a socially-minded business would be easy. But if you’re a
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![Elisabetta Colabianchi BIO](http://yellowco.co/wp-content/uploads/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/)
+[![Elisabetta Colabianchi BIO](https://s3.amazonaws.com/yellow-files/blog/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/)

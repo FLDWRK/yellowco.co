@@ -11,7 +11,7 @@ redirect_from: "/the-activist/work-hard-trust-yourself-seek-the-help-of-others-a
 
 _[UNCVRD Jewelry](http://www.uncvrdjewelry.com/the-uncvrd-story/) gives 40% of each sale to efforts to end local human trafficking (in the Los Angeles/Orange County area). They are the epitome of great design matched with a great cause. We asked founder and designer, Jen Bedrossian, to share some of her story, her journey, and her wisdom. _
 
-[![Jen Bedrossian photo1](http://yellowconference.com/wp-content/uploads/2016/01/Jen-Bedrossian-photo1-1024x746.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/Jen-Bedrossian-photo1.jpg)
+[![Jen Bedrossian photo1](https://s3.amazonaws.com/yellow-files/blog/2016/01/Jen-Bedrossian-photo1-1024x746.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/Jen-Bedrossian-photo1.jpg)
 
 My son was seven months old, and I was working part-time at a museum in downtown Los Angeles in a Development position. I enjoyed my job, but as a creative, I yearned for an outlet to do just that – create. I decided to take a stab at jewelry making. At the same time, over the past year, I had been learning more and more about the world’s fastest growing crime – human trafficking. It was something that I had gone my whole life not really knowing about, and it was something that was literally happening in my own city. Once I knew that this form of modern-day slavery existed, I knew I couldn’t just turn a blind eye.
 
@@ -19,7 +19,7 @@ My son was seven months old, and I was working part-time at a museum in downtown
 
 My idea was to create a line of jewelry and donate a percentage of each sale towards a local non-profit fighting trafficking on the front lines. It sounded great! I was so excited to start planning, and immediately started designing, researching, creating. A few months later, doubt started to creep in. “What if no one buys this stuff?” “What if I fail?” “I have an infant…am I really going to have time for this? Am I crazy?” “I already have a part-time job and I want to be a good mom, do I need more on my plate?”
 
-[![UNCVRD -- Holiday 2015-75](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-75.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-75.jpg) [![UNCVRD -- Holiday 2015-131](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-131.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-131.jpg)As I was nursing my little babe one night, I was scrolling through Pinterest and saw an image that changed everything. In beautiful handwritten script, it read… _“What if I fail? But darling…what if you fly?”_ I realized right then and there that I wouldn’t get to taste the reward without taking the risk. Was it scary? Oh my goodness, yes. Was it worth it? Oh my goodness. _Yes._
+[![UNCVRD -- Holiday 2015-75](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-75.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-75.jpg) [![UNCVRD -- Holiday 2015-131](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-131.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-131.jpg)As I was nursing my little babe one night, I was scrolling through Pinterest and saw an image that changed everything. In beautiful handwritten script, it read… _“What if I fail? But darling…what if you fly?”_ I realized right then and there that I wouldn’t get to taste the reward without taking the risk. Was it scary? Oh my goodness, yes. Was it worth it? Oh my goodness. _Yes._
 
 ## The greatest favor I did for myself in those early months of planning my launch was to surround myself with people who knew way more than I did.
 
@@ -29,7 +29,7 @@ I’m embarrassingly bad with math and all things number-related. So I enlisted 
 
 As many of you know, it’s not always easy to work, be a full-time mom, and build a business in the wee hours of the night. It’s tiring and requires multiple cups of coffee. As much as I’d like to say it gets easier, I’m sorry, friends – it doesn’t. Dreams require work! A few months after my launch I became pregnant with baby number two. So now, I found myself mothering a toddler full-time, working part-time, building my business during nap times and after bedtime, all while growing a human and trying not to throw up on everything (sorry if that’s graphic, but #realtalk. We can be real, right??!). I was a zombie – but a passionate zombie!
 
-## [![UNCVRD -- Holiday 2015-36](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-36.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-36.jpg) [![UNCVRD -- Holiday 2015-8](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-8.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-8.jpg)I also trusted my gut. Because I knew deep down that this was my calling, whether in this season or otherwise, I was willing to take big risks.
+## [![UNCVRD -- Holiday 2015-36](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-36.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-36.jpg) [![UNCVRD -- Holiday 2015-8](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-8.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-8.jpg)I also trusted my gut. Because I knew deep down that this was my calling, whether in this season or otherwise, I was willing to take big risks.
 
 I was also able to carry out tasks with a matter of confidence that I hadn’t experienced before. So, after months of planning and prepping, I launched my online store a few weeks before Christmas. The response I got was nothing short of overwhelming. Through social media and word of mouth, my business quickly grew and I began to hear stories from customers who had been given opportunities to spread awareness about trafficking due to a compliment on their jewelry.
 
@@ -37,7 +37,7 @@ I was also able to carry out tasks with a matter of confidence that I hadn’t e
 
 After a few months, it became evident that if I was going to continue to grow my business and not be spread too thin, it was time to say goodbye to my part-time museum job and pursue [UNCVRD](http://www.uncvrdjewelry.com/) full time. It wasn’t easy by any means, but I can honestly say, it has been worth it.
 
-## [![UNCVRD -- Holiday 2015-194](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-194.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/UNCVRD-Holiday-2015-194.jpg)Sometimes the path to making your dream a reality isn’t the most linear one.
+## [![UNCVRD -- Holiday 2015-194](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-194.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/UNCVRD-Holiday-2015-194.jpg)Sometimes the path to making your dream a reality isn’t the most linear one.
 
 Sometimes you’ll find yourself devoting hours every night after your full time day job to the one thing that brings you the most joy. Don’t give up. When you begin to grow weary, go back to the beginning – the reason why you started.
 
@@ -47,13 +47,13 @@ A few weeks ago, I was given the opportunity to teach a jewelry-making workshop 
 
 There’s no easy formula to turning your passion into a career, to turning your dreams into a reality. There will be mountain-top moments, and there will be crying-in-the-shower deep valleys. That being said, I’m a firm believer that our passions are given to us for a reason. So, my friend – work hard, trust yourself, seek out the help of others, and don’t you dare give up.
 
-_Psst...[here's a free inspirational print](http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning-2.jpg) with a quote from this post. Pin it, #bloomyellow it, or just print it out for your workspace to remind yourself to keep moving forward when the going gets rough._
+_Psst...[here's a free inspirational print](https://s3.amazonaws.com/yellow-files/blog/2016/01/Back-to-the-beginning-2.jpg) with a quote from this post. Pin it, #bloomyellow it, or just print it out for your workspace to remind yourself to keep moving forward when the going gets rough._
 
-[![Prettyful](http://yellowconference.com/wp-content/uploads/2016/01/Prettyful2.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning-2.jpg)
+[![Prettyful](https://s3.amazonaws.com/yellow-files/blog/2016/01/Prettyful2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/Back-to-the-beginning-2.jpg)
 
-[![On-the-go](http://yellowconference.com/wp-content/uploads/2016/01/On-the-go.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning_iphone.jpg)
+[![On-the-go](https://s3.amazonaws.com/yellow-files/blog/2016/01/On-the-go.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/Back-to-the-beginning_iphone.jpg)
 
-_CLICK TO DOWNLOAD FOR: [iphone](http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning_iphone.jpg)  //  [ipad](http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning_ipad.jpg)   //  [desktop](http://yellowconference.com/wp-content/uploads/2016/01/Back-to-the-beginning-2.jpg)_
+_CLICK TO DOWNLOAD FOR: [iphone](https://s3.amazonaws.com/yellow-files/blog/2016/01/Back-to-the-beginning_iphone.jpg)  //  [ipad](https://s3.amazonaws.com/yellow-files/blog/2016/01/Back-to-the-beginning_ipad.jpg)   //  [desktop](https://s3.amazonaws.com/yellow-files/blog/2016/01/Back-to-the-beginning-2.jpg)_
 
 * * *
 
@@ -61,4 +61,4 @@ _Free download provided by Yellow Co. just for you!_
 
 _All other photos provided by UNCVRD from their holiday line. _
 
-[![JENNUNCVRD](http://yellowconference.com/wp-content/uploads/2016/01/JENNUNCVRD.jpg)](http://www.uncvrdjewelry.com/the-uncvrd-story/)
+[![JENNUNCVRD](https://s3.amazonaws.com/yellow-files/blog/2016/01/JENNUNCVRD.jpg)](http://www.uncvrdjewelry.com/the-uncvrd-story/)

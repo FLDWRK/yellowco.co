@@ -21,7 +21,7 @@ _What we think about controls our life._ Our thoughts inspire our feelings and a
 
 By choosing our thoughts, we are choosing our perspective - the way we look at the world or a certain situation. This perspective becomes our new reality. Get it?  **This is great news.**
 
-![HOW TO BREAK THE CYCLE OF NEGATIVE SELF-TALK - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/BeautyinBrokenness-16.jpg)
+![HOW TO BREAK THE CYCLE OF NEGATIVE SELF-TALK - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/BeautyinBrokenness-16.jpg)
 
 Once this idea sinks in, it has the potential to change. your. life. Because here’s the thing: we have 100% control over our thoughts. And therefore, we have 100% control over our feelings, actions, and the way we see every single circumstance in our lives.
 
@@ -31,7 +31,7 @@ I know it doesn’t always _feel_ like we have this control (trust me, I’ve be
 
 So, the question is: how do we do this?! In a nutshell, here is how to take control of your thoughts and begin to change your reality.
 
-![HOW TO BREAK THE CYCLE OF NEGATIVE SELF-TALK - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/Julien-YellowTension-367.jpg)
+![HOW TO BREAK THE CYCLE OF NEGATIVE SELF-TALK - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/Julien-YellowTension-367.jpg)
 
 ### **Step 1: Pay attention.**
 
@@ -49,7 +49,7 @@ Take some time to sit quietly, silence your phone, and think back to your earli
 
 For every false belief, there is an opposite one that has the power to bring you a fresh perspective - along with sweet freedom and joy. “I never have enough money” can be replaced with: “I am rich in so many things! I am grateful for the money I have which allows me to have a roof over my head and food in my stomach. My life is filled with abundance.”
 
-![HOW TO BREAK THE CYCLE OF NEGATIVE SELF-TALK - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/Julien-YellowTension-356.jpg)
+![HOW TO BREAK THE CYCLE OF NEGATIVE SELF-TALK - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/Julien-YellowTension-356.jpg)
 
 ### **Step 4: Repeat.**
 
@@ -71,4 +71,4 @@ Voila! A new reality. It’s not magic - it’s perspective. 
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![ABIGAIL DAVIDSON BIO](http://yellowco.co/wp-content/uploads/2017/06/ABIGAIL-DAVIDSON-BIO.jpg)](https://www.theschoolofwellbeing.com/)
+[![ABIGAIL DAVIDSON BIO](https://s3.amazonaws.com/yellow-files/blog/2017/06/ABIGAIL-DAVIDSON-BIO.jpg)](https://www.theschoolofwellbeing.com/)

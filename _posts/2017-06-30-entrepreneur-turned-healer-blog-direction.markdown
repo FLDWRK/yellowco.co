@@ -19,7 +19,7 @@ A few years in, I took a step back and realized that I wasn’t doing anything t
 
 From one brainstorming session came a name for this blog: Pushing Beauty. Once I had a name, I knew I just needed to start. It didn’t need to be grand. I didn’t know where it was going to take me. I just had to get this feeling out into the world somehow.  Even though I had never called myself a writer, I was one, and so I began writing.
 
-![ENTREPRENEUR TURNED HEALER: HOW STARTING A BLOG SHIFTED MY DIRECTION - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/06/1T5A6791.jpg "ENTREPRENEUR TURNED HEALER: HOW STARTING A BLOG SHIFTED MY DIRECTION - THE YELLOW ROOM")
+![ENTREPRENEUR TURNED HEALER: HOW STARTING A BLOG SHIFTED MY DIRECTION - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/1T5A6791.jpg "ENTREPRENEUR TURNED HEALER: HOW STARTING A BLOG SHIFTED MY DIRECTION - THE YELLOW ROOM")
 
 No, the blog did not blow up. This is not _that_ story. But it gave me a voice. It helped move the energy that felt stuck. It made me feel excited, and it sent a message that this was important to me.  After I took the pressure off Pushing Beauty to be this huge idea, it started to feel more fluid. My expression came up easier. I began to write for other blogs and gained a small following. Still, I had no idea how to turn it into a business, and wasn’t clear what _it_ was aside from a blog.
 
@@ -29,7 +29,7 @@ At a time when everything was coming together for me, I read a book called, “I
 
 There was no more guessing what Pushing Beauty might be. It was clearly an expression of me, but it was also my ability to help people heal and transform their lives. The more I grew as a person, the clearer my mission became.  The mind loves to try to figure things out on its own. And it will continue to do so endlessly until you choose to surrender.
 
-![ENTREPRENEUR TURNED HEALER: HOW STARTING A BLOG SHIFTED MY DIRECTION - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/06/1T5A6906.jpg "ENTREPRENEUR TURNED HEALER: HOW STARTING A BLOG SHIFTED MY DIRECTION - THE YELLOW ROOM")
+![ENTREPRENEUR TURNED HEALER: HOW STARTING A BLOG SHIFTED MY DIRECTION - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/06/1T5A6906.jpg "ENTREPRENEUR TURNED HEALER: HOW STARTING A BLOG SHIFTED MY DIRECTION - THE YELLOW ROOM")
 
 ### **When we release the need to control the outcome, we allow the magic to come in.**
 
@@ -39,4 +39,4 @@ But - that’s exactly what we have to do to succeed. Release the idea everythi
 
 _Photos by: [Liz Calka](https://www.lizcalka.photo/)_
 
-[![MICHELLE D'AVELLA BIO](http://yellowco.co/wp-content/uploads/2017/06/MICHELLE-DAVELLA-BIO.jpg)](https://www.pushingbeauty.com/)
+[![MICHELLE D'AVELLA BIO](https://s3.amazonaws.com/yellow-files/blog/2017/06/MICHELLE-DAVELLA-BIO.jpg)](https://www.pushingbeauty.com/)

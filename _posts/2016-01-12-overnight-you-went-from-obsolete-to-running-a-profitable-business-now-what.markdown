@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/overnight-you-went-from-obsolete-to-running-a-profitable-business-now-what/"
 ---
 
-## [![Yellow Co. Blog: where do you start? we've got you covered. Here's our tips to navigate your overnight success. ](http://yellowconference.com/wp-content/uploads/2016/01/image1.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/image1.jpg)I know the feeling. Out of nowhere on a Tuesday morning you wake up to 3 new emails from potential clients.
+## [![Yellow Co. Blog: where do you start? we've got you covered. Here's our tips to navigate your overnight success. ](https://s3.amazonaws.com/yellow-files/blog/2016/01/image1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/image1.jpg)I know the feeling. Out of nowhere on a Tuesday morning you wake up to 3 new emails from potential clients.
 
 Friends have finally given out your card, someone looked at your LinkedIn profile, and your perfectly imperfect Instagram feed reeled in another.
 
@@ -46,7 +46,7 @@ This once dreamy new opportunity feels like a burst water pipe in your apartment
 
 #### **Research**
 
-Get online. Google the heck (and other expletives) out of your field. The purpose of this is not to read every article that comes up on the, “How to start a freelance graphic design business,” search result. Don't overload your brain with new information and fall asleep crying over a bowl of popcorn. Instead, start slow, skim articles, and get a general overview of things you’ll need to learn. Keep a list of these things, this will come in handy later.[![The Yellow Co. Blog: Overnight success take you by surprise? Don't worry, we got you covered. ](http://yellowconference.com/wp-content/uploads/2016/01/photo2.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/photo2.jpg)
+Get online. Google the heck (and other expletives) out of your field. The purpose of this is not to read every article that comes up on the, “How to start a freelance graphic design business,” search result. Don't overload your brain with new information and fall asleep crying over a bowl of popcorn. Instead, start slow, skim articles, and get a general overview of things you’ll need to learn. Keep a list of these things, this will come in handy later.[![The Yellow Co. Blog: Overnight success take you by surprise? Don't worry, we got you covered. ](https://s3.amazonaws.com/yellow-files/blog/2016/01/photo2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/photo2.jpg)
 
 #### **Phone a friend**
 
@@ -64,4 +64,4 @@ If we’re honest even after all the research is done and templates are written,
 
 The excitement and fear, insecurity and boldness are all mixed up right now. Part of you wants to turn back toward the steady 9-5 and part of you can’t wait to run forward. As you venture forward, _do it boldly_. There are so many women who have walked before you and left a trail of advice and guidance. _May this be your best adventure yet!_
 
-[![Yellow Co. Blog: Overnight Success? We've got your next steps covered. ](http://yellowconference.com/wp-content/uploads/2016/01/NATALIESKIETH.jpg)](http://www.natalieskeith.com/)
+[![Yellow Co. Blog: Overnight Success? We've got your next steps covered. ](https://s3.amazonaws.com/yellow-files/blog/2016/01/NATALIESKIETH.jpg)](http://www.natalieskeith.com/)

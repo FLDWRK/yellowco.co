@@ -21,7 +21,7 @@ Like I said, I am not a morning person and I never was. My parents had to lure m
 
 Inspired by their tactic, my routine starts with getting up, making tea or coffee, and literally getting right back into bed with it. In fact, the majority of my routine occurs _in bed_ . Creating a comfortable environment is key. **You want to look forward to your routine, not dread it.** This is not like that one morning you tried P90X.
 
-![THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Photo-Aug-03-5-24-51-PM.jpg "THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM")
+![THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/08/Photo-Aug-03-5-24-51-PM.jpg "THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM")
 
 ### **Tune Out the Noise (and Notifications)**
 
@@ -39,7 +39,7 @@ The  [Enso app](https://itunes.apple.com/us/app/ens%C5%8D-meditation-timer-bell
 
 Central to my routine is something called [Morning Pages](http://www.chriswinfield.com/morning-pages/), a practice I learned about through the book [The Artist's Way](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252/ref=sr_1_1?ie=UTF8&qid=1497934827&sr=8-1&keywords=the+artist%27s+way). Essentially, you write three pages freehand in your journal every morning. The only rule is that you must write without constraint, without editing, without hitting backspace.
 
-![THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Photo-Aug-12-5-21-20-PM.jpg)
+![THE SECRET TO FINDING TIME FOR YOUR CREATIVE SIDE HUSTLE - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/08/Photo-Aug-12-5-21-20-PM.jpg)
 
 The idea is that first thing in the morning, your internal censor/left brain is still asleep; the part of your mind that is constantly editing and telling you that anything creative and novel is wrong or unoriginal. This part of your brain is what we call “a hater.” When you write with your internal censor off, what comes out is beautiful, pure - and might surprise you. **The first time I tried this exercise, I was moved to tears. It was so cathartic and daring and freeing.**
 
@@ -63,4 +63,4 @@ So why not try it? The morning is waiting for you.
 
 _Photos by: [Valerie Moreno](http://www.nuanceandbubbles.com/)_
 
-[![Emily Wilkinson Bio](http://yellowco.co/wp-content/uploads/2017/08/Emily-Wilkinson-Bio.jpg)](https://www.instagram.com/em_wilkinson/)
+[![Emily Wilkinson Bio](https://s3.amazonaws.com/yellow-files/blog/2017/08/Emily-Wilkinson-Bio.jpg)](https://www.instagram.com/em_wilkinson/)

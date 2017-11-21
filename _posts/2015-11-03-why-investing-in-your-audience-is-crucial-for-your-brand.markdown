@@ -15,7 +15,7 @@ categories:
 redirect_from: "/resources/why-investing-in-your-audience-is-crucial-for-your-brand/"
 ---
 
-[![Social Studio Shop for Yellow Co. ](http://yellowconference.com/wp-content/uploads/2015/10/image3.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/image3.jpg)
+[![Social Studio Shop for Yellow Co. ](https://s3.amazonaws.com/yellow-files/blog/2015/10/image3.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/image3.jpg)
 
 ##### We have a saying here at [Social Studio Shop](http://www.socialstudioshop.com/)…
 
@@ -35,7 +35,7 @@ If I (someone who makes a living being social) can get run down by the madness, 
 
 It’s our responsibility as ethical entrepreneurs and conscientious creatives to show our audience that they are not just a ‘follow’ or a ‘like.’ Our audience needs to be reassured that they are more than just another number. As brands, we must focus on empathy first, then success will follow.
 
-[![Social Print Studio for Yellow Co. ](http://yellowconference.com/wp-content/uploads/2015/10/Image11.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/Image11.jpg)
+[![Social Print Studio for Yellow Co. ](https://s3.amazonaws.com/yellow-files/blog/2015/10/Image11.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/Image11.jpg)
 
 Now, that’s not to say that success needs to be forgotten. Instead of thinking about success as your end goal, think of it in small steps. This is how social media works! What small steps can you take today to get to your version of success?
 
@@ -43,7 +43,7 @@ Today, when you’re crafting your next message to add to the giant pool of soci
 
 > _“When you shift your focus to helping those who support you, your social media begins to support your success.” – [Elana Jadallah](http://www.elanaloo.com/)_
 
-[![social print studio+yellow co. ](http://yellowconference.com/wp-content/uploads/2015/10/image2.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/image2.jpg)
+[![social print studio+yellow co. ](https://s3.amazonaws.com/yellow-files/blog/2015/10/image2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/image2.jpg)
 
 ###### **Expressing Empathy**
 
@@ -53,4 +53,4 @@ When we can get to that point — the sweet spot where we shift our focus and ex
 
 _Photos by [Karen Hernandez](http://www.karenmariehernandez.com/)_
 
-[![jessica howell for yellow co. ](http://yellowconference.com/wp-content/uploads/2015/10/jessicahowell1.jpg)](http://www.socialstudioshop.com/)
+[![jessica howell for yellow co. ](https://s3.amazonaws.com/yellow-files/blog/2015/10/jessicahowell1.jpg)](http://www.socialstudioshop.com/)

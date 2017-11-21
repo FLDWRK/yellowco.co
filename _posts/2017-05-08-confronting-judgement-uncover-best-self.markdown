@@ -21,7 +21,7 @@ While examining my judgements, I also began to realize I was much more focused 
 
 ### **When you’re 100% focused on the person you don’t want to be, you lose the mental energy and creativity to visualize your ideal future.**
 
-### **![CONFRONTING OUR INNER JUDGEMENT TO UNCOVER OUR BEST SELF - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/05/GraceYoon031.jpg "CONFRONTING OUR INNER JUDGEMENT TO UNCOVER OUR BEST SELF - THE YELLOW ROOM")**
+### **![CONFRONTING OUR INNER JUDGEMENT TO UNCOVER OUR BEST SELF - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/05/GraceYoon031.jpg "CONFRONTING OUR INNER JUDGEMENT TO UNCOVER OUR BEST SELF - THE YELLOW ROOM")**
 
 Each time I thought “I’m just not good at social media”, or “I’ll never find a career that lights me up”, I was creating a new limitation for myself. I _could_ have chosen to devote time focusing on everything I was great at, wanted to learn, or what my ideal career would look and feel like. But, my discouraging thoughts stopped my creativity in its tracks. Now, instead of dwelling on a judgmental thought that holds me back, I always try to shift my focus to life's present possibilities.
 
@@ -35,4 +35,4 @@ No judgmental thought is ever the undeniable truth - it is always a reflection o
 
 _Photos by: [Grey & Elle](http://www.greyandelle.com/)_
 
-[![LAURA WELDY BIO](http://yellowco.co/wp-content/uploads/2017/04/LAURA-WELDY-BIO.jpg)](http://thewellsupportedwoman.com/)
+[![LAURA WELDY BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/LAURA-WELDY-BIO.jpg)](http://thewellsupportedwoman.com/)

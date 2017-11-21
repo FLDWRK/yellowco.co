@@ -9,7 +9,7 @@ categories:
 redirect_from: "/creative-ladies/the-yellow-blogs-next-series-tribe/"
 ---
 
-[![The Yellow Blog: Tribe Series](http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0042.jpg)](http://yellowconference.com/wp-content/uploads/2015/04/2014-09-03_0042.jpg)My sisters are my best friends  
+[![The Yellow Blog: Tribe Series](https://s3.amazonaws.com/yellow-files/blog/2015/04/2014-09-03_0042.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/2014-09-03_0042.jpg)My sisters are my best friends  
 And they have been since the moment we figured out  
 that we’re sort of stuck with one another
 
@@ -120,4 +120,4 @@ Please know that….you’ll always have a home here
 
 _Photo by [Whitney Schey](http://whitneydarling.com/)_
 
-[![Arielle Estoria for Yellow](http://yellowconference.com/wp-content/uploads/2015/02/aestoria.jpg)](http://chroniclesofalioness.com/)
+[![Arielle Estoria for Yellow](https://s3.amazonaws.com/yellow-files/blog/2015/02/aestoria.jpg)](http://chroniclesofalioness.com/)

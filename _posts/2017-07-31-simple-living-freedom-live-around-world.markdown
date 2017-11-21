@@ -23,7 +23,7 @@ Getting rid of anything and everything that didn’t spark joy catapulted me on 
 
 Along the same lines of carefully choosing the possessions I have in my life, I also started to be more selective with the people I spent time with and the activities I chose to do. I decided to focus my time on people that bring me joy and doing activities I love doing. Our time is precious, so let's spend it where it matters most to us!
 
-![HOW SIMPLE LIVING FREED ME TO LIVE AROUND THE WORLD - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/Photo-Feb-09-7-30-15-PM.jpg)
+![HOW SIMPLE LIVING FREED ME TO LIVE AROUND THE WORLD - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/Photo-Feb-09-7-30-15-PM.jpg)
 
 ### **Don’t tie yourself down.**
 
@@ -41,4 +41,4 @@ When I learned to say "yes" to the things, people, and experiences that light me
 
 _Photos by: [Valerie Moreno](http://www.nuanceandbubbles.com/)_
 
-[![Elisabetta Colabianchi BIO](http://yellowco.co/wp-content/uploads/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/blog/)
+[![Elisabetta Colabianchi BIO](https://s3.amazonaws.com/yellow-files/blog/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/blog/)

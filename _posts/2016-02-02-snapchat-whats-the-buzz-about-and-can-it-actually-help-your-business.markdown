@@ -9,8 +9,8 @@ categories:
 redirect_from: "/the-solopreneur/snapchat-whats-the-buzz-about-and-can-it-actually-help-your-business/"
 ---
 
-## [![2Q==](http://yellowconference.com/wp-content/uploads/2016/02/2Q.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/2Q.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2016/01/Emma_Fineman_-52.jpg)Snapchat’s been getting lots of buzz lately, and it isn’t just for teens anymore.
+## [![2Q==](https://s3.amazonaws.com/yellow-files/blog/2016/02/2Q.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/02/2Q.jpg)[  
+](https://s3.amazonaws.com/yellow-files/blog/2016/01/Emma_Fineman_-52.jpg)Snapchat’s been getting lots of buzz lately, and it isn’t just for teens anymore.
 
 Snapchat video traffic _(7 BILLION videos/day)_ is catching up to Facebook. Cosmopolitan, National Geographic, Refinery 29, and CNN all have accounts.
 
@@ -30,8 +30,8 @@ _This_ is that moment for Snapchat. You can resist, or jump on board, give it wh
 
 > _I overwhelmingly hear that Instagram is the most impactful platform for creatives at the moment, but it **will** become less relevant one day, and your business **will** need to adapt._
 
-## **[![Z](http://yellowconference.com/wp-content/uploads/2016/02/Z.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/Z.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2016/01/Emma_Fineman_-62.jpg)If you’re looking for ideas on how to use Snapchat as a creative entrepreneur or brand, here are 10 things to consider:**
+## **[![Z](https://s3.amazonaws.com/yellow-files/blog/2016/02/Z.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/02/Z.jpg)[  
+](https://s3.amazonaws.com/yellow-files/blog/2016/01/Emma_Fineman_-62.jpg)If you’re looking for ideas on how to use Snapchat as a creative entrepreneur or brand, here are 10 things to consider:**
 
 1.  **Treat it as a marketing tool.** Curate your content. Be personal, but stay on brand. Give a tour of your workroom; introduce your team; get viewers’ opinions on new products; share relevant stories or advice.
 
@@ -58,8 +58,8 @@ Learning a new social media tool can be overwhelming, but don’t let it stop yo
 1.  [Snapchat Support](https://support.snapchat.com/ca/howto)
 2.  [Snapchat 101: what it is and how to use it](http://www.verizonwireless.com/mobile-living/tech-smarts/what-is-snapchat-how-to-use-new-features/)
 3.  [VIDEO: How to Use Snapchat for Beginners](https://www.youtube.com/watch?v=8sntEyrviFk)[  
-    ](http://yellowconference.com/wp-content/uploads/2016/01/Emma_Fineman_-52.jpg)
+    ](https://s3.amazonaws.com/yellow-files/blog/2016/01/Emma_Fineman_-52.jpg)
 
 _Photos by [Jessica Santos](http://www.thejessicasantos.com/)_
 
-[![AmandaSadlin](http://yellowconference.com/wp-content/uploads/2016/01/AmandaSadlin.jpg)](http://www.amandasandlin.com/)
+[![AmandaSadlin](https://s3.amazonaws.com/yellow-files/blog/2016/01/AmandaSadlin.jpg)](http://www.amandasandlin.com/)

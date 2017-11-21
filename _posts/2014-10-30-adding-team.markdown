@@ -8,7 +8,7 @@ categories:
 redirect_from:: "/creative-ladies/adding-team/"
 ---
 
-[![JOInTeam](http://yellowconference.com/wp-content/uploads/2014/10/JOInTeam1.jpg)](http://yellowconference.com/wp-content/uploads/2014/10/JOInTeam1.jpg)
+[![JOInTeam](https://s3.amazonaws.com/yellow-files/blog/2014/10/JOInTeam1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/10/JOInTeam1.jpg)
 
 The time has come my friends, to make things a bit more official around here and expand our team. We are looking for an [Event Coordinator](http://yellowconference.com/event-coordinator/), a [Community Cultivator](http://yellowconference.com/community-cultivator/), and an [intern for our Bloom Gatherings](http://yellowconference.com/bloom-gathering-intern/). (And could not be more excited about it!!)
 

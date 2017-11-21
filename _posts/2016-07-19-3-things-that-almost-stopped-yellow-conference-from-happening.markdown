@@ -9,7 +9,7 @@ categories:
 redirect_from: "/advice/3-things-that-almost-stopped-yellow-conference-from-happening/"
 ---
 
-[![IDEAS-to-reality](http://yellowconference.com/wp-content/uploads/2016/07/IDEAS-to-reality.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/IDEAS-to-reality.jpg)
+[![IDEAS-to-reality](https://s3.amazonaws.com/yellow-files/blog/2016/07/IDEAS-to-reality.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/IDEAS-to-reality.jpg)
 
 I came up with the idea for Yellow Conference while in the shower. I'll never forget it. It was December 2013, and after getting caught up in a competitive, catty, self-centered culture I was left in a not so great place emotionally and creatively.
 
@@ -25,7 +25,7 @@ Yet, as we all know, ideas are a dime a dozen, and if we really want to bring ch
 
 Execution is the hardest part, especially when you're starting with nothing, Which is why I'm here to tell you about the things that happened that almost made the conference never exist in real life. I tell you these things so you can know that you're not alone, and learn how to press on, be brave and continue to move forward when the same things happen to you.
 
-## [![Post-1](http://yellowconference.com/wp-content/uploads/2016/07/Post-1.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/Post-1.jpg)
+## [![Post-1](https://s3.amazonaws.com/yellow-files/blog/2016/07/Post-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/Post-1.jpg)
 
 When you're a freelance graphic designer who spends her days rarely leaving the house, working from home in her yoga pants, and having very few bits of human interaction throughout the day, and then you tell your friends that you are going to put on a conference, you get some strange looks.
 
@@ -37,7 +37,7 @@ If you believe in what you're doing enough, you'll learn to let the words slide 
 
 _**I knew deep within myself I was capable, I just needed to show the world.**_
 
-[![Post-2](http://yellowconference.com/wp-content/uploads/2016/07/Post-2.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/Post-2.jpg)
+[![Post-2](https://s3.amazonaws.com/yellow-files/blog/2016/07/Post-2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/Post-2.jpg)
 
 About 2 months into planning the conference, I started to lose steam.
 
@@ -59,7 +59,7 @@ _**Figure out what motivates you, and put it into place so you can trick yoursel
 
 Laziness is a real thing ladies and if we don't learn how to trick our brains, we'll let it get the best of us.
 
-## [![Post-3](http://yellowconference.com/wp-content/uploads/2016/07/Post-3.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/Post-3.jpg)
+## [![Post-3](https://s3.amazonaws.com/yellow-files/blog/2016/07/Post-3.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/Post-3.jpg)
 
 Ladies, this is still a hard one for me. That first year of Yellow, I at first tried to do everything myself. I thought it would be easier that way. _**I thought since I didn't have money or a large brand name behind me, no one would want to help me out. Boy was I wrong.**_
 
@@ -73,7 +73,7 @@ It's so easy to get stuck in your own mind, thinking you can do it all, and do 
 
 _**Just because you thought of the idea does not mean you're the best person to execute every part of it.**_ Stick to what you're good at and let others help you out with what you're not so good at. Your product will be better off because of it.
 
-[![GRIT+THE YELLOW CONFERENCE 2016](http://yellowconference.com/wp-content/uploads/2016/06/Yellow_2015_Day_1-269.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/Yellow_2015_Day_1-269.jpg)
+[![GRIT+THE YELLOW CONFERENCE 2016](https://s3.amazonaws.com/yellow-files/blog/2016/06/Yellow_2015_Day_1-269.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/06/Yellow_2015_Day_1-269.jpg)
 
 The truth is, there are a lot of things that will get in your way, but the hardest roadblocks to get over are the ones in your own mind.
 
@@ -93,6 +93,6 @@ xoxo,
 
 Joanna Waterfall
 
-[![The Yellow Co. Blog Email List...so much goodness in just one email...](http://yellowconference.com/wp-content/uploads/2016/07/EMAIL-LIST.png)](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)
+[![The Yellow Co. Blog Email List...so much goodness in just one email...](https://s3.amazonaws.com/yellow-files/blog/2016/07/EMAIL-LIST.png)](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)
 
-[![JOANNA WATERFALL--YELLOW 2016](http://yellowconference.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-07-at-1.43.27-AM.png)](https://www.instagram.com/joannawaterfall/)
+[![JOANNA WATERFALL--YELLOW 2016](https://s3.amazonaws.com/yellow-files/blog/2016/06/Screen-Shot-2016-06-07-at-1.43.27-AM.png)](https://www.instagram.com/joannawaterfall/)

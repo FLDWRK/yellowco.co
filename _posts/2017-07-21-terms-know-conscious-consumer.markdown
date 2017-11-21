@@ -19,7 +19,7 @@ Just yesterday I was shopping for some home items at Target and noticed a menti
 
 You’ll have to decide for yourself, friend. But the first step to making informed decisions as a consumer is to know the language. H ere’s a quick guide to understanding some of the social good terms that define the consumer good space, so you can start to do your own digging.
 
-![10 TERMS TO KNOW TO BECOME A CONSCIOUS CONSUMER - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/040917_American-Weekend_Eileen-Roche_1869.jpg)
+![10 TERMS TO KNOW TO BECOME A CONSCIOUS CONSUMER - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/040917_American-Weekend_Eileen-Roche_1869.jpg)
 
 #### **Ethical**
 
@@ -41,7 +41,7 @@ This practice **lifts all trade barriers**, so that any country can do busines
 
 A method of farming that **avoids the use of all synthetic compounds and pesticides**. It is an attempt at the most sustainable way to harvest food and plants, and uses compost-based fertilizers.
 
-![10 TERMS TO KNOW TO BECOME A CONSCIOUS CONSUMER - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/040917_American-Weekend_Eileen-Roche_1863.jpg)
+![10 TERMS TO KNOW TO BECOME A CONSCIOUS CONSUMER - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/040917_American-Weekend_Eileen-Roche_1863.jpg)
 
 #### **Non-GMO**
 
@@ -67,4 +67,4 @@ There are many ways to evaluate how “good” a company is, and therefore how g
 
 _Photos by: [Eileen Roche](http://eileen-roche.com/)_
 
-[![BAILEY VAN TASSEL BIO](http://yellowco.co/wp-content/uploads/2017/04/BAILEY-VAN-TASSEL-BIO-new.jpg)](http://www.abelimpact.com/about/)
+[![BAILEY VAN TASSEL BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/BAILEY-VAN-TASSEL-BIO-new.jpg)](http://www.abelimpact.com/about/)

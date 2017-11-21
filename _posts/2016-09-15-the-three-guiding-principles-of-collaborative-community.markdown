@@ -11,7 +11,7 @@ redirect_from: "/the-leader/the-three-guiding-principles-of-collaborative-commun
 
 For most of my work life I have had to collaborate, communicate, and create with people who aren't living in my head with me.
 
-[![three-guiding](http://yellowconference.com/wp-content/uploads/2016/09/THREE-Guiding2.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/THREE-Guiding2.jpg)
+[![three-guiding](https://s3.amazonaws.com/yellow-files/blog/2016/09/THREE-Guiding2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/09/THREE-Guiding2.jpg)
 
 Sometimes, this works. There’s hardly anything as fulfilling as being part of a group of creative people churning out great products and ideas.
 
@@ -23,7 +23,7 @@ _**Like it or not (and sometimes, definitely not...), we need each other.**_
 
 Cast your mind back to a time in your life where you were largely isolated from others. Perhaps it was that time your cruise ship went down and you were stranded on a deserted island for three years. What happened? If you're anything like me, you'll recall that while you were the same incredible person you’ve always been, your thoughts were trapped in the mind of an individual completely wrapped up in her own opinions and experiences. In order to avoid the isolation of centered-on-self thinking, we must be bold and intentionally live out the belief that not only are we valuable and worthwhile, people other than us are valuable and worthwhile.
 
-[![the-three-guiding-principles-of-collaborative-community](http://yellowconference.com/wp-content/uploads/2016/09/THE-THREE-GUIDING-PRINCIPLES-OF-COLLABORATIVE-COMMUNITY.jpg)](http://yellowconference.com/wp-content/uploads/2016/09/THE-THREE-GUIDING-PRINCIPLES-OF-COLLABORATIVE-COMMUNITY.jpg)
+[![the-three-guiding-principles-of-collaborative-community](https://s3.amazonaws.com/yellow-files/blog/2016/09/THE-THREE-GUIDING-PRINCIPLES-OF-COLLABORATIVE-COMMUNITY.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/09/THE-THREE-GUIDING-PRINCIPLES-OF-COLLABORATIVE-COMMUNITY.jpg)
 
 ## _Being in authentic community with others means being able to recognize that we are all valuable, flawed, sometimes right and sometimes wrong, but always worthy._
 
@@ -37,7 +37,7 @@ Empathy is cheap if not paired with authentic community. Empowered with real peo
 
 Readers who have never had a problem with too much humility: Remember all those times your parents told you that you were unique? I bet that pumped the air into your balloon! Stick a pin in it. Everyone else's parents told them that too. We are each unique, and we cannot insist on our own way over what works best for the community. Our culture takes pride in individuality. This sometimes translates into us doing whatever we want and telling anyone who has a concern with it to mind their own business. You may have the right to do something, but that doesn't mean the thing you're doing is right.
 
-![valeriedenisephotos-9](http://yellowconference.com/wp-content/uploads/2016/09/ValerieDenisePhotos-9-1024x683.jpg)
+![valeriedenisephotos-9](https://s3.amazonaws.com/yellow-files/blog/2016/09/ValerieDenisePhotos-9-1024x683.jpg)
 
 If you start from a community-minded view and allow your focus to narrow when necessary to the one, you may find not that you're thinking less of yourself, but that you are experiencing the blissful relief of thinking of yourself less.
 
@@ -51,7 +51,7 @@ This is a radical thing to say, but **we shine brightest in the context of commu
 
 Start bulldozing those walls.
 
-![valeriedenisephotos](http://yellowconference.com/wp-content/uploads/2016/09/ValerieDenisePhotos-1024x683.jpg)
+![valeriedenisephotos](https://s3.amazonaws.com/yellow-files/blog/2016/09/ValerieDenisePhotos-1024x683.jpg)
 
 ## _When you believe someone is wrong, be bold enough to approach them with love in your eyes and your heart and pouring from your mouth._
 
@@ -69,4 +69,4 @@ _**Click the button below to grab the free PDF!**_
 
 _Photos by [Valerie Denise](http://valeriedenisephotos.com/)_
 
-[![kate-alsup](http://yellowconference.com/wp-content/uploads/2016/09/Kate-Alsup1.jpg)](http://www.thebraveryboard.com/)
+[![kate-alsup](https://s3.amazonaws.com/yellow-files/blog/2016/09/Kate-Alsup1.jpg)](http://www.thebraveryboard.com/)

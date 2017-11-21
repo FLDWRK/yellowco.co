@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/kickcompetition/"
 ---
 
-[![photo-1416838375725-e834a83f62b7](http://yellowconference.com/wp-content/uploads/2015/05/photo-1416838375725-e834a83f62b7.jpg)](http://yellowconference.com/wp-content/uploads/2015/05/photo-1416838375725-e834a83f62b7.jpg)
+[![photo-1416838375725-e834a83f62b7](https://s3.amazonaws.com/yellow-files/blog/2015/05/photo-1416838375725-e834a83f62b7.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/photo-1416838375725-e834a83f62b7.jpg)
 
 In high school, I wrote an essay about why we feel jealous when the people closest to us experience success. I remember sitting at my desk and just staring at my blank paper for a while. My first instinct was to eloquently share how I never felt that way. But the longer I sat there, the more I knew this wasn’t true.
 
@@ -34,8 +34,8 @@ Rather than letting another person’s success define your own, let it drive you
 
 Sometimes it’s easy to forget that we had our own meager beginnings, too. And when someone close to us experiences a breakthrough accomplishment, it can feel like we’re still stuck at square one while everyone around us is close to owning the world. It’s times like this to remember what you _do_ have and what you have already accomplished. Instead of comparing yourself to those around you, take a moment to reflect back on your own path and how far you’ve come along.
 
-[![Gratisography Ryan McGuire](http://yellowconference.com/wp-content/uploads/2015/05/Gratisography-Ryan-McGuire.jpg)](http://yellowconference.com/wp-content/uploads/2015/05/Gratisography-Ryan-McGuire.jpg)Rather than seeing your friends and their success as the enemy, use it as an opportunity to learn from them. Reflect on how they overcame any obstacles, how they practiced and refined their work to get it where it is today, and look at ways you can put those lessons to work in your own life. Stop comparing yourself to those around you and be mindful of the gains you’ve made on your own path towards success. Because we were not designed to compete with each other, nor let ourselves grow complacent. But rather, we were made to grow through life together.
+[![Gratisography Ryan McGuire](https://s3.amazonaws.com/yellow-files/blog/2015/05/Gratisography-Ryan-McGuire.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/Gratisography-Ryan-McGuire.jpg)Rather than seeing your friends and their success as the enemy, use it as an opportunity to learn from them. Reflect on how they overcame any obstacles, how they practiced and refined their work to get it where it is today, and look at ways you can put those lessons to work in your own life. Stop comparing yourself to those around you and be mindful of the gains you’ve made on your own path towards success. Because we were not designed to compete with each other, nor let ourselves grow complacent. But rather, we were made to grow through life together.
 
 _Photos by [Mia Domencio](https://unsplash.com/miadomenico) and [Ryan McGuire](http://www.gratisography.com/)_
 
-[![KarsikBio](http://yellowconference.com/wp-content/uploads/2015/05/KarsikBio1.jpg)](http://yellowconference.com/wp-content/uploads/2015/05/KarsikBio1.jpg)
+[![KarsikBio](https://s3.amazonaws.com/yellow-files/blog/2015/05/KarsikBio1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/KarsikBio1.jpg)

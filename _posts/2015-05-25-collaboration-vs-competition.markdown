@@ -13,7 +13,7 @@ categories:
 redirect_from: "/light-talk/collaboration-vs-competition/"
 ---
 
-[![brit](http://yellowconference.com/wp-content/uploads/2015/05/brit.jpg)](http://yellowconference.com/wp-content/uploads/2015/05/brit.jpg)
+[![brit](https://s3.amazonaws.com/yellow-files/blog/2015/05/brit.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/brit.jpg)
 
 During college, I saw my future in the “real world” in a way that broke the norm. After graduation, my college roommates and I scattered: one to medical school, one to law school, and one to dental school. And then there was me, scrambling to make ends meet as I pursued my dream of launching my own company and designing a career in writing.
 
@@ -27,7 +27,7 @@ Here I was, speaking to women with indelible dreams and incredible visions, all 
 
 During a happy hour networking event, I felt myself slowly sinking deeper into myself with each conversation. While I found strength and encouragement in these creative circles, I also found something new creeping in: competition. For a moment, I forgot I belonged. I had let go of my purpose and allowed the fear of not measuring up stand in my way. In my misguided race to claim my idea and establish my worth as a creative, I lost the essential component of entrepreneurship and dream chasing: community. I realized I needed to collaborate and connect – rather than compete—to bring my vision to life.
 
-[![IMG_81561](http://yellowconference.com/wp-content/uploads/2015/05/IMG_81561.jpg)](http://yellowconference.com/wp-content/uploads/2015/05/IMG_81561.jpg)
+[![IMG_81561](https://s3.amazonaws.com/yellow-files/blog/2015/05/IMG_81561.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/IMG_81561.jpg)
 
 Here are 3 C’s I learned to banish the comparison and instead pursue goals and dreams alongside others:
 
@@ -55,4 +55,4 @@ As small or as large as your beginning may be, enjoy the process and give yourse
 
 _Photos by [Whitney Schey](http://whitneydarling.com/)_
 
-[![yellow conference blog](http://yellowconference.com/wp-content/uploads/2015/05/Averyjohnson.jpg)](http://www.avery-johnson.com/)
+[![yellow conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/05/Averyjohnson.jpg)](http://www.avery-johnson.com/)
