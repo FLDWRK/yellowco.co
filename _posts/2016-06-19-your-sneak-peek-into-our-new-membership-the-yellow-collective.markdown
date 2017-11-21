@@ -5,7 +5,7 @@ date: '2016-06-19 04:00:58 -0700'
 categories:
 - Light Talk
 - Yellow 2016
-- Yellow Collective
+- Collective
 redirect_from: "/light-talk/your-sneak-peek-into-our-new-membership-the-yellow-collective/"
 ---
 

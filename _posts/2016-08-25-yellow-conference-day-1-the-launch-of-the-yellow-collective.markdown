@@ -4,7 +4,7 @@ author: heygirl@yellowconference.com
 date: '2016-08-25 11:30:40 -0700'
 categories:
 - Yellow 2016
-- Yellow Collective
+- Collective
 redirect_from: "/yellow-2016/yellow-conference-day-1-the-launch-of-the-yellow-collective/"
 ---
 
