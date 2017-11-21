@@ -21,7 +21,7 @@ Even just a $5 donation is worth it. If you believe in us and trust in this drea
 
 Thank you so much for your support, it means the world!
 
-[![make-this-happen](http://yellowconference.com/wp-content/uploads/2015/04/make-this-happen.jpg)](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)
+[![make-this-happen](https://s3.amazonaws.com/yellow-files/blog/2015/04/make-this-happen.jpg)](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)
 
 We can DO this!! ---> [kickstarter.theyellowroom.co](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)
 

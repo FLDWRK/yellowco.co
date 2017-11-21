@@ -8,7 +8,7 @@ categories:
 redirect_from: "/creative-ladies/creative-lady-inspiration-corina-nika/"
 ---
 
-[![Corina](http://yellowconference.com/wp-content/uploads/2014/05/Corina.jpg)](http://yellowconference.com/wp-content/uploads/2014/05/Corina.jpg)  
+[![Corina](https://s3.amazonaws.com/yellow-files/blog/2014/05/Corina.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/05/Corina.jpg)  
 Corina is an amazing talent. She runs a [blog](http://www.cocorrina.com/), [jewelry shop](https://www.etsy.com/shop/Cocorrina?ref=l2-shopheader-name) and is a [graphic designer](http://cargocollective.com/corinanika). I've always been drawn to Corina's clean aesthetic and warm personality. we're  so happy to have her featured on today on the Creative Lady series!
 
 **Tell us a bit about yourself! Who are you and what do you do?**
@@ -19,7 +19,7 @@ Hi everyone! I’m Corina, and i’m a graphic and jewelry designer and blogger 
 
 Basically i studied architectural design, but after college, i felt that my heart belonged to graphic design. I took a few online lessons, and that’s when i started my blog. Good taste and aesthetics, is not something that someone can just teach you. But having a blog pushed me to get inspired and be creative in order to evolve my own taste and style.
 
-**[![SONY DSC](http://yellowconference.com/wp-content/uploads/2014/05/DSC03004.jpg)](http://yellowconference.com/wp-content/uploads/2014/05/DSC03004.jpg)What drives and motivates you?**
+**[![SONY DSC](https://s3.amazonaws.com/yellow-files/blog/2014/05/DSC03004.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/05/DSC03004.jpg)What drives and motivates you?**
 
 My love for what i do. The feeling i get when i create something. The need to make something beautiful, a way to express my ideas and emotions.
 
@@ -35,7 +35,7 @@ Waking up at 8, tidying up the house, walking Bella by the lake, breakfast, yoga
 
 Being surrounded by nature. Usually amongst the woods, breathing fresh air, discovering secret paths.
 
-**[![inspire_23](http://yellowconference.com/wp-content/uploads/2014/05/inspire_23.png)](http://yellowconference.com/wp-content/uploads/2014/05/inspire_23.png)What is currently inspiring you?**
+**[![inspire_23](https://s3.amazonaws.com/yellow-files/blog/2014/05/inspire_23.png)](https://s3.amazonaws.com/yellow-files/blog/2014/05/inspire_23.png)What is currently inspiring you?**
 
 Like above, i’ll say the nature. Especially now that summer’s here, being at the beach, laying in the sun and on sand. The colors our island takes, blues, whites and lots of plants. I’ve noticed how my style changes from season to season, and i guess that seasons do have a big affect on me.
 

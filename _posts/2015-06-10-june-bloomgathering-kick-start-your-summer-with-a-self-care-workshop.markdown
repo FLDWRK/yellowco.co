@@ -7,7 +7,7 @@ categories:
 redirect_from: "/the-activist/june-bloomgathering-kick-start-your-summer-with-a-self-care-workshop/"
 ---
 
-[![June_BLOOMGATHERING](http://yellowconference.com/wp-content/uploads/2015/06/June_BLOOMGATHERING.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/June_BLOOMGATHERING.jpg)
+[![June_BLOOMGATHERING](https://s3.amazonaws.com/yellow-files/blog/2015/06/June_BLOOMGATHERING.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/06/June_BLOOMGATHERING.jpg)
 
 Super excited to announce our next [#bloomgathering](http://yellowconference.com/wp-admin/post.php?post=1088&action=edit). This month we are hanging out with [Philosophie](http://www.thephilosophie.com/) founder, Sophie Jaffe. Sophie is going to be leading us through some self care tips along with a yoga class. The perfect way to jump start your health this summer.
 

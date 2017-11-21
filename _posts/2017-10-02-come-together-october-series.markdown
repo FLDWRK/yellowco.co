@@ -25,7 +25,7 @@ without a shoulder to lean on.\
 Our collective heart beats “you are seen”,\
 our gaze is on the unveiled good.
 
-![COME TOGETHER - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/0P7A8911-Edit.jpg)
+![COME TOGETHER - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/0P7A8911-Edit.jpg)
 
 In the 19th century, years before women had the right to vote - or do much else for that matter,
 philosopher and poet Matthew Arnold spoke in recognition and reverence of the power of united women:
@@ -40,7 +40,7 @@ conclusion that we are too different to understand each other.
 
 ### **It intimidates us into desperately clutching onto our gifts, rather than sharing them where they can collaboratively flourish.**
 
-![COME TOGETHER - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/0P7A9724-2-1.jpg)
+![COME TOGETHER - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/0P7A9724-2-1.jpg)
 
 But, I hope you have also known the head-to-toe sigh of receiving an earnest “me too”. Or even
 better, experienced the empathy that can’t understand, but listens wholeheartedly anyway. Of
@@ -61,4 +61,4 @@ our diversity, put each other first.
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
 
-[![Hanna Snyder Bio](http://yellowco.co/wp-content/uploads/2017/10/HANNA-BIO-new-2.jpg)](http://hannasnyder.com)
+[![Hanna Snyder Bio](https://s3.amazonaws.com/yellow-files/blog/2017/10/HANNA-BIO-new-2.jpg)](http://hannasnyder.com)

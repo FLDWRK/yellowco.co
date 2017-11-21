@@ -21,7 +21,7 @@ The name came from my ambition to build more than just a fashion company, but ra
 
 We believe that when people, fashion, ethical consumerism, and marketplace access are combined, they have the power to breathe life into the communities that our artisans live in. Hence a _Tribe_ _Alive._
 
-![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/39140020.jpg)
+![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/39140020.jpg)
 
 #### **3\. There are so many up-and-coming socially conscious brands on the market. Something unique about Tribe Alive is the intentional design of your pieces. Can you tell us more about your design process and why aesthetics are so important to your brand?**
 
@@ -37,7 +37,7 @@ We work in really hard parts of the world and employ people who live difficult l
 
 At the end of the day, the 'hard' is the reason we’re here and why we’re on a mission to do what we do. But yes - the challenges are constant, and I’m finally in a place where it has just become a messy but beautiful part of it all.
 
-![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/39100023.jpg)
+![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/39100023.jpg)
 
 #### **5\. As a mom and an entrepreneur, how do you find time to balance everything?**
 
@@ -51,7 +51,7 @@ We really value dignity and believe in spotlighting our artisans in a dignified 
 
 ### We all desire for our own stories to be shared in a positive light, with a focus on strength and ability, and we believe that our artisans are deserving of that same respect.
 
-![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/39160037.jpg)
+![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](https://s3.amazonaws.com/yellow-files/blog/2017/10/39160037.jpg)
 
 #### **7\. Can you tell us about your artisans and how they benefit from working with Tribe Alive?**
 
@@ -75,4 +75,4 @@ You can learn more about [Tribe Alive](https://tribealive.com/) [here](https://t
 
 _Photos courtesy of [Tribe Alive](https://tribealive.com/)_
 
-[![Elisabetta Colabianchi BIO](http://yellowco.co/wp-content/uploads/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/)
+[![Elisabetta Colabianchi BIO](https://s3.amazonaws.com/yellow-files/blog/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/)

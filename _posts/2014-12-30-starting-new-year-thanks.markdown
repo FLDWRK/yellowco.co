@@ -9,7 +9,7 @@ categories:
 redirect_from: "/advice/starting-new-year-thanks/"
 ---
 
-[![IMG_2798](http://yellowconference.com/wp-content/uploads/2014/12/IMG_2798.jpg)](http://yellowconference.com/wp-content/uploads/2014/12/IMG_2798.jpg)
+[![IMG_2798](https://s3.amazonaws.com/yellow-files/blog/2014/12/IMG_2798.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/12/IMG_2798.jpg)
 
 "The greatest thing is to give thanks for everything. He who has learned this knows what it means to live...He has penetrated the whole mystery of life: giving thanks for everything. "
 
@@ -29,7 +29,7 @@ Eventually, I learned _flexibility _with myself, and to have _grace _on myse
 
 And as this New Year approaches, I'm quick to judge and beat myself up over all I missed out on this year, all the things I feel like I lagged on, all the days I went through just surviving to make it through (but for some seasons, I am learning, survival is a _great _feat). And what my months of goal-lists have brought me to is this: a need to be thankful.
 
-[![Processed with VSCOcam with a4 preset](http://yellowconference.com/wp-content/uploads/2014/12/vscocam-photo-1-copy.jpg)](http://yellowconference.com/wp-content/uploads/2014/12/vscocam-photo-1-copy.jpg)
+[![Processed with VSCOcam with a4 preset](https://s3.amazonaws.com/yellow-files/blog/2014/12/vscocam-photo-1-copy.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/12/vscocam-photo-1-copy.jpg)
 
 A new gratitude for simple pleasures, like hot tea in my mug and new thermals and great reads.
 

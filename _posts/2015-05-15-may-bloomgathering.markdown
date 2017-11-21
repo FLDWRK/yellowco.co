@@ -7,7 +7,7 @@ categories:
 redirect_from: "/bloomyellow/may-bloomgathering/"
 ---
 
-[![MAY_BLOOMGATHERING_new](http://yellowconference.com/wp-content/uploads/2015/05/MAY_BLOOMGATHERING_new3.jpg)](https://ti.to/yellowconference/may-bloom-gathering)  
+[![MAY_BLOOMGATHERING_new](https://s3.amazonaws.com/yellow-files/blog/2015/05/MAY_BLOOMGATHERING_new3.jpg)](https://ti.to/yellowconference/may-bloom-gathering)  
 
 I (Joanna) am SUPER excited for our next gathering! We are having Beth Zeigler from The [Bneato Bar](http://bneatobar.com/) lead us through an efficiency workshop.
 

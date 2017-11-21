@@ -16,7 +16,7 @@ As creatives and as human beings, we all face struggles. It’s a part of life t
 
 _What if we used them to shape our brand like a painter uses their art as fuel to connect with people? As professionals, we can._
 
-[![YellowConference-thejessicasantos.com (2 of 20) copy](http://yellowconference.com/wp-content/uploads/2015/11/YellowConference-thejessicasantos.com-2-of-20-copy.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/YellowConference-thejessicasantos.com-2-of-20-copy.jpg)
+[![YellowConference-thejessicasantos.com (2 of 20) copy](https://s3.amazonaws.com/yellow-files/blog/2015/11/YellowConference-thejessicasantos.com-2-of-20-copy.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/YellowConference-thejessicasantos.com-2-of-20-copy.jpg)
 
 My brand is built upon this very concept. I spent most of my first year of business trying to find my niche that would help me stand out. I worked with a business coach and a brander. While this was extremely helpful for building up a brand, there always seemed to be a piece missing. I wasn’t quite finding that specific thing to sink into that would allow me to stand out and build up a business that I was proud of. I was still searching for that something that was going to make me stand out.
 
@@ -24,7 +24,7 @@ My brand is built upon this very concept. I spent most of my first year of busin
 
 Then, it finally clicked one day during a consult when I was coaching a client on how to deal with being overwhelmed with social media, being an introvert in business, being pressured to follow the formula and being able to do all of the things everyone else was doing. We had an amazing deep conversation that happened because these are all things that I have struggled with on my own. I have defeated these struggles, and I was able to help my client overcome them as well. While that consult was supposed to be about gaining social media followers, marketing tactics, and all of the other things any social media consult could teach you, it wasn’t. We were still talking about marketing, but we were able to really dig down to the foundation of it all. How the person in the business or behind the marketing really, truly matters. How the entrepreneur shapes the way their brand is perceived by applying their own personality, strengths and weaknesses into creating a business and brand that they can sustain.
 
-[![The Yellow Conference](http://yellowconference.com/wp-content/uploads/2015/10/YellowConference-thejessicasantos.com-6-of-20.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/YellowConference-thejessicasantos.com-6-of-20.jpg)
+[![The Yellow Conference](https://s3.amazonaws.com/yellow-files/blog/2015/10/YellowConference-thejessicasantos.com-6-of-20.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/YellowConference-thejessicasantos.com-6-of-20.jpg)
 
 ##### I sat down and honestly looked at the personal struggles I had with my business.
 
@@ -44,10 +44,10 @@ Instead of doing the normal comparison and feeling like you need to do what ever
 
 For example, marketers aren’t exactly known for their strong character or gentle ways. That is something that makes me feel bad about the industry I have chosen. I fear that people will think I am shallow or that I am just another salesy swindler. Instead of sinking into that idea and quitting, I have chosen to brand my approach to marketing as _Quietly Unstoppable._ I have done this because I am so tired of marketers yelling, adding so much noise, and making people feel bad for not following all of their arbitrary rules – my clients are too. These are the things that I don’t want my clients or social media audience to ever feel because I often feel them and it’s not fun.
 
-[![the yellow conference blog](http://yellowconference.com/wp-content/uploads/2015/10/YellowConference-thejessicasantos.com-11-of-20.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/YellowConference-thejessicasantos.com-11-of-20.jpg)
+[![the yellow conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/10/YellowConference-thejessicasantos.com-11-of-20.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/YellowConference-thejessicasantos.com-11-of-20.jpg)
 
 So start by defining your ideal client, your color scheme, etc. Then, take it a step further and refine your brand down to its bones. Take the time to focus on yourself and to get a clear understanding about what you have struggled with, what your clients struggle with and how you can bring those two things together to create a brand that is different and pulls at some heartstrings. This will make you stand out like a bright light to the specific people that you are targeting.
 
 _Photos by [Jessica Santos](http://www.thejessicasantos.com/)_
 
-[![Elizabeth Fein for Yellow Co. ](http://yellowconference.com/wp-content/uploads/2015/08/EFeinbio.jpg)](http://www.iteratesocial.com/)
+[![Elizabeth Fein for Yellow Co. ](https://s3.amazonaws.com/yellow-files/blog/2015/08/EFeinbio.jpg)](http://www.iteratesocial.com/)

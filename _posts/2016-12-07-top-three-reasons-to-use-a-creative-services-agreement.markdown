@@ -10,7 +10,7 @@ categories:
 redirect_from: "/home/attachment/opening-photo/"
 ---
 
-[![valeriedenisephotos-62](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-62.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-62.jpg)Starting your own business is often exciting, empowering, and sometimes terrifying. However, what if we told you it doesn’t have to be  _ as _  terrifying? One way to manage your risk is to use a Creative Services Agreement (CSA). CSA’s are standard template contracts, which business owners and freelancers use as a basis for each client transaction. They are easy to implement by simply swapping out the specifics for each transaction.
+[![valeriedenisephotos-62](https://s3.amazonaws.com/yellow-files/blog/2016/12/ValerieDenisePhotos-62.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/12/ValerieDenisePhotos-62.jpg)Starting your own business is often exciting, empowering, and sometimes terrifying. However, what if we told you it doesn’t have to be  _ as _  terrifying? One way to manage your risk is to use a Creative Services Agreement (CSA). CSA’s are standard template contracts, which business owners and freelancers use as a basis for each client transaction. They are easy to implement by simply swapping out the specifics for each transaction.
 
 ## **We get it…adding additional paperwork sounds like one more thing to worry about, but trust us, it’s worth it in the long run. Below are the top three reasons why you should implement your very own CSA.**
 
@@ -26,7 +26,7 @@ Business is risky. You work hard to perfect your craft and the last thing you wa
 
 **3) Payment**
 
-Any way you slice it, payment and pricing is essential to the sustainability of your business. Having clear rates up front and in writing will ensure you’re adequately paid for all of your hard work. Using a CSA will give you control as to how payment may be made. Whether it’s in installments, on a retainer basis, or requires an initial deposit; it will totally be up to you. You can also choose to include “rules” regarding late fees, expenses, and rush fees to better protect your time and resources.[![valeriedenisephotos-64](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-64.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-64.jpg)
+Any way you slice it, payment and pricing is essential to the sustainability of your business. Having clear rates up front and in writing will ensure you’re adequately paid for all of your hard work. Using a CSA will give you control as to how payment may be made. Whether it’s in installments, on a retainer basis, or requires an initial deposit; it will totally be up to you. You can also choose to include “rules” regarding late fees, expenses, and rush fees to better protect your time and resources.[![valeriedenisephotos-64](https://s3.amazonaws.com/yellow-files/blog/2016/12/ValerieDenisePhotos-64.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/12/ValerieDenisePhotos-64.jpg)
 
 ## **What’s Included in a CSA?**
 
@@ -46,10 +46,10 @@ Below are a few provisions we may include in a CSA designed just for you:
 *   Promotion and Portfolio Use
 *   And more!
 
-[![valeriedenisephotos-63](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-63.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-63.jpg)We would love to work with you to draft a template CSA that’s unique to your business and satisfies your specific needs. Feel free to   [ reach out ](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=holler@wilkinsonmazzeo.com&tf=1)   to schedule a free-of-charge consultation.
+[![valeriedenisephotos-63](https://s3.amazonaws.com/yellow-files/blog/2016/12/ValerieDenisePhotos-63.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/12/ValerieDenisePhotos-63.jpg)We would love to work with you to draft a template CSA that’s unique to your business and satisfies your specific needs. Feel free to   [ reach out ](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=holler@wilkinsonmazzeo.com&tf=1)   to schedule a free-of-charge consultation.
 
 **_Disclaimer_** _: Although this article may be considered advertising under applicable law and ethical rules, the information in this article is presented for informational purposes only. Nothing herein should be taken as legal advice and this content does not form an attorney-client relationship. If you would like further information, _ [_Wilkinson Mazzeo_ ](http://www.wilkinsonmazzeo.com/)_would love to hear from you, so please feel free to _ [_reach out_ ](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=holler@wilkinsonmazzeo.com&tf=1)_with any questions!_
 
 _Photos by [Valerie Denise](http://www.valeriedenisephotos.com/) featuring [Wildflower Roots](http://wildflower-roots.myshopify.com/)_
 
-[![WILKINSONMAZZEO](http://yellowconference.com/wp-content/uploads/2016/02/WILKINSONMAZZEO.jpg)](https://wilkinsonmazzeo.com/)
+[![WILKINSONMAZZEO](https://s3.amazonaws.com/yellow-files/blog/2016/02/WILKINSONMAZZEO.jpg)](https://wilkinsonmazzeo.com/)

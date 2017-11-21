@@ -8,7 +8,7 @@ categories:
 redirect_from: "/advice/an-experts-guide-on-curbing-email-overwhelm/"
 ---
 
-[![valeriedenisephotos-17](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-171.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-171.jpg)Everyday I hear stories of clients, friends and co-workers being overwhelmed by distractions, unrealistic to-do lists, and a growing email inbox.
+[![valeriedenisephotos-17](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-171.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-171.jpg)Everyday I hear stories of clients, friends and co-workers being overwhelmed by distractions, unrealistic to-do lists, and a growing email inbox.
 
 ## **Smart folks are drowning in digital clutter.**
 
@@ -25,7 +25,7 @@ Starting with your email inbox, _turn off the ding._ There’s no reason to get 
 If you are wondering how it will ever be possible to separate yourself from your email inbox, you are probably using it as a big ole to-do list. This is a problem for a few reasons:
 
 *   **You can’t prioritize your emails.** Sure, you can star them but an email signifying a large project might be sitting next to one that will take two minutes to tackle. An email inbox essentially gives all emails equal weight--which doesn’t help you know what needs to happen today.
-*   **The subject line is a terrible indicator of what is inside the email.** You probably find yourself opening up the same email over and over to remind yourself what you actually need to do. This is a huge time waster.[![valeriedenisephotos-19](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-19.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-19.jpg)
+*   **The subject line is a terrible indicator of what is inside the email.** You probably find yourself opening up the same email over and over to remind yourself what you actually need to do. This is a huge time waster.[![valeriedenisephotos-19](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-19.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-19.jpg)
 
 #### **So if emails don’t live in the inbox, where should they live?** _Your to-do list._
 
@@ -35,8 +35,8 @@ With a to-do list, you can prioritize each task and write out exactly what needs
 *   Do I need the content of the email? What about any attachments? If I do, I’ll archive the email and search for it later. I could also file it in a _‘To-Do Reference"_ File in my email inbox and go fetch it when I need it.
 *   Once the email is out of my inbox, I move on to the next email.
 
-[![valeriedenisephotos-24](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-241.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-241.jpg)As you process your email inbox, you can determine what needs to happen to each email. Does it need to be replied to, deleted, archived or filed? Giving your emails a home will ensure a clean and empty inbox. It will also alleviate your need to refer back to it constantly --trying to figure out what needs to be done for the day. The goal is to work completely off of your to-do list so you only have one place to look for your tasks. It’s my favorite way to stay sane during the busiest times of the year and get my best work done.  
+[![valeriedenisephotos-24](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-241.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/10/ValerieDenisePhotos-241.jpg)As you process your email inbox, you can determine what needs to happen to each email. Does it need to be replied to, deleted, archived or filed? Giving your emails a home will ensure a clean and empty inbox. It will also alleviate your need to refer back to it constantly --trying to figure out what needs to be done for the day. The goal is to work completely off of your to-do list so you only have one place to look for your tasks. It’s my favorite way to stay sane during the busiest times of the year and get my best work done.  
 
 Do you have any email management tips you swear by? Share with us in the comments below! Would love to hear from you!
 
-[![bethpenn](http://yellowconference.com/wp-content/uploads/2016/10/BethPenn.jpg)](http://bneatobar.com/)
+[![bethpenn](https://s3.amazonaws.com/yellow-files/blog/2016/10/BethPenn.jpg)](http://bneatobar.com/)

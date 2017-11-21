@@ -19,7 +19,7 @@ It was Saturday afternoon, and I was finally done with work for the week. I had 
 
 Whether we think “we should” or it would make someone else happy, a yes that isn't genuine really doesn't benefit anyone. Those of us who struggle with this have a difficult time prioritizing ourselves - and a really difficult time saying no. If your yes’s are true yes’s, great! But if your yes is coming through gritted teeth, try these simple shifts to feel less guilty about saying no.
 
-![The art of saying no guilt-free - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/02/ValerieDenisePhotos-5.jpg)
+![The art of saying no guilt-free - The Yellow Room](https://s3.amazonaws.com/yellow-files/blog/2017/02/ValerieDenisePhotos-5.jpg)
 
 1.  **Share the wealth**
 
@@ -41,4 +41,4 @@ Struggling with saying no is the most normal thing in the world, especially for 
 
 _Photos by: [Valerie Denise Photography](http://www.valeriedenisephotos.com/)_
 
-[![Amy Everheart Bio](http://yellowco.co/wp-content/uploads/2017/02/Amy-Everheart-Bio.jpg)](http://www.amyeverhartcoaching.com/)
+[![Amy Everheart Bio](https://s3.amazonaws.com/yellow-files/blog/2017/02/Amy-Everheart-Bio.jpg)](http://www.amyeverhartcoaching.com/)

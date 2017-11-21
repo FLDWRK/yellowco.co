@@ -9,7 +9,7 @@ categories:
 redirect_from: "/light-talk/buildingtribe/"
 ---
 
-[![Yellow Conference TRIBE](http://yellowconference.com/wp-content/uploads/2015/05/Flickr-Lavina.jpg)](http://yellowconference.com/wp-content/uploads/2015/05/Flickr-Lavina.jpg)
+[![Yellow Conference TRIBE](https://s3.amazonaws.com/yellow-files/blog/2015/05/Flickr-Lavina.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/Flickr-Lavina.jpg)
 
 When it comes to cultivating community, there are a myriad of ways to approach this topic. Here I suggest **10 ideas** that come from my own personal experiences for developing stronger connections between your own friends:
 
@@ -25,7 +25,7 @@ Choose a couple of friends that you’re close to or want to get close to and cr
 
 Board game nights sound cheesy and overrated, huh? But _no!_ They can be a lot of fun, and they create opportunities for people to be child-like and silly! It is never a bad thing to let loose, get a little competitive, and be silly with one another, especially when life and work can be serious and stressful. Take a night to simply relax and laugh!
 
-[![YELLOW CONFERENCE TRIBE](http://yellowconference.com/wp-content/uploads/2015/05/2013-11-17_0011.jpg)](http://yellowconference.com/wp-content/uploads/2015/05/2013-11-17_0011.jpg)
+[![YELLOW CONFERENCE TRIBE](https://s3.amazonaws.com/yellow-files/blog/2015/05/2013-11-17_0011.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/05/2013-11-17_0011.jpg)
 
 **Start a group bucket list...**
 
@@ -59,4 +59,4 @@ So, get out there, grab some friends, and go build your beautiful and amazing co
 
 _Photos by [Whitney Darling](http://whitneydarling.com/) and [Lavinia Cernau](https://www.flickr.com/photos/88575592@N07/page2)_
 
-[![estherohbio](http://yellowconference.com/wp-content/uploads/2015/03/estherohbio1.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/estherohbio1.jpg)
+[![estherohbio](https://s3.amazonaws.com/yellow-files/blog/2015/03/estherohbio1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/estherohbio1.jpg)

@@ -9,7 +9,7 @@ categories:
 redirect_from: "/advice/three-steps-to-making-2017-your-pioneer-year/"
 ---
 
-[![The Yellow Co.: Pioneer](http://yellowconference.com/wp-content/uploads/2017/01/PIONEER6.jpg)](http://yellowconference.com/wp-content/uploads/2017/01/PIONEER6.jpg)We begin each year as explorers of new unchartered territory. No one has embarked on 2017 before now. The future is uncertain but we aim to press deeper than the year before, crafting resolutions and goals to guide us there.
+[![The Yellow Co.: Pioneer](https://s3.amazonaws.com/yellow-files/blog/2017/01/PIONEER6.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/01/PIONEER6.jpg)We begin each year as explorers of new unchartered territory. No one has embarked on 2017 before now. The future is uncertain but we aim to press deeper than the year before, crafting resolutions and goals to guide us there.
 
 There is something refreshing about a new start. A new year. The change of one day can turn well worn rhythms into a fresh cadence. The way we step into 2017 can guide the nature of the months that follow.
 
@@ -25,4 +25,4 @@ Taking time to **pause** and **prepare** for the year is one way we can step for
 
 _Photos by [Andrea David](http://andreadavid.co/)_
 
-[![HEIDIBURKEY](http://yellowconference.com/wp-content/uploads/2016/05/HEIDIBURKEY.jpg)](http://www.heidiburkey.com/)
+[![HEIDIBURKEY](https://s3.amazonaws.com/yellow-files/blog/2016/05/HEIDIBURKEY.jpg)](http://www.heidiburkey.com/)

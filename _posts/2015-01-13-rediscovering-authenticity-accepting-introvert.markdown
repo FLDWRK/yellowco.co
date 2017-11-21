@@ -11,7 +11,7 @@ categories:
 redirect_from: "/creative-ladies/rediscovering-authenticity-accepting-introvert/"
 ---
 
-[![radpost1](http://yellowconference.com/wp-content/uploads/2015/01/radpost1-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2015/01/radpost1.jpg)
+[![radpost1](https://s3.amazonaws.com/yellow-files/blog/2015/01/radpost1-683x1024.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/01/radpost1.jpg)
 
 Introverts, Let’s Get Real...
 
@@ -33,7 +33,7 @@ Here’s what I (introverted through and through) have found to be helpful:
 
 **I make adjustments to social settings and scenarios.** I know that if I walk in to a full room or a crowded party or a full sanctuary, I’ll be overwhelmed, so I arrive early. I know I hate feeling trapped or stuck, so I make sure I sit on the aisle. I know I don’t like being in the spotlight, so I volunteer for behind-the-scenes roles instead. I don’t make a big deal out of it all, but I don’t apologize for it either. I’ll be happier and feel more comfortable if certain things happen, so I make the necessary adjustments.
 
-[![introversRAD](http://yellowconference.com/wp-content/uploads/2015/01/introversRAD-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2015/01/introversRAD.jpg)
+[![introversRAD](https://s3.amazonaws.com/yellow-files/blog/2015/01/introversRAD-683x1024.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/01/introversRAD.jpg)
 
 **I spend time in solitude.** I know my heart and soul need this. I also know my creativity needs this. I need to recharge. I need to disconnect from people and pressures and technology. I need to put my pen to paper instead of typing all the time, need to read ink on paper instead of staring at a screen, need to breathe fresh air, seek adventure, connect with nature. I find time to get away from all the noise, the people, the to-do lists, knowing that when I return, I’ll be more present and engaged and ready for action.
 
@@ -45,6 +45,6 @@ Introverts, I know the world seems to rank us second-best. But here’s the thin
 
 _Images by Sandra Pagaimo via [Flickr](https://www.flickr.com/photos/54132946@N08/page1/)_
 
-[![rad](http://yellowconference.com/wp-content/uploads/2015/01/rad.jpg)](http://www.racheladawson.com/)
+[![rad](https://s3.amazonaws.com/yellow-files/blog/2015/01/rad.jpg)](http://www.racheladawson.com/)
 
 _Check out more of Rachel's writing here: [www.racheladawson.com](http://www.racheladawson.com/)_

@@ -20,7 +20,7 @@ Here's the thing: when I go to a conference, **I don't want to just meet a bunch
 
 So, have a few fun questions ready that are more than just, "Where are you from?". One of my favorites is, "What speaker are you looking forward to the most?" This invites the person you are speaking with to tell you a bit more about why they came to the conference, and what interests and inspires them the most.
 
-### ![How to Network as an Introvert - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/02/Yellow2016-25.jpg)  
+### ![How to Network as an Introvert - The Yellow Room](https://s3.amazonaws.com/yellow-files/blog/2017/02/Yellow2016-25.jpg)  
 **Embrace the Unknown**
 
 Full disclosure: I am hyper-organized (in case you couldn't tell already). When it comes to going with the flow, well... I don't handle that well. I become easily flustered when something doesn't go according to the plan I had in my mind. 
@@ -41,4 +41,4 @@ After all, we're all just people. Chances are, the extrovert you see across the 
 
 _Photo by [Cacá Santoro](http://cacasantoro.com/)_
 
-[![JASMIN BOLLMAN BIO](http://yellowco.co/wp-content/uploads/2017/02/JASMINBOLLMAN.jpg)](https://blog.rebel.com/author/jasmin/)
+[![JASMIN BOLLMAN BIO](https://s3.amazonaws.com/yellow-files/blog/2017/02/JASMINBOLLMAN.jpg)](https://blog.rebel.com/author/jasmin/)

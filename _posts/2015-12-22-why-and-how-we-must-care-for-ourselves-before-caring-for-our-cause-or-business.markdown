@@ -17,7 +17,7 @@ categories:
 redirect_from: "/resources/why-and-how-we-must-care-for-ourselves-before-caring-for-our-cause-or-business/"
 ---
 
-[![Caring for yourself before caring for your cause](http://yellowconference.com/wp-content/uploads/2015/12/15-800x533.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/15-800x533.jpg)How wild can life be sometimes? The wild that just takes us to a point that we feel like we are climbing Mt. Everest, trying to make it out of the valley to reach the summit. The point where we can take a break for one moment and look at what we have just accomplished, what we just overcame, and where we are going next. What does your life look like right now?
+[![Caring for yourself before caring for your cause](https://s3.amazonaws.com/yellow-files/blog/2015/12/15-800x533.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/12/15-800x533.jpg)How wild can life be sometimes? The wild that just takes us to a point that we feel like we are climbing Mt. Everest, trying to make it out of the valley to reach the summit. The point where we can take a break for one moment and look at what we have just accomplished, what we just overcame, and where we are going next. What does your life look like right now?
 
 ## _How are you managing your time, your family, your career, your business, and most importantly – yourself?_
 
@@ -25,7 +25,7 @@ The purpose of an oil refinery is to take certain raw materials and convert them
 
 ## What does refining look like in your life, your business, your passion, or your desires?
 
-I believe we as women in our own roles can relate to this oil refinery. Daily, we are given 24 hours to complete our tasks, run to meetings, travel to the next city, or plan that event. Your responsibility is the ability to choose your response (or as I would say _response-ability_). We have the power of choice to refine ourselves daily. Life may become so hectic that we feel like we are that unrefined oil, needing to weed out the unnecessary activities that are hindering us from performing and taking care of ourselves. We are precious and useful beings that are needed in this world. But to be a go-getter, we need to first learn to take care of ourselves.[![Caring for ourselves before caring for our cause](http://yellowconference.com/wp-content/uploads/2015/12/14-800x599.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/14-800x599.jpg)
+I believe we as women in our own roles can relate to this oil refinery. Daily, we are given 24 hours to complete our tasks, run to meetings, travel to the next city, or plan that event. Your responsibility is the ability to choose your response (or as I would say _response-ability_). We have the power of choice to refine ourselves daily. Life may become so hectic that we feel like we are that unrefined oil, needing to weed out the unnecessary activities that are hindering us from performing and taking care of ourselves. We are precious and useful beings that are needed in this world. But to be a go-getter, we need to first learn to take care of ourselves.[![Caring for ourselves before caring for our cause](https://s3.amazonaws.com/yellow-files/blog/2015/12/14-800x599.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/12/14-800x599.jpg)
 
 > _Life may become so hectic that we feel like we are that unrefined oil, needing to weed out the unnecessary activities that are hindering us from performing and taking care of ourselves. We are precious and useful beings that are needed in this world. But to be a go-getter, we need to first learn to take care of ourselves._
 
@@ -37,7 +37,7 @@ In Steven Covey’s book _7 Habits of Highly Effective People_, he draws out a m
 
 **Your urgent-not importants are the activities that will clog up your day.** These are the items we look back on at the end of the week and wonder why we put so much time and effort into them. For instance, maybe it was a poorly thought-out meeting that you committed to, which ended up soaking in all your time. These are the things that if we really stopped and asked ourselves - Is this important? - we would realize they weren't.
 
-## [![caring for ourselves before caring for our blog: the yellow co. blog](http://yellowconference.com/wp-content/uploads/2015/12/13-800x533.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/13-800x533.jpg)Lastly, we arrive to the _not urgent-not important_ activities.
+## [![caring for ourselves before caring for our blog: the yellow co. blog](https://s3.amazonaws.com/yellow-files/blog/2015/12/13-800x533.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/12/13-800x533.jpg)Lastly, we arrive to the _not urgent-not important_ activities.
 
 Take time to look up. Maybe we need to step away from the computer, our phones, the TV...whatever it is, take time to rest your mind from these tedious activities. I encourage you to start each week by creating your own two-by-two matrix on a blank sheet of paper with everything you want to accomplish that week. Experiment. Play with it. Figure out what plan or process is best for YOU.
 
@@ -47,4 +47,4 @@ You are a woman of value. As Eryn Eddy said at the Yellow Conference this year, 
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/)_
 
-[![yellow co. blog](http://yellowconference.com/wp-content/uploads/2015/12/kristitriplett.jpg)](https://endearingtraveler.wordpress.com/)
+[![yellow co. blog](https://s3.amazonaws.com/yellow-files/blog/2015/12/kristitriplett.jpg)](https://endearingtraveler.wordpress.com/)

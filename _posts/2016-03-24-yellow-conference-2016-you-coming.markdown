@@ -7,7 +7,7 @@ categories:
 redirect_from: "/yellow-2016/yellow-conference-2016-you-coming/"
 ---
 
-[![Prices-go-up](http://yellowconference.com/wp-content/uploads/2016/03/Prices-go-up-1024x1024.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/Prices-go-up.jpg)
+[![Prices-go-up](https://s3.amazonaws.com/yellow-files/blog/2016/03/Prices-go-up-1024x1024.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/03/Prices-go-up.jpg)
 
 [GRAB YOUR TICKET](https://www.universe.com/events/yellow-conference-2016-tickets-los-angeles-F2Q869)
 
@@ -21,7 +21,7 @@ I mean, Jedidiah Jenkins (have you seen [this video](https://vimeo.com/120206922
 
 Want to know more about each of our speakers? Click on the names below and their bios will expand for your reading pleasure.
 
-[ezcol_1third]![](http://yellowconference.com/wp-content/uploads/2015/11/Alexis-Jones-Instagram-300x300.jpg)
+[ezcol_1third]![](https://s3.amazonaws.com/yellow-files/blog/2015/11/Alexis-Jones-Instagram-300x300.jpg)
 
 [expand title="ALEXIS JONES
 
@@ -42,7 +42,7 @@ FIND MORE OF ALEXIS HERE:
 </div>
 
 [/ezcol_1third][ezcol_1third]  
-![](http://yellowconference.com/wp-content/uploads/2015/11/Jessica-Hische-website.jpg)
+![](https://s3.amazonaws.com/yellow-files/blog/2015/11/Jessica-Hische-website.jpg)
 
 [expand title="JESSICA HISCHE
 
@@ -59,7 +59,7 @@ FIND MORE OF JESSICA HERE:
 [/expand]
 
 [/ezcol_1third][ezcol_1third_end]  
-![](http://yellowconference.com/wp-content/uploads/2015/11/JEDIDIAH-JENKIN-website-300x300.jpg)
+![](https://s3.amazonaws.com/yellow-files/blog/2015/11/JEDIDIAH-JENKIN-website-300x300.jpg)
 
 [expand title="JEDIDIAH JENKINS
 
@@ -73,7 +73,7 @@ FIND MORE OF JEDIDIAH HERE:
 
 [/expand]  
 [/ezcol_1third_end][ezcol_1third]  
-![](http://yellowconference.com/wp-content/uploads/2015/11/ARIELLE.jpg)
+![](https://s3.amazonaws.com/yellow-files/blog/2015/11/ARIELLE.jpg)
 
 [expand title="ARIELLE WILBURN
 
@@ -88,7 +88,7 @@ _Arielle  is a Spoken Word Artist, Blogger and Motivational speaker. Published 
 
 <div>[/expand]</div>
 
-[/ezcol_1third] [ezcol_1third] ![](http://yellowconference.com/wp-content/uploads/2015/11/Kirsten-Dickerson-Instagram-300x300.jpg)
+[/ezcol_1third] [ezcol_1third] ![](https://s3.amazonaws.com/yellow-files/blog/2015/11/Kirsten-Dickerson-Instagram-300x300.jpg)
 
 [expand title="KIRSTEN DICKERSON
 
@@ -104,7 +104,7 @@ FIND MORE OF KIRSTEN HERE:
 
 [/expand]
 
-[/ezcol_1third] [ezcol_1third_end]![](http://yellowconference.com/wp-content/uploads/2015/11/Jenna-Ushkowitz-web.jpg)
+[/ezcol_1third] [ezcol_1third_end]![](https://s3.amazonaws.com/yellow-files/blog/2015/11/Jenna-Ushkowitz-web.jpg)
 
 [expand title="JENNA USHKOWITZ
 
@@ -120,7 +120,7 @@ FIND MORE OF JENNA HERE:
 
 [/expand]
 
-[/ezcol_1third_end][ezcol_1third]![](http://yellowconference.com/wp-content/uploads/2015/11/Sam-webiste2.jpg)
+[/ezcol_1third_end][ezcol_1third]![](https://s3.amazonaws.com/yellow-files/blog/2015/11/Sam-webiste2.jpg)
 
 [expand title="SAMANTHA FUTERMAN
 
@@ -137,7 +137,7 @@ FIND MORE OF SAMANTHA HERE:
 [/expand]
 
 [/ezcol_1third][ezcol_1third]  
-[![](http://yellowconference.com/wp-content/uploads/2015/11/Jessica-Eckstrom-300x300.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/Jessica-Eckstrom.jpg)
+[![](https://s3.amazonaws.com/yellow-files/blog/2015/11/Jessica-Eckstrom-300x300.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/Jessica-Eckstrom.jpg)
 
 [expand title="JESSICA EKSTROM
 
@@ -151,7 +151,7 @@ FIND MORE OF JESSICA HERE:
 
 <div class="gmail_default">[/expand]</div>
 
-[/ezcol_1third] [ezcol_1third_end] ![](http://yellowconference.com/wp-content/uploads/2015/11/Krysta-Masciale-300x300.jpg)
+[/ezcol_1third] [ezcol_1third_end] ![](https://s3.amazonaws.com/yellow-files/blog/2015/11/Krysta-Masciale-300x300.jpg)
 
 [expand title="KRYSTA MASCIALE
 
@@ -168,7 +168,7 @@ FIND MORE OF KRYSTA HERE:
 [/ezcol_1third_end]
 
 [ezcol_1third]  
-[![](http://yellowconference.com/wp-content/uploads/2015/11/Tim-Harris-website.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/Tim-Harris-website.jpg)
+[![](https://s3.amazonaws.com/yellow-files/blog/2015/11/Tim-Harris-website.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/Tim-Harris-website.jpg)
 
 [expand title="TIM HARRIS
 
@@ -185,7 +185,7 @@ FIND MORE OF TIM HERE:
 
 [/expand]
 
-[/ezcol_1third] [ezcol_1third][![CJ-CJ Casciotta-web](http://yellowconference.com/wp-content/uploads/2016/03/CJ-CJ-Casciotta-web.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/CJ-CJ-Casciotta-web.jpg)
+[/ezcol_1third] [ezcol_1third][![CJ-CJ Casciotta-web](https://s3.amazonaws.com/yellow-files/blog/2016/03/CJ-CJ-Casciotta-web.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/03/CJ-CJ-Casciotta-web.jpg)
 
 [expand title="CJ CASCIOTTA
 

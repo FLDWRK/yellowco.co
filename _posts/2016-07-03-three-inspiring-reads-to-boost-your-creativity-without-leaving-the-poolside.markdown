@@ -11,7 +11,7 @@ categories:
 redirect_from: "/light-talk/three-inspiring-reads-to-boost-your-creativity-without-leaving-the-poolside/"
 ---
 
-## [![Kendall Hanna Photography](http://yellowconference.com/wp-content/uploads/2016/07/free-people-6134.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/free-people-6134.jpg)I'm going to keep this short and sweet because, let's be honest, _it's Fourth of July weekend, baby!_
+## [![Kendall Hanna Photography](https://s3.amazonaws.com/yellow-files/blog/2016/07/free-people-6134.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/07/free-people-6134.jpg)I'm going to keep this short and sweet because, let's be honest, _it's Fourth of July weekend, baby!_
 
 So whatever you are doing this fine three day weekend, we hope you find it restful. And what better way to rest with a little inspirational reads by the pool, or the air conditioner, or on your patio, drinking some mint watermelon lemonade (or whatever your heart desires)?!
 
@@ -43,4 +43,4 @@ The amazing Becky Simpson just came out with a hilarious and fun book called "[T
 
 _Photo by [Kendall Hanna](http://www.kendallhanna.com/fashion/buvjhoopeu4hvpfxvn8pj5f5oquzvf)_
 
-[![sally kim for the yellow co. blog](http://yellowconference.com/wp-content/uploads/2015/12/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![sally kim for the yellow co. blog](https://s3.amazonaws.com/yellow-files/blog/2015/12/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

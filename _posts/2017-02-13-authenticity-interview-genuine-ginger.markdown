@@ -23,7 +23,7 @@ I went full time with G&G about a year and a half ago. I quit my job, sold every
 
 We handcraft anti-trendy, minimalist items that are meant to be worn by _**real people**_. We design for the everyday. For the women who need effortless accessories to complement their style. Our woven goods and wall decor are created with that same mindset. Pieces that can be used for years and years to cultivate beautiful spaces you live your life in.
 
-![Authenticity First - Genuine & Ginger - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/02/IMG_2991.jpg)
+![Authenticity First - Genuine & Ginger - The Yellow Room](https://s3.amazonaws.com/yellow-files/blog/2017/02/IMG_2991.jpg)
 
 **We LOVED our bracelets you gifted our attendees at the 2016 conference. When you heard our theme words _GRIT, VALOR, and HEART,_ did it resonate with you as a business owner?**
 
@@ -45,7 +45,7 @@ Providing new hope for the teens that don't have any, and allowing them to dream
 
 As far design inspiration goes, we are very inspired by the desert culture we live in. We use tons of texture, warm earthy tones, and simplicity in our work. Everything we do has an easy, organic flow to it with a modern boho vibe. For general inspiration, we are blown away by the WOMEN all over the country who are doing such amazing things both in business and in life. We read a ton of design books, mostly interior design, and love love love pop art and fiber art design.
 
-![Authenticity First - Genuine & Ginger - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/02/IMG_5563.jpg)
+![Authenticity First - Genuine & Ginger - The Yellow Room](https://s3.amazonaws.com/yellow-files/blog/2017/02/IMG_5563.jpg)
 
 **Is G&G your full time gig, or your side hustle? How do you make time for it all (AND time to stamp and donate FIVE HUNDRED bracelets for YC 2016)!?**
 

@@ -9,7 +9,7 @@ redirect_from: "/pioneer/the-yellow-collective-membership-opens-up-next-week/"
 
 Yes, you read that title right. Today is a special day where we get to "officially" announce... Yellow Collective memberships open back up NEXT WEDNESDAY, March 15th (also the same day the new Beauty and the Beast comes out - #bestdayever)! That's right! Get excited ladies.
 
-We open up the membership once a quarter and keep it open for 2 weeks. Once a quarter is only 4 times a year... so this is kind of a big deal.[![](http://yellowco.co/wp-content/uploads/2017/03/Membership.jpg)](http://eepurl.com/bEZbaH)
+We open up the membership once a quarter and keep it open for 2 weeks. Once a quarter is only 4 times a year... so this is kind of a big deal.[![](https://s3.amazonaws.com/yellow-files/blog/2017/03/Membership.jpg)](http://eepurl.com/bEZbaH)
 
 [**MARK YOUR CALENDARS FOR MARCH 15TH and HOP ON OUR INTEREST LIST!**](http://eepurl.com/bEZbaH)
 
@@ -39,4 +39,4 @@ We are launching some cool new things within the Collective this upcoming quarte
 
 Hope you have a wonderful start to your week ladies. Enjoy it, embrace it, and whatever this Monday throws at you, don't forget that you totally GOT THIS.
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)
+[![](https://s3.amazonaws.com/yellow-files/blog/2017/03/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)

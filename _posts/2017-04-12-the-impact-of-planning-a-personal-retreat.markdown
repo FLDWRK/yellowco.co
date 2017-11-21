@@ -19,7 +19,7 @@ During that pivotal conversation, I decided to leave my job - and actually put a
 
 It was only an overnight trip, just about an hour outside of Atlanta, my hometown, but it was _grand._ I checked in early, checked out late, and feasted on take-out. Most importantly, I got down to business. I maximized those 24 hours by bringing everything along I had saved for months to guide me in decision-making, planning, and personal reflection.
 
-![THE IMPACT OF PLANNING A PERSONAL RETREAT - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/04/ValerieDenisePhotos-7.jpg)
+![THE IMPACT OF PLANNING A PERSONAL RETREAT - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/04/ValerieDenisePhotos-7.jpg)
 
 ### **It was during this intentional, introspective time that I resolved something huge - I needed to start my own business.**
 
@@ -35,4 +35,4 @@ If you haven’t taken a personal retreat, I can’t recommend it enough. Despit
 
 _Photos by: [Valerie Denise Photos](http://www.valeriedenisephotos.com/) featuring [The Created Co. mugs](https://thecreated.co/)_
 
-[![KRISTI PORTER BIO](http://yellowco.co/wp-content/uploads/2017/04/KRISTI-PORTER-BIO.jpg)](https://www.signify.solutions/)
+[![KRISTI PORTER BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/KRISTI-PORTER-BIO.jpg)](https://www.signify.solutions/)

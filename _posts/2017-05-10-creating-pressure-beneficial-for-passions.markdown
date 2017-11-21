@@ -21,7 +21,7 @@ Sometimes, we have to be our own motivation. We long for a change, but find ours
 
 Trial and error is an inevitable part of a “new” anything. _But,_ it’s in the errors that we really learn, and this takes time. You need to make mistakes to learn your boundaries, see if the new path you’re on is the right one, or if the new product you’re launching is worth all the strife. Allow yourself to embrace these "failures" by looking at all you can gain, not lose, from them.
 
-![WHY CREATING PRESSURE IS ACTUALLY BENEFICIAL FOR YOUR PASSIONS - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/05/TheFinerFewer-Final-114.jpg)
+![WHY CREATING PRESSURE IS ACTUALLY BENEFICIAL FOR YOUR PASSIONS - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/05/TheFinerFewer-Final-114.jpg)
 
 ### 2\. Ask yourself - _so what?_
 
@@ -39,4 +39,4 @@ As we pursue directions that are unknown, we can find ourselves walking straight
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-_[![BAILEY VAN TASSEL BIO](http://yellowco.co/wp-content/uploads/2017/04/BAILEY-VAN-TASSEL-BIO-new.jpg)](http://www.abelimpact.com/about/)_
+_[![BAILEY VAN TASSEL BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/BAILEY-VAN-TASSEL-BIO-new.jpg)](http://www.abelimpact.com/about/)_

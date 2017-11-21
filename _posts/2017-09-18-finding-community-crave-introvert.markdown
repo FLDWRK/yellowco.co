@@ -17,7 +17,7 @@ After college has been where I really felt the tension of an introvert craving c
 
 The places in which you search for people become much bigger (churches, offices, gyms and community centers), and there’s a lot of putting yourself out there required. This can overwhelm me to the point of doing the opposite and just standing in a corner and observing everyone else connecting.
 
-![FINDING THE COMMUNITY I CRAVE AS AN INTROVERT - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/1T5A8508.jpg)
+![FINDING THE COMMUNITY I CRAVE AS AN INTROVERT - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/1T5A8508.jpg)
 
 I also own a business, which requires an extra level of putting yourself out there and interacting with strangers. There have been days where it seems hopeless that I’ll find connection and community anywhere besides with my husband and immediate family, but I know part of that comes from my drive to protect my own energy.
 
@@ -29,7 +29,7 @@ First of all, I lean into social media. I know that a lot of people argue that s
 
 We are called Revel in Biz, and because of our leader, we moved quickly from just being a business support group to true friends. We have Skype chats and are in constant communication. We cheer each others victories, we talk through losses in life, discuss personal struggles, and lend perspective to each other when we’re caught up in our own head about our business.  
 
-![FINDING THE COMMUNITY I CRAVE AS AN INTROVERT - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/1T5A8533.jpg)
+![FINDING THE COMMUNITY I CRAVE AS AN INTROVERT - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/1T5A8533.jpg)
 
 Having this small but mighty group online energizes me by allowing me to feel connected and seen, without having to show up at a networking event, or something equally as intimidating, where I don’t feel comfortable presenting my full self. I also have one or two dear friends that understand this tension in me, who I know I can call on when I just need human connection, even if it’s a quick 30 minute coffee to hear about their day.
 
@@ -39,7 +39,7 @@ Sometimes, I just have to be brave enough to ask for what I need. To message tha
 
 On the other hand, I can’t just power through and ignore that I am an introvert all of the time. One of the biggest practical things I do is schedule out my social calendar to involve “introvert appreciation” time. I will take note of the interactions that will leave my energy a little more drained, and I try to schedule a day or night soon afterwards to “refuel”. I protect those times as if they were non-negotiable meetings. That way I can be more energized and fully present for the next round of engagements.
 
-![FINDING THE COMMUNITY I CRAVE AS AN INTROVERT - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/1T5A8417.jpg)
+![FINDING THE COMMUNITY I CRAVE AS AN INTROVERT - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/09/1T5A8417.jpg)
 
 The biggest thing I’ve realized is that community is so much more fluid than I used to believe. It’s not ten ladies meeting once a week; it’s not a large group of friends you go out with all the time. It’s moments and people sprinkled through my daily life that bring me outside of myself, and remind me that there are people here to love and be loved by. To be connected to the bigger story of my community. To hear and learn from people with different and new ideas, world views, and lifestyles.
 
@@ -51,4 +51,4 @@ I’m an introvert who needs to be show up and be seen. My community may be smal
 
 _Photos by: [Liz Calka](https://www.lizcalka.photo/)_
 
-[![JESSICA WHALEN BIO](http://yellowco.co/wp-content/uploads/2017/04/JESSICA-WHALEN-BIO.jpg)](http://www.truebadours.com/)
+[![JESSICA WHALEN BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/JESSICA-WHALEN-BIO.jpg)](http://www.truebadours.com/)

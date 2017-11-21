@@ -7,7 +7,7 @@ categories:
 redirect_from: "/resources/happy-holidays-yellow/"
 ---
 
-[![Stocksy_txp4c1062ccsx3000_Small_166400 copy](http://yellowconference.com/wp-content/uploads/2014/12/Stocksy_txp4c1062ccsx3000_Small_166400-copy1-682x1024.jpg)](http://yellowconference.com/wp-content/uploads/2014/12/Stocksy_txp4c1062ccsx3000_Small_166400-copy1.jpg)
+[![Stocksy_txp4c1062ccsx3000_Small_166400 copy](https://s3.amazonaws.com/yellow-files/blog/2014/12/Stocksy_txp4c1062ccsx3000_Small_166400-copy1-682x1024.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/12/Stocksy_txp4c1062ccsx3000_Small_166400-copy1.jpg)
 
 From all of us here at Yellow, we wish you the Happiest of Holidays!
 

@@ -25,7 +25,7 @@ This is one of the most powerful, but often overlooked, factors to consider when
 
 When I began to implement more alone time into my schedule instead of cramming it full with meeting after meeting, the burnout cycles (and stress) eased up.  The [Myers-Briggs](https://www.16personalities.com/free-personality-test) and the [Enneagram](http://www.9types.com/rheti/index.php) are two of the most helpful personality tests you can take. Knowing your personality type, digging into what motivates you, and really getting to know yourself is _crucial_ for living a balanced life.
 
-![HOW TO BREAK THE PATTERN OF BURN OUT - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/Photo-May-05-4-18-11-AM.jpg "HOW TO BREAK THE PATTERN OF BURN OUT - THE YELLOW ROOM")
+![HOW TO BREAK THE PATTERN OF BURN OUT - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/Photo-May-05-4-18-11-AM.jpg "HOW TO BREAK THE PATTERN OF BURN OUT - THE YELLOW ROOM")
 
 ### **Define What Success Means to You**
 
@@ -43,4 +43,4 @@ Are you experiencing emotional or physical burnout from an out-of-control schedu
 
 _Photos by: [Valerie Moreno](http://www.nuanceandbubbles.com/)_
 
-[![ABIGAIL DAVIDSON BIO](http://yellowco.co/wp-content/uploads/2017/06/ABIGAIL-DAVIDSON-BIO.jpg)](https://www.theschoolofwellbeing.com/)
+[![ABIGAIL DAVIDSON BIO](https://s3.amazonaws.com/yellow-files/blog/2017/06/ABIGAIL-DAVIDSON-BIO.jpg)](https://www.theschoolofwellbeing.com/)

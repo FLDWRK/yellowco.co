@@ -10,13 +10,13 @@ categories:
 redirect_from: "/advice/how-to-make-your-week-work-for-your-creative-dreams/"
 ---
 
-## _[![_MG_1488](http://yellowconference.com/wp-content/uploads/2016/05/MG_1488.jpg)](http://yellowconference.com/wp-content/uploads/2016/05/MG_1488.jpg)As a creative, I usually have a lot of irons in the fire...and I'm sure you do too._
+## _[![_MG_1488](https://s3.amazonaws.com/yellow-files/blog/2016/05/MG_1488.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/05/MG_1488.jpg)As a creative, I usually have a lot of irons in the fire...and I'm sure you do too._
 
 Right now I’m in the middle of directing my second feature documentary, developing a new short series, writing a folk musical and preparing to lead a women’s lifestyle retreat. One of my greatest strengths as an artist has been my adaptability. Over the years, it has served my craft but at the start of 2016 I wanted to take my work to the next level. I wanted to create with more quality and intention, finally giving time to those dream projects sacrificed at the altar of adaptability.
 
 I’ve always cringed at the thought of setting schedules and writing to-do lists. I’ve viewed them as confining to my creativity. But, at the beginning of this year I read an [article](http://www.huffingtonpost.com/entry/google-time-management_us_5671f55de4b0dfd4bcc0969f) on the Huffington Post (I highly recommend reading it!) written by google employee, Jeremiah Dillon, who broke down the work week for _“Makers.”_ I was so inspired by this article I sent it out to all my freelance friends and actually put it into practice. The main point of the article is that **as Makers we have to protect blocks of time to create**. We can’t just squeeze 30 minutes out of a day packed with meetings and expect to make magic. No one will protect your creative space if you don’t protect it first.
 
-## [![_MG_1412](http://yellowconference.com/wp-content/uploads/2016/05/MG_1412.jpg)](http://yellowconference.com/wp-content/uploads/2016/05/MG_1412.jpg)Here’s how this daily distracted, often reactive, creative has managed to let the work week work for me.
+## [![_MG_1412](https://s3.amazonaws.com/yellow-files/blog/2016/05/MG_1412.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/05/MG_1412.jpg)Here’s how this daily distracted, often reactive, creative has managed to let the work week work for me.
 
 #### _Identify your “Creative Buckets”_
 
@@ -32,10 +32,10 @@ Next, I set a schedule for my week. I know, I know, one of the benefits of freel
 
 While my work constantly changes the days of the week never do. **In Jeremiah’s article, he says that our “peak energy” is on Tuesday and Wednesday so we should schedule our “Make Time” on those days to be the most creatively productive.** Thursday/Friday we are already gearing up for the weekend so we should focus those days on more social tasks like meetings, workshops or group sessions.
 
-**[![_MG_1477](http://yellowconference.com/wp-content/uploads/2016/05/MG_1477.jpg)](http://yellowconference.com/wp-content/uploads/2016/05/MG_1477.jpg)I commit every Monday to business housekeeping.** I start by working through all of the emails I gathered over the weekend. I set up meetings for the week (typically for Thursday or Friday) and try to find a new connection to make in my field. I also look at my 5 buckets and assign a day or half day to each one. This is huge for me because I no longer feel confined by a rigid schedule. I still work on the same projects every week but I may do commercial work on a Thursday one week and a Tuesday the next. **The key is assigning my buckets every Monday so nothing gets lost or ignored in the week.**
+**[![_MG_1477](https://s3.amazonaws.com/yellow-files/blog/2016/05/MG_1477.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/05/MG_1477.jpg)I commit every Monday to business housekeeping.** I start by working through all of the emails I gathered over the weekend. I set up meetings for the week (typically for Thursday or Friday) and try to find a new connection to make in my field. I also look at my 5 buckets and assign a day or half day to each one. This is huge for me because I no longer feel confined by a rigid schedule. I still work on the same projects every week but I may do commercial work on a Thursday one week and a Tuesday the next. **The key is assigning my buckets every Monday so nothing gets lost or ignored in the week.**
 
 The most important thing to remember is our creative dreams are possible but they do take work. Thankfully with a little discipline we can make our work week work for our dreams. 
 
 _Photos by [Karen Marie Hernandez](http://www.karenmariehernandez.com/)_
 
-[![HEIDIBURKEY](http://yellowconference.com/wp-content/uploads/2016/05/HEIDIBURKEY.jpg)](http://www.heidiburkey.com/)
+[![HEIDIBURKEY](https://s3.amazonaws.com/yellow-files/blog/2016/05/HEIDIBURKEY.jpg)](http://www.heidiburkey.com/)

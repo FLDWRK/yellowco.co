@@ -19,7 +19,7 @@ If I choose relationships over my career, my work falls to the wayside. I wind u
 
 What is the right way to respond to relational distractions? When the loquacious friend calls do we send her to voicemail? Or, do we pick up and feel resentful when she steals 50 minutes of our work day?
 
-![WHY LOVING WELL AND SUCCEEDING GREATLY IS NOT AN EITHER/OR - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/Pioneer16.jpg)
+![WHY LOVING WELL AND SUCCEEDING GREATLY IS NOT AN EITHER/OR - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/Pioneer16.jpg)
 
 When I met my husband, I had a job that kept me up until midnight and woke me up at 5 am. If he tried to talk to me while I was in the zone, my selective hearing would usually win. This scenario happened so many times that he turned it into a joke that he uses to this day. After his third time attempt to engage with me, he quietly utters, “Never mind, I’ll call back later.”
 
@@ -35,7 +35,7 @@ Good bosses enforce codes of conduct that let us focus on work _and_ have health
 
 My boundary is that when I’m writing I don't want to be interrupted. If my husband walks up to me and tries to chat I tell him I want to listen, but I have a deadline. On the other hand, he needs to feel appreciated and respected. Telling him I don’t want to listen feels like a slap in the face. While vocalizing my boundaries is important, I must be willing to honor his as well. This leads to the second code of conduct:
 
-![WHY LOVING WELL AND SUCCEEDING GREATLY IS NOT AN EITHER/OR - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/Pioneer14.jpg)
+![WHY LOVING WELL AND SUCCEEDING GREATLY IS NOT AN EITHER/OR - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/Pioneer14.jpg)
 
 ### **#2 Be willing to compromise.**
 
@@ -59,4 +59,4 @@ There is always room for both. Or as my entrepreneurial and PhD-laden mother-in-
 
 _Photos by: [Andrea David](http://andreadavid.co/)_
 
-[![JACKIE VIRAMONTEZ BIO](http://yellowco.co/wp-content/uploads/2017/04/JACKIE-BIO.jpg)](https://www.amazon.com/dp/1683502809/ref=asc_df_16835028095085146?smid=ATVPDKIKX0DER&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_455-20;15012125790140187802310070301008005&linkCode=df0&creative=395093&creativeASIN=1683502809)
+[![JACKIE VIRAMONTEZ BIO](https://s3.amazonaws.com/yellow-files/blog/2017/04/JACKIE-BIO.jpg)](https://www.amazon.com/dp/1683502809/ref=asc_df_16835028095085146?smid=ATVPDKIKX0DER&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_455-20;15012125790140187802310070301008005&linkCode=df0&creative=395093&creativeASIN=1683502809)

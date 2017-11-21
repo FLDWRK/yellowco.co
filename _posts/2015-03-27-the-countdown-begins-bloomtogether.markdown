@@ -8,7 +8,7 @@ categories:
 redirect_from: "/light-talk/the-countdown-begins-bloomtogether/"
 ---
 
-##### [![BloomTogether_Insta_white](http://yellowconference.com/wp-content/uploads/2015/03/BloomTogether_Insta_white.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/BloomTogether_Insta_white.jpg)
+##### [![BloomTogether_Insta_white](https://s3.amazonaws.com/yellow-files/blog/2015/03/BloomTogether_Insta_white.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/BloomTogether_Insta_white.jpg)
 
 ##### **HAPPY FRIDAY!**
 
@@ -105,6 +105,6 @@ _[K](http://www.lauramacarena.com/)[elsey Lemons](http://sheinthemaking.blogspot
 [Sarah Pytlik ](http://www.coffeebarmov.com/)_  
 [_Cait Butt _](https://instagram.com/cait_elizabeth/)
 
-[![JOIN_Us](http://yellowconference.com/wp-content/uploads/2015/03/JOIN_Us.jpg)](http://yellowconference.com/wp-content/uploads/2015/03/JOIN_Us.jpg)
+[![JOIN_Us](https://s3.amazonaws.com/yellow-files/blog/2015/03/JOIN_Us.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/03/JOIN_Us.jpg)
 
 </div>

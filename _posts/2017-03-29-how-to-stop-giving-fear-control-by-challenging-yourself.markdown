@@ -29,7 +29,7 @@ Just as we challenged our members this quarter, we want to challenge you too.
 
 To help get you inspired, we wanted to share with you the stories of three Yellow Collective members who stepped out this quarter, challenged themselves and faced their fears. Read all about what they did and their stories below!
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/Amy-Everhart-1.jpg)](http://yellowco.co/wp-content/uploads/2017/03/Amy-Everhart-1.jpg)
+[![](https://s3.amazonaws.com/yellow-files/blog/2017/03/Amy-Everhart-1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/03/Amy-Everhart-1.jpg)
 
 _“I created my Journaling Workbook, Soul Scribbles, a while ago, and put it on my site for free. A mentor of mine suggested that I get it out there in a bigger way, and I was so terrified by the idea of sharing my voice with the world that I knew I needed to practice what I preached and do it._
 
@@ -37,13 +37,13 @@ _It’s so incredibly scary to create something near and dear to your heart and 
 
 _There’s a certain magic that comes from doing the thing you think you can’t do. Now, I feel unstoppable! I think the biggest thing I learned from this challenge is that I am capable of figuring out things I don’t know. If I can learn to self-publish, I can learn other things, too. It’s really inspired me to look at what else I’ve shut down because I didn’t have the know-how at the time. I feel like my creativity and content options have expanded!” ~ Amy Everhart_
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/Taylor-Davis-2.jpg)](http://yellowco.co/wp-content/uploads/2017/03/Taylor-Davis-2.jpg)
+[![](https://s3.amazonaws.com/yellow-files/blog/2017/03/Taylor-Davis-2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/03/Taylor-Davis-2.jpg)
 
 _“In an effort to better understand moving past discomfort, my relationships with others and my relationship with myself, I booked a [yoga and surf] retreat to Nicaragua where I'd be put in a position to be my most genuine self and figure out who that person was. Nicaragua helped me to shake off my fear, in more ways than one...I was put in a position where I had to come to terms with how I was feeling...and to look deep inside myself and ask what it was I wanted out of the trip and this stage of my life in general._
 
 _Driving to the airport to actually go on the trip was hard for me...I cried on my way there because the unknown scared me. I was placed in an environment where everyone around me was interested in bettering themselves holistically, and I took the opportunity to ask questions about what they'd want out of someone with my area of expertise. I also took it as an opportunity to decide if I wanted to further pursue yoga as part of my career and holistic business. The answer is a resounding yes...I'm already trying to decide if I want to go to Bali, Nepal, or Tulum, Mexico.”_
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/Zantika-2.jpg)](http://yellowco.co/wp-content/uploads/2017/03/Zantika-2.jpg)
+[![](https://s3.amazonaws.com/yellow-files/blog/2017/03/Zantika-2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/03/Zantika-2.jpg)
 
 _“Writing soothes my soul. Writing says what I don't say out loud. I feel that poetry gave me a voice when I felt like I didn't have one as a child. I want to tap into that voice again. I feel understood when I read the words of others. I want to share my words, no longer allowing the fear of how those words will be received to stop me. I'm in the process of reflecting on the pain and trauma that I've experienced in my life. It weighs heavily on my heart. I need to put that weight down and allow this book of poetry to carry it for me._
 

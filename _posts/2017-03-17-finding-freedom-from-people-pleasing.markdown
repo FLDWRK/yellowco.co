@@ -18,7 +18,7 @@ Doing so led me to become extremely lonely with my emotions and lost in my thou
 
 When I first became a mom, I had a constant battle with myself between the need to appease everyone (while, of course, supporting a new life) versus the need to be open and honest about the hardships of motherhood. Friends would ask, _“How’s being a mom?”_  And the people pleaser in me would answer, _“I love it so much and wouldn’t have it any other way!”_   The honest me would agree but think, _“I have no idea what I’m doing 90% of the time and I’m on the verge of another set of baby blues postpartum.”_ As much as I wanted to portray having it together, believing that was everyone’s expectation of me, the reality was that I _didn’t_ have it together; and that is _okay_ .
 
-![BREAKING FREE FROM THE BOUNDS OF PEOPLE-PLEASING - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/03/k13-large.jpg "BREAKING FREE FROM THE BOUNDS OF PEOPLE-PLEASING - The Yellow Room")
+![BREAKING FREE FROM THE BOUNDS OF PEOPLE-PLEASING - The Yellow Room](https://s3.amazonaws.com/yellow-files/blog/2017/03/k13-large.jpg "BREAKING FREE FROM THE BOUNDS OF PEOPLE-PLEASING - The Yellow Room")
 
 Being a mom has taught me to be vocal about my feelings and take ownership of who I am. **To be liberated from falsehoods and stand in freedom.** Although other life events have revealed the struggle of being a people pleaser to me (moving out, going to college, getting married), motherhood has taught me most to be true to myself and my community.  
 
@@ -26,4 +26,4 @@ While pleasing others has influenced much of my life, I won’t let it define wh
 
 _Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/)_
 
-[![Christine Stephens Bio](http://yellowco.co/wp-content/uploads/2017/03/ChristineStephens.jpg)](https://delightfulfindings.wordpress.com/)
+[![Christine Stephens Bio](https://s3.amazonaws.com/yellow-files/blog/2017/03/ChristineStephens.jpg)](https://delightfulfindings.wordpress.com/)

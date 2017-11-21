@@ -14,13 +14,13 @@ categories:
 redirect_from: "/creative-ladies/our-heiday-how-one-brand-elevates-the-everyday-product-and-gives-back-all-at-once/"
 ---
 
-##### [![Our Heiday for Yellow Co. ](http://yellowconference.com/wp-content/uploads/2015/11/titlepicture.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/titlepicture.jpg)
+##### [![Our Heiday for Yellow Co. ](https://s3.amazonaws.com/yellow-files/blog/2015/11/titlepicture.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/titlepicture.jpg)
 
 ##### **Tell us a little about Our Heiday—how did it start? **
 
 [Our Heiday](http://ourheiday.com/) is a stationery and gift brand based in downtown Los Angeles. I started the company after walking away from two years of law school at UCLA - it was enough time for me to know that a lifelong career of reading contracts or writing briefs was not in the cards for me. The case books, the classes, the discussions, they were so creatively stifling that I began to realize how important it was for creativity, in whatever form, to be a part of my career endeavors (it's a pretty good indicator when your computer screen is set at design and food blogs during lecture!). I've never had any formal art training, but I grew up in an environment where art was always encouraged; my mom was constantly handing us art pads for sketching and my sister and I used glue guns before we even knew how to write properly. We had also seen her run a vibrant wholesale business growing up so the concept of a woman running a company wasn't foreign. I'm so grateful that she set that example.
 
-[![Our Heiday for Yellow Co. ](http://yellowconference.com/wp-content/uploads/2015/11/pic3.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/pic3.jpg)
+[![Our Heiday for Yellow Co. ](https://s3.amazonaws.com/yellow-files/blog/2015/11/pic3.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/pic3.jpg)
 
 When the wheels began turning for Our Heiday, it really was as simple as picking up a paintbrush and going for it. I hadn't painted for over a decade, but it felt like I had never stopped. Thinking through the logistics of the brand, I knew that I'd want to focus on wholesale because I had grown so accustomed to that model and I knew I was investing in a brand, not just a company that sold stationery. The larger, long-term goal, the one that I had scribbled my big dreams about, was always to transition to a more encompassing lifestyle brand where we'd offer products for the home, for the office, for the everyday.
 
@@ -32,7 +32,7 @@ This is a hard question because success is measured by so many metrics and I'm n
 
 The first launch included about 25 cards, a small, but mighty collection - so much heart went into it! - and I sent samples to a few shops that I had been following for some time to see if they'd be interested in carrying the line. In the first week, we had 3 wholesale orders and that was enough to crack open some wine and keep going. In the span of a year, we're now carried by national retailers like Anthropologie and Paper Source, but also small, gorgeous boutiques throughout the US and internationally. I moved the business outside our downtown LA loft (my husband is thrilled to have a living room again) into a new studio and we're now a team of 4, which has been the most amazing experience, learning to cultivate a team.
 
-[![Our Heiday for Yellow Co. ](http://yellowconference.com/wp-content/uploads/2015/11/image4.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/image4.jpg)
+[![Our Heiday for Yellow Co. ](https://s3.amazonaws.com/yellow-files/blog/2015/11/image4.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/image4.jpg)
 
 ##### **Where did the name Our Heiday come from?**
 
@@ -42,7 +42,7 @@ Our Heiday is a play on the word heyday, the highest pinnacle of the most ultima
 
 [LAMP Community](http://www.lampcommunity.org/) is an incredible organization that fights homelessness by providing permanent supportive housing and a whole host of services for those who are not only homeless, but also battling mental illness. Their primary goal is to transition people from the streets into homes - Housing First. We love this because as wonderful it is to serve food or hand out supplies, this doesn't solve the core issue: that people are without places to call their own. Our team, particularly Amber and Megan, who are involved with production on a day to day basis, really did an amazing job putting our "Home Is" campaign together. I designed an exclusive, limited edition print and our goal is to sell **50 prints in 50 days with LAMP receiving 100% of the net proceeds.** Our studio neighbors Skid Row, as all of downtown LA does, and as wonderful as it is to see all of the changes happening here, gentrification is hard on those who don't get to reap the benefits of the lovely cafes and shops. If you'd like to follow along, please see #ourheiday50in50 on [Instagram](http://instagram.com/ourheiday/)!
 
-[![Our Heiday for Yellow Co. ](http://yellowconference.com/wp-content/uploads/2015/11/image2.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/image2.jpg)
+[![Our Heiday for Yellow Co. ](https://s3.amazonaws.com/yellow-files/blog/2015/11/image2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/11/image2.jpg)
 
 ##### **How did you make a creative business sustainable for not only your business, but also campaigns like the LAMP Community? **
 
@@ -59,4 +59,4 @@ We design to elevate the everyday product. We believe in the things we interact 
 Refine means always taking an intentional approach. This is such an important part of what we do at Our Heiday, refine, refine, refine. Constantly taking a critical eye to the products we're releasing, the campaigns we're launching, the projects we're starting - we never want to settle for something that's simply okay.
 
 [  
-](http://yellowconference.com/wp-content/uploads/2015/11/PATRICIASHEN1.jpg)[![Our Heiday for Yellow Co. ](http://yellowconference.com/wp-content/uploads/2015/11/PATRICIASHEN1.jpg)](http://ourheiday.com/)
+](https://s3.amazonaws.com/yellow-files/blog/2015/11/PATRICIASHEN1.jpg)[![Our Heiday for Yellow Co. ](https://s3.amazonaws.com/yellow-files/blog/2015/11/PATRICIASHEN1.jpg)](http://ourheiday.com/)

@@ -7,7 +7,7 @@ categories:
 redirect_from: "/resources/mastering-art-schedule/"
 ---
 
-[![Mastering](http://yellowconference.com/wp-content/uploads/2014/08/Mastering.jpg)](http://yellowconference.com/wp-content/uploads/2014/08/Mastering.jpg)
+[![Mastering](https://s3.amazonaws.com/yellow-files/blog/2014/08/Mastering.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/08/Mastering.jpg)
 
 Time. We never seem to have enough of it. There's always something to do, something to see, businesses to run, an article with a headline we just can't ignore (anyone else guilty??) or someone who wants our attention. Whatever the case, our time is always seemingly slipping away, and it's the only commodity we can not get more of.
 
@@ -23,7 +23,7 @@ Here are three ways you can start the process of mastering the art of the schedu
 
 Here's [Jessica's schedule](http://jessicahische.is/images/ultraschedule.jpg) that she so awesomely put on the internet for us all to see and learn from:
 
-[![ultraschedule](http://yellowconference.com/wp-content/uploads/2014/08/ultraschedule.jpg)](http://yellowconference.com/wp-content/uploads/2014/08/ultraschedule.jpg)
+[![ultraschedule](https://s3.amazonaws.com/yellow-files/blog/2014/08/ultraschedule.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/08/ultraschedule.jpg)
 
 3 / **Stick to it for a week, pay attention to what's working and not working, and revise.** Too often when something doesn't work right away, we ditch it and never look back. I would encourage you to create a schedule on Sunday, stick to it Monday - Friday, and re-evaluate that weekend. When it comes time to schedule for the next week, think about what worked and didn't work from the week prior, and revise. Did you feel too rigid and planned out by the end of the week? Next time, schedule a few hours a week for "unscheduled" free time. It's like a budget- you give yourself a certain amount of "fun" money, to use as you please. Scheduling is the same way. You probably won't create a schedule that works perfectly for you right off the bat. Good things take time, and so do good schedules. So don't give up on your schedule if it doesn't work perfectly the first week. Analyze it, see where it went wrong, and revise.
 

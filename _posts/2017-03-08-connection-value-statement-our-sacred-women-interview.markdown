@@ -24,7 +24,7 @@ To feel seen, understood, and honored. It's something we all crave, but for so m
 
 OSW also works with an LA-based philanthropy group called [Alliance of Moms](http://allianceofmoms.org/) , whose mission is to break the intergenerational cycle of babies born to teens in foster care. The statistics are staggering: over a quarter of young women in foster care become mothers by the age of 17\. Among these young mothers, 40% of them have a second child in their teenage years. In turn, 40% of these babies will be detained in the first years of life, enter the foster care system themselves, and 66% will later become teen mothers as well. In the face of such dire and daunting odds, Alliance of Moms (AOM) seeks to disrupt this cycle by offering these young moms the education, resources, and the supportive community they deserve.
 
-![](http://yellowco.co/wp-content/uploads/2017/03/Kims2016print-91.jpg)
+![](https://s3.amazonaws.com/yellow-files/blog/2017/03/Kims2016print-91.jpg)
 
 In partnership with a local calligraphy company called [Goldpress](http://www.goldpresspaper.com/), OSW created a letter-pressed greeting card meant to bring loving attention to mamas, and together we offer a “buy one, give one” program with AOM. For every card sold online and by our stockists, we donate the same card with a handwritten note to a pregnant or parenting mama in foster care. To date, we’ve donated over 200 cards to AOM, and they have distributed them at two of their signature events. As a mom, I know how hard it is to be a parent - even with a strong support network, so I wanted to pass along the positive energy from this card to more mamas in need. We also donate 10% of proceeds from “You got this, Mama!” art prints to AOM, and hope to expand our partnership in the future. 
 
@@ -46,6 +46,6 @@ I’m also trying to self-care by establishing broader boundaries, which has bee
 
 5.  **Trust** – Trust your intuition. Our signature t-shirt looks exactly as I saw it in my daydream. I didn’t completely trust my vision at first and spent months trying to create the shirt in ways others had recommended. Having no art or design background whatsoever, I felt really insecure about my ability to create. Now when I design products, I know to move forward with the ones I personally feel most excited to gift to the special women in my life. I have learned to trust myself and the process. To give my best effort,  _and_  just step back and allow things to unfold.
 
-![Interview with Our Sacred Women - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/03/caroline_tran_celine71.jpg)
+![Interview with Our Sacred Women - The Yellow Room](https://s3.amazonaws.com/yellow-files/blog/2017/03/caroline_tran_celine71.jpg)
 
 _Photos by [Kevin Rogers,](http://www.kevinrogersphoto.com/) featuring [Our Sacred Women tees](http://www.oursacredwomen.com/), and courtesy of Eileen Rosete_

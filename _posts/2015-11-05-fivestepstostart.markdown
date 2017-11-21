@@ -16,7 +16,7 @@ categories:
 redirect_from: "/light-talk/fivestepstostart/"
 ---
 
-[![STARTING YOUR MORNING RIGHT (REALLY HOW TO DO IT)](http://yellowconference.com/wp-content/uploads/2015/10/PHOTO1.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/PHOTO1.jpg)
+[![STARTING YOUR MORNING RIGHT (REALLY HOW TO DO IT)](https://s3.amazonaws.com/yellow-files/blog/2015/10/PHOTO1.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/PHOTO1.jpg)
 
 ##### Mornings can feel more like war zones than invitations into a great day.
 
@@ -30,7 +30,7 @@ If you’re anything like me you have read dozens of articles on the subject: _1
 
 We can get in our heads that it is our job to conquer the world before 7am: _Run 5 miles, make a gourmet breakfast, French press our coffee, read 2 chapters in a new book, meditate, do 3 sun salutations, answer only important emails, feel un-pressed to check Instagram, dress like a page out of Vogue, get out the door in perfect time for work with freshly manicured nails._
 
-[![FIVE TIPS TO START YOUR DAY RIGHT](http://yellowconference.com/wp-content/uploads/2015/10/PICTURE3.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/PICTURE3.jpg)
+[![FIVE TIPS TO START YOUR DAY RIGHT](https://s3.amazonaws.com/yellow-files/blog/2015/10/PICTURE3.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/PICTURE3.jpg)
 
 It’s great for the ladies who can make that work, but that is _so_ not my life.  
 I have to be at work at 6:30 in the morning (granted I only battle a 10 minute commute) and I know I am not going to save the world before I get out the door. What I can do is start my morning off peacefully, set myself up for the day I want to have, and enjoy the quiet moments before my time is anybody else's.
@@ -50,7 +50,7 @@ Now it’s time to turn those feels into tangible steps. The ancient saying “
 *   **Creative:** I work a 9-5 and pursue my personal projects after office hours. This means, before I enter the world of being a technical writer I need a little time to play creatively. More often than not this coincides with my quiet time, so I’ll shake up my devotionals by doing a collage, writing poetry, journaling, or sketching for a few minutes. If I’m not feeling the muse one morning, I will pick up a novel, book of poetry, or open a blog and give myself a few minutes to be inspired by someone else’s creative juices.
 *   **Clear sighted:** I do a lot better in my day when I have vision for the hours ahead. So I think through my day, about what I might accomplish on my lunch break, and what my plans for the evening are. If I don’t, I end up sitting on my couch at 8pm half asleep with popcorn for dinner and the 4th episode of _The Office_ playing on Netflix.
 
-[![FIVE TIPS THAT WILL ACTUALLY HELP YOU START YOUR DAY RIGHT (and a free printable)](http://yellowconference.com/wp-content/uploads/2015/10/PICTURE2.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/PICTURE2.jpg)
+[![FIVE TIPS THAT WILL ACTUALLY HELP YOU START YOUR DAY RIGHT (and a free printable)](https://s3.amazonaws.com/yellow-files/blog/2015/10/PICTURE2.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/PICTURE2.jpg)
 
 ###### 3\. I**t all starts the night before:**
 
@@ -68,4 +68,4 @@ Let yourself be okay with the fact that there will be mornings you sleep passed 
 
 _Photos by [Karen Marie Hernandez](http://www.karenmariehernandez.com/)_
 
-[![5 Ways to start your morning right](http://yellowconference.com/wp-content/uploads/2015/11/NATALIESKIETH.jpg)](http://www.natalieskeith.com/)
+[![5 Ways to start your morning right](https://s3.amazonaws.com/yellow-files/blog/2015/11/NATALIESKIETH.jpg)](http://www.natalieskeith.com/)

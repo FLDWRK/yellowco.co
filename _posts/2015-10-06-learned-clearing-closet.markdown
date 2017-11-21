@@ -13,13 +13,13 @@ redirect_from: "/creative-ladies/learned-clearing-closet/"
 ---
 
 [  
-](http://yellowconference.com/wp-content/uploads/2015/09/johanna2.jpg)[![yellow conference blog](http://yellowconference.com/wp-content/uploads/2015/10/Yellow_2015_Day_1-281-copy.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/Yellow_2015_Day_1-281-copy.jpg)
+](https://s3.amazonaws.com/yellow-files/blog/2015/09/johanna2.jpg)[![yellow conference blog](https://s3.amazonaws.com/yellow-files/blog/2015/10/Yellow_2015_Day_1-281-copy.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/Yellow_2015_Day_1-281-copy.jpg)
 
 I used to escape through shopping. I had major identity issues growing up due to trauma from sexual abuse that fed this insatiable desire to be liked and cool and cutting edge and pretty. So I started shopping early and often. Then at age 23, I married my college sweetheart and was in a marriage riddled with domestic violence and anger and fear for 8 years before I was able to get free. Needless to say, shopping was my escape from that terror. I found comfort in new clothes. I sought solace in things that only satisfied for a minute before the hurt and anger and fear returned. Needless to say, I accumulated a lot of things during that eight year marriage and a lot of baggage.
 
 By the time I moved away from my ex and up to DC for my job with International Justice Mission, I had nearly 2000 lbs of clothes and shoes. You could literally say I had a TON of clothes .
 
-[![Yellow_2015_Day_1-276](http://yellowconference.com/wp-content/uploads/2015/10/Yellow_2015_Day_1-276.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/Yellow_2015_Day_1-276.jpg)Two years ago I met the man of my dreams, a man with a quiet strength and the patience of a redwood tree that stretches to the heavens and grows and grows without end. We got married and moved to California to start our new life together.
+[![Yellow_2015_Day_1-276](https://s3.amazonaws.com/yellow-files/blog/2015/10/Yellow_2015_Day_1-276.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/Yellow_2015_Day_1-276.jpg)Two years ago I met the man of my dreams, a man with a quiet strength and the patience of a redwood tree that stretches to the heavens and grows and grows without end. We got married and moved to California to start our new life together.
 
 But my clothes weighed me down, and I still wasn’t willing to part. So much of my identity was still wrapped up in Madewell chambray button downs (three of them) and designer jeans (35 different pairs). So we sacrificed and paid the several thousand dollar fee to move my metric ton of clothes from DC to Long Beach where we now live. We chose our apartment based on a closet that could accommodate me and even spent hundreds of dollars on renovating that closet.
 
@@ -31,7 +31,7 @@ As I’ve mentioned before, I’ve spent the last several years in anti-traffick
 
 Over 60% of modern day slavery takes place in supply chains and it contributes to everything we touch. So something had to change. I was ready to let go of those things in my life that had weighed me down in exchange for freedom, true freedom, not just of men and women and children whom I will never meet, but of myself as well. I decided to only purchase clothing if I could find who made it. That was a place to start.
 
-[![Yellow_2015_Day_1-278](http://yellowconference.com/wp-content/uploads/2015/10/Yellow_2015_Day_1-278.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/Yellow_2015_Day_1-278.jpg)
+[![Yellow_2015_Day_1-278](https://s3.amazonaws.com/yellow-files/blog/2015/10/Yellow_2015_Day_1-278.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/10/Yellow_2015_Day_1-278.jpg)
 
 I recently came across an article about [Marie Kondo](http://tidyingup.com/) and her method of organizing closets. The basic premise is that you pull everything you own (and I mean everything, down to your undies folks), pile it in the middle of your room and go piece by piece, asking the question, _“does this piece of clothing bring me joy?”_ Not _did it bring me joy in the past_ or _might it bring me joy in the future,_ but _**does it bring me joy now at this moment in my life.** _If the answer is no, then get rid of it. Which is what I did with over half my clothes. And it was so freeing. And my husband’s redwood patience bloomed with pride.
 
@@ -43,4 +43,4 @@ At the age of 35, in a new place and new job and new community, I no longer care
 
 _Photos by [Caca Santoro](http://cacasantoro.com/)_
 
-[![Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/10/johannabio1.jpg)](https://instagram.com/johannatropiano/)
+[![Yellow Conference Blog](https://s3.amazonaws.com/yellow-files/blog/2015/10/johannabio1.jpg)](https://instagram.com/johannatropiano/)

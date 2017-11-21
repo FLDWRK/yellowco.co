@@ -9,7 +9,7 @@ redirect_from: "/pioneer/the-yellow-collective-is-now-open/"
 
 Woooo!! Today is the day where you can officially become a Yellow Collective member! It's always a bit scary and stressful to pull off another launch of the Collective. We officially launched [The Yellow Collective](http://yellowcollective.com/) at our 2016 conference in August, and we are constantly working on making it better and better, learning a ton along the way.
 
-[![yellow2016-213](http://yellowconference.com/wp-content/uploads/2016/12/Yellow2016-213.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/Yellow2016-213.jpg)
+[![yellow2016-213](https://s3.amazonaws.com/yellow-files/blog/2016/12/Yellow2016-213.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/12/Yellow2016-213.jpg)
 
 I'm super excited for the new things we have in store for the membership to make it a great experience for our members, to connect them, empower them and truly make an impact.
 
@@ -57,7 +57,7 @@ To which I would answer, "WHY YES OF COURSE, I'D BE HAPPY TO!"
 
 I'll start off by elaborating a bit more about the **EMPOWERMENT BOXES** the membership comes with. Sound good?
 
-![yellow2016-207](http://yellowconference.com/wp-content/uploads/2016/12/Yellow2016-207.jpg)
+![yellow2016-207](https://s3.amazonaws.com/yellow-files/blog/2016/12/Yellow2016-207.jpg)
 
 ## 1\. THE EMPOWERMENT BOX
 
@@ -113,7 +113,7 @@ LET'S DIVE IN A BIT DEEPER, SHALL WE?
 
 Let me start off by telling you a bit about the digital resources portion of the membership and what that means...
 
-## ![_mg_1412](http://yellowconference.com/wp-content/uploads/2016/12/MG_1412.jpg)
+## ![_mg_1412](https://s3.amazonaws.com/yellow-files/blog/2016/12/MG_1412.jpg)
 
 ## 2\. THE DIGITAL RESOURCES  
 
@@ -154,7 +154,7 @@ The coolest part is that you get to do it with a community who is supporting you
 * * *
 
 Which brings me to...  
-![yellow2016-442](http://yellowconference.com/wp-content/uploads/2016/12/Yellow2016-442.jpg)
+![yellow2016-442](https://s3.amazonaws.com/yellow-files/blog/2016/12/Yellow2016-442.jpg)
 
 ## 3\. THE COMMUNITY
 
@@ -221,7 +221,7 @@ Community is where we grow, where we learn more about who we are, where we can l
 * * *
 
 [  
-![valeriedenisephotos-62](http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-62.jpg)](http://yellowconference.com/wp-content/uploads/2016/11/ValerieDenisePhotos-62.jpg)
+![valeriedenisephotos-62](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-62.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/11/ValerieDenisePhotos-62.jpg)
 
 ## _Invest in yourself this year._
 
@@ -245,4 +245,4 @@ _Joanna Waterfall_
 
 _Founder of Yellow Co._
 
-[![joannawaterfall](http://yellowconference.com/wp-content/uploads/2016/06/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)
+[![joannawaterfall](https://s3.amazonaws.com/yellow-files/blog/2016/06/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)

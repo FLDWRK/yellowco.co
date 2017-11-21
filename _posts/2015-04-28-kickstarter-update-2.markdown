@@ -7,7 +7,7 @@ categories:
 redirect_from: "/resources/kickstarter-update-2/"
 ---
 
-[![Jku6j2xC9AjRQwqLyYK-zAu9iJCYcZTZeOElvwlKVkE,XI6ae0-Y3_7Ug8wtUjlnzt-8gt6RQI0R5Z5AWY1bVV4](http://yellowconference.com/wp-content/uploads/2015/04/Jku6j2xC9AjRQwqLyYK-zAu9iJCYcZTZeOElvwlKVkEXI6ae0-Y3_7Ug8wtUjlnzt-8gt6RQI0R5Z5AWY1bVV41.jpg)](http://yellowconference.com/wp-content/uploads/2015/04/Jku6j2xC9AjRQwqLyYK-zAu9iJCYcZTZeOElvwlKVkEXI6ae0-Y3_7Ug8wtUjlnzt-8gt6RQI0R5Z5AWY1bVV41.jpg)
+[![Jku6j2xC9AjRQwqLyYK-zAu9iJCYcZTZeOElvwlKVkE,XI6ae0-Y3_7Ug8wtUjlnzt-8gt6RQI0R5Z5AWY1bVV4](https://s3.amazonaws.com/yellow-files/blog/2015/04/Jku6j2xC9AjRQwqLyYK-zAu9iJCYcZTZeOElvwlKVkEXI6ae0-Y3_7Ug8wtUjlnzt-8gt6RQI0R5Z5AWY1bVV41.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/04/Jku6j2xC9AjRQwqLyYK-zAu9iJCYcZTZeOElvwlKVkEXI6ae0-Y3_7Ug8wtUjlnzt-8gt6RQI0R5Z5AWY1bVV41.jpg)
 
 Hey loves!
 

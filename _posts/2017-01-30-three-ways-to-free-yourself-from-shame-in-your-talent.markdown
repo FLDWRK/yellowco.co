@@ -13,7 +13,7 @@ Have you ever felt ashamed of your talent? Like you weren't good enough, like yo
 
 Like many creative and entrepreneurial-minded women, you have probably felt the sting of imposter syndrome before. For me, I have been struggling with it my entire career. As a writer who is paid to think creatively and engage with others through social media, I have often used the fact that I work for others as a way to hide. I never wanted to be in the spotlight and was almost ashamed to accept praise. Because of this, my career and my accomplishments have never really felt like my own.
 
-As this new year started to unfold, I took the time to really evaluate why I feel this way. Why am I constantly trying to deflect praise and accolades and insist that they belong to someone else?[![yellow co. blog: don't be afraid to offer what you have to the world](http://yellowco.co/wp-content/uploads/2017/01/DSC0520.jpg)](http://yellowco.co/wp-content/uploads/2017/01/DSC0520.jpg) There is no simple answer—But what I did discover is that there is a way to start getting over these feelings of inadequacy - and that's to take small steps towards being the pioneer of your own life story, to take pride in the journey, and to _ (gulp!) _ accept that your talent is important, useful and needed.
+As this new year started to unfold, I took the time to really evaluate why I feel this way. Why am I constantly trying to deflect praise and accolades and insist that they belong to someone else?[![yellow co. blog: don't be afraid to offer what you have to the world](https://s3.amazonaws.com/yellow-files/blog/2017/01/DSC0520.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/01/DSC0520.jpg) There is no simple answer—But what I did discover is that there is a way to start getting over these feelings of inadequacy - and that's to take small steps towards being the pioneer of your own life story, to take pride in the journey, and to _ (gulp!) _ accept that your talent is important, useful and needed.
 
 So this year, I am resolving to come out of my shell and start being proud of who I am and what I have to offer. But how do I start?
 
@@ -39,4 +39,4 @@ I encourage you to seek out your own tribe of like-minded individuals who will s
 
 _Photos by [Alandra Michelle](http://www.alandramichelle.com/)_
 
-[![jasminbollman](http://yellowco.co/wp-content/uploads/2017/01/JASMINBOLLMAN.jpg)](https://blog.rebel.com/author/jasmin/)
+[![jasminbollman](https://s3.amazonaws.com/yellow-files/blog/2017/01/JASMINBOLLMAN.jpg)](https://blog.rebel.com/author/jasmin/)

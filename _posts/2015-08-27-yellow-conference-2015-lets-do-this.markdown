@@ -7,7 +7,7 @@ categories:
 redirect_from: "/yellow-2015/3701/"
 ---
 
-[![Yellow 2015!](http://yellowconference.com/wp-content/uploads/2015/08/its-happening_blog.png)](http://yellowconference.com/wp-content/uploads/2015/08/its-happening_blog.png)
+[![Yellow 2015!](https://s3.amazonaws.com/yellow-files/blog/2015/08/its-happening_blog.png)](https://s3.amazonaws.com/yellow-files/blog/2015/08/its-happening_blog.png)
 
 ##### Ladies, the moment we've all been waiting for is finally HERE!
 

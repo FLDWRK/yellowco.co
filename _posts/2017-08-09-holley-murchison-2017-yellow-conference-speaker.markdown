@@ -19,7 +19,7 @@ After starting a business while working part-time and freelancing as a communica
 
 We’re always focused on catalyzing diversity in the spaces and industries that need it most by helping to amplify the voices we don’t hear from enough - from LGBTQ communities and people of color, to women and young people. We curate courses and events, design coaching and training programs, and develop communication and storytelling strategy for companies, schools, artists, and entrepreneurs around the world.  I’m usually dividing my time between business development, curating learning experiences, and special projects.
 
-![MEET HOLLEY MURCHISON: A 2017 YELLOW CONFERENCE SPEAKER](http://yellowco.co/wp-content/uploads/2017/08/CreativeMornings-SF.jpg)
+![MEET HOLLEY MURCHISON: A 2017 YELLOW CONFERENCE SPEAKER](https://s3.amazonaws.com/yellow-files/blog/2017/08/CreativeMornings-SF.jpg)
 
 #### **Who has impacted your life in a profound way?**
 
@@ -33,7 +33,7 @@ HM: Two moments come to mind. The first was moving across the country to the Ba
 
 The second was writing and finishing the manuscript for my book coming out in September, [_Tell Me About Yourself_](http://oratoryglory.com/tmay/). In a climate where we all need to contribute to moving things forward, it’s an action guide with a 6-step process for confidently crafting personal stories and introductions that articulate what you can contribute to the world. Even though I’ve taught the method from the book for three years and coached hundreds of people on how to implement it for themselves, when I made the decision to turn the training into a book, I had to acknowledge how often I deflected and avoided situations where I had to introduce myself. So in writing the book I was able to unravel, find my way through it, and reshape my own story. I gained so much clarity and confidence through the writing, and it gave me a renewed sense of purpose not only for myself but for the book and who we want it to reach.
 
-![MEET HOLLEY MURCHISON: A 2017 YELLOW CONFERENCE SPEAKER](http://yellowco.co/wp-content/uploads/2017/08/Oberlin-College-Residency.jpg)
+![MEET HOLLEY MURCHISON: A 2017 YELLOW CONFERENCE SPEAKER](https://s3.amazonaws.com/yellow-files/blog/2017/08/Oberlin-College-Residency.jpg)
 
 #### **What has been your greatest struggle as an entrepreneur?**
 
@@ -55,4 +55,4 @@ One of my mentors told me a few years ago, “Just make sure your eyes aren’t 
 
 _Photos provided by [Holley Murchison](http://oratoryglory.com/)_
 
-[![Hanna Snyder Bio](http://yellowco.co/wp-content/uploads/2017/04/HANNA-BIO.jpg)](http://hannasnyder.com)
+[![Hanna Snyder Bio](https://s3.amazonaws.com/yellow-files/blog/2017/04/HANNA-BIO.jpg)](http://hannasnyder.com)

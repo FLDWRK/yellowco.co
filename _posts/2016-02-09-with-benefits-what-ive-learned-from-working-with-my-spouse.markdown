@@ -21,7 +21,7 @@ A lot of couples shy away from the idea of being both partners and coworkers, an
 
 In keeping with this theme of husband-wife collaboration, I asked Chris to help me identify a handful of things that we've learned through building both our marriage and our careers together.
 
-## **[![Alyce](http://yellowconference.com/wp-content/uploads/2016/02/Alyce.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/Alyce.jpg)Act Like a Couple and Still Act Professional**
+## **[![Alyce](https://s3.amazonaws.com/yellow-files/blog/2016/02/Alyce.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/02/Alyce.jpg)Act Like a Couple and Still Act Professional**
 
 When Chris and I first began working together, I was very nervous about being seen primarily as “his wife.” I wanted to distinguish myself in the workplace and be _“Alyce, the editor”_ first and foremost. This is still important to me when I’m on the job, but I’ve also relaxed a bit. I used to avoid sitting by him in meetings, or I’d take an intentionally formal tone with him to very clearly define “the line.” But I now recognize that my ease and candor with Chris, when channelled properly, is also one of the reasons we make supportive coworkers. We are gracious brainstormers, we keep each other accountable and on-task, we like each other’s company. So I’ve learned to just be myself — a slightly different, collected, work version of myself, but I don’t stifle my instincts. The truth is, nobody is alarmed if I ask him where our keys are, reference our weekend date or (*gasp*) position my rolling chair a little closer to him than to other people.
 
@@ -29,7 +29,7 @@ There are boundaries, of course — some that might be enforced by a company, bu
 
 > _There are boundaries, of course — some that might be enforced by a company, but most determined by a sense of, well, decency. So we leave the physical displays at home, whether of affection or frustration._
 
-## **[![Chris](http://yellowconference.com/wp-content/uploads/2016/02/Chris.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/Chris.jpg)Limit Working at Home** **—** **But Don****’****t Ban It**
+## **[![Chris](https://s3.amazonaws.com/yellow-files/blog/2016/02/Chris.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/02/Chris.jpg)Limit Working at Home** **—** **But Don****’****t Ban It**
 
 There seems to be this idea that the best way to achieve balance is to be vigilant about keeping your professional life out of your house and within the 9-to-5\. This is impossible for us, for a few reasons: One, our living room often doubles as our office. Two, depending on the day, our jobs feel either gloriously flexible or unnervingly unpredictable. Three, if you’re working hard, there is a good chance tasks will follow you home sometimes.
 
@@ -37,7 +37,7 @@ So, we try to leave some breathing room for when our professional lives inevitab
 
 Here’s a helpful guideline Chris shared on the subject: _“__I try to be aware if there have been consecutive nights where work has taken over. If we__haven__’__t been able to unplug at home for a few evenings, I will usually make a point to__push work tasks off until the next day so we can have time together. Or I at least__communicate when the brief crunch of work will end, as those nightly stints of work__aren__’__t often. I do feel like we manage our work and home life well though, mainly__because we communicate what needs to be done and we both have an understanding__with one another that this isn__’__t going to be something that happens every night.__”_
 
-## **[![Chris and Alyce](http://yellowconference.com/wp-content/uploads/2016/02/Chris-and-Alyce.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/Chris-and-Alyce.jpg)Think Like a Team**
+## **[![Chris and Alyce](https://s3.amazonaws.com/yellow-files/blog/2016/02/Chris-and-Alyce.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/02/Chris-and-Alyce.jpg)Think Like a Team**
 
 Chris and I have each worked with some incredible and talented people, many of whom we count as friends. I think there’s a rare bond that forms with coworkers, and we would never want our own bond to hinder that. _“We try not to appear as an ‘us vs. the rest’ unit when it comes to working with a larger team,”_ Chris says.
 
@@ -51,4 +51,4 @@ _“__There__’__s an understanding of wanting to create great content, regardl
 
 Mutual trust, open communication … coincidentally, things that make a healthy marriage, right? Maybe that’s the bottom line. Though the nature of our human relationships vary, there are virtues that translate well to all of them. Chris and I are learning that satisfaction, in any of our shared endeavors, will depend less on pursuing success for the sake of success and more on valuing honesty and commitment — whether we’re developing a brand, making a home, growing a family or just vegging out on Netflix.
 
-[![ALYCE YOUNGBLOOD](http://yellowconference.com/wp-content/uploads/2016/02/ALYCE-YOUNGBLOOD.jpg)](http://www.alyceyoungblood.com/)
+[![ALYCE YOUNGBLOOD](https://s3.amazonaws.com/yellow-files/blog/2016/02/ALYCE-YOUNGBLOOD.jpg)](http://www.alyceyoungblood.com/)

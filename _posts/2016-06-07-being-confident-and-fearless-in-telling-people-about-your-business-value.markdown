@@ -9,7 +9,7 @@ categories:
 redirect_from: "/advice/being-confident-and-fearless-in-telling-people-about-your-business-value/"
 ---
 
-## [![STAYING STRONG IN SALES: THE YELLOW CO. BLOG](http://yellowconference.com/wp-content/uploads/2016/06/KAT1285.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/KAT1285.jpg)Any endeavor requiring sales can chew you up and spit you out - but being confident and fearless will get you way farther than being timid and wary.
+## [![STAYING STRONG IN SALES: THE YELLOW CO. BLOG](https://s3.amazonaws.com/yellow-files/blog/2016/06/KAT1285.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/06/KAT1285.jpg)Any endeavor requiring sales can chew you up and spit you out - but being confident and fearless will get you way farther than being timid and wary.
 
 There are six key lessons that I have learned that work in any role where sales, business development, consulting, or fundraising are concerned. And let’s be real, ALL jobs have a sales component – whether you’re trying to get a promotion or trying to raise funds, knowing how to tactfully close that deal is everything.
 
@@ -25,7 +25,7 @@ Never leave a conversation without a set expectation for a follow up. That way y
 
 If they say they will follow up, then you can say, “great! If I don’t hear from you by early next week I’ll ping you for a quick chat.”
 
-[![The Yellow Co. Blog: Being Fearless in Sales, Marketing, and Business Development](http://yellowconference.com/wp-content/uploads/2016/06/KAT1323.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/KAT1323.jpg)
+[![The Yellow Co. Blog: Being Fearless in Sales, Marketing, and Business Development](https://s3.amazonaws.com/yellow-files/blog/2016/06/KAT1323.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/06/KAT1323.jpg)
 
 Setting these expectations makes everything seem less aggressive, and less “salesy”.
 
@@ -35,7 +35,7 @@ I have actually asked many company CEO’s what makes their team successful, and
 
 No matter what you’re selling, if you can approach the sale as a friendly and knowledgeable resource as opposed to a ticket seller, you will find yourself becoming indispensable and irresistible.
 
-[![The Yellow Co. Blog: Being fearless in your marketing, sales, and biz development](http://yellowconference.com/wp-content/uploads/2016/06/KAT1291.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/KAT1291.jpg)
+[![The Yellow Co. Blog: Being fearless in your marketing, sales, and biz development](https://s3.amazonaws.com/yellow-files/blog/2016/06/KAT1291.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/06/KAT1291.jpg)
 
 #### Ask for referrals
 
@@ -45,7 +45,7 @@ No matter how many stops you’ve pulled out, you will face rejection. And the f
 
 Being a good sales person means being flexible, patient, and positive. Don’t let people push you off – instead, meet them where they are. I use the acronym ATM. **Acknowledge, Transition, and Message.** Acknowledge where they are, Transition them back to your focus, and Message in a way that makes sense for them.
 
-[![The Yellow Co. Blog: Being Fearless in Sales, Marketing, and Business Development](http://yellowconference.com/wp-content/uploads/2016/06/DSC_1736.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/DSC_1736.jpg)Challenging people’s initial fear and worries is a part of the process, but it’s not an indication of failure – usually you just need people to understand that you get them, and are actually hearing their needs.
+[![The Yellow Co. Blog: Being Fearless in Sales, Marketing, and Business Development](https://s3.amazonaws.com/yellow-files/blog/2016/06/DSC_1736.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/06/DSC_1736.jpg)Challenging people’s initial fear and worries is a part of the process, but it’s not an indication of failure – usually you just need people to understand that you get them, and are actually hearing their needs.
 
 #### Plan your next three moves to make your process seamless
 
@@ -71,4 +71,4 @@ Depending on the type of service, offering, etc. this can go on for a while. Man
 
 _Photos by [Emilie Anne Szabo](http://www.emilieanneszabo.com/)_
 
-[![Baylie](http://yellowconference.com/wp-content/uploads/2016/04/Baylie.jpg)](http://www.abelimpact.com/)
+[![Baylie](https://s3.amazonaws.com/yellow-files/blog/2016/04/Baylie.jpg)](http://www.abelimpact.com/)

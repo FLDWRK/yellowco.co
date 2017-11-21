@@ -19,7 +19,7 @@ So, should we save the world or should we build an empire? The question is a tou
 
 In addition, 2/3 of people won’t even take a job if the company doesn’t have strong social responsibility. The biggest corporations are realizing this. The truth is, they want to hire and need to look desirable to the top candidates. Companies like Google, SalesForce and Nike have entire divisions dedicated to philanthropic work. Other businesses even offer [paid time off for volunteer days](http://fortune.com/2016/03/21/companies-that-offer-paid-time-off-to-volunteer/) . N on-profits aren’t the only ones who should be stepping up to give back. There are plenty of ways to prove that to your company that they should give the space, money, and resources to make it happen.
 
-![3 WAYS TO PERSUADE YOUR EMPLOYER TO GIVE BACK CORPORATELY - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Yellow_2015_Day_1-280.jpg)
+![3 WAYS TO PERSUADE YOUR EMPLOYER TO GIVE BACK CORPORATELY - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/08/Yellow_2015_Day_1-280.jpg)
 
 ### **#1 Show your employers the benefits.**
 
@@ -33,7 +33,7 @@ It’s no surprise that **over half of the top 100 companies to work for [offer 
 
 Some companies even create their very own do-good programs. [Clif Bar](http://www.clifbar.com/article/clif-corps-unleashes-the-people-power-of-clif-bar) is a great example of a company that encourages employees to volunteer, donate, and feed the hungry through “[Clif Corps](http://www.clifbar.com/article/clif-corps-unleashes-the-people-power-of-clif-bar)”, an employee giving and engagement program. Additionally, The [Boston Consulting Group](https://www.bcg.com/en-us/careers/path/consulting/social-impact.aspx) gives high performing employees the opportunity to work on global impact projects through the [“Social Impact Immersion Company”](https://www.bcg.com/en-us/bcg-society/immersion-program.aspx).
 
-![3 WAYS TO PERSUADE YOUR EMPLOYER TO GIVE BACK CORPORATELY - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Yellow_2015_Day_1-278.jpg)
+![3 WAYS TO PERSUADE YOUR EMPLOYER TO GIVE BACK CORPORATELY - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/08/Yellow_2015_Day_1-278.jpg)
 
 ### **#3 Volunteer to create a committee.**
 
@@ -45,4 +45,4 @@ Giving back benefits all parties. We can let go of any tension when it comes to
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
 
-[![Salma Elbarmawi BIO](http://yellowco.co/wp-content/uploads/2017/08/Salma-Elbarmawi-BIO.jpg)](https://thoughtcatalog.com/salma-elbarmawi/)
+[![Salma Elbarmawi BIO](https://s3.amazonaws.com/yellow-files/blog/2017/08/Salma-Elbarmawi-BIO.jpg)](https://thoughtcatalog.com/salma-elbarmawi/)

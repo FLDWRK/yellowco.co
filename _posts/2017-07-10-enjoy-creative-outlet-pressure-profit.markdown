@@ -17,7 +17,7 @@ We are bombarded daily with tweets, photos, and emails blasts telling us that we
 
 About six months ago I decided I wanted to try my hand at weaving. I bought a kit, a ton of yarn, and watched about one million Youtube tutorials. After a few weeks, I was drowning in all of these weavings I had created. I started to think to myself, _"What if I sold them?_ _I have a website, a platform, followers… I could totally sell these."_ By falling into this trap, we can end up exhausting ourselves with yet another business venture. **The truth is, even creatives need a creative outlet.**
 
-![ENJOYING A CREATIVE OUTLET WITHOUT THE PRESSURE OF PROFIT - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/ValerieDenisePhotos-15.jpg "ENJOYING A CREATIVE OUTLET WITHOUT THE PRESSURE OF PROFIT - THE YELLOW ROOM")
+![ENJOYING A CREATIVE OUTLET WITHOUT THE PRESSURE OF PROFIT - THE YELLOW ROOM](https://s3.amazonaws.com/yellow-files/blog/2017/07/ValerieDenisePhotos-15.jpg "ENJOYING A CREATIVE OUTLET WITHOUT THE PRESSURE OF PROFIT - THE YELLOW ROOM")
 
 Yes, writing is therapeutic for me. It’s a release like no other. And while it is incredibly fulfilling, it is also a job. The work is not always all about me and my creativity. There are deadlines, sponsors, contributors, and marketing to consider. So, I need another outlet that is _purely_ creative. Something that I can do just for myself. Something that I love, that makes me feel good, and that I can do without the pressure of making a profit.
 
@@ -35,4 +35,4 @@ When work is so often on the forefront of our minds, it is easy to forget that s
 
 _Photos by: [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![BRIANNA TOWNE BIO](http://yellowco.co/wp-content/uploads/2017/06/BRIANNA-TOWNE-BIO.jpg)](http://lifebybri.com/)
+[![BRIANNA TOWNE BIO](https://s3.amazonaws.com/yellow-files/blog/2017/06/BRIANNA-TOWNE-BIO.jpg)](http://lifebybri.com/)

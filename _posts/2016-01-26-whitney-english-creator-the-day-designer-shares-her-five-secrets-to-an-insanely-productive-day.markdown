@@ -10,8 +10,8 @@ redirect_from: "/creative-ladies/whitney-english-creator-the-day-designer-shares
 ---
 
 [  
-](http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-2.jpg)[![WhitneyEnglishPhoto_large-2](http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-21.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-21.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2016/01/WhitneyEnglishPhoto_large-2-copy.jpg)A truly productive day seems to be the long sought-after and oft-elusive goal of businesswomen, moms, and just generally, humans everywhere _(Please tell me it’s not just me!)._ It’s a state that’s considerably important in my own life; so much so that I’ve devoted my life’s work to creating products that help people gain control of the day-to-day “to-dos” in their lives.
+](https://s3.amazonaws.com/yellow-files/blog/2016/01/WhitneyEnglishPhoto_large-2.jpg)[![WhitneyEnglishPhoto_large-2](https://s3.amazonaws.com/yellow-files/blog/2016/01/WhitneyEnglishPhoto_large-21.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/01/WhitneyEnglishPhoto_large-21.jpg)[  
+](https://s3.amazonaws.com/yellow-files/blog/2016/01/WhitneyEnglishPhoto_large-2-copy.jpg)A truly productive day seems to be the long sought-after and oft-elusive goal of businesswomen, moms, and just generally, humans everywhere _(Please tell me it’s not just me!)._ It’s a state that’s considerably important in my own life; so much so that I’ve devoted my life’s work to creating products that help people gain control of the day-to-day “to-dos” in their lives.
 
 > _It’s a state that’s considerably important in my own life; so much so that I’ve devoted my life’s work to creating products that help people gain control of the day-to-day “to-dos” in their lives._
 
@@ -57,4 +57,4 @@ This might be my favorite tip, no matter the topic: **_Please_** give yourself g
 
 A perfectly productive day might still be a unicorn—at least, for my sake, I hope it is—but I hope you’ll find these tips helpful as you design the day that lets you live (and love) the life you’ve planned.
 
-[![whitneyenglish](http://yellowconference.com/wp-content/uploads/2016/01/whitneyenglish.jpg)](http://whitneyenglish.com/)
+[![whitneyenglish](https://s3.amazonaws.com/yellow-files/blog/2016/01/whitneyenglish.jpg)](http://whitneyenglish.com/)

@@ -7,7 +7,7 @@ categories:
 redirect_from: "/bloomyellow/indtroducing-bloom-gatherings/"
 ---
 
-[![BLOOM_Gathering_blog](http://yellowconference.com/wp-content/uploads/2014/10/BLOOM_Gathering_blog.jpg)](http://yellowconference.com/wp-content/uploads/2014/10/BLOOM_Gathering_blog.jpg)
+[![BLOOM_Gathering_blog](https://s3.amazonaws.com/yellow-files/blog/2014/10/BLOOM_Gathering_blog.jpg)](https://s3.amazonaws.com/yellow-files/blog/2014/10/BLOOM_Gathering_blog.jpg)
 
 Not sure about you, but after Yellow Conference ended, I was craving more time with the dreamers, the creatives, the ones who want to change the world. Because of this, the decision was make to create smaller gatherings where us like-minded ladies can get together, have some time to hang out on a smaller level, and work together on a creative do-good project. Hello Bloom Gatherings!
 

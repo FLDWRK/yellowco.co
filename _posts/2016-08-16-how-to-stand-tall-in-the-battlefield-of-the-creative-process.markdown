@@ -9,8 +9,8 @@ categories:
 redirect_from: "/inspiration/how-to-stand-tall-in-the-battlefield-of-the-creative-process/"
 ---
 
-## _[![HOW TO STAND TALL IN THE BATTLEFIELD OF THE CREATIVE PROCESS](http://yellowconference.com/wp-content/uploads/2016/08/STAND-TALL-BLOG-IMAGE.jpg)](http://yellowconference.com/wp-content/uploads/2016/08/STAND-TALL-BLOG-IMAGE.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2016/08/MG_1911.jpg)I’ve never been face-to-face with a lion..._
+## _[![HOW TO STAND TALL IN THE BATTLEFIELD OF THE CREATIVE PROCESS](https://s3.amazonaws.com/yellow-files/blog/2016/08/STAND-TALL-BLOG-IMAGE.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/08/STAND-TALL-BLOG-IMAGE.jpg)[  
+](https://s3.amazonaws.com/yellow-files/blog/2016/08/MG_1911.jpg)I’ve never been face-to-face with a lion..._
 
 I’ve never faced anything that required very much courage, come to think of it. I’ve never engaged in battle; I haven’t been attacked by gunfire like Jennifer Garner in an old Alias rerun. I haven’t even had to stand up to online bullies or mean girls at school.
 
@@ -18,7 +18,7 @@ It’s easy to see the stories of others who have overcome incredible obstacles 
 
 ## In my lifetime, I’ve had plenty of things I’ve had to overcome, whether or not they seem like giants...
 
-Sometimes the lion is right in front of you, whether or not it’s an actual living, breathing animal. In college, finals week was my little lion. For some, it’s a challenging familial relationship. For others, it’s an anxiety disorder or a physical health battle. Sometimes, just the idea of Tuesday itself can be a lion.[![HOW TO STAND TALL IN THE BATTLEFIELD OF THE CREATIVE PROCESS](http://yellowconference.com/wp-content/uploads/2016/08/MG_1988.jpg)](http://yellowconference.com/wp-content/uploads/2016/08/MG_1988.jpg) _**So when you’re faced with a pretty normal, roaring day, how do you choose to be a woman of valor? For me, it’s in three small steps:**_
+Sometimes the lion is right in front of you, whether or not it’s an actual living, breathing animal. In college, finals week was my little lion. For some, it’s a challenging familial relationship. For others, it’s an anxiety disorder or a physical health battle. Sometimes, just the idea of Tuesday itself can be a lion.[![HOW TO STAND TALL IN THE BATTLEFIELD OF THE CREATIVE PROCESS](https://s3.amazonaws.com/yellow-files/blog/2016/08/MG_1988.jpg)](https://s3.amazonaws.com/yellow-files/blog/2016/08/MG_1988.jpg) _**So when you’re faced with a pretty normal, roaring day, how do you choose to be a woman of valor? For me, it’s in three small steps:**_
 
 **Show Up:** Show up for work (on time). Show up to community events — yes, even if you’re an introvert. Show up for friends and family who need you. Getting over yourself and developing tenacity now will benefit you as it becomes easier with practice.
 
@@ -28,6 +28,6 @@ Sometimes the lion is right in front of you, whether or not it’s an actual liv
 
 _Photos by [Karen Marie Co.](http://karenmarieco.com/) in style collaboration with [Caroline Artime](http://www.carolineartime.com/) _
 
-[![AnaPierce](http://yellowconference.com/wp-content/uploads/2016/05/AnaPierce.jpg)](http://www.shelearnsthings.com/)
+[![AnaPierce](https://s3.amazonaws.com/yellow-files/blog/2016/05/AnaPierce.jpg)](http://www.shelearnsthings.com/)
 
-[![Yellow Co. Email List](http://yellowconference.com/wp-content/uploads/2016/07/EMAIL-LIST.jpg)](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)
+[![Yellow Co. Email List](https://s3.amazonaws.com/yellow-files/blog/2016/07/EMAIL-LIST.jpg)](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)

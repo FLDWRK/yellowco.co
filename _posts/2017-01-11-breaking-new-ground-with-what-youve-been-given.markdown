@@ -8,7 +8,7 @@ categories:
 redirect_from: "/advice/breaking-new-ground-with-what-youve-been-given/"
 ---
 
-## [![untitled-131-of-1234](http://yellowconference.com/wp-content/uploads/2017/01/untitled-131-of-1234.jpg)](http://yellowconference.com/wp-content/uploads/2017/01/untitled-131-of-1234.jpg)_**I've seen a trend.**_
+## [![untitled-131-of-1234](https://s3.amazonaws.com/yellow-files/blog/2017/01/untitled-131-of-1234.jpg)](https://s3.amazonaws.com/yellow-files/blog/2017/01/untitled-131-of-1234.jpg)_**I've seen a trend.**_
 
 Blogs are popping up everywhere. Businesses, non-profits, personal..everyone, everywhere is blogging right now. And there's some good to it, and, there's also some negative aspects to it.
 
@@ -17,12 +17,12 @@ As a writer, I've wrestled with the increase of people using blogs as a way to s
 It feels like people have seen what works for some, and decided to replicate it, over and over again. We see this on social media a ton with slang words being born (like _LIT_), and the perfect filter usage being a daily pressure (just me?).
 
 Branding, as we all know, is essential for our business' growth. I get that. What I don't want us to lose sight of in that growth, however, is ourselves.[  
-](http://yellowconference.com/wp-content/uploads/2017/01/untitled-110-of-1234.jpg)
+](https://s3.amazonaws.com/yellow-files/blog/2017/01/untitled-110-of-1234.jpg)
 
 We were each given specific gifts, strengths, language, styles, personalities, and purpose. If we all continue to replicate what we see working for someone else, we're going to start looking a lot like the Twilight Zone's Stepford Wives.
 
 **Our businesses need us to function out of our strengths.** Our _world _needs us to work out of our strengths. If we are wasting all of our energy trying to copy someone else's natural-born talents, well we are robbing the world of something really great, and that is sad.[  
-](http://yellowconference.com/wp-content/uploads/2017/01/untitled-134-of-1234.jpg)
+](https://s3.amazonaws.com/yellow-files/blog/2017/01/untitled-134-of-1234.jpg)
 
 Here are a few things to remember, next time you're tempted to get down on yourself or copy someone else's abilities:
 
@@ -42,4 +42,4 @@ YOU. Not a fabricated, perfectly styled box of who you are trying to be like, bu
 
 If we are going to be women who are breaking new ground and changing the world, we must start by recognizing what exactly we alone can offer. Starting here will set us up to be the movement makers we are all meant to be, using the gifts we've been given.
 
-[![Sally Rae Kim](http://yellowconference.com/wp-content/uploads/2016/11/Sally-Kim-Bio.jpg)](https://lettersfromamister.com/)
+[![Sally Rae Kim](https://s3.amazonaws.com/yellow-files/blog/2016/11/Sally-Kim-Bio.jpg)](https://lettersfromamister.com/)

@@ -14,6 +14,6 @@ We've made these downloads for you as a little Merry Christmas / Happy Holidays 
 
 We are so darn thankful for each one of you- have an amazing holiday! We love you!
 
-[![Christmas-ipad-Download](http://yellowconference.com/wp-content/uploads/2015/12/Christmas-ipad-Download.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/Christmas-ipad-Download.jpg)[![OnTheGo](http://yellowconference.com/wp-content/uploads/2015/12/OnTheGo.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/OnTheGo.jpg)
+[![Christmas-ipad-Download](https://s3.amazonaws.com/yellow-files/blog/2015/12/Christmas-ipad-Download.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/12/Christmas-ipad-Download.jpg)[![OnTheGo](https://s3.amazonaws.com/yellow-files/blog/2015/12/OnTheGo.jpg)](https://s3.amazonaws.com/yellow-files/blog/2015/12/OnTheGo.jpg)
 
-_Click to download for:_  [Desktop](http://yellowconference.com/wp-content/uploads/2015/12/Christmas-Desktop-Download.jpg) //  [iphone](http://yellowconference.com/wp-content/uploads/2015/12/Christmas-iphone-Download.jpg)  //  [ipad](http://yellowconference.com/wp-content/uploads/2015/12/Christmas-ipad-Download.jpg)
+_Click to download for:_  [Desktop](https://s3.amazonaws.com/yellow-files/blog/2015/12/Christmas-Desktop-Download.jpg) //  [iphone](https://s3.amazonaws.com/yellow-files/blog/2015/12/Christmas-iphone-Download.jpg)  //  [ipad](https://s3.amazonaws.com/yellow-files/blog/2015/12/Christmas-ipad-Download.jpg)

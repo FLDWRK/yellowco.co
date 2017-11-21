@@ -7,7 +7,7 @@ categories:
 redirect_from: "/advice/dont-focus-on-the-destination/"
 ---
 
-[![EMBRACE](http://yellowconference.com/wp-content/uploads/2015/04/EMBRACE.png)](http://yellowconference.com/wp-content/uploads/2015/04/EMBRACE.png)
+[![EMBRACE](https://s3.amazonaws.com/yellow-files/blog/2015/04/EMBRACE.png)](https://s3.amazonaws.com/yellow-files/blog/2015/04/EMBRACE.png)
 
 Thursday. This day can mean many things to many people. For most, Thursday is just a means to an end. Friday, of course, being the end.
 
@@ -27,4 +27,4 @@ So instead of wishing away those pounds every mile of that run, enjoy the journe
 
 So this Thursday, be thankful. Don't wish it away. Life is not about the destination, it's about the journey. Embrace it! And have a good one ladies!
 
-[![Author_Template_Joanna](http://yellowconference.com/wp-content/uploads/2015/01/Author_Template_Joanna.jpg)](https://instagram.com/joannawaterfall/)
+[![Author_Template_Joanna](https://s3.amazonaws.com/yellow-files/blog/2015/01/Author_Template_Joanna.jpg)](https://instagram.com/joannawaterfall/)

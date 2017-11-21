@@ -49,4 +49,4 @@ If you'd like to join one of our chapters and become a Yellow Collective member,
 
 ### [CLICK HERE TO JOIN](http://yellowcollective.co/)
 
-[![JOANNA WATERFALL BIO](http://yellowco.co/wp-content/uploads/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)
+[![JOANNA WATERFALL BIO](https://s3.amazonaws.com/yellow-files/blog/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)
