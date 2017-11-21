@@ -55,7 +55,7 @@ layout: site
     </div>
   </div>
   <div class="row justify-content-center mb-4">
-    <div class="col-12 col-lg-12 col-xl-10 ppx-0">
+    <div class="col-12 col-lg-12 col-xl-10 px-0">
       <div class="card-deck card-deck-blog justify-content-center">
         {% for post in site.posts limit:3 %}
           <div class="card my-2">
@@ -67,6 +67,7 @@ layout: site
             <div class="card-block text-center">
               <h6 class="card-category"><mark>{{ post.categories }}</mark></h6>
               <h2 class="card-title"><a href="{{ post.url }}" class="_no-underline">{{ post.title }}</a></h2>
+              <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
             </div>
           </div>
         {% endfor %}
@@ -88,7 +89,7 @@ layout: site
           <img class="card-img-top img-fluid" src="{{ post.image-thumb }}" alt="{{ post.title }}" data-rjs="2">
           <div class="card-block pl-0">
             <h6 class="card-title">{{ post.title }}</h6>
-            <!-- <p class="card-text">{{ post.excerpt | markdownify | strip_html | strip | newline_to_br }}</p> -->
+            <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
           </div>
         </div>
       </a>

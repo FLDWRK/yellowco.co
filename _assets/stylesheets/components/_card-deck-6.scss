@@ -4,9 +4,14 @@
     padding-left: 0;
     .card-title {
       font-size: 1rem;
+      line-height: 1.5;
       border-bottom: none;
       text-transform: none;
       letter-spacing: 1px;
+    }
+    .card-date {
+      font-family: $font-family-serif;
+      font-size: .9rem;
     }
   }
 }
