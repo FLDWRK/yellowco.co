@@ -1,6 +1,6 @@
 ---
 title: Breaking the Cycle of Negative Self-Talk
-author: hanna@yellowco.co
+author: Abigail Davidson
 date: '2017-09-08 04:00:30 -0700'
 categories:
 - Tension

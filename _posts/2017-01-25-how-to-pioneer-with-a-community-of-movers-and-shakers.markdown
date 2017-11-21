@@ -1,6 +1,6 @@
 ---
 title: How to Build Your Community of Movers and Shakers
-author: heygirl@yellowconference.com
+author: Madison Hedlund
 date: '2017-01-25 04:00:56 -0800'
 categories:
 - Advice

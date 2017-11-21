@@ -1,6 +1,6 @@
 ---
 title: How to Network as an Introvert
-author: hanna@yellowco.co
+author: Jasmin Bollman
 date: '2017-03-01 04:00:19 -0800'
 categories:
 - Advice

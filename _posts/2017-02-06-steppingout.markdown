@@ -1,6 +1,6 @@
 ---
 title: What My Passion for Human Rights Taught Me About Creativity
-author: heygirl@yellowconference.com
+author: Jessica Estrada
 date: '2017-02-06 04:00:28 -0800'
 categories:
 - Creative Ladies

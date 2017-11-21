@@ -1,6 +1,6 @@
 ---
 title: Why Beauty is Found in Healthy Living
-author: hanna@yellowco.co
+author: Jeannie Jarnot
 date: '2017-04-10 04:00:47 -0700'
 categories:
 - Wander

@@ -1,12 +1,11 @@
 ---
 title: Now Open! The Yellow Collective Membership
-author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=7467
+author: Joanna Waterfall
 date: '2016-12-14 04:30:49 -0800'
 categories:
 - "#bloomyellow"
 - Yellow Collective
-redirect_from: "/?p=7467"
+redirect_from: "/bloomyellow/now-open-the-yellow-collective-membership/"
 ---
 
 Joanna Waterfall here (yes, that's my real last name)! I'm the founder of Yellow Co.- and can I take a second to be totally honest with you? Reading that headline above freaks me out. Like, sweaty palms and red face fear.

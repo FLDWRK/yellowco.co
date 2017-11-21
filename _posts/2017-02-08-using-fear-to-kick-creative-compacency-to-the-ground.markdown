@@ -1,6 +1,6 @@
 ---
 title: Using Fear to Kick Complacency to the Curb
-author: heygirl@yellowconference.com
+author: "Kiana St. Louis"
 date: '2017-02-08 04:00:23 -0800'
 categories:
 - The Starter

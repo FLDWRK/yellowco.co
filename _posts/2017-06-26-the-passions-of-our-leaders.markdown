@@ -1,6 +1,6 @@
 ---
 title: The Passions of Our Leaders
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2017-06-26 07:40:51 -0700'
 categories:
 - Wander

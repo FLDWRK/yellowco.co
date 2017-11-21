@@ -1,6 +1,6 @@
 ---
 title: 5 Musts for Bringing Meaning to the In-Between of Entrepreneurship
-author: hanna@yellowco.co
+author: Becky Morquecho
 date: '2017-05-03 04:00:25 -0700'
 categories:
 - Wander

@@ -1,6 +1,6 @@
 ---
 title: Rediscovering My Self Worth in the Midst of Transition
-author: hanna@yellowco.co
+author: Christine Stephens
 date: '2017-08-16 04:00:39 -0700'
 categories:
 - Tension

@@ -1,6 +1,6 @@
 ---
 title: 3 Practices to Get Empowered About Your Mental Health
-author: hanna@yellowco.co
+author: Kristi Triplett
 date: '2017-07-26 04:00:19 -0700'
 categories:
 - Tension

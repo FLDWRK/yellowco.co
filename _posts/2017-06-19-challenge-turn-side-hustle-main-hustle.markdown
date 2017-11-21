@@ -1,6 +1,6 @@
 ---
 title: 'Challenge: Turn Side Hustle into Main Hustle'
-author: heygirl@yellowconference.com
+author: Rachel Neal
 date: '2017-06-19 11:01:23 -0700'
 categories:
 - Wander

@@ -1,6 +1,6 @@
 ---
 title: Five Ways to Build Your Dream Business While Working a Day Job
-author: hanna@yellowco.co
+author: Jessica Whalen
 date: '2017-04-07 04:00:16 -0700'
 categories:
 - Wander

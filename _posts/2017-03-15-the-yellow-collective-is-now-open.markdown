@@ -1,6 +1,6 @@
 ---
 title: The Yellow Collective is Now Open!
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2017-03-15 04:00:41 -0700'
 categories:
 - Pioneer

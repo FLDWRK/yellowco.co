@@ -1,6 +1,6 @@
 ---
 title: Turning Your Daily Habits into Financial Freedom (and Enjoying it)
-author: hanna@yellowco.co
+author: Emily Schrems
 date: '2017-08-07 04:00:18 -0700'
 categories:
 - Tension

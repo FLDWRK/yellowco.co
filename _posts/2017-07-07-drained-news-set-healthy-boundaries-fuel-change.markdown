@@ -1,6 +1,6 @@
 ---
 title: Drained by the News? Why Setting Healthy Boundaries Actually Fuels Change
-author: hanna@yellowco.co
+author: Amy Everhart
 date: '2017-07-07 04:00:40 -0700'
 categories:
 - Tension

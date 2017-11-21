@@ -1,6 +1,6 @@
 ---
 title: 'How to Navigate Legalities: a Breakdown of Your What Your Website Needs'
-author: hanna@yellowco.co
+author: Wilkinson Mazzeo
 date: '2017-04-17 04:00:14 -0700'
 categories:
 - Wander

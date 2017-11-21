@@ -1,6 +1,6 @@
 ---
 title: Uniting Passions and Breaking New Ground Along the Way
-author: hanna@yellowco.co
+author: Danielle Calhoun
 date: '2017-03-10 04:00:37 -0800'
 categories:
 - Creative Ladies

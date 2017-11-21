@@ -1,7 +1,6 @@
 ---
-title: Your Guide to Getting the Most Out of Yellow Conference 2017 (Even if You're
-  an Introvert!)
-author: heygirl@yellowconference.com
+title: "Your Guide to Getting the Most Out of Yellow Conference 2017 (Even if You're an Introvert!)"
+author: Joanna Waterfall
 date: '2017-06-28 04:06:43 -0700'
 categories:
 - Wander

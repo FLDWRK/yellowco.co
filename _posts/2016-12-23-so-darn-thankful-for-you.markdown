@@ -1,6 +1,6 @@
 ---
 title: So Darn Thankful for You.
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2016-12-23 04:00:42 -0800'
 categories:
 - "#bloomyellow"

@@ -1,6 +1,6 @@
 ---
 title: Alex Michael May's Advice on Becoming Body Positive
-author: hanna@yellowco.co
+author: Emily Schrems
 date: '2017-10-06 04:00:39 -0700'
 categories:
 - Come Together

@@ -1,6 +1,6 @@
 ---
 title: Creating Balance When Your Business Partner is Also Your Life Partner
-author: hanna@yellowco.co
+author: Jessica Whalen
 date: '2017-09-25 04:00:59 -0700'
 categories:
 - Tension

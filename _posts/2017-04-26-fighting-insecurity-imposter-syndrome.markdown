@@ -1,6 +1,6 @@
 ---
 title: Fighting the Insecurities of Imposter Syndrome
-author: hanna@yellowco.co
+author: Amy Everhart
 date: '2017-04-26 04:00:30 -0700'
 categories:
 - Wander

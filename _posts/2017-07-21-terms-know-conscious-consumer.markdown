@@ -1,6 +1,6 @@
 ---
 title: 10 Terms to Know to Become a Conscious Consumer
-author: hanna@yellowco.co
+author: Bailey Van Tassel
 date: '2017-07-21 04:00:17 -0700'
 categories:
 - Tension

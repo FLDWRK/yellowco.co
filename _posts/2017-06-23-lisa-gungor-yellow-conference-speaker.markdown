@@ -1,6 +1,6 @@
 ---
 title: 'Meet Lisa Gungor: One of Our 2017 Conference Speakers'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-06-23 04:00:10 -0700'
 categories:
 - Wander

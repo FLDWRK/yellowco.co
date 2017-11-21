@@ -1,6 +1,6 @@
 ---
 title: Game-Changing Tips to Transform How You View Constructive Feedback
-author: hanna@yellowco.co
+author: Emily Schrems
 date: '2017-10-18 04:00:02 -0700'
 categories:
 - Come Together

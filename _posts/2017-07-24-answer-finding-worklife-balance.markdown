@@ -1,6 +1,6 @@
 ---
 title: Why You are the Answer to Finding Your Work/Life Balance
-author: hanna@yellowco.co
+author: Amy Everhart
 date: '2017-07-24 04:00:00 -0700'
 categories:
 - Tension

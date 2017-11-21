@@ -1,6 +1,6 @@
 ---
 title: These 4 Little Words are the Key to a Happy Business Partnership
-author: hanna@yellowco.co
+author: Emily Wilkinson
 date: '2017-08-18 04:00:07 -0700'
 categories:
 - Tension

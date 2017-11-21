@@ -1,6 +1,6 @@
 ---
 title: How to Make Space for Creativity
-author: heygirl@yellowconference.com
+author: Sarah Schulweis
 wordpress_url: http://yellowco.co/?p=7832
 date: '2017-02-03 04:00:08 -0800'
 categories:

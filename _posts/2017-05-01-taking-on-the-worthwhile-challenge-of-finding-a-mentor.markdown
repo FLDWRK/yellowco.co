@@ -1,6 +1,6 @@
 ---
 title: Taking on the Worthwhile Challenge of Finding a Mentor
-author: hanna@yellowco.co
+author: Kristi Triplett
 date: '2017-05-01 04:00:36 -0700'
 categories:
 - Wander

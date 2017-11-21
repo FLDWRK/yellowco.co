@@ -1,6 +1,6 @@
 ---
 title: For the Benefit of Humankind
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-08-28 04:00:19 -0700'
 categories:
 - Tension
