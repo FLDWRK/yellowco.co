@@ -1,6 +1,6 @@
 ---
 title: Why Investing in Your Audience is Crucial for Your Brand
-author: heygirl@yellowconference.com
+author: Jessica Howell
 date: '2015-11-03 04:00:05 -0800'
 categories:
 - Resources

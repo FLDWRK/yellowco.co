@@ -1,6 +1,6 @@
 ---
 title: 'Thoughts on the Fourteenth: As a Newlywed'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-02-10 04:00:54 -0800'
 categories:
 - Light Talk

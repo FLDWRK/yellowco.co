@@ -1,6 +1,6 @@
 ---
 title: Why We Chose DTLA for Yellow Conference 2016
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2016-06-12 04:00:45 -0700'
 categories:
 - Creative Ladies

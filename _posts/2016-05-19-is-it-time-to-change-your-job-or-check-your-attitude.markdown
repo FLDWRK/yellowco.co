@@ -1,6 +1,6 @@
 ---
 title: Is it Time to Change Your Job or Your Attitude?
-author: heygirl@yellowconference.com
+author: Ana Pierce
 date: '2016-05-19 04:00:54 -0700'
 categories:
 - Creative Ladies

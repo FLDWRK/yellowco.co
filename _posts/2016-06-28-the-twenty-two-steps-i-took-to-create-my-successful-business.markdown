@@ -1,6 +1,6 @@
 ---
 title: The Twenty-Two Steps I Took to Create My Successful Business
-author: heygirl@yellowconference.com
+author: Nicole Andreini
 date: '2016-06-28 04:00:09 -0700'
 categories:
 - Creative Ladies

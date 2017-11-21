@@ -1,6 +1,6 @@
 ---
 title: How to Be a Relatable Leader
-author: heygirl@yellowconference.com
+author: Samantha Chaffin
 date: '2015-11-12 04:00:43 -0800'
 categories:
 - Creative Ladies

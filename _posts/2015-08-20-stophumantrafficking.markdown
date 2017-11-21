@@ -1,6 +1,6 @@
 ---
 title: 10 Realistic Ways You Can Start Fighting Modern Day Slavery Now
-author: heygirl@yellowconference.com
+author: Abigail Driscoll
 date: '2015-08-20 04:00:03 -0700'
 categories:
 - Creative Ladies

@@ -1,6 +1,6 @@
 ---
 title: "How to Know When It's Time to Go Against the Grain and Follow Your Dream"
-author: heygirl@yellowconference.com
+author: Ashley Berry
 date: '2016-06-09 04:00:59 -0700'
 categories:
 - Advice

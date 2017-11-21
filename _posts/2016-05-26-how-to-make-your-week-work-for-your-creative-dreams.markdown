@@ -1,6 +1,6 @@
 ---
 title: How to Make Time for Your Creative Dreams
-author: heygirl@yellowconference.com
+author: Heidi Burkey
 date: '2016-05-26 04:00:20 -0700'
 categories:
 - Advice

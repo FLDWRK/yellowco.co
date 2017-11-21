@@ -1,6 +1,6 @@
 ---
 title: "With Benefits: What I've Learned from Working with My Spouse"
-author: heygirl@yellowconference.com
+author: Alyce Youngblood
 date: '2016-02-09 04:00:49 -0800'
 categories:
 - Advice

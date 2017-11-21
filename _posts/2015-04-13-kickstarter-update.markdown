@@ -1,6 +1,6 @@
 ---
 title: Kickstarter Update
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2015-04-13 22:55:19 -0700'
 categories:
 - Resources

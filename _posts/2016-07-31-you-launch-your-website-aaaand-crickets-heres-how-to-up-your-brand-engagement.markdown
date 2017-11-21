@@ -1,7 +1,6 @@
 ---
-title: You Launch Your Website... ...AAAAND Crickets... Here's How to Up Your Brand
-  Engagement
-author: heygirl@yellowconference.com
+title: You Launch Your Website... ...AAAAND Crickets... Here's How to Up Your Brand Engagement
+author: Joanna Waterfall
 date: '2016-07-31 04:11:00 -0700'
 categories:
 - Advice

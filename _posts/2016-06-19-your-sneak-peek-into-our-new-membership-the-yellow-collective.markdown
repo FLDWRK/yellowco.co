@@ -1,6 +1,6 @@
 ---
 title: 'Your Sneak-Peek Into Our New Membership: the Yellow Collective'
-author: heygirl@yellowconference.com
+author: Rachel Neal
 date: '2016-06-19 04:00:58 -0700'
 categories:
 - Light Talk

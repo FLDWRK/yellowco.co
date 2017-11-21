@@ -1,6 +1,6 @@
 ---
 title: Community and Self Care-What Do They Have to Do With Each Other?
-author: heygirl@yellowconference.com
+author: Michelle Houghton
 date: '2016-03-17 04:00:01 -0700'
 categories:
 - Advice

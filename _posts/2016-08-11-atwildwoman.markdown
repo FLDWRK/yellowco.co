@@ -1,6 +1,6 @@
 ---
 title: Why You Don't Need a Man to Travel Alone
-author: heygirl@yellowconference.com
+author: Amanda Sandlin
 date: '2016-08-11 04:00:07 -0700'
 categories:
 - Creative Ladies

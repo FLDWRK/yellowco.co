@@ -1,6 +1,6 @@
 ---
 title: What I Learned from a Fifth Grade Girl with Grit
-author: heygirl@yellowconference.com
+author: Lindsay Byers-Mirth
 date: '2016-04-07 04:00:56 -0700'
 categories:
 - Creative Ladies

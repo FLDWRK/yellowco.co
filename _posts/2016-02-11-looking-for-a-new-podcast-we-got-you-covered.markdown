@@ -1,6 +1,6 @@
 ---
 title: Looking for a New Podcast for Your Commute? We've Got You Covered.
-author: heygirl@yellowconference.com
+author: Lauren Francis
 date: '2016-02-11 04:00:14 -0800'
 categories:
 - Light Talk

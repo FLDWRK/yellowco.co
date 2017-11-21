@@ -1,6 +1,6 @@
 ---
 title: "Mother's Day: Why We Must Remember That It's Complicated"
-author: 
+author: Sally Kim
 date: '2015-05-05 04:00:27 -0700'
 categories:
 - Advice

@@ -1,6 +1,6 @@
 ---
 title: Why Great Branding is Non-negotiable for Your Organization (if You Want to Change the World)
-author: heygirl@yellowconference.com
+author: Vik Harrison
 date: '2015-07-28 04:00:38 -0700'
 categories:
 - Creative Ladies

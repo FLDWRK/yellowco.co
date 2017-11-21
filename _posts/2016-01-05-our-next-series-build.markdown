@@ -1,6 +1,6 @@
 ---
 title: 'Our Next Series: Build + a Worksheet'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2016-01-05 04:00:32 -0800'
 categories:
 - Resources

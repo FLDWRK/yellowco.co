@@ -1,6 +1,6 @@
 ---
 title: Three Practical Steps to Conquering the "Comparison Monster" Once and For All
-author: heygirl@yellowconference.com
+author: Kennesha Bucks
 date: '2015-12-17 04:00:26 -0800'
 categories:
 - Creative Ladies

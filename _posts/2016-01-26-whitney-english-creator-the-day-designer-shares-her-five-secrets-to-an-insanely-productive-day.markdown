@@ -1,6 +1,6 @@
 ---
 title: How I Design an Insanely Productive Day, a Guest Post by Whitney English
-author: heygirl@yellowconference.com
+author: Whitney English
 date: '2016-01-26 04:00:20 -0800'
 categories:
 - Creative Ladies

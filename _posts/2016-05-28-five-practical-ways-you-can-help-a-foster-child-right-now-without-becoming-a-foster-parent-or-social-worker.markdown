@@ -1,7 +1,6 @@
 ---
-title: Five Practical Ways You Can Help a Foster Child Right Now (Without Becoming
-  a Foster Parent or Social Worker)
-author: heygirl@yellowconference.com
+title: Five Practical Ways You Can Help a Foster Child Right Now (Without Becoming a Foster Parent or Social Worker)
+author: Sally Kim
 date: '2016-05-28 04:00:33 -0700'
 categories:
 - Advice

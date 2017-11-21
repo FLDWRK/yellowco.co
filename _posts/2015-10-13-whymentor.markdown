@@ -1,6 +1,6 @@
 ---
 title: Want to Be a Mentor? Here's How to Make it Happen.
-author: heygirl@yellowconference.com
+author: Esther Oh
 date: '2015-10-13 04:00:11 -0700'
 categories:
 - Light Talk

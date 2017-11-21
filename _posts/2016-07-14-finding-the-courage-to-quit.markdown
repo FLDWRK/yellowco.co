@@ -1,6 +1,6 @@
 ---
 title: Finding the Courage to Quit
-author: heygirl@yellowconference.com
+author: Brianna Towne
 date: '2016-07-14 04:00:11 -0700'
 categories:
 - Advice

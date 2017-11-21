@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: Tell Her, Darling... We Are Already Whole.'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2015-02-05 04:00:59 -0800'
 categories:
 - Creative Ladies

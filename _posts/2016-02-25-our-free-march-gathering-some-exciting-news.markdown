@@ -1,6 +1,6 @@
 ---
 title: Our (Free) March Gathering & Some Exciting News!!
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2016-02-25 04:07:18 -0800'
 categories:
 - Yellow Collective

@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: 5 Books You Should Read to Ignite Authentic Living'
-author: heygirl@yellowconference.com
+author: Abigail Driscoll
 date: '2015-03-26 04:00:24 -0700'
 categories:
 - Light Talk

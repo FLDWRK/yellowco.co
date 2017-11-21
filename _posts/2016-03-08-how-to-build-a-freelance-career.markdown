@@ -1,6 +1,6 @@
 ---
 title: Dreaming About Becoming a Freelancer? Don't Miss These Eight Steps
-author: heygirl@yellowconference.com
+author: Hilary Sutton
 date: '2016-03-08 04:00:48 -0800'
 categories:
 - Advice

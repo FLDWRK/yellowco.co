@@ -1,6 +1,6 @@
 ---
 title: Being an Activist is Easier Than You Think...
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-07-21 04:00:30 -0700'
 categories:
 - Light Talk

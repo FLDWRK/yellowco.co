@@ -1,6 +1,6 @@
 ---
 title: How to Run a Successful Business Without Losing Sight of What Matters Most
-author: heygirl@yellowconference.com
+author: Alee Anderson
 date: '2016-03-03 04:00:55 -0800'
 categories:
 - Creative Ladies

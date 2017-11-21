@@ -1,6 +1,6 @@
 ---
 title: Is Social Anxiety Wearing You Down? This Story's for You.
-author: heygirl@yellowconference.com
+author: Brianna Towne
 date: '2015-12-10 04:00:37 -0800'
 categories:
 - Creative Ladies

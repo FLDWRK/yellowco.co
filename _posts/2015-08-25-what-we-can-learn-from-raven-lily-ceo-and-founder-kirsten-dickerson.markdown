@@ -1,6 +1,6 @@
 ---
 title: Necessary Lessons from Raven + Lily CEO and Founder Kirsten Dickerson
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-08-25 04:00:36 -0700'
 categories:
 - Creative Ladies

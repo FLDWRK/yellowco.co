@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: 5 Down to Earth Instagram Accounts to Follow'
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2015-01-22 04:00:42 -0800'
 categories:
 - Inspiration

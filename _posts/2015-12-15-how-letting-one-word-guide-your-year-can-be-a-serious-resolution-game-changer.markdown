@@ -1,6 +1,6 @@
 ---
 title: How Will You Define 2016?
-author: heygirl@yellowconference.com
+author: Rachel Dawson
 date: '2015-12-15 04:00:04 -0800'
 categories:
 - Resources
