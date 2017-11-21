@@ -1,5 +1,5 @@
 ---
-title: How to Bring More Purpose into Your Everyday Life
+title: "How to Bring More Purpose Into Your Everyday Life"
 author: heygirl@yellowconference.com
 date: '2016-06-16 04:00:26 -0700'
 categories:

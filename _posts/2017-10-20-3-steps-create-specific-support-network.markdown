@@ -5,9 +5,13 @@ date: '2017-10-20 04:00:16 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/3-steps-create-specific-support-network/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
 ### One of the richest pieces of the human experience is watching individuals come together to console, comfort, advise, and champion one another.
+
+<!-- more -->
 
 Both giving and receiving support from others creates an opportunity to be selfless, and to connect more deeply with the experiences of those around us. It broadens our horizons, and encourages growth on all fronts - so why aren’t more of us taking advantage of this? As the CEO of [The Well Supported Woman](http://thewellsupportedwoman.com/), a life coaching and personal development hub for millennial women, this is a conversation that I have with my clients all the time.
 

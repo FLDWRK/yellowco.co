@@ -1,13 +1,12 @@
 ---
 title: Living Your Life with Your Legacy in Mind, No Matter What Your Past Holds
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=7310
 date: '2016-12-19 04:00:29 -0800'
 categories:
 - Creative Ladies
 - Inspiration
 - Heart
-redirect_from: ""
+redirect_from: "/creative-ladies/living-your-life-with-your-legacy-in-mind-no-matter-what-your-past-holds/"
 ---
 
 ## [![valeriedenisephotos9of64](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos9of64.jpg)](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos9of64.jpg)I don't share much about my childhood. It's sometimes a relief to have such a distracting present-_Oh, you're a mom of five?! What! _-this is how many conversations go, and I don't mind the diversion.

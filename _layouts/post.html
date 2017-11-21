@@ -1,11 +1,14 @@
 ---
-layout: site
+layout: page
 ---
 
-<div class="container mb-3">
-  <div class="row">
-    <div class="col-12">
-      {{ content }}
-    </div>
+<section class="story">
+  <img {{ page.image | image_src }} class="{{ 'story-img img-fluid mb-4' | image_class }}">
+  <header class="story-header">
+    <h2 class="story-title">{{ page.title }}</h2>
+  </header>
+  <div class="story-text">
+    {{ content }}
   </div>
-</div>
+  {% include share-post.html %}
+</section>

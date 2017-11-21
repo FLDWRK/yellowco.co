@@ -5,6 +5,8 @@ date: '2017-10-13 04:00:39 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/do-good-products-cozy-fall/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
 Ahh, fall. It’s finally here! There is so much to love about it — the crisp air, the chunky sweaters, the pumpkin spice lattes. I love the feeling of fall and the way in which people tend to gather more to make the cooler weather cozier. And while the turning leaves seem to indicate the end of a life cycle for foliage, I’ve always associated fall with a new beginning; a time for re-invention or reflection. Part of that feeling always includes an urge to refresh my wardrobe with a few new pieces, change up my skin care routine, or update my home décor. So I’ve gathered up my favorite fall finds that make a difference — all pieces are from charitable, fair-trade, or socially conscious companies that make a positive impact.
