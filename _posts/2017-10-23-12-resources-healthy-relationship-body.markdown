@@ -1,7 +1,7 @@
 ---
 title: 12 Resources in Intuitive Eating + Having a Healthy Relationship With Your
   Body
-author: hanna@yellowco.co
+author: Laura Cash
 date: '2017-10-23 04:00:41 -0700'
 categories:
 - Come Together

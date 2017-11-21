@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to Wander: Our Next Series'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-04-03 04:00:22 -0700'
 categories:
 - Wander

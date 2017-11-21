@@ -1,6 +1,6 @@
 ---
-title: 'Announcement: the Yellow Collective Membership Opens Up Next Week!'
-author: heygirl@yellowconference.com
+title: "Announcement: the Yellow Collective Membership Opens Up Next Week!"
+author: Joanna Waterfall
 date: '2017-03-06 04:15:29 -0800'
 categories:
 - Pioneer

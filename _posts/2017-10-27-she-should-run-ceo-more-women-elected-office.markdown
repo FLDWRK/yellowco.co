@@ -1,6 +1,6 @@
 ---
 title: "She Should Run CEO Shares How You Can Get More Women in Office"
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-10-27 04:00:47 -0700'
 categories:
 - Come Together

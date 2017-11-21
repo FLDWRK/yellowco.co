@@ -1,6 +1,6 @@
 ---
 title: Finding Peace in Losing Control
-author: hanna@yellowco.co
+author: Kristi Porter
 date: '2017-08-11 04:00:08 -0700'
 categories:
 - Tension

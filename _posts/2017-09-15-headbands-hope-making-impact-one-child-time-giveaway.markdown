@@ -1,6 +1,6 @@
 ---
 title: 'Headbands of Hope: Making an Impact One Child at a Time (& a Giveaway!)'
-author: hanna@yellowco.co
+author: Jess Ekstrom
 date: '2017-09-15 04:00:44 -0700'
 categories:
 - Tension

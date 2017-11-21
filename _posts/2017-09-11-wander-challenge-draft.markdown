@@ -1,6 +1,6 @@
 ---
 title: How One Simple Challenge Spontaneously Landed Me in Cuba
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-09-11 04:00:19 -0700'
 categories:
 - Tension

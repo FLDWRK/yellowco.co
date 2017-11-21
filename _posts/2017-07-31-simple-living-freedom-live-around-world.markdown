@@ -1,6 +1,6 @@
 ---
 title: How Simple Living Freed Me to Live Around the World
-author: hanna@yellowco.co
+author: Elisabetta Colabianchi
 date: '2017-07-31 04:00:24 -0700'
 categories:
 - Tension

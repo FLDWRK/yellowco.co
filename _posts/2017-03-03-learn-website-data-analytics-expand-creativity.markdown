@@ -1,7 +1,6 @@
 ---
-title: How to Use Your Website Analytics to Expand Your Impact<br></br>(+  a Workbook
-  Download)
-author: hanna@yellowco.co
+title: "How to Use Your Website Analytics to Expand Your Impact"
+author: Cinthia Pacheco
 date: '2017-03-03 04:00:09 -0800'
 categories:
 - Resources

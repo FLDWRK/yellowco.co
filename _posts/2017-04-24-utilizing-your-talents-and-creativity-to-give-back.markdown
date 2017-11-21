@@ -1,6 +1,6 @@
 ---
 title: Utilizing Your Talents and Creativity to Give Back
-author: hanna@yellowco.co
+author: Jasmin Bollman
 date: '2017-04-24 04:00:55 -0700'
 categories:
 - Wander

@@ -1,6 +1,6 @@
 ---
 title: Why Self Care is Not Weak
-author: heygirl@yellowconference.com
+author: Ashley Berry
 date: '2017-02-01 04:00:19 -0800'
 categories:
 - Advice

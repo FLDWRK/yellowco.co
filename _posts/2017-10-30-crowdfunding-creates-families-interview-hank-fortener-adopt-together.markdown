@@ -1,5 +1,5 @@
 ---
-title: 'How Crowdfunding Creates Families: Interview with World Adoption Day Founder'
+title: "How Crowdfunding Creates Families: Interview with World Adoption Day Founder"
 author: Hanna Snyder
 date: '2017-10-30 04:00:43 -0700'
 categories:

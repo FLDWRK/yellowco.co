@@ -1,13 +1,12 @@
 ---
 title: How to Dress in a Way that Boosts Your Productivity
-author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=7450
+author: Amy Harris
 date: '2016-12-12 04:00:26 -0800'
 categories:
 - Creative Ladies
 - Advice
 - Heart
-redirect_from: "/?mailpoet_page=subscriptions"
+redirect_from: "/creative-ladies/how-to-dress-in-a-way-that-boots-your-productivity/"
 ---
 
 [![9602307_orig](https://yellow-blog-images.imgix.net/2016/12/9602307_orig.jpg)](https://yellow-blog-images.imgix.net/2016/12/9602307_orig.jpg)Finding a balance between work and life can be challenging. Especially because  jobs are starting  to appease employee demands for remote working options and flexibility. Job seekers are looking for something that gives them more freedom and value for their work instead of their time, and jobs that enhance their personal lives. Who wouldn’t want that? But after working remotely for over a year, I have found it very challenging.

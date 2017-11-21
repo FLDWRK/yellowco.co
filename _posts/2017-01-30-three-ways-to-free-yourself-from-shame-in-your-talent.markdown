@@ -1,6 +1,6 @@
 ---
 title: Three Ways to Free Yourself from Feeling Shame in Your Talent
-author: heygirl@yellowconference.com
+author: Jasmin Bollman
 date: '2017-01-30 04:00:23 -0800'
 categories:
 - Advice

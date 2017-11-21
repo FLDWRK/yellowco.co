@@ -1,6 +1,6 @@
 ---
 title: 'Come Together: October Series'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-10-02 04:00:20 -0700'
 categories:
 - Come Together

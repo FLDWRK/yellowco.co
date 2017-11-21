@@ -1,6 +1,6 @@
 ---
 title: Letting Your Intuition Lead You Through the Indecision of What to Do Next
-author: hanna@yellowco.co
+author: Kaye Namba
 date: '2017-04-28 04:00:58 -0700'
 categories:
 - Wander

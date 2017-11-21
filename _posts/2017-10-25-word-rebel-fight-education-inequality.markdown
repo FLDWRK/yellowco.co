@@ -1,6 +1,6 @@
 ---
 title: 'Why Words Are the #1 Way to Fight Education Inequality'
-author: hanna@yellowco.co
+author: Jackie Viramontez
 date: '2017-10-25 04:00:14 -0700'
 categories:
 - Come Together

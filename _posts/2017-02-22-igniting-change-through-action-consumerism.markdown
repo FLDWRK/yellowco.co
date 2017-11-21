@@ -1,6 +1,6 @@
 ---
 title: Igniting Change through Our Daily Actions
-author: hanna@yellowco.co
+author: Henah Parikh
 date: '2017-02-22 04:00:07 -0800'
 categories:
 - Interviews

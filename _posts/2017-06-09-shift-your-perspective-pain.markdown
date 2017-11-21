@@ -1,6 +1,6 @@
 ---
 title: Where Shifting Your Perspective on Pain Can Lead You
-author: hanna@yellowco.co
+author: Abigail Davidson
 date: '2017-06-09 04:00:21 -0700'
 categories:
 - Wander

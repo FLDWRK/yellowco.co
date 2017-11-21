@@ -1,6 +1,6 @@
 ---
 title: 3 Steps to Calm Financial Anxiety When Taking a Risk
-author: hanna@yellowco.co
+author: Myasi Jackson
 date: '2017-09-22 04:00:47 -0700'
 categories:
 - Tension

@@ -1,6 +1,6 @@
 ---
 title: What I Learned About Being a Pioneer After a Plane Ride Regret-Fest
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2017-03-31 04:00:10 -0700'
 categories:
 - Pioneer

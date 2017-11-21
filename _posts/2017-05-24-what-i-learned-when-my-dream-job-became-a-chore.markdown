@@ -1,6 +1,6 @@
 ---
 title: What I Learned When My Dream Job Became a Chore
-author: hanna@yellowco.co
+author: Christine Stephens
 date: '2017-05-24 04:00:07 -0700'
 categories:
 - Wander

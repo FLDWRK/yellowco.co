@@ -1,7 +1,7 @@
 ---
 title: 'Bringing Social Impact to Everyday, One Brush at a Time: an Interview with
   Bogobrush'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-08-23 04:00:31 -0700'
 categories:
 - Tension

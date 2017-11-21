@@ -1,6 +1,6 @@
 ---
 title: 'My Present Journey: Experiencing Yellow 2017'
-author: hanna@yellowco.co
+author: Jill Arbini
 date: '2017-09-01 04:00:24 -0700'
 categories:
 - Tension
