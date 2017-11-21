@@ -1,6 +1,6 @@
 ---
 title: March Bloom Gathering Recap
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2015-03-31 04:00:52 -0700'
 categories:
 - Light Talk

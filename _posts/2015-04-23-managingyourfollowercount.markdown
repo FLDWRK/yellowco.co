@@ -1,6 +1,6 @@
 ---
 title: Is Your Social Media Follower Count Managing You?
-author: heygirl@yellowconference.com
+author: Elizabeth Fein
 date: '2015-04-23 04:00:11 -0700'
 categories:
 - Light Talk

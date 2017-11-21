@@ -1,6 +1,6 @@
 ---
 title: 'We Were Not Created to Be Just Skin: A Poem on Race'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2016-07-12 04:00:10 -0700'
 categories:
 - Creative Ladies

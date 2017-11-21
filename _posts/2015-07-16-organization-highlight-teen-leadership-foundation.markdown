@@ -1,6 +1,6 @@
 ---
 title: 'Working with Foster Teens | Organization Highlight: Teen Leadership Foundation'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-07-16 04:00:11 -0700'
 categories:
 - Creative Advocacy

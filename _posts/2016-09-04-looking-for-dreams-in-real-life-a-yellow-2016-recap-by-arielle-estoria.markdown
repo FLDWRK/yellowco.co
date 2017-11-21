@@ -1,7 +1,7 @@
 ---
 title: Looking for Dreams in Real Life  //  A Yellow 2016 Recap by Arielle
   Estoria
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2016-09-04 15:47:50 -0700'
 categories:
 - "#bloomyellow"

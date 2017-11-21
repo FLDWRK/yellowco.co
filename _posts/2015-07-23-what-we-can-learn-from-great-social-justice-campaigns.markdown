@@ -1,6 +1,6 @@
 ---
 title: What We Can Learn from Social Change Campaigns
-author: heygirl@yellowconference.com
+author: Sarah Heyl
 date: '2015-07-23 15:29:16 -0700'
 categories:
 - Light Talk

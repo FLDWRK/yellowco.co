@@ -1,6 +1,6 @@
 ---
 title: Seeing the Diamonds in Your Struggles
-author: heygirl@yellowconference.com
+author: Elizabeth Fein
 date: '2015-11-10 03:00:37 -0800'
 categories:
 - Creative Ladies

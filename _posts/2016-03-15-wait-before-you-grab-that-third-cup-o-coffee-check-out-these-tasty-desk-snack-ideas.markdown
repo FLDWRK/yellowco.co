@@ -1,7 +1,7 @@
 ---
 title: Wait! Before You Grab that Third Cup O' Coffee...Check Out These Tasty (and
   Healthy) Desk Snack Ideas...
-author: heygirl@yellowconference.com
+author: Lauren Cash
 date: '2016-03-15 04:00:27 -0700'
 categories:
 - Light Talk

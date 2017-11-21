@@ -1,6 +1,6 @@
 ---
 title: How I Accidentally Developed a Practice of Achieving Goals
-author: heygirl@yellowconference.com
+author: Krysta Masciale
 date: '2015-06-11 04:00:03 -0700'
 categories:
 - Creative Ladies

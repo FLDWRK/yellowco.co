@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: Be Kind to Yourself (Part Two)'
-author: heygirl@yellowconference.com
+author: Abigail Driscoll
 date: '2015-01-20 04:00:31 -0800'
 categories:
 - Advice

@@ -1,6 +1,6 @@
 ---
 title: Finding + Building Your Social Media Tribe
-author: heygirl@yellowconference.com
+author: Elizabeth Fein
 date: '2015-06-09 04:00:03 -0700'
 categories:
 - Light Talk

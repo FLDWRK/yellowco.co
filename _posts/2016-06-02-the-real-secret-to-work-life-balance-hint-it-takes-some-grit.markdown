@@ -1,6 +1,6 @@
 ---
 title: 'How to Actually Create Work-Life Balance (Hint: It Takes Some Grit)'
-author: heygirl@yellowconference.com
+author: Nicole Andreini
 date: '2016-06-02 04:00:39 -0700'
 categories:
 - Advice

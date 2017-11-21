@@ -1,6 +1,6 @@
 ---
 title: Scared of Negotiations? Here's 5 Ways to Perfect the Art of Negotiating
-author: heygirl@yellowconference.com
+author: Bailey Van Tassel
 date: '2016-08-04 04:00:57 -0700'
 categories:
 - Advice

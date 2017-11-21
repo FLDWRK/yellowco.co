@@ -1,6 +1,6 @@
 ---
 title: 'Our Next Series: Grit + a Free Desktop Download'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2016-04-05 04:00:00 -0700'
 categories:
 - Creative Ladies

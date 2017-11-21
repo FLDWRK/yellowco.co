@@ -1,6 +1,6 @@
 ---
 title: What Creative Advocacy Looks Like in the Professional World
-author: heygirl@yellowconference.com
+author: Alyce Youngblood
 date: '2015-08-04 04:00:52 -0700'
 categories:
 - Light Talk

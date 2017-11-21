@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: How to Stay Real When Life Feels Messy'
-author: heygirl@yellowconference.com
+author: Esther Oh
 date: '2015-03-19 04:00:45 -0700'
 categories:
 - Advice

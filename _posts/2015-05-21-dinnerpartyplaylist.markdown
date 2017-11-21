@@ -1,6 +1,6 @@
 ---
 title: The Perfect Playlist for Your Evening Soiree
-author: heygirl@yellowconference.com
+author: Rachel Dawson
 date: '2015-05-21 04:00:20 -0700'
 categories:
 - Light Talk

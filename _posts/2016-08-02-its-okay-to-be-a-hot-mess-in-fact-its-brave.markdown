@@ -1,6 +1,6 @@
 ---
 title: It's Okay to Be a Hot Mess, in Fact...it's Brave
-author: heygirl@yellowconference.com
+author: Madison Hedlund
 date: '2016-08-02 04:00:58 -0700'
 categories:
 - Creative Ladies

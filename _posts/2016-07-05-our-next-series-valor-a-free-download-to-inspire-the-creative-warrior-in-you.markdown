@@ -1,7 +1,6 @@
 ---
-title: 'Our Next Series: Valor  + a Free Download to Inspire the Creative Warrior in
-  You'
-author: heygirl@yellowconference.com
+title: 'Our Next Series: Valor  + a Free Download to Inspire the Creative Warrior in You'
+author: Sally Kim
 date: '2016-07-05 04:00:40 -0700'
 categories:
 - Creative Ladies

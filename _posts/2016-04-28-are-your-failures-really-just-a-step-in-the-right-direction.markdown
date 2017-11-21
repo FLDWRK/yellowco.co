@@ -1,6 +1,6 @@
 ---
 title: Are Business Failures Really Just a Step in the Right Direction?
-author: heygirl@yellowconference.com
+author: Kaye Namba
 date: '2016-04-28 04:00:03 -0700'
 categories:
 - Advice

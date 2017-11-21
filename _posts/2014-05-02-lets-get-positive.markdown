@@ -1,6 +1,6 @@
 ---
 title: Let's Get Positive
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2014-05-02 06:58:04 -0700'
 categories:
 - Inspiration

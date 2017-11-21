@@ -1,7 +1,6 @@
 ---
-title: It's Time to Throw Off the Excuses, Find Your Battlecry, and Finally Go After
-  the Life You Always Imagined
-author: heygirl@yellowconference.com
+title: It's Time to Throw Off the Excuses, Find Your Battlecry, and Finally Go After the Life You Always Imagined
+author: Katherine Henson
 date: '2016-06-30 04:00:01 -0700'
 categories:
 - Light Talk

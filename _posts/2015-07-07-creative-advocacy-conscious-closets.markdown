@@ -1,6 +1,6 @@
 ---
 title: 'Creative Advocacy: Conscious Closets'
-author: heygirl@yellowconference.com
+author: Johanna Tropiano
 date: '2015-07-07 04:00:48 -0700'
 categories:
 - Light Talk

@@ -1,6 +1,6 @@
 ---
 title: 'Community Building 101: A New Series About Making Friends as an Adult'
-author: heygirl@yellowconference.com
+author: Lauren Caselli
 date: '2016-07-10 04:00:54 -0700'
 categories:
 - Advice

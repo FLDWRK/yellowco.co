@@ -1,6 +1,6 @@
 ---
 title: Finding Your Sweet Spot in Leadership (Psst...We Got the Secret)
-author: heygirl@yellowconference.com
+author: Rachel Dawson
 date: '2016-02-18 04:00:12 -0800'
 categories:
 - Advice

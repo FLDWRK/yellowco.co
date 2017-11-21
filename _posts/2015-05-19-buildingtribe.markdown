@@ -1,6 +1,6 @@
 ---
 title: Ten (Fun!) Ideas for Building Your Tribe
-author: heygirl@yellowconference.com
+author: Esther Oh
 date: '2015-05-19 04:00:44 -0700'
 categories:
 - Light Talk

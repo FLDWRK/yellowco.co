@@ -1,6 +1,6 @@
 ---
 title: Need Last Minute Gift Ideas? Check These Guys Out.
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-12-20 04:00:42 -0800'
 categories:
 - Light Talk

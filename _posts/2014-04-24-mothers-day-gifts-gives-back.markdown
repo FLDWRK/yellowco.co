@@ -1,6 +1,6 @@
 ---
 title: Mother's Day Gifts that Give Back
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2014-04-24 09:05:48 -0700'
 categories:
 - "#bloomyellow"

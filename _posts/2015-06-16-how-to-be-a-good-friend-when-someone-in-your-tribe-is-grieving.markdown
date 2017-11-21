@@ -1,6 +1,6 @@
 ---
 title: How to Be There for a Grieving Friend
-author: heygirl@yellowconference.com
+author: Abigail Driscoll
 date: '2015-06-16 04:00:07 -0700'
 categories:
 - Advice

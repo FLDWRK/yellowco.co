@@ -1,6 +1,6 @@
 ---
 title: 'Self Care is Not Selfish: How Self Care Can Lengthen the Life of Your Cause'
-author: heygirl@yellowconference.com
+author: Samantha Chaffin
 date: '2015-09-10 04:00:24 -0700'
 categories:
 - Light Talk

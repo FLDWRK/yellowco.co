@@ -1,6 +1,6 @@
 ---
 title: 'When Passion and Purpose Collide: How Landmine Design is Leaving Their Mark on Global Exploitation of Women'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-08-11 04:00:35 -0700'
 categories:
 - Creative Ladies

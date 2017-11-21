@@ -1,6 +1,6 @@
 ---
 title: 7 Ways to Stop Feeling Overwhelmed & Start Getting Things Done
-author: heygirl@yellowconference.com
+author: Becky Morquecho
 date: '2016-03-22 11:44:39 -0700'
 categories:
 - Advice

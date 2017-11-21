@@ -1,6 +1,6 @@
 ---
 title: 'The Yellow Blog's Next Series: Tribe'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2015-05-07 15:32:48 -0700'
 categories:
 - Creative Ladies

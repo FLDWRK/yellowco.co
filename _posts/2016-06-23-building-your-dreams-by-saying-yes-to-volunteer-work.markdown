@@ -1,6 +1,6 @@
 ---
 title: How Saying Yes to Volunteer Work Can Help You Find More Purpose
-author: heygirl@yellowconference.com
+author: Lisa Hensley
 date: '2016-06-23 04:00:51 -0700'
 categories:
 - Advice

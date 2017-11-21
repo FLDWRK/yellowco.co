@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: What 30 Days Without Makeup Looks Like'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-02-03 04:00:07 -0800'
 categories:
 - Creative Ladies

@@ -1,6 +1,6 @@
 ---
 title: How to Be a Boss Lady Without Being Rude
-author: heygirl@yellowconference.com
+author: Natalia Crawford
 date: '2016-06-21 04:00:52 -0700'
 categories:
 - Advice
