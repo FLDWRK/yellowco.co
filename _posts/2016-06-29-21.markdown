@@ -1,6 +1,0 @@
----
-author: heygirl@yellowconference.com
-wordpress_url: http://yellowco.co/?p=21
-date: '2016-06-29 22:14:50 -0700'
-categories: []
----
