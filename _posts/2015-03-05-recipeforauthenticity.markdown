@@ -1,6 +1,6 @@
 ---
 title: Want to Live Authentically? Here's the Recipe.
-author: heygirl@yellowconference.com
+author: Claire Wood
 date: '2015-03-05 04:00:04 -0800'
 categories:
 - Advice

@@ -1,6 +1,6 @@
 ---
 title: Struggling with Jealousy? Here's 5 Ways to Stop.
-author: heygirl@yellowconference.com
+author: Abigail Driscoll
 date: '2015-05-12 04:00:55 -0700'
 categories:
 - Advice

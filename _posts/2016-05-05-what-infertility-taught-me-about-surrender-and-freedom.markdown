@@ -1,6 +1,6 @@
 ---
 title: What My Journey with Infertility Taught Me About Surrender and Freedom
-author: heygirl@yellowconference.com
+author: Becky Morquecho
 date: '2016-05-05 04:00:02 -0700'
 categories:
 - Inspiration

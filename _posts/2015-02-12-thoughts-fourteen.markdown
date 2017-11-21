@@ -1,6 +1,6 @@
 ---
 title: 'Thoughts on the Fourteenth: As a Single'
-author: heygirl@yellowconference.com
+author: Nikole Sparks
 date: '2015-02-12 04:00:19 -0800'
 categories:
 - Light Talk

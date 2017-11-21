@@ -1,6 +1,6 @@
 ---
 title: Four Ways I Fight for Routine When Life Feels out of Control
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2016-08-14 04:00:57 -0700'
 categories:
 - Advice

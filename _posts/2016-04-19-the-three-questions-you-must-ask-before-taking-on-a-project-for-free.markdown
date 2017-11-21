@@ -1,6 +1,6 @@
 ---
 title: The Three Questions You Must Ask Before Taking On a Project for Free
-author: heygirl@yellowconference.com
+author: Andrea David
 date: '2016-04-19 04:00:33 -0700'
 categories:
 - Advice

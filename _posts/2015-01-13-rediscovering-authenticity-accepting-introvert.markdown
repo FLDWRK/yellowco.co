@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: Accepting the Introvert in You'
-author: heygirl@yellowconference.com
+author: Rachel Dawson
 date: '2015-01-13 04:00:50 -0800'
 categories:
 - Creative Ladies

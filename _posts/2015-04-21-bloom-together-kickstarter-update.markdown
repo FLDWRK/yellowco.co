@@ -1,6 +1,6 @@
 ---
 title: "#bloom Together: Kickstarter Update"
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-04-21 04:00:34 -0700'
 categories:
 - Light Talk

@@ -1,6 +1,6 @@
 ---
 title: 'The Yellow Conference Year Two: Freedom in Frame'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-09-12 04:00:05 -0700'
 categories:
 - Yellow 2015

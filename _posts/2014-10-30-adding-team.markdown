@@ -1,7 +1,7 @@
 ---
 title: 'We're Adding to Our Team! UPDATE: These Positions Have Been Filled. Thanks!'
 author: heygirl@yellowconference.com
-date: '2014-10-30 02:45:20 -0700'date_gmt: '2014-10-30 09:45:20 -0700'
+date: '2014-10-30 02:45:20 -0700'
 categories:
 - Creative Ladies
 - Team Members

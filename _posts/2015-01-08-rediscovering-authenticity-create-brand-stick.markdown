@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: How to Create Your Brand, and Stick With It'
-author: heygirl@yellowconference.com
+author: Elizabeth Fein
 date: '2015-01-08 04:00:38 -0800'
 categories:
 - Advice

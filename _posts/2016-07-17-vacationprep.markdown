@@ -1,6 +1,6 @@
 ---
 title: Five Ways I Set Myself Up for Vacation Success as a Freelancer
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2016-07-17 04:00:45 -0700'
 categories:
 - Advice

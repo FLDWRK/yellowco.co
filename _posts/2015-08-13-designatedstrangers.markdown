@@ -1,6 +1,6 @@
 ---
 title: 'Designated Strangers: How One Photographer Uses Instagram to Advocate for Foster Children'
-author: heygirl@yellowconference.com
+author: Ashley Tingley
 date: '2015-08-13 04:00:57 -0700'
 categories:
 - Creative Ladies

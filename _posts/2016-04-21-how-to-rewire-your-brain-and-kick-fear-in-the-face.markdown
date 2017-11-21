@@ -1,6 +1,6 @@
 ---
 title: How to Rewrite Your Thinking and Kick Fear in the Face
-author: heygirl@yellowconference.com
+author: Abigail Driscoll
 date: '2016-04-21 04:00:31 -0700'
 categories:
 - Advice

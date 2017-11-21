@@ -1,6 +1,6 @@
 ---
 title: Am I Creative "Enough?"
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2016-05-10 04:00:44 -0700'
 categories:
 - Light Talk

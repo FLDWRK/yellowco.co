@@ -1,6 +1,6 @@
 ---
 title: The Six Leadership Qualities You Need to Start a Movement for Your Cause
-author: heygirl@yellowconference.com
+author: Kristi Triplett
 date: '2015-09-15 04:00:22 -0700'
 categories:
 - Creative Ladies

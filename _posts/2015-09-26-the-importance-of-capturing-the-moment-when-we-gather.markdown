@@ -1,6 +1,6 @@
 ---
 title: The Importance of Capturing the Moment When We Gather
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-09-26 04:00:27 -0700'
 categories:
 - Light Talk

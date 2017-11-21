@@ -1,6 +1,6 @@
 ---
 title: February Bloom Gathering Recap
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-02-26 04:00:54 -0800'
 categories:
 - Creative Ladies

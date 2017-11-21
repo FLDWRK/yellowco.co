@@ -1,6 +1,6 @@
 ---
 title: 'Snapchat: What's the Buzz About and Can it Actually Help Your Business Grow?'
-author: heygirl@yellowconference.com
+author: Amanda Sadlin
 date: '2016-02-02 04:00:53 -0800'
 categories:
 - The Solopreneur

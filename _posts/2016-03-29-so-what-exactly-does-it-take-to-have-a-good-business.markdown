@@ -1,6 +1,6 @@
 ---
 title: So, What Exactly Makes a Business "Socially Conscious"?
-author: heygirl@yellowconference.com
+author: "Lindsay Byers-Mirth"
 date: '2016-03-29 12:34:56 -0700'
 categories:
 - Advice

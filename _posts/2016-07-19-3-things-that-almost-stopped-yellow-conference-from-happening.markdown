@@ -1,6 +1,6 @@
 ---
 title: 3 Things that Almost Stopped the Yellow Conference from Happening
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2016-07-19 04:00:40 -0700'
 categories:
 - Advice

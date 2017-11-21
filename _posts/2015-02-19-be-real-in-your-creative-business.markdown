@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: Three Reasons to Be Real in Your Creative Business'
-author: heygirl@yellowconference.com
+author: Emily Bode
 date: '2015-02-19 04:00:27 -0800'
 categories:
 - Creative Ladies
