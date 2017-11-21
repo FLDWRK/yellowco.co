@@ -26,6 +26,10 @@
         border-bottom: 2px solid $brand-primary;
       }
     }
+    .card-date {
+      font-family: $font-family-serif;
+      font-size: .9rem;
+    }
     @include media-breakpoint-up(lg) {
       flex-basis: calc(33.3333% - 30px);
       max-width: calc(33.3333% - 30px);

@@ -5,6 +5,8 @@ date: '2017-10-11 04:00:32 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/why-freelancers-should-join-co-working-space/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
 ### There is a place where everybody knows my name.

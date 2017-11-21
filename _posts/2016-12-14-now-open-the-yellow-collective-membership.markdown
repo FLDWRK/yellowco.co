@@ -4,7 +4,7 @@ author: Joanna Waterfall
 date: '2016-12-14 04:30:49 -0800'
 categories:
 - "#bloomyellow"
-- Yellow Collective
+- Collective
 redirect_from: "/bloomyellow/now-open-the-yellow-collective-membership/"
 ---
 

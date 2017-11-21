@@ -4,7 +4,7 @@ author: heygirl@yellowconference.com
 date: '2016-07-24 04:00:25 -0700'
 categories:
 - Yellow 2016
-- Yellow Collective
+- Collective
 - Community 101
 - Sunday Series
 redirect_from: "/yellow-2016/community-101-part-two-inviting-brilliant-people-into-your-life/"
