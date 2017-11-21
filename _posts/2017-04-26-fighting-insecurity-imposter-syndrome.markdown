@@ -17,7 +17,7 @@ It dawned on me that not being brave enough to take my identity as a creative s
 
 So, what will it take? What needs to happen for you truly own your creative side? To feel confident declaring what you’re about, and not want to hide when someone asks?
 
-![FIGHTING THE INSECURITIES OF IMPOSTER SYNDROME - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/04/DSC0516.jpg "FIGHTING THE INSECURITIES OF IMPOSTER SYNDROME - THE YELLOW ROOM")
+![FIGHTING THE INSECURITIES OF IMPOSTER SYNDROME - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/04/DSC0516.jpg "FIGHTING THE INSECURITIES OF IMPOSTER SYNDROME - THE YELLOW ROOM")
 
 ### **1\. Update your beliefs.**
 
@@ -37,4 +37,4 @@ So, consider what needs to shift for you to let go of the fear of looking like a
 
 _Photos by: [Alandra Michelle](http://www.alandramichelle.com/)_
 
-[![AMY EVERHART BIO](http://yellowco.co/wp-content/uploads/2017/04/AMY-EVERHART-BIO.jpg)](http://www.amyeverhartcoaching.com/)
+[![AMY EVERHART BIO](https://yellow-blog-images.imgix.net/2017/04/AMY-EVERHART-BIO.jpg)](http://www.amyeverhartcoaching.com/)

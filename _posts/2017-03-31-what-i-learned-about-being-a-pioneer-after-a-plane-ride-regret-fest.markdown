@@ -19,7 +19,7 @@ Fast forward 3 weeks later, Nolan and I are on our way home from our trip of a l
 
 ### It dawned on me after reflecting on my plane ride freak out - that _THIS_ is why it's so darn hard to be a pioneer.
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/Screenshot-2017-03-30-07.09.14.png)](http://yellowco.co/wp-content/uploads/2017/03/Screenshot-2017-03-30-07.09.14.png)
+[![](https://yellow-blog-images.imgix.net/2017/03/Screenshot-2017-03-30-07.09.14.png)](https://yellow-blog-images.imgix.net/2017/03/Screenshot-2017-03-30-07.09.14.png)
 
 When we do something that our body hasn't done or processed before, everything within us is saying, "This is not a good idea! Turn around right now! This could be dangerous!" That's a voice that's hard to silence. I'm actually not sure if we can ever silence it - rather, we must acknowledge its presence, move forward with it, and notice how it changes.
 
@@ -29,7 +29,7 @@ Today is the last official day of our theme of PIONEER, and the last day to sign
 
 And it's worth it. So darn worth it.
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/Screenshot-2017-03-30-07.12.12.png)](http://yellowco.co/wp-content/uploads/2017/03/Screenshot-2017-03-30-07.12.12.png)
+[![](https://yellow-blog-images.imgix.net/2017/03/Screenshot-2017-03-30-07.12.12.png)](https://yellow-blog-images.imgix.net/2017/03/Screenshot-2017-03-30-07.12.12.png)
 
 As for the [Yellow Collective](http://yellowcollective.co/) closing up, I'm truly hoping and praying that the women who join us this quarter are the ones who are meant to be there. That a divine presence would pull us together and create huge ripples of good throughout the world. That's always my hope within my why.
 
@@ -37,4 +37,4 @@ From a plane ride regret-fest-freak-out, to my hotel room in China, to tomorrow 
 
 ### [CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowcollective.co/)
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)
+[![](https://yellow-blog-images.imgix.net/2017/03/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)

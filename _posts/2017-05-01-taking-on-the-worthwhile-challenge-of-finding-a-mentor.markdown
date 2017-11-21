@@ -21,7 +21,7 @@ So many of us get caught up in the overwhelming process of finding the right me
 *   Look at the sphere of influence you are already in. Often times, your best mentor could be right in front of you. Think through all of the different people you know within the different communities in your life, or the contacts you have a mutual connection with. Reach out to your circle to get referrals. There are amazing individuals all around that you can get connected to.  
 *   Just _ask_. Once you find your fit, start small - even if that means a phone call once a month. If your pick says they may not have the time right now - figure out how you can help them out. This is a relationship where both have the opportunity to give.
 
-![](http://yellowco.co/wp-content/uploads/2017/05/ValerieDenisePhotos-74.jpg)
+![](https://yellow-blog-images.imgix.net/2017/05/ValerieDenisePhotos-74.jpg)
 
 Once you do find a great match, enjoy. Mentorship is undoubtedly a lot of work, but you have so much to look forward to and gain from taking on the challenge. Just to name a few:
 
@@ -33,4 +33,4 @@ You have been given one life to live, one body to steward, and many, _many_ gif
 
 _Photos by: [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![KRISTI TRIPLETT BIO](http://yellowco.co/wp-content/uploads/2017/05/KRISTI-TRIPLETT-BIO.jpg)](https://www.instagram.com/kristitriplett/)
+[![KRISTI TRIPLETT BIO](https://yellow-blog-images.imgix.net/2017/05/KRISTI-TRIPLETT-BIO.jpg)](https://www.instagram.com/kristitriplett/)

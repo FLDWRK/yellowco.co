@@ -21,7 +21,7 @@ Perfectionism may seem like a supporting quality to create something truly grea
 
 Focus on who you hope to support, and what you want to offer them. Ask yourself what it would mean if the people who would benefit from your specific gifts never had the opportunity to receive them. Then, take a deep breath, and put your perfectly imperfect work out there.
 
-### ![HOW TO MAINTAIN MOMENTUM WHILE STARTING A BUSINESS - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/05/KaleidosNashville-100d.jpg)
+### ![HOW TO MAINTAIN MOMENTUM WHILE STARTING A BUSINESS - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/05/KaleidosNashville-100d.jpg)
 
 **Don't be afraid to fail.**
 
@@ -43,4 +43,4 @@ Practicing endurance will give you a boost of satisfaction every time you knock
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![ASHLEY BERRY BIO](http://yellowco.co/wp-content/uploads/2017/05/ASHLEY-BERRY-BIO.jpg "ASHLEY BERRY BIO")](http://helloashleyberry.com/)
+[![ASHLEY BERRY BIO](https://yellow-blog-images.imgix.net/2017/05/ASHLEY-BERRY-BIO.jpg "ASHLEY BERRY BIO")](http://helloashleyberry.com/)

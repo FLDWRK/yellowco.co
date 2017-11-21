@@ -13,7 +13,7 @@ categories:
 redirect_from: "/creative-ladies/landminedesigns/"
 ---
 
-> _[![landmine design+yellow](http://yellowconference.com/wp-content/uploads/2015/08/Sew-Vuy.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/Sew-Vuy.jpg)  
+> _[![landmine design+yellow](https://yellow-blog-images.imgix.net/2015/08/Sew-Vuy.jpg)](https://yellow-blog-images.imgix.net/2015/08/Sew-Vuy.jpg)  
 > Landmine Design is pulling women and their families out of poverty, setting them on their feet, and giving them an education that no one can take from them. [These women] are in desperate need of a job, and even more desperately in need of education. These are the women LandMine Design exists to serve.  
 > _-Landmine Design Blog
 
@@ -38,7 +38,7 @@ We exist to empower women in poverty through job creation and education. Our goa
 
 The MineField Village of Cambodia where we work was one of the most highly concentrated regions of landmines on the globe. These landmines were laid by the Khmer Rouge, who came into power and killed millions of Cambodians from 1975-1979\. The land is toxic and many of Cambodia's people are scarred from explosions. We employ several survivors like Te, 43 years old and a mother of 4, who happily shows off her scars from gunshots and a landmine explosion she survived as a little girl. What the country endured is unfathomable; our name seeks to be a testament to Cambodia’s resilience, strength and collective beauty.  
 
-[![landmine design+yellow](http://yellowconference.com/wp-content/uploads/2015/08/sarahlmd.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/sarahlmd.jpg)
+[![landmine design+yellow](https://yellow-blog-images.imgix.net/2015/08/sarahlmd.jpg)](https://yellow-blog-images.imgix.net/2015/08/sarahlmd.jpg)
 
 **How did you combine a great cause with great product-in other words, how did you make this work?**
 
@@ -50,7 +50,7 @@ To start, our founders recognized a dire need for jobs for these vulnerable wome
 
 The need for employment was evident, but in order to pay the women, profits would need to be incurred. **Sustainability is the heart of Landmine Design, for the business and each woman we employ, thus a self-sustaining job creation program was always the dream.** Our founders got to dreaming about what could be made and like any good brainstorming session, many ideas were tossed around.  Landmine Design could be producing knitted hats today…! And let me just say I’m so happy we’re not, it is scorching in The MineField Village… 
 
-[![landmine design+yellow co. ](http://yellowconference.com/wp-content/uploads/2015/08/SreyRoth-family.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/SreyRoth-family.jpg)
+[![landmine design+yellow co. ](https://yellow-blog-images.imgix.net/2015/08/SreyRoth-family.jpg)](https://yellow-blog-images.imgix.net/2015/08/SreyRoth-family.jpg)
 
 Inga Swope, a friend traveling with our founders, knew how to make paper beads and had a heart for social enterprise.  She simply began training our 6 original women with this skill. We were also blessed to have Kallie Dovel of [31Bits](http://31bits.com/) accompany our founders on a trip to offer her expertise and advice. Today their beads are impeccable, I don’t know how they do it, but let’s just say this was not always the case… **Like anything, it took tireless hours of practice to create even a single bead that would stand on its own in a US marketplace.** The beads would need to be perfected before design was even considered, a standard that is difficult as a staff to hold these women to in moments, but is done with love for the sustainability of their job and access to education.
 
@@ -62,7 +62,7 @@ I have always had my hand in some sort of creative realm. I grew up admiring my 
 
 With growing confidence, I moved to NYC where I worked under Oscar de la Renta for a short time until I was constantly led to the question – to what end? I questioned the industry, its effect on women’s perceptions of themselves, and really – what goal were we chasing? Whatever it was, it wasn’t enough for me. This was the catalyst that led to the founding of, [_the AMMO woman,_](http://theammowoman.myshopify.com/) a jewelry line my sister and I founded in an effort to provide women tangible reminders of their innate strength. We sought to pair refined design with purpose and built the business on this belief – we hired individuals facing obstacles to employment to produce our packaging elements and sought to spark conversations regarding a woman’s worth.
 
-[![landmine design+yellow](http://yellowconference.com/wp-content/uploads/2015/08/kitchen.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/kitchen.jpg)
+[![landmine design+yellow](https://yellow-blog-images.imgix.net/2015/08/kitchen.jpg)](https://yellow-blog-images.imgix.net/2015/08/kitchen.jpg)
 
 One day, through this work, Landmine Design approached us. Requesting assistance in design, branding, and overall direction – with hearts aligned it was a resounding _yes_. **We dove in, not solely motivated by fashion and design, but the dream of using it as a means of changing an entire landscape for vulnerable women in need. It was a dream come true and the answer to my constant question of – to what end? **
 
@@ -78,7 +78,7 @@ There is something _you_ love, something that gets you out of bed in the morni
 
 What you love is purposeful, so start right where you are with whatever you have and mobilize yourself! The story that unfolds could be pretty incredible, it may even lead you to a minefield!  
 
-[![landmine design+yellow co. ](http://yellowconference.com/wp-content/uploads/2015/08/SomKim-husandbaby.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/SomKim-husandbaby.jpg)
+[![landmine design+yellow co. ](https://yellow-blog-images.imgix.net/2015/08/SomKim-husandbaby.jpg)](https://yellow-blog-images.imgix.net/2015/08/SomKim-husandbaby.jpg)
 
 **Give us a plug! Anything else you want to leave our Yellow Co. blog readers with!?**
 
@@ -86,8 +86,8 @@ Stay tuned, we're preparing some exciting things in the fall and tangible opport
 
 To be in the loop, receive our monthly Landmine Letter, or just say hi - shoot me an email at [Kristie@LandmineDesign.org](mailto:Kristie@LandmineDesign.org) - I would love to hear from you! You belong in our story and I want to hear yours.
 
-[![landmine design+yellow](http://yellowconference.com/wp-content/uploads/2015/08/mets2.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/mets2.jpg)
+[![landmine design+yellow](https://yellow-blog-images.imgix.net/2015/08/mets2.jpg)](https://yellow-blog-images.imgix.net/2015/08/mets2.jpg)
 
 **A special thanks from Yellow Co. to Kristie, of [Landmine Designs](http://www.landminedesign.org/) (pictured above!) for sharing her insight and passion with us today. **
 
-[![sallykim Yellow Co.](http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

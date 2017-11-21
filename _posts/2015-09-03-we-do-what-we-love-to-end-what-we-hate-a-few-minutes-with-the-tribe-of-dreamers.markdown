@@ -13,7 +13,7 @@ categories:
 redirect_from: "/creative-ladies/we-do-what-we-love-to-end-what-we-hate-a-few-minutes-with-the-tribe-of-dreamers/"
 ---
 
-[![tribe of dreamers The Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/08/Annie-and-Jen-2.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/Annie-and-Jen-2.jpg)
+[![tribe of dreamers The Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/08/Annie-and-Jen-2.jpg)](https://yellow-blog-images.imgix.net/2015/08/Annie-and-Jen-2.jpg)
 
 ##### "We believe your dreams can change the world. We make jewelry that encourages you to do it."
 
@@ -45,7 +45,7 @@ We just made it a point to meet a few times a week.  We would have conversation
 
 Make a list of the good you want to see done - if this is hard to pinpoint, think about the things in this world that you feel most angry or upset about - and then write down what you are passionate about  and what your values are. See if there are any creative connections between the three. Anything that you plan or comes across you, if it does not fall in line with that vision, don't do it.  **In other words: stay true to who you are and where your heart resides. **
 
-[![tribe of dreamers yellow conference blog](http://yellowconference.com/wp-content/uploads/2015/08/Annie-and-Jen-1.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/Annie-and-Jen-1.jpg)
+[![tribe of dreamers yellow conference blog](https://yellow-blog-images.imgix.net/2015/08/Annie-and-Jen-1.jpg)](https://yellow-blog-images.imgix.net/2015/08/Annie-and-Jen-1.jpg)
 
 ###### **What have you seen accomplished through Tribe of Dreamers? How is your mantra and message displayed in your business? **
 
@@ -63,4 +63,4 @@ That is a difficult question.  We have so many dreams!! One of our overall drea
 
 _photos by [Tony Salvagio](https://instagram.com/mycitystreets/)_
 
-[![sallykim Yellow Co.](http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

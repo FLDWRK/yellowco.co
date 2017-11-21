@@ -17,7 +17,7 @@ I can't think of a better way to start _"the month of looove"_ than with this in
 
 Inspiring, _strong,_ energizing, gentle, funny, motivating...while I was adjusting my continually growing baby bump in the most unprofessional, unattractive ways, this beautiful lady introduces herself to me as Sarah Jaggard, co-founder of [30DaysNoMakeup](http://30daysnomakeup.com/)_,_ with a giant smile, and a basket full of all yellow treats, including bright yellow dandelions that found their perfect home today on my _(ahem...yellow)_ kitchen table. I'd heard about the movement, checked out their website and [interview with Darling](http://darlingmagazine.org/beautician-embodied-30-days-makeup/), and expected to meet with her for our interview in Malibu on a sunny Friday morning...I went into this thinking it was an interview, instead it was nothing short of an exciting conversation of life, beauty, and future dreams.
 
-[![IMG_3310.JPG](http://yellowconference.com/wp-content/uploads/2015/02/IMG_3310.JPG.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/IMG_3310.JPG.jpg)
+[![IMG_3310.JPG](https://yellow-blog-images.imgix.net/2015/02/IMG_3310.JPG.jpg)](https://yellow-blog-images.imgix.net/2015/02/IMG_3310.JPG.jpg)
 
 To say the least, it was a sweet time of laughter, listening, and meeting on common ground about wanting to see genuine change in our world.
 
@@ -45,7 +45,7 @@ So what makes this campaign different from other no-makeup campaigns? The purpos
 
 Our motivation is in providing a platform and opportunity for change for women, even in a small way. We tell the women that this is not a campaign of deprivation, it's a campaign of filling something old with something new...so what are you doing with that time [you used to use putting on makeup]?"
 
-[![IMG_2984](http://yellowconference.com/wp-content/uploads/2015/02/IMG_2984.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/IMG_2984.jpg)
+[![IMG_2984](https://yellow-blog-images.imgix.net/2015/02/IMG_2984.jpg)](https://yellow-blog-images.imgix.net/2015/02/IMG_2984.jpg)
 
 And the responses have been as diverse as the participants, from husbands being inspired by their wife's change, to the followers' motivations for doing the challenge, Sarah shared a scroll of stories for how this experiment made waves among participants and onlookers alike.
 
@@ -67,7 +67,7 @@ And the male response? "They follow us, too! They comment saying things like, _'
 
 30 Days No Makeup's mission continues to expand, from L.A. rehab centers encouraging it as a resource to high school girls dancing in the bathroom (a fun addition to 30DaysNoMakeup's Instagram called "#humpdaybrave") and Sarah's dreams for the mission are growing along with it, _"I want it to continue to be its own brand...Natalie has a dream of a children's book...that enhances minds and self-esteem...we have so many dreams...spreading it beyond women, starting research on other things..."_
 
-[caption id="attachment_1844" align="aligncenter" width="700"][![30days](http://yellowconference.com/wp-content/uploads/2015/02/30days.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/30days.jpg) Photo of founders, Sarah and Natalie, from [@30DaysNoMakeup](http://instagram.com/30daysnomakeup) [/caption]
+[caption id="attachment_1844" align="aligncenter" width="700"][![30days](https://yellow-blog-images.imgix.net/2015/02/30days.jpg)](https://yellow-blog-images.imgix.net/2015/02/30days.jpg) Photo of founders, Sarah and Natalie, from [@30DaysNoMakeup](http://instagram.com/30daysnomakeup) [/caption]
 
 **So what does Sarah have to say to the readers over at Yellow?**
 
@@ -77,4 +77,4 @@ I don't believe in failure, it's all a part of it. The results we see...we're fo
 
 _For more information on the 30DaysNoMakeup movement, and ways to get involved, click [here](http://30daysnomakeup.com/)._
 
-[![skimbio](http://yellowconference.com/wp-content/uploads/2015/02/skimbio.jpg)](http://lettersfromamister.tumblr.com)
+[![skimbio](https://yellow-blog-images.imgix.net/2015/02/skimbio.jpg)](http://lettersfromamister.tumblr.com)

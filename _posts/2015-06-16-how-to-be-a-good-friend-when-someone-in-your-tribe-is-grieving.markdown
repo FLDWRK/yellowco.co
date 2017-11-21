@@ -10,7 +10,7 @@ categories:
 redirect_from: "/advice/how-to-be-a-good-friend-when-someone-in-your-tribe-is-grieving/"
 ---
 
-[![Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/06/Andre-Freitas-copy.jpg)](http://yellowconference.com/wp-content/uploads/2015/06/Andre-Freitas-copy.jpg)
+[![Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/06/Andre-Freitas-copy.jpg)](https://yellow-blog-images.imgix.net/2015/06/Andre-Freitas-copy.jpg)
 
 We have all felt the hard truth that the world is not always kind to us. Suffering is real. Those we love get sick, we get our hearts broken, we hear those dreadful words: “I’m sorry, we have to let you go” or “The tumor is malignant.” In life, things often do not go the way we envision them.
 
@@ -56,4 +56,4 @@ When tragedy strikes, we need the support of our people, and they need ours. It'
 
 _Photo by [André Freitas](https://unsplash.com/andrekerygma)_
 
-[![adriscoll bio](http://yellowconference.com/wp-content/uploads/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)
+[![adriscoll bio](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

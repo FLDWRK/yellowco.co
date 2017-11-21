@@ -21,7 +21,7 @@ As women, we've come so far, haven't we? Less than 100 years ago we didn't even 
 
 <div>
 
-![THREE EPIPHANIES I'VE HAD AFTER THREE YEARS OF RUNNING THE YELLOW CONFERENCE](http://yellowco.co/wp-content/uploads/2017/05/Screenshot-2017-05-22-13.45.27.png "THREE EPIPHANIES I'VE HAD AFTER THREE YEARS OF RUNNING THE YELLOW CONFERENCE")
+![THREE EPIPHANIES I'VE HAD AFTER THREE YEARS OF RUNNING THE YELLOW CONFERENCE](https://yellow-blog-images.imgix.net/2017/05/Screenshot-2017-05-22-13.45.27.png "THREE EPIPHANIES I'VE HAD AFTER THREE YEARS OF RUNNING THE YELLOW CONFERENCE")
 
 ### 2\. YOU'RE NEVER DONE LEARNING
 
@@ -39,7 +39,7 @@ Through making many mistakes and being so comfortable that details fell throug
 
 I will never be done learning, and that's okay. Because the minute you are done learning is the minute your business suffers. Work will change, but it never ends. Some problems will be solved, but there will always be new ones. You will reach certain goals, but there will be new challenges to overcome. **The key is to enjoy the journey, embrace the process, and never get too comfortable.**
 
-![THREE EPIPHANIES I'VE HAD AFTER THREE YEARS OF RUNNING THE YELLOW CONFERENCE](http://yellowco.co/wp-content/uploads/2017/05/Yellow_2015_Day_2-180.jpg "THREE EPIPHANIES I'VE HAD AFTER THREE YEARS OF RUNNING THE YELLOW CONFERENCE")
+![THREE EPIPHANIES I'VE HAD AFTER THREE YEARS OF RUNNING THE YELLOW CONFERENCE](https://yellow-blog-images.imgix.net/2017/05/Yellow_2015_Day_2-180.jpg "THREE EPIPHANIES I'VE HAD AFTER THREE YEARS OF RUNNING THE YELLOW CONFERENCE")
 
 ### 3\. THE WORLD NEEDS WOMEN TO COME TOGETHER FOR GOOD
 
@@ -63,7 +63,7 @@ Throughout history, the voice of women has been silenced. But now, we have ent
 
 _[Photos by: Caca Santoro](http://cacasantoro.com/)_
 
-[![JOANNA WATERFALL BIO](http://yellowco.co/wp-content/uploads/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)
+[![JOANNA WATERFALL BIO](https://yellow-blog-images.imgix.net/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)
 
 </div>
 

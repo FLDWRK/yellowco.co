@@ -22,7 +22,7 @@ Not only have I been able to grow a thriving business from midwest USA, I have f
 
 **I’ve debunked the notion that pioneers have to do their adventure alone.**If you’ve felt alone in your journey to self-improvement, in your career, in your passion project, hear me on this one:  _You only have to go it alone if you choose to._ There are women [waiting to connect with you, support you, and who want to cheer you on!](http://yellowcollective.co/)
 
-### [![yellowcollectivexheritage-andreadavid49](http://yellowco.co/wp-content/uploads/2017/01/YellowCollectivexHeritage-AndreaDavid49.jpg)](http://yellowco.co/wp-content/uploads/2017/01/YellowCollectivexHeritage-AndreaDavid49.jpg)
+### [![yellowcollectivexheritage-andreadavid49](https://yellow-blog-images.imgix.net/2017/01/YellowCollectivexHeritage-AndreaDavid49.jpg)](https://yellow-blog-images.imgix.net/2017/01/YellowCollectivexHeritage-AndreaDavid49.jpg)
 
 ### Here are 4 things I did my first year as an entrepreneur that helped me grow an authentic tribe both on and offline:
 
@@ -38,7 +38,7 @@ When I stopped to look at my city, I didn’t see the thing I wanted to be a par
 
 Join the [Yellow Collective](http://yellowcollective.co/), host a meet-up, or even create a mastermind of women in your field who want to support one another. It’s as simple as creating something you want to be a part of!
 
-[![yellowcollectivexheritage-andreadavid93](http://yellowco.co/wp-content/uploads/2017/01/YellowCollectivexHeritage-AndreaDavid93.jpg)](http://yellowco.co/wp-content/uploads/2017/01/YellowCollectivexHeritage-AndreaDavid93.jpg)
+[![yellowcollectivexheritage-andreadavid93](https://yellow-blog-images.imgix.net/2017/01/YellowCollectivexHeritage-AndreaDavid93.jpg)](https://yellow-blog-images.imgix.net/2017/01/YellowCollectivexHeritage-AndreaDavid93.jpg)
 
 **3- Don’t be afraid to reach “above” your social group**
 
@@ -58,4 +58,4 @@ You are supported, welcome, and have an entire world of women ready to cheer you
 
 _Photos by [Andrea David](http://andreadavid.co/) of [the Yellow Collective Orange County gathering](http://yellowcollective.co/) _
 
-[![madisonhedlund](http://yellowco.co/wp-content/uploads/2017/01/MADISONHEDLUND.jpg)](http://www.madisonhedlund.co/)
+[![madisonhedlund](https://yellow-blog-images.imgix.net/2017/01/MADISONHEDLUND.jpg)](http://www.madisonhedlund.co/)

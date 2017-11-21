@@ -23,7 +23,7 @@ If you’re anything like me, budgeting is a scary, annoying word that only exis
 *   Broken up into four categories: Financial Goals, Monthly Budget Sheets, Freelance Project Sheets, and Odds and Ends and Gangster Thangs (which includes groceries and donations).
 *   Filled with encouraging and humorous messages on every page to make the treacherous task of budgeting enjoyable.
 
-![TURNING YOUR DAILY HABITS INTO FINANCIAL FREEDOM (AND ENJOYING IT) - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/MG_5429.jpg)
+![TURNING YOUR DAILY HABITS INTO FINANCIAL FREEDOM (AND ENJOYING IT) - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/MG_5429.jpg)
 
 **The [Mint App](https://www.mint.com/)**
 
@@ -42,7 +42,7 @@ Last month my friend moved to New York City, so I bought a few rounds of cocktai
 
 Your money blueprint is what you have conditioned your mind to do with money. Does it represent freedom for the future? Is it worth saving on small things now so you can take a big vacation at the end of the year? Is it a means to pay bills and fulfill your short-term goals? Money means different things to everyone, and a lot of it stems back to how you were raised.
 
-![TURNING YOUR DAILY HABITS INTO FINANCIAL FREEDOM (AND ENJOYING IT) - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/MG_5523.jpg)
+![TURNING YOUR DAILY HABITS INTO FINANCIAL FREEDOM (AND ENJOYING IT) - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/MG_5523.jpg)
 
 Growing up, my dad was extremely frugal, and we did all the shopping with my mom. She rarely denied us any purchases, so I adopted the habits I saw from her. I didn’t learn how to budget until I moved to Los Angeles and blew through a few grand in my first month on clothes and food without even realizing my bank account was depleting. It was a rude awakening, but simply understanding what I was conditioned to believe about money helped me untie those habits to create a new, healthier relationship to it.
 
@@ -58,4 +58,4 @@ Though it can sometimes be awkward and uncomfortable tidying up your financial s
 
 _Photos by: [Karen Marie Co.](http://www.karenmarie.co/) _
 
-[![EMILY SCHREMS BIO](http://yellowco.co/wp-content/uploads/2017/07/EMILY-SCHREMS-BIO.jpg)](https://www.instagram.com/emschrems/)
+[![EMILY SCHREMS BIO](https://yellow-blog-images.imgix.net/2017/07/EMILY-SCHREMS-BIO.jpg)](https://www.instagram.com/emschrems/)

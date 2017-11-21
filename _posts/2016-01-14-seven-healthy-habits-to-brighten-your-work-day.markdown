@@ -9,7 +9,7 @@ categories:
 redirect_from: "/light-talk/seven-healthy-habits-to-brighten-your-work-day/"
 ---
 
-[![The Yellow Co. Blog: Seven Healthy Habits for the new year](http://yellowconference.com/wp-content/uploads/2016/01/2-800x533.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/2-800x533.jpg)When the New Year hits, many of us have lofty health goals that we’re determined to accomplish. We usually think about how we are going to get healthier when we’re outside of the office. We set goals to join a gym, set our alarms earlier to exercise before work, and tell our friends that we won’t be heading to happy hour as much anymore because we want to start going to that spin class more often.
+[![The Yellow Co. Blog: Seven Healthy Habits for the new year](https://yellow-blog-images.imgix.net/2016/01/2-800x533.jpg)](https://yellow-blog-images.imgix.net/2016/01/2-800x533.jpg)When the New Year hits, many of us have lofty health goals that we’re determined to accomplish. We usually think about how we are going to get healthier when we’re outside of the office. We set goals to join a gym, set our alarms earlier to exercise before work, and tell our friends that we won’t be heading to happy hour as much anymore because we want to start going to that spin class more often.
 
 While all of these health goals are usually well intended, they can be unrealistic and set the bar out of reach, so come February 1<sup>st</sup>, we find ourselves feeling like failures again.
 
@@ -33,7 +33,7 @@ When we work at our desks all day long, we rarely get up and move, unless it’s
 
 1.  #### **Drink more water.**
 
-Many of us fail to drink nearly enough water throughout the day. Since our bodies are more than 50% water and it is essential for cellular functions, it’s crucial that we’re taking in enough of it during the day. Water does countless things for our bodies, including increasing cognitive function. Replace one of your afternoon cups of coffee with a glass of water one day and see how you feel.[![The Yellow Co. Blog: Seven Healthy Habits for the new year](http://yellowconference.com/wp-content/uploads/2016/01/3-800x533.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/3-800x533.jpg)
+Many of us fail to drink nearly enough water throughout the day. Since our bodies are more than 50% water and it is essential for cellular functions, it’s crucial that we’re taking in enough of it during the day. Water does countless things for our bodies, including increasing cognitive function. Replace one of your afternoon cups of coffee with a glass of water one day and see how you feel.[![The Yellow Co. Blog: Seven Healthy Habits for the new year](https://yellow-blog-images.imgix.net/2016/01/3-800x533.jpg)](https://yellow-blog-images.imgix.net/2016/01/3-800x533.jpg)
 
 1.  #### **Pack healthy snacks.**
 
@@ -60,4 +60,4 @@ Instead of overwhelming ourselves with unreasonably ambitious health goals this 
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/)_
 
-[![LAUREN CASH BIO](http://yellowco.co/wp-content/uploads/2016/03/LAUREN-CASH-BIO.jpg)](https://laurencashrdn.com/)
+[![LAUREN CASH BIO](https://yellow-blog-images.imgix.net/2016/03/LAUREN-CASH-BIO.jpg)](https://laurencashrdn.com/)

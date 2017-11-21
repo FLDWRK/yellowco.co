@@ -13,7 +13,7 @@ As a mental health professional, we study this all of the time - it's one of the
 
 The whole point of this practice is to focus on solutions and help individuals challenge destructive thoughts and behaviors. Because when we learn how to get our mind in check and into a positive way of living, our emotions and feelings will follow. To make something like this a practice in your life it will take discipline and practice, just like everything else. But, the payoff of being empowered to find emotional balance is ultimately so worth it. Try these three rituals to improve your lifestyle through how you view life, circumstances, and yourself each day.
 
-![3 PRACTICES TO GET EMPOWERED ABOUT YOUR MENTAL HEALTH - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/Julien-YellowTension-368.jpg)
+![3 PRACTICES TO GET EMPOWERED ABOUT YOUR MENTAL HEALTH - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/07/Julien-YellowTension-368.jpg)
 
 ### **1\. Journal**
 
@@ -36,4 +36,4 @@ These techniques are simple, but truly can bring you better mental and emotiona
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![KRISTI TRIPLETT BIO](http://yellowco.co/wp-content/uploads/2017/05/KRISTI-TRIPLETT-BIO.jpg)](https://www.instagram.com/kristitriplett/)
+[![KRISTI TRIPLETT BIO](https://yellow-blog-images.imgix.net/2017/05/KRISTI-TRIPLETT-BIO.jpg)](https://www.instagram.com/kristitriplett/)

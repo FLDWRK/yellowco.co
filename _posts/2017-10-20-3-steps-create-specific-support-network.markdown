@@ -5,9 +5,13 @@ date: '2017-10-20 04:00:16 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/3-steps-create-specific-support-network/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
 ### One of the richest pieces of the human experience is watching individuals come together to console, comfort, advise, and champion one another.
+
+<!-- more -->
 
 Both giving and receiving support from others creates an opportunity to be selfless, and to connect more deeply with the experiences of those around us. It broadens our horizons, and encourages growth on all fronts - so why aren’t more of us taking advantage of this? As the CEO of [The Well Supported Woman](http://thewellsupportedwoman.com/), a life coaching and personal development hub for millennial women, this is a conversation that I have with my clients all the time.
 
@@ -15,7 +19,7 @@ There are many reasons that asking for support, customizing it to our needs, and
 
 The term ‘support network’ can sound stuffy and old-school, but these intentional groups are actually more relevant and necessary than ever before. We have access to all the information we could ever need at our fingertips, and fewer in person relationships than in the past. When I use the term support networks, I am not only talking about formalized support groups or work teams, but also the people you choose to surround yourself with and seek advice from in all areas of life. In fact, it’s totally normal and helpful to have not just one set-in-stone team of advisors, but to have a rotating cast of characters whose insight you can seek out depending on your needs.
 
-![3 STEPS TO CREATE THE SPECIFIC SUPPORT NETWORK YOU NEED - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-2.jpg)
+![3 STEPS TO CREATE THE SPECIFIC SUPPORT NETWORK YOU NEED - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-2.jpg)
 
 ### **Remember: regardless of the relationships you were born into, you have the freedom to create a system of support for yourself around anything you desire.**
 
@@ -29,7 +33,7 @@ Do you have a solid mentor at work, but feel unsure about how to proceed in your
 
 This is hugely important. Too often we turn to the people we’re close to for advice or a listening ear without considering whether they’re the best kind of support for us in this situation. Take a moment to consider their current life situation, past experience with this topic, and the likelihood that their communication style will feel supportive to you. If you have a difficult relationship with a family member, for example, don’t approach them for advice when you’re feeling vulnerable expecting that it will work out perfectly.
 
-![3 STEPS TO CREATE THE SPECIFIC SUPPORT NETWORK YOU NEED - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-1.jpg)
+![3 STEPS TO CREATE THE SPECIFIC SUPPORT NETWORK YOU NEED - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-1.jpg)
 
 ### **3\. Specify what you need, and ask for it.**
 
@@ -39,4 +43,4 @@ At the end of the day, a support network is less so the formal networking commun
 
 _Photos by: [Iron and Fern](http://ironandfern.com/) and [Steve Cowell Photo](https://stevecowellphoto.com/) for [FLDWRK](https://fldwrk.io/)_
 
-[![LAURA WELDY BIO](http://yellowco.co/wp-content/uploads/2017/04/LAURA-WELDY-BIO.jpg)](http://thewellsupportedwoman.com/)
+[![LAURA WELDY BIO](https://yellow-blog-images.imgix.net/2017/04/LAURA-WELDY-BIO.jpg)](http://thewellsupportedwoman.com/)

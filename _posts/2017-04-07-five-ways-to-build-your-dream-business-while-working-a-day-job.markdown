@@ -23,7 +23,7 @@ Not taking a vacation this year? Use those days to work on projects, take meetin
 
 Pick one night a week and/or one day a weekend where you don’t work. This will energize you more than anything else to be productive, knowing that rest is planned and coming.
 
-![FIVE WAYS TO BUILD YOUR DREAM BUSINESS WHILE WORKING A DAY JOB - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/04/Yellow2016-46.jpg)
+![FIVE WAYS TO BUILD YOUR DREAM BUSINESS WHILE WORKING A DAY JOB - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/04/Yellow2016-46.jpg)
 
 1.  **Reframe your introductions.**
 
@@ -37,4 +37,4 @@ Whether you’re fast or slow at this jump, remember you have a support system 
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
 
-[![JESSICA WHALEN BIO](http://yellowco.co/wp-content/uploads/2017/04/JESSICA-WHALEN-BIO.jpg)](http://www.truebadours.com/)
+[![JESSICA WHALEN BIO](https://yellow-blog-images.imgix.net/2017/04/JESSICA-WHALEN-BIO.jpg)](http://www.truebadours.com/)

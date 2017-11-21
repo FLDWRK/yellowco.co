@@ -22,7 +22,7 @@ Instead of talking your ear off about how cool our members are, I thought it wou
 
 How cool is that??
 
-[![](http://yellowco.co/wp-content/uploads/2017/01/Yellow2016-132.jpg)](http://yellowco.co/wp-content/uploads/2017/01/Yellow2016-132.jpg)
+[![](https://yellow-blog-images.imgix.net/2017/01/Yellow2016-132.jpg)](https://yellow-blog-images.imgix.net/2017/01/Yellow2016-132.jpg)
 
 Another one of our members, Cassidy Perry, is a social media coach and web manager. She told us that the Collective has been a “wonderful and delightful surprise” that didn’t fit the traditional networking model.
 
@@ -52,4 +52,4 @@ Hope to see you in the Collective this upcoming quarter! Happy Monday ladies - y
 
 _Photos by [Caca Santoro](http://cacasantoro.com/) for Yellow_
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)
+[![](https://yellow-blog-images.imgix.net/2017/03/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)

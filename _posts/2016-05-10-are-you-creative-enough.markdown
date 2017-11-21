@@ -9,7 +9,7 @@ categories:
 redirect_from: "/light-talk/are-you-creative-enough/"
 ---
 
-[![2013-12-30_0076](http://yellowconference.com/wp-content/uploads/2016/04/2013-12-30_0076.jpg)](http://yellowconference.com/wp-content/uploads/2016/04/2013-12-30_0076.jpg)The conference had round tables, set up for open discussion times. One of our first questions was _What were you designed to creatively do..._
+[![2013-12-30_0076](https://yellow-blog-images.imgix.net/2016/04/2013-12-30_0076.jpg)](https://yellow-blog-images.imgix.net/2016/04/2013-12-30_0076.jpg)The conference had round tables, set up for open discussion times. One of our first questions was _What were you designed to creatively do..._
 
 The woman across from me was a strong, confident, Type-A mom-she was an obvious hard worker with a good head on her shoulders, and beneath the strength she wore to carry and manage her home, lay a tenderness when she talked about her family. When her time came, she said _"I don't really see myself as creative so I'm not sure how to answer this. I'm a mom." _
 
@@ -19,7 +19,7 @@ It's been almost a year since I sat across from her, and I have not been able to
 
 Because, the truth is, we are all creative. Whether you spend your days behind punching numbers, or you work at a local coffee shop-or your days are filled with picking up the same eight toys from the stairs and potty training and pick ups and drop offs-or painting...everything we do must contain a spark of creativity. It must. You have to understand this if nothing else from this post: our lives are creative masterpieces. Like a 1000 piece puzzle with pieces scattered everywhere across the table, just waiting to have its spot found, we are desperate to find where we perfectly fit-the spot only we can fill-in the big pictures. Don't let anyone tell you your spot in the puzzle lacks the luster or importance or beauty of another...It is necessary and it is beautiful. Every little thing gives us the chance to choose how we are going to perform the task at hand-hitting nerves in the left side of our brain-setting us apart as creative beings.
 
-[![2013-12-30_0141](http://yellowconference.com/wp-content/uploads/2016/04/2013-12-30_0141.jpg)](http://yellowconference.com/wp-content/uploads/2016/04/2013-12-30_0141.jpg)I've struggled with this, though, asking myself: _Am I creative **enough? **_Is what I have to offer something that people will be interested in? Or am I fooling myself, thinking I'm creative when all this time I'm just a dreamer with my pencil and paper. Is what I have to offer enough? Will it be accepted and will it be **enjoyed?**
+[![2013-12-30_0141](https://yellow-blog-images.imgix.net/2016/04/2013-12-30_0141.jpg)](https://yellow-blog-images.imgix.net/2016/04/2013-12-30_0141.jpg)I've struggled with this, though, asking myself: _Am I creative **enough? **_Is what I have to offer something that people will be interested in? Or am I fooling myself, thinking I'm creative when all this time I'm just a dreamer with my pencil and paper. Is what I have to offer enough? Will it be accepted and will it be **enjoyed?**
 
 ## And it eventually boils down to one question: Will _I_ be enough?
 
@@ -35,7 +35,7 @@ I am Creative Enough to pick up that paintbrush, pen, or spray paint and go at i
 
 ### I am Creative Enough to make, just for the heck of it.
 
-[![2013-12-30_0074](http://yellowconference.com/wp-content/uploads/2016/04/2013-12-30_0074.jpg)](http://yellowconference.com/wp-content/uploads/2016/04/2013-12-30_0074.jpg)I am Creative Enough because there's something divine in my DNA that calls me to keep making. And I believe that cry exists in everyone-the cry to create. Whether it's a love for spreadsheets, doing dishes, gardening, assisting the sick, event planning, medical research, teaching, graphic design...**you** name it and you wear it proudly and you _proclaim _it: **You are Creative Enough. **
+[![2013-12-30_0074](https://yellow-blog-images.imgix.net/2016/04/2013-12-30_0074.jpg)](https://yellow-blog-images.imgix.net/2016/04/2013-12-30_0074.jpg)I am Creative Enough because there's something divine in my DNA that calls me to keep making. And I believe that cry exists in everyone-the cry to create. Whether it's a love for spreadsheets, doing dishes, gardening, assisting the sick, event planning, medical research, teaching, graphic design...**you** name it and you wear it proudly and you _proclaim _it: **You are Creative Enough. **
 
 > #### _“Don't ask yourself what the world needs. Ask yourself what **makes you come alive**, and go **do** that, because what the world needs is people who have **come alive**. The world needs more people who are alive." -Henry Thurman_
 
@@ -43,4 +43,4 @@ What makes you come alive? What were you made to offer? You are Creative Enough 
 
 _Photos by [Whitney Schey](http://whitneydarling.com/engaged-will-sally-3/)_
 
-[![sally kim for the yellow co. blog](http://yellowconference.com/wp-content/uploads/2015/12/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![sally kim for the yellow co. blog](https://yellow-blog-images.imgix.net/2015/12/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

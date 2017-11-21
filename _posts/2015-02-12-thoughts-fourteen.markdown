@@ -10,7 +10,7 @@ categories:
 redirect_from: "/light-talk/thoughts-fourteen/"
 ---
 
-[![untitled (15 of 511)](http://yellowconference.com/wp-content/uploads/2015/02/untitled-15-of-511.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/untitled-15-of-511.jpg)
+[![untitled (15 of 511)](https://yellow-blog-images.imgix.net/2015/02/untitled-15-of-511.jpg)](https://yellow-blog-images.imgix.net/2015/02/untitled-15-of-511.jpg)
 
 Here it is, sitting on our doorstep again…the holiday that tends to bring about the most extreme emotions, expectations, and often times, disappointments.
 
@@ -30,7 +30,7 @@ While I’m not trying to knock on Valentine’s Day, lend me your ear for a sec
 
 **What if today, instead of waiting to be swept off our feet, we decided to look to the people around us? What if we looked to our other somebodies?** What if we looked to our person, our people, our sisters—the ones who listen to us babble when we’re feeling misunderstood, the ones who are still willing to be seen in public with us when we haven’t washed our hair in way too many days, the ones who send us snapchats of their triple chins, and those somebodies who have chosen to see the best in us even when we can’t—what if we turned today into a day that honored all the people in our lives who have loved us well, and reminded us that we are somebody.
 
-[![NIKOLE2](http://yellowconference.com/wp-content/uploads/2015/02/NIKOLE2.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/NIKOLE2.jpg)
+[![NIKOLE2](https://yellow-blog-images.imgix.net/2015/02/NIKOLE2.jpg)](https://yellow-blog-images.imgix.net/2015/02/NIKOLE2.jpg)
 
 **What if instead of turning today into celebration of how much somebody loves us, we took the day to love and celebrate others?** I _know_ that each of us have people in our lives who have stuck with us when we didn’t even like us. People who have put up with our crazy mood swings, pms, changing opinions, and given us those hard, but cherished, words of advice that allowed us to see the world just a little bit differently.
 
@@ -38,7 +38,7 @@ So, what if today, we honored _all_ of our somebodies for this fourteen?
 
 What if we wrote them notes about how much their consistency meant in our lives? What if we reminded them how much we notice and cherish them even though our proximities may have changed? What if we took a second to acknowledge that we couldn’t have done ____________ without them? What if we told the world just how much we loved _them_?
 
-[![IMG_8166](http://yellowconference.com/wp-content/uploads/2015/02/IMG_8166.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/IMG_8166.jpg)
+[![IMG_8166](https://yellow-blog-images.imgix.net/2015/02/IMG_8166.jpg)](https://yellow-blog-images.imgix.net/2015/02/IMG_8166.jpg)
 
 Call me naive, but I believe fourteen could be a beautiful day of unexpected fullness.
 
@@ -46,4 +46,4 @@ This fourteenth, I am really excited to dream a little differently, and to see t
 
 _Photos by [Whitney Darling](http://whitneydarling.com/), [Karen Hernandez](http://alwaysjoyfulkaren.blogspot.com/), and Nikole Sparks_
 
-[![nikolesparks](http://yellowconference.com/wp-content/uploads/2015/02/nikolesparks.jpg)](http://nikolesparksdesign.com/)
+[![nikolesparks](https://yellow-blog-images.imgix.net/2015/02/nikolesparks.jpg)](http://nikolesparksdesign.com/)

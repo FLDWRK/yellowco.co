@@ -5,6 +5,8 @@ date: '2017-10-16 04:00:34 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/tribe-alive-ethical-artisan-made-fashion/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
 Have you heard of [Tribe Alive](https://tribealive.com/) yet? If you haven’t, settle into this interview with their founder, Carly Burson. Tribe Alive is an ethical fashion brand that creates beautiful clothing, accessories, and jewelry while empowering artisans in the developing world. I was so excited to talk with my friend, Carly, about her social enterprise, and I was even more excited to hear about how much she and her company value dignity, respect, and self-sufficiency of the artisans they partner with! As a founder of a social enterprise myself, I was so happy to hear how intentional Carly is about growing her company.
@@ -21,7 +23,7 @@ The name came from my ambition to build more than just a fashion company, but ra
 
 We believe that when people, fashion, ethical consumerism, and marketplace access are combined, they have the power to breathe life into the communities that our artisans live in. Hence a _Tribe_ _Alive._
 
-![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/39140020.jpg)
+![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/39140020.jpg)
 
 #### **3\. There are so many up-and-coming socially conscious brands on the market. Something unique about Tribe Alive is the intentional design of your pieces. Can you tell us more about your design process and why aesthetics are so important to your brand?**
 
@@ -37,7 +39,7 @@ We work in really hard parts of the world and employ people who live difficult l
 
 At the end of the day, the 'hard' is the reason we’re here and why we’re on a mission to do what we do. But yes - the challenges are constant, and I’m finally in a place where it has just become a messy but beautiful part of it all.
 
-![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/39100023.jpg)
+![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/39100023.jpg)
 
 #### **5\. As a mom and an entrepreneur, how do you find time to balance everything?**
 
@@ -51,7 +53,7 @@ We really value dignity and believe in spotlighting our artisans in a dignified 
 
 ### We all desire for our own stories to be shared in a positive light, with a focus on strength and ability, and we believe that our artisans are deserving of that same respect.
 
-![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/39160037.jpg)
+![10 QUESTIONS WITH TRIBE ALIVE ON ETHICAL, ARTISAN MADE FASHION - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/39160037.jpg)
 
 #### **7\. Can you tell us about your artisans and how they benefit from working with Tribe Alive?**
 
@@ -75,4 +77,4 @@ You can learn more about [Tribe Alive](https://tribealive.com/) [here](https://t
 
 _Photos courtesy of [Tribe Alive](https://tribealive.com/)_
 
-[![Elisabetta Colabianchi BIO](http://yellowco.co/wp-content/uploads/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/)
+[![Elisabetta Colabianchi BIO](https://yellow-blog-images.imgix.net/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/)

@@ -15,7 +15,7 @@ categories:
 redirect_from: "/advice/refinenotdefine/"
 ---
 
-[![Let your setbacks refine your mission, not define your worth. ](http://yellowconference.com/wp-content/uploads/2015/11/photoone1.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/photoone1.jpg)
+[![Let your setbacks refine your mission, not define your worth. ](https://yellow-blog-images.imgix.net/2015/11/photoone1.jpg)](https://yellow-blog-images.imgix.net/2015/11/photoone1.jpg)
 
 It was January, just weeks after I had graduated from college with a degree in Writing, and a minor in Social Justice and Advocacy. I had dreams of traveling the world, getting my hands filthy with dirt and mud and my feet covered with stories of helping people I loved—kids in India, mothers in Somalia, young girls in New York…really, I was open to anywhere. Anywhere _but_ here (Orange County in Southern California).
 
@@ -25,7 +25,7 @@ I remember driving home from work, coasting on the 405 South one night, reflecti
 
 To…full-time mom overnight.
 
-[![Letting Setbacks Refine Your Mission, Not Define Your Story](http://yellowconference.com/wp-content/uploads/2015/12/picture2.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/picture2.jpg)
+[![Letting Setbacks Refine Your Mission, Not Define Your Story](https://yellow-blog-images.imgix.net/2015/12/picture2.jpg)](https://yellow-blog-images.imgix.net/2015/12/picture2.jpg)
 
 Since that day, my life has taken some crazy turns—from court dates, to giving two of the three boys back into their birth moms custody, to adopting a teen, meeting my husband, and having a baby of my own…These past three years have been _full…_to say the least. Full of nights with tears and anxiety and fear. Full of hardships that I still can’t fully process. But so so full of beauty and joy and laughter. It was a season where tears reaped joy, and the beauty of the time (that’s still so ongoing) far outweighed the pain.
 
@@ -37,7 +37,7 @@ When we pause, whether willingly or kicking and screaming, we’re given the opp
 
 ## Taking a step back gives us the freedom to refine our journey to reach our ultimate destination.
 
-[![Letting Setbacks Refine Your Mission, Not Define Your Story](http://yellowconference.com/wp-content/uploads/2015/12/picture3.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/picture3.jpg)
+[![Letting Setbacks Refine Your Mission, Not Define Your Story](https://yellow-blog-images.imgix.net/2015/12/picture3.jpg)](https://yellow-blog-images.imgix.net/2015/12/picture3.jpg)
 
 My step back was not intentional, nor welcomed. I grieved (and, hear me, grieving is a good thing to do when you’re dreams are challenged and you are eventually asked to completely let go…in fact…it is 100% necessary). I wanted to see other places, and love people that were different than the people I’d been surrounded with my whole life. But, as life would have it, that glorious interruption showed me that my major calling in life was to be a Mommy (with that capital M), and to defend the orphans that are _here._ In 2014, there were over 62 _thousand_ kids in the foster care system, two thousand of them being _in Orange County alone._ My _home._
 
@@ -53,7 +53,7 @@ I started sharing my story on my blog. I started inviting people in, and I start
 
 And here I am! Happy with where my life is headed, all because some tragic, hard, and demanding circumstances decided to weasel their way into my life.
 
-[![Letting Setbacks Refine Your Mission, Not Define Your Story](http://yellowconference.com/wp-content/uploads/2015/12/picture4.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/picture4.jpg)
+[![Letting Setbacks Refine Your Mission, Not Define Your Story](https://yellow-blog-images.imgix.net/2015/12/picture4.jpg)](https://yellow-blog-images.imgix.net/2015/12/picture4.jpg)
 
 ## Life forced me to pause and redefine my mission, where I am headed, and to take a completely different course. And I cannot imagine it any other way.
 
@@ -65,4 +65,4 @@ Don’t be afraid of those speed bumps… Those circumstances that may be dishea
 
 _Photos by [Valerie Denise](http://valeriedenisephotos.com/)_
 
-[![Sally Kim Content manager for the Yellow Co.](http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![Sally Kim Content manager for the Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

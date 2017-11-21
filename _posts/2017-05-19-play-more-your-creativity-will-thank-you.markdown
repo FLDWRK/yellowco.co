@@ -19,7 +19,7 @@ Since August, I have made a point to cut out the excess in my life. To live on a
 
 In making space for my creativity to expand, my work has become inspired. The words I write flow with passion, and the clients I serve get a light-hearted, life-filled coach!  If you're feeling stuck, burned out, or like your life has become a hamster wheel of work-eat-sleep-work, then I urge you to live more alive.  I mean, it _is_ the whole point.
 
-![HUSTLE LESS, PLAY MORE: YOUR CREATIVITY WILL THANK YOU](http://yellowco.co/wp-content/uploads/2017/05/Buki6-16-2016-023.jpg "HUSTLE LESS, PLAY MORE: YOUR CREATIVITY WILL THANK YOU")
+![HUSTLE LESS, PLAY MORE: YOUR CREATIVITY WILL THANK YOU](https://yellow-blog-images.imgix.net/2017/05/Buki6-16-2016-023.jpg "HUSTLE LESS, PLAY MORE: YOUR CREATIVITY WILL THANK YOU")
 
 ### **Discover your essentials.**
 
@@ -37,4 +37,4 @@ It can certainly be scary to cut back. We are so accustomed to thinking that mor
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![MADISON HEDLUND BIO](http://yellowco.co/wp-content/uploads/2017/05/MADISON-HEDLUND-BIO.jpg "MADISON HEDLUND BIO")](http://www.madisonhedlund.co/)
+[![MADISON HEDLUND BIO](https://yellow-blog-images.imgix.net/2017/05/MADISON-HEDLUND-BIO.jpg "MADISON HEDLUND BIO")](http://www.madisonhedlund.co/)

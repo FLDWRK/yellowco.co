@@ -11,7 +11,7 @@ redirect_from: "/bloomyellow/february-yellow-gathering-building-your-social-medi
 
 If you have any desire to connect, build and refine your social media platforms, consider joining us on Feb 18th!
 
-[![Feb-Blog-Post](http://yellowconference.com/wp-content/uploads/2016/02/Feb-Blog-Post.jpg)](https://www.eventbrite.com/e/building-your-social-media-tribe-tickets-21283047167)
+[![Feb-Blog-Post](https://yellow-blog-images.imgix.net/2016/02/Feb-Blog-Post.jpg)](https://www.eventbrite.com/e/building-your-social-media-tribe-tickets-21283047167)
 
 Whether you realize it or not, social media is a great (an necessary) way to build your business. Knowing your strategy and how to move forward is what this workshop is about.
 

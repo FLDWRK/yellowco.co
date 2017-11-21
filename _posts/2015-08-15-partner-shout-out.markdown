@@ -13,7 +13,7 @@ We're beyond excited to have these partners come alongside us this year. We make
 
 Check them out below and give them a shoutout!
 
-[![Sponsor-Graphic_FINAL](http://yellowconference.com/wp-content/uploads/2015/08/Sponsor-Graphic_FINAL1.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/Sponsor-Graphic_FINAL1.jpg)
+[![Sponsor-Graphic_FINAL](https://yellow-blog-images.imgix.net/2015/08/Sponsor-Graphic_FINAL1.jpg)](https://yellow-blog-images.imgix.net/2015/08/Sponsor-Graphic_FINAL1.jpg)
 
 [cols]  
 [col class="1/2"]  
@@ -56,4 +56,4 @@ Check them out below and give them a shoutout!
 [/col]  
 [/cols]  
 See you at Yellow 2015!!  
-[![Author_Template_Joanna](http://yellowconference.com/wp-content/uploads/2015/08/Author_Template_Joanna.jpg)](http://instagram.com/joannawaterfall)
+[![Author_Template_Joanna](https://yellow-blog-images.imgix.net/2015/08/Author_Template_Joanna.jpg)](http://instagram.com/joannawaterfall)

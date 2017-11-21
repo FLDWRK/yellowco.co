@@ -17,7 +17,7 @@ Several months after graduating, I landed what I had envisioned was my dream job
 
 But, after my initial high (and tucking several published magazines under my belt), I reached a lull. I hit a wall in all aspects of my job. I didn’t enjoy it. And worst of all, I lost my love for writing. Instead of having freedom to write whatever I wanted, I felt constrained to the standard arts and crafts format, and grew tired of doing the same thing every round. The more responsibilities I was given, the more pressure and criticism I received from the publisher of the company - and the more I spent my free time being consumed with work. There were moments throughout my day where I found myself staring at the computer screen, watching words blur into one another.
 
-![WHAT I LEARNED WHEN MY DREAM JOB BECAME A CHORE - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/05/HJ-Kaleidos-023.jpg "WHAT I LEARNED WHEN MY DREAM JOB BECAME A CHORE - THE YELLOW ROOM")
+![WHAT I LEARNED WHEN MY DREAM JOB BECAME A CHORE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/05/HJ-Kaleidos-023.jpg "WHAT I LEARNED WHEN MY DREAM JOB BECAME A CHORE - THE YELLOW ROOM")
 
 ### **I lost my passion. My dream job had become a chore.**
 
@@ -29,7 +29,7 @@ Since leaving what others might call a “dream job”, I've certainly had my fr
 
 I know that many of you are either struggling to land that dream job, or may be in the middle of one, realizing it isn't at all how you pictured it to be. If you are, I've learned a few lessons from this season that I hope will help you through this time. Reflect on them, and remember them. 
 
-![WHAT I LEARNED WHEN MY DREAM JOB BECAME A CHORE - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/05/HJ-Kaleidos-017.jpg)
+![WHAT I LEARNED WHEN MY DREAM JOB BECAME A CHORE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/05/HJ-Kaleidos-017.jpg)
 
 **You are unique. We are not made to be like one another.** Each of us were created with our own unique paths and passions. It’s time that we celebrate who we are - _all of it_. I identified myself so much with my job, that when I finally left I felt like I didn’t know who I was anymore. The world taught me that if I didn't have a career set I was a failure. In reality, our career doesn’t define who we are as a person, it simply plays a part of it.
 
@@ -39,4 +39,4 @@ I know that many of you are either struggling to land that dream job, or may be 
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![CHRISTINE STEPHENS BIO](http://yellowco.co/wp-content/uploads/2017/05/CHRISTINE-STEPHENS-BIO.jpg)](https://delightfulfindings.wordpress.com/)
+[![CHRISTINE STEPHENS BIO](https://yellow-blog-images.imgix.net/2017/05/CHRISTINE-STEPHENS-BIO.jpg)](https://delightfulfindings.wordpress.com/)

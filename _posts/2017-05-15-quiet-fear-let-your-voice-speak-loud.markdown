@@ -21,7 +21,7 @@ I lied to myself, saying that I needed approval before I could pursue anything g
 
 Was my life terrible as the CSO of a startup? Not at all. In fact, it was dreamy on some levels. But, I knew that my story was incomplete. The years that we live add up to a story that we will one day leave behind. And if we don’t pursue our mission, we never get to experience the depth of what life has to offer. This legacy I wanted to leave became my passion: I want women around the world to be ignited by love and light, and to exemplify this in the life I live. My mission is to make this happen everywhere that I go, one moment at a time.
 
-![QUIETING FEAR TO LET YOUR VOICE SPEAK LOUD](http://yellowco.co/wp-content/uploads/2017/05/Grace002.jpg)
+![QUIETING FEAR TO LET YOUR VOICE SPEAK LOUD](https://yellow-blog-images.imgix.net/2017/05/Grace002.jpg)
 
 ### **Having a firm understanding of my mission and passion makes me more intentional around how I show up in the world each day.**
 
@@ -39,4 +39,4 @@ This transition has not been the easiest for me, but certainly the most reward
 
 _Photos by: [Grey & Elle](http://www.greyandelle.com/)_
 
-[![SYBIL CLARK AMUTI BIO](http://yellowco.co/wp-content/uploads/2017/05/SYBIL-CLARK-AMUTI-BIO.jpg)](http://www.legacyrow.co/)
+[![SYBIL CLARK AMUTI BIO](https://yellow-blog-images.imgix.net/2017/05/SYBIL-CLARK-AMUTI-BIO.jpg)](http://www.legacyrow.co/)

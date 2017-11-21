@@ -21,7 +21,7 @@ Later that year, my husband and I welcomed a healthy baby boy. Within a few mont
 
 After almost a full year into motherhood, we decided it was best to move closer to family, meaning I would now need to go back to working full-time. The final months of being a stay-at-home mom were closing in, and I knew it would be much harder to transition back to work. But, I stayed positive and hopeful for my family.
 
-![REDISCOVERING MY SELF WORTH IN THE MIDST OF TRANSITION - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Dreamer-15-1.jpg)
+![REDISCOVERING MY SELF WORTH IN THE MIDST OF TRANSITION - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/Dreamer-15-1.jpg)
 
 My first three weeks entering back into the workforce were the worst. For the first time, I entered into an identity crisis. I had worked so hard to be content as a mom, and suddenly adding a full time job to the mix made this far more difficult. One day at work, I was sitting in the bathroom stall, staring at old pictures of my son, and my heart dropped to my stomach. I missed him so much. Guilt, sadness, and anxiety arose with in me. Thoughts of not feeling worthy emerged, and I allowed them to consume me for the rest of the day.
 
@@ -35,6 +35,6 @@ This new season continues to stretch me in many ways, and there is still a lot o
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![CHRISTINE STEPHENS BIO](http://yellowco.co/wp-content/uploads/2017/05/CHRISTINE-STEPHENS-BIO.jpg)](https://delightfulfindings.wordpress.com/)
+[![CHRISTINE STEPHENS BIO](https://yellow-blog-images.imgix.net/2017/05/CHRISTINE-STEPHENS-BIO.jpg)](https://delightfulfindings.wordpress.com/)
 
 #### [THE 2017 YELLOW CONFERENCE IS IN 8 DAYS! JOIN US AUGUST 24TH & 25TH IN DOWNTOWN LOS ANGELES! ](http://yellowco.co/conference/)
