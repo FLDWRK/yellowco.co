@@ -11,20 +11,20 @@
       padding-top: .7rem;
       padding-bottom: .70rem;
     }
-    input, .required.email {
-      width: 70%;
-    }
-    @include media-breakpoint-down(lg) {
-      input {
-        width: 60%;
-      }
-    }
-    @include media-breakpoint-down(xs) {
-      input {
-        width: 65%;
-        margin-bottom: 0;
-      }
-    }
+    // input, .required.email {
+    //   width: 70%;
+    // }
+    // @include media-breakpoint-down(lg) {
+    //   input {
+    //     width: 60%;
+    //   }
+    // }
+    // @include media-breakpoint-down(xs) {
+    //   input {
+    //     width: 65%;
+    //     margin-bottom: 0;
+    //   }
+    // }
   }
   h3.email-yellow {
     font-size: 1.5rem;
