@@ -7,7 +7,7 @@ categories:
 - Creative Ladies
 - Encouragement
 - Heart
-redirect_from: ""
+redirect_from: "/creative-ladies/the-importance-of-staying-curious-and-exploring-like-crazy/"
 ---
 
 ## [![yellowcollectivexheritage-andreadavid18](https://yellow-blog-images.imgix.net/2016/11/YellowCollectivexHeritage-AndreaDavid18.jpg)](https://yellow-blog-images.imgix.net/2016/11/YellowCollectivexHeritage-AndreaDavid18.jpg)Curiosity is a beautiful piece of us to embrace. Curiosity is innate. It is natural. To find it, we must look beyond the patterns of our day. We must be able to allow ourselves to come to the present and experience every moment as if it was to never cross our path again.

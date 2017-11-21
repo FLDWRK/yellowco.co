@@ -1,5 +1,5 @@
 ---
-title: Doing What You Can: Where You are Can Change the World
+title: "Doing What You Can: Where You are Can Change the World"
 author: hanna@yellowco.co
 date: '2017-09-06 04:00:12 -0700'
 categories:

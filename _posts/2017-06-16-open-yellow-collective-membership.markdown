@@ -1,5 +1,5 @@
 ---
-title: 'We're Open: the Yellow Collective Membership'
+title: "We're Open: the Yellow Collective Membership"
 author: heygirl@yellowconference.com
 date: '2017-06-16 04:00:23 -0700'
 categories:

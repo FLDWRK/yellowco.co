@@ -315,6 +315,9 @@ class Player extends Component {
     // Turn off API access because we're loading a new tech that might load asynchronously
     this.isReady_ = false;
 
+    // Init state hasStarted_
+    this.hasStarted_ = false;
+
     // if the global option object was accidentally blown away by
     // someone, bail early with an informative error
     if (!this.options_ ||
@@ -656,17 +659,18 @@ class Player extends Component {
     if (value === '') {
       // If an empty string is given, reset the dimension to be automatic
       this[privDimension] = undefined;
-    } else {
-      const parsedVal = parseFloat(value);
-
-      if (isNaN(parsedVal)) {
-        log.error(`Improper value "${value}" supplied for for ${dimension}`);
-        return;
-      }
-
-      this[privDimension] = parsedVal;
+      this.updateStyleEl_();
+      return;
     }
 
+    const parsedVal = parseFloat(value);
+
+    if (isNaN(parsedVal)) {
+      log.error(`Improper value "${value}" supplied for for ${dimension}`);
+      return;
+    }
+
+    this[privDimension] = parsedVal;
     this.updateStyleEl_();
   }
 
@@ -1124,29 +1128,31 @@ class Player extends Component {
    *
    * @fires Player#firstplay
    *
-   * @param {boolean} hasStarted
+   * @param {boolean} request
    *        - true: adds the class
    *        - false: remove the class
    *
    * @return {boolean}
-   *         the boolean value of hasStarted
+   *         the boolean value of hasStarted_
    */
-  hasStarted(hasStarted) {
-    if (hasStarted !== undefined) {
-      // only update if this is a new value
-      if (this.hasStarted_ !== hasStarted) {
-        this.hasStarted_ = hasStarted;
-        if (hasStarted) {
-          this.addClass('vjs-has-started');
-          // trigger the firstplay event if this newly has played
-          this.trigger('firstplay');
-        } else {
-          this.removeClass('vjs-has-started');
-        }
-      }
+  hasStarted(request) {
+    if (request === undefined) {
+      // act as getter, if we have no request to change
+      return this.hasStarted_;
+    }
+
+    if (request === this.hasStarted_) {
       return;
     }
-    return !!this.hasStarted_;
+
+    this.hasStarted_ = request;
+
+    if (this.hasStarted_) {
+      this.addClass('vjs-has-started');
+      this.trigger('firstplay');
+    } else {
+      this.removeClass('vjs-has-started');
+    }
   }
 
   /**
@@ -1582,34 +1588,38 @@ class Player extends Component {
    * @private
    */
   techGet_(method) {
-    if (this.tech_ && this.tech_.isReady_) {
-
-      if (method in middleware.allowedGetters) {
-        return middleware.get(this.middleware_, this.tech_, method);
-      }
-
-      // Flash likes to die and reload when you hide or reposition it.
-      // In these cases the object methods go away and we get errors.
-      // When that happens we'll catch the errors and inform tech that it's not ready any more.
-      try {
-        return this.tech_[method]();
-      } catch (e) {
-        // When building additional tech libs, an expected method may not be defined yet
-        if (this.tech_[method] === undefined) {
-          log(`Video.js: ${method} method not defined for ${this.techName_} playback technology.`, e);
-
-        // When a method isn't available on the object it throws a TypeError
-        } else if (e.name === 'TypeError') {
-          log(`Video.js: ${method} unavailable on ${this.techName_} playback technology element.`, e);
-          this.tech_.isReady_ = false;
-        } else {
-          log(e);
-        }
-        throw e;
-      }
+    if (!this.tech_ || !this.tech_.isReady_) {
+      return;
     }
 
-    return;
+    if (method in middleware.allowedGetters) {
+      return middleware.get(this.middleware_, this.tech_, method);
+    }
+
+    // Flash likes to die and reload when you hide or reposition it.
+    // In these cases the object methods go away and we get errors.
+    // When that happens we'll catch the errors and inform tech that it's not ready any more.
+    try {
+      return this.tech_[method]();
+    } catch (e) {
+
+      // When building additional tech libs, an expected method may not be defined yet
+      if (this.tech_[method] === undefined) {
+        log(`Video.js: ${method} method not defined for ${this.techName_} playback technology.`, e);
+        throw e;
+      }
+
+      // When a method isn't available on the object it throws a TypeError
+      if (e.name === 'TypeError') {
+        log(`Video.js: ${method} unavailable on ${this.techName_} playback technology element.`, e);
+        this.tech_.isReady_ = false;
+        throw e;
+      }
+
+      // If error unknown, just log and throw
+      log(e);
+      throw e;
+    }
   }
 
   /**
@@ -2276,7 +2286,7 @@ class Player extends Component {
   src(source) {
     // getter usage
     if (typeof source === 'undefined') {
-      return this.cache_.src;
+      return this.cache_.src || '';
     }
     // filter out invalid sources and turn our source into
     // an array of source objects

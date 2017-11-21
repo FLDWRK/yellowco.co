@@ -11,7 +11,7 @@
       padding-top: .7rem;
       padding-bottom: .70rem;
     }
-    input {
+    input, .required.email {
       width: 70%;
     }
     @include media-breakpoint-down(lg) {
@@ -29,6 +29,8 @@
   h3.email-yellow {
     font-size: 1.5rem;
     letter-spacing: 1px;
+    position: relative;
+    top: 12px;
     &:hover {
       text-decoration: none;
     }
