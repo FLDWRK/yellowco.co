@@ -1,6 +1,6 @@
 ---
 title: Enjoying a Creative Outlet Without the Pressure of Profit
-author: hanna@yellowco.co
+author: Brianna Towne
 date: '2017-07-10 04:00:49 -0700'
 categories:
 - Tension

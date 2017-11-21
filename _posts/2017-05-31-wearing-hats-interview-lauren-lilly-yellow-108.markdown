@@ -1,6 +1,6 @@
 ---
 title: 'Wearing All the Hats: Our Interview with Lauren Lilly, Founder of Yellow 108'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-05-31 04:00:29 -0700'
 categories:
 - Wander

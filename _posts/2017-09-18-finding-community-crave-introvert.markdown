@@ -1,6 +1,6 @@
 ---
 title: Finding the Community I Crave as an Introvert
-author: hanna@yellowco.co
+author: Jessica Whalen
 date: '2017-09-18 04:00:14 -0700'
 categories:
 - Tension

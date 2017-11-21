@@ -1,6 +1,6 @@
 ---
 title: Breaking Free from the Bounds of People-Pleasing
-author: hanna@yellowco.co
+author: Christine Stephens
 date: '2017-03-17 04:00:48 -0700'
 categories:
 - Inspiration

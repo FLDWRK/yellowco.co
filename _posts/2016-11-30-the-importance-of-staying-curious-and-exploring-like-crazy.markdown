@@ -1,7 +1,6 @@
 ---
 title: The Undeniable Importance of Staying Curious for Your Life and Business
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=7379
 date: '2016-11-30 04:00:38 -0800'
 categories:
 - Creative Ladies

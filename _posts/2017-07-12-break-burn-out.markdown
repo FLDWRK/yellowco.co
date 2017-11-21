@@ -1,6 +1,6 @@
 ---
 title: How to Break the Pattern of Burn Out
-author: hanna@yellowco.co
+author: Abigail Davidson
 date: '2017-07-12 04:00:21 -0700'
 categories:
 - Tension

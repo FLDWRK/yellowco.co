@@ -1,6 +1,6 @@
 ---
 title: The Impact of Planning a Personal Retreat
-author: hanna@yellowco.co
+author: Kristi Porter
 date: '2017-04-12 04:00:13 -0700'
 categories:
 - Wander

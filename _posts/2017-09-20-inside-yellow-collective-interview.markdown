@@ -1,6 +1,6 @@
 ---
 title: 'Inside Our Membership: an Interview with Our NYC Co-Leader'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-09-20 04:00:01 -0700'
 categories:
 - Tension

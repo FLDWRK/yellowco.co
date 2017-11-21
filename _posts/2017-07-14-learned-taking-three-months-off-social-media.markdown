@@ -1,6 +1,6 @@
 ---
 title: What I Learned By Taking Three Months Off from Social Media
-author: hanna@yellowco.co
+author: Emily Schrems
 date: '2017-07-14 04:00:41 -0700'
 categories:
 - Tension

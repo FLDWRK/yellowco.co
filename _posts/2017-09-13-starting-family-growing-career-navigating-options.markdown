@@ -1,6 +1,6 @@
 ---
 title: 'Starting a Family vs. Growing Your Career: Navigating the Options'
-author: hanna@yellowco.co
+author: Jackie Boylhart
 date: '2017-09-13 04:00:18 -0700'
 categories:
 - Tension

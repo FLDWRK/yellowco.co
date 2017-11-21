@@ -1,6 +1,6 @@
 ---
 title: Unleashing Your Childhood Courage to be Your Boldest Self
-author: hanna@yellowco.co
+author: Valeria Palmertree
 date: '2017-05-22 04:00:20 -0700'
 categories:
 - Wander

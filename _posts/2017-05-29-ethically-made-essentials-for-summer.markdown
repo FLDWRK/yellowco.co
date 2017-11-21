@@ -1,6 +1,6 @@
 ---
 title: Six Ethically Made Essentials for Your Summer
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-05-29 04:00:24 -0700'
 categories:
 - Wander

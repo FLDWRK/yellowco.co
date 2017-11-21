@@ -1,6 +1,6 @@
 ---
 title: Embracing that Bittersweet Gift Called Uncertainty
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-02-17 04:00:29 -0800'
 categories:
 - Encouragement

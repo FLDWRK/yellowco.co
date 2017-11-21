@@ -1,6 +1,6 @@
 ---
 title: What Experiencing Discrimination Taught Me About Skepticism
-author: hanna@yellowco.co
+author: Chantelle Gibbs
 date: '2017-10-04 04:00:24 -0700'
 categories:
 - Come Together

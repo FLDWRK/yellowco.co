@@ -1,6 +1,6 @@
 ---
 title: Why I Wandered Down the (Rough) Road Less Traveled
-author: hanna@yellowco.co
+author: Jessica Whalen
 date: '2017-06-14 04:00:37 -0700'
 categories:
 - Wander

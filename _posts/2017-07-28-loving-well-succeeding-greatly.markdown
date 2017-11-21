@@ -1,6 +1,6 @@
 ---
 title: Why Loving Well and Succeeding Greatly is Not an Either/Or
-author: hanna@yellowco.co
+author: Jackie Viramontez
 date: '2017-07-28 04:00:55 -0700'
 categories:
 - Tension

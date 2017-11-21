@@ -1,6 +1,6 @@
 ---
 title: Travel-Friendly Ways to Practice Self Care on the Road
-author: hanna@yellowco.co
+author: Elisabetta Colabianchi
 date: '2017-07-17 04:00:59 -0700'
 categories:
 - Tension

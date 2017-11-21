@@ -1,6 +1,6 @@
 ---
 title: Freeing Your Identity from the Limits of Validation
-author: hanna@yellowco.co
+author: Laura Weldy
 date: '2017-04-21 04:00:53 -0700'
 categories:
 - Wander

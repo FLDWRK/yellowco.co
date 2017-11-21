@@ -1,6 +1,6 @@
 ---
 title: 3 Steps to Create the Specific Support Network You Need
-author: hanna@yellowco.co
+author: Laura Weldy
 date: '2017-10-20 04:00:16 -0700'
 categories:
 - Come Together

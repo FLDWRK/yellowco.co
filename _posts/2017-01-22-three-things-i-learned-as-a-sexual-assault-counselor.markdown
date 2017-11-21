@@ -1,6 +1,6 @@
 ---
 title: The Five Life Lessons I Learned as a Sexual Assault Counselor
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2017-01-22 04:00:19 -0800'
 categories:
 - The Activist

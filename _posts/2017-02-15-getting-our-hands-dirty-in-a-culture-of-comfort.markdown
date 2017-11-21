@@ -1,6 +1,6 @@
 ---
 title: Getting Our Hands Dirty in a Culture of Comfort + a Free Gift
-author: hanna@yellowco.co
+author: Bailey Van Tassel
 date: '2017-02-15 04:00:27 -0800'
 categories:
 - Creative Ladies

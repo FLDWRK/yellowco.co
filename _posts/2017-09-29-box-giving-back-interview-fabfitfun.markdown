@@ -1,6 +1,6 @@
 ---
 title: 'The Box that Keeps Giving Back: an Interview with the Co-Founder of FabFitFun'
-author: hanna@yellowco.co
+author: 
 date: '2017-09-29 04:00:45 -0700'
 categories:
 - Tension

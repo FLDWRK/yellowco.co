@@ -1,11 +1,11 @@
 ---
 title: 5 Posts to Read Over the Weekend
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=7350
 date: '2016-11-25 11:58:39 -0800'
 categories:
 - Encouragement
 - Heart
+redirect_from: "/encouragement/5-posts-to-read-over-the-weekend/"
 ---
 
 So it begins! The holidays have officially started.

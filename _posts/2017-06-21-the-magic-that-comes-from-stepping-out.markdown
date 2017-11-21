@@ -1,6 +1,6 @@
 ---
 title: A Few Words from Our Collective Members
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2017-06-21 04:00:18 -0700'
 categories:
 - Wander

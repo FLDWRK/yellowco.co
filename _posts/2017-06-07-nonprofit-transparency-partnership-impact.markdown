@@ -1,6 +1,6 @@
 ---
 title: 'Nonprofit Transparency: Finding a Partnership that Makes Real Impact'
-author: hanna@yellowco.co
+author: "Rachael Parker-Chavez"
 date: '2017-06-07 04:00:15 -0700'
 categories:
 - Wander

@@ -1,6 +1,6 @@
 ---
 title: 4 Lessons I Learned as a Pregnant Entrepreneur
-author: hanna@yellowco.co
+author: Bailey Van Tassel
 date: '2017-08-02 04:00:21 -0700'
 categories:
 - Tension
