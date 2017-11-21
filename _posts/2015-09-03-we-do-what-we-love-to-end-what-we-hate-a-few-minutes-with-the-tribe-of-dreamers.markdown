@@ -1,6 +1,6 @@
 ---
 title: 'We Do What We Love to End What We Hate: A Few Minutes with the Tribe of Dreamers'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-09-03 04:00:35 -0700'
 categories:
 - Creative Ladies

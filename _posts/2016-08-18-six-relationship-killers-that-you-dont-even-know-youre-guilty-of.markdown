@@ -1,7 +1,6 @@
 ---
-title: Six Relationship Killers that You Don't Even Know You're Guilty of (and How
-  to Fix Them)
-author: heygirl@yellowconference.com
+title: Six Relationship Killers that You Don't Even Know You're Guilty of (and How to Fix Them)
+author: Julia Goddard
 date: '2016-08-18 04:00:15 -0700'
 categories:
 - Light Talk

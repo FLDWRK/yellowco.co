@@ -1,6 +1,6 @@
 ---
 title: Five Tips to Carry Conversation Like a Pro
-author: heygirl@yellowconference.com
+author: Emily Bode
 date: '2015-06-25 04:00:45 -0700'
 categories:
 - Light Talk

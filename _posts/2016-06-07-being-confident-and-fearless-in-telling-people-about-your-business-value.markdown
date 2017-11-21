@@ -1,6 +1,6 @@
 ---
 title: How to Sell Yourself and Your Services with Confidence
-author: heygirl@yellowconference.com
+author: Bailey Van Tassel
 date: '2016-06-07 04:00:52 -0700'
 categories:
 - Advice

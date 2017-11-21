@@ -1,6 +1,6 @@
 ---
 title: '"I Never Wanted to Be "the Angry Black Woman""'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2015-09-17 04:00:05 -0700'
 categories:
 - Creative Ladies

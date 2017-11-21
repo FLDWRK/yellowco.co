@@ -1,7 +1,6 @@
 ---
-title: Three Pieces of Encouragement for the Dreamer & Doer by Kohl Crecelius, Co-Founder
-  of Krochet Kids INTL.
-author: heygirl@yellowconference.com
+title: Three Pieces of Encouragement for the Dreamer & Doer by Kohl Crecelius, Co-Founder of Krochet Kids INTL.
+author: Kohl Crecelius
 date: '2016-08-09 04:00:39 -0700'
 categories:
 - Creative Advocacy

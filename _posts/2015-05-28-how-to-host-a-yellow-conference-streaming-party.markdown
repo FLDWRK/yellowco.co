@@ -1,6 +1,6 @@
 ---
 title: How to Host a Yellow Conference Streaming Party
-author: heygirl@yellowconference.com
+author: Lindsay Ashcraft
 date: '2015-05-28 04:00:08 -0700'
 categories:
 - Light Talk

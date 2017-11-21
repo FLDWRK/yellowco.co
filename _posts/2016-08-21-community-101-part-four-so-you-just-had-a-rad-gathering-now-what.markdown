@@ -1,6 +1,6 @@
 ---
 title: 'Community 101 Part Four: so You Just Had an Amazing Gathering, Now What?'
-author: heygirl@yellowconference.com
+author: Andrea David
 date: '2016-08-21 04:00:46 -0700'
 categories:
 - Advice

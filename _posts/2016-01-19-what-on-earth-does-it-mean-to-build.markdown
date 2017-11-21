@@ -1,6 +1,6 @@
 ---
 title: Still Feeling "Under Construction"? You're Not Alone
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2016-01-19 04:00:25 -0800'
 categories:
 - Inspiration

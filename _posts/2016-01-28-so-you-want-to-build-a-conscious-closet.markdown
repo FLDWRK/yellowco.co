@@ -1,6 +1,6 @@
 ---
 title: So, You Want to Build a Conscious Closet?
-author: heygirl@yellowconference.com
+author: Johanna Tropiano
 date: '2016-01-28 04:00:32 -0800'
 categories:
 - The Activist

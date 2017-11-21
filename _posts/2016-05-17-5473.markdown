@@ -1,6 +1,6 @@
 ---
 title: 'Using Grit for Good: Our Interview with Brandie from Thoughtfully Magazine'
-author: heygirl@yellowconference.com
+author: Kathryn Parrish
 date: '2016-05-17 04:00:51 -0700'
 categories:
 - Creative Ladies

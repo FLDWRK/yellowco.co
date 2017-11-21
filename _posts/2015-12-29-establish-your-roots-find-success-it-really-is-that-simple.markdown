@@ -1,6 +1,6 @@
 ---
 title: How to Establish Roots to Find Your Purpose
-author: heygirl@yellowconference.com
+author: Esther Oh
 date: '2015-12-29 04:30:06 -0800'
 categories:
 - Resources

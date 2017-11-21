@@ -1,6 +1,6 @@
 ---
 title: Letting Criticism Make You, Not Break You
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-10-08 04:00:56 -0700'
 categories:
 - Creative Ladies

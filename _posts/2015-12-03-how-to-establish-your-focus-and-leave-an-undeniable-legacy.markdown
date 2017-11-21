@@ -1,6 +1,6 @@
 ---
 title: Establish Your Focus and You Are Guaranteed to Leave an Undeniable Legacy
-author: heygirl@yellowconference.com
+author: Bekah Pogue
 date: '2015-12-03 04:00:52 -0800'
 categories:
 - Resources

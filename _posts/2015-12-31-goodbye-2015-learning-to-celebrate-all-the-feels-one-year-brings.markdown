@@ -1,6 +1,6 @@
 ---
 title: 'Goodbye 2015: Learning to Celebrate All the Feels One Years Brings'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-12-31 04:00:17 -0800'
 categories:
 - Light Talk

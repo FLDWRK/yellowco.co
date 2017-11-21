@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: You Are More Than a Collection on Instagram'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2015-01-29 04:00:53 -0800'
 categories:
 - Creative Ladies

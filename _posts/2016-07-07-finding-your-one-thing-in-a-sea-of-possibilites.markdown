@@ -1,6 +1,6 @@
 ---
 title: How to Find Your One Thing in a Sea of Possibilities
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2016-07-07 04:00:17 -0700'
 categories:
 - Advice

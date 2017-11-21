@@ -1,6 +1,6 @@
 ---
 title: How to Use Sunday as Your Day to Prep for a Week of Grit
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2016-06-26 04:00:58 -0700'
 categories:
 - Light Talk

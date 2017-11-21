@@ -1,6 +1,6 @@
 ---
 title: 'Attendee Experience: Yellow Conference Day Two'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2015-08-31 13:40:59 -0700'
 categories:
 - The Activist

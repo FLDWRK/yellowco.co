@@ -1,5 +1,5 @@
 ---
-title: Sarah Hyel
+title: Sarah Heyl
 company_name: SH Digital
 job_title: Founder
 bio_image:

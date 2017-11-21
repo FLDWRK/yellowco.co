@@ -1,6 +1,6 @@
 ---
 title: Five Practical Steps to Staying Organized as a Creative
-author: heygirl@yellowconference.com
+author: Sarah Heyl
 date: '2015-04-09 04:00:05 -0700'
 categories:
 - Creative Ladies

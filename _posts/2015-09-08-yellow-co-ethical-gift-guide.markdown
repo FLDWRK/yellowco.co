@@ -1,6 +1,6 @@
 ---
 title: Your 2015 Ethical Gift Guide
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-09-08 04:00:29 -0700'
 categories:
 - Light Talk

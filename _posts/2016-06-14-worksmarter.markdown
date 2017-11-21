@@ -1,6 +1,6 @@
 ---
 title: Three Ways to Make the Most of Your Workday
-author: heygirl@yellowconference.com
+author: Aimee Guzman
 date: '2016-06-14 04:00:23 -0700'
 categories:
 - Advice

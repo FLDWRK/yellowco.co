@@ -1,6 +1,6 @@
 ---
 title: How to Keep Your Clutter at Bay so Your Creativity is on Point
-author: heygirl@yellowconference.com
+author: Beth Penn
 date: '2015-10-22 04:00:54 -0700'
 categories:
 - Light Talk

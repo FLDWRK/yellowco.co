@@ -1,6 +1,6 @@
 ---
 title: "I Moved to a Different Country and Networked Like a Boss"
-author: 
+author: Conni Jespersen
 date: '2016-01-21 04:00:40 -0800'
 categories:
 - Advice

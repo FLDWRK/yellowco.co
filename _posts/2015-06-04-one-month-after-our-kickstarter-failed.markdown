@@ -1,6 +1,6 @@
 ---
 title: One Month After Our Kickstarter Failed...
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2015-06-04 04:30:07 -0700'
 categories:
 - Advice

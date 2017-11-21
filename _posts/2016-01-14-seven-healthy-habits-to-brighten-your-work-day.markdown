@@ -1,6 +1,6 @@
 ---
 title: Seven Healthy Habits to Stay in the Game at Work
-author: heygirl@yellowconference.com
+author: Lauren Cash
 date: '2016-01-14 04:00:10 -0800'
 categories:
 - Light Talk

@@ -1,6 +1,6 @@
 ---
 title: IJM + the Yellow Conference 2015
-author: heygirl@yellowconference.com
+author: Emily Karsik
 date: '2015-08-06 04:00:51 -0700'
 categories:
 - Creative Advocacy

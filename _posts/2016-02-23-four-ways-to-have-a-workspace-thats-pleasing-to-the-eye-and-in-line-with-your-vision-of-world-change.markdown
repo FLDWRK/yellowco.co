@@ -1,6 +1,6 @@
 ---
 title: 4 Office Hacks for an Impactful Workspace
-author: heygirl@yellowconference.com
+author: Jillian Ryan
 date: '2016-02-23 04:00:00 -0800'
 categories:
 - The Activist

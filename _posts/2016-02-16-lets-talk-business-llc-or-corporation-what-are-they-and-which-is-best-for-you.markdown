@@ -1,7 +1,6 @@
 ---
-title: "Let's Talk Business: LLC or Corporation? What Are They and Which is Best
-  for Your Business?"
-author: heygirl@yellowconference.com
+title: "Let's Talk Business: LLC or Corporation? What Are They and Which is Best for Your Business?"
+author: Wilkinson Mazzeo
 date: '2016-02-16 04:00:25 -0800'
 categories:
 - Advice

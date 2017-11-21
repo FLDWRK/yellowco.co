@@ -1,6 +1,6 @@
 ---
 title: How To Deal With Competition Among Friends
-author: heygirl@yellowconference.com
+author: Emily Karsik
 date: '2015-05-14 04:00:11 -0700'
 categories:
 - Advice

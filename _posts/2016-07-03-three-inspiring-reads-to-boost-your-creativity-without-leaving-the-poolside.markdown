@@ -1,6 +1,6 @@
 ---
 title: Five Inspiring Reads to Boost Your Creativity... (Without Leaving the Poolside)
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2016-07-03 04:00:10 -0700'
 categories:
 - Light Talk

@@ -1,6 +1,6 @@
 ---
 title: How to Stand Tall in the Battlefield of the Creative Process
-author: heygirl@yellowconference.com
+author: Ana Pierce
 date: '2016-08-16 04:00:28 -0700'
 categories:
 - Inspiration
