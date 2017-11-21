@@ -7,6 +7,8 @@ date: '2017-10-09 04:00:54 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/three-things-didnt-know-extremists-gabby-rise-of-the-bulls/"
+image-feature: "/assets/images/IMG-8271-feature.jpg"
+image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
 When we are faced with acts of hate, so many questions arise. How could a human possibly be capable of such a thing? How can we help those most hurt by it? And when one particular group of people are the target of that hate, how can we come together and show empathy, though we may never be able to fully understand their experience?
