@@ -1,10 +1,6 @@
 ---
-<<<<<<< HEAD
 title: "Mother's Day: Why We Must Remember That It's Complicated"
-=======
-title: "Mother's Day: Why We Must Remember that it's Complicated"
->>>>>>> fedc6bdb7b2a0fb3acffef0ae7a57c3cce598de7
-author: heygirl@yellowconference.com
+author: 
 date: '2015-05-05 04:00:27 -0700'
 categories:
 - Advice

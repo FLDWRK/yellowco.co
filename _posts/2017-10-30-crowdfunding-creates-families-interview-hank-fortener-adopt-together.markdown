@@ -9,18 +9,20 @@ image-feature: "/assets/images/IMG-8271-feature.jpg"
 image-thumb: "/assets/images/IMG-8271.jpg"
 ---
 
-<<<<<<< HEAD
-_In the face of large, discouraging statistics and a global need, finding a solution that really
+In the face of large, discouraging statistics and a global need, finding a solution that really
 works can either be a daunting task, or in the case of [Hank Fortener](http://hankfortener.com/), an
-exciting invitation. Seeing hope in humanity and a need to create accessibility to the beauty of
-adoption, he founded both [World Adoption Day](http://worldadoptionday.org/) and
+exciting invitation.
+
+<!-- more -->
+
+Seeing hope in humanity and a need to create accessibility to the beauty of adoption, he founded
+both [World Adoption Day](http://worldadoptionday.org/) and
 [AdoptTogether](https://adopttogether.org/), the world’s largest crowdfunding platform for adoption.
 I had the opportunity to speak with Hank on his family's history of adoption, what resources really
 matter, and how a smiley face can uplift the world's conversation on family. Let's just say he has a
-lot of good to say on all of it, but I highly recommend you find out for yourself. _ ####
+lot of good to say on all of it, but I highly recommend you find out for yourself.
 
-**Can you share a bit behind why you are so personally passionate about adoption and creating a
-solution to make it easier for families?**
+#### **Can you share a bit behind why you are so personally passionate about adoption and creating a solution to make it easier for families?**
 
 I had an eye-opening experience when one of my good friends, Rob Bell, helped me realize that
 adoption was not my calling. It wasn’t my singular thing I was going to do in the world. He helped
@@ -159,6 +161,7 @@ there's no way that they are going to think that I was trying to rush our time t
 it's only for 30 minutes before they go to bed. I try to even keep my physical movements slow, so it
 feels like we're stopping the universe.
 ![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/042416_ERoche_Singh_205.jpg) ####
+<<<<<<< HEAD
 =======
 In the face of large, discouraging statistics and a global need, finding a solution that really works can either be a daunting task, or in the case of [Hank Fortener](http://hankfortener.com/), an exciting invitation.
 
@@ -198,6 +201,8 @@ One of the coolest, coolest things that has ever happened has to do with a famil
 
 I do it through speed. I never, ever hurry my girls. When I'm with my daughters, I talk slowly. 90% percent of the time, and it can't be always because of practicality, I walk slow and I don't have my phone on me. For a little kid, being hurried is the worst experience, because they are already inherently anxious. I learned from some of my neuroscience research that even when you speak slowly, you actually calm a person's chemicals in their body. But when you speak fast, you generate cortisol for them - and it's more intense for kids. I never want them to feel like I'm getting them out of the way to go do that other thing. My kids know about work; that I leave, come home, and travel. But there's no way that they are going to think that I was trying to rush our time together, even if it's only for 30 minutes before they go to bed. I try to even keep my physical movements slow, so it feels like we're stopping the universe. ![HOW CROWDFUNDING CREATES FAMILIES: AN INTERVIEW WITH THE FOUNDER OF ADOPT TOGETHER + WORLD ADOPTION DAY - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/042416_ERoche_Singh_205.jpg) ####
 >>>>>>> master
+=======
+>>>>>>> 284ec33a418ff6319481b3410eb4c770640a209d
 
 **What is an essential practice you have?**
 

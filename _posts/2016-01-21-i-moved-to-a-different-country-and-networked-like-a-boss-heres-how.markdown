@@ -1,10 +1,6 @@
 ---
-<<<<<<< HEAD
-title: "I Moved to a Different Country and Networked Like a Boss. Here's How"
-=======
 title: "I Moved to a Different Country and Networked Like a Boss"
->>>>>>> fedc6bdb7b2a0fb3acffef0ae7a57c3cce598de7
-author: heygirl@yellowconference.com
+author: 
 date: '2016-01-21 04:00:40 -0800'
 categories:
 - Advice

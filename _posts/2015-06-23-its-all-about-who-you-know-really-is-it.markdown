@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: "It's All About Who You Know - Really? Is it?"
-=======
 title: \"It's All About Who You Know\" - Really? Is it?
->>>>>>> fedc6bdb7b2a0fb3acffef0ae7a57c3cce598de7
 author: heygirl@yellowconference.com
 date: '2015-06-23 04:45:25 -0700'
 categories:
