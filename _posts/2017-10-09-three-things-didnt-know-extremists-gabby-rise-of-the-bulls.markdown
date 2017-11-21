@@ -1,12 +1,6 @@
 ---
-title: "Three Things You Didn't Know About Extremists: Our Talk with Gabby of Rise
-  of the Bulls"
-<<<<<<< HEAD
+title: "Three Things You Didn't Know About Extremists: Our Talk with Gabby of Rise of the Bulls"
 author: Hannah Snyder
-wordpress_url: http://yellowco.co/?p=9626
-=======
-author: hanna@yellowco.co
->>>>>>> fedc6bdb7b2a0fb3acffef0ae7a57c3cce598de7
 date: '2017-10-09 04:00:54 -0700'
 categories:
 - Come Together

@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: "Want to Change the World? Here's a Great Read The Promise of a Pencil"
-=======
 title: "Want to Change the World? Here's a Great Read: The Promise of a Pencil"
->>>>>>> fedc6bdb7b2a0fb3acffef0ae7a57c3cce598de7
 author: heygirl@yellowconference.com
 date: '2014-06-20 15:45:14 -0700'
 categories:
