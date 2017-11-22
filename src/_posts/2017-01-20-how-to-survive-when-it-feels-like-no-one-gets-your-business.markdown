@@ -1,6 +1,6 @@
 ---
 title: How to Survive When it Feels Like No One "Gets" What You Do
-author: heygirl@yellowconference.com
+author: Bailey Van Tassel
 date: '2017-01-20 04:00:39 -0800'
 categories:
 - Advice
@@ -47,4 +47,4 @@ When all is quiet on the western front, and you find yourself wondering – “I
 
 _Photos by [Cacá Santoro](http://cacasantoro.com/)_
 
-[![Baylie](https://yellow-blog-images.imgix.net/2016/04/Baylie.jpg)](http://www.abelimpact.com/)
+[![Bailey](https://yellow-blog-images.imgix.net/2016/04/Baylie.jpg)](http://www.abelimpact.com/)
