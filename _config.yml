@@ -3,6 +3,9 @@ timezone: America/Los_Angeles
 url: https://yellowco.co
 version: 1
 description: Yellow Co. exist to empower creative, entrepreneurial women become agents of good. We do this through a membership platform, an annual conference, and digital media.
+exclude: ['node_modules']
+source: src
+destination: public
 collections:
   authors:
     title: Authors
@@ -32,12 +35,14 @@ defaults:
   values:
     layout: page
 twitter_username: yellowconf
-github_username:  alliefleming
 permalink: pretty
+sass:
+  load_paths:
+  - ../node_modules
 paginate: 10
 paginate_path: "/blog/archive/page:num"
 plugins_dir:
-  - jekyll-feed
+- jekyll-feed
 gems:
 - jekyll-feed
 - jekyll-redirect-from
