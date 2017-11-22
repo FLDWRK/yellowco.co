@@ -9,11 +9,13 @@ layout: page
         <div class="card-deck card-deck-blog justify-content-center">
           {% for post in site.posts limit:3 %}
             <div class="card my-2">
-              {% if post.image %}
-                <a href="{{ post.url }}" class="_no-underline">
+              <a href="{{ post.url }}" class="_no-underline">
+                {% if post.image %}
                   <img src="{{ post.image }}?w=345&h=518&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
-                </a>
-              {% endif %}
+                {% else %}
+                  <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=345&h=518&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
+                {% endif %}
+              </a>
               <div class="card-block text-center">
                 <h6 class="card-category"><mark>{{ post.categories }}</mark></h6>
                 <h2 class="card-title mt-3"><a href="{{ post.url }}" class="_no-underline">{{ post.title }}</a></h2>
@@ -37,7 +39,11 @@ layout: page
     <div class="col-12 col-sm-6 col-md-6 col-lg-4">
       <a href="{{ post.url }}">
         <div class="card card-deck-6">
-          <img class="card-img-top img-fluid" src="{{ post.image }}?w=450&h=300&fit=crop" alt="{{ post.title }}" data-rjs="2">
+          {% if post.image %}
+            <img src="{{ post.image }}?w=450&h=300&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
+          {% else %}
+            <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=300&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2" />
+          {% endif %}
           <div class="card-block pl-0">
             <h6 class="card-title">{{ post.title }}</h6>
             <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
