@@ -4,6 +4,7 @@ ruby '2.3.1'
 gem 'jekyll', '< 3.5'
 
 group :jekyll_plugins do
+  gem 'hawkins'
   gem 'jekyll-compose'
   gem 'jekyll-feed'
   gem 'jekyll-paginate'

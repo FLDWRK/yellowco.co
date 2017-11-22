@@ -20,14 +20,12 @@
         {{ site.title }}
       {% endif %}
     </title>
+    <link href="/assets/stylesheets/public.css?{{site.time | date: '%s%N'}}" rel="stylesheet" type="text/css">
+    <script src="/assets/javascripts/bundle.js?{{site.time | date: '%s%N'}}" type="text/javascript" charset="utf-8"></script>
   </head>
   <body class="{{ page.body-class }}">
     <a id="top"></a>
     {{ content }}
-    <link href="/assets/stylesheets/public.css?{{site.time | date: '%s%N'}}" rel="stylesheet" type="text/css">
-    <script src="/assets/javascripts/bundle.js?{{site.time | date: '%s%N'}}" type="text/javascript" charset="utf-8"></script>
-    <link href="//vjs.zencdn.net/5.8.8/video-js.css" rel="stylesheet">
-    <script src="//vjs.zencdn.net/5.8.8/video.js"></script>
     <!-- VERSION {{ site.version }} -->
   </body>
 </html>
