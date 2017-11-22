@@ -1,12 +1,11 @@
 ---
 title: 13 Do-Good Products to Cozy Up With This Fall
-author: hanna@yellowco.co
+author: "Lindsay Byers-Hirth"
 date: '2017-10-13 04:00:39 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/do-good-products-cozy-fall/"
-image-feature: "/assets/images/IMG-8271-feature.jpg"
-image-thumb: "/assets/images/IMG-8271.jpg"
+image: "https://yellow-blog-images.imgix.net/2017/10/IMG_7912-1320x880.jpg"
 ---
 
 Ahh, fall. It’s finally here! There is so much to love about it — the crisp air, the chunky sweaters, the pumpkin spice lattes. I love the feeling of fall and the way in which people tend to gather more to make the cooler weather cozier. And while the turning leaves seem to indicate the end of a life cycle for foliage, I’ve always associated fall with a new beginning; a time for re-invention or reflection. Part of that feeling always includes an urge to refresh my wardrobe with a few new pieces, change up my skin care routine, or update my home décor. So I’ve gathered up my favorite fall finds that make a difference — all pieces are from charitable, fair-trade, or socially conscious companies that make a positive impact.
@@ -19,7 +18,7 @@ If comfy, stylish, and flattering jeans are your thing (and they should be), you
 
 #### 2.[Luxe Wool Mockneck Sweater](https://www.everlane.com/products/womens-luxe-wool-crop-mockneck-crimson?collection=womens-sweaters) [by Everlane](https://www.everlane.com/)
 
-This red almost-turtleneck sweater from Everlane is substantial and perfect for a crisp fall day. The rich crimson color is on-trend this fall while also being a classic shade that will remain a staple in your wardrobe for years to come. Everlane apparel is ethically made, and the company donates Black Friday profits to improve the lives of the people who work at their factories. ![13 DO-GOOD PRODUCTS TO COZY UP WITH THIS FALL - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/5f714142_adaa.jpg)
+This red almost-turtleneck sweater from Everlane is substantial and perfect for a crisp fall day. The rich crimson color is on-trend this fall while also being a classic shade that will remain a staple in your wardrobe for years to come. Everlane apparel is ethically made, and the company donates Black Friday profits to improve the lives of the people who work at their factories. ![13 DO-GOOD PRODUCTS TO COZY UP WITH THIS FALL - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/5f714142_adaa.jpg)
 
 #### 3\. [Plaid Blanket Scarf](https://www.etsy.com/listing/506539088/blanket-scarf-plaid-oversized-poncho?ref=shop_home_active_24) by [Debrosse NYC](https://www.etsy.com/shop/DeBrosseNYC?ref=l2-shopheader-name)
 
@@ -35,7 +34,7 @@ Again with the deep red, this bag is timeless and simultaneously trendy this sea
 
 #### **6.** [Chelsea Boots](https://nisolo.com/products/womens-chelsea-boot-black) [by Nisolo](https://nisolo.com/)
 
-Who doesn’t love a Chelsea Boot? They’re functional and classic. And now, you can enjoy an ethically made version from Nisolo. All the makers of Nisolo goods receive above fair trade wages, healthcare, and a healthy working environment. ![13 DO-GOOD PRODUCTS TO COZY UP WITH THIS FALL - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/6_ChelseaBoots_Nisolo.jpg)
+Who doesn’t love a Chelsea Boot? They’re functional and classic. And now, you can enjoy an ethically made version from Nisolo. All the makers of Nisolo goods receive above fair trade wages, healthcare, and a healthy working environment. ![13 DO-GOOD PRODUCTS TO COZY UP WITH THIS FALL - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/6_ChelseaBoots_Nisolo.jpg)
 
 #### 7\. [Michelle Clogs](https://www.fortressofinca.com/michelle-steel-grey/) by [Fortress of Inca](https://www.fortressofinca.com/)
 
@@ -53,7 +52,7 @@ Bar soap is making a huge comeback, because it generates less waste than bottled
 
 #### 10\. [Breathe Body Oil](https://erbaviva.com/collections/personal-care-spa/products/breathe-body-oil) [by Erbaviva](https://erbaviva.com/)
 
-As the air gets cooler and dryer, replenish your skin with Erbaviva Breathe Body Oil. I love the freshness of this scent — a combination of spruce, eucalyptus, cedar, thyme, and tea tree organic essential oils. Erbaviva is dedicated to natural ingredients, and they donate to [The BlinkNow Foundation](http://www.blinknow.org/). ![13 DO-GOOD PRODUCTS TO COZY UP WITH THIS FALL - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/10_BreatheBodyOil_Erbaviva.jpg)
+As the air gets cooler and dryer, replenish your skin with Erbaviva Breathe Body Oil. I love the freshness of this scent — a combination of spruce, eucalyptus, cedar, thyme, and tea tree organic essential oils. Erbaviva is dedicated to natural ingredients, and they donate to [The BlinkNow Foundation](http://www.blinknow.org/). ![13 DO-GOOD PRODUCTS TO COZY UP WITH THIS FALL - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/10_BreatheBodyOil_Erbaviva.jpg)
 
 ### **Home**
 
@@ -67,4 +66,4 @@ This list wouldn’t be complete without a candle recommendation. (Full disclosu
 
 #### 13\. [Lumbar Pillows](https://www.the-citizenry.com/collections/pillows/products/madera-lumbar-pillow) by [The Citizenry](https://www.the-citizenry.com/)
 
-The newest trend in bedroom décor is also a convenient one: lumbar pillows. I love the styles from The Citizenry. This pillow is hand-woven and made by a fair trade cooperative in Oaxaca. For every pillow purchased, The Citizenry also donates one life-saving malaria-prevention bed net to [Nothing But Nets](https://nothingbutnets.net/). ![13 DO-GOOD PRODUCTS TO COZY UP WITH THIS FALL - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/TheCitizerny_Holiday2016_OmbreLumbar_4_1024x1024.jpg) Tell us your favorite fall finds that make a difference! _Photos by [Marlena Pearl Photography](https://www.marlenapearlphotography.com/) and via [Everlane](https://www.everlane.com/), [Nisolo](https://nisolo.com/), [Erbaviva](https://erbaviva.com/), and [The Citizenry](https://www.the-citizenry.com/)_[](https://www.instagram.com/society_b/)
+The newest trend in bedroom décor is also a convenient one: lumbar pillows. I love the styles from The Citizenry. This pillow is hand-woven and made by a fair trade cooperative in Oaxaca. For every pillow purchased, The Citizenry also donates one life-saving malaria-prevention bed net to [Nothing But Nets](https://nothingbutnets.net/). ![13 DO-GOOD PRODUCTS TO COZY UP WITH THIS FALL - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/TheCitizerny_Holiday2016_OmbreLumbar_4_1024x1024.jpg) Tell us your favorite fall finds that make a difference! _Photos by [Marlena Pearl Photography](https://www.marlenapearlphotography.com/) and via [Everlane](https://www.everlane.com/), [Nisolo](https://nisolo.com/), [Erbaviva](https://erbaviva.com/), and [The Citizenry](https://www.the-citizenry.com/)_[](https://www.instagram.com/society_b/)

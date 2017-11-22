@@ -12,7 +12,7 @@ categories:
 redirect_from: "/creative-ladies/feeling-stuck-heres-the-answer-youve-been-looking-for/"
 ---
 
-[![The Yellow Co. Blog: a gathering for creative women to be empowered to do good](http://yellowconference.com/wp-content/uploads/2015/11/Song-of-Solomon-All-Photos-0105.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/Song-of-Solomon-All-Photos-0105.jpg)While most people think of refining as a process of eliminating all of the extraneous things that keep something from being pure, my process looks a little bit different. Instead of removing things, I’ve been adding things back in.
+[![The Yellow Co. Blog: a gathering for creative women to be empowered to do good](https://yellow-blog-images.imgix.net/2015/11/Song-of-Solomon-All-Photos-0105.jpg)](https://yellow-blog-images.imgix.net/2015/11/Song-of-Solomon-All-Photos-0105.jpg)While most people think of refining as a process of eliminating all of the extraneous things that keep something from being pure, my process looks a little bit different. Instead of removing things, I’ve been adding things back in.
 
 As I first began to create my brand as a content developer, I was very conscious of wanting every aspect of it, from my website to my social media feeds, to be impeccably professional. I made sure never to post anything too personal, even to the point of being hesitant to post images of myself. At the time, I thought that this would keep me from alienating any potential clients and keep the focus purely on my services, instead of me as an individual.
 
@@ -26,7 +26,7 @@ Over the course of our conversation, I realized that what I really wanted was to
 
 I now have a single website that features my services as well as a blog that covers the full span of topics that interest me from nutrition to interviews with inspirational people to articles on wellbeing practices. As a result of making this shift in approach, my brand has gone from being somewhat sterile and impersonal to a much richer tapestry of who I am _and_ it is much easier to maintain than three different brands with multiple sites! While this does mean that some people may come across my brand and decide that it doesn’t suit them, it also means that I am now attracting my ideal clients and projects that I absolutely love working on, and in my book, that’s a win-win situation for everyone!  
 
-[![yellow co. blog: empowering creative women to spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/11/Song-of-Solomon-All-Photos-0105-copy2.jpg)](http://yellowconference.com/wp-content/uploads/2015/11/Song-of-Solomon-All-Photos-0105-copy2.jpg)
+[![yellow co. blog: empowering creative women to spread good and bloom](https://yellow-blog-images.imgix.net/2015/11/Song-of-Solomon-All-Photos-0105-copy2.jpg)](https://yellow-blog-images.imgix.net/2015/11/Song-of-Solomon-All-Photos-0105-copy2.jpg)
 
 ##### You can infuse your content with your unique personality, while keeping your brand clear and consistent. Here's How:
 
@@ -50,4 +50,4 @@ _Photos by [Caroline Ro](http://www.carolinero.com/)_
 
 _**Hey! Like what you see on the blog? Get it sent directly to your email, with some added perks (like free resources and thoughts from our founder, Joanna Waterfall, by subscribing to our email list [here.](http://yellowconference.us3.list-manage2.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff) **_
 
-[![yellow conference blog: empowering creative women to spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/11/AshleyBerry.jpg)](http://helloashleyberry.com/)
+[![yellow conference blog: empowering creative women to spread good and bloom](https://yellow-blog-images.imgix.net/2015/11/AshleyBerry.jpg)](http://helloashleyberry.com/)

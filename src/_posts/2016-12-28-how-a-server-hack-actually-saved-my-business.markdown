@@ -9,7 +9,7 @@ categories:
 redirect_from: "/advice/how-a-server-hack-actually-saved-my-business/"
 ---
 
-#### _[![valeriedenisephotos-5](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-5.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-5.jpg)Sticks and stones may break my bones, but words can never hurt me. _ Ya, ok… Frankly, I’d rather have the broken bones.
+#### _[![valeriedenisephotos-5](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos-5.jpg)](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos-5.jpg)Sticks and stones may break my bones, but words can never hurt me. _ Ya, ok… Frankly, I’d rather have the broken bones.
 
 #### _When life throws you lemons, make lemonade. _ What if I don’t like lemonade? And who the heck would throw a lemon anyway?
 
@@ -27,11 +27,11 @@ Many say that who you are is strongly representative of the things that have hap
 
 I like this nugget of goodness. A lot.
 
-The things that have happened in my life, yes, have shaped me. But not the instances themselves. It is how I chose to respond to them. This, my friends, is how we are going to learn from each other.[![valeriedenisephotos-10](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-10.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-10.jpg)We need to _share_ our truthful experiences. Real life struggles and how we came back from them. In the process, we should also come up with some new “go to” quotes that actually pertain to our lives. This year, more than any other time in my life, I have been leaning on others for help _(Ah-hem, why this hypothetical club is actually something that is very real in my mind)._ This was an adjustment for me, as I am normally the independent, Type A, planner and over achiever that finds satisfaction in figuring things out by myself. But, God had other plans as he threw some curveballs at me that I just could not dodge.
+The things that have happened in my life, yes, have shaped me. But not the instances themselves. It is how I chose to respond to them. This, my friends, is how we are going to learn from each other.[![valeriedenisephotos-10](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos-10.jpg)](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos-10.jpg)We need to _share_ our truthful experiences. Real life struggles and how we came back from them. In the process, we should also come up with some new “go to” quotes that actually pertain to our lives. This year, more than any other time in my life, I have been leaning on others for help _(Ah-hem, why this hypothetical club is actually something that is very real in my mind)._ This was an adjustment for me, as I am normally the independent, Type A, planner and over achiever that finds satisfaction in figuring things out by myself. But, God had other plans as he threw some curveballs at me that I just could not dodge.
 
 For example, earlier this year we had a massive security breach on our server. It. Was. Awful. Seriously you guys. I have never cried over work so much in my life, and even though I have a lot of life yet to live, I doubt I will ever hold this much angst about a work tragedy. And that’s what it was, a tragedy.
 
-After the hardest 6 weeks of work my team and I have EVER had, we fixed it. _Really_ fixed it. And I will be eternally grateful to my team and their loyalty and love.[![valeriedenisephotos-4](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-4.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-4.jpg)The changes I made following the breach, however, are the moments that really have shaped my business, and life, moving forward, and as a reaction has formed some pretty cool mantras I think we can all use:
+After the hardest 6 weeks of work my team and I have EVER had, we fixed it. _Really_ fixed it. And I will be eternally grateful to my team and their loyalty and love.[![valeriedenisephotos-4](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos-4.jpg)](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos-4.jpg)The changes I made following the breach, however, are the moments that really have shaped my business, and life, moving forward, and as a reaction has formed some pretty cool mantras I think we can all use:
 
 #### **_PRIDE IS EGO WITH A PRETTY FACE._**
 
@@ -51,7 +51,7 @@ Third, I told my team (and my husband and my parents), over and over and over an
 
 #### **_TRUTH + TRANSPARENCY = AUTHENTICITY_**
 
-Finally, I was transparent with my clients. And when I say transparent, I mean really transparent. They probably got really tired of my project manager’s emails to them, full of technical terms they didn’t understand and the logistics of what was and had happened, that many probably didn't even read them. But, I was honest. And real..._“This was happening and I am sorry. So sorry. And I will fix it. But it won’t be tonight.”[![valeriedenisephotos-3](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-3.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/ValerieDenisePhotos-3.jpg)_ After this experience, I rose above and came out with my clients still loving me (thank goodness – their grace means so much to me), my team stronger than it’s ever been and a bulletproof plan for the future. All because of how I responded to a terrible incident.
+Finally, I was transparent with my clients. And when I say transparent, I mean really transparent. They probably got really tired of my project manager’s emails to them, full of technical terms they didn’t understand and the logistics of what was and had happened, that many probably didn't even read them. But, I was honest. And real..._“This was happening and I am sorry. So sorry. And I will fix it. But it won’t be tonight.”[![valeriedenisephotos-3](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos-3.jpg)](https://yellow-blog-images.imgix.net/2016/12/ValerieDenisePhotos-3.jpg)_ After this experience, I rose above and came out with my clients still loving me (thank goodness – their grace means so much to me), my team stronger than it’s ever been and a bulletproof plan for the future. All because of how I responded to a terrible incident.
 
 Now, I feel as if this is one small experience in my life in a sea of moments that have truly had an impact on how I live. But it’s one that is easily broken down into an action and a reaction, with the reaction being so much more meaningful than the action itself.
 
@@ -65,4 +65,4 @@ _So, my friends, welcome to the club._ Where we aren’t interested in sticks an
 
 _Photos by [Valerie Denise](http://www.valeriedenisephotos.com/)_
 
-[![NICOLE ANDREINI](http://yellowconference.com/wp-content/uploads/2016/05/NCIOLEANDREINI.jpg)](http://www.studiotwenty-two.com/)
+[![NICOLE ANDREINI](https://yellow-blog-images.imgix.net/2016/05/NCIOLEANDREINI.jpg)](http://www.studiotwenty-two.com/)

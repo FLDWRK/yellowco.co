@@ -11,13 +11,13 @@ redirect_from: "/the-starter/three-simple-ways-to-bring-more-boldness-into-your-
 
 _**Boldness: not hesitating or fearful in face of actual or possible danger or rebuff**_
 
-[![the-graveyard-of-good-intentions](http://yellowconference.com/wp-content/uploads/2016/09/The-graveyard-of-good-intentions.png)](http://yellowconference.com/wp-content/uploads/2016/09/The-graveyard-of-good-intentions.png)
+[![the-graveyard-of-good-intentions](https://yellow-blog-images.imgix.net/2016/09/The-graveyard-of-good-intentions.png)](https://yellow-blog-images.imgix.net/2016/09/The-graveyard-of-good-intentions.png)
 
 Boldness is our willingness to do the right thing when things get difficult or stressful. This means that it is used and acted upon regardless of what fear we may have or barriers we may face. Have you ever found yourself in a time where the truth needed to be spoken? Maybe you feared what others may think of you if you began to pursue those desires in your heart?
 
 Boldness is the complete opposite of fearfulness. This isn't meant to say that it lacks fear or anxiety, rather it means pushing past these feelings that may stir inside of you to do what makes your heart sing. It is a pursuit in getting out of your comfort zone and stepping out to make that decision for your company, paint that piece that would really show the depths of your heart, create that new website with features so great and daring. The definition of boldness itself almost makes me feel a little uncomfortable reading! Step out and over those negative feelings. Say, do, and be, despite the risks that may be involved.
 
-[![Screen Shot 2016-09-06 at 3.43.11 PM](http://yellowconference.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-06-at-3.43.11-PM.png)](http://yellowconference.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-06-at-3.43.11-PM.png)
+[![Screen Shot 2016-09-06 at 3.43.11 PM](https://yellow-blog-images.imgix.net/2016/09/Screen-Shot-2016-09-06-at-3.43.11-PM.png)](https://yellow-blog-images.imgix.net/2016/09/Screen-Shot-2016-09-06-at-3.43.11-PM.png)
 
 _**WHAT IS GETTING IN THE WAY OF YOUR BOLDNESS?**_
 
@@ -37,7 +37,7 @@ A friend of mine recently described boldness like this: "I see boldness as takin
 
 ## As you being to pursue boldness and what that may look like in your journey, here are three things you can do TODAY to add more boldness to your life:
 
-[![Screen Shot 2016-09-06 at 3.44.44 PM](http://yellowconference.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-06-at-3.44.44-PM.png)](http://yellowconference.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-06-at-3.44.44-PM.png)
+[![Screen Shot 2016-09-06 at 3.44.44 PM](https://yellow-blog-images.imgix.net/2016/09/Screen-Shot-2016-09-06-at-3.44.44-PM.png)](https://yellow-blog-images.imgix.net/2016/09/Screen-Shot-2016-09-06-at-3.44.44-PM.png)
 
 ****1  //  **Write down where in your business / life you're most comfortable:** _Are you stuck in a comfort zone? How beneficial will this zone be in 1 year, 5 years, 10 years? Where do you see your life being directed?_
 
@@ -49,6 +49,6 @@ A friend of mine recently described boldness like this: "I see boldness as takin
 
 [![](https://lh3.googleusercontent.com/PLgiNHFRVmFsLP41efysqdUJ9SZ-AcJD3c5aX2chYUhgBTYI52sHFjId--lSB85ZE8liKk_tGGuQ32hJHUmjbw=s0)](https://yellowcollective.leadpages.co/leadbox/14275ef73f72a2%3A17a2246bc746dc/5739407210446848/)
 
-[![yellow co. blog](http://yellowconference.com/wp-content/uploads/2015/12/kristitriplett.jpg)](https://endearingtraveler.wordpress.com/)
+[![yellow co. blog](https://yellow-blog-images.imgix.net/2015/12/kristitriplett.jpg)](https://endearingtraveler.wordpress.com/)
 
 _Photo by [Valerie Denise Photos](http://www.valeriedenisephotos.com/) in the [Art by BBR studio](http://www.brigitbellritchie.com/)_

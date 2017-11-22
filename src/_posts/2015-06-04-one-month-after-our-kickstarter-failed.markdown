@@ -1,6 +1,6 @@
 ---
 title: One Month After Our Kickstarter Failed...
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2015-06-04 04:30:07 -0700'
 categories:
 - Advice
@@ -15,7 +15,7 @@ It's been just over a month since our [Kickstarter failure](http://yellowconfere
 
 To celebrate our failure (we have to celebrate these things!) we had a Fail Party a few weeks ago where we invited you all to come hang out with us, eat cupcakes and have intentional conversations about fear and risk taking. Women openly shared their experiences with failure, as well as their plan to take more risks.
 
-At the party, we filled out [this worksheet](http://yellowconference.com/wp-content/uploads/2015/06/FAIL_EXERCISE_BLOG.pdf) that helped us examine what we have learned from our failures. It also gave us time to think about risks that we wanted to take that month. Feel like you need a bit more risk in your life? Going through your own failure? Feel free to print out [this worksheet](http://yellowconference.com/wp-content/uploads/2015/06/FAIL_EXERCISE_BLOG.pdf) and use it as you choose!
+At the party, we filled out [this worksheet](https://yellow-blog-images.imgix.net/2015/06/FAIL_EXERCISE_BLOG.pdf) that helped us examine what we have learned from our failures. It also gave us time to think about risks that we wanted to take that month. Feel like you need a bit more risk in your life? Going through your own failure? Feel free to print out [this worksheet](https://yellow-blog-images.imgix.net/2015/06/FAIL_EXERCISE_BLOG.pdf) and use it as you choose!
 
 My friend (and member of the #bloomdude crew) [Tim](http://timoberg.com/) joined us at the party and made this fun video documenting the night.
 

@@ -8,7 +8,7 @@ categories:
 redirect_from: "/advice/the-key-to-building-a-business-that-lasts/"
 ---
 
-[![valeriedenisephotos-47](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-47.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-47.jpg)There I was, a full time entrepreneur, struggling to balance work and life. No matter what I did, I was continuously feeling like I’d never be able to balance the two without having to sacrifice one for the other. I began to realize that the elusive “work and life balance” didn’t exist. It was exhausting and both my business and life suffered.  What I craved was a way of living and working in a symbiotic rhythm.
+[![valeriedenisephotos-47](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-47.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-47.jpg)There I was, a full time entrepreneur, struggling to balance work and life. No matter what I did, I was continuously feeling like I’d never be able to balance the two without having to sacrifice one for the other. I began to realize that the elusive “work and life balance” didn’t exist. It was exhausting and both my business and life suffered.  What I craved was a way of living and working in a symbiotic rhythm.
 
 Work and life integration became the most important part of maintaining sanity in the midst of everything that mattered the most to me. Today, it’s through integration that I can continue to hustle with heart as best I can. Here are some pointers on integrating your work and life:
 
@@ -16,7 +16,7 @@ Work and life integration became the most important part of maintaining sanity i
 
 When we think about self-care, our minds automatically think of trips to the day spa. But self-care needs to done daily. _The key to sticking to a self-care routine is adopting 1-3 actions that you could do daily._
 
-It can be as simple as starting the day having coffee out on the porch and a morning prayer of gratitude. Perhaps an afternoon meditation, followed by journaling is more your style. For others, taking a walk around the block and, dare I say, scheduling a power nap after lunch is what will keep you energized.  The saying goes, _“You can’t pour from an empty cup. Take care of yourself first.”_ The point of self-care, then, is to make sure you are continuously filled, so you can do the work you oh-so-love and be of the best service to others.[![valeriedenisephotos-48](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-48.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-48.jpg)
+It can be as simple as starting the day having coffee out on the porch and a morning prayer of gratitude. Perhaps an afternoon meditation, followed by journaling is more your style. For others, taking a walk around the block and, dare I say, scheduling a power nap after lunch is what will keep you energized.  The saying goes, _“You can’t pour from an empty cup. Take care of yourself first.”_ The point of self-care, then, is to make sure you are continuously filled, so you can do the work you oh-so-love and be of the best service to others.[![valeriedenisephotos-48](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-48.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-48.jpg)
 
 **Honor All Of You**
 
@@ -32,7 +32,7 @@ Take time to be a partner whose attention is undivided. Give yourself grace to s
 
 There’ll be project launches that will need your utmost attention. During these times, ask your roomie or partner to pick up dinner. Perhaps you can swap babysitting duties with a close friend to allow her to have a day to herself and vice versa.   
 
-Like business collabs, the key to good life collaborations is having relationships where each person brings something special to the table. Together, you can help each other to flourish and, ultimately, allow you to rock your business.[![valeriedenisephotos-44](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-44.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos-44.jpg)**Create Space For Intentional Relationships**
+Like business collabs, the key to good life collaborations is having relationships where each person brings something special to the table. Together, you can help each other to flourish and, ultimately, allow you to rock your business.[![valeriedenisephotos-44](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-44.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos-44.jpg)**Create Space For Intentional Relationships**
 
 The relationships you have within your life will almost certainly dictate the way you show up in your business. Surrounding yourself with individuals that support and challenge you is important when working towards your business goals. Be intentional with the relationships that you build. Make sure they enhance your life, not drag you down. Create space in your life to nurture the kinds of relationships that are built upon mutual respect and admiration for one another.
 
@@ -46,4 +46,4 @@ You don’t have to sacrifice life for business or vice versa. You’re allowed 
 
 _Photos by [Valerie Denise](http://www.valeriedenisephotos.com/) _
 
-[![KayeNamba](http://yellowconference.com/wp-content/uploads/2016/04/KayeNamba.jpg)](http://www.littlegoldenpenguin.com/)
+[![KayeNamba](https://yellow-blog-images.imgix.net/2016/04/KayeNamba.jpg)](http://www.littlegoldenpenguin.com/)

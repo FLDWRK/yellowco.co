@@ -1,6 +1,6 @@
 ---
 title: Community and Self Care-What Do They Have to Do With Each Other?
-author: heygirl@yellowconference.com
+author: Michelle Houghton
 date: '2016-03-17 04:00:01 -0700'
 categories:
 - Advice
@@ -12,7 +12,7 @@ categories:
 redirect_from: "/advice/what-community-self-care-what-do-they-have-to-do-with-each-other/"
 ---
 
-## [![unspecified](http://yellowconference.com/wp-content/uploads/2016/03/unspecified.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/unspecified.jpg)Striving. If I could use one word to describe the current state of my life in a very neat and tidy way, _striving_ would be it.
+## [![unspecified](https://yellow-blog-images.imgix.net/2016/03/unspecified.jpg)](https://yellow-blog-images.imgix.net/2016/03/unspecified.jpg)Striving. If I could use one word to describe the current state of my life in a very neat and tidy way, _striving_ would be it.
 
 Striving for new opportunities in my career and creative life. Striving for balance in being a new(ish) mom. Striving to maintain friendships and a healthy marriage. Striving to find sanity amongst the gazillion things I pile into a week to meet my goals and spend time in the areas I care about and am responsible in.
 
@@ -20,13 +20,13 @@ Striving is a great word; a _go-after-it-you-can-do-it!_ word. But it’s also r
 
 As a counselor I work with many individuals who, like me, are mired in a place of striving. They may be dealing with heartbreak, loss, difficulty developing healthy relationships, struggling in their careers, or with hefty anxiety. Whatever the deal is, they are striving to improve, which is often an uphill battle with a lot of work involved. What I typically find myself repeating to each of them is that when the going gets rough, you should always, _always_, be practicing some sort of self-care.
 
-[![unspecified-1](http://yellowconference.com/wp-content/uploads/2016/03/unspecified-1.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/unspecified-1.jpg)When striving becomes overwhelmingly stressful, we often try to plow through the situation as best we can, leaving our interests and passions as last priorities. I have been the victim of many  crash-and-burn situations when I’ve tried to put my head down to just get through a hard time in my life, and have forgotten about the things that bring me joy. Because of that, my philosophy has become that when times get tough, we should lean into the things that make us come alive. We need pillars of self-support when we are dragged down and striving to meet hefty goals. Drawing, running, walking, journaling, cooking, sewing, getting out in nature, yoga, reading… whatever _works_, do more of it is what I always say.
+[![unspecified-1](https://yellow-blog-images.imgix.net/2016/03/unspecified-1.jpg)](https://yellow-blog-images.imgix.net/2016/03/unspecified-1.jpg)When striving becomes overwhelmingly stressful, we often try to plow through the situation as best we can, leaving our interests and passions as last priorities. I have been the victim of many  crash-and-burn situations when I’ve tried to put my head down to just get through a hard time in my life, and have forgotten about the things that bring me joy. Because of that, my philosophy has become that when times get tough, we should lean into the things that make us come alive. We need pillars of self-support when we are dragged down and striving to meet hefty goals. Drawing, running, walking, journaling, cooking, sewing, getting out in nature, yoga, reading… whatever _works_, do more of it is what I always say.
 
 ## Recently, however, I ran into a problem where all of the self-care I preach about just wasn’t helping. Like, _at all._
 
 I would recognize my anxious reactions to stress as reminders to schedule some fun into my life, so I would carve out time to read that inspirational book I’d been meaning to finish, or try to fit that yoga class into a busy day, and end up feeling even _worse_. I was left with a giant “Now what?” feeling. A “What-is-wrong-with-me-I-am-a-counselor-for-goodness-sakes_”_ feeling. Wasn’t I supposed to have this all together?
 
-[![unspecified-2](http://yellowconference.com/wp-content/uploads/2016/03/unspecified-2.jpg)](http://yellowconference.com/wp-content/uploads/2016/03/unspecified-2.jpg)Then I remembered a word of wisdom Brené Brown shared on a _Magic Lessons_ podcast with Elizabeth Gilbert. Brene makes a strong statement about the antidote to shame being empathy. I was definitely feeling shame. I was definitely feeling empathetic. For _myself_. Then it clicked. Empathy is a connecting word. Connecting with _others._ Oh...
+[![unspecified-2](https://yellow-blog-images.imgix.net/2016/03/unspecified-2.jpg)](https://yellow-blog-images.imgix.net/2016/03/unspecified-2.jpg)Then I remembered a word of wisdom Brené Brown shared on a _Magic Lessons_ podcast with Elizabeth Gilbert. Brene makes a strong statement about the antidote to shame being empathy. I was definitely feeling shame. I was definitely feeling empathetic. For _myself_. Then it clicked. Empathy is a connecting word. Connecting with _others._ Oh...
 
 > _Then it clicked. Empathy is a connecting word. Connecting with others._
 
@@ -44,4 +44,4 @@ I can’t say that my intense striving has subsided in the slightest, but instea
 
 _Photos by [Karen Hernandez](http://karenmariehernandez.com/)_
 
-[![michelle houghton](http://yellowconference.com/wp-content/uploads/2016/03/michelle-houghton.jpg)](http://www.michellehoughton.com/)
+[![michelle houghton](https://yellow-blog-images.imgix.net/2016/03/michelle-houghton.jpg)](http://www.michellehoughton.com/)

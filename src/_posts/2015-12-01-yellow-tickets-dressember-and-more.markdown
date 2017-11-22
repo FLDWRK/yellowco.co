@@ -7,7 +7,7 @@ categories:
 redirect_from: "/resources/yellow-tickets-dressember-and-more/"
 ---
 
-[![Yellow-2016](http://yellowconference.com/wp-content/uploads/2015/12/Yellow-2016.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/Yellow-2016.jpg)
+[![Yellow-2016](https://yellow-blog-images.imgix.net/2015/12/Yellow-2016.jpg)](https://yellow-blog-images.imgix.net/2015/12/Yellow-2016.jpg)
 
 Happy December 1 everyone! My name is Joanna Waterfall. I’m the founder of Yellow Co. and am interrupting this Tuesday’s blog post because there is so much good stuff happening in our little Yellow world today I had to take up a full post to tell you about it all.
 

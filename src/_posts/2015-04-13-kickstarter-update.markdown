@@ -1,6 +1,6 @@
 ---
 title: Kickstarter Update
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2015-04-13 22:55:19 -0700'
 categories:
 - Resources
@@ -21,7 +21,7 @@ Even just a $5 donation is worth it. If you believe in us and trust in this drea
 
 Thank you so much for your support, it means the world!
 
-[![make-this-happen](http://yellowconference.com/wp-content/uploads/2015/04/make-this-happen.jpg)](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)
+[![make-this-happen](https://yellow-blog-images.imgix.net/2015/04/make-this-happen.jpg)](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)
 
 We can DO this!! ---> [kickstarter.theyellowroom.co](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)
 

@@ -10,11 +10,11 @@ categories:
 redirect_from: "/our-story/attachment/yellow-2014-c/"
 ---
 
-[![_mg_1243](http://yellowconference.com/wp-content/uploads/2016/11/MG_1243-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2016/11/MG_1243.jpg)I remember the first time an email popped up on my phone.  I was at a stop light on my way to work and my boss had emailed me asking for a ride to the office. Immediately, it changed my mood and my direction. It may seem simple, but that moment in time altered the natural rhythm of my life moving forward.
+[![_mg_1243](https://yellow-blog-images.imgix.net/2016/11/MG_1243-683x1024.jpg)](https://yellow-blog-images.imgix.net/2016/11/MG_1243.jpg)I remember the first time an email popped up on my phone.  I was at a stop light on my way to work and my boss had emailed me asking for a ride to the office. Immediately, it changed my mood and my direction. It may seem simple, but that moment in time altered the natural rhythm of my life moving forward.
 
 It almost seems absurd to say that moment was significant because we have become accustomed to living with a computer in our back pocket. How quickly we adapt to new technology without thinking about how it affects the way we are meant to live.
 
-In seasons of exhaustion, I become nostalgic for a time when I was younger, when I lived out of my full heart. When the only thing my phone could do was dial and wifi was hard to find. My mind was free and stoplights were designated times for day dreaming.[![_mg_1277](http://yellowconference.com/wp-content/uploads/2016/11/MG_1277-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2016/11/MG_1277.jpg) It’s incredible how much technology has helped advance my career, connected me to the world and made me feel more productive. This constant connectivity has become our routine but it has also become a subtle thief that restrains our flourishing lives. It ties us to our work and interrupts time spent with others. It often evokes unnecessary feelings of sadness, stress or worry.
+In seasons of exhaustion, I become nostalgic for a time when I was younger, when I lived out of my full heart. When the only thing my phone could do was dial and wifi was hard to find. My mind was free and stoplights were designated times for day dreaming.[![_mg_1277](https://yellow-blog-images.imgix.net/2016/11/MG_1277-683x1024.jpg)](https://yellow-blog-images.imgix.net/2016/11/MG_1277.jpg) It’s incredible how much technology has helped advance my career, connected me to the world and made me feel more productive. This constant connectivity has become our routine but it has also become a subtle thief that restrains our flourishing lives. It ties us to our work and interrupts time spent with others. It often evokes unnecessary feelings of sadness, stress or worry.
 
 ## _**Two years ago, I came to the realization that in order to be the kind of woman who pours myself wholeheartedly into everything, I had to find space in my routine for my heart to be uninhibited.** **For me that meant changing the way I interacted with technology.**_
 
@@ -29,4 +29,4 @@ Whatever your rhythms of life may be, I hope you find a way to eliminate the thi
 
 _Photos by [Karen Marie Co.](http://karenmarieco.com/) featuring  [Caroline Artime](http://www.carolineartime.com/about-1) designs_
 
-[![HEIDIBURKEY](http://yellowconference.com/wp-content/uploads/2016/05/HEIDIBURKEY.jpg)](http://www.heidiburkey.com/)
+[![HEIDIBURKEY](https://yellow-blog-images.imgix.net/2016/05/HEIDIBURKEY.jpg)](http://www.heidiburkey.com/)

@@ -17,7 +17,7 @@ Something tells me that this is an idea that needs to see the light of day. If i
 
 Your idea has power to impact lives for the greater good, because your heart wants nothing more than to see this world come together and help one another. You're SO OVER the problems you see all over the place.
 
-[![8otvdq0216](http://yellowconference.com/wp-content/uploads/2016/08/8otvdq0216-1024x683.jpg)](http://yellowconference.com/wp-content/uploads/2016/08/8otvdq0216.jpg)
+[![8otvdq0216](https://yellow-blog-images.imgix.net/2016/08/8otvdq0216-1024x683.jpg)](https://yellow-blog-images.imgix.net/2016/08/8otvdq0216.jpg)
 
 ## _You have an idea that can make a difference. And girl, we need that more than EVER right now. We really, truly do._
 
@@ -25,11 +25,11 @@ Almost 3 years ago now, I had an idea too. It was the kind that hit me like a fr
 
 I remember it like it was yesterday. I was in the shower getting ready for an ugly sweater Christmas party and it hit me. I knew right then and there that I had to create a conference for women like me. The ones who wished for a better world. The ones who desired to use their creative skills and gifts to work towards a better tomorrow. I knew I HAD to make it happen, because there were women out there just like me who needed it.
 
-Three years later, we have a thriving annual conference and a membership platform with members from all over the country - WHATT?? I _still_ can't believe it's real.![Yellow2016-430](http://yellowconference.com/wp-content/uploads/2016/08/Yellow2016-430-1024x683.jpg)
+Three years later, we have a thriving annual conference and a membership platform with members from all over the country - WHATT?? I _still_ can't believe it's real.![Yellow2016-430](https://yellow-blog-images.imgix.net/2016/08/Yellow2016-430-1024x683.jpg)
 
-[![yellow2016-231](http://yellowconference.com/wp-content/uploads/2016/11/Yellow2016-231-1024x683.jpg)](http://yellowconference.com/wp-content/uploads/2016/11/Yellow2016-231.jpg)
+[![yellow2016-231](https://yellow-blog-images.imgix.net/2016/11/Yellow2016-231-1024x683.jpg)](https://yellow-blog-images.imgix.net/2016/11/Yellow2016-231.jpg)
 
-[![Yellow_2015_Day_2-105](http://yellowconference.com/wp-content/uploads/2016/08/Yellow_2015_Day_2-105-1024x683.jpg)](http://yellowconference.com/wp-content/uploads/2016/08/Yellow_2015_Day_2-105.jpg)
+[![Yellow_2015_Day_2-105](https://yellow-blog-images.imgix.net/2016/08/Yellow_2015_Day_2-105-1024x683.jpg)](https://yellow-blog-images.imgix.net/2016/08/Yellow_2015_Day_2-105.jpg)
 
 **How did I get from that idea in the shower to where I am today?**
 
@@ -47,7 +47,7 @@ I knew that in order to really tell people about what I was doing and for myself
 
 3\. Simplify and articulate. Then do it again.
 
-[![screen-shot-2016-11-10-at-12-49-30-pm](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-12.49.30-PM.png)](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-12.49.30-PM.png)
+[![screen-shot-2016-11-10-at-12-49-30-pm](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-12.49.30-PM.png)](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-12.49.30-PM.png)
 
 I find stepping away and getting my brain in a new space then revisiting really helps me approach my writing with a fresh and clear perspective.
 
@@ -65,7 +65,7 @@ Far too often I see people pour a ton of money into a beautiful new website, pac
 
 Don't worry about making it perfect or beautiful. I'm talking to you perfectionists!! If you don't look back at your first draft and cringe a little bit, you probably waited too long to get started. Get something up, don't put a ton of money into it, and see what happens!
 
-For example, when Dropbox first started out they released an explainer video talking about what they were going to make... the thing was, they hadn't even made it yet! They put the video out to gauge what people thought. After the video was released on Hacker News, their email list jumped from 5,000 to 75,000 in ONE DAY! They knew they had a good product on their hands and began building. ![screen-shot-2016-11-10-at-12-51-33-pm](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-12.51.33-PM.png)
+For example, when Dropbox first started out they released an explainer video talking about what they were going to make... the thing was, they hadn't even made it yet! They put the video out to gauge what people thought. After the video was released on Hacker News, their email list jumped from 5,000 to 75,000 in ONE DAY! They knew they had a good product on their hands and began building. ![screen-shot-2016-11-10-at-12-51-33-pm](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-12.51.33-PM.png)
 
 You may be thinking, that's great for them, but what am _I_ going to do to gauge people's thoughts on my world changing biz??
 
@@ -79,7 +79,7 @@ Just like Dropbox did- you can create a short video explaining what your product
 
 Use something like [strikingly.com](https://www.strikingly.com/) to build a 1 page site to gather feedback. If you're cool with having a strikingly domain, it's totally free and you don't need to know how to code. This is a great way to put something out there, explaining what you do without a ton of money, time or effort. Ask people to sign up for your email list if they want more information.
 
-[![screen-shot-2016-11-10-at-12-55-13-pm](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-12.55.13-PM.png)](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-12.55.13-PM.png)
+[![screen-shot-2016-11-10-at-12-55-13-pm](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-12.55.13-PM.png)](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-12.55.13-PM.png)
 
 ## **• Create a crowdfunding campaign.**
 
@@ -89,7 +89,7 @@ Make sure you have good lighting and a nice background and you're set. If the id
 
 If the crowdfunding campaign doesn't happen for you- don't despair, it might just be time to go back to the drawing board and think through your idea a bit more. Aren't you glad you found out now instead of after you developed your product?
 
-[![screen-shot-2016-11-10-at-1-00-18-pm](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-1.00.18-PM-1024x743.png)](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-1.00.18-PM.png)
+[![screen-shot-2016-11-10-at-1-00-18-pm](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-1.00.18-PM-1024x743.png)](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-1.00.18-PM.png)
 
 ## **• Do the tech work manually.**
 
@@ -97,7 +97,7 @@ Did you know that Eric Reis, the founder of Zappos, started out by going to shoe
 
 This was his way of seeing if shoes could sell online. Once he saw there was a demand for shoes being purchased online, he began to expand upon his idea.
 
-[![screen-shot-2016-11-10-at-1-29-09-pm](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-1.29.09-PM-1024x559.png)](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-1.29.09-PM.png)
+[![screen-shot-2016-11-10-at-1-29-09-pm](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-1.29.09-PM-1024x559.png)](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-1.29.09-PM.png)
 
 The point is, you don't need to build a full website or invest in purchasing a bunch of inventory to do the things you want to do just yet.
 
@@ -131,7 +131,7 @@ Once you have something you know is good- it's amazing how much faster you can g
 
 **• Fourth, reach out!** Make sure you're very clear about who you are, what you're doing and how you see these people getting involved. Often with people who are busy they need very clear directions on what you are looking for- so all they have to do is say yes! Don't ask them to brainstorm with you or come up with an idea by themselves unless they're a good friend of yours.
 
-[![valeriedenisephotos](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos.jpg)](http://yellowconference.com/wp-content/uploads/2016/10/ValerieDenisePhotos.jpg)
+[![valeriedenisephotos](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos.jpg)](https://yellow-blog-images.imgix.net/2016/10/ValerieDenisePhotos.jpg)
 
 Starting a business is not an easy thing. I hear from so many ladies with amazing WHY's (like literally world changing ideas) who struggle with the "how to's" of getting started and moving forward. It breaks my heart to hear about these ideas falling through the cracks because I know deep down in my heart, that if they just had the right tools and mindset- they could make this world a better place for US ALL.
 
@@ -141,11 +141,11 @@ So, we here at Yellow are introducing something we've never done before because 
 
 [_CLICK HERE TO VISIT THE WEBSITE_](http://dreamingtodoing.online/)
 
-**[![dreaming-to-doing-insta](http://yellowconference.com/wp-content/uploads/2016/11/Dreaming-to-doing-INSTA.jpg)](http://dreamingtodoing.online/)**
+**[![dreaming-to-doing-insta](https://yellow-blog-images.imgix.net/2016/11/Dreaming-to-doing-INSTA.jpg)](http://dreamingtodoing.online/)**
 
 It's a full 1-day digital experience where you'll here from myself and 7 others (women like Jessie Simonson Co-Founder of [31 Bits](http://31bits.com/), [Megan Smalley, Founder of Scarlet & Gold](http://www.scarletandgoldshop.com/), [Blogger extrordinaire Melyssa Griffin](http://www.melyssagriffin.com/) & more!!) who have learned how to execute upon an idea they once had, and they will each be focusing on key areas needed to hone in on that idea and make it come alive in real life.
 
-[![screen-shot-2016-11-10-at-1-06-44-pm](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-1.06.44-PM-1024x949.png)](http://yellowconference.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-10-at-1.06.44-PM.png)
+[![screen-shot-2016-11-10-at-1-06-44-pm](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-1.06.44-PM-1024x949.png)](https://yellow-blog-images.imgix.net/2016/11/Screen-Shot-2016-11-10-at-1.06.44-PM.png)
 
 It's half seminar, half workshop, half online hangout, full online conference to help you go from scattered, searching and confused to achieving clarity, tangible, REAL results and physically STARTING what you've been called to do.It's called [DREAMING TO DOING](http://dreamingtodoing.online/)- it's $127 but if you hop on our Yellow Collective email list you get $30 off your ticket- not bad right? _**[Click here to hop on the list](https://yellowcollective.leadpages.co/leadbox/141afb573f72a2%3A17a2246bc746dc/5717271485874176/)**_
 
@@ -160,4 +160,4 @@ Whether you come to the conference or not, our hope is that you are able to get 
 
 Photos by [Caca Santoro](http://cacasantoro.com/) & [Valerie Denise](http://www.valeriedenisephotos.com/)
 
-[![JOANNA WATERFALL--YELLOW 2016](http://yellowconference.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-07-at-1.43.27-AM.png)](https://www.instagram.com/joannawaterfall/)
+[![JOANNA WATERFALL--YELLOW 2016](https://yellow-blog-images.imgix.net/2016/06/Screen-Shot-2016-06-07-at-1.43.27-AM.png)](https://www.instagram.com/joannawaterfall/)

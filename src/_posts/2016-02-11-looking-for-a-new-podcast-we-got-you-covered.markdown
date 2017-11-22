@@ -1,6 +1,6 @@
 ---
 title: Looking for a New Podcast for Your Commute? We've Got You Covered.
-author: heygirl@yellowconference.com
+author: Lauren Francis
 date: '2016-02-11 04:00:14 -0800'
 categories:
 - Light Talk
@@ -8,7 +8,7 @@ categories:
 redirect_from: "/light-talk/looking-for-a-new-podcast-we-got-you-covered/"
 ---
 
-[![2013-11-11_0011](http://yellowconference.com/wp-content/uploads/2016/02/2013-11-11_0011.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/2013-11-11_0011.jpg)I commuted over two hours to work about 7 years ago, and I do not know how I would have been able to make it without podcasts. Sure, I love music, and there is something special about being able to listen to records all the way through without arriving at a destination – but day after day, it does get old.
+[![2013-11-11_0011](https://yellow-blog-images.imgix.net/2016/02/2013-11-11_0011.jpg)](https://yellow-blog-images.imgix.net/2016/02/2013-11-11_0011.jpg)I commuted over two hours to work about 7 years ago, and I do not know how I would have been able to make it without podcasts. Sure, I love music, and there is something special about being able to listen to records all the way through without arriving at a destination – but day after day, it does get old.
 
 Podcasts are certainly not a new form of entertainment, but they are having their moment in the spotlight, particularly after _Serial_ (a true crime-esque podcast produced by another podcast _This American Life_ – that’s some epic podcast-ception) garnered big media attention and was downloaded 68million times (cnn.com).
 
@@ -34,7 +34,7 @@ Here is my list of epic podcasts that are worth listening to on your next drive,
 1.  **_Wait Wait! Don’t Tell Me!_** – This is a great NPR podcast to keep up with all that’s happening in the world each week. They have fun games and quizzes that have to do with all sorts of news and interesting information happening in the world. If you’re like me and don’t love listening to a straight new show, but still like being informed, this is totally for you! They even have celebrity guests join them occasionally!
 2.  **_Stuff You Should Know_** – First things first, this podcast is part of the “How Stuff Works” podcast network which has TONS of amazing podcasts. It was hard to choose a favorite. But, I have listened to the most of this specific podcast, so I thought I’d start there. For the nerd in all of us…this podcast takes a deep dive into a plethora of different and interesting topics. If you’ve lost sleep over how Pheromones work, what a Citizen’s Arrest really involves, or how Stonehenge is like, a real thing…have no fear, there’s an episode for you. It’s a bit drier/more academic than you might expect, but if you are looking for some good old fashion brain stimulation – it’s a good choice. I truly have enjoyed each and every episode in the archives (browse the whole thing, some good stuff is there!).
 
-### **[![2013-11-11_0012](http://yellowconference.com/wp-content/uploads/2016/02/2013-11-11_0012.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/2013-11-11_0012.jpg)BONUS! Lauren’s Guilty Pleasure Podcasts**
+### **[![2013-11-11_0012](https://yellow-blog-images.imgix.net/2016/02/2013-11-11_0012.jpg)](https://yellow-blog-images.imgix.net/2016/02/2013-11-11_0012.jpg)BONUS! Lauren’s Guilty Pleasure Podcasts**
 
 1.  **_You Made It Weird!_** (**_with Pete Holmes)_**– I am a sucker for comedians (notable mention for me is also **_WTF with Marc Maron_**) and Pete Holmes is one of my favorites. He talks with other comedians, celebrities, and a whole bunch of other fascinating people about life, love, and other mysteries (that’s not his tagline, but it should be). He is so thoroughly enjoyable and honest, but he keeps it real with his guests and gets them to really dive in and think about life. If you like comedians – subscribe and listen to the interviews with your favorites right away.
 2.  **_Theater People_** – Now, this might just be for .001% of the population who is obsessed with musical theater and Broadway, I’m aware. But this podcast is hosted by the biggest Broadway nerd in the world - Patrick Hinds. He is so wonderful and lovely, and if you geek out over Broadway stars, you’ll LOVE his interviews. My favorite episode is his interview with the effortlessly superb Laura Benanti (non-Broadway geeks might know her from TV’s Nashville).
@@ -45,4 +45,4 @@ Podcasts are a great form of entertainment for those of us who like being taken 
 
 _Photos by [Whitney Darling ](http://whitneydarling.com/briannagarcia/)_
 
-[![LAURENFRANCIS](http://yellowconference.com/wp-content/uploads/2016/02/LAURENFRANCIS.jpg)](https://laurenrebekahblog.wordpress.com/)
+[![LAURENFRANCIS](https://yellow-blog-images.imgix.net/2016/02/LAURENFRANCIS.jpg)](https://laurenrebekahblog.wordpress.com/)

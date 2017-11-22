@@ -1,6 +1,6 @@
 ---
 title: Travel-Friendly Ways to Practice Self Care on the Road
-author: hanna@yellowco.co
+author: Elisabetta Colabianchi
 date: '2017-07-17 04:00:59 -0700'
 categories:
 - Tension
@@ -17,7 +17,7 @@ This seems obvious and so simple, but it makes a world of difference. Did you kn
 
 During your plane ride, bring a reusable bottle so you don’t need to keep refilling plastic cups ( [BKR](http://www.mybkr.com) and  [Yuhme](http://www.yuhme.se) are my faves). One of the first things I do when I land in a country is go to the market and stock up on water and hydrating food, like fresh fruits and veggies. T o avoid jet lag when I return home, I drink plenty of water, take a pressed juice shot, and head to my favorite health food store to stock up on greens and protein.
 
-![TRAVEL-FRIENDLY WAYS TO PRACTICE SELF CARE ON THE ROAD - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/Photo-Nov-05-10-05-58-AM.jpg)
+![TRAVEL-FRIENDLY WAYS TO PRACTICE SELF CARE ON THE ROAD - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/07/Photo-Nov-05-10-05-58-AM.jpg)
 
 ### **Don’t leave your travel essentials**  **at home.**
 
@@ -35,4 +35,4 @@ Learning to maintain a routine of self-care while traveling is a challenge I dea
 
 _Photos by: [Valerie Moreno](http://www.nuanceandbubbles.com/)_
 
-[![Elisabetta Colabianchi BIO](http://yellowco.co/wp-content/uploads/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/)
+[![Elisabetta Colabianchi BIO](https://yellow-blog-images.imgix.net/2017/07/Elisabetta-Colabianchi-BIO.jpg)](http://www.globaldreamcollective.com/)

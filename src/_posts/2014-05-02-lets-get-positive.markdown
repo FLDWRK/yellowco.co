@@ -1,6 +1,6 @@
 ---
 title: Let's Get Positive
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2014-05-02 06:58:04 -0700'
 categories:
 - Inspiration
@@ -9,7 +9,7 @@ redirect_from: "/inspiration/lets-get-positive/"
 
 I can't even begin to tell you how excited I am to have [Dale Partridge](http://dalepartridge.com/) speak at Yellow this year. Founder at [Sevenly](www.sevenly.org), entrepreneur and author - this guy knows how to make things happen. He's a prime example of a talent used for good.
 
-[![DalePart](http://yellowconference.com/wp-content/uploads/2014/05/DalePart.png)](http://yellowconference.com/wp-content/uploads/2014/05/DalePart.png)
+[![DalePart](https://yellow-blog-images.imgix.net/2014/05/DalePart.png)](https://yellow-blog-images.imgix.net/2014/05/DalePart.png)
 
 I recently became an avid reader of Dale's blog, [The Daily Positive](http://dalepartridge.com/). It's filled with uplifting, thought provoking videos and articles, all with a positive spin. Reading Dale's blog is great for the creative entrepreneur needing business and marketing advice, tips and tools. This guy has the track record to show that he knows what he's doing, and has a huge heart for people. So I find myself really trusting what he says. I found [this list of books](http://dalepartridge.com/11-books-every-entrepreneur-needs-read/) he recommends every business owner to read very helpful. His own book, People Over Profit will be coming out soon- so def be on the look out for that one!
 

@@ -1,6 +1,6 @@
 ---
 title: The Passions of Our Leaders
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2017-06-26 07:40:51 -0700'
 categories:
 - Wander
@@ -49,4 +49,4 @@ If you'd like to join one of our chapters and become a Yellow Collective member,
 
 ### [CLICK HERE TO JOIN](http://yellowcollective.co/)
 
-[![JOANNA WATERFALL BIO](http://yellowco.co/wp-content/uploads/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)
+[![JOANNA WATERFALL BIO](https://yellow-blog-images.imgix.net/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)

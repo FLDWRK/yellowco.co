@@ -1,6 +1,6 @@
 ---
 title: Mother's Day Gifts that Give Back
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2014-04-24 09:05:48 -0700'
 categories:
 - "#bloomyellow"
@@ -11,7 +11,7 @@ Mother's day is creeping up on us once again! I love my mom, but every year I do
 
 I thought this year it would be awesome to get my mom a gift that gives back. It's a win win- show your mom some love, and spread some good while doing it! In researching for this post I was so amazed at how many awesome companies there are out there doing great things. These days it's really not hard to find gifts that give back. Here are a select few I really fell in love with. I highly recommend checking out these companies-  so much goodness! (see links to websites and products below)
 
-[![GiftsthatGive_Mothers](http://yellowconference.com/wp-content/uploads/2014/04/GiftsthatGive_Mothers1.jpg)](http://yellowconference.com/wp-content/uploads/2014/04/GiftsthatGive_Mothers1.jpg)
+[![GiftsthatGive_Mothers](https://yellow-blog-images.imgix.net/2014/04/GiftsthatGive_Mothers1.jpg)](https://yellow-blog-images.imgix.net/2014/04/GiftsthatGive_Mothers1.jpg)
 
 1  //  [Yami Distressed Leather Tote](http://www.ravenandlily.com/yami-distressed-leather-tote/) _by_ [Raven & Lily](http://www.ravenandlily.com/)
 

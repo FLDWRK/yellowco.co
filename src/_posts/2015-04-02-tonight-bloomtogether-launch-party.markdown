@@ -7,7 +7,7 @@ categories:
 redirect_from: "/resources/tonight-bloomtogether-launch-party/"
 ---
 
-[![BLOOMTOGETHERTONIGHT](http://yellowconference.com/wp-content/uploads/2015/04/BLOOMTOGETHERTONIGHT.jpg)](http://yellowconference.com/wp-content/uploads/2015/04/BLOOMTOGETHERTONIGHT.jpg)
+[![BLOOMTOGETHERTONIGHT](https://yellow-blog-images.imgix.net/2015/04/BLOOMTOGETHERTONIGHT.jpg)](https://yellow-blog-images.imgix.net/2015/04/BLOOMTOGETHERTONIGHT.jpg)
 
 We can barely contain our excitement...the day is finally here! TONIGHT we will be having launch parties throughout the United States and Canada, led by amazing, creative, Yellow Co. loving ladies; and more than that...our Kickstarter Campaign will be going LIVE!
 

@@ -1,7 +1,7 @@
 ---
 title: 'Bringing Social Impact to Everyday, One Brush at a Time: an Interview with
   Bogobrush'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-08-23 04:00:31 -0700'
 categories:
 - Tension
@@ -18,7 +18,7 @@ HM: We like to say the [Bogobrush](https://www.bogobrush.com/) story started whe
 
 HM: We wanted to create a product that brought social and environmental awareness into people’s everyday lives, and a toothbrush fit so many of the boxes. First of all, it’s a product people use every morning and every night. Second, in the USA more than 450 million toothbrushes end up in landfills or polluting natural habitats. And third, more than 80 million Americans lack access to adequate oral care, and that can affect everything from education, to work, and overall health. These facts are just the tip of the iceberg for how important toothbrushes are to our lives.
 
-![BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH BOGOBRUSH - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Bogobrush-006.jpg)
+![BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH BOGOBRUSH - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/Bogobrush-006.jpg)
 
 #### **What does good design mean to you?**
 
@@ -40,7 +40,7 @@ HM: Creating a company with John has been awesome. I trust and respect him 100%
 
 I don’t think specifically about separating professional and personal life with John; to me Bogobrush is just one of the cool things I get to do with him, like hiking, watching concerts, and trying new food. Certainly, Bogobrush is work and requires specific attention, but I want to have a well-rounded relationship with John and that means deliberately making time for all the things we like to experience together. For us, that just happens to include starting a business.
 
-![BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH BOGOBRUSH - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Bogobrush-0003.jpg)
+![BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH BOGOBRUSH - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/Bogobrush-0003.jpg)
 
 #### **You’re really transparent about your supply chain and where each part of production happens - down to the bristles. Have there been sacrifices along the way in creating a product designed and made in the USA? **
 
@@ -58,7 +58,7 @@ Peace comes from gathering information and trusting sources, mentors, and teamma
 
 Second, I’m learning the balance between innovation and the gritty work. I love the process of dreaming and can get caught up in the fear of missing an opportunity. The fact is there is _always_ something to innovate. I’m learning to keep my mind open, but stay committed to laying the groundwork of the business so dreaming and innovation can be fruitful in the future.
 
-![BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH BOGOBRUSH - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/Bogobrush_-Heather.jpg)
+![BRINGING SOCIAL IMPACT TO EVERYDAY, ONE BRUSH AT A TIME: AN INTERVIEW WITH BOGOBRUSH - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/Bogobrush_-Heather.jpg)
 
 #### **What is the most fulfilling part of your work for you?**
 
@@ -80,4 +80,4 @@ When you keep moving forward with intention, you learn lessons, gain power, and 
 
 _Photos provided by [Bogobrush](https://www.bogobrush.com/)_
 
-[![Hanna Snyder Bio](http://yellowco.co/wp-content/uploads/2017/04/HANNA-BIO-1.jpg)](http://hannasnyder.com)
+[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/04/HANNA-BIO-1.jpg)](http://hannasnyder.com)
