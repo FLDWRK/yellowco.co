@@ -2,46 +2,41 @@
 layout: page
 ---
 
-<section class="post">
-  <img {{ page.image | image_src }} class="{{ 'post-img img-fluid mb-4' | image_class }}">
-  <header class="post-header">
-    <h2 class="post-title">{{ page.title }}</h2>
-    <p class="text-muted">{{ post.date | date:"%B %e, %Y" }}</p>
-  </header>
-  <div class="post-text">
-    {{ content }}
-  </div>
-  {% include share-post.html %}
-  <footer class="post-footer">
-        {% assign author = site.authors | where:"title",post.author | sample %}
-    <div class="text-muted">
-      <em><small>
-        by <strong>{{ author.title }}</strong>
-        on <strong>{{ post.date | date:"%B %e, %Y" }}</strong>
-      </small></em>
+<div class="row justify-content-center">
+  <section class="post col-12 col-md-10 col-lg-9">
+    <header class="text-center">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-date">{{ page.author }} &nbsp;|&nbsp; {{ page.date | date:"%B %e, %Y" }} &nbsp;|&nbsp; {{ page.categories }}</p>
+    </header>
+    <img src="{{ page.image }}?w=900&h=600&fit=crop" class="{{ 'img-fluid mb-4' | image_class }}">
+    <div class="post-text">
+      {{ content }}
     </div>
-    <div class="row author">
-      {% assign author = site.authors | where:"title", page.author | first %}
-      {% if author.bio_image %}
-        <div class="col-sm-4 col-lg-3">
-          <img class="rounded-circle img-fluid mb-4" src="{{ author.bio_image }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
-        </div>
-        <div class="col-sm-8 col-lg-9">
-      {% else %}
-        <div class="col-12">
-      {% endif %}
-        <h4 class="name">{{ author.title }}</h4>
-        {% if author.job_title %}
-          <h5 class="title">{{ author.job_title }}
-          {% if author.company_name %}
-            @ {{ author.company_name }}
+    {% include share-post.html %}
+    <footer class="post-footer">
+      <div class="row author">
+        {% assign author = site.authors | where:"title",page.author | first %}
+        {% if author.bio_image %}
+          <div class="col-sm-4 col-lg-3">
+            <img class="rounded-circle img-fluid mb-4" src="{{ author.bio_image }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
+          </div>
+          <div class="col-sm-8 col-lg-9">
+        {% else %}
+          <div class="col-12">
+        {% endif %}
+          <h4 class="name">{{ author.title }}</h4>
+          {% if author.job_title %}
+            <h5 class="title">{{ author.job_title }}
+            {% if author.company_name %}
+              at {{ author.company_name }}
+            {% endif %}
+            </h5>
           {% endif %}
-          </h5>
-        {% endif %}
-        {% if author.content %}
-          {{ author.content | markdownify }}
-        {% endif %}
+          {% if author.content %}
+            {{ author.content | markdownify }}
+          {% endif %}
+        </div>
       </div>
-    </div>
-  </footer>
-</section>
+    </footer>
+  </section>
+</div>

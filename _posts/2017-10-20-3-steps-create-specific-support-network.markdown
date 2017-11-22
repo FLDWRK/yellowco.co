@@ -5,8 +5,7 @@ date: '2017-10-20 04:00:16 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/3-steps-create-specific-support-network/"
-image-feature: "/assets/images/IMG-8271-feature.jpg"
-image-thumb: "/assets/images/IMG-8271.jpg"
+image: "https://yellow-blog-images.imgix.net/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-9-1320x880.jpg"
 ---
 
 ### One of the richest pieces of the human experience is watching individuals come together to console, comfort, advise, and champion one another.

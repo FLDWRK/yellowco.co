@@ -5,8 +5,7 @@ date: '2017-10-18 04:00:02 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/game-changing-tips-transform-view-constructive-feedback/"
-image-feature: "/assets/images/IMG-8271-feature.jpg"
-image-thumb: "/assets/images/IMG-8271.jpg"
+image: "https://yellow-blog-images.imgix.net/2017/10/YELLOW-CO-x-YELLOW-108-1-1320x880.jpg"
 ---
 
 How well we give and receive feedback can determine the depth we experience in relationships, the impact we build in our careers, how quickly we bounce back from failure, and how sharply we chisel our skill sets.

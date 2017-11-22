@@ -5,8 +5,7 @@ date: '2017-10-25 04:00:14 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/word-rebel-fight-education-inequality/"
-image-feature: "/assets/images/IMG-8271-feature.jpg"
-image-thumb: "/assets/images/IMG-8271.jpg"
+image: "https://yellow-blog-images.imgix.net/2017/10/HJ-Kaleidos-059-1.jpg"
 ---
 
 The Bronx will change a girl. When Lauren Poinier began teaching Special Education in this NYC borough, she couldn't predict that this was the first step toward founding a non-profit.

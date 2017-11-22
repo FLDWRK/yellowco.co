@@ -1,13 +1,12 @@
 ---
-title: 12 Resources in Intuitive Eating + Having a Healthy Relationship With Your
+title: 12 Resources in Intuitive Eating & Having a Healthy Relationship With Your
   Body
 author: Laura Cash
 date: '2017-10-23 04:00:41 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/12-resources-healthy-relationship-body/"
-image-feature: "/assets/images/IMG-8271-feature.jpg"
-image-thumb: "/assets/images/IMG-8271.jpg"
+image: "https://yellow-blog-images.imgix.net/2017/10/3I5A1522-1-1320x1980.jpg"
 ---
 
 We are embodied beings. This means that we take on physical form.
