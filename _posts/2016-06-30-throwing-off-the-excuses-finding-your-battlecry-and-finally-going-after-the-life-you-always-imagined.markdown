@@ -1,7 +1,6 @@
 ---
-title: It's Time to Throw Off the Excuses, Find Your Battlecry, and Finally Go After
-  the Life You Always Imagined
-author: heygirl@yellowconference.com
+title: It's Time to Throw Off the Excuses, Find Your Battlecry, and Finally Go After the Life You Always Imagined
+author: Katherine Henson
 date: '2016-06-30 04:00:01 -0700'
 categories:
 - Light Talk
@@ -11,7 +10,7 @@ categories:
 redirect_from: "/light-talk/throwing-off-the-excuses-finding-your-battlecry-and-finally-going-after-the-life-you-always-imagined/"
 ---
 
-## **[![The Yellow Co. Blog: We All Need Our Anthem](http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-89.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-89.jpg)We all need our own anthem.**
+## **[![The Yellow Co. Blog: We All Need Our Anthem](https://yellow-blog-images.imgix.net/2016/06/ValerieDenisePhotos-89.jpg)](https://yellow-blog-images.imgix.net/2016/06/ValerieDenisePhotos-89.jpg)We all need our own anthem.**
 
 We need a heartfelt, love letter to ourselves. We need words and hope and tear stained pages full of both loud and silent reminders that we are not useless, that we are not hopeless, that we are not broken.
 
@@ -27,7 +26,7 @@ We need an anthem.
 
 A little piece of ourselves that reminds us we are just on our way, and our journey is not yet finished. A little piece of ourselves that paints a picture with stars in the night sky, illuminating our indescribable worth.  
 
-## [![The Yellow Co. Blog: We All Need Our Anthem](http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-96.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-96.jpg) _ What is your anthem?_
+## [![The Yellow Co. Blog: We All Need Our Anthem](https://yellow-blog-images.imgix.net/2016/06/ValerieDenisePhotos-96.jpg)](https://yellow-blog-images.imgix.net/2016/06/ValerieDenisePhotos-96.jpg) _ What is your anthem?_
 
 More importantly, what are you singing for? Is it to finally write that book, start that business, meet that person, take that trip, jump off that cliff, get on that plane, leave… what is it?
 
@@ -41,7 +40,7 @@ The world will not blink, but you will. You will blink, and you will miss the ve
 
 ## I have spent too much of my energy building a wall of excuses and reasons _why not_ for my dreams.
 
-I find myself daily at a battle with myself. And honestly, isn’t that our biggest obstacle? If we are able to convince ourselves of failure, what will we let the world convince us of?[![The Yellow Co. Blog: We All Need Our Anthem](http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-90.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/ValerieDenisePhotos-90.jpg) I have found much defeat in my own words and ideals for who I am and what I should be doing. I can only imagine that I am not alone. Sometimes it is a comforting realization to not feel alone, but in this matter it breaks my heart to know how many of us find defeat by our own words and fears and insecurities.
+I find myself daily at a battle with myself. And honestly, isn’t that our biggest obstacle? If we are able to convince ourselves of failure, what will we let the world convince us of?[![The Yellow Co. Blog: We All Need Our Anthem](https://yellow-blog-images.imgix.net/2016/06/ValerieDenisePhotos-90.jpg)](https://yellow-blog-images.imgix.net/2016/06/ValerieDenisePhotos-90.jpg) I have found much defeat in my own words and ideals for who I am and what I should be doing. I can only imagine that I am not alone. Sometimes it is a comforting realization to not feel alone, but in this matter it breaks my heart to know how many of us find defeat by our own words and fears and insecurities.
 
 So, as the fears wave us done, as the jungle drums beat in our ears, as the harsh words of the world start to dwindle our fire, I want you to believe: that you CAN fight, that your voice DOES matter, that your passion IS purposeful!
 
@@ -51,4 +50,4 @@ I want you to feel the reverberation of your own heart beat move you along as yo
 
 _Photos by [Valerie Denise](http://www.valeriedenisephotos.com/)_
 
-[![katherine henson](http://yellowconference.com/wp-content/uploads/2016/06/katherine-henson.jpg)](http://www.katherinehenson.com/)
+[![katherine henson](https://yellow-blog-images.imgix.net/2016/06/katherine-henson.jpg)](http://www.katherinehenson.com/)

@@ -1,6 +1,6 @@
 ---
 title: 'Starting a Family vs. Growing Your Career: Navigating the Options'
-author: hanna@yellowco.co
+author: Jackie Boylhart
 date: '2017-09-13 04:00:18 -0700'
 categories:
 - Tension
@@ -17,7 +17,7 @@ Surrounded by water, gasping for air, wondering if I’ll ever experience the be
 
 Almost all women in today's society feel this pressure to both be some kind of perfect mother, and also be independent and working. I think about this a lot. I look at myself, and wonder if I have made, and continue to make, the right decision about not having kids and investing in myself. Or, if I just forego having kids altogether, does that make me a bad person?
 
-![STARTING A FAMILY VS. GROWING YOUR CAREER: NAVIGATING THE OPTIONS  - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/ValerieDenisePhotos-31.jpg)
+![STARTING A FAMILY VS. GROWING YOUR CAREER: NAVIGATING THE OPTIONS  - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/ValerieDenisePhotos-31.jpg)
 
 The tension that exists between being a mom who works, a mom who stays at home, or a woman who chooses not be a mother at all is one that has gotten stronger for me as I crossed the threshold into my 30s. I had the luxury of not prioritizing, and downright ignoring, my biological clock in my 20s, but now I must confront this reality. So, just like when I decided to pivot in my career, I took to asking lots of questions and researching. What I've learned so far:
 
@@ -36,7 +36,7 @@ The beauty of progress in the movement for women’s equality is that we have a 
 
 Just like we seek mentors for our careers, we can also seek mentors and role-models for what we want our home life to look like. An added bonus is if you can find this wrapped up all in one person! Find people whose lives you admire, and use it as a template to create your own.
 
-![STARTING A FAMILY VS. GROWING YOUR CAREER: NAVIGATING THE OPTIONS  - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/ValerieDenisePhotos-4.jpg)
+![STARTING A FAMILY VS. GROWING YOUR CAREER: NAVIGATING THE OPTIONS  - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/ValerieDenisePhotos-4.jpg)
 
 ### **Consider your options.**
 
@@ -50,4 +50,4 @@ Remember, there is no wrong choice. This is YOUR life and YOUR decision. The bea
 
 _Photos by:  [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
 
-[![JACKIE BOYLHART BIO](http://yellowco.co/wp-content/uploads/2017/09/JACKIE-BOYLHART-BIO.jpg)](http://jackieboylhart.com/)
+[![JACKIE BOYLHART BIO](https://yellow-blog-images.imgix.net/2017/09/JACKIE-BOYLHART-BIO.jpg)](http://jackieboylhart.com/)

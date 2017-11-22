@@ -9,7 +9,7 @@ redirect_from: "/resources/get-involved-this-week-2/"
 
 <div class="post-body pe-wp-default jpibfi_container">
 
-[![#Bloomtogether_April13-17](http://yellowconference.com/wp-content/uploads/2015/04/Bloomtogether_April13-17.jpg)](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)
+[![#Bloomtogether_April13-17](https://yellow-blog-images.imgix.net/2015/04/Bloomtogether_April13-17.jpg)](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)
 
 It’s a new week ladies! We are over a week into our [Kickstarter campaign](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c) and this week we have more ways for you to get involved in what we are doing. See below and mark your calendars!
 

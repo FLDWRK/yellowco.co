@@ -1,6 +1,6 @@
 ---
 title: 'Attendee Experience: Yellow Conference Day One'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2015-08-29 11:09:50 -0700'
 categories:
 - Creative Ladies
@@ -13,7 +13,7 @@ categories:
 redirect_from: "/creative-ladies/dayone/"
 ---
 
-[![Yellow Conference Day One](http://yellowconference.com/wp-content/uploads/2015/08/ariellespost.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/ariellespost.jpg)
+[![Yellow Conference Day One](https://yellow-blog-images.imgix.net/2015/08/ariellespost.jpg)](https://yellow-blog-images.imgix.net/2015/08/ariellespost.jpg)
 
 **_This post is originally found on Arielle Estoria's blog: [Chronicles of a Lioness](http://chroniclesofalioness.com/)_**
 
@@ -51,9 +51,9 @@ If you look at any story,  you will see that it _never_ consists of just one p
 
 **WE ARE NOT MEANT TO DO THIS ALONE.**
 
-[![Ariellespost2](http://yellowconference.com/wp-content/uploads/2015/08/Ariellespost2.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/Ariellespost2.jpg)
+[![Ariellespost2](https://yellow-blog-images.imgix.net/2015/08/Ariellespost2.jpg)](https://yellow-blog-images.imgix.net/2015/08/Ariellespost2.jpg)
 
-[![ariellepost3](http://yellowconference.com/wp-content/uploads/2015/08/ariellepost3.jpg)](http://yellowconference.com/wp-content/uploads/2015/08/ariellepost3.jpg)
+[![ariellepost3](https://yellow-blog-images.imgix.net/2015/08/ariellepost3.jpg)](https://yellow-blog-images.imgix.net/2015/08/ariellepost3.jpg)
 
 “This” as in _anything._ We are wired, created, formed to be in relationship with one another. That goes so much deeper than the relationships we think are started by, _“hey let’s have coffee”_ or _“hey I like you, let’s get married right now.”_ It is about the moments where the only response we have is, _woah_ _you have a similar thread and heartbeat to my own, let’s do something with it!_ Let’s create, _let’s do something together to make this world a better place._
 
@@ -85,4 +85,4 @@ Ah.
 
 **&& all this from only one day.**
 
-[![ARIELLE ESTORIA FOR YELLOW](http://yellowconference.com/wp-content/uploads/2015/08/ARIELLEESTORIA.jpg)](http://chroniclesofalioness.com/)
+[![ARIELLE ESTORIA FOR YELLOW](https://yellow-blog-images.imgix.net/2015/08/ARIELLEESTORIA.jpg)](http://chroniclesofalioness.com/)

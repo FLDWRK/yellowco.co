@@ -1,6 +1,6 @@
 ---
 title: The Perfect Playlist for Your Evening Soiree
-author: heygirl@yellowconference.com
+author: Rachel Dawson
 date: '2015-05-21 04:00:20 -0700'
 categories:
 - Light Talk
@@ -12,7 +12,7 @@ redirect_from: "/light-talk/dinnerpartyplaylist/"
 
 It’s finally the weekend, and you’ve invited some of your favorite people over for an evening together. Delicious aromas are wafting from your kitchen and stomachs are grumbling. Maybe you have a bottle of red wine breathing or the makings of cocktails ready at the bar or icy glasses of lemonade at every spot. The appetizers are out and dessert’s ready and waiting for it’s time in the spotlight…all you need now is a soundtrack to tie it all together. Look no further—here is the perfect playlist for your dinner together!
 
-[![9607123744_11386da008_k](http://yellowconference.com/wp-content/uploads/2015/05/9607123744_11386da008_k-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2015/05/9607123744_11386da008_k.jpg)
+[![9607123744_11386da008_k](https://yellow-blog-images.imgix.net/2015/05/9607123744_11386da008_k-683x1024.jpg)](https://yellow-blog-images.imgix.net/2015/05/9607123744_11386da008_k.jpg)
 
 Need to be convinced? Here’s how the playlist begins…
 
@@ -38,4 +38,4 @@ This playlist has 60 songs in total—it’s sure to last as long as your dinner
 
 _Photos by [Sandra Vuckovic Pagaimo](https://www.flickr.com/photos/54132946@N08/with/9607123744/)_
 
-[![Dawson](http://yellowconference.com/wp-content/uploads/2015/05/Dawson.jpg)](http://www.racheladawson.com/)
+[![Dawson](https://yellow-blog-images.imgix.net/2015/05/Dawson.jpg)](http://www.racheladawson.com/)

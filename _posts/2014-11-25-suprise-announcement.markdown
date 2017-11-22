@@ -7,7 +7,7 @@ categories:
 redirect_from: "/yellow-2015/suprise-announcement/"
 ---
 
-[![EXCITED](http://yellowconference.com/wp-content/uploads/2014/11/EXCITED.jpg)](http://yellowconference.com/wp-content/uploads/2014/11/EXCITED.jpg)
+[![EXCITED](https://yellow-blog-images.imgix.net/2014/11/EXCITED.jpg)](https://yellow-blog-images.imgix.net/2014/11/EXCITED.jpg)
 
 <iframe src="//player.vimeo.com/video/112790173" width="700" height="400" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 

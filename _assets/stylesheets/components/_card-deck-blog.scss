@@ -3,12 +3,13 @@
     border: solid 3px $brand-black;
     .card-category {
       font-size: .75rem;
+      text-transform: uppercase;
       color: #9B9B9B;
-      position: absolute;
+      position: relative;
       left: 0;
       right: 0;
       margin: auto;
-      top: 340px;
+      top: -26px;
       color: #9B9B9B;
       mark {
         background-color: white;
@@ -37,9 +38,6 @@
     @include media-breakpoint-only(md) {
       flex-basis: calc(50% - 30px);
       max-width: calc(50% - 30px);
-      .card-category {
-        top: 365px;
-      }
     }
     @include media-breakpoint-only(sm) {
       flex-basis: calc(50% - 30px);

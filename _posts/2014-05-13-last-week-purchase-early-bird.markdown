@@ -7,7 +7,7 @@ categories:
 redirect_from: "/bloomyellow/last-week-purchase-early-bird/"
 ---
 
-[![EarlyBird](http://yellowconference.com/wp-content/uploads/2014/05/EarlyBird.jpg)](http://yellowconference.com/wp-content/uploads/2014/05/EarlyBird.jpg)
+[![EarlyBird](https://yellow-blog-images.imgix.net/2014/05/EarlyBird.jpg)](https://yellow-blog-images.imgix.net/2014/05/EarlyBird.jpg)
 
 Hey Ladies! Just wanted to give you all the heads up- our Early Bird pricing is ending May 17th. The cost for admission [right now is $229](https://ti.to/yellowconference/the-yellow-conference), and it will go up to $289 after Early Bird.
 

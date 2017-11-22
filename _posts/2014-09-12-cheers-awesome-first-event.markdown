@@ -8,7 +8,7 @@ redirect_from: "/light-talk/cheers-awesome-first-event/"
 ---
 
 [](http://www.bloglovin.com/blog/12410677/?claim=pmtt5crfajx)  
-[![THANKYou](http://yellowconference.com/wp-content/uploads/2014/09/THANKYou.jpg)](http://yellowconference.com/wp-content/uploads/2014/09/THANKYou.jpg)
+[![THANKYou](https://yellow-blog-images.imgix.net/2014/09/THANKYou.jpg)](https://yellow-blog-images.imgix.net/2014/09/THANKYou.jpg)
 
 Just wanted to drop by to say a quick THANK YOU to everyone who was involved in the very first Yellow Conference. I (Joanna) had an amazing time, and am still running off the high of inspiration from the conference. So much of what made the event awesome was the amazing attendees whose brave hearts and souls are changing history in our world today. They definitely have made an impact on me personally.
 

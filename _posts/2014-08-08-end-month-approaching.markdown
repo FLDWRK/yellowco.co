@@ -7,7 +7,7 @@ categories:
 redirect_from: "/bloomyellow/end-month-approaching/"
 ---
 
-[![1798375_688079017895783_9181625871227757614_n](http://yellowconference.com/wp-content/uploads/2014/08/1798375_688079017895783_9181625871227757614_n.jpg)](http://yellowconference.com/wp-content/uploads/2014/08/1798375_688079017895783_9181625871227757614_n.jpg)
+[![1798375_688079017895783_9181625871227757614_n](https://yellow-blog-images.imgix.net/2014/08/1798375_688079017895783_9181625871227757614_n.jpg)](https://yellow-blog-images.imgix.net/2014/08/1798375_688079017895783_9181625871227757614_n.jpg)
 
 The end of the month is coming up quick- which means one thing: Yellow Conference is almost upon us ladies! We are busy getting ready for the big event.
 

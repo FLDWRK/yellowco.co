@@ -1,18 +1,18 @@
 ---
 title: 5 Posts to Read Over the Weekend
 author: heygirl@yellowconference.com
-wordpress_url: http://yellowconference.com/?p=7350
 date: '2016-11-25 11:58:39 -0800'
 categories:
 - Encouragement
 - Heart
+redirect_from: "/encouragement/5-posts-to-read-over-the-weekend/"
 ---
 
 So it begins! The holidays have officially started.
 
 The holidays bring out a lot of emotions in people. Therapists say this is their busiest time of year. Same with hair dressers... People are telling you what to buy and sales commercials are blasting in your face constantly. Especially today. Black Friday!
 
-[![ValerieDenisePhotos-53](http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-53.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/ValerieDenisePhotos-53.jpg)
+[![ValerieDenisePhotos-53](https://yellow-blog-images.imgix.net/2016/07/ValerieDenisePhotos-53.jpg)](https://yellow-blog-images.imgix.net/2016/07/ValerieDenisePhotos-53.jpg)
 
 I'm not sure what you're up to today, but if you happen to find yourself hanging out in your pajamas with some time to read or watch something, I've rounded up a few of our most popular posts throughout the years that I thought you might enjoy.
 

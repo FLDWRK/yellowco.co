@@ -1,6 +1,6 @@
 ---
 title: Finding Your Sweet Spot in Leadership (Psst...We Got the Secret)
-author: heygirl@yellowconference.com
+author: Rachel Dawson
 date: '2016-02-18 04:00:12 -0800'
 categories:
 - Advice
@@ -11,7 +11,7 @@ redirect_from: "/advice/finding-your-sweet-spot-in-leadership-psst-we-got-the-se
 
 ## _I was a born leader. Have been my whole life._
 
-Most of the time, I just seemed pretty bossy… but my heart was always just to get things done and done well. I’ve naturally fallen into a variety of leadership roles over the years (worship team leader, editor-in-chief of the high school paper, small group leader, etc.) and have always preferred them to just being on the team.[![Photo Dec 22, 2 43 55 PM](http://yellowconference.com/wp-content/uploads/2016/02/Photo-Dec-22-2-43-55-PM.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/Photo-Dec-22-2-43-55-PM.jpg)
+Most of the time, I just seemed pretty bossy… but my heart was always just to get things done and done well. I’ve naturally fallen into a variety of leadership roles over the years (worship team leader, editor-in-chief of the high school paper, small group leader, etc.) and have always preferred them to just being on the team.[![Photo Dec 22, 2 43 55 PM](https://yellow-blog-images.imgix.net/2016/02/Photo-Dec-22-2-43-55-PM.jpg)](https://yellow-blog-images.imgix.net/2016/02/Photo-Dec-22-2-43-55-PM.jpg)
 
 Last year, I found myself as the editor of an exciting new website with total control and free reign over the team and the content. What seemed at first like a thrilling opportunity well-suited to my skillset all of a sudden paralyzed me. I didn’t know how to lead like this. I didn’t know how to cast a vision that others could get behind, how to be assertive and confident, how to set a strong standard.
 
@@ -39,7 +39,7 @@ I’ve found balance to be necessary and life-changing in my work, my friendship
 
 It all comes from the same place: feeling like we are pouring out or giving or creating so much and never being filled in return.
 
-[![Photo Dec 22, 1 45 38 PM](http://yellowconference.com/wp-content/uploads/2016/02/Photo-Dec-22-1-45-38-PM.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/Photo-Dec-22-1-45-38-PM.jpg)
+[![Photo Dec 22, 1 45 38 PM](https://yellow-blog-images.imgix.net/2016/02/Photo-Dec-22-1-45-38-PM.jpg)](https://yellow-blog-images.imgix.net/2016/02/Photo-Dec-22-1-45-38-PM.jpg)
 
 ## The more we empty out, whether into relationships or our jobs or our hobbies, the more we need to fill up.
 
@@ -70,4 +70,4 @@ Maybe, for you, you lead in one capacity and are led in another, like having a m
 
 _Photos by [Karen Hernandez](http://www.karenmariehernandez.com/)_
 
-[![Dawson](http://yellowconference.com/wp-content/uploads/2016/02/Dawson.jpg)](http://www.racheladawson.com/)
+[![Dawson](https://yellow-blog-images.imgix.net/2016/02/Dawson.jpg)](http://www.racheladawson.com/)

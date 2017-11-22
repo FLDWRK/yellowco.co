@@ -1,6 +1,6 @@
 ---
 title: Five Truths Why Success is Rooted in Loving People Well
-author: hanna@yellowco.co
+author: Char Newswanger
 date: '2017-02-20 04:00:40 -0800'
 categories:
 - Inspiration
@@ -27,7 +27,7 @@ The heart of a strong business is rooted in **_making a difference_** versus sim
 
 We have all heard over and over that communication is critical for happy relationships. The same goes for a business. Communication in the right way, at the right time, using the right words creates clarity. It should be easy to understand, engaging, and have an undertone of empathy. Most importantly, good communication connects with people on a personal level.
 
-### **![Loving people well through business - Char Co. - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/02/1.jpg)**
+### **![Loving people well through business - Char Co. - The Yellow Room](https://yellow-blog-images.imgix.net/2017/02/1.jpg)**
 
 ### **Business is a good dose of intuition.**
 
@@ -45,4 +45,4 @@ As entrepreneurial women, one of our deepest longings is to make an impact. How 
 
 _Photos courtesy of [Char. Co](http://char-co.com/)_
 
-[![CHAR NEWSWANGER BIO](http://yellowco.co/wp-content/uploads/2017/02/Char-Bio.jpg)](http://char-co.com/)
+[![CHAR NEWSWANGER BIO](https://yellow-blog-images.imgix.net/2017/02/Char-Bio.jpg)](http://char-co.com/)

@@ -1,6 +1,6 @@
 ---
 title: How One Simple Challenge Spontaneously Landed Me in Cuba
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-09-11 04:00:19 -0700'
 categories:
 - Tension
@@ -27,7 +27,7 @@ The Embargo: “That’s beyond our borders. You must never go there.”
 
 Naturally —  always the rebel — that alone spurred me from a young age to cross the 90 miles of ocean and check out this place for myself. I even tried to book a trip five years ago before the embargo was lifted, but realized it would be too expensive. So when Obama and Cuba began to mend relations, it was finally solidified in my mind that I would soon be getting down to Cuba.
 
-![HOW ONE SIMPLE CHALLENGE SPONTANEOUSLY LANDED ME IN CUBA - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/1T5A8548.jpg)
+![HOW ONE SIMPLE CHALLENGE SPONTANEOUSLY LANDED ME IN CUBA - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/1T5A8548.jpg)
 
 Leading up to my trip, I was in a weird spot. I wasn’t necessarily unhappy in regards to work and personal relationships, but I wasn’t necessarily inspired either. I was content. Without realizing it, I had sunk into the typical routine, finding myself drifting from my entrepreneurial endeavors and once again treading the nine to five, working six days a week — a place I vowed to never be again. When the [Yellow Collective](https://yellowcollective.co/) released the theme, Wander, I brushed it aside. I consider myself travel savvy, I’ve ventured on a number of solo  trips across seas and lived for a stint in Honduras. I didn’t think this theme applied to me and shoved the periodical in my work bag.
 
@@ -41,7 +41,7 @@ I started working through the workbook and got less than halfway through before 
 
 Long story short, Cuba was beyond everything I could have imagined. I’m glad I went alone because it opened me up to experiences that would never have occurred had I been there with someone else. I spent hours talking to strangers as we walked miles down the cracked sidewalks of Centro Habana.
 
-![HOW ONE SIMPLE CHALLENGE SPONTANEOUSLY LANDED ME IN CUBA - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/09/1T5A8551.jpg)
+![HOW ONE SIMPLE CHALLENGE SPONTANEOUSLY LANDED ME IN CUBA - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/1T5A8551.jpg)
 
 I entered the homes of Cuban locals to share in their lives and attended impromptu dance parties in the middle of sun-drenched streets, where walls crumbled to the right and clothes hung on a line to the left.
 

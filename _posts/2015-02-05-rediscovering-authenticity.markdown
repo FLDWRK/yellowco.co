@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: Tell Her, Darling... We Are Already Whole.'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2015-02-05 04:00:59 -0800'
 categories:
 - Creative Ladies
@@ -10,7 +10,7 @@ categories:
 redirect_from: "/creative-ladies/rediscovering-authenticity/"
 ---
 
-[![Processed with VSCOcam with a6 preset](http://yellowconference.com/wp-content/uploads/2015/02/IMG_8092-copy.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/IMG_8092-copy.jpg)
+[![Processed with VSCOcam with a6 preset](https://yellow-blog-images.imgix.net/2015/02/IMG_8092-copy.jpg)](https://yellow-blog-images.imgix.net/2015/02/IMG_8092-copy.jpg)
 
 For so long we have been told that these bodies  
 Are stumbling blocks for mans’ morality
@@ -73,4 +73,4 @@ It’s time we told them differently.
 _  
 Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/)_
 
-[![aestoria](http://yellowconference.com/wp-content/uploads/2015/02/aestoria.jpg)](http://chroniclesofalioness.com/)
+[![aestoria](https://yellow-blog-images.imgix.net/2015/02/aestoria.jpg)](http://chroniclesofalioness.com/)
