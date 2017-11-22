@@ -1,6 +1,6 @@
 ---
 title: Still Feeling "Under Construction"? You're Not Alone
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2016-01-19 04:00:25 -0800'
 categories:
 - Inspiration
@@ -9,7 +9,7 @@ categories:
 redirect_from: "/inspiration/what-on-earth-does-it-mean-to-build/"
 ---
 
-## [![Yellow Co. Blog: Build](http://yellowconference.com/wp-content/uploads/2016/01/metzDARLING-26.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/metzDARLING-26.jpg)I’m going to dive in and be completely honest okay?
+## [![Yellow Co. Blog: Build](https://yellow-blog-images.imgix.net/2016/01/metzDARLING-26.jpg)](https://yellow-blog-images.imgix.net/2016/01/metzDARLING-26.jpg)I’m going to dive in and be completely honest okay?
 
 When I found out this quarter’s theme for the blog, _Build,_ I froze. I hesitated so much that I didn’t even respond back to the email for writers. Yellow Co. reached back out to me and I responded with, _I don't feel like I have too much expertise at building because I’m still currently doing it._
 
@@ -21,7 +21,7 @@ I graduated with a degree in Psychology and in my sophomore year I was thrown a 
 
 A few months before graduating, the idea of pursuing a 9-5 seemed the least bit appealing. Instead, I decided not to journey back home to Northern California, stay in Southern California and live on my own while exploring what being a creative could entail and learning how to redefine success; learning how to let pride take the backseat and become more comfortable with “winging it.” Learning how to find, harness and walk boldly in my net worth as an artist, and establish myself as someone who takes this art seriously and professionally. I must be able to embrace all aspects of this building process in order to appreciate the outcome that it will result in.
 
-[![yellow co. blog: build](http://yellowconference.com/wp-content/uploads/2016/01/metzDARLING-12.jpg)](http://yellowconference.com/wp-content/uploads/2016/01/metzDARLING-12.jpg)
+[![yellow co. blog: build](https://yellow-blog-images.imgix.net/2016/01/metzDARLING-12.jpg)](https://yellow-blog-images.imgix.net/2016/01/metzDARLING-12.jpg)
 
 ## **_Building_** is hard, and in order to lay any type of foundation down you must find the bearings deep within you first.
 
@@ -35,4 +35,4 @@ The common motto _“beauty from ashes”_ applies here because even the harde
 
 Photos by [Whitney Schey](http://whitneydarling.com/blog/)
 
-[![arielleestoria](http://yellowconference.com/wp-content/uploads/2016/01/arielleestoria.jpg)](http://arielleestoria.com/)
+[![arielleestoria](https://yellow-blog-images.imgix.net/2016/01/arielleestoria.jpg)](http://arielleestoria.com/)

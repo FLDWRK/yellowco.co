@@ -16,6 +16,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  partners:
+    title: Partners
+    output: false
 defaults:
 - scope:
     path: ''
@@ -26,6 +29,11 @@ defaults:
     author:
     image:
     excerpt_separator: "<!-- more -->"
+- scope:
+    path: ''
+    type: authors
+  values:
+    layout: page
 twitter_username: yellowconf
 permalink: pretty
 sass:

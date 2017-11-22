@@ -2,13 +2,41 @@
 layout: page
 ---
 
-<section class="story">
-  <img {{ page.image | image_src }} class="{{ 'story-img img-fluid mb-4' | image_class }}">
-  <header class="story-header">
-    <h2 class="story-title">{{ page.title }}</h2>
-  </header>
-  <div class="story-text">
-    {{ content }}
-  </div>
-  {% include share-post.html %}
-</section>
+<div class="row justify-content-center">
+  <section class="post col-12 col-md-10 col-lg-9">
+    <header class="text-center">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-date">{{ page.author }} &nbsp;|&nbsp; {{ page.date | date:"%B %e, %Y" }} &nbsp;|&nbsp; {{ page.categories }}</p>
+    </header>
+    <img src="{{ page.image }}?w=900&h=600&fit=crop" class="{{ 'img-fluid mb-4' | image_class }}">
+    <div class="post-text">
+      {{ content }}
+    </div>
+    {% include share-post.html %}
+    <footer class="post-footer">
+      <div class="row author">
+        {% assign author = site.authors | where:"title",page.author | first %}
+        {% if author.bio_image %}
+          <div class="col-sm-4 col-lg-3">
+            <img class="rounded-circle img-fluid mb-4" src="{{ author.bio_image }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
+          </div>
+          <div class="col-sm-8 col-lg-9">
+        {% else %}
+          <div class="col-12">
+        {% endif %}
+          <h4 class="name">{{ author.title }}</h4>
+          {% if author.job_title %}
+            <h5 class="title">{{ author.job_title }}
+            {% if author.company_name %}
+              at {{ author.company_name }}
+            {% endif %}
+            </h5>
+          {% endif %}
+          {% if author.content %}
+            {{ author.content | markdownify }}
+          {% endif %}
+        </div>
+      </div>
+    </footer>
+  </section>
+</div>

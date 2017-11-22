@@ -1,6 +1,6 @@
 ---
 title: Utilizing Your Talents and Creativity to Give Back
-author: hanna@yellowco.co
+author: Jasmin Bollman
 date: '2017-04-24 04:00:55 -0700'
 categories:
 - Wander
@@ -21,7 +21,7 @@ When you care deeply about something, you are moved to find ways to help, but i
 
 Go deeper by searching online for the cause you want to be involved in to find related non-profits. Usually there is a charity for almost any cause. If you can't find the exact one you're looking for, maybe you can be the person to start the first one.
 
-![UTILIZING YOUR TALENTS AND CREATIVITY TO GIVE BACK](http://yellowco.co/wp-content/uploads/2017/04/HJ-Kaleidos-084.jpg)
+![UTILIZING YOUR TALENTS AND CREATIVITY TO GIVE BACK](https://yellow-blog-images.imgix.net/2017/04/HJ-Kaleidos-084.jpg)
 
 ### **You've made your decision - now what?**
 
@@ -41,4 +41,4 @@ What I'm saying is: _it is possible_. No matter how you decide to give back, no 
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![JASMIN BOLLMAN BIO](http://yellowco.co/wp-content/uploads/2017/04/JASMIN-BOLLMAN-BIO.jpg)](http://www.jasminbollman.ca/)
+[![JASMIN BOLLMAN BIO](https://yellow-blog-images.imgix.net/2017/04/JASMIN-BOLLMAN-BIO.jpg)](http://www.jasminbollman.ca/)

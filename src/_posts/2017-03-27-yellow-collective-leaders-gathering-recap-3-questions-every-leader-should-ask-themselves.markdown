@@ -1,7 +1,7 @@
 ---
 title: 3 Questions Every Leader Should Ask Themselves / A Yellow Collective Leader
   Dinner Recap
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2017-03-27 04:00:21 -0700'
 categories:
 - Collective
@@ -15,7 +15,7 @@ When you're in a position of leadership, it's important to remember to take care
 
 We have a membership platform called [The Yellow Collective](http://yellowcollective.co/) (hop on our email list [here](http://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=e811fb1a74) to read more). There are various chapters for The Yellow Collective all over the country, each with wonderful, giving leaders who run those chapters. Being that these leaders are constantly serving, we always want to offer them a chance to be served. So, each quarter we host an event or a retreat specifically for our chapter leaders.
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/YCD0136-copy.jpg)](http://yellowco.co/wp-content/uploads/2017/03/YCD0136-copy.jpg)
+[![](https://yellow-blog-images.imgix.net/2017/03/YCD0136-copy.jpg)](https://yellow-blog-images.imgix.net/2017/03/YCD0136-copy.jpg)
 
 Last quarter we worked with [Tribe of Asher](http://tribeofashercreates.com/) and hosted an interactive dinner gathering for our leaders. Our theme was "Heart", so each course, exercise, and talking point was centered around caring and tending to the heart. Check out our recap video below!
 
@@ -24,7 +24,7 @@ We were served three courses for dinner by Chef Christian Navarro of [HellaFraic
 
 As we sat around the table, we were introduced to the first course,_ “The Belly”.  _Amanda lead us through a journaling exercise where we asked ourselves what our "shoulds" are in life. "_I believe I should..._ _fill in the blank"_. We were challenged to ask ourselves what the inner conversation happening in both our hearts and heads looked like.
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/Untitled-1.jpg)](http://yellowco.co/wp-content/uploads/2017/03/Untitled-1.jpg)
+[![](https://yellow-blog-images.imgix.net/2017/03/Untitled-1.jpg)](https://yellow-blog-images.imgix.net/2017/03/Untitled-1.jpg)
 
 Asking ourselves this question lead us to wonder, "**_What am I choosing to believe is true that is leading me to feel that way?"_** And further, _**“What am I getting from holding tight to these beliefs, and what is the cost?”**_ We all got clear on our current reality, being honest about what we gain from it, and looking at what the cost is to us, others, and our dreams/visions/goals. We complain about so much, but the complaint is a racket in front of the beliefs we are really holding onto of what we are making "right" in our lives.
 
@@ -36,7 +36,7 @@ Powerful stuff, right? Amanda asked us to think about what we WANT to be feeling
 
 _**As we replace the old with the new, these beliefs become our new declarations.**_
 
-_**[![](http://yellowco.co/wp-content/uploads/2017/03/YCD0319-copy.jpg)](http://yellowco.co/wp-content/uploads/2017/03/YCD0319-copy.jpg)**_
+_**[![](https://yellow-blog-images.imgix.net/2017/03/YCD0319-copy.jpg)](https://yellow-blog-images.imgix.net/2017/03/YCD0319-copy.jpg)**_
 
 We regain our power through our posture as we begin to notice, be aware, and intentionally shift ourselves- and the "new" begins to unfold! Some examples of these anchors are: **I am worth it. I am a quick learner. I am wise. I am curious. I am free. I am authentic. I am strong. **We chatted through these ideas with the women sitting at the table, writing down our own affirmations and anchors that we could turn to when we needed encouragement.
 
@@ -88,4 +88,4 @@ _**Special thanks to our partners for this dinner:**_
 
 <div class="gmail_msg">Photos by [Marisa Vitale](http://www.marisavitale.com/)</div>
 
-[![](http://yellowco.co/wp-content/uploads/2017/03/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)
+[![](https://yellow-blog-images.imgix.net/2017/03/joannawaterfall.jpg)](https://www.instagram.com/joannawaterfall/)

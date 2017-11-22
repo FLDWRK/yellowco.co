@@ -1,6 +1,6 @@
 ---
 title: A Few Words from Our Collective Members
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2017-06-21 04:00:18 -0700'
 categories:
 - Wander
@@ -17,7 +17,7 @@ Instead of talking your ear off about how amazing our members are, I thought it
 
 [Shaya Rees](https://www.instagram.com/shayarees/) is an administrative assistant at the [Jessie Rees Foundation](http://negu.org/) and one of the most motivated young creatives we’ve met. This girl is truly using her gifts to make the world a better place.
 
-[![](http://yellowco.co/wp-content/uploads/2017/06/Screen-Shot-2017-06-20-at-8.49.25-AM.png)](http://yellowco.co/wp-content/uploads/2017/06/Screen-Shot-2017-06-20-at-8.49.25-AM.png)
+[![](https://yellow-blog-images.imgix.net/2017/06/Screen-Shot-2017-06-20-at-8.49.25-AM.png)](https://yellow-blog-images.imgix.net/2017/06/Screen-Shot-2017-06-20-at-8.49.25-AM.png)
 
 ### **“[The Yellow Collective](http://yellowcollective.co/) has been the greatest blessing in my life lately,” she said.**
 
@@ -31,7 +31,7 @@ The Collective is definitely the type of membership where you get out of it what
 
 ### “**I’ve learned to step out of my comfort zone and to be okay with the anxiety that comes with doing so,**” she said.
 
-[![](http://yellowco.co/wp-content/uploads/2017/06/Screen-Shot-2017-06-20-at-8.59.30-AM.png)](http://yellowco.co/wp-content/uploads/2017/06/Screen-Shot-2017-06-20-at-8.59.30-AM.png)
+[![](https://yellow-blog-images.imgix.net/2017/06/Screen-Shot-2017-06-20-at-8.59.30-AM.png)](https://yellow-blog-images.imgix.net/2017/06/Screen-Shot-2017-06-20-at-8.59.30-AM.png)
 
 Stepping out and _moving_ despite fear and anxiety? Zantika is the definition of a girlboss. Each quarter, we send out Empowerment Boxes as part of our membership. It's so much fun to see our members [post about them on Instagram](https://www.instagram.com/explore/tags/yellowcollective/) and see how much joy they bring - not to mention all the goodness inside.
 
@@ -53,4 +53,4 @@ Hope to see you in the Collective this July!
 
 _Photos via Sarah Jung, Enelyn Villar and Stephanie Larsen _
 
-[![JOANNA WATERFALL BIO](http://yellowco.co/wp-content/uploads/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)
+[![JOANNA WATERFALL BIO](https://yellow-blog-images.imgix.net/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)

@@ -1,6 +1,6 @@
 ---
 title: The Art of Communication in Partnerships
-author: hanna@yellowco.co
+author: bRUNch Running
 date: '2017-04-19 04:00:43 -0700'
 categories:
 - Wander
@@ -17,7 +17,7 @@ Each action in a partnership has a reaction, and sometimes it isn’t always po
 
 **On more than one occasion, the two of us felt so defeated we considered parting ways, simply because we weren’t openly expressing ourselves to one another.** Our ability to communicate with each other had become lost. But once we took time to address everything we had avoided, we were finally able to express our frustrations, and in turn resolve our issues. Sometimes all it takes is honesty to be reminded that as partners, we will always support and respect each other unconditionally - even when we disagree.
 
-![THE ART OF COMMUNICATION IN PARTNERSHIPS - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/04/Kicheko-ADS-MLT-015.jpg)
+![THE ART OF COMMUNICATION IN PARTNERSHIPS - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/04/Kicheko-ADS-MLT-015.jpg)
 
 In our current company culture, we do not make any decisions that have potential to change the dynamics of the business without running it by the other. This means if we want to launch in a new market, we _both_ have to mutually decide on which one. Or if we want to hire a contractor, we both have to see the need for it. So often we have realized that when we are able to stay on the same page, reaching our common goal of growing the company and seeing that it succeeds comes with much more fluidity. 
 
@@ -33,4 +33,4 @@ Remember daily that you are on this adventure together, and much of what you do 
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![BRUNCH RUNNING BIO](http://yellowco.co/wp-content/uploads/2017/04/BRUNCH-RUNNING-BIO.jpg "BRUNCH RUNNING BIO")](https://www.brunchrunning.com/)
+[![BRUNCH RUNNING BIO](https://yellow-blog-images.imgix.net/2017/04/BRUNCH-RUNNING-BIO.jpg "BRUNCH RUNNING BIO")](https://www.brunchrunning.com/)

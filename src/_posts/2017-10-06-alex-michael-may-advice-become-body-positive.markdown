@@ -1,6 +1,6 @@
 ---
 title: Alex Michael May's Advice on Becoming Body Positive
-author: hanna@yellowco.co
+author: Emily Schrems
 date: '2017-10-06 04:00:39 -0700'
 categories:
 - Come Together
@@ -29,7 +29,7 @@ AMM: From the moment we have a discussion, and by modeling behavior more than wo
 
 I sat next to a woman on an airplane, started telling her about the work I do and she said, _“I’ve been on a diet since I was 9\. My sister is a big girl. She has a pretty face, but she’s been trying so hard not to be a ‘big girl’.”_ It was as if not being a big girl is better than living your life well. What is given to us is not a trophy of who we are. We have to teach girls to own their own truth, so other people don’t dictate it for them.
 
-![ALEX MICHAEL MAY'S ADVICE ON BECOMING BODY POSITIVE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/AlexMichaelMayXEloquii-15.jpg)
+![ALEX MICHAEL MAY'S ADVICE ON BECOMING BODY POSITIVE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/AlexMichaelMayXEloquii-15.jpg)
 
 #### **Self talk is a way to own our truth and dictate for ourselves the reality we create around us. When negative thoughts arise, what is your inner dialogue?**
 
@@ -45,7 +45,7 @@ AMM: Shame as well. Most of us have something that we’re ashamed of; something
 
 There are so many stems of it. But probably the number one root is feeling ashamed of your own body, often stemming from a childhood trauma or issue that we haven't learned how to process.
 
-![ALEX MICHAEL MAY’S ADVICE ON BECOMING BODY POSITIVE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/AlexMichaelMayXEloquii-16.jpg)
+![ALEX MICHAEL MAY’S ADVICE ON BECOMING BODY POSITIVE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/AlexMichaelMayXEloquii-16.jpg)
 
 #### **In ancient Greek mythology, Kairos moments are the moments that are critical in one’s development. What would you say are the Kairos moments that led you toward the mindset you carry today?**
 
@@ -59,7 +59,7 @@ AMM: I’ve always been a naturally optimistic person, but I’ve also battled w
 
 A year ago, I had this realization that everything I’ve gone through has been a gift because it has given me empathy. I feel like I’ve lived many lifetimes and can relate on a really heartfelt, empathetic level. Instead of the challenges being a burden, I can now look back and feel like those things were given to me.
 
-![ALEX MICHAEL MAY’S ADVICE ON BECOMING BODY POSITIVE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/AlexMichaelMayXEloquii-10.jpg)
+![ALEX MICHAEL MAY’S ADVICE ON BECOMING BODY POSITIVE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/AlexMichaelMayXEloquii-10.jpg)
 
 #### **How has speaking out about your own experiences surrounding body positivity helped you cultivate community and authentic relationships?**
 
@@ -82,4 +82,4 @@ Dang. All the snaps, claps, and feelings of gratitude for Alex’s vulnerable an
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
 
-[![EMILY SCHREMS BIO](http://yellowco.co/wp-content/uploads/2017/07/EMILY-SCHREMS-BIO.jpg)](https://www.instagram.com/emschrems/)
+[![EMILY SCHREMS BIO](https://yellow-blog-images.imgix.net/2017/07/EMILY-SCHREMS-BIO.jpg)](https://www.instagram.com/emschrems/)

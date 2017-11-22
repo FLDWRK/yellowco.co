@@ -1,6 +1,6 @@
 ---
 title: Your 2017 Entrepreneur Tax Guide
-author: heygirl@yellowconference.com
+author: Wilkinson Mazzeo
 date: '2017-02-10 04:00:09 -0800'
 categories:
 - Advice
@@ -87,4 +87,4 @@ _**Related Resources:**_
 
 _Photo by [Cacá Santoro](http://cacasantoro.com/)_
 
-[![wilkinsonmazzeo](http://yellowco.co/wp-content/uploads/2017/02/WILKINSONMAZZEO.jpg)](https://wilkinsonmazzeo.com/)
+[![wilkinsonmazzeo](https://yellow-blog-images.imgix.net/2017/02/WILKINSONMAZZEO.jpg)](https://wilkinsonmazzeo.com/)

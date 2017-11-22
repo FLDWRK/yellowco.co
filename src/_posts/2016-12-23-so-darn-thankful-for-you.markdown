@@ -1,13 +1,13 @@
 ---
 title: So Darn Thankful for You.
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2016-12-23 04:00:42 -0800'
 categories:
 - "#bloomyellow"
 redirect_from: "/bloomyellow/so-darn-thankful-for-you/"
 ---
 
-[![happy-holidays](http://yellowconference.com/wp-content/uploads/2016/12/HAPPY-HOLIDAYS.jpg)](http://yellowconference.com/wp-content/uploads/2016/12/HAPPY-HOLIDAYS.jpg)
+[![happy-holidays](https://yellow-blog-images.imgix.net/2016/12/HAPPY-HOLIDAYS.jpg)](https://yellow-blog-images.imgix.net/2016/12/HAPPY-HOLIDAYS.jpg)
 
 As 2016 slowly fades away, it causes me to become reflective on this past year. The highs and lows, what I learned, what I succeeded at and what I need to work on improving.
 
@@ -31,4 +31,4 @@ _xoxo,_
 
 _Joanna Waterfall & Team Yellow_
 
-[![JOANNA WATERFALL--YELLOW 2016](http://yellowconference.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-07-at-1.43.27-AM.png)](http://instagram.com/joannawaterfall)
+[![JOANNA WATERFALL--YELLOW 2016](https://yellow-blog-images.imgix.net/2016/06/Screen-Shot-2016-06-07-at-1.43.27-AM.png)](http://instagram.com/joannawaterfall)

@@ -1,6 +1,6 @@
 ---
 title: Establish Your Focus and You Are Guaranteed to Leave an Undeniable Legacy
-author: heygirl@yellowconference.com
+author: Bekah Pogue
 date: '2015-12-03 04:00:52 -0800'
 categories:
 - Resources
@@ -16,8 +16,8 @@ categories:
 redirect_from: "/resources/how-to-establish-your-focus-and-leave-an-undeniable-legacy/"
 ---
 
-## [![the yellow conference blog: what will your legacy be? ](http://yellowconference.com/wp-content/uploads/2015/12/photo2-14-06-51.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/photo2-14-06-51.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2015/11/photo2-copy.jpg)1\. Establish Your Focus
+## [![the yellow conference blog: what will your legacy be? ](https://yellow-blog-images.imgix.net/2015/12/photo2-14-06-51.jpg)](https://yellow-blog-images.imgix.net/2015/12/photo2-14-06-51.jpg)[  
+](https://yellow-blog-images.imgix.net/2015/11/photo2-copy.jpg)1\. Establish Your Focus
 
 Sounds funny, but creatives often have a hard time nailing down what their unique vision is. We are excited about much and then, as the dog in UP reacts, _“squirrel,”_ another creative idea sparks. It’s not how to focus, it’s what to focus on that requires attention. In the writing world, it's our platform, our elevator pitch, a brief explanation of what the blog/book/article is about and why it will benefit the reader. In a sum, it's finding my unique voice and sticking with it. This took me _years_ to shape and whittle away at until I began connecting my confetti passions to discover my core voice. I love communicating it through speaking, blogging, designing, writing articles and connecting with people over dirty chai’s. Wherever I go, that’s the natural bent of what springs from within. So it makes sense I lead from that passion. _What are your passions? Your unique perspective? Those drummings inside that can't help but come out?_ Let those facets shine. Focus your platform and give it everything you have. Establishing your focus takes strategy, time, and consistency. Do these three and you will discover your valuable focus.
 
@@ -26,8 +26,8 @@ Sounds funny, but creatives often have a hard time nailing down what their uniqu
 ## 2\. Trust the Process
 
 Some parts of defining the brand, the vision, the steps are spent gathering. I create space to dream, read, and process knowing these steps are essential to forming the skeleton of a story. Some parts are spent sanding, polishing, and waiting. This is where inspiration pours out and I write in fast-forward without spell checking along the way. Then I go back with fresh eyes to edit, erase, add supportive quotes and meaty content to make a well-rounded read. And when I feel forced or stressed and I’ve hit a brick wall, I trust it will come and know maybe a beach walk and dance party is in order to get creative juices flowing. Some parts are spent celebrating and enjoying and connecting with groups and readers. They are all equally valuable. Like necessary steps in building a sturdy chair, we can't sit and enjoy the comfy view without the essential steps before.**[  
-](http://yellowconference.com/wp-content/uploads/2015/12/photo3.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2015/11/dINVjBn79bKQ2FtLR5d3GBaHoo6hVuO1lzo3Bi0QuyoHDcauWnDBI8KZUUapzo_OK8tysmQOtZ5Ean6S_kaARQ.jpg)**
+](https://yellow-blog-images.imgix.net/2015/12/photo3.jpg)[  
+](https://yellow-blog-images.imgix.net/2015/11/dINVjBn79bKQ2FtLR5d3GBaHoo6hVuO1lzo3Bi0QuyoHDcauWnDBI8KZUUapzo_OK8tysmQOtZ5Ean6S_kaARQ.jpg)**
 
 ## 3\. There are no backward steps, only focused detours.
 
@@ -39,7 +39,7 @@ I spent all summer working on my first book proposal and when I plopped it in fr
 
 On my desk, I wrote myself a note that reads, _“May the main characters in your story always be truth and love.”_ This surrounds all of life. My identity must come from a source of truth and love, so that my message speaks from a place of overflow from truth and love. In turn, I have my nest, my truth-tellers and celebrators to call on when I feel distracted or in need of wise counsel. From there, I can speak to women and remind them that they matter, that their story and their dreams matters and cheer them on, unafraid if their brand or platform or name is bigger than mine, because I am confident in where my security is found- in Truth and Love. And the truth remains - every person matters. There are no small people, just big egos.
 
-[![the yellow conference blog: what will your legacy be?](http://yellowconference.com/wp-content/uploads/2015/12/dINVjBn79bKQ2FtLR5d3GBaHoo6hVuO1lzo3Bi0QuyoHDcauWnDBI8KZUUapzo_OK8tysmQOtZ5Ean6S_kaARQ.jpg)](http://yellowconference.com/wp-content/uploads/2015/12/dINVjBn79bKQ2FtLR5d3GBaHoo6hVuO1lzo3Bi0QuyoHDcauWnDBI8KZUUapzo_OK8tysmQOtZ5Ean6S_kaARQ.jpg)
+[![the yellow conference blog: what will your legacy be?](https://yellow-blog-images.imgix.net/2015/12/dINVjBn79bKQ2FtLR5d3GBaHoo6hVuO1lzo3Bi0QuyoHDcauWnDBI8KZUUapzo_OK8tysmQOtZ5Ean6S_kaARQ.jpg)](https://yellow-blog-images.imgix.net/2015/12/dINVjBn79bKQ2FtLR5d3GBaHoo6hVuO1lzo3Bi0QuyoHDcauWnDBI8KZUUapzo_OK8tysmQOtZ5Ean6S_kaARQ.jpg)
 
 ## 5\. Inspired Toward, Not Intimidated By
 
@@ -47,7 +47,7 @@ A designer/dear college friend shared this truth and I take it to heart daily: *
 
 _Photos by [Karen Marie Hernandez](http://www.karenmariehernandez.com/)_
 
-[![bekahpogue](http://yellowconference.com/wp-content/uploads/2015/12/bekahpogue.jpg)](http://www.upcycledjane.com/)
+[![bekahpogue](https://yellow-blog-images.imgix.net/2015/12/bekahpogue.jpg)](http://www.upcycledjane.com/)
 
 #### _Pssst...Want to take this a step further?_
 

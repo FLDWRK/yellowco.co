@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: Be Kind to Yourself (Part One)'
-author: heygirl@yellowconference.com
+author: Abigail Driscoll
 date: '2015-01-15 04:00:35 -0800'
 categories:
 - Inspiration
@@ -9,7 +9,7 @@ categories:
 redirect_from: "/inspiration/rediscovering-authenticity-real-shortcomings/"
 ---
 
-[![driscollpost2](http://yellowconference.com/wp-content/uploads/2015/01/driscollpost2.jpg)](http://yellowconference.com/wp-content/uploads/2015/01/driscollpost2.jpg)
+[![driscollpost2](https://yellow-blog-images.imgix.net/2015/01/driscollpost2.jpg)](https://yellow-blog-images.imgix.net/2015/01/driscollpost2.jpg)
 
 To say that I am a klutz might be an understatement.
 
@@ -63,10 +63,10 @@ If we are able to find this balance where we treat ourselves like real human bei
 
 _But we have to start with ourselves._
 
-[![driscollpost1](http://yellowconference.com/wp-content/uploads/2015/01/driscollpost1-683x1024.jpg)](http://yellowconference.com/wp-content/uploads/2015/01/driscollpost1.jpg)
+[![driscollpost1](https://yellow-blog-images.imgix.net/2015/01/driscollpost1-683x1024.jpg)](https://yellow-blog-images.imgix.net/2015/01/driscollpost1.jpg)
 
 _Look closely at the way you speak to yourself when you mess up or when you find something about yourself you don't like._ Are you willing to balance honesty about your faults and failures while infusing a whole lot of grace into your inner dialogue as well? This balance will propel you toward joy and freedom within yourself and your relationships, and will continue to mold you into the magnificent human that you are.
 
 _Photos by [Whitney Darling Photography](http://whitneydarling.com/)_
 
-[![adriscoll](http://yellowconference.com/wp-content/uploads/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)
+[![adriscoll](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

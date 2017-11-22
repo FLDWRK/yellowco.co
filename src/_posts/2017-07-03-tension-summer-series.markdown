@@ -1,6 +1,6 @@
 ---
 title: 'Tension: Our Summer Series'
-author: hanna@yellowco.co
+author: Hanna Snyder
 date: '2017-07-03 04:00:26 -0700'
 categories:
 - Tension
@@ -17,7 +17,7 @@ You know it. You live it. As creatives, entrepreneurs, and women pursuing purpos
 
 As dreamers, our big ideas spark us. They give us courage to quit the job. To start, or say, something _groundbreaking_ . Our aspirations are the movers and shakers of our internal conversation. And now, after we’ve spent a quarter reflecting on the big picture with [the _Wander_ series](http://yellowco.co/wander/new-series-welcome-to-wander/) , we shift our focus to the everyday. To our problems, practices, and conflicts that don’t feel as pretty. We explore how to preserve that purpose we searched so hard for, during the daily push and pull away from it.
 
-![TENSION: OUR SUMMER SERIES - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/HJ-Kaleidos-122-1.jpg "TENSION: OUR SUMMER SERIES - THE YELLOW ROOM")
+![TENSION: OUR SUMMER SERIES - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/07/HJ-Kaleidos-122-1.jpg "TENSION: OUR SUMMER SERIES - THE YELLOW ROOM")
 
 Recently, I watched [Ryder Caroll’s Ted talk](https://www.youtube.com/watch?v=ym6OYelD5fA) (the creator of the Bullet Journal), and his spot-on explanation of this state of living has lingered on me:
 
@@ -31,7 +31,7 @@ This constant balancing act we live in, it is our **_Tension_** . We feel it in 
 
 ### **This means continually placing our character on a pottery wheel, and asking ourselves what shape we want to take.**
 
-![TENSION: OUR SUMMER SERIES - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/HJ-Kaleidos-109.jpg)
+![TENSION: OUR SUMMER SERIES - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/07/HJ-Kaleidos-109.jpg)
 
 That’s what my year has been chalk full of. I’ve challenged my own opinions. Questioned if what I think is best is _actually_ what I think is best. I’ve pressed into friendship, and put honesty first. Spoken up more, and settled less. Good communication and I are even getting to know each other. Is it work? Yes. Is it worth it? Absolutely. These are the necessary, forged in fire times that evolve us.
 
@@ -41,4 +41,4 @@ For these next few months, I challenge you to take a good look at everything we 
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![Hanna Snyder Bio](http://yellowco.co/wp-content/uploads/2017/04/HANNA-BIO.jpg)](http://www.hannasnyder.com)
+[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/04/HANNA-BIO.jpg)](http://www.hannasnyder.com)

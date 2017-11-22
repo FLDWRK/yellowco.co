@@ -1,6 +1,6 @@
 ---
 title: '"I Never Wanted to Be "the Angry Black Woman""'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2015-09-17 04:00:05 -0700'
 categories:
 - Creative Ladies
@@ -12,7 +12,7 @@ redirect_from: "/creative-ladies/i-never-wanted-to-be-the-angry-black-woman/"
 
 _Yellow blogger, Arielle Estoria, posted this powerful piece originally on her blog, [Chronicles of a Lioness](http://chroniclesofalioness.com/), in response to the Charleston, North Carolina shooting. She shared it with Yellow Co. for our current series, Creative Advocacy._
 
-[![Yellow Conference Blog ](http://yellowconference.com/wp-content/uploads/2015/09/untitled-131-of-12341.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/untitled-131-of-12341.jpg)
+[![Yellow Conference Blog ](https://yellow-blog-images.imgix.net/2015/09/untitled-131-of-12341.jpg)](https://yellow-blog-images.imgix.net/2015/09/untitled-131-of-12341.jpg)
 
 ###### When my parents raised my siblings and me, they taught us the importance and value behind seeing ourselves as whole, precious and unique human beings.
 
@@ -22,7 +22,7 @@ Growing up in Northern California, you experience a plethora of people from all 
 
 It wasn’t until I got to college that me being an African American woman was something to _focus on, pinpoint, and remind me of_ as if I wasn’t aware of it already. I experienced what ignorance looked like, some who were aware of it and some who were not. _I went on a blind date and was put in the same category as ordering black coffee: strong, tall and black._ I was told that I was "_pretty…_for a Black girl,” that I was a "white woman trapped in a Black Woman's body" and experienced what it felt like when your skin color was the person and that was all people could see.
 
-[![Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/09/untitled-112-of-1234.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/untitled-112-of-1234.jpg)
+[![Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/09/untitled-112-of-1234.jpg)](https://yellow-blog-images.imgix.net/2015/09/untitled-112-of-1234.jpg)
 
 My heart breaks in a thousand little pieces with the current events circling our news today. I find myself praying just a little bit harder that my brother doesn’t have to grow up in a world that automatically sees him as someone who is dangerous or the man that I am dating turning just a little bit too quickly and someone finding him a threat. That my father in all his big and bear like qualities would hold his Bible in a way that could seem just a _little_off or the idea that my mother, praying in a church, could not have another moment after. Terrified for every one of my sisters, that their potential would be boxed into a perception placed on them by others and not given even a moment to shine. I am saddened when I walk past a vehicle and hear the lock of someone’s car as if any thought of harming them had crossed my mind while doing so.
 
@@ -36,4 +36,4 @@ It is terrifying, that we can continue living day to day and not be affected in 
 
 _Photos by [Karen Hernandez](http://www.karenmariehernandez.com/)_
 
-[![Arielle Estoria for the Yellow Conference Blog](http://yellowconference.com/wp-content/uploads/2015/09/arielleestoria.jpg)](http://chroniclesofalioness.com/)
+[![Arielle Estoria for the Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/09/arielleestoria.jpg)](http://chroniclesofalioness.com/)

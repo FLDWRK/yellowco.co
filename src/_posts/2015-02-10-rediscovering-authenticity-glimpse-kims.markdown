@@ -1,6 +1,6 @@
 ---
 title: 'Thoughts on the Fourteenth: As a Newlywed'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-02-10 04:00:54 -0800'
 categories:
 - Light Talk
@@ -11,7 +11,7 @@ categories:
 redirect_from: "/light-talk/rediscovering-authenticity-glimpse-kims/"
 ---
 
-[![KimWedding-479](http://yellowconference.com/wp-content/uploads/2015/02/KimWedding-479.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/KimWedding-479.jpg)
+[![KimWedding-479](https://yellow-blog-images.imgix.net/2015/02/KimWedding-479.jpg)](https://yellow-blog-images.imgix.net/2015/02/KimWedding-479.jpg)
 
 I don't want to bore you with another cheesy marriage post. I don't want to fool you with the thought that my marriage is flawless; it is not by any means perfect. Let's talk about marriage...for real. Yours may...yours **will...**look different, because you have two very different hearts from us that are bonding. But, what I do know, is that I am so exhausted of the lingering doubts caused by false beliefs and staged perfections--telling me that what we (the Kims) have is not enough.
 
@@ -30,7 +30,7 @@ But some mornings, the mornings where we have time to linger and lounge, I turn 
 
 Yes, folks. Comparison is a trap, even in marriage. The incessant need for _more. _That thief comes and blinds me to my husband's sacrifice--that he chose me, _after _I had adopted my 16 year old brother. He wakes up at 6am every single morning to take our "brotherson" (as we like to call him) to school. He fills up my gas tank and does wood work when I'm convinced that wires hanging over our fireplace is ruining the look of our entire house. He uses his birthday money to make sure my tires are safe, and he does the dishes when he knows my pregnant body can't stand another ten minutes.
 
-[![KimWedding-478](http://yellowconference.com/wp-content/uploads/2015/02/KimWedding-478.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/KimWedding-478.jpg)
+[![KimWedding-478](https://yellow-blog-images.imgix.net/2015/02/KimWedding-478.jpg)](https://yellow-blog-images.imgix.net/2015/02/KimWedding-478.jpg)
 
 And we lack in the area of perfection. I entered marriage with this set of idyllic expectations: all the dates we were going to go on, all the mini-moons that would take place, all the hours of praying together that would put us on the path of being "that" couple. You know, "that" couple that everyone wants to be like? "That" couple that has mentees knocking at their door and friends swooning over their bond...
 
@@ -46,4 +46,4 @@ So I go to sleep, again, remembering that resting in his arms is **still enough
 
 _Photos by [Kevin Rogers](http://www.kevinrogersphoto.com/)_
 
-[![skimbio](http://yellowconference.com/wp-content/uploads/2015/02/skimbio1.jpg)](http://lettersfromamister.tumblr.com/)
+[![skimbio](https://yellow-blog-images.imgix.net/2015/02/skimbio1.jpg)](http://lettersfromamister.tumblr.com/)
