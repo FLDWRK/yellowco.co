@@ -1,12 +1,11 @@
 ---
-title: "She Should Run CEO Shares How You Can Get More Women in Office"
+title: "'She Should Run' CEO Shares How to Get More Women in Office"
 author: Hanna Snyder
 date: '2017-10-27 04:00:47 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/she-should-run-ceo-more-women-elected-office/"
-image-feature: "/assets/images/IMG-8271-feature.jpg"
-image-thumb: "/assets/images/IMG-8271.jpg"
+image: "https://yellow-blog-images.imgix.net/2017/10/0P7A9534-1320x880.jpg"
 ---
 
 Perhaps more than ever, we can see a dire need for unity, diversity, and genuine collaboration in our nation's political offices.
