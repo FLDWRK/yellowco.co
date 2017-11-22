@@ -4,6 +4,7 @@
   "repository": "git@github.com:FLDWRK/yellowco.co.git",
   "author": "Brandon Arbini <b@fldwrk.io>",
   "dependencies": {
+    "axios": "^0.17.1",
     "bigslide": "^0.12.1",
     "bootstrap": "4.0.0-alpha.6",
     "font-awesome": "^4.7.0",
