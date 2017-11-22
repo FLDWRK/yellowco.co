@@ -27,7 +27,13 @@ class Instagram extends Component {
       <span>
         {this.state.images
           .slice(0, 4)
-          .map(image => <img key={image.id} src={image.images.thumbnail.url} alt="Instagram" />)}
+          .map(image => (
+            <img
+              key={image.id}
+              src={image.images.thumbnail.url}
+              alt="Instagram"
+            />
+          ))}
       </span>
     );
   }
