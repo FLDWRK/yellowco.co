@@ -3,7 +3,7 @@ title: Our (Free) March Gathering & Some Exciting News!!
 author: heygirl@yellowconference.com
 date: '2016-02-25 04:07:18 -0800'
 categories:
-- Yellow Collective
+- Collective
 redirect_from: "/yellow-collective/our-free-march-gathering-some-exciting-news/"
 ---
 

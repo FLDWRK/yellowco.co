@@ -4,7 +4,7 @@ title: 3 Questions Every Leader Should Ask Themselves / A Yellow Collective Lead
 author: heygirl@yellowconference.com
 date: '2017-03-27 04:00:21 -0700'
 categories:
-- Yellow Collective
+- Collective
 - Pioneer
 redirect_from: "/yellow-collective/yellow-collective-leaders-gathering-recap-3-questions-every-leader-should-ask-themselves/"
 ---

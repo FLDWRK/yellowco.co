@@ -6,7 +6,7 @@ categories:
 - Creative Ladies
 - "#bloomyellow"
 - Encouragement
-- Yellow Collective
+- Collective
 redirect_from: "/creative-ladies/in-need-of-a-last-minute-meaningful-gift/"
 ---
 
