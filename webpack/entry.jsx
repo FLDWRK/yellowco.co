@@ -3,6 +3,7 @@ import { render } from 'react-dom';
 import $ from 'jquery';
 import 'bootstrap';
 import 'bigslide';
+import 'fotorama/fotorama';
 import HelloWorld from './components/hello-world';
 import Instagram from './components/instagram';
 
