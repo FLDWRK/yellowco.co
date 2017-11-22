@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import $ from 'jquery';
 import 'bootstrap';
 import 'bigslide';
-import HelloWorld from './components/hello-world';
+import 'fotorama/fotorama';
 import Instagram from './components/instagram';
 
 $('.nav-site .navbar-toggler').bigSlide({
@@ -18,9 +18,6 @@ $('[data-href]').on('click', function(e) {
 });
 
 $('[data-toggle="tooltip"]').tooltip();
-
-if (document.getElementById('hello-world'))
-  render(<HelloWorld />, document.getElementById('hello-world'));
 
 if (document.getElementById('instagram'))
   render(<Instagram />, document.getElementById('instagram'));

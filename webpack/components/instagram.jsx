@@ -16,8 +16,8 @@ class Instagram extends Component {
         response => {
           this.setState({ images: response.data.data });
         },
-        error => {
-          console.log('Instagram error', error);
+        () => {
+          // console.log('Instagram error', error);
         }
       );
   }

@@ -26,6 +26,10 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.5.1",
-    "webpack": "^3.8.1"
+    "webpack": "^3.8.1",
+    "webpack-livereload-plugin": "^1.0.0"
+  },
+  "scripts": {
+    "webpack": "./node_modules/.bin/webpack -w"
   }
 }
