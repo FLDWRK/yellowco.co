@@ -1,6 +1,6 @@
 ---
 title: Is Your Social Media Follower Count Managing You?
-author: heygirl@yellowconference.com
+author: Elizabeth Fein
 date: '2015-04-23 04:00:11 -0700'
 categories:
 - Light Talk
@@ -10,7 +10,7 @@ categories:
 redirect_from: "/light-talk/managingyourfollowercount/"
 ---
 
-[![Stocksy_txp44feb0093z0000_Small_55213 (2)](http://yellowconference.com/wp-content/uploads/2015/04/Stocksy_txp44feb0093z0000_Small_55213-2.jpg)](http://yellowconference.com/wp-content/uploads/2015/04/Stocksy_txp44feb0093z0000_Small_55213-2.jpg)Social media has recently gained a strong reputation, indicating that if you don’t have thousands upon thousands of followers you haven’t “made it.” It’s easy to get obsessed with that number that shows up on the top of all our social media feeds: our follower count.
+[![Stocksy_txp44feb0093z0000_Small_55213 (2)](https://yellow-blog-images.imgix.net/2015/04/Stocksy_txp44feb0093z0000_Small_55213-2.jpg)](https://yellow-blog-images.imgix.net/2015/04/Stocksy_txp44feb0093z0000_Small_55213-2.jpg)Social media has recently gained a strong reputation, indicating that if you don’t have thousands upon thousands of followers you haven’t “made it.” It’s easy to get obsessed with that number that shows up on the top of all our social media feeds: our follower count.
 
 > Yes, there are times when you should worry about your follower count. **It is one of the ways you can measure whether your content is resonating with people or not.** Just remember, it does not equal your worth and there are other ways of measuring success.
 
@@ -50,4 +50,4 @@ Yes, there are times when you should worry about your follower count. _It is one
 
 _Photo by [Mattia Pelizzari](http://www.mattiapelizzari.com/)_
 
-[![EFEINBIO](http://yellowconference.com/wp-content/uploads/2015/04/EFEINBIO.jpg)](http://www.iteratesocial.com/)
+[![EFEINBIO](https://yellow-blog-images.imgix.net/2015/04/EFEINBIO.jpg)](http://www.iteratesocial.com/)

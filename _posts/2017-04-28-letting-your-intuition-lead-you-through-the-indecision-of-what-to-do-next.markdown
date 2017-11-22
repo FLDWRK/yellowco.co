@@ -1,6 +1,6 @@
 ---
 title: Letting Your Intuition Lead You Through the Indecision of What to Do Next
-author: hanna@yellowco.co
+author: Kaye Namba
 date: '2017-04-28 04:00:58 -0700'
 categories:
 - Wander
@@ -20,7 +20,7 @@ Whenever you find yourself crippled by not being able to see the entire path in 
 ### **Get re-centered.**
 
 I can’t count how many times I’ve had to take a step back and ask myself why I decided to start my coaching business. Every time, I remind myself of how I want to truly contribute to making this world a better place. Go back to what you believe your purpose is, and use it to make decisions based on if it will help lead you to achieving it.  
-![LETTING YOUR INTUITION LEAD YOU THROUGH THE INDECISION OF WHAT TO DO NEXT - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/04/Kicheko-SS2016-P-414.jpg)
+![LETTING YOUR INTUITION LEAD YOU THROUGH THE INDECISION OF WHAT TO DO NEXT - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/04/Kicheko-SS2016-P-414.jpg)
 
 ### **Listen to your body.**
 
@@ -38,4 +38,4 @@ You won’t always make the right decisions when it comes to figuring out what i
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![KAYE NAMBA BIO](http://yellowco.co/wp-content/uploads/2017/04/KAYE-NAMBA-BIO.jpg)](http://www.littlegoldenpenguin.com/)
+[![KAYE NAMBA BIO](https://yellow-blog-images.imgix.net/2017/04/KAYE-NAMBA-BIO.jpg)](http://www.littlegoldenpenguin.com/)

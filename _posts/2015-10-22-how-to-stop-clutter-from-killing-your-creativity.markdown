@@ -1,6 +1,6 @@
 ---
 title: How to Keep Your Clutter at Bay so Your Creativity is on Point
-author: heygirl@yellowconference.com
+author: Beth Penn
 date: '2015-10-22 04:00:54 -0700'
 categories:
 - Light Talk
@@ -13,7 +13,7 @@ categories:
 redirect_from: "/light-talk/how-to-stop-clutter-from-killing-your-creativity/"
 ---
 
-[![bneato bar for yellow co. blog](http://yellowconference.com/wp-content/uploads/2015/10/bneato-hp-office-edit-for-quiz.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/bneato-hp-office-edit-for-quiz.jpg)
+[![bneato bar for yellow co. blog](https://yellow-blog-images.imgix.net/2015/10/bneato-hp-office-edit-for-quiz.jpg)](https://yellow-blog-images.imgix.net/2015/10/bneato-hp-office-edit-for-quiz.jpg)
 
 ##### Clutter. We all have it (even me, a professional organizer). But clutter shouldn’t be seen as a dirty word.
 
@@ -29,7 +29,7 @@ It’s of the utmost importance to create a space that you can work in every day
 
 Notice everything on the desk and ask yourself, is it necessary? What if it were removed? Would I still be able to get work done? Continue into the desk drawer, the bulletin board, the office closet, the bookcase—leave no area untouched.
 
-[![beneato for yellow co. ](http://yellowconference.com/wp-content/uploads/2015/10/bneato-hp-bedside.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/bneato-hp-bedside.jpg)Once the unnecessary is cleared, maintenance is key. And know that there will be a week or two where things get nutty again due to work overload, holidays, travel and the like. As long as you are consistent in your efforts, you will be rewarded greatly.
+[![beneato for yellow co. ](https://yellow-blog-images.imgix.net/2015/10/bneato-hp-bedside.jpg)](https://yellow-blog-images.imgix.net/2015/10/bneato-hp-bedside.jpg)Once the unnecessary is cleared, maintenance is key. And know that there will be a week or two where things get nutty again due to work overload, holidays, travel and the like. As long as you are consistent in your efforts, you will be rewarded greatly.
 
 ###### My favorite ways to keep major clutter at bay:
 
@@ -41,4 +41,4 @@ Notice everything on the desk and ask yourself, is it necessary? What if it were
 
 A little maintenance each day goes a long way in keeping your surroundings calm and your mind free to cultivate and get creative.
 
-[![bneatobar for yellow co. ](http://yellowconference.com/wp-content/uploads/2015/10/BethPenn.jpg)](http://bneatobar.com/)
+[![bneatobar for yellow co. ](https://yellow-blog-images.imgix.net/2015/10/BethPenn.jpg)](http://bneatobar.com/)

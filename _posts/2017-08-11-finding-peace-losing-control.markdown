@@ -1,6 +1,6 @@
 ---
 title: Finding Peace in Losing Control
-author: hanna@yellowco.co
+author: Kristi Porter
 date: '2017-08-11 04:00:08 -0700'
 categories:
 - Tension
@@ -17,7 +17,7 @@ During that time, I realized control for what it was and stopped using the attra
 
 For a while, I got better at letting go of control a bit. But the next challenge was right around the corner.  I recently celebrated my first year in business, and you guessed it, I was confronted again with my desire for control. It was a bit of a slap in the face, a bit of a letdown, and a bit of a surprise. But mostly, it was a good reminder. Not a fun one, but a good one.
 
-![FINDING PEACE IN LOSING CONTROL - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/20170724-IMG_5311.jpg)
+![FINDING PEACE IN LOSING CONTROL - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/20170724-IMG_5311.jpg)
 
 Many of us want more control in some area. Maybe it’s a difficult business decision, a bad boss, fork in the road, crumbling relationship, health scare, or even just the jerk that cuts you off in traffic.
 
@@ -31,7 +31,7 @@ I didn’t know I was a control freak for the first 20+ years of my life. It too
 
 But much like no one will force self-care on you, control is one area you’ll have to deal with on your own. This doesn’t mean _completely_ by yourself, but you have to want to reap the benefits enough to put in the work. And there are many benefits to come. (Hint: less stress and healthier relationships.)
 
-![FINDING PEACE IN LOSING CONTROL - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/08/20170724-IMG_5335.jpg)
+![FINDING PEACE IN LOSING CONTROL - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/08/20170724-IMG_5335.jpg)
 
 ### **Move From Closed Fists to Open Hands**
 
@@ -47,4 +47,4 @@ One last thing I should point out is that we absolutely each have our own respon
 
 _Photos by: [Tacy Liz](http://wilddaydreamers.wixsite.com/tacyliz)_
 
-[![KRISTI PORTER BIO](http://yellowco.co/wp-content/uploads/2017/08/KRISTI-PORTER-BIO.jpg)](https://www.signify.solutions/)
+[![KRISTI PORTER BIO](https://yellow-blog-images.imgix.net/2017/08/KRISTI-PORTER-BIO.jpg)](https://www.signify.solutions/)

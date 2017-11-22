@@ -1,6 +1,6 @@
 ---
 title: 10 Realistic Ways You Can Start Fighting Modern Day Slavery Now
-author: heygirl@yellowconference.com
+author: Abigail Driscoll
 date: '2015-08-20 04:00:03 -0700'
 categories:
 - Creative Ladies
@@ -12,7 +12,7 @@ categories:
 redirect_from: "/creative-ladies/stophumantrafficking/"
 ---
 
-[![yellow conference blog ](http://yellowconference.com/wp-content/uploads/2015/08/sabrina-hill.jpeg)](http://yellowconference.com/wp-content/uploads/2015/08/sabrina-hill.jpeg)When it comes to big issues and injustices in the world, it can be so easy to get overwhelmed. Modern day slavery is an issue that has been put in front of my face many times over the past several years... and I keep running away from it.
+[![yellow conference blog ](https://yellow-blog-images.imgix.net/2015/08/sabrina-hill.jpeg)](https://yellow-blog-images.imgix.net/2015/08/sabrina-hill.jpeg)When it comes to big issues and injustices in the world, it can be so easy to get overwhelmed. Modern day slavery is an issue that has been put in front of my face many times over the past several years... and I keep running away from it.
 
 > _“I am only one, but I am one. I cannot do everything, but I can do something. And I will not let what I cannot do interfere with what I can do.”_
 
@@ -78,4 +78,4 @@ Let’s work together, taking one step at a time, to make our world one that is 
 
 _Photo by [Sabrina Hill](http://www.thesabrina.com/)_
 
-[![Abigail Driscoll Yellow Conference](http://yellowconference.com/wp-content/uploads/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)
+[![Abigail Driscoll Yellow Conference](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

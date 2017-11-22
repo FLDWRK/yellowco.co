@@ -1,6 +1,6 @@
 ---
 title: What My Passion for Human Rights Taught Me About Creativity
-author: heygirl@yellowconference.com
+author: Jessica Estrada
 date: '2017-02-06 04:00:28 -0800'
 categories:
 - Creative Ladies
@@ -27,7 +27,7 @@ The more I struggled, the brighter the resilience of the immigrant community I w
 
 ### Moved by how their experiences shaped them to be brave and daring, I took the leap of faith and quit my job, beginning my journey as a writer.
 
-[![yellow2016-491](http://yellowco.co/wp-content/uploads/2017/01/Yellow2016-491.jpg)](http://yellowco.co/wp-content/uploads/2017/01/Yellow2016-491.jpg) There's always a list of excuses telling you why not to pursue XYZ. Before starting something, we want to know that we’re going to be secure, but the more we focus on this, the more difficult it is to begin. When the anxiety gets the best of you, _**remember that there is more fear in the anticipation than the actual act.**_ It's the dread of not knowing that keeps our worry alive. The circumstances to start are never just right so don’t let that discourage you; _ you have to go with your gut and just do it._
+[![yellow2016-491](https://yellow-blog-images.imgix.net/2017/01/Yellow2016-491.jpg)](https://yellow-blog-images.imgix.net/2017/01/Yellow2016-491.jpg) There's always a list of excuses telling you why not to pursue XYZ. Before starting something, we want to know that we’re going to be secure, but the more we focus on this, the more difficult it is to begin. When the anxiety gets the best of you, _**remember that there is more fear in the anticipation than the actual act.**_ It's the dread of not knowing that keeps our worry alive. The circumstances to start are never just right so don’t let that discourage you; _ you have to go with your gut and just do it._
 
 Change your focus and see this as your only opportunity to make moves and find new parts of you. Going forth, you will meet resistance in the eyes, but when you crusade and push through the obstacles, rewards will present themselves. In our lives, when we overcome barriers, we become more stable and equipped for life's unexpected twists and turns. Trust in the process because it's going to get better!
 
@@ -39,4 +39,4 @@ A few months ago, I took a risk to follow my passion and here I am today. My beg
 
 _Photos by [Cacá Santoro](http://cacasantoro.com/)_
 
-[![jessica-estrada1](http://yellowco.co/wp-content/uploads/2017/01/JEssica-Estrada1.jpg)](http://jessica-marie.com/)
+[![jessica-estrada1](https://yellow-blog-images.imgix.net/2017/01/JEssica-Estrada1.jpg)](http://jessica-marie.com/)

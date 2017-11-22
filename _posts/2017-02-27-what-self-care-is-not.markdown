@@ -1,6 +1,6 @@
 ---
 title: What Self Care is Not
-author: hanna@yellowco.co
+author: Alyce Youngblood
 date: '2017-02-27 04:00:54 -0800'
 categories:
 - Creative Ladies
@@ -21,7 +21,7 @@ So, recently, I gathered some brilliant women of different backgrounds and ambit
 
 This is where that conversation led us.
 
-### **![What Self Care is Not - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/02/ValerieDenisePhotos.jpg)  
+### **![What Self Care is Not - The Yellow Room](https://yellow-blog-images.imgix.net/2017/02/ValerieDenisePhotos.jpg)  
 Self-care is not reactionary.**
 
 There will be times when circumstances, external or internal, force you to halt and reconnect with yourself. **But sincere self-care is more deliberate than a knee-jerk reaction; it’s an honest practice with regularity and intention through chaos or mundanity.**
@@ -40,7 +40,7 @@ The myth of languid, absent-minded self-care is a far-reaching one. “Self-care
 
 In Cassidy’s case, that “one thing” usually involves a paintbrush, but the consensus was that most “one things” should probably be productive, creative, and occasionally courageous - in short, worthwhile. Follow through on that idea you keep setting aside. Get up early to journal or pray. Stroll (instead of scroll) on your work break. Volunteer on your day off. Attend the important dinner, even though you just want to be in your pajamas. Make that sensitive phone call to your relative. **Self-care is often spoken of as learning when to say “no,” but I wonder if it might have more to do with learning when to finally say _“yes”_.**
 
-### **![What Self Care is Not - The Yellow Room](http://yellowco.co/wp-content/uploads/2017/02/ValerieDenisePhotos-8.jpg)  
+### **![What Self Care is Not - The Yellow Room](https://yellow-blog-images.imgix.net/2017/02/ValerieDenisePhotos-8.jpg)  
 ****Self-care is not just about you.**
 
 Though self-care may blossom in the quiet, Lauren cautioned against making it synonymous with introversion (a term that’s been misused enough on its own). “As much as we invest in other people, we need to invest in ourselves,” she added. “That give and take is a huge part.”
@@ -55,4 +55,4 @@ Whole-hearted participation in the world is too significant for soft interpretat
 
 [_Photos by Valerie Denise Photography_](http://www.valeriedenisephotos.com/)
 
-[![ALYCE YOUNGBLOOD BIO](http://yellowco.co/wp-content/uploads/2017/02/ALYCE-YOUNGBLOOD.jpg)](http://www.alyceyoungblood.com/)
+[![ALYCE YOUNGBLOOD BIO](https://yellow-blog-images.imgix.net/2017/02/ALYCE-YOUNGBLOOD.jpg)](http://www.alyceyoungblood.com/)

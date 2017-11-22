@@ -1,6 +1,6 @@
 ---
 title: Want to Be a Mentor? Here's How to Make it Happen.
-author: heygirl@yellowconference.com
+author: Esther Oh
 date: '2015-10-13 04:00:11 -0700'
 categories:
 - Light Talk
@@ -12,7 +12,7 @@ categories:
 redirect_from: "/light-talk/whymentor/"
 ---
 
-[![Yellow Co. Blog: spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/10/untitled-142-of-1234.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/untitled-142-of-1234.jpg)
+[![Yellow Co. Blog: spread good and bloom](https://yellow-blog-images.imgix.net/2015/10/untitled-142-of-1234.jpg)](https://yellow-blog-images.imgix.net/2015/10/untitled-142-of-1234.jpg)
 
 Growing up, my teachers were some of my biggest inspirations. They seemed to be masters of the subjects they taught and of life. They chose us, their students, to pour into, to teach the world’s ways and academia. Knowing that my teachers chose me and others to educate, guide, and love has been one of the most humbling revelations in my life.
 
@@ -24,7 +24,7 @@ We can be that type of person to someone else. You, with the knowledge and wisdo
 
 Mentoring stretches us to evaluate where our worth, identity, and confidence lies (God, business, popularity, etc), provides us with an opportunity to examine why we make certain choices, and elevates others to chase their dreams and reach their potential. We get better as we help others grow too. It’s intentional and beautiful. A total win-win!
 
-[![yellow conference blog](http://yellowconference.com/wp-content/uploads/2015/10/untitled-74-of-1234.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/untitled-74-of-1234.jpg)
+[![yellow conference blog](https://yellow-blog-images.imgix.net/2015/10/untitled-74-of-1234.jpg)](https://yellow-blog-images.imgix.net/2015/10/untitled-74-of-1234.jpg)
 
 ##### Mentoring gives us a chance to help someone reach and achieve their dreams, while also refining ourselves and our work.
 
@@ -66,4 +66,4 @@ Just like any relationship, a mentorship is organic and takes twists and turns, 
 
 _Photos by [Karen Hernandez](http://www.karenmariehernandez.com/)_
 
-[![Esther Oh](http://yellowconference.com/wp-content/uploads/2015/12/estherOh.jpg)](https://estherohx.wordpress.com/)
+[![Esther Oh](https://yellow-blog-images.imgix.net/2015/12/estherOh.jpg)](https://estherohx.wordpress.com/)

@@ -1,6 +1,6 @@
 ---
 title: Letting Criticism Make You, Not Break You
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-10-08 04:00:56 -0700'
 categories:
 - Creative Ladies
@@ -12,7 +12,7 @@ categories:
 redirect_from: "/creative-ladies/dealing-with-criticism-when-you-share-a-cause/"
 ---
 
-[![yellow conference: spread goodness and bloom](http://yellowconference.com/wp-content/uploads/2015/09/81-800x533.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/81-800x533.jpg)
+[![yellow conference: spread goodness and bloom](https://yellow-blog-images.imgix.net/2015/09/81-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/09/81-800x533.jpg)
 
 ##### It is nearly 2 a.m.
 
@@ -24,7 +24,7 @@ It got a good amount of reads and a decent amount of likes, agrees, and reposts.
 
 ###### Two opinions that caused me to reread and reread and reread my writing, my opinions, my heart and ask _where did I go wrong!?_
 
-[![yellow conference: spread goodness and bloom](http://yellowconference.com/wp-content/uploads/2015/09/41-800x533.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/41-800x533.jpg)One overt comment asking me why I would post about this issue when there are so many others, in his opinion, larger, to be talked about. _I felt this was an attack on my creativity and my process. _
+[![yellow conference: spread goodness and bloom](https://yellow-blog-images.imgix.net/2015/09/41-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/09/41-800x533.jpg)One overt comment asking me why I would post about this issue when there are so many others, in his opinion, larger, to be talked about. _I felt this was an attack on my creativity and my process. _
 
 Another was asking me a personal, political question--to which I responded privately only to get a long answer as to why I shouldn't share my opinions in this arena. _I felt like my intelligence was being questioned, and my voice was being silenced. _
 
@@ -32,7 +32,7 @@ Another was asking me a personal, political question--to which I responded priva
 
 I was never trying to ruffle feathers. I'm a pretty peaceful introvert, and usually keep my posts very personal with a focus on foster and orphan care...but this time, something really hit me hard...I just felt defeated.
 
-[![yellow conference: spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/09/151-800x533.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/151-800x533.jpg)
+[![yellow conference: spread good and bloom](https://yellow-blog-images.imgix.net/2015/09/151-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/09/151-800x533.jpg)
 
 ###### When our cause is attacked, it can feel extremely personal.
 
@@ -42,7 +42,7 @@ Something I've invested my life in (women's justice) was just demeaned and dismi
 
 Whatever you are sharing about or advocating for, whether it's your favorite shampoo or your opinion on the 14th Amendment, it's deeply personal. You are sharing a piece of yourself with the world, and this is a beautiful thing about social media. The danger comes when people don't celebrate you being you and decide to invoke their beliefs on what you stand for.
 
-[![yellow conference blog: spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/10/61-800x598-1.jpg)](http://yellowconference.com/wp-content/uploads/2015/10/61-800x598-1.jpg)
+[![yellow conference blog: spread good and bloom](https://yellow-blog-images.imgix.net/2015/10/61-800x598-1.jpg)](https://yellow-blog-images.imgix.net/2015/10/61-800x598-1.jpg)
 
 ##### So how do we move on from this sort of criticism set-back?
 
@@ -62,7 +62,7 @@ You do not have to respond...
 
 Can I repeat that? As painful as it may be...**you do not have to respond or engage. **If a senseless argument is what they are looking for, the best thing you could do is either not respond or give a quick, "hey, we disagree...I'm not going to engage any further. Have a good night!"
 
-###### [![yellow conference: spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/09/17-800x533.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/17-800x533.jpg)Remember what you are fighting for.
+###### [![yellow conference: spread good and bloom](https://yellow-blog-images.imgix.net/2015/09/17-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/09/17-800x533.jpg)Remember what you are fighting for.
 
 If you are passionate about Haiti orphans, look at some pictures of a recent trip you went on. If you are passionate about civil rights and racial reconciliation, reread comments you've received on posts that have inspired your followers. Take time to remind yourself: _you are doing hard and good work_. And you are doing the best you can. Remember your successes and rejoice in your growth.
 
@@ -78,4 +78,4 @@ Wake your husband up, call a best friend, meet with a fellow activist or mentor 
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/category/travel/)_
 
-[![Sally Kim Content manager for the Yellow Co.](http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![Sally Kim Content manager for the Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

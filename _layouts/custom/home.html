@@ -19,7 +19,7 @@ layout: site
   </div>
 </div>
 <div class="container">
-  <div class="row justify-content-center mb-2 mb-lg-5">
+  <div class="row justify-content-center my-3 mb-lg-5">
     <div class="col-12 col-md-10 col-lg-8 col-xl-7">
       <p class="lead playfair text-center"><em>Empowering  creative, entrepreneurial women to become <u>agents of good</u>.</em></p>
     </div>
@@ -59,9 +59,9 @@ layout: site
       <div class="card-deck card-deck-blog justify-content-center">
         {% for post in site.posts limit:3 %}
           <div class="card my-2">
-            {% if post.image-feature %}
+            {% if post.image %}
               <a href="{{ post.url }}" class="_no-underline">
-                <img src="{{ post.image-feature }}" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
+                <img src="{{ post.image }}?w=480&h=600&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
               </a>
             {% endif %}
             <div class="card-block text-center">
@@ -86,8 +86,8 @@ layout: site
     <div class="col-12 col-sm-6 col-md-6 col-lg-4">
       <a href="{{ post.url }}">
         <div class="card card-deck-6">
-          <img class="card-img-top img-fluid" src="{{ post.image-thumb }}" alt="{{ post.title }}" data-rjs="2">
-          <div class="card-block pl-0">
+          <img class="card-img-top img-fluid" src="{{ post.image }}?w=450&h=300&fit=crop" alt="{{ post.title }}" data-rjs="2">
+          <div class="card-block pl-0 pb-2">
             <h6 class="card-title">{{ post.title }}</h6>
             <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
           </div>

@@ -1,6 +1,6 @@
 ---
 title: 'We Were Not Created to Be Just Skin: A Poem on Race'
-author: heygirl@yellowconference.com
+author: Arielle Estoria
 date: '2016-07-12 04:00:10 -0700'
 categories:
 - Creative Ladies
@@ -9,7 +9,7 @@ categories:
 redirect_from: "/creative-ladies/we-were-not-created-to-be-just-skin-a-poem/"
 ---
 
-#### [![lifestyle-photo-portfolio-6](http://yellowconference.com/wp-content/uploads/2016/07/lifestyle-photo-portfolio-6.jpg)](http://yellowconference.com/wp-content/uploads/2016/07/lifestyle-photo-portfolio-6.jpg)This skin,  
+#### [![lifestyle-photo-portfolio-6](https://yellow-blog-images.imgix.net/2016/07/lifestyle-photo-portfolio-6.jpg)](https://yellow-blog-images.imgix.net/2016/07/lifestyle-photo-portfolio-6.jpg)This skin,  
 Has always been a golden reflection of a _radiance  
 _I didn’t know was already in my veins
 
@@ -78,4 +78,4 @@ _Imagine_ how much _you_ would miss.
 
 _Photo by [Megan Floris](http://thewolfandthewildflower.com/travel/)_
 
-[![arielleestoria](http://yellowconference.com/wp-content/uploads/2016/07/arielleestoria.jpg)](http://arielleestoria.com/)
+[![arielleestoria](https://yellow-blog-images.imgix.net/2016/07/arielleestoria.jpg)](http://arielleestoria.com/)

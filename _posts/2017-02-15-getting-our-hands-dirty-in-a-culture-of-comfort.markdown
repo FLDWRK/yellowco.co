@@ -1,6 +1,6 @@
 ---
 title: Getting Our Hands Dirty in a Culture of Comfort + a Free Gift
-author: hanna@yellowco.co
+author: Bailey Van Tassel
 date: '2017-02-15 04:00:27 -0800'
 categories:
 - Creative Ladies
@@ -15,7 +15,7 @@ I was raised on a little ranch in Northern California. At the time I had no idea
 
 To live out what I know to be true and beautiful, and not just conform to the tidiness and shininess around me. In everything from my business to my dream of having chickens and a veggie garden, _**I feel I must blaze a path that stands for more than exterior looks**._ I am generalizing, of course - not everyone here is like _The Real Housewives_ . But there is definitely less land, less time, less obstacles, and less connection due to the conveniences of life. Though these are causes of development in society, we now run at a breakneck pace to make more money, take more trips, and find more free wifi. In the midst of this, I crave those stormy nights spent with no power, having a picnic in the living room by candle light.
 
-[![Getting our hands dirty in a culture of comfort - Yellow Co.](http://yellowco.co/wp-content/uploads/2017/02/ValerieDenisePhotos-49.jpg)](http://yellowco.co/wp-content/uploads/2017/02/ValerieDenisePhotos-49.jpg)
+[![Getting our hands dirty in a culture of comfort - Yellow Co.](https://yellow-blog-images.imgix.net/2017/02/ValerieDenisePhotos-49.jpg)](https://yellow-blog-images.imgix.net/2017/02/ValerieDenisePhotos-49.jpg)
 
 _**I believe that our sense of humanity is cultivated most when we get our hands dirty to get what we need.**_ I know that even when I am barefoot on the lawn, I feel most free. I love giving into uncontrolled circumstances, like a power outage or a truck stuck in the mud, and reminding myself that I am resourceful. Because truly, being stranded at home with no TV can be the best kind of day.
 
@@ -32,7 +32,7 @@ I have not yet found the perfect balance between these lifestyles. Believe me, I
 
 _“To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else – means to fight the hardest battle which any human being can fight; and never stop fighting” – E.E. Cummings_
 
-[![](http://yellowco.co/wp-content/uploads/2017/02/EE-Cummings-Blog-Image-1.jpg)](http://yellowco.co/wp-content/uploads/2017/02/EE-Cummings-Blog-Image-1.jpg)
+[![](https://yellow-blog-images.imgix.net/2017/02/EE-Cummings-Blog-Image-1.jpg)](https://yellow-blog-images.imgix.net/2017/02/EE-Cummings-Blog-Image-1.jpg)
 
 We loved this quote and message so much that we felt that we all needed a reminder. A reminder to fight for the person we were created to be and to allow that person to run free without compromise. Enjoy your free download below!
 
@@ -40,4 +40,4 @@ We loved this quote and message so much that we felt that we all needed a remind
 
 _Photos by: [Valerie Denise Photography](http://www.valeriedenisephotos.com/)_
 
-[![Bailey Van Tassel Bio - Yellow Co.](http://yellowco.co/wp-content/uploads/2017/02/Baylie.jpg)](http://www.abelimpact.com/)
+[![Bailey Van Tassel Bio - Yellow Co.](https://yellow-blog-images.imgix.net/2017/02/Baylie.jpg)](http://www.abelimpact.com/)

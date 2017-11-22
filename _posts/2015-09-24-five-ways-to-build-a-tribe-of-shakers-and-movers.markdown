@@ -10,7 +10,7 @@ categories:
 redirect_from: "/creative-ladies/five-ways-to-build-a-tribe-of-shakers-and-movers/"
 ---
 
-###### [![YELLOW CONFERENCE BLOG: SPREAD GOOD AND BLOOM](http://yellowconference.com/wp-content/uploads/2015/09/Thursdaypost1.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/Thursdaypost1.jpg)She wrapped her tiny fingers around my hand and led me onto the dirt path in Pignon, Haiti.
+###### [![YELLOW CONFERENCE BLOG: SPREAD GOOD AND BLOOM](https://yellow-blog-images.imgix.net/2015/09/Thursdaypost1.jpg)](https://yellow-blog-images.imgix.net/2015/09/Thursdaypost1.jpg)She wrapped her tiny fingers around my hand and led me onto the dirt path in Pignon, Haiti.
 
 This hometown of hers was filled to the brim with poverty. Even so, through the dust that clouded the trail before us, 6-year-old Fabianca quietly gazed ahead with eyes that said, _“I am not defined by my current circumstances. I am a dreamer. I will not leave this earth without first showing it that I am brave, significant, and purposeful. This village will feel the weight of my footprint, and I will not go unheard.”_
 
@@ -22,7 +22,7 @@ I continued on with my time in Pignon, Haiti with a heavy thought gripping my he
 
 It was as if spending an evening wrapping my fingers around the hands of these girls who might have otherwise never been taught that their dreams and passions are not only valid, but extraordinary, allowed me to see how infinitely necessary it is that we build communities filled with those who not only comprehend their capacity to impact the world, but also act on that inherent ability.
 
-[![Yellow Conference Blog: Spread Good and Bloom](http://yellowconference.com/wp-content/uploads/2015/09/THURSDAY2.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/THURSDAY2.jpg)
+[![Yellow Conference Blog: Spread Good and Bloom](https://yellow-blog-images.imgix.net/2015/09/THURSDAY2.jpg)](https://yellow-blog-images.imgix.net/2015/09/THURSDAY2.jpg)
 
 ###### It quickly became my dream to see a world filled to the brim with salt-shakers.
 
@@ -56,4 +56,4 @@ Now, ladies, let us assemble large quantities of world changers rather than allo
 
 Photos by [Kelsey Lemons](http://sheinthemaking.blogspot.com/)
 
-[![Yellow Conference Blog: spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/09/MAKENNANAHORNIAK.jpg)](https://makennanahorniak.wordpress.com/)
+[![Yellow Conference Blog: spread good and bloom](https://yellow-blog-images.imgix.net/2015/09/MAKENNANAHORNIAK.jpg)](https://makennanahorniak.wordpress.com/)

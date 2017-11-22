@@ -1,13 +1,13 @@
 ---
 title: Our (Free) March Gathering & Some Exciting News!!
-author: heygirl@yellowconference.com
+author: Joanna Waterfall
 date: '2016-02-25 04:07:18 -0800'
 categories:
 - Collective
 redirect_from: "/yellow-collective/our-free-march-gathering-some-exciting-news/"
 ---
 
-[![Pilot-party-Blog-Post-2](http://yellowconference.com/wp-content/uploads/2016/02/Pilot-party-Blog-Post-2.jpg)](https://wayfare.ticketleap.com/yellow-collective-launch-party/dates/Mar-07-2016_at_0730PM)
+[![Pilot-party-Blog-Post-2](https://yellow-blog-images.imgix.net/2016/02/Pilot-party-Blog-Post-2.jpg)](https://wayfare.ticketleap.com/yellow-collective-launch-party/dates/Mar-07-2016_at_0730PM)
 
 Hey y'all! Joanna Waterfall here.
 
@@ -16,7 +16,7 @@ I'm so excited to announce our March gathering. Not only because it's taking pla
 To be honest, this process has been a long one. Last year we had a [Kickstarter that failed](http://yellowconference.com/2015/05/04/freetofail/) . Since then, I've bounced around numerous ideas on how to move forward from that, and have asked myself so many times..  _what's next_ ... Our team has brainstormed so many ideas, there were a ton of possibilities, but nothing really stuck, nothing felt right. I've always known that Yellow is meant to be and do something more than a conference, something that allows us to connect more than once a year. But what that meant exactly, I had no idea.  
 Until now. (Cue the dramatic music)...
 
-[![untitled (554 of 1234)](http://yellowconference.com/wp-content/uploads/2016/02/untitled-554-of-1234.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/untitled-554-of-1234.jpg)
+[![untitled (554 of 1234)](https://yellow-blog-images.imgix.net/2016/02/untitled-554-of-1234.jpg)](https://yellow-blog-images.imgix.net/2016/02/untitled-554-of-1234.jpg)
 
 After a lot of brainstorming, counsel, patience, team meetings and advice, we finally feel like we've reached an answer: _The Yellow Collective_ .
 
@@ -35,7 +35,7 @@ So... we're having a [(free) piloting party](https://wayfare.ticketleap.com/yel
 
 #### _[RSVP HERE](https://wayfare.ticketleap.com/yellow-collective-launch-party/dates/Mar-07-2016_at_0730PM)_
 
-[![Community](http://yellowconference.com/wp-content/uploads/2016/02/Community.jpg)](http://yellowconference.com/wp-content/uploads/2016/02/Community.jpg)
+[![Community](https://yellow-blog-images.imgix.net/2016/02/Community.jpg)](https://yellow-blog-images.imgix.net/2016/02/Community.jpg)
 
 One more thing- if you RSVP, you'll automatically be entered to win our Piloting Party Prize which includes:  
 - Unlimited month of co-working​ at FLDWRK (Wayfare) ($350)  

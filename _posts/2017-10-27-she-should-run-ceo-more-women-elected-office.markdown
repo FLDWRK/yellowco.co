@@ -1,12 +1,11 @@
 ---
-title: "She Should Run CEO Shares How You Can Get More Women in Office"
-author: hanna@yellowco.co
+title: "'She Should Run' CEO Shares How to Get More Women in Office"
+author: Hanna Snyder
 date: '2017-10-27 04:00:47 -0700'
 categories:
 - Come Together
 redirect_from: "/come-together/she-should-run-ceo-more-women-elected-office/"
-image-feature: "/assets/images/IMG-8271-feature.jpg"
-image-thumb: "/assets/images/IMG-8271.jpg"
+image: "https://yellow-blog-images.imgix.net/2017/10/0P7A9534-1320x880.jpg"
 ---
 
 Perhaps more than ever, we can see a dire need for unity, diversity, and genuine collaboration in our nation's political offices.
@@ -34,7 +33,7 @@ Since the 2016 election, over 15,000 women have raised their hands and become pa
 
 ### **It will take people from various backgrounds coming together to support women in their community to achieve this goal and close the gender gap in politics. **
 
-![‘SHE SHOULD RUN’ CEO SHARES WHAT YOU CAN DO TODAY TO GET MORE WOMEN IN ELECTED OFFICE - YELLOW CO. ](http://yellowco.co/wp-content/uploads/2017/10/0P7A9587-Edit.jpg)
+![‘SHE SHOULD RUN’ CEO SHARES WHAT YOU CAN DO TODAY TO GET MORE WOMEN IN ELECTED OFFICE - YELLOW CO. ](https://yellow-blog-images.imgix.net/2017/10/0P7A9587-Edit.jpg)
 
 #### **What do you believe are the main contributors to the gender gap in leadership and politics?**
 
@@ -54,7 +53,7 @@ Another aspect is the financial cost of running for office and serving in public
 
 One of the great things about being nonpartisan is that we can reach a diverse group of women and encourage them to take the next step towards being change-makers. A key component of our Incubator program is our community element, where members can share their fears, dreams, hopes, and experiences free of judgement. Many of the women in this online community are running for political office themselves and are all of different backgrounds and beliefs, but when they come to the group they find support no matter who they are. We see women support each other every day there - sharing ideas, lending support and championing each other regardless of any differences.
 
-![‘SHE SHOULD RUN’ CEO SHARES WHAT YOU CAN DO TODAY TO GET MORE WOMEN IN ELECTED OFFICE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/10/0P7A9588.jpg)
+![‘SHE SHOULD RUN’ CEO SHARES WHAT YOU CAN DO TODAY TO GET MORE WOMEN IN ELECTED OFFICE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/10/0P7A9588.jpg)
 
 #### **Can you share more about how your programs work, and how you have seen their effects create change?**
 
@@ -76,4 +75,4 @@ If there is a woman in your community who you believe would be great in office, 
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
 
-[![Hanna Snyder Bio](http://yellowco.co/wp-content/uploads/2017/10/HANNA-BIO-new-2.jpg)](http://hannasnyder.com)
+[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/10/HANNA-BIO-new-2.jpg)](http://hannasnyder.com)

@@ -15,7 +15,7 @@ categories:
 redirect_from: "/light-talk/refined/"
 ---
 
-[![yellow conference blog: spread good and bloom](http://yellowconference.com/wp-content/uploads/2015/09/kelseypicforrefine-copy.jpg)](http://yellowconference.com/wp-content/uploads/2015/09/kelseypicforrefine-copy.jpg)
+[![yellow conference blog: spread good and bloom](https://yellow-blog-images.imgix.net/2015/09/kelseypicforrefine-copy.jpg)](https://yellow-blog-images.imgix.net/2015/09/kelseypicforrefine-copy.jpg)
 
 I can't think of a better time to launch this series: the pumpkin spice lattes are out, cozy sweaters are being hung, and there's a sense of new as the leaves and trees are being painted with Autumn's colors.
 
@@ -55,4 +55,4 @@ Sally+The Yellow Co. Team
 
 Photo by [Kelsey Lemons](http://sheinthemaking.blogspot.com/)
 
-[![Sally Kim Content manager for the Yellow Co. ](http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![Sally Kim Content manager for the Yellow Co. ](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

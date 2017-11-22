@@ -8,7 +8,7 @@ categories:
 redirect_from: "/resources/creative-ladies-resource-list/"
 ---
 
-[![Creative Women Can Change the World](http://yellowconference.com/wp-content/uploads/2014/06/Creative-Women-Can-Change-the-World1.jpg)](http://yellowconference.com/wp-content/uploads/2014/06/Creative-Women-Can-Change-the-World1.jpg)
+[![Creative Women Can Change the World](https://yellow-blog-images.imgix.net/2014/06/Creative-Women-Can-Change-the-World1.jpg)](https://yellow-blog-images.imgix.net/2014/06/Creative-Women-Can-Change-the-World1.jpg)
 
 Attention lady world changers! The Yellow Conference is more than a conference. We have a strong desire to create a community. We are like minded women with different skills, talents and gifts. We want to support, encourage, and know each other.
 
@@ -16,7 +16,7 @@ No one change the world alone, so we decided to create a resource list for peopl
 
 Here's what you do: Leave a comment at the bottom of this post with your **name**, **skill/profession**, **website link** and any **social media** you'd like to include. Here's an example:
 
-[![Comment_ResourceList_arrow](http://yellowconference.com/wp-content/uploads/2014/06/Comment_ResourceList_arrow.jpg)](http://yellowconference.com/wp-content/uploads/2014/06/Comment_ResourceList_arrow.jpg)
+[![Comment_ResourceList_arrow](https://yellow-blog-images.imgix.net/2014/06/Comment_ResourceList_arrow.jpg)](https://yellow-blog-images.imgix.net/2014/06/Comment_ResourceList_arrow.jpg)
 
 We will compile the comments into a list that will soon be added as a "Resource Page" on our website. Can't wait to meet you all and see all the amazing skills you have!
 

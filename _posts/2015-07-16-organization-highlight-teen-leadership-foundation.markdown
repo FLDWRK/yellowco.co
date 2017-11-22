@@ -1,6 +1,6 @@
 ---
 title: 'Working with Foster Teens | Organization Highlight: Teen Leadership Foundation'
-author: heygirl@yellowconference.com
+author: Sally Kim
 date: '2015-07-16 04:00:11 -0700'
 categories:
 - Creative Advocacy
@@ -11,7 +11,7 @@ redirect_from: "/creative-advocacy/organization-highlight-teen-leadership-founda
 
 _Beautiful, young, gracious, kind, and...southern...Nikki Vega is one of those rarer than rubies kind of ladies that has the unique ability to disarm you with her kindness, to draw you in with her welcoming demeanor and sweet tea. A lady of craft, with a love for finding vintage furniture and creating something beautiful, her smile tells you life is peachy. Once you're welcomed at her table for conversation, however, and you'll meet a woman of grit and grandeur-a woman unafraid to get her hands dirty for good cause. This southern belle is more than a pretty face-she is a bold woman, unwilling to sit back silently and let vulnerable people of any sort be stepped on by injustice. I asked Nikki to share her family's story and unique experience of working for [Teen Leadership Foundation](http://teenleadershipfoundation.com/), an organization dedicated to empowering foster youth that has aged out of the foster-care system, to show us that anyone can "...be the change [they] wish to see in the world" (Ghandi)._
 
-[![fbb52e8d692048c57d60ecd9d482351d](http://yellowconference.com/wp-content/uploads/2015/07/fbb52e8d692048c57d60ecd9d482351d.jpg)](http://yellowconference.com/wp-content/uploads/2015/07/fbb52e8d692048c57d60ecd9d482351d.jpg)
+[![fbb52e8d692048c57d60ecd9d482351d](https://yellow-blog-images.imgix.net/2015/07/fbb52e8d692048c57d60ecd9d482351d.jpg)](https://yellow-blog-images.imgix.net/2015/07/fbb52e8d692048c57d60ecd9d482351d.jpg)
 
 _Tell me a little about TLF-what is it exactly? What do they do? What is TLF's story..._
 
@@ -27,7 +27,7 @@ _What's it like to do this kind of work alongside your husband, AND NOW with a n
 
 Having the opportunity to work alongside my husband with this organization is such a blessing. We consider all the residents our family and have loved living life alongside them. Arthur and I have grown SO much while doing this ministry due to God empowering, stretching, and allowing us to do this special work. All the glory to Him. Having our family expand has been such a blessing but also challenging. Many of our residents have not been able to experience a healthy family unit, so it has been amazing to be an example for them as a married couple and, now, as parents. It has also been challenging for a lot of our residents because once we had Isaiah (our nine week old son); they expected us to forget/abandon them. **This challenge has been a blessing more then anything because we have been able to stay alongside our residents and continue to show them love and consistency. Showing them love regardless of our situation (having a baby) and regardless of their (past, current, or future) situation. They have slowly learned how to trust that we are not going anywhere!    **
 
-[![yellow conference TLF](http://yellowconference.com/wp-content/uploads/2015/07/37705be774b7333e1e655b8573ff3748.jpg)](http://yellowconference.com/wp-content/uploads/2015/07/37705be774b7333e1e655b8573ff3748.jpg)
+[![yellow conference TLF](https://yellow-blog-images.imgix.net/2015/07/37705be774b7333e1e655b8573ff3748.jpg)](https://yellow-blog-images.imgix.net/2015/07/37705be774b7333e1e655b8573ff3748.jpg)
 
 _ What does your day to day look like at the Launch Pad?_
 
@@ -41,7 +41,7 @@ _And the challenges?_
 
 There are always challenges! Working with foster youth is not always pretty. It's hard_. Really hard_. This ministry is not rainbows and butterflies…it’s messy and challenging. Any child that has experienced being an orphan (or fostercare) carries a unique story and unique pains that go along with that. When they come to the Launch Pad, they bring those memories with them. In the beginning, it's hard to break protective barriers and coping strategies. There has to be a HUGE foundation built before trust can be established. This takes a lot of time and effort—and consistency. These are people you were never given the chance to understand how to receive love. It’s our (mine and my husband’s) job to teach them. It's hard getting attached to some of them knowing they could leave any day, give up, and choose a different path. This is why we have to remember that, this job is not about us...it’s about empowering those entrusted to us. There is a lot of joy, but there are also a lot of tears in this field of work.
 
-[![Foster_Facts](http://yellowconference.com/wp-content/uploads/2015/07/Foster_Facts.jpg)](http://yellowconference.com/wp-content/uploads/2015/07/Foster_Facts.jpg)
+[![Foster_Facts](https://yellow-blog-images.imgix.net/2015/07/Foster_Facts.jpg)](https://yellow-blog-images.imgix.net/2015/07/Foster_Facts.jpg)
 
 _What keeps you motivated to keep going?_
 
@@ -61,7 +61,7 @@ _How might someone get connected to TLF? How can we help?_
 
 Gift cards are ALWAYS great—they help provide things like food, toiletries, and gas for our residents. We love having fun, social events for them, as well—going to the beach, Angel’s games, movies…we always could use assistance in this area, as well.
 
-[![YELLOW CONFERENCE BLOG: CREATIVE ADVOCACY](http://yellowconference.com/wp-content/uploads/2015/07/cc2c6fafa2e142dc40139e5aaf9d2f80.jpg)](http://yellowconference.com/wp-content/uploads/2015/07/cc2c6fafa2e142dc40139e5aaf9d2f80.jpg)_How would you encourage someone to step into something they’re passionate about?_
+[![YELLOW CONFERENCE BLOG: CREATIVE ADVOCACY](https://yellow-blog-images.imgix.net/2015/07/cc2c6fafa2e142dc40139e5aaf9d2f80.jpg)](https://yellow-blog-images.imgix.net/2015/07/cc2c6fafa2e142dc40139e5aaf9d2f80.jpg)_How would you encourage someone to step into something they’re passionate about?_
 
 Take a step out in faith. Be willing to put yourself on the line to make a difference and possibly impact the course of someone else's life.
 
@@ -69,4 +69,4 @@ Take a step out in faith. Be willing to put yourself on the line to make a dif
 
 [_Photos by Meg Bennett_](http://www.plantandplowvideo.com/index/#/babyisaiah/)
 
-[![sallykim Yellow Co.](http://yellowconference.com/wp-content/uploads/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)
+[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

@@ -12,7 +12,7 @@ It’s here! Our February Bloom Gathering will be happening on the 20th at 6:00
 
 #### **ATTENTION: This is a very special gathering...**
 
-[![FEBRUARY BLOOM GATHERING](http://yellowconference.com/wp-content/uploads/2015/02/FEB_BLOOMGATHERING.jpg)](http://yellowconference.com/wp-content/uploads/2015/02/FEB_BLOOMGATHERING.jpg)
+[![FEBRUARY BLOOM GATHERING](https://yellow-blog-images.imgix.net/2015/02/FEB_BLOOMGATHERING.jpg)](https://yellow-blog-images.imgix.net/2015/02/FEB_BLOOMGATHERING.jpg)
 
 YES! You read right...we are in the midst of creating our [Kickstarter](https://www.kickstarter.com/) campaign and want YOU to be a part of that process! At our next Gathering, February 20th, we will be shooting our Kickstarter video, sharing about the heart of Yellow, and what we are hoping to achieve in this next chapter... THIS IS REALLY EXCITING STUFF GUYS!
 

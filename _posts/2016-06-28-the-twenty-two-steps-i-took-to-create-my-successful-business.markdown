@@ -1,6 +1,6 @@
 ---
 title: The Twenty-Two Steps I Took to Create My Successful Business
-author: heygirl@yellowconference.com
+author: Nicole Andreini
 date: '2016-06-28 04:00:09 -0700'
 categories:
 - Creative Ladies
@@ -10,7 +10,7 @@ categories:
 redirect_from: "/creative-ladies/the-twenty-two-steps-i-took-to-create-my-successful-business/"
 ---
 
-[![2014-02-18_0057](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0057.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0057.jpg)I feel like there are so many things they should have taught us in college (or high school for that matter). So in an effort to keep the school days short but the content valuable, I have a few proposals:
+[![2014-02-18_0057](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0057.jpg)](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0057.jpg)I feel like there are so many things they should have taught us in college (or high school for that matter). So in an effort to keep the school days short but the content valuable, I have a few proposals:
 
 1.  The basics of taxes instead of diving into the depths of US History for the 4th time
 2.  How to build good credit instead of Chemistry 120 (particularly for future design majors…)
@@ -32,7 +32,7 @@ I tried to get a job, one that I wanted. Put simply, I wanted to work with compa
 
 Since that little house so far from town, [Studio 22](http://www.studiotwenty-two.com/) has helped hundreds of businesses get off the ground and embrace their identities as well as building multiple other businesses along the way.  So I thought it was time to share how I did it.
 
-## [![2014-02-18_0048](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0048.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0048.jpg) These are my simplified 22 steps to building my personal business, Studio 22\.
+## [![2014-02-18_0048](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0048.jpg)](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0048.jpg) These are my simplified 22 steps to building my personal business, Studio 22\.
 
 #### 1\. I found a print shop.
 
@@ -54,7 +54,7 @@ Well, my life actually did depend on it. It was my ONLY source of income. The th
 
 And behold, more people started calling.
 
-#### [![22 Steps to Building Your Dream Business](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0019.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0019.jpg) 5\. Got a business license.
+#### [![22 Steps to Building Your Dream Business](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0019.jpg)](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0019.jpg) 5\. Got a business license.
 
 It was by chance that someone asked if I had done that yet. I hadn’t, so I Googled how to do it, and did it.
 
@@ -77,7 +77,7 @@ I dressed up every day in my pencil skirts and heels and full makeup, drove the 
 3.  Learned Quick Books and USED IT. I hate book keeping as much if not more than the next guy, but I learned it and used it and it’s the best thing I’ve ever done in my whole life.
 4.  Implemented Admin Mondays. I pay bills, update my Quick Books, review my work from the last week, form my To Do List, make my schedule, etc. All on Mondays and then I never look at it again the rest of the week.
 
-#### [![22 Steps to Building Your Dream Business](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_00211.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_00211.jpg) 10\. Learned Wordpress.
+#### [![22 Steps to Building Your Dream Business](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_00211.jpg)](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_00211.jpg) 10\. Learned Wordpress.
 
 I had a client ask me if I built websites. I said yes. I lied. So I taught myself Wordpress.
 
@@ -111,7 +111,7 @@ Supposedly I was doing brand management, but really I was designing logos. So I 
 
 _PS - it’s amazing what businesses don’t know they need. Offer up a service, tell them why they need it, and it’s almost guaranteed they will buy it._
 
-#### _[![22 Steps to Building Your Dream Business](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_00451.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_00451.jpg) _ 16\. Rent a better office.
+#### _[![22 Steps to Building Your Dream Business](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_00451.jpg)](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_00451.jpg) _ 16\. Rent a better office.
 
 In the meantime, I had found my best friend and fellow designer, and we decided over a beer one day that we would rent an office together. We then walked into the prettiest building in town and fanangled our way into renting us a space for much less than it was worth. And then we turned it into the most beautiful office space you have ever seen with furniture we already owned and paint we “borrowed” from the restaurant she waitressed at.
 
@@ -127,7 +127,7 @@ At this point, I could kind of build them with the help of a good Wordpress temp
 
 I like to refer to this as my breakdown season. At this point, I was making money but was also spending money. It takes money to make money, as my dad would say. But I was tired. I was working so hard and felt like I was not where I wanted to be. Was this really what I wanted? I had no work life balance, I created good work and bad work, I was managing a team I didn’t know I needed, and I felt like my dreams were no longer plausible. This step lasted a while…
 
-#### [![22 Steps to Building Your Dream Business](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0056.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0056.jpg) 20\. Contracted a project manager and hired a consultant: Heidi and Laura.
+#### [![22 Steps to Building Your Dream Business](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0056.jpg)](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0056.jpg) 20\. Contracted a project manager and hired a consultant: Heidi and Laura.
 
 Now my business partner in [Neon Headquarters.](http://www.neonheadquarters.com/) Also [Studio 22’s](http://www.studiotwenty-two.com/) project manager. Met her at a party. Now she’s the one telling me to do what and when. Also the one who is telling clients the same thing. I was unsure if I could afford her, since my books were such a mess I couldn’t tell profit from loss. But I prayed and knew I needed a change in my business.
 
@@ -146,10 +146,10 @@ _**If the project, client, potential or purpose does not spark joy in me, then I
 
 The time that I would have been spending on jobs that dulled my spirit is now being spent on bettering the work I do for jobs that spark joy. My work is better, my clients are happier, and I’m surrounding myself with work that is joyous and celebratory.
 
-#### [![22 Steps to Building Your Dream Business](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0006.jpg)](http://yellowconference.com/wp-content/uploads/2016/06/2014-02-18_0006.jpg) 22\. Surrender.
+#### [![22 Steps to Building Your Dream Business](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0006.jpg)](https://yellow-blog-images.imgix.net/2016/06/2014-02-18_0006.jpg) 22\. Surrender.
 
 I am currently in this step. It’s my favorite. And no surprise as it’s #22\. By surrender, I don’t mean giving up or throwing my hands in the air and leaving it all up to the universe. Surrender for me means believing that there is a purpose for me and my work larger than I understand. I have and continue to be costumed by my desire to serve: God, my husband, my clients and my tribe. I have surrendered to this desire and now understand that my purpose is valuable. And whether I follow my To-Do List or not, I have served today and am rewarded with the freedom to have done these last 21 steps and the millions of twists and turns in between.
 
 _Photos by [Whitney Darling](http://whitneydarling.com/lifestyle-shelby-mcmichael/)_
 
-[![NICOLE ANDREINI](http://yellowconference.com/wp-content/uploads/2016/05/NCIOLEANDREINI.jpg)](http://www.studiotwenty-two.com/)
+[![NICOLE ANDREINI](https://yellow-blog-images.imgix.net/2016/05/NCIOLEANDREINI.jpg)](http://www.studiotwenty-two.com/)

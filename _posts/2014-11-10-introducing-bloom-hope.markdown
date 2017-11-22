@@ -7,7 +7,7 @@ categories:
 redirect_from: "/the-activist/introducing-bloom-hope/"
 ---
 
-[![BloomforHope_logo](http://yellowconference.com/wp-content/uploads/2014/11/BloomforHope_logo.jpg)](http://yellowconference.com/wp-content/uploads/2014/11/BloomforHope_logo.jpg)
+[![BloomforHope_logo](https://yellow-blog-images.imgix.net/2014/11/BloomforHope_logo.jpg)](https://yellow-blog-images.imgix.net/2014/11/BloomforHope_logo.jpg)
 
 We are excited to announce a new breed of Bloom Gatherings that we will be hosting from time to time as specific causes call our hearts to action. We are starting with this Month's collaboration with [Coast to Coast Central](http://www.coasttocoastcentral.com/) to host a [Darling Party](http://www.coasttocoastcentral.com/thedarlingparty/).
 
@@ -15,7 +15,7 @@ Here at Yellow we are all about empowering creative women to using their gifts f
 
 **100%** of the profits go towards creating sustainable change for survivors of sex trafficking in Ecuador. The Darling funds will provide a safe home for survivors as they rehabilitate. Each survivor will not only be given a home, but counseling sessions to help with inner healing, educational classes, business classes, and skills training. Their rehabilitation will equip them to enter back into society as strong women who are dreamers and leaders. How amazing is that??
 
-[![MUSICALGuest](http://yellowconference.com/wp-content/uploads/2014/11/MUSICALGuest.jpg)](http://yellowconference.com/wp-content/uploads/2014/11/MUSICALGuest.jpg)
+[![MUSICALGuest](https://yellow-blog-images.imgix.net/2014/11/MUSICALGuest.jpg)](https://yellow-blog-images.imgix.net/2014/11/MUSICALGuest.jpg)
 
 Join us on Saturday, Nov. 22 at 7:30 pm for an Acoustic Performance with artist [Hana Kim](http://www.hanakim.org/hanakim/News/News.html), who's recent song "[Heaven Sees Me](https://www.youtube.com/watch?v=WrWtc_wXAjM)" was created to benefit the cause.
 
@@ -23,7 +23,7 @@ We will enjoy delicious small bites, sweets and sips, and get the chance to co
 
 Have a great time listening to beautiful music, eating good food, meet world-changing women, all while serving the greater good.
 
-[![PullQuote](http://yellowconference.com/wp-content/uploads/2014/11/PullQuote2.jpg)](http://yellowconference.com/wp-content/uploads/2014/11/PullQuote2.jpg)
+[![PullQuote](https://yellow-blog-images.imgix.net/2014/11/PullQuote2.jpg)](https://yellow-blog-images.imgix.net/2014/11/PullQuote2.jpg)
 
 **Where:** Little Meats, 2684 Lacy St. #210 Los Angeles, CA 90031
 

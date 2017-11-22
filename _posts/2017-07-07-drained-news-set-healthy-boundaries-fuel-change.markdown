@@ -1,6 +1,6 @@
 ---
 title: Drained by the News? Why Setting Healthy Boundaries Actually Fuels Change
-author: hanna@yellowco.co
+author: Amy Everhart
 date: '2017-07-07 04:00:40 -0700'
 categories:
 - Tension
@@ -17,7 +17,7 @@ _“What’s my duty here?”_ I wondered aloud. _“As a fellow woman and a for
 
 How can we strike a balance between being present to the realities of the world and maintaining healthy boundaries? And when we do feel despair watching the news, how can we alchemize that pain into purposeful action?
 
-![DRAINED BY THE NEWS? WHY SETTING HEALTHY BOUNDARIES ACTUALLY FUELS CHANGE - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/Dreamer-17.jpg "DRAINED BY THE NEWS? WHY SETTING HEALTHY BOUNDARIES ACTUALLY FUELS CHANGE - THE YELLOW ROOM")
+![DRAINED BY THE NEWS? WHY SETTING HEALTHY BOUNDARIES ACTUALLY FUELS CHANGE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/07/Dreamer-17.jpg "DRAINED BY THE NEWS? WHY SETTING HEALTHY BOUNDARIES ACTUALLY FUELS CHANGE - THE YELLOW ROOM")
 
 ### **Ritualize a practice of engaging and releasing.**
 
@@ -31,7 +31,7 @@ How you spend your time and money is a direct expression of what matters most to
 
 Anger and pain can be downright magical sources of fuel if you use them well, but forwarding the latest outrage articles doesn't help you carry out your purpose of making the world better. One of the most powerful impacts you can make is declaring your specific mission, and releasing the distractions that threaten it. For example, if arguing over politics with your mom drains you, ask yourself whether this pattern is helping you accomplish what you want. If it’s not, let it go, and turn your attention toward what’s working.
 
-![DRAINED BY THE NEWS? WHY SETTING HEALTHY BOUNDARIES ACTUALLY FUELS CHANGE - THE YELLOW ROOM](http://yellowco.co/wp-content/uploads/2017/07/Dreamer-12.jpg "DRAINED BY THE NEWS? WHY SETTING HEALTHY BOUNDARIES ACTUALLY FUELS CHANGE - THE YELLOW ROOM")
+![DRAINED BY THE NEWS? WHY SETTING HEALTHY BOUNDARIES ACTUALLY FUELS CHANGE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/07/Dreamer-12.jpg "DRAINED BY THE NEWS? WHY SETTING HEALTHY BOUNDARIES ACTUALLY FUELS CHANGE - THE YELLOW ROOM")
 
 ### **Choose to see a larger purpose.**
 
@@ -41,4 +41,4 @@ As powerful creators and socially conscious women, the choice and responsibility
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
 
-[![AMY EVERHART BIO](http://yellowco.co/wp-content/uploads/2017/04/AMY-EVERHART-BIO.jpg)](http://www.amyeverhartcoaching.com/)
+[![AMY EVERHART BIO](https://yellow-blog-images.imgix.net/2017/04/AMY-EVERHART-BIO.jpg)](http://www.amyeverhartcoaching.com/)

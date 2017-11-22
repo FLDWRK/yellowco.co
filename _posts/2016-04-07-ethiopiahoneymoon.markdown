@@ -1,6 +1,6 @@
 ---
 title: What I Learned from a Fifth Grade Girl with Grit
-author: heygirl@yellowconference.com
+author: Lindsay Byers-Mirth
 date: '2016-04-07 04:00:56 -0700'
 categories:
 - Creative Ladies
@@ -10,7 +10,7 @@ categories:
 redirect_from: "/creative-ladies/ethiopiahoneymoon/"
 ---
 
-## [![280](http://yellowconference.com/wp-content/uploads/2016/04/280.jpg)](http://yellowconference.com/wp-content/uploads/2016/04/280.jpg)I like to say that my husband and I went on our honeymoon in Ethiopia.
+## [![280](https://yellow-blog-images.imgix.net/2016/04/280.jpg)](https://yellow-blog-images.imgix.net/2016/04/280.jpg)I like to say that my husband and I went on our honeymoon in Ethiopia.
 
 Technically, it’s true. We traveled there a week after our wedding (which was in Mexico, so most people would say that the wedding was also the honeymoon, but let’s not get stuck on the details here). Ethiopia isn’t exactly the most romantic place to honeymoon. And it wasn’t my first choice. But that trip was the best and worst of my life, and it changed me forever…because of a girl named Poppi.
 
@@ -18,8 +18,8 @@ Let me first explain why we went to Ethiopia. I had just started working for a n
 
 For two weeks, we traveled the rural parts of Ethiopia. The parts where mud huts with thatch roofs were the norm. The parts where people treated us like Brad and Angelina when they saw _“forenjis”_ (white people) and insisted on inviting us into their homes for a meal. The parts where women were walking miles and miles each day to fetch muddy water in clay pots that they carried on their heads. The parts where health clinics were few and very far between. It was the kind of “developing country” experience that would break anyone’s heart.
 
-## [![011](http://yellowconference.com/wp-content/uploads/2016/04/011.jpg)](http://yellowconference.com/wp-content/uploads/2016/04/011.jpg)[  
-](http://yellowconference.com/wp-content/uploads/2016/04/011.jpg)And yet, I never cried…until the very last day of our tour.
+## [![011](https://yellow-blog-images.imgix.net/2016/04/011.jpg)](https://yellow-blog-images.imgix.net/2016/04/011.jpg)[  
+](https://yellow-blog-images.imgix.net/2016/04/011.jpg)And yet, I never cried…until the very last day of our tour.
 
 If you’ve ever met me, I’ve probably cried in front of you. I am a Softie (with a capital S) with an exaggerated sense of justice. But the Ethiopian people radiate joy and strength and pride. Even the people who have the least will go out of their way to be hospitable and generous.
 
@@ -49,7 +49,7 @@ One of the guys from our main office said that her best chance for a life beyond
 
 This all happened in 2008\. In the years since then, I have thought of Poppi often. And whenever I tell this story, I still tear up. But I’m sharing her story not for you to pity her, but because we can all learn something from Poppi. She defines grit. She never gives up. She goes and goes and faces challenges that most of us never will, and yet she does it with a giant smile on her face, being grateful for the life she has made for herself.
 
-[![014](http://yellowconference.com/wp-content/uploads/2016/04/014.jpg)](http://yellowconference.com/wp-content/uploads/2016/04/014.jpg)
+[![014](https://yellow-blog-images.imgix.net/2016/04/014.jpg)](https://yellow-blog-images.imgix.net/2016/04/014.jpg)
 
 ## **I also share her story, because it helps people understand what’s at stake when we talk about poverty and economic opportunities.**
 
@@ -63,4 +63,4 @@ When I started my business (an e-commerce site that blends commerce and charity)
 
 _Photos by [Whitney Schey](http://whitneydarling.com/)_
 
-[![LindsayByers-Mirth](http://yellowconference.com/wp-content/uploads/2016/03/LindsayByers-Mirth.jpg)](http://www.societyb.com/)
+[![LindsayByers-Mirth](https://yellow-blog-images.imgix.net/2016/03/LindsayByers-Mirth.jpg)](http://www.societyb.com/)
