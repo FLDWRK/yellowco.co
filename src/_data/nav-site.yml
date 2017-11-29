@@ -6,7 +6,7 @@
   url: /conference
 - id: shop
   title: Shop
-  url: /shop
+  url: "https://yellowco.myshopify.com/"
 - id: about
   title: About
   url: /about

@@ -27,30 +27,47 @@ layout: page
       </div>
     </div>
   </section>
-  <div class="row">
-    <div class="col-12">
-      <div class="header-rule">
-        <h2 class="text-center">More stories</h2>
+
+  <section class="my-5">
+    <div class="row">
+      <div class="col-12 col-sm-6">
+        <img src="/assets/images/theme-nov-17-with.jpg" class="img-fluid"/>
+      </div>
+      <div class="col-12 col-sm-6 my-auto">
+        <h6 class="text-uppercase">this month's theme</h6>
+        <h2><em>WITH • Living with Anxiety and Depression</em></h2>
+        <p>Now is the time to stand With one another, shed the stigmas, and get honest about where we’re at. We must ruthlessly look after our sisters, and ourselves, who are struggling with these debilitating issues.</p>
+        <p><a href="#">Link to blog post →</a></p>
       </div>
     </div>
-  </div>
-  <div class="row">
-    {% for post in site.posts limit:6 offset:3 %}
-    <div class="col-12 col-sm-6 col-md-6 col-lg-4">
-      <a href="{{ post.url }}">
-        <div class="card card-deck-6">
-          {% if post.image %}
-            <img src="{{ post.image }}?w=450&h=300&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
-          {% else %}
-            <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=300&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2" />
-          {% endif %}
-          <div class="card-block pl-0">
-            <h6 class="card-title">{{ post.title }}</h6>
-            <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
-          </div>
+  </section>
+
+  <section>
+    <div class="row">
+      <div class="col-12">
+        <div class="header-rule">
+          <h2 class="text-center">More stories</h2>
         </div>
-      </a>
+      </div>
     </div>
-    {% endfor %}
-  </div>
+    <div class="row">
+      {% for post in site.posts limit:6 offset:3 %}
+      <div class="col-12 col-sm-6 col-md-6 col-lg-4">
+        <a href="{{ post.url }}">
+          <div class="card card-deck-6">
+            {% if post.image %}
+              <img src="{{ post.image }}?w=450&h=300&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
+            {% else %}
+              <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=300&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2" />
+            {% endif %}
+            <div class="card-block pl-0">
+              <h6 class="card-title">{{ post.title }}</h6>
+              <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
+            </div>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
 </div>

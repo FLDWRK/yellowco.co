@@ -25,6 +25,28 @@ layout: site
       <p class="lead playfair text-center"><em>Empowering  creative, entrepreneurial women to become <u>agents of good</u>.</em></p>
     </div>
   </div>
+  <div class="row justify-content-center mb-4">
+    <div class="col-12 col-lg-12 col-xl-10 px-0">
+      <div class="card-deck card-deck-blog justify-content-center">
+        {% for post in site.posts limit:3 %}
+          <div class="card my-2">
+            <a href="{{ post.url }}" class="_no-underline">
+              {% if post.image %}
+                <img src="{{ post.image }}?w=480&h=600&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
+              {% else %}
+                <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=480&h=600&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
+              {% endif %}
+            </a>
+            <div class="card-block text-center">
+              <h6 class="card-category"><mark>{{ post.categories }}</mark></h6>
+              <h2 class="card-title"><a href="{{ post.url }}" class="_no-underline">{{ post.title }}</a></h2>
+              <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
   <div class="row justify-content-center text-center my-3 pt-1 pt-md-5">
     <div class="col-12">
       <h1 class="display-1 mb-5 mb-xs-2">Join a Community of Do-Gooders</h1>
@@ -44,26 +66,6 @@ layout: site
       </div>
     </div>
   </div>
-  <div class="row justify-content-center mb-4">
-    <div class="col-12 col-lg-12 col-xl-10 px-0">
-      <div class="card-deck card-deck-blog justify-content-center">
-        {% for post in site.posts limit:3 %}
-          <div class="card my-2">
-            {% if post.image %}
-              <a href="{{ post.url }}" class="_no-underline">
-                <img src="{{ post.image }}?w=480&h=600&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
-              </a>
-            {% endif %}
-            <div class="card-block text-center">
-              <h6 class="card-category"><mark>{{ post.categories }}</mark></h6>
-              <h2 class="card-title"><a href="{{ post.url }}" class="_no-underline">{{ post.title }}</a></h2>
-              <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
   <div class="row">
     <div class="col-12">
       <div class="header-rule">
@@ -76,7 +78,11 @@ layout: site
     <div class="col-12 col-sm-6 col-md-6 col-lg-4">
       <a href="{{ post.url }}">
         <div class="card card-deck-6">
-          <img class="card-img-top img-fluid" src="{{ post.image }}?w=450&h=300&fit=crop" alt="{{ post.title }}" data-rjs="2">
+          {% if post.image %}
+            <img class="card-img-top img-fluid" src="{{ post.image }}?w=450&h=300&fit=crop" alt="{{ post.title }}" data-rjs="2">
+          {% else %}
+            <img class="card-img-top img-fluid" src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=300&fit=crop" alt="{{ post.title }}" data-rjs="2">
+          {% endif %}
           <div class="card-block pl-0 pb-2">
             <h6 class="card-title">{{ post.title }}</h6>
             <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
