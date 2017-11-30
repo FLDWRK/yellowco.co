@@ -21,11 +21,11 @@
       {% endif %}
     </title>
     <link href="/assets/stylesheets/public.css?{{site.time | date: '%s%N'}}" rel="stylesheet" type="text/css">
-    <script src="/assets/javascripts/bundle.js?{{site.time | date: '%s%N'}}" type="text/javascript" charset="utf-8"></script>
   </head>
   <body class="{{ page.body-class }}">
     <a id="top"></a>
     {{ content }}
+    <script src="/assets/javascripts/bundle.js?{{site.time | date: '%s%N'}}" type="text/javascript" charset="utf-8"></script>
     {% include intercom.html %}
   </body>
 </html>
