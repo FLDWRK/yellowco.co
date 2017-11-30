@@ -1,6 +1,6 @@
 ---
 title: Know Yourself, Know Your Brand (and a Worksheet to Help You Define it)
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-10-20 04:00:27 -0700'
 categories:
 - Light Talk

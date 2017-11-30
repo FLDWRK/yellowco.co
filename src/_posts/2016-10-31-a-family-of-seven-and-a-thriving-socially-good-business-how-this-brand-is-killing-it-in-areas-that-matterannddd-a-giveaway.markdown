@@ -1,7 +1,7 @@
 ---
 title: A Family of Seven and a Thriving, Socially Good Business?! How this Brand is
   Killing it in Areas that Matter ANNDDD...a Giveaway!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-31 04:00:17 -0700'
 categories:
 - Inspiration

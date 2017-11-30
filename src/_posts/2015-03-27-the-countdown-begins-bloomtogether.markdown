@@ -1,6 +1,6 @@
 ---
 title: 'The Countdown Begins! #Bloomtogether'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-03-27 00:48:08 -0700'
 categories:
 - Light Talk

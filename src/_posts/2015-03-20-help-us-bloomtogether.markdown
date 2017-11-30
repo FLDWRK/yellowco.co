@@ -1,6 +1,6 @@
 ---
 title: 'Help Us #bloomtogether'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-03-20 02:39:16 -0700'
 categories:
 - Creative Ladies

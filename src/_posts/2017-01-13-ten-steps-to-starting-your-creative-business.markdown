@@ -1,6 +1,6 @@
 ---
 title: Ten Steps to Starting Your Creative Business
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2017-01-13 04:00:42 -0800'
 categories:
 - Advice

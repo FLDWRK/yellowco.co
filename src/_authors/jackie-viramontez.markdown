@@ -1,5 +1,5 @@
 ---
-title: Jackie Virzmontez
+title: Jackie Viramontez
 company_name:
 job_title:
 bio_image:
@@ -7,4 +7,7 @@ url: https://www.amazon.com/dp/1683502809/ref=asc_df_16835028095085146?smid=ATVP
 is_guest: true
 ---
 
-Jackie is a lover of mindfulness, healing, and Trader Joe’s dark chocolate. She wrote Amazon bestseller, I Can't Believe I Dated Him, to help women own imperfections and embrace the true purpose of painful emotions. When she is not coaching, she is exploring Los Angeles with her filmmaker husband Jake.
+Jackie is a lover of mindfulness, healing, and Trader Joe’s dark chocolate. She
+wrote Amazon bestseller, I Can't Believe I Dated Him, to help women own
+imperfections and embrace the true purpose of painful emotions. When she is not
+coaching, she is exploring Los Angeles with her filmmaker husband Jake.

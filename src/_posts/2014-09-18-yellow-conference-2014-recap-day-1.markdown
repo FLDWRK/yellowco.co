@@ -1,6 +1,6 @@
 ---
 title: Yellow Conference 2014 Recap - Day 1
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-09-18 16:02:11 -0700'
 categories:
 - Yellow 2014

@@ -1,6 +1,6 @@
 ---
 title: An Expert's Guide to Curbing Email Overwhelm
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-07 04:00:19 -0800'
 categories:
 - Advice

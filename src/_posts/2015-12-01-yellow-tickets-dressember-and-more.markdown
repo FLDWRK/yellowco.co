@@ -1,6 +1,6 @@
 ---
 title: Yellow Tickets, Dressember and More!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-12-01 06:37:18 -0800'
 categories:
 - Resources

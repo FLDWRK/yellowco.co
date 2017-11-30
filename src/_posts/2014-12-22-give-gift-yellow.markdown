@@ -1,6 +1,6 @@
 ---
 title: Give the Gift of Yellow!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-12-22 07:28:55 -0800'
 categories:
 - Yellow 2015

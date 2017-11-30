@@ -1,6 +1,6 @@
 ---
 title: Five Ways to Debunk Your Fear of Failure
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-11 04:00:32 -0800'
 categories:
 - Advice

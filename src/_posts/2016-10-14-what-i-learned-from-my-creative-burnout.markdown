@@ -1,6 +1,6 @@
 ---
 title: What I Learned from My Creative Burnout
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-14 04:00:07 -0700'
 categories:
 - Creative Ladies

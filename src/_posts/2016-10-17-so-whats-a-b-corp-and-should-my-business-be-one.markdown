@@ -1,6 +1,6 @@
 ---
 title: So What's a B-CORP, and Should My Business Be One?
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-17 04:00:08 -0700'
 categories:
 - Creative Ladies

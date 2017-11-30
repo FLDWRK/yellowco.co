@@ -1,6 +1,6 @@
 ---
 title: Beauty Out of Brokenness
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-06-06 16:35:10 -0700'
 categories:
 - Creative Ladies

@@ -1,6 +1,6 @@
 ---
 title: 'The Her Initiative: How One Cause Brought Together Four Powerhouse Creatives'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-09-22 04:00:40 -0700'
 categories:
 - Creative Ladies

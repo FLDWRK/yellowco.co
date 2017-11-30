@@ -1,6 +1,6 @@
 ---
 title: So, What Exactly is a Woman's Place?
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2017-01-18 04:00:52 -0800'
 categories:
 - Creative Ladies

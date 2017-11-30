@@ -1,6 +1,6 @@
 ---
 title: Yellow 2016 Speaker Sessions Now Available!!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-19 04:00:24 -0700'
 categories:
 - "#bloomyellow"

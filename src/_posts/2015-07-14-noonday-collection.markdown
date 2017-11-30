@@ -1,6 +1,6 @@
 ---
 title: 'Business Highlight: Noonday Collection'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-07-14 04:00:50 -0700'
 categories:
 - Creative Ladies

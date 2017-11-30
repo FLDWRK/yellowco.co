@@ -1,6 +1,6 @@
 ---
 title: 55 More Days!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-07-04 08:00:10 -0700'
 categories:
 - Resources

@@ -1,6 +1,6 @@
 ---
 title: "#FreeToFail"
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-05-04 09:12:24 -0700'
 categories:
 - Resources

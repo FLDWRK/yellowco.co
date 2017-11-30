@@ -1,6 +1,6 @@
 ---
 title: Summer Care Package - Rosemary Cornbread
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-07-11 15:00:57 -0700'
 categories:
 - "#bloomyellow"

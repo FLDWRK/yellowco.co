@@ -1,6 +1,6 @@
 ---
 title: In Need of a Last Minute, but Still Totally Meaningful Gift?
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-12-21 04:01:44 -0800'
 categories:
 - Creative Ladies

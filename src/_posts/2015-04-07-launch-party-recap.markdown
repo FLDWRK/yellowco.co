@@ -1,6 +1,6 @@
 ---
 title: "#bloomtogether: the Yellow Room Kickstarter Launch Party Recap"
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-04-07 04:00:44 -0700'
 categories:
 - "#bloomyellow"

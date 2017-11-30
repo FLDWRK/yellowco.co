@@ -1,6 +1,6 @@
 ---
 title: 'June #BloomGathering: Kick Start Your Summer with a Self Care Workshop!'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-06-10 04:45:38 -0700'
 categories:
 - The Activist

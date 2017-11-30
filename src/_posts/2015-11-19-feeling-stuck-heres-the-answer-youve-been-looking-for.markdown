@@ -1,6 +1,6 @@
 ---
 title: The Secret to Creating a Cultivated Personal Brand
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-11-19 04:00:29 -0800'
 categories:
 - Creative Ladies

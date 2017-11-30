@@ -1,6 +1,6 @@
 ---
 title: 'Our Next Theme: Refine'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-10-01 04:00:48 -0700'
 categories:
 - Light Talk

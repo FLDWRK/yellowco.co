@@ -1,6 +1,6 @@
 ---
 title: Yellow Conference Day 1 // the Launch of the Yellow Collective
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-08-25 11:30:40 -0700'
 categories:
 - Yellow 2016

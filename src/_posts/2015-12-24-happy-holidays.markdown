@@ -1,6 +1,6 @@
 ---
 title: Happy Holidays!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-12-24 04:45:50 -0800'
 categories:
 - Light Talk

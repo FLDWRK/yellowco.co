@@ -1,6 +1,6 @@
 ---
 title: 'Creative Lady Inspiration: Becky Murphy'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-05-23 15:07:09 -0700'
 categories:
 - Creative Ladies

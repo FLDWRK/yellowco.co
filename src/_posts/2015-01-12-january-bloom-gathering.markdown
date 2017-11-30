@@ -1,6 +1,6 @@
 ---
 title: January Bloom Gathering
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-01-12 11:05:58 -0800'
 categories:
 - The Starter

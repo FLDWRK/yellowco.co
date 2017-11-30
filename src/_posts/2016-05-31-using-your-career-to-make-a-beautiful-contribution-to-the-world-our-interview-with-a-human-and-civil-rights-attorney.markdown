@@ -1,7 +1,7 @@
 ---
 title: Using Your Career to Make a Beautiful Contribution to the World-Our Interview
   with a Human and Civil Rights Attorney
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-05-31 04:00:35 -0700'
 categories:
 - Advice

@@ -1,6 +1,6 @@
 ---
 title: Mastering The Art of the Schedule
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-08-15 06:00:43 -0700'
 categories:
 - Resources

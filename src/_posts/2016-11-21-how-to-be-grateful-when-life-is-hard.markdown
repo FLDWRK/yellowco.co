@@ -1,6 +1,6 @@
 ---
 title: Fighting to Be Grateful When Life is Hard
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-21 04:00:51 -0800'
 categories:
 - Light Talk

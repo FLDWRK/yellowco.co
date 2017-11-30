@@ -1,6 +1,6 @@
 ---
 title: Shop Opening!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-06-27 20:04:35 -0700'
 categories:
 - "#bloomyellow"

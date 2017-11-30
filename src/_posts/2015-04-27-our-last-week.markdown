@@ -1,6 +1,6 @@
 ---
 title: Our Last Week!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-04-27 12:38:18 -0700'
 categories:
 - Resources

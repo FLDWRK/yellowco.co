@@ -1,6 +1,6 @@
 ---
 title: Why Passion Makes Things Happen
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-05-07 16:16:51 -0700'
 categories:
 - Advice

@@ -1,6 +1,6 @@
 ---
 title: How to Stop Giving Fear Control By Challenging Yourself
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2017-03-29 04:00:11 -0700'
 categories:
 - Pioneer

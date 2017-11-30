@@ -1,6 +1,6 @@
 ---
 title: Partner Shout Out
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-08-15 12:24:20 -0700'
 categories:
 - Yellow 2015

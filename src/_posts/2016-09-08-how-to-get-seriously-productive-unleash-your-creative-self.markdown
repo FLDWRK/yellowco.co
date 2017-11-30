@@ -1,7 +1,7 @@
 ---
 title: How to Get Seriously Productive, Find Your Productivity Style & Unleash Your
   Creative Self + a Free Worksheet
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-09-08 04:00:50 -0700'
 categories:
 - Advice

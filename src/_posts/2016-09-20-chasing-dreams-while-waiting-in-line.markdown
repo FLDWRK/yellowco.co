@@ -1,6 +1,6 @@
 ---
 title: Chasing Dreams While Waiting in Line
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-09-20 04:00:07 -0700'
 categories:
 - "#bloomyellow"

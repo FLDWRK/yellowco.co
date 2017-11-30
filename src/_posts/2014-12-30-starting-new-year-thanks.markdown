@@ -1,6 +1,6 @@
 ---
 title: Starting the New Year With Thanks
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-12-30 04:00:40 -0800'
 categories:
 - Advice

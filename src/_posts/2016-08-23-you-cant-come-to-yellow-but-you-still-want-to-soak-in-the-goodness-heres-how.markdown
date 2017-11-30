@@ -1,6 +1,6 @@
 ---
 title: Can't Come to Yellow, but Still Want to Experience the Goodness? Here's How.
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-08-23 04:17:22 -0700'
 categories:
 - Yellow 2016

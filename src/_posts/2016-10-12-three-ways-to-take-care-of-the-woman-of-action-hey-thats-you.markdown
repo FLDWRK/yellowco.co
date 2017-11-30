@@ -1,6 +1,6 @@
 ---
 title: Three Ways to Take Care of the Woman of Action (Hey...that's You!)
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-12 04:00:17 -0700'
 categories:
 - Light Talk

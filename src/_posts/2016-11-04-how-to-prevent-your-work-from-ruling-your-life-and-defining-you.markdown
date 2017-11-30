@@ -1,6 +1,6 @@
 ---
 title: How to Prevent Your Work from Ruling Your Life and Defining You
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-04 04:00:03 -0700'
 categories:
 - The Leader

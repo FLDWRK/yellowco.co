@@ -1,6 +1,6 @@
 ---
 title: Christmas Party Potluck! Our December Bloom Gathering
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-12-09 10:48:09 -0800'
 categories:
 - "#bloomyellow"

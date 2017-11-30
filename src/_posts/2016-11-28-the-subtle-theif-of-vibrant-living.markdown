@@ -1,6 +1,6 @@
 ---
 title: The Subtle Thief of Vibrant Living
-author: heygirl@yellowconference.com
+author: Yellow
 wordpress_url: http://yellowconference.com/?p=7370
 date: '2016-11-28 04:00:53 -0800'
 categories:

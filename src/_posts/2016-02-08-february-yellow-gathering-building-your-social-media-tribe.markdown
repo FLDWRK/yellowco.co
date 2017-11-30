@@ -1,6 +1,6 @@
 ---
 title: 'February Yellow Gathering: Building Your Social Media Tribe'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-02-08 07:26:46 -0800'
 categories:
 - "#bloomyellow"

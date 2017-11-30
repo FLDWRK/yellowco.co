@@ -1,6 +1,6 @@
 ---
 title: How to Create a Vision Plan that Works for You
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-05 04:00:19 -0700'
 categories:
 - Creative Ladies

@@ -1,6 +1,6 @@
 ---
 title: Three Steps to Making One Bold Life Change
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-09-06 04:00:17 -0700'
 categories:
 - The Starter

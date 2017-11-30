@@ -1,6 +1,6 @@
 ---
 title: Introducing... Bloom Gatherings!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-10-04 23:41:39 -0700'
 categories:
 - "#bloomyellow"

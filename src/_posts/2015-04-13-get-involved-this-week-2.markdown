@@ -1,6 +1,6 @@
 ---
 title: Get Involved This Week
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-04-13 00:05:15 -0700'
 categories:
 - Resources

@@ -1,6 +1,6 @@
 ---
 title: 5 Posts to Read Over the Weekend
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-25 11:58:39 -0800'
 categories:
 - Encouragement

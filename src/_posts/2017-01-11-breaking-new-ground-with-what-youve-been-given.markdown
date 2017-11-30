@@ -1,6 +1,6 @@
 ---
 title: Starting a Movement with the Talents You've Been Given
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2017-01-11 04:00:22 -0800'
 categories:
 - Advice

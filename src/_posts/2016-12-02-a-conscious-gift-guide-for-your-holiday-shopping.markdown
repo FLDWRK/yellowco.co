@@ -1,6 +1,6 @@
 ---
 title: "A Conscious Gift Guide for Your Holiday Shopping"
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-12-02 04:00:49 -0800'
 categories:
 - Light Talk

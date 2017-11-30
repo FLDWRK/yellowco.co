@@ -1,6 +1,6 @@
 ---
 title: Three Simple Ways to Bring More Boldness into Your Life
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-09-13 04:00:46 -0700'
 categories:
 - The Starter

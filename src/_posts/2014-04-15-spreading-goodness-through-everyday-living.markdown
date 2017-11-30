@@ -1,6 +1,6 @@
 ---
 title: Spreading Goodness Through Everyday Living
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-04-15 06:38:41 -0700'
 categories:
 - Inspiration

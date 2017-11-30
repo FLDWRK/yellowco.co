@@ -1,6 +1,6 @@
 ---
 title: 'Our Next Series: Heart'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-03 04:00:31 -0700'
 categories:
 - Creative Ladies

@@ -1,6 +1,6 @@
 ---
 title: Three Easy Steps to Becoming an Activist (Without Flipping Your World Upside Down)
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-07-09 04:00:42 -0700'
 categories:
 - Creative Ladies

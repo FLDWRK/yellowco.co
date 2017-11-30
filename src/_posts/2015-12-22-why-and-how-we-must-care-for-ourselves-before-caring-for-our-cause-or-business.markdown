@@ -1,6 +1,6 @@
 ---
 title: The Super Secret No One Told You About Time Management (and How to Take a Giant Step in the Right Direction)
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-12-22 04:00:01 -0800'
 categories:
 - Resources

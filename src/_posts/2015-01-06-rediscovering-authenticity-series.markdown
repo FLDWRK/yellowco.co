@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: a Series'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-01-06 04:00:47 -0800'
 categories:
 - Advice

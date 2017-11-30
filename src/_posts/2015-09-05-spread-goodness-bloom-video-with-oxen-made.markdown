@@ -1,6 +1,6 @@
 ---
 title: Spread Goodness & Bloom | Video with Oxen Made
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-09-05 10:45:56 -0700'
 categories:
 - Advice

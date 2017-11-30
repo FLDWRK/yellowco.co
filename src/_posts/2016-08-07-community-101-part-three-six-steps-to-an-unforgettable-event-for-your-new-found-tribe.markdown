@@ -1,7 +1,7 @@
 ---
 title: 'Community 101 Part Three: Six Steps to an Unforgettable Event for Your New
   Found Tribe'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-08-07 04:00:05 -0700'
 categories:
 - Collective

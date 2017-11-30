@@ -1,6 +1,6 @@
 ---
 title: \"It's All About Who You Know\" - Really? Is it?
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-06-23 04:45:25 -0700'
 categories:
 - Advice

@@ -1,6 +1,6 @@
 ---
 title: 'March Bloom Gathering: Spring Sunday Brunch'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-03-10 04:00:31 -0700'
 categories:
 - "#bloomyellow"

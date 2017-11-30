@@ -1,6 +1,6 @@
 ---
 title: We Need You! + a Giveaway
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-09-29 04:30:25 -0700'
 categories:
 - Yellow 2016

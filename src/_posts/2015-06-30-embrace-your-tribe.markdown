@@ -1,6 +1,6 @@
 ---
 itle: Three Ways to Make Your Relationships Healthier
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-06-30 04:00:41 -0700'
 categories:
 - Light Talk

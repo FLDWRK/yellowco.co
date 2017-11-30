@@ -1,6 +1,6 @@
 ---
 title: About Last Night
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-09 06:30:36 -0800'
 categories:
 - "#bloomyellow"

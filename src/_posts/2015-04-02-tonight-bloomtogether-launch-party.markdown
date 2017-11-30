@@ -1,6 +1,6 @@
 ---
 title: 'Tonight: #bloomtogether Launch Party!'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-04-02 04:00:37 -0700'
 categories:
 - Resources

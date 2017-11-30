@@ -1,6 +1,6 @@
 ---
 title: December Bloom Gathering Recap
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-12-23 04:00:58 -0800'
 categories:
 - Resources

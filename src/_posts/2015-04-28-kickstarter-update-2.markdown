@@ -1,6 +1,6 @@
 ---
 title: Kickstarter Update!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-04-28 08:28:08 -0700'
 categories:
 - Resources

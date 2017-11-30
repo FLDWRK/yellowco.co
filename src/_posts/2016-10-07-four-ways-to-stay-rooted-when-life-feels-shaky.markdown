@@ -1,6 +1,6 @@
 ---
 title: Four Ways to Stay Rooted When Life Feels Shaky
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-07 04:00:59 -0700'
 categories:
 - Encouragement

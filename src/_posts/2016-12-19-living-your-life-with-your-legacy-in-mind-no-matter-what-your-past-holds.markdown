@@ -1,6 +1,6 @@
 ---
 title: Living Your Life with Your Legacy in Mind, No Matter What Your Past Holds
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-12-19 04:00:29 -0800'
 categories:
 - Creative Ladies

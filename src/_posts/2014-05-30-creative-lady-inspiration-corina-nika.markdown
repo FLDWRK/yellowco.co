@@ -1,6 +1,6 @@
 ---
 title: 'Creative Lady Inspiration: Corina Nika'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-05-30 16:23:21 -0700'
 categories:
 - Creative Ladies

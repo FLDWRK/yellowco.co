@@ -1,6 +1,6 @@
 ---
 title: Cheers to an Awesome First Event!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-09-12 17:37:59 -0700'
 categories:
 - Light Talk

@@ -1,6 +1,6 @@
 ---
 title: You've Landed Your First Freelance Clients...Now What?
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-01-12 04:00:23 -0800'
 categories:
 - Advice

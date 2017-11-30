@@ -1,6 +1,6 @@
 ---
 title: Don't Focus On the Destination
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-04-30 04:15:48 -0700'
 categories:
 - Advice

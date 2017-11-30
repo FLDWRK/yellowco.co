@@ -1,6 +1,6 @@
 ---
 title: 'A Day in the Life: with Kelly Valentine'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-03-17 04:00:30 -0700'
 categories:
 - Light Talk

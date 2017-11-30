@@ -1,6 +1,6 @@
 ---
 title: The Key to Building a Business that Lasts
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-24 04:00:11 -0700'
 categories:
 - Advice

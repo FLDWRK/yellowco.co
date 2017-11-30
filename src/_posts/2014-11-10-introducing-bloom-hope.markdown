@@ -1,6 +1,6 @@
 ---
 title: 'Introducing: Bloom for Hope, a Bloom Gathering'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-11-10 19:01:52 -0800'
 categories:
 - The Activist

@@ -1,6 +1,6 @@
 ---
 title: "Six Tips for Staying Well While Living the Lady Boss Life"
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-12-16 04:00:28 -0800'
 categories:
 - Advice

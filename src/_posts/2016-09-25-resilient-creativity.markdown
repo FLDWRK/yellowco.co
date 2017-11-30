@@ -1,6 +1,6 @@
 ---
 title: Resilient Creativity
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-09-25 04:00:35 -0700'
 categories:
 - Valor

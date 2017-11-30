@@ -1,6 +1,6 @@
 ---
 title: Three Quick & Easy Ways to Get Over Writers Block
-author: heygirl@yellowconference.com  
+author: Yellow  
 date: '2016-09-22 04:00:20 -0700'
 categories:
 - Advice

@@ -1,6 +1,6 @@
 ---
 title: 'May #bloomgathering'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-05-15 04:00:03 -0700'
 categories:
 - "#bloomyellow"

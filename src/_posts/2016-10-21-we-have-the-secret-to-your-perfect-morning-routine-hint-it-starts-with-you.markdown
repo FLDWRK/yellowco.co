@@ -1,7 +1,7 @@
 ---
 title: 'We Have the Secret to Your Perfect Morning Routine (Hint: it Starts with
   You)'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-21 04:00:00 -0700'
 categories:
 - Creative Ladies

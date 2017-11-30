@@ -1,6 +1,6 @@
 ---
 title: What it Looks Like to Truly Flourish
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-09-11 00:56:03 -0700'
 categories:
 - "#bloomyellow"

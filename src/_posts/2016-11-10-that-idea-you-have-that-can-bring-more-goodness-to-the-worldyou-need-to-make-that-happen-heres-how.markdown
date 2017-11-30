@@ -1,6 +1,6 @@
 ---
 title: How to Move from Idea to Execution & Start Changing the World
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-10 17:00:42 -0800'
 categories:
 - "#bloomyellow"

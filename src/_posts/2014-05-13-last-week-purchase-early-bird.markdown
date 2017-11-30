@@ -1,6 +1,6 @@
 ---
 title: Last Week to Purchase Early Bird
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-05-13 04:22:32 -0700'
 categories:
 - "#bloomyellow"

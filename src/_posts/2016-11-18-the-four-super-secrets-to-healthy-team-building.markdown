@@ -1,6 +1,6 @@
 ---
 title: The Four Super Secrets to Healthy Team Building
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-18 04:00:54 -0800'
 categories:
 - The Leader

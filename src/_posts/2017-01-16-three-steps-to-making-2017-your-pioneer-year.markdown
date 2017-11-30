@@ -1,6 +1,6 @@
 ---
 title: Three Steps to Making 2017 Your Pioneer Year
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2017-01-16 04:00:09 -0800'
 categories:
 - Advice

@@ -1,7 +1,7 @@
 ---
 title: 'Turning Your Passion into a Business: Our Interview with Unlock Hope and a
   Chance to Win Two Yellow Conference Tickets! Update: Winner Chosen!'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-07-21 04:00:45 -0700'
 categories:
 - Advice

@@ -1,6 +1,6 @@
 ---
 title: 'January Yellow Gathering: Building a Values-Based Business'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-01-04 04:00:39 -0800'
 categories:
 - "#bloomyellow"

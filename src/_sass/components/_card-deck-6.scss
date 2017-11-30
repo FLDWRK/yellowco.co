@@ -1,7 +1,9 @@
 .card-deck-6 {
   border: 0;
+
   .card-block {
     padding-left: 0;
+
     .card-title {
       font-size: 1rem;
       line-height: 1.5;
@@ -9,9 +11,10 @@
       text-transform: none;
       letter-spacing: 1px;
     }
+
     .card-date {
       font-family: $font-family-serif;
-      font-size: .9rem;
+      font-size: 0.9rem;
     }
   }
 }

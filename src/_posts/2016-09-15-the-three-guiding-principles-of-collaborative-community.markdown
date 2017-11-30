@@ -1,6 +1,6 @@
 ---
 title: The Three Guiding Principles of Collaborative Community
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-09-15 04:00:16 -0700'
 categories:
 - The Leader

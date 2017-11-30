@@ -1,6 +1,6 @@
 ---
 title: Websites We Love
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-07-18 18:11:21 -0700'
 categories:
 - Advice

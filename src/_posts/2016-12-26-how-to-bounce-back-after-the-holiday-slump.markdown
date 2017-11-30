@@ -1,6 +1,6 @@
 ---
 title: How to Bounce Back After the Holiday Slump
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-12-26 04:00:45 -0800'
 categories:
 - Advice

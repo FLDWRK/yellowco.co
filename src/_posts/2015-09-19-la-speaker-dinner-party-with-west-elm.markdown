@@ -1,6 +1,6 @@
 ---
 title: LA Speaker Dinner Party with West Elm
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-09-19 04:00:16 -0700'
 categories:
 - Yellow 2015

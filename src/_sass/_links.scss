@@ -1,24 +1,29 @@
 #content {
   a {
     cursor: pointer;
-    // &.active, &:hover {
-    //   text-decoration: none;
-    // }
-    // &:hover {
-    //   border-bottom: lighten($brand-primary, 10%);
-    // }
+
+    &:hover {
+      text-decoration: none;
+    }
   }
+
   .no-underline {
     border-bottom: none;
     text-decoration: none;
   }
+
   p a {
     border-bottom: 2px solid $brand-primary;
+  }
+
+  p a:hover {
+    text-decoration: none;
+    border-bottom-color: darken($brand-primary, 5%);
   }
 }
 
 [data-href],
 [href],
-[type="submit"] {
+[type='submit'] {
   cursor: pointer;
 }

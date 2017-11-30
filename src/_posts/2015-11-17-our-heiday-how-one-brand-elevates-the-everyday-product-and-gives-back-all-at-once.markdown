@@ -1,6 +1,6 @@
 ---
 title: 'Our Heiday: How One Brand Elevates the Everyday Product and Gives Back All at Once'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-11-17 04:00:23 -0800'
 categories:
 - Creative Ladies

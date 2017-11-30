@@ -1,6 +1,6 @@
 ---
 title: Going After Your Dreams...Even if Someone Has Done it Before
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-12-30 04:00:04 -0800'
 categories:
 - Encouragement

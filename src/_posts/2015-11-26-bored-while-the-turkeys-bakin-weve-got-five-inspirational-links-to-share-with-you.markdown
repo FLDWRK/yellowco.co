@@ -1,6 +1,6 @@
 ---
 title: Happy Thanksgiving! Here's Five Links Keeping Us Inspired While the Pie is Baking...
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-11-26 04:00:48 -0800'
 categories:
 - Light Talk

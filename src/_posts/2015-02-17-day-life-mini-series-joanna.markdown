@@ -1,6 +1,6 @@
 ---
 title: 'A Day in the Life: with Joanna Waterfall'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-02-17 04:00:24 -0800'
 categories:
 - Light Talk

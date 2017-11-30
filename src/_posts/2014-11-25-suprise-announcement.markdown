@@ -1,6 +1,6 @@
 ---
 title: Surprise Announcement
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-11-25 01:50:42 -0800'
 categories:
 - Yellow 2015

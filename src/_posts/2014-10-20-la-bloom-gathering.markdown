@@ -1,6 +1,6 @@
 ---
 title: LA Bloom Gathering Recap
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-10-20 03:30:43 -0700'
 categories:
 - Creative Ladies

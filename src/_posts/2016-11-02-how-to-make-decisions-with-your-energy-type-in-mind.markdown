@@ -1,6 +1,6 @@
 ---
 title: How to Make Decisions with Your Energy Type in Mind
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-02 04:00:57 -0700'
 categories:
 - Advice

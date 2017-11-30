@@ -1,6 +1,6 @@
 ---
 title: Happy Holidays from Yellow!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-12-24 20:33:29 -0800'
 categories:
 - Resources

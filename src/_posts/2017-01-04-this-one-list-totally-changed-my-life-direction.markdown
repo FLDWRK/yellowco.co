@@ -1,6 +1,6 @@
 ---
 title: This One List Totally Changed My Life's Direction
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2017-01-04 04:00:30 -0800'
 categories:
 - Inspiration

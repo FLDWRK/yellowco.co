@@ -1,6 +1,6 @@
 ---
 title: Five Ways to Build a Tribe of Shakers and Movers
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-09-24 04:00:36 -0700'
 categories:
 - Creative Ladies

@@ -1,6 +1,6 @@
 ---
 title: Yellow Conference 2016 - You Coming?
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-03-24 04:16:29 -0700'
 categories:
 - Yellow 2016

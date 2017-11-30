@@ -1,6 +1,6 @@
 ---
 title: 'Bloom Together: a Kickstarter Launch Party'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-03-12 03:00:49 -0700'
 categories:
 - Creative Ladies

@@ -1,6 +1,6 @@
 ---
 title: 'Our Next Series: Pioneer'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2017-01-02 04:00:45 -0800'
 categories:
 - The Activist

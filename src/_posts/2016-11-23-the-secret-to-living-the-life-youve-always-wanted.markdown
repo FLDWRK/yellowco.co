@@ -1,6 +1,6 @@
 ---
 title: The One Secret to Living the Life You've Always Wanted
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-11-23 04:00:47 -0800'
 categories:
 - Advice

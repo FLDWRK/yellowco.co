@@ -1,6 +1,6 @@
 ---
 title: How a Massive Security Breach Actually Saved My Business
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-12-28 04:00:54 -0800'
 categories:
 - Advice

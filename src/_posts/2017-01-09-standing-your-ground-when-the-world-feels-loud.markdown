@@ -1,6 +1,6 @@
 ---
 title: Standing Your Ground When the World Feels Loud
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2017-01-09 04:00:41 -0800'
 categories:
 - Advice

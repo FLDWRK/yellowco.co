@@ -1,6 +1,6 @@
 ---
 title: The Difficult Lessons I Learned from Clearing Out My Closet
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-10-06 04:00:15 -0700'
 categories:
 - Creative Ladies

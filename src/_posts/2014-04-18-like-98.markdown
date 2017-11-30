@@ -1,6 +1,6 @@
 ---
 title: I Like Being 98
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-04-18 05:03:12 -0700'
 categories:
 - Inspiration

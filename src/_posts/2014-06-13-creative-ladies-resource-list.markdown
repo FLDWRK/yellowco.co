@@ -1,6 +1,6 @@
 ---
 title: Get on Our Resource List
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-06-13 07:30:09 -0700'
 categories:
 - Resources

@@ -1,6 +1,6 @@
 ---
 title: The End of the Month is Approaching!
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-08-08 07:19:13 -0700'
 categories:
 - "#bloomyellow"

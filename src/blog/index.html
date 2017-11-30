@@ -17,7 +17,11 @@ layout: page
                 {% endif %}
               </a>
               <div class="card-block text-center">
-                <h6 class="card-category"><mark>{{ post.categories }}</mark></h6>
+                <h6 class="card-category">
+                  <a href="/blog/category/{{ post.categories | first | slugify }}" class="no-underline">
+                    <mark>{{ post.categories | first }}</mark>
+                  </a>
+                </h6>
                 <h2 class="card-title mt-3"><a href="{{ post.url }}" class="_no-underline">{{ post.title }}</a></h2>
                 <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
               </div>

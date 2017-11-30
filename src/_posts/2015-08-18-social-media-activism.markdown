@@ -1,6 +1,6 @@
 ---
 title: Can Social Media Really Change the World?
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-08-18 04:00:06 -0700'
 categories:
 - Creative Ladies

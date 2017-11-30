@@ -1,6 +1,6 @@
 ---
 title: How to Let Go of Your Life Plan and Choose to Be Brave Instead
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-28 04:00:57 -0700'
 categories:
 - Creative Ladies

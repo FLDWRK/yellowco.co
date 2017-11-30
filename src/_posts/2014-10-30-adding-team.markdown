@@ -1,6 +1,6 @@
 ---
 title: "We're Adding to Our Team! UPDATE: These Positions Have Been Filled. Thanks!"
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-10-30 02:45:20 -0700'
 categories:
 - Creative Ladies

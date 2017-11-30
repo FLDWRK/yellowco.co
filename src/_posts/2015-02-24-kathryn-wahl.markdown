@@ -1,6 +1,6 @@
 ---
 title: 'A Day in the Life: with Kathryn Wahl'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-02-24 04:00:12 -0800'
 categories:
 - Light Talk

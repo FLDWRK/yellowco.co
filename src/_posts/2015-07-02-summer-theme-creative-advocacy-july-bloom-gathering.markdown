@@ -1,6 +1,6 @@
 ---
 title: 'Summer Theme: Creative Advocacy + July Bloom Gathering'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-07-02 08:11:29 -0700'
 categories:
 - Creative Advocacy

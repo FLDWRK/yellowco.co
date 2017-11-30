@@ -1,6 +1,6 @@
 ---
 title: Bloom for Hope Recap
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2014-12-08 14:10:26 -0800'
 categories:
 - The Activist

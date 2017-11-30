@@ -1,6 +1,6 @@
 ---
 title: Santa Barbara Leadership Retreat
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-04-11 04:30:34 -0700'
 categories:
 - Creative Ladies

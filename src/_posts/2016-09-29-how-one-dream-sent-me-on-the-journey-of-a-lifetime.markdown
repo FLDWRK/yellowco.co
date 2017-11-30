@@ -1,6 +1,6 @@
 ---
 title: How One Dream Sent Me On the Journey of a Lifetime
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-09-29 04:00:07 -0700'
 categories:
 - Inspiration

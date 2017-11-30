@@ -1,6 +1,6 @@
 ---
 title: How Building Your Email List Can Help You Do Less and Impact More
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2016-10-10 04:00:49 -0700'
 categories:
 - Advice

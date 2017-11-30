@@ -1,6 +1,6 @@
 ---
 title: Collaboration vs. Competition
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-05-25 04:00:01 -0700'
 categories:
 - Light Talk

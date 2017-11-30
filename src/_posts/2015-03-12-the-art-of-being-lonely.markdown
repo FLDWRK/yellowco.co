@@ -1,6 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: the Art of Being Lonely'
-author: heygirl@yellowconference.com
+author: Yellow
 date: '2015-03-12 04:00:24 -0700'
 categories:
 - Advice
