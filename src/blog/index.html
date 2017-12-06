@@ -1,8 +1,8 @@
 ---
 title: Blog
-layout: page
+layout: site
 ---
-<div class="blog">
+<div class="container blog">
   <section class="blog-feature">
     <div class="row justify-content-center mb-4">
       <div class="col-12 col-lg-12 px-0">
@@ -31,21 +31,11 @@ layout: page
       </div>
     </div>
   </section>
+</div>
 
-  <section class="my-5">
-    <div class="row">
-      <div class="col-12 col-sm-6">
-        <img src="/assets/images/theme-nov-17-with.jpg" class="img-fluid"/>
-      </div>
-      <div class="col-12 col-sm-6 my-auto">
-        <h6 class="text-uppercase">this month's theme</h6>
-        <h2><em>WITH • Living with Anxiety and Depression</em></h2>
-        <p>Now is the time to stand With one another, shed the stigmas, and get honest about where we’re at. We must ruthlessly look after our sisters, and ourselves, who are struggling with these debilitating issues.</p>
-        <p><a href="#">Link to blog post →</a></p>
-      </div>
-    </div>
-  </section>
+{% include current-theme.html %}
 
+<div class="container">
   <section>
     <div class="row">
       <div class="col-12">

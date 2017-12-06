@@ -44,6 +44,25 @@ h6 {
   }
 }
 
+.section-title {
+  font-size: 5rem;
+  color: $white;
+  position: relative;
+  top: -20px;
+  font-style: italic;
+}
+@include media-breakpoint-down(lg) {
+  .section-title {
+    font-size: 4.25rem;
+  }
+}
+@include media-breakpoint-down(md) {
+  .section-title {
+    font-size: 3.25rem;
+    top: -10px;
+  }
+}
+
 mark {
   background-color: $brand-primary;
 }
