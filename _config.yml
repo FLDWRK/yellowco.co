@@ -32,7 +32,8 @@ defaults:
     path: ''
     type: authors
   values:
-    layout: page
+    layout: author
+    permalink: "/author/:title"
 twitter_username: yellowconf
 permalink: pretty
 sass:

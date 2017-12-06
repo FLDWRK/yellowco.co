@@ -3,7 +3,7 @@ title: Lauren Cash
 company_name:
 job_title: Founder
 bio_image:
-url: https://laurencashrdn.com/
+website: https://laurencashrdn.com/
 is_guest: true
 ---
 

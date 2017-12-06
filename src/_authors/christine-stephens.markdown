@@ -3,7 +3,7 @@ title: Christine Stephens
 company_name: Delightful Findings
 job_title: Founder
 bio_image:
-url: https://delightfulfindings.wordpress.com/
+website: https://delightfulfindings.wordpress.com/
 is_guest: true
 ---
 

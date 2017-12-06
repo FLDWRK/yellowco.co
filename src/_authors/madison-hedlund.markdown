@@ -3,7 +3,7 @@ title: Madison Hedlund
 company_name:
 job_title: Founder
 bio_image:
-url: http://www.madisonhedlund.co/
+website: http://www.madisonhedlund.co/
 is_guest: true
 ---
 

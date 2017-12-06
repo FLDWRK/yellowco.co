@@ -156,5 +156,3 @@ the table with her personal experiences and narrative. Many of us know a woman
 who would be a great leader in their community; they just need that extra push.
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
-
-[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/10/HANNA-BIO-new-2.jpg)](http://hannasnyder.com)

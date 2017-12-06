@@ -3,7 +3,7 @@ title: Kate Alsup
 company_name:
 job_title:
 bio_image:
-url: http://www.katealsup.com/
+website: http://www.katealsup.com/
 is_guest: true
 ---
 

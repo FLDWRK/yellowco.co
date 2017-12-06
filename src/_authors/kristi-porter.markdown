@@ -3,7 +3,7 @@ title: Krisit Porter
 company_name: Signify Solutions
 job_title:
 bio_image:
-url: https://www.signify.solutions/
+website: https://www.signify.solutions/
 is_guest: true
 ---
 

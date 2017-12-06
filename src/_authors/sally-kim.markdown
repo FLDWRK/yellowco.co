@@ -3,7 +3,7 @@ title: Sally Kim
 company_name:
 job_title:
 bio_image:
-url: https://lettersfromamister.com/
+website: https://lettersfromamister.com/
 is_guest: true
 ---
 

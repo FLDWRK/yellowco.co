@@ -3,7 +3,7 @@ title: Brianna Towne
 company_name: "Oh Mama, Etc."
 job_title:
 bio_image:
-url: http://lifebybri.com/
+website: http://lifebybri.com/
 is_guest: true
 ---
 

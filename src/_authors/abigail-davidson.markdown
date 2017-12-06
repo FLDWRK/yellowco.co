@@ -3,7 +3,7 @@ title: Abigail Davidson
 company_name: The School of Wellbeing
 job_title:
 bio_image:
-url: https://www.theschoolofwellbeing.com/
+website: https://www.theschoolofwellbeing.com/
 is_guest: true
 ---
 

@@ -3,7 +3,7 @@ title: Jasmin Bollman
 company_name:
 job_title: Founder
 bio_image:
-url: http://www.jasminbollman.ca/
+website: http://www.jasminbollman.ca/
 is_guest: true
 ---
 

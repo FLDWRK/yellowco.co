@@ -3,7 +3,7 @@ title: "Emily Wilkinson & Sam Mazzeo"
 company_name: Wilkinson Mazzeo
 job_title: Founders
 bio_image:
-url: https://wilkinsonmazzeo.com/
+website: https://wilkinsonmazzeo.com/
 is_guest: true
 ---
 

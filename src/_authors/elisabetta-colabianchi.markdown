@@ -3,7 +3,7 @@ title: Elisabetta Colabianchi
 company_name: Global Dream Collective
 job_title: Founder
 bio_image:
-url: http://www.globaldreamcollective.com/
+website: http://www.globaldreamcollective.com/
 is_guest: true
 ---
 

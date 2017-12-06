@@ -3,7 +3,7 @@ title: Myasi Jackson
 company_name: Purpose Copy
 job_title: Founder
 bio_image:
-url: http://www.purposecopy.com/
+website: http://www.purposecopy.com/
 is_guest: true
 ---
 

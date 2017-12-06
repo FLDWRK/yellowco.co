@@ -3,7 +3,7 @@ title: Yellow
 company_name:
 job_title:
 bio_image:
-url:
+website:
 is_guest: false
 ---
 

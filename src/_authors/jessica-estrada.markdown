@@ -3,7 +3,7 @@ title: Jessica Estrada
 company_name:
 job_title: Founder
 bio_image:
-url: http://jessica-marie.com/
+website: http://jessica-marie.com/
 is_guest: true
 ---
 

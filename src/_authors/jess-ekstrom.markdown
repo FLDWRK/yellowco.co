@@ -3,7 +3,7 @@ title: Jess Ekstrom
 company_name: Headbands of Hope
 job_title: Founder
 bio_image:
-url: https://www.instagram.com/jess_ekstrom/
+website: https://www.instagram.com/jess_ekstrom/
 is_guest: true
 ---
 

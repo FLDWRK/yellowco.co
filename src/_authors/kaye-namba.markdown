@@ -3,7 +3,7 @@ title: Kaye Namba
 company_name: Little Golden Penguin
 job_title: Founder
 bio_image:
-url: http://www.littlegoldenpenguin.com/
+website: http://www.littlegoldenpenguin.com/
 is_guest: true
 ---
 
