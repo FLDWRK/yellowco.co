@@ -30,7 +30,7 @@ class Instagram extends Component {
           .map(image => (
             <img
               key={image.id}
-              src={image.images.thumbnail.url}
+              src={image.images.standard_resolution.url}
               alt="Yellow Instagram"
             />
           ))}

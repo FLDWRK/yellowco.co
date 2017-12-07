@@ -5,8 +5,8 @@
   font-family: $font-family-subheadings;
   text-transform: uppercase;
   letter-spacing: 2px;
-  @include media-breakpoint-only(xs){
-    margin-top: .25rem;
+  @include media-breakpoint-only(xs) {
+    margin-top: 0.25rem;
   }
 
   > .navbar-brand img {
@@ -55,19 +55,6 @@
       margin-left: 1.75rem;
     }
   }
-  > .navbar-nav .nav-item:last-child {
-      font-family: "Risoless";
-      text-transform: lowercase;
-      .nav-link {
-        font-size: 1.8rem;
-        line-height: .3;
-      }
-      @include media-breakpoint-only(md) {
-        .nav-link {
-          font-size: 1.5rem;
-        }
-      }
-    }
 
   > .navbar-nav .nav-link {
     color: $gray-dark;
@@ -84,7 +71,10 @@
 
   > .navbar-nav .active {
     border-bottom: 3px solid $brand-black;
-    &:last-child { border-bottom: none; }
+
+    &:last-child {
+      border-bottom: none;
+    }
   }
 
   > .navbar-toggler {
