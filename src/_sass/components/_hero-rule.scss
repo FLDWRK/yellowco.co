@@ -2,24 +2,22 @@
   content: '';
   display: block;
   width: 200px;
-  height: 10px;
+  height: 6px;
   background-color: $brand-black;
-  border-radius: 5px;
-  margin: auto;
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  border-radius: 3px;
+  margin: 1.5rem auto;
 }
+
 .hero-rule-xl {
   content: '';
   display: block;
   width: 320px;
-  height: 10px;
+  height: 6px;
   background-color: $brand-black;
-  border-radius: 5px;
-  margin: auto;
-  margin-top: 1.75rem;
-  margin-bottom: 1.75rem;
+  border-radius: 3px;
+  margin: 1.75rem auto;
 }
+
 .rule-xs {
   content: '';
   display: block;
@@ -27,7 +25,5 @@
   height: 8px;
   background-color: $brand-black;
   border-radius: 4px;
-  margin: auto;
-  margin-top: .5rem;
-  margin-bottom: .5rem;
+  margin: 0.5rem auto;
 }

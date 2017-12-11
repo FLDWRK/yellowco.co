@@ -3,20 +3,17 @@ layout: site
 title: Membership
 banners:
 - link: "/membership"
-  image: "/assets/images/banner-membership-lg.jpg"
+  image: "/assets/images/Membership-Header.jpg"
 sm-banners:
 - link: "/membership"
   image: "/assets/images/banner-membership-sm.jpg"
 details:
-- icon: smiley
-  title: Resources
-  text: "Have access to our private Facebook group &amp; Slack channel where we host encouraging weekly chats and monthly webcasts. Binge watch past conference speakers and download worksheets aimed at helping you become an agent of good."
-- icon: smiley
-  title: Gatherings!!!
-  text: "Connect with like-minded women in 16 city chapters across the nation – and the world! Not near a city chapter? No problem. We offer a digital chapter so you can be part of the movement from anywhere."
-- icon: smiley
-  title: Workbook
-  text: "With content like a magazine and exercises like a workbook, each packet delivered by snail mail includes a do-good challenge, discounts to do-good products and space for personal reflection and growth."
+- title: crave direction and purpose?
+  text: "You’re struggling to find the larger purpose in what you do. You move from client to client or project to project with no direction or clarity on how make the impact you desire."
+- title: know you're capable of more?
+  text: "You know you have potential that’s waiting to be unleashed. You know that you’re capable of making big waves of good in the world, but you don’t know where or how to start."
+- title: search to find your "people"?
+  text: "You move from network to network but never feel like you’ve found your place. You crave a genuine group of women who care about building more than just a career."
 ---
 
 <!-- BANNER -->
@@ -37,15 +34,17 @@ details:
   </div>
 </div>
 
-<!-- WHAT YOU GET -->
+<!-- BENEFITS -->
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <h2 class="mb-5">What you get</h2>
+      <h2 class="mb-5">Do You…</h2>
       <div class="row mb-3">
         {% for detail in page.details %}
         <div class="col-12 col-sm-4 px-4">
-          {% include icon.html name=detail.icon classes="icon-xxl" %}
+          {% if details.icon %}
+            {% include icon.html name=detail.icon classes="icon-xxl" %}
+          {% endif %}
           <h6 class="mt-2">{{ detail.title }}</h6>
           {{ detail.text | markdownify }}
         </div>
@@ -53,11 +52,16 @@ details:
       </div>
     </div>
   </div>
+  <div class="row py-3">
+    <div class="col">
+      <h3 class="text-center"><em>You're in the right place</em></h3>
+    </div>
+  </div>
   <div class="btn-rule">
     <div class="row justify-content-center">
       <div class="col col-sm-6 col-md-6 col-lg-4">
         <form action="https://members.yellowco.co/">
-            <button type="submit" class="btn btn-primary btn-lg btn-block"/>Get Started</button>
+            <button type="submit" class="btn btn-primary btn-lg btn-block"/>Join Now</button>
         </form>
       </div>
     </div>
@@ -65,16 +69,16 @@ details:
 </div>
 
 <!-- IMPACT CALLOUT -->
-<div class="bg-faded my-5">
+<div class="bg-faded my-sm-3 my-md-5">
   <div class="container">
     <div class="row">
-      <div class="col">
-        <img src="/assets/images/yellow-member-platform.jpg" class="img-fluid" alt="inside Yellow Membership"/>
+      <div class="col-12 col-md-6">
+        <img src="/assets/images/yellow-member-platform.jpg" class="img-fluid mb-sm-2" alt="inside Yellow Membership"/>
       </div>
-      <div class="col d-flex my-auto">
-        <p class="lead">
-          Your monthly membership not only send you goodies but contributes to benefit humankind. Your membership helps Yellow employ youths who are transitioning out of foster care, fund sex-trafficking rescue operations, and allows Yellow to support other initiatives taking place across the world!
-        </p>
+      <div class="col-12 col-md-6 my-auto">
+        <h3>Take 2018 by storm with our 2018 theme: Our Ownership</h3>
+        <p>It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own WHO THEY ARE? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens.</p>
+        <p><strong>This is our focus for 2018: OUR OWNERSHIP</strong><br />Each month throughout 2018 we will dive into a different focus of ownership, all helping you to take ownership of your life, who you were meant to be and your personal impact on the world.</p>
       </div>
     </div>
   </div>
@@ -87,7 +91,7 @@ details:
       <a href="https://members.yellowco.co/" class="no-underline d-block">
         <div class="card card-price text-center">
           <div class="card-block">
-            <h6 class="card-title text-uppercase">Subscribe today</h6>
+            <h6 class="card-title text-uppercase">Join today</h6>
             <p class="card-text">
               <span class="price">33</span>/mo
             </p>
@@ -96,7 +100,7 @@ details:
       </a>
       <p class="text-center">Questions? <a href="#faqs">Read our FAQs</a></p>
     </div>
-    <div class="col-12 col-md-7 col-lg-8">
+    <div class="col-12 col-md-7 col-lg-6 offset-lg-1">
       <ul class="list-checkmark">
         <li>Free shipping in the US</li>
         <li>Cancel anytime, hassle free</li>
@@ -108,10 +112,25 @@ details:
 </div>
 
 <!-- CURRENT THEME SECTION -->
-{% include current-theme.html %}
+<!-- {% include current-theme.html %} -->
+
+<div class="row mt-md-5">
+  <div class="col-12">
+    <img src="/assets/images/membership-impact.jpg" class="img-fluid w-100" data-rjs="2" />
+    <div class="container">
+      <div class="row intro-overlay justify-content-center">
+        <div class="intro-content col-11 col-sm-11 col-lg-8 text-center py-4 px-3">
+          <h6>Your membership is making an impact</h6>
+          <p>Your membership helps employ at-risk youth, empower women globally, and supports other initiatives taking place across the world.</p>
+          <a href="#" class="btn btn-primary">View Our Impact</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- FAQ -->
-<div class="container my-3">
+<div class="container">
   <div class="row justify-content-center">
     <div class="col-12 col-lg-10 col-xl-9">
       <h2 class="text-center mb-2">Membership FAQ</h2>
@@ -181,7 +200,7 @@ details:
   </div>
 </div>
 
-<div class="container py-2">
+<div class="container py-2 pt-md-4">
   <div class="row">
     <div class="col-12">
       {% include instagram.html %}
