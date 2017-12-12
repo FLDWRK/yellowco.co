@@ -1,7 +1,6 @@
 ---
 title: Come Together
-layout: category
-category: Come Together
 categories:
 - Come Together
+category: Come Together
 ---

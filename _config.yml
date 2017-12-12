@@ -6,6 +6,9 @@ exclude: ['node_modules']
 source: src
 destination: public
 collections:
+  category:
+    title: Category
+    output: true
   authors:
     title: Authors
     output: true
@@ -27,7 +30,18 @@ defaults:
     permalink: "/blog/:year/:month/:day/:title/"
     author:
     image:
+    impact-feature:
+    nav:
+      id: post
+      site:
+        highlight: blog
     excerpt_separator: "<!-- more -->"
+- scope:
+    path: ''
+    type: category
+  values:
+    layout: category
+    permalink: "/blog/category/:title"
 - scope:
     path: ''
     type: authors

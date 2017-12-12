@@ -1,7 +1,12 @@
 ---
 title: Blog
 layout: site
+nav:
+  id: blog
+  site:
+    highlight: blog
 ---
+
 <div class="container blog">
   <section class="blog-feature">
     <div class="row justify-content-center mb-4">
@@ -64,4 +69,46 @@ layout: site
       {% endfor %}
     </div>
   </section>
+</div>
+
+<!-- PAGINATION -->
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <nav class="text-center" aria-label="Page navigation">
+        <ul class="pagination">
+          {% if paginator.next_page %}
+            <li class="page-item">
+              <a class="page-link" href="{{ paginator.next_page_path }}" aria-label="Older">
+                <span aria-hidden="true"><i class="fa fa-lg fa-caret-left" aria-hidden="true"></i> Older</span>
+                <span class="sr-only">Older</span>
+              </a>
+            </li>
+          {% else %}
+            <li class="page-item disabled">
+              <span class="page-link" aria-label="Older">
+                <span aria-hidden="true"><i class="fa fa-lg fa-caret-left" aria-hidden="true"></i> Older</span>
+                <span class="sr-only">Older</span>
+              </span>
+            </li>
+          {% endif %}
+          {% if paginator.previous_page %}
+            <li class="page-item">
+              <a class="page-link" href="{{ paginator.previous_page_path }}" aria-label="Newer">
+                <span aria-hidden="true">Newer <i class="fa fa-lg fa-caret-right" aria-hidden="true"></i></span>
+                <span class="sr-only">Newer</span>
+              </a>
+            </li>
+          {% else %}
+            <li class="page-item disabled">
+              <span class="page-link" aria-label="Newer">
+                <span aria-hidden="true">Newer <i class="fa fa-lg fa-caret-right" aria-hidden="true"></i></span>
+                <span class="sr-only">Newer</span>
+              </span>
+            </li>
+          {% endif %}
+        </ul>
+      </nav>
+    </div>
+  </div>
 </div>

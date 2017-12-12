@@ -2,6 +2,10 @@
 title: Conference
 layout: custom/conference
 keywords: yellow, collective, conference, bloom, women, woman, entrepreneur, creative, inspiration, gathering, event, Los Angeles, august, 2018, greater, good, impact, business, hustle, make a difference
+nav:
+  id: conference
+  site:
+    highlight: conference
 banners:
 - image: "/assets/images/banner-conference-bloom.jpg"
 sm-banners:
@@ -26,4 +30,3 @@ speakers:
   title: Activist & Speaker
   link: http://www.nataliewarne.com/
 ---
-

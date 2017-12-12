@@ -1,6 +1,10 @@
 ---
 layout: site
 title: Membership
+nav:
+  id: membership
+  site:
+    highlight: membership
 banners:
 - link: "/membership"
   image: "/assets/images/Membership-Header.jpg"
@@ -9,7 +13,7 @@ sm-banners:
   image: "/assets/images/banner-membership-sm.jpg"
 details:
 - title: crave direction and purpose?
-  text: "You’re struggling to find the larger purpose in what you do. You move from client to client or project to project with no direction or clarity on how make the impact you desire."
+  text: "You’re struggling to find the larger purpose in what you do. You move from client to client or project to project with no direction or clarity on how to make the impact you desire."
 - title: know you're capable of more?
   text: "You know you have potential that’s waiting to be unleashed. You know that you’re capable of making big waves of good in the world, but you don’t know where or how to start."
 - title: search to find your "people"?
@@ -46,7 +50,9 @@ details:
             {% include icon.html name=detail.icon classes="icon-xxl" %}
           {% endif %}
           <h6 class="mt-2">{{ detail.title }}</h6>
-          {{ detail.text | markdownify }}
+          <p>
+            {{ detail.text }}
+          </p>
         </div>
         {% endfor %}
       </div>
@@ -98,7 +104,7 @@ details:
           </div>
         </div>
       </a>
-      <p class="text-center">Questions? <a href="#faqs">Read our FAQs</a></p>
+      <p class="text-center">Questions? <a href="https://fldwrk.help/yellow-co">Read our FAQs</a></p>
     </div>
     <div class="col-12 col-md-7 col-lg-6 offset-lg-1">
       <ul class="list-checkmark">
@@ -107,6 +113,7 @@ details:
         <li>Exclusive ticket prices for annual conference and workshops</li>
         <li>Discounts to partnering do-good resources and products</li>
       </ul>
+      <a href="https://fldwrk.help/yellow-co" class="btn btn-sm btn-primary">Read our FAQs</a>
     </div>
   </div>
 </div>
