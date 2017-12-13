@@ -3,7 +3,7 @@ title: "Lindsay Byers-Hirth"
 company_name: Society B
 job_title: Founder
 bio_image:
-url: https://www.instagram.com/society_b/
+website: https://www.instagram.com/society_b/
 is_guest: true
 ---
 

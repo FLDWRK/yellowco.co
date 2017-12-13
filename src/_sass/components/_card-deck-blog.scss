@@ -18,6 +18,7 @@
           background-color: white;
           padding: 0.75rem 1rem 0.5rem;
           color: #9b9b9b;
+          transition: all 0.3s ease 0s;
         }
       }
 
@@ -57,10 +58,6 @@
     @include media-breakpoint-only(sm) {
       flex-basis: calc(50% - 30px);
       max-width: calc(50% - 30px);
-
-      .card-category {
-        top: 282px;
-      }
     }
     @include media-breakpoint-down(xs) {
       flex-basis: 100%;

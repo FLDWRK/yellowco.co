@@ -3,7 +3,7 @@ title: Jessica Whalen
 company_name: Truebadours
 job_title: Founder
 bio_image:
-url: http://www.truebadours.com/
+website: http://www.truebadours.com/
 is_guest: true
 ---
 

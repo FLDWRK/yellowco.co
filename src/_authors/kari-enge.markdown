@@ -3,7 +3,7 @@ title: Kari Enge
 company_name: Rank & File
 job_title:
 bio_image:
-url: https://rankandfilemag.com/
+website: https://rankandfilemag.com/
 is_guest: true
 ---
 

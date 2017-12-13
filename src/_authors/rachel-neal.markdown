@@ -3,7 +3,7 @@ title: Rachel Neal
 company_name: Yellow Co.
 job_title: Director of Stories
 bio_image:
-url: https://www.instagram.com/rachelhneal/
+website: https://www.instagram.com/rachelhneal/
 is_guest: false
 ---
 

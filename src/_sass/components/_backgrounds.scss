@@ -1,17 +1,31 @@
 .bg-diagonal {
-  background: linear-gradient(to right bottom, rgba(219, 216, 207, .2) 50%, transparent 50%);
+  background: linear-gradient(
+    to right bottom,
+    rgba(219, 216, 207, 0.2) 50%,
+    transparent 50%
+  );
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+
 .bg-diagonal-primary {
-  background: linear-gradient(to right bottom, rgba(244, 239, 17, 1) 50%, transparent 50%);
+  background: linear-gradient(
+    to right bottom,
+    rgba(244, 239, 17, 1) 50%,
+    transparent 50%
+  );
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+
 .bg-primary {
   background-color: $brand-primary;
   padding-top: 3rem;
   padding-bottom: 3rem;
   margin-top: 1rem;
   margin-bottom: 1.5rem;
+}
+
+.bg-dark {
+  background-color: $gray-lighter;
 }

@@ -3,7 +3,7 @@ title: Laura Weldy
 company_name: The Well Supported Woman
 job_title: Founder
 bio_image:
-url: http://thewellsupportedwoman.com/
+website: http://thewellsupportedwoman.com/
 is_guest: true
 ---
 

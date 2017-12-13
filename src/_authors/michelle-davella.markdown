@@ -3,7 +3,7 @@ title: "Michelle D'Avella"
 company_name: Pushing Beauty
 job_title: Founder
 bio_image:
-url: https://www.pushingbeauty.com/
+website: https://www.pushingbeauty.com/
 is_guest: true
 ---
 

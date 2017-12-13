@@ -3,7 +3,7 @@ title: Cinthia Pacheco
 company_name: Digimorph
 job_title: Founder
 bio_image:
-url: https://www.digimorphs.com/
+website: https://www.digimorphs.com/
 is_guest: true
 ---
 

@@ -3,7 +3,7 @@ title: Henah Parikh
 company_name: 
 job_title:
 bio_image:
-url: http://www.thegoodtrade.com/
+website: http://www.thegoodtrade.com/
 is_guest: true
 ---
 

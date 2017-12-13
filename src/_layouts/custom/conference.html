@@ -3,8 +3,19 @@ layout: site
 title: Conference
 ---
 
-<div class="fotorama page-banner" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
-  <div data-img="/assets/images/banner-conference-bloom.jpg" data-rjs="2"> </div>
+<div>
+  <div class="fotorama page-banner hidden-sm-down pt-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+    {% for banner in page.banners %}
+      <div data-img="{{ banner.image }}" class="link" data-rjs="2">
+      </div>
+    {% endfor %}
+  </div>
+  <div class="fotorama hidden-md-up pt-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+    {% for sm-banner in page.sm-banners %}
+      <div data-img="{{ sm-banner.image }}" class="link" data-rjs="2">
+      </div>
+    {% endfor %}
+  </div>
 </div>
 <div class="bg-diagonal">
   <div class="container">
@@ -38,12 +49,12 @@ title: Conference
   <div class="container py-3">
     <div class="row">
       <div class="col-12 col-md-5">
-        <h2 class="h1"><em>Gather Together.</em></h2>
-        <h2 class="h1 mt-3"><em>Be Inspired.</em></h2>
+        <h2 class="h1"><em>2018 theme:</em></h2>
+        <h2 class="h1 mt-3"><em>Our Ownership</em></h2>
       </div>
       <div class="col-12 col-md-7">
-        <p>Join 500 creative, entrepreneurial-minded women in the heart of Downtown Los Angeles for a gathering that is so much more than a conference. This is for the ones who desire to fight for a better tomorrow. The ones who are willing to roll up their sleeves, step out in courage, & use their creativity for good. This is where we come together for the benefit of humankind. <strong>With the belief that together, we can spread good and bloom.</strong></p>
-        <p>This conference is for the ones who know they were made to work for something bigger than themselves, & they desire the practical, tangible know how it takes to make that happen.</p>
+        <p>Join 500 creative, entrepreneurial-minded women in the heart of Downtown Los Angeles for a gathering that is so much more than a conference. This is for the ones who desire to fight for a better tomorrow. The ones who are willing to roll up their sleeves, step out in courage, & use their creativity for good. This is where we come together for the benefit of humankind.</p>
+        <p>This year our 2018 theme is “Our Ownership”. It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own WHO THEY ARE? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens. Join us as we dive into this theme at our 2018 conference.</p>
         <a class="btn btn-outline-primary btn-sm" href="https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0?buttonColor=#231f20&buttonText=GRAB YOUR TICKETS">Grab Your Ticket</a>
       </div>
     </div>
@@ -108,7 +119,7 @@ title: Conference
   <div class="row text-center">
     <div class="col-12">
       <h4>Have a do-good business?</h4>
-      <p>*** mention the value of being a part of our marketplace**** Apply for the 2018 Marketplace</p>
+      <p>Apply for the 2018 marketplace here. Questions? Email <a href="mailto:kathryn@yellowco.co">kathryn@yellowco.co</a></p>
       <a href="mailto:kathryn@yellowco.co" class="btn btn-primary btn-sm">Apply for 2018</a>
     </div>
   </div>

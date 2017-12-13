@@ -3,7 +3,7 @@ title: Arielle Estoria
 company_name:
 job_title:
 bio_image:
-url: http://arielleestoria.com/
+website: http://arielleestoria.com/
 is_guest: true
 ---
 

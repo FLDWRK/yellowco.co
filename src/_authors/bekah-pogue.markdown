@@ -3,7 +3,7 @@ title: Bekah Pogue
 company_name:
 job_title: Founder
 bio_image:
-url: http://www.bekahpogue.com/
+website: http://www.bekahpogue.com/
 is_guest: true
 ---
 

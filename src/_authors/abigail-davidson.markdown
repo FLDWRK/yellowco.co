@@ -1,9 +1,9 @@
 ---
 title: Abigail Davidson
 company_name: The School of Wellbeing
-job_title:
-bio_image:
-url: https://www.theschoolofwellbeing.com/
+job_title: Life & Wellness Coach
+bio_image: "/assets/images/abigail-davidson.jpg"
+website: https://www.theschoolofwellbeing.com/
 is_guest: true
 ---
 

@@ -1,31 +1,38 @@
-#accordion {
+.card-accordion {
   .card {
     border: none;
+    border-bottom: 1px solid $brand-primary;
   }
+
   .card-header {
     background-color: transparent;
     font-size: 1.25rem;
-    border-bottom: 1px solid $brand-primary;
+    padding: 1rem 1.25rem;
+    border: none;
+
     a {
-      border-bottom: none;
+      border-bottom: none !important;
       line-height: 1.4;
       display: block;
     }
-    a:active, a:hover, a:active:hover, a:visited, a:focus {
+
+    a:active,
+    a:active:hover,
+    a:focus,
+    a:hover,
+    a:visited {
       text-decoration: none;
     }
+
     .accordion-toggle:after {
       font-family: 'FontAwesome';
-      content: '';
+      color: $gray-light;
+      content: '';
       float: right;
     }
+
     .accordion-toggle.collapsed:after {
-      font-family: 'FontAwesome';
-      content: '';
-      float: right;
+      content: '';
     }
-  }
-  .card-block {
-    border-bottom: 1px solid $brand-primary;
   }
 }

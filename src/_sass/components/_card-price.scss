@@ -1,16 +1,26 @@
 .card-price {
   margin-bottom: 1rem;
+  border: 3px solid $brand-primary;
+  transition: all 0.3s ease 0s;
+
+  &:hover {
+    background-color: $brand-primary;
+  }
+
   .card-block {
     padding: 2rem 1rem;
+
     .card-text {
       font-family: 'Playfair Display';
       font-style: italic;
       font-size: 2.25rem;
-      line-height: .5;
+      line-height: 0.5;
       padding-bottom: 1rem;
+
       .price {
         font-size: 4.25rem;
       }
+
       .price:before {
         content: '$';
         font-size: 2.25rem;

@@ -6,6 +6,12 @@ exclude: ['node_modules']
 source: src
 destination: public
 collections:
+  series:
+    title: Series
+    output: true
+  category:
+    title: Category
+    output: true
   authors:
     title: Authors
     output: true
@@ -27,12 +33,31 @@ defaults:
     permalink: "/blog/:year/:month/:day/:title/"
     author:
     image:
+    impact-feature:
+    nav:
+      id: post
+      site:
+        highlight: blog
     excerpt_separator: "<!-- more -->"
+- scope:
+    path: ''
+    type: series
+  values:
+    layout: series
+    series:
+    permalink: "/blog/series/:title"
+- scope:
+    path: ''
+    type: category
+  values:
+    layout: category
+    permalink: "/blog/category/:title"
 - scope:
     path: ''
     type: authors
   values:
-    layout: page
+    layout: author
+    permalink: "/author/:title"
 twitter_username: yellowconf
 permalink: pretty
 sass:

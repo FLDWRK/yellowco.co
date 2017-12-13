@@ -6,7 +6,7 @@ layout: page
 <div id="archives">
   {% for category in site.categories %}
     <div class="archive-group">
-      {% capture category_name %}{{ category | first }}{% endcapture %}
+      {% capture category_name %}{{ category | first | sort: 'date') | reverse }}{% endcapture %}
       <div id="#{{ category_name | slugize }}"></div>
       <p></p>
 
@@ -14,7 +14,7 @@ layout: page
       <a name="{{ category_name | slugize }}"></a>
       {% for post in site.categories[category_name] %}
       <article class="archive-item">
-        <p><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></p>
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
       </article>
       {% endfor %}
     </div>

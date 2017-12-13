@@ -1,22 +1,35 @@
 ---
 layout: site
 title: Membership
+nav:
+  id: membership
+  site:
+    highlight: membership
 banners:
 - link: "/membership"
-  image: "/assets/images/banner-membership-lg.jpg"
+  image: "/assets/images/Membership-Header.jpg"
 sm-banners:
 - link: "/membership"
   image: "/assets/images/banner-membership-sm.jpg"
 details:
-- icon: smiley
-  title: Resources
-  text: "Have access to our private Facebook group &amp; Slack channel where we host encouraging weekly chats and monthly webcasts. Binge watch past conference speakers and download worksheets aimed at helping you become an agent of good."
-- icon: smiley
-  title: Gatherings!!!
-  text: "Connect with like-minded women in 16 city chapters across the nation – and the world! Not near a city chapter? No problem. We offer a digital chapter so you can be part of the movement from anywhere."
-- icon: smiley
-  title: Workbook
-  text: "With content like a magazine and exercises like a workbook, each packet delivered by snail mail includes a do-good challenge, discounts to do-good products and space for personal reflection and growth."
+- title: crave direction and purpose?
+  text: "You’re struggling to find the larger purpose in what you do. You move from client to client or project to project with no direction or clarity on how to make the impact you desire."
+- title: know you're capable of more?
+  text: "You know you have potential that’s waiting to be unleashed. You know that you’re capable of making big waves of good in the world, but you don’t know where or how to start."
+- title: search to find your "people"?
+  text: "You move from network to network but never feel like you’ve found your place. You crave a genuine group of women who care about building more than just a career."
+faqs:
+- question: Do you ship internationally?
+  answer: We offer free shipping within the US., but international shipping prices vary depending on your location. Feel free to chat us below for more info!
+- question: Can I cancel my membership?
+  answer: Our membership is month to month and you can cancel anytime, although we’d be sad to see you go 🙂
+- question: What comes with membership?
+  answer: Membership value is delivered in 3 ways. Physically, with a monthly packet mailed to your door. Digitally, with access to our online hub of tools, resources and digital chats and webcasts. Lastly, in-person. We host monthly in-person gatherings with our chapters across the US. If you’re not in a location with an in-person chapter, we have digital chapters that meet on Zoom once a month!
+- question: How much is shipping?
+  answer: It’s free if you’re within the US! If you’re international, shipping prices vary depending on your location.
+- question: Where are your chapters and how do the gatherings work?
+  answer: "Currently we have chapters in West LA, Downtown LA, The Valley LA, Orange County, San Diego, Bay Area, New York City, Cincinnati, Austin, Chicago, Denver and Tulsa.
+  The gatherings are centered around our focus for the month, but each chapter throws in their own flare! The goal is for you to receive your periodical, go through the content and the questions, then come together with your group and talk through the focus for the that month and what you thought of the periodical. Every gathering ends with a 'helping circle' where each woman has an ask, and each woman commits to helping that person for that month. We always leave feeling inspired, having things to think about and having new goals to implement into our lives. They’re pretty awesome if we do say so ourselves."
 ---
 
 <!-- BANNER -->
@@ -37,66 +50,125 @@ details:
   </div>
 </div>
 
-<!-- WHAT YOU GET -->
+<!-- BENEFITS -->
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <h2 class="mb-5">What you get</h2>
+      <h2 class="mb-5">Do You…</h2>
       <div class="row mb-3">
         {% for detail in page.details %}
-        <div class="col-12 col-sm-4 px-4">
-          {% include icon.html name=detail.icon classes="icon-xxl" %}
-          <h6 class="mt-2">{{ detail.title }}</h6>
-          {{ detail.text | markdownify }}
-        </div>
+          <div class="col-12 col-sm-4 px-4">
+            {% if details.icon %}
+              {% include icon.html name=detail.icon classes="icon-xxl" %}
+            {% endif %}
+            <h6 class="mt-2">{{ detail.title }}</h6>
+            <p>
+              {{ detail.text }}
+            </p>
+          </div>
         {% endfor %}
       </div>
+    </div>
+  </div>
+  <div class="row py-3">
+    <div class="col">
+      <h3 class="text-center"><em>You're in the right place</em></h3>
     </div>
   </div>
   <div class="btn-rule">
     <div class="row justify-content-center">
       <div class="col col-sm-6 col-md-6 col-lg-4">
         <form action="https://members.yellowco.co/">
-            <button type="submit" class="btn btn-primary btn-lg btn-block"/>Get Started</button>
+          <button type="submit" class="btn btn-primary btn-lg btn-block d-inline-block"/>Join Now</button>
         </form>
+        <a href="#membership-value">
+          <p><em><mark>&nbsp;Learn more about membership&nbsp;</mark></em></p>
+        </a>
       </div>
     </div>
   </div>
 </div>
 
-<!-- IMPACT CALLOUT -->
-<div class="bg-faded py-5 my-3">
+<!-- THEME -->
+<div class="bg-faded my-sm-3 my-md-5">
   <div class="container">
     <div class="row">
-      <div class="col">
-        image and arrow
+      <div class="col-12 col-md-6 mb-2">
+        <img src="/assets/images/our-ownership.jpg" class="img-fluid" alt="inside Yellow Membership"/>
       </div>
-      <div class="col">
-        <p>
-          Your monthly membership not only send you goodies but contributes to benefit humankind. Your membership helps Yellow employ youths who are transitioning out of foster care, fund sex-trafficking rescue operations, and allows Yellow to support other initiatives taking place across the world!
-        </p>
+      <div class="col-12 col-md-6 my-auto">
+        <h3>Take 2018 by storm with our 2018 theme: Our Ownership</h3>
+        <p>It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own WHO THEY ARE? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens.</p>
+        <p><strong>This is our focus for 2018: OUR OWNERSHIP</strong><br />Each month throughout 2018 we will dive into a different focus of ownership, all helping you to take ownership of your life, who you were meant to be and your personal impact on the world.</p>
+        <a href="https://members.yellowco.co/" class="btn btn-primary">Join now</a>
       </div>
     </div>
   </div>
 </div>
 
-<!-- SUBSCRIBE CHECKLIST -->
-<div class="container py-3">
-  <div class="row justify-content-center">
+<!-- MEMBERSHIP VALUES -->
+<div class="container py-3" id="membership-value">
+  <div class="row py-3">
+    <div class="col-12 col-sm-5 col-lg-4">
+      <img src="/assets/images/membership-packet.jpg" class="img-fluid rounded-circle mb-2" data-rjs="2"/>
+    </div>
+    <div class="col-12 col-sm-7 col-lg-6 my-auto">
+      <h5 class="text-uppercase">Monthly "Empowerment Packet" Mailed to Your Door</h5>
+      <p><em>Every month your packet includes:</em></p>
+      <ul>
+        <li>A periodical filled with interactive content surrounding our theme for the month. Every issue will lead you towards making powerful changes in your life.</li>
+        <li>A challenge designed to help you take what you've learned and bring it to life.</li>
+        <li>Various discounts & vouchers for products we love!</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row py-3">
+    <div class="col-12 col-sm-5 col-lg-4 col-xl-4 flex-last">
+      <img src="/assets/images/membership-digital-resources.jpg" class="img-fluid rounded-circle mb-2" data-rjs="2"/>
+    </div>
+    <div class="col-12 col-sm-7 col-lg-7 offset-lg-1 col-xl-6 offset-xl-2 my-auto">
+      <h5 class="text-uppercase">Exclusive Access to Our Digital Member Hub</h5>
+      <p><em>Consider it your virtual creative lady library you can access from anywhere:</em></p>
+      <ul>
+        <li>Video interviews with female entreprenuers</li>
+        <li>Past Yellow Conference speaker video recordings</li>
+        <li>Workbook downloads aimed at helping you take charge of your life and move forward with impact</li>
+        <li>Various printable downloads &amp; other goodies</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row py-3">
+    <div class="col-12 col-sm-5 col-lg-4">
+      <img src="/assets/images/membership-gatherings.jpg" class="img-fluid rounded-circle mb-2" data-rjs="2"/>
+    </div>
+    <div class="col-12 col-sm-7 col-lg-6 my-auto">
+      <h5 class="text-uppercase">Monthly Gatherings</h5>
+      <p><em>The best part of the membership are the women who make it :)</em></p>
+      <ul>
+        <li>Connect with other creative, entreprenurial women who are working at building a life, not just a career.</li>
+        <li>If you're local to one of our 12 national chapters, attend an in-person event. If you're not local, attend our digital event!</li>
+        <li>Private Facebook group & weekly Slack chats where we connect on the focus for that month.</li>
+        <li>Learn from peer to peer mentoring, make new friends and change the world togther!</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- JOIN TODAY -->
+  <div class="row justify-content-center mt-5">
     <div class="col-12 col-sm-7 col-md-5 col-lg-4">
-      <a href="https://members.yellowco.co/" class="no-underline d-block">
-        <div class="card card-price text-center">
+      <a href="https://members.yellowco.co/" class="no-underline d-block mx-2">
+        <div class="card card-price text-center mx-xs-1">
           <div class="card-block">
-            <h6 class="card-title text-uppercase">Subscribe today</h6>
+            <h6 class="card-title text-uppercase">Join now!</h6>
             <p class="card-text">
               <span class="price">33</span>/mo
             </p>
           </div>
         </div>
       </a>
-      <p class="text-center">Questions? <a href="#faqs">Read our FAQs</a></p>
+      <p class="text-center">Questions? <a href="https://fldwrk.help/yellow-co">Read our FAQs</a></p>
     </div>
-    <div class="col-12 col-md-7 col-lg-8">
+    <div class="col-12 col-md-7 col-lg-6 offset-lg-1">
       <ul class="list-checkmark">
         <li>Free shipping in the US</li>
         <li>Cancel anytime, hassle free</li>
@@ -107,81 +179,57 @@ details:
   </div>
 </div>
 
-<!-- FAQ -->
-<div class="container my-3">
-  <div class="row justify-content-center">
-    <div class="col-12 col-lg-10 col-xl-9">
-      <h2 class="text-center mb-2">Membership FAQ</h2>
-      <div id="accordion" role="tablist" aria-multiselectable="true">
-        <div class="card">
-          <div class="card-header" role="tab" id="headingOne">
-            <p class="mb-0">
-              <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" class="accordion-toggle">
-                Who is Yellow Co.?
-              </a>
-            </p>
-          </div>
-          <div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne">
-            <div class="card-block">
-              We are a community of women passionate about living creatively and bravely as Agents of Good!
-              <br /><br />
-              Our members stay connected with each other, growing and doing good, via our monthly membership subscription including digital resources, monthly chapter gatherings and our private Facebook group and Slack channel. We rally together once a year in Los Angeles for the Yellow Conference!
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-header" role="tab" id="headingTwo">
-            <p class="mb-0">
-              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                What is Yellow membership?
-              </a>
-            </p>
-          </div>
-          <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
-            <div class="card-block">
-              Yellow membership is a $33.00, monthly subscription connecting creative, entrepreneurial women that want to use their gifts, skills and talents to advance the common good. Our monthly subscription includes digital resources, monthly chapter gatherings and our private Facebook group and Slack channel. Attending the annual Yellow Conference is an additional fee.
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-header" role="tab" id="headingThree">
-            <p class="mb-0">
-              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                How do I become a Yellow member?
-              </a>
-            </p>
-          </div>
-          <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
-            <div class="card-block">
-              Head over to <a href="https://members.yellowco.co/signup">members.yellowco.co/signup</a> to create an account, enter your payment information and that's it! You'll instantly have access to our digital resources and online community. We'd love to have you as a member!
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-header" role="tab" id="headingFour">
-            <p class="mb-0">
-              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
-                What do I get as a Yellow member?
-              </a>
-            </p>
-          </div>
-          <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour">
-            <div class="card-block">
-              You’ll have access to online resources and amazing community both online and in person (for those who are located near an in person chapter). Plus a monthly packet of Yellow goodness delivered to your doorstep.
+<!-- CURRENT THEME SECTION -->
+<!-- {% include current-theme.html %} -->
 
-              Together as creative, entrepreneurial women, we will be using the power of the collective to change the world. Your membership helps Yellow employ youths who are transitioning out of foster care, it helps fund sex-trafficking rescue operations, and it allows Yellow to support other life-changing initiatives taking place across the world!
-            </div>
-          </div>
+<!-- IMPACT FEATURE POST -->
+<div class="row mt-md-5">
+  <div class="col-12">
+    <img src="/assets/images/membership-impact.jpg" class="img-fluid w-100" data-rjs="2" />
+    <div class="container">
+      <div class="row intro-overlay justify-content-center">
+        <div class="intro-content col-11 col-sm-11 col-lg-8 text-center py-4 px-3">
+          <h6>Your membership is making an impact</h6>
+          <p>Your membership helps employ at-risk youth, empower women globally, and supports other initiatives taking place across the world.</p>
+          <a href="#" class="btn btn-primary">View Our Impact</a>
         </div>
       </div>
     </div>
   </div>
 </div>
 
+<!-- FAQ -->
 <div class="container">
-  <div class="row">
-    <div class="col">
-      {% include instagram.html %}
+  <div class="row justify-content-center">
+    <div class="col-12 col-lg-10 col-xl-9">
+      <h2 class="text-center mb-3">Membership FAQ</h2>
+      <div class="card-accordion" role="tablist" aria-multiselectable="true">
+        {% for faq in page.faqs %}
+          <div class="card">
+            <div class="card-header" role="tab" id="heading{% increment faq-heading %}">
+              <p class="mb-0">
+                <a data-toggle="collapse" href="#collapse{% increment collapse-link %}" aria-expanded="false" aria-controls="collapse{% increment collapse-control %}" class="accordion-toggle collapsed">
+                  {{ faq.question }}
+                </a>
+              </p>
+            </div>
+            <div id="collapse{% increment faq-collapse %}" class="collapse" role="tabpanel" aria-labelledby="heading{% increment faq-answer %}">
+              <div class="card-block">
+                {{ faq.answer }}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
     </div>
   </div>
+  <div class="row">
+    <div class="col text-center">
+      <a href="https://fldwrk.help/yellow-co" class="btn btn-sm btn-primary mt-4">More FAQs</a>
+    </div>
+  </div>
+</div>
+
+<div class="container py-2 pt-md-4">
+  {% include instagram.html %}
 </div>

@@ -3,7 +3,7 @@ title: "Rachael Parker-Chavez"
 company_name: Defining Good
 job_title: Founder
 bio_image:
-url: http://www.defininggood.com/
+website: http://www.defininggood.com/
 is_guest: true
 ---
 

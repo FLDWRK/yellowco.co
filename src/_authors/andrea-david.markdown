@@ -3,6 +3,6 @@ title: Andrea David
 company_name:
 job_title:
 bio_image:
-url:
+website:
 is_guest: true
 ---

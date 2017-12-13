@@ -3,7 +3,7 @@ title: Kristi Triplett
 company_name: 
 job_title:
 bio_image:
-url: https://www.instagram.com/kristitriplett/
+website: https://www.instagram.com/kristitriplett/
 is_guest: true
 ---
 

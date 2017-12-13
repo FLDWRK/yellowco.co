@@ -2,8 +2,8 @@
 title: Amy Everhart
 company_name: Amy Everhart Coaching
 job_title: Founder
-bio_image:
-url: http://www.amyeverhartcoaching.com/
+bio_image: "/assets/images/amy-everhart.jpg"
+website: http://www.amyeverhartcoaching.com/
 is_guest: true
 ---
 

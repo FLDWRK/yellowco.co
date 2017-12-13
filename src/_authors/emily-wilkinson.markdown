@@ -3,7 +3,7 @@ title: Emily Wilkinson
 company_name: "Wilkinson & Mazzeo"
 job_title: Founder
 bio_image:
-url: https://www.instagram.com/em_wilkinson/
+website: https://www.instagram.com/em_wilkinson/
 is_guest: true
 ---
 
