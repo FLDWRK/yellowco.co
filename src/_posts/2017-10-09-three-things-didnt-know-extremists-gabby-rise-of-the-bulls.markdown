@@ -2,11 +2,11 @@
 title: "Three Things You Didn't Know About Extremists: Our Talk with Gabby of Rise of the Bulls"
 author: Hanna Snyder
 date: '2017-10-09 04:00:54 -0700'
+series: Come Together
 categories:
-- Come Together
+- Culture
 redirect_from: "/come-together/three-things-didnt-know-extremists-gabby-rise-of-the-bulls/"
-image-feature: "/assets/images/IMG-8271-feature.jpg"
-image-thumb: "/assets/images/IMG-8271.jpg"
+image:
 ---
 
 When we are faced with acts of hate, so many questions arise. How could a human

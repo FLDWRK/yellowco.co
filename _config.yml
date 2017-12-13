@@ -9,8 +9,8 @@ collections:
   series:
     title: Series
     output: true
-  category:
-    title: Category
+  categories:
+    title: Categories
     output: true
   authors:
     title: Authors
@@ -48,7 +48,7 @@ defaults:
     permalink: "/blog/series/:title"
 - scope:
     path: ''
-    type: category
+    type: categories
   values:
     layout: category
     permalink: "/blog/category/:title"
@@ -63,7 +63,7 @@ permalink: pretty
 sass:
   load_paths:
   - ../node_modules
-paginate: 10
+paginate: 9
 paginate_path: "/blog/archive/page:num"
 plugins_dir:
 - jekyll-feed

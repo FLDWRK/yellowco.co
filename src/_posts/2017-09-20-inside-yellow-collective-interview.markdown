@@ -15,25 +15,25 @@ I am Vice President of Operations at [Kidville](http://www.kidville.com/), which
 
 In the summer of 2016, I saw posts from the [Yellow Conference](http://yellowco.co/conference/) and was so moved by the environment, aesthetics, and amazing stories being shared. I literally saved a picture from a mural made at Yellow, and then made a similar one for my own team training!
 
-### **I knew I had to join to explore more of what Yellow had to offer to not only enrich my own life, but give me tools, stories, and inspiration for my team at large.**
+### I knew I had to join to explore more of what Yellow had to offer to not only enrich my own life, but give me tools, stories, and inspiration for my team at large.
 
 [![INSIDE THE YELLOW COLLECTIVE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/03/YCD0062.jpg)](https://yellow-blog-images.imgix.net/2017/03/YCD0062.jpg)
 
-#### **If you could describe your Yellow chapter in one word, what would it be? Why?**
+#### If you could describe your Yellow chapter in one word, what would it be? Why?
 
 ENGAGED! This chapter of women is incredibly engaged in pursuing their passions, making connections, learning from one another, and sharing their unique stories. Their soul lights are ON and you feel like you can truly SEE one another and BE SEEN.
 
-#### **Has being a part of the [Collective](https://yellowcollective.co/) inspired any big changes in your life?**
+#### Has being a part of the [Collective](https://yellowcollective.co/) inspired any big changes in your life?
 
 YES, the Collective has brought me out of hiding. I was building a life in my comfort zone. Joining the Collective was the first of now many steps I have taken out of it. I have made real connections here and sparked a desire to help other women thrive.
 
-#### **What does community mean to you?**
+#### What does community mean to you?
 
 The Yellow community was the door to my future. I am incredibly grateful for that first step through, and have been surrounded by nothing by positivity, encouragement, and FIERCE sisterhood. This community keeps me balanced, while also propelling me forward to a future that is filled with vulnerability, authenticity, and tons of opportunity to FAIL FORWARD!
 
 [![INSIDE THE YELLOW COLLECTIVE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/03/YCD0319-copy.jpg)](https://yellow-blog-images.imgix.net/2017/03/YCD0319-copy.jpg)
 
-#### **What does an evening with the NYC chapter of the [Collective](https://yellowcollective.co/) look like?**
+#### What does an evening with the NYC chapter of the [Collective](https://yellowcollective.co/) look like?
 
 GIRL, it looks amazing! It is one of my favorite nights that I truly look forward to each month. From the outside, it looks like a bunch of old friends having a reunion. From the inside, it is new and old friends connecting, sharing insights, asking questions, laughing, and building one another up!
 
@@ -43,7 +43,7 @@ REAL DEETS: We always supply some drinks (August was Prosecco Popcicles), snacks
 
 Our stories are 100000% what bind us together. I have seen women grow their brands, leave their full time jobs, improve their client intake, re-brand their own brands, pivot their services, hire employees, and MORE.
 
-### **The Yellow Collective has created a space for every woman to join in - whatever season, or spot on her journey she is in.**
+### The Yellow Collective has created a space for every woman to join in - whatever season, or spot on her journey she is in.
 
 ![INSIDE THE YELLOW COLLECTIVE - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/IMG_3860.jpg)_Yellow Collective NYC Chapter_
 
@@ -51,9 +51,9 @@ Our stories are 100000% what bind us together. I have seen women grow their bran
 
 First is my mom! She is the Steel Magnolia of my family. She is the first example of female strength I witnessed and her endless love and encouragement has let my true self thrive each and every day.
 
-Second, would Cheryl Strayed! When I read Wild, I was actually on a trip with my mother and each word I read forever changed my soul. She taught me that we need to accept our imperfections as necessary pillars to fulfilling our true potential.  
+Second, would Cheryl Strayed! When I read Wild, I was actually on a trip with my mother and each word I read forever changed my soul. She taught me that we need to accept our imperfections as necessary pillars to fulfilling our true potential.
 
-Lastly, Brené Brown with her vulnerability realness. The first time I saw [her TED talk](https://www.ted.com/talks/brene_brown_on_vulnerability), my entire world stopped - I realized the power of being vulnerable and seen in the arena. Her message on how to live a whole life is MUST READ content. 
+Lastly, Brené Brown with her vulnerability realness. The first time I saw [her TED talk](https://www.ted.com/talks/brene_brown_on_vulnerability), my entire world stopped - I realized the power of being vulnerable and seen in the arena. Her message on how to live a whole life is MUST READ content.
 
 #### What is the biggest lesson you have learned from your fellow Yellow ladies?
 
@@ -62,5 +62,3 @@ I have learned that REST is just as valuable of a commodity as PRODUCTION. As le
 _Photos by [Marisa Vitale](http://www.marisavitale.com/) and courtesy of [Jennifer Mingucci](https://www.instagram.com/jenwithlime/)_
 
 ### [LIVE IN LA? JOIN US AT OUR YELLOW MEMBERSHIP LAUNCH PARTY TOMORROW NIGHT! DETAILS HERE.](https://www.universe.com/events/yellow-collective-2-0-launch-party-tickets-los-angeles-C4D0K1)
-
-[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/04/HANNA-BIO.jpg)](www.hannasnyder.com)
