@@ -1,0 +1,6 @@
+.credit-card {
+  &.disabled .form-control {
+    background-color: #eceeef;
+    cursor: not-allowed;
+  }
+}

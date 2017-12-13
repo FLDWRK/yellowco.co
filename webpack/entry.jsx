@@ -4,7 +4,12 @@ import $ from 'jquery';
 import 'bootstrap';
 import 'bigslide';
 import 'fotorama/fotorama';
+import axios from 'axios';
+import { StripeProvider } from 'react-stripe-elements';
 import Instagram from './components/instagram';
+import PurchaseGift from './components/purchase-gift';
+
+axios.defaults.baseURL = `${process.env.FLDWRK_API_URL || ''}`;
 
 $('.nav-site .navbar-toggler').bigSlide({
   menu: '.nav-mobile',
@@ -21,3 +26,11 @@ $('[data-toggle="tooltip"]').tooltip();
 
 if (document.getElementById('instagram'))
   render(<Instagram />, document.getElementById('instagram'));
+
+if (document.getElementById('purchase-gift'))
+  render(
+    <StripeProvider apiKey={process.env.STRIPE_PUBLISHABLE_KEY}>
+      <PurchaseGift />
+    </StripeProvider>,
+    document.getElementById('purchase-gift')
+  );
