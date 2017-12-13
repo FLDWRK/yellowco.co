@@ -1,6 +1,11 @@
 .card-price {
   margin-bottom: 1rem;
   border: 3px solid $brand-primary;
+  transition: all 0.3s ease 0s;
+
+  &:hover {
+    background-color: $brand-primary;
+  }
 
   .card-block {
     padding: 2rem 1rem;
