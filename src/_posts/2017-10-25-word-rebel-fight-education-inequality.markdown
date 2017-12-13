@@ -2,8 +2,9 @@
 title: 'Why Words Are the #1 Way to Fight Education Inequality'
 author: Jackie Viramontez
 date: '2017-10-25 04:00:14 -0700'
+series: Come Together
 categories:
-- Come Together
+- Culture
 redirect_from: "/come-together/word-rebel-fight-education-inequality/"
 image: "https://yellow-blog-images.imgix.net/2017/10/HJ-Kaleidos-059-1.jpg"
 ---
@@ -128,5 +129,3 @@ day”._ It is so perfectly symbolic.
 
 _Photos by: [Eun Creative](http://www.euncreative.com/) and
 [Cacá Santoro](http://cacasantoro.com/)_
-
-[![JACKIE VIRAMONTEZ BIO](https://yellow-blog-images.imgix.net/2017/04/JACKIE-BIO.jpg)](https://www.amazon.com/dp/1683502809/ref=asc_df_16835028095085146?smid=ATVPDKIKX0DER&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_455-20;15012125790140187802310070301008005&linkCode=df0&creative=395093&creativeASIN=1683502809)

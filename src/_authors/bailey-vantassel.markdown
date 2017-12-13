@@ -2,7 +2,7 @@
 title: Bailey Van Tassel
 company_name: Abel Impact
 job_title: Founder
-bio_image:
+bio_image: "/assets/images/bailey-van-tassel.jpg"
 website: http://www.abelimpact.com/about/
 is_guest: true
 ---

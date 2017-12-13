@@ -2,8 +2,9 @@
 title: "How Crowdfunding Creates Families: World Adoption Day Founder"
 author: Hanna Snyder
 date: '2017-10-30 04:00:43 -0700'
+series: Come Together
 categories:
-- Come Together
+- Culture
 redirect_from: "/come-together/crowdfunding-creates-families-interview-hank-fortener-adopt-together/"
 image: "https://yellow-blog-images.imgix.net/2017/10/IMG_8271.jpg"
 ---

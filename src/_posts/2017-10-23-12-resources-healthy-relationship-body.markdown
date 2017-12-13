@@ -3,6 +3,7 @@ title: 12 Resources in Intuitive Eating & Having a Healthy Relationship With You
   Body
 author: Lauren Cash
 date: '2017-10-23 04:00:41 -0700'
+series: Come Together
 categories:
 - Come Together
 redirect_from: "/come-together/12-resources-healthy-relationship-body/"
@@ -135,31 +136,31 @@ Amazing podcast by another dietitian and nutrition therapist along with the help
 of many guest experts, listeners write in like they are writing to food, and
 food “writes” back.
 
-#### **8. [Dietitians Unplugged](https://itunes.apple.com/us/podcast/dietitians-unplugged-podcast/id1044293380?mt=2) **
+#### 8. [Dietitians Unplugged](https://itunes.apple.com/us/podcast/dietitians-unplugged-podcast/id1044293380?mt=2)
 
 Two dietitians tell it like it is on their podcast covering topics including
 body positivity and advocacy for people of all body sizes.
 
-### **Videos**
+### Videos
 
-#### **9. [Poodle Science](https://youtu.be/H89QQfXtc-k) **
+#### 9. [Poodle Science](https://youtu.be/H89QQfXtc-k)
 
 Straight-forward explanation about one of the major arguments of the Health At
 Every Size community about health’s relationship to body size.
 
-#### **10. [Comfortable](https://youtu.be/f0tEcxLDDd4) **
+#### 10. [Comfortable](https://youtu.be/f0tEcxLDDd4)
 
 Eye-opening video about how we develop our negative thoughts and feelings about
 our bodies, they are not innate.
 
-### **Articles**
+### Articles
 
-#### **11. [Why We Fell for Clean Eating](https://www.theguardian.com/lifeandstyle/2017/aug/11/why-we-fell-for-clean-eating)**
+#### 11. [Why We Fell for Clean Eating](https://www.theguardian.com/lifeandstyle/2017/aug/11/why-we-fell-for-clean-eating)
 
 This piece does an excellent job explaining the issue with the clean eating
 movement and how it can be problematic for making peace with food.
 
-#### **12. [Losing It in the Anti-Dieting Age](https://www.nytimes.com/2017/08/02/magazine/weight-watchers-oprah-losing-it-in-the-anti-dieting-age.html?mcubz=3) **
+#### 12. [Losing It in the Anti-Dieting Age](https://www.nytimes.com/2017/08/02/magazine/weight-watchers-oprah-losing-it-in-the-anti-dieting-age.html?mcubz=3)
 
 Written from the experience of an author in a larger body who has been on many
 diets herself, much of the Weight Watchers history is explored, as well as
@@ -167,5 +168,3 @@ exposing our still weight-biased culture despite our change of language from
 “diet” to “lifestyle.”
 
 _Photos by: [Amy Hulst](https://www.instagram.com/amyhulstforpresident/)_
-
-[![LAUREN CASH BIO](https://yellow-blog-images.imgix.net/2016/03/LAUREN-CASH-BIO.jpg)](https://laurencashrdn.com/)

@@ -1,16 +1,17 @@
-#accordion {
+.card-accordion {
   .card {
     border: none;
+    border-bottom: 1px solid $brand-primary;
   }
 
   .card-header {
     background-color: transparent;
     font-size: 1.25rem;
-    border-bottom: 1px solid $brand-primary;
     padding: 1rem 1.25rem;
+    border: none;
 
     a {
-      border-bottom: none;
+      border-bottom: none !important;
       line-height: 1.4;
       display: block;
     }
@@ -25,17 +26,13 @@
 
     .accordion-toggle:after {
       font-family: 'FontAwesome';
-      color: $gray;
-      content: '';
+      color: $gray-light;
+      content: '';
       float: right;
     }
 
     .accordion-toggle.collapsed:after {
-      content: '';
+      content: '';
     }
-  }
-
-  .card-block {
-    border-bottom: 1px solid $brand-primary;
   }
 }

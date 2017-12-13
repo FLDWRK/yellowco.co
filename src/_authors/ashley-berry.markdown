@@ -2,7 +2,7 @@
 title: Ashley Berry
 company_name:
 job_title:
-bio_image:
+bio_image: "/assets/images/ashley-berry.jpg"
 website: http://helloashleyberry.com/
 is_guest: true
 ---

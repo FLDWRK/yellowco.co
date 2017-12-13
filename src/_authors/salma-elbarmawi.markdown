@@ -2,7 +2,7 @@
 title: Salma Elbarmawi
 company_name: Thoughtful Catalog
 job_title:
-bio_image:
+bio_image: "/assets/images/salma-elbarmawi.jpg"
 website: https://thoughtcatalog.com/salma-elbarmawi/
 is_guest: true
 ---

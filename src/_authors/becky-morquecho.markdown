@@ -2,7 +2,7 @@
 title: Becky Morquecho
 company_name: IdeaLust
 job_title: Founder
-bio_image:
+bio_image: "/assets/images/becky-morquecho.jpg"
 website: http://idealustlife.com/
 is_guest: true
 ---

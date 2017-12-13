@@ -6,6 +6,9 @@ exclude: ['node_modules']
 source: src
 destination: public
 collections:
+  series:
+    title: Series
+    output: true
   category:
     title: Category
     output: true
@@ -36,6 +39,13 @@ defaults:
       site:
         highlight: blog
     excerpt_separator: "<!-- more -->"
+- scope:
+    path: ''
+    type: series
+  values:
+    layout: series
+    series:
+    permalink: "/blog/series/:title"
 - scope:
     path: ''
     type: category

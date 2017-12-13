@@ -30,19 +30,30 @@ layout: page
         {% assign author = site.authors | where:"title",page.author | first %}
         {% if author.bio_image %}
           <div class="col-sm-4 col-lg-3">
-            <img class="rounded-circle img-fluid mb-4" src="{{ author.bio_image }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
+            <a href="/author/{{ page.author | slugify }}" class="no-underline">
+              <img class="img-fluid mb-4" src="{{ author.bio_image }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
+            </a>
           </div>
           <div class="col-sm-8 col-lg-9">
         {% else %}
           <div class="col-12">
         {% endif %}
-          <h4 class="name">{{ author.title }}</h4>
+          <h4 class="name">
+            {{ author.title }}
+            {% if author.website %}
+              <a href="{{ author.website }}" target="_blank" class="no-underline">
+                <small class="text-muted">
+                  <i class="fa fa-external-link" aria-hidden="true"></i>
+                </small>
+              </a>
+            {% endif %}
+          </h4>
           {% if author.job_title %}
-            <h5 class="title">{{ author.job_title }}
+            <h6 class="title">{{ author.job_title }}
             {% if author.company_name %}
               at {{ author.company_name }}
             {% endif %}
-            </h5>
+          </h6>
           {% endif %}
           {% if author.content %}
             {{ author.content | markdownify }}
