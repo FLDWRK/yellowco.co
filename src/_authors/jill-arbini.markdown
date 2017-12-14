@@ -2,7 +2,7 @@
 title: Jill Arbini
 company_name: FLDWRK
 job_title: Communications Manager
-bio_image:
+bio_image: "/assets/images/jill-arbini.jpg"
 website: https://fldwrk.io/
 is_guest: true
 ---

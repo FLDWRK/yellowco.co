@@ -4,6 +4,7 @@ author: Jessica Whalen
 date: '2017-09-18 04:00:14 -0700'
 categories:
 - Tension
+image: "https://yellow-blog-images.imgix.net/2017/09/1T5A8707.jpg"
 redirect_from: "/tension/finding-community-crave-introvert/"
 ---
 

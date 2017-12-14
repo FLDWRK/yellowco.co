@@ -4,6 +4,7 @@ author: Jess Ekstrom
 date: '2017-09-15 04:00:44 -0700'
 categories:
 - Tension
+image: "https://yellow-blog-images.imgix.net/2017/09/amandagnwn.jpg"
 redirect_from: "/tension/headbands-hope-making-impact-one-child-time-giveaway/"
 ---
 

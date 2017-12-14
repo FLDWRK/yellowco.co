@@ -1,9 +1,10 @@
 ---
-title: "Doing What You Can: Where You are Can Change the World"
+title: "Doing What You Can: Where You Are Can Change the World"
 author: Francesca Willow
 date: '2017-09-06 04:00:12 -0700'
 categories:
-- Tension
+- Entrepreneurs
+image: "https://yellow-blog-images.imgix.net/2017/09/BeBangles-Summer2016-033.jpg"
 redirect_from: "/tension/much-worth-giving-energy-draft/"
 ---
 
@@ -18,7 +19,7 @@ balance this tension. There are brilliant moments when we see the beautiful pote
 and everyone in it, but that hope is rivaled by watching things moving in a direction we wish we
 could change. It’s easy to feel completely helpless, small, and insignificant.
 
-### **But every revolution doesn’t have to look like an instant upheaval, and every gesture that makes the world a better place doesn’t have to be grand.**
+### But every revolution doesn’t have to look like an instant upheaval, and every gesture that makes the world a better place doesn’t have to be grand.
 
 Sometimes the greatest changes come from the small moments: putting pen to paper, a building block,
 a first step. It's easy to think that we can only be heard if we're constantly protesting in the
@@ -54,7 +55,7 @@ alternatives that empower women, pay workers fairly, and don’t harm the enviro
 relationship, but the common factor is that both women do what they can, with what they have, where
 they are.
 
-### **Empowerment, entrepreneurship, and impact look different for everyone, but what connects the three is ownership.**
+### Empowerment, entrepreneurship, and impact look different for everyone, but what connects the three is ownership.
 
 When a woman is empowered she doesn’t feel helpless. Instead, she can confidently seek out solutions
 by looking at the skills she already has. She can step into entrepreneurship that works for her,
@@ -70,7 +71,7 @@ that start to add up, which then enable me to make bigger changes as time passes
 
 ![DOING WHAT YOU CAN, WHERE YOU ARE CAN CHANGE THE WORLD - THE YELLOW ROOM](https://yellow-blog-images.imgix.net/2017/09/BeBangles-Summer2016-029.jpg)
 
-### **I stopped feeling powerless and paralyzed by the problems when I started moving at a pace that was achievable.**
+### I stopped feeling powerless and paralyzed by the problems when I started moving at a pace that was achievable.
 
 There is so much work to be done, we can all see that, but the best way to begin dismantling
 injustice is taking the first step, no matter how small it may feel. Seek out what makes you feel
@@ -90,5 +91,3 @@ if you don’t fit into these categories that’s okay. You can still change the
 backyard. All you have to do is decide how you’ll do it.
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
-
-[![FRANCESCA WILLOW BIO](https://yellow-blog-images.imgix.net/2017/09/FRANCESCA-WILLOW-BIO.jpg)](http://ethicalunicorn.com/)
