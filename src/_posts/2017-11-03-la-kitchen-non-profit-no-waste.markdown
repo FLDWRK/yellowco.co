@@ -22,7 +22,7 @@ The last time that I went to jail, I was confronted with a judge that told me I 
 
 So I did everything that was ordered. I went to outpatient drug programming. I went to meetings at night. I had community service. Every day of the week I had something I had to do. I did that for eight months, and got all my cases got closed out. It actually would have taken four years, but I did it in eight months.
 
-![HOW THIS NON-PROFIT MAKES SURE NOTHING (AND NO ONE) GOES TO WASTE - YELLOW CO. ](http://yellowco.co/wp-content/uploads/2017/11/DSC_55046761disco.jpg)
+![HOW THIS NON-PROFIT MAKES SURE NOTHING (AND NO ONE) GOES TO WASTE - YELLOW CO. ](https://yellow-blog-images.imgix.net/2017/11/DSC_55046761disco.jpg)
 
 #### **How did you hear of L.A. Kitchen in the midst of this?**
 
@@ -38,7 +38,7 @@ When I started school, I was 52 years old. So I was really, really worried about
 
 [Empower LA](http://www.lakitchen.org/empower-la/) is the culinary training program; the program that I went through. They also have a life skills class, and you have a counselor on staff. All the students are different - their situations or circumstances. L.A. Kitchen helps you all the way, so you really don't have a problem of getting through. They supply transportation, they supply the uniforms, they supply the education, they supply your lunch. _I think you can do it_, you know what I’m saying? Everything that they have set up for the students is just awesome.
 
-![HOW THIS NON-PROFIT MAKES SURE NOTHING (AND NO ONE) GOES TO WASTE - YELLOW CO. ](http://yellowco.co/wp-content/uploads/2017/11/36599923662_d6bbd6217a_k-1.jpg)
+![HOW THIS NON-PROFIT MAKES SURE NOTHING (AND NO ONE) GOES TO WASTE - YELLOW CO. ](https://yellow-blog-images.imgix.net/2017/11/36599923662_d6bbd6217a_k-1.jpg)
 
 [Strong Food](http://www.lakitchen.org/strong-food/) is the profit of L.A. Kitchen. We have contracts with different places to sell the food products we make. Right now they're making beet chips and baby food. I started in Strong Foods - I would take a recipe for four people and convert it into a recipe for a thousand. I did that for about a year, and then I was transferred to the Impact department, where I’m the Lead Cook.
 
@@ -54,7 +54,7 @@ I'm very satisfied on a _daily basis_. Every day that I work is a day closer to 
 
 Every day, I show a volunteer how not to waste food. If that information goes from me to another person, then that person takes it to another person, the word gets out. And I do see more on social media about programs of helping not to waste food. Everybody's trying to work together to solve this problem.
 
-![HOW THIS NON-PROFIT MAKES SURE NOTHING (AND NO ONE) GOES TO WASTE - YELLOW CO. ](http://yellowco.co/wp-content/uploads/2017/11/LA-Kitchen-culinary-school-graduates-megan-witt-photo-76.jpg)
+![HOW THIS NON-PROFIT MAKES SURE NOTHING (AND NO ONE) GOES TO WASTE - YELLOW CO. ](https://yellow-blog-images.imgix.net/2017/11/LA-Kitchen-culinary-school-graduates-megan-witt-photo-76.jpg)
 
 #### **What kinds of impact have you seen on the lives of those participating in the Empower program?**
 
@@ -74,7 +74,7 @@ I think being grateful. Not just being grateful for what somebody has done for y
 
 If you pay attention to the broader picture, you hear of people coming together with food, say at a picnic in a park. And nobody's family. You have all these different people that come together and it's this happy event. It’s the humanity of it.
 
-![HOW THIS NON-PROFIT MAKES SURE NOTHING (AND NO ONE) GOES TO WASTE - YELLOW CO. ](http://yellowco.co/wp-content/uploads/2017/11/LA-Kitchen-culinary-school-graduates-megan-witt-photo-88-1-2.jpg)_Theresa pictured above_
+![HOW THIS NON-PROFIT MAKES SURE NOTHING (AND NO ONE) GOES TO WASTE - YELLOW CO. ](https://yellow-blog-images.imgix.net/2017/11/LA-Kitchen-culinary-school-graduates-megan-witt-photo-88-1-2.jpg)_Theresa pictured above_
 
 #### **It sounds like you have an incredibly diverse group of volunteers from different ages groups, cultural communities, and backgrounds. What kind of ripple effect of its own do you see this create?**
 

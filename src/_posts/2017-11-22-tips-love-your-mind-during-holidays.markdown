@@ -18,7 +18,7 @@ Did you know that you don't actually have to go to every social engagement? I kn
 
 A lot of people struggle with their relationship with food around the holidays, throwing all sense of reason out the window. With extra parties and more fun food to go around, normalized eating goes sideways. Plan for regular meals and snacks, and try your best to keep your meals consistent with what you are used to during the rest of the year. Don't skip meals and snacks to “save up” for meals at parties. Doing this will increase your hunger, and your ability to make reasonable food choices will be more challenging. Enjoy the foods offered, and if you tend to struggle more with food and body issues, seek support this season.
 
-![7 TIPS TO SHOW SOME LOVE TO YOUR MIND DURING THE HOLIDAYS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/YellowFinal2-01.png)
+![7 TIPS TO SHOW SOME LOVE TO YOUR MIND DURING THE HOLIDAYS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/YellowFinal2-01.png)
 
 #### **3\. Commit to making sleep a priority.**
 
@@ -28,7 +28,7 @@ We all know that we tend to get more irritable and cranky when we don't get enou
 
 Don't throw your movement routine out the window, even though it tends to be the first thing to go when a schedule gets filled up. Regular, joyful movement helps to decrease stress and improve mood. If you're in an area of the country where you can get outside to get some vitamin D, even better!
 
-![7 TIPS TO SHOW SOME LOVE TO YOUR MIND DURING THE HOLIDAYS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/YellowFinal1-01-1.png)
+![7 TIPS TO SHOW SOME LOVE TO YOUR MIND DURING THE HOLIDAYS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/YellowFinal1-01-1.png)
 
 #### **5\. Manage your mind.**
 
@@ -38,7 +38,7 @@ We brush our teeth before they start to decay, but we often don't take care of 
 
 We can easily get distracted by our own stressors that we forget what all we have to be thankful for. Every morning, you can do a thought-download and find a way to reframe one stressor into a thankful thought. If you are stressed about getting all of your gifts purchased on time or within budget, maybe reframe that to being grateful that you have people you love in your life, and resources to be able to give them gifts this year. If you're stressed with how many parties you're invited to and how to say no, be grateful for friends and the opportunities to connect. Even if you feel like your circumstances are not the best, you can find a way to practice gratitude. I dare you.
 
-![7 TIPS TO SHOW SOME LOVE TO YOUR MIND DURING THE HOLIDAYS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/YellowFinal3-01.png)
+![7 TIPS TO SHOW SOME LOVE TO YOUR MIND DURING THE HOLIDAYS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/YellowFinal3-01.png)
 
 #### **7\. Utilize positive coping skills.**
 

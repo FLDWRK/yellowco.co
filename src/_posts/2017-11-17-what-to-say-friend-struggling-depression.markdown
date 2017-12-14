@@ -18,7 +18,7 @@ I've been on both ends of the spectrum, as the depressed and the cheerleader try
 
 The torment of depression that many women face is the feeling that your life is much better off than someone else's, so to be depressed means you are being ungrateful and out of touch with the real world. I carried that torment for the four years that I suffered from depression, and I wondered if that was the reason that people were unable to support me in the way that I thought they should. What did I want from my friends? I wanted attention towards my hurt, and I wanted a way out of it.
 
-![WONDERING WHAT TO SAY TO A FRIEND STRUGGLING WITH DEPRESSION? READ THIS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/1T5A4040.jpg)
+![WONDERING WHAT TO SAY TO A FRIEND STRUGGLING WITH DEPRESSION? READ THIS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/1T5A4040.jpg)
 
 As a cheerleader, I've discovered the best ways that I can serve my friends in love and support for their freedom from depression. I've learned that I can be present as a friend and not become consumed with the pressures that are mounting in their lives. It is never easy to be an anchor for your friends while they expose their pain and struggle, but your presence can be the difference between life or death. If your friend is struggling with depression, here are five ways that you can help your friend overcome it:
 
@@ -36,7 +36,7 @@ Many people dealing with depression are overwhelmed by a number of emotional set
 
 Yes, it's tough to see your friend suffering without wanting to save them from their demise. But you must remember that you are not responsible for your friend's decisions. You can help influence the way that they approach life, but you cannot force your friend to make choices. Give your friend the best support you can without making their problems your own. Offer to help your friend locate a counselor, or create special moments of significance that display friendship and communicate love and support. A walk in the park, an "I love you" dinner, or a movie and pampering night are all great ways to do this.
 
-![WONDERING WHAT TO SAY TO A FRIEND STRUGGLING WITH DEPRESSION? READ THIS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/1T5A4057.jpg)
+![WONDERING WHAT TO SAY TO A FRIEND STRUGGLING WITH DEPRESSION? READ THIS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/1T5A4057.jpg)
 
 #### Look for ways to bring joy to her life.
 

@@ -24,7 +24,7 @@ Leaders influence their world with tiny actions and interactions, as well as lar
 
 To up your empathy in conversations with people on the other side of issues you care about, try these four approaches.
 
-![4 WAYS TO EXERCISE EMPATHY IN CONTROVERSIAL CONVERSATIONS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/Yellow_2015_Dinner-10.jpg)
+![4 WAYS TO EXERCISE EMPATHY IN CONTROVERSIAL CONVERSATIONS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/Yellow_2015_Dinner-10.jpg)
 
 ### **1\. Trade judgment for curiosity.**
 
@@ -38,7 +38,7 @@ Build on your newfound spirit of curiosity by asking the other person questions 
 
 **What this sounds like:** _"I'm curious to hear more about your opinions on this. What are your biggest beliefs about privilege?"_
 
-![4 WAYS TO EXERCISE EMPATHY IN CONTROVERSIAL CONVERSATIONS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/Yellow_2015_Dinner-69.jpg)
+![4 WAYS TO EXERCISE EMPATHY IN CONTROVERSIAL CONVERSATIONS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/Yellow_2015_Dinner-69.jpg)
 
 ### **3\. Acknowledge and validate.**
 

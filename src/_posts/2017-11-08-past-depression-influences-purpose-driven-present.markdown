@@ -20,7 +20,7 @@ Depression for me began when I was in college. It was terrifying back when it st
 
 For me, anxiety rears its ugly head when I am in times of life transition. Knowing this helps me to be aware when it comes, but I can’t stop the feelings entirely from appearing and fading. I never could quite figure out how to remove times of transition in life (ha!). As an entrepreneurial type, it seems almost impossible that I will ever be able to stay away from adventure. I always let transition sneak its way back in — I went back to college, graduated, sailed around the world on a mega yacht, met a Norwegian man, experienced cut-throat corporate America, married the Norwegian man, quit the corporate gig, moved to Norway, started a company, and the list goes on.
 
-![HOW MY PAST WITH DEPRESSION INFLUENCES MY PURPOSE-DRIVEN PRESENT - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/IMG_3853.jpg)
+![HOW MY PAST WITH DEPRESSION INFLUENCES MY PURPOSE-DRIVEN PRESENT - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/IMG_3853.jpg)
 
 These moments of change bring a certain level of anxiety with them from time to time, but they have also taught me powerful lessons that I can use for good. I find joy in using these experiences, both good and bad, to weave into the mission and personality of my purpose-driven work.
 

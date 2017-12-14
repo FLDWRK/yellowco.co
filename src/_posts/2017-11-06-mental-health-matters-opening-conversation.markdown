@@ -18,7 +18,7 @@ Within our culture, there can be pressure to only show a highlight reel, maintai
 
 What perhaps is more striking is that even though anxiety and depression are highly treatable, many are without help. Only 36.9% of those suffering with anxiety alone receive treatment - barely over one third. And as women, we are twice as likely to be affected by generalized anxiety disorder than men ([ADAA](https://adaa.org/about-adaa/press-room/facts-statistics)). It’s easy to go down this statistics rabbit hole and want to throw our hands up in helplessness.
 
-![MENTAL HEALTH MATTERS: WHY WE'RE OPENING UP THE CONVERSATION IN OUR NEW SERIES - YELLOW CO. ](http://yellowco.co/wp-content/uploads/2017/11/0P7A97992-Edit-1.jpg)
+![MENTAL HEALTH MATTERS: WHY WE'RE OPENING UP THE CONVERSATION IN OUR NEW SERIES - YELLOW CO. ](https://yellow-blog-images.imgix.net/2017/11/0P7A97992-Edit-1.jpg)
 
 ### **But is it possible we could simultaneously recognize the weight of this need we must address, and see potential in the fact that there _is_ something that can be done?**
 

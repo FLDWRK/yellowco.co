@@ -32,7 +32,7 @@ yet within our whisper
 the language of our actions  
 can be heard ‘round the world
 
-![CONSCIOUS LIVING: THE POWERFUL POTENTIAL WE HAVE TO CREATE THE WORLD WE DREAM OF - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/yellow-2-1.jpg)
+![CONSCIOUS LIVING: THE POWERFUL POTENTIAL WE HAVE TO CREATE THE WORLD WE DREAM OF - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/yellow-2-1.jpg)
 
 The ripple effect. It can be equally as hopeful as it is harrowing. Just as the dreams of one can inspire the courage of many, the actions of another can harm without ever knowing it. In so many areas of life, we see the impact of the small but gradual. We listen to our words build others up, watch habits of healthy living change our very bodies, and feel the care we give to our minds help heal our souls.
 

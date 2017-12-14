@@ -18,7 +18,7 @@ I felt a ton of shame when I started going to therapy. My narrow, teenage view t
 
 When I began to seek therapy, I needed two things. The first was a trusted voice of reason to tell me that going to therapy was beautiful and brave; that if I continued to follow this bravery, I would live a life of purpose, impact, and authenticity. I thought it was a crutch I needed because I was weak, but in reality, it was a strengthening gateway toward a truer self. I needed to know that I wasn't alone. The second was an outline of how to find the right therapist, along with additional resources to aid me in my process of healing. My goal in writing this is that it is both of those for you. Here are a few resources to help get you started:
 
-![THE TRUTH ABOUT THERAPY: WHAT TO KNOW IF YOU'RE HAVING DOUBTS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/Dreamer-20.jpg)
+![THE TRUTH ABOUT THERAPY: WHAT TO KNOW IF YOU'RE HAVING DOUBTS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/Dreamer-20.jpg)
 
 #### [**Psychology Today**](https://www.psychologytoday.com/)
 
@@ -28,7 +28,7 @@ This is one of the largest digital platforms talking about mental health today. 
 
 [Headspace](https://www.psychologytoday.com/) is a digital platform that provides guided meditation for its users. The app is free and extremely accessible, offering variety from one-minute guided meditation sessions, 10-minute guided meditations, and specific series geared toward anxiety, relationships, rest, and more. It's free to download and use, and easy to implement into daily life. Co-founder and narrator of the sessions on the app, Andy Puddicombe, gave a Ted Talk about the positive effects of meditation and how it changed his life. [Check it out here!](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes)
 
-![THE TRUTH ABOUT THERAPY: WHAT TO KNOW IF YOU'RE HAVING DOUBTS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/Dreamer-17.jpg)
+![THE TRUTH ABOUT THERAPY: WHAT TO KNOW IF YOU'RE HAVING DOUBTS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/Dreamer-17.jpg)
 
 #### [**Talkspace**](https://www.talkspace.com/)
 

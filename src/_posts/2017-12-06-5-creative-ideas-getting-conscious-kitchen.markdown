@@ -18,7 +18,7 @@ In fact, the easy thing is to stick with the default: mindless consumption. We c
 
 Being a conscious consumer requires work. But I've also discovered that there are rewards to be reaped from it. The constraints I have put on my consumption opened a new outlet for creative expression. In the past, I fed myself a narrative that I wasn't "creative" because I had never been good at things like drawing or design. I hadn't yet uncovered the infinite ways in which creativity can manifest.
 
-![5 CREATIVE IDEAS FOR GETTING CONSCIOUS IN THE KITCHEN - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/3I5A1573-2.jpg)
+![5 CREATIVE IDEAS FOR GETTING CONSCIOUS IN THE KITCHEN - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/3I5A1573-2.jpg)
 
 ### **In time, rather than seeing constraints as a hindrance to creativity, I came to see them as a catalyst.**
 
@@ -36,7 +36,7 @@ Before greens go bad, throw ‘em into a smoothie. It's an easy way to get a fib
 
 If you've waited too long to make that smoothie, freeze your greens (or other veggies). They make for the best stir fry. Or better yet, sauté and season your favorite dish, and THEN freeze it! [The flavors will come out even more when you reheat.](https://www.forbes.com/sites/nadiaarumugam/2011/11/23/the-science-of-leftovers-why-they-taste-so-good/#77e895127d27)
 
-![5 CREATIVE IDEAS FOR GETTING CONSCIOUS IN THE KITCHEN - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/3I5A1592.jpg)
+![5 CREATIVE IDEAS FOR GETTING CONSCIOUS IN THE KITCHEN - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/3I5A1592.jpg)
 
 #### **3\. Get inspired.**
 
