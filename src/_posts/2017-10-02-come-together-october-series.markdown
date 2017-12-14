@@ -2,9 +2,11 @@
 title: 'Come Together: October Series'
 author: Hanna Snyder
 date: '2017-10-02 04:00:20 -0700'
+series: Come Together
 categories:
-- Come Together
+- Culture
 redirect_from: "/come-together/9681/"
+image:
 ---
 
 **You, you’re a revolution.**\
@@ -60,5 +62,3 @@ strangers you pass on the street. Open your imagination to the possibilities to 
 our diversity, put each other first.
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
-
-[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/10/HANNA-BIO-new-2.jpg)](http://hannasnyder.com)

@@ -2,8 +2,9 @@
 title: Why All Freelancers Should Join a Co-Working Space
 author: Bailey Van Tassel
 date: '2017-10-11 04:00:32 -0700'
+series: Come Together
 categories:
-- Come Together
+- Entrepreneurs
 redirect_from: "/come-together/why-freelancers-should-join-co-working-space/"
 image: "https://yellow-blog-images.imgix.net/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-4-1320x867.jpg"
 ---
@@ -18,4 +19,6 @@ The co-working model was… working. What happened was not revolutionary, but wa
 
 ### It’s about more than just a desk you can go to - it allows those of us mad enough to chase the wild passions we have do so in a space designed and meant for us.
 
-It’s about support and drip coffee, and people knowing and loving what you do, whether you 'make it' or not. It’s about cultivating that pursuit. In an era where freelancing and side gigging is becoming an overwhelming norm, I bet we’ll see more of these brilliant hives pop up, nurturing all the people buzzing around with their dreams. I for one have seen my business and personal identity as an entrepreneur thrive within a co-working space, and highly recommend you find your _Cheers_ of a work home - it’s out there! For more information on [FLDWRK](https://fldwrk.io/), and their many programs including the start-up incubator, go to [_fldwrk.io_](https://fldwrk.io/) _Photos by [Iron and Fern](http://ironandfern.com/) of [FLDWRK](https://fldwrk.io/)_ [![BAILEY VAN TASSEL BIO](https://yellow-blog-images.imgix.net/2017/04/BAILEY-VAN-TASSEL-BIO-new.jpg)](http://www.abelimpact.com/about/)
+It’s about support and drip coffee, and people knowing and loving what you do, whether you 'make it' or not. It’s about cultivating that pursuit. In an era where freelancing and side gigging is becoming an overwhelming norm, I bet we’ll see more of these brilliant hives pop up, nurturing all the people buzzing around with their dreams. I for one have seen my business and personal identity as an entrepreneur thrive within a co-working space, and highly recommend you find your _Cheers_ of a work home - it’s out there! For more information on [FLDWRK](https://fldwrk.io/), and their many programs including the start-up incubator, go to [_fldwrk.io_](https://fldwrk.io/)
+
+_Photos by [Iron and Fern](http://ironandfern.com/) of [FLDWRK](https://fldwrk.io/)_

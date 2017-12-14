@@ -10,26 +10,27 @@ layout: page
   </div>
 </div>
 
-<div class="card-columns">
-  {% for post in site.series[page.series] %}
-    <div class="card">
-      {% if post.image %}
-        <a href="{{ post.url }}" class="_no-underline">
-          <img src="{{ post.image }}?w=450&h=300&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}">
-        </a>
-      {% endif %}
-      <div class="card-block">
-        <h6 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h6>
-        {% assign author = site.authors | where:"title",post.author | sample %}
-        <div class="text-muted">
-          <em><small>
-            {% if post.author %}
-              {{ author.title }}&nbsp;|&nbsp;
-            {% endif %}
-            {{ post.date | date:"%B %e, %Y" }}
-          </small></em>
+<div class="row">
+  <div class="col-12">
+    {% assign posts = site.posts | where: 'series', page.title %}
+    <div class="card-columns">
+      {% for post in posts %}
+        <div class="card">
+          <a href="{{ post.url }}" class="_no-underline">
+          {% if post.image %}
+            <img src="{{ post.image }}?w=450&h=300&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}">
+          {% else %}
+            <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=300&fit=crop" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2" />
+          {% endif %}
+          </a>
+          <div class="card-block">
+            <h6 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h6>
+            <div class="text-muted mb-3">
+              <em><small>{{ post.date | date:"%B %e, %Y" }}</small></em>
+            </div>
+          </div>
         </div>
-      </div>
+      {% endfor %}
     </div>
-  {% endfor %}
+  </div>
 </div>

@@ -9,7 +9,7 @@ redirect_from: "/tension/authenticity-yellow-collective-membership-party/"
 
 _“You’ve got this Allie. You can take on LA tonight...”_
 
-### **Amongst the social and logistical anxiety, I had been giving myself a pep talk all week.**
+### Amongst the social and logistical anxiety, I had been giving myself a pep talk all week.
 
 The Membership Launch Party was the first Yellow event I got to attend as a [Yellow Collective member](http://yellowco.co/membership/). I didn’t know what to expect, but I was excited and nervous all at the same time.
 
@@ -41,7 +41,5 @@ I’m so looking forward to connecting with my local Orange County chapter of th
 
 ##### Interested in being a part of or helping out with next year's Yellow tour? Get in touch with our Operations Coordinator, Kacy, at: kacy@fldwrk.io
 
-_Photos by: [Alandra Chavarria  ](https://www.lepetitenoir.com/)__[  
+_Photos by: [Alandra Chavarria  ](https://www.lepetitenoir.com/)\_\_[  
 ](https://www.instagram.com/alandramichelle/)_
-
-[![Allie Fleming Bio](https://yellow-blog-images.imgix.net/2017/09/Allie-Fleming-Bio.jpg)](https://www.cheerfull.co/)

@@ -11,9 +11,15 @@ layout: page
         &nbsp;|&nbsp;
         {{ page.date | date:"%B %e, %Y" }}
         &nbsp;|&nbsp;
-        <a href="/blog/category/{{ page.categories | first | slugify }}" class="no-underline">
+        {% if page.series %}
+          <a href="/blog/series/{{ page.series | slugify }}" class="no-underline">
+            {{ page.series }}
+          </a>
+        {% else %}
+          <a href="/blog/category/{{ page.categories | first | slugify }}" class="no-underline">
           {{ page.categories | first }}
         </a>
+        {% endif %}
       </p>
     </header>
     {% if page.image %}

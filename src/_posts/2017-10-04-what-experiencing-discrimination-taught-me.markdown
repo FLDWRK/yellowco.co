@@ -2,9 +2,11 @@
 title: What Experiencing Discrimination Taught Me About Skepticism
 author: Chantelle Gibbs
 date: '2017-10-04 04:00:24 -0700'
+series: Come Together
 categories:
-- Come Together
+- Growth
 redirect_from: "/come-together/what-experiencing-discrimination-taught-me/"
+image:
 ---
 
 When Netflix announced they were removing the try-not-to-cry-as-you-quote-every-line classic, _Pride & Prejudice,_ from their list of streaming titles, I thought it was a cruel joke and not actually going to happen. As a precocious child growing up, I didn’t bother believing in Santa Claus because we didn’t have a chimney.  And don’t even get me started on avocado being classified as a fruit.
@@ -15,9 +17,9 @@ _Perhaps it stems from my time spent as a kid voraciously reading the adventures
 
 Call it what you want - trust issues, commitment issues, dramatic. But Maya Angelou once said, _“When people show you who they are, believe them the first time.”_ Stumbling upon these words recently had me convicted at the thought. Why has it always been so hard for me to commit to belief in people, in things? Why is the proclivity often to doubt first, believe later?
 
-I have been wrestling with this thought for weeks, particularly in the wake of Charlottesville - processing it all in a world that keeps turning. In the week immediately following the hateful protest turned violent and deadly in August, I cried every single day; each new headline causing me to double over in utter grief and pain, nauseous and weak at the aftermath unfolding and the repulsive rhetoric blaring from my phone screen.  
+I have been wrestling with this thought for weeks, particularly in the wake of Charlottesville - processing it all in a world that keeps turning. In the week immediately following the hateful protest turned violent and deadly in August, I cried every single day; each new headline causing me to double over in utter grief and pain, nauseous and weak at the aftermath unfolding and the repulsive rhetoric blaring from my phone screen.
 
-### **There was no room or time to feel dubious towards the cries and voices from people of color.**
+### There was no room or time to feel dubious towards the cries and voices from people of color.
 
 I was not surprised at the events that had transpired as if I didn’t believe hatred and racism still existed. No, this I knew with absolute conviction because I have not lived a life free from prejudice or pain.
 
@@ -33,7 +35,7 @@ It hit me like a pound of bricks. No statement had ever been so debilitating. Th
 
 Because what happened in Charlottesville is not unique to just Virginia, or to certain neighborhoods in the South. It’s not a thing of the past or a figment of anyone’s imagination. It’s real and it happens here, invading our spaces and communities and schools and humor and media.
 
-### **It masquerades as normalcy, overtly and covertly seeping like a slow poison into our nation’s narrative.**
+### It masquerades as normalcy, overtly and covertly seeping like a slow poison into our nation’s narrative.
 
 But maybe there’s a skeptic in all of us. Maybe when it comes to certain things, you too are decidedly hesitant and are wary of things foreign and unfamiliar. I believe there’s a time and a place for that. I think it’s easy for us to question things that fall outside the confines of our own realm of experience. It’s an age-old adage - _we fear what we don’t understand._
 
@@ -41,7 +43,7 @@ But maybe there’s a skeptic in all of us. Maybe when it comes to certain thing
 
 Yet I urge you, I urge all of us - when it comes to people, particularly people of color, let us recognize hurt and pain as truth when it’s being handed over in word, in action, and in cries. The marginalized should not have to use a megaphone to justify their pain.
 
-### **When did we start conditioning ourselves to believe that some stories are more valid than others?**
+### When did we start conditioning ourselves to believe that some stories are more valid than others?
 
 Surround yourself with people whose stories are radically different than your own. Listen to the heartbreak and prayers of those with experiences you don’t understand. Greet doubt at the door but make room for truth on the couch. Replace incredulousness and complacency with compassion and empathy.
 
@@ -52,5 +54,3 @@ Hear those who don’t have the luxury or privilege of moving on and forgetting.
 Maybe we find that we do believe in the same thing after all - not in Santa Claus, not in hate, but in the undeniable fact that perfect love casts out all fear.
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
-
-[![CHANTELLE GIBBS BIO](https://yellow-blog-images.imgix.net/2017/10/CHANTELLE-GIBBS-BIO.jpg)](https://www.instagram.com/chillchantelle/)

@@ -2,8 +2,9 @@
 title: 13 Do-Good Products to Cozy Up With This Fall
 author: "Lindsay Byers-Hirth"
 date: '2017-10-13 04:00:39 -0700'
+series: Come Together
 categories:
-- Come Together
+- Conscious Living
 redirect_from: "/come-together/do-good-products-cozy-fall/"
 image: "https://yellow-blog-images.imgix.net/2017/10/IMG_7912-1320x880.jpg"
 ---

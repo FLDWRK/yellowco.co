@@ -1,0 +1,15 @@
+---
+title: Series
+layout: page
+---
+
+<div id="archives">
+  {% for series in site.series %}
+    <div class="archive-group">
+      <h2>{{ series.title }}</h2>
+      {% for post in site.series[series.title] %}
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>

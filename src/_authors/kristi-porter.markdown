@@ -1,8 +1,8 @@
 ---
-title: Krisit Porter
+title: Kristi Porter
 company_name: Signify Solutions
 job_title:
-bio_image:
+bio_image: "/assets/images/kristi-porter.jpg"
 website: https://www.signify.solutions/
 is_guest: true
 ---

@@ -2,7 +2,7 @@
 title: Myasi Jackson
 company_name: Purpose Copy
 job_title: Founder
-bio_image:
+bio_image: "/assets/images/myasi-jackson.jpg"
 website: http://www.purposecopy.com/
 is_guest: true
 ---
