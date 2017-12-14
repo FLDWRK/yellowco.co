@@ -4,7 +4,7 @@ author: "Yellow Co."
 series: "With"
 categories:
 - Culture
-wordpress_url: http://yellowco.co/?p=9898
+impact-feature: true
 date: '2017-11-10 04:00:49 -0800'
 redirect_from: "/with/5-ways-yellow-collective-members-impact/"
 ---

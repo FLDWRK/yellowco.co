@@ -10,7 +10,7 @@ banners:
   image: "/assets/images/Membership-Header-text.jpg"
 sm-banners:
 - link: "/membership"
-  image: "/assets/images/banner-membership-sm.jpg"
+  image: "/assets/images/Membership-Mobile.jpg"
 details:
 - title: crave direction and purpose?
   text: "You’re struggling to find the larger purpose in what you do. You move from client to client or project to project with no direction or clarity on how to make the impact you desire."
@@ -100,6 +100,11 @@ faqs:
         <a href="https://members.yellowco.co/" class="btn btn-primary">Join now</a>
       </div>
     </div>
+    <div class="row">
+      <div class="col">
+        <h3>Make 2018 the year you take <em>ownership</em> of your life</h3>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -117,6 +122,7 @@ faqs:
         <li>Past Yellow Conference speaker video recordings</li>
         <li>Workbook downloads aimed at helping you take charge of your life and move forward with impact</li>
         <li>Various printable downloads &amp; other goodies</li>
+        <li>Monthly custom playlist for Yellow Collective members curated by Jessica Blackstock</li>
       </ul>
     </div>
   </div>
@@ -188,7 +194,10 @@ faqs:
         <div class="intro-content col-11 col-sm-11 col-lg-8 text-center py-4 px-3">
           <h6>Your membership is making an impact</h6>
           <p>Your membership helps employ at-risk youth, empower women globally, and supports other initiatives taking place across the world.</p>
-          <a href="#" class="btn btn-primary">View Our Impact</a>
+          {% assign featuredImpact = site.posts | where:'impact-feature', true %}
+          {% for post in featuredImpact %}
+            <a href="{{ post.url }}" class="btn btn-primary">View Our Impact</a>
+          {% endfor %}
         </div>
       </div>
     </div>
