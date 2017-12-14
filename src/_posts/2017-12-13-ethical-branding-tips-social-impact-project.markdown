@@ -24,7 +24,7 @@ For example, if you are a brand with a mission of providing artisans in the Midd
 
 Similarly, if your project aims to positively impact the future of our environment through clothing made with organic cotton, you would want to collect any information you can about this industry. Spend time on organic cotton farms. Get to know the reality of the dangerous processes involved in making cotton that is not organic. Walk alongside the people who see the reality every day. From here, you will be able to determine the messaging that best describes your conscious project in the most educated light, with standards your brand will adhere to moving forward when crafting things such as blog posts, e-mail newsletters, and even social media posts.
 
-![](http://yellowco.co/wp-content/uploads/2017/12/FLDWRK-Coworking-photo-options-for-Yellow-blog-7.jpg)
+![](https://yellow-blog-images.imgix.net/2017/12/FLDWRK-Coworking-photo-options-for-Yellow-blog-7.jpg)
 
 #### **Authenticity with Your Audience**
 
@@ -38,7 +38,7 @@ Creating real, lasting relationships within your industry has so much more value
 
 Along with this, Instagram Stories and Snapchat are a great way to get real with your audience and show them the behind-the-scenes of your project. We all know entrepreneurship isn’t always pretty. Some days are spent in pajamas, working on the couch with your dog. However, that’s real, that’s relatable, and that’s what your audience loves to see!
 
-![](http://yellowco.co/wp-content/uploads/2017/12/FLDWRK-Coworking-photo-options-for-Yellow-blog-4.jpg)
+![](https://yellow-blog-images.imgix.net/2017/12/FLDWRK-Coworking-photo-options-for-Yellow-blog-4.jpg)
 
 **2\. Original Shareable Content**
 
@@ -54,7 +54,7 @@ We are extremely lucky to be in a community that favors collaboration over compe
 
 If you come across someone who fits this description, don’t hesitate to reach out! Our community of conscious creators is always eager to work together for the good of our growing industry.
 
-![](http://yellowco.co/wp-content/uploads/2017/12/FLDWRK-Coworking-photo-options-for-Yellow-blog-5.jpg)
+![](https://yellow-blog-images.imgix.net/2017/12/FLDWRK-Coworking-photo-options-for-Yellow-blog-5.jpg)
 
 With that said, forming relationships with other brands in the ethical space is a great way to grow your community and network. If you’re a jewelry company, why not reach out to a clothing brand to help style their next shoot. Pulling from both of your collections can reach both of your target audiences through social media, while also creating a lasting relationship grounded in a passion for giving back.
 

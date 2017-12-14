@@ -20,7 +20,7 @@ The physical embodiment of my anxiety isn't new for me, but my awareness around 
 
 ### **For an entire week, I checked in with my nervous system before accepting invitations, attending social events, interacting with people, or getting on social media.**
 
-![HOW YELLOW'S 7-DAY CHALLENGE INSPIRED ME TO CREATE THIS DAILY ROUTINE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/1T5A4139.jpg)
+![HOW YELLOW'S 7-DAY CHALLENGE INSPIRED ME TO CREATE THIS DAILY ROUTINE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/1T5A4139.jpg)
 
 #### **My Rules:**
 
@@ -35,7 +35,7 @@ At first, it was really tough to get off autopilot and remember to check in with
 
 By the second day, I remembered to check in with myself, but I started to feel guilty. I had a networking event that night, my sister was in town, and I was exhausted. I was already feeling frazzled about all I had to do, and when I checked in with my nervous system, her response was clear: "no" to the networking event, "yes" to restorative yoga. That response scared me a little because taking care of my mental health this way was new.
 
-![HOW YELLOW'S 7-DAY CHALLENGE INSPIRED ME TO CREATE THIS DAILY ROUTINE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/1T5A4186.jpg)
+![HOW YELLOW'S 7-DAY CHALLENGE INSPIRED ME TO CREATE THIS DAILY ROUTINE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/1T5A4186.jpg)
 
 _"If I choose to listen to my nervous system and take care of my mental health, will I lose out on opportunities?"_ I wondered. _"Will I become a hermit who only goes to yoga?"_ If I weren't doing this mental health challenge, I probably would have gone to the networking event and just felt overtaxed later. As it was, I chose to go to yoga, which felt much more expansive and grounding.
 
@@ -45,7 +45,7 @@ It was uncomfortable, but important. By the fifth day, I was starting to get th
 
 I reached out to a girlfriend whose texts I hadn't replied to and told her about the challenge. _"I'm not ignoring your texts because you're not important to me. I'm taking a break from replying until I can do so intentionally,"_ I said. We ended up talking about our mutual struggles: me with anxiety, and her with depression. Not only did she understand, she decided to do her own challenge.
 
-![HOW YELLOW'S 7-DAY CHALLENGE INSPIRED ME TO CREATE THIS DAILY ROUTINE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/1T5A4153.jpg)
+![HOW YELLOW'S 7-DAY CHALLENGE INSPIRED ME TO CREATE THIS DAILY ROUTINE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/1T5A4153.jpg)
 
 ### **Instead of us feeling mutually guilty and drained by our interaction, we both had support and permission to take care of ourselves and each other.**
 

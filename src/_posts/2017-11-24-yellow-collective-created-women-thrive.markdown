@@ -20,7 +20,7 @@ I dove into the research to back up this feeling I had, and slowly started to le
 
 If women were a song on the radio - I was turning it UP. I became so excited about the idea of bringing women together for good - bringing women together to change the world.
 
-![A SPACE FOR ALL WOMEN TO THRIVE: WHY I CREATED THE YELLOW COLLECTIVE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/0P7A8960.jpg)
+![A SPACE FOR ALL WOMEN TO THRIVE: WHY I CREATED THE YELLOW COLLECTIVE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/0P7A8960.jpg)
 
 Yet at the same time, I also could sense that there was something holding us collectively back. I would go on countless coffee dates with women who were looking for some sort of direction. In my conversations with them, I realized that SO many of these wonderful, passionate ladies were being held back because of past experiences, trauma, neglect, abuse they endured, and ultimately a complete lack of confidence in themselves and their abilities.
 
@@ -32,7 +32,7 @@ For so many women, experiences with violence and abuse make it difficult to purs
 
 #### **Women are this powerful force of good in the world that can be utilized to make big waves of change, but with so much working against them, it's often very difficult to do.**
 
-![A SPACE FOR ALL WOMEN TO THRIVE: WHY I CREATED THE YELLOW COLLECTIVE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/0P7A9660-1.jpg)
+![A SPACE FOR ALL WOMEN TO THRIVE: WHY I CREATED THE YELLOW COLLECTIVE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/0P7A9660-1.jpg)
 
 As the conference years continued to come and go, I would see women get this burst of inspiration, excitement, and motivation. For the 3 days of the conference they weren't afraid of failure, of criticism, or much anything else. They were ready to step fully into what made them come alive and go out and change the world.
 
@@ -46,7 +46,7 @@ So I had the idea for the [Yellow Collective](http://yellowco.co/membership/), a
 
 Where they're stepping out of fear and into bravery. Where they are living and making decisions out of fierce love. Where they have confidence in their abilities and voice. Where they can own their stories free from shame. Where they are respected by and working alongside men as equals, instead of being controlled and suppressed by them.
 
-![A SPACE FOR ALL WOMEN TO THRIVE: WHY I CREATED THE YELLOW COLLECTIVE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/0P7A8976.jpg)
+![A SPACE FOR ALL WOMEN TO THRIVE: WHY I CREATED THE YELLOW COLLECTIVE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/0P7A8976.jpg)
 
 #### **Within the [Yellow Collective](http://yellowco.co/membership/), you become surrounded by like-minded women who see the best in you; who believe in you.**
 

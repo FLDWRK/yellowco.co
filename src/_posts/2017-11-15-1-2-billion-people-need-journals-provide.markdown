@@ -22,7 +22,7 @@ It’s a big problem with not enough attention, but I am confident our generatio
 
 This is the trickiest part, isn’t it? I explored several options and decided on a crowdfunding campaign. For me, it was the best option because it served the purpose of securing funding while raising awareness about the brand. Plus, it was a great excuse for a launch party! The campaign was also a good test run to determine if this is a product people want to buy, and how much they would be willing to pay. I will say that a crowdfunding campaign is not easy, but the good news is there are lots of resources available. Tim Ferriss has some awesome advice. There are also some great blog posts and YouTube videos that were helpful.
 
-![WHAT 1.2 BILLION PEOPLE ARE IN NEED OF THAT THESE JOURNALS CREATE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/Blue-on-cork.jpg)
+![WHAT 1.2 BILLION PEOPLE ARE IN NEED OF THAT THESE JOURNALS CREATE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/Blue-on-cork.jpg)
 
 #### You're running Bright Books while working a full time job, how do you stay sane? Do you have any mental health practices that help you through hectic times?
 
@@ -42,7 +42,7 @@ I have learned to delegate and trust other people with certain parts of Bright B
 
 **Yoga:** If I can give myself an hour to sweat and meditate every day, I feel on top of the world! Thank goodness for Yoga with Adrienne and my pop-socket so I can practice in my living room when I miss class.
 
-#### ![WHAT 1.2 BILLION PEOPLE ARE IN NEED OF THAT THESE JOURNALS CREATE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/Bright-Books-2.jpg)
+#### ![WHAT 1.2 BILLION PEOPLE ARE IN NEED OF THAT THESE JOURNALS CREATE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/Bright-Books-2.jpg)
 
 #### Bright Books has an incredible give back model. Can you share a bit about what it is and how it works?
 
@@ -60,7 +60,7 @@ I have personal relationships with everyone in our "giving chain", so things act
 
 As mentioned, nearly 1.2 billion people currently lack access to basic electricity. It is a serious hindrance for this population to help themselves out of poverty. With access to renewable energy, I think we can turn the tides for people living in the developing world and do so without adding to climate change.
 
-![WHAT 1.2 BILLION PEOPLE ARE IN NEED OF THAT THESE JOURNALS CREATE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/Aisha-kerosene-lamp-2.jpg)
+![WHAT 1.2 BILLION PEOPLE ARE IN NEED OF THAT THESE JOURNALS CREATE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/Aisha-kerosene-lamp-2.jpg)
 
 I started Bright Books out of a strong desire to get solar lights to this one village in Uganda where I spent a summer volunteering at a school called the Arlington Academy of Hope. One of the most shocking things I encountered that summer in Bumwalukani was something I observed in my time volunteering at the medical clinic next to the school. The most frequent illness of patients visiting the clinic wasn’t AIDS or malaria as I expected, it was upper respiratory infections. People poured in with these terrible coughs and chronic breathing problems. I did some research and talked with experts to uncover why this problem seemed so persistent, and see if it existed in other parts of the developing world.
 
@@ -70,7 +70,7 @@ In the absence of electricity, kerosene lamps are used to light the interior of 
 
 By donating a solar light, we can reduce exposure to kerosene lamps and reduce the financial burden of buying a solar light upfront. Personal solar lights are just the beginning- our vision includes plans to fund larger renewable energy projects, including solar cookstoves, for those in need.
 
-![WHAT 1.2 BILLION PEOPLE ARE IN NEED OF THAT THESE JOURNALS CREATE - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/Amy-with-Pink.jpg)
+![WHAT 1.2 BILLION PEOPLE ARE IN NEED OF THAT THESE JOURNALS CREATE - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/Amy-with-Pink.jpg)
 
 #### What's the best piece of advice you've ever received?
 

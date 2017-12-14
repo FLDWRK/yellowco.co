@@ -21,7 +21,7 @@ Yellow proudly supports [Phoenix House](https://www.phoenixhouse.org/), who work
 
 Our Yellow Collective internship training program teens have been helping our team with membership operations, developing their individual skills, and connecting with community that can guide them in their future careers.
 
-![5 WAYS YELLOW MEMBERS MADE AN IMPACT THIS MONTH - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/0P7A2882.jpg)
+![5 WAYS YELLOW MEMBERS MADE AN IMPACT THIS MONTH - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/0P7A2882.jpg)
 
 _"This month as part of our mentorship program with the interns from [Phoenix House](https://www.phoenixhouse.org/), we did an exercise called Head, Hands, and Heart where they identified how they can contribute to their family, community, and job using things they know (head), things they can do (hands), and things they care about (heart). It was fun to see them identify their own strengths and for us get to know them better. We also guided them in completing a personality profile which seemed to resonate with them and give them valuable insight about themselves and how they interact with others in work and life." - Jill Arbini, Yellow Internship Program Developer_
 
@@ -35,7 +35,7 @@ _"Being a part of the [Yellow Collective](http://yellowco.co/membership/) has be
 
 October marked the start of our [Yellow Collective](http://yellowco.co/membership/) Kenya Chapter, our first international group. There are 8 women joining together there to grow in community and in their own lives through this chapter customized to meet their specific needs.
 
-![5 WAYS YELLOW MEMBERS MADE AN IMPACT THIS MONTH - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/0P7A2879.jpg)
+![5 WAYS YELLOW MEMBERS MADE AN IMPACT THIS MONTH - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/0P7A2879.jpg)
 
 #### 5\. We protected the environment by printing our October [Yellow Collective](http://yellowco.co/membership/) Periodical with a certified green printer on 100% recycled paper.
 

@@ -22,7 +22,7 @@ These Espe booties are handcrafted in Guatemala by skilled artisans. They are ma
 
 **Use code YELLOW for 15% off until December 31st, 2017.**
 
-![12 GIFTS THAT GIVE BACK (AND DISCOUNTS FOR THEM!) - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/root.jpg)
+![12 GIFTS THAT GIVE BACK (AND DISCOUNTS FOR THEM!) - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/root.jpg)
 
 #### **3. [Bamboo Capsule Palette](https://elatebeauty.com/collections/tools/products/bamboo-capsule-palette) by [Elate Cosmetics](https://elatebeauty.com/)**
 
@@ -42,7 +42,7 @@ Over the summer I visited Sseko's workshop in Uganda and I was blown away! The S
 
 **Use code YELLOWCHRISTMAS for 10% off until December 31st, 2017.**
 
-![12 GIFTS THAT GIVE BACK (AND DISCOUNTS FOR THEM!) - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/sseko.jpg)
+![12 GIFTS THAT GIVE BACK (AND DISCOUNTS FOR THEM!) - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/sseko.jpg)
 
 #### **6. [Samana Sunstone Shimmer](https://wabisabibotanicals.com/products/samana-sunstone-shimmer-elixir) by [Wabi Sabi Botanicals](https://wabisabibotanicals.com/)**
 
@@ -56,7 +56,7 @@ Marie Mae Company's motto is “write with purpose” and they have the most dar
 
 **Use code MM+Yellow for free shipping until December 31st, 2017.**
 
-![12 GIFTS THAT GIVE BACK (AND DISCOUNTS FOR THEM!) - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/marie.jpg)
+![12 GIFTS THAT GIVE BACK (AND DISCOUNTS FOR THEM!) - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/marie.jpg)
 
 #### 8.  **[“Seattle” Blanket](https://www.wakenedapparel.org/collections/blankets/products/the-seattle-blanket) by [Wakened Apparel](https://www.wakenedapparel.org/)**
 
@@ -76,7 +76,7 @@ This brand is all about the capsule wardrobe. They have a few different collecti
 
 **Use code YellowCo for 10% off.**
 
-![12 GIFTS THAT GIVE BACK (AND DISCOUNTS FOR THEM!) - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/12/vetta.jpg)
+![12 GIFTS THAT GIVE BACK (AND DISCOUNTS FOR THEM!) - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/12/vetta.jpg)
 
 #### **11. [Leather-strapped Tote Bag](https://www.kurandza.org/bags/1p2zyg47k4i54sc8w25p9vgewg1855) by [Kurandza](https://www.kurandza.org/)**
 

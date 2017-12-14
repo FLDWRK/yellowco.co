@@ -14,7 +14,7 @@ In some of my most difficult times, ironically, I have found myself surrounded b
 
 These are some of my favorite quotes that have helped me adjust my perspective and transform difficult, stressful situations into an opportunity to lean into the present moment. They cause me to ask myself, "How can I use this situation to create good in the world, beginning with myself?"
 
-![12 QUOTES TO CALM YOUR STRESS RIGHT NOW - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/12-QUOTES-TO-CALM-YOUR-STRESS-RIGHT-NOW-YELLOW-CO.jpg)
+![12 QUOTES TO CALM YOUR STRESS RIGHT NOW - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/12-QUOTES-TO-CALM-YOUR-STRESS-RIGHT-NOW-YELLOW-CO.jpg)
 
 #### **"I don't have to chase extraordinary moments to find happiness - it's right in front of me if I'm paying attention and practicing gratitude."**
 
@@ -40,7 +40,7 @@ _---Unknown_
 
 _---Joseph Campbell_
 
-![12 QUOTES TO CALM YOUR STRESS RIGHT NOW - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/12-QUOTES-TO-CALM-YOUR-STRESS-RIGHT-NOW-YELLOW-CO-2.jpg)
+![12 QUOTES TO CALM YOUR STRESS RIGHT NOW - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/12-QUOTES-TO-CALM-YOUR-STRESS-RIGHT-NOW-YELLOW-CO-2.jpg)
 
 #### **"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."**
 

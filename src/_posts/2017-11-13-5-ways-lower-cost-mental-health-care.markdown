@@ -22,7 +22,7 @@ If more of us spoke up and shared our stories, the government would have to list
 
 While change at the government level can take time, there are options out there for affordable care for mental health conditions if you know where to look. Here are 5 ways you can go about lowering the costs for yourself and for the community around you.
 
-![5 WAYS TO LOWER YOUR MENTAL HEALTH CARE COSTS - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/image5-S.png)
+![5 WAYS TO LOWER YOUR MENTAL HEALTH CARE COSTS - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/image5-S.png)
 
 #### 1\. Speak up and share your story.
 

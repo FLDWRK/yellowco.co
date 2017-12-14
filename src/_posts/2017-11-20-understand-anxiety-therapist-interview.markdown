@@ -22,7 +22,7 @@ A good way to share is first and foremost is to get educated yourself so that yo
 
 Then, start off by telling people who you absolutely trust, who you can be vulnerable with. People can use labels in a way that isn't always healthy. Not everyone will handle this condition tenderly. You might not tell everyone in the office, but you might start with a few really close friends.
 
-![](http://yellowco.co/wp-content/uploads/2017/11/image2.jpg)
+![](https://yellow-blog-images.imgix.net/2017/11/image2.jpg)
 
 #### **According to the ADAA, [only 36.9% of people get help for depression and anxiety](https://adaa.org/about-adaa/press-room/facts-statistics). Why do you think that is the case?**
 
@@ -42,7 +42,7 @@ A common question I hear is, "How do you find a good therapist?" It shouldn't be
 
 It validates their own underlying belief that their mental illness is deserved because they aren't healthy enough. It affects people getting help because they're afraid that people will suddenly realize that they're unworthy or terrible. Shame is: "I'm not good enough." The shift is: "What I'm going through isn't good."
 
-![](http://yellowco.co/wp-content/uploads/2017/11/image3-1.jpg)
+![](https://yellow-blog-images.imgix.net/2017/11/image3-1.jpg)
 
 To combat shame, remind yourself (or your loved one experiencing these) that anxiety and depression are real. They literally affect the biochemistry of your brain. Fifty percent of people in America will experience some form of mental illness over the course of their lifetime, which means, no one is alone in this struggle. Secondly, understand that being in a state of mental illness is a _state_, it's not who you are.
 
@@ -60,7 +60,7 @@ Harville Hendrix writes in _Getting the Love You Want_, "Self-discipline is self
 
 My school of thought in psychology is that depression is strongly linked to physical inactivity. I always give clients this "prescription" on our first session: walk a little bit, sleep, and avoid sugar, alcohol, and processed carbs. Often people will heal so much from these simple actions that they don't need medication. Plus, sunshine has a chemical effect on our brain. There's power in taking a 10 minute walk in the sunshine every week.
 
-![HOW TO UNDERSTAND ANXIETY: AN INTERVIEW WITH DR. THERESE, PSY.D. - YELLOW CO.](http://yellowco.co/wp-content/uploads/2017/11/image4.jpg)
+![HOW TO UNDERSTAND ANXIETY: AN INTERVIEW WITH DR. THERESE, PSY.D. - YELLOW CO.](https://yellow-blog-images.imgix.net/2017/11/image4.jpg)
 
 #### **Why are women twice as likely to experience anxiety than men?**
 
