@@ -3,7 +3,8 @@ title: 'Starting a Family vs. Growing Your Career: Navigating the Options'
 author: Jackie Boylhart
 date: '2017-09-13 04:00:18 -0700'
 categories:
-- Tension
+- Growth
+image: "https://yellow-blog-images.imgix.net/2017/09/ValerieDenisePhotos-16.jpg"
 redirect_from: "/tension/starting-family-growing-career-navigating-options/"
 ---
 
@@ -49,5 +50,3 @@ If you choose children and a career, live in the present moment and accept thing
 Remember, there is no wrong choice. This is YOUR life and YOUR decision. The beauty is that you get to choose where you put your focus, and when.
 
 _Photos by:  [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
-
-[![JACKIE BOYLHART BIO](https://yellow-blog-images.imgix.net/2017/09/JACKIE-BOYLHART-BIO.jpg)](http://jackieboylhart.com/)

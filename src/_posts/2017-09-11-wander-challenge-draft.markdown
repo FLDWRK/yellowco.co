@@ -1,9 +1,10 @@
 ---
 title: How One Simple Challenge Spontaneously Landed Me in Cuba
-author: Hanna Snyder
+author: Yellow Co.
 date: '2017-09-11 04:00:19 -0700'
 categories:
-- Tension
+- Growth
+image: "https://yellow-blog-images.imgix.net/2017/09/1T5A8835.jpg"
 redirect_from: "/tension/wander-challenge-draft/"
 ---
 
@@ -15,7 +16,7 @@ _Some members wandered around their neighborhoods. Others, a nearby city. But f
 
 _Want to do the challenge yourself? Sign up for our Collective Interest list and you get the Wander Challenge Workbook for free! **[Click here to hop on and grab your free workbook.](https://yellowcollective.lpages.co/leadbox/145ef7173f72a2%3A17a2246bc746dc/5642684278505472/)**_
 
-* * *
+---
 
 For my wander challenge, I booked an impromptu trip down to Havana, Cuba for 5 days. I went down there numbly going through life and came back completely transformed.
 
@@ -55,7 +56,7 @@ And for the first time in almost two years, I got back to my first love: writing
 
 I went to Cuba as one person and came back, still me, but a more vibrant version of me. I came back in love with life and a refusal to simply float through it. No, I’m diving in.
 
-* * *
+---
 
 _Note: After her return from Cuba, [Ashley](https://www.instagram.com/quill.co/) was reprimanded for “abusing the vacation policy” and she promptly gave her two weeks notice. For more about Ashley’s wander experience, see the Journal tab at [www.quilland.co](http://www.quilland.co)_
 

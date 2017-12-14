@@ -3,7 +3,8 @@ title: How a Parking Ticket Shifted My Perspective on the Value of Energy
 author: Amy Everhart
 date: '2017-09-04 04:00:56 -0700'
 categories:
-- Tension
+- Growth
+image: "https://yellow-blog-images.imgix.net/2017/09/040917_American-Weekend_Eileen-Roche_1561.jpg"
 redirect_from: "/tension/much-worth-giving-energy-draft/"
 ---
 
@@ -29,7 +30,7 @@ I put my car in park, and thought about my life - which is always a great idea a
 
 As I sat in the driver’s seat, bleary-eyed and waffling on what to do, I realized that there were more currencies in my life than money. There was time, physical energy, mental energy, and emotional energy. These less tangible currencies were actually much tougher to acquire than cash at that moment in my journey.
 
-_“What if I just rolled the dice and risked the parking ticket?”_ I thought to myself. 
+_“What if I just rolled the dice and risked the parking ticket?”_ I thought to myself.
 
 _“Who do you think you are?”_ my inner critic answered. _“Do you think money just grows on trees?”_
 

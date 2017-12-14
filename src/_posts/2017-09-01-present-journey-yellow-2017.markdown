@@ -3,15 +3,17 @@ title: 'My Present Journey: Experiencing Yellow 2017'
 author: Jill Arbini
 date: '2017-09-01 04:00:24 -0700'
 categories:
-- Tension
+- Growth
+tags: conference, 2017
+image: "https://yellow-blog-images.imgix.net/2017/09/0P7A2716.jpg"
 redirect_from: "/tension/present-journey-yellow-2017/"
 ---
 
-I’ve been a fan of Yellow for years, but this year was the first time that I was able to attend the conference. I had some idea of what to expect, but nothing could’ve truly prepared me for what it would be like to experience Yellow 2017 in person. 
+I’ve been a fan of Yellow for years, but this year was the first time that I was able to attend the conference. I had some idea of what to expect, but nothing could’ve truly prepared me for what it would be like to experience Yellow 2017 in person.
 
 To be honest, I was apprehensive to come to Los Angeles for the conference. In general, I love cities. I enjoy the architecture, the diversity, the food, and the hustle and bustle. But for me LA represents stress and sadness. Several years ago, fresh out of college with a degree in social work, I started my career working in the foster care system for LA County. Of course the traffic wasn’t my favorite, but I got used to it. However, the sadness and isolation of my job combined with the tragedies I saw on a daily basis were too much for my sensitive heart to handle. I was burnt out. So I left. Even though I now only live an hour away (without traffic of course), I’ve only returned to LA on a few rare occasions.
 
-### **While I was genuinely excited to come to Yellow 2017, I was less than thrilled to be in Los Angeles. But what happened this week during my return to this city blew me away.**
+### While I was genuinely excited to come to Yellow 2017, I was less than thrilled to be in Los Angeles. But what happened this week during my return to this city blew me away.
 
 The theme of this year’s Yellow Conference was The Present Journey. So instead of dwelling on my past experiences and feelings associated with LA, I made a decision to live in the present, and I am so glad I did.
 
@@ -21,7 +23,7 @@ When I walked in the door to [440 Seaton](http://440seaton.com/), I saw the now 
 
 Entering the main conference space was like a dream! Alexis Andra of [The Shift Creative](http://theshiftcreative.com/) worked her magic, creating a huge macrame chandelier, an amazing stage back drop, and several more art installations. She even made a complete guided experience entitled “You Gotta Start Somewhere”, covering the themes of Wander, Tension, and Resolve. The dreamiest lounges, made with furniture by [Archive Rentals](http://archiverentals.com/), created space for connecting with others and brought a softness to the warehouse's brick walls and natural light flowing through the skylights.
 
-### **Day One**
+### Day One
 
 [Arielle Estoria](http://arielleestoria.com/), our conference emcee, kicked off the day with a spoken word piece that declared,  _**“You are right where you are supposed to be.”**_ Turns out she was right. As she spoke accompanied by a group of dancers, the energy in the room filled the room with anticipation of all the goodness that was to come.
 
@@ -53,7 +55,7 @@ When I opened the bag, it was like my birthday times a thousand! Among the highl
 
 After my stroll through the land of Do-Good Goods, I returned to the main space which had been transformed into a dinner party for several hundred women. There is something amazing that happens when people gather around a table and share a meal. Strangers become friends, laughter flows, and there is space for meaningful conversations and personal stories to be shared. I made a few new friends and wrapped up the day with a full heart (and a belly full of tacos).
 
-### **Day 2**
+### Day 2
 
 Friday morning started with an incredible dance performance to the song  “7 Years (Rewrite)", choreographed by [Gigi Torres](https://www.instagram.com/geegtorres/). A beautifully diverse group of young girls and women of multiple ages and ethnicities filled the space dancing as Melissa Katz sang. With lyrics like, “I wanna make a change, make this place a little better, we need to live within a world where everybody matters,” it was no surprise that they got a standing ovation with many of us weeping.
 
@@ -65,9 +67,9 @@ After this incredibly moving performance, I wiped the mascara from my face and l
 
 [Holley Murchison](http://holleymurchison.com/) came next, compelling us all to consider the power that lies in how we share our story with the world. She told us,
 
-### **“Good stories create change, and the world needs your story. Now.” **
+### “Good stories create change, and the world needs your story. Now.”
 
-The whole room was jotting down notes as fast as they could as she led us through an exercise on how to tell our individual story. If you missed her talk or want more of this goodness, don't worry, her book [Tell Me About Yourself](http://holleymurchison.com/tmaybook/) comes out this month! 
+The whole room was jotting down notes as fast as they could as she led us through an exercise on how to tell our individual story. If you missed her talk or want more of this goodness, don't worry, her book [Tell Me About Yourself](http://holleymurchison.com/tmaybook/) comes out this month!
 
 Ashley LeMieux, Founder of [The Shine Project](http://www.theshineproject.com/), bravely spoke of how she started taking action in the midst of (and sometimes because of) incredible personal hardship and grief. She closed by encouraging us, “Today is your day to start, because tomorrow isn’t guaranteed.”
 
@@ -81,10 +83,8 @@ Over the course of two remarkable days, it became so obvious that each speaker h
 
 ![MY PRESENT JOURNEY: A YELLOW 2017 RECAP](https://yellow-blog-images.imgix.net/2017/09/J46A7669.jpg)
 
-In this place called Los Angeles where I used to find sadness and heartache, I found beauty and hope, and saw love and passion this week. For me, Yellow 2017 rekindled something inside of me I can’t quite convey - a boldness and a light that had been hiding.  
+In this place called Los Angeles where I used to find sadness and heartache, I found beauty and hope, and saw love and passion this week. For me, Yellow 2017 rekindled something inside of me I can’t quite convey - a boldness and a light that had been hiding.
 
 You know that “humor” card I chose at the beginning of the conference? Well, I find myself laughing pretty hard that I can now say, “I love LA!” So it turns out I selected a pretty meaningful word after all.
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
-
-[![JILL ARBINI BIO](https://yellow-blog-images.imgix.net/2017/09/JILL-ARBINI-BIO.jpg)](https://fldwrk.io/)
