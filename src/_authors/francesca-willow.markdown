@@ -2,7 +2,7 @@
 title: Francesca Willow
 company_name: Ethical Unicorn
 job_title: Founder
-bio_image:
+bio_image: "/assets/images/francesca-willow.jpg"
 website: http://ethicalunicorn.com/
 is_guest: true
 ---

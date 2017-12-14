@@ -4,6 +4,7 @@ author: Allie Fleming
 date: '2017-09-27 04:00:45 -0700'
 categories:
 - Tension
+image: "https://yellow-blog-images.imgix.net/2017/09/Yellow-Co-AlandraMichelle2.jpg"
 redirect_from: "/tension/authenticity-yellow-collective-membership-party/"
 ---
 

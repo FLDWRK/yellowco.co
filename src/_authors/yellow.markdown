@@ -2,7 +2,7 @@
 title: Yellow Co.
 company_name:
 job_title:
-bio_image: "/assets/images/author.yellow.jpg"
+bio_image: "/assets/images/author-yellow.jpg"
 website:
 is_guest: false
 ---

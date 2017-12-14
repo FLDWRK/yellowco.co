@@ -2,7 +2,7 @@
 title: Jackie Boylhart
 company_name:
 job_title:
-bio_image:
+bio_image: "/assets/images/jackie-boylhart.jpg"
 website: http://mozartandshiplap.com/
 is_guest: true
 ---
