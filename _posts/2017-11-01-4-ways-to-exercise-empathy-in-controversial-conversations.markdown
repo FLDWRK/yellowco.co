@@ -6,6 +6,7 @@ categories:
 author: Amy Everhart
 series: Come Together
 redirect_from: "/come-together/exercise-empathy-controversial-conversation/"
+image: "https://yellow-blog-images.imgix.net/2017/11/Yellow_2015_Dinner-4.jpg"
 ---
 
 It's happening more and more. I see a harmful comment about the color of someone's skin on social media, or I overhear someone making derogatory jokes about women, or I watch someone casually toss trash out of their car window - and I wonder, _"Is there anything I can do about this?"_

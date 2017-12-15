@@ -6,6 +6,7 @@ categories:
 author: Sybil Clark Amuti
 series: With
 redirect_from: "/with/what-to-say-friend-struggling-depression/"
+image: "https://yellow-blog-images.imgix.net/2017/11/1T5A4110.jpg"
 ---
 
 _"A true friend loves at all times..." - Proverbs 17:17_

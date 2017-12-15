@@ -6,6 +6,7 @@ categories:
 author: Hanna Snyder
 series: Come Together
 redirect_from: "/come-together/la-kitchen-non-profit-no-waste/"
+image: "https://yellow-blog-images.imgix.net/2017/11/3I5A1333-1.jpg"
 ---
 
 _When it comes to non-profits, most have a specific focus of where they are creating change and offering support. Perhaps the most unique thing about [L.A. Kitchen](http://www.lakitchen.org/) (and it's a tight competition) is that their work encompasses eliminating food waste, unemployment, homelessness, and bringing nourishment to the city's most vulnerable communities - all with one tool: food. Within just one of their three programs, they offer a free, 14-week culinary training to both emancipated foster youth, and older adults coming out of homelessness or incarceration. (Not to mention the others that create meals made entirely of donated ingredients to be donated to other organizations.) I had the joy of speaking with one of their own, Theresa Farthing, who is the Lead Cook of their [Impact LA](http://www.lakitchen.org/impact-la/) program and L.A. Kitchen's first student hire out of the [Empower LA](http://www.lakitchen.org/empower-la/) program. I quickly learned that their mission of **"neither food nor people should ever go to waste"** is not just a motto - it is their heartbeat. _

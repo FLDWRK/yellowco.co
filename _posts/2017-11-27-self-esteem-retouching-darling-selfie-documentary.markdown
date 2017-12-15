@@ -7,6 +7,7 @@ categories:
 author: Hanna Snyder
 series: With
 redirect_from: "/with/self-esteem-retouching-darling-selfie-documentary/"
+image: "https://yellow-blog-images.imgix.net/2017/11/Screen-Shot-2017-11-27-at-1.45.20-PM.png"
 ---
 
 _There is an ongoing, sometimes silent, conversation taking place about our cultural standard of beauty. One that, without words, tells many of us that we are not good enough as we are. It's no secret that media has a loud voice in this conversation, often portraying an unrealistic standard of our bodies, and even, our lives. So it makes me incredibly proud to see brands within this industry taking back this conversation, and owning it in an entirely different way. [Darling Media](http://darlingmagazine.org/), in association with [Aerie](https://www.ae.com/aerie/aerie/s-cms/4840006?cm=sUS-cUSD&navdetail=mega:cat6610030), has been working on a feature-length documentary about the search for self-esteem in a retouched world. Featuring over 80 interviews with influential women from age 8 to 80, ["self(i.e.)"](http://darlingmagazine.org/darling-selfie/) explores the history and impact of retouching, as well as the dangers of its unchecked use in social media. I was so excited to get an in-depth scoop from Darling's Founder and Editor in Chief, [SarahDubbeldam](https://www.instagram.com/ladydubbs/), on what we can expect from the documentary, and how we can bring hope into our own conversations about self image._

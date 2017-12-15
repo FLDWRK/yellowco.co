@@ -6,9 +6,10 @@ categories:
 author: Elisabetta Colabianchi
 series: Conscious
 redirect_from: "/conscious/12-gifts-that-give-back/"
+image: "https://yellow-blog-images.imgix.net/2017/12/gift-guide-1.jpg"
 ---
 
-The holidays are almost here and that typically means: holiday shopping! With so many amazing social good brands on the market, the holidays are a great opportunity to purchase with purpose and buy gifts that give back! Running a social good brand myself, I am always keeping up with the best ethical fashion, clean beauty, and fair trade products, so I made this list of some of my favorites for you to choose from this holiday season! Each brand gives back to the world either literally through their business model, or through their ethical, sustainable, or fair-trade practices. ***Plus, grab discounts from all of these brands below!***
+The holidays are almost here and that typically means: holiday shopping! With so many amazing social good brands on the market, the holidays are a great opportunity to purchase with purpose and buy gifts that give back! Running a social good brand myself, I am always keeping up with the best ethical fashion, clean beauty, and fair trade products, so I made this list of some of my favorites for you to choose from this holiday season! Each brand gives back to the world either literally through their business model, or through their ethical, sustainable, or fair-trade practices. **_Plus, grab discounts from all of these brands below!_**
 
 #### **1. [The Dressy Sweatpant](https://www.encircled.co/collections/our-designs/products/the-dressy-sweatpant) by [Encircled](https://www.encircled.co/)**
 

@@ -6,6 +6,7 @@ categories:
 author: Emily Shrems
 series: With
 redirect_from: "/with/truth-doubts-about-therapy/"
+image: "https://yellow-blog-images.imgix.net/2017/12/Dreamer-04.jpg"
 ---
 
 Within the office walls of a woman named Shelly, I met myself for the first time. I was fifteen and just beginning a slow and steady walk underneath the surface to find the shards of shattered glass I had unknowingly embedded there. The blades looked like the effects of divorce, distorted self-image, an eating disorder, and your run-of-the-mill teenage rebellion. They cut into pieces of my spirit that changed who I was becoming.

@@ -3,9 +3,10 @@ title: 'Mental Health Matters: Why We''re Opening Up the Conversation in Our New
 date: 2017-11-06 04:00:34 -08:00
 author: Hanna Snyder
 series: With
-cateogires:
+categories:
 - Culture
 redirect_from: "/with/mental-health-matters-opening-conversation/"
+image: "https://yellow-blog-images.imgix.net/2017/11/Instagram-new-theme.jpg"
 ---
 
 If we stripped away the shame, I think we all would want it. To be fully seen. To bravely unveil ourselves to others, all imperfection included.

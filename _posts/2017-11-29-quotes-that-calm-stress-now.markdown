@@ -6,6 +6,7 @@ categories:
 author: Jackie Boylhart
 series: With
 redirect_from: "/with/quotes-that-calm-stress-now/"
+image: "https://yellow-blog-images.imgix.net/2017/11/12-QUOTES-TO-CALM-YOUR-STRESS-RIGHT-NOW-YELLOW-CO-3.jpg"
 ---
 
 Someone once told me that there are four different types of people in this world — lifters, thrusters, weights, and drags. Lifters are people who lift you up when you spend time with them. You feel good about yourself when you leave that person. Thrusters are people who encourage you to be a better person. You are challenged to change when you leave that person. Weights are people who bring you down with the weight of his or her problems. You spend most of your time trying to fix their issues. And drags are people who bring you down to their level. You spend time commiserating with their victimhood, while being persuaded to dislike all the people, places, and things that bring "problems" into their life.

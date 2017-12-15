@@ -7,6 +7,7 @@ author: Yellow Co.
 series: With
 impact-feature: true
 redirect_from: "/with/5-ways-yellow-collective-members-impact/"
+image: "https://yellow-blog-images.imgix.net/2017/11/0P7A8571.jpg"
 ---
 
 For the benefit of humankind. That's the mission, the intention, the rally cry of the [Yellow Collective](http://yellowco.co/membership/). We want to empower women as individuals, through the use of community, to spread goodness in the world simply by being their fullest selves. And when we see this happen, as well as the ripple effect of good allowed by it, it's just magical to us. Within this last month, we have been able to witness some incredible impact take place thanks to our [Members](http://yellowco.co/membership/), and wanted to share it with you too!

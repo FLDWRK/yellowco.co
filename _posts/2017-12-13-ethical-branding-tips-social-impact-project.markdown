@@ -6,6 +6,7 @@ categories:
 author: Marisa Flacks
 series: Conscious
 redirect_from: "/conscious/ethical-branding-tips-social-impact-project/"
+image: "https://yellow-blog-images.imgix.net/2017/12/FLDWRK-Coworking-photo-options-for-Yellow-blog-8.jpg"
 ---
 
 Being the creator of a socially conscious project gives you an opportunity to tell the world a story that no one has heard before. Why did you start your project? Who inspired you? Was it a talented artisan in another country? Was it your desire to improve the future of our environment? Was it your your own community that lacked support and intimacy?

@@ -6,6 +6,7 @@ categories:
 author: Kari Enge
 series: With
 redirect_from: "/with/past-depression-influences-purpose-driven-present/"
+image: "https://yellow-blog-images.imgix.net/2017/11/IMG_3854.jpg"
 ---
 
 #### I come from two contrasting legacies: entrepreneurial spirit and depression.
