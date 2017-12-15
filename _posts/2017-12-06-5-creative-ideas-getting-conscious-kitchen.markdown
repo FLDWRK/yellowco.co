@@ -6,6 +6,7 @@ categories:
 author: Kaitlin Mogentale
 series: Conscious
 redirect_from: "/conscious/5-creative-ideas-getting-conscious-kitchen/"
+image: https://yellow-blog-images.imgix.net/2017/12/3I5A1556-2.jpg
 ---
 
 When people ask me about how I would characterize my sense of style, I reply, "Goodwill Fabulous." It's an identity I wear with pride. I happily live by my values. After learning about some of the dirtiest parts of the fashion industry, I wanted to disband from my mainstream purchasing habits. Upon coming to Los Angeles, I fell in love with thrift stores and the incredible one-of-a-kind finds that surfaced day after day.

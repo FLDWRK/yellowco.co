@@ -6,6 +6,7 @@ categories:
 author: Brianna Towne
 series: With
 redirect_from: "/with/5-ways-lower-cost-mental-health-care/"
+image: https://yellow-blog-images.imgix.net/2017/11/image6.jpg
 ---
 
 Even with insurance coverage and government programs that can help pay for mental health treatment, there is still a stigma in society that needs to be overcome. For me, it took years to get over the fear, shame, and guilt of my anxiety enough to even consider getting help. Even then, it took my husband asking ever so gently if I would consider seeing a therapist. I didn't want to be seen as weak, or as someone who needed help, or wasn't mentally up to the challenge of daily life. Somewhere along the road there was a shift away from all of that shame towards pride in taking back a little control for myself.

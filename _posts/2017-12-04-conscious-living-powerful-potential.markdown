@@ -7,6 +7,7 @@ categories:
 author: Hanna Snyder
 series: Conscious
 redirect_from: "/conscious/conscious-living-powerful-potential/"
+image: https://yellow-blog-images.imgix.net/2017/12/yellow.jpeg
 ---
 
 Place your ear to the earth and listen  

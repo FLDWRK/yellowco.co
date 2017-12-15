@@ -6,6 +6,7 @@ categories:
 author: Emily Schrems
 series: With
 redirect_from: "/with/understand-anxiety-therapist-interview/"
+image: https://yellow-blog-images.imgix.net/2017/11/image1.jpeg
 ---
 
 _With an innate love for people, [Dr. Therese Mascardo](http://drtherese.com/) is passionate about identifying a person's unique gifts as a means to help them create healthy relationships and live lives that are fulfilled and inspired. She believes that love is essential, relationships are the greatest source of health and healing, and that every person has the power to make the world a better place. I had the opportunity to talk with her about the similarities and differences between anxiety and depression, how to cope with them, outlets available for those of us experiencing mental illness, and much more. Throughout the mounds of wisdom I learned from her in our 45-minute conversation, perhaps one of my greatest takeaways is that we are all much more similar than we are different, and through honest expression and vulnerability toward mental health, we can come together to make our world a much safer place to live and love in._
