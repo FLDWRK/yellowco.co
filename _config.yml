@@ -2,9 +2,13 @@ title: Yellow Co.
 timezone: America/Los_Angeles
 url: https://yellowco.co
 description: Yellow Co. exist to empower creative, entrepreneurial women become agents of good. We do this through a membership platform, an annual conference, and digital media.
-exclude: ['node_modules']
-source: src
-destination: public
+exclude:
+- "Gemfile"
+- "Gemfile.lock"
+- "node_modules"
+- "package.json"
+- "webpack.config.js"
+- "yarn.lock"
 collections:
   series:
     title: Series
@@ -62,7 +66,7 @@ twitter_username: yellowconf
 permalink: pretty
 sass:
   load_paths:
-  - ../node_modules
+  - node_modules
 paginate: 9
 paginate_path: "/blog/archive/page:num"
 plugins_dir:

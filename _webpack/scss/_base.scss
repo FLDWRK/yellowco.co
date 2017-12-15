@@ -18,8 +18,8 @@ $border-radius-lg: 0;
 $border-radius-sm: 0;
 $border-width: 4px;
 // TYPOGRAPHY
-$font-family-serif: 'Playfair Display';
-$font-family-sans-serif: 'Open Sans';
+$font-family-serif: "Playfair Display";
+$font-family-sans-serif: "Open Sans";
 $font-family-subheadings: 'League Spartan', sans-serif;
 $headings-font-family: $font-family-serif;
 $headings-lg-font-family: $headings-font-family;
@@ -39,9 +39,9 @@ $display4-size: $font-size-h4;
 $btn-font-family: $font-family-subheadings;
 $link-color: $brand-black;
 
-@import 'bootstrap/scss/bootstrap';
-$fa-font-path: '/assets/fonts';
-@import 'font-awesome/scss/font-awesome';
+@import '~bootstrap/scss/bootstrap';
+$fa-font-path: "/assets/fonts";
+@import '~font-awesome/scss/font-awesome';
 @import 'css/fotorama';
 @import 'buttons';
 @import 'fixes';
