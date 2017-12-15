@@ -40,7 +40,7 @@ faqs:
   answer: It’s free if you’re within the US! If you’re international, shipping prices
     vary depending on your location.
 - question: Where are your chapters and how do the gatherings work?
-  answer: "Currently we have chapters in West LA, Downtown LA, The Valley LA, Orange
+  answer: Currently we have chapters in West LA, Downtown LA, The Valley LA, Orange
     County, San Diego, Bay Area, New York City, Cincinnati, Austin, Chicago, Denver
     and Tulsa. The gatherings are centered around our focus for the month, but each
     chapter throws in their own flare! The goal is for you to receive your periodical,
@@ -49,5 +49,6 @@ faqs:
     Every gathering ends with a 'helping circle' where each woman has an ask, and
     each woman commits to helping that person for that month. We always leave feeling
     inspired, having things to think about and having new goals to implement into
-    our lives. They’re pretty awesome if we do say so ourselves."
+    our lives. They’re pretty awesome if we do say so ourselves.
 ---
+
