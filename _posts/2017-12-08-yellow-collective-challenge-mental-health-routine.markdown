@@ -3,7 +3,7 @@ title: How Yellow's 7 Day Challenge Inspired Me Create This Daily Routine
 date: 2017-12-08 04:00:28 -08:00
 author: Amy Everhart
 series: Conscious
-cateogires:
+categories:
 - Health
 redirect_from: "/conscious/yellow-collective-challenge-mental-health-routine/"
 image: https://yellow-blog-images.imgix.net/2017/12/1T5A4253.jpg
