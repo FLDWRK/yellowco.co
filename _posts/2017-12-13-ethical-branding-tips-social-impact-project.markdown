@@ -5,6 +5,7 @@ categories:
 - Entrepreneurs
 author: Marisa Flacks
 series: Conscious
+image: https://yellow-blog-images.imgix.net/2017/12/FLDWRK-Coworking-photo-options-for-Yellow-blog-8.jpg
 redirect_from: "/conscious/ethical-branding-tips-social-impact-project/"
 ---
 
