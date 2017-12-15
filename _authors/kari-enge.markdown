@@ -1,7 +1,7 @@
 ---
 title: Kari Enge
 company_name: Rank & File
-job_title:
+job_title: 
 bio_image: "/assets/images/kari-enge.jpg"
 website: https://rankandfilemag.com/
 is_guest: true

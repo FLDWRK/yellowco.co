@@ -1,9 +1,10 @@
 ---
-title: "Your Guide to Getting the Most Out of Yellow Conference 2017 (Even if You're an Introvert!)"
-author: Joanna Waterfall
-date: '2017-06-28 04:06:43 -0700'
+title: Your Guide to Getting the Most Out of Yellow Conference 2017 (Even if You're
+  an Introvert!)
+date: 2017-06-28 04:06:43 -07:00
 categories:
 - Wander
+author: Joanna Waterfall
 redirect_from: "/wander/guide-getting-yellow-conference-2017-even-youre-introvert/"
 ---
 

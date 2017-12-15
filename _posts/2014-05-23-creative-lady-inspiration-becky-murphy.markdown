@@ -1,10 +1,10 @@
 ---
 title: 'Creative Lady Inspiration: Becky Murphy'
-author: Yellow
-date: '2014-05-23 15:07:09 -0700'
+date: 2014-05-23 15:07:09 -07:00
 categories:
 - Creative Ladies
 - Inspiration
+author: Yellow
 redirect_from: "/creative-ladies/creative-lady-inspiration-becky-murphy/"
 ---
 

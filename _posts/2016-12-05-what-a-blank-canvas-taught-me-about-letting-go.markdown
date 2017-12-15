@@ -1,11 +1,11 @@
 ---
 title: What a Blank Canvas Taught Me About Letting Go
-author: Adrianne Verheyen
-date: '2016-12-05 04:00:01 -0800'
+date: 2016-12-05 04:00:01 -08:00
 categories:
 - Inspiration
 - The Starter
 - Heart
+author: Adrianne Verheyen
 redirect_from: "/inspiration/7415/"
 ---
 

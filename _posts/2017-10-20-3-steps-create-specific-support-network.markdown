@@ -1,12 +1,12 @@
 ---
 title: 3 Steps to Create the Specific Support Network You Need
-author: Laura Weldy
-date: '2017-10-20 04:00:16 -0700'
-series: Come Together
+date: 2017-10-20 04:00:16 -07:00
 categories:
 - Relationships
+author: Laura Weldy
+series: Come Together
 redirect_from: "/come-together/3-steps-create-specific-support-network/"
-image: "https://yellow-blog-images.imgix.net/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-9-1320x880.jpg"
+image: https://yellow-blog-images.imgix.net/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-9-1320x880.jpg
 ---
 
 ### One of the richest pieces of the human experience is watching individuals come together to console, comfort, advise, and champion one another.

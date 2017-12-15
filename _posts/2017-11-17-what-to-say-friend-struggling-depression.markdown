@@ -1,10 +1,10 @@
 ---
-title: "Wondering What to Say to a Friend Struggling With Depression?"
-author: "Sybil Clark Amuti"
-series: "With"
+title: Wondering What to Say to a Friend Struggling With Depression?
+date: 2017-11-17 04:00:39 -08:00
 categories:
 - Relationships
-date: '2017-11-17 04:00:39 -0800'
+author: Sybil Clark Amuti
+series: With
 redirect_from: "/with/what-to-say-friend-struggling-depression/"
 ---
 

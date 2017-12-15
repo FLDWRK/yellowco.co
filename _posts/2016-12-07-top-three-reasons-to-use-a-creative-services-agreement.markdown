@@ -1,11 +1,11 @@
 ---
 title: Top Three Reasons to Use a Creative Services Agreement
-author: Wilkinson Mazzeo
-date: '2016-12-07 04:00:24 -0800'
+date: 2016-12-07 04:00:24 -08:00
 categories:
 - Creative Ladies
 - Advice
 - Heart
+author: Wilkinson Mazzeo
 redirect_from: "/creative-ladies/top-three-reasons-to-use-a-creative-services-agreement/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: 'Bloom Together: a Kickstarter Launch Party'
-author: Yellow
-date: '2015-03-12 03:00:49 -0700'
+date: 2015-03-12 03:00:49 -07:00
 categories:
 - Creative Ladies
+author: Yellow
 redirect_from: "/creative-ladies/bloom-together-a-kickstarter-launch-party/"
 ---
 

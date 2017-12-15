@@ -1,7 +1,6 @@
 ---
 title: 'Goodbye 2015: Learning to Celebrate All the Feels One Years Brings'
-author: Sally Kim
-date: '2015-12-31 04:00:17 -0800'
+date: 2015-12-31 04:00:17 -08:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -12,6 +11,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
+author: Sally Kim
 redirect_from: "/light-talk/goodbye-2015-learning-to-celebrate-all-the-feels-one-year-brings/"
 ---
 

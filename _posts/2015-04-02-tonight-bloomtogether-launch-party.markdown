@@ -1,9 +1,9 @@
 ---
 title: 'Tonight: #bloomtogether Launch Party!'
-author: Yellow
-date: '2015-04-02 04:00:37 -0700'
+date: 2015-04-02 04:00:37 -07:00
 categories:
 - Resources
+author: Yellow
 redirect_from: "/resources/tonight-bloomtogether-launch-party/"
 ---
 

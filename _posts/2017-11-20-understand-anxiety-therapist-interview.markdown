@@ -1,10 +1,10 @@
 ---
-title: "How to Understand Anxiety: an Interview With Dr. Therese, Psy.d."
-author: "Emily Schrems"
-series: "With"
+title: 'How to Understand Anxiety: an Interview With Dr. Therese, Psy.d.'
+date: 2017-11-20 04:00:09 -08:00
 categories:
 - Health
-date: '2017-11-20 04:00:09 -0800'
+author: Emily Schrems
+series: With
 redirect_from: "/with/understand-anxiety-therapist-interview/"
 ---
 

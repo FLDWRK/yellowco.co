@@ -1,13 +1,13 @@
 ---
 title: Necessary Lessons from Raven + Lily CEO and Founder Kirsten Dickerson
-author: Sally Kim
-date: '2015-08-25 04:00:36 -0700'
+date: 2015-08-25 04:00:36 -07:00
 categories:
 - Creative Ladies
 - Advice
 - Creative Advocacy
 - The Activist
 - The Starter
+author: Sally Kim
 redirect_from: "/creative-ladies/what-we-can-learn-from-raven-lily-ceo-and-founder-kirsten-dickerson/"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: How to Be a Boss Lady Without Being Rude
-author: Natalia Crawford
-date: '2016-06-21 04:00:52 -0700'
+date: 2016-06-21 04:00:52 -07:00
 categories:
 - Advice
 - The Leader
 - Grit
+author: Natalia Crawford
 redirect_from: "/advice/how-to-be-a-boss-lady-without-being-bossy/"
 ---
 

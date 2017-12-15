@@ -1,9 +1,9 @@
 ---
 title: Our (Free) March Gathering & Some Exciting News!!
-author: Joanna Waterfall
-date: '2016-02-25 04:07:18 -0800'
+date: 2016-02-25 04:07:18 -08:00
 categories:
 - Collective
+author: Joanna Waterfall
 redirect_from: "/yellow-collective/our-free-march-gathering-some-exciting-news/"
 ---
 

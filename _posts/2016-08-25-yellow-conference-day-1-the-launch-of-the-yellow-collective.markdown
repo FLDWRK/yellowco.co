@@ -1,10 +1,10 @@
 ---
 title: Yellow Conference Day 1 // the Launch of the Yellow Collective
-author: Yellow
-date: '2016-08-25 11:30:40 -0700'
+date: 2016-08-25 11:30:40 -07:00
 categories:
 - Yellow 2016
 - Collective
+author: Yellow
 redirect_from: "/yellow-2016/yellow-conference-day-1-the-launch-of-the-yellow-collective/"
 ---
 

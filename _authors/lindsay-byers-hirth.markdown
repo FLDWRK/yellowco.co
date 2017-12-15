@@ -1,5 +1,5 @@
 ---
-title: "Lindsay Byers-Hirth"
+title: Lindsay Byers-Hirth
 company_name: Society B
 job_title: Founder
 bio_image: "/assets/images/lindsay-byers-hirth.jpg"

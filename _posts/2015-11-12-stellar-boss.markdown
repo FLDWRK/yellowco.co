@@ -1,13 +1,13 @@
 ---
 title: How to Be a Relatable Leader
-author: Samantha Chaffin
-date: '2015-11-12 04:00:43 -0800'
+date: 2015-11-12 04:00:43 -08:00
 categories:
 - Creative Ladies
 - Advice
 - Refine
 - Encouragement
 - The Leader
+author: Samantha Chaffin
 redirect_from: "/creative-ladies/stellarboss/"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: This One List Totally Changed My Life's Direction
-author: Yellow
-date: '2017-01-04 04:00:30 -0800'
+date: 2017-01-04 04:00:30 -08:00
 categories:
 - Inspiration
 - Encouragement
 - Pioneer
+author: Yellow
 redirect_from: "/inspiration/7561/"
 ---
 

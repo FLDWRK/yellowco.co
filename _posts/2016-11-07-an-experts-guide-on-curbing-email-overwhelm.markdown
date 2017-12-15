@@ -1,10 +1,10 @@
 ---
 title: An Expert's Guide to Curbing Email Overwhelm
-author: Yellow
-date: '2016-11-07 04:00:19 -0800'
+date: 2016-11-07 04:00:19 -08:00
 categories:
 - Advice
 - Heart
+author: Yellow
 redirect_from: "/advice/an-experts-guide-on-curbing-email-overwhelm/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Why You are the Answer to Finding Your Work/Life Balance
-author: Amy Everhart
-date: '2017-07-24 04:00:00 -0700'
+date: 2017-07-24 04:00:00 -07:00
 categories:
 - Tension
+author: Amy Everhart
 redirect_from: "/tension/answer-finding-worklife-balance/"
 ---
 

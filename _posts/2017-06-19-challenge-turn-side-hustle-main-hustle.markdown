@@ -1,9 +1,9 @@
 ---
 title: 'Challenge: Turn Side Hustle into Main Hustle'
-author: Rachel Neal
-date: '2017-06-19 11:01:23 -0700'
+date: 2017-06-19 11:01:23 -07:00
 categories:
 - Wander
+author: Rachel Neal
 redirect_from: "/wander/challenge-turn-side-hustle-main-hustle/"
 ---
 

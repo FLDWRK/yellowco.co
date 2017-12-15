@@ -1,11 +1,11 @@
 ---
 title: Starting the New Year With Thanks
-author: Yellow
-date: '2014-12-30 04:00:40 -0800'
+date: 2014-12-30 04:00:40 -08:00
 categories:
 - Advice
 - Inspiration
 - Encouragement
+author: Yellow
 redirect_from: "/advice/starting-new-year-thanks/"
 ---
 

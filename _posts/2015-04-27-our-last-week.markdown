@@ -1,9 +1,9 @@
 ---
 title: Our Last Week!
-author: Yellow
-date: '2015-04-27 12:38:18 -0700'
+date: 2015-04-27 12:38:18 -07:00
 categories:
 - Resources
+author: Yellow
 redirect_from: "/resources/our-last-week/"
 ---
 

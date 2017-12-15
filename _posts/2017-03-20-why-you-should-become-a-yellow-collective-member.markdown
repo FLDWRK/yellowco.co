@@ -1,10 +1,10 @@
 ---
 title: A Few Words from Our Members (AKA the Coolest Ladies in All the Land)
-author: Joanna Waterfall
-date: '2017-03-20 04:00:17 -0700'
+date: 2017-03-20 04:00:17 -07:00
 categories:
 - Collective
 - Pioneer
+author: Joanna Waterfall
 redirect_from: "/yellow-collective/why-you-should-become-a-yellow-collective-member/"
 ---
 

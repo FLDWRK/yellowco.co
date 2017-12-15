@@ -1,7 +1,6 @@
 ---
 title: 'Creative Advocacy: Conscious Closets'
-author: Johanna Tropiano
-date: '2015-07-07 04:00:48 -0700'
+date: 2015-07-07 04:00:48 -07:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -9,6 +8,7 @@ categories:
 - Creative Advocacy
 - Inspiration
 - The Activist
+author: Johanna Tropiano
 redirect_from: "/light-talk/creative-advocacy-conscious-closets/"
 ---
 

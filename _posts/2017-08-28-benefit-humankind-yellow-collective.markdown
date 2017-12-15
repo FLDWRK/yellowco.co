@@ -1,9 +1,9 @@
 ---
 title: For the Benefit of Humankind
-author: Hanna Snyder
-date: '2017-08-28 04:00:19 -0700'
+date: 2017-08-28 04:00:19 -07:00
 categories:
 - Tension
+author: Hanna Snyder
 redirect_from: "/tension/benefit-humankind-yellow-collective/"
 ---
 

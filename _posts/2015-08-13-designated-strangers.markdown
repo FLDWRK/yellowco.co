@@ -1,12 +1,13 @@
 ---
-title: 'Designated Strangers: How One Photographer Uses Instagram to Advocate for Foster Children'
-author: Ashley Tingley
-date: '2015-08-13 04:00:57 -0700'
+title: 'Designated Strangers: How One Photographer Uses Instagram to Advocate for
+  Foster Children'
+date: 2015-08-13 04:00:57 -07:00
 categories:
 - Creative Ladies
 - Creative Advocacy
 - Inspiration
 - The Activist
+author: Ashley Tingley
 redirect_from: "/creative-ladies/designatedstrangers/"
 ---
 

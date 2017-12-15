@@ -1,10 +1,10 @@
 ---
 title: Four Ways to Help Us Fund this Kickstarter
-author: Yellow
-date: '2015-04-20 01:27:43 -0700'
-date_gmt: '2015-04-20 08:27:43 -0700'
+date: 2015-04-20 01:27:43 -07:00
 categories:
 - Resources
+author: Yellow
+date_gmt: '2015-04-20 08:27:43 -0700'
 redirect_from: "/resources/4-ways-to-help-us-fund-this-kickstarter/"
 ---
 

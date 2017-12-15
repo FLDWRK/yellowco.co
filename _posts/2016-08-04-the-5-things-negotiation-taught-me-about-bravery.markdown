@@ -1,11 +1,11 @@
 ---
 title: Scared of Negotiations? Here's 5 Ways to Perfect the Art of Negotiating
-author: Bailey Van Tassel
-date: '2016-08-04 04:00:57 -0700'
+date: 2016-08-04 04:00:57 -07:00
 categories:
 - Advice
 - The Leader
 - Valor
+author: Bailey Van Tassel
 redirect_from: "/advice/the-5-things-negotiation-taught-me-about-bravery/"
 ---
 

@@ -1,10 +1,11 @@
 ---
-title: "Work Hard, Trust Yourself, Seek the Help of Others, and Don't Give Up: Turning My Passion Into a Career in Less Than a Year"
-author: Yellow
-date: '2016-01-07 04:00:07 -0800'
+title: 'Work Hard, Trust Yourself, Seek the Help of Others, and Don''t Give Up: Turning
+  My Passion Into a Career in Less Than a Year'
+date: 2016-01-07 04:00:07 -08:00
 categories:
 - The Activist
 - Build
+author: Yellow
 redirect_from: "/the-activist/work-hard-trust-yourself-seek-the-help-of-others-and-dont-give-up-how-i-turned-my-passion-into-a-career-in-less-than-a-year/"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "The Yellow Collective 2.0 Launch: Gathering Together to Become Agents of Good"
-author: Rachel Neal
-date: '2017-08-25 04:00:28 -0700'
+title: 'The Yellow Collective 2.0 Launch: Gathering Together to Become Agents of Good'
+date: 2017-08-25 04:00:28 -07:00
 categories:
 - Tension
+author: Rachel Neal
 redirect_from: "/tension/yellow-collective-launch-gather-together-grow-agents-of-good/"
 ---
 

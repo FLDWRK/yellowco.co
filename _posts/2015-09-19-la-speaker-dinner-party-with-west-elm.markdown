@@ -1,9 +1,9 @@
 ---
 title: LA Speaker Dinner Party with West Elm
-author: Yellow
-date: '2015-09-19 04:00:16 -0700'
+date: 2015-09-19 04:00:16 -07:00
 categories:
 - Yellow 2015
+author: Yellow
 redirect_from: "/yellow-2015/la-speaker-dinner-party-with-west-elm/"
 ---
 

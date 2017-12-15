@@ -1,9 +1,9 @@
 ---
 title: Kickstarter Update!
-author: Yellow
-date: '2015-04-28 08:28:08 -0700'
+date: 2015-04-28 08:28:08 -07:00
 categories:
 - Resources
+author: Yellow
 redirect_from: "/resources/kickstarter-update-2/"
 ---
 

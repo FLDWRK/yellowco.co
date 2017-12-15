@@ -1,11 +1,11 @@
 ---
 title: Why Passion Makes Things Happen
-author: Yellow
-date: '2014-05-07 16:16:51 -0700'
+date: 2014-05-07 16:16:51 -07:00
 categories:
 - Advice
 - Inspiration
 - Encouragement
+author: Yellow
 redirect_from: "/advice/passion-makes-things-happen/"
 ---
 

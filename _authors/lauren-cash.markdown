@@ -1,6 +1,6 @@
 ---
 title: Lauren Cash
-company_name:
+company_name: 
 job_title: Founder
 bio_image: "/assets/images/lauren-cash.jpg"
 website: https://laurencashrdn.com/

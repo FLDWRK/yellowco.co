@@ -1,9 +1,9 @@
 ---
 title: 'Meet Lisa Gungor: One of Our 2017 Conference Speakers'
-author: Hanna Snyder
-date: '2017-06-23 04:00:10 -0700'
+date: 2017-06-23 04:00:10 -07:00
 categories:
 - Wander
+author: Hanna Snyder
 redirect_from: "/wander/lisa-gungor-yellow-conference-speaker/"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Finding Your Sweet Spot in Leadership (Psst...We Got the Secret)
-author: Rachel Dawson
-date: '2016-02-18 04:00:12 -0800'
+date: 2016-02-18 04:00:12 -08:00
 categories:
 - Advice
 - The Leader
 - Build
+author: Rachel Dawson
 redirect_from: "/advice/finding-your-sweet-spot-in-leadership-psst-we-got-the-secret/"
 ---
 

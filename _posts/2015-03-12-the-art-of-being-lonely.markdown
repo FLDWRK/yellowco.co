@@ -1,12 +1,12 @@
 ---
 title: 'Rediscovering Authenticity: the Art of Being Lonely'
-author: Yellow
-date: '2015-03-12 04:00:24 -0700'
+date: 2015-03-12 04:00:24 -07:00
 categories:
 - Advice
 - Inspiration
 - Encouragement
 - Rediscovering Authenticity
+author: Yellow
 redirect_from: "/advice/theartofbeinglonely/"
 ---
 

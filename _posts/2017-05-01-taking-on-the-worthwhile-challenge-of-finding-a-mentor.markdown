@@ -1,9 +1,9 @@
 ---
 title: Taking on the Worthwhile Challenge of Finding a Mentor
-author: Kristi Triplett
-date: '2017-05-01 04:00:36 -0700'
+date: 2017-05-01 04:00:36 -07:00
 categories:
 - Wander
+author: Kristi Triplett
 redirect_from: "/wander/taking-on-the-worthwhile-challenge-of-finding-a-mentor/"
 ---
 

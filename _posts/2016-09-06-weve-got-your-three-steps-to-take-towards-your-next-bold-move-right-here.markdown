@@ -1,11 +1,11 @@
 ---
 title: Three Steps to Making One Bold Life Change
-author: Yellow
-date: '2016-09-06 04:00:17 -0700'
+date: 2016-09-06 04:00:17 -07:00
 categories:
 - The Starter
 - Encouragement
 - Valor
+author: Yellow
 redirect_from: "/the-starter/weve-got-your-three-steps-to-take-towards-your-next-bold-move-right-here/"
 ---
 

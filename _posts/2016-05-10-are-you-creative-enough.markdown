@@ -1,11 +1,11 @@
 ---
 title: Am I Creative "Enough?"
-author: Sally Kim
-date: '2016-05-10 04:00:44 -0700'
+date: 2016-05-10 04:00:44 -07:00
 categories:
 - Light Talk
 - Inspiration
 - Grit
+author: Sally Kim
 redirect_from: "/light-talk/are-you-creative-enough/"
 ---
 

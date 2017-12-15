@@ -1,10 +1,10 @@
 ---
 title: How One Simple Challenge Spontaneously Landed Me in Cuba
-author: Yellow Co.
-date: '2017-09-11 04:00:19 -0700'
+date: 2017-09-11 04:00:19 -07:00
 categories:
 - Growth
-image: "https://yellow-blog-images.imgix.net/2017/09/1T5A8835.jpg"
+author: Yellow Co.
+image: https://yellow-blog-images.imgix.net/2017/09/1T5A8835.jpg
 redirect_from: "/tension/wander-challenge-draft/"
 ---
 

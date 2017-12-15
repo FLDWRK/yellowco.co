@@ -1,10 +1,10 @@
 ---
-title: "12 Quotes to Calm Your Stress Right Now"
-author: "Jackie Boylhart"
-series: "With"
+title: 12 Quotes to Calm Your Stress Right Now
+date: 2017-11-29 04:00:16 -08:00
 categories:
 - Growth
-date: '2017-11-29 04:00:16 -0800'
+author: Jackie Boylhart
+series: With
 redirect_from: "/with/quotes-that-calm-stress-now/"
 ---
 

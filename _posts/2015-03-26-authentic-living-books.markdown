@@ -1,10 +1,10 @@
 ---
 title: 'Rediscovering Authenticity: 5 Books You Should Read to Ignite Authentic Living'
-author: Abigail Driscoll
-date: '2015-03-26 04:00:24 -0700'
+date: 2015-03-26 04:00:24 -07:00
 categories:
 - Light Talk
 - Rediscovering Authenticity
+author: Abigail Driscoll
 redirect_from: "/light-talk/authenticlivingbooks/"
 ---
 

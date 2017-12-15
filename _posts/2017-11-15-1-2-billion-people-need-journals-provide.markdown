@@ -1,10 +1,10 @@
 ---
-title: "What 1.2 Billion People Need That These Journals Provide"
-author: "Yellow Co."
-series: "With"
+title: What 1.2 Billion People Need That These Journals Provide
+date: 2017-11-15 04:00:45 -08:00
 categories:
 - Entrepreneurs
-date: '2017-11-15 04:00:45 -0800'
+author: Yellow Co.
+series: With
 redirect_from: "/with/1-2-billion-people-need-journals-provide/"
 ---
 

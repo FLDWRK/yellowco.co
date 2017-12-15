@@ -1,11 +1,11 @@
 ---
 title: How Saying Yes to Volunteer Work Can Help You Find More Purpose
-author: Lisa Hensley
-date: '2016-06-23 04:00:51 -0700'
+date: 2016-06-23 04:00:51 -07:00
 categories:
 - Advice
 - The Starter
 - Grit
+author: Lisa Hensley
 redirect_from: "/advice/building-your-dreams-by-saying-yes-to-volunteer-work/"
 ---
 

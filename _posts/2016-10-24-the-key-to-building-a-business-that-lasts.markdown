@@ -1,10 +1,10 @@
 ---
 title: The Key to Building a Business that Lasts
-author: Yellow
-date: '2016-10-24 04:00:11 -0700'
+date: 2016-10-24 04:00:11 -07:00
 categories:
 - Advice
 - Heart
+author: Yellow
 redirect_from: "/advice/the-key-to-building-a-business-that-lasts/"
 ---
 

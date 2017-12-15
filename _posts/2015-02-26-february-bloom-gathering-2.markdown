@@ -1,11 +1,11 @@
 ---
 title: February Bloom Gathering Recap
-author: Sally Kim
-date: '2015-02-26 04:00:54 -0800'
+date: 2015-02-26 04:00:54 -08:00
 categories:
 - Creative Ladies
 - Encouragement
 - Yellow 2015
+author: Sally Kim
 redirect_from: "/creative-ladies/februarybloomgathering-2/"
 ---
 

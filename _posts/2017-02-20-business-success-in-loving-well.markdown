@@ -1,11 +1,11 @@
 ---
 title: Five Truths Why Success is Rooted in Loving People Well
-author: Char Newswanger
-date: '2017-02-20 04:00:40 -0800'
+date: 2017-02-20 04:00:40 -08:00
 categories:
 - Inspiration
 - The Leader
 - Pioneer
+author: Char Newswanger
 redirect_from: "/inspiration/business-success-in-loving-well/"
 ---
 

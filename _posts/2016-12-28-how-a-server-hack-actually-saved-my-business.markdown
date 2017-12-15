@@ -1,11 +1,11 @@
 ---
 title: How a Massive Security Breach Actually Saved My Business
-author: Yellow
-date: '2016-12-28 04:00:54 -0800'
+date: 2016-12-28 04:00:54 -08:00
 categories:
 - Advice
 - The Leader
 - Heart
+author: Yellow
 redirect_from: "/advice/how-a-server-hack-actually-saved-my-business/"
 ---
 

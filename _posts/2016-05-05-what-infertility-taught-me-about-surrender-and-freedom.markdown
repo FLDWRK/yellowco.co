@@ -1,11 +1,11 @@
 ---
 title: What My Journey with Infertility Taught Me About Surrender and Freedom
-author: Becky Morquecho
-date: '2016-05-05 04:00:02 -0700'
+date: 2016-05-05 04:00:02 -07:00
 categories:
 - Inspiration
 - Encouragement
 - Grit
+author: Becky Morquecho
 redirect_from: "/inspiration/what-infertility-taught-me-about-surrender-and-freedom/"
 ---
 

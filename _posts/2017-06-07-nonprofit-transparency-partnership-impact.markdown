@@ -1,9 +1,9 @@
 ---
 title: 'Nonprofit Transparency: Finding a Partnership that Makes Real Impact'
-author: "Rachael Parker-Chavez"
-date: '2017-06-07 04:00:15 -0700'
+date: 2017-06-07 04:00:15 -07:00
 categories:
 - Wander
+author: Rachael Parker-Chavez
 redirect_from: "/wander/nonprofit-transparency-partnership-impact/"
 ---
 

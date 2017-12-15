@@ -1,11 +1,11 @@
 ---
 title: How to Survive When it Feels Like No One "Gets" What You Do
-author: Bailey Van Tassel
-date: '2017-01-20 04:00:39 -0800'
+date: 2017-01-20 04:00:39 -08:00
 categories:
 - Advice
 - The Leader
 - Pioneer
+author: Bailey Van Tassel
 redirect_from: "/advice/how-to-survive-when-it-feels-like-no-one-gets-your-business/"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Doing What You Can: Where You Are Can Change the World"
-author: Francesca Willow
-date: '2017-09-06 04:00:12 -0700'
+title: 'Doing What You Can: Where You Are Can Change the World'
+date: 2017-09-06 04:00:12 -07:00
 categories:
 - Entrepreneurs
-image: "https://yellow-blog-images.imgix.net/2017/09/BeBangles-Summer2016-033.jpg"
+author: Francesca Willow
+image: https://yellow-blog-images.imgix.net/2017/09/BeBangles-Summer2016-033.jpg
 redirect_from: "/tension/much-worth-giving-energy-draft/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: \"It's All About Who You Know\" - Really? Is it?
-author: Yellow
-date: '2015-06-23 04:45:25 -0700'
+date: 2015-06-23 04:45:25 -07:00
 categories:
 - Advice
 - The Solopreneur
 - The Leader
 - Tribe
+author: Yellow
 redirect_from: "/advice/its-all-about-who-you-know-really-is-it/"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: The Super Secret No One Told You About Time Management (and How to Take a Giant Step in the Right Direction)
-author: Yellow
-date: '2015-12-22 04:00:01 -0800'
+title: The Super Secret No One Told You About Time Management (and How to Take a Giant
+  Step in the Right Direction)
+date: 2015-12-22 04:00:01 -08:00
 categories:
 - Resources
 - Creative Ladies
@@ -14,6 +14,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
+author: Yellow
 redirect_from: "/resources/why-and-how-we-must-care-for-ourselves-before-caring-for-our-cause-or-business/"
 ---
 

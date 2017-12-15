@@ -1,9 +1,9 @@
 ---
 title: 10 Terms to Know to Become a Conscious Consumer
-author: Bailey Van Tassel
-date: '2017-07-21 04:00:17 -0700'
+date: 2017-07-21 04:00:17 -07:00
 categories:
 - Tension
+author: Bailey Van Tassel
 redirect_from: "/tension/terms-know-conscious-consumer/"
 ---
 

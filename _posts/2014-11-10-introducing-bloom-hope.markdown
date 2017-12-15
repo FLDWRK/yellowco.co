@@ -1,9 +1,9 @@
 ---
 title: 'Introducing: Bloom for Hope, a Bloom Gathering'
-author: Yellow
-date: '2014-11-10 19:01:52 -0800'
+date: 2014-11-10 19:01:52 -08:00
 categories:
 - The Activist
+author: Yellow
 redirect_from: "/the-activist/introducing-bloom-hope/"
 ---
 

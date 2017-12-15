@@ -1,11 +1,11 @@
 ---
 title: Why Having a Day Job Doesn't Make You Any Less of an Entrepreneur
-author: Holly Meyer
-date: '2016-03-01 04:00:02 -0800'
+date: 2016-03-01 04:00:02 -08:00
 categories:
 - Creative Ladies
 - Advice
 - Build
+author: Holly Meyer
 redirect_from: "/creative-ladies/having-a-day-job-doesnt-make-you-any-less-of-an-entrepreneur/"
 ---
 

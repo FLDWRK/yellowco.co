@@ -1,9 +1,9 @@
 ---
 title: Bloom for Hope Recap
-author: Yellow
-date: '2014-12-08 14:10:26 -0800'
+date: 2014-12-08 14:10:26 -08:00
 categories:
 - The Activist
+author: Yellow
 redirect_from: "/the-activist/bloom-hope-recap/"
 ---
 

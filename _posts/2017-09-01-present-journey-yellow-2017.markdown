@@ -1,11 +1,13 @@
 ---
 title: 'My Present Journey: Experiencing Yellow 2017'
-author: Jill Arbini
-date: '2017-09-01 04:00:24 -0700'
+date: 2017-09-01 04:00:24 -07:00
 categories:
 - Growth
-tags: conference, 2017
-image: "https://yellow-blog-images.imgix.net/2017/09/0P7A2716.jpg"
+tags:
+- conference,
+- '2017'
+author: Jill Arbini
+image: https://yellow-blog-images.imgix.net/2017/09/0P7A2716.jpg
 redirect_from: "/tension/present-journey-yellow-2017/"
 ---
 

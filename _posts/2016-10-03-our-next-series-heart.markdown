@@ -1,11 +1,11 @@
 ---
 title: 'Our Next Series: Heart'
-author: Yellow
-date: '2016-10-03 04:00:31 -0700'
+date: 2016-10-03 04:00:31 -07:00
 categories:
 - Creative Ladies
 - Inspiration
 - Heart
+author: Yellow
 redirect_from: "/creative-ladies/our-next-series-heart/"
 ---
 

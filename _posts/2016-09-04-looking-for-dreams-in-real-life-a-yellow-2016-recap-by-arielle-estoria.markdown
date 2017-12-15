@@ -1,11 +1,10 @@
 ---
-title: Looking for Dreams in Real Life  //  A Yellow 2016 Recap by Arielle
-  Estoria
-author: Arielle Estoria
-date: '2016-09-04 15:47:50 -0700'
+title: Looking for Dreams in Real Life  //  A Yellow 2016 Recap by Arielle Estoria
+date: 2016-09-04 15:47:50 -07:00
 categories:
 - "#bloomyellow"
 - Yellow 2016
+author: Arielle Estoria
 redirect_from: "/bloomyellow/looking-for-dreams-in-real-life-a-yellow-2016-recap-by-arielle-estoria/"
 ---
 

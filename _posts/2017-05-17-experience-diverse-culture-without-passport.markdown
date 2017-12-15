@@ -1,10 +1,9 @@
 ---
-
-title: "Experiencing the Impact of Culture (Without a Passport)"
-author: "Rachael Parker-Chavez"
-date: '2017-05-17 04:00:08 -0700'
+title: Experiencing the Impact of Culture (Without a Passport)
+date: 2017-05-17 04:00:08 -07:00
 categories:
 - Wander
+author: Rachael Parker-Chavez
 redirect_from: "/wander/experience-diverse-culture-without-passport/"
 ---
 

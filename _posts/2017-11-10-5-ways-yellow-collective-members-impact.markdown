@@ -1,11 +1,11 @@
 ---
-title: "5 Ways Yellow Members Made an Impact This Month"
-author: "Yellow Co."
-series: "With"
+title: 5 Ways Yellow Members Made an Impact This Month
+date: 2017-11-10 04:00:49 -08:00
 categories:
 - Culture
+author: Yellow Co.
+series: With
 impact-feature: true
-date: '2017-11-10 04:00:49 -0800'
 redirect_from: "/with/5-ways-yellow-collective-members-impact/"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: 'A Day in the Life: with Kelly Valentine'
-author: Yellow
-date: '2015-03-17 04:00:30 -0700'
+date: 2015-03-17 04:00:30 -07:00
 categories:
 - Light Talk
 - Team Members
+author: Yellow
 redirect_from: "/light-talk/a-day-in-the-life-with-kelly-valentine/"
 ---
 

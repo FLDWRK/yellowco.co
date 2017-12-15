@@ -1,9 +1,9 @@
 ---
 title: 'How To Learn Healthy Time Management - May #Bloomgathering Recap'
-author: Yellow
-date: '2015-06-02 04:30:49 -0700'
+date: 2015-06-02 04:30:49 -07:00
 categories:
 - Advice
+author: Yellow
 redirect_from: "/advice/may-bloomgathering-recap/"
 ---
 

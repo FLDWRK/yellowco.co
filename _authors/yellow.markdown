@@ -1,9 +1,9 @@
 ---
 title: Yellow Co.
-company_name:
-job_title:
+company_name: 
+job_title: 
 bio_image: "/assets/images/author-yellow.jpg"
-website:
+website: 
 is_guest: false
 ---
 

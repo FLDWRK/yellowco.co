@@ -1,9 +1,9 @@
 ---
 title: The Impact of Planning a Personal Retreat
-author: Kristi Porter
-date: '2017-04-12 04:00:13 -0700'
+date: 2017-04-12 04:00:13 -07:00
 categories:
 - Wander
+author: Kristi Porter
 redirect_from: "/wander/the-impact-of-planning-a-personal-retreat/"
 ---
 

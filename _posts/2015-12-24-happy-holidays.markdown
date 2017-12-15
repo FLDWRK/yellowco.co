@@ -1,10 +1,10 @@
 ---
 title: Happy Holidays!
-author: Yellow
-date: '2015-12-24 04:45:50 -0800'
+date: 2015-12-24 04:45:50 -08:00
 categories:
 - Light Talk
 - Free Downloads
+author: Yellow
 redirect_from: "/light-talk/happy-holidays/"
 ---
 

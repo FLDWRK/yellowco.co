@@ -1,9 +1,9 @@
 ---
 title: Finding Peace in Losing Control
-author: Kristi Porter
-date: '2017-08-11 04:00:08 -0700'
+date: 2017-08-11 04:00:08 -07:00
 categories:
 - Tension
+author: Kristi Porter
 redirect_from: "/tension/finding-peace-losing-control/"
 ---
 

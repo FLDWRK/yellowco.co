@@ -1,7 +1,6 @@
 ---
 title: 'Social Media: There is Power Behind the Why and What You Post.'
-author: Arielle Estoria
-date: '2015-10-27 04:00:05 -0700'
+date: 2015-10-27 04:00:05 -07:00
 categories:
 - Creative Ladies
 - Advice
@@ -12,6 +11,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
+author: Arielle Estoria
 redirect_from: "/creative-ladies/social-media-its-better-than-you-think/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: 4 Lessons I Learned as a Pregnant Entrepreneur
-author: Bailey Van Tassel
-date: '2017-08-02 04:00:21 -0700'
+date: 2017-08-02 04:00:21 -07:00
 categories:
 - Tension
+author: Bailey Van Tassel
 redirect_from: "/tension/lessons-learned-pregnant-entrepreneur/"
 ---
 

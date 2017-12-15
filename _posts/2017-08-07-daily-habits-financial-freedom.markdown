@@ -1,9 +1,9 @@
 ---
 title: Turning Your Daily Habits into Financial Freedom (and Enjoying it)
-author: Emily Schrems
-date: '2017-08-07 04:00:18 -0700'
+date: 2017-08-07 04:00:18 -07:00
 categories:
 - Tension
+author: Emily Schrems
 redirect_from: "/tension/daily-habits-financial-freedom/"
 ---
 

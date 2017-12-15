@@ -1,12 +1,11 @@
 ---
-title: 'We Have the Secret to Your Perfect Morning Routine (Hint: it Starts with
-  You)'
-author: Yellow
-date: '2016-10-21 04:00:00 -0700'
+title: 'We Have the Secret to Your Perfect Morning Routine (Hint: it Starts with You)'
+date: 2016-10-21 04:00:00 -07:00
 categories:
 - Creative Ladies
 - Advice
 - Heart
+author: Yellow
 redirect_from: "/creative-ladies/we-have-the-secret-to-your-perfect-morning-routine-hint-it-starts-with-you/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: What I Learned When My Dream Job Became a Chore
-author: Christine Stephens
-date: '2017-05-24 04:00:07 -0700'
+date: 2017-05-24 04:00:07 -07:00
 categories:
 - Wander
+author: Christine Stephens
 redirect_from: "/wander/what-i-learned-when-my-dream-job-became-a-chore/"
 ---
 

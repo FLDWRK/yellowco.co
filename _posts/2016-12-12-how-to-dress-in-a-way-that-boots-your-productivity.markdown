@@ -1,11 +1,11 @@
 ---
 title: How to Dress in a Way that Boosts Your Productivity
-author: Amy Harris
-date: '2016-12-12 04:00:26 -0800'
+date: 2016-12-12 04:00:26 -08:00
 categories:
 - Creative Ladies
 - Advice
 - Heart
+author: Amy Harris
 redirect_from: "/creative-ladies/how-to-dress-in-a-way-that-boots-your-productivity/"
 ---
 

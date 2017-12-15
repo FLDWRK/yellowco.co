@@ -1,9 +1,9 @@
 ---
 title: Why Loving Well and Succeeding Greatly is Not an Either/Or
-author: Jackie Viramontez
-date: '2017-07-28 04:00:55 -0700'
+date: 2017-07-28 04:00:55 -07:00
 categories:
 - Tension
+author: Jackie Viramontez
 redirect_from: "/tension/loving-well-succeeding-greatly/"
 ---
 

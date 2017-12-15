@@ -1,12 +1,12 @@
 ---
 title: December Bloom Gathering Recap
-author: Yellow
-date: '2014-12-23 04:00:58 -0800'
+date: 2014-12-23 04:00:58 -08:00
 categories:
 - Resources
 - Creative Ladies
 - The Activist
 - Yellow 2015
+author: Yellow
 redirect_from: "/resources/december-bloom-gathering-recap/"
 ---
 

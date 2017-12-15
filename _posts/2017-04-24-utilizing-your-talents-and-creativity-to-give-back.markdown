@@ -1,9 +1,9 @@
 ---
 title: Utilizing Your Talents and Creativity to Give Back
-author: Jasmin Bollman
-date: '2017-04-24 04:00:55 -0700'
+date: 2017-04-24 04:00:55 -07:00
 categories:
 - Wander
+author: Jasmin Bollman
 redirect_from: "/wander/utilizing-your-talents-and-creativity-to-give-back/"
 ---
 

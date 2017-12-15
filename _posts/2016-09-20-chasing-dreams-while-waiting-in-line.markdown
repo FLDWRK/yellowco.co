@@ -1,10 +1,10 @@
 ---
 title: Chasing Dreams While Waiting in Line
-author: Yellow
-date: '2016-09-20 04:00:07 -0700'
+date: 2016-09-20 04:00:07 -07:00
 categories:
 - "#bloomyellow"
 - Valor
+author: Yellow
 redirect_from: "/bloomyellow/chasing-dreams-while-waiting-in-line/"
 ---
 

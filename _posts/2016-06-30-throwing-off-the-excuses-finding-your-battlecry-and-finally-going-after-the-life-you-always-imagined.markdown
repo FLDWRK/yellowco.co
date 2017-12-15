@@ -1,12 +1,13 @@
 ---
-title: It's Time to Throw Off the Excuses, Find Your Battlecry, and Finally Go After the Life You Always Imagined
-author: Katherine Henson
-date: '2016-06-30 04:00:01 -0700'
+title: It's Time to Throw Off the Excuses, Find Your Battlecry, and Finally Go After
+  the Life You Always Imagined
+date: 2016-06-30 04:00:01 -07:00
 categories:
 - Light Talk
 - Inspiration
 - Encouragement
 - Grit
+author: Katherine Henson
 redirect_from: "/light-talk/throwing-off-the-excuses-finding-your-battlecry-and-finally-going-after-the-life-you-always-imagined/"
 ---
 

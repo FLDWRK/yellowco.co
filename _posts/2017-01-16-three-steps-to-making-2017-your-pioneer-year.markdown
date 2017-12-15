@@ -1,11 +1,11 @@
 ---
 title: Three Steps to Making 2017 Your Pioneer Year
-author: Yellow
-date: '2017-01-16 04:00:09 -0800'
+date: 2017-01-16 04:00:09 -08:00
 categories:
 - Advice
 - Inspiration
 - Pioneer
+author: Yellow
 redirect_from: "/advice/three-steps-to-making-2017-your-pioneer-year/"
 ---
 

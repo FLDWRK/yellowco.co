@@ -1,12 +1,12 @@
 ---
 title: How to Be There for a Grieving Friend
-author: Abigail Driscoll
-date: '2015-06-16 04:00:07 -0700'
+date: 2015-06-16 04:00:07 -07:00
 categories:
 - Advice
 - Inspiration
 - Encouragement
 - Tribe
+author: Abigail Driscoll
 redirect_from: "/advice/how-to-be-a-good-friend-when-someone-in-your-tribe-is-grieving/"
 ---
 

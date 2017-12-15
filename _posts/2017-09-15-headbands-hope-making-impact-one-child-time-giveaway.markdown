@@ -1,10 +1,10 @@
 ---
 title: 'Headbands of Hope: Making an Impact One Child at a Time (& a Giveaway!)'
-author: Jess Ekstrom
-date: '2017-09-15 04:00:44 -0700'
+date: 2017-09-15 04:00:44 -07:00
 categories:
 - Tension
-image: "https://yellow-blog-images.imgix.net/2017/09/amandagnwn.jpg"
+author: Jess Ekstrom
+image: https://yellow-blog-images.imgix.net/2017/09/amandagnwn.jpg
 redirect_from: "/tension/headbands-hope-making-impact-one-child-time-giveaway/"
 ---
 

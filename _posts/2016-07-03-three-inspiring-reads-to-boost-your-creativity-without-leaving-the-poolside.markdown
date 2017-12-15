@@ -1,13 +1,13 @@
 ---
 title: Five Inspiring Reads to Boost Your Creativity... (Without Leaving the Poolside)
-author: Sally Kim
-date: '2016-07-03 04:00:10 -0700'
+date: 2016-07-03 04:00:10 -07:00
 categories:
 - Light Talk
 - The Activist
 - The Starter
 - The Solopreneur
 - The Leader
+author: Sally Kim
 redirect_from: "/light-talk/three-inspiring-reads-to-boost-your-creativity-without-leaving-the-poolside/"
 ---
 

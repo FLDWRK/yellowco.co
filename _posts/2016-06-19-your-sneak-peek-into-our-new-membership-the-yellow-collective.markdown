@@ -1,11 +1,11 @@
 ---
 title: 'Your Sneak-Peek Into Our New Membership: the Yellow Collective'
-author: Rachel Neal
-date: '2016-06-19 04:00:58 -0700'
+date: 2016-06-19 04:00:58 -07:00
 categories:
 - Light Talk
 - Yellow 2016
 - Collective
+author: Rachel Neal
 redirect_from: "/light-talk/your-sneak-peek-into-our-new-membership-the-yellow-collective/"
 ---
 

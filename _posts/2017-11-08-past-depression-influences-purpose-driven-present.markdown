@@ -1,10 +1,10 @@
 ---
-title: "How My Past With Depression Influences My Purpose-Driven Present"
-author: "Kari Enge"
-series: "With"
+title: How My Past With Depression Influences My Purpose-Driven Present
+date: 2017-11-08 04:00:33 -08:00
 categories:
 - Entrepreneurs
-date: '2017-11-08 04:00:33 -0800'
+author: Kari Enge
+series: With
 redirect_from: "/with/past-depression-influences-purpose-driven-present/"
 ---
 

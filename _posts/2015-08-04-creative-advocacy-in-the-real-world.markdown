@@ -1,7 +1,6 @@
 ---
 title: What Creative Advocacy Looks Like in the Professional World
-author: Alyce Youngblood
-date: '2015-08-04 04:00:52 -0700'
+date: 2015-08-04 04:00:52 -07:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -12,6 +11,7 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
+author: Alyce Youngblood
 redirect_from: "/light-talk/creativeadvocacyintherealworld/"
 ---
 

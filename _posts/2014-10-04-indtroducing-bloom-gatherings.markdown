@@ -1,9 +1,9 @@
 ---
 title: Introducing... Bloom Gatherings!
-author: Yellow
-date: '2014-10-04 23:41:39 -0700'
+date: 2014-10-04 23:41:39 -07:00
 categories:
 - "#bloomyellow"
+author: Yellow
 redirect_from: "/bloomyellow/indtroducing-bloom-gatherings/"
 ---
 

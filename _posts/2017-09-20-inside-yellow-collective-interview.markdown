@@ -1,11 +1,11 @@
 ---
 title: 'Inside Our Membership: an Interview with Our NYC Co-Leader'
-author: Hanna Snyder
-date: '2017-09-20 04:00:01 -0700'
+date: 2017-09-20 04:00:01 -07:00
 categories:
 - Growth
 - Relationships
-image: "https://yellow-blog-images.imgix.net/2017/09/YCD0136.jpg"
+author: Hanna Snyder
+image: https://yellow-blog-images.imgix.net/2017/09/YCD0136.jpg
 redirect_from: "/tension/inside-yellow-collective-interview/"
 ---
 

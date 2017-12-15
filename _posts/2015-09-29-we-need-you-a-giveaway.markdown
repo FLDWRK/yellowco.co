@@ -1,9 +1,9 @@
 ---
 title: We Need You! + a Giveaway
-author: Yellow
-date: '2015-09-29 04:30:25 -0700'
+date: 2015-09-29 04:30:25 -07:00
 categories:
 - Yellow 2016
+author: Yellow
 redirect_from: "/yellow-2016/we-need-you-a-giveaway/"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Mental Health Matters: Why We're Opening Up the Conversation in Our New Series"
-author: "Hanna Snyder"
-series: "With"
+title: 'Mental Health Matters: Why We''re Opening Up the Conversation in Our New Series'
+date: 2017-11-06 04:00:34 -08:00
+author: Hanna Snyder
+series: With
 cateogires:
 - Culture
-date: '2017-11-06 04:00:34 -0800'
 redirect_from: "/with/mental-health-matters-opening-conversation/"
 ---
 

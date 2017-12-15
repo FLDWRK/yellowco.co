@@ -1,7 +1,6 @@
 ---
 title: 'Self Care is Not Selfish: How Self Care Can Lengthen the Life of Your Cause'
-author: Samantha Chaffin
-date: '2015-09-10 04:00:24 -0700'
+date: 2015-09-10 04:00:24 -07:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -9,6 +8,7 @@ categories:
 - Creative Advocacy
 - The Activist
 - Encouragement
+author: Samantha Chaffin
 redirect_from: "/light-talk/creativeadvocacyselfcare/"
 ---
 

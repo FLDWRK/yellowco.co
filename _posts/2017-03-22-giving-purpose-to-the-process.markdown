@@ -1,11 +1,11 @@
 ---
 title: Giving Purpose to the Process
-author: Jessica Estrada
-date: '2017-03-22 04:00:08 -0700'
+date: 2017-03-22 04:00:08 -07:00
 categories:
 - Advice
 - The Starter
 - Pioneer
+author: Jessica Estrada
 redirect_from: "/advice/giving-purpose-to-the-process/"
 ---
 

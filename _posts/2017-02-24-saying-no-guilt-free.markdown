@@ -1,11 +1,11 @@
 ---
 title: The Art of Saying No, Guilt-Free
-author: Amy Everhart
-date: '2017-02-24 04:00:33 -0800'
+date: 2017-02-24 04:00:33 -08:00
 categories:
 - Advice
 - Encouragement
 - Pioneer
+author: Amy Everhart
 redirect_from: "/advice/saying-no-guilt-free/"
 ---
 

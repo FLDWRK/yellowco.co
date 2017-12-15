@@ -1,10 +1,10 @@
 ---
 title: Embracing that Bittersweet Gift Called Uncertainty
-author: Hanna Snyder
-date: '2017-02-17 04:00:29 -0800'
+date: 2017-02-17 04:00:29 -08:00
 categories:
 - Encouragement
 - Pioneer
+author: Hanna Snyder
 redirect_from: "/encouragement/embracing-uncertainty/"
 ---
 

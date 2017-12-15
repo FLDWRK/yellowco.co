@@ -1,7 +1,7 @@
 ---
 title: Kate Alsup
-company_name:
-job_title:
+company_name: 
+job_title: 
 bio_image: "/assets/images/kate-alsup.jpg"
 website: http://www.katealsup.com/
 is_guest: true

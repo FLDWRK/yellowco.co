@@ -2,7 +2,7 @@
 title: Kohl Crecelius
 company_name: Krochet Kids
 job_title: Founder
-bio_image:
+bio_image: 
 website: https://www.krochetkids.org/
 is_guest: true
 ---

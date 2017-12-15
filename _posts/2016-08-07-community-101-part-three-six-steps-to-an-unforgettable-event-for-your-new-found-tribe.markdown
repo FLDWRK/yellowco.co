@@ -1,13 +1,13 @@
 ---
 title: 'Community 101 Part Three: Six Steps to an Unforgettable Event for Your New
   Found Tribe'
-author: Yellow
-date: '2016-08-07 04:00:05 -0700'
+date: 2016-08-07 04:00:05 -07:00
 categories:
 - Collective
 - Valor
 - Community 101
 - Sunday Series
+author: Yellow
 redirect_from: "/yellow-collective/6408/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: 'Come Together: October Series'
-author: Hanna Snyder
-date: '2017-10-02 04:00:20 -0700'
-series: Come Together
+date: 2017-10-02 04:00:20 -07:00
 categories:
 - Culture
+author: Hanna Snyder
+series: Come Together
 redirect_from: "/come-together/9681/"
-image:
+image: 
 ---
 
 **You, you’re a revolution.**\

@@ -1,12 +1,12 @@
 ---
 title: 'Turning Your Passion into a Business: Our Interview with Unlock Hope and a
   Chance to Win Two Yellow Conference Tickets! Update: Winner Chosen!'
-author: Yellow
-date: '2016-07-21 04:00:45 -0700'
+date: 2016-07-21 04:00:45 -07:00
 categories:
 - Advice
 - The Activist
 - Yellow 2016
+author: Yellow
 redirect_from: "/advice/unlockhope/"
 ---
 

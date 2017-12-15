@@ -1,13 +1,14 @@
 ---
 title: Why I Stopped Telling Myself that I Can't Do it All (and Why You Should Too)
-author: Bailey Van Tassel
-date: '2017-01-06 04:00:38 -0800'
+date: 2017-01-06 04:00:38 -08:00
 categories:
 - Encouragement
 - The Leader
 - Pioneer
+author: Bailey Van Tassel
 redirect_from: "/encouragement/7574/"
 ---
+
 [![valeriedenisephotos-54](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos-54.jpg)](https://yellow-blog-images.imgix.net/2017/01/ValerieDenisePhotos-54.jpg)
 
 ###### In starting a business, one of my saddest struggles has been yearning for a role model and a mentor that embodies the type of person I want to be: a mother, an entrepreneur, a wife, and spiritual.

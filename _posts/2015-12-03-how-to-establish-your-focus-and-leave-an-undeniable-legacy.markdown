@@ -1,7 +1,6 @@
 ---
 title: Establish Your Focus and You Are Guaranteed to Leave an Undeniable Legacy
-author: Bekah Pogue
-date: '2015-12-03 04:00:52 -0800'
+date: 2015-12-03 04:00:52 -08:00
 categories:
 - Resources
 - Creative Ladies
@@ -13,6 +12,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
+author: Bekah Pogue
 redirect_from: "/resources/how-to-establish-your-focus-and-leave-an-undeniable-legacy/"
 ---
 

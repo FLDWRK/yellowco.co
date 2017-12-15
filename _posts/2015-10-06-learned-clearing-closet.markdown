@@ -1,7 +1,6 @@
 ---
 title: The Difficult Lessons I Learned from Clearing Out My Closet
-author: Yellow
-date: '2015-10-06 04:00:15 -0700'
+date: 2015-10-06 04:00:15 -07:00
 categories:
 - Creative Ladies
 - Advice
@@ -9,6 +8,7 @@ categories:
 - The Activist
 - Encouragement
 - The Leader
+author: Yellow
 redirect_from: "/creative-ladies/learned-clearing-closet/"
 ---
 

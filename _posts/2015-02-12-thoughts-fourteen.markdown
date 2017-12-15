@@ -1,12 +1,12 @@
 ---
 title: 'Thoughts on the Fourteenth: As a Single'
-author: Nikole Sparks
-date: '2015-02-12 04:00:19 -0800'
+date: 2015-02-12 04:00:19 -08:00
 categories:
 - Light Talk
 - Advice
 - Inspiration
 - Encouragement
+author: Nikole Sparks
 redirect_from: "/light-talk/thoughts-fourteen/"
 ---
 

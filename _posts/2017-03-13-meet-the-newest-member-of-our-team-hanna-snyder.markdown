@@ -1,9 +1,9 @@
 ---
 title: 'Meet the Newest Member of Our Team: Hanna Snyder'
-author: Joanna Waterfall
-date: '2017-03-13 04:00:21 -0700'
+date: 2017-03-13 04:00:21 -07:00
 categories:
 - Pioneer
+author: Joanna Waterfall
 redirect_from: "/pioneer/meet-the-newest-member-of-our-team-hanna-snyder/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: So, What Exactly Makes a Business "Socially Conscious"?
-author: "Lindsay Byers-Mirth"
-date: '2016-03-29 12:34:56 -0700'
+date: 2016-03-29 12:34:56 -07:00
 categories:
 - Advice
 - The Activist
 - The Leader
 - Build
+author: Lindsay Byers-Mirth
 redirect_from: "/advice/so-what-exactly-does-it-take-to-have-a-good-business/"
 ---
 

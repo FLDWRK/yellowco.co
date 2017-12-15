@@ -1,7 +1,6 @@
 ---
 title: Seeing the Diamonds in Your Struggles
-author: Elizabeth Fein
-date: '2015-11-10 03:00:37 -0800'
+date: 2015-11-10 03:00:37 -08:00
 categories:
 - Creative Ladies
 - Advice
@@ -9,6 +8,7 @@ categories:
 - Refine
 - The Solopreneur
 - The Leader
+author: Elizabeth Fein
 redirect_from: "/creative-ladies/facing-the-diamonds-in-your-struggles/"
 ---
 

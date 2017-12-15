@@ -1,10 +1,10 @@
 ---
 title: 'The Countdown Begins! #Bloomtogether'
-author: Yellow
-date: '2015-03-27 00:48:08 -0700'
+date: 2015-03-27 00:48:08 -07:00
 categories:
 - Light Talk
 - Inspiration
+author: Yellow
 redirect_from: "/light-talk/the-countdown-begins-bloomtogether/"
 ---
 

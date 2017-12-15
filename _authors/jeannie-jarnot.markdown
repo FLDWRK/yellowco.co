@@ -2,7 +2,7 @@
 title: Jeannie Jarnot
 company_name: Beauty Heroes
 job_title: Founder
-bio_image:
+bio_image: 
 website: https://www.beauty-heroes.com/
 is_guest: true
 ---

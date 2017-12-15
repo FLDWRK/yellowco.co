@@ -1,13 +1,13 @@
 ---
 title: Five Tips to Carry Conversation Like a Pro
-author: Emily Bode
-date: '2015-06-25 04:00:45 -0700'
+date: 2015-06-25 04:00:45 -07:00
 categories:
 - Light Talk
 - Creative Ladies
 - The Starter
 - The Solopreneur
 - Tribe
+author: Emily Bode
 redirect_from: "/light-talk/five-tips-to-carry-conversation-like-a-pro/"
 ---
 

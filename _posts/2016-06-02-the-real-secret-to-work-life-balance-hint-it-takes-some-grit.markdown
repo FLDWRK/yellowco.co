@@ -1,12 +1,12 @@
 ---
 title: 'How to Actually Create Work-Life Balance (Hint: It Takes Some Grit)'
-author: Nicole Andreini
-date: '2016-06-02 04:00:39 -0700'
+date: 2016-06-02 04:00:39 -07:00
 categories:
 - Advice
 - The Solopreneur
 - The Leader
 - Grit
+author: Nicole Andreini
 redirect_from: "/advice/the-real-secret-to-work-life-balance-hint-it-takes-some-grit/"
 ---
 

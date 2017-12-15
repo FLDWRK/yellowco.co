@@ -1,12 +1,12 @@
 ---
 title: 'Jewelry with Grit: the Akola Project Spotlight'
-author: Yellow
-date: '2016-05-03 04:00:15 -0700'
+date: 2016-05-03 04:00:15 -07:00
 categories:
 - Light Talk
 - Creative Ladies
 - Inspiration
 - Grit
+author: Yellow
 redirect_from: "/light-talk/akola-project-jewelry-with-grit/"
 ---
 

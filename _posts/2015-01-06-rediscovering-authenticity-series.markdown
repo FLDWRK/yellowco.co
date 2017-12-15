@@ -1,12 +1,12 @@
 ---
 title: 'Rediscovering Authenticity: a Series'
-author: Yellow
-date: '2015-01-06 04:00:47 -0800'
+date: 2015-01-06 04:00:47 -08:00
 categories:
 - Advice
 - Inspiration
 - Encouragement
 - Rediscovering Authenticity
+author: Yellow
 redirect_from: "/advice/rediscovering-authenticity-series/"
 ---
 

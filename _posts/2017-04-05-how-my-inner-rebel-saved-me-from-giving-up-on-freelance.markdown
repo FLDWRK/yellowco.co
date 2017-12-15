@@ -1,9 +1,9 @@
 ---
 title: How My Inner Rebel Saved Me from Giving Up on Freelance
-author: Jackie Viramontez
-date: '2017-04-05 04:00:01 -0700'
+date: 2017-04-05 04:00:01 -07:00
 categories:
 - Wander
+author: Jackie Viramontez
 redirect_from: "/wander/how-my-inner-rebel-saved-me-from-giving-up-on-freelance/"
 ---
 

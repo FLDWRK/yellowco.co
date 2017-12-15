@@ -1,11 +1,11 @@
 ---
 title: Getting Our Hands Dirty in a Culture of Comfort + a Free Gift
-author: Bailey Van Tassel
-date: '2017-02-15 04:00:27 -0800'
+date: 2017-02-15 04:00:27 -08:00
 categories:
 - Creative Ladies
 - The Starter
 - Pioneer
+author: Bailey Van Tassel
 redirect_from: "/creative-ladies/getting-our-hands-dirty-in-a-culture-of-comfort/"
 ---
 

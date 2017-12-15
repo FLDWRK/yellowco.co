@@ -1,9 +1,9 @@
 ---
 title: Five Ways to Build Your Dream Business While Working a Day Job
-author: Jessica Whalen
-date: '2017-04-07 04:00:16 -0700'
+date: 2017-04-07 04:00:16 -07:00
 categories:
 - Wander
+author: Jessica Whalen
 redirect_from: "/wander/five-ways-to-build-your-dream-business-while-working-a-day-job/"
 ---
 

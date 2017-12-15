@@ -1,8 +1,8 @@
 ---
 title: Jasmin Bollman
-company_name:
+company_name: 
 job_title: Founder
-bio_image:
+bio_image: 
 website: http://www.jasminbollman.ca/
 is_guest: true
 ---

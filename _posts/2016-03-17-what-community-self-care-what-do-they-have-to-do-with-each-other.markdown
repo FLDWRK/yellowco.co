@@ -1,7 +1,6 @@
 ---
 title: Community and Self Care-What Do They Have to Do With Each Other?
-author: Michelle Houghton
-date: '2016-03-17 04:00:01 -0700'
+date: 2016-03-17 04:00:01 -07:00
 categories:
 - Advice
 - The Activist
@@ -9,6 +8,7 @@ categories:
 - The Solopreneur
 - The Leader
 - Build
+author: Michelle Houghton
 redirect_from: "/advice/what-community-self-care-what-do-they-have-to-do-with-each-other/"
 ---
 

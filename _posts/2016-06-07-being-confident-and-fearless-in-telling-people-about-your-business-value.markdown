@@ -1,11 +1,11 @@
 ---
 title: How to Sell Yourself and Your Services with Confidence
-author: Bailey Van Tassel
-date: '2016-06-07 04:00:52 -0700'
+date: 2016-06-07 04:00:52 -07:00
 categories:
 - Advice
 - The Leader
 - Grit
+author: Bailey Van Tassel
 redirect_from: "/advice/being-confident-and-fearless-in-telling-people-about-your-business-value/"
 ---
 

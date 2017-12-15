@@ -1,9 +1,9 @@
 ---
 title: How to Establish Roots to Find Your Purpose
-author: Esther Oh
-date: '2015-12-29 04:30:06 -0800'
+date: 2015-12-29 04:30:06 -08:00
 categories:
 - Resources
+author: Esther Oh
 redirect_from: "/resources/establish-your-roots-find-success-it-really-is-that-simple/"
 ---
 

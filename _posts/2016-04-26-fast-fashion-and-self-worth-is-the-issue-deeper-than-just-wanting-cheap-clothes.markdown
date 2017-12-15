@@ -1,11 +1,12 @@
 ---
-title: "The One Surprising Thing Fueling Fast Fashion & Modern Day Slavery. Hint: It's Not What You Think"
-author: Abigail Driscoll
-date: '2016-04-26 04:00:31 -0700'
+title: 'The One Surprising Thing Fueling Fast Fashion & Modern Day Slavery. Hint:
+  It''s Not What You Think'
+date: 2016-04-26 04:00:31 -07:00
 categories:
 - Advice
 - The Activist
 - Grit
+author: Abigail Driscoll
 redirect_from: "/advice/fast-fashion-and-self-worth-is-the-issue-deeper-than-just-wanting-cheap-clothes/"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: How to Prevent Your Work from Ruling Your Life and Defining You
-author: Yellow
-date: '2016-11-04 04:00:03 -0700'
+date: 2016-11-04 04:00:03 -07:00
 categories:
 - The Leader
 - Heart
+author: Yellow
 redirect_from: "/the-leader/how-to-prevent-your-work-from-ruling-your-life-and-defining-you/"
 ---
 

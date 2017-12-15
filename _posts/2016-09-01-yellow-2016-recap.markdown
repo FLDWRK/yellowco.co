@@ -1,9 +1,9 @@
 ---
 title: Yellow 2016 Recap
-author: Yellow
-date: '2016-09-01 04:00:35 -0700'
+date: 2016-09-01 04:00:35 -07:00
 categories:
 - Yellow 2016
+author: Yellow
 redirect_from: "/yellow-2016/yellow-2016-recap/"
 ---
 

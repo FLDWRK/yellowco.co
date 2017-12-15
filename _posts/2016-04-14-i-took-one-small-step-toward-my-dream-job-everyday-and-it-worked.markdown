@@ -1,11 +1,11 @@
 ---
 title: I Took One Small Step Toward My Dream Job Everyday and it Worked
-author: Bailey Van Tassel
-date: '2016-04-14 04:00:29 -0700'
+date: 2016-04-14 04:00:29 -07:00
 categories:
 - The Starter
 - The Leader
 - Grit
+author: Bailey Van Tassel
 redirect_from: "/the-starter/5276/"
 ---
 

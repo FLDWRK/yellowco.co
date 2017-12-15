@@ -1,12 +1,12 @@
 ---
 title: 'Rediscovering Authenticity: You Are More Than a Collection on Instagram'
-author: Arielle Estoria
-date: '2015-01-29 04:00:53 -0800'
+date: 2015-01-29 04:00:53 -08:00
 categories:
 - Creative Ladies
 - Inspiration
 - Encouragement
 - Rediscovering Authenticity
+author: Arielle Estoria
 redirect_from: "/creative-ladies/rediscovering-authenticity-collection-instagram/"
 ---
 

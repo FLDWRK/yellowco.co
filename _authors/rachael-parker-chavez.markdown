@@ -1,5 +1,5 @@
 ---
-title: "Rachael Parker-Chavez"
+title: Rachael Parker-Chavez
 company_name: Defining Good
 job_title: Founder
 bio_image: "/assets/images/rachael-parker-chavez.jpg"

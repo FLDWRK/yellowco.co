@@ -1,11 +1,11 @@
 ---
 title: 3 Things that Almost Stopped the Yellow Conference from Happening
-author: Joanna Waterfall
-date: '2016-07-19 04:00:40 -0700'
+date: 2016-07-19 04:00:40 -07:00
 categories:
 - Advice
 - The Starter
 - Valor
+author: Joanna Waterfall
 redirect_from: "/advice/3-things-that-almost-stopped-yellow-conference-from-happening/"
 ---
 

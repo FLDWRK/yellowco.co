@@ -1,11 +1,11 @@
 ---
 title: 'Putting Authenticity First: an Interview with Genuine & Ginger'
-author: hanna@yellowco.co
-date: '2017-02-13 04:00:17 -0800'
+date: 2017-02-13 04:00:17 -08:00
 categories:
 - The Solopreneur
 - Interviews
 - Pioneer
+author: hanna@yellowco.co
 redirect_from: "/the-solopreneur/authenticity-interview-genuine-ginger/"
 ---
 

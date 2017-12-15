@@ -1,10 +1,10 @@
 ---
 title: Five Ways I Set Myself Up for Vacation Success as a Freelancer
-author: Sally Kim
-date: '2016-07-17 04:00:45 -0700'
+date: 2016-07-17 04:00:45 -07:00
 categories:
 - Advice
 - The Solopreneur
+author: Sally Kim
 redirect_from: "/advice/vacationprep/"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: What My Passion for Human Rights Taught Me About Creativity
-author: Jessica Estrada
-date: '2017-02-06 04:00:28 -0800'
+date: 2017-02-06 04:00:28 -08:00
 categories:
 - Creative Ladies
 - Encouragement
 - Pioneer
+author: Jessica Estrada
 redirect_from: "/creative-ladies/steppingout/"
 ---
 

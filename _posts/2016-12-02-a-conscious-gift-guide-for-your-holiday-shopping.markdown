@@ -1,10 +1,10 @@
 ---
-title: "A Conscious Gift Guide for Your Holiday Shopping"
-author: Yellow
-date: '2016-12-02 04:00:49 -0800'
+title: A Conscious Gift Guide for Your Holiday Shopping
+date: 2016-12-02 04:00:49 -08:00
 categories:
 - Light Talk
 - The Activist
+author: Yellow
 redirect_from: "/light-talk/a-conscious-gift-guide-for-your-holiday-shopping/"
 ---
 

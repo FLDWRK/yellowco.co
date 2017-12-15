@@ -1,9 +1,9 @@
 ---
 title: How Simple Living Freed Me to Live Around the World
-author: Elisabetta Colabianchi
-date: '2017-07-31 04:00:24 -0700'
+date: 2017-07-31 04:00:24 -07:00
 categories:
 - Tension
+author: Elisabetta Colabianchi
 redirect_from: "/tension/simple-living-freedom-live-around-world/"
 ---
 

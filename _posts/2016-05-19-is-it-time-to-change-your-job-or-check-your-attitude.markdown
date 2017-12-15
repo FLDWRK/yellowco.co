@@ -1,13 +1,13 @@
 ---
 title: Is it Time to Change Your Job or Your Attitude?
-author: Ana Pierce
-date: '2016-05-19 04:00:54 -0700'
+date: 2016-05-19 04:00:54 -07:00
 categories:
 - Creative Ladies
 - Advice
 - The Starter
 - The Leader
 - Grit
+author: Ana Pierce
 redirect_from: "/creative-ladies/is-it-time-to-change-your-job-or-check-your-attitude/"
 ---
 

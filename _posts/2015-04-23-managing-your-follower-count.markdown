@@ -1,12 +1,12 @@
 ---
 title: Is Your Social Media Follower Count Managing You?
-author: Elizabeth Fein
-date: '2015-04-23 04:00:11 -0700'
+date: 2015-04-23 04:00:11 -07:00
 categories:
 - Light Talk
 - Advice
 - The Starter
 - The Solopreneur
+author: Elizabeth Fein
 redirect_from: "/light-talk/managingyourfollowercount/"
 ---
 

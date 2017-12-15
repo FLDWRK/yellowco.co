@@ -1,11 +1,11 @@
 ---
-title: "How to Bring More Purpose Into Your Everyday Life"
-author: Yellow
-date: '2016-06-16 04:00:26 -0700'
+title: How to Bring More Purpose Into Your Everyday Life
+date: 2016-06-16 04:00:26 -07:00
 categories:
 - Creative Ladies
 - The Activist
 - Grit
+author: Yellow
 redirect_from: "/creative-ladies/building-an-ongoing-sustainable-movement-for-causes-you-care-about/"
 ---
 

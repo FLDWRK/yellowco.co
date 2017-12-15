@@ -1,12 +1,12 @@
 ---
 title: 7 Ways to Stop Feeling Overwhelmed & Start Getting Things Done
-author: Becky Morquecho
-date: '2016-03-22 11:44:39 -0700'
+date: 2016-03-22 11:44:39 -07:00
 categories:
 - Advice
 - The Solopreneur
 - The Leader
 - Build
+author: Becky Morquecho
 redirect_from: "/advice/battling-overwhelm-in-your-business-or-side-hustle-or-life-this-post-is-for-you/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: How One Phone Call Kept Me from Quitting My Own Business
-author: Brianna Towne
-date: '2017-06-05 04:00:31 -0700'
+date: 2017-06-05 04:00:31 -07:00
 categories:
 - Wander
+author: Brianna Towne
 redirect_from: "/wander/call-kept-from-quitting-my-business/"
 ---
 

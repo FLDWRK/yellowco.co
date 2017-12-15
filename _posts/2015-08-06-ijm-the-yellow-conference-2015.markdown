@@ -1,13 +1,13 @@
 ---
 title: IJM + the Yellow Conference 2015
-author: Emily Karsik
-date: '2015-08-06 04:00:51 -0700'
+date: 2015-08-06 04:00:51 -07:00
 categories:
 - Creative Advocacy
 - Inspiration
 - The Activist
 - Team Members
 - Yellow 2015
+author: Emily Karsik
 redirect_from: "/creative-advocacy/ijmthe-yellow-conference-2015/"
 ---
 

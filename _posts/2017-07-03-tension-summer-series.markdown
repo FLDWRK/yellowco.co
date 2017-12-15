@@ -1,9 +1,9 @@
 ---
 title: 'Tension: Our Summer Series'
-author: Hanna Snyder
-date: '2017-07-03 04:00:26 -0700'
+date: 2017-07-03 04:00:26 -07:00
 categories:
 - Tension
+author: Hanna Snyder
 redirect_from: "/tension/tension-summer-series/"
 ---
 

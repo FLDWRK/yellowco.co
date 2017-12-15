@@ -1,9 +1,9 @@
 ---
 title: How to Stop Giving Fear Control By Challenging Yourself
-author: Yellow
-date: '2017-03-29 04:00:11 -0700'
+date: 2017-03-29 04:00:11 -07:00
 categories:
 - Pioneer
+author: Yellow
 redirect_from: "/pioneer/how-to-stop-giving-fear-control-by-challenging-yourself/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Five Ways to Debunk Your Fear of Failure
-author: Yellow
-date: '2016-11-11 04:00:32 -0800'
+date: 2016-11-11 04:00:32 -08:00
 categories:
 - Advice
 - Inspiration
 - The Starter
 - Heart
+author: Yellow
 redirect_from: "/advice/five-ways-to-debunk-fear-of-failure/"
 ---
 

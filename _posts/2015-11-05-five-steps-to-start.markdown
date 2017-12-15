@@ -1,7 +1,6 @@
 ---
 title: 5 Simple Steps to (Really) Starting Your Day Right
-author: Yellow
-date: '2015-11-05 04:00:41 -0800'
+date: 2015-11-05 04:00:41 -08:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -13,6 +12,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
+author: Yellow
 redirect_from: "/light-talk/fivestepstostart/"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: 'Rediscovering Authenticity: 5 Down to Earth Instagram Accounts to Follow'
-author: Joanna Waterfall
-date: '2015-01-22 04:00:42 -0800'
+date: 2015-01-22 04:00:42 -08:00
 categories:
 - Inspiration
 - Rediscovering Authenticity
+author: Joanna Waterfall
 redirect_from: "/inspiration/rediscovering-authenticity-5-earth-instagram-accounts-follow/"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Why Investing in Your Audience is Crucial for Your Brand
-author: Jessica Howell
-date: '2015-11-03 04:00:05 -0800'
+date: 2015-11-03 04:00:05 -08:00
 categories:
 - Resources
 - Creative Ladies
@@ -12,6 +11,7 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
+author: Jessica Howell
 redirect_from: "/resources/why-investing-in-your-audience-is-crucial-for-your-brand/"
 ---
 

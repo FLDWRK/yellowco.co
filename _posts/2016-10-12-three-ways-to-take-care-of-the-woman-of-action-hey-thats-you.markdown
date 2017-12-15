@@ -1,11 +1,11 @@
 ---
 title: Three Ways to Take Care of the Woman of Action (Hey...that's You!)
-author: Yellow
-date: '2016-10-12 04:00:17 -0700'
+date: 2016-10-12 04:00:17 -07:00
 categories:
 - Light Talk
 - The Activist
 - Heart
+author: Yellow
 redirect_from: "/light-talk/three-ways-to-take-care-of-the-woman-of-action-hey-thats-you/"
 ---
 

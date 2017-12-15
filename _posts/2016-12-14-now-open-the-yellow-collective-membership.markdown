@@ -1,10 +1,10 @@
 ---
 title: Now Open! The Yellow Collective Membership
-author: Joanna Waterfall
-date: '2016-12-14 04:30:49 -0800'
+date: 2016-12-14 04:30:49 -08:00
 categories:
 - "#bloomyellow"
 - Collective
+author: Joanna Waterfall
 redirect_from: "/bloomyellow/now-open-the-yellow-collective-membership/"
 ---
 

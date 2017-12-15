@@ -1,7 +1,6 @@
 ---
 title: 'Our Next Series: Grit + a Free Desktop Download'
-author: Sally Kim
-date: '2016-04-05 04:00:00 -0700'
+date: 2016-04-05 04:00:00 -07:00
 categories:
 - Creative Ladies
 - The Activist
@@ -9,6 +8,7 @@ categories:
 - The Solopreneur
 - The Leader
 - Grit
+author: Sally Kim
 redirect_from: "/creative-ladies/our-next-series-grit/"
 ---
 

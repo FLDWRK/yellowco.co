@@ -1,7 +1,6 @@
 ---
 title: Being an Activist is Easier Than You Think...
-author: Sally Kim
-date: '2015-07-21 04:00:30 -0700'
+date: 2015-07-21 04:00:30 -07:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -12,6 +11,7 @@ categories:
 - The Starter
 - Team Members
 - The Solopreneur
+author: Sally Kim
 redirect_from: "/light-talk/using-blogging-as-advocacy/"
 ---
 

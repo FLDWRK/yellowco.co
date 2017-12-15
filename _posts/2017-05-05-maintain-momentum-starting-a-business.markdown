@@ -1,9 +1,9 @@
 ---
 title: How to Maintain Momentum While Starting a Business
-author: Ashley Berry
-date: '2017-05-05 04:00:06 -0700'
+date: 2017-05-05 04:00:06 -07:00
 categories:
 - Wander
+author: Ashley Berry
 redirect_from: "/wander/maintain-momentum-starting-a-business/"
 ---
 

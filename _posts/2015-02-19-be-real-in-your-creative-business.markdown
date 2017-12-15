@@ -1,12 +1,12 @@
 ---
 title: 'Rediscovering Authenticity: Three Reasons to Be Real in Your Creative Business'
-author: Emily Bode
-date: '2015-02-19 04:00:27 -0800'
+date: 2015-02-19 04:00:27 -08:00
 categories:
 - Creative Ladies
 - Advice
 - Rediscovering Authenticity
 - The Solopreneur
+author: Emily Bode
 redirect_from: "/creative-ladies/be-real-in-your-creative-business/"
 ---
 

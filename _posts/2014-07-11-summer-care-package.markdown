@@ -1,9 +1,9 @@
 ---
 title: Summer Care Package - Rosemary Cornbread
-author: Yellow
-date: '2014-07-11 15:00:57 -0700'
+date: 2014-07-11 15:00:57 -07:00
 categories:
 - "#bloomyellow"
+author: Yellow
 redirect_from: "/bloomyellow/summer-care-package/"
 ---
 

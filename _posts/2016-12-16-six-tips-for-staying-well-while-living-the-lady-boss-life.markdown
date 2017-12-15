@@ -1,12 +1,12 @@
 ---
-title: "Six Tips for Staying Well While Living the Lady Boss Life"
-author: Yellow
-date: '2016-12-16 04:00:28 -0800'
+title: Six Tips for Staying Well While Living the Lady Boss Life
+date: 2016-12-16 04:00:28 -08:00
 categories:
 - Advice
 - "#bloomyellow"
 - The Leader
 - Heart
+author: Yellow
 redirect_from: "/advice/six-tips-for-staying-well-while-living-the-lady-boss-life/"
 ---
 

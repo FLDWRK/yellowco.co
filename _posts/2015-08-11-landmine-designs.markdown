@@ -1,7 +1,7 @@
 ---
-title: 'When Passion and Purpose Collide: How Landmine Design is Leaving Their Mark on Global Exploitation of Women'
-author: Sally Kim
-date: '2015-08-11 04:00:35 -0700'
+title: 'When Passion and Purpose Collide: How Landmine Design is Leaving Their Mark
+  on Global Exploitation of Women'
+date: 2015-08-11 04:00:35 -07:00
 categories:
 - Creative Ladies
 - Advice
@@ -10,6 +10,7 @@ categories:
 - The Activist
 - The Starter
 - Encouragement
+author: Sally Kim
 redirect_from: "/creative-ladies/landminedesigns/"
 ---
 

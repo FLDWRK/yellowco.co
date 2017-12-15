@@ -1,11 +1,11 @@
 ---
 title: January Bloom Gathering Recap
-author: Sally Kim
-date: '2015-01-27 04:00:07 -0800'
+date: 2015-01-27 04:00:07 -08:00
 categories:
 - Creative Ladies
 - Inspiration
 - The Starter
+author: Sally Kim
 redirect_from: "/creative-ladies/january-bloom-gathering-recap/"
 ---
 

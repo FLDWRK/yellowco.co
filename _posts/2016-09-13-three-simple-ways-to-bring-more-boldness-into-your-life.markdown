@@ -1,11 +1,11 @@
 ---
 title: Three Simple Ways to Bring More Boldness into Your Life
-author: Yellow
-date: '2016-09-13 04:00:46 -0700'
+date: 2016-09-13 04:00:46 -07:00
 categories:
 - The Starter
 - "#bloomyellow"
 - Valor
+author: Yellow
 redirect_from: "/the-starter/three-simple-ways-to-bring-more-boldness-into-your-life/"
 ---
 

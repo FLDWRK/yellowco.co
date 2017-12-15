@@ -1,9 +1,9 @@
 ---
 title: Give the Gift of Yellow!
-author: Yellow
-date: '2014-12-22 07:28:55 -0800'
+date: 2014-12-22 07:28:55 -08:00
 categories:
 - Yellow 2015
+author: Yellow
 redirect_from: "/yellow-2015/give-gift-yellow/"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Want to Be a Mentor? Here's How to Make it Happen.
-author: Esther Oh
-date: '2015-10-13 04:00:11 -0700'
+date: 2015-10-13 04:00:11 -07:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -9,6 +8,7 @@ categories:
 - Inspiration
 - Encouragement
 - The Leader
+author: Esther Oh
 redirect_from: "/light-talk/whymentor/"
 ---
 

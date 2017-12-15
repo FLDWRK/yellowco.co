@@ -1,10 +1,10 @@
 ---
-title: "12 Gifts That Give Back (And Discounts For Them!)"
-author: "Elisabetta Colabianchi"
-series: "Conscious"
+title: 12 Gifts That Give Back (And Discounts For Them!)
+date: 2017-12-11 04:00:40 -08:00
 categories:
 - Conscious Living
-date: '2017-12-11 04:00:40 -0800'
+author: Elisabetta Colabianchi
+series: Conscious
 redirect_from: "/conscious/12-gifts-that-give-back/"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Alyce Youngblood
-company_name:
+company_name: 
 job_title: Founder
-bio_image:
+bio_image: 
 website: http://www.alyceyoungblood.com/
 is_guest: true
 ---

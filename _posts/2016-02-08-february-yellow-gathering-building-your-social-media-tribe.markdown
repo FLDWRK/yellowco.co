@@ -1,9 +1,9 @@
 ---
 title: 'February Yellow Gathering: Building Your Social Media Tribe'
-author: Yellow
-date: '2016-02-08 07:26:46 -0800'
+date: 2016-02-08 07:26:46 -08:00
 categories:
 - "#bloomyellow"
+author: Yellow
 redirect_from: "/bloomyellow/february-yellow-gathering-building-your-social-media-tribe/"
 ---
 

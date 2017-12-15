@@ -1,9 +1,9 @@
 ---
 title: Mother's Day Gifts that Give Back
-author: Joanna Waterfall
-date: '2014-04-24 09:05:48 -0700'
+date: 2014-04-24 09:05:48 -07:00
 categories:
 - "#bloomyellow"
+author: Joanna Waterfall
 redirect_from: "/bloomyellow/mothers-day-gifts-gives-back/"
 ---
 

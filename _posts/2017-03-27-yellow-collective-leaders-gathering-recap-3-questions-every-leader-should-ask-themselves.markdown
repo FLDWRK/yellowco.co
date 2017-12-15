@@ -1,11 +1,11 @@
 ---
 title: 3 Questions Every Leader Should Ask Themselves / A Yellow Collective Leader
   Dinner Recap
-author: Joanna Waterfall
-date: '2017-03-27 04:00:21 -0700'
+date: 2017-03-27 04:00:21 -07:00
 categories:
 - Collective
 - Pioneer
+author: Joanna Waterfall
 redirect_from: "/yellow-collective/yellow-collective-leaders-gathering-recap-3-questions-every-leader-should-ask-themselves/"
 ---
 

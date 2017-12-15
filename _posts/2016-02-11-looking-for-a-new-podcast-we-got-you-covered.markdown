@@ -1,10 +1,10 @@
 ---
 title: Looking for a New Podcast for Your Commute? We've Got You Covered.
-author: Lauren Francis
-date: '2016-02-11 04:00:14 -0800'
+date: 2016-02-11 04:00:14 -08:00
 categories:
 - Light Talk
 - Build
+author: Lauren Francis
 redirect_from: "/light-talk/looking-for-a-new-podcast-we-got-you-covered/"
 ---
 

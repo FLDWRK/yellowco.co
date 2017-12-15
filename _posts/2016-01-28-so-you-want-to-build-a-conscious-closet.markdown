@@ -1,10 +1,10 @@
 ---
 title: So, You Want to Build a Conscious Closet?
-author: Johanna Tropiano
-date: '2016-01-28 04:00:32 -0800'
+date: 2016-01-28 04:00:32 -08:00
 categories:
 - The Activist
 - Build
+author: Johanna Tropiano
 redirect_from: "/the-activist/so-you-want-to-build-a-conscious-closet/"
 ---
 

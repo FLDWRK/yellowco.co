@@ -1,11 +1,11 @@
 ---
 title: How to Run a Successful Business Without Losing Sight of What Matters Most
-author: Alee Anderson
-date: '2016-03-03 04:00:55 -0800'
+date: 2016-03-03 04:00:55 -08:00
 categories:
 - Creative Ladies
 - Advice
 - Build
+author: Alee Anderson
 redirect_from: "/creative-ladies/how-to-run-a-successful-business-without-losing-sight-of-what-matters-most/"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Spread Goodness & Bloom | Video with Oxen Made
-author: Yellow
-date: '2015-09-05 10:45:56 -0700'
+date: 2015-09-05 10:45:56 -07:00
 categories:
 - Advice
 - Yellow 2015
+author: Yellow
 redirect_from: "/advice/spread-goodness-bloom-video-with-oxen-made/"
 ---
 

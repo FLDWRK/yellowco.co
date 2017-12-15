@@ -1,9 +1,9 @@
 ---
 title: What I Learned About Being a Pioneer After a Plane Ride Regret-Fest
-author: Joanna Waterfall
-date: '2017-03-31 04:00:10 -0700'
+date: 2017-03-31 04:00:10 -07:00
 categories:
 - Pioneer
+author: Joanna Waterfall
 redirect_from: "/pioneer/what-i-learned-about-being-a-pioneer-after-a-plane-ride-regret-fest/"
 ---
 

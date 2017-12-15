@@ -1,10 +1,10 @@
 ---
 title: Four Ways to Stay Rooted When Life Feels Shaky
-author: Yellow
-date: '2016-10-07 04:00:59 -0700'
+date: 2016-10-07 04:00:59 -07:00
 categories:
 - Encouragement
 - Heart
+author: Yellow
 redirect_from: "/encouragement/four-ways-to-stay-rooted-when-life-feels-shaky/"
 ---
 

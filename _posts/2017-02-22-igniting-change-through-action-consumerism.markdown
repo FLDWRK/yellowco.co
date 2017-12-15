@@ -1,10 +1,10 @@
 ---
 title: Igniting Change through Our Daily Actions
-author: Henah Parikh
-date: '2017-02-22 04:00:07 -0800'
+date: 2017-02-22 04:00:07 -08:00
 categories:
 - Interviews
 - Pioneer
+author: Henah Parikh
 redirect_from: "/interviews/igniting-change-through-action-consumerism/"
 ---
 

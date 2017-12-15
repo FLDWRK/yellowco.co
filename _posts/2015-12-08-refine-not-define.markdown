@@ -1,7 +1,7 @@
 ---
-title: 22 Years Old, Single, and a Foster Mom. How I Learned to Knock Plan "B" Out of the Park.
-author: Sally Kim
-date: '2015-12-08 04:00:15 -0800'
+title: 22 Years Old, Single, and a Foster Mom. How I Learned to Knock Plan "B" Out
+  of the Park.
+date: 2015-12-08 04:00:15 -08:00
 categories:
 - Advice
 - Inspiration
@@ -12,6 +12,7 @@ categories:
 - Team Members
 - The Solopreneur
 - The Leader
+author: Sally Kim
 redirect_from: "/advice/refinenotdefine/"
 ---
 

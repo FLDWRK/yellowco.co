@@ -3,7 +3,7 @@ title: Hanna Snyder
 company_name: Yellow Co.
 job_title: Communications Director
 bio_image: "/assets/images/hanna-snyder.jpg"
-website: "http://www.hannasnyder.com/"
+website: http://www.hannasnyder.com/
 is_guest: false
 ---
 

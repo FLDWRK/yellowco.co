@@ -1,12 +1,12 @@
 ---
 title: Five Ways to Build a Tribe of Shakers and Movers
-author: Yellow
-date: '2015-09-24 04:00:36 -0700'
+date: 2015-09-24 04:00:36 -07:00
 categories:
 - Creative Ladies
 - Creative Advocacy
 - The Activist
 - Encouragement
+author: Yellow
 redirect_from: "/creative-ladies/five-ways-to-build-a-tribe-of-shakers-and-movers/"
 ---
 

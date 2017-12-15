@@ -1,13 +1,13 @@
 ---
 title: 'Social Identity: How Where We Come from, What We Look Like, Our Age and Gender
   Impacts How We Lead'
-author: Krystal Clark
-date: '2016-03-31 04:00:59 -0700'
-date_gmt: '2016-03-31 11:00:59 -0700'
+date: 2016-03-31 04:00:59 -07:00
 categories:
 - Advice
 - The Leader
 - Build
+author: Krystal Clark
+date_gmt: '2016-03-31 11:00:59 -0700'
 redirect_from: "/advice/building-your-leadership-story-and-remembering-who-you-are-in-the-process/"
 ---
 

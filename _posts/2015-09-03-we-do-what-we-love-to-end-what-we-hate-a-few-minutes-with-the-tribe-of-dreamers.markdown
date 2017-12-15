@@ -1,7 +1,6 @@
 ---
 title: 'We Do What We Love to End What We Hate: A Few Minutes with the Tribe of Dreamers'
-author: Sally Kim
-date: '2015-09-03 04:00:35 -0700'
+date: 2015-09-03 04:00:35 -07:00
 categories:
 - Creative Ladies
 - Creative Advocacy
@@ -10,6 +9,7 @@ categories:
 - The Starter
 - Yellow 2015
 - The Leader
+author: Sally Kim
 redirect_from: "/creative-ladies/we-do-what-we-love-to-end-what-we-hate-a-few-minutes-with-the-tribe-of-dreamers/"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "Announcement: the Yellow Collective Membership Opens Up Next Week!"
-author: Joanna Waterfall
-date: '2017-03-06 04:15:29 -0800'
+title: 'Announcement: the Yellow Collective Membership Opens Up Next Week!'
+date: 2017-03-06 04:15:29 -08:00
 categories:
 - Pioneer
+author: Joanna Waterfall
 redirect_from: "/pioneer/the-yellow-collective-membership-opens-up-next-week/"
 ---
 

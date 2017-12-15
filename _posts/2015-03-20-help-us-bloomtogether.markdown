@@ -1,10 +1,10 @@
 ---
 title: 'Help Us #bloomtogether'
-author: Yellow
-date: '2015-03-20 02:39:16 -0700'
+date: 2015-03-20 02:39:16 -07:00
 categories:
 - Creative Ladies
 - Inspiration
+author: Yellow
 redirect_from: "/creative-ladies/help-us-bloomtogether/"
 ---
 

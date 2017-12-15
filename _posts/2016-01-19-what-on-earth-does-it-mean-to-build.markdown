@@ -1,11 +1,11 @@
 ---
 title: Still Feeling "Under Construction"? You're Not Alone
-author: Arielle Estoria
-date: '2016-01-19 04:00:25 -0800'
+date: 2016-01-19 04:00:25 -08:00
 categories:
 - Inspiration
 - The Starter
 - Build
+author: Arielle Estoria
 redirect_from: "/inspiration/what-on-earth-does-it-mean-to-build/"
 ---
 

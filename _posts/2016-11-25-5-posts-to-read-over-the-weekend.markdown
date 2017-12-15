@@ -1,10 +1,10 @@
 ---
 title: 5 Posts to Read Over the Weekend
-author: Yellow
-date: '2016-11-25 11:58:39 -0800'
+date: 2016-11-25 11:58:39 -08:00
 categories:
 - Encouragement
 - Heart
+author: Yellow
 redirect_from: "/encouragement/5-posts-to-read-over-the-weekend/"
 ---
 

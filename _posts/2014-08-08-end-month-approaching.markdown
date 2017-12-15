@@ -1,9 +1,9 @@
 ---
 title: The End of the Month is Approaching!
-author: Yellow
-date: '2014-08-08 07:19:13 -0700'
+date: 2014-08-08 07:19:13 -07:00
 categories:
 - "#bloomyellow"
+author: Yellow
 redirect_from: "/bloomyellow/end-month-approaching/"
 ---
 

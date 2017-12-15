@@ -1,7 +1,6 @@
 ---
 title: Five Ways to Avoid Creative Burnout
-author: Abigail Driscoll
-date: '2015-10-29 04:00:52 -0700'
+date: 2015-10-29 04:00:52 -07:00
 categories:
 - Creative Ladies
 - Refine
@@ -10,6 +9,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
+author: Abigail Driscoll
 redirect_from: "/creative-ladies/five-ways-to-avoid-creative-burnout/"
 ---
 

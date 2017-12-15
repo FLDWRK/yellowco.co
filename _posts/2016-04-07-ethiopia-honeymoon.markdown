@@ -1,12 +1,12 @@
 ---
 title: What I Learned from a Fifth Grade Girl with Grit
-author: Lindsay Byers-Mirth
-date: '2016-04-07 04:00:56 -0700'
+date: 2016-04-07 04:00:56 -07:00
 categories:
 - Creative Ladies
 - The Activist
 - Encouragement
 - Grit
+author: Lindsay Byers-Mirth
 redirect_from: "/creative-ladies/ethiopiahoneymoon/"
 ---
 

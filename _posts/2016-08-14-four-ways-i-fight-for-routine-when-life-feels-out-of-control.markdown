@@ -1,11 +1,11 @@
 ---
 title: Four Ways I Fight for Routine When Life Feels out of Control
-author: Sally Kim
-date: '2016-08-14 04:00:57 -0700'
+date: 2016-08-14 04:00:57 -07:00
 categories:
 - Advice
 - The Leader
 - Valor
+author: Sally Kim
 redirect_from: "/advice/four-ways-i-fight-for-routine-when-life-feels-out-of-control/"
 ---
 

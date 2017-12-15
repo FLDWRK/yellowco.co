@@ -1,10 +1,10 @@
 ---
 title: Creating Balance When Your Business Partner is Also Your Life Partner
-author: Jessica Whalen
-date: '2017-09-25 04:00:59 -0700'
+date: 2017-09-25 04:00:59 -07:00
 categories:
 - Tension
-image: "https://yellow-blog-images.imgix.net/2017/09/KelsieMcNair-071.jpg"
+author: Jessica Whalen
+image: https://yellow-blog-images.imgix.net/2017/09/KelsieMcNair-071.jpg
 redirect_from: "/tension/creating-balance-business-life-partner/"
 ---
 

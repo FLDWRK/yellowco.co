@@ -1,9 +1,9 @@
 ---
 title: 'Welcome to Wander: Our Next Series'
-author: Hanna Snyder
-date: '2017-04-03 04:00:22 -0700'
+date: 2017-04-03 04:00:22 -07:00
 categories:
 - Wander
+author: Hanna Snyder
 redirect_from: "/wander/new-series-welcome-to-wander/"
 ---
 

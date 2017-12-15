@@ -1,7 +1,6 @@
 ---
 title: Can Social Media Really Change the World?
-author: Yellow
-date: '2015-08-18 04:00:06 -0700'
+date: 2015-08-18 04:00:06 -07:00
 categories:
 - Creative Ladies
 - Advice
@@ -10,6 +9,7 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
+author: Yellow
 redirect_from: "/creative-ladies/socialmediaactivism/"
 ---
 

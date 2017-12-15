@@ -1,12 +1,12 @@
 ---
 title: How to Host a Yellow Conference Streaming Party
-author: Lindsay Ashcraft
-date: '2015-05-28 04:00:08 -0700'
+date: 2015-05-28 04:00:08 -07:00
 categories:
 - Light Talk
 - Creative Ladies
 - Yellow 2015
 - Tribe
+author: Lindsay Ashcraft
 redirect_from: "/light-talk/how-to-host-a-yellow-conference-streaming-party/"
 ---
 

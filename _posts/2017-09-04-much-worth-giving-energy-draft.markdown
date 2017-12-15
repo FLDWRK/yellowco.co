@@ -1,10 +1,10 @@
 ---
 title: How a Parking Ticket Shifted My Perspective on the Value of Energy
-author: Amy Everhart
-date: '2017-09-04 04:00:56 -0700'
+date: 2017-09-04 04:00:56 -07:00
 categories:
 - Growth
-image: "https://yellow-blog-images.imgix.net/2017/09/040917_American-Weekend_Eileen-Roche_1561.jpg"
+author: Amy Everhart
+image: https://yellow-blog-images.imgix.net/2017/09/040917_American-Weekend_Eileen-Roche_1561.jpg
 redirect_from: "/tension/much-worth-giving-energy-draft/"
 ---
 

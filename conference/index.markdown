@@ -1,7 +1,10 @@
 ---
 title: Conference
+position: 1
 layout: custom/conference
-keywords: yellow, collective, conference, bloom, women, woman, entrepreneur, creative, inspiration, gathering, event, Los Angeles, august, 2018, greater, good, impact, business, hustle, make a difference
+keywords: yellow, collective, conference, bloom, women, woman, entrepreneur, creative,
+  inspiration, gathering, event, Los Angeles, august, 2018, greater, good, impact,
+  business, hustle, make a difference
 nav:
   id: conference
   site:
@@ -30,3 +33,4 @@ speakers:
   title: Activist & Speaker
   link: http://www.nataliewarne.com/
 ---
+

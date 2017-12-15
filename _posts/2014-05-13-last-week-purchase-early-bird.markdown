@@ -1,9 +1,9 @@
 ---
 title: Last Week to Purchase Early Bird
-author: Yellow
-date: '2014-05-13 04:22:32 -0700'
+date: 2014-05-13 04:22:32 -07:00
 categories:
 - "#bloomyellow"
+author: Yellow
 redirect_from: "/bloomyellow/last-week-purchase-early-bird/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Surprise Announcement
-author: Yellow
-date: '2014-11-25 01:50:42 -0800'
+date: 2014-11-25 01:50:42 -08:00
 categories:
 - Yellow 2015
+author: Yellow
 redirect_from: "/yellow-2015/suprise-announcement/"
 ---
 

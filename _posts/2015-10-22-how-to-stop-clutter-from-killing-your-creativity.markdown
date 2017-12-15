@@ -1,7 +1,6 @@
 ---
 title: How to Keep Your Clutter at Bay so Your Creativity is on Point
-author: Beth Penn
-date: '2015-10-22 04:00:54 -0700'
+date: 2015-10-22 04:00:54 -07:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -10,6 +9,7 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
+author: Beth Penn
 redirect_from: "/light-talk/how-to-stop-clutter-from-killing-your-creativity/"
 ---
 

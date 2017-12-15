@@ -1,10 +1,10 @@
 ---
 title: 'Bringing Social Impact to Everyday, One Brush at a Time: an Interview with
   Bogobrush'
-author: Hanna Snyder
-date: '2017-08-23 04:00:31 -0700'
+date: 2017-08-23 04:00:31 -07:00
 categories:
 - Tension
+author: Hanna Snyder
 redirect_from: "/tension/social-impact-everyday-interview-bogobrush/"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: How Building Your Email List Can Help You Do Less and Impact More
-author: Yellow
-date: '2016-10-10 04:00:49 -0700'
+date: 2016-10-10 04:00:49 -07:00
 categories:
 - Advice
 - The Solopreneur
 - Heart
+author: Yellow
 redirect_from: "/advice/how-building-your-email-list-can-help-you-do-less-and-impact-more/"
 ---
 

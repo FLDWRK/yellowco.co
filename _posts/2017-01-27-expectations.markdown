@@ -1,12 +1,11 @@
 ---
-
 title: Stop Letting Unmet Expectations Hold You Back
-author: Becky Morquecho
-date: '2017-01-27 04:00:40 -0800'
+date: 2017-01-27 04:00:40 -08:00
 categories:
 - Advice
 - Encouragement
 - Pioneer
+author: Becky Morquecho
 redirect_from: "/advice/expectations/"
 ---
 

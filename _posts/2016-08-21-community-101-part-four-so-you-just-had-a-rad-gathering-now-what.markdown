@@ -1,11 +1,11 @@
 ---
 title: 'Community 101 Part Four: so You Just Had an Amazing Gathering, Now What?'
-author: Andrea David
-date: '2016-08-21 04:00:46 -0700'
+date: 2016-08-21 04:00:46 -07:00
 categories:
 - Advice
 - Community 101
 - Sunday Series
+author: Andrea David
 redirect_from: "/advice/community-101-part-four-so-you-just-had-a-rad-gathering-now-what/"
 ---
 

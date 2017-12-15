@@ -1,9 +1,9 @@
 ---
 title: These 4 Little Words are the Key to a Happy Business Partnership
-author: Emily Wilkinson
-date: '2017-08-18 04:00:07 -0700'
+date: 2017-08-18 04:00:07 -07:00
 categories:
 - Tension
+author: Emily Wilkinson
 redirect_from: "/tension/secret-to-happy-business-partnership/"
 ---
 

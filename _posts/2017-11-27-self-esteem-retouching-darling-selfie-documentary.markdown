@@ -1,10 +1,11 @@
 ---
-title: "The Search for Self-esteem in a Retouched World: Darling Founder Shares About the Documentary We're Dying to See"
-author: "Hanna Snyder"
-series: "With"
+title: 'The Search for Self-esteem in a Retouched World: Darling Founder Shares About
+  the Documentary We''re Dying to See'
+date: 2017-11-27 04:00:08 -08:00
 categories:
 - Culture
-date: '2017-11-27 04:00:08 -0800'
+author: Hanna Snyder
+series: With
 redirect_from: "/with/self-esteem-retouching-darling-selfie-documentary/"
 ---
 

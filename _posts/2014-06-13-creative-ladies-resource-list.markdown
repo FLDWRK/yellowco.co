@@ -1,10 +1,10 @@
 ---
 title: Get on Our Resource List
-author: Yellow
-date: '2014-06-13 07:30:09 -0700'
+date: 2014-06-13 07:30:09 -07:00
 categories:
 - Resources
 - Inspiration
+author: Yellow
 redirect_from: "/resources/creative-ladies-resource-list/"
 ---
 

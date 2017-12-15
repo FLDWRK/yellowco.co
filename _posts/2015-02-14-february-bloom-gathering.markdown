@@ -1,10 +1,10 @@
 ---
 title: 'February Bloom Gathering: Come Be a Part of Our Kickstarter!'
-author: Yellow
-wordpress_url: http://yellowconference.com/?p=1981
-date: '2015-02-14 06:03:48 -0800'
+date: 2015-02-14 06:03:48 -08:00
 categories:
 - "#bloomyellow"
+author: Yellow
+wordpress_url: http://yellowconference.com/?p=1981
 redirect_from: "/bloomyellow/februarybloomgathering/"
 ---
 

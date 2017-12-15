@@ -1,13 +1,13 @@
 ---
 title: Know Yourself, Know Your Brand (and a Worksheet to Help You Define it)
-author: Yellow
-date: '2015-10-20 04:00:27 -0700'
+date: 2015-10-20 04:00:27 -07:00
 categories:
 - Light Talk
 - Resources
 - Creative Ladies
 - Advice
 - Refine
+author: Yellow
 redirect_from: "/light-talk/knowyourbrand/"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: LA Bloom Gathering Recap
-author: Yellow
-date: '2014-10-20 03:30:43 -0700'
+date: 2014-10-20 03:30:43 -07:00
 categories:
 - Creative Ladies
 - Inspiration
+author: Yellow
 redirect_from: "/creative-ladies/la-bloom-gathering/"
 ---
 

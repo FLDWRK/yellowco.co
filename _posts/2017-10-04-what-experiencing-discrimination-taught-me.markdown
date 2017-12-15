@@ -1,12 +1,12 @@
 ---
 title: What Experiencing Discrimination Taught Me About Skepticism
-author: Chantelle Gibbs
-date: '2017-10-04 04:00:24 -0700'
-series: Come Together
+date: 2017-10-04 04:00:24 -07:00
 categories:
 - Growth
+author: Chantelle Gibbs
+series: Come Together
 redirect_from: "/come-together/what-experiencing-discrimination-taught-me/"
-image:
+image: 
 ---
 
 When Netflix announced they were removing the try-not-to-cry-as-you-quote-every-line classic, _Pride & Prejudice,_ from their list of streaming titles, I thought it was a cruel joke and not actually going to happen. As a precocious child growing up, I didn’t bother believing in Santa Claus because we didn’t have a chimney.  And don’t even get me started on avocado being classified as a fruit.

@@ -1,9 +1,9 @@
 ---
 title: Guiding Yourself Through the Search for Your Mission
-author: Bailey Van Tassel
-date: '2017-04-14 04:00:22 -0700'
+date: 2017-04-14 04:00:22 -07:00
 categories:
 - Wander
+author: Bailey Van Tassel
 redirect_from: "/wander/guiding-yourself-through-the-search-for-your-mission/"
 ---
 

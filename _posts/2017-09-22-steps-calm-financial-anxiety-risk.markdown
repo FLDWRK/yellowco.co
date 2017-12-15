@@ -1,10 +1,10 @@
 ---
 title: 3 Steps to Calm Financial Anxiety When Taking a Risk
-author: Myasi Jackson
-date: '2017-09-22 04:00:47 -0700'
+date: 2017-09-22 04:00:47 -07:00
 categories:
 - Tension
-image: "https://yellow-blog-images.imgix.net/2017/09/ValerieDenisePhotos-39.jpg"
+author: Myasi Jackson
+image: https://yellow-blog-images.imgix.net/2017/09/ValerieDenisePhotos-39.jpg
 redirect_from: "/tension/steps-calm-financial-anxiety-risk/"
 ---
 

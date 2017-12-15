@@ -1,11 +1,11 @@
 ---
 title: The Three Guiding Principles of Collaborative Community
-author: Yellow
-date: '2016-09-15 04:00:16 -0700'
+date: 2016-09-15 04:00:16 -07:00
 categories:
 - The Leader
 - Free Downloads
 - Valor
+author: Yellow
 redirect_from: "/the-leader/the-three-guiding-principles-of-collaborative-community/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Resilient Creativity
-author: Yellow
-date: '2016-09-25 04:00:35 -0700'
+date: 2016-09-25 04:00:35 -07:00
 categories:
 - Valor
+author: Yellow
 redirect_from: "/valor/resilient-creativity/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: How To Deal With Competition Among Friends
-author: Emily Karsik
-date: '2015-05-14 04:00:11 -0700'
+date: 2015-05-14 04:00:11 -07:00
 categories:
 - Advice
 - Encouragement
 - Team Members
 - Tribe
+author: Emily Karsik
 redirect_from: "/advice/kickcompetition/"
 ---
 

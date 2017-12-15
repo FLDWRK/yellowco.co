@@ -1,12 +1,12 @@
 ---
 title: You've Landed Your First Freelance Clients...Now What?
-author: Yellow
-date: '2016-01-12 04:00:23 -0800'
+date: 2016-01-12 04:00:23 -08:00
 categories:
 - Advice
 - The Starter
 - Free Downloads
 - Build
+author: Yellow
 redirect_from: "/advice/overnight-you-went-from-obsolete-to-running-a-profitable-business-now-what/"
 ---
 

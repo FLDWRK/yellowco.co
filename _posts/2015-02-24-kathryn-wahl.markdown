@@ -1,12 +1,12 @@
 ---
 title: 'A Day in the Life: with Kathryn Wahl'
-author: Yellow
-date: '2015-02-24 04:00:12 -0800'
+date: 2015-02-24 04:00:12 -08:00
 categories:
 - Light Talk
 - Creative Ladies
 - Team Members
 - Yellow 2015
+author: Yellow
 redirect_from: "/light-talk/kathrynwahl/"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: What it Looks Like to Truly Flourish
-author: Yellow
-date: '2016-09-11 00:56:03 -0700'
+date: 2016-09-11 00:56:03 -07:00
 categories:
 - "#bloomyellow"
 - Valor
+author: Yellow
 redirect_from: "/bloomyellow/6886/"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: The Perfect Playlist for Your Evening Soiree
-author: Rachel Dawson
-date: '2015-05-21 04:00:20 -0700'
+date: 2015-05-21 04:00:20 -07:00
 categories:
 - Light Talk
 - Tribe
+author: Rachel Dawson
 redirect_from: "/light-talk/dinnerpartyplaylist/"
 ---
 

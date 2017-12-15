@@ -1,13 +1,13 @@
 ---
 title: 'The Her Initiative: How One Cause Brought Together Four Powerhouse Creatives'
-author: Yellow
-date: '2015-09-22 04:00:40 -0700'
+date: 2015-09-22 04:00:40 -07:00
 categories:
 - Creative Ladies
 - Creative Advocacy
 - The Activist
 - The Starter
 - The Leader
+author: Yellow
 redirect_from: "/creative-ladies/theherinitiative/"
 ---
 

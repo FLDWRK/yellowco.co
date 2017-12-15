@@ -1,10 +1,10 @@
 ---
 title: Starting a Movement with the Talents You've Been Given
-author: Yellow
-date: '2017-01-11 04:00:22 -0800'
+date: 2017-01-11 04:00:22 -08:00
 categories:
 - Advice
 - Pioneer
+author: Yellow
 redirect_from: "/advice/breaking-new-ground-with-what-youve-been-given/"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Why Self Care is Not Weak
-author: Ashley Berry
-date: '2017-02-01 04:00:19 -0800'
+date: 2017-02-01 04:00:19 -08:00
 categories:
 - Advice
 - Pioneer
+author: Ashley Berry
 redirect_from: "/advice/self-care-is-not-weak/"
 ---
 

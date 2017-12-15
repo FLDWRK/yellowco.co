@@ -1,9 +1,9 @@
 ---
 title: Cheers to an Awesome First Event!
-author: Yellow
-date: '2014-09-12 17:37:59 -0700'
+date: 2014-09-12 17:37:59 -07:00
 categories:
 - Light Talk
+author: Yellow
 redirect_from: "/light-talk/cheers-awesome-first-event/"
 ---
 

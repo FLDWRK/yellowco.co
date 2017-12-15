@@ -1,9 +1,9 @@
 ---
 title: Quieting Fear to Let Your Voice Speak Loud
-author: Sybil Clark Amuti
-date: '2017-05-15 04:00:15 -0700'
+date: 2017-05-15 04:00:15 -07:00
 categories:
 - Wander
+author: Sybil Clark Amuti
 redirect_from: "/wander/quiet-fear-let-your-voice-speak-loud/"
 ---
 

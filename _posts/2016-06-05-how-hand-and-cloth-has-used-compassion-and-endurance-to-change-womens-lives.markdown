@@ -1,11 +1,11 @@
 ---
-title: "How Hand and Cloth Has Used Compassion and Endurance to Change Women's Lives"
-author: Sara Aulie
-date: '2016-06-05 04:00:43 -0700'
+title: How Hand and Cloth Has Used Compassion and Endurance to Change Women's Lives
+date: 2016-06-05 04:00:43 -07:00
 categories:
 - Creative Ladies
 - The Activist
 - Grit
+author: Sara Aulie
 redirect_from: "/creative-ladies/5690/"
 ---
 

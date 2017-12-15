@@ -1,9 +1,9 @@
 ---
 title: 'Hustle Less, Play More: Your Creativity Will Thank You'
-author: Madison Hedlund
-date: '2017-05-19 04:00:20 -0700'
+date: 2017-05-19 04:00:20 -07:00
 categories:
 - Wander
+author: Madison Hedlund
 redirect_from: "/wander/play-more-your-creativity-will-thank-you/"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: How Will You Define 2016?
-author: Rachel Dawson
-date: '2015-12-15 04:00:04 -0800'
+date: 2015-12-15 04:00:04 -08:00
 categories:
 - Resources
 - Creative Ladies
@@ -13,6 +12,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
+author: Rachel Dawson
 redirect_from: "/resources/how-letting-one-word-guide-your-year-can-be-a-serious-resolution-game-changer/"
 ---
 

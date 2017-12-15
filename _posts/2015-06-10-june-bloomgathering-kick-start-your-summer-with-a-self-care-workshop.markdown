@@ -1,9 +1,9 @@
 ---
 title: 'June #BloomGathering: Kick Start Your Summer with a Self Care Workshop!'
-author: Yellow
-date: '2015-06-10 04:45:38 -0700'
+date: 2015-06-10 04:45:38 -07:00
 categories:
 - The Activist
+author: Yellow
 redirect_from: "/the-activist/june-bloomgathering-kick-start-your-summer-with-a-self-care-workshop/"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Living Your Life with Your Legacy in Mind, No Matter What Your Past Holds
-author: Yellow
-date: '2016-12-19 04:00:29 -0800'
+date: 2016-12-19 04:00:29 -08:00
 categories:
 - Creative Ladies
 - Inspiration
 - Heart
+author: Yellow
 redirect_from: "/creative-ladies/living-your-life-with-your-legacy-in-mind-no-matter-what-your-past-holds/"
 ---
 

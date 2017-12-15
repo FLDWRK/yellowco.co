@@ -1,9 +1,9 @@
 ---
 title: Welcome!
-author: Yellow
-date: '2014-04-01 19:27:41 -0700'
+date: 2014-04-01 19:27:41 -07:00
 categories:
 - Light Talk
+author: Yellow
 redirect_from: "/light-talk/welcome/"
 ---
 

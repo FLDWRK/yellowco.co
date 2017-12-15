@@ -1,11 +1,11 @@
 ---
 title: How to Get Seriously Productive, Find Your Productivity Style & Unleash Your
   Creative Self + a Free Worksheet
-author: Yellow
-date: '2016-09-08 04:00:50 -0700'
+date: 2016-09-08 04:00:50 -07:00
 categories:
 - Advice
 - Valor
+author: Yellow
 redirect_from: "/advice/how-to-get-seriously-productive-unleash-your-creative-self/"
 ---
 

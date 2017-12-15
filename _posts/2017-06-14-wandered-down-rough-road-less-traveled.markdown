@@ -1,9 +1,9 @@
 ---
 title: Why I Wandered Down the (Rough) Road Less Traveled
-author: Jessica Whalen
-date: '2017-06-14 04:00:37 -0700'
+date: 2017-06-14 04:00:37 -07:00
 categories:
 - Wander
+author: Jessica Whalen
 redirect_from: "/wander/wandered-down-rough-road-less-traveled/"
 ---
 

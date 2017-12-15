@@ -1,10 +1,10 @@
 ---
 title: Three Simple Ways to Calm Your Anxiety
-author: Bailey Van Tassel
-date: '2016-11-16 04:00:41 -0800'
+date: 2016-11-16 04:00:41 -08:00
 categories:
 - Advice
 - Heart
+author: Bailey Van Tassel
 redirect_from: "/advice/how-getting-out-of-your-daily-environment-can-help-your-anxiety-levels/"
 ---
 

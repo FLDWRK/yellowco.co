@@ -1,9 +1,9 @@
 ---
 title: Happy Holidays from Yellow!
-author: Yellow
-date: '2014-12-24 20:33:29 -0800'
+date: 2014-12-24 20:33:29 -08:00
 categories:
 - Resources
+author: Yellow
 redirect_from: "/resources/happy-holidays-yellow/"
 ---
 

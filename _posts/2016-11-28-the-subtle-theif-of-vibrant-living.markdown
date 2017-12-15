@@ -1,12 +1,12 @@
 ---
 title: The Subtle Thief of Vibrant Living
-author: Yellow
-wordpress_url: http://yellowconference.com/?p=7370
-date: '2016-11-28 04:00:53 -0800'
+date: 2016-11-28 04:00:53 -08:00
 categories:
 - Advice
 - The Solopreneur
 - Heart
+author: Yellow
+wordpress_url: http://yellowconference.com/?p=7370
 redirect_from: "/our-story/attachment/yellow-2014-c/"
 ---
 

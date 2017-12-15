@@ -1,9 +1,9 @@
 ---
 title: 'Meet Maggie Doyne: a 2017 Yellow Conference Speaker'
-author: Hanna Snyder
-date: '2017-07-19 04:00:36 -0700'
+date: 2017-07-19 04:00:36 -07:00
 categories:
 - Tension
+author: Hanna Snyder
 redirect_from: "/tension/maggie-doyne-yellow-conference-speaker/"
 ---
 

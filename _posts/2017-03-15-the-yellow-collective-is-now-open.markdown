@@ -1,9 +1,9 @@
 ---
 title: The Yellow Collective is Now Open!
-author: Joanna Waterfall
-date: '2017-03-15 04:00:41 -0700'
+date: 2017-03-15 04:00:41 -07:00
 categories:
 - Pioneer
+author: Joanna Waterfall
 redirect_from: "/pioneer/the-yellow-collective-is-now-open/"
 ---
 

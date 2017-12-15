@@ -1,11 +1,11 @@
 ---
 title: Finding the Courage to Quit
-author: Brianna Towne
-date: '2016-07-14 04:00:11 -0700'
+date: 2016-07-14 04:00:11 -07:00
 categories:
 - Advice
 - Encouragement
 - Valor
+author: Brianna Towne
 redirect_from: "/advice/finding-the-courage-to-quit/"
 ---
 

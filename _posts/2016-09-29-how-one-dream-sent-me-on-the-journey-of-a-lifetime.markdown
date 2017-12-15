@@ -1,11 +1,11 @@
 ---
 title: How One Dream Sent Me On the Journey of a Lifetime
-author: Yellow
-date: '2016-09-29 04:00:07 -0700'
+date: 2016-09-29 04:00:07 -07:00
 categories:
 - Inspiration
 - "#bloomyellow"
 - Valor
+author: Yellow
 redirect_from: "/inspiration/7003/"
 ---
 

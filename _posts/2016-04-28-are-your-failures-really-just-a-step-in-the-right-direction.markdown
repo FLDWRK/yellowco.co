@@ -1,11 +1,11 @@
 ---
 title: Are Business Failures Really Just a Step in the Right Direction?
-author: Kaye Namba
-date: '2016-04-28 04:00:03 -0700'
+date: 2016-04-28 04:00:03 -07:00
 categories:
 - Advice
 - Inspiration
 - Grit
+author: Kaye Namba
 redirect_from: "/advice/are-your-failures-really-just-a-step-in-the-right-direction/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: 'Business Highlight: Noonday Collection'
-author: Yellow
-date: '2015-07-14 04:00:50 -0700'
+date: 2015-07-14 04:00:50 -07:00
 categories:
 - Creative Ladies
 - Creative Advocacy
 - The Activist
 - Yellow 2015
+author: Yellow
 redirect_from: "/creative-ladies/noondaycollection/"
 ---
 

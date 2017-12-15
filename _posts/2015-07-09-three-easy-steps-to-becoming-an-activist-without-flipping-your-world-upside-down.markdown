@@ -1,7 +1,7 @@
 ---
-title: Three Easy Steps to Becoming an Activist (Without Flipping Your World Upside Down)
-author: Yellow
-date: '2015-07-09 04:00:42 -0700'
+title: Three Easy Steps to Becoming an Activist (Without Flipping Your World Upside
+  Down)
+date: 2015-07-09 04:00:42 -07:00
 categories:
 - Creative Ladies
 - Advice
@@ -10,6 +10,7 @@ categories:
 - The Starter
 - Encouragement
 - The Leader
+author: Yellow
 redirect_from: "/creative-ladies/three-easy-steps-to-becoming-an-activist-without-flipping-your-world-upside-down/"
 ---
 

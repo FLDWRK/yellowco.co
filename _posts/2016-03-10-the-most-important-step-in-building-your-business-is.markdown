@@ -1,12 +1,12 @@
 ---
 title: The Most Important Step in Building Your Business is...
-author: Nicole Andreini
-date: '2016-03-10 04:00:07 -0800'
+date: 2016-03-10 04:00:07 -08:00
 categories:
 - Resources
 - Advice
 - Inspiration
 - Build
+author: Nicole Andreini
 redirect_from: "/resources/5068/"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: What Self Care is Not
-author: Alyce Youngblood
-date: '2017-02-27 04:00:54 -0800'
+date: 2017-02-27 04:00:54 -08:00
 categories:
 - Creative Ladies
 - Advice
 - Pioneer
+author: Alyce Youngblood
 redirect_from: "/creative-ladies/what-self-care-is-not/"
 ---
 

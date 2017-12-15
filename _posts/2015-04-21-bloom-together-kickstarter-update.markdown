@@ -1,11 +1,11 @@
 ---
 title: "#bloom Together: Kickstarter Update"
-author: Sally Kim
-date: '2015-04-21 04:00:34 -0700'
+date: 2015-04-21 04:00:34 -07:00
 categories:
 - Light Talk
 - Inspiration
 - Encouragement
+author: Sally Kim
 redirect_from: "/light-talk/bloom-together-kickstarter-update/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: 3 Ways to Persuade Your Employer to Give Back Corporately
-author: Salma Elbarmawi
-date: '2017-08-14 04:00:53 -0700'
+date: 2017-08-14 04:00:53 -07:00
 categories:
 - Tension
+author: Salma Elbarmawi
 redirect_from: "/tension/persuade-employer-give-back-corporately/"
 ---
 

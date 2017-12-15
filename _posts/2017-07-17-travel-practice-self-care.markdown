@@ -1,9 +1,9 @@
 ---
 title: Travel-Friendly Ways to Practice Self Care on the Road
-author: Elisabetta Colabianchi
-date: '2017-07-17 04:00:59 -0700'
+date: 2017-07-17 04:00:59 -07:00
 categories:
 - Tension
+author: Elisabetta Colabianchi
 redirect_from: "/tension/travel-practice-self-care/"
 ---
 

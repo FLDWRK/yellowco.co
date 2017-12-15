@@ -1,9 +1,9 @@
 ---
 title: Three Epiphanies I've Had After Three Years of Running the Yellow Conference
-author: Joanna Waterfall
-date: '2017-05-26 04:00:58 -0700'
+date: 2017-05-26 04:00:58 -07:00
 categories:
 - Wander
+author: Joanna Waterfall
 redirect_from: "/wander/epiphanies-ive-had-running-yellow-conference/"
 ---
 

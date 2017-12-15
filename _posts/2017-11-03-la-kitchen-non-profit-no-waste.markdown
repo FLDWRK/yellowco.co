@@ -1,10 +1,10 @@
 ---
-title: "How This Non-Profit Makes Sure Nothing (and No One) Goes to Waste"
-author: "Hanna Snyder"
-series: "Come Together"
+title: How This Non-Profit Makes Sure Nothing (and No One) Goes to Waste
+date: 2017-11-03 04:00:28 -07:00
 categories:
 - Conscious Living
-date: '2017-11-03 04:00:28 -0700'
+author: Hanna Snyder
+series: Come Together
 redirect_from: "/come-together/la-kitchen-non-profit-no-waste/"
 ---
 

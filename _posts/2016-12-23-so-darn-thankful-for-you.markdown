@@ -1,9 +1,9 @@
 ---
 title: So Darn Thankful for You.
-author: Joanna Waterfall
-date: '2016-12-23 04:00:42 -0800'
+date: 2016-12-23 04:00:42 -08:00
 categories:
 - "#bloomyellow"
+author: Joanna Waterfall
 redirect_from: "/bloomyellow/so-darn-thankful-for-you/"
 ---
 

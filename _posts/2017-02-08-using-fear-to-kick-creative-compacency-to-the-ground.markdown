@@ -1,11 +1,11 @@
 ---
 title: Using Fear to Kick Complacency to the Curb
-author: "Kiana St. Louis"
-date: '2017-02-08 04:00:23 -0800'
+date: 2017-02-08 04:00:23 -08:00
 categories:
 - The Starter
 - Encouragement
 - Pioneer
+author: Kiana St. Louis
 redirect_from: "/the-starter/using-fear-to-kick-creative-compacency-to-the-ground/"
 ---
 

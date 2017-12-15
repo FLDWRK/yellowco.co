@@ -1,10 +1,10 @@
 ---
 title: The Yellow Collective Member Story  //  Membership Closes Sept 1!
-author: Yellow
-date: '2016-08-30 04:00:29 -0700'
-date_gmt: '2016-08-30 11:00:29 -0700'
+date: 2016-08-30 04:00:29 -07:00
 categories:
 - "#bloomyellow"
+author: Yellow
+date_gmt: '2016-08-30 11:00:29 -0700'
 redirect_from: "/bloomyellow/the-yellow-collective-member-story/"
 ---
 

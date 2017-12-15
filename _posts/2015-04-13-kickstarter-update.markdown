@@ -1,9 +1,9 @@
 ---
 title: Kickstarter Update
-author: Joanna Waterfall
-date: '2015-04-13 22:55:19 -0700'
+date: 2015-04-13 22:55:19 -07:00
 categories:
 - Resources
+author: Joanna Waterfall
 redirect_from: "/resources/kickstarter-update/"
 ---
 

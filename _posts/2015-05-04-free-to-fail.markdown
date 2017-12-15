@@ -1,9 +1,9 @@
 ---
 title: "#FreeToFail"
-author: Yellow
-date: '2015-05-04 09:12:24 -0700'
+date: 2015-05-04 09:12:24 -07:00
 categories:
 - Resources
+author: Yellow
 redirect_from: "/resources/freetofail/"
 ---
 

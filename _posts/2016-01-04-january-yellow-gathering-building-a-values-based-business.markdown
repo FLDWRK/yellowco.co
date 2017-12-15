@@ -1,9 +1,9 @@
 ---
 title: 'January Yellow Gathering: Building a Values-Based Business'
-author: Yellow
-date: '2016-01-04 04:00:39 -0800'
+date: 2016-01-04 04:00:39 -08:00
 categories:
 - "#bloomyellow"
+author: Yellow
 redirect_from: "/bloomyellow/january-yellow-gathering-building-a-values-based-business/"
 ---
 

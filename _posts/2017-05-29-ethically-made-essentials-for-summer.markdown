@@ -1,9 +1,9 @@
 ---
 title: Six Ethically Made Essentials for Your Summer
-author: Hanna Snyder
-date: '2017-05-29 04:00:24 -0700'
+date: 2017-05-29 04:00:24 -07:00
 categories:
 - Wander
+author: Hanna Snyder
 redirect_from: "/wander/ethically-made-essentials-for-summer/"
 ---
 

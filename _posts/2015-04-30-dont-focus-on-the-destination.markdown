@@ -1,9 +1,9 @@
 ---
 title: Don't Focus On the Destination
-author: Yellow
-date: '2015-04-30 04:15:48 -0700'
+date: 2015-04-30 04:15:48 -07:00
 categories:
 - Advice
+author: Yellow
 redirect_from: "/advice/dont-focus-on-the-destination/"
 ---
 

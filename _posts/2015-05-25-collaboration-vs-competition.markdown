@@ -1,7 +1,6 @@
 ---
 title: Collaboration vs. Competition
-author: Yellow
-date: '2015-05-25 04:00:01 -0700'
+date: 2015-05-25 04:00:01 -07:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -10,6 +9,7 @@ categories:
 - The Starter
 - Encouragement
 - Tribe
+author: Yellow
 redirect_from: "/light-talk/collaboration-vs-competition/"
 ---
 

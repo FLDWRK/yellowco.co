@@ -1,9 +1,9 @@
 ---
 title: Unleashing Your Childhood Courage to be Your Boldest Self
-author: Valeria Palmertree
-date: '2017-05-22 04:00:20 -0700'
+date: 2017-05-22 04:00:20 -07:00
 categories:
 - Wander
+author: Valeria Palmertree
 redirect_from: "/wander/unleash-childhood-courage-to-be-bold/"
 ---
 

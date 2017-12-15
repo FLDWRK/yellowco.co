@@ -1,11 +1,11 @@
 ---
 title: 'Connection, Value, and Making a Statement: an Interview with Our Sacred Women'
-author: Hanna Snyder
-date: '2017-03-08 04:00:16 -0800'
+date: 2017-03-08 04:00:16 -08:00
 categories:
 - Creative Ladies
 - Interviews
 - Pioneer
+author: Hanna Snyder
 redirect_from: "/creative-ladies/connection-value-statement-our-sacred-women-interview/"
 ---
 

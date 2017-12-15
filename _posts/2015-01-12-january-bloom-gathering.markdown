@@ -1,10 +1,10 @@
 ---
 title: January Bloom Gathering
-author: Yellow
-date: '2015-01-12 11:05:58 -0800'
+date: 2015-01-12 11:05:58 -08:00
 categories:
 - The Starter
 - The Leader
+author: Yellow
 redirect_from: "/the-starter/january-bloom-gathering/"
 ---
 

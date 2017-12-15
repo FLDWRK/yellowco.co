@@ -1,6 +1,7 @@
 ---
-title: "Felix Gray"
+title: Felix Gray
 image: "/assets/images/partners-2017/felix-gray.jpg"
-url: "https://shopfelixgray.com/"
+url: https://shopfelixgray.com/
 featured: false
 ---
+

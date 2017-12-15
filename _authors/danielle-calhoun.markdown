@@ -2,7 +2,7 @@
 title: Danielle Calhoun
 company_name: Black Sheep Bride
 job_title: Founder
-bio_image:
+bio_image: 
 website: http://www.blacksheepbride.com/
 is_guest: true
 ---

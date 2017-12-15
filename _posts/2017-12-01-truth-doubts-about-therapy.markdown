@@ -1,10 +1,10 @@
 ---
-title: "The Truth About Therapy: What to Know if You're Having Doubts"
-author: "Emily Shrems"
-series: "With"
+title: 'The Truth About Therapy: What to Know if You''re Having Doubts'
+date: 2017-12-01 04:00:18 -08:00
 categories:
 - Health
-date: '2017-12-01 04:00:18 -0800'
+author: Emily Shrems
+series: With
 redirect_from: "/with/truth-doubts-about-therapy/"
 ---
 

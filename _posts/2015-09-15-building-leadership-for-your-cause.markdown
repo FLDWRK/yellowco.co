@@ -1,7 +1,6 @@
 ---
 title: The Six Leadership Qualities You Need to Start a Movement for Your Cause
-author: Kristi Triplett
-date: '2015-09-15 04:00:22 -0700'
+date: 2015-09-15 04:00:22 -07:00
 categories:
 - Creative Ladies
 - Creative Advocacy
@@ -10,6 +9,7 @@ categories:
 - The Starter
 - Encouragement
 - The Leader
+author: Kristi Triplett
 redirect_from: "/creative-ladies/buildingleadershipforyourcause/"
 ---
 

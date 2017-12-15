@@ -1,11 +1,11 @@
 ---
 title: The One Secret to Living the Life You've Always Wanted
-author: Yellow
-date: '2016-11-23 04:00:47 -0800'
+date: 2016-11-23 04:00:47 -08:00
 categories:
 - Advice
 - Inspiration
 - Heart
+author: Yellow
 redirect_from: "/advice/the-secret-to-living-the-life-youve-always-wanted/"
 ---
 

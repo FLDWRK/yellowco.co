@@ -1,10 +1,10 @@
 ---
 title: Fighting to Be Grateful When Life is Hard
-author: Yellow
-date: '2016-11-21 04:00:51 -0800'
+date: 2016-11-21 04:00:51 -08:00
 categories:
 - Light Talk
 - Heart
+author: Yellow
 redirect_from: "/light-talk/how-to-be-grateful-when-life-is-hard/"
 ---
 

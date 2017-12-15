@@ -1,7 +1,7 @@
 ---
 title: Kristi Triplett
-company_name:
-job_title:
+company_name: 
+job_title: 
 bio_image: "/assets/images/kristi-triplett.jpg"
 website: https://www.instagram.com/kristitriplett/
 is_guest: true

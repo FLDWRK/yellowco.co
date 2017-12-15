@@ -1,11 +1,11 @@
 ---
-title: "How to Use Your Website Analytics to Expand Your Impact"
-author: Cinthia Pacheco
-date: '2017-03-03 04:00:09 -0800'
+title: How to Use Your Website Analytics to Expand Your Impact
+date: 2017-03-03 04:00:09 -08:00
 categories:
 - Resources
 - Free Downloads
 - Pioneer
+author: Cinthia Pacheco
 redirect_from: "/resources/learn-website-data-analytics-expand-creativity/"
 ---
 

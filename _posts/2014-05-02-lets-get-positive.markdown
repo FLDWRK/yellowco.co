@@ -1,9 +1,9 @@
 ---
 title: Let's Get Positive
-author: Joanna Waterfall
-date: '2014-05-02 06:58:04 -0700'
+date: 2014-05-02 06:58:04 -07:00
 categories:
 - Inspiration
+author: Joanna Waterfall
 redirect_from: "/inspiration/lets-get-positive/"
 ---
 

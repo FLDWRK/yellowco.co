@@ -1,9 +1,9 @@
 ---
-title: "Entrepreneur Turned Healer: How Starting a Blog Shifted My Direction"
-author: "Michelle D'Avella"
-date: '2017-06-30 04:00:37 -0700'
+title: 'Entrepreneur Turned Healer: How Starting a Blog Shifted My Direction'
+date: 2017-06-30 04:00:37 -07:00
 categories:
 - Wander
+author: Michelle D'Avella
 redirect_from: "/wander/entrepreneur-turned-healer-blog-direction/"
 ---
 

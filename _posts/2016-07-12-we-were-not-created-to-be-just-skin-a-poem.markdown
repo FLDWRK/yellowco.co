@@ -1,11 +1,11 @@
 ---
 title: 'We Were Not Created to Be Just Skin: A Poem on Race'
-author: Arielle Estoria
-date: '2016-07-12 04:00:10 -0700'
+date: 2016-07-12 04:00:10 -07:00
 categories:
 - Creative Ladies
 - Inspiration
 - Valor
+author: Arielle Estoria
 redirect_from: "/creative-ladies/we-were-not-created-to-be-just-skin-a-poem/"
 ---
 

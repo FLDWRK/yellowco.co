@@ -1,13 +1,13 @@
 ---
 title: One Month After Our Kickstarter Failed...
-author: Joanna Waterfall
-date: '2015-06-04 04:30:07 -0700'
+date: 2015-06-04 04:30:07 -07:00
 categories:
 - Advice
 - Inspiration
 - The Activist
 - The Solopreneur
 - The Leader
+author: Joanna Waterfall
 redirect_from: "/advice/one-month-after-our-kickstarter-failed/"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "4 Ways to Exercise Empathy in Controversial Conversations"
-author: "Amy Everhart"
-date: '2017-11-01 04:00:19 -0700'
-series: "Come Together"
+title: 4 Ways to Exercise Empathy in Controversial Conversations
+date: 2017-11-01 04:00:19 -07:00
 categories:
 - Relationships
+author: Amy Everhart
+series: Come Together
 redirect_from: "/come-together/exercise-empathy-controversial-conversation/"
 ---
 

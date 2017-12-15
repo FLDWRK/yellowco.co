@@ -1,9 +1,9 @@
 ---
 title: Why Beauty is Found in Healthy Living
-author: Jeannie Jarnot
-date: '2017-04-10 04:00:47 -0700'
+date: 2017-04-10 04:00:47 -07:00
 categories:
 - Wander
+author: Jeannie Jarnot
 redirect_from: "/wander/why-beauty-is-found-in-healthy-living/"
 ---
 

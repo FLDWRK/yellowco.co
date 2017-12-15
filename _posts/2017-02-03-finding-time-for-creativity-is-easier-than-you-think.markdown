@@ -1,12 +1,12 @@
 ---
 title: How to Make Space for Creativity
-author: Sarah Schulweis
-wordpress_url: http://yellowco.co/?p=7832
-date: '2017-02-03 04:00:08 -0800'
+date: 2017-02-03 04:00:08 -08:00
 categories:
 - Creative Ladies
 - The Solopreneur
 - Pioneer
+author: Sarah Schulweis
+wordpress_url: http://yellowco.co/?p=7832
 redirect_from: "/creative-ladies/finding-time-for-creativity-is-easier-than-you-think/"
 ---
 

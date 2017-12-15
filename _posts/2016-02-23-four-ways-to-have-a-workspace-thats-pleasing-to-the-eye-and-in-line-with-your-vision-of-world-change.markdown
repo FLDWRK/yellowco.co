@@ -1,10 +1,10 @@
 ---
 title: 4 Office Hacks for an Impactful Workspace
-author: Jillian Ryan
-date: '2016-02-23 04:00:00 -0800'
+date: 2016-02-23 04:00:00 -08:00
 categories:
 - The Activist
 - Build
+author: Jillian Ryan
 redirect_from: "/the-activist/four-ways-to-have-a-workspace-thats-pleasing-to-the-eye-and-in-line-with-your-vision-of-world-change/"
 ---
 

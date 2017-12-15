@@ -1,10 +1,10 @@
 ---
 title: How to Network as an Introvert
-author: Jasmin Bollman
-date: '2017-03-01 04:00:19 -0800'
+date: 2017-03-01 04:00:19 -08:00
 categories:
 - Advice
 - Pioneer
+author: Jasmin Bollman
 redirect_from: "/advice/how-to-network-as-an-introvert/"
 ---
 

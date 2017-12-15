@@ -1,11 +1,11 @@
 ---
 title: Three Ways to Free Yourself from Feeling Shame in Your Talent
-author: Jasmin Bollman
-date: '2017-01-30 04:00:23 -0800'
+date: 2017-01-30 04:00:23 -08:00
 categories:
 - Advice
 - The Starter
 - Pioneer
+author: Jasmin Bollman
 redirect_from: "/advice/three-ways-to-free-yourself-from-shame-in-your-talent/"
 ---
 

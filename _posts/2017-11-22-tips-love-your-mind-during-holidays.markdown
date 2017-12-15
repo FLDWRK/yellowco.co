@@ -1,10 +1,10 @@
 ---
-title: "7 Tips to Show Some Love to Your Mind During the Holidays"
-author: "Lauren Cash"
-series: "With"
+title: 7 Tips to Show Some Love to Your Mind During the Holidays
+date: 2017-11-22 04:00:22 -08:00
 categories:
 - Health
-date: '2017-11-22 04:00:22 -0800'
+author: Lauren Cash
+series: With
 redirect_from: "/with/tips-love-your-mind-during-holidays/"
 ---
 

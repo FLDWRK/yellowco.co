@@ -1,12 +1,12 @@
 ---
 title: 'Rediscovering Authenticity: How to Create Your Brand, and Stick With It'
-author: Elizabeth Fein
-date: '2015-01-08 04:00:38 -0800'
+date: 2015-01-08 04:00:38 -08:00
 categories:
 - Advice
 - The Starter
 - Rediscovering Authenticity
 - The Solopreneur
+author: Elizabeth Fein
 redirect_from: "/advice/rediscovering-authenticity-create-brand-stick/"
 ---
 

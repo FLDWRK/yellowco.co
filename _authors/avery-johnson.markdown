@@ -1,8 +1,9 @@
 ---
 title: Avery Johnson
-company_name:
+company_name: 
 job_title: Founder
-bio_image:
+bio_image: 
 website: http://www.avery-johnson.com/
 is_guest: true
 ---
+

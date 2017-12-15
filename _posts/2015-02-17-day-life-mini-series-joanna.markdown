@@ -1,12 +1,12 @@
 ---
 title: 'A Day in the Life: with Joanna Waterfall'
-author: Yellow
-date: '2015-02-17 04:00:24 -0800'
+date: 2015-02-17 04:00:24 -08:00
 categories:
 - Light Talk
 - Creative Ladies
 - Team Members
 - Yellow 2015
+author: Yellow
 redirect_from: "/light-talk/day-life-mini-series-joanna/"
 ---
 

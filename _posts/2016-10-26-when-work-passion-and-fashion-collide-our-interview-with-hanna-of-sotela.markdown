@@ -1,12 +1,12 @@
 ---
 title: 'When Work, Passion, and Fashion Collide: Our Interview with Hanna of Sotela'
-author: Yellow
-date: '2016-10-26 04:00:59 -0700'
+date: 2016-10-26 04:00:59 -07:00
 categories:
 - Light Talk
 - Creative Ladies
 - Heart
 - Interviews
+author: Yellow
 redirect_from: "/light-talk/7149/"
 ---
 

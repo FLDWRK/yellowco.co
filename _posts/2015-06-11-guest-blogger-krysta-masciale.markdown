@@ -1,7 +1,6 @@
 ---
 title: How I Accidentally Developed a Practice of Achieving Goals
-author: Krysta Masciale
-date: '2015-06-11 04:00:03 -0700'
+date: 2015-06-11 04:00:03 -07:00
 categories:
 - Creative Ladies
 - Advice
@@ -10,6 +9,7 @@ categories:
 - The Solopreneur
 - The Leader
 - Tribe
+author: Krysta Masciale
 redirect_from: "/creative-ladies/guest-blogger-krysta-masciale/"
 ---
 

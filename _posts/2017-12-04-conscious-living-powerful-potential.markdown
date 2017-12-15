@@ -1,10 +1,11 @@
 ---
-title: 'Conscious Living: the Powerful Potential We Have to Create the World We Dream of'
-author: "Hanna Snyder"
-series: "Conscious"
+title: 'Conscious Living: the Powerful Potential We Have to Create the World We Dream
+  of'
+date: 2017-12-04 04:00:33 -08:00
 categories:
 - Conscious Living
-date: '2017-12-04 04:00:33 -0800'
+author: Hanna Snyder
+series: Conscious
 redirect_from: "/conscious/conscious-living-powerful-potential/"
 ---
 

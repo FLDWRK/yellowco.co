@@ -1,9 +1,9 @@
 ---
 title: The Art of Communication in Partnerships
-author: bRUNch Running
-date: '2017-04-19 04:00:43 -0700'
+date: 2017-04-19 04:00:43 -07:00
 categories:
 - Wander
+author: bRUNch Running
 redirect_from: "/wander/the-art-of-communication-in-partnerships/"
 ---
 

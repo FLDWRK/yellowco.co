@@ -1,13 +1,13 @@
 ---
 title: A Family of Seven and a Thriving, Socially Good Business?! How this Brand is
   Killing it in Areas that Matter ANNDDD...a Giveaway!
-author: Yellow
-date: '2016-10-31 04:00:17 -0700'
+date: 2016-10-31 04:00:17 -07:00
 categories:
 - Inspiration
 - The Activist
 - Encouragement
 - Heart
+author: Yellow
 redirect_from: "/inspiration/a-family-of-seven-and-a-thriving-socially-good-business-how-this-brand-is-killing-it-in-areas-that-matterannddd-a-giveaway/"
 ---
 

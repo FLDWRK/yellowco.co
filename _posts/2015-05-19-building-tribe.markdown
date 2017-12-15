@@ -1,11 +1,11 @@
 ---
 title: Ten (Fun!) Ideas for Building Your Tribe
-author: Esther Oh
-date: '2015-05-19 04:00:44 -0700'
+date: 2015-05-19 04:00:44 -07:00
 categories:
 - Light Talk
 - Encouragement
 - Tribe
+author: Esther Oh
 redirect_from: "/light-talk/buildingtribe/"
 ---
 

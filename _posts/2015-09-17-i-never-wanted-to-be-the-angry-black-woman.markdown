@@ -1,12 +1,12 @@
 ---
 title: '"I Never Wanted to Be "the Angry Black Woman""'
-author: Arielle Estoria
-date: '2015-09-17 04:00:05 -0700'
+date: 2015-09-17 04:00:05 -07:00
 categories:
 - Creative Ladies
 - Creative Advocacy
 - Inspiration
 - The Activist
+author: Arielle Estoria
 redirect_from: "/creative-ladies/i-never-wanted-to-be-the-angry-black-woman/"
 ---
 

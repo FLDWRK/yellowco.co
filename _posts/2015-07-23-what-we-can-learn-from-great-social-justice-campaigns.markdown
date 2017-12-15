@@ -1,7 +1,6 @@
 ---
 title: What We Can Learn from Social Change Campaigns
-author: Sarah Heyl
-date: '2015-07-23 15:29:16 -0700'
+date: 2015-07-23 15:29:16 -07:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -11,6 +10,7 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
+author: Sarah Heyl
 redirect_from: "/light-talk/what-we-can-learn-from-great-social-justice-campaigns/"
 ---
 

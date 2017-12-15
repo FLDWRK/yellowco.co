@@ -1,10 +1,10 @@
 ---
 title: Finding the Community I Crave as an Introvert
-author: Jessica Whalen
-date: '2017-09-18 04:00:14 -0700'
+date: 2017-09-18 04:00:14 -07:00
 categories:
 - Tension
-image: "https://yellow-blog-images.imgix.net/2017/09/1T5A8707.jpg"
+author: Jessica Whalen
+image: https://yellow-blog-images.imgix.net/2017/09/1T5A8707.jpg
 redirect_from: "/tension/finding-community-crave-introvert/"
 ---
 

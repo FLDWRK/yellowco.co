@@ -1,12 +1,12 @@
 ---
 title: Your 2017 Entrepreneur Tax Guide
-author: Wilkinson Mazzeo
-date: '2017-02-10 04:00:09 -0800'
+date: 2017-02-10 04:00:09 -08:00
 categories:
 - Advice
 - The Solopreneur
 - The Leader
 - Pioneer
+author: Wilkinson Mazzeo
 redirect_from: "/advice/your-2017-entrepreneur-tax-guide/"
 ---
 

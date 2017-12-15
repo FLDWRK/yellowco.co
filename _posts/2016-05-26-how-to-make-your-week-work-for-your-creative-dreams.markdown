@@ -1,12 +1,12 @@
 ---
 title: How to Make Time for Your Creative Dreams
-author: Heidi Burkey
-date: '2016-05-26 04:00:20 -0700'
+date: 2016-05-26 04:00:20 -07:00
 categories:
 - Advice
 - The Solopreneur
 - The Leader
 - Grit
+author: Heidi Burkey
 redirect_from: "/advice/how-to-make-your-week-work-for-your-creative-dreams/"
 ---
 

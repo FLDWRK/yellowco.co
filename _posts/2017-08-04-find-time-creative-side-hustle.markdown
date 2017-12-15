@@ -1,9 +1,9 @@
 ---
 title: The Secret to Finding Time for Your Creative Side Hustle
-author: Emily Wilkinson
-date: '2017-08-04 04:00:55 -0700'
+date: 2017-08-04 04:00:55 -07:00
 categories:
 - Tension
+author: Emily Wilkinson
 redirect_from: "/tension/find-time-creative-side-hustle/"
 ---
 

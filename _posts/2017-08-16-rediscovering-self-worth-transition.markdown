@@ -1,9 +1,9 @@
 ---
 title: Rediscovering My Self Worth in the Midst of Transition
-author: Christine Stephens
-date: '2017-08-16 04:00:39 -0700'
+date: 2017-08-16 04:00:39 -07:00
 categories:
 - Tension
+author: Christine Stephens
 redirect_from: "/tension/rediscovering-self-worth-transition/"
 ---
 

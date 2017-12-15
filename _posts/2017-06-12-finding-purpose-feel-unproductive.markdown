@@ -1,9 +1,9 @@
 ---
 title: Finding Purpose When You Feel Unproductive
-author: Kate Alsup
-date: '2017-06-12 04:00:11 -0700'
+date: 2017-06-12 04:00:11 -07:00
 categories:
 - Wander
+author: Kate Alsup
 redirect_from: "/wander/finding-purpose-feel-unproductive/"
 ---
 

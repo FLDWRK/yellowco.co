@@ -1,12 +1,12 @@
 ---
 title: The Twenty-Two Steps I Took to Create My Successful Business
-author: Nicole Andreini
-date: '2016-06-28 04:00:09 -0700'
+date: 2016-06-28 04:00:09 -07:00
 categories:
 - Creative Ladies
 - Advice
 - The Leader
 - Grit
+author: Nicole Andreini
 redirect_from: "/creative-ladies/the-twenty-two-steps-i-took-to-create-my-successful-business/"
 ---
 

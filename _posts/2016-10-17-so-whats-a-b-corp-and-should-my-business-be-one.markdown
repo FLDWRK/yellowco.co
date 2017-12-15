@@ -1,11 +1,11 @@
 ---
 title: So What's a B-CORP, and Should My Business Be One?
-author: Yellow
-date: '2016-10-17 04:00:08 -0700'
+date: 2016-10-17 04:00:08 -07:00
 categories:
 - Creative Ladies
 - The Activist
 - Heart
+author: Yellow
 redirect_from: "/creative-ladies/so-whats-a-b-corp-and-should-my-business-be-one/"
 ---
 

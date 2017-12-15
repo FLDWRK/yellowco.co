@@ -1,11 +1,11 @@
 ---
 title: Seven Healthy Habits to Stay in the Game at Work
-author: Lauren Cash
-date: '2016-01-14 04:00:10 -0800'
+date: 2016-01-14 04:00:10 -08:00
 categories:
 - Light Talk
 - Advice
 - Build
+author: Lauren Cash
 redirect_from: "/light-talk/seven-healthy-habits-to-brighten-your-work-day/"
 ---
 

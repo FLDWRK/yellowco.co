@@ -1,13 +1,13 @@
 ---
-title: "Community: What's the Point?"
-author: Bekah Pogue
-date: '2015-06-18 04:00:08 -0700'
+title: 'Community: What''s the Point?'
+date: 2015-06-18 04:00:08 -07:00
 categories:
 - Light Talk
 - Advice
 - Inspiration
 - Encouragement
 - Tribe
+author: Bekah Pogue
 redirect_from: "/light-talk/why-we-all-need-a-tribe/"
 ---
 

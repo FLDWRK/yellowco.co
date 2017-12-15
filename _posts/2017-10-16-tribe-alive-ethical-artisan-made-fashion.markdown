@@ -1,12 +1,12 @@
 ---
 title: 10 Questions With Tribe Alive on Ethical, Artisan Made Fashion
-author: Elisabetta Colabianchi
-date: '2017-10-16 04:00:34 -0700'
-series: Come Together
+date: 2017-10-16 04:00:34 -07:00
 categories:
 - Entrepreneurs
+author: Elisabetta Colabianchi
+series: Come Together
 redirect_from: "/come-together/tribe-alive-ethical-artisan-made-fashion/"
-image: "https://yellow-blog-images.imgix.net/2017/10/39270024.jpg"
+image: https://yellow-blog-images.imgix.net/2017/10/39270024.jpg
 ---
 
 Have you heard of [Tribe Alive](https://tribealive.com/) yet? If you haven’t,

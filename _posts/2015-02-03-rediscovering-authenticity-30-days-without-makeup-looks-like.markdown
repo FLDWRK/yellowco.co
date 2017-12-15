@@ -1,7 +1,6 @@
 ---
 title: 'Rediscovering Authenticity: What 30 Days Without Makeup Looks Like'
-author: Sally Kim
-date: '2015-02-03 04:00:07 -0800'
+date: 2015-02-03 04:00:07 -08:00
 categories:
 - Creative Ladies
 - Inspiration
@@ -10,6 +9,7 @@ categories:
 - Rediscovering Authenticity
 - The Solopreneur
 - The Leader
+author: Sally Kim
 redirect_from: "/creative-ladies/rediscovering-authenticity-30-days-without-makeup-looks-like/"
 ---
 

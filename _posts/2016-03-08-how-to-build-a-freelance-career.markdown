@@ -1,11 +1,11 @@
 ---
 title: Dreaming About Becoming a Freelancer? Don't Miss These Eight Steps
-author: Hilary Sutton
-date: '2016-03-08 04:00:48 -0800'
+date: 2016-03-08 04:00:48 -08:00
 categories:
 - Advice
 - The Starter
 - Build
+author: Hilary Sutton
 redirect_from: "/advice/how-to-build-a-freelance-career/"
 ---
 

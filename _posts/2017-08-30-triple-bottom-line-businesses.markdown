@@ -1,10 +1,10 @@
 ---
 title: What is a Triple Bottom Line Business?
-author: Elisabetta Colabianchi
-date: '2017-08-30 04:00:38 -0700'
+date: 2017-08-30 04:00:38 -07:00
 categories:
 - Entrepreneurs
-image: "https://yellow-blog-images.imgix.net/2017/08/TheFinerFewer-Final-087.jpg"
+author: Elisabetta Colabianchi
+image: https://yellow-blog-images.imgix.net/2017/08/TheFinerFewer-Final-087.jpg
 redirect_from: "/tension/triple-bottom-line-businesses/"
 ---
 

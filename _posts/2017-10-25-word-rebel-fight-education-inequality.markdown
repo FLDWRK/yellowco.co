@@ -1,12 +1,12 @@
 ---
 title: 'Why Words Are the #1 Way to Fight Education Inequality'
-author: Jackie Viramontez
-date: '2017-10-25 04:00:14 -0700'
-series: Come Together
+date: 2017-10-25 04:00:14 -07:00
 categories:
 - Culture
+author: Jackie Viramontez
+series: Come Together
 redirect_from: "/come-together/word-rebel-fight-education-inequality/"
-image: "https://yellow-blog-images.imgix.net/2017/10/HJ-Kaleidos-059-1.jpg"
+image: https://yellow-blog-images.imgix.net/2017/10/HJ-Kaleidos-059-1.jpg
 ---
 
 The Bronx will change a girl. When Lauren Poinier began teaching Special

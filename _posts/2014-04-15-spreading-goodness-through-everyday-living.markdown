@@ -1,9 +1,9 @@
 ---
 title: Spreading Goodness Through Everyday Living
-author: Yellow
-date: '2014-04-15 06:38:41 -0700'
+date: 2014-04-15 06:38:41 -07:00
 categories:
 - Inspiration
+author: Yellow
 redirect_from: "/inspiration/spreading-goodness-through-everyday-living/"
 ---
 

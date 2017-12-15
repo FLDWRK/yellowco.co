@@ -1,13 +1,13 @@
 ---
 title: 'Our Next Series: Pioneer'
-author: Yellow
-date: '2017-01-02 04:00:45 -0800'
+date: 2017-01-02 04:00:45 -08:00
 categories:
 - The Activist
 - The Starter
 - The Solopreneur
 - The Leader
 - Pioneer
+author: Yellow
 redirect_from: "/the-activist/7549/"
 ---
 

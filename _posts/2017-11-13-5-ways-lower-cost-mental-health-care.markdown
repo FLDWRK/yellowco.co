@@ -1,10 +1,10 @@
 ---
-title: "5 Ways to Lower Your Mental Health Care Costs"
-author: "Brianna Towne"
-series: "With"
+title: 5 Ways to Lower Your Mental Health Care Costs
+date: 2017-11-13 04:00:42 -08:00
 categories:
 - Health
-date: '2017-11-13 04:00:42 -0800'
+author: Brianna Towne
+series: With
 redirect_from: "/with/5-ways-lower-cost-mental-health-care/"
 ---
 

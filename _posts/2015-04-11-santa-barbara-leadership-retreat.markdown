@@ -1,10 +1,10 @@
 ---
 title: Santa Barbara Leadership Retreat
-author: Yellow
-date: '2015-04-11 04:30:34 -0700'
+date: 2015-04-11 04:30:34 -07:00
 categories:
 - Creative Ladies
 - The Leader
+author: Yellow
 redirect_from: "/creative-ladies/santa-barbara-leadership-retreat/"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: It's Okay to Be a Hot Mess, in Fact...it's Brave
-author: Madison Hedlund
-date: '2016-08-02 04:00:58 -0700'
+date: 2016-08-02 04:00:58 -07:00
 categories:
 - Creative Ladies
 - Inspiration
 - Valor
+author: Madison Hedlund
 redirect_from: "/creative-ladies/its-okay-to-be-a-hot-mess-in-fact-its-brave/"
 ---
 

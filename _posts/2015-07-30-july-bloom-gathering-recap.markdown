@@ -1,13 +1,13 @@
 ---
 title: July Bloom Gathering Recap
-author: Sally Kim
-date: '2015-07-30 04:00:21 -0700'
+date: 2015-07-30 04:00:21 -07:00
 categories:
 - Light Talk
 - Creative Ladies
 - Creative Advocacy
 - The Activist
 - Yellow 2015
+author: Sally Kim
 redirect_from: "/light-talk/july-bloom-gathering-recap/"
 ---
 

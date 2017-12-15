@@ -1,9 +1,9 @@
 ---
 title: Shop Opening!
-author: Yellow
-date: '2014-06-27 20:04:35 -0700'
+date: 2014-06-27 20:04:35 -07:00
 categories:
 - "#bloomyellow"
+author: Yellow
 redirect_from: "/bloomyellow/shop-opening/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: The Importance of Capturing the Moment When We Gather
-author: Sally Kim
-date: '2015-09-26 04:00:27 -0700'
+date: 2015-09-26 04:00:27 -07:00
 categories:
 - Light Talk
 - Creative Ladies
 - Encouragement
 - Yellow 2015
+author: Sally Kim
 redirect_from: "/light-talk/the-importance-of-capturing-the-moment-when-we-gather/"
 ---
 

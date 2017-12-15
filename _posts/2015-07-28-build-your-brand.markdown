@@ -1,7 +1,7 @@
 ---
-title: Why Great Branding is Non-negotiable for Your Organization (if You Want to Change the World)
-author: Vik Harrison
-date: '2015-07-28 04:00:38 -0700'
+title: Why Great Branding is Non-negotiable for Your Organization (if You Want to
+  Change the World)
+date: 2015-07-28 04:00:38 -07:00
 categories:
 - Creative Ladies
 - Advice
@@ -10,6 +10,7 @@ categories:
 - The Starter
 - Yellow 2015
 - The Leader
+author: Vik Harrison
 redirect_from: "/creative-ladies/buildyourbrand/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Madison Hedlund
-company_name:
+company_name: 
 job_title: Founder
 bio_image: "/assets/images/madison-hedlund.jpg"
 website: http://www.madisonhedlund.co/

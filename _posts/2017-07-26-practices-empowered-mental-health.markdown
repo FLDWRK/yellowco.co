@@ -1,9 +1,9 @@
 ---
 title: 3 Practices to Get Empowered About Your Mental Health
-author: Kristi Triplett
-date: '2017-07-26 04:00:19 -0700'
+date: 2017-07-26 04:00:19 -07:00
 categories:
 - Tension
+author: Kristi Triplett
 redirect_from: "/tension/practices-empowered-mental-health/"
 ---
 

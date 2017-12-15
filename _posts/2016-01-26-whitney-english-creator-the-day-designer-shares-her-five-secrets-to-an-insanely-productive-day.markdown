@@ -1,11 +1,11 @@
 ---
 title: How I Design an Insanely Productive Day, a Guest Post by Whitney English
-author: Whitney English
-date: '2016-01-26 04:00:20 -0800'
+date: 2016-01-26 04:00:20 -08:00
 categories:
 - Creative Ladies
 - Advice
 - Build
+author: Whitney English
 redirect_from: "/creative-ladies/whitney-english-creator-the-day-designer-shares-her-five-secrets-to-an-insanely-productive-day/"
 ---
 

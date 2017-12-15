@@ -1,10 +1,10 @@
 ---
-title: "A Space for All Women to Thrive: Why I Created the Yellow Collective"
-author: "Joanna Waterfall"
-series: "With"
+title: 'A Space for All Women to Thrive: Why I Created the Yellow Collective'
+date: 2017-11-24 04:00:51 -08:00
 categories:
 - Culture
-date: '2017-11-24 04:00:51 -0800'
+author: Joanna Waterfall
+series: With
 redirect_from: "/with/yellow-collective-created-women-thrive/"
 ---
 

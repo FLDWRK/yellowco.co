@@ -1,9 +1,9 @@
 ---
 title: What I Learned By Taking Three Months Off from Social Media
-author: Emily Schrems
-date: '2017-07-14 04:00:41 -0700'
+date: 2017-07-14 04:00:41 -07:00
 categories:
 - Tension
+author: Emily Schrems
 redirect_from: "/tension/learned-taking-three-months-off-social-media/"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Why We Chose DTLA for Yellow Conference 2016
-author: Joanna Waterfall
-date: '2016-06-12 04:00:45 -0700'
+date: 2016-06-12 04:00:45 -07:00
 categories:
 - Creative Ladies
 - Yellow 2016
 - Grit
+author: Joanna Waterfall
 redirect_from: "/creative-ladies/why-we-chose-dtla-for-yellow-conference-2016/"
 ---
 

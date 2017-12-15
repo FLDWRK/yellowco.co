@@ -1,9 +1,9 @@
 ---
 title: Get Involved This Week
-author: Yellow
-date: '2015-04-13 00:05:15 -0700'
+date: 2015-04-13 00:05:15 -07:00
 categories:
 - Resources
+author: Yellow
 redirect_from: "/resources/get-involved-this-week-2/"
 ---
 

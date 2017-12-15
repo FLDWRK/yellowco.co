@@ -1,11 +1,12 @@
 ---
-title: Happy Thanksgiving! Here's Five Links Keeping Us Inspired While the Pie is Baking...
-author: Yellow
-date: '2015-11-26 04:00:48 -0800'
+title: Happy Thanksgiving! Here's Five Links Keeping Us Inspired While the Pie is
+  Baking...
+date: 2015-11-26 04:00:48 -08:00
 categories:
 - Light Talk
 - Creative Ladies
 - Inspiration
+author: Yellow
 redirect_from: "/light-talk/bored-while-the-turkeys-bakin-weve-got-five-inspirational-links-to-share-with-you/"
 ---
 

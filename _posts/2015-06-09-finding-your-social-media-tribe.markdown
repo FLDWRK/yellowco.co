@@ -1,7 +1,6 @@
 ---
 title: Finding + Building Your Social Media Tribe
-author: Elizabeth Fein
-date: '2015-06-09 04:00:03 -0700'
+date: 2015-06-09 04:00:03 -07:00
 categories:
 - Light Talk
 - Creative Ladies
@@ -9,6 +8,7 @@ categories:
 - The Starter
 - The Solopreneur
 - Tribe
+author: Elizabeth Fein
 redirect_from: "/light-talk/finding-your-social-media-tribe/"
 ---
 

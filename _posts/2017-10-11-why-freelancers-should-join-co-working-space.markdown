@@ -1,12 +1,12 @@
 ---
 title: Why All Freelancers Should Join a Co-Working Space
-author: Bailey Van Tassel
-date: '2017-10-11 04:00:32 -0700'
-series: Come Together
+date: 2017-10-11 04:00:32 -07:00
 categories:
 - Entrepreneurs
+author: Bailey Van Tassel
+series: Come Together
 redirect_from: "/come-together/why-freelancers-should-join-co-working-space/"
-image: "https://yellow-blog-images.imgix.net/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-4-1320x867.jpg"
+image: https://yellow-blog-images.imgix.net/2017/10/FLDWRK-Coworking-photo-options-for-Yellow-blog-4-1320x867.jpg
 ---
 
 ### There is a place where everybody knows my name.

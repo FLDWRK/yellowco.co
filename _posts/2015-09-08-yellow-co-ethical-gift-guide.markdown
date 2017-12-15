@@ -1,12 +1,12 @@
 ---
 title: Your 2015 Ethical Gift Guide
-author: Sally Kim
-date: '2015-09-08 04:00:29 -0700'
+date: 2015-09-08 04:00:29 -07:00
 categories:
 - Light Talk
 - Resources
 - Creative Advocacy
 - The Activist
+author: Sally Kim
 redirect_from: "/light-talk/yellow-co-ethical-gift-guide/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: The Passions of Our Leaders
-author: Joanna Waterfall
-date: '2017-06-26 07:40:51 -0700'
+date: 2017-06-26 07:40:51 -07:00
 categories:
 - Wander
+author: Joanna Waterfall
 redirect_from: "/wander/the-passions-of-our-leaders/"
 ---
 

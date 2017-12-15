@@ -1,12 +1,12 @@
 ---
-title: "Mother's Day: Why We Must Remember That It's Complicated"
-author: Sally Kim
-date: '2015-05-05 04:00:27 -0700'
+title: 'Mother''s Day: Why We Must Remember That It''s Complicated'
+date: 2015-05-05 04:00:27 -07:00
 categories:
 - Advice
 - Inspiration
 - The Activist
 - Encouragement
+author: Sally Kim
 redirect_from: "/advice/mothersday/"
 ---
 

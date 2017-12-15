@@ -1,10 +1,10 @@
 ---
 title: 'Starting a Family vs. Growing Your Career: Navigating the Options'
-author: Jackie Boylhart
-date: '2017-09-13 04:00:18 -0700'
+date: 2017-09-13 04:00:18 -07:00
 categories:
 - Growth
-image: "https://yellow-blog-images.imgix.net/2017/09/ValerieDenisePhotos-16.jpg"
+author: Jackie Boylhart
+image: https://yellow-blog-images.imgix.net/2017/09/ValerieDenisePhotos-16.jpg
 redirect_from: "/tension/starting-family-growing-career-navigating-options/"
 ---
 

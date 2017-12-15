@@ -2,7 +2,7 @@
 title: Char Newswanger
 company_name: Char Co
 job_title: Founder
-bio_image:
+bio_image: 
 website: http://char-co.com/
 is_guest: true
 ---

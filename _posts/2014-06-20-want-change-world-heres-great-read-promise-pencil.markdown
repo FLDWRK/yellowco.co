@@ -1,9 +1,9 @@
 ---
-title: "Want to Change the World? Here's a Great Read: The Promise of a Pencil"
-author: Yellow
-date: '2014-06-20 15:45:14 -0700'
+title: 'Want to Change the World? Here''s a Great Read: The Promise of a Pencil'
+date: 2014-06-20 15:45:14 -07:00
 categories:
 - Advice
+author: Yellow
 redirect_from: "/advice/want-change-world-heres-great-read-promise-pencil/"
 ---
 

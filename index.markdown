@@ -1,5 +1,6 @@
 ---
 title: Home
+position: 0
 layout: custom/home
 body-class: home
 banners:
@@ -17,10 +18,11 @@ sm-banners:
 - link: "/blog/2017/11/22/tips-love-your-mind-during-holidays/"
   image: "/assets/images/blog-post-featured-sm.jpg"
 buttons:
-- text: "Membership"
+- text: Membership
   link: "/membership"
 - text: Blog
   link: "/blog"
-- text: "2018 Conference"
+- text: 2018 Conference
   link: "/conference"
 ---
+

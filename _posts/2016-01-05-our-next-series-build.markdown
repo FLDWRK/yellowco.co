@@ -1,7 +1,6 @@
 ---
 title: 'Our Next Series: Build + a Worksheet'
-author: Sally Kim
-date: '2016-01-05 04:00:32 -0800'
+date: 2016-01-05 04:00:32 -08:00
 categories:
 - Resources
 - The Activist
@@ -9,6 +8,7 @@ categories:
 - The Solopreneur
 - The Leader
 - Build
+author: Sally Kim
 redirect_from: "/resources/our-next-series-build/"
 ---
 

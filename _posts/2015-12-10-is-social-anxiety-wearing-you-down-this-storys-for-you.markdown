@@ -1,7 +1,6 @@
 ---
 title: Is Social Anxiety Wearing You Down? This Story's for You.
-author: Brianna Towne
-date: '2015-12-10 04:00:37 -0800'
+date: 2015-12-10 04:00:37 -08:00
 categories:
 - Creative Ladies
 - Advice
@@ -10,6 +9,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - Yellow 2016
+author: Brianna Towne
 redirect_from: "/creative-ladies/is-social-anxiety-wearing-you-down-this-storys-for-you/"
 ---
 

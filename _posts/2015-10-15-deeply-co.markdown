@@ -1,7 +1,7 @@
 ---
-title: 'The Immeasurable Worth in Pursuing What Makes You Come Alive: Jillian Edwards+ the Deeply Co'
-author: Jillian Edwards
-date: '2015-10-15 04:00:53 -0700'
+title: 'The Immeasurable Worth in Pursuing What Makes You Come Alive: Jillian Edwards+
+  the Deeply Co'
+date: 2015-10-15 04:00:53 -07:00
 categories:
 - Creative Ladies
 - Creative Advocacy
@@ -11,6 +11,7 @@ categories:
 - The Starter
 - Encouragement
 - The Leader
+author: Jillian Edwards
 redirect_from: "/creative-ladies/deeplyco/"
 ---
 

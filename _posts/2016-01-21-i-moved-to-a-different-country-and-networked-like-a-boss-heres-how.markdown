@@ -1,11 +1,11 @@
 ---
-title: "I Moved to a Different Country and Networked Like a Boss"
-author: Conni Jespersen
-date: '2016-01-21 04:00:40 -0800'
+title: I Moved to a Different Country and Networked Like a Boss
+date: 2016-01-21 04:00:40 -08:00
 categories:
 - Advice
 - The Leader
 - Build
+author: Conni Jespersen
 redirect_from: "/advice/i-moved-to-a-different-country-and-networked-like-a-boss-heres-how/"
 ---
 

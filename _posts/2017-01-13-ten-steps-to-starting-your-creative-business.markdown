@@ -1,12 +1,12 @@
 ---
 title: Ten Steps to Starting Your Creative Business
-author: Yellow
-date: '2017-01-13 04:00:42 -0800'
+date: 2017-01-13 04:00:42 -08:00
 categories:
 - Advice
 - The Starter
 - The Leader
 - Pioneer
+author: Yellow
 redirect_from: "/advice/ten-steps-to-starting-your-creative-business/"
 ---
 

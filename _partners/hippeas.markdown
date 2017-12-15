@@ -1,6 +1,7 @@
 ---
-title: "Hippeas: Organic Chickpea Puffs"
+title: 'Hippeas: Organic Chickpea Puffs'
 image: "/assets/images/partners-2017/hippeas.jpg"
-url: "http://hippeas.com/"
+url: http://hippeas.com/
 featured: false
 ---
+

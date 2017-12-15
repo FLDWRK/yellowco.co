@@ -1,13 +1,13 @@
 ---
 title: Need Last Minute Gift Ideas? Check These Guys Out.
-author: Sally Kim
-date: '2015-12-20 04:00:42 -0800'
+date: 2015-12-20 04:00:42 -08:00
 categories:
 - Light Talk
 - The Starter
 - Encouragement
 - Yellow 2015
 - The Leader
+author: Sally Kim
 redirect_from: "/light-talk/need-last-minute-gift-ideas-check-these-guys-out/"
 ---
 

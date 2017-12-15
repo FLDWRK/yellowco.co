@@ -1,11 +1,11 @@
 ---
-title: "With Benefits: What I've Learned from Working with My Spouse"
-author: Alyce Youngblood
-date: '2016-02-09 04:00:49 -0800'
+title: 'With Benefits: What I''ve Learned from Working with My Spouse'
+date: 2016-02-09 04:00:49 -08:00
 categories:
 - Advice
 - The Solopreneur
 - Build
+author: Alyce Youngblood
 redirect_from: "/advice/with-benefits-what-ive-learned-from-working-with-my-spouse/"
 ---
 

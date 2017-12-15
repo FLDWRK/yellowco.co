@@ -1,10 +1,10 @@
 ---
 title: Standing Your Ground When the World Feels Loud
-author: Yellow
-date: '2017-01-09 04:00:41 -0800'
+date: 2017-01-09 04:00:41 -08:00
 categories:
 - Advice
 - Pioneer
+author: Yellow
 redirect_from: "/advice/standing-your-ground-when-the-world-feels-loud/"
 ---
 

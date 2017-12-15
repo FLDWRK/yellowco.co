@@ -1,9 +1,9 @@
 ---
-title: "We're Open: the Yellow Collective Membership"
-author: Joanna Waterfall
-date: '2017-06-16 04:00:23 -0700'
+title: 'We''re Open: the Yellow Collective Membership'
+date: 2017-06-16 04:00:23 -07:00
 categories:
 - Wander
+author: Joanna Waterfall
 redirect_from: "/wander/open-yellow-collective-membership/"
 ---
 

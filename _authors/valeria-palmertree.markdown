@@ -2,7 +2,7 @@
 title: Valeria Palmertree
 company_name: The Palm Tree Type
 job_title: Founder
-bio_image:
+bio_image: 
 website: https://www.thepalmtreetype.com/
 is_guest: true
 ---

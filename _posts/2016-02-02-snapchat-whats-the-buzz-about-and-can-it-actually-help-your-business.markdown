@@ -1,11 +1,11 @@
 ---
-title: "Snapchat: What's the Buzz About and Can it Actually Help Your Business Grow?"
-author: Amanda Sandlin
-date: '2016-02-02 04:00:53 -0800'
+title: 'Snapchat: What''s the Buzz About and Can it Actually Help Your Business Grow?'
+date: 2016-02-02 04:00:53 -08:00
 categories:
 - The Solopreneur
 - The Leader
 - Build
+author: Amanda Sandlin
 redirect_from: "/the-solopreneur/snapchat-whats-the-buzz-about-and-can-it-actually-help-your-business/"
 ---
 

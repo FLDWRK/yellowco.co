@@ -1,11 +1,12 @@
 ---
-title: Six Relationship Killers that You Don't Even Know You're Guilty of (and How to Fix Them)
-author: Julia Goddard
-date: '2016-08-18 04:00:15 -0700'
+title: Six Relationship Killers that You Don't Even Know You're Guilty of (and How
+  to Fix Them)
+date: 2016-08-18 04:00:15 -07:00
 categories:
 - Light Talk
 - Advice
 - Valor
+author: Julia Goddard
 redirect_from: "/light-talk/six-relationship-killers-that-you-dont-even-know-youre-guilty-of/"
 ---
 

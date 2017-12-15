@@ -1,11 +1,11 @@
 ---
 title: How to Create a Vision Plan that Works for You
-author: Yellow
-date: '2016-10-05 04:00:19 -0700'
+date: 2016-10-05 04:00:19 -07:00
 categories:
 - Creative Ladies
 - Advice
 - Heart
+author: Yellow
 redirect_from: "/creative-ladies/how-to-create-a-vision-plan-that-works-for-you/"
 ---
 

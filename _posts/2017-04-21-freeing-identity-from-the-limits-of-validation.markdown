@@ -1,9 +1,9 @@
 ---
 title: Freeing Your Identity from the Limits of Validation
-author: Laura Weldy
-date: '2017-04-21 04:00:53 -0700'
+date: 2017-04-21 04:00:53 -07:00
 categories:
 - Wander
+author: Laura Weldy
 redirect_from: "/wander/freeing-identity-from-the-limits-of-validation/"
 ---
 

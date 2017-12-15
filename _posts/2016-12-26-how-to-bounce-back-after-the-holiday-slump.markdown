@@ -1,12 +1,12 @@
 ---
 title: How to Bounce Back After the Holiday Slump
-author: Yellow
-date: '2016-12-26 04:00:45 -0800'
+date: 2016-12-26 04:00:45 -08:00
 categories:
 - Advice
 - Team Members
 - The Solopreneur
 - Heart
+author: Yellow
 redirect_from: "/advice/how-to-bounce-back-after-the-holiday-slump/"
 ---
 

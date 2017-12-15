@@ -1,10 +1,10 @@
 ---
 title: 'Creative Lady Inspiration: Corina Nika'
-author: Yellow
-date: '2014-05-30 16:23:21 -0700'
+date: 2014-05-30 16:23:21 -07:00
 categories:
 - Creative Ladies
 - Inspiration
+author: Yellow
 redirect_from: "/creative-ladies/creative-lady-inspiration-corina-nika/"
 ---
 

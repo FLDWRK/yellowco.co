@@ -1,12 +1,12 @@
 ---
 title: 'Using Grit for Good: Our Interview with Brandie from Thoughtfully Magazine'
-author: Kathryn Parrish
-date: '2016-05-17 04:00:51 -0700'
+date: 2016-05-17 04:00:51 -07:00
 categories:
 - Creative Ladies
 - Advice
 - The Solopreneur
 - Grit
+author: Kathryn Parrish
 redirect_from: "/creative-ladies/5473/"
 ---
 

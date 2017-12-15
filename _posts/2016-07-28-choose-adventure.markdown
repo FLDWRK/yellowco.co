@@ -1,11 +1,11 @@
 ---
 title: Why I Decided to Quit the Status Quo and Live an Adventure Instead
-author: Emma Cunningham
-date: '2016-07-28 04:00:31 -0700'
+date: 2016-07-28 04:00:31 -07:00
 categories:
 - Creative Ladies
 - Inspiration
 - Valor
+author: Emma Cunningham
 redirect_from: "/creative-ladies/chooseadventure/"
 ---
 

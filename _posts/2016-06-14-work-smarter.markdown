@@ -1,11 +1,11 @@
 ---
 title: Three Ways to Make the Most of Your Workday
-author: Aimee Guzman
-date: '2016-06-14 04:00:23 -0700'
+date: 2016-06-14 04:00:23 -07:00
 categories:
 - Advice
 - The Solopreneur
 - Grit
+author: Aimee Guzman
 redirect_from: "/advice/worksmarter/"
 ---
 

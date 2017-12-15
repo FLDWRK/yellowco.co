@@ -1,11 +1,11 @@
 ---
 title: What's Keeping You from Getting Paid for Doing What You Love?
-author: Abigail Driscoll
-date: '2016-02-04 04:00:29 -0800'
+date: 2016-02-04 04:00:29 -08:00
 categories:
 - Advice
 - The Starter
 - Build
+author: Abigail Driscoll
 redirect_from: "/advice/4922/"
 ---
 

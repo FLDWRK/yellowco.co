@@ -1,13 +1,13 @@
 ---
 title: 'Community Building 101: A New Series About Making Friends as an Adult'
-author: Lauren Caselli
-date: '2016-07-10 04:00:54 -0700'
+date: 2016-07-10 04:00:54 -07:00
 categories:
 - Advice
 - Yellow 2016
 - Collective
 - Community 101
 - Sunday Series
+author: Lauren Caselli
 redirect_from: "/advice/community-101-a-new-series-about-making-friends-as-an-adult/"
 ---
 

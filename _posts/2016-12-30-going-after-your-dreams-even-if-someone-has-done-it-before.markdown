@@ -1,10 +1,10 @@
 ---
 title: Going After Your Dreams...Even if Someone Has Done it Before
-author: Yellow
-date: '2016-12-30 04:00:04 -0800'
+date: 2016-12-30 04:00:04 -08:00
 categories:
 - Encouragement
 - Heart
+author: Yellow
 redirect_from: "/encouragement/going-after-your-dreams-even-if-someone-has-done-it-before/"
 ---
 

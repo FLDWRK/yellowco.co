@@ -1,11 +1,11 @@
 ---
 title: Entrepreneurship, Living with Intention & Turning Dreams into Reality.  Our
   Interview with Paige Hull of The Vintage Round Top
-author: Yellow
-date: '2016-09-27 04:00:59 -0700'
+date: 2016-09-27 04:00:59 -07:00
 categories:
 - The Leader
 - Valor
+author: Yellow
 redirect_from: "/the-leader/entrepreneurship-living-with-intention-turning-dreams-into-reality-our-interview-with-paige-hull-of-the-vintage-roundtop/"
 ---
 

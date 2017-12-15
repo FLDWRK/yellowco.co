@@ -1,11 +1,11 @@
 ---
 title: 'A Day in the Life: with Sally Kim'
-author: Sally Kim
-date: '2015-03-03 04:00:28 -0800'
+date: 2015-03-03 04:00:28 -08:00
 categories:
 - Light Talk
 - Team Members
 - Rediscovering Authenticity
+author: Sally Kim
 redirect_from: "/light-talk/dayinthelifesallykim/"
 ---
 

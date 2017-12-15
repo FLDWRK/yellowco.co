@@ -1,12 +1,12 @@
 ---
 title: 'Community 101 Part Two: Inviting Brilliant People into Your Life'
-author: Yellow
-date: '2016-07-24 04:00:25 -0700'
+date: 2016-07-24 04:00:25 -07:00
 categories:
 - Yellow 2016
 - Collective
 - Community 101
 - Sunday Series
+author: Yellow
 redirect_from: "/yellow-2016/community-101-part-two-inviting-brilliant-people-into-your-life/"
 ---
 

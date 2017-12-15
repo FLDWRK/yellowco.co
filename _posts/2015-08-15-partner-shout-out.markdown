@@ -1,9 +1,9 @@
 ---
 title: Partner Shout Out
-author: Yellow
-date: '2015-08-15 12:24:20 -0700'
+date: 2015-08-15 12:24:20 -07:00
 categories:
 - Yellow 2015
+author: Yellow
 redirect_from: "/yellow-2015/partner-shout-out/"
 ---
 

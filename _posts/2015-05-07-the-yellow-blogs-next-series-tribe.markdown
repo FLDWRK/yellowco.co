@@ -1,11 +1,11 @@
 ---
-title: "The Yellow Blog's Next Series: Tribe"
-author: Arielle Estoria
-date: '2015-05-07 15:32:48 -0700'
+title: 'The Yellow Blog''s Next Series: Tribe'
+date: 2015-05-07 15:32:48 -07:00
 categories:
 - Creative Ladies
 - Inspiration
 - Tribe
+author: Arielle Estoria
 redirect_from: "/creative-ladies/the-yellow-blogs-next-series-tribe/"
 ---
 

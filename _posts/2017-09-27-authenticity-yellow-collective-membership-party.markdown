@@ -1,10 +1,10 @@
 ---
 title: An Evening of Authenticity at the Yellow Membership Launch Party
-author: Allie Fleming
-date: '2017-09-27 04:00:45 -0700'
+date: 2017-09-27 04:00:45 -07:00
 categories:
 - Tension
-image: "https://yellow-blog-images.imgix.net/2017/09/Yellow-Co-AlandraMichelle2.jpg"
+author: Allie Fleming
+image: https://yellow-blog-images.imgix.net/2017/09/Yellow-Co-AlandraMichelle2.jpg
 redirect_from: "/tension/authenticity-yellow-collective-membership-party/"
 ---
 

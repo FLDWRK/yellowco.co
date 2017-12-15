@@ -1,11 +1,11 @@
 ---
 title: Beauty Out of Brokenness
-author: Yellow
-date: '2014-06-06 16:35:10 -0700'
+date: 2014-06-06 16:35:10 -07:00
 categories:
 - Creative Ladies
 - Inspiration
 - Encouragement
+author: Yellow
 redirect_from: "/creative-ladies/beauty-brokenness/"
 ---
 

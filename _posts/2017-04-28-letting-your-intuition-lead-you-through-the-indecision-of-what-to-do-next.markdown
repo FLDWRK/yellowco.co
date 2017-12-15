@@ -1,9 +1,9 @@
 ---
 title: Letting Your Intuition Lead You Through the Indecision of What to Do Next
-author: Kaye Namba
-date: '2017-04-28 04:00:58 -0700'
+date: 2017-04-28 04:00:58 -07:00
 categories:
 - Wander
+author: Kaye Namba
 redirect_from: "/wander/letting-your-intuition-lead-you-through-the-indecision-of-what-to-do-next/"
 ---
 

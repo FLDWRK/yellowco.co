@@ -1,8 +1,8 @@
 ---
 title: Arielle Estoria
-company_name:
-job_title:
-bio_image:
+company_name: 
+job_title: 
+bio_image: 
 website: http://arielleestoria.com/
 is_guest: true
 ---

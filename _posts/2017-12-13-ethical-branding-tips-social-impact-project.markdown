@@ -1,10 +1,10 @@
 ---
-title: "How to Create Ethical Branding for Your Social Impact Project"
-author: "Marisa Flacks"
-series: "Conscious"
+title: How to Create Ethical Branding for Your Social Impact Project
+date: 2017-12-13 04:00:28 -08:00
 categories:
 - Entrepreneurs
-date: '2017-12-13 04:00:28 -0800'
+author: Marisa Flacks
+series: Conscious
 redirect_from: "/conscious/ethical-branding-tips-social-impact-project/"
 ---
 

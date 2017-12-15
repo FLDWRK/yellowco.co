@@ -1,11 +1,11 @@
 ---
 title: How to Make Decisions with Your Energy Type in Mind
-author: Yellow
-date: '2016-11-02 04:00:57 -0700'
+date: 2016-11-02 04:00:57 -07:00
 categories:
 - Advice
 - The Leader
 - Heart
+author: Yellow
 redirect_from: "/advice/7189/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Three Practical Steps to Conquering the "Comparison Monster" Once and For All
-author: Kennesha Bucks
-date: '2015-12-17 04:00:26 -0800'
+date: 2015-12-17 04:00:26 -08:00
 categories:
 - Creative Ladies
 - Advice
 - Refine
 - Encouragement
+author: Kennesha Bucks
 redirect_from: "/creative-ladies/three-practical-steps-to-conquering-the-comparison-monster-once-and-for-all/"
 ---
 

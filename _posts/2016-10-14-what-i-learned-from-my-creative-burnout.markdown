@@ -1,11 +1,11 @@
 ---
 title: What I Learned from My Creative Burnout
-author: Yellow
-date: '2016-10-14 04:00:07 -0700'
+date: 2016-10-14 04:00:07 -07:00
 categories:
 - Creative Ladies
 - Encouragement
 - Heart
+author: Yellow
 redirect_from: "/creative-ladies/what-i-learned-from-my-creative-burnout/"
 ---
 

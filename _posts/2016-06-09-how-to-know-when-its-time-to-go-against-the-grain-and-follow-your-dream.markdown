@@ -1,11 +1,11 @@
 ---
-title: "How to Know When It's Time to Go Against the Grain and Follow Your Dream"
-author: Ashley Berry
-date: '2016-06-09 04:00:59 -0700'
+title: How to Know When It's Time to Go Against the Grain and Follow Your Dream
+date: 2016-06-09 04:00:59 -07:00
 categories:
 - Advice
 - Inspiration
 - Grit
+author: Ashley Berry
 redirect_from: "/advice/how-to-know-when-its-time-to-go-against-the-grain-and-follow-your-dream/"
 ---
 

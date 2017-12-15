@@ -1,7 +1,6 @@
 ---
 title: The Secret to Creating a Cultivated Personal Brand
-author: Yellow
-date: '2015-11-19 04:00:29 -0800'
+date: 2015-11-19 04:00:29 -08:00
 categories:
 - Creative Ladies
 - Advice
@@ -9,6 +8,7 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
+author: Yellow
 redirect_from: "/creative-ladies/feeling-stuck-heres-the-answer-youve-been-looking-for/"
 ---
 

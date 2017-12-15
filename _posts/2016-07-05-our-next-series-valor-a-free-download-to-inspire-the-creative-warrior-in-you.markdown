@@ -1,11 +1,12 @@
 ---
-title: 'Our Next Series: Valor  + a Free Download to Inspire the Creative Warrior in You'
-author: Sally Kim
-date: '2016-07-05 04:00:40 -0700'
+title: 'Our Next Series: Valor  + a Free Download to Inspire the Creative Warrior
+  in You'
+date: 2016-07-05 04:00:40 -07:00
 categories:
 - Creative Ladies
 - Free Downloads
 - Valor
+author: Sally Kim
 redirect_from: "/creative-ladies/our-next-series-valor-a-free-download-to-inspire-the-creative-warrior-in-you/"
 ---
 

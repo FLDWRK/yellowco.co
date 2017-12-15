@@ -1,12 +1,12 @@
 ---
 title: How to Use Sunday as Your Day to Prep for a Week of Grit
-author: Sally Kim
-date: '2016-06-26 04:00:58 -0700'
+date: 2016-06-26 04:00:58 -07:00
 categories:
 - Light Talk
 - Creative Ladies
 - Advice
 - Grit
+author: Sally Kim
 redirect_from: "/light-talk/using-sundays-to-prep-for-a-week-of-grit/"
 ---
 

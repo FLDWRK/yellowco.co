@@ -1,10 +1,10 @@
 ---
-title: "5 Creative Ideas for Getting Conscious in the Kitchen"
-author: "Kaitlin Mogentale"
-series: "Conscious"
+title: 5 Creative Ideas for Getting Conscious in the Kitchen
+date: 2017-12-06 04:00:47 -08:00
 categories:
 - Conscious Living
-date: '2017-12-06 04:00:47 -0800'
+author: Kaitlin Mogentale
+series: Conscious
 redirect_from: "/conscious/5-creative-ideas-getting-conscious-kitchen/"
 ---
 

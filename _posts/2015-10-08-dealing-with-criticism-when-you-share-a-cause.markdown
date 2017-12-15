@@ -1,7 +1,6 @@
 ---
 title: Letting Criticism Make You, Not Break You
-author: Sally Kim
-date: '2015-10-08 04:00:56 -0700'
+date: 2015-10-08 04:00:56 -07:00
 categories:
 - Creative Ladies
 - Advice
@@ -9,6 +8,7 @@ categories:
 - The Activist
 - The Starter
 - Encouragement
+author: Sally Kim
 redirect_from: "/creative-ladies/dealing-with-criticism-when-you-share-a-cause/"
 ---
 

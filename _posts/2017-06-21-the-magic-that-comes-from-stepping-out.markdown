@@ -1,9 +1,9 @@
 ---
 title: A Few Words from Our Collective Members
-author: Joanna Waterfall
-date: '2017-06-21 04:00:18 -0700'
+date: 2017-06-21 04:00:18 -07:00
 categories:
 - Wander
+author: Joanna Waterfall
 redirect_from: "/wander/the-magic-that-comes-from-stepping-out/"
 ---
 

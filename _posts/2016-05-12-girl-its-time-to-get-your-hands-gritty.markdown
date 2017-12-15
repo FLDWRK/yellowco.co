@@ -1,11 +1,11 @@
 ---
 title: Girl, it's Time to Get Your Hands Gritty
-author: Arielle Estoria
-date: '2016-05-12 04:00:43 -0700'
+date: 2016-05-12 04:00:43 -07:00
 categories:
 - Creative Ladies
 - Inspiration
 - Grit
+author: Arielle Estoria
 redirect_from: "/creative-ladies/5463/"
 ---
 

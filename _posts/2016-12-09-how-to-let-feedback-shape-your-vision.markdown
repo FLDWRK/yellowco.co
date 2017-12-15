@@ -1,11 +1,11 @@
 ---
 title: How to Let Feedback Shape Your Vision, and Not Define Who You Are
-author: Nicole Andreini
-date: '2016-12-09 04:00:21 -0800'
+date: 2016-12-09 04:00:21 -08:00
 categories:
 - Advice
 - Encouragement
 - Heart
+author: Nicole Andreini
 redirect_from: "/advice/7429/"
 ---
 

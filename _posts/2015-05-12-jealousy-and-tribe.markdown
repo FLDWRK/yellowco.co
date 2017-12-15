@@ -1,11 +1,11 @@
 ---
 title: Struggling with Jealousy? Here's 5 Ways to Stop.
-author: Abigail Driscoll
-date: '2015-05-12 04:00:55 -0700'
+date: 2015-05-12 04:00:55 -07:00
 categories:
 - Advice
 - Encouragement
 - Tribe
+author: Abigail Driscoll
 redirect_from: "/advice/jealousyandtribe/"
 ---
 

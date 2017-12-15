@@ -1,11 +1,11 @@
 ---
 title: How to Rewrite Your Thinking and Kick Fear in the Face
-author: Abigail Driscoll
-date: '2016-04-21 04:00:31 -0700'
+date: 2016-04-21 04:00:31 -07:00
 categories:
 - Advice
 - Inspiration
 - Grit
+author: Abigail Driscoll
 redirect_from: "/advice/how-to-rewire-your-brain-and-kick-fear-in-the-face/"
 ---
 

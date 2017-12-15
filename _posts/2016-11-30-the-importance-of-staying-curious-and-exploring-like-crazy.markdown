@@ -1,11 +1,11 @@
 ---
 title: The Undeniable Importance of Staying Curious for Your Life and Business
-author: Yellow
-date: '2016-11-30 04:00:38 -0800'
+date: 2016-11-30 04:00:38 -08:00
 categories:
 - Creative Ladies
 - Encouragement
 - Heart
+author: Yellow
 redirect_from: "/creative-ladies/the-importance-of-staying-curious-and-exploring-like-crazy/"
 ---
 

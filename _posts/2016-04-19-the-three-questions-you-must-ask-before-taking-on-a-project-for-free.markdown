@@ -1,11 +1,11 @@
 ---
 title: The Three Questions You Must Ask Before Taking On a Project for Free
-author: Andrea David
-date: '2016-04-19 04:00:33 -0700'
+date: 2016-04-19 04:00:33 -07:00
 categories:
 - Advice
 - The Solopreneur
 - Grit
+author: Andrea David
 redirect_from: "/advice/the-three-questions-you-must-ask-before-taking-on-a-project-for-free/"
 ---
 

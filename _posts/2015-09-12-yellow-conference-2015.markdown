@@ -1,9 +1,9 @@
 ---
 title: 'The Yellow Conference Year Two: Freedom in Frame'
-author: Sally Kim
-date: '2015-09-12 04:00:05 -0700'
+date: 2015-09-12 04:00:05 -07:00
 categories:
 - Yellow 2015
+author: Sally Kim
 redirect_from: "/yellow-2015/yellowconference2015/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Fighting the Insecurities of Imposter Syndrome
-author: Amy Everhart
-date: '2017-04-26 04:00:30 -0700'
+date: 2017-04-26 04:00:30 -07:00
 categories:
 - Wander
+author: Amy Everhart
 redirect_from: "/wander/fighting-insecurity-imposter-syndrome/"
 ---
 

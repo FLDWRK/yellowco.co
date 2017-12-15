@@ -1,8 +1,7 @@
 ---
 title: Wait! Before You Grab that Third Cup O' Coffee...Check Out These Tasty (and
   Healthy) Desk Snack Ideas...
-author: Lauren Cash
-date: '2016-03-15 04:00:27 -0700'
+date: 2016-03-15 04:00:27 -07:00
 categories:
 - Light Talk
 - The Activist
@@ -10,6 +9,7 @@ categories:
 - The Solopreneur
 - The Leader
 - Build
+author: Lauren Cash
 redirect_from: "/light-talk/wait-before-you-grab-that-third-cup-o-coffee-check-out-these-tasty-desk-snack-ideas/"
 ---
 

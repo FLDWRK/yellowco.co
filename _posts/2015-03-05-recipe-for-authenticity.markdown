@@ -1,12 +1,12 @@
 ---
 title: Want to Live Authentically? Here's the Recipe.
-author: Claire Wood
-date: '2015-03-05 04:00:04 -0800'
+date: 2015-03-05 04:00:04 -08:00
 categories:
 - Advice
 - Inspiration
 - Encouragement
 - Rediscovering Authenticity
+author: Claire Wood
 redirect_from: "/advice/recipeforauthenticity/"
 ---
 

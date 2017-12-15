@@ -1,8 +1,8 @@
 ---
-title: "Emily Wilkinson & Sam Mazzeo"
+title: Emily Wilkinson & Sam Mazzeo
 company_name: Wilkinson Mazzeo
 job_title: Founders
-bio_image:
+bio_image: 
 website: https://wilkinsonmazzeo.com/
 is_guest: true
 ---

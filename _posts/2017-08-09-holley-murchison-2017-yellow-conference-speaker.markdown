@@ -1,9 +1,9 @@
 ---
 title: 'Meet Holley Murchison: a 2017 Yellow Conference Speaker'
-author: Hanna Snyder
-date: '2017-08-09 04:00:47 -0700'
+date: 2017-08-09 04:00:47 -07:00
 categories:
 - Tension
+author: Hanna Snyder
 redirect_from: "/tension/holley-murchison-2017-yellow-conference-speaker/"
 ---
 

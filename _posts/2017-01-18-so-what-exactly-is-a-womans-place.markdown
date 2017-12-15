@@ -1,11 +1,11 @@
 ---
 title: So, What Exactly is a Woman's Place?
-author: Yellow
-date: '2017-01-18 04:00:52 -0800'
+date: 2017-01-18 04:00:52 -08:00
 categories:
 - Creative Ladies
 - Encouragement
 - Pioneer
+author: Yellow
 redirect_from: "/creative-ladies/so-what-exactly-is-a-womans-place/"
 ---
 

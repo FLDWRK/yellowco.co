@@ -2,7 +2,7 @@
 title: Krysta Masciale
 company_name: Big Deal Branding
 job_title: Founder
-bio_image:
+bio_image: 
 website: 
 is_guest: true
 ---

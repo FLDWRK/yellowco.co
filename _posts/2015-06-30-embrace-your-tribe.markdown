@@ -1,12 +1,13 @@
 ---
-itle: Three Ways to Make Your Relationships Healthier
-author: Yellow
-date: '2015-06-30 04:00:41 -0700'
+title: Embrace Your Tribe
+date: 2015-06-30 04:00:41 -07:00
 categories:
 - Light Talk
 - Advice
 - Inspiration
 - Tribe
+itle: Three Ways to Make Your Relationships Healthier
+author: Yellow
 redirect_from: "/light-talk/embraceyourtribe/"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 'Our Heiday: How One Brand Elevates the Everyday Product and Gives Back All at Once'
-author: Yellow
-date: '2015-11-17 04:00:23 -0800'
+title: 'Our Heiday: How One Brand Elevates the Everyday Product and Gives Back All
+  at Once'
+date: 2015-11-17 04:00:23 -08:00
 categories:
 - Creative Ladies
 - Advice
@@ -11,6 +11,7 @@ categories:
 - The Activist
 - The Starter
 - The Leader
+author: Yellow
 redirect_from: "/creative-ladies/our-heiday-how-one-brand-elevates-the-everyday-product-and-gives-back-all-at-once/"
 ---
 

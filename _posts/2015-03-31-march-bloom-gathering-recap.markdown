@@ -1,11 +1,11 @@
 ---
 title: March Bloom Gathering Recap
-author: Arielle Estoria
-date: '2015-03-31 04:00:52 -0700'
+date: 2015-03-31 04:00:52 -07:00
 categories:
 - Light Talk
 - Creative Ladies
 - Yellow 2015
+author: Arielle Estoria
 redirect_from: "/light-talk/march-bloom-gathering-recap/"
 ---
 

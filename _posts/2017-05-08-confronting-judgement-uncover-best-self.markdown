@@ -1,9 +1,9 @@
 ---
 title: Confronting Our Inner Judgement to Uncover Our Best Self
-author: Laura Weldy
-date: '2017-05-08 04:00:20 -0700'
+date: 2017-05-08 04:00:20 -07:00
 categories:
 - Wander
+author: Laura Weldy
 redirect_from: "/wander/confronting-judgement-uncover-best-self/"
 ---
 

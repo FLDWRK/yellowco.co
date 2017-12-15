@@ -1,10 +1,10 @@
 ---
 title: Why You Don't Need a Man to Travel Alone
-author: Amanda Sandlin
-date: '2016-08-11 04:00:07 -0700'
+date: 2016-08-11 04:00:07 -07:00
 categories:
 - Creative Ladies
 - Valor
+author: Amanda Sandlin
 redirect_from: "/creative-ladies/atwildwoman/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: 5 Musts for Bringing Meaning to the In-Between of Entrepreneurship
-author: Becky Morquecho
-date: '2017-05-03 04:00:25 -0700'
+date: 2017-05-03 04:00:25 -07:00
 categories:
 - Wander
+author: Becky Morquecho
 redirect_from: "/wander/bringing-meaning-in-between-entrepreneurship/"
 ---
 

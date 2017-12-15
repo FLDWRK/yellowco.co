@@ -1,11 +1,11 @@
 ---
 title: Uniting Passions and Breaking New Ground Along the Way
-author: Danielle Calhoun
-date: '2017-03-10 04:00:37 -0800'
+date: 2017-03-10 04:00:37 -08:00
 categories:
 - Creative Ladies
 - The Activist
 - Pioneer
+author: Danielle Calhoun
 redirect_from: "/creative-ladies/uniting-passions-breaking-new-ground/"
 ---
 

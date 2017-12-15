@@ -1,9 +1,9 @@
 ---
 title: Five Reads to Pick Up When You Feel Directionless
-author: Rachel Neal
-date: '2017-06-02 04:00:25 -0700'
+date: 2017-06-02 04:00:25 -07:00
 categories:
 - Wander
+author: Rachel Neal
 redirect_from: "/wander/five-reads-when-you-feel-directionless/"
 ---
 

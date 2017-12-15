@@ -1,12 +1,12 @@
 ---
 title: In Need of a Last Minute, but Still Totally Meaningful Gift?
-author: Yellow
-date: '2016-12-21 04:01:44 -0800'
+date: 2016-12-21 04:01:44 -08:00
 categories:
 - Creative Ladies
 - "#bloomyellow"
 - Encouragement
 - Collective
+author: Yellow
 redirect_from: "/creative-ladies/in-need-of-a-last-minute-meaningful-gift/"
 ---
 

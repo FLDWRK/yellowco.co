@@ -1,7 +1,6 @@
 ---
 title: 'Attendee Experience: Yellow Conference Day One'
-author: Arielle Estoria
-date: '2015-08-29 11:09:50 -0700'
+date: 2015-08-29 11:09:50 -07:00
 categories:
 - Creative Ladies
 - The Activist
@@ -10,6 +9,7 @@ categories:
 - Yellow 2015
 - The Solopreneur
 - The Leader
+author: Arielle Estoria
 redirect_from: "/creative-ladies/dayone/"
 ---
 

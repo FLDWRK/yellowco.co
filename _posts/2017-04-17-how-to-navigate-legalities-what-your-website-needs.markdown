@@ -1,9 +1,9 @@
 ---
 title: 'How to Navigate Legalities: a Breakdown of Your What Your Website Needs'
-author: Wilkinson Mazzeo
-date: '2017-04-17 04:00:14 -0700'
+date: 2017-04-17 04:00:14 -07:00
 categories:
 - Wander
+author: Wilkinson Mazzeo
 redirect_from: "/wander/how-to-navigate-legalities-what-your-website-needs/"
 ---
 

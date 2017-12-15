@@ -1,12 +1,12 @@
 ---
 title: 'Rediscovering Authenticity: Tell Her, Darling... We Are Already Whole.'
-author: Arielle Estoria
-date: '2015-02-05 04:00:59 -0800'
+date: 2015-02-05 04:00:59 -08:00
 categories:
 - Creative Ladies
 - Inspiration
 - Encouragement
 - Rediscovering Authenticity
+author: Arielle Estoria
 redirect_from: "/creative-ladies/rediscovering-authenticity/"
 ---
 

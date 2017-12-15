@@ -1,10 +1,10 @@
 ---
 title: How to Experience the Goodness of Yellow Conference (Even if You Can't Make
   it!)
-author: Hanna Snyder
-date: '2017-08-21 04:00:51 -0700'
+date: 2017-08-21 04:00:51 -07:00
 categories:
 - Tension
+author: Hanna Snyder
 redirect_from: "/tension/experience-yellow-conference-cant-make-it/"
 ---
 

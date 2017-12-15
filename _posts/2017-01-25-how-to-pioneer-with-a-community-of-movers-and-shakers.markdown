@@ -1,13 +1,13 @@
 ---
 title: How to Build Your Community of Movers and Shakers
-author: Madison Hedlund
-date: '2017-01-25 04:00:56 -0800'
+date: 2017-01-25 04:00:56 -08:00
 categories:
 - Advice
 - The Starter
 - The Solopreneur
 - The Leader
 - Pioneer
+author: Madison Hedlund
 redirect_from: "/advice/how-to-pioneer-with-a-community-of-movers-and-shakers/"
 ---
 

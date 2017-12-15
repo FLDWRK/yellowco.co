@@ -1,9 +1,9 @@
 ---
 title: "#bloomtogether: the Yellow Room Kickstarter Launch Party Recap"
-author: Yellow
-date: '2015-04-07 04:00:44 -0700'
+date: 2015-04-07 04:00:44 -07:00
 categories:
 - "#bloomyellow"
+author: Yellow
 redirect_from: "/bloomyellow/launchpartyrecap/"
 ---
 

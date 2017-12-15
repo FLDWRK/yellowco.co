@@ -1,13 +1,13 @@
 ---
 title: 'Thoughts on the Fourteenth: As a Newlywed'
-author: Sally Kim
-date: '2015-02-10 04:00:54 -0800'
+date: 2015-02-10 04:00:54 -08:00
 categories:
 - Light Talk
 - Advice
 - Inspiration
 - Encouragement
 - Rediscovering Authenticity
+author: Sally Kim
 redirect_from: "/light-talk/rediscovering-authenticity-glimpse-kims/"
 ---
 

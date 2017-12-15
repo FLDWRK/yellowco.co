@@ -1,11 +1,12 @@
 ---
-title: 'Confessions of a Yes Woman: Could These Three Myths Be Keeping You from Saying "No" When Necessary?'
-author: Samantha Chaffin
-date: '2016-07-26 04:00:23 -0700'
+title: 'Confessions of a Yes Woman: Could These Three Myths Be Keeping You from Saying
+  "No" When Necessary?'
+date: 2016-07-26 04:00:23 -07:00
 categories:
 - Advice
 - Inspiration
 - Valor
+author: Samantha Chaffin
 redirect_from: "/advice/confessions-of-a-yes-woman-could-these-three-myths-be-keeping-you-from-saying-no-when-necessary/"
 ---
 

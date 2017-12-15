@@ -1,11 +1,11 @@
 ---
 title: 'Rediscovering Authenticity: Be Kind to Yourself (Part One)'
-author: Abigail Driscoll
-date: '2015-01-15 04:00:35 -0800'
+date: 2015-01-15 04:00:35 -08:00
 categories:
 - Inspiration
 - Encouragement
 - Rediscovering Authenticity
+author: Abigail Driscoll
 redirect_from: "/inspiration/rediscovering-authenticity-real-shortcomings/"
 ---
 

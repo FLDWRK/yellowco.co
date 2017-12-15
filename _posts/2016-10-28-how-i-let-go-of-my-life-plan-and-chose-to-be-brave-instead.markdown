@@ -1,11 +1,11 @@
 ---
 title: How to Let Go of Your Life Plan and Choose to Be Brave Instead
-author: Yellow
-date: '2016-10-28 04:00:57 -0700'
+date: 2016-10-28 04:00:57 -07:00
 categories:
 - Creative Ladies
 - Advice
 - Heart
+author: Yellow
 redirect_from: "/creative-ladies/how-i-let-go-of-my-life-plan-and-chose-to-be-brave-instead/"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Enjoying a Creative Outlet Without the Pressure of Profit
-author: Brianna Towne
-date: '2017-07-10 04:00:49 -0700'
+date: 2017-07-10 04:00:49 -07:00
 categories:
 - Tension
+author: Brianna Towne
 redirect_from: "/tension/enjoy-creative-outlet-pressure-profit/"
 ---
 

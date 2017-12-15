@@ -1,11 +1,11 @@
 ---
 title: 'Working with Foster Teens | Organization Highlight: Teen Leadership Foundation'
-author: Sally Kim
-date: '2015-07-16 04:00:11 -0700'
+date: 2015-07-16 04:00:11 -07:00
 categories:
 - Creative Advocacy
 - Inspiration
 - The Activist
+author: Sally Kim
 redirect_from: "/creative-advocacy/organization-highlight-teen-leadership-foundation/"
 ---
 

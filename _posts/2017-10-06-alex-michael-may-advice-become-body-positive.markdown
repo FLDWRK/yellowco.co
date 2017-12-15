@@ -1,12 +1,12 @@
 ---
 title: Alex Michael May's Advice on Becoming Body Positive
-author: Emily Schrems
-date: '2017-10-06 04:00:39 -0700'
-series: Come Together
+date: 2017-10-06 04:00:39 -07:00
 categories:
 - Health
+author: Emily Schrems
+series: Come Together
 redirect_from: "/come-together/alex-michael-may-advice-become-body-positive/"
-image:
+image: 
 ---
 
 _You may have encountered [Alex Michael May](http://alexmichaelmay.com/) on [Instagram](https://www.instagram.com/alexmichaelmay/) as your “virtual bff,” heard her speak at [The Yellow Conference](http://yellowco.co/conference/), or seen her featured in an article using her voice vulnerably about body positivity. I had the opportunity to speak with her about her journey speaking out in vulnerability about her mindset and experiences, and how they allowed her to connect with others through real-life experiences that every woman encounters._

@@ -1,11 +1,11 @@
 ---
-title: "The Starter: Interested in Lettering? Here's Some Must-Have Tools"
-author: Esther Oh
-date: '2015-04-16 04:00:35 -0700'
+title: 'The Starter: Interested in Lettering? Here''s Some Must-Have Tools'
+date: 2015-04-16 04:00:35 -07:00
 categories:
 - Light Talk
 - Creative Ladies
 - The Starter
+author: Esther Oh
 redirect_from: "/light-talk/estheroh_letteringtools/"
 ---
 

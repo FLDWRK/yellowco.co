@@ -1,8 +1,8 @@
 ---
 title: Sarah Schulweis
-company_name: "Anchor & Orbit"
+company_name: Anchor & Orbit
 job_title: Founder
-bio_image:
+bio_image: 
 website: http://www.anchorandorbit.com/
 is_guest: true
 ---

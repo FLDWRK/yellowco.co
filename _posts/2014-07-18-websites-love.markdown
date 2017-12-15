@@ -1,10 +1,10 @@
 ---
 title: Websites We Love
-author: Yellow
-date: '2014-07-18 18:11:21 -0700'
+date: 2014-07-18 18:11:21 -07:00
 categories:
 - Advice
 - Inspiration
+author: Yellow
 redirect_from: "/advice/websites-love/"
 ---
 

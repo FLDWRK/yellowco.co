@@ -2,7 +2,7 @@
 title: Joanna Waterfall
 company_name: Yellow Co.
 job_title: Founder
-bio_image:
+bio_image: 
 website: https://www.instagram.com/joannawaterfall/
 is_guest: false
 ---

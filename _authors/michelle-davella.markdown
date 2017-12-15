@@ -1,5 +1,5 @@
 ---
-title: "Michelle D'Avella"
+title: Michelle D'Avella
 company_name: Pushing Beauty
 job_title: Founder
 bio_image: "/assets/images/michelle-davella.jpg"

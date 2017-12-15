@@ -1,13 +1,13 @@
 ---
 title: What You Need to Know Before Starting Your Own Non-Profit
-author: Wilkinson Mazzeo
-date: '2016-04-12 04:00:57 -0700'
+date: 2016-04-12 04:00:57 -07:00
 categories:
 - Advice
 - The Activist
 - The Starter
 - The Leader
 - Grit
+author: Wilkinson Mazzeo
 redirect_from: "/advice/5267/"
 ---
 

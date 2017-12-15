@@ -1,9 +1,9 @@
 ---
 title: How to Break the Pattern of Burn Out
-author: Abigail Davidson
-date: '2017-07-12 04:00:21 -0700'
+date: 2017-07-12 04:00:21 -07:00
 categories:
 - Tension
+author: Abigail Davidson
 redirect_from: "/tension/break-burn-out/"
 ---
 

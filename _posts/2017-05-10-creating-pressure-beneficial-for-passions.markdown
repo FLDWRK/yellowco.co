@@ -1,9 +1,9 @@
 ---
 title: Why Creating Pressure is Actually Beneficial for Your Passions
-author: Bailey Van Tassel
-date: '2017-05-10 04:00:30 -0700'
+date: 2017-05-10 04:00:30 -07:00
 categories:
 - Wander
+author: Bailey Van Tassel
 redirect_from: "/wander/creating-pressure-beneficial-for-passions/"
 ---
 

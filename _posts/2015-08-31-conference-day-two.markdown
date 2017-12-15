@@ -1,13 +1,13 @@
 ---
 title: 'Attendee Experience: Yellow Conference Day Two'
-author: Arielle Estoria
-date: '2015-08-31 13:40:59 -0700'
+date: 2015-08-31 13:40:59 -07:00
 categories:
 - The Activist
 - The Starter
 - Yellow 2015
 - The Solopreneur
 - The Leader
+author: Arielle Estoria
 redirect_from: "/the-activist/conferencedaytwo/"
 ---
 

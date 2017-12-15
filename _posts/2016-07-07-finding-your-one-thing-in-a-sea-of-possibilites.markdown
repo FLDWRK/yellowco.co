@@ -1,11 +1,11 @@
 ---
 title: How to Find Your One Thing in a Sea of Possibilities
-author: Joanna Waterfall
-date: '2016-07-07 04:00:17 -0700'
+date: 2016-07-07 04:00:17 -07:00
 categories:
 - Advice
 - The Starter
 - Valor
+author: Joanna Waterfall
 redirect_from: "/advice/finding-your-one-thing-in-a-sea-of-possibilites/"
 ---
 

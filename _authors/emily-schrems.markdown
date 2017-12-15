@@ -1,7 +1,7 @@
 ---
 title: Emily Schrems
-company_name:
-job_title:
+company_name: 
+job_title: 
 bio_image: "/assets/images/emily-schrems.jpg"
 website: https://www.instagram.com/emschrems/
 is_guest: true

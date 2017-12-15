@@ -1,10 +1,10 @@
 ---
 title: Yellow Conference 2014 Recap - Day 1
-author: Yellow
-date: '2014-09-18 16:02:11 -0700'
+date: 2014-09-18 16:02:11 -07:00
 categories:
 - Yellow 2014
-redirect_from: "yellow-2014/yellow-conference-2014-recap-day-1/"
+author: Yellow
+redirect_from: yellow-2014/yellow-conference-2014-recap-day-1/
 ---
 
 It's hard to sum up everything the Yellow Conference embodied in a simple blog post. Some things just can't be expressed through words and have to be experienced. But I (Joanna) will do my best here to lead you through the first day of Yellow Conference.

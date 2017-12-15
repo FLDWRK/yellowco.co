@@ -1,7 +1,6 @@
 ---
 title: 10 Realistic Ways You Can Start Fighting Modern Day Slavery Now
-author: Abigail Driscoll
-date: '2015-08-20 04:00:03 -0700'
+date: 2015-08-20 04:00:03 -07:00
 categories:
 - Creative Ladies
 - Creative Advocacy
@@ -9,6 +8,7 @@ categories:
 - The Activist
 - Encouragement
 - The Leader
+author: Abigail Driscoll
 redirect_from: "/creative-ladies/stophumantrafficking/"
 ---
 
