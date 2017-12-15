@@ -6,7 +6,7 @@ categories:
 author: Yellow Co.
 series: With
 redirect_from: "/with/1-2-billion-people-need-journals-provide/"
-image: "https://yellow-blog-images.imgix.net/2017/11/170A3633.jpg"
+image: https://yellow-blog-images.imgix.net/2017/11/170A3633.jpg
 ---
 
 _While a wide variety of social enterprises are being created these days, coming across a new one truly never seems to get old. Each tells its own inspiring narrative in a completely individual way - and [Bright Books](https://www.shopbrightbooks.com/) is no exception. We were so glad to hear more from Amy O'Shea, Bright Books founder and CEO, about how she uses her journals to help a massive global need, the mental health practices she incorporates into her routine, and how we can all make an effective impact._

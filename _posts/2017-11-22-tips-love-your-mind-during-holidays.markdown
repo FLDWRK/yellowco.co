@@ -6,7 +6,7 @@ categories:
 author: Lauren Cash
 series: With
 redirect_from: "/with/tips-love-your-mind-during-holidays/"
-image: "https://yellow-blog-images.imgix.net/2017/11/YellowFinal4-01.png"
+image: https://yellow-blog-images.imgix.net/2017/11/YellowFinal4-01.png
 ---
 
 Oh, the holidays! For some, it's their favorite time of year. For others, it's a time to just try to make it through without a catastrophic meltdown. The holidays can be particularly challenging due to new obstacles being thrown on top of daily stressors - such as an increased frequency of parties, heightened social expectations, reunions with family members, financial strains, and increased focus on particular foods. It's enough to make a lady want to climb in bed and hibernate 'til January 2nd. But if hibernating isn't in the cards, what are some alternatives?

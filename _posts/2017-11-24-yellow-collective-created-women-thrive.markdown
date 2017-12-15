@@ -6,7 +6,7 @@ categories:
 author: Joanna Waterfall
 series: With
 redirect_from: "/with/yellow-collective-created-women-thrive/"
-image: "https://yellow-blog-images.imgix.net/2017/11/NEW.jpg"
+image: https://yellow-blog-images.imgix.net/2017/11/NEW.jpg
 ---
 
 After the very first [Yellow Conference](http://yellowco.co/conference/) in 2014, I was beaming. There was a spark, a magic flame that had been burnt out in my spirit that I finally felt light up again. There was this crazy energy that you could almost hear buzzing with a room full of women who had a desire to make the world a better place.
