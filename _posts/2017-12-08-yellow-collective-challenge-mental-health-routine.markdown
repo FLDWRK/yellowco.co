@@ -1,12 +1,12 @@
 ---
-title: How Yellow's 7 Day Challenge Inspired Me Create This Daily Routine
-date: 2017-12-08 04:00:28 -08:00
+title: How Yellow's 7 Day Challenge Inspired Me to Create This Daily Routine
+date: 2017-12-08 04:00:00 -08:00
 categories:
 - Health
 author: Amy Everhart
+image: https://yellow-blog-images.imgix.net/2017/12/1T5A4253.jpg
 series: Conscious
 redirect_from: "/conscious/yellow-collective-challenge-mental-health-routine/"
-image: https://yellow-blog-images.imgix.net/2017/12/1T5A4253.jpg
 ---
 
 _Each month within the [Yellow Collective](http://yellowco.co/membership/), we invite our [members](https://members.yellowco.co/signup) to take on a do-good challenge pertaining to the current theme. Last month, our November series, [With](http://yellowco.co/category/with/), was focused on mental health, and having discussions for both those that struggle with mental health issues and those that want to care best for others that do. The challenge sent out in our [monthly mail](http://yellowco.co/membership/) was to complete one mental health practice for 7 days in a row. So, to get the inside scoop on what kind on an impact this had, we asked Yellow Collective member, Amy Everhart, to share her experience taking the challenge on!_
