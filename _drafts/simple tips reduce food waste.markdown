@@ -1,6 +1,6 @@
 ---
 title: 6 Simple Tips to Reduce Food Waste in Your Kitchen
-date: 2017-12-15 16:23:00 -08:00
+date: 2017-12-18 04:00:00 -08:00
 categories:
 - Conscious Living
 author: Brianna Towne
