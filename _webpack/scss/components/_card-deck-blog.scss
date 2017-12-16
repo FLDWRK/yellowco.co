@@ -12,6 +12,7 @@
       margin: auto;
       top: -26px;
       color: #9b9b9b;
+      margin-bottom: -20px;
 
       a {
         mark {
@@ -46,6 +47,7 @@
     .card-date {
       font-family: $font-family-serif;
       font-size: 0.9rem;
+      margin-bottom: 0;
     }
     @include media-breakpoint-up(lg) {
       flex-basis: calc(33.3333% - 30px);
