@@ -38,6 +38,7 @@ When you bring your groceries home, move older things to the front and slip in t
 ###### 6. Compost. 
 
 If you can’t use it, you can at least keep your food scraps from heading to the landfill by tossing it in the compost instead. If you’re in a small space, there are loads of cute countertop compost bins and you can usually drop off your compost at your local municipal waste center. If you have more space, the countertop bin is a great way to collect waste and then take it out to a larger compost bin in your backyard. Find one that is self-turning so you don’t need to get in there with a spoon. Save yourself that yucky experience. 
+
 ![3I5A1563 (1).jpg](/uploads/3I5A1563%20(1).jpg)
 
 When you think about it, and really choose consciously at the store, it’s not too difficult to drastically reduce your household food waste. Even if you simply choose to compost your coffee grounds or sprinkle them in your garden (they keep bugs and critters away!), every little step helps. If you need a little help getting started with a no-waste week, try out this recipe below. It’s full of healthy, yummy foods and is great hot for dinner or cold for lunch leftovers the next day.
@@ -45,12 +46,19 @@ When you think about it, and really choose consciously at the store, it’s not 
 **Veggie Rice Bowl**
 
 _Ingredients:_
+
 1 cup of jasmine rice
+
 1 box of extra firm tofu cut in small chunks
+
 2 tbsp low sodium soy sauce or tamari
+
 2 tbsp nutritional yeast
+
 2 heads of broccoli
+
 Salt and pepper to taste
+
 Red pepper flakes, optional
 
 _Instructions:_
