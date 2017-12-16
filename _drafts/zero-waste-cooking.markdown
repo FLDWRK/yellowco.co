@@ -12,7 +12,7 @@ Can you believe that statistic?! You know what the most frequently wasted food o
 
 We all do, myself included. We have to do better. Whether you’re cooking for 1 or a family of 5, it’s often a challenge to cook the right amount without having a ton of waste. The trick I use is to start planning the meal(s) before I even hit the grocery store. Try these other tips to help you reduce the amount of food waste you create, and check out my recipe below for an easy meal using items you likely have extra of in your pantry!
 
-######1. Take stock of what you already have. 
+#####1. Take stock of what you already have. 
 
 So many spices and veggies and sauces get stuck in the back of the pantry or the fridge. Before heading to the grocery store, check out your recipe and make sure you aren’t duplicating any ingredients. 
   
@@ -24,7 +24,7 @@ There are a few sites out there that will adjust an online recipe for different 
 
 Similarly to #2, if you know you’ll have leftovers of either your recipe or ingredients (you didn’t use the entire bag of carrots, for example), make a plan for those leftovers. A simple way to do this is to designate one day each week as a ‘cleanout meal’. Chop any extra veggies from recipes throughout the week, roast them up with some garlic and oil and whatever spices you like. You can serve them over a bed of rice with any leftover meat or plant protein. 
 
-##### 4.Shop wisely. 
+##### 4. Shop wisely. 
 
 For things like veggies, shop the loose section instead of pre-packaged and bagged foods. This way, when you’re shopping for a recipe that calls for 2 tomatoes, you’re not bringing home the whole bag of 6. Shopping the bulk section is another great way to make sure you’re getting exactly what you need. Those scoops are generally exactly 1cup!
 
