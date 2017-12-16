@@ -1,11 +1,11 @@
 ---
-title: "4 Ways to Get Intentional Conversation to Flow at Your Holiday Dinner Party"
+title: 4 Ways to Get Intentional Conversation to Flow at Your Holiday Dinner Party
 date: 2017-12-15 12:00:00 -08:00
 categories:
 - Conscious Living
 author: Taylor Buonocore & Mollie Khine
 series: Conscious
-image: "https://yellow-blog-images.imgix.net/2017/12/3I5A1582-1.jpg"
+image: https://yellow-blog-images.imgix.net/2017/12/3I5A1582-1.jpg
 redirect_from: "/conscious/intentional-conversation-holiday-dinner-party/"
 ---
 

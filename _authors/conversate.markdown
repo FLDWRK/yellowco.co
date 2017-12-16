@@ -2,7 +2,7 @@
 title: Taylor Buonocore & Mollie Khine
 company_name: Covers(ate)
 job_title: Founders
-bio_image:
+bio_image: 
 website: https://www.instagram.com/convers_ate/
 is_guest: true
 ---
