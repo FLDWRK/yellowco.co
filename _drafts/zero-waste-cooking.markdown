@@ -1,5 +1,5 @@
 ---
-title: Zero Waste Cooking
+title: 6 Simple Tips to Reduce Food Waste in Your Kitchen
 date: 2017-12-15 16:23:00 -08:00
 categories:
 - Conscious Living
