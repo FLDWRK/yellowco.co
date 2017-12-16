@@ -6,7 +6,7 @@ categories:
 author: Chantelle Gibbs
 series: Come Together
 redirect_from: "/come-together/what-experiencing-discrimination-taught-me/"
-image: 
+image: "https://yellow-blog-images.imgix.net/2017/10/0P7A8940.jpg"
 ---
 
 When Netflix announced they were removing the try-not-to-cry-as-you-quote-every-line classic, _Pride & Prejudice,_ from their list of streaming titles, I thought it was a cruel joke and not actually going to happen. As a precocious child growing up, I didn’t bother believing in Santa Claus because we didn’t have a chimney.  And don’t even get me started on avocado being classified as a fruit.
