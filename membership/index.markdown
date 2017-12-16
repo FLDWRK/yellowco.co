@@ -1,5 +1,6 @@
 ---
 title: Membership
+position: 1
 layout: custom/membership
 nav:
   id: membership

@@ -1,6 +1,6 @@
 ---
 title: Relationships
-position: 5
+position: 8
 category: Relationships
 layout: category
 ---

@@ -1,6 +1,6 @@
 ---
 title: Conference
-position: 1
+position: 3
 layout: custom/conference
 keywords: yellow, collective, conference, bloom, women, woman, entrepreneur, creative,
   inspiration, gathering, event, Los Angeles, august, 2018, greater, good, impact,
