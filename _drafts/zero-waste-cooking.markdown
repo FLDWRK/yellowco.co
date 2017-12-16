@@ -43,14 +43,12 @@ When you think about it, and really choose consciously at the store, it’s not 
 
 Ingredients:
 1 cup of jasmine rice
-
 1 box of extra firm tofu cut in small chunks
-
 2 tbsp low sodium soy sauce or tamari
 2 tbsp nutritional yeast
 2 heads of broccoli
 Salt and pepper to taste
-Red pepper flakes *optional
+Red pepper flakes, optional
 
 Instructions:
 1. Preheat oven to 375°, line a large baking sheet with parchment paper
