@@ -13,11 +13,11 @@ Can you believe that statistic?! You know what the most frequently wasted food o
 
 We all do, myself included. We have to do better. Whether you’re cooking for 1 or a family of 5, it’s often a challenge to cook the right amount without having a ton of waste. The trick I use is to start planning the meal(s) before I even hit the grocery store. Try these other tips to help you reduce the amount of food waste you create, and check out my recipe below for an easy meal using items you likely have extra of in your pantry!
 
-###### 1. Take stock of what you already have. 
+##### 1. Take stock of what you already have. 
 
 So many spices and veggies and sauces get stuck in the back of the pantry or the fridge. Before heading to the grocery store, check out your recipe and make sure you aren’t duplicating any ingredients. 
   
-###### 2. Make a list. 
+##### 2. Make a list. 
 
 There are a few sites out there that will adjust an online recipe for different servings. A yummy dinner for one will obviously require a lot less food than feeding a family of 5. Know your audience, and adjust accordingly.
 
@@ -49,7 +49,7 @@ _Ingredients:_
 
 1 cup of jasmine rice
 
-1 box of extra firm tofu cut in small chunks
+1 box of extra firm tofu, cut in small chunks
 
 2 tbsp low sodium soy sauce or tamari
 
@@ -62,12 +62,18 @@ Salt and pepper to taste
 Red pepper flakes, optional
 
 _Instructions:_
-1. Preheat oven to 375°, line a large baking sheet with parchment paper
-2. Cook rice according to directions on the package. Generally 1 cup of rice to 1 ¼ cups water. Boil water, add rice, cover and simmer for 15-20 minutes
-3. In a large bowl, mix tofu and broccoli with soy sauce and nutritional yeast
-4. Toss tofu and broccoli on the baking sheet and cook for about 30 minutes
+1. Preheat oven to 375°, line a large baking sheet with parchment paper.
+
+2. Cook rice according to directions on the package. Generally 1 cup of rice to 1 ¼ cups water. Boil water, add rice, cover, and simmer for 15-20 minutes.
+
+3. In a large bowl, mix tofu and broccoli with soy sauce and nutritional yeast.
+
+4. Toss tofu and broccoli on the baking sheet and cook for about 30 minutes.
+
 5. Turn off the oven and let the pan sit for 15 minutes. (Important. This makes the tofu yummy and crunchy.)
-6. Scoop rice into a bowl, top with cooked tofu and broccoli
+
+6. Scoop rice into a bowl, top with cooked tofu and broccoli.
+
 7. Sprinkle salt & pepper to taste and red pepper flakes, if using.
 
 _Photos by: [Amy Hulst](https://www.instagram.com/amyhulstforpresident/)_
