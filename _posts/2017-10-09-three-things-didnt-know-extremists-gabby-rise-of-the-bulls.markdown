@@ -7,7 +7,7 @@ categories:
 author: Hanna Snyder
 series: Come Together
 redirect_from: "/come-together/three-things-didnt-know-extremists-gabby-rise-of-the-bulls/"
-image: 
+image: "https://yellow-blog-images.imgix.net/2017/10/J46A7669-1.jpg"
 ---
 
 When we are faced with acts of hate, so many questions arise. How could a human

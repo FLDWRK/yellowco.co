@@ -3,7 +3,7 @@ title: 'The Truth About Therapy: What to Know if You''re Having Doubts'
 date: 2017-12-01 04:00:18 -08:00
 categories:
 - Health
-author: Emily Shrems
+author: Emily Schrems
 series: With
 redirect_from: "/with/truth-doubts-about-therapy/"
 image: https://yellow-blog-images.imgix.net/2017/12/Dreamer-04.jpg

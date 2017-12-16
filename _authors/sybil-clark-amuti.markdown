@@ -2,7 +2,7 @@
 title: Sybil Clark Amuti
 company_name: Legacy Row
 job_title: Founder
-bio_image: 
+bio_image: "/assets/images/sybil-clark-amuti.jpg"
 website: http://www.legacyrow.co/
 is_guest: true
 ---
