@@ -1,13 +1,13 @@
 ---
-title: 'Conscious Living: the Powerful Potential We Have to Create the World We Dream
+title: 'Conscious Living: The Powerful Potential We Have to Create the World We Dream
   of'
-date: 2017-12-04 04:00:33 -08:00
+date: 2017-12-04 04:00:00 -08:00
 categories:
 - Conscious Living
 author: Hanna Snyder
+image: https://yellow-blog-images.imgix.net/2017/12/yellow.jpeg
 series: Conscious
 redirect_from: "/conscious/conscious-living-powerful-potential/"
-image: https://yellow-blog-images.imgix.net/2017/12/yellow.jpeg
 ---
 
 Place your ear to the earth and listen  
