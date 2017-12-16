@@ -25,15 +25,11 @@ class Instagram extends Component {
   render() {
     return (
       <span>
-        {this.state.images
-          .slice(0, 5)
-          .map(image => (
-            <img
-              key={image.id}
-              src={image.images.standard_resolution.url}
-              alt="Yellow Instagram"
-            />
-          ))}
+        {this.state.images.slice(0, 5).map(image => (
+          <a key={image.id} href={image.link}>
+            <img src={image.images.standard_resolution.url} alt="Yellow Instagram" />
+          </a>
+        ))}
       </span>
     );
   }
