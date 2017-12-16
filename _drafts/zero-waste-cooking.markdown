@@ -50,10 +50,10 @@ Salt and pepper to taste
 Red pepper flakes *optional
 
 Instructions:
-1. Preheat oven to 375 degrees, line a large baking sheet with parchment paper
+1. Preheat oven to 375°, line a large baking sheet with parchment paper
 2. Cook rice according to directions on the package. Generally 1 cup of rice to 1 ¼ cups water. Boil water, add rice, cover and simmer for 15-20 minutes
 3. In a large bowl, mix tofu and broccoli with soy sauce and nutritional yeast
 4. Toss tofu and broccoli on the baking sheet and cook for about 30 minutes
-5. Turn off the oven and let the pan sit for 15 minutes *important. This makes the tofu yummy and crunchy*
+5. Turn off the oven and let the pan sit for 15 minutes. (Important. This makes the tofu yummy and crunchy.)
 6. Scoop rice into a bowl, top with cooked tofu and broccoli
 7. Sprinkle salt & pepper to taste and red pepper flakes, if using
