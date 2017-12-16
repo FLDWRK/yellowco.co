@@ -6,7 +6,7 @@ categories:
 author: Hanna Snyder
 series: Come Together
 redirect_from: "/come-together/9681/"
-image: "https://yellow-blog-images.imgix.net/2017/10/0P7A8821-Edit-K-CROP.jpg"
+image: https://yellow-blog-images.imgix.net/2017/10/0P7A8821-Edit-K-CROP.jpg
 ---
 
 **You, you’re a revolution.**\
