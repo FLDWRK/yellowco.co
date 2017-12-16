@@ -5,9 +5,6 @@ collections:
   authors:
     title: Authors
     output: true
-  categories:
-    title: Categories
-    output: true
   partners:
     title: Partners
     output: false
@@ -27,9 +24,9 @@ defaults:
   values:
     layout: post
     permalink: "/blog/:year/:month/:day/:title/"
-    author: 
-    image: 
-    impact-feature: 
+    author:
+    image:
+    impact-feature:
     nav:
       id: post
       site:
@@ -40,14 +37,8 @@ defaults:
     type: series
   values:
     layout: series
-    series: 
+    series:
     permalink: "/blog/series/:title"
-- scope:
-    path: ''
-    type: categories
-  values:
-    layout: category
-    permalink: "/blog/category/:title"
 - scope:
     path: ''
     type: authors
