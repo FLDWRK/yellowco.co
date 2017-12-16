@@ -12,7 +12,7 @@ Can you believe that statistic?! You know what the most frequently wasted food o
 
 We all do, myself included. We have to do better. Whether you’re cooking for 1 or a family of 5, it’s often a challenge to cook the right amount without having a ton of waste. The trick I use is to start planning the meal(s) before I even hit the grocery store. Try these other tips to help you reduce the amount of food waste you create, and check out my recipe below for an easy meal using items you likely have extra of in your pantry!
 
-######1.Take stock of what you already have. 
+######1. Take stock of what you already have. 
 
 So many spices and veggies and sauces get stuck in the back of the pantry or the fridge. Before heading to the grocery store, check out your recipe and make sure you aren’t duplicating any ingredients. 
   
@@ -48,10 +48,10 @@ Salt and pepper to taste
 Red pepper flakes *optional
 
 Instructions:
-Preheat oven to 375 degrees, line a large baking sheet with parchment paper
-Cook rice according to directions on the package. Generally 1 cup of rice to 1 ¼ cups water. Boil water, add rice, cover and simmer for 15-20 minutes
-In a large bowl, mix tofu and broccoli with soy sauce and nutritional yeast
-Toss tofu and broccoli on the baking sheet and cook for about 30 minutes
-Turn off the oven and let the pan sit for 15 minutes *important. This makes the tofu yummy and crunchy*
-Scoop rice into a bowl, top with cooked tofu and broccoli
-Sprinkle salt & pepper to taste and red pepper flakes, if using
+1. Preheat oven to 375 degrees, line a large baking sheet with parchment paper
+2. Cook rice according to directions on the package. Generally 1 cup of rice to 1 ¼ cups water. Boil water, add rice, cover and simmer for 15-20 minutes
+3. In a large bowl, mix tofu and broccoli with soy sauce and nutritional yeast
+4. Toss tofu and broccoli on the baking sheet and cook for about 30 minutes
+5. Turn off the oven and let the pan sit for 15 minutes *important. This makes the tofu yummy and crunchy*
+6. Scoop rice into a bowl, top with cooked tofu and broccoli
+7. Sprinkle salt & pepper to taste and red pepper flakes, if using
