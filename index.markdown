@@ -1,7 +1,6 @@
 ---
 title: Home
 position: 0
-layout: custom/home
 body-class: home
 banners:
 - link: "/membership"
@@ -24,5 +23,8 @@ buttons:
   link: "/blog"
 - text: 2018 Conference
   link: "/conference"
+custom_page_title: "Yellow Co. | Empowering\L creative, entrepreneurial women to become
+  agents of good."
+layout: custom/home
 ---
 
