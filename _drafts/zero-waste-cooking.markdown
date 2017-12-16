@@ -43,7 +43,7 @@ When you think about it, and really choose consciously at the store, it’s not 
 
 **Veggie Rice Bowl**
 
-Ingredients:
+_Ingredients:_
 1 cup of jasmine rice
 1 box of extra firm tofu cut in small chunks
 2 tbsp low sodium soy sauce or tamari
@@ -52,7 +52,7 @@ Ingredients:
 Salt and pepper to taste
 Red pepper flakes, optional
 
-Instructions:
+_Instructions:_
 1. Preheat oven to 375°, line a large baking sheet with parchment paper
 2. Cook rice according to directions on the package. Generally 1 cup of rice to 1 ¼ cups water. Boil water, add rice, cover and simmer for 15-20 minutes
 3. In a large bowl, mix tofu and broccoli with soy sauce and nutritional yeast
