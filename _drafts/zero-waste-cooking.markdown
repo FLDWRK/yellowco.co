@@ -21,6 +21,8 @@ So many spices and veggies and sauces get stuck in the back of the pantry or the
 
 There are a few sites out there that will adjust an online recipe for different servings. A yummy dinner for one will obviously require a lot less food than feeding a family of 5. Know your audience, and adjust accordingly.
 
+![3I5A1333 (2).jpg](/uploads/3I5A1333%20(2).jpg)
+
 ##### 3. Prepare for leftovers. 
 
 Similarly to #2, if you know you’ll have leftovers of either your recipe or ingredients (you didn’t use the entire bag of carrots, for example), make a plan for those leftovers. A simple way to do this is to designate one day each week as a "cleanout meal". Chop any extra veggies from recipes throughout the week, roast them up with some garlic, oil, and whatever spices you like. You can serve them over a bed of rice with any leftover meat or plant protein. 
