@@ -19,9 +19,9 @@ layout: page
       </p>
     </header>
     {% if page.image %}
-    <img src="{{ page.image }}?w=900&h=600&fit=crop" class="img-fluid mb-4" />
+      <img src="{{ page.image | image_src }}?w=900&h=600&fit=crop" class="img-fluid mb-4" />
     {% else %}
-    <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=900&h=600&fit=crop" class="img-fluid mb-4" />
+      <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=900&h=600&fit=crop" class="img-fluid mb-4" />
     {% endif %}
     <div class="post-text">
       {{ content }}
@@ -33,7 +33,7 @@ layout: page
         {% if author.bio_image %}
           <div class="col-sm-4 col-lg-3">
             <a href="/author/{{ page.author | slugify }}" class="no-underline">
-              <img class="img-fluid mb-4" src="{{ author.bio_image }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
+              <img class="img-fluid mb-4" src="{{ author.bio_image | image_src }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
             </a>
           </div>
           <div class="col-sm-8 col-lg-9">

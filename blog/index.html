@@ -8,7 +8,6 @@ nav:
 ---
 
 {% if paginator.previous_page %}
-
   <!-- BLOG PREVIOUS PAGE LAYOUT -->
   <div class="container blog">
     {% include newsletter-form.html %}
@@ -19,7 +18,11 @@ nav:
             <a href="{{ post.url }}">
               <div class="card card-deck-6">
                 {% if post.image %}
+<<<<<<< HEAD
                   <img src="{{ post.image }}?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid w-100" alt="{{ post.title }}" data-rjs="2">
+=======
+                  <img src="{{ post.image | image_src }}?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
+>>>>>>> 842ffb0bc80de47e082973bb671cecb379343020
                 {% else %}
                   <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid w-100" alt="{{ post.title }}" data-rjs="2" />
                 {% endif %}
@@ -45,7 +48,7 @@ nav:
               <div class="card my-2">
                 <a href="{{ post.url }}" class="_no-underline">
                   {% if post.image %}
-                    <img src="{{ post.image }}?w=345&h=420&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
+                    <img src="{{ post.image | image_src }}?w=345&h=420&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
                   {% else %}
                     <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=345&h=420&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
                   {% endif %}
@@ -85,7 +88,7 @@ nav:
           <a href="{{ post.url }}">
             <div class="card card-deck-6">
               {% if post.image %}
-                <img src="{{ post.image }}?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
+                <img src="{{ post.image | image_src }}?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2">
               {% else %}
                 <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2" />
               {% endif %}
@@ -123,6 +126,7 @@ nav:
               </span>
             </li>
           {% endif %}
+          &nbsp;
           {% if paginator.previous_page %}
             <li class="page-item">
               <a class="page-link" href="{{ paginator.previous_page_path }}" aria-label="Newer">

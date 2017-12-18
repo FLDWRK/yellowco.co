@@ -18,7 +18,7 @@ layout: page
         <div class="card">
           <a href="{{ post.url }}" class="_no-underline">
           {% if post.image %}
-            <img src="{{ post.image }}?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}">
+            <img src="{{ post.image | image_src }}?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}">
           {% else %}
             <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid" alt="{{ post.title }}" data-rjs="2" />
           {% endif %}

@@ -37,7 +37,7 @@ layout: site
           <div class="card my-2">
             <a href="{{ post.url }}" class="_no-underline">
               {% if post.image %}
-                <img src="{{ post.image }}?w=480&h=600&fit=crop&crop=faces" class="card-img-top img-fluid w-100" alt="{{ post.title }}" data-rjs="2">
+                <img src="{{ post.image | image_src }}?w=480&h=600&fit=crop&crop=faces" class="card-img-top img-fluid w-100" alt="{{ post.title }}" data-rjs="2">
               {% else %}
                 <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=480&h=600&fit=crop&crop=faces" class="card-img-top img-fluid w-100" alt="{{ post.title }}" data-rjs="2">
               {% endif %}
@@ -90,7 +90,7 @@ layout: site
       <a href="{{ post.url }}">
         <div class="card card-deck-6">
           {% if post.image %}
-            <img class="card-img-top img-fluid" src="{{ post.image }}?w=450&h=250&fit=crop&crop=faces" alt="{{ post.title }}" data-rjs="2">
+            <img class="card-img-top img-fluid" src="{{ post.image | image_src }}?w=450&h=250&fit=crop&crop=faces" alt="{{ post.title }}" data-rjs="2">
           {% else %}
             <img class="card-img-top img-fluid" src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=250&fit=crop&crop=faces" alt="{{ post.title }}" data-rjs="2">
           {% endif %}
