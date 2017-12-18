@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - Advice
 - Heart
-author: Wilkinson Mazzeo
+author: Emily Wilkinson & Sam Mazzeo
 redirect_from: "/creative-ladies/top-three-reasons-to-use-a-creative-services-agreement/"
 ---
 
