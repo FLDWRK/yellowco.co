@@ -7,10 +7,10 @@ nav:
   site:
     highlight: membership
 banners:
-- link: "/membership"
+- link: https://members.yellowco.co/
   image: "/assets/images/Membership-Header-text.jpg"
 sm-banners:
-- link: "/membership"
+- link: https://members.yellowco.co/
   image: "/assets/images/Membership-Mobile.jpg"
 details:
 - title: crave direction and purpose?
