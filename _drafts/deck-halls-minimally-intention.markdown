@@ -30,7 +30,7 @@ Better than the newest trend in holiday décor are items that are special to you
 
 Think beyond the season by investing in items that serve a greater purpose than just looking pretty. Look for pieces that are functional and made ethically. I love these home décor items from [Badala](https://www.badala.org/), which are handmade by artisans around the world who receive fair wages. They are timeless pieces that you can use year round, and for this season you can use them to serve your holiday meal or display vintage ornaments for a unique centerpiece. 
 
-#### Create good ambience. 
+#### Create a warm ambience. 
 
 An easy way to warm up a space is to add light, and I always gravitate toward beautiful candles. Add the fresh aromas of the holidays with candles that make a difference, like the [Evergreens](https://www.societyb.com/collections/the-light-candle/products/evergreens-candle-10-oz) candle from [The Light Candle Co.](https://www.societyb.com/collections/the-light-candle) or the Chai Tea candle from [Prosperity Candle](https://www.prosperitycandle.com/). Not only do these candles smell amazing (and make great gifts), but they also support refugees with every purchase.  
 
@@ -42,7 +42,7 @@ Incorporate natural elements in your décor for an affordable and no-waste way t
 
 When you’re planning your holiday meals, check out the farmers’ market and local bakeries or food stores. 
 
-### **Local purchases are environmentally friendly, because they aren’t transported long distances.**
+### **Local purchases are environmentally friendly because they aren’t transported long distances.**
 
 
 Shopping at farmers’ markets supports small-scale agriculture (which is good for our food supply and often the environment) and small businesses. Before you run to your local big box store for knick-knacks or gifts, first peruse the local boutiques or online small businesses you love. Your purchases will be unique, and you’ll make a greater economic impact. 
