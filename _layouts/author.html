@@ -14,7 +14,7 @@ layout: page
   <div class="col-12 col-sm-4">
     <div class="card">
       {% if page.bio_image %}
-        <img class="img-fluid w-100" src="{{ page.bio_image }}" alt="{{ page.title }}: {{ page.job_title }}" data-rjs="2">
+        <img class="img-fluid w-100" src="{{ page.bio_image | image_src }}" alt="{{ page.title }}: {{ page.job_title }}" data-rjs="2">
       {% endif %}
       <div class="card-block">
         {% if page.job_title %}
