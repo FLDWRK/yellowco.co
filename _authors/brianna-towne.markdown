@@ -3,7 +3,7 @@ title: Brianna Towne
 company_name: 
 job_title: 
 bio_image: "/uploads/bri.jpg"
-website: "https://www.rootwll.com/"
+website: https://www.rootwll.com/
 is_guest: true
 ---
 
