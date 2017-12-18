@@ -1,6 +1,8 @@
 ---
 title: How to Deck Your Halls With Less Consumption & More Intention
 date: 2017-12-20 04:00:00 -08:00
+categories:
+- Conscious Living
 author: Lindsay Byers-Hirth
 image: "/uploads/How%20to%20Deck%20Your%20Halls%20With%20Less%20Consumption%20&%20More%20Intention%20-%20Yellow%20Co.jpg"
 ---
@@ -59,4 +61,4 @@ When your guests have left and it’s time to take down the sparkle of the holid
 
 Remember, the best holiday gatherings are filled with memories and the people you love. I may not have the shoe molding installed on my floors or a gorgeous wreath on my front door by Christmas, but I’ll have time to imperfectly decorate a gingerbread house with my kids, which is far more meaningful. 
 
-_ Photos via [Badala](https://www.badala.org/) _
+_Photos via [Badala](https://www.badala.org/)_
