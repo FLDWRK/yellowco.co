@@ -24,9 +24,9 @@ defaults:
   values:
     layout: post
     permalink: "/blog/:year/:month/:day/:title/"
-    author: 
-    image: 
-    impact-feature: 
+    author:
+    image:
+    impact-feature:
     nav:
       id: post
       site:
@@ -37,7 +37,7 @@ defaults:
     type: series
   values:
     layout: series
-    series: 
+    series:
     permalink: "/blog/series/:title"
 - scope:
     path: ''
@@ -63,8 +63,6 @@ sass:
   - node_modules
 paginate: 9
 paginate_path: "/blog/archive/page:num"
-plugins_dir:
-- jekyll-feed
 gems:
 - jekyll-feed
 - jekyll-redirect-from
