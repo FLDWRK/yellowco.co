@@ -5,7 +5,7 @@ categories:
 - Conscious Living
 author: Taylor Buonocore & Mollie Khine
 series: Conscious
-image: https://yellow-blog-images.imgix.net/2017/12/3I5A1582-1.jpg
+image: "https://yellow-blog-images.imgix.net/2017/12/3I5A1582-1.jpg"
 redirect_from: "/conscious/intentional-conversation-holiday-dinner-party/"
 ---
 

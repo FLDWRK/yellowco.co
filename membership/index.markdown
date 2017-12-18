@@ -7,10 +7,10 @@ nav:
   site:
     highlight: membership
 banners:
-- link: "/membership"
+- link: "https://members.yellowco.co/"
   image: "/assets/images/Membership-Header-text.jpg"
 sm-banners:
-- link: "/membership"
+- link: "https://members.yellowco.co/"
   image: "/assets/images/Membership-Mobile.jpg"
 details:
 - title: crave direction and purpose?
@@ -52,4 +52,3 @@ faqs:
     inspired, having things to think about and having new goals to implement into
     our lives. They’re pretty awesome if we do say so ourselves.
 ---
-
