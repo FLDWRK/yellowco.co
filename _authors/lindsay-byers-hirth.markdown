@@ -1,7 +1,7 @@
 ---
 title: Lindsay Byers-Hirth
-company_name: Society B
-job_title: Co-Founder
+company_name: 
+job_title: 
 bio_image: "/assets/images/lindsay-byers-hirth.jpg"
 website: https://www.instagram.com/society_b/
 is_guest: true
