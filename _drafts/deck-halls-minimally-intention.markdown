@@ -11,6 +11,7 @@ But as delays in refinishing the floors meant changing my grand plans of hosting
 
 ### **To me, the holidays are not about having a perfectly decorated home that would impress my Instagram community.**
 
+
 Instead, I want to be surrounded by joy, the people I love, and the glow of goodness and generosity that tends to warm the otherwise cold air during this special time of year. I want to spend my time focusing on creating memories, rather than standing in line at a crowded store to buy more stuff that I use for one month each year, or stressing out about how my ornament color scheme isn’t exactly on-trend.   
 
 So, I am going back to the basics this year for the holidays. I’m saying no to weekends full of stressful errands to “get ready for the holidays” and yes to lazy December Sundays spent listening to Christmas songs. I’m worrying less about how my house will look in pictures and focusing more on how joyful it feels in real life. 
@@ -40,6 +41,7 @@ Incorporate natural elements in your décor for an affordable and no-waste way t
 When you’re planning your holiday meals, check out the farmers’ market and local bakeries or food stores. 
 
 ### **Local purchases are environmentally friendly, because they aren’t transported long distances.**
+
 
 Shopping at farmers’ markets supports small-scale agriculture (which is good for our food supply and often the environment) and small businesses. Before you run to your local big box store for knick-knacks or gifts, first peruse the local boutiques or online small businesses you love. Your purchases will be unique, and you’ll make a greater economic impact. 
 
