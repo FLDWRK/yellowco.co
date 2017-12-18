@@ -6,7 +6,7 @@ categories:
 - Advice
 - The Leader
 - Build
-author: Wilkinson Mazzeo
+author: Emily Wilkinson & Sam Mazzeo
 redirect_from: "/advice/lets-talk-business-llc-or-corporation-what-are-they-and-which-is-best-for-you/"
 ---
 

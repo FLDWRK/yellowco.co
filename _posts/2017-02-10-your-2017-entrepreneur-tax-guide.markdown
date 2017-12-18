@@ -6,7 +6,7 @@ categories:
 - The Solopreneur
 - The Leader
 - Pioneer
-author: Wilkinson Mazzeo
+author: Emily Wilkinson & Sam Mazzeo
 redirect_from: "/advice/your-2017-entrepreneur-tax-guide/"
 ---
 

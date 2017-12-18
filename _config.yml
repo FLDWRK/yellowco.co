@@ -38,13 +38,13 @@ defaults:
   values:
     layout: series
     series:
-    permalink: "/blog/series/:title"
+    permalink: "/blog/series/:title/"
 - scope:
     path: ''
     type: authors
   values:
     layout: author
-    permalink: "/author/:title"
+    permalink: "/author/:title/"
 url: https://yellowco.co
 description: Yellow Co. exist to empower creative, entrepreneurial women become agents
   of good. We do this through a membership platform, an annual conference, and digital

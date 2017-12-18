@@ -7,7 +7,7 @@ categories:
 - The Starter
 - The Leader
 - Grit
-author: Wilkinson Mazzeo
+author: Emily Wilkinson & Sam Mazzeo
 redirect_from: "/advice/5267/"
 ---
 
