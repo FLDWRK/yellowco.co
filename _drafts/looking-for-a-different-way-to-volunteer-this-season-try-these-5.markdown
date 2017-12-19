@@ -4,7 +4,7 @@ date: 2017-12-22 04:00:00 -08:00
 categories:
 - Culture
 author: Elisabetta Colabianchi
-image: "/uploads/Yellow%20Co.jpg"
+image: "/uploads/HJ-Kaleidos-063.jpg"
 ---
 
 The holidays are a great time to give back and volunteer. Most everyone thinks so, and because of that, shelters and soup kitchens tend to be so overloaded with volunteers and donations. Sometimes they don’t even take sign-ups unless it’s months in advance because they fill up so quickly! So if you want to find a meaningful way to give back and volunteer during the holidays, you may have to get creative. Here are some ideas of how you can still make an impact!
@@ -21,7 +21,7 @@ Call your local hospital and ask if you can make “Get Well Soon” cards for t
 
 Similar to the last one, call your local jail or prison and ask if you can make “Happy Holiday” cards for those incarcerated. People often forget about this population, and making a card for them during the holidays can really mean a lot. Being mindful of different cultures and religions when making the cards is really appreciated.
 
-![Looking for a Different Way to Volunteer This Season? Try These 5 - Yellow Co.JPG](/uploads/IMG_2011.JPG)
+![Looking for a Different Way to Volunteer This Season? Try These 5.jpg](/uploads/HJ-Kaleidos-084.jpg)
 
 ##### 4. Design thank you posters for first responders.
 
@@ -33,4 +33,4 @@ You can provide company to the residents by helping host dances, putting on game
 
 Volunteering and giving back during the holidays is a great way to get your foot in the door for this type of work. The truth of the matter is, though, that volunteering and donations are needed all year round. Once you get a taste of what it’s like to volunteer, think about becoming a regular, year-round, volunteer through a local organization in your community. [United Way](https://www.unitedway.org/) and the [International Rescue Committee ](https://www.rescue.org/)are great places to start! They all have affiliates or offices around the US, and can always use help sorting and serving food, mentoring youth, or helping immigrant families adjust to life in the US. Think about your skills and interests, and what type of volunteer opportunity you would like to be a part of even after the holidays are over.
 
-_Photos by: [Joanne Pio](http://www.joannepio.com/)_
+*Photos by: [Joanne Pio](http://www.joannepio.com/)*
