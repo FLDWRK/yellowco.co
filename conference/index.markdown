@@ -9,7 +9,7 @@ nav:
   site:
     highlight: conference
 banners:
-- image: "/uploads/banner-conference-ownership.jpg"
+- image: "/uploads/banner-conference-ownership-a98a35.jpg"
 sm-banners:
 - image: "/uploads/banner-conference-conference-sm.jpg"
 speakers:
