@@ -33,4 +33,4 @@ You can provide company to the residents by helping host dances, putting on game
 
 Volunteering and giving back during the holidays is a great way to get your foot in the door for this type of work. The truth of the matter is, though, that volunteering and donations are needed all year round. Once you get a taste of what it’s like to volunteer, think about becoming a regular, year-round, volunteer through a local organization in your community. [United Way](https://www.unitedway.org/) and the [International Rescue Committee ](https://www.rescue.org/)are great places to start! They all have affiliates or offices around the US, and can always use help sorting and serving food, mentoring youth, or helping immigrant families adjust to life in the US. Think about your skills and interests, and what type of volunteer opportunity you would like to be a part of even after the holidays are over.
 
-*Photos by: [Joanne Pio](http://www.joannepio.com/)*
+*Photos by: [Eun Creative](http://www.euncreative.com/)*
