@@ -4,7 +4,7 @@ date: 2017-12-22 04:00:00 -08:00
 categories:
 - Culture
 author: Elisabetta Colabianchi
-image: "/uploads/Looking%20for%20a%20Different%20Way%20to%20Volunteer%20This%20Season?%20Try%20These%205%20-%20Yellow%20Co.JPG"
+image: "/uploads/Looking%20for%20a%20Different%20Way%20to%20Volunteer%20This%20Season?%20Try%20These%205%20-%20Yellow%20Co-ffb9f7.JPG"
 ---
 
 The holidays are a great time to give back and volunteer. Most everyone thinks so, and because of that, shelters and soup kitchens tend to be so overloaded with volunteers and donations. Sometimes they don’t even take sign-ups unless it’s months in advance because they fill up so quickly! So if you want to find a meaningful way to give back and volunteer during the holidays, you may have to get creative. Here are some ideas of how you can still make an impact!
@@ -33,4 +33,4 @@ You can provide company to the residents by helping host dances, putting on game
 
 Volunteering and giving back during the holidays is a great way to get your foot in the door for this type of work. The truth of the matter is, though, that volunteering and donations are needed all year round. Once you get a taste of what it’s like to volunteer, think about becoming a regular, year-round, volunteer through a local organization in your community. [United Way](https://www.unitedway.org/) and the [International Rescue Committee ](https://www.rescue.org/)are great places to start! They all have affiliates or offices around the US, and can always use help sorting and serving food, mentoring youth, or helping immigrant families adjust to life in the US. Think about your skills and interests, and what type of volunteer opportunity you would like to be a part of even after the holidays are over.
 
-_ Photos by: [Joanne Pio](http://www.joannepio.com/) _
+_Photos by: [Joanne Pio](http://www.joannepio.com/)_
