@@ -31,13 +31,13 @@ layout: site
     </div>
   </div>
   <div class="row justify-content-center mb-4 mt-4">
-    <div class="col-12 col-lg-12 col-xl-10 px-md-0">
+    <div class="col-12 col-lg-12 px-md-0">
       <div class="card-deck card-deck-blog justify-content-center">
         {% for post in site.posts limit:3 %}
           <div class="card my-2">
             <a href="{{ post.url }}" class="_no-underline">
               {% if post.image %}
-                <img src="{{ post.image | image_src }}?w=480&h=600&fit=crop&crop=faces" class="card-img-top img-fluid w-100" alt="{{ post.title }}" data-rjs="2">
+                <img src="{{ post.image | image_src }}?w=480&h=500&fit=crop&crop=faces" class="card-img-top img-fluid w-100" alt="{{ post.title }}" data-rjs="2">
               {% else %}
                 <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=480&h=600&fit=crop&crop=faces" class="card-img-top img-fluid w-100" alt="{{ post.title }}" data-rjs="2">
               {% endif %}
