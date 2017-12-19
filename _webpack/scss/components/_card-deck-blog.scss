@@ -1,0 +1,72 @@
+.card-deck-blog {
+  .card {
+    border: solid 3px $brand-black;
+
+    .card-category {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      color: #9b9b9b;
+      position: relative;
+      left: 0;
+      right: 0;
+      margin: auto;
+      top: -26px;
+      color: #9b9b9b;
+      margin-bottom: -20px;
+
+      a {
+        mark {
+          background-color: white;
+          padding: 0.75rem 1rem 0.5rem;
+          color: #9b9b9b;
+          transition: all 0.3s ease 0s;
+        }
+      }
+
+      a:hover {
+        mark {
+          background-color: $brand-primary;
+          color: darken(#9b9b9b, 45%);
+        }
+      }
+    }
+
+    .card-title {
+      font-size: 1.5rem;
+      line-height: 1.25;
+
+      a {
+        text-decoration: none;
+      }
+
+      a:hover {
+        border-bottom: 2px solid $brand-primary;
+      }
+    }
+
+    .card-date {
+      font-family: $font-family-serif;
+      font-size: 0.9rem;
+      margin-bottom: 0;
+    }
+    @include media-breakpoint-up(lg) {
+      flex-basis: calc(33.3333% - 30px);
+      max-width: calc(33.3333% - 30px);
+    }
+    @include media-breakpoint-only(md) {
+      flex-basis: calc(50% - 30px);
+      max-width: calc(50% - 30px);
+    }
+    @include media-breakpoint-only(sm) {
+      flex-basis: calc(50% - 30px);
+      max-width: calc(50% - 30px);
+    }
+    @include media-breakpoint-down(xs) {
+      flex-basis: 100%;
+      max-width: 100%;
+    }
+  }
+  // .card:nth-child(2) {
+  //   margin-right: 0;
+  // }
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include gtm-head.html %}
+    {% feed_meta %}
+    {% seo title=false %}
+    {% if page.keywords %}
+      <meta name="keywords" content="{{ page.keywords }}">
+    {% endif %}
+    <link rel="shortcut icon" href="favicon.ico">
+    <title>
+      {% if page.custom_page_title %}
+        {{ page.custom_page_title }}
+      {% elsif page.page_title %}
+        {{ page.page_title }} | {{ site.title }}
+      {% elsif page.title %}
+        {{ page.title }} | {{ site.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
+    <link href="/assets/stylesheets/public.css?{{site.time | date: '%s%N'}}" rel="stylesheet" type="text/css">
+    <script src="https://js.stripe.com/v3/"></script>
+  </head>
+  <body class="{{ page.body-class }}">
+    {% include gtm-body.html %}
+    <a id="top"></a>
+    {{ content }}
+    <script src="/assets/javascripts/bundle.js?{{site.time | date: '%s%N'}}" type="text/javascript" charset="utf-8"></script>
+    {% include intercom.html %}
+  </body>
+</html>

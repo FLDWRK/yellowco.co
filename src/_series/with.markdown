@@ -1,4 +1,0 @@
----
-title: With
-series: With
----

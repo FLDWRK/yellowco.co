@@ -1,0 +1,102 @@
+.h1,
+.h2,
+.h3,
+h1,
+h2,
+h3 {
+  font-family: $headings-lg-font-family;
+}
+
+.h4,
+.h5,
+.h6,
+h4,
+h5,
+h6 {
+  font-family: $headings-sm-font-family;
+  letter-spacing: 2px;
+  font-style: normal;
+  line-height: 1.4;
+}
+
+.display-1,
+.display-2,
+.display-3,
+.display-4 {
+  font-family: $headings-lg-font-family;
+  font-style: italic;
+  line-height: 1.25;
+}
+
+.header-rule {
+  border-top: 1px solid $brand-black;
+  margin-top: 2.75rem;
+  text-align: center;
+  padding-bottom: 1rem;
+
+  h1,
+  h2 {
+    background: $white;
+    margin: 0;
+    line-height: 2.75rem;
+    padding: 0 1.4rem;
+    display: inline-block;
+    transform: translateY(-62%);
+  }
+}
+
+.section-title {
+  font-size: 5rem;
+  color: $brand-primary;
+  position: relative;
+  top: -1.25rem;
+  font-style: italic;
+}
+@include media-breakpoint-down(lg) {
+  .section-title {
+    font-size: 4.25rem;
+  }
+}
+@include media-breakpoint-down(md) {
+  .section-title {
+    font-size: 3.25rem;
+    top: -10px;
+  }
+}
+
+mark {
+  background-color: $brand-primary;
+}
+
+u {
+  text-decoration: none;
+  border-bottom: solid 2px $brand-primary;
+}
+
+p.lead > strong {
+  font-weight: bold;
+}
+
+.league-spartan {
+  font-family: 'League Spartan', sans-serif;
+}
+
+.open-sans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.playfair {
+  font-family: $font-family-serif, serif;
+}
+
+.playfair-display {
+  font-family: 'Playfair Display', serif;
+}
+
+::selection {
+  background: $brand-primary;
+}
+
+::-moz-selection {
+  background: $brand-primary;
+}

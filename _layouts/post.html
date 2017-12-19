@@ -1,0 +1,67 @@
+---
+layout: page
+---
+
+<div class="row justify-content-center">
+  <section class="post col-12 col-md-10 col-lg-9">
+    <header class="text-center">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-date">
+        <a href="/author/{{ page.author | slugify }}" class="no-underline">{{ page.author }}</a>
+        &nbsp;|&nbsp;
+        {{ page.date | date:"%B %e, %Y" }}
+        &nbsp;|&nbsp;
+        {% if page.categories %}
+          <a href="/blog/category/{{ page.categories | first | slugify }}" class="no-underline">
+            {{ page.categories | first }}
+          </a>
+        {% endif %}
+      </p>
+    </header>
+    {% if page.image %}
+      <img src="{{ page.image | image_src }}?w=900&h=600&fit=crop" class="img-fluid mb-4" />
+    {% else %}
+      <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=900&h=600&fit=crop" class="img-fluid mb-4" />
+    {% endif %}
+    <div class="post-text">
+      {{ content }}
+    </div>
+    {% include share-post.html %}
+    <footer class="post-footer">
+      <div class="row author">
+        {% assign author = site.authors | where:"title",page.author | first %}
+        {% if author.bio_image %}
+          <div class="col-sm-4 col-lg-3">
+            <a href="/author/{{ page.author | slugify }}" class="no-underline">
+              <img class="img-fluid mb-4" src="{{ author.bio_image | image_src }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
+            </a>
+          </div>
+          <div class="col-sm-8 col-lg-9">
+        {% else %}
+          <div class="col-12">
+        {% endif %}
+          <h4 class="name">
+            {{ author.title }}
+            {% if author.website %}
+              <a href="{{ author.website }}" target="_blank" class="no-underline">
+                <small class="text-muted">
+                  <i class="fa fa-external-link" aria-hidden="true"></i>
+                </small>
+              </a>
+            {% endif %}
+          </h4>
+          {% if author.job_title %}
+            <h6 class="title">{{ author.job_title }}
+            {% if author.company_name %}
+              at {{ author.company_name }}
+            {% endif %}
+          </h6>
+          {% endif %}
+          {% if author.content %}
+            {{ author.content | markdownify }}
+          {% endif %}
+        </div>
+      </div>
+    </footer>
+  </section>
+</div>

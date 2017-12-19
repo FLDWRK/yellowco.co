@@ -1,16 +1,17 @@
 const webpack = require('webpack');
 const path = require('path');
 const dotenv = require('dotenv-webpack');
+const extractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = (env = {}) => {
   return {
-    entry: './webpack/entry.jsx',
+    entry: ['./_webpack/js/entry.jsx', './_webpack/scss/public.scss'],
     output: {
-      path: path.resolve(__dirname, 'src', 'assets', 'javascripts'),
-      filename: 'bundle.js'
+      path: path.resolve(__dirname, 'assets'),
+      filename: 'javascripts/bundle.js'
     },
     module: {
-      loaders: [
+      rules: [
         {
           test: /\.(js|jsx)?$/,
           exclude: /(node_modules)/,
@@ -19,6 +20,28 @@ module.exports = (env = {}) => {
             presets: ['env', 'react'],
             plugins: ['transform-object-rest-spread', 'transform-class-properties']
           }
+        },
+        {
+          test: /\.scss$/,
+          use: extractTextPlugin.extract({
+            fallback: 'style-loader',
+            use: [
+              {
+                loader: 'css-loader',
+                options: {
+                  url: false,
+                  minimize: true,
+                  sourceMap: true
+                }
+              },
+              {
+                loader: 'sass-loader',
+                options: {
+                  sourceMap: true
+                }
+              }
+            ]
+          })
         }
       ]
     },
@@ -33,6 +56,10 @@ module.exports = (env = {}) => {
       }),
       new dotenv({
         path: `./.env${env.NODE_ENV === 'development' ? '.development' : ''}`
+      }),
+      new extractTextPlugin({
+        filename: 'stylesheets/public.css',
+        allChunks: true
       })
     ]
   };

@@ -1,4 +1,0 @@
----
-title: Conscious
-series: Conscious
----
