@@ -9,9 +9,9 @@ nav:
   site:
     highlight: conference
 banners:
-- image: "/assets/images/banner-conference-bloom.jpg"
+- image: "/uploads/banner-conference-ownership.jpg"
 sm-banners:
-- image: "/assets/images/banner-conference-bloom-sm.jpg"
+- image: "/uploads/banner-conference-conference-sm.jpg"
 speakers:
 - name: Holley Murchison
   image: "/assets/images/holley-murchison.jpg"
