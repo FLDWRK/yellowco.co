@@ -28,7 +28,7 @@ speakers:
   company: BlinkNow Foundation
   link: http://www.blinknow.org/
 - name: Ruthie Lindsey
-  image: "/uploads/Ruthie-Lindsey.jpeg"
+  image: "/uploads/Ruthie.jpg"
   title: Speaker & Stylist
   link: http://www.ruthielindsey.com/
 layout: custom/conference
