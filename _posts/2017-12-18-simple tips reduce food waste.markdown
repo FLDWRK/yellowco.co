@@ -5,6 +5,7 @@ categories:
 - Conscious Living
 author: Brianna Towne
 image: "/uploads/3I5A1339%20(1).jpg"
+series: Conscious
 ---
 
 ### **The amount of food waste worldwide is enough to feed 1 billion hungry people each year.**
