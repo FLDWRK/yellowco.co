@@ -47,4 +47,4 @@ Christmas came and went. The pizzelles were still stacked in multitudes on the k
 
 Sometimes it looks like a television show that inspires us, sometimes it looks like a friend’s encouragement. And sometimes if you’re lucky, it looks like a cookie.
 
-_Photos by: [Joanne Pio](http://www.joannepio.com/) _
+_Photos by: [Joanne Pio](http://www.joannepio.com/)_
