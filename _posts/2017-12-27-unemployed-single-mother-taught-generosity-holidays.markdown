@@ -5,6 +5,7 @@ categories:
 - Growth
 author: Chantelle Gibbs
 image: "/uploads/Yellow%20Co.jpg"
+series: Conscious
 ---
 
 We had just moved out of our one-bedroom apartment when my single mother of two was laid off from her hospital job in a sudden change of staffing and budget cuts. Resilience was elusive and the bills were imminent. This drought continued on for seven, maybe eight months in our home, and I began to wonder how we were going to make it through December, my forever favorite month of the year. Our usual cheery firecracker of a mother was discouraged and defeated. I dreaded what might become of our perfect holiday season.
