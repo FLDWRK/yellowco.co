@@ -15,6 +15,8 @@ This particular Christmas however, was going to be different. My mom let us know
 
 ### So it was up to all of us to get creative, pursue contentment, and daily reset back to the real heart of the season.
 
+
+
 Now if there’s one thing that turns any day around for my mom, it’s food - eating it, cooking it, sharing it, and putting more on your plate even after you’ve told her you’re already full. So in the abundance of spare time my mom now had with no job to head to, the Food Channel became her favorite pastime, as she learned recipe after recipe along with the names and personality quirks of every featured chef.
 
 Enjoyed a great soup at the restaurant? Mom would learn how to make it better. Couldn’t get enough of a dish at that party? Mom had an updated version up her sleeve. A dessert you dream about every night? Oh, here comes Mom pulling two batches fresh out the oven.
@@ -41,4 +43,4 @@ Christmas came and went. The pizzelles were still stacked in multitudes on the k
 
 Sometimes it looks like a television show that inspires us, sometimes it looks like a friend’s encouragement. And sometimes if you’re lucky, it looks like a cookie.
 
-_Photos by: _
+_Photos by: [Joanne Pio](http://www.joannepio.com/) _
