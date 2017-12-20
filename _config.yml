@@ -24,9 +24,10 @@ defaults:
   values:
     layout: post
     permalink: "/blog/:year/:month/:day/:title/"
-    author: 
-    image: 
-    impact-feature: 
+    author:
+    image:
+    series:
+    impact-feature:
     nav:
       id: post
       site:
@@ -37,7 +38,7 @@ defaults:
     type: series
   values:
     layout: series
-    series: 
+    series:
     permalink: "/blog/series/:title/"
 - scope:
     path: ''
