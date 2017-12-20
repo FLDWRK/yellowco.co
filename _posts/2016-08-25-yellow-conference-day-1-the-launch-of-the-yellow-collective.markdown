@@ -4,7 +4,7 @@ date: 2016-08-25 11:30:40 -07:00
 categories:
 - Yellow 2016
 - Collective
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-2016/yellow-conference-day-1-the-launch-of-the-yellow-collective/"
 ---
 
@@ -33,7 +33,7 @@ DIGITAL RESOURCES
 • One E-Course aimed to help you grow your creative endeavors
 
 THE COMMUNITY  
-• In-person* gatherings (our chapter is run by me!)  
+• In-person\* gatherings (our chapter is run by me!)  
 • Access to exclusive Slack channel, where members connect & share resources  
 • Book club  
 • Monthly digital “hangouts” with a do-good Presenter  
@@ -43,7 +43,7 @@ All for $99 / quarter.
 
 Pretty rad, right?
 
-Head to yellowcollective.com for more info and to sign up to be a member. _**R****egistration closes September 1**_ so if you want in, be sure to order before then!!
+Head to [yellowco.co/membership](/membership) for more info and to sign up to be a member. _Registration closes September 1_ so if you want in, be sure to order before then!!
 
 We're super excited to experience what the rest of the conference has to offer and all the goodness to come. The ladies here are insane amazing. Feeling all the good vibes over here. If you're not joining us in person, don't forget to be checking in on our [social media streams](http://yellowconference.com/2016/08/23/you-cant-come-to-yellow-but-you-still-want-to-soak-in-the-goodness-heres-how/) for all the good stuff!!
 

@@ -45,5 +45,3 @@ For example, I am fully aware that I will _never_ have long, thin legs. It’s j
 Unfortunately, jealousy happens to all of us. It’s not something that we can get rid of with a few magic steps. But let’s start here. Let’s start together. Let’s call our jealousy what it is, join forces when we can, and _really_ embrace the individuals that we are. You might just find that your little green-eyed monster doesn’t feel at home on your shoulder anymore. You might hear the sound of her filing her nails and brushing her teeth as she packs up her bags and scoots on out of your life.
 
 _Photos by [Chelsea Francis](https://unsplash.com/ohhhchelsea)_
-
-[![adriscoll bio](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

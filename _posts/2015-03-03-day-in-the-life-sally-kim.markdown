@@ -64,5 +64,3 @@ redirect_from: "/light-talk/dayinthelifesallykim/"
 [![greys__140512161825](https://yellow-blog-images.imgix.net/2015/02/greys__140512161825.jpeg)](https://yellow-blog-images.imgix.net/2015/02/greys__140512161825.jpeg)
 
 This day did not go according to plan. I had work to catch up on over the weekend, and didn't get the time I look forward to every week-time for me and my hubs, time for me and myself, and time for me and the blog, but...it's ok, because the reality is...well, this is life! And even in the hustle and bustle, it was still a beautiful and rich day. _And I need to live in an interruptible manner to get through this life_. Living with an interruptible focus will show you where you're needed most; where you're heart and hands and gifts need to be used outside of your own agenda.
-
-[![Sally Kim Yellow Conference](https://yellow-blog-images.imgix.net/2015/02/skimbio1.jpg)](http://lettersfromamister.tumblr.com/)

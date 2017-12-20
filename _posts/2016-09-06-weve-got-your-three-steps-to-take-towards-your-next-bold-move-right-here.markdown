@@ -5,7 +5,7 @@ categories:
 - The Starter
 - Encouragement
 - Valor
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-starter/weve-got-your-three-steps-to-take-towards-your-next-bold-move-right-here/"
 ---
 

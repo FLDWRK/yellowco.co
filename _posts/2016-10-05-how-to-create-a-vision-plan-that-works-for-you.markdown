@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - Advice
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/how-to-create-a-vision-plan-that-works-for-you/"
 ---
 

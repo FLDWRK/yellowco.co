@@ -19,8 +19,6 @@ Without **you, **this movement would not be possible. The Yellow Co. is commit
 
 Today, we want to pause and take a look at how Yellow Co. has impacted women from **across the nation **to use their gifts for good:
 
-<div>
-
 _The Yellow Conference for me was just the beginning. After walking out of the conference, I knew that I wanted my skills and my time to be used for something beyond just myself. That night I was looking through Facebook and saw a job posting for Krochet Kids intl, a non-profit with a mission to empower women in Uganda and Peru, and submitted my application then and there. I got a call back the following Monday, set up an interview, got the job, quit my job, and the rest was history. It was a crazy series of events I was not prepared for but I was ready to take the leap because of the inspiration and the courage through Yellow._
 
 --Michelle Kim, [Krochet Kids Intl.](http://www.krochetkids.org/)
@@ -58,15 +56,3 @@ If each reader from our blog **today **donated $5 to our Kickstarter, we will 
 _For more information on our Kickstarter and to check out our dream for an online hub, please click [here.](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)_
 
 _Photo by [Morgan Sessions](http://www.morgansessions.com/?utm_source=Unsplash&utm_medium=website&utm_campaign=unsplash) _
-
-</div>
-
-<div>
-
-<div dir="ltr">
-
-<div>[![skimbio](https://yellow-blog-images.imgix.net/2015/02/skimbio.jpg)](https://yellow-blog-images.imgix.net/2015/02/skimbio.jpg)</div>
-
-</div>
-
-</div>

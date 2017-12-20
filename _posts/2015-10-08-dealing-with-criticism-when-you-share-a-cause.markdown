@@ -22,9 +22,9 @@ You see, today I posted [this](http://lettersfromamister.tumblr.com/post/1297914
 
 It got a good amount of reads and a decent amount of likes, agrees, and reposts...**but then there were two...the TWO.**
 
-###### Two opinions that caused me to reread and reread and reread my writing, my opinions, my heart and ask _where did I go wrong!?_
+###### Two opinions that caused me to reread and reread and reread my writing, my opinions, my heart and ask *where did I go wrong!?*
 
-[![yellow conference: spread goodness and bloom](https://yellow-blog-images.imgix.net/2015/09/41-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/09/41-800x533.jpg)One overt comment asking me why I would post about this issue when there are so many others, in his opinion, larger, to be talked about. _I felt this was an attack on my creativity and my process. _
+[![yellow conference: spread goodness and bloom](https://yellow-blog-images.imgix.net/2015/09/41-800x533.jpg)](https://yellow-blog-images.imgix.net/2015/09/41-800x533.jpg)One overt comment asking me why I would post about this issue when there are so many others, in his opinion, larger, to be talked about. *I felt this was an attack on my creativity and my process. *
 
 Another was asking me a personal, political question--to which I responded privately only to get a long answer as to why I shouldn't share my opinions in this arena. _I felt like my intelligence was being questioned, and my voice was being silenced. _
 
@@ -36,7 +36,7 @@ I was never trying to ruffle feathers. I'm a pretty peaceful introvert, and usua
 
 ###### When our cause is attacked, it can feel extremely personal.
 
-Something I've invested my life in (women's justice) was just demeaned and dismissed. And something that I take so much pride in (communication and writing) was rallied against. I was told, in so many words, that I was focusing on the wrong things, and that the red flags and dangers I've been trained to observe were _"not that bad." _
+Something I've invested my life in (women's justice) was just demeaned and dismissed. And something that I take so much pride in (communication and writing) was rallied against. I was told, in so many words, that I was focusing on the wrong things, and that the red flags and dangers I've been trained to observe were *"not that bad." *
 
 ###### Sharing what you believe in is vulnerable.
 
@@ -77,5 +77,3 @@ Wake your husband up, call a best friend, meet with a fellow activist or mentor 
 ###### What are some of your tricks for getting over criticism?
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/category/travel/)_
-
-[![Sally Kim Content manager for the Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

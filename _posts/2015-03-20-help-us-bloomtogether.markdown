@@ -4,7 +4,7 @@ date: 2015-03-20 02:39:16 -07:00
 categories:
 - Creative Ladies
 - Inspiration
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/help-us-bloomtogether/"
 ---
 
@@ -14,10 +14,8 @@ Happy Friday ladies! As you may (or may not) know, we are busy busy over here pl
 
 See below for information on each of the gatherings and if there's one happening near you, grab a ticket and head out! Our heart is for connecting creative women who want to use what they have for good. Who knows? Your new creative bestie could be living in the same city and you don't even know it yet. See below for city details!
 
-* * *
+---
 
-[cols]  
-[col class="1/2"]  
 [![LosAngeles](https://yellow-blog-images.imgix.net/2015/03/LosAngeles.jpg)](https://ti.to/yellowconference/bloom-together-la)  
 _Chapter Organizers: The Yellow Team_
 
@@ -27,10 +25,8 @@ _Time: 7pm_
 
 ##### [RSVP](https://ti.to/yellowconference/bloom-together-la)
 
-[/col]  
-[col class="1/2 last"]  
 [![OC](https://yellow-blog-images.imgix.net/2015/03/OC.jpg)](https://ti.to/yellowconference/bloom-together-oc)  
-_Chapter Organizers: _[Jane Chen](https://instagram.com/pinkjaney/) + [Share and Do Good](http://www.shareanddogood.com/)__
+_Chapter Organizers: _[Jane Chen](https://instagram.com/pinkjaney/) + [Share and Do Good](http://www.shareanddogood.com/)\_\_
 
 _Hosted by: [Share and Do Good](http://www.shareanddogood.com/)_
 
@@ -38,14 +34,9 @@ _Time: 7:30pm_
 
 ##### [RSVP](https://ti.to/yellowconference/bloom-together-oc)
 
-[/col]  
-[/cols]
+---
 
-* * *
-
-[cols]  
-[col class="1/2"]  
-[![Cincinnati](https://yellow-blog-images.imgix.net/2015/03/Cincinnati.jpg)](https://ti.to/yellowconference/bloom-together-cincinnati)_Chapter Organizers:_ _[Abigail Driscoll](http://www.ritesofasylum.com/) + [Kathryn Tilmes](https://instagram.com/kathryntilmes/)_
+[![Cincinnati](https://yellow-blog-images.imgix.net/2015/03/Cincinnati.jpg)](https://ti.to/yellowconference/bloom-together-cincinnati)*Chapter Organizers:* *[Abigail Driscoll](http://www.ritesofasylum.com/) + [Kathryn Tilmes](https://instagram.com/kathryntilmes/)*
 
 _Hosted by: [FERN Studio](http://www.fern-shop.com/)_
 
@@ -53,83 +44,61 @@ _Time:_ _7:00pm_
 
 ##### [RSVP](https://ti.to/yellowconference/bloom-together-cincinnati)
 
-[/col]  
-[col class="1/2 last"]  
-[![Minneapolis](https://yellow-blog-images.imgix.net/2015/03/Minneapolis.jpg)](https://ti.to/yellowconference/bloom-together-minneapolis)_Chapter Organizers:_ _[Nicole Matthews](http://www.thebloomerie.com/) + [Niki Corbin](http://www.thebloomerie.com/)_
+[![Minneapolis](https://yellow-blog-images.imgix.net/2015/03/Minneapolis.jpg)](https://ti.to/yellowconference/bloom-together-minneapolis)*Chapter Organizers:* *[Nicole Matthews](http://www.thebloomerie.com/) + [Niki Corbin](http://www.thebloomerie.com/)*
 
-_Hosted by:_ _[Carissa Christine Photography](http://www.carissachristine.com/)_
+*Hosted by:* *[Carissa Christine Photography](http://www.carissachristine.com/)*
 
 _Time:_ _7:00pm_
 
 ##### [RSVP](https://ti.to/yellowconference/bloom-together-minneapolis)
 
-[/col]  
-[/cols]
+---
 
-* * *
-
-[cols]  
-[col class="1/2"]  
 [![TAMPA](https://yellow-blog-images.imgix.net/2015/03/TAMPA.jpg)](https://ti.to/yellowconference/bloom-together-tampa)
 
-_Chapter Organizers:_ _[Sarah Heyl](http://sarahheyl.com/) + [Kristina Burnson](https://instagram.com/kristinaburnson)_
+*Chapter Organizers:* *[Sarah Heyl](http://sarahheyl.com/) + [Kristina Burnson](https://instagram.com/kristinaburnson)*
 
-_Hosted by:_ _[Bumble Boutique](http://www.bumbletampa.com/)_
+*Hosted by:* *[Bumble Boutique](http://www.bumbletampa.com/)*
 
 _Time:_ _7:00pm_
 
 ##### [RSVP](https://ti.to/yellowconference/bloom-together-tampa)
 
-[/col]  
-[col class="1/2 last"]  
-[![Toronto](https://yellow-blog-images.imgix.net/2015/03/Toronto.jpg)](https://ti.to/yellowconference/bloom-together-toronto)_Chapter Organizer:_ [_Jacklyn Denise McCann_](http://www.jacklyndenise.com/)
+[![Toronto](https://yellow-blog-images.imgix.net/2015/03/Toronto.jpg)](https://ti.to/yellowconference/bloom-together-toronto)*Chapter Organizer:* [_Jacklyn Denise McCann_](http://www.jacklyndenise.com/)
 
-_Hosted by:_ __[Jacklyn Denise Communications Studio](http://www.jacklyndenise.com/)__
+*Hosted by:* **[Jacklyn Denise Communications Studio](http://www.jacklyndenise.com/)**
 
 _Time:_ _7:00pm_
 
 ##### [RSVP](https://ti.to/yellowconference/bloom-together-toronto)
 
-[/col]  
-[/cols]
+---
 
-* * *
-
-[cols]  
-[col class="1/2"]  
 [![Charlotte](https://yellow-blog-images.imgix.net/2015/03/Charlotte.jpg)](https://ti.to/yellowconference/bloom-together-charlotte)  
-_Chapter Organizer:_ _Cait Butt_
+*Chapter Organizer:* *Cait Butt*
 
-_Hosted by:_ _Cait Butt's Home_
+*Hosted by:* *Cait Butt's Home*
 
 _Time:_ _7:00pm_
 
 ##### [RSVP](https://ti.to/yellowconference/bloom-together-charlotte)
 
-[/col]  
-[col class="1/2 last"]  
 [![DALLAS](https://yellow-blog-images.imgix.net/2015/03/DALLAS.jpg)](https://ti.to/yellowconference/bloom-together-Dallas)  
-_Chapter Organizer:_ _[Kelsey Lemons](http://sheinthemaking.blogspot.com/)_
+*Chapter Organizer:* *[Kelsey Lemons](http://sheinthemaking.blogspot.com/)*
 
-_Hosted by:_ [_Hickory Street Annex_](http://www.hickorystreetannex.com/)
+*Hosted by:* [_Hickory Street Annex_](http://www.hickorystreetannex.com/)
 
 _Time:_ _7:00pm_
 
 ##### [RSVP](https://ti.to/yellowconference/bloom-together-Dallas)
 
-[/col]  
-[/cols]
-
 So join us on April 2nd! Can't wait to connect.
 
 And of course don't forget to use the wonderful [#bloomtogether](https://instagram.com/explore/tags/bloomtogether/) hashtag while at the event!
 
-* * *
+---
 
 ##### **A HUGE thank you to all of our sponsors for helping this event become a reality!**
-
-[cols]  
-[col class="1/3"]
 
 [Alchemy Works](http://www.alchemyworks.us/)
 
@@ -147,9 +116,7 @@ And of course don't forget to use the wonderful [#bloomtogether](https://instag
 
 [Sevenly Causebox](https://causebox.sevenly.org/)
 
-[31 Bits](http://31bits.com/)  
-[/col]  
-[col class="1/3"]
+[31 Bits](http://31bits.com/)
 
 [Sseko Designs](http://ssekodesigns.com/)
 
@@ -167,9 +134,7 @@ And of course don't forget to use the wonderful [#bloomtogether](https://instag
 
 [Query Events](http://queryevents.com/)
 
-[Rachel Meagan](http://rachelmeaganphotography.com/)  
-[/col]  
-[col class="1/3 last"]
+[Rachel Meagan](http://rachelmeaganphotography.com/)
 
 [Laura Macarena](http://www.lauramacarena.com/)
 
@@ -197,6 +162,4 @@ And of course don't forget to use the wonderful [#bloomtogether](https://instag
 
 [Mystic Hair Salon](http://mystichair.com)
 
-[FERN Studio](http://www.fern-shop.com/)  
-[/col]  
-[/cols]
+[FERN Studio](http://www.fern-shop.com/)

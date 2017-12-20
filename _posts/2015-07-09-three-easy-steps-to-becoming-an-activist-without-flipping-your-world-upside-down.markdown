@@ -10,7 +10,7 @@ categories:
 - The Starter
 - Encouragement
 - The Leader
-author: Yellow
+author: Avery Johnson
 redirect_from: "/creative-ladies/three-easy-steps-to-becoming-an-activist-without-flipping-your-world-upside-down/"
 ---
 

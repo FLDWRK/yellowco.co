@@ -22,32 +22,30 @@ To help you out fill your followers with more balanced grammers, I've collected 
 
 1\. [Kristin Rodgers | @kristinrodgers](http://instagram.com/kristinrogers/)
 
-[caption id="attachment_1791" align="alignleft" width="700"][![I tried to get a cute pic with some of our critters but it ended up being a hot mess](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-18.51.09.png)](http://instagram.com/kristinrogers/) _I tried to get a cute pic with some of our critters but it ended up being a hot mess..._[/caption]
+[caption id="attachment_1791" align="alignleft" width="700"]![I tried to get a cute pic with some of our critters but it ended up being a hot mess](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-18.51.09.png)](http://instagram.com/kristinrogers/) _I tried to get a cute pic with some of our critters but it ended up being a hot mess..._[/caption]
 
 Kristin is a photographer, so naturally, she takes beautiful photos. What I love about Kristin is she's totally open about the way she does life on the daily. Not hiding the struggles, hard days or stuffy noses. Having two completely adorable young daughters and a house full of critters can get messy! But Kristin doesn't complain or whine- rather just tells it like it is, in a positive, thankful, and even magical manner.
 
 2\. [Caitlin Crosby | @caitlincrosby](http://instagram.com/caitlincrosby/)
 
-[caption id="attachment_1801" align="alignleft" width="700"][![Screenshot 2015-01-21 18.58.24](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-18.58.24.png)](http://instagram.com/caitlincrosby) _After an entire serious conversation with @colinbenward I definitely forgot that I had put a tiny piece of toilet paper over the pimple I just picked. #marriedlife @loveyourflawz #loveyourflawz_[/caption]
+[caption id="attachment_1801" align="alignleft" width="700"]![Screenshot 2015-01-21 18.58.24](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-18.58.24.png)](http://instagram.com/caitlincrosby) _After an entire serious conversation with @colinbenward I definitely forgot that I had put a tiny piece of toilet paper over the pimple I just picked. #marriedlife @loveyourflawz #loveyourflawz_[/caption]
 
 Caitlin is the Founder of [The Giving Keys](http://www.thegivingkeys.com/), a singer and a songwriter. She's totally gorgeous, running a quickly growing company, and doing amazing, world-changing things in the world. She could easily put on a front and pretend her life is perfect. But what I love about her is she's not afraid to show us that she's human. Zit-picking and everything. I'm a fan. (She also spoke at [Yellow Conference last year](http://yellowconference.com/category/yellow-2014/), so she has scored some points with us.)
 
 3\. [Lily Stockman | @lilystockman](http://instagram.com/lilystockman/)
 
-[caption id="attachment_1806" align="alignleft" width="700"][![Dawlz creepin in the #saladfingers again.](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-19.31.33.png)](http://instagram.com/lilystockman/) _Dawlz creepin in the #saladfingers again._[/caption]
+[caption id="attachment_1806" align="alignleft" width="700"]![Dawlz creepin in the #saladfingers again.](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-19.31.33.png)](http://instagram.com/lilystockman/) _Dawlz creepin in the #saladfingers again._[/caption]
 
 Lily Stockman is a [painter](http://lily-stockman.squarespace.com/) and the Co-Founder of [BlockShop Textiles](http://www.blockshoptextiles.com/). She spends her life going back and forth between LA and Joshua Tree. Lily's feed is filled with colorful snapshots of her paintings, adorable pup, family, and day to day travels. With witty captions and a clever use of emojies, Lily is super talented- but doesn't take herself too seriously. She's passionate about craft and her relationships, and it shines through her feed in a completely non "look at me and my perfect life" kind of way. Lily- we like you.
 
 4\. [Kelsey Lemonhead](http://instagram.com/sheinthemaking/) | [@sheinthemaking](http://instagram.com/sheinthemaking/)
 
-[caption id="attachment_1804" align="alignleft" width="700"][![Screenshot 2015-01-21 19.11.28](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-19.11.28.png)](http://instagram.com/sheinthemaking/) _"Do you ladies need any help finding anything?" "Nope, just taking a photo in your mirror" *cue laughter due to my awkward response* Also, Victoria has the best hair._[/caption]
+[caption id="attachment_1804" align="alignleft" width="700"]![Screenshot 2015-01-21 19.11.28](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-19.11.28.png)](http://instagram.com/sheinthemaking/) _"Do you ladies need any help finding anything?" "Nope, just taking a photo in your mirror" *cue laughter due to my awkward response* Also, Victoria has the best hair._[/caption]
 
 Kelsey Lemons is a young photographer, letterer, and blogger. She's completely adorable-her feed allows you to take a peek into her heart and see what a true artist she is. Her smile and positivity is contagious, genuine and totally authentic. If you're having a bad day, just scroll through Kelsey's feed and her joy is sure to rub off on you, in a totally non-superior, real way.
 
 5\. [Joy The Baker | @joythebaker](http://instagram.com/joythebaker/)
 
-[caption id="attachment_1813" align="alignleft" width="700"][![Screenshot 2015-01-21 19.49.08](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-19.49.08.png)](http://instagram.com/joythebaker/) _Don't worry. I'm definitely NOT making my own cat toys. That would be ridiculous._[/caption]
+[caption id="attachment_1813" align="alignleft" width="700"]![Screenshot 2015-01-21 19.49.08](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-21-19.49.08.png)](http://instagram.com/joythebaker/) _Don't worry. I'm definitely NOT making my own cat toys. That would be ridiculous._[/caption]
 
 Joy has been one of my favorite bloggers for a while. Her writing style and humor make me feel like she just gets me. She's an amazing baker, has one of the top baking blogs, has written and published three cookbooks, yet she still allows us to see how human she is. She's not an over-sharer, but is not fake either. Joy asks her audience cooking questions, makes fun of herself with the #humblebrag, and has made her cat the star of her feed. Joy, I want to hang out with you over cupcakes and coffee, while letting our cats have a playdate. Cool? Cool.
-
-[![Author_Template_Joanna](https://yellow-blog-images.imgix.net/2015/01/Author_Template_Joanna.jpg)](http://instagram.com/joannawaterfall)

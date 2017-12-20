@@ -4,7 +4,7 @@ date: 2015-03-24 04:00:27 -07:00
 categories:
 - Light Talk
 - Team Members
-author: Yellow
+author: Yellow Co.
 wordpress_url: http://yellowconference.com/?p=2303
 redirect_from: "/light-talk/emilykarsik/"
 ---

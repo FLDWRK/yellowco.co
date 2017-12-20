@@ -23,7 +23,7 @@ The types of projects I get called in to fix are rooms and closets that have acc
 
 > _And even though I can create while surrounded by clutter, it’s important to note that at the end of the day, everything has a home._
 
-It’s of the utmost importance to create a space that you can work in every day. A space that supports you and your goals and contains the things you use on a daily basis, but not much else. Even if you are able to locate that important document amidst the piles at a moments notice, would an employee or co-worker? In the words of Marie Kondo, _“The best way to find out what we really need is to get rid of what we don't_ .” 
+It’s of the utmost importance to create a space that you can work in every day. A space that supports you and your goals and contains the things you use on a daily basis, but not much else. Even if you are able to locate that important document amidst the piles at a moments notice, would an employee or co-worker? In the words of Marie Kondo, _“The best way to find out what we really need is to get rid of what we don't_ .”
 
 ###### A good way to start decluttering is to take a picture of your desktop.
 
@@ -40,5 +40,3 @@ Notice everything on the desk and ask yourself, is it necessary? What if it were
 **Clean up** Before shutting down each day, reset your desk. Toss, shred and recycle; return items to their homes and get rid of whatever you no longer need.
 
 A little maintenance each day goes a long way in keeping your surroundings calm and your mind free to cultivate and get creative.
-
-[![bneatobar for yellow co. ](https://yellow-blog-images.imgix.net/2015/10/BethPenn.jpg)](http://bneatobar.com/)

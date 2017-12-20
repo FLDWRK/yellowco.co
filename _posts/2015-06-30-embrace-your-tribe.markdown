@@ -7,7 +7,7 @@ categories:
 - Inspiration
 - Tribe
 itle: Three Ways to Make Your Relationships Healthier
-author: Yellow
+author: Emily Watz
 redirect_from: "/light-talk/embraceyourtribe/"
 ---
 
@@ -19,7 +19,7 @@ What I learned most is how to have a healthy relationship with my family, my tri
 
 **Leave some wiggle room.**
 
-You can spend your whole life seeking the ideal people to surround yourself with or you can appreciate the ones right in front of you. I prefer the latter, soft spots and weird quirks included. Leave wiggle room in your expectation of what others _should_ be so you can enjoy them exactly as they are. Not only are you giving them space to feel comfortable in their skin but your openness will allow you to be comfortable in your own. We're all just messy humans who want to be loved here.
+You can spend your whole life seeking the ideal people to surround yourself with or you can appreciate the ones right in front of you. I prefer the latter, soft spots and weird quirks included. Leave wiggle room in your expectation of what others *should* be so you can enjoy them exactly as they are. Not only are you giving them space to feel comfortable in their skin but your openness will allow you to be comfortable in your own. We're all just messy humans who want to be loved here.
 
 [![YELLOW CONFERENCE EMBRACE YOUR TRIBE](https://yellow-blog-images.imgix.net/2015/06/image12.jpg)](https://yellow-blog-images.imgix.net/2015/06/image12.jpg)
 

@@ -19,7 +19,7 @@ Instead of talking your ear off about how amazing our members are, I thought it
 
 [![](https://yellow-blog-images.imgix.net/2017/06/Screen-Shot-2017-06-20-at-8.49.25-AM.png)](https://yellow-blog-images.imgix.net/2017/06/Screen-Shot-2017-06-20-at-8.49.25-AM.png)
 
-### **“[The Yellow Collective](http://yellowcollective.co/) has been the greatest blessing in my life lately,” she said.**
+### **“[The Yellow Collective](/membership) has been the greatest blessing in my life lately,” she said.**
 
 “**_I have an incredible group of women who encourage me, push me, teach me, and share their wisdom. It’s a place where I feel safe and know that I can be vulnerable… They teach me to be myself, trust the path that I am on, and never stop pursing [my] dreams!"_**
 

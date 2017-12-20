@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - Advice
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/we-have-the-secret-to-your-perfect-morning-routine-hint-it-starts-with-you/"
 ---
 

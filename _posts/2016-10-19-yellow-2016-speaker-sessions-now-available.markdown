@@ -4,7 +4,7 @@ date: 2016-10-19 04:00:24 -07:00
 categories:
 - "#bloomyellow"
 - Yellow 2016
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/yellow-2016-speaker-sessions-now-available/"
 ---
 

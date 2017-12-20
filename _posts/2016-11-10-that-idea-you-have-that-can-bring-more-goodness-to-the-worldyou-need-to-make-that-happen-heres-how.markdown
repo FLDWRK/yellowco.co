@@ -3,7 +3,7 @@ title: How to Move from Idea to Execution & Start Changing the World
 date: 2016-11-10 17:00:42 -08:00
 categories:
 - "#bloomyellow"
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/that-idea-you-have-that-can-bring-more-goodness-to-the-worldyou-need-to-make-that-happen-heres-how/"
 ---
 

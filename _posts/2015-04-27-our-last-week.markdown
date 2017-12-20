@@ -3,7 +3,7 @@ title: Our Last Week!
 date: 2015-04-27 12:38:18 -07:00
 categories:
 - Resources
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/our-last-week/"
 ---
 

@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - Inspiration
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/our-next-series-heart/"
 ---
 

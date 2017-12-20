@@ -12,7 +12,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
-author: Yellow
+author: Natalie Skeith
 redirect_from: "/light-talk/fivestepstostart/"
 ---
 
@@ -24,7 +24,7 @@ I walk 200 yards from the front door to my car every morning at 6:20 AM. The air
 
 Some days, these 20 seconds are the best part of my day: still, full of beauty and hope, quiet, and present..._Most_ days the 45 minutes before that serene scene outside my door I am throwing clothes on the ground as I get dressed, packing snacks into Tupperware to eat for breakfast at my desk, cursing myself for not refilling the water in the Keurig, and trying to prevent my cat from rubbing his fur on my black pants.
 
-If you’re anything like me you have read dozens of articles on the subject: _15 tips to a Better Morning, Executive Habits to Start Your Day, How Exercise Can Change your Morning Routine,_ etc_._ I’ve printed out a (albeit, wildly unrealistic) schedule to follow in the hours before work and felt guilty at my flimsy, sleepy attempts to accomplish the marathon of tasks. So how do we conquer the wild beast known as the weekday morning? I’ve had some luck in the recent months and weeks and am finding that I love my slow, purposeful mornings more and more.
+If you’re anything like me you have read dozens of articles on the subject: _15 tips to a Better Morning, Executive Habits to Start Your Day, How Exercise Can Change your Morning Routine,_ etc*.* I’ve printed out a (albeit, wildly unrealistic) schedule to follow in the hours before work and felt guilty at my flimsy, sleepy attempts to accomplish the marathon of tasks. So how do we conquer the wild beast known as the weekday morning? I’ve had some luck in the recent months and weeks and am finding that I love my slow, purposeful mornings more and more.
 
 ###### It’s simpler than we think.
 
@@ -45,10 +45,10 @@ The tips and tricks you learned from an article written by the CEO of Google may
 
 Now it’s time to turn those feels into tangible steps. The ancient saying “_know thyself_” is key here: when you start making action steps **BE REALISTIC.** Know what you are actually capable of accomplishing, what time you are actually willing to wake up, and don’t feel guilty about ANY of it, your morning is for _you_. Here is what works for me:
 
-*   **Present:** Nothing gets me quite as grounded and in the moment as yoga, so I turn on a 20-30 minute Youtube yoga class as soon as I wake up. This habit was hard to get the hang of at first with stiff, sleepy muscles but the routines are simple enough to keep me coming back. They leave me feeling energized, aware, and calm. Plus, I can do them in my living room in my pajamas, so that’s a win.
-*   **Connected:** I find that I am rather useless during the day if I haven’t had some quiet time. So I spend 15-30 minutes of my morning reading my devotional, meditating, and praying. For you, this might look like taking a few moments to practice breathing exercises, write in a gratitude journal, or meditate.
-*   **Creative:** I work a 9-5 and pursue my personal projects after office hours. This means, before I enter the world of being a technical writer I need a little time to play creatively. More often than not this coincides with my quiet time, so I’ll shake up my devotionals by doing a collage, writing poetry, journaling, or sketching for a few minutes. If I’m not feeling the muse one morning, I will pick up a novel, book of poetry, or open a blog and give myself a few minutes to be inspired by someone else’s creative juices.
-*   **Clear sighted:** I do a lot better in my day when I have vision for the hours ahead. So I think through my day, about what I might accomplish on my lunch break, and what my plans for the evening are. If I don’t, I end up sitting on my couch at 8pm half asleep with popcorn for dinner and the 4th episode of _The Office_ playing on Netflix.
+* **Present:** Nothing gets me quite as grounded and in the moment as yoga, so I turn on a 20-30 minute Youtube yoga class as soon as I wake up. This habit was hard to get the hang of at first with stiff, sleepy muscles but the routines are simple enough to keep me coming back. They leave me feeling energized, aware, and calm. Plus, I can do them in my living room in my pajamas, so that’s a win.
+* **Connected:** I find that I am rather useless during the day if I haven’t had some quiet time. So I spend 15-30 minutes of my morning reading my devotional, meditating, and praying. For you, this might look like taking a few moments to practice breathing exercises, write in a gratitude journal, or meditate.
+* **Creative:** I work a 9-5 and pursue my personal projects after office hours. This means, before I enter the world of being a technical writer I need a little time to play creatively. More often than not this coincides with my quiet time, so I’ll shake up my devotionals by doing a collage, writing poetry, journaling, or sketching for a few minutes. If I’m not feeling the muse one morning, I will pick up a novel, book of poetry, or open a blog and give myself a few minutes to be inspired by someone else’s creative juices.
+* **Clear sighted:** I do a lot better in my day when I have vision for the hours ahead. So I think through my day, about what I might accomplish on my lunch break, and what my plans for the evening are. If I don’t, I end up sitting on my couch at 8pm half asleep with popcorn for dinner and the 4th episode of _The Office_ playing on Netflix.
 
 [![FIVE TIPS THAT WILL ACTUALLY HELP YOU START YOUR DAY RIGHT (and a free printable)](https://yellow-blog-images.imgix.net/2015/10/PICTURE2.jpg)](https://yellow-blog-images.imgix.net/2015/10/PICTURE2.jpg)
 

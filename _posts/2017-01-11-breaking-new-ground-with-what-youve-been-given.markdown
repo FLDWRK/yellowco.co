@@ -4,7 +4,7 @@ date: 2017-01-11 04:00:22 -08:00
 categories:
 - Advice
 - Pioneer
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/breaking-new-ground-with-what-youve-been-given/"
 ---
 

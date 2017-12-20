@@ -36,11 +36,9 @@ Anne Lamott might just be one of the most honest authors out there. Authenticity
 
 There are a lot of awesome books out there right now about how to prioritize, get stuff done, and make the most of your time. However, we can easily get bogged down by our to-do lists and fill our days with obligations. We don’t spend our time doing what we truly want to and are meant to do and we often end up running on empty. We overcommit and in doing so, lie to ourselves, our calendars, our bank accounts, and the people we love. In _The Best Yes,_ Lysa says _“In this great day when most women wave banners of authenticity about our pasts, we crouch back from honesty about our presents. We’ll tell you about all our broken places of yesterday but don’t dare to admit the limitations of our today.”_ She teaches us how to embrace our limits and imperfections, to handle our time and commitments with wisdom, and how to stop trying to be Wonder Woman so that we can actually be more productive and more full.
 
->  “Authenticity is a collection of choices that we have to make every day. It's about the choice to show up and be real. The choice to be honest. The choice to let our true selves be seen.”  
+> “Authenticity is a collection of choices that we have to make every day. It's about the choice to show up and be real. The choice to be honest. The choice to let our true selves be seen.”  
 > ― [Brené Brown](http://www.goodreads.com/author/show/162578.Bren_Brown), _[The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are](http://www.goodreads.com/work/quotes/7261277)_
 
 So, read away, my friends! And don’t forget to join in the conversation by commenting below...let us know what you think of the books you read, or if you have any suggestions along the way!
 
 _Photos by [Mariam Sitchinava](https://www.flickr.com/photos/mariamsitchinava/)_
-
-[![adriscoll bio](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

@@ -66,11 +66,11 @@ and celebrate with them through life. In May, after their case completely closed
 to stop letting our family see them, celebrate, and love them. We still waited every week at the
 same pick up spot until July, just in case they showed up.
 
-That Mother's Day, last year, was another chapter of questions and confusions. _If I wasn't viewed
+That Mother's Day, last year, was another chapter of questions and confusions. \_If I wasn't viewed
 as a mom when I had the boys, what about now that I don't have them? Does anyone see the mother's
-heart in me that aches for them? _The physical ache I felt that day, this entire year, is real...too
+heart in me that aches for them? \_The physical ache I felt that day, this entire year, is real...too
 real sometimes. There are nights that I still look at my husband (yes, somewhere in all this crazy I
-met a fabulous man and snatched him up real fast), and say _I miss them, _with a tear soaked pillow.
+met a fabulous man and snatched him up real fast), and say \_I miss them, \_with a tear soaked pillow.
 My mother's heart aches for them every single day, my mother's mind worries for them every single
 day.
 
@@ -89,7 +89,7 @@ I’ve laid on the floor next to one boy as he melts with a tantrum, yelling abo
 mommy-heart telling me there’s something deeper, way deeper, happening here.
 
 I’ve grounded and taken off doors because of grades and choices that need someone to say
-\_“enough…”_because we believe he is worth it.
+\_“enough…”\_because we believe he is worth it.
 
 I’ve cuddled and cradled and sang and danced after hours of work, exhausted, because the giggles and
 toddler ramblings are just…the best.
@@ -122,5 +122,3 @@ motherhood deserves to be noticed and celebrated, as well.
 Let us carry in our hearts that this day is complicated, and needs to be handled with great care.
 
 _Photos by [Whitney Schey](http://whitneydarling.com/)_
-
-[![Sally Kim Yellow Conference](https://yellow-blog-images.imgix.net/2015/02/skimbio1.jpg)](http://lettersfromamister.tumblr.com/)

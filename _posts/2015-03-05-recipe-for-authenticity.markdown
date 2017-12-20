@@ -41,5 +41,3 @@ Take time to journal and reflect; invest time into internal change â€“ but donâ€
 If you are genuinely striving towards an authentic life filled with acceptance, confidence, humility, and lots of listening, the changes will be evident, and the result, like any good recipe, will be decadent.
 
 _Photos by [Sandra Pagaimo](https://www.flickr.com/photos/54132946@N08/)_
-
-[![clairewoodbio](https://yellow-blog-images.imgix.net/2015/01/clairewoodbio.jpg)](https://convictionsofacollegegirl.wordpress.com/)

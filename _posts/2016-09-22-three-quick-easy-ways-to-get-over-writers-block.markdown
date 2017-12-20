@@ -4,7 +4,7 @@ date: 2016-09-22 04:00:20 -07:00
 categories:
 - Advice
 - Valor
-author: Yellow
+author: Justine Kopischke
 redirect_from: "/advice/three-quick-easy-ways-to-get-over-writers-block/"
 ---
 

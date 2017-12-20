@@ -14,7 +14,7 @@ Protect the planet. Buy ethically made. Give back. They're all on our to-do list
 
 HM: We like to say the [Bogobrush](https://www.bogobrush.com/) story started when we were kids, growing up as children of a dentist. But, really, neither of us had any intention of following in the family business. John studied design and I studied law, and through our formative years we grew more passionate about using our talents to help the world be a more balanced, sustainable place. We talked about a lot of products and business ideas, but couldn’t help coming back to the idea of a toothbrush.
 
-#### **There are _so_ many products made today that have a social-consciousness factor. I love that you set out to not only create something that brings good to the world, but is also a product we** **already**** use everyday. I have to ask though, why toothbrushes?**
+#### **There are *so* many products made today that have a social-consciousness factor. I love that you set out to not only create something that brings good to the world, but is also a product we** **already\*\*** use everyday. I have to ask though, why toothbrushes?\*\*
 
 HM: We wanted to create a product that brought social and environmental awareness into people’s everyday lives, and a toothbrush fit so many of the boxes. First of all, it’s a product people use every morning and every night. Second, in the USA more than 450 million toothbrushes end up in landfills or polluting natural habitats. And third, more than 80 million Americans lack access to adequate oral care, and that can affect everything from education, to work, and overall health. These facts are just the tip of the iceberg for how important toothbrushes are to our lives.
 
@@ -28,7 +28,7 @@ HM: Good design is something I feel intuitively.
 
 Good design is art, and it gets me to connect and react beyond pure function. The best design is that which does all of this with minimal waste and harm to society and the planet.
 
-#### **It is so fascinating to me that you not only create a toothbrush that is recyclable, but also one that is** **_bio-degradable_****. Are there any other eco-friendly developments you’re working on?**
+#### **It is so fascinating to me that you not only create a toothbrush that is recyclable, but also one that is** **_bio-degradable_\*\***. Are there any other eco-friendly developments you’re working on?\*\*
 
 HM: Yes! We just developed a brush and stand with a new plant-based material made from hemp. Our current brush is made from flax, and we’re so excited to be expanding the biodegradable collection in the coming months.
 
@@ -44,7 +44,7 @@ I don’t think specifically about separating professional and personal life wit
 
 #### **You’re really transparent about your supply chain and where each part of production happens - down to the bristles. Have there been sacrifices along the way in creating a product designed and made in the USA? **
 
-HM: The biggest sacrifice with US manufacturing so far has been the cost - it’s expensive to start manufacturing here. With any manufacturing relationship - overseas or local - I think cost savings come when demand is proven and trust is built. But the cost scale is so much lower overseas and it’s easy to see how companies get lured there, especially as a start-up when costs are so high.  
+HM: The biggest sacrifice with US manufacturing so far has been the cost - it’s expensive to start manufacturing here. With any manufacturing relationship - overseas or local - I think cost savings come when demand is proven and trust is built. But the cost scale is so much lower overseas and it’s easy to see how companies get lured there, especially as a start-up when costs are so high.
 
 For us, the rewards of U.S. manufacturing are worth it. For instance, we can communicate efficiently for product development or troubleshooting, we can make site visits easily, we have personal relationships and trust the source of Bogobrush materials, and we get to support local communities. (Fun fact: Bogobrush handles and stands are coincidentally formed in our Grandma’s hometown!) Fortunately, we are at the cusp of growth and are taking steps that will help Bogobrush scale and provide savings to our customers.
 
@@ -79,5 +79,3 @@ HM: Some days, you will feel defeated. On those days, close your eyes, breathe 
 When you keep moving forward with intention, you learn lessons, gain power, and confidence. And, allow yourself to take breaks - go for a hike, practice yoga, dance, or whatever will inspire joy. Who knows, maybe that day of defeat is helping you see a new opportunity. I certainly still cope with these types of days, but experience has shown me that being patient with myself helps me stay committed to my dreams.
 
 _Photos provided by [Bogobrush](https://www.bogobrush.com/)_
-
-[![Hanna Snyder Bio](https://yellow-blog-images.imgix.net/2017/04/HANNA-BIO-1.jpg)](http://hannasnyder.com)

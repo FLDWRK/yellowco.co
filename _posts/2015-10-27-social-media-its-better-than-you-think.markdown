@@ -31,7 +31,7 @@ For awhile, I really struggled with what my “brand” or social media presence
 
 [![Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/10/mscollection-57.jpg)](https://yellow-blog-images.imgix.net/2015/10/mscollection-57.jpg)
 
-As I continued to work on it, and think of ways to grow and engage via social media, I realized what I wanted to do was _cultivate_. The definition of _cultivate_ is to_“promote or improve the growth of (a plant, crop, etc.) by labor and attention.”_ The way I view _cultivating_ in this regard, is that with social media whether it be Twitter, Instagram, Facebook, a website or Linkedin, **you are cultivating a space either professional, interactive or personal.** Yes, the aesthetics are important and yes you want to have an inviting and exciting space for people to want to come to but you know what keeps them there? Interaction. The ability to make individuals feel seen amidst all of the internet chaos.
+As I continued to work on it, and think of ways to grow and engage via social media, I realized what I wanted to do was _cultivate_. The definition of _cultivate_ is to*“promote or improve the growth of (a plant, crop, etc.) by labor and attention.”* The way I view _cultivating_ in this regard, is that with social media whether it be Twitter, Instagram, Facebook, a website or Linkedin, **you are cultivating a space either professional, interactive or personal.** Yes, the aesthetics are important and yes you want to have an inviting and exciting space for people to want to come to but you know what keeps them there? Interaction. The ability to make individuals feel seen amidst all of the internet chaos.
 
 ###### Whether we intend to or not, our social media spaces are extensions of ourselves.
 
@@ -39,7 +39,7 @@ That could be our mind; what we think, what we know, what we want to learn or ou
 
 ###### I am an open book when it comes to my social media.
 
-Sometimes I really wrestle with being _too_ vulnerable or _too_ transparent. But all of those doubts and fears get pushed to the side when someone comes along and relates to what I am sharing_._ That’s secretly all we want isn’t it? For people to look through our filters and see the truth of our stories nestled behind them. People to come alongside us, slowly slip their fingers between our own and whisper “_me too”._ I think social media was meant for that if not anything else.
+Sometimes I really wrestle with being _too_ vulnerable or _too_ transparent. But all of those doubts and fears get pushed to the side when someone comes along and relates to what I am sharing*.* That’s secretly all we want isn’t it? For people to look through our filters and see the truth of our stories nestled behind them. People to come alongside us, slowly slip their fingers between our own and whisper “_me too”._ I think social media was meant for that if not anything else.
 
 > _That’s secretly all we want isn’t it? For people to look through our filters and see the truth of our stories nestled behind them._
 
@@ -54,5 +54,3 @@ We respond to comments because those are not robots, _they are people._ Go to th
 Your social media is a breathing, living venue that can grow and can be fostered with care, intention and a few “ _hellos” _ and “ _me too” _ along the way.
 
 _Photos by [Karen Hernandez](http://www.karenmariehernandez.com/)_
-
-[![Arielle Estoria for the Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/09/arielleestoria.jpg)](http://chroniclesofalioness.com/)

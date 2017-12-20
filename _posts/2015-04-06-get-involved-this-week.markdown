@@ -3,7 +3,7 @@ title: Get Involved This Week
 date: 2015-04-06 00:52:04 -07:00
 categories:
 - Resources
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/get-involved-this-week/"
 ---
 

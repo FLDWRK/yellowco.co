@@ -17,7 +17,7 @@ Introverts, Let’s Get Real...
 
 We live in a culture where celebrity reigns, big personalities are praised, and all of society is urging us to do more, be more, go go go! We have a deep-seeded extrovert ideal in our world today, whether we realize it or not.
 
-Susan Cain, in her book, _Quiet_, defines the “Extrovert Ideal” is _“the omnipresent belief that the ideal self is gregarious, alpha, and comfortable in the spotlight,”_ preferring _“action to contemplation, risk-taking to heed-taking, certainty to doubt.”_
+Susan Cain, in her book, *Quiet*, defines the “Extrovert Ideal” is _“the omnipresent belief that the ideal self is gregarious, alpha, and comfortable in the spotlight,”_ preferring _“action to contemplation, risk-taking to heed-taking, certainty to doubt.”_
 
 Yeah, that’s not me at all. Hardcore introvert over here!
 
@@ -44,7 +44,5 @@ Here’s what I (introverted through and through) have found to be helpful:
 Introverts, I know the world seems to rank us second-best. But here’s the thing—we aren’t any less than those who are more outspoken or expressive or action-packed. The world needs us to be really, truly, authentically us, and that comes from us being real with who we are, quiet and introspective and independent and all.
 
 _Images by Sandra Pagaimo via [Flickr](https://www.flickr.com/photos/54132946@N08/page1/)_
-
-[![rad](https://yellow-blog-images.imgix.net/2015/01/rad.jpg)](http://www.racheladawson.com/)
 
 _Check out more of Rachel's writing here: [www.racheladawson.com](http://www.racheladawson.com/)_

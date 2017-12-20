@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - Encouragement
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/the-importance-of-staying-curious-and-exploring-like-crazy/"
 ---
 

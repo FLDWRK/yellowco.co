@@ -41,5 +41,3 @@ xoxo--
 The Yellow Team
 
 _Photos by the ever-so-talented [Caca Santoro](http://cacasantoro.com/)_
-
-[![Sally Kim Yellow Conference](https://yellow-blog-images.imgix.net/2015/02/skimbio1.jpg)](https://yellow-blog-images.imgix.net/2015/02/skimbio1.jpg)

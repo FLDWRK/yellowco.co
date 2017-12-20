@@ -3,7 +3,7 @@ title: Happy Holidays from Yellow!
 date: 2014-12-24 20:33:29 -08:00
 categories:
 - Resources
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/happy-holidays-yellow/"
 ---
 

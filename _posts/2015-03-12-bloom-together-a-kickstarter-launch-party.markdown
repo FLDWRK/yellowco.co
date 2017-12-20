@@ -3,7 +3,7 @@ title: 'Bloom Together: a Kickstarter Launch Party'
 date: 2015-03-12 03:00:49 -07:00
 categories:
 - Creative Ladies
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/bloom-together-a-kickstarter-launch-party/"
 ---
 

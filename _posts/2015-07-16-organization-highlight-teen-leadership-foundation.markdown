@@ -39,7 +39,7 @@ Honestly, these residents bless us more then we bless them. Being around each in
 
 _And the challenges?_
 
-There are always challenges! Working with foster youth is not always pretty. It's hard_. Really hard_. This ministry is not rainbows and butterflies…it’s messy and challenging. Any child that has experienced being an orphan (or fostercare) carries a unique story and unique pains that go along with that. When they come to the Launch Pad, they bring those memories with them. In the beginning, it's hard to break protective barriers and coping strategies. There has to be a HUGE foundation built before trust can be established. This takes a lot of time and effort—and consistency. These are people you were never given the chance to understand how to receive love. It’s our (mine and my husband’s) job to teach them. It's hard getting attached to some of them knowing they could leave any day, give up, and choose a different path. This is why we have to remember that, this job is not about us...it’s about empowering those entrusted to us. There is a lot of joy, but there are also a lot of tears in this field of work.
+There are always challenges! Working with foster youth is not always pretty. It's hard*. Really hard*. This ministry is not rainbows and butterflies…it’s messy and challenging. Any child that has experienced being an orphan (or fostercare) carries a unique story and unique pains that go along with that. When they come to the Launch Pad, they bring those memories with them. In the beginning, it's hard to break protective barriers and coping strategies. There has to be a HUGE foundation built before trust can be established. This takes a lot of time and effort—and consistency. These are people you were never given the chance to understand how to receive love. It’s our (mine and my husband’s) job to teach them. It's hard getting attached to some of them knowing they could leave any day, give up, and choose a different path. This is why we have to remember that, this job is not about us...it’s about empowering those entrusted to us. There is a lot of joy, but there are also a lot of tears in this field of work.
 
 [![Foster_Facts](https://yellow-blog-images.imgix.net/2015/07/Foster_Facts.jpg)](https://yellow-blog-images.imgix.net/2015/07/Foster_Facts.jpg)
 
@@ -65,8 +65,6 @@ Gift cards are ALWAYS great—they help provide things like food, toiletries, an
 
 Take a step out in faith. Be willing to put yourself on the line to make a difference and possibly impact the course of someone else's life.
 
-**Want to learn more? Lisa, the founder of Teen Leadership Foundation, will be joining us at our next Bloom Gathering (_next Thursday, July 23, at Share and Do Good) _to tell us about TLF and to give us proactive advice on being the change we wish to see happen. [Click here](http://yellowconference.com/summer-theme-creative-advocacy-july-bloom-gathering/) for more info and to purchase tickets. **
+**Want to learn more? Lisa, the founder of Teen Leadership Foundation, will be joining us at our next Bloom Gathering (\_next Thursday, July 23, at Share and Do Good) _to tell us about TLF and to give us proactive advice on being the change we wish to see happen. [Click here](http://yellowconference.com/summer-theme-creative-advocacy-july-bloom-gathering/) for more info and to purchase tickets. **
 
 [_Photos by Meg Bennett_](http://www.plantandplowvideo.com/index/#/babyisaiah/)
-
-[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

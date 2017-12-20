@@ -19,7 +19,7 @@ You decide to pack up and go to your favorite coffee shop, order your go-to dri
 
 ###### Truth is, you've been running too fast for too long. You have burnt yourself out.
 
-You've said yes too many times and you've created and worked more than you've rested or been inspired. Your schedule is constantly filled to the brim. And as much as you know you _should_ be practicing self-care, that 45 minutes on your yoga mat once a week just isn't cutting it.
+You've said yes too many times and you've created and worked more than you've rested or been inspired. Your schedule is constantly filled to the brim. And as much as you know you *should* be practicing self-care, that 45 minutes on your yoga mat once a week just isn't cutting it.
 
 [![yellow conference blog: avoiding creative burnout](https://yellow-blog-images.imgix.net/2015/10/DSC_1298.jpg)](https://yellow-blog-images.imgix.net/2015/10/DSC_1298.jpg)Even though it seems it is bound to happen to us at some point, there are ways we can prevent burnout in our creative endeavors and vocational pursuits. Here are five ways to start taking better care of yourself and ensure you won't lose steam as you work toward your calling:
 
@@ -37,7 +37,7 @@ Then one day I was sitting on a plane reading a book called [_Quiet,_ by Susan
 
 ###### **3\. Don't deny yourself the hard stuff.**
 
-Failure, criticism, writer's block, personal struggle, or just plain sad days - they all have the potential to take quite a toll on our creativity, either in the personal or professional sector. But it can cause even more damage when we try to repress or resist them, in our work as well as to our mental and emotional health. The truth is, failure is a _crucial_ part of the process in almost any endeavor and we would be doing ourselves a disservice if we denied ourselves that struggle, along with the potential beauty that could come from it. Let yourself fail and allow yourself to accept that life if hard sometimes. Consider how you might be able to use that struggle as fuel to inspire your creativity or push you harder to where you're supposed to go.
+Failure, criticism, writer's block, personal struggle, or just plain sad days - they all have the potential to take quite a toll on our creativity, either in the personal or professional sector. But it can cause even more damage when we try to repress or resist them, in our work as well as to our mental and emotional health. The truth is, failure is a *crucial* part of the process in almost any endeavor and we would be doing ourselves a disservice if we denied ourselves that struggle, along with the potential beauty that could come from it. Let yourself fail and allow yourself to accept that life if hard sometimes. Consider how you might be able to use that struggle as fuel to inspire your creativity or push you harder to where you're supposed to go.
 
 > _The truth is, failure is a crucial part of the process in almost any endeavor and we would be doing ourselves a disservice if we denied ourselves that struggle, along with the potential beauty that could come from it._
 
@@ -54,5 +54,3 @@ Nothing has the power to break up monotony and get your creative juices flowing 
 Burnout is real and it can really suck the life out of us when it happens. But if we practice self care and make these things a priority, we are less likely to crash and more likely to have a long and healthy career, making the world more beautiful every day. So go spread goodness and bloom - just don't forget to take care of yourself along the way!
 
 _Photos by [Emma Fineman](http://emma-fineman.squarespace.com/new-gallery-1/9nkm8d0cnl978ql4dbp0qx3z6p6hht)_
-
-[![Abigail Driscoll Yellow Conference](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

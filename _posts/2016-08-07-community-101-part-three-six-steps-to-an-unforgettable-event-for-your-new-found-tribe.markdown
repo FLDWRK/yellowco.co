@@ -7,7 +7,7 @@ categories:
 - Valor
 - Community 101
 - Sunday Series
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-collective/6408/"
 ---
 

@@ -37,5 +37,3 @@ Sometimes it’s easy to forget that we had our own meager beginnings, too. And 
 [![Gratisography Ryan McGuire](https://yellow-blog-images.imgix.net/2015/05/Gratisography-Ryan-McGuire.jpg)](https://yellow-blog-images.imgix.net/2015/05/Gratisography-Ryan-McGuire.jpg)Rather than seeing your friends and their success as the enemy, use it as an opportunity to learn from them. Reflect on how they overcame any obstacles, how they practiced and refined their work to get it where it is today, and look at ways you can put those lessons to work in your own life. Stop comparing yourself to those around you and be mindful of the gains you’ve made on your own path towards success. Because we were not designed to compete with each other, nor let ourselves grow complacent. But rather, we were made to grow through life together.
 
 _Photos by [Mia Domencio](https://unsplash.com/miadomenico) and [Ryan McGuire](http://www.gratisography.com/)_
-
-[![KarsikBio](https://yellow-blog-images.imgix.net/2015/05/KarsikBio1.jpg)](https://yellow-blog-images.imgix.net/2015/05/KarsikBio1.jpg)

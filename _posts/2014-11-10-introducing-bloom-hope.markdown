@@ -3,7 +3,7 @@ title: 'Introducing: Bloom for Hope, a Bloom Gathering'
 date: 2014-11-10 19:01:52 -08:00
 categories:
 - The Activist
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-activist/introducing-bloom-hope/"
 ---
 

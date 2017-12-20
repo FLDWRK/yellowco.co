@@ -3,7 +3,7 @@ title: 'Book Giveaway: Carlos Whittaker''s MomentMaker'
 date: 2014-08-01 14:29:22 -07:00
 categories:
 - "#bloomyellow"
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/carlos-whittaker-momentmaker/"
 ---
 

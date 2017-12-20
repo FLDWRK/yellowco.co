@@ -4,7 +4,7 @@ date: 2016-11-09 06:30:36 -08:00
 categories:
 - "#bloomyellow"
 - Encouragement
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/about-last-night/"
 ---
 

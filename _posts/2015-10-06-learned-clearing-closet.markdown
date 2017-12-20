@@ -8,12 +8,11 @@ categories:
 - The Activist
 - Encouragement
 - The Leader
-author: Yellow
+author: Johanna Tropiano
 redirect_from: "/creative-ladies/learned-clearing-closet/"
 ---
 
-[  
-](https://yellow-blog-images.imgix.net/2015/09/johanna2.jpg)[![yellow conference blog](https://yellow-blog-images.imgix.net/2015/10/Yellow_2015_Day_1-281-copy.jpg)](https://yellow-blog-images.imgix.net/2015/10/Yellow_2015_Day_1-281-copy.jpg)
+[](https://yellow-blog-images.imgix.net/2015/09/johanna2.jpg)[![yellow conference blog](https://yellow-blog-images.imgix.net/2015/10/Yellow_2015_Day_1-281-copy.jpg)](https://yellow-blog-images.imgix.net/2015/10/Yellow_2015_Day_1-281-copy.jpg)
 
 I used to escape through shopping. I had major identity issues growing up due to trauma from sexual abuse that fed this insatiable desire to be liked and cool and cutting edge and pretty. So I started shopping early and often. Then at age 23, I married my college sweetheart and was in a marriage riddled with domestic violence and anger and fear for 8 years before I was able to get free. Needless to say, shopping was my escape from that terror. I found comfort in new clothes. I sought solace in things that only satisfied for a minute before the hurt and anger and fear returned. Needless to say, I accumulated a lot of things during that eight year marriage and a lot of baggage.
 
@@ -33,7 +32,7 @@ Over 60% of modern day slavery takes place in supply chains and it contributes t
 
 [![Yellow_2015_Day_1-278](https://yellow-blog-images.imgix.net/2015/10/Yellow_2015_Day_1-278.jpg)](https://yellow-blog-images.imgix.net/2015/10/Yellow_2015_Day_1-278.jpg)
 
-I recently came across an article about [Marie Kondo](http://tidyingup.com/) and her method of organizing closets. The basic premise is that you pull everything you own (and I mean everything, down to your undies folks), pile it in the middle of your room and go piece by piece, asking the question, _“does this piece of clothing bring me joy?”_ Not _did it bring me joy in the past_ or _might it bring me joy in the future,_ but _**does it bring me joy now at this moment in my life.** _If the answer is no, then get rid of it. Which is what I did with over half my clothes. And it was so freeing. And my husband’s redwood patience bloomed with pride.
+I recently came across an article about [Marie Kondo](http://tidyingup.com/) and her method of organizing closets. The basic premise is that you pull everything you own (and I mean everything, down to your undies folks), pile it in the middle of your room and go piece by piece, asking the question, _“does this piece of clothing bring me joy?”_ Not _did it bring me joy in the past_ or _might it bring me joy in the future,_ but \_**does it bring me joy now at this moment in my life.** \_If the answer is no, then get rid of it. Which is what I did with over half my clothes. And it was so freeing. And my husband’s redwood patience bloomed with pride.
 
 Since that time, I have continued to ruthlessly ask the question, _“Does this bring me joy?”_ That question has invaded every aspect of my life from my clothing to the items I bring in my home. You should see my closet now. It’s less than half full; **a fact of which I am very proud.**
 

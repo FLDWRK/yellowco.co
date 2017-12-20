@@ -51,5 +51,3 @@ Facebook groups are a great resource to find like-minded people. Find groups tha
 This is something that everyone says, but it is _so true._ Let your personality shine bright. Share your expertise loud and proud. Position yourself as a leader and be that person people are like, “Yes! She gets me.” Be honest (in a professional manner) and you will attract people like you. And remember, confidence is the result not a prerequisite. Put yourself out there even if you are unsure people will receive you well. Chances are they will and that will help build your confidence.
 
 _Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/)_
-
-[![EFeinbio](https://yellow-blog-images.imgix.net/2015/06/EFeinbio.jpg)](http://www.iteratesocial.com/)

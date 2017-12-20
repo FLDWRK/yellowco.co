@@ -14,7 +14,7 @@ categories:
 - Encouragement
 - The Solopreneur
 - The Leader
-author: Yellow
+author: Kristi Triplett
 redirect_from: "/resources/why-and-how-we-must-care-for-ourselves-before-caring-for-our-cause-or-business/"
 ---
 

@@ -3,7 +3,7 @@ title: Yellow 2016 Recap
 date: 2016-09-01 04:00:35 -07:00
 categories:
 - Yellow 2016
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-2016/yellow-2016-recap/"
 ---
 
@@ -33,7 +33,7 @@ The Conference officially opened with a dance flash mob to [Alessia Cara's "Wild
 
 In the midst of all the excitement and truth-sharing, ultimately, women connected with and encouraged one another toward their dreams, and built new friendships that will ignite world-changing collaboration. And that's our dream: that everyone who set foot into the Yellow Conference 2016 will feel the call to action to do creative things together that bring good to this weary world.
 
-AND, amidst all this, we finally launched our brand new membership platform: [The Yellow Collective](http://yellowcollective.co/)! Our way of keeping the goodness from the conference going all year long, becoming a Collective member means receiving a quarterly box, digital resources and a creative community in your local city! Go check it out [RIGHT NOW](http://yellowcollective.co/) and become a Collective lady -- you won’t want to miss this amazing opportunity for connection and creativity.
+AND, amidst all this, we finally launched our brand new membership platform: [The Yellow Collective](/membership)! Our way of keeping the goodness from the conference going all year long, becoming a Collective member means receiving a quarterly box, digital resources and a creative community in your local city! Go check it out [RIGHT NOW](/membership) and become a Collective lady -- you won’t want to miss this amazing opportunity for connection and creativity.
 
 [![Yellow2016-156](https://yellow-blog-images.imgix.net/2016/08/Yellow2016-156.jpg)](https://yellow-blog-images.imgix.net/2016/08/Yellow2016-156.jpg)
 

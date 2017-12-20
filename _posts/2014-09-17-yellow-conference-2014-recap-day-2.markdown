@@ -3,7 +3,7 @@ title: Yellow Conference 2014 Recap &ndash; Day 2
 date: 2014-09-17 16:23:16 -07:00
 categories:
 - Yellow 2014
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-2014/yellow-conference-2014-recap-day-2/"
 ---
 

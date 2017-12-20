@@ -19,13 +19,13 @@ redirect_from: "/wander/challenge-turn-side-hustle-main-hustle/"
 
 <div class="column">
 
-Every quarter, the [Yellow Collective members](http://yellowcollective.co/) are assigned a community challenge to set goals as a group, and have a bit of fun together in a way that is growth-oriented!
+Every quarter, the [Yellow Collective members](/membership) are assigned a community challenge to set goals as a group, and have a bit of fun together in a way that is growth-oriented!
 
 **Last quarter, to go with our theme of ‘Pioneer’, the community challenge was to try something they’ve never done before.**
 
 It had to be something that scared them and they had to share about it publicly to hold them accountable. It could be anything — from trying to learn a new language to finally launching the business they’ve always wanted to start.
 
-We spoke to some of the [Collective](http://yellowcollective.co/) ladies to get some insight on their personal challenges — in the hopes that they inspire you to try new things this quarter as you learn to embrace the act of Wandering! Below is our interview with Danielle Welke, as she transitioned her side hustle into her full time job.
+We spoke to some of the [Collective](/membership) ladies to get some insight on their personal challenges — in the hopes that they inspire you to try new things this quarter as you learn to embrace the act of Wandering! Below is our interview with Danielle Welke, as she transitioned her side hustle into her full time job.
 
 </div>
 
@@ -107,7 +107,7 @@ People always say just go for it but I think that’s a little naive and assumin
 
 If you want to stay updated with MI ICE POPS, find them at [miicepops.com](http://www.miicepops.com/)!
 
-If you'd like to join us as a [Yellow Collective](http://yellowcollective.co/) member next quarter, click below!
+If you'd like to join us as a [Yellow Collective](/membership) member next quarter, click below!
 
 ### [CLICK HERE TO BECOME A MEMBER](https://yellowco.myshopify.com/collections/the-yellow-collective)
 

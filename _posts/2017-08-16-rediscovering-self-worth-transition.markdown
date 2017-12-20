@@ -31,10 +31,8 @@ I started reflecting on the days I was obsessed about my worth and how others w
 
 I needed to stop comparing myself to others and focus more on the person I wanted to be for my family. Realizing that my worth extends beyond motherhood and my career opened up and released a lot of my inner conflict.
 
-This new season continues to stretch me in many ways, and there is still a lot of work that needs to be done. I’m learning to appreciate the person I am, finding worth in it, and shifting my perspective during the ebb and flow of transition. 
+This new season continues to stretch me in many ways, and there is still a lot of work that needs to be done. I’m learning to appreciate the person I am, finding worth in it, and shifting my perspective during the ebb and flow of transition.
 
 _Photos by: [Eun Creative](http://www.euncreative.com/)_
-
-[![CHRISTINE STEPHENS BIO](https://yellow-blog-images.imgix.net/2017/05/CHRISTINE-STEPHENS-BIO.jpg)](https://delightfulfindings.wordpress.com/)
 
 #### [THE 2017 YELLOW CONFERENCE IS IN 8 DAYS! JOIN US AUGUST 24TH & 25TH IN DOWNTOWN LOS ANGELES! ](http://yellowco.co/conference/)

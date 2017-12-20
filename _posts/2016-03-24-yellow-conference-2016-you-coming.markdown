@@ -3,7 +3,7 @@ title: Yellow Conference 2016 - You Coming?
 date: 2016-03-24 04:16:29 -07:00
 categories:
 - Yellow 2016
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-2016/yellow-conference-2016-you-coming/"
 ---
 

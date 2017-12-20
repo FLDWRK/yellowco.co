@@ -49,5 +49,3 @@ _Side note: I work with entrepreneurs to focus and align their social media pres
 Yes, there are times when you should worry about your follower count. _It is one of the ways you can measure whether your content is resonating with people or not._ Just remember, it does not equal your worth and there are other ways of measuring success. A wise friend said to me that social media followings are like lungs; they expand and contract. As long as you are full of breath, it doesn’t matter what part of the process you are in. Begin by rewriting those stories that you are telling yourself with things that are true and easily changed.
 
 _Photo by [Mattia Pelizzari](http://www.mattiapelizzari.com/)_
-
-[![EFEINBIO](https://yellow-blog-images.imgix.net/2015/04/EFEINBIO.jpg)](http://www.iteratesocial.com/)

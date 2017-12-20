@@ -28,15 +28,15 @@ Being honest with ourselves is scary. Making changes in the way we think and liv
 
 Some days are going to be easier than others. It’s so easy to fall back into old habits and forget why this was so important in the first place. Writing things down will not only help you process as you go, but will help encourage you on those days when you’re feeling less than motivated to let yourself be human.
 
-- Write down the weaknesses and faults that you have been too afraid to face and let yourself admit that they are there.
+* Write down the weaknesses and faults that you have been too afraid to face and let yourself admit that they are there.
 
-- Write down the specific lies you tell yourself about who you are and why you may or may not have value.
+* Write down the specific lies you tell yourself about who you are and why you may or may not have value.
 
-- Then write down _why_ these lies are not true.
+* Then write down _why_ these lies are not true.
 
-- List the repercussions that you have experienced as a result of withholding grace from yourself. Write out the ways that guilt and shame have impacted your happiness, your relationships, your career, etc.
+* List the repercussions that you have experienced as a result of withholding grace from yourself. Write out the ways that guilt and shame have impacted your happiness, your relationships, your career, etc.
 
-- Write down the good things about yourself _that you like!_
+* Write down the good things about yourself _that you like!_
 
 Then when you forget, go back. Remind yourself. And keep walking toward freedom.
 
@@ -49,5 +49,3 @@ Start honest conversations with people about what it means to balance honesty an
 **Now go, be honest, give yourself grace, and be the magnificent human that you are. Remember to be kind, and trust your process as you become, each day, more into who you were created to be.**
 
 _Photo by [Whitney Darling Photography](http://whitneydarling.com/)_
-
-[![adriscoll](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

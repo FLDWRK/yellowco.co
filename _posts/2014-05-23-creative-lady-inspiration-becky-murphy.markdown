@@ -4,7 +4,7 @@ date: 2014-05-23 15:07:09 -07:00
 categories:
 - Creative Ladies
 - Inspiration
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/creative-lady-inspiration-becky-murphy/"
 ---
 

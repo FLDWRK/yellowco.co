@@ -3,7 +3,7 @@ title: 'Summer Theme: Creative Advocacy + July Bloom Gathering'
 date: 2015-07-02 08:11:29 -07:00
 categories:
 - Creative Advocacy
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-advocacy/summer-theme-creative-advocacy-july-bloom-gathering/"
 ---
 

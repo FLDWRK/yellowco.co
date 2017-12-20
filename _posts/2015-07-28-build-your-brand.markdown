@@ -61,5 +61,3 @@ Nicholas Kristof of the New York Times once said “Toothpaste is peddled with f
 **_Want to hear more of Vik's creative wisdom? She'll be speaking at [the Yellow Conference](http://yellowconference.com/) in August!_**
 
 _Photos via [charity: water](http://www.charitywater.org/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand&utm_content=brandcw5&gclid=Cj0KEQjw58ytBRDMg-HVn4LuqasBEiQAhPkhuva01B7FnDK4xjZHpqwDvJq6gZzb5sD-aQ1eKogXYG0aAj-58P8HAQ)_
-
-[![vikharrison yellow blog guestpost](https://yellow-blog-images.imgix.net/2015/07/vikharrison.jpg)](http://www.charitywater.org/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand&utm_content=brandcw5&gclid=Cj0KEQjw58ytBRDMg-HVn4LuqasBEiQAhPkhuva01B7FnDK4xjZHpqwDvJq6gZzb5sD-aQ1eKogXYG0aAj-58P8HAQ)

@@ -3,7 +3,7 @@ title: Summer Care Package - Rosemary Cornbread
 date: 2014-07-11 15:00:57 -07:00
 categories:
 - "#bloomyellow"
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/summer-care-package/"
 ---
 
@@ -98,4 +98,4 @@ Food (especially food made by you) taste much better when eaten with friends. So
 
 There you have it! Fun for you, fun for your friend, and the world is filled with just a bit more love. Spread goodness and bloom ladies. Use your creativity to make the world a better place, in big ways and small. Also, tickets are going fast for [The Yellow Conference](https://ti.to/yellowconference/the-yellow-conference)- grab yours while you can! You can [r](https://ti.to/yellowconference/the-yellow-conference)[egister here](https://ti.to/yellowconference/the-yellow-conference). Hope to see you in August ladies. In the meantime, have a wonderful weekend!
 
-_Photography by [Joanne Pio](http://joannepioblog.com/). Styling by [Alexmichaelmay.com](http://alexmichaelmay.wix.com/alexmichaelmay), Hair and Makeup by [Beautilitarian](http://www.beautilitarian.com/). Props provided by [Unison Home](http://www.fermliving.com/webshop/shop/spring-collection-2014.aspx) and [Ferm Living.](http://www.fermliving.com/webshop/shop/spring-collection-2014.aspx) __Special thanks to [Homestead](http://www.homesteadca.com/) for allowing us to use your location! Rosemary Cornbread recipe adapted from [Hogwash](http://jessthomson.wordpress.com/2011/08/10/why-we-eat/)._
+_Photography by [Joanne Pio](http://joannepioblog.com/). Styling by [Alexmichaelmay.com](http://alexmichaelmay.wix.com/alexmichaelmay), Hair and Makeup by [Beautilitarian](http://www.beautilitarian.com/). Props provided by [Unison Home](http://www.fermliving.com/webshop/shop/spring-collection-2014.aspx) and [Ferm Living.](http://www.fermliving.com/webshop/shop/spring-collection-2014.aspx) \_\_Special thanks to [Homestead](http://www.homesteadca.com/) for allowing us to use your location! Rosemary Cornbread recipe adapted from [Hogwash](http://jessthomson.wordpress.com/2011/08/10/why-we-eat/)._

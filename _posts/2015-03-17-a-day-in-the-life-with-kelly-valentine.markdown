@@ -4,7 +4,7 @@ date: 2015-03-17 04:00:30 -07:00
 categories:
 - Light Talk
 - Team Members
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/a-day-in-the-life-with-kelly-valentine/"
 ---
 
@@ -34,8 +34,6 @@ On the agenda for the evening? Good ol' dinner and a movie with my soon to be Hu
 
 [![cinemex](https://yellow-blog-images.imgix.net/2015/03/cinemex.jpg)](https://yellow-blog-images.imgix.net/2015/03/cinemex.jpg)
 
-* * *
+---
 
-* * *
-
-Every week or two, we like to give you a glimpse into one of our team member's days. This Thursday, we will continue our Rediscovering Authenticity series on Thursday! In the meantime...have you signed up for your local Kickstart Launch Party on April 2nd!? Check it out [here!!!](http://yellowconference.com/bloom-together-a-kickstarter-launch-party/)
+Every week or two, we like to give you a glimpse into one of our team member's days. This Thursday, we will continue our Rediscovering Authenticity series on Thursday! In the meantime...have you signed up for your local Kickstart Launch Party on April 2nd!?

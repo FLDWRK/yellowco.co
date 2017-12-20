@@ -3,7 +3,7 @@ title: Give the Gift of Yellow!
 date: 2014-12-22 07:28:55 -08:00
 categories:
 - Yellow 2015
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-2015/give-gift-yellow/"
 ---
 

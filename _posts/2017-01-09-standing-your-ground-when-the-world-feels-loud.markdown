@@ -4,7 +4,7 @@ date: 2017-01-09 04:00:41 -08:00
 categories:
 - Advice
 - Pioneer
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/standing-your-ground-when-the-world-feels-loud/"
 ---
 

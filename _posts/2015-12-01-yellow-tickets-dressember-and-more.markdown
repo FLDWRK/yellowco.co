@@ -3,7 +3,7 @@ title: Yellow Tickets, Dressember and More!
 date: 2015-12-01 06:37:18 -08:00
 categories:
 - Resources
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/yellow-tickets-dressember-and-more/"
 ---
 
@@ -13,7 +13,8 @@ Happy December 1 everyone! My name is Joanna Waterfall. I’m the founder of Yel
 
 1- Yellow Conference 2016 tickets are on [SALE starting today](https://www.universe.com/events/yellow-conference-2016-tickets-los-angeles-F2Q869)! If you follow us on Instagram, you’ve probably seen us posting a bit about our theme for this year. GRIT. VALOR. HEART. I’m so excited about this theme because I feel like it sums up the women who are involved in our community so darn well.
 
-##### GRIT: because to make real changes in the world, we need to get our hands dirty. We need to get down into the trenches and place ourselves in the areas we may not be comfortable going. To be willing to sacrifice, to risk, to move, to feel.  
+##### GRIT: because to make real changes in the world, we need to get our hands dirty. We need to get down into the trenches and place ourselves in the areas we may not be comfortable going. To be willing to sacrifice, to risk, to move, to feel.
+
 .  
 VALOR: because bravery matters. To put on our armor and fight for what is right. We need to act, despite our fear, insecurities and doubts. Because our words, our actions and our lives have power. A brave woman is a force to be reckoned with.  
 .  

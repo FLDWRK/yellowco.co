@@ -5,7 +5,7 @@ categories:
 - Advice
 - The Solopreneur
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/how-building-your-email-list-can-help-you-do-less-and-impact-more/"
 ---
 

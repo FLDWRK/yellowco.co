@@ -67,14 +67,12 @@ And the male response? "They follow us, too! They comment saying things like, _'
 
 30 Days No Makeup's mission continues to expand, from L.A. rehab centers encouraging it as a resource to high school girls dancing in the bathroom (a fun addition to 30DaysNoMakeup's Instagram called "#humpdaybrave") and Sarah's dreams for the mission are growing along with it, _"I want it to continue to be its own brand...Natalie has a dream of a children's book...that enhances minds and self-esteem...we have so many dreams...spreading it beyond women, starting research on other things..."_
 
-[caption id="attachment_1844" align="aligncenter" width="700"][![30days](https://yellow-blog-images.imgix.net/2015/02/30days.jpg)](https://yellow-blog-images.imgix.net/2015/02/30days.jpg) Photo of founders, Sarah and Natalie, from [@30DaysNoMakeup](http://instagram.com/30daysnomakeup) [/caption]
+[caption id="attachment_1844" align="aligncenter" width="700"]![30days](https://yellow-blog-images.imgix.net/2015/02/30days.jpg)](https://yellow-blog-images.imgix.net/2015/02/30days.jpg) Photo of founders, Sarah and Natalie, from [@30DaysNoMakeup](http://instagram.com/30daysnomakeup) [/caption]
 
 **So what does Sarah have to say to the readers over at Yellow?**
 
-"Good starts with us; I think the only way it can be effective...is if it's authentic..._30DaysNoMakeup necessitates an internal exploration..._doing something on the outside doesn't necessarily mean something is changing on the inside. Don't hide behind the results...I value quality over quantity, that's my value. I want things to feel honest and authentic, and if that's not happening in something I'm investing in...then I step away...I will never make something seem bigger than it is...
+"Good starts with us; I think the only way it can be effective...is if it's authentic...\_30DaysNoMakeup necessitates an internal exploration...\_doing something on the outside doesn't necessarily mean something is changing on the inside. Don't hide behind the results...I value quality over quantity, that's my value. I want things to feel honest and authentic, and if that's not happening in something I'm investing in...then I step away...I will never make something seem bigger than it is...
 
 I don't believe in failure, it's all a part of it. The results we see...we're foolish to think those are the actual results...I don't believe in failure the same way I don't believe in flaws...Who did we get that from, where did we get this idea of flaws? With that: really, what's failure?"
 
 _For more information on the 30DaysNoMakeup movement, and ways to get involved, click [here](http://30daysnomakeup.com/)._
-
-[![skimbio](https://yellow-blog-images.imgix.net/2015/02/skimbio.jpg)](http://lettersfromamister.tumblr.com)

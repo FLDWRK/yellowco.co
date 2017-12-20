@@ -3,7 +3,7 @@ title: Can't Come to Yellow, but Still Want to Experience the Goodness? Here's H
 date: 2016-08-23 04:17:22 -07:00
 categories:
 - Yellow 2016
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-2016/you-cant-come-to-yellow-but-you-still-want-to-soak-in-the-goodness-heres-how/"
 ---
 

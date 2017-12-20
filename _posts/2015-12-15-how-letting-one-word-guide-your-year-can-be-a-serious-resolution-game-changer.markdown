@@ -60,5 +60,3 @@ The more I think about this whole process of choosing one word, the more it feel
 Let’s be people that seek the good stuff, the rich stuff, the meaningful stuff. Let’s zero in on what truly matters to us in ways that are purposeful and productive. Let’s remember that the words we hear and the words we tell ourselves matter, and let’s choose them wisely. Let’s find the good words that are like diamonds in all the rubble, and let’s focus on them as we go about our days and our year.
 
 _Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/)_
-
-[![Rachel Dawson](https://yellow-blog-images.imgix.net/2015/05/Dawson.jpg)](http://www.racheladawson.com/)

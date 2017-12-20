@@ -7,7 +7,7 @@ categories:
 - The Solopreneur
 - The Leader
 - Pioneer
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-activist/7549/"
 ---
 

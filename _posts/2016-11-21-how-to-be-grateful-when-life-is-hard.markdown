@@ -4,7 +4,7 @@ date: 2016-11-21 04:00:51 -08:00
 categories:
 - Light Talk
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/how-to-be-grateful-when-life-is-hard/"
 ---
 

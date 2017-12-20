@@ -9,7 +9,7 @@ categories:
 - The Starter
 - Encouragement
 - Tribe
-author: Yellow
+author: Avery Johnson
 redirect_from: "/light-talk/collaboration-vs-competition/"
 ---
 

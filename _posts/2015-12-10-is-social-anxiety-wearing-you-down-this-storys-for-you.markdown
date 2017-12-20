@@ -43,7 +43,3 @@ I now aim to be the first person at a party instead of the 10th. Fashionably lat
 I know social anxiety is not a subject that's talked about often. Obviously someone isn't going to walk up to you and say _"gosh, I just hate social situations, they make me stress sweat like crazy and honestly I just want to cry."_ But that's the truth. Since finding a way to deal with my social anxiety, I am so much more confident in every aspect of my life. From my business to my blog to just meeting some friends for coffee, I know that I can walk in to a room, make friendly conversation with a complete stranger, and not stress sweat like crazy. I can now leave an event or a meeting feeling comfortable and confident instead of breaking down crying in my car rushing to get back to the comfort of my own bed. I think about that event often, the one that left me in tears and helped trigger my depression. Whenever an invitation pops up, I look back on that experience and promise myself not to be that Bri, but to be the confident, comfortable Bri I know is within me.
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/)_
-
-[![BriTowne for yellow co.](https://yellow-blog-images.imgix.net/2015/12/BriTowne.jpg)](http://www.lifebybri.com/)
-
-_Interested in being a volunteer for this year's conference? Email us at thescoop@yellowconference.com with the subject line: **Hey Girl! I'm interested in volunteering! **for information on our application process. _

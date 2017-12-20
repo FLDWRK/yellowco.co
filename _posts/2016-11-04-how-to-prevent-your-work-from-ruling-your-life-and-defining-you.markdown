@@ -4,7 +4,7 @@ date: 2016-11-04 04:00:03 -07:00
 categories:
 - The Leader
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-leader/how-to-prevent-your-work-from-ruling-your-life-and-defining-you/"
 ---
 

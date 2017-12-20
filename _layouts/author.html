@@ -11,27 +11,29 @@ layout: page
 </div>
 
 <div class="row">
-  <div class="col-12 col-sm-4">
-    <div class="card">
-      {% if page.bio_image %}
-        <img class="img-fluid w-100" src="{{ page.bio_image | image_src }}" alt="{{ page.title }}: {{ page.job_title }}" data-rjs="2">
-      {% endif %}
-      <div class="card-block">
-        {% if page.job_title %}
-          <h6 class="card-title">{{ page.job_title }}</h6>
+  {% if page.bio_image or page.job_title or page.company_name or page.website or page.content == "" %}
+    <div class="col-12 col-sm-4">
+      <div class="card">
+        {% if page.bio_image %}
+          <img class="img-fluid w-100" src="{{ page.bio_image | image_src }}" alt="{{ page.title }}: {{ page.job_title }}" data-rjs="2">
         {% endif %}
-        {% if page.company_name %}
-          <p><strong>{{ page.company_name }}</strong></p>
-        {% endif %}
-        {% if page.content %}
-          <p class="card-text">{{ page.content | markdownify }}</p>
-        {% endif %}
-        {% if page.website %}
-          <a href="{{ page.website }}" target="_blank" class="btn btn-sm btn-primary">Get More</a>
-        {% endif %}
+        <div class="card-block">
+          {% if page.job_title %}
+            <h6 class="card-title">{{ page.job_title }}</h6>
+          {% endif %}
+          {% if page.company_name %}
+            <p><strong>{{ page.company_name }}</strong></p>
+          {% endif %}
+          {% if page.content %}
+            <p class="card-text">{{ page.content | markdownify }}</p>
+          {% endif %}
+          {% if page.website %}
+            <a href="{{ page.website }}" target="_blank" class="btn btn-sm btn-primary">Website <i class="fa fa-external-link" aria-hidden="true"></i></a>
+          {% endif %}
+        </div>
       </div>
     </div>
-  </div>
+  {% endif %}
   <div class="col-12 col-sm-8">
     {% assign posts = site.posts | where: 'author', page.title %}
     {% for post in posts %}

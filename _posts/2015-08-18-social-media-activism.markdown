@@ -9,7 +9,7 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
-author: Yellow
+author: Elizabeth Fein
 redirect_from: "/creative-ladies/socialmediaactivism/"
 ---
 
@@ -44,5 +44,3 @@ Create an experience for people. Disrupt their routine and make them stop and th
 What are you going to do today to ignite that fire in someone?
 
 _Photos by [Emma Fineman](http://emma-fineman.squarespace.com/)_
-
-[![Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/08/EFeinbio.jpg)](http://www.iteratesocial.com/)

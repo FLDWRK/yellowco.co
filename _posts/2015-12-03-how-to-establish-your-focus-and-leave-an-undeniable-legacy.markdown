@@ -16,12 +16,13 @@ author: Bekah Pogue
 redirect_from: "/resources/how-to-establish-your-focus-and-leave-an-undeniable-legacy/"
 ---
 
-## [![the yellow conference blog: what will your legacy be? ](https://yellow-blog-images.imgix.net/2015/12/photo2-14-06-51.jpg)](https://yellow-blog-images.imgix.net/2015/12/photo2-14-06-51.jpg)[  
+## [![the yellow conference blog: what will your legacy be? ](https://yellow-blog-images.imgix.net/2015/12/photo2-14-06-51.jpg)](https://yellow-blog-images.imgix.net/2015/12/photo2-14-06-51.jpg)[
+
 ](https://yellow-blog-images.imgix.net/2015/11/photo2-copy.jpg)1\. Establish Your Focus
 
 Sounds funny, but creatives often have a hard time nailing down what their unique vision is. We are excited about much and then, as the dog in UP reacts, _“squirrel,”_ another creative idea sparks. It’s not how to focus, it’s what to focus on that requires attention. In the writing world, it's our platform, our elevator pitch, a brief explanation of what the blog/book/article is about and why it will benefit the reader. In a sum, it's finding my unique voice and sticking with it. This took me _years_ to shape and whittle away at until I began connecting my confetti passions to discover my core voice. I love communicating it through speaking, blogging, designing, writing articles and connecting with people over dirty chai’s. Wherever I go, that’s the natural bent of what springs from within. So it makes sense I lead from that passion. _What are your passions? Your unique perspective? Those drummings inside that can't help but come out?_ Let those facets shine. Focus your platform and give it everything you have. Establishing your focus takes strategy, time, and consistency. Do these three and you will discover your valuable focus.
 
-> _It’s not how to focus, it’s what to focus on that requires attention._What are your passions? Your unique perspective? Those drummings inside that can't help but come out?_ Let those facets shine. Focus your platform and give it everything you have._
+> _It’s not how to focus, it’s what to focus on that requires attention.\_What are your passions? Your unique perspective? Those drummings inside that can't help but come out?_ Let those facets shine. Focus your platform and give it everything you have.\_
 
 ## 2\. Trust the Process
 
@@ -46,33 +47,3 @@ On my desk, I wrote myself a note that reads, _“May the main characters in you
 A designer/dear college friend shared this truth and I take it to heart daily: **Be inspired _toward_, not intimidated _from_.** It's all sensory and foundations the value of being awakened by songs, designers, artists, food, and people to find inspiration and write from a place of beauty. Yes, I am communicating my heart, but my main goal is to leave a legacy where others will see beauty in their everyday. Success is not equivalent to my number of followers, but the individual conversations where one’s own inspiration is sparked. In the same way, what often inspires can simultaneously intimidate. When this happens, fear has rooted. I must be willing to look deeper and ask, “Why am I intimidated?” This helps me grow, checks my motives, and pushes me to continue living from my experiences. Legacy-makers are leaders who press on in the refinement journey, even when they are afraid or stand alone. They are willing to display their heartbeats however the world best hears it.
 
 _Photos by [Karen Marie Hernandez](http://www.karenmariehernandez.com/)_
-
-[![bekahpogue](https://yellow-blog-images.imgix.net/2015/12/bekahpogue.jpg)](http://www.upcycledjane.com/)
-
-#### _Pssst...Want to take this a step further?_
-
-#### _Sign up for our email list below & receive a **FREE WORKSHEET** to help you map out your legacy & other tools to boost your inspiration, creativity, & inner lady boss._
-
-<div id="mc_embed_signup">
-
-<form id="mc-embedded-subscribe-form" class="validate" action="//yellowconference.us3.list-manage.com/subscribe/post?u=3f8e45f74e0653e404965e2ef&amp;id=8d40e73403" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
-
-<div id="mc_embed_signup_scroll">
-
-_* indicates required_
-
-<div class="mc-field-group"><label for="mce-EMAIL">Email Address *  
-</label>  
-<input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value=""></div>
-
-<div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_3f8e45f74e0653e404965e2ef_8d40e73403" type="text" value=""></div>
-
-<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe"></div>
-
-</div>
-
-</form>
-
-</div>
-
-<script type="text/javascript">// <![CDATA[<br /> (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);<br /> // ]]></script>

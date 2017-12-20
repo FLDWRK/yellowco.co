@@ -37,5 +37,3 @@ https://play.spotify.com/user/racheladawson/playlist/3HmVuoz0kIF1zKpTA2w0vD
 This playlist has 60 songs in total—it’s sure to last as long as your dinner party does. A combination of indie, alternative, acoustic and classic jams blend together as beautifully as the ingredients in your meal do…all you have to do is press play and let the good times (and the good drinks) flow. Cheers to a wonderful dinner together!
 
 _Photos by [Sandra Vuckovic Pagaimo](https://www.flickr.com/photos/54132946@N08/with/9607123744/)_
-
-[![Dawson](https://yellow-blog-images.imgix.net/2015/05/Dawson.jpg)](http://www.racheladawson.com/)

@@ -37,5 +37,3 @@ You are the expert in your field but that doesn't mean you’re exempt from maki
 Being real will lead you in to some murky waters. I can’t candy-coat this fact. Instead of fearing these depths, face them. They’re not trying to hurt you. They’re testing your authenticity. I’m in those waters every day trying to steer my ship and I have a feeling you are too. The beautiful thing is, we’re all in this together.
 
 _Photos by [Whitney Darling Photography](http://whitneydarling.com/)_
-
-[![EWatzbio](https://yellow-blog-images.imgix.net/2015/01/EWatzbio.jpg)](http://bravegirlspirit.com/)

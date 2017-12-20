@@ -3,7 +3,7 @@ title: 'Tonight: #bloomtogether Launch Party!'
 date: 2015-04-02 04:00:37 -07:00
 categories:
 - Resources
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/tonight-bloomtogether-launch-party/"
 ---
 

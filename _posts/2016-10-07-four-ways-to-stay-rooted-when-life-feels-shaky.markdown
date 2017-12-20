@@ -4,7 +4,7 @@ date: 2016-10-07 04:00:59 -07:00
 categories:
 - Encouragement
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/encouragement/four-ways-to-stay-rooted-when-life-feels-shaky/"
 ---
 

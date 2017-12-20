@@ -6,7 +6,7 @@ categories:
 - "#bloomyellow"
 - Encouragement
 - Collective
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/in-need-of-a-last-minute-meaningful-gift/"
 ---
 
@@ -24,7 +24,7 @@ With this kind of gift, you're pretty much giving your person a gift of going an
 
 [![screenshot-2016-12-20-20-32-51](https://yellow-blog-images.imgix.net/2016/12/Screenshot-2016-12-20-20.32.51.png)](https://yellow-blog-images.imgix.net/2016/12/Screenshot-2016-12-20-20.32.51.png)
 
-2 //  [MEMBERSHIP TO THE YELLOW COLLECTIVE](http://yellowcollective.com/)
+2 //  [MEMBERSHIP TO THE YELLOW COLLECTIVE](/membership)
 
 I mean, we may be a bit bias here, but for any entrepreneurial woman in your life, giving the gift of community, inspiration and empowerment is a great choice. We even created a PDF download for anyone who is giving a Yellow Collective membership as a gift. Print it out, put it in a cute envelope and write a thoughtful note- you're sure to make any friend, sister, mom or significant other in your life feel extra loved.
 

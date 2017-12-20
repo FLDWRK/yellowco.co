@@ -6,7 +6,7 @@ categories:
 - Creative Ladies
 - The Activist
 - Yellow 2015
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/december-bloom-gathering-recap/"
 ---
 

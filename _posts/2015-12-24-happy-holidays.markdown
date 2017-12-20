@@ -4,7 +4,7 @@ date: 2015-12-24 04:45:50 -08:00
 categories:
 - Light Talk
 - Free Downloads
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/happy-holidays/"
 ---
 

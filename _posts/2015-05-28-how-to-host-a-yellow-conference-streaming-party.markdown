@@ -20,7 +20,7 @@ It was tempting to feel defeated, but being determined women we decided to get c
 
 [![Screenshot-2015-01-16-16.38.19](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-16-16.38.19.png)](https://yellow-blog-images.imgix.net/2015/01/Screenshot-2015-01-16-16.38.19.png)
 
->  ...It was tempting to feel defeated, but being determined women we decided to get creative instead. We’re taking advantage of the live-streaming ticket and planning our very own Yellow Conference party
+> ...It was tempting to feel defeated, but being determined women we decided to get creative instead. We’re taking advantage of the live-streaming ticket and planning our very own Yellow Conference party
 
 **Gather your Tribe:**  
 In addition to inviting your best buds, I encourage you to step outside your comfort zone and reach out to bloggers, teachers, designers, etc. in your local community. There’s nothing more inspiring than getting a room full of uniquely creative people together, not to mention you’re creating your own opportunity for networking – how cool is that?
@@ -36,6 +36,4 @@ There’s nothing more satisfying than putting what you learned to practice, so 
 **Supplies:**  
 In addition to making sure you’re in a location with excellent Wi-Fi, you’ll want to choose the best way to stream the event for your party. Whether that’s renting a projector for the day, having individuals on their laptops with headphones or streaming the event on your TV, plan ahead to reduce the chance of (preventable) technical difficulties. I also suggest bringing lots of snacks and goodies to enjoy. Pick a theme and make it a potluck or reach out to a local bakery for some extra sweet treats!
 
-**My last recommendation is to make sure you really have fun with it.** It can be tempting to feel as though the cool things only happen in places like Los Angeles. The online arena makes it all too easy to jump to the fear of missing out on something. I encourage you to challenge this notion and instead make the most out of what you have, where you are. This is a chance to #bloomtogether – regardless of distance or location. How will _you_ be joining the party?
-
-[![LindsayAshcraft](https://yellow-blog-images.imgix.net/2015/05/LindsayAshcraft.jpg)](https://instagram.com/northern_daisy/)
+**My last recommendation is to make sure you really have fun with it.** It can be tempting to feel as though the cool things only happen in places like Los Angeles. The online arena makes it all too easy to jump to the fear of missing out on something. I encourage you to challenge this notion and instead make the most out of what you have, where you are. This is a chance to #bloomtogether – regardless of distance or location. How will *you* be joining the party?

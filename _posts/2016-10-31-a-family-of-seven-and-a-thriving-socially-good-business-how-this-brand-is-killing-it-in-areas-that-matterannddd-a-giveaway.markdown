@@ -7,7 +7,7 @@ categories:
 - The Activist
 - Encouragement
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/inspiration/a-family-of-seven-and-a-thriving-socially-good-business-how-this-brand-is-killing-it-in-areas-that-matterannddd-a-giveaway/"
 ---
 

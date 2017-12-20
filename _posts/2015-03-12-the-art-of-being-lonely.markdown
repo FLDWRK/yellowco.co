@@ -6,7 +6,7 @@ categories:
 - Inspiration
 - Encouragement
 - Rediscovering Authenticity
-author: Yellow
+author: Karen Hernandez
 redirect_from: "/advice/theartofbeinglonely/"
 ---
 

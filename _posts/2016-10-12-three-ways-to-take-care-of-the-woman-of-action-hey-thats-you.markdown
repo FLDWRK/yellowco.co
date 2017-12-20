@@ -5,7 +5,7 @@ categories:
 - Light Talk
 - The Activist
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/three-ways-to-take-care-of-the-woman-of-action-hey-thats-you/"
 ---
 

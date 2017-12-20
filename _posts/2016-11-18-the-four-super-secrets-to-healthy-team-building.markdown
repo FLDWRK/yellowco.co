@@ -4,7 +4,7 @@ date: 2016-11-18 04:00:54 -08:00
 categories:
 - The Leader
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-leader/the-four-super-secrets-to-healthy-team-building/"
 ---
 

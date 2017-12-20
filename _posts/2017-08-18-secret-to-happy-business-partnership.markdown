@@ -13,10 +13,10 @@ I didn’t ask just any friends though, I asked several friends who also happene
 
 “It’s simple,” they said. “Once a week, we sit down together and go through the following:
 
-*   Affirm
-*   Apologize
-*   Ask
-*   [Platonic, Workplace-Appropriate] Affection
+* Affirm
+* Apologize
+* Ask
+* [Platonic, Workplace-Appropriate] Affection
 
 It’s the glue to our partnership, try it.”  And I did. In fact, since day one,  [Sam](https://wilkinsonmazzeo.com/sam-mazzeo/) and I have practiced the 4 A’s.
 
@@ -42,7 +42,7 @@ We’ve noticed this A tends to be more beneficial for the apologizer than the p
 
 ### **Ask**
 
-Ask is a way to politely make a request of your partner or, ahem, give *critical* feedback. As someone who is sensitive to criticism, I can say that I never freak out when Sam makes an ask of me during 4 A's. In fact, I usually feel grateful because he cares enough about me to have that hard conversation or be vulnerable, and trust me enough to ask for what he needs.
+Ask is a way to politely make a request of your partner or, ahem, give _critical_ feedback. As someone who is sensitive to criticism, I can say that I never freak out when Sam makes an ask of me during 4 A's. In fact, I usually feel grateful because he cares enough about me to have that hard conversation or be vulnerable, and trust me enough to ask for what he needs.
 
 #### **Critical feedback is diffused when delivered this way.**
 
@@ -54,8 +54,4 @@ My friends did a fist bump. Sam and I do a secret handshake. This is the glue th
 
 If you practice this simple, straightforward ritual, I promise your partnership will feel more focused, yet laid back, and ultimately more satisfying. We’ve shared it with many friends and colleagues over the years and some have even applied it to their personal relationships. I recently had the chance to ask one of my friends where they got the idea. He said they borrowed the idea from marriage counseling. Go figure.
 
-_Photos by: [Karen Marie Co.](http://www.karenmarie.co/) _
-
-[![Emily Wilkinson Bio](https://yellow-blog-images.imgix.net/2017/08/Emily-Wilkinson-Bio.jpg)](https://www.instagram.com/em_wilkinson/)
-
-### [THERE ARE STILL TICKETS AVAILABLE FOR THE YELLOW CONFERENCE _NEXT WEEK_, GRAB YOUR'S HERE!](http://yellowco.co/conference/)
+_Photos by: [Karen Marie Co.](http://www.karenmarie.co/)_

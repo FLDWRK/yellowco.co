@@ -4,7 +4,7 @@ date: 2014-05-30 16:23:21 -07:00
 categories:
 - Creative Ladies
 - Inspiration
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/creative-lady-inspiration-corina-nika/"
 ---
 

@@ -25,7 +25,7 @@ In addition, 2/3 of people won’t even take a job if the company doesn’t hav
 
 I’ve worked in sales a long time - long enough to realize that everything is sales. It's a lot of figuring out what makes someone want to buy, and showing the benefits and value. You’ve got to show the value of philanthropic work to your company . Share the stats, [which can be found in research studies all over the web](http://www.conecomm.com/research-blog/2016-millennial-employee-engagement-study) . Facts like **83% of employees would be more loyal to firms that allow them to give back.** Or that over **80% of people believe company-wide days of service or corporate-led activities are important.**
 
-This means their employees are more likely to become engaged in the company, and to stay at their current job. Beyond that, these employees are likely to be happier, which is [proven to show an increase of 12% productivity at work](https://www.fastcompany.com/3048751/happy-employees-are-12-more-productive-at-work) ! Having a more socially and environmentally conscious company can save businesses money in the long run from losing less employees, create a better brand reputation, and have more productive employees. 
+This means their employees are more likely to become engaged in the company, and to stay at their current job. Beyond that, these employees are likely to be happier, which is [proven to show an increase of 12% productivity at work](https://www.fastcompany.com/3048751/happy-employees-are-12-more-productive-at-work) ! Having a more socially and environmentally conscious company can save businesses money in the long run from losing less employees, create a better brand reputation, and have more productive employees.
 
 ### **#2 Look to existing programs for inspiration.**
 
@@ -37,12 +37,10 @@ Some companies even create their very own do-good programs. [Clif Bar](http://w
 
 ### **#3 Volunteer to create a committee.**
 
-Your company may be willing help employees volunteer on their behalf, but not on company time. This is only a small hurdle. What your company needs is a philanthropic spearhead. That’s where YOU come in. Let your company know that you’re willing to help coordinate a team of people to find a cause the employees are passionate about. 
+Your company may be willing help employees volunteer on their behalf, but not on company time. This is only a small hurdle. What your company needs is a philanthropic spearhead. That’s where YOU come in. Let your company know that you’re willing to help coordinate a team of people to find a cause the employees are passionate about.
 
 If your company is in the construction industry, you might want to reach out to [Habitat for Humanity](https://www.habitat.org/) or [Furnishing Hope](http://furnishinghope.org/) for building projects. If you’re in the medical field, a non-profit such as the [Red Cross](http://www.redcross.org/) or [American Heart Association](http://www.heart.org/HEARTORG/) might be looking for volunteers for their events. You can link up with food banks, school drives, or even coordinate a philanthropy fair (which is exactly what I did at my company) to help connect employees with organizations they’re passionate about.
 
 Giving back benefits all parties. We can let go of any tension when it comes to social responsibility or building our resume, because the two aren’t mutually exclusive. You deserve to have both if that’s what drives you. You’ll be happier and more fulfilled - something your company can only benefit from. Don’t be afraid to make the suggestion and run with it. Trust me, they’ll thank you later.
 
 _Photos by: [Cacá Santoro](http://cacasantoro.com/)_
-
-[![Salma Elbarmawi BIO](https://yellow-blog-images.imgix.net/2017/08/Salma-Elbarmawi-BIO.jpg)](https://thoughtcatalog.com/salma-elbarmawi/)

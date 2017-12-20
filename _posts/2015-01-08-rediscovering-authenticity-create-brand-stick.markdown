@@ -43,5 +43,3 @@ An exercise that my business coach introduced me to is “I believe” statement
 We attract what we put out into the world. Always be kind and positive, and you will attract kind and positive people. Forget perfection, wave goodbye to fear, and let people fall in love with the imperfect, but wonderful, amazing you.
 
 _Images via [Mattia Pellizari](http://www.mattiapelizzari.com/) and [Elizabeth Fein](http://instagram.com/iteratesocial/)_
-
-[![Fein Bio](https://yellow-blog-images.imgix.net/2015/01/Fein-Bio.jpg)](https://yellow-blog-images.imgix.net/2015/01/Fein-Bio.jpg)

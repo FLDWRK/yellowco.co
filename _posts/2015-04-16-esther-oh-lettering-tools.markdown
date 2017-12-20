@@ -89,5 +89,3 @@ I hope my list gets you started on your lettering journey or provides a worthwhi
 to your list of things to try.
 
 _Photos by [Kelsey Lemons](http://www.lemonsandtea.com/) from one of Esther's recent workshops. _
-
-[![estherohbio](https://yellow-blog-images.imgix.net/2015/03/estherohbio.jpg)](https://estherohx.wordpress.com/)

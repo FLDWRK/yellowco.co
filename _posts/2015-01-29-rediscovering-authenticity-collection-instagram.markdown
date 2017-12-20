@@ -10,7 +10,7 @@ author: Arielle Estoria
 redirect_from: "/creative-ladies/rediscovering-authenticity-collection-instagram/"
 ---
 
-A U T H E N T I C I T Y: _Legitimate, valid, dependable, and truthful_
+A U T H E N T I C I T Y: *Legitimate, valid, dependable, and truthful*
 
 [![k14](https://yellow-blog-images.imgix.net/2015/01/k14.jpg)](https://yellow-blog-images.imgix.net/2015/01/k14.jpg)
 
@@ -31,5 +31,3 @@ Authenticity: the act of living, being and exuding truth. Imagine how we would l
 The world needs more of us to say, bravely, _here is all of me, stripped to the very core of who I am, please don’t judge, please tread softly and I promise to do the same for you._
 
 _Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/) for Yellow_
-
-[![aestoria](https://yellow-blog-images.imgix.net/2015/02/aestoria.jpg)](http://chroniclesofalioness.com/)

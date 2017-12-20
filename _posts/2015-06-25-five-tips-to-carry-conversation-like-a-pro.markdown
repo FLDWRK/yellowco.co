@@ -39,9 +39,9 @@ We know we're supposed to make eye contact with the person we’re talking to, b
 
 **Listen actively.**
 
-*   Repeat back what was said to you in your own words: _“so what I hear you saying is…”_ is usually the most common form of this, but put your own spin on it! This lets them know you are tracking the convo. It also can help your brain remember the conversation so you are able to recall it later and follow up.
-*   While she’s talking, really pay attention to what she’s saying instead of preparing your response. If you’re planning what to say once she’s finished talking, your attention is not really on her and you’re not truly engaged. Just hear her.
-*   Even if you really are listening, people need to _know_ you are. Be sure to _communicate_ to that you are listening by using body language. Make eye contact, nod your head, and reassure who you are listening to that you’re really present with vocal cues. Again, this seems like a no brainer, but I’m sure you have been on the receiving end of someone whose body language is clearly communicating to you that she’s not all that interested in what you’re saying!
+* Repeat back what was said to you in your own words: _“so what I hear you saying is…”_ is usually the most common form of this, but put your own spin on it! This lets them know you are tracking the convo. It also can help your brain remember the conversation so you are able to recall it later and follow up.
+* While she’s talking, really pay attention to what she’s saying instead of preparing your response. If you’re planning what to say once she’s finished talking, your attention is not really on her and you’re not truly engaged. Just hear her.
+* Even if you really are listening, people need to _know_ you are. Be sure to _communicate_ to that you are listening by using body language. Make eye contact, nod your head, and reassure who you are listening to that you’re really present with vocal cues. Again, this seems like a no brainer, but I’m sure you have been on the receiving end of someone whose body language is clearly communicating to you that she’s not all that interested in what you’re saying!
 
 Something as simple as good eye contact can communicate to someone that she matters, that she has your full attention, and that you care about what she is saying.
 
@@ -56,5 +56,3 @@ In less intimate settings, when you’re interacting with people you don’t kno
 If we really want to build a healthy and supportive tribe, we have to start with the basics. We can have all the dinner parties and get-togethers we want, but what actually happens at those gatherings is what is so vital to cultivating quality relationships. **So next time you find yourself in a conversation with someone, pay attention to the way you are listening and how distracted you are.** Ask yourself honestly if you are making assumptions about someone or if you are keeping an open mind. Pay attention to whether you are asking more questions or giving more answers. If we can keep establishing these habits, not only will people feel much more cared for, but we will be stronger together.
 
 _Photos by [Whitney Darling](http://whitneydarling.com/)_
-
-_[![adriscoll bio](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/) _

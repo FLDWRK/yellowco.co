@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - The Activist
 - Grit
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/building-an-ongoing-sustainable-movement-for-causes-you-care-about/"
 ---
 

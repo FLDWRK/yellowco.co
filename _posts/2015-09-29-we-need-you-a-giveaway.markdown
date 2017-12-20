@@ -3,7 +3,7 @@ title: We Need You! + a Giveaway
 date: 2015-09-29 04:30:25 -07:00
 categories:
 - Yellow 2016
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-2016/we-need-you-a-giveaway/"
 ---
 

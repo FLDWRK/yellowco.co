@@ -3,7 +3,7 @@ title: Introducing... Bloom Gatherings!
 date: 2014-10-04 23:41:39 -07:00
 categories:
 - "#bloomyellow"
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/indtroducing-bloom-gatherings/"
 ---
 

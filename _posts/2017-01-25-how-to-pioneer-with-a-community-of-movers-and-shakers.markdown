@@ -20,7 +20,7 @@ When I launched [my life-coaching business](http://www.madisonhedlund.co/) in a 
 
 Not only have I been able to grow a thriving business from midwest USA, I have found a community of local and online cheerleaders and I’ve built a tribe of women who champion one another.
 
-**I’ve debunked the notion that pioneers have to do their adventure alone.**If you’ve felt alone in your journey to self-improvement, in your career, in your passion project, hear me on this one:  _You only have to go it alone if you choose to._ There are women [waiting to connect with you, support you, and who want to cheer you on!](http://yellowcollective.co/)
+**I’ve debunked the notion that pioneers have to do their adventure alone.**If you’ve felt alone in your journey to self-improvement, in your career, in your passion project, hear me on this one:  _You only have to go it alone if you choose to._ There are women [waiting to connect with you, support you, and who want to cheer you on!](/membership)
 
 ### [![yellowcollectivexheritage-andreadavid49](https://yellow-blog-images.imgix.net/2017/01/YellowCollectivexHeritage-AndreaDavid49.jpg)](https://yellow-blog-images.imgix.net/2017/01/YellowCollectivexHeritage-AndreaDavid49.jpg)
 
@@ -36,7 +36,7 @@ When I stopped to look at my city, I didn’t see the thing I wanted to be a par
 
 ### **Sometimes the connections you want to make begin with you stepping out and _creating_** **the thing you want to see.**
 
-Join the [Yellow Collective](http://yellowcollective.co/), host a meet-up, or even create a mastermind of women in your field who want to support one another. It’s as simple as creating something you want to be a part of!
+Join the [Yellow Collective](/membership), host a meet-up, or even create a mastermind of women in your field who want to support one another. It’s as simple as creating something you want to be a part of!
 
 [![yellowcollectivexheritage-andreadavid93](https://yellow-blog-images.imgix.net/2017/01/YellowCollectivexHeritage-AndreaDavid93.jpg)](https://yellow-blog-images.imgix.net/2017/01/YellowCollectivexHeritage-AndreaDavid93.jpg)
 
@@ -56,6 +56,6 @@ How are you showing up in your relationships? Are you all take and no give? Are 
 
 You are supported, welcome, and have an entire world of women ready to cheer you on if you simply open your eyes to them. Drop the beliefs that hold you back, step out, create the thing, and be the friend you want to have.
 
-_Photos by [Andrea David](http://andreadavid.co/) of [the Yellow Collective Orange County gathering](http://yellowcollective.co/) _
+_Photos by [Andrea David](http://andreadavid.co/) of [the Yellow Collective Orange County gathering](/membership) _
 
 [![madisonhedlund](https://yellow-blog-images.imgix.net/2017/01/MADISONHEDLUND.jpg)](http://www.madisonhedlund.co/)

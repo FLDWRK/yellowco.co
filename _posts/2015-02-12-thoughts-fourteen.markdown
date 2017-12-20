@@ -36,7 +36,7 @@ While I’m not trying to knock on Valentine’s Day, lend me your ear for a sec
 
 So, what if today, we honored _all_ of our somebodies for this fourteen?
 
-What if we wrote them notes about how much their consistency meant in our lives? What if we reminded them how much we notice and cherish them even though our proximities may have changed? What if we took a second to acknowledge that we couldn’t have done ____________ without them? What if we told the world just how much we loved _them_?
+What if we wrote them notes about how much their consistency meant in our lives? What if we reminded them how much we notice and cherish them even though our proximities may have changed? What if we took a second to acknowledge that we couldn’t have done ****\_\_\_\_**** without them? What if we told the world just how much we loved _them_?
 
 [![IMG_8166](https://yellow-blog-images.imgix.net/2015/02/IMG_8166.jpg)](https://yellow-blog-images.imgix.net/2015/02/IMG_8166.jpg)
 
@@ -45,5 +45,3 @@ Call me naive, but I believe fourteen could be a beautiful day of unexpected fu
 This fourteenth, I am really excited to dream a little differently, and to see to it that those wonderful, persistent, patient, persevering souls in my world understand just how much they truly are _my_ somebodies.
 
 _Photos by [Whitney Darling](http://whitneydarling.com/), [Karen Hernandez](http://alwaysjoyfulkaren.blogspot.com/), and Nikole Sparks_
-
-[![nikolesparks](https://yellow-blog-images.imgix.net/2015/02/nikolesparks.jpg)](http://nikolesparksdesign.com/)
