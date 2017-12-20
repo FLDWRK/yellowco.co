@@ -5,6 +5,7 @@ categories:
 - Culture
 author: Elisabetta Colabianchi
 image: "/uploads/HJ-Kaleidos-063.jpg"
+series: Conscious
 ---
 
 The holidays are a great time to give back and volunteer. Most everyone thinks so, and because of that, shelters and soup kitchens tend to be so overloaded with volunteers and donations. Sometimes they don’t even take sign-ups unless it’s months in advance because they fill up so quickly! So if you want to find a meaningful way to give back and volunteer during the holidays, you may have to get creative. Here are some ideas of how you can still make an impact!
