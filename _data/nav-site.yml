@@ -4,12 +4,12 @@
 - id: conference
   title: Conference
   url: /conference
-- id: shop
-  title: Shop
-  url: "https://yellowco.myshopify.com/"
 - id: about
   title: About
   url: /about
 - id: blog
   title: Blog
   url: /blog
+- id: login
+  title: Log In
+  url: "https://members.yellowco.co/"
