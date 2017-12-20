@@ -2,7 +2,7 @@
 title: Courtney Logan & Alexandra Weissner
 company_name: bRUNch Running
 job_title: Founders
-bio_image:
+bio_image: 
 website: https://www.brunchrunning.com/
 is_guest: true
 ---
