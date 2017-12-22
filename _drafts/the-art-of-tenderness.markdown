@@ -1,5 +1,5 @@
 ---
-title: The Art of Tenderness
+title: 'Practicing the Art of Tenderness: For the New Year, for Ourselves'
 date: 2018-01-01 04:00:00 -08:00
 categories:
 - Growth
@@ -9,24 +9,35 @@ series: Tenderness
 ---
 
 Wake up, bright-eyed girl
+
 The crisp, new air wants to kiss your cheeks
-It’s changed overnight, don’t you know?
+
+It’s changed overnight, don’t you know?\
 
 Draw your curtains to dawn’s early pastel invitation
+
 As hope breaks the day, and past starts its slumber
-Eternal sparkling “hello”, ever-rainbow northern light
+
+Eternal sparkling “hello”, ever-rainbow northern light\
 
 Yes, time has turned
+
 Ready for you to shake the morning,
+
 dive into its perfect, powdery ground -
-carefree when it melts in the fuzzy fold of your sleeve
+
+carefree when it melts in the fuzzy fold of your sleeve\
 
 But grace, dear girl
+
 Let your steps be considered rather than counted
-Paced in a rhythm only your’s to keep time to
+
+Paced in a rhythm only your’s to keep time to\
 
 For when you run out to meet the winter
+
 she’ll introduce herself not as a boxes to be checked
+
 but a space to be filled more fully by you
 
 ![958A8398.jpg](/uploads/958A8398.jpg)
