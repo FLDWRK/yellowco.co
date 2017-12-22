@@ -52,4 +52,4 @@ There is forgiveness to be discovered where two steps forward intersect with one
 
 Your value cannot be quantified - especially not by the amount of resolutions you check off our list. It is infinite. Let’s greet this page-turn with a gentleness towards ourselves and a wholehearted intention. And when some days don’t always go as we hope - you know, as they tend to - let’s return to it with acceptance and inspiration. May we hold our ambitions, our worth, with Tenderness.
 
-*Artwork by \[Steph Renea\](http://stephrenea.com/)*
+*Artwork by [Steph Renea](http://stephrenea.com/)*
