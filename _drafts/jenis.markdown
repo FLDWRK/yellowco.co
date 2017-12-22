@@ -3,7 +3,7 @@ title: Jeni's
 date: 2017-12-29 04:00:00 -08:00
 ---
 
-##### How did your love for ice cream making begin?
+###### How did your love for ice cream making begin?
 
 I ate ice cream almost nightly when growing up. And I knew at age 12 that I’d rather be an ice cream maker in a great city than a doctor or attorney or businessman. When an ice cream company opened within walking distance from my home, I was the first to pound on their door while under construction to ask for a job (and got it).
 
@@ -18,7 +18,6 @@ All of this flooded my brain because I had engrossed myself in a number of areas
 So, I knew in that moment, that we could use ice cream to explore flavor, which is scent \+ taste. And that I’d spend the rest of my life doing it. And I set sail that very second and have never looked back. That was 22 years ago.
 
 ##### You operate with what you call a Fellowship Model—what essentially sounds like a “farm to scoop” mentality. Can you share more with us about your supply chain and how you developed these kind of direct relationships with your suppliers?
-
 
 I got my start selling ice creams in Columbus’ North Market, a century-old market with produce, meat, and specialty food vendors, which meant that we created a seasonal rhythm inspired by the gardens and farms of Ohio, as well as the emotion and energy of the season. I learned what I know about service from the other merchants who always took everything personally—quality of their products, their displays, their suppliers. They built businesses based on over-the-counter relationships with growers, suppliers, producers, and customers. When one person does well, we all do well. When one struggles, we all do. These lessons became who we are at Jeni’s to this day.
 
