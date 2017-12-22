@@ -1,5 +1,6 @@
 ---
-title: The Scoop
+title: 'Community, Quality, & Creativity: Jeni''s Splendid Ice Cream Founder Shares
+  the Scoop on Her B Corp Business'
 date: 2017-12-29 04:00:00 -08:00
 categories:
 - Entrepreneurs
