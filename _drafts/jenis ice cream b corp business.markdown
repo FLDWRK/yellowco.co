@@ -71,7 +71,7 @@ There is nothing cookie cutter in what we do. Each time we open a store it is a 
 
 Also, it’s really easy to make an all-organic, NON-GMO, all-natural product that is just as processed as any other out there. I understand the overall benefit of it, but I would rather treat people well and make great ice cream and have that be our thing over labels. You have to trust us. We are not perfect, but we also don’t pretend to be. All we care about is: making really, truly beautiful ice creams, in a way that brings people together. And that’s it. We work each day to do that better. We like to talk about it and show you what we do as long as you will listen!
 
-![_MG_2494_LA_Los_Feliz.jpg](/uploads/_MG_2494_LA_Los_Feliz.jpg)
+![Jeni's Splendid Ice Cream Founder Shares the Scoop on Her B Corp Business .jpg](/uploads/Jeni's%20Splendid%20Ice%20Cream%20Founder%20Shares%20the%20Scoop%20on%20Her%20B%20Corp%20Business%20.jpg)
 
 ###### This month at [Yellow](https://yellowco.co/), our series is focusing on Conscious Consumerism. What is one of your go-to ways to stay socially and globally conscious as a consumer?
 
