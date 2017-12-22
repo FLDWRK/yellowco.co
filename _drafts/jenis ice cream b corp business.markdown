@@ -9,6 +9,8 @@ image: "/uploads/Jeni's%20Splendid%20Ice%20Cream%20Founder%20Shares%20the%20Scoo
 series: Conscious
 ---
 
+Everyone has their favorite flavor. But we can all agree that some ice cream makers simply take the cake when it comes to the best scoop in town (or, you know, the country). Celebrating her 15th year since opening, [Jeni's Splendid Ice Cream](https://jenis.com/) decided to take a different approach to the dessert from the very beginning - drawing her inspiration from perfume, and since creating between 200 – 300 flavors. Jeni gave us the scoop on their Fellowship Model, building a team of diverse thinkers, and her emphasis on making spectacular ice cream for communities, by communities.
+
 ###### How did your love for ice cream making begin?
 
 I ate ice cream almost nightly when growing up. And I knew at age 12 that I’d rather be an ice cream maker in a great city than a doctor or attorney or businessman. When an ice cream company opened within walking distance from my home, I was the first to pound on their door while under construction to ask for a job (and got it).
