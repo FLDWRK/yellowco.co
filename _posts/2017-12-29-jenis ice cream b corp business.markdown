@@ -23,7 +23,7 @@ The flavor unfurled slowly as it melted and warmed on my tongue. I was hooked. I
 
 Ice cream is about scent, but there’s more to it. There’s temperature, which wakes up your senses; touch, which makes your tongue feel soft and luscious; sight, it’s colorful and somewhere between liquid and solid; and how it tastes on your tongue: a combo of sweet, sour, bitter, umami. But mostly, it’s about scent, which most people would never think of.
 
-![PistachioHoney-30.jpg](/uploads/PistachioHoney-30.jpg)
+![Community, Quality, & Creativity: Jeni's Splendid Ice Cream Founder Shares the Scoop on Her B Corp Business - Yellow Co.jpg](/uploads/PistachioHoney-30.jpg)
 
 All of this flooded my brain because I had engrossed myself in a number of areas, from pastry making to art and storytelling and perfumery. Because I had hundreds of scents in my drawer, I knew scent better than most people. For instance, when I say “floral” you probably think “grandma's underwear”. But I think of a dozen or so foundationally different scents that are derived from flowers. To me, there is no such thing as one “floral” note. Rose, ylang ylang, vanilla, lily of the valley, and lavender are all so completely unique from one another as to have nothing in common at all. And so many of them are absolutely wonderful in ice cream.
 
@@ -37,7 +37,7 @@ I got my start selling ice creams in Columbus’ North Market, a century-old mar
 
 We still work with many of the same farms and growers we have worked with for years, many who we met through the market. We operate by season, and think about our community, including our beloved customers, first in everything we do.
 
-![DCShop-GrandOpening-60.jpg](/uploads/DCShop-GrandOpening-60.jpg)
+![Community, Quality, & Creativity: Jeni's Splendid Ice Cream Founder Shares the Scoop on Her B Corp Business - Yellow Co.jpg](/uploads/DCShop-GrandOpening-60.jpg)
 
 ###### Who are your role models (in business and life)?
 
@@ -53,7 +53,7 @@ It takes a whole community of people to build ice cream from the ground up, like
 
 Our Lemon Buttermilk Frozen Yogurt is unexpected because it completely changes everyone’s perception of what frozen yogurt can be. It’s delicate and nuanced and perfect. It’s the one all the chefs love. I have been making this flavor since the beginning, but it’s never been better. About two years ago we added buttermilk and that reacts with the small amount of cream in the recipe to thicken the whole thing and make it really creamy.
 
-![Copy of HolidaySundaeBoards-1.jpg](/uploads/Copy%20of%20HolidaySundaeBoards-1.jpg)
+![Community, Quality, & Creativity: Jeni's Splendid Ice Cream Founder Shares the Scoop on Her B Corp Business - Yellow Co.jpg](/uploads/Copy%20of%20HolidaySundaeBoards-1.jpg)
 
 ###### You mention some of your other values include employing a diverse team and working with women and minority-owned businesses? What is the most rewarding benefit from making these conscious decisions about who you work with?
 
@@ -63,7 +63,7 @@ We like people who are themselves. People who think differently. We hire for wha
 
 All this attracts a different kind of team—one that is soulful and vibrant.
 
-![DCShop-GrandOpening-61.jpg](/uploads/DCShop-GrandOpening-61.jpg)
+![Community, Quality, & Creativity: Jeni's Splendid Ice Cream Founder Shares the Scoop on Her B Corp Business - Yellow Co.jpg](/uploads/DCShop-GrandOpening-61.jpg)
 
 ###### Many entrepreneurs want to create products that are organic, ethically made, or are eco-friendly, but they have a hard time starting out this way due to the costs. You don’t use synthetic flavorings, dyes, or off-the-shelf mixes in your ice cream — have similar challenges come up by creating your product this way? What makes it the most worth it to do this?
 
@@ -71,7 +71,7 @@ There is nothing cookie cutter in what we do. Each time we open a store it is a 
 
 Also, it’s really easy to make an all-organic, NON-GMO, all-natural product that is just as processed as any other out there. I understand the overall benefit of it, but I would rather treat people well and make great ice cream and have that be our thing over labels. You have to trust us. We are not perfect, but we also don’t pretend to be. All we care about is: making really, truly beautiful ice creams, in a way that brings people together. And that’s it. We work each day to do that better. We like to talk about it and show you what we do as long as you will listen!
 
-![Jeni's Splendid Ice Cream Founder Shares the Scoop on Her B Corp Business .jpg](/uploads/Jeni's%20Splendid%20Ice%20Cream%20Founder%20Shares%20the%20Scoop%20on%20Her%20B%20Corp%20Business%20.jpg)
+![Jeni's Splendid Ice Cream Founder Shares the Scoop on Her B Corp Business - Yellow Co.jpg](/uploads/Jeni's%20Splendid%20Ice%20Cream%20Founder%20Shares%20the%20Scoop%20on%20Her%20B%20Corp%20Business%20.jpg)
 
 ###### This month at [Yellow](https://yellowco.co/), our series is focusing on Conscious Consumerism. What is one of your go-to ways to stay socially and globally conscious as a consumer?
 
