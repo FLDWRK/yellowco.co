@@ -59,7 +59,7 @@ We like people who are themselves. People who think differently. We hire for wha
 
 All this attracts a different kind of team—one that is soulful and vibrant.
 
-###### Many entrepreneurs and brands want to create products that are organic, ethically made, or are eco-friendly, but they have a hard time starting out this way due to the costs. You don’t use synthetic flavorings, dyes, or off-the-shelf mixes in your ice cream — have similar challenges come up by creating your product this way? What makes it the most worth it to do this?
+###### Many entrepreneurs want to create products that are organic, ethically made, or are eco-friendly, but they have a hard time starting out this way due to the costs. You don’t use synthetic flavorings, dyes, or off-the-shelf mixes in your ice cream — have similar challenges come up by creating your product this way? What makes it the most worth it to do this?
 
 There is nothing cookie cutter in what we do. Each time we open a store it is a new design. We spend time in the neighborhoods; we want residents and visitors to be our partners. We think of our company as a community. Every pint of ice cream represents the work of hundreds of people in our network, which makes it special and worth the extra effort in every form.
 
