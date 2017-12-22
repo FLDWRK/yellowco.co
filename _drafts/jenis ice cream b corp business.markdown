@@ -55,12 +55,6 @@ Our Lemon Buttermilk Frozen Yogurt is unexpected because it completely changes e
 
 ![Copy of HolidaySundaeBoards-1.jpg](/uploads/Copy%20of%20HolidaySundaeBoards-1.jpg)
 
-###### Many entrepreneurs want to create products that are organic, ethically made, or are eco-friendly, but they have a hard time starting out this way due to the costs. You don’t use synthetic flavorings, dyes, or off-the-shelf mixes in your ice cream — have similar challenges come up by creating your product this way? What makes it the most worth it to do this?
-
-There is nothing cookie cutter in what we do. Each time we open a store it is a new design. We spend time in the neighborhoods; we want residents and visitors to be our partners. We think of our company as a community. Every pint of ice cream represents the work of hundreds of people in our network, which makes it special and worth the extra effort in every form.
-
-Also, it’s really easy to make an all-organic, NON-GMO, all-natural product that is just as processed as any other out there. I understand the overall benefit of it, but I would rather treat people well and make great ice cream and have that be our thing over labels. You have to trust us. We are not perfect, but we also don’t pretend to be. All we care about is: making really, truly beautiful ice creams, in a way that brings people together. And that’s it. We work each day to do that better. We like to talk about it and show you what we do as long as you will listen!
-
 ###### You mention some of your other values include employing a diverse team and working with women and minority-owned businesses? What is the most rewarding benefit from making these conscious decisions about who you work with?
 
 We like people who are themselves. People who think differently. We hire for what we call “talent, hustle, and guts,” and that changes the way we look at who we bring onto our team. People who, at their core, are kind and generous human beings. We also ask everyone to bring a sense of creativity to everything that they do.
@@ -68,6 +62,12 @@ We like people who are themselves. People who think differently. We hire for wha
 ### Creativity requires diverse thinking, and we genuinely crave those kinds of differences on our team.
 
 All this attracts a different kind of team—one that is soulful and vibrant.
+
+###### Many entrepreneurs want to create products that are organic, ethically made, or are eco-friendly, but they have a hard time starting out this way due to the costs. You don’t use synthetic flavorings, dyes, or off-the-shelf mixes in your ice cream — have similar challenges come up by creating your product this way? What makes it the most worth it to do this?
+
+There is nothing cookie cutter in what we do. Each time we open a store it is a new design. We spend time in the neighborhoods; we want residents and visitors to be our partners. We think of our company as a community. Every pint of ice cream represents the work of hundreds of people in our network, which makes it special and worth the extra effort in every form.
+
+Also, it’s really easy to make an all-organic, NON-GMO, all-natural product that is just as processed as any other out there. I understand the overall benefit of it, but I would rather treat people well and make great ice cream and have that be our thing over labels. You have to trust us. We are not perfect, but we also don’t pretend to be. All we care about is: making really, truly beautiful ice creams, in a way that brings people together. And that’s it. We work each day to do that better. We like to talk about it and show you what we do as long as you will listen!
 
 ###### This month at [Yellow](https://yellowco.co/), our series is focusing on Conscious Consumerism. What is one of your go-to ways to stay socially and globally conscious as a consumer?
 
