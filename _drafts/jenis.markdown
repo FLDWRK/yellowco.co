@@ -5,6 +5,7 @@ date: 2017-12-29 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
+image: "/uploads/Jeni's%20Splendid%20Ice%20Cream%20Founder%20Shares%20the%20Scoop%20on%20Her%20B%20Corp%20Business%20-%20Yellow%20Co.jpg"
 series: Conscious
 ---
 
