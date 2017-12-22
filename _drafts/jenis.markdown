@@ -1,6 +1,10 @@
 ---
 title: The Scoop
 date: 2017-12-29 04:00:00 -08:00
+categories:
+- Entrepreneurs
+author: Hanna Snyder
+series: Conscious
 ---
 
 ###### How did your love for ice cream making begin?
@@ -23,7 +27,7 @@ So, I knew in that moment, that we could use ice cream to explore flavor, which 
 
 I got my start selling ice creams in Columbus’ North Market, a century-old market with produce, meat, and specialty food vendors, which meant that we created a seasonal rhythm inspired by the gardens and farms of Ohio, as well as the emotion and energy of the season. I learned what I know about service from the other merchants who always took everything personally — the quality of their products, their displays, their suppliers. They built businesses based on over-the-counter relationships with growers, suppliers, producers, and customers.
 
-### When one person does well, we all do well. When one struggles, we all do. These lessons became who we are at Jeni’s to this day.
+### When one person does well, we all do well. When one struggles, we all do. These lessons became who we are at [Jeni’s](https://jenis.com/) to this day.
 
 We still work with many of the same farms and growers we have worked with for years, many who we met through the market. We operate by season, and think about our community, including our beloved customers, first in everything we do.
 
@@ -31,7 +35,7 @@ We still work with many of the same farms and growers we have worked with for ye
 
 Our Lemon Buttermilk Frozen Yogurt is unexpected because it completely changes everyone’s perception of what frozen yogurt can be. It’s delicate and nuanced and perfect. It’s the one all the chefs love. I have been making this flavor since the beginning, but it’s never been better. About two years ago we added buttermilk and that reacts with the small amount of cream in the recipe to thicken the whole thing and make it really creamy.
 
-###### Jeni’s is one of the incredible [Certified B Corporations](https://www.bcorporation.net/) that are held to high standards of social and environmental performance and transparency. Why was operating according to these values important for you to prioritize as a company?
+###### [Jeni’s](https://jenis.com/) is one of the incredible [Certified B Corporations](https://www.bcorporation.net/) that are held to high standards of social and environmental performance and transparency. Why was operating according to these values important for you to prioritize as a company?
 
 It takes a whole community of people to build ice cream from the ground up, like we do. Making ice cream this way is certainly the harder way to do it, but we’re setting the new standard for 21st century ice cream. And that means we get to champion every grower, producer, and supplier who helps us bring that vision to life.
 
@@ -55,12 +59,16 @@ There is nothing cookie cutter in what we do. Each time we open a store it is a 
 
 Also, it’s really easy to make an all-organic, NON-GMO, all-natural product that is just as processed as any other out there. I understand the overall benefit of it, but I would rather treat people well and make great ice cream and have that be our thing over labels. You have to trust us. We are not perfect, but we also don’t pretend to be. All we care about is: making really, truly beautiful ice creams, in a way that brings people together. And that’s it. We work each day to do that better. We like to talk about it and show you what we do as long as you will listen!
 
+##### This month at [Yellow](https://yellowco.co/), our series is focusing on Conscious Consumerism. What is one of your go-to ways to stay socially and globally conscious as a consumer?
+
+As American women, our money, and the money we control, is real and has lasting power. If we use our dollars to support women-owned and -led businesses and companies that help women rise (be they in high-ranking positions or on the board), then we control everything.
+
+### This is not about boycotting anybody — it’s about supporting businesses whose missions support the sort of world in which we want to live.
+
+We have power. We just have to use it.
+
 ###### What is something your customers might not know about Jeni’s?
 
 We know we make ice cream look easy, but it’s far from it! The only reason we care so much about it is because it gives people an inspiring moment together. And that’s all we care about — being better for our community. We’re excited about what we know today about ice cream, but even more excited about what we are working on for tomorrow.
 
-###### This month at Yellow, our series is focusing on Conscious Consumerism. What is one of your go-to ways to stay socially and globally conscious as a consumer?
-
-As American women, our money, and the money we control, is real and has lasting power. If we use our dollars to support women-owned and -led businesses and companies that help women rise (be they in high-ranking positions or on the board), then we control everything. This is not about boycotting anybody — it’s about supporting businesses whose missions support the sort of world in which we want to live. We have power. We just have to use it.
-
-*Photos by:*
+*Photos courtesy of [Jeni’s Splendid Ice Creams](https://jenis.com/)*
