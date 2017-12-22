@@ -21,6 +21,8 @@ The flavor unfurled slowly as it melted and warmed on my tongue. I was hooked. I
 
 Ice cream is about scent, but there’s more to it. There’s temperature, which wakes up your senses; touch, which makes your tongue feel soft and luscious; sight, it’s colorful and somewhere between liquid and solid; and how it tastes on your tongue: a combo of sweet, sour, bitter, umami. But mostly, it’s about scent, which most people would never think of.
 
+![PistachioHoney-30.jpg](/uploads/PistachioHoney-30.jpg)
+
 All of this flooded my brain because I had engrossed myself in a number of areas, from pastry making to art and storytelling and perfumery. Because I had hundreds of scents in my drawer, I knew scent better than most people. For instance, when I say “floral” you probably think “grandma's underwear”. But I think of a dozen or so foundationally different scents that are derived from flowers. To me, there is no such thing as one “floral” note. Rose, ylang ylang, vanilla, lily of the valley, and lavender are all so completely unique from one another as to have nothing in common at all. And so many of them are absolutely wonderful in ice cream.
 
 So, I knew in that moment, that we could use ice cream to explore flavor, which is scent \+ taste. And that I’d spend the rest of my life doing it. And I set sail that very second and have never looked back. That was 22 years ago.
@@ -30,6 +32,8 @@ So, I knew in that moment, that we could use ice cream to explore flavor, which 
 I got my start selling ice creams in Columbus’ North Market, a century-old market with produce, meat, and specialty food vendors, which meant that we created a seasonal rhythm inspired by the gardens and farms of Ohio, as well as the emotion and energy of the season. I learned what I know about service from the other merchants who always took everything personally — the quality of their products, their displays, their suppliers. They built businesses based on over-the-counter relationships with growers, suppliers, producers, and customers.
 
 ### When one person does well, we all do well. When one struggles, we all do. These lessons became who we are at [Jeni’s](https://jenis.com/) to this day.
+
+![DCShop-GrandOpening-60.jpg](/uploads/DCShop-GrandOpening-60.jpg)
 
 We still work with many of the same farms and growers we have worked with for years, many who we met through the market. We operate by season, and think about our community, including our beloved customers, first in everything we do.
 
@@ -41,6 +45,12 @@ Our Lemon Buttermilk Frozen Yogurt is unexpected because it completely changes e
 
 It takes a whole community of people to build ice cream from the ground up, like we do. Making ice cream this way is certainly the harder way to do it, but we’re setting the new standard for 21st century ice cream. And that means we get to champion every grower, producer, and supplier who helps us bring that vision to life.
 
+###### Who are your role models (in business and life)?
+
+Joe Biden.
+LeBron James.
+Barack Obama.
+
 ###### You mention some of your other values include employing a diverse team and working with women and minority-owned businesses? What is the most rewarding benefit from making these conscious decisions about who you work with?
 
 We like people who are themselves. People who think differently. We hire for what we call “talent, hustle, and guts,” and that changes the way we look at who we bring onto our team. People who, at their core, are kind and generous human beings. We also ask everyone to bring a sense of creativity to everything that they do.
@@ -49,19 +59,13 @@ We like people who are themselves. People who think differently. We hire for wha
 
 All this attracts a different kind of team—one that is soulful and vibrant.
 
-###### Who are your role models (in business and life)?
-
-Joe Biden.
-LeBron James.
-Barack Obama.
-
 ###### Many entrepreneurs and brands want to create products that are organic, ethically made, or are eco-friendly, but they have a hard time starting out this way due to the costs. You don’t use synthetic flavorings, dyes, or off-the-shelf mixes in your ice cream — have similar challenges come up by creating your product this way? What makes it the most worth it to do this?
 
 There is nothing cookie cutter in what we do. Each time we open a store it is a new design. We spend time in the neighborhoods; we want residents and visitors to be our partners. We think of our company as a community. Every pint of ice cream represents the work of hundreds of people in our network, which makes it special and worth the extra effort in every form.
 
 Also, it’s really easy to make an all-organic, NON-GMO, all-natural product that is just as processed as any other out there. I understand the overall benefit of it, but I would rather treat people well and make great ice cream and have that be our thing over labels. You have to trust us. We are not perfect, but we also don’t pretend to be. All we care about is: making really, truly beautiful ice creams, in a way that brings people together. And that’s it. We work each day to do that better. We like to talk about it and show you what we do as long as you will listen!
 
-##### This month at [Yellow](https://yellowco.co/), our series is focusing on Conscious Consumerism. What is one of your go-to ways to stay socially and globally conscious as a consumer?
+###### This month at [Yellow](https://yellowco.co/), our series is focusing on Conscious Consumerism. What is one of your go-to ways to stay socially and globally conscious as a consumer?
 
 As American women, our money, and the money we control, is real and has lasting power. If we use our dollars to support women-owned and -led businesses and companies that help women rise (be they in high-ranking positions or on the board), then we control everything.
 
