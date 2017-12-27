@@ -23,7 +23,7 @@ This month, we had Lisa Casteller, the founder of [Teen Leadership Foundation](h
 
 [![Bloom Gathering: TLF](https://yellow-blog-images.imgix.net/2015/07/361.jpg)](https://yellow-blog-images.imgix.net/2015/07/361.jpg)Lisa, was a high ranking business woman in the apparel industry by 23 years of age. After meeting and mentoring a young lady in the foster care system, she couldn't run from the call of action imposing on her heart. So, she began TLF.
 
-TLF supports emancipated foster youth (meaning, they're too old for foster care) through mentorship, housing, and providing various resources, to help develop life skills. Now, these kids are _smart._ I (Sally) speak from personal experience from not only volunteering with TLF, but also having our very own teenage foster youth in our home (and, essentially being an undocumented foster kid myself)--kids in and out of the system are streets smart. They know the ins and outs of things you wouldn't believe. They're problem solvers, and have skills that are extraordinary considering their background-they've learned to adapt and survive according to their circumstances. What they are lacking are life skills: budgeting, cooking, dish-washing, driving...etc. Things many of us just are assumed to know, actually are pretty difficult to learn when you're in a group home.
+TLF supports emancipated foster youth (meaning, they're too old for foster care) through mentorship, housing, and providing various resources, to help develop life skills. Now, these kids are *smart.* I (Sally) speak from personal experience from not only volunteering with TLF, but also having our very own teenage foster youth in our home (and, essentially being an undocumented foster kid myself)--kids in and out of the system are streets smart. They know the ins and outs of things you wouldn't believe. They're problem solvers, and have skills that are extraordinary considering their background-they've learned to adapt and survive according to their circumstances. What they are lacking are life skills: budgeting, cooking, dish-washing, driving...etc. Things many of us just are assumed to know, actually are pretty difficult to learn when you're in a group home.
 
 ![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/Foster_Facts.jpg)
 
@@ -43,7 +43,7 @@ I couldn't help but feel overwhelmed with pride that this is the direction Yello
 
 [![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/11-1.jpg)](https://yellow-blog-images.imgix.net/2015/07/11-1.jpg)
 
-[![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/46-1.jpg)](https://yellow-blog-images.imgix.net/2015/07/46-1.jpg)From cookies (like the amazing ones we had at this month's gathering, by [GIVE](http://www.thecookiethatgives.com/)-raise your hand if you had _at least_ four...enter emoji here...) to whole shops dedicated, like our OC fave [Share and Do Good](http://www.shareanddogood.com/) (our host for this gathering), creative women _are _changing the world, and dominating at it.
+[![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/46-1.jpg)](https://yellow-blog-images.imgix.net/2015/07/46-1.jpg)From cookies (like the amazing ones we had at this month's gathering, by [GIVE](http://www.thecookiethatgives.com/)-raise your hand if you had *at least* four...enter emoji here...) to whole shops dedicated, like our OC fave [Share and Do Good](http://www.shareanddogood.com/) (our host for this gathering), creative women _are _changing the world, and dominating at it.
 
 [![july bloom gathering](https://yellow-blog-images.imgix.net/2015/07/6.jpg)](https://yellow-blog-images.imgix.net/2015/07/6.jpg)
 
@@ -56,5 +56,3 @@ _Our next month's gathering will be [the Yellow Conference](http://yellowconfere
 **_A portion of ticket sales from this month's Bloom Gathering were given to Teen Leadership Foundation to sponsor the residents at the Launch Pad for a fun night out to facilitate community and develop a sense of family. _**
 
 Want information on TLF and how you can help? Check it out [here.](http://teenleadershipfoundation.com/donate/)
-
-[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

@@ -59,8 +59,6 @@ The organizations that fall in line with our values and things we are passionate
 
 ###### What are your dreams? What do you dream for Tribe of Dreamers?
 
-That is a difficult question.  We have so many dreams!! One of our overall dreams for TOD is that someone would feel encouraged when wearing our jewelry and perhaps have the courage to start something new that changes the world for the better. 
+That is a difficult question.  We have so many dreams!! One of our overall dreams for TOD is that someone would feel encouraged when wearing our jewelry and perhaps have the courage to start something new that changes the world for the better.
 
 _photos by [Tony Salvagio](https://instagram.com/mycitystreets/)_
-
-[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

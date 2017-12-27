@@ -5,7 +5,7 @@ categories:
 - Inspiration
 - Encouragement
 - Pioneer
-author: Yellow
+author: Yellow Co.
 redirect_from: "/inspiration/7561/"
 ---
 

@@ -23,7 +23,7 @@ I’m already recruiting for next year… if you’re interested _holly at me!_ 
 
 I am sitting in the apartment that my friend Karen and I rented for the conference with four other girls who we met through [the yellow conference sphere of influence.](https://instagram.com/explore/tags/bloomyellow/) These girls are such a joy to be around and are kindred souls to the absolute _T_, I love them and I’m already obsessed with them and **I don’t say that lightly.**
 
-It is only the end of day one and I’m already overflowing [_hence the blog, so here we go]._
+It is only the end of day one and I’m already overflowing [_hence the blog, so here we go].\_
 
 #### **This conference, **I can’t even begin to put into words.
 
@@ -47,7 +47,7 @@ Sometimes we hear _you can’t_ and other times we say it to ourselves, either w
 
 Artists/creatives/everyone in that field can be kind of nasty, unapproachable and prideful sometimes...(_gross)._ We are so wired in thinking that we have to compete, we have to fight, step on everyone and make them your ladder for success. FALSE! **So much false there’s not enough caps lock for it.** When we refuse to compete with one another and instead turn that competition into community —HOLY WOAH what magic we can create/**BE**.
 
-If you look at any story,  you will see that it _never_ consists of just one person. Slowly characters start appearing...family, friends, teachers, mentors, strangers...they become a part of the narrative of the hero in the most amazing way.
+If you look at any story,  you will see that it *never* consists of just one person. Slowly characters start appearing...family, friends, teachers, mentors, strangers...they become a part of the narrative of the hero in the most amazing way.
 
 **WE ARE NOT MEANT TO DO THIS ALONE.**
 
@@ -55,9 +55,9 @@ If you look at any story,  you will see that it _never_ consists of just one p
 
 [![ariellepost3](https://yellow-blog-images.imgix.net/2015/08/ariellepost3.jpg)](https://yellow-blog-images.imgix.net/2015/08/ariellepost3.jpg)
 
-“This” as in _anything._ We are wired, created, formed to be in relationship with one another. That goes so much deeper than the relationships we think are started by, _“hey let’s have coffee”_ or _“hey I like you, let’s get married right now.”_ It is about the moments where the only response we have is, _woah_ _you have a similar thread and heartbeat to my own, let’s do something with it!_ Let’s create, _let’s do something together to make this world a better place._
+“This” as in _anything._ We are wired, created, formed to be in relationship with one another. That goes so much deeper than the relationships we think are started by, _“hey let’s have coffee”_ or _“hey I like you, let’s get married right now.”_ It is about the moments where the only response we have is, *woah* _you have a similar thread and heartbeat to my own, let’s do something with it!_ Let’s create, _let’s do something together to make this world a better place._
 
-What if we saw one another like resources, assets and not in this _what are you going to do for me _kind of way but **what are we going to do for each other and how does that transcend into the bigger picture of BOTH of our passions?**
+What if we saw one another like resources, assets and not in this \_what are you going to do for me _kind of way but **what are we going to do for each other and how does that transcend into the bigger picture of BOTH of our passions?**
 
 ##### **THREE.** Fight for yourself.
 
@@ -84,5 +84,3 @@ We are full of tacos and frozen yogurt but our stomachs hurt not from food but f
 Ah.
 
 **&& all this from only one day.**
-
-[![ARIELLE ESTORIA FOR YELLOW](https://yellow-blog-images.imgix.net/2015/08/ARIELLEESTORIA.jpg)](http://chroniclesofalioness.com/)

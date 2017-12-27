@@ -43,7 +43,8 @@ Our hope is that people can see these children for what they are. They may have 
 
 > I don’t want to spend my life holding my heart intact - I want to spread it all over, let it break into a million pieces, and send a part of it with every child and family we encounter. These kids, these families, they deserve that.
 
-#### Our story...  
+#### Our story...
+
 [![yellow conference foster care post](https://yellow-blog-images.imgix.net/2015/08/foster-care-post-8.jpg)](https://yellow-blog-images.imgix.net/2015/08/foster-care-post-8.jpg)
 
 I may not be able to share their names or faces, and their story is theirs alone to tell, but I am working to find a way to share our story as foster parents. **Storytelling changes hearts, and it ultimately changes the world.**
@@ -63,5 +64,3 @@ I may not be able to share their names or faces, and their story is theirs alone
 [![designated strangers Yellow conference  blog](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-11-at-4.05.20-PM.jpg)](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-11-at-4.05.20-PM.jpg)
 
 _All photos from this post are [@designatedstrangers](https://instagram.com/designatedstrangers/)_
-
-[![ashleytingley for yellow conference blog](https://yellow-blog-images.imgix.net/2015/08/ashleytingley.jpg)](http://www.ashleytingleyphotography.com/about/)

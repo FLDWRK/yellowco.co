@@ -6,7 +6,7 @@ categories:
 - Team Members
 - The Solopreneur
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/how-to-bounce-back-after-the-holiday-slump/"
 ---
 

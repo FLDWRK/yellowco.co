@@ -7,7 +7,7 @@ categories:
 - The Activist
 - The Starter
 - The Leader
-author: Yellow
+author: Kayla Fruchtman
 redirect_from: "/creative-ladies/theherinitiative/"
 ---
 
@@ -23,7 +23,8 @@ I recently had an incredible opportunity to take four amazing women on a trip to
 
 See, I had been feeling so completely unworthy. Unworthy of The Her Initiative; unworthy of this trip; unworthy of all the amazing things that have been happening through all of this. And then it hit me: _I’m not deserving._ I’m not deserving of any of this. **But it’s my responsibility** for us to bring worth and dignity to the women and children that we will be working with on this trip!
 
-###### [![Yellow Conference Blog: Spread Good and Bloom](https://yellow-blog-images.imgix.net/2015/09/herinitiative.jpg)](https://yellow-blog-images.imgix.net/2015/09/herinitiative.jpg)  
+###### [![Yellow Conference Blog: Spread Good and Bloom](https://yellow-blog-images.imgix.net/2015/09/herinitiative.jpg)](https://yellow-blog-images.imgix.net/2015/09/herinitiative.jpg)
+
 So that is what we set out to do...And you know what’s funny? The paradox of the whole thing is that when you offer worth and dignity to others, you in return give worth and dignity to yourself.
 
 I spent three days in the Dominican Republic with these four women visiting some of the poorest communities we’ve ever seen, playing with kiddos, meeting with amazing women leaders, and seeing how clean water can truly change someone’s life in every way possible! The curriculum that the women go through is called _“Clothed In Strength and Dignity”_ and we truly saw that lived out. Young girls who have never been taught their worth, who often get married and/or pregnant by the time they are 13, are now walking examples of strength and dignity. Through The Her Initiative and the _“Clothed In Strength and Dignity”_ curriculum, they have been taught about their worth. They are making safe and healthy choices, and they are seeing a future of hope. It’s an incredible thing to witness.

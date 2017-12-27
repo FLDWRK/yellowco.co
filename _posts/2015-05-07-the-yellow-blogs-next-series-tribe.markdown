@@ -90,8 +90,8 @@ _Where you lead I will follow\
 **Where you lead_
 
 > We need someone to tell us sometimes,\
-> _You’re not a horrible mother, or daughter or sister or student\
-> _It’s okay if you’re a frazzled hot mess right now
+> \_You’re not a horrible mother, or daughter or sister or student\
+> \_It’s okay if you’re a frazzled hot mess right now
 
 We are the hospital hands when uncertainty knocks\
 And casseroles on door steps\
@@ -123,5 +123,3 @@ You’ll always have a home here,\
 Please know that….you’ll always have a home here
 
 _Photo by [Whitney Schey](http://whitneydarling.com/)_
-
-[![Arielle Estoria for Yellow](https://yellow-blog-images.imgix.net/2015/02/aestoria.jpg)](http://chroniclesofalioness.com/)

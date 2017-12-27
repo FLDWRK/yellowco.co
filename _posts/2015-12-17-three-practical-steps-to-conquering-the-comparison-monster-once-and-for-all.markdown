@@ -41,5 +41,3 @@ _**“I’d rather be honest and authentic and disappoint some people, than to e
 Let’s challenge ourselves to ‘keep it real’ and connect in a new authentic way. In that, there is great reward.
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/)_
-
-[![KenneshaBucks](https://yellow-blog-images.imgix.net/2015/12/KenneshaBucks.jpg)](http://www.restorationhouseinteriors.com/)

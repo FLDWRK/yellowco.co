@@ -14,7 +14,7 @@ redirect_from: "/light-talk/creativeadvocacyselfcare/"
 
 [![Yellow Conference Blog: Self Care is not Selfish](https://yellow-blog-images.imgix.net/2015/09/Untitled-1.jpg)](https://yellow-blog-images.imgix.net/2015/09/Untitled-1.jpg)
 
-A few days ago, I sat in Los Angeles traffic behind a Subaru with a license plate frame that read, _“If I knew the way, I would take you home.” _Having just been at work at a service provider for homeless women in LA’s Skid Row, I had that line from The Grateful Dead’s song stuck in my head for the rest of my drive.
+A few days ago, I sat in Los Angeles traffic behind a Subaru with a license plate frame that read, \_“If I knew the way, I would take you home.” _Having just been at work at a service provider for homeless women in LA’s Skid Row, I had that line from The Grateful Dead’s song stuck in my head for the rest of my drive.
 
 The nonprofit I work for in downtown LA is on a mission to end homelessness—a pretty tall order that calls for huge amounts of effort and heart. What’s more, so many of the women I get to see every day have experienced unimaginable trauma. On occasion, when I hear their stories, all I want to tell them is that, if I could, I would rescue them.
 
@@ -26,7 +26,7 @@ As activists, we spend a lot of time fighting for others. We are hyperaware that
 
 ##### **SO WHAT IS SELF-CARE?**
 
-I’ll tell you what self-care isn’t: It is _not_ giving up. _**It’s not throwing all your feelings into a box and shoving it under your bed, pretending your work doesn’t exist for a few hours. **_And it is _not _selfish.
+I’ll tell you what self-care isn’t: It is _not_ giving up. \_**It’s not throwing all your feelings into a box and shoving it under your bed, pretending your work doesn’t exist for a few hours. **And it is *not* selfish\*\*.
 
 I had a hard time with that idea for months after I first started working. I thought that in order to prove I was completely dedicated to this cause, I could never “turn off.” Then I learned about the very real [_compassion fatigue_](https://en.wikipedia.org/wiki/Compassion_fatigue) (also known as secondary traumatic stress, resulting from wanting to help someone who’s suffering).
 
@@ -78,14 +78,12 @@ So, guys, let’s take a lunch break. Also, I know it’s hard, but when you do 
 
 **Self-care (_n._)—The best choice you can make to stay passionate about your cause.**
 
-_* Self-care categories adapted from trauma professional Olga Phoenix’s “__[Self-Care Wheel](http://www.olgaphoenix.com/key-offerings/self-care-wheel/)"_
+_\* Self-care categories adapted from trauma professional Olga Phoenix’s “\_\_[Self-Care Wheel](http://www.olgaphoenix.com/key-offerings/self-care-wheel/)"_
 
 _Photos by [Emma Fineman](http://emma-fineman.squarespace.com/)_
 
-Actress-Model [Felicia Miracle Cipolla ](feliciamiraclecipolla.com)
+Actress-Model [Felicia Miracle Cipolla](feliciamiraclecipolla.com)
 
-<div class="gmail_default">IG: @feliciamiraclecipolla</div>
+IG: @feliciamiraclecipolla
 
-<div class="gmail_default">Twitter: @feliciamiracle</div>
-
-[![Samantha Chaffin for Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/09/Samantha-Chaffin.jpg)](https://herinklings.wordpress.com/)
+Twitter: @feliciamiracle

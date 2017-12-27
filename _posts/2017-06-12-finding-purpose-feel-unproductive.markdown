@@ -21,7 +21,7 @@ Even if you lack definite direction about what your career or meaningful contrib
 
 ### **Go to Meet-ups**
 
-So you’re looking for your thing, wandering alone through the vast desert of choices and failing to fall in love with any of them. You may also be wondering where all “your people” are. Go find them. See what they are doing. (Maybe join the [Yellow Collective!](http://yellowcollective.co/)) 
+So you’re looking for your thing, wandering alone through the vast desert of choices and failing to fall in love with any of them. You may also be wondering where all “your people” are. Go find them. See what they are doing. (Maybe join the [Yellow Collective!](/membership)) 
 
 Enter into community with people who are doing something they care about. Rather than letting it intimidate you, allow it to inspire you! This will be cooperation, not competition. Listen to their stories. Most of them were once where you are now, and someday you will find yourself where _they_ are if you stay inspired and motivated.
 

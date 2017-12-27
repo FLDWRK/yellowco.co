@@ -5,7 +5,7 @@ date: 2016-09-08 04:00:50 -07:00
 categories:
 - Advice
 - Valor
-author: Yellow
+author: Carson Tate
 redirect_from: "/advice/how-to-get-seriously-productive-unleash-your-creative-self/"
 ---
 

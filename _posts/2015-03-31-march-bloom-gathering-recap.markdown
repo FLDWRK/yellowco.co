@@ -50,5 +50,3 @@ In the end, (even with the hiccup) it was a beautiful morning, inspiring every 
 _Our April Bloom Gathering will be our Kickstarter Launch Party: [Bloom Together](http://yellowconference.com/the-countdown-begins-bloomtogether/) on April 2nd throughout the United States! For information on waiting lists for sold out Bloom Together Launch Parties, please email heygirl@yellowconference.com._
 
 _Photos by [Karen Hernandez](http://alwaysjoyfulkaren.blogspot.com/)_
-
-_[![aestoria for yellow](https://yellow-blog-images.imgix.net/2015/02/aestoria.jpg)](http://chroniclesofalioness.com/) _

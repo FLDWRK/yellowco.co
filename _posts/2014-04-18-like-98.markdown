@@ -3,7 +3,7 @@ title: I Like Being 98
 date: 2014-04-18 05:03:12 -07:00
 categories:
 - Inspiration
-author: Yellow
+author: Yellow Co.
 redirect_from: "/inspiration/like-98/"
 ---
 

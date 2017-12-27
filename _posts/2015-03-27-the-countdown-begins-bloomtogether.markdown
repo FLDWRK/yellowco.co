@@ -4,15 +4,13 @@ date: 2015-03-27 00:48:08 -07:00
 categories:
 - Light Talk
 - Inspiration
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/the-countdown-begins-bloomtogether/"
 ---
 
 ##### [![BloomTogether_Insta_white](https://yellow-blog-images.imgix.net/2015/03/BloomTogether_Insta_white.jpg)](https://yellow-blog-images.imgix.net/2015/03/BloomTogether_Insta_white.jpg)
 
 ##### **HAPPY FRIDAY!**
-
-<div>
 
 _Incase you've missed our recent announcements on the significant events happening with Yellow, here's an update. We want to make sure you're filled in. :)_
 
@@ -37,14 +35,8 @@ _3 _//  To have a good time! Life is short, attending #bloomtogether parties a
 
 Check out our existing locations and RSVP [here](http://yellowconference.com/help-us-bloomtogether/), and if you are in West Virginia, we just added a location in [Parkersburg](https://ti.to/yellowconference/bloom-together-parkersburg-wv).
 
-</div>
-
-<div>
-
 ##### THESE PARTIES WOULD NOT BE POSSIBLE WITHOUT OUR AMAZING SPONSORS:
 
-[cols]  
-[col class="1/3"]  
 _[Alchemy Works](http://www.alchemyworks.us/)_  
 _[Ben Chic Chocolate](http://www.benchic.com/)_  
 _[Hello Totes](http://hellototes.storenvy.com/)_  
@@ -59,8 +51,6 @@ _[Sevenly Causebox](https://causebox.sevenly.org/)_
 _[31 Bits](http://31bits.com/)_  
 _[Sseko Designs](http://ssekodesigns.com/)_  
 _[Chasing Linen](http://chasinglinen.com/)_  
-[/col]  
-[col class="1/3"]  
 _[the bloomerie](http://www.thebloomerie.com/)_  
 _[Jacklyn Denise Communications](http://www.jacklyndenise.com/)_  
 _[Barre3 Toronto](https://instagram.com/barre3toronto/)_  
@@ -74,8 +64,6 @@ _[Query Events](http://queryevents.com/)
 [Bumble Boutique](http://facebook.com/bumbletampa)  
 [Green Body Massage](http://www.greenbodymassage.com/)_  
 _[Commune + Co](http://communeandco.com/)_  
-[/col]  
-[col class="1/3 last"]  
 _[Sea and Asters](https://www.facebook.com/Sea.Asters)_  
 _[Honey Lake Studio](http://honeylakestudio.bigcartel.com/)_  
 _[Shear Art](http://shearart.com/)_  
@@ -86,9 +74,7 @@ _[Franny & Franky Designs](https://www.facebook.com/frannyandfranky)_
 _[Jack and Ella Paper](http://jackandellapaper.com/)_  
 _[Mystic Hair Salon](http://mystichair.com/)_  
 _[FERN Studio](http://www.fern-shop.com/)_  
-_[T](http://www.coffeebarmov.com/)[he Coffee Bar](http://www.coffeebarmov.com/)_  
-[/col]  
-[/cols]  
+_[T](http://www.coffeebarmov.com/)[he Coffee Bar](http://www.coffeebarmov.com/)_
 
 ##### AND A HUGE THANK YOU TO OUR LAUNCH PARTY ORGANIZERS!
 
@@ -104,7 +90,3 @@ _[Jacklyn Denise McCann](http://www.jacklyndenise.com/)_
 _[K](http://www.lauramacarena.com/)[elsey Lemons](http://sheinthemaking.blogspot.com/)  
 [Sarah Pytlik ](http://www.coffeebarmov.com/)_  
 [_Cait Butt _](https://instagram.com/cait_elizabeth/)
-
-[![JOIN_Us](https://yellow-blog-images.imgix.net/2015/03/JOIN_Us.jpg)](https://yellow-blog-images.imgix.net/2015/03/JOIN_Us.jpg)
-
-</div>

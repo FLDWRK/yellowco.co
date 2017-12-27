@@ -4,7 +4,7 @@ date: 2014-06-13 07:30:09 -07:00
 categories:
 - Resources
 - Inspiration
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/creative-ladies-resource-list/"
 ---
 

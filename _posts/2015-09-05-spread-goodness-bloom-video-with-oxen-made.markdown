@@ -4,7 +4,7 @@ date: 2015-09-05 10:45:56 -07:00
 categories:
 - Advice
 - Yellow 2015
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/spread-goodness-bloom-video-with-oxen-made/"
 ---
 

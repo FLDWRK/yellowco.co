@@ -40,5 +40,3 @@ These guys have put in the hours and the research and trial and errors it takes 
 > _At the end of the day, what Jeremy and I are passionate about is people knowing what they were created for..._
 
 All the while creating some of the fastest growing, well designed, coffee mugs (and now water carafes) out there. We're huge fans of the Created Co. over here, folks, and I can attest I have more than one of their fine mugs under my tree for gifts this season. If you've got some last minute gifts to grab, [take a look!](http://thecreated.co/) And use this code at checkout: _Merry Christmas _before January 1st!
-
-[![sally kim for the yellow co. blog](https://yellow-blog-images.imgix.net/2015/12/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

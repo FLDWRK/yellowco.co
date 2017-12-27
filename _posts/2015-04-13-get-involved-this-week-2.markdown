@@ -3,11 +3,9 @@ title: Get Involved This Week
 date: 2015-04-13 00:05:15 -07:00
 categories:
 - Resources
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/get-involved-this-week-2/"
 ---
-
-<div class="post-body pe-wp-default jpibfi_container">
 
 [![#Bloomtogether_April13-17](https://yellow-blog-images.imgix.net/2015/04/Bloomtogether_April13-17.jpg)](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c)
 
@@ -24,5 +22,3 @@ _**Friday:** We will be giving away a ticket to Yellow Conference to one lucky
 Be sure to mark your calendars and follow us on [Twitter](https://twitter.com/yellowconf), [Facebook](https://www.facebook.com/pages/The-Yellow-Conference/1393841977549340) and [Instagram](https://instagram.com/yellowconference/) for continued updates. Excited to hang with you this week!
 
 PS- if you haven’t yet, don’t forget to [back our Kickstarter](https://www.kickstarter.com/projects/1439745204/the-yellow-room-a-digital-hub-for-creative-world-c) and help us reach our goal! If we don’t hit our goal, we don’t get ANY of the money. 20 days to go! [kickstarter.theyellowroom.co](http://kickstarter.theyellowroom.co/)
-
-</div>

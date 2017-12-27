@@ -4,7 +4,7 @@ date: 2015-01-12 11:05:58 -08:00
 categories:
 - The Starter
 - The Leader
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-starter/january-bloom-gathering/"
 ---
 

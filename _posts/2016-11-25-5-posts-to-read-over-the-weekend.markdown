@@ -4,7 +4,7 @@ date: 2016-11-25 11:58:39 -08:00
 categories:
 - Encouragement
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/encouragement/5-posts-to-read-over-the-weekend/"
 ---
 

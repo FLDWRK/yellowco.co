@@ -4,7 +4,7 @@ date: 2014-10-30 02:45:20 -07:00
 categories:
 - Creative Ladies
 - Team Members
-author: Yellow
+author: Yellow Co.
 'redirect_from:': "/creative-ladies/adding-team/"
 ---
 

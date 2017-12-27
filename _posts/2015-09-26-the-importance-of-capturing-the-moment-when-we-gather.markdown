@@ -31,5 +31,3 @@ Whether it was with new friends or old friends, messy volunteer hair (it's a rea
 ](https://yellow-blog-images.imgix.net/2015/09/863waz0110-L.jpg)[![863waz0058-L](https://yellow-blog-images.imgix.net/2015/09/863waz0058-L1.jpg)](https://yellow-blog-images.imgix.net/2015/09/863waz0058-L1.jpg) [![863waz0028-L](https://yellow-blog-images.imgix.net/2015/09/863waz0028-L.jpg)](https://yellow-blog-images.imgix.net/2015/09/863waz0028-L.jpg) [![863txh0018-L](https://yellow-blog-images.imgix.net/2015/09/863txh0018-L.jpg)](https://yellow-blog-images.imgix.net/2015/09/863txh0018-L.jpg)
 
 Have you checked out the Yellow Conference 2015 on Smilebooth? Look for your pictures [here!](https://smilebooth.smugmug.com/gallery/51643998_XzzfDJ/)
-
-[![Sally Kim Content manager for the Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

@@ -31,7 +31,7 @@ _This moment is perfect._
 
 ##### **It is Saturday afternoon. **
 
-I am sitting in my friends studio while she photographs and it only seems natural that I am back in the heart of downtown LA. Home feels very strange right now, or perhaps it is more like _I_ feel quite strange right now.
+I am sitting in my friends studio while she photographs and it only seems natural that I am back in the heart of downtown LA. Home feels very strange right now, or perhaps it is more like *I* feel quite strange right now.
 
 **It’s almost like the day after you return home from summer camp and everything around you feels the same but you yourself are not the person you were just a few days before.** You are inspired, you are filled, homesick not for places but for people who made time for a moment seem infinite. Your mind is in two, three, four different places at one time and your body is having the hardest time being still.
 
@@ -57,7 +57,7 @@ Between the story of Jocelyn and another speaker [Ruthie Lindsey (interior desig
 
 **And when, not _if_ but when, that day comes stand there and take it like a champ.**
 
-Now sometimes a “champ” can also be laying in bed for days or crying over a carton of Ben & Jerry's but the part that makes a champion is the getting back up. It’s the ability to stand there and take the blow and let it hurt (and _do not think that the hurt means weakness)._ Then you_ s_wallow the challenge (like I used to do with peas whenever my parents would give us mixed vegetables) and _get back up._
+Now sometimes a “champ” can also be laying in bed for days or crying over a carton of Ben & Jerry's but the part that makes a champion is the getting back up. It’s the ability to stand there and take the blow and let it hurt (and *do not think that the hurt means weakness).* Then you* s_wallow the challenge (like I used to do with peas whenever my parents would give us mixed vegetables) and \_get back up.*
 
 _Know that you are capable of getting back up, not how fast, not how well, but simply that you do it._
 
@@ -92,5 +92,3 @@ That was a lot && it was all so good.
 Don’t be surprised if these next couple of months I refer to this sweet little community _a lot._
 
 Sorry not sorry.
-
-[![ARIELLE ESTORIA FOR YELLOW](https://yellow-blog-images.imgix.net/2015/08/ARIELLEESTORIA.jpg)](http://chroniclesofalioness.com/2015/08/31/and-scene-final-reflection-of-my-yellow-conference-experience/)

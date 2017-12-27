@@ -52,5 +52,3 @@ Expressing empathy means having an appreciation for others’ feelings. Ask your
 When we can get to that point — the sweet spot where we shift our focus and express empathy — that is when our audience becomes advocates. This is where a follower becomes an extension of our brand voice, and THIS is the power of investing in your audience.
 
 _Photos by [Karen Hernandez](http://www.karenmariehernandez.com/)_
-
-[![jessica howell for yellow co. ](https://yellow-blog-images.imgix.net/2015/10/jessicahowell1.jpg)](http://www.socialstudioshop.com/)

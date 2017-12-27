@@ -6,7 +6,7 @@ categories:
 - "#bloomyellow"
 - The Leader
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/six-tips-for-staying-well-while-living-the-lady-boss-life/"
 ---
 

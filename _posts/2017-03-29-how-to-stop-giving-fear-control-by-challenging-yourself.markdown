@@ -3,11 +3,11 @@ title: How to Stop Giving Fear Control By Challenging Yourself
 date: 2017-03-29 04:00:11 -07:00
 categories:
 - Pioneer
-author: Yellow
+author: Yellow Co.
 redirect_from: "/pioneer/how-to-stop-giving-fear-control-by-challenging-yourself/"
 ---
 
-Every quarter, we assign our members in [The Yellow Collective](http://yellowcollective.com) a community challenge. It helps to get members involved, set goals as a group, and have a bit of fun together in a way that is growth-oriented.
+Every quarter, we assign our members in [The Yellow Collective](/membership) a community challenge. It helps to get members involved, set goals as a group, and have a bit of fun together in a way that is growth-oriented.
 
 This quarter, to go with our theme of ‘Pioneer’, we challenged our members to try something they’ve never done before. There were 2 rules. 1\. It had to be something that scared them, and 2\. they had to share about it publicly to hold them accountable. It could be anything large or small — from trying to learn a new language to finally launching the business they’ve always wanted to start.
 

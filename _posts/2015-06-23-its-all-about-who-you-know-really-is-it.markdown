@@ -6,7 +6,7 @@ categories:
 - The Solopreneur
 - The Leader
 - Tribe
-author: Yellow
+author: Joanna Waterfall
 redirect_from: "/advice/its-all-about-who-you-know-really-is-it/"
 ---
 
@@ -141,5 +141,3 @@ Now go out there and make some power-house lady friends and together lets make t
 place!!
 
 [_Photo by Larrison Photography_](http://larrisonphotography.com/)
-
-[![Author_Template_Joanna](https://yellow-blog-images.imgix.net/2015/01/Author_Template_Joanna.jpg)](http://instagram.com/joannawaterfall)

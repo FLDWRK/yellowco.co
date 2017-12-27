@@ -15,19 +15,19 @@ author: Alyce Youngblood
 redirect_from: "/light-talk/creativeadvocacyintherealworld/"
 ---
 
-[caption id="attachment_3490" align="aligncenter" width="700"][![Screen shot 2015-08-02 at 4.31.49 PM](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.31.49-PM.jpg)](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.31.49-PM.jpg) Photo via @weld[/caption]
+[caption id="attachment_3490" align="aligncenter" width="700"]![Screen shot 2015-08-02 at 4.31.49 PM](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.31.49-PM.jpg)](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.31.49-PM.jpg) Photo via @weld[/caption]
 
 Like me, you’re probably exhausted by the sweeping and often negative stereotypes about millennials — but here’s a good one: **Millennials crave jobs that are meaningful.** Studies indicate they’re [more likely to take a pay cut](http://blogs.wsj.com/economics/2014/05/28/study-millennials-poised-to-shake-up-corporate-america/) if they can do something they love. They [shy away from corporate work](http://money.cnn.com/2015/05/12/pf/millennials-work/) to find interesting, challenging positions in positive social atmospheres. Sixty-three percent of them want their employers to [contribute to social or ethical causes](http://blogs.wsj.com/economics/2014/05/28/study-millennials-poised-to-shake-up-corporate-america/). And it’s an effective approach: [experts say](http://www.brookings.edu/~/media/research/files/papers/2014/05/millennials-wall-st/brookings_winogradfinal.pdf) this altruistic work ethic could reshape our economy, if not change the world.
 
 Making a living and making a difference are not mutually exclusive. But to embrace both does require a certain level of discipline, sacrifice and commitment to a cause, not just a career. There are tedious sides to every role — even the ones that sometimes provide opportunities for international travel, great connections and rewarding experiences.
 
-[caption id="attachment_3488" align="aligncenter" width="700"][![Screen shot 2015-08-02 at 4.30.13 PM](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.30.13-PM.jpg)](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.30.13-PM.jpg) Photo by Esther Havens[/caption]
+[caption id="attachment_3488" align="aligncenter" width="700"]![Screen shot 2015-08-02 at 4.30.13 PM](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.30.13-PM.jpg)](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.30.13-PM.jpg) Photo by Esther Havens[/caption]
 
 I spend most of my weekdays at [WELD](http://www.weld.co/), a Nashville co-working community “creating together for the common good.” The tables there are occupied by many photographers, designers, entrepreneurs, event planners, consultants, marketers and more who are intentional about where and why they apply their skills. They are a wildly talented and generous bunch, and I wanted to learn more from some of them about the practical realities of their sometimes unpredictable professions. **It’s tempting to romanticize, dismiss or be intimidated by doing work one believes in — but if pursuing meaningful jobs is the new normal, then I think it’s healthy to normalize it a bit.** So I asked them: Beyond the striking Instagram photos or unique fundraising events, what does it really mean to work on projects for social causes? What are the day-in-day-out tasks that must be done, the values and habits that must be cultivated? What would you say to people who want to use their career or creative outlet for a bigger purpose? Why is it worth it?
 
 Here are some of the themes that emerged in their responses.
 
-1.  **“****Doing good” means working hard.**
+1. **“\*\***Doing good” means working hard.\*\*
 
 [Katie Lentile](http://www.katielentile.com/) is a business and humanitarian development strategist, as well as manager of WELD Nashville. When people ask her how to get into her line of work, her advice is pretty direct. _“Non-profits and social enterprises are looking for people who are willing to work, and work really hard,”_ she says. “Anyone applying to these jobs is passionate and wants to help others, but the percentage that is willing to do the ‘behind-the-scenes-no praise-and-potentially-no-emotional-reward’ type of work is much smaller.”
 
@@ -49,7 +49,7 @@ Here are some of the themes that emerged in their responses.
 
 [![Screen shot 2015-08-02 at 4.53.03 PM](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.53.03-PM.png)](https://yellow-blog-images.imgix.net/2015/08/Screen-shot-2015-08-02-at-4.53.03-PM.png)
 
-1.  **You must learn to prioritize your time and passions.**
+1. **You must learn to prioritize your time and passions.**
 
 Whatever your occupation, you probably have to fight to live in balance; the WELDers I spoke with are no exception.
 
@@ -61,9 +61,9 @@ For Lentile, the goal is to carve out enough time to get her tasks done, as well
 
 Hendricks communicates carefully to see how her own organization methods can meet her clients’ needs. “I set aside intentional time and build out project management reporting and systems with the same format, but adapted to each project.” She’s also a believer in detailed, prioritized to-do lists. “If possible, I section the day into 90 minute segments to totally focus on the largest needs.”
 
-When asked how he manages his time and projects, Bellamy rattles off a list of apps — Evernote, Slack, Things, Mac Stickies — but his greatest trick is to talk to himself. _“_When I’m reflecting or coming up with new ideas, I record voice notes on my phone a ton. These notes remind me of what I’d like to focus on during times when I have my head down, working through the details,” he explains. “Always try to find time to zoom out and reevaluate your course of action, but don’t stay in the clouds too long.”
+When asked how he manages his time and projects, Bellamy rattles off a list of apps — Evernote, Slack, Things, Mac Stickies — but his greatest trick is to talk to himself. \_“\_When I’m reflecting or coming up with new ideas, I record voice notes on my phone a ton. These notes remind me of what I’d like to focus on during times when I have my head down, working through the details,” he explains. “Always try to find time to zoom out and reevaluate your course of action, but don’t stay in the clouds too long.”
 
-1.  **Worthwhile opportunities stem from relationships.**
+1. **Worthwhile opportunities stem from relationships.**
 
 I should have guessed when I chose to interview a panel of people from a co-working space, but there was one idea they all kept coming back to: community.
 
@@ -76,5 +76,3 @@ Hendricks also credits much of her experience to relationships, especially those
 Lentile affirms that relationships are not only key to finding meaningful work, but also to sustaining it. _“Counseling is always something I encourage everyone to do, and to surround yourself with a community that inspires, challenges and loves you.”_
 
 It’s sound advice, considering that connecting deeply with others is what usually moves people to steward their skills and hobbies differently in the first place. “As creation becomes more collaborative, interactive and communal, I believe that we become more aware of those who might have previously been in shadows, forgotten or even ostracized,” Bellamy concludes. “There’s naturally more light shed on injustice, and because of this, creation becomes more connected to the common good.”
-
-[![alyce youngblood](https://yellow-blog-images.imgix.net/2015/08/alyce-youngblood.jpg)](http://www.alyceyoungblood.com/)

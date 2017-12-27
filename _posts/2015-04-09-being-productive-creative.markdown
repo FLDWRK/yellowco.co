@@ -19,7 +19,7 @@ Contrary to popular belief, **creatives can be organized while still producing
 
 Although I can’t classify myself as a designer, developer or photographer – I am a project manager by day, so organization is a must for me. Calendars, to-do lists and apps have changed my life, so I’m going to share a few ways I stay organized while working in the creative industry.
 
-1.  **BLOCK YOUR TIME**
+1. **BLOCK YOUR TIME**
 
 Set an hour for emails, a time for design, or a day for meetings. Look at your week on a large scale and see what you’re always forgetting or find yourself scrambling to complete at the end of each day.
 
@@ -33,7 +33,7 @@ As an example, for my job, we set a specific day to schedule phone meetings. I
 
 Blocking time helps compartmentalize your tasks that way you can spend more time being creative.
 
-1.  **USE YOUR CALENDAR (AND SYNC IT TO YOUR PHONE)**
+1. **USE YOUR CALENDAR (AND SYNC IT TO YOUR PHONE)**
 
 For me, calendars are a must when it comes to scheduling meetings and looking at timelines. Whenever you start a new project, mark it on your calendar that way you can see how long it actually took when it’s completed. I have a calendar for work and for my personal life. If you prefer a planner, that's great too. Writing and crossing off items are my guilty pleasure.
 
@@ -43,7 +43,7 @@ The beauty of synching a Google Calendar to your iCal is that it can automatic
 
 I know most of us know this and say,  “Oh yeah I have all this set up, duh." But actually using that calendars it is a different story. Make sure your notifications are turned on, on both your desktop and phone, that way you’re reminded of what you need to accomplish that day.
 
-1.  **USE APPS AND MAKE TO-DO LISTS**
+1. **USE APPS AND MAKE TO-DO LISTS**
 
 [Evernote](https://evernote.com/) and [Reminders](https://support.apple.com/en-us/HT202335) have saved my life.
 
@@ -59,13 +59,13 @@ Evernote is an amazing app that sync’s notes across all your devices. I use di
 
 [![Being a Productive Creative--The Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/04/evernote-reminder-img.jpg)](https://yellow-blog-images.imgix.net/2015/04/evernote-reminder-img.jpg)
 
-1.  **ORGANIZE YOUR FILES AND DESKTOP**
+1. **ORGANIZE YOUR FILES AND DESKTOP**
 
 A big issue I’ve seen is that the Mac drag & drop feature has become a blessing and a curse. Of course the ease of dragging any image you see online to your desktop is SO convenient, but before you know it, your desktop is filled with screenshots galore and no method to your madness.
 
 One morning (a week or month, depending on your habits) before you do anything, don’t open anything on your computer and glare at that desktop. It’s time to tackle it. Create folder categories that majority of your images/documents fall under and start filing! You’ll feel much better when you get a chance to actually see that beautiful wallpaper and know that all your files have a home.
 
-1.  **MAKE TIME FOR YOURSELF**
+1. **MAKE TIME FOR YOURSELF**
 
 All of this might sound overwhelming and if you made it to this final task, than cheers to you! After all is said and done and to-do lists are tackled, make sure you take downtime for yourself.
 
@@ -76,5 +76,3 @@ The first steps to getting organized may not be easy, but once your there and yo
 If you have any other techniques on staying organized, please share in the comments below!
 
 _This post was originally published on Sarah's blog: [sarahheyl.com](http://www.sarahheyl.com/)_
-
-[![SARAH HEYL for yellow conference](https://yellow-blog-images.imgix.net/2015/04/SARAH-HEYL.jpg)](http://www.sarahheyl.com/)

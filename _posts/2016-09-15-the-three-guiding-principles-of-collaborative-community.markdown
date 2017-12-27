@@ -5,7 +5,7 @@ categories:
 - The Leader
 - Free Downloads
 - Valor
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-leader/the-three-guiding-principles-of-collaborative-community/"
 ---
 

@@ -45,7 +45,7 @@ A few days ago, my intern asked me a really good question about social media str
 
 In telling her “I don’t know BUT...” I wanted her to hear that I’m on her team and she’s on mine, and we can have conversations where she’s empowered to contribute rather than be lectured. It's a great reminder that I don’t and will never have all the answers. Shockingly enough, just because I’m no longer an intern doesn’t mean the learning stops.
 
-###### **2_. “Yes”_ Syndrome**
+###### **2*. “Yes”* Syndrome**
 
 When it comes to taking on more responsibility, I’ve never been good at saying no, even if it means I slowly break myself trying to do everything. Coincidentally (or not?), this is also a pattern I have noticed repeatedly in interns I’ve supervised.
 
@@ -64,7 +64,7 @@ I _am_ saying that, as a supervisor, I’m interested in what would happen **if 
 
 When I was an intern, the best supervisors I had were the ones who didn’t just provide me with the space to do things in an unconventional way, but also _expected_ me to think outside the box.
 
-So maybe your company isn’t used to letting interns take the lead. That’s fine. But when you build the room for creativity, and let interns fill it with their wonderful, weird, wild ideas... you might just decide to live there for a while, too. And fill that space right along with them. _Build the room._
+So maybe your company isn’t used to letting interns take the lead. That’s fine. But when you build the room for creativity, and let interns fill it with their wonderful, weird, wild ideas... you might just decide to live there for a while, too. And fill that space right along with them. *Build the room.*
 
 > _When I was an intern, the best supervisors I had were the ones who didn’t just provide me with the space to do things in an unconventional way, but also expected me to think outside the box._
 
@@ -77,5 +77,3 @@ It didn’t end up working. But it did lead to another idea, and another idea, a
 ](https://yellow-blog-images.imgix.net/2015/10/214-800x598.jpg)
 
 _Photos by [Haley George](http://www.haleygeorgephotography.com/category/uncategorized/)_
-
-[![Samantha Chaffin for Yellow Conference Blog](https://yellow-blog-images.imgix.net/2015/09/Samantha-Chaffin.jpg)](https://herinklings.wordpress.com/)

@@ -8,7 +8,7 @@ categories:
 - The Starter
 - The Solopreneur
 - The Leader
-author: Yellow
+author: Ashley Berry
 redirect_from: "/creative-ladies/feeling-stuck-heres-the-answer-youve-been-looking-for/"
 ---
 
@@ -18,13 +18,13 @@ As I first began to create my brand as a content developer, I was very conscious
 
 ###### Over time, however, I found that my work life had become quite compartmentalized.
 
-I had one set of content that I was creating for my private clients, another set of content that I was creating for my arts blog, _and_ an entirely separate set of content in development on wellness and personal growth that I wasn’t sure what to do with yet. I was considering setting up a third website, but just the thought of maintaining a completely separate set of social media accounts was exhausting. As I discussed these issues with Jacki Carr, a friend of mine who also happens to be an incredibly creative brand consultant and a truly inspiring life coach, one word kept coming up: _h__olistic_.
+I had one set of content that I was creating for my private clients, another set of content that I was creating for my arts blog, _and_ an entirely separate set of content in development on wellness and personal growth that I wasn’t sure what to do with yet. I was considering setting up a third website, but just the thought of maintaining a completely separate set of social media accounts was exhausting. As I discussed these issues with Jacki Carr, a friend of mine who also happens to be an incredibly creative brand consultant and a truly inspiring life coach, one word kept coming up: _h\_\_olistic_.
 
-> _Holistic (adjective): care for the whole being in all aspects, physical, psychological, and social.  _
+> _Holistic (adjective): care for the whole being in all aspects, physical, psychological, and social._
 
 Over the course of our conversation, I realized that what I really wanted was to streamline my work life so that it encompassed all of my interests and services in a seamless way, but I was concerned about how to house all of these topics under one cohesive brand identity. What Jacki helped me to realize was that my brand would emerge organically as I incorporated my varied interests into the mix and that it would be more alive, more tangible, and more uniquely engaging when I began to share a deeply authentic and whole perspective on who I am and what I bring to the table as an individual and in my work.
 
-I now have a single website that features my services as well as a blog that covers the full span of topics that interest me from nutrition to interviews with inspirational people to articles on wellbeing practices. As a result of making this shift in approach, my brand has gone from being somewhat sterile and impersonal to a much richer tapestry of who I am _and_ it is much easier to maintain than three different brands with multiple sites! While this does mean that some people may come across my brand and decide that it doesn’t suit them, it also means that I am now attracting my ideal clients and projects that I absolutely love working on, and in my book, that’s a win-win situation for everyone!  
+I now have a single website that features my services as well as a blog that covers the full span of topics that interest me from nutrition to interviews with inspirational people to articles on wellbeing practices. As a result of making this shift in approach, my brand has gone from being somewhat sterile and impersonal to a much richer tapestry of who I am _and_ it is much easier to maintain than three different brands with multiple sites! While this does mean that some people may come across my brand and decide that it doesn’t suit them, it also means that I am now attracting my ideal clients and projects that I absolutely love working on, and in my book, that’s a win-win situation for everyone!
 
 [![yellow co. blog: empowering creative women to spread good and bloom](https://yellow-blog-images.imgix.net/2015/11/Song-of-Solomon-All-Photos-0105-copy2.jpg)](https://yellow-blog-images.imgix.net/2015/11/Song-of-Solomon-All-Photos-0105-copy2.jpg)
 

@@ -10,7 +10,7 @@ redirect_from: "/bloomyellow/now-open-the-yellow-collective-membership/"
 
 Joanna Waterfall here (yes, that's my real last name)! I'm the founder of Yellow Co.- and can I take a second to be totally honest with you? Reading that headline above freaks me out. Like, sweaty palms and red face fear.
 
-There are sooo many "what if's" that come with doing something new. We officially launched [The Yellow Collective](http://yellowcollective.com/) at our conference this year, and we have learned so much through it all!
+There are sooo many "what if's" that come with doing something new. We officially launched [The Yellow Collective](/membership) at our conference this year, and we have learned so much through it all!
 
 [![yellow2016-213](https://yellow-blog-images.imgix.net/2016/12/Yellow2016-213.jpg)](https://yellow-blog-images.imgix.net/2016/12/Yellow2016-213.jpg)
 

@@ -3,7 +3,7 @@ title: Cheers to an Awesome First Event!
 date: 2014-09-12 17:37:59 -07:00
 categories:
 - Light Talk
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/cheers-awesome-first-event/"
 ---
 

@@ -6,7 +6,7 @@ categories:
 - Creative Ladies
 - Heart
 - Interviews
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/7149/"
 ---
 

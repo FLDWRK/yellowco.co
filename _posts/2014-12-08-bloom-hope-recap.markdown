@@ -3,7 +3,7 @@ title: Bloom for Hope Recap
 date: 2014-12-08 14:10:26 -08:00
 categories:
 - The Activist
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-activist/bloom-hope-recap/"
 ---
 

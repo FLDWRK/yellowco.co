@@ -105,5 +105,3 @@ This is community. And we all need it.
 _Photos by [Sandra Vucovic Pagaimo](https://www.flickr.com/photos/54132946@N08/with/8260351343/)_
 
 _This piece was first published on Bekah's blog, [Upcycled Jane](http://www.upcycledjane.com/)_
-
-[![bekahpogue](https://yellow-blog-images.imgix.net/2015/06/bekahpogue.jpg)](http://www.upcycledjane.com/)

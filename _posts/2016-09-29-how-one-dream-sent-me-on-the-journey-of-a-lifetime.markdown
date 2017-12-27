@@ -5,7 +5,7 @@ categories:
 - Inspiration
 - "#bloomyellow"
 - Valor
-author: Yellow
+author: Yellow Co.
 redirect_from: "/inspiration/7003/"
 ---
 

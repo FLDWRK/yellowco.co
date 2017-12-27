@@ -25,8 +25,8 @@ Breathing and living and crying and wondering
 Was I made all wrong?
 
 _Is there too much curve in this shape?  
-__Too much flat in her chest,  
-__Too little grace in her bones?_
+**Too much flat in her chest,  
+**Too little grace in her bones?_
 
 I have tried to live on a thin line of embracing these love handles  
 And being too much to handle in order to love
@@ -61,8 +61,8 @@ She is no ones passing through
 Tell her that, _Darling, don’t let anyone trace out the atlas of your own maps_  
 Do not let them re-write your namesake
 
-Tell her, that her creator already said _it was good  
-_very good  
+Tell her, that her creator already said \_it was good  
+\_very good  
 when he took his first glance at you
 
 _Don’t let anyone take that away from you_
@@ -70,7 +70,4 @@ _Don’t let anyone take that away from you_
 For so long we’ve been told that these bodies are not ours,  
 It’s time we told them differently.
 
-_  
-Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/)_
-
-[![aestoria](https://yellow-blog-images.imgix.net/2015/02/aestoria.jpg)](http://chroniclesofalioness.com/)
+_Photos by [Kimberly Jurgens](http://eclecticstateofmind.com/)_

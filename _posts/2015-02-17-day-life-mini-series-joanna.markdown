@@ -6,7 +6,7 @@ categories:
 - Creative Ladies
 - Team Members
 - Yellow 2015
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/day-life-mini-series-joanna/"
 ---
 

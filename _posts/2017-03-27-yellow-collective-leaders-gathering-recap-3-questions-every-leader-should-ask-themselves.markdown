@@ -13,7 +13,7 @@ The other night I had a dream filled with images of my laptop, my Chrome browser
 
 When you're in a position of leadership, it's important to remember to take care of yourself. Not just your body, but your heart. If we're not careful, we can become all consumed in our work and anxieties. Leading to burnout, overwhelm, and major stress dreams!
 
-We have a membership platform called [The Yellow Collective](http://yellowcollective.co/) (hop on our email list [here](http://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=e811fb1a74) to read more). There are various chapters for The Yellow Collective all over the country, each with wonderful, giving leaders who run those chapters. Being that these leaders are constantly serving, we always want to offer them a chance to be served. So, each quarter we host an event or a retreat specifically for our chapter leaders.
+We have a membership platform called [The Yellow Collective](/membership) (hop on our email list [here](http://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=e811fb1a74) to read more). There are various chapters for The Yellow Collective all over the country, each with wonderful, giving leaders who run those chapters. Being that these leaders are constantly serving, we always want to offer them a chance to be served. So, each quarter we host an event or a retreat specifically for our chapter leaders.
 
 [![](https://yellow-blog-images.imgix.net/2017/03/YCD0136-copy.jpg)](https://yellow-blog-images.imgix.net/2017/03/YCD0136-copy.jpg)
 

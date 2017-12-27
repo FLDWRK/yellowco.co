@@ -4,7 +4,7 @@ date: 2016-12-30 04:00:04 -08:00
 categories:
 - Encouragement
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/encouragement/going-after-your-dreams-even-if-someone-has-done-it-before/"
 ---
 

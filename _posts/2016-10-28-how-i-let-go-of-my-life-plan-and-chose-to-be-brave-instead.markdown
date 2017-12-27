@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - Advice
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/how-i-let-go-of-my-life-plan-and-chose-to-be-brave-instead/"
 ---
 

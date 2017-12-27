@@ -7,7 +7,7 @@ categories:
 - Refine
 - The Starter
 - Encouragement
-author: Yellow
+author: Jessica Whalen
 redirect_from: "/creative-ladies/three-necessary-mindsets-to-live-out-your-purpose/"
 ---
 

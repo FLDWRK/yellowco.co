@@ -6,7 +6,7 @@ categories:
 - The Starter
 - The Leader
 - Pioneer
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/ten-steps-to-starting-your-creative-business/"
 ---
 

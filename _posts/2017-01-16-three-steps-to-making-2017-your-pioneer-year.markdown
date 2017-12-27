@@ -5,7 +5,7 @@ categories:
 - Advice
 - Inspiration
 - Pioneer
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/three-steps-to-making-2017-your-pioneer-year/"
 ---
 

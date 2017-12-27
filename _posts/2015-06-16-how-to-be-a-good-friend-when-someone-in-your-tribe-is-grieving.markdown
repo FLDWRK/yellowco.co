@@ -55,5 +55,3 @@ It’s hard to watch the people you love go through a tough time. We end up feel
 When tragedy strikes, we need the support of our people, and they need ours. It's not easy, but let's come alongside each other in our suffering and help one another grieve. Let us be a place of grace and rest that will walk the path to healing alongside the people we love.
 
 _Photo by [André Freitas](https://unsplash.com/andrekerygma)_
-
-[![adriscoll bio](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

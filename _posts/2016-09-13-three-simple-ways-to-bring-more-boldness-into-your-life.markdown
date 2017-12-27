@@ -5,7 +5,7 @@ categories:
 - The Starter
 - "#bloomyellow"
 - Valor
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-starter/three-simple-ways-to-bring-more-boldness-into-your-life/"
 ---
 

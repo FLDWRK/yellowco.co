@@ -13,7 +13,7 @@ redirect_from: "/light-talk/buildingtribe/"
 
 When it comes to cultivating community, there are a myriad of ways to approach this topic. Here I suggest **10 ideas** that come from my own personal experiences for developing stronger connections between your own friends:
 
-_**“Phone a friend”** _**[****Notice how I didn’t say “text a friend.”]**
+_**“Phone a friend”** _**[\*\***Notice how I didn’t say “text a friend.”]\*\*
 
 Texting is the easiest and quickest way to communicate with others, but it’s not always the most effective for building relationships and community. I’ve been guilty of leaning on texting rather than talking on the phone, Skyping someone, or physically meeting up with a friend to build on relationships because of pure laziness. I’m now choosing to connect with others beyond my phone screen more and more, and life has become much richer with deeper friendships and conversations.
 
@@ -58,5 +58,3 @@ And last, but most importantly, if you want to cultivate community where you’r
 So, get out there, grab some friends, and go build your beautiful and amazing community!
 
 _Photos by [Whitney Darling](http://whitneydarling.com/) and [Lavinia Cernau](https://www.flickr.com/photos/88575592@N07/page2)_
-
-[![estherohbio](https://yellow-blog-images.imgix.net/2015/03/estherohbio1.jpg)](https://yellow-blog-images.imgix.net/2015/03/estherohbio1.jpg)

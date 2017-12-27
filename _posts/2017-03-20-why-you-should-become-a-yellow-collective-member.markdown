@@ -16,7 +16,7 @@ Instead of talking your ear off about how cool our members are, I thought it wou
 
 [Shaya Rees](https://www.instagram.com/shayarees/) is an administrative assistant at the [Jessie Rees Foundation](http://negu.org/) and one of the most motivated young creatives we’ve met. I mean, this girl is using her gifts to make the world truly a better place.
 
-### **“[The Yellow Collective](http://yellowcollective.co/) has been the greatest blessing in my life lately,” she said.**
+### **“[The Yellow Collective](/membership) has been the greatest blessing in my life lately,” she said.**
 
 “**_I have an incredible group of women who encourage me, push me, teach me, and share their wisdom. It’s a place where I feel safe and know that I can be vulnerable… They teach me to be myself, trust the path that I am on, and never stop pursing [my] dreams!"_**
 

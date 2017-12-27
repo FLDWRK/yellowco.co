@@ -4,7 +4,7 @@ date: 2015-04-11 04:30:34 -07:00
 categories:
 - Creative Ladies
 - The Leader
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/santa-barbara-leadership-retreat/"
 ---
 

@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - Inspiration
 - Encouragement
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/beauty-brokenness/"
 ---
 

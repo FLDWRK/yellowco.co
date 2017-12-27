@@ -28,11 +28,11 @@ To…full-time mom overnight.
 
 [![Letting Setbacks Refine Your Mission, Not Define Your Story](https://yellow-blog-images.imgix.net/2015/12/picture2.jpg)](https://yellow-blog-images.imgix.net/2015/12/picture2.jpg)
 
-Since that day, my life has taken some crazy turns—from court dates, to giving two of the three boys back into their birth moms custody, to adopting a teen, meeting my husband, and having a baby of my own…These past three years have been _full…_to say the least. Full of nights with tears and anxiety and fear. Full of hardships that I still can’t fully process. But so so full of beauty and joy and laughter. It was a season where tears reaped joy, and the beauty of the time (that’s still so ongoing) far outweighed the pain.
+Since that day, my life has taken some crazy turns—from court dates, to giving two of the three boys back into their birth moms custody, to adopting a teen, meeting my husband, and having a baby of my own…These past three years have been \_full…\_to say the least. Full of nights with tears and anxiety and fear. Full of hardships that I still can’t fully process. But so so full of beauty and joy and laughter. It was a season where tears reaped joy, and the beauty of the time (that’s still so ongoing) far outweighed the pain.
 
 It was a season that taught me, _the hardest things in life are usually the ones that are the most worth it._
 
-And it was the start of me knowing, for certain, what I was always meant to do. I just needed a little reroute to hold my face and look me square in the eye and say **“Girl, those things are _good, traveling and helping and going…_that’s good good work. But it’s not the work for you.”**
+And it was the start of me knowing, for certain, what I was always meant to do. I just needed a little reroute to hold my face and look me square in the eye and say **“Girl, those things are \_good, traveling and helping and going…\_that’s good good work. But it’s not the work for you.”**
 
 When we pause, whether willingly or kicking and screaming, we’re given the opportunity to examine our dreams, and to reevaluate where we are headed. And sometimes, go in the completely opposite direction.
 
@@ -40,7 +40,7 @@ When we pause, whether willingly or kicking and screaming, we’re given the opp
 
 [![Letting Setbacks Refine Your Mission, Not Define Your Story](https://yellow-blog-images.imgix.net/2015/12/picture3.jpg)](https://yellow-blog-images.imgix.net/2015/12/picture3.jpg)
 
-My step back was not intentional, nor welcomed. I grieved (and, hear me, grieving is a good thing to do when you’re dreams are challenged and you are eventually asked to completely let go…in fact…it is 100% necessary). I wanted to see other places, and love people that were different than the people I’d been surrounded with my whole life. But, as life would have it, that glorious interruption showed me that my major calling in life was to be a Mommy (with that capital M), and to defend the orphans that are _here._ In 2014, there were over 62 _thousand_ kids in the foster care system, two thousand of them being _in Orange County alone._ My _home._
+My step back was not intentional, nor welcomed. I grieved (and, hear me, grieving is a good thing to do when you’re dreams are challenged and you are eventually asked to completely let go…in fact…it is 100% necessary). I wanted to see other places, and love people that were different than the people I’d been surrounded with my whole life. But, as life would have it, that glorious interruption showed me that my major calling in life was to be a Mommy (with that capital M), and to defend the orphans that are _here._ In 2014, there were over 62 _thousand_ kids in the foster care system, two thousand of them being *in Orange County alone.* My _home._
 
 Once I became aware of this, how could I turn around and jump on a plane without a blink? This was my cause, and it took a good slap in the face to wake me up to it.
 
@@ -65,5 +65,3 @@ Through writing, by saying yes to the opposite opportunities than I thought woul
 Don’t be afraid of those speed bumps… Those circumstances that may be disheartening or robbing of what you are pursuing. It will all work out—just take a breath, grieve if you need to, and really take a close look at the road before you. Don’t be afraid of your road's turn. There’s no such thing as wasted time learning. You’re in process; we are all in process, and you will find your way, whether by your own epiphany or by a set of unforeseen circumstances that will push you off that diving board, and into the pool you were created for. Take heed to the shifting winds, and embrace the change, and you’ll find your purpose soon enough.
 
 _Photos by [Valerie Denise](http://valeriedenisephotos.com/)_
-
-[![Sally Kim Content manager for the Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

@@ -3,7 +3,7 @@ title: Mastering The Art of the Schedule
 date: 2014-08-15 06:00:43 -07:00
 categories:
 - Resources
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/mastering-art-schedule/"
 ---
 

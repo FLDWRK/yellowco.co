@@ -5,7 +5,7 @@ categories:
 - Advice
 - Inspiration
 - Encouragement
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/starting-new-year-thanks/"
 ---
 

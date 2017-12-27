@@ -6,7 +6,7 @@ categories:
 - The Starter
 - Free Downloads
 - Build
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/overnight-you-went-from-obsolete-to-running-a-profitable-business-now-what/"
 ---
 

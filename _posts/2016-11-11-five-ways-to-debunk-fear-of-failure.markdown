@@ -6,7 +6,7 @@ categories:
 - Inspiration
 - The Starter
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/five-ways-to-debunk-fear-of-failure/"
 ---
 

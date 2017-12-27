@@ -6,7 +6,7 @@ categories:
 - Creative Advocacy
 - The Activist
 - Yellow 2015
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/noondaycollection/"
 ---
 

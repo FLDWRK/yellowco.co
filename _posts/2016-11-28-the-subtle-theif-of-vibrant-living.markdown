@@ -5,7 +5,7 @@ categories:
 - Advice
 - The Solopreneur
 - Heart
-author: Yellow
+author: Yellow Co.
 wordpress_url: http://yellowconference.com/?p=7370
 redirect_from: "/our-story/attachment/yellow-2014-c/"
 ---

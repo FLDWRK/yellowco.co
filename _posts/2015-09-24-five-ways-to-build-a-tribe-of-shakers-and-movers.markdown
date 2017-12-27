@@ -6,7 +6,7 @@ categories:
 - Creative Advocacy
 - The Activist
 - Encouragement
-author: Yellow
+author: Makenna Nahorniak
 redirect_from: "/creative-ladies/five-ways-to-build-a-tribe-of-shakers-and-movers/"
 ---
 
@@ -30,25 +30,25 @@ In other words, a society built by those who seek to enliven and rejuvenate the 
 
 In a culture so firmly held by unrelenting fists of "_can'ts"_, it becomes necessary that each creative, trail-blazing woman steps forward to adequately prepare her tribe to build societies founded on change. When we, as innovative women, focus our goals around teaching those around us to utilize their strengths rather than disqualifying others with their inadequacies, we will begin to witness a globe filled with salt-shakers rather than bystanders. Here are some practical ways to embolden those around you and effectively build a tribe of world changers.
 
-1.  ###### **Regularly host workshops designed to help your fellow movers and shakers take hold of their strengths.**
+1. ###### **Regularly host workshops designed to help your fellow movers and shakers take hold of their strengths.**
 
-    When people set aside time to affirm one another in their abilities, a sense of belonging is firmly established. This allows each member to clearly understand their significance within your tribe.
+   When people set aside time to affirm one another in their abilities, a sense of belonging is firmly established. This allows each member to clearly understand their significance within your tribe.
 
-3.  ###### **Build from a common conviction.**
+2. ###### **Build from a common conviction.**
 
-    Change in society becomes inevitable when several strong, driven women band together and discover a common vision. Have you ever left your house for a casual coffee gathering and quickly found yourself in the midst of a conversation bubbling over with new dreams and excitement? When we allow common ground between dreamers take root, lives are undoubtedly impacted.
+   Change in society becomes inevitable when several strong, driven women band together and discover a common vision. Have you ever left your house for a casual coffee gathering and quickly found yourself in the midst of a conversation bubbling over with new dreams and excitement? When we allow common ground between dreamers take root, lives are undoubtedly impacted.
 
-5.  ###### **Do your dreams.**
+3. ###### **Do your dreams.**
 
-    I constantly find myself stuck in the phase between dreaming and doing. Staying in that dry place for too long can be dangerously crippling when it comes to achieving your desired results. So draw up a timeline, brainstorm action plans, experiment with new initiatives – just remain active. Do not allow yourself to get stuck in the mud pit that is an unchased dream.
+   I constantly find myself stuck in the phase between dreaming and doing. Staying in that dry place for too long can be dangerously crippling when it comes to achieving your desired results. So draw up a timeline, brainstorm action plans, experiment with new initiatives – just remain active. Do not allow yourself to get stuck in the mud pit that is an unchased dream.
 
-7.  ###### **Find ways to remind the members in your circle of the potential you see in them.**
+4. ###### **Find ways to remind the members in your circle of the potential you see in them.**
 
-    Notes, smiles, the gift of service, and meaningful conversations are just a few small ways you can empower others daily. Well-loved people become carriers of hope and newness for others facing various types of injustice.
+   Notes, smiles, the gift of service, and meaningful conversations are just a few small ways you can empower others daily. Well-loved people become carriers of hope and newness for others facing various types of injustice.
 
-9.  ###### **Expand your tribe by educating others about your cause.**
+5. ###### **Expand your tribe by educating others about your cause.**
 
-    Once you’ve established a tight-knit group of creative people who desire change--network! Seek new audiences who will willingly jump on board with you to advocate for those without voices. Reawaken the passion from which your idea first grew so you might evoke urgency within the hearts and minds of your listeners. If you are able to establish new roots for your cause to blossom from, justice and change will be closer than you ever imagined possible.
+   Once you’ve established a tight-knit group of creative people who desire change--network! Seek new audiences who will willingly jump on board with you to advocate for those without voices. Reawaken the passion from which your idea first grew so you might evoke urgency within the hearts and minds of your listeners. If you are able to establish new roots for your cause to blossom from, justice and change will be closer than you ever imagined possible.
 
 > When we, as innovative women, focus our goals around teaching those around us to utilize their strengths rather than disqualifying others with their inadequacies, we will begin to witness a globe filled with salt-shakers rather than bystanders.
 

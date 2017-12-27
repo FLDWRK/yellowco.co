@@ -5,7 +5,7 @@ categories:
 - Advice
 - Inspiration
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/the-secret-to-living-the-life-youve-always-wanted/"
 ---
 

@@ -6,7 +6,7 @@ categories:
 - Collective
 - Community 101
 - Sunday Series
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-2016/community-101-part-two-inviting-brilliant-people-into-your-life/"
 ---
 

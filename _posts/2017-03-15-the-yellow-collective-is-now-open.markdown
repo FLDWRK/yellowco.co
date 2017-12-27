@@ -7,7 +7,7 @@ author: Joanna Waterfall
 redirect_from: "/pioneer/the-yellow-collective-is-now-open/"
 ---
 
-Woooo!! Today is the day where you can officially become a Yellow Collective member! It's always a bit scary and stressful to pull off another launch of the Collective. We officially launched [The Yellow Collective](http://yellowcollective.com/) at our 2016 conference in August, and we are constantly working on making it better and better, learning a ton along the way.
+Woooo!! Today is the day where you can officially become a Yellow Collective member! It's always a bit scary and stressful to pull off another launch of the Collective. We officially launched [The Yellow Collective](/membership) at our 2016 conference in August, and we are constantly working on making it better and better, learning a ton along the way.
 
 [![yellow2016-213](https://yellow-blog-images.imgix.net/2016/12/Yellow2016-213.jpg)](https://yellow-blog-images.imgix.net/2016/12/Yellow2016-213.jpg)
 

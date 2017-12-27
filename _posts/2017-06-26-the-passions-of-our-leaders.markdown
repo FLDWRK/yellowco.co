@@ -7,7 +7,7 @@ author: Joanna Waterfall
 redirect_from: "/wander/the-passions-of-our-leaders/"
 ---
 
-As you may have heard, [The Yellow Collective membership](http://yellowcollective.com/) is open until Friday of this week! If you want to get in on next quarter, make sure to [hop on](http://yellowcollective.co/) before we close up!
+As you may have heard, [The Yellow Collective membership](/membership) is open until Friday of this week! If you want to get in on next quarter, make sure to [hop on](/membership) before we close up!
 
 We currently have 16 Collective chapters across the country, meeting monthly (see current chapters in the image above). The women leading these chapters have a desire to come together and make this world a better place. They each have their own causes they're passionate about while they pour into and connect with our members every month, encouraging and inspiring them to lean into what they too, care about in this world.
 
@@ -45,8 +45,8 @@ _**"I'm hungry to mobilize wildly imaginative problem solvers to influence the h
 
 I believe in the power of words, and when we can articulate what it is that's currently on our hearts and what we're fighting for, it's amazing to see what comes. I encourage you this week, to write down a short few sentences about what it is you're passionate about. Put it out there, and see what comes.
 
-If you'd like to join one of our chapters and become a Yellow Collective member, [head here](http://yellowcollective.co/).
+If you'd like to join one of our chapters and become a Yellow Collective member, [head here](/membership).
 
-### [CLICK HERE TO JOIN](http://yellowcollective.co/)
+### [CLICK HERE TO JOIN](/membership)
 
 [![JOANNA WATERFALL BIO](https://yellow-blog-images.imgix.net/2017/05/JOANNA-WATERFALL-BIO.jpg)](https://www.instagram.com/joannawaterfall/)

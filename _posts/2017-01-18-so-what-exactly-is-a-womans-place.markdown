@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - Encouragement
 - Pioneer
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/so-what-exactly-is-a-womans-place/"
 ---
 

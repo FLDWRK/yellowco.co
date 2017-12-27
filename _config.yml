@@ -26,6 +26,7 @@ defaults:
     permalink: "/blog/:year/:month/:day/:title/"
     author: 
     image: 
+    series: 
     impact-feature: 
     nav:
       id: post

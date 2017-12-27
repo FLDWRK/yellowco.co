@@ -49,5 +49,3 @@ For example, marketers aren’t exactly known for their strong character or gent
 So start by defining your ideal client, your color scheme, etc. Then, take it a step further and refine your brand down to its bones. Take the time to focus on yourself and to get a clear understanding about what you have struggled with, what your clients struggle with and how you can bring those two things together to create a brand that is different and pulls at some heartstrings. This will make you stand out like a bright light to the specific people that you are targeting.
 
 _Photos by [Jessica Santos](http://www.thejessicasantos.com/)_
-
-[![Elizabeth Fein for Yellow Co. ](https://yellow-blog-images.imgix.net/2015/08/EFeinbio.jpg)](http://www.iteratesocial.com/)

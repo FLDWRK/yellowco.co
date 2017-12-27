@@ -3,7 +3,7 @@ title: 'May #bloomgathering'
 date: 2015-05-15 04:00:03 -07:00
 categories:
 - "#bloomyellow"
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/may-bloomgathering/"
 ---
 

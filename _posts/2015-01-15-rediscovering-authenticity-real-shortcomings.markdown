@@ -29,7 +29,7 @@ It’s not difficult for us to see our weaknesses, our faults, and our failures.
 
 And when we see these things about ourselves, we usually handle them in one of two ways:
 
-1) We choose to ignore them. We make excuses and convince ourselves and others that our weaknesses and failures are not even real. If we push it under the rug, that means it’s not a problem:
+1. We choose to ignore them. We make excuses and convince ourselves and others that our weaknesses and failures are not even real. If we push it under the rug, that means it’s not a problem:
 
 “No, I’m not jealous of her. I just don’t like who she is.”
 
@@ -39,7 +39,7 @@ And when we see these things about ourselves, we usually handle them in one of t
 
 OR
 
-2) We use our shortcomings to fuel our self hatred, guilt, and shame.
+2. We use our shortcomings to fuel our self hatred, guilt, and shame.
 
 As women, we probably choose this option most often. We take our mistakes and inadequacies and use them as weapons in the war of self talk. And in the process, we steal a tremendous amount of joy from ourselves and we severely limit our potential.
 
@@ -47,7 +47,7 @@ As women, we probably choose this option most often. We take our mistakes and in
 
 _What if we were able to honestly accept our faults and failures for what they are and then use them as fuel for our greatness instead of our shame?_
 
-After all, we are humans. Yes, we know by now that we "should be" perfect. We are told often enough by magazines and commercials, Pinterest boards and movie stars, even school teachers, parents, and churches. But, most often, it is our very own thoughts that provide the constant stream of degrading insults and unrealistic expectations. The truth is, though: _we are human beings._ **We are not supposed to be perfect.** Our flaws are part of what makes us magnificent and what makes life exciting... if we let them.
+After all, we are humans. Yes, we know by now that we "should be" perfect. We are told often enough by magazines and commercials, Pinterest boards and movie stars, even school teachers, parents, and churches. But, most often, it is our very own thoughts that provide the constant stream of degrading insults and unrealistic expectations. The truth is, though: *we are human beings.* **We are not supposed to be perfect.** Our flaws are part of what makes us magnificent and what makes life exciting... if we let them.
 
 > _What if we were able to honestly accept our faults and failures for what they are and use them as fuel for our greatness instead of our shame?_
 
@@ -68,5 +68,3 @@ _But we have to start with ourselves._
 _Look closely at the way you speak to yourself when you mess up or when you find something about yourself you don't like._ Are you willing to balance honesty about your faults and failures while infusing a whole lot of grace into your inner dialogue as well? This balance will propel you toward joy and freedom within yourself and your relationships, and will continue to mold you into the magnificent human that you are.
 
 _Photos by [Whitney Darling Photography](http://whitneydarling.com/)_
-
-[![adriscoll](https://yellow-blog-images.imgix.net/2015/01/adriscoll1.jpg)](http://www.ritesofasylum.com/)

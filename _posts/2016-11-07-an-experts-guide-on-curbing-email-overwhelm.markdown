@@ -4,7 +4,7 @@ date: 2016-11-07 04:00:19 -08:00
 categories:
 - Advice
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/an-experts-guide-on-curbing-email-overwhelm/"
 ---
 

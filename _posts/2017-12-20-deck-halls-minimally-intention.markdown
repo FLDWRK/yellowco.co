@@ -5,6 +5,7 @@ categories:
 - Conscious Living
 author: Lindsay Byers-Hirth
 image: "/uploads/How%20to%20Deck%20Your%20Halls%20With%20Less%20Consumption%20&%20More%20Intention%20-%20Yellow%20Co.jpg"
+series: Conscious
 ---
 
 I’m writing this article as my husband and I are knee-deep in renovating our house. I’d be lying if I said I wasn’t trying to finish this project before the holidays so my family could have a picturesque holiday season. (Trust me - right now, the 1960’s walls and flooring we are removing are anything but picturesque.) 

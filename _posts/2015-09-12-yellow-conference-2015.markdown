@@ -70,5 +70,3 @@ We chose this theme because we recognize the need for guidelines, boundaries, an
 ###### **How did Yellow 2015 leave you inspired? We would love to hear it!! Leave us a comment below.**
 
 _Photos by [Cacá Santoro](http://cacasantoro.com/)_
-
-[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

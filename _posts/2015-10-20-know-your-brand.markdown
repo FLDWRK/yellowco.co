@@ -7,7 +7,7 @@ categories:
 - Creative Ladies
 - Advice
 - Refine
-author: Yellow
+author: Sarah Heyl
 redirect_from: "/light-talk/knowyourbrand/"
 ---
 
@@ -32,5 +32,3 @@ And guess what...we made this into a worksheet just.for.you... click [here](htt
 #### [DOWNLOAD YOUR PERSONAL BRANDING WORKSHEET!](https://yellow-blog-images.imgix.net/2015/10/blog-worksheet-1.pdf)
 
 _Photo by [Karen Hernandez](http://www.karenmariehernandez.com/)_
-
-[![Yellow Co. Blog: define your brand](https://yellow-blog-images.imgix.net/2015/07/SARAH-HEYL.jpg)](http://saltandsun.co/)

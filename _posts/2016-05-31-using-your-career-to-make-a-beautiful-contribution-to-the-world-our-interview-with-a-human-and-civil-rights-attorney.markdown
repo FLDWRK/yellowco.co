@@ -6,7 +6,7 @@ categories:
 - Advice
 - The Activist
 - Grit
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/using-your-career-to-make-a-beautiful-contribution-to-the-world-our-interview-with-a-human-and-civil-rights-attorney/"
 ---
 

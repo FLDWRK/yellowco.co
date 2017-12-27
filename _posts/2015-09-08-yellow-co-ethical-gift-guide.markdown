@@ -10,7 +10,7 @@ author: Sally Kim
 redirect_from: "/light-talk/yellow-co-ethical-gift-guide/"
 ---
 
-Have you scoured Pinterest for hours trying to find the perfect Christmas, baby shower, wedding, birthday...you name it...gift? I don't know about you, but sometimes the pressure of finding the perfect gift can completely wear me down, and, on top of that, where is my money _really _going...Here at Yellow, we are trying our hardest (read: trying...not perfect) to put our money where our mouth is and invest only in items that we know were made with ethical statures in mind.
+Have you scoured Pinterest for hours trying to find the perfect Christmas, baby shower, wedding, birthday...you name it...gift? I don't know about you, but sometimes the pressure of finding the perfect gift can completely wear me down, and, on top of that, where is my money \_really _going...Here at Yellow, we are trying our hardest (read: trying...not perfect) to put our money where our mouth is and invest only in items that we know were made with ethical statures in mind.
 
 So, I have been on the prowl, ya'll, for some cute, fun, AND ethical items, that you could feel good about buying for your friends, family, or...self!
 
@@ -22,12 +22,13 @@ The Root Collective partners with small-scale artisan businesses in rural and ur
 
 ###### [![yellow ethical gift guide](https://yellow-blog-images.imgix.net/2015/09/IMG_3420.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3420.jpg)
 
-**_(Psst...their fall line is WAY cute, and they're offering all Yellow Blog readers 20% off! Just use the code YELLOW20 at checkout!)_ **
+***(Psst...their fall line is WAY cute, and they're offering all Yellow Blog readers 20% off! Just use the code YELLOW20 at checkout!)* **
 
-###### FOR THE BASICS LOVER: EVERLANE[  
+###### FOR THE BASICS LOVER: EVERLANE[
+
 ](https://yellow-blog-images.imgix.net/2015/09/IMG_3427.jpg)[![yellow ethical gift guide](https://yellow-blog-images.imgix.net/2015/09/IMG_3430.jpg)](https://yellow-blog-images.imgix.net/2015/09/IMG_3430.jpg)
 
-As a mom...I'm _all _about the basics....ok let's be honest...I've been all about comfy basics for as long as I could remember...
+As a mom...I'm \_all _about the basics....ok let's be honest...I've been all about comfy basics for as long as I could remember...
 
 [Everlane](https://www.everlane.com/) is a San Francisco based clothing company committed to providing quality, modern, basics, at a reasonable price, that are made ethically. Their mantra is **radical transparency **to the point where you can see pictures, videos, and info-graphs of  how and where your items are being made and shipped from, and exactly how much it costs to produce. I wear my Everlane shirts _at least_ three times a week...To say I'm a huge fan would be quite the understatement. Not only do they have great basics, but they have guys clothes, shoes, leather bags...you name it! All reasonable, all ethical, and all quality--and all without the fear that an enslaved child is making my favorite shirt...FAN FAN FAN.
 
@@ -78,5 +79,3 @@ AND you may recognize [Sweet Aroma](http://www.sweetaromacoffee.org/#subscribe) 
 Christmas is just around the corner, folks, and we got the perfect gift guide here. Our hope is that this season, with our finances, we can make an impact against the things we hate (injustice), and for the things we love (great quality, ethical living, and inspirational companies). Follow along at #yellowgivewithcare for more inspirational ways to purchase consciously!
 
 _Photos by [Nikole Sparks](http://cargocollective.com/nikolesparks) _
-
-[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

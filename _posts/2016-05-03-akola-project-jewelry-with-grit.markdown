@@ -6,7 +6,7 @@ categories:
 - Creative Ladies
 - Inspiration
 - Grit
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/akola-project-jewelry-with-grit/"
 ---
 

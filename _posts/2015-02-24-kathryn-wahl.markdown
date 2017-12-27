@@ -6,7 +6,7 @@ categories:
 - Creative Ladies
 - Team Members
 - Yellow 2015
-author: Yellow
+author: Yellow Co.
 redirect_from: "/light-talk/kathrynwahl/"
 ---
 
@@ -48,9 +48,7 @@ The day you are about to view is an example of a good one with enough time for c
 
 [![Day in the Life: With Kathryn Wahl](https://yellow-blog-images.imgix.net/2015/02/Kathryn10.jpg)](https://yellow-blog-images.imgix.net/2015/02/Kathryn10.jpg)
 
-* * *
-
-* * *
+---
 
 Another successful Day in the Life of one of our Team Members. Is there anything you'd like to see on the blog about our team? What questions do you have for them? Post some in the comment section below! We'd love to answer...
 

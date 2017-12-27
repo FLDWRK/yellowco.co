@@ -3,7 +3,7 @@ title: Last Week to Purchase Early Bird
 date: 2014-05-13 04:22:32 -07:00
 categories:
 - "#bloomyellow"
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/last-week-purchase-early-bird/"
 ---
 
@@ -19,16 +19,16 @@ If that sounds like you, [sign up today](https://ti.to/yellowconference/the-yel
 
 ##### YOUR TICKET PRICE INCLUDES:
 
-+ Admittance to the 2-day conference filled with 10 [world-changing speakers](http://yellowconference.com/home/our-team/)
+* Admittance to the 2-day conference filled with 10 [world-changing speakers](http://yellowconference.com/home/our-team/)
 
-+ Coffee, light breakfast and refreshments throughout both days.
+* Coffee, light breakfast and refreshments throughout both days.
 
-+ Dinner, drinks and restaurant admittance at the Thursday night after party.
+* Dinner, drinks and restaurant admittance at the Thursday night after party.
 
-+ Curated goodie bag filled with quality products
+* Curated goodie bag filled with quality products
 
-+ A network of over 150 creative Yellow attendees.
+* A network of over 150 creative Yellow attendees.
 
-+ Photo Booth and other fun interactive activities throughout both days
+* Photo Booth and other fun interactive activities throughout both days
 
-+ An inspired spirit and a wealth of knowledge on how to live our your dreams and make the world a better place!
+* An inspired spirit and a wealth of knowledge on how to live our your dreams and make the world a better place!

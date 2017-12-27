@@ -3,7 +3,7 @@ title: Surprise Announcement
 date: 2014-11-25 01:50:42 -08:00
 categories:
 - Yellow 2015
-author: Yellow
+author: Yellow Co.
 redirect_from: "/yellow-2015/suprise-announcement/"
 ---
 

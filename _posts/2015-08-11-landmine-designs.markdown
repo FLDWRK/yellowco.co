@@ -16,7 +16,7 @@ redirect_from: "/creative-ladies/landminedesigns/"
 
 > _[![landmine design+yellow](https://yellow-blog-images.imgix.net/2015/08/Sew-Vuy.jpg)](https://yellow-blog-images.imgix.net/2015/08/Sew-Vuy.jpg)  
 > Landmine Design is pulling women and their families out of poverty, setting them on their feet, and giving them an education that no one can take from them. [These women] are in desperate need of a job, and even more desperately in need of education. These are the women LandMine Design exists to serve.  
-> _-Landmine Design Blog
+> _-Landmine Design Blog\_
 
 **Tell us a little about Landmine Designs...what's the story?**
 
@@ -31,25 +31,25 @@ Prior to Landmine Design, women had no options for income or access to education
 <iframe width="700" height="401" src="https://www.youtube.com/embed/UnGoUKpPiSM" frameborder="0" allowfullscreen=""></iframe>  
 **What's the mission of Landmine? **
 
-We exist to empower women in poverty through job creation and education. Our goal is sustainability and holistic care for each woman, her family, and greater community. 
+We exist to empower women in poverty through job creation and education. Our goal is sustainability and holistic care for each woman, her family, and greater community.
 
 > _Jewelry has always been a beautiful thing, perhaps because it’s not a necessity – we choose it. To see the US choosing this story is a dream come true for us at Landmine Design. _
 
 **Where did the name Landmine Designs originate from? **
 
-The MineField Village of Cambodia where we work was one of the most highly concentrated regions of landmines on the globe. These landmines were laid by the Khmer Rouge, who came into power and killed millions of Cambodians from 1975-1979\. The land is toxic and many of Cambodia's people are scarred from explosions. We employ several survivors like Te, 43 years old and a mother of 4, who happily shows off her scars from gunshots and a landmine explosion she survived as a little girl. What the country endured is unfathomable; our name seeks to be a testament to Cambodia’s resilience, strength and collective beauty.  
+The MineField Village of Cambodia where we work was one of the most highly concentrated regions of landmines on the globe. These landmines were laid by the Khmer Rouge, who came into power and killed millions of Cambodians from 1975-1979\. The land is toxic and many of Cambodia's people are scarred from explosions. We employ several survivors like Te, 43 years old and a mother of 4, who happily shows off her scars from gunshots and a landmine explosion she survived as a little girl. What the country endured is unfathomable; our name seeks to be a testament to Cambodia’s resilience, strength and collective beauty.
 
 [![landmine design+yellow](https://yellow-blog-images.imgix.net/2015/08/sarahlmd.jpg)](https://yellow-blog-images.imgix.net/2015/08/sarahlmd.jpg)
 
 **How did you combine a great cause with great product-in other words, how did you make this work?**
 
-That’s such a great question! And I’ll be honest - it has not been easy. As a staff we have learned time and time again what perseverance and patience means… 
+That’s such a great question! And I’ll be honest - it has not been easy. As a staff we have learned time and time again what perseverance and patience means…
 
 To start, our founders recognized a dire need for jobs for these vulnerable women. This was the fuel that would carry Landmine Design to its fruition, and is still our fuel everyday. It is so vitally important to operate from the “why?” – it keeps you moving through the many trial and errors that will inevitably come.
 
 > _This was the fuel that would carry Landmine Design to its fruition, and is still our fuel everyday. It is so vitally important to operate from the “why?” – it keeps you moving through the many trial and errors that will inevitably come. _
 
-The need for employment was evident, but in order to pay the women, profits would need to be incurred. **Sustainability is the heart of Landmine Design, for the business and each woman we employ, thus a self-sustaining job creation program was always the dream.** Our founders got to dreaming about what could be made and like any good brainstorming session, many ideas were tossed around.  Landmine Design could be producing knitted hats today…! And let me just say I’m so happy we’re not, it is scorching in The MineField Village… 
+The need for employment was evident, but in order to pay the women, profits would need to be incurred. **Sustainability is the heart of Landmine Design, for the business and each woman we employ, thus a self-sustaining job creation program was always the dream.** Our founders got to dreaming about what could be made and like any good brainstorming session, many ideas were tossed around.  Landmine Design could be producing knitted hats today…! And let me just say I’m so happy we’re not, it is scorching in The MineField Village…
 
 [![landmine design+yellow co. ](https://yellow-blog-images.imgix.net/2015/08/SreyRoth-family.jpg)](https://yellow-blog-images.imgix.net/2015/08/SreyRoth-family.jpg)
 
@@ -75,9 +75,9 @@ Start wherever you are with whatever you have.
 
 I never knew seeking to change the world was something I was allowed to partake in and honestly, if someone would have told me it would have been too intimidating of a task to try.
 
-There is something _you_ love, something that gets you out of bed in the morning. Do not belittle that something, however small, it’s purposeful. For me, that used to be finding a $2 blouse I knew I could sell for $30 by creating and building value. This was purposeful; it educated and guided my personal development, _it mobilized me._
+There is something *you* love, something that gets you out of bed in the morning. Do not belittle that something, however small, it’s purposeful. For me, that used to be finding a $2 blouse I knew I could sell for $30 by creating and building value. This was purposeful; it educated and guided my personal development, *it mobilized me.*
 
-What you love is purposeful, so start right where you are with whatever you have and mobilize yourself! The story that unfolds could be pretty incredible, it may even lead you to a minefield!  
+What you love is purposeful, so start right where you are with whatever you have and mobilize yourself! The story that unfolds could be pretty incredible, it may even lead you to a minefield!
 
 [![landmine design+yellow co. ](https://yellow-blog-images.imgix.net/2015/08/SomKim-husandbaby.jpg)](https://yellow-blog-images.imgix.net/2015/08/SomKim-husandbaby.jpg)
 
@@ -90,5 +90,3 @@ To be in the loop, receive our monthly Landmine Letter, or just say hi - shoot m
 [![landmine design+yellow](https://yellow-blog-images.imgix.net/2015/08/mets2.jpg)](https://yellow-blog-images.imgix.net/2015/08/mets2.jpg)
 
 **A special thanks from Yellow Co. to Kristie, of [Landmine Designs](http://www.landminedesign.org/) (pictured above!) for sharing her insight and passion with us today. **
-
-[![sallykim Yellow Co.](https://yellow-blog-images.imgix.net/2015/07/sallykim.jpg)](http://lettersfromamister.tumblr.com/)

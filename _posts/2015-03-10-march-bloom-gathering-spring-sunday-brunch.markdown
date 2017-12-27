@@ -3,7 +3,7 @@ title: 'March Bloom Gathering: Spring Sunday Brunch'
 date: 2015-03-10 04:00:31 -07:00
 categories:
 - "#bloomyellow"
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/march-bloom-gathering-spring-sunday-brunch/"
 ---
 

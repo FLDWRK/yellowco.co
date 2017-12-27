@@ -3,7 +3,7 @@ title: "#FreeToFail"
 date: 2015-05-04 09:12:24 -07:00
 categories:
 - Resources
-author: Yellow
+author: Yellow Co.
 redirect_from: "/resources/freetofail/"
 ---
 

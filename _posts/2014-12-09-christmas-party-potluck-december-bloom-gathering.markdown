@@ -3,7 +3,7 @@ title: Christmas Party Potluck! Our December Bloom Gathering
 date: 2014-12-09 10:48:09 -08:00
 categories:
 - "#bloomyellow"
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/christmas-party-potluck-december-bloom-gathering/"
 ---
 

@@ -4,7 +4,7 @@ date: 2016-10-24 04:00:11 -07:00
 categories:
 - Advice
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/the-key-to-building-a-business-that-lasts/"
 ---
 

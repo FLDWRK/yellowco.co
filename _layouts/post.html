@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="row justify-content-center">
-  <section class="post col-12 col-md-10 col-lg-9">
+  <section class="post col-12 col-md-10 col-lg-8">
     <header class="text-center">
       <h1 class="post-title">{{ page.title }}</h1>
       <p class="post-date">
@@ -19,9 +19,7 @@ layout: page
       </p>
     </header>
     {% if page.image %}
-      <img src="{{ page.image | image_src }}?w=900&h=600&fit=crop" class="img-fluid mb-4" />
-    {% else %}
-      <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=900&h=600&fit=crop" class="img-fluid mb-4" />
+      <img src="{{ page.image | image_src }}?w=1200&fit=crop" class="img-fluid mb-4" />
     {% endif %}
     <div class="post-text">
       {{ content }}

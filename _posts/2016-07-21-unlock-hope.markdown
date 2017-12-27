@@ -6,7 +6,7 @@ categories:
 - Advice
 - The Activist
 - Yellow 2016
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/unlockhope/"
 ---
 

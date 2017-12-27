@@ -5,7 +5,7 @@ date: 2016-09-27 04:00:59 -07:00
 categories:
 - The Leader
 - Valor
-author: Yellow
+author: Yellow Co.
 redirect_from: "/the-leader/entrepreneurship-living-with-intention-turning-dreams-into-reality-our-interview-with-paige-hull-of-the-vintage-roundtop/"
 ---
 

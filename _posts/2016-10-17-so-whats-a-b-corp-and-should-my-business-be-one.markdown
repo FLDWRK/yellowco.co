@@ -5,7 +5,7 @@ categories:
 - Creative Ladies
 - The Activist
 - Heart
-author: Yellow
+author: Yellow Co.
 redirect_from: "/creative-ladies/so-whats-a-b-corp-and-should-my-business-be-one/"
 ---
 

@@ -3,7 +3,7 @@ title: 'Want to Change the World? Here''s a Great Read: The Promise of a Pencil'
 date: 2014-06-20 15:45:14 -07:00
 categories:
 - Advice
-author: Yellow
+author: Yellow Co.
 redirect_from: "/advice/want-change-world-heres-great-read-promise-pencil/"
 ---
 
@@ -18,8 +18,7 @@ by Adam Braun, and I'm not sure if it was because I was traveling a lot and had 
 to read this thing, or if it was really that intriguing to me, (I think it was a mix of both) but I
 finished this book in record time! (for me anyway!)
 
-\_[The Promise of a Pencil](http://www.amazon.com/Promise-Pencil-Ordinary-Person-Extraordinary/dp/1476730628/ref=sr_1_1?s=books&ie=UTF8&qid=1403278338&sr=1-1&keywords=promise+of+a+pencil)
-_is about a young guy named Adam, who started a nonprofit at the age of 24 years old, with $25\.
+[The Promise of a Pencil](http://www.amazon.com/Promise-Pencil-Ordinary-Person-Extraordinary/dp/1476730628/ref=sr_1_1?s=books&ie=UTF8&qid=1403278338&sr=1-1&keywords=promise+of+a+pencil) is about a young guy named Adam, who started a nonprofit at the age of 24 years old, with $25\.
 While traveling as a college student, Adam met a young boy on the streets of India. He asked this
 boy what he wanted most in the world. He answered, "a pencil." This became the inspiration for his
 company, [Pencils of Promise](http://pencilsofpromise.org/). When he started, he had one goal- to
@@ -29,7 +28,7 @@ schools all over the world, has served almost 30,000 students, and has delivered
 education. This book is all about Braun's journey to getting his organization to the where it is
 today.
 
-Each chapter starts with a mantra such as, "_Vulnerability is vital" _and is followed by the chapter
+Each chapter starts with a mantra such as, "\_Vulnerability is vital" \_and is followed by the chapter
 that goes into explaining a story about how, where and when he learned this lesson, as well as why
 it's important. He goes into the ups and downs he experienced while growing his nonprofit, including
 why he no longer refers to his organization as a nonprofit, but rather, a "for purpose" company.

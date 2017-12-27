@@ -4,7 +4,7 @@ date: 2016-09-11 00:56:03 -07:00
 categories:
 - "#bloomyellow"
 - Valor
-author: Yellow
+author: Yellow Co.
 redirect_from: "/bloomyellow/6886/"
 ---
 
