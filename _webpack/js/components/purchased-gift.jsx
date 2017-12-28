@@ -47,9 +47,10 @@ class PurchasedGift extends Component<Props, State> {
         </div>
         <h1>Thank you!</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-          ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-          ullamco laboris.
+          You&rsquo;re all set! Your gift code is below, but you&rsquo;ll also receive a
+          confirmation email with the code. You can deliver the code to the person you purchased
+          this gift for and direct them to{' '}
+          <a href="https://yellowco.co/redeem">https://yellowco.co/redeem</a> in order to redeem it.
         </p>
         <h3>
           <small>Your Gift Code</small>

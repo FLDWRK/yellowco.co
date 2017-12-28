@@ -32,9 +32,9 @@ class PurchaseGiftForm extends Component<Props, State> {
   state = {
     submittable: false,
     submitting: false,
-    firstName: 'Gift',
-    lastName: 'Test',
-    email: 'gift@example.com',
+    firstName: '',
+    lastName: '',
+    email: '',
     giftValue: '33'
   };
 

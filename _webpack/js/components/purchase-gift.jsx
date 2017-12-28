@@ -16,7 +16,7 @@ type State = {
 };
 
 class PurchaseGift extends Component<Props, State> {
-  state = { submitting: false, error: '', giftCode: 'begote-bejoba-kato' };
+  state = { submitting: false, error: '', giftCode: '' };
 
   handlePurchase = (gift: Object, token: string) => {
     this.setState({ submitting: true });
@@ -41,15 +41,13 @@ class PurchaseGift extends Component<Props, State> {
         {this.state.giftCode ? (
           <div className="gave-a-gift">
             <PurchasedGift code={this.state.giftCode} />
+            <p className="mt-4">
+              <a href="/gift/purchase">&larr; Purchase another gift</a>
+            </p>
           </div>
         ) : (
           <div className="give-a-gift">
             <h1>Gift the Collective</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-              exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            </p>
             <ol>
               <li>Enter your information and purchase your gift</li>
               <li>Receive an email with a printable certificate and unique gift code</li>
