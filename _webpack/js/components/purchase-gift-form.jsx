@@ -1,5 +1,7 @@
+// @flow
+
 import React, { Component } from 'react';
-import Spinner from './spinner';
+import Spinner from '../utils/spinner';
 import Form from '../forms/form';
 import Input from '../forms/input';
 import Select from '../forms/select';
@@ -8,7 +10,25 @@ import Button from '../forms/button';
 import isRequired from '../validations/required';
 import isEmail from '../validations/email';
 
-class PurchaseGiftForm extends Component {
+type Props = {
+  error: string,
+  onSubmit: Function,
+  submitting: boolean
+};
+
+type State = {
+  submittable: boolean,
+  submitting: boolean,
+  firstName: string,
+  lastName: string,
+  email: string,
+  giftValue: string
+};
+
+class PurchaseGiftForm extends Component<Props, State> {
+  form: ?HTMLFormElement;
+  creditCard: CreditCard;
+
   state = {
     submittable: false,
     submitting: false,
@@ -18,11 +38,11 @@ class PurchaseGiftForm extends Component {
     giftValue: '33'
   };
 
-  handleChange = e => {
+  handleChange = (e: SyntheticInputEvent<HTMLInputElement>) => {
     this.setState({ [e.target.name]: e.target.value });
   };
 
-  handleCardComplete = complete => {
+  handleCardComplete = (complete: boolean) => {
     this.setState({ submittable: complete });
   };
 

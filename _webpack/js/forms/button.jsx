@@ -1,8 +1,16 @@
+// @flow
+
 import React from 'react';
 import classnames from 'classnames';
 import { button } from 'react-validation';
 
-const Button = ({ hasErrors, className, ...props }) => {
+type Props = {
+  hasErrors: boolean,
+  className: string,
+  disabled: boolean
+};
+
+const Button = ({ hasErrors, className, ...props }: Props) => {
   return (
     <button
       {...props}

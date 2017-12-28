@@ -1,8 +1,26 @@
+// @flow
+
 import React, { Component } from 'react';
 import { CardElement, injectStripe } from 'react-stripe-elements';
 import classnames from 'classnames';
 
-class CreditCard extends Component {
+type Props = {
+  note: string,
+  className: string,
+  onComplete: Function,
+  stripe: Object,
+  disabled: boolean
+};
+
+type State = {
+  focused: boolean,
+  complete: boolean,
+  error: string
+};
+
+class CreditCard extends Component<Props, State> {
+  cardElement: ?Object;
+
   state = {
     focused: false,
     complete: false,
@@ -32,7 +50,7 @@ class CreditCard extends Component {
   };
 
   clear = () => {
-    this.cardElement.clear();
+    if (this.cardElement) this.cardElement.clear();
   };
 
   render() {

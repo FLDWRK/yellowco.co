@@ -1,3 +1,5 @@
+// @flow
+
 import React, { Component } from 'react';
 import Confetti from 'react-dom-confetti';
 
@@ -12,7 +14,15 @@ const baseConfig = {
 const leftConfig = Object.assign({}, baseConfig, { angle: 0 });
 const rightConfig = Object.assign({}, baseConfig, { angle: 180 });
 
-class PurchasedGift extends Component {
+type Props = {
+  code: string
+};
+
+type State = {
+  celebrate: boolean
+};
+
+class PurchasedGift extends Component<Props, State> {
   state = { celebrate: false };
 
   componentDidMount() {
@@ -30,11 +40,23 @@ class PurchasedGift extends Component {
 
   render() {
     return (
-      <h1 className="d-flex">
-        <Confetti active={this.state.celebrate} config={leftConfig} />
-        <span className="d-block w-100 text-center">Thank you!</span>
-        <Confetti active={this.state.celebrate} config={rightConfig} />
-      </h1>
+      <div className="purchased-gift">
+        <div className="confetti">
+          <Confetti active={this.state.celebrate} config={leftConfig} />
+          <Confetti active={this.state.celebrate} config={rightConfig} />
+        </div>
+        <h1>Thank you!</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+          ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+          ullamco laboris.
+        </p>
+        <h3>
+          <small>Your Gift Code</small>
+          <br />
+          {this.props.code}
+        </h3>
+      </div>
     );
   }
 }

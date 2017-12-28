@@ -1,3 +1,5 @@
+// @flow
+
 import React from 'react';
 import { render } from 'react-dom';
 import $ from 'jquery';
@@ -24,13 +26,14 @@ $('[data-href]').on('click', function(e) {
 
 $('[data-toggle="tooltip"]').tooltip();
 
-if (document.getElementById('instagram'))
-  render(<Instagram />, document.getElementById('instagram'));
+const instagramEl = document.getElementById('instagram');
+if (instagramEl) render(<Instagram />, instagramEl);
 
-if (document.getElementById('purchase-gift'))
+const purchaseGiftEl = document.getElementById('purchase-gift');
+if (purchaseGiftEl)
   render(
     <StripeProvider apiKey={process.env.STRIPE_PUBLISHABLE_KEY}>
       <PurchaseGift />
     </StripeProvider>,
-    document.getElementById('purchase-gift')
+    purchaseGiftEl
   );

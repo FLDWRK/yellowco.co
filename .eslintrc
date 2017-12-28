@@ -1,7 +1,7 @@
 {
-  plugins: ["import", "jsx-a11y", "react"],
+  plugins: ["import", "jsx-a11y", "react", "flowtype"],
   parser: "babel-eslint",
-  extends: ["eslint:recommended", "plugin:react/recommended", "plugin:jsx-a11y/recommended"],
+  extends: ["eslint:recommended", "plugin:react/recommended", "plugin:jsx-a11y/recommended", "plugin:flowtype/recommended"],
   env: {
     browser: true,
     commonjs: true,

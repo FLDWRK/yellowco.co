@@ -1,8 +1,19 @@
+// @flow
+
 import React from 'react';
 import classnames from 'classnames';
 import { control } from 'react-validation';
 
-const Select = ({ error, isChanged, isUsed, label, note, ...props }) => (
+type Props = {
+  error: string,
+  isChanged: boolean,
+  isUsed: boolean,
+  label: string,
+  note: string,
+  className?: string
+};
+
+const Select = ({ error, isUsed, note, ...props }: Props) => (
   <div className={classnames(['form-group', { 'has-danger': isUsed && error }])}>
     <select
       {...props}

@@ -1,8 +1,19 @@
+// @flow
+
 import React from 'react';
 import classnames from 'classnames';
 import { control } from 'react-validation';
 
-const Input = ({ error, isUsed, isChanged, label, note, ...props }) => (
+type Props = {
+  error: string,
+  isUsed: boolean,
+  isChanged: boolean,
+  label: string,
+  note: string,
+  className: string
+};
+
+const Input = ({ error, isUsed, note, ...props }: Props) => (
   <div className={classnames(['form-group', { 'has-danger': isUsed && error }])}>
     <input
       {...props}

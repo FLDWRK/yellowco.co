@@ -1,11 +1,16 @@
+// @flow
+
 import React, { Component } from 'react';
 import axios from 'axios';
 
-class Instagram extends Component {
-  constructor(props) {
-    super(props);
-    this.state = { images: [] };
-  }
+type Props = {};
+
+type State = {
+  images: Array<Object>
+};
+
+class Instagram extends Component<Props, State> {
+  state = { images: [] };
 
   componentWillMount() {
     axios

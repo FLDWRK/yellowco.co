@@ -1,3 +1,5 @@
+// @flow
+
 import React, { Component } from 'react';
 import { Elements } from 'react-stripe-elements';
 import { mapKeys, snakeCase } from 'lodash';
@@ -5,10 +7,18 @@ import axios from 'axios';
 import PurchaseGiftForm from './purchase-gift-form';
 import PurchasedGift from './purchased-gift';
 
-class PurchaseGift extends Component {
-  state = { purchased: false, submitting: false, error: '', giftCode: '' };
+type Props = {};
 
-  handlePurchase = (gift, token) => {
+type State = {
+  submitting: boolean,
+  error: string,
+  giftCode: string
+};
+
+class PurchaseGift extends Component<Props, State> {
+  state = { submitting: false, error: '', giftCode: 'begote-bejoba-kato' };
+
+  handlePurchase = (gift: Object, token: string) => {
     this.setState({ submitting: true });
     axios
       .post('/gift', {
@@ -18,7 +28,7 @@ class PurchaseGift extends Component {
         token: token
       })
       .then(response => {
-        this.setState({ submitting: false, purchased: true, giftCode: response.data.code });
+        this.setState({ submitting: false, giftCode: response.data.code });
       })
       .catch(error => {
         this.setState({ submitting: false, error: error.response.data.error });
@@ -28,7 +38,7 @@ class PurchaseGift extends Component {
   render() {
     return (
       <Elements>
-        {this.state.purchased ? (
+        {this.state.giftCode ? (
           <div className="gave-a-gift">
             <PurchasedGift code={this.state.giftCode} />
           </div>

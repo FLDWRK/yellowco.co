@@ -1,7 +1,17 @@
+// @flow
+
 import React, { Component } from 'react';
 import Spinner from 'spin.js';
 
-export default class ReactSpinner extends Component {
+type Props = {
+  right?: boolean,
+  config?: Object
+};
+
+class ReactSpinner extends Component<Props> {
+  spinner: Object;
+  container: ?HTMLSpanElement;
+
   componentDidMount() {
     const { config } = this.props;
     const spinConfig = {
@@ -33,3 +43,5 @@ export default class ReactSpinner extends Component {
     );
   }
 }
+
+export default ReactSpinner;
