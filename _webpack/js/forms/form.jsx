@@ -1,9 +1,9 @@
 // @flow
 
-import React from 'react';
-import type { Node } from 'react';
-import classnames from 'classnames';
-import { form } from 'react-validation';
+import React from "react";
+import type { Node } from "react";
+import classnames from "classnames";
+import { form } from "react-validation";
 
 type Props = {
   getValues: Function,
@@ -15,8 +15,16 @@ type Props = {
   className?: string
 };
 
-const Form = ({ children, ...props }: Props) => (
-  <form {...props} className={classnames(['form', props.className])}>
+const Form = ({
+  getValues,
+  validate,
+  validateAll,
+  showError,
+  hideError,
+  children,
+  ...props
+}: Props) => (
+  <form {...props} className={classnames(["form", props.className])}>
     {children}
   </form>
 );

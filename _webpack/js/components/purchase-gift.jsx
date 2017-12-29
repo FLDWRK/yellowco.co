@@ -1,11 +1,11 @@
 // @flow
 
-import React, { Component } from 'react';
-import { Elements } from 'react-stripe-elements';
-import { mapKeys, snakeCase } from 'lodash';
-import axios from 'axios';
-import PurchaseGiftForm from './purchase-gift-form';
-import PurchasedGift from './purchased-gift';
+import React, { Component } from "react";
+import { Elements } from "react-stripe-elements";
+import { mapKeys, snakeCase } from "lodash";
+import axios from "axios";
+import PurchaseGiftForm from "./purchase-gift-form";
+import PurchasedGift from "./purchased-gift";
 
 type Props = {};
 
@@ -16,12 +16,12 @@ type State = {
 };
 
 class PurchaseGift extends Component<Props, State> {
-  state = { submitting: false, error: '', giftCode: '' };
+  state = { submitting: false, error: "", giftCode: "" };
 
   handlePurchase = (gift: Object, token: string) => {
     this.setState({ submitting: true });
     axios
-      .post('/gift', {
+      .post("/gift", {
         gift: mapKeys(gift, (val, key) => {
           return snakeCase(key);
         }),
@@ -47,12 +47,6 @@ class PurchaseGift extends Component<Props, State> {
           </div>
         ) : (
           <div className="give-a-gift">
-            <h1>Gift the Collective</h1>
-            <ol>
-              <li>Enter your information and purchase your gift</li>
-              <li>Receive an email with a printable certificate and unique gift code</li>
-              <li>Deliver your gift by printing or emailing the code</li>
-            </ol>
             <PurchaseGiftForm
               onSubmit={this.handlePurchase}
               error={this.state.error}

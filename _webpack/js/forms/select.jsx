@@ -1,8 +1,8 @@
 // @flow
 
-import React from 'react';
-import classnames from 'classnames';
-import { control } from 'react-validation';
+import React from "react";
+import classnames from "classnames";
+import { control } from "react-validation";
 
 type Props = {
   error: string,
@@ -13,22 +13,26 @@ type Props = {
   className?: string
 };
 
-const Select = ({ error, isUsed, note, ...props }: Props) => (
-  <div className={classnames(['form-group', { 'has-danger': isUsed && error }])}>
+const Select = ({ error, isUsed, isChanged, label, note, ...props }: Props) => (
+  <div
+    className={classnames(["form-group", { "has-danger": isUsed && error }])}
+  >
     <select
       {...props}
       className={classnames([
-        'form-control',
+        "form-control",
         props.className,
-        { 'form-control-danger is-invalid': isUsed && error }
+        { "form-control-danger is-invalid": isUsed && error }
       ])}
     />
     {isUsed && error ? (
-      <small className="form-text form-control-feedback invalid-feedback">{error}</small>
+      <small className="form-text form-control-feedback invalid-feedback">
+        {error}
+      </small>
     ) : (
-      ''
+      ""
     )}
-    {note ? <small className="form-text text-muted">{note}</small> : ''}
+    {note ? <small className="form-text text-muted">{note}</small> : ""}
   </div>
 );
 

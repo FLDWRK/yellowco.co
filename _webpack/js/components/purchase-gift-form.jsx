@@ -1,14 +1,14 @@
 // @flow
 
-import React, { Component } from 'react';
-import Spinner from '../utils/spinner';
-import Form from '../forms/form';
-import Input from '../forms/input';
-import Select from '../forms/select';
-import CreditCard from '../forms/credit-card';
-import Button from '../forms/button';
-import isRequired from '../validations/required';
-import isEmail from '../validations/email';
+import React, { Component } from "react";
+import Spinner from "../utils/spinner";
+import Form from "../forms/form";
+import Input from "../forms/input";
+import Select from "../forms/select";
+import CreditCard from "../forms/credit-card";
+import Button from "../forms/button";
+import isRequired from "../validations/required";
+import isEmail from "../validations/email";
 
 type Props = {
   error: string,
@@ -32,10 +32,10 @@ class PurchaseGiftForm extends Component<Props, State> {
   state = {
     submittable: false,
     submitting: false,
-    firstName: '',
-    lastName: '',
-    email: '',
-    giftValue: '33'
+    firstName: "",
+    lastName: "",
+    email: "",
+    giftValue: "33"
   };
 
   handleChange = (e: SyntheticInputEvent<HTMLInputElement>) => {
@@ -71,8 +71,21 @@ class PurchaseGiftForm extends Component<Props, State> {
         onSubmit={this.handleSubmit}
         ref={el => {
           this.form = el;
-        }}>
-        {this.props.error ? <div className="alert alert-warning">{this.props.error}</div> : ''}
+        }}
+      >
+        <h1>Gift the Collective</h1>
+        <ol>
+          <li>Enter your information and purchase your gift</li>
+          <li>
+            Receive an email with a printable certificate and unique gift code
+          </li>
+          <li>Deliver your gift by printing or emailing the code</li>
+        </ol>
+        {this.props.error ? (
+          <div className="alert alert-warning">{this.props.error}</div>
+        ) : (
+          ""
+        )}
         <div className="row">
           <div className="col-sm">
             <h5 className="text-uppercase">From</h5>
@@ -115,7 +128,8 @@ class PurchaseGiftForm extends Component<Props, State> {
               note="* International shipping prices vary, but the full dollar amount will be credited to
               their account."
               onChange={this.handleChange}
-              value={this.state.giftValue}>
+              value={this.state.giftValue}
+            >
               <option value="33">1 month ($33)</option>
               <option value="66">2 months ($66)</option>
               <option value="99">3 months ($99)</option>
@@ -141,11 +155,20 @@ class PurchaseGiftForm extends Component<Props, State> {
         <div className="pos-relative">
           <Button
             className="btn-primary btn-lg"
-            disabled={!this.state.submittable || this.state.submitting || this.props.submitting}
-            onClick={this.handleSubmit}>
+            disabled={
+              !this.state.submittable ||
+              this.state.submitting ||
+              this.props.submitting
+            }
+            onClick={this.handleSubmit}
+          >
             Purchase
           </Button>
-          {this.state.submitting || this.props.submitting ? <Spinner right /> : ''}
+          {this.state.submitting || this.props.submitting ? (
+            <Spinner right />
+          ) : (
+            ""
+          )}
         </div>
       </Form>
     );

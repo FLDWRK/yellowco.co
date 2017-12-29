@@ -10,6 +10,7 @@ import axios from 'axios';
 import { StripeProvider } from 'react-stripe-elements';
 import Instagram from './components/instagram';
 import PurchaseGift from './components/purchase-gift';
+import RedeemGift from './components/redeem-gift';
 
 axios.defaults.baseURL = `${process.env.FLDWRK_API_URL || ''}`;
 
@@ -37,3 +38,6 @@ if (purchaseGiftEl)
     </StripeProvider>,
     purchaseGiftEl
   );
+
+const redeemGiftEl = document.getElementById('redeem-gift');
+if (redeemGiftEl) render(<RedeemGift />, redeemGiftEl);

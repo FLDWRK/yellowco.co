@@ -1,0 +1,27 @@
+.redeemed-gift {
+  display: flex;
+  flex-direction: column;
+  border: 8px solid black;
+  padding: 2rem;
+
+  .confetti {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  h1 {
+    text-align: center;
+    font-style: italic;
+  }
+
+  h3 {
+    text-align: center;
+    font-family: $font-family-subheadings;
+
+    small {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      color: $gray-light;
+    }
+  }
+}
