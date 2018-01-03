@@ -1,9 +1,10 @@
 ---
-title: How to Avoid Comparison in Social Media Without Living Under a Rock
+title: How to Avoid Social Media Comparison Without Living Under a Rock
 date: 2018-01-05 04:00:00 -08:00
 categories:
 - Health
 author: Becky Morquecho
+image: "/uploads/IMG_7972.jpg"
 series: Tenderness
 ---
 
@@ -35,9 +36,9 @@ I now think about why I’m using specific platforms in the first place. Is it t
 
 ###### Create rules that work for you and stick to them.
 
-For me, this means I know what my purpose is before I open up Facebook. Am I going to encourage clients today? Great! Get in, go to their pages, show them some love, quickly check notifications and get out! Another thing that works well for me is taking photos on the fly, but posting later in the day when I have some time. 
+For me, this means I know what my purpose is before I open up Facebook. Am I going to encourage clients today? Great! Get in, go to their pages, show them some love, quickly check notifications and get out! Another thing that works well for me is taking photos on the fly, but posting later in the day when I have some time.
 
-### This helps me stay present in the day-to-day, but not disappear off the face of the earth because I vow to be _so_ present that our business presence suffers.
+### This helps me stay present in the day-to-day, but not disappear off the face of the earth because I vow to be *so* present that our business presence suffers.
 
 ###### Take short social media fasts.
 
@@ -53,4 +54,4 @@ Don’t beat yourself up for doing what you need to, when you need to.
 
 What have you found that works best for you? How do you set yourself up for success on social media? I would love to hear your creative tips and tricks for keeping social media in its place and comparison far from your mind and heart.
 
-*Photos by:*
+*Photos by: [Marlena Pearl Photography](https://www.marlenapearlphotography.com/)*
