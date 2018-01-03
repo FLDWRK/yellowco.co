@@ -4,6 +4,7 @@ date: 2018-01-03 04:00:00 -08:00
 categories:
 - Growth
 author: Chantelle Gibbs
+image: "/uploads/12%20Lighthearted%20Resolutions%20for%20a%20Joy-filled%20Year.JPG"
 series: Tenderness
 ---
 
