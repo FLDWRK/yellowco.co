@@ -20,7 +20,7 @@ And so, in those potentially crushing moments, I avoid social media altogether. 
 
 Then a few days go by and I think to myself, “Hmm. But, Instagram helps us reach and encourage people. Hmm. Instagram helps us connect with potential coaching clients who are looking for what we offer.”
 
-### What I’ve come to learn is that if I’m hiding under a rock, protecting myself from potentially crushing realities of other people’s lives, I’m going to miss out.
+### I’ve learned that if I’m hiding under a rock, protecting myself from potentially crushing realities of other people’s lives, I’m going to miss out.
 
 There is a better way to use social media as a tool to share your message, build legitimate, genuine relationships, and grow your business without falling into comparison. Did you hear me? There is a way!
 
