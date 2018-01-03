@@ -20,6 +20,8 @@ And so, in those potentially crushing moments, I avoid social media altogether. 
 
 Then a few days go by and I think to myself, “Hmm. But, Instagram helps us reach and encourage people. Hmm. Instagram helps us connect with potential coaching clients who are looking for what we offer.”
 
+![IMG_8352.jpg](/uploads/IMG_8352.jpg)
+
 ### I’ve learned that if I’m hiding under a rock, protecting myself from potentially crushing realities of other people’s lives, I’m going to miss out.
 
 There is a better way to use social media as a tool to share your message, build legitimate, genuine relationships, and grow your business without falling into comparison. Did you hear me? There is a way!
@@ -38,7 +40,9 @@ I now think about why I’m using specific platforms in the first place. Is it t
 
 For me, this means I know what my purpose is before I open up Facebook. Am I going to encourage clients today? Great! Get in, go to their pages, show them some love, quickly check notifications and get out! Another thing that works well for me is taking photos on the fly, but posting later in the day when I have some time.
 
-### This helps me stay present in the day-to-day, but not disappear off the face of the earth because I vow to be *so* present that our business presence suffers.
+![IMG_8005-2.jpg](/uploads/IMG_8005-2.jpg)
+
+### This helps me stay present in the day-to-day, but not to the point that our business presence suffers.
 
 ###### Take short social media fasts.
 
@@ -46,11 +50,7 @@ Instead of nearing the brink of exhaustion and breakdowns, try not logging into 
 
 ###### Give yourself some grace.
 
-There are going to be days when you fall into the trap of scrolling and comparing, no matter how purposeful your intentions or strategic your rules. There are going to be weeks when you really do need to take a more serious break from social media to tend to your life and/or protect your heart.
-
-### No, permanently living under a rock won’t do you much good, but you know your needs best.
-
-Don’t beat yourself up for doing what you need to, when you need to.
+There are going to be days when you fall into the trap of scrolling and comparing, no matter how purposeful your intentions or strategic your rules. There are going to be weeks when you really do need to take a more serious break from social media to tend to your life and/or protect your heart. No, permanently living under a rock won’t do you much good, but you know your needs best. Don’t beat yourself up for doing what you need to, when you need to.
 
 What have you found that works best for you? How do you set yourself up for success on social media? I would love to hear your creative tips and tricks for keeping social media in its place and comparison far from your mind and heart.
 
