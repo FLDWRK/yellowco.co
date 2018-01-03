@@ -38,6 +38,8 @@ Often times, particularly in Western culture, we let our occupation or ideal voc
 
 Sometimes I look back at how I dressed myself in high school and take a moment to thank the good Lord I had friends. Some of my fondest memories are with those that stuck by my side then, and even though we’ve all moved to different places now, I can still honor the loyalty and pure fun they contributed to my life during such a primitive season. Surprise an old friend with a simple postcard just to say hello - short, sweet, and impactful enough to make it up on the fridge.
 
+![JuliaFriedman(12-22-2016)-017-624520.jpg](/uploads/JuliaFriedman(12-22-2016)-017-624520.jpg)
+
 ##### 7. Offer to drive quickly without thinking first about who drove last time.
 
 This was something I learned from a former housemate of mine who valued generosity without limitation. I drive an eco-friendly vehicle so I feel like I’m always the one designated to drive even when I don’t offer it. And sometimes I grumble under my breath or start recounting all the miles on my car from driving us to and fro. But then I think of all the people who helped me when I was younger by driving me to rehearsal, or to friends’ houses, and then back home after a long day. Shout out to all the people who give without keeping score. And if you’re on the other side, a recipient of this kind of giving, maybe chip in for gas every so often or even crazier, offer to drive instead of claiming that although you’d love to, your car is just a little too messy.
@@ -49,6 +51,8 @@ Am I the only one that’s always in a rush? And people always seem to drive slo
 ##### 9. Stop bringing your phone into the bathroom.
 
 Okay - this one might make some of you uncomfortable, but here’s the deal. We obviously already know that bathrooms emit an exorbitant amount of germs (and smells!), but combine that with the fact that *Time Magazine* released an article in August of last year detailing how your phone is 10 times dirtier than a toilet seat. So why are our phones following us into the stall? You can be without your phone for a minute or two, I promise. Plus, if you’re anything like me, it’s only a matter of time before it falls into that swishing vortex as predicted by my recurring nightmares.
+
+![JuliaFriedman(12-22-2016)-011-413d02.jpg](/uploads/JuliaFriedman(12-22-2016)-011-413d02.jpg)
 
 ##### 10. Call your grandparents more.
 
