@@ -20,7 +20,7 @@ And so, in those potentially crushing moments, I avoid social media altogether. 
 
 Then a few days go by and I think to myself, “Hmm. But, Instagram helps us reach and encourage people. Hmm. Instagram helps us connect with potential coaching clients who are looking for what we offer.”
 
-![IMG_8352.jpg](/uploads/IMG_8352.jpg)
+![How to Avoid Social Media Comparison Without Living Under a Rock - Yellow Co.jpg](/uploads/IMG_8352.jpg)
 
 ### I’ve learned that if I’m hiding under a rock, protecting myself from potentially crushing realities of other people’s lives, I’m going to miss out.
 
@@ -40,7 +40,7 @@ I now think about why I’m using specific platforms in the first place. Is it t
 
 For me, this means I know what my purpose is before I open up Facebook. Am I going to encourage clients today? Great! Get in, go to their pages, show them some love, quickly check notifications and get out! Another thing that works well for me is taking photos on the fly, but posting later in the day when I have some time.
 
-![IMG_8005-2.jpg](/uploads/IMG_8005-2.jpg)
+![How to Avoid Social Media Comparison Without Living Under a Rock - Yellow Co.jpg](/uploads/IMG_8005-2.jpg)
 
 ### This helps me stay present in the day-to-day, but not to the point that our business presence suffers.
 
