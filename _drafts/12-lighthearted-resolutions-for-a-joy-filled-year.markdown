@@ -24,6 +24,8 @@ I don’t know how to break it to you, but if you aren’t aware of what Stevie 
 
 Our favorite people in the world are who they are today as a result of a plethora of things that have shaped them, often including the people who have raised them and influenced them for the better. Get to know these communities and tribes too and you’ll find that you suddenly know your friends a little bit more. Ask your friends who they consider family to be and then go out and love your friends better by loving who they love too.
 
+![JuliaFriedman(12-22-2016)-008 (1)-001141.jpg](/uploads/JuliaFriedman(12-22-2016)-008%20(1)-001141.jpg)
+
 ##### 4. Reread all of the books you were supposed to read in high school - or *maybe* read Sparknotes instead.
 
 Please don’t ask me to tell you what The Scarlet Letter was about because I watched Easy A with Emma Stone and obviously know all about it. But really - these books were assigned to us for a reason. There’s a reason story after story is transformed into a major motion picture. Revisit the classic literature you wrote essays about in your youth and know that, as a professor informed me of once, rereading a book is a sign of intellectual prowess (even if you skimmed it the last time around).
