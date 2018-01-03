@@ -39,6 +39,6 @@ Be it fitness or finances, instruments to learn or wrongs to right, margins to h
 
 There is forgiveness to be discovered where two steps forward intersect with one stagnant. There is discipline to be gained by taking a deep breath and pressing on anyway. There is freedom to be found when we see another’s glowing stride and choose to not sink beneath the covers. Yes, comparison steals more than our joy, it strips our ability to honor individuality.
 
-Your value cannot be quantified - especially not by the amount of resolutions you check off your list. It is infinite. Let’s greet this page-turn with a gentleness towards ourselves and a wholehearted intention. And when some days don’t always go as we hope - you know, as they tend to - let’s return to it with acceptance and inspiration. May we hold our ambitions, our worth, with Tenderness.
+Your value cannot be quantified - especially not by the amount of resolutions you check off our list. It is infinite. Let’s greet this page-turn with a gentleness towards ourselves and a wholehearted intention. And when some days don’t always go as we hope - you know, as they tend to - let’s return to it with acceptance and inspiration. May we hold our ambitions, our worth, with Tenderness.
 
 *Artwork by [Steph Renea](http://stephrenea.com/)*
