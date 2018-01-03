@@ -8,9 +8,7 @@ image: "/uploads/12%20Lighthearted%20Resolutions%20for%20a%20Joy-filled%20Year.J
 series: Tenderness
 ---
 
-Here’s to the new year, to the fresh slate I know we all need, and to the old that is now gone to make way for the new. I’ve got 12 resolutions that I’d invite you to do in solidarity with me but first, please repeat after me with your hand over your heart:
-
-I solemnly swear that this year, I want to be up to all of the good.
+Here’s to the new year, to the fresh slate I know we all need, and to the old that is now gone to make way for the new. I’ve got 12 resolutions that I’d invite you to do in solidarity with me but first, please repeat after me with your hand over your heart: I solemnly swear that this year, I want to be up to all of the good.
 
 ###### 1. Know the names of the baristas at the coffee shops you frequent.
 
@@ -24,13 +22,13 @@ I don’t know how to break it to you, but if you aren’t aware of what Stevie 
 
 Our favorite people in the world are who they are today as a result of a plethora of things that have shaped them, often including the people who have raised them and influenced them for the better. Get to know these communities and tribes too and you’ll find that you suddenly know your friends a little bit more. Ask your friends who they consider family to be and then go out and love your friends better by loving who they love too.
 
-![JuliaFriedman(12-22-2016)-008 (1)-001141.jpg](/uploads/JuliaFriedman(12-22-2016)-008%20(1)-001141.jpg)
+![12 Lighthearted Resolutions for a Joy-filled Year - Yellow Co.jpg](/uploads/JuliaFriedman(12-22-2016)-008%20(1)-001141.jpg)
 
 ###### 4. Reread all of the books you were supposed to read in high school - or *maybe* read Sparknotes instead.
 
 Please don’t ask me to tell you what The Scarlet Letter was about because I watched Easy A with Emma Stone and obviously know all about it. But really - these books were assigned to us for a reason. There’s a reason story after story is transformed into a major motion picture. Revisit the classic literature you wrote essays about in your youth and know that, as a professor informed me of once, rereading a book is a sign of intellectual prowess (even if you skimmed it the last time around).
 
-###### 5. When meeting someone for the first time, ask a question other than, *“So... what do you do for a living?”*
+###### 5. When meeting someone for the first time, ask a question other than, “So... what do you do for a living?”
 
 Often times, particularly in Western culture, we let our occupation or ideal vocation drive our goals, dreams, desires, and even conversations. This isn’t entirely bad but, I think it’s important to remember that we’re human first and we’re more than our 9-5 or freelance gig. Why not practice unconventional ways to get to know a person by finding out a concert they went to recently or the snack they’ve been obsessed with lately?
 
@@ -38,7 +36,7 @@ Often times, particularly in Western culture, we let our occupation or ideal voc
 
 Sometimes I look back at how I dressed myself in high school and take a moment to thank the good Lord I had friends. Some of my fondest memories are with those that stuck by my side then, and even though we’ve all moved to different places now, I can still honor the loyalty and pure fun they contributed to my life during such a primitive season. Surprise an old friend with a simple postcard just to say hello - short, sweet, and impactful enough to make it up on the fridge.
 
-![JuliaFriedman(12-22-2016)-017-624520.jpg](/uploads/JuliaFriedman(12-22-2016)-017-624520.jpg)
+![12 Lighthearted Resolutions for a Joy-filled Year - Yellow Co.jpg](/uploads/JuliaFriedman(12-22-2016)-017-624520.jpg)
 
 ###### 7. Offer to drive quickly without thinking first about who drove last time.
 
@@ -52,7 +50,7 @@ Am I the only one that’s always in a rush? And people always seem to drive slo
 
 Okay - this one might make some of you uncomfortable, but here’s the deal. We obviously already know that bathrooms emit an exorbitant amount of germs (and smells!), but combine that with the fact that *Time Magazine* released an article in August of last year detailing how your phone is 10 times dirtier than a toilet seat. So why are our phones following us into the stall? You can be without your phone for a minute or two, I promise. Plus, if you’re anything like me, it’s only a matter of time before it falls into that swishing vortex as predicted by my recurring nightmares.
 
-![JuliaFriedman(12-22-2016)-011-413d02.jpg](/uploads/JuliaFriedman(12-22-2016)-011-413d02.jpg)
+![12 Lighthearted Resolutions for a Joy-filled Year - Yellow Co.jpg](/uploads/JuliaFriedman(12-22-2016)-011-413d02.jpg)
 
 ###### 10. Call your grandparents more.
 
