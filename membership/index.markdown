@@ -13,9 +13,10 @@ sm-banners:
 - link: https://members.yellowco.co/
   image: "/assets/images/Membership-Mobile.jpg"
 quote:
-  text: "I was building a life in my comfort zone. The Collective brought me out of hiding."
-  source: "Jennifer Mingucci"
-  source-title: "VP of Sales at Kidville"
+  text: I was building a life in my comfort zone. The Collective brought me out of
+    hiding.
+  source: Jennifer Mingucci
+  source-title: VP of Sales at Kidville
 details:
 - title: crave direction and purpose?
   text: You’re struggling to find the larger purpose in what you do. You move from
@@ -30,13 +31,12 @@ details:
     You crave a genuine group of women who care about building more than just a career.
 theme:
   image: "/assets/images/our-ownership.jpg"
-  title: "Take 2018 by storm with our 2018 theme: Our Ownership"
-  text: "It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own WHO THEY ARE? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens.
+  title: 'Take 2018 by storm with our 2018 theme: Our Ownership'
+  text: |-
+    It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own WHO THEY ARE? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens.
 
-
-  **This is our focus for 2018: OUR OWNERSHIP**
-
-  Each month throughout 2018 we will dive into a different focus of ownership, all helping you to take ownership of your life, who you were meant to be and your personal impact on the world."
+    **This is our focus for 2018: OUR OWNERSHIP**
+    Each month throughout 2018 we will dive into a different focus of ownership, all helping you to take ownership of your life, who you were meant to be and your personal impact on the world.
 faqs:
 - question: Do you ship internationally?
   answer: We offer free shipping within the US., but international shipping prices
@@ -65,3 +65,4 @@ faqs:
     inspired, having things to think about and having new goals to implement into
     our lives. They’re pretty awesome if we do say so ourselves.
 ---
+
