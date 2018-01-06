@@ -4,13 +4,13 @@ layout: site
 ---
 
 <div>
-  <div class="fotorama page-banner hidden-sm-down pt-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+  <div class="fotorama page-banner hidden-sm-down pt-0 pt-md-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
     {% for banner in page.banners %}
       <div data-img="{{ banner.image }}" class="link" data-rjs="2">
       </div>
     {% endfor %}
   </div>
-  <div class="fotorama hidden-md-up pt-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+  <div class="fotorama hidden-md-up pt-0 pt-md-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
     {% for sm-banner in page.sm-banners %}
       <div data-img="{{ sm-banner.image }}" class="link" data-rjs="2">
       </div>
@@ -21,12 +21,10 @@ layout: site
   <div class="container">
     <div class="row justify-content-center my-md-5">
       <div class="col-12 col-md-8 col-lg-7 text-center">
-        <h1 class="mb-3">2018 Yellow Conference</h1>
-        <h6>Thu, Aug 23rd - Fri, Aug 24th</h6>
+        <h1 class="mb-3">{{ page.conference.title }}</h1>
+        <h6>{{ page.conference.date }}</h6>
         <div class="hero-rule my-4"></div>
-        <p class="lead">
-          A gathering for creative women who are making an impact and using their gifts, skills and talents to serve the greater good.
-        </p>
+        <p class="lead">{{ page.conference.text }}</p>
         <script src="https://www.universe.com/embed2.js" data-state=""></script>
         <a class="btn btn-primary btn-sm" href="https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0?buttonColor=#231f20&buttonText=GRAB YOUR TICKETS">Grab Your Ticket</a>
       </div>
@@ -36,11 +34,11 @@ layout: site
 <div class="container">
   <div class="row my-5 py-md-3 justify-content-center">
     <div class="col-12 col-sm-9 col-md-8 col-lg-6 pb-2">
-      <img src="/assets/images/conference-guests.jpg" class="img-fluid text-center" data-rjs="2">
+      <img src="{{ page.quote-one.image }}" class="img-fluid text-center" data-rjs="2">
     </div>
     <div class="col-12 col-sm-12 col-lg-6 text-center my-auto">
       <blockquote class="blockquote">
-        <p>Succinctly: It will change your life and your business. With less brevity: No conference, class, online course or even mentoring session I’ve ever had has provided me as much value as did the two days at Yellow.</p>
+        <p>{{ page.quote-one.text }}</p>
       </blockquote>
     </div>
   </div>
@@ -49,12 +47,13 @@ layout: site
   <div class="container py-3">
     <div class="row">
       <div class="col-12 col-md-5">
-        <h2 class="h1"><em>2018 theme:</em></h2>
-        <h2 class="h1 mt-3"><em>Our Ownership</em></h2>
+        <h2 class="h1"><em>{{ site.time | date: '%Y' }} theme:</em></h2>
+        <h2 class="h1 mt-3"><em>{{ page.theme.title }}</em></h2>
       </div>
       <div class="col-12 col-md-7">
-        <p>Join 500 creative, entrepreneurial-minded women in the heart of Downtown Los Angeles for a gathering that is so much more than a conference. This is for the ones who desire to fight for a better tomorrow. The ones who are willing to roll up their sleeves, step out in courage, & use their creativity for good. This is where we come together for the benefit of humankind.</p>
-        <p>This year our 2018 theme is “Our Ownership”. It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own WHO THEY ARE? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens. Join us as we dive into this theme at our 2018 conference.</p>
+        <p>
+          {{ page.theme.details | markdownify }}
+        </p>
         <a class="btn btn-outline-primary btn-sm" href="https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0?buttonColor=#231f20&buttonText=GRAB YOUR TICKETS">Grab Your Ticket</a>
       </div>
     </div>
@@ -88,11 +87,11 @@ layout: site
   </div>
   <div class="row flex-row-reverse mt-5 py-md-3 justify-content-center">
     <div class="col-12 col-sm-9 col-md-8 col-lg-6 pb-2">
-      <img src="/assets/images/conference-smiles.jpg" class="img-fluid text-center" data-rjs="2">
+      <img src="{{ page.quote-two.image }}" class="img-fluid text-center" data-rjs="2">
     </div>
     <div class="col-12 col-sm-12 col-lg-6 text-center my-auto">
       <blockquote class="blockquote">
-        <p>Wow, oh wow, this year just proved once again that no matter how young or old, any creative woman can seek the groundbreaking inspiration poured out from this conference. Absolutely can't wait until next year!</p>
+        <p>{{ page.quote-two.text }}</p>
       </blockquote>
     </div>
   </div>
@@ -104,15 +103,15 @@ layout: site
   <div class="row pb-2">
     <div class="col-12">
       <div class="header-rule">
-        <h2 class="text-center">The Do-Good Goods Marketplace</h2>
+        <h2 class="text-center">{{ page.marketplace.title }}</h2>
       </div>
     </div>
   </div>
   <div class="row justify-content-center mb-5">
-    <div class="col-12 col-md-6">
+    <div class="col-12 col-md-9 col-lg-6">
       <blockquote class="blockquote text-center">
-        <p>The Yellow Do-Good Goods marketplace was amazing! We've never met such a wonderful group of like-minded women who were genuinely interested in products that give back. As for sales, this is the most successful marketplace we've ever been a part of.</p>
-        <footer class="blockquote-footer">Annie + Jen of <cite title="Source Title"><a href="https://www.tribeofdreamers.co/">Tribe of Dreamers</a></cite></footer>
+        <p>{{ page.marketplace.quote.text }}</p>
+        <footer class="blockquote-footer">{{ page.marketplace.quote.source }},<cite title="Source Title"><a href="{{ page.marketplace.quote.source-link }}">{{ page.marketplace.quote.source-company }}</a></cite></footer>
       </blockquote>
     </div>
   </div>

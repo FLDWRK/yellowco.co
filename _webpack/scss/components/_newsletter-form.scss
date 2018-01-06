@@ -13,3 +13,13 @@
     border-bottom-width: 5px;
   }
 }
+
+.newsletter-form {
+  .form-control {
+    width: 300px;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    margin-bottom: 0.5rem;
+    border-color: $brand-black;
+  }
+}

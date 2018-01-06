@@ -5,14 +5,14 @@ layout: site
 
 <!-- BANNER -->
 <div class="mb-2 mb-lg-5">
-  <div class="fotorama page-banner hidden-sm-down pt-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+  <div class="fotorama page-banner hidden-sm-down pt-0 pt-md-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
     {% for banner in page.banners %}
       <div data-img="{{ banner.image }}" class="link" data-rjs="2">
         <a href="{{ banner.link }}" class="_no-underline"></a>
       </div>
     {% endfor %}
   </div>
-  <div class="fotorama hidden-md-up pt-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+  <div class="fotorama hidden-md-up pt-0 pt-md-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
     {% for sm-banner in page.sm-banners %}
       <div data-img="{{ sm-banner.image }}" class="link" data-rjs="2">
         <a href="{{ sm-banner.link }}" class="_no-underline"></a>
@@ -26,8 +26,8 @@ layout: site
   <div class="row justify-content-center">
     <div class="col-12 col-sm-12 col-md-10 col-lg-8">
       <blockquote class="blockquote blockquote-lg text-center">
-        <p><em>I was building a life in my comfort zone. The Collective brought me out of hiding.</em></p>
-        <footer class="blockquote-footer">Jennifer Mingucci <cite title="Source Title">VP of Sales at Kidville</cite></footer>
+        <p><em>{{ page.quote.text }}</em></p>
+        <footer class="blockquote-footer">{{ page.quote.source }} <cite title="Source Title">{{ page.quote.source-title }}</cite></footer>
       </blockquote>
     </div>
   </div>
@@ -74,12 +74,11 @@ layout: site
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-6 mb-2">
-        <img src="/assets/images/our-ownership.jpg" class="img-fluid" alt="inside Yellow Membership"/>
+        <img src="{{ page.theme.image }}" class="img-fluid" alt="inside Yellow Membership"/>
       </div>
       <div class="col-12 col-md-6 my-auto">
-        <h3>Take 2018 by storm with our 2018 theme: Our Ownership</h3>
-        <p>It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own WHO THEY ARE? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens.</p>
-        <p><strong>This is our focus for 2018: OUR OWNERSHIP</strong><br />Each month throughout 2018 we will dive into a different focus of ownership, all helping you to take ownership of your life, who you were meant to be and your personal impact on the world.</p>
+        <h3>{{ page.theme.title }}</h3>
+        {{ page.theme.text | markdownify }}
         <a href="https://members.yellowco.co/" class="btn btn-primary">Join now</a>
       </div>
     </div>
@@ -144,11 +143,11 @@ layout: site
 
 <!-- MEMBERSHIP VALUES -->
 <div class="container py-3">
-  <div class="row py-3">
-    <div class="col-12 col-sm-5 col-lg-4">
-      <img src="/assets/images/membership-digital-resources.jpg" class="img-fluid rounded-circle mb-2" data-rjs="2"/>
+  <div class="row justify-content-center py-3">
+    <div class="col-10 col-sm-4 col-lg-4">
+      <img src="/assets/images/membership-digital-resources.jpg" class="img-fluid rounded-circle mb-3" data-rjs="2"/>
     </div>
-    <div class="col-12 col-sm-7 col-lg-6 my-auto">
+    <div class="col-12 col-sm-8 col-lg-6 my-auto">
       <h5 class="text-uppercase">Exclusive Access to Our Digital Member Hub</h5>
       <p><em>Consider it your virtual creative lady library you can access from anywhere:</em></p>
       <ul>
@@ -160,11 +159,11 @@ layout: site
       </ul>
     </div>
   </div>
-  <div class="row py-3">
-    <div class="col-12 col-sm-5 col-lg-4 col-xl-4 flex-last">
-      <img src="/assets/images/membership-gatherings.jpg" class="img-fluid rounded-circle mb-2" data-rjs="2"/>
+  <div class="row justify-content-center py-3">
+    <div class="col-10 col-sm-4 col-lg-4 col-xl-4 flex-md-last">
+      <img src="/assets/images/membership-gatherings.jpg" class="img-fluid rounded-circle mb-3" data-rjs="2"/>
     </div>
-    <div class="col-12 col-sm-7 col-lg-7 offset-lg-1 col-xl-6 offset-xl-2 my-auto">
+    <div class="col-12 col-sm-8 col-lg-7 offset-lg-1 col-xl-6 offset-xl-2 my-auto">
       <h5 class="text-uppercase">Monthly Gatherings</h5>
       <p><em>The best part of the membership are the women who make it :)</em></p>
       <ul>
@@ -175,11 +174,11 @@ layout: site
       </ul>
     </div>
   </div>
-  <div class="row py-3">
-    <div class="col-12 col-sm-5 col-lg-4">
-      <img src="/assets/images/membership-packet.jpg" class="img-fluid rounded-circle mb-2" data-rjs="2"/>
+  <div class="row justify-content-center py-3">
+    <div class="col-10 col-sm-4 col-lg-4">
+      <img src="/assets/images/membership-packet.jpg" class="img-fluid rounded-circle mb-3" data-rjs="2"/>
     </div>
-    <div class="col-12 col-sm-7 col-lg-6 my-auto">
+    <div class="col-12 col-sm-8 col-lg-6 my-auto">
       <h5 class="text-uppercase">Monthly "Empowerment Packet" Mailed to Your Door</h5>
       <p><em>Every month your packet includes:</em></p>
       <ul>

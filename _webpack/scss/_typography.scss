@@ -1,3 +1,25 @@
+html {
+  font-size: 14px;
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 16px;
+  }
+}
+
 .h1,
 .h2,
 .h3,
@@ -5,6 +27,7 @@ h1,
 h2,
 h3 {
   font-family: $headings-lg-font-family;
+  line-height: 1.25;
 }
 
 .h4,
@@ -30,7 +53,7 @@ h6 {
 
 .header-rule {
   border-top: 1px solid $brand-black;
-  margin-top: 2.75rem;
+  margin-top: 3.25rem;
   text-align: center;
   padding-bottom: 1rem;
 
@@ -38,7 +61,7 @@ h6 {
   h2 {
     background: $white;
     margin: 0;
-    line-height: 2.75rem;
+    line-height: 3.25rem;
     padding: 0 1.4rem;
     display: inline-block;
     transform: translateY(-62%);

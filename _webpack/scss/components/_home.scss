@@ -6,7 +6,7 @@
   @include media-breakpoint-down(sm) {
     p.lead {
       font-size: 2.25rem;
-      line-height: 1.3;
+      line-height: 1.5;
     }
 
     .newsletter {
@@ -18,14 +18,5 @@
 
   .card-deck-blog .card .card-category {
     margin-bottom: -0.9rem;
-  }
-
-  .newsletter {
-    .form-control {
-      width: 300px;
-      padding-top: 0.75rem;
-      padding-bottom: 0.75rem;
-      border-color: $brand-black;
-    }
   }
 }
