@@ -1,7 +1,6 @@
 ---
 title: Bogo Brush
 image: "/assets/images/partners-2017/bogo-brush.jpg"
-url: https://www.bogobrush.com/
+link: "https://www.bogobrush.com/"
 featured: true
 ---
-
