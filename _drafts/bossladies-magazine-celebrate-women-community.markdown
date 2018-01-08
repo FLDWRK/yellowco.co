@@ -77,5 +77,6 @@ I want to continue to build a brand that celebrates women’s ambition and excel
 
 Save space for the things that are sacred to you. Remember that you don’t owe anyone your time or energy. Guard it preciously. Invest it in the people and endeavors that are most important to you.
 
-@bossladiesmag
-www.bossladies.us
+*Find Bossladies Magazine at [@bossladiesmag ](https://www.instagram.com/bossladiesmag/)and [www.bossladies.us](https://www.bossladies.us/)*
+
+*Photos courtesy of  Bossladies Magazine by Grey & Elle and Bree McCool*
