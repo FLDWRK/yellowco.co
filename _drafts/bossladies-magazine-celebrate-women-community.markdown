@@ -9,9 +9,9 @@ image: "/uploads/Bossladies%20Magazine%20Interview%20with%20Yellow%20Co.jpg"
 series: Tenderness
 ---
 
-I've seen many terms thrown around for women in leadership - entrepreneurs, CEO's, *bosses*. And while the intent of empowerment, of recognition, should never be lost, I've also seen women in these roles painted in an indelicate, and sometimes, inhuman light. The kind that further fosters competition over community among women, or plants the seed that to be successful as a "boss", women must take cut-throat measures.
+*I've seen many terms thrown around for women in leadership - entrepreneurs, CEO's, bosses. And while the intent of empowerment, of recognition, should never be lost, I've also seen women in these roles painted in an indelicate, and sometimes, inhuman light. The kind that further fosters competition over community among women, or plants the seed that to be successful as a "boss", women must take cut-throat measures.*
 
-I have been encouraged, to say the least, over the past few years to see what feels like a wave of companies and individuals whose goal is to bring women together and celebrate them in all their glittering individuality. By taking an elegant, reverent approach to highlighting women doing the incredible, [Bossladies Magazine](https://www.bossladies.us/) has been doing just that. I was able to hear from their founder, [Chelsea Sonksen](https://www.bossladies.us/about/) about why she started their biannual magazine, how she created the community she had been longing for, and the intention she thinks we should all have this year.
+*I have been encouraged, to say the least, over the past few years to see what feels like a wave of companies and individuals whose goal is to bring women together and celebrate them in all their glittering individuality. By taking an elegant, reverent approach to highlighting women doing the incredible, [Bossladies Magazine](https://www.bossladies.us/) has been doing just that. I was able to hear from their founder, [Chelsea Sonksen](https://www.bossladies.us/about/) about why she started their biannual magazine, how she created the community she had been longing for, and the intention she thinks we should all have this year.*
 
 ###### Where did your desire to start [Bossladies](https://www.bossladies.us/) come from? Tell us a little about the story of starting your business.
 
