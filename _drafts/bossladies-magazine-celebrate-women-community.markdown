@@ -21,6 +21,8 @@ Most of my friends were also running their own businesses, and they were working
 
 ### We were so proud to be doing our own things and carving our own paths, but we needed a tribe.
 
+![Chelsea002 (3).jpg](/uploads/Chelsea002%20(3).jpg)
+
 The first magazine we ever produced was meant to be a Kickstarter prize as we raised money for a studio. But I soon realized that the kinds of women whom I wanted to invite to be part of the studio, their businesses were too young and not yet making enough revenue to support for a studio space on the westside of LA, where, as you know, rents are astronomical.
 
 We pivoted the business to focus solely on the magazine, thinking that we could help the women in our community feel more connected to one another through stories. There was such an overwhelmingly positive response to that first magazine that we knew it was something women had been yearning for – a [publication](https://www.bossladies.us/) that spoke to their actual interests: business, entrepreneurship, sustainable fashion, women’s health, politics, and social good. We committed to honing the magazine to best serve the needs of these women and to create a publication that met them where they were at. Six months later we launched our [Work Sesh](https://www.bossladies.us/shop/?category=Work\+Sesh) event series, and that filled the need for community and friendship that I’d been searching for.
@@ -33,6 +35,8 @@ There are so many. But right now I’m so inspired by Ava DuVernay, Lena Waithe,
 
 We have so much on the docket for next year. Our San Francisco issue will release in May, and I’m excited to see that out in the world. In this issue we’re featuring seven of the most incredible women in SF, and the magazine will have a chapter on each of them. We’ll continue hosting our monthly Work Sesh series in LA with a circle of 30 entrepreneurs. And we are in the early stages of planning for our first Bossladies conference in November of next year with a focus on growth and scaling for women two to ten years into growing their businesses.
 
+![BossladiesMagazine050.jpg](/uploads/BossladiesMagazine050.jpg)
+
 ###### Are there any areas in either your personal life or business that you know you need to bring some tenderness to?
 
 I like to think we always have the capacity for more tenderness. I hope to be writing more poetry next year - allowing myself space to process grief and sadness that I’ve spent a good long while shoving aside.
@@ -41,13 +45,17 @@ I like to think we always have the capacity for more tenderness. I hope to be wr
 
 I want to be more intentional with the things I take on next year to make sure I safeguard my space for those things.
 
+![BossladiesMagazine045.jpg](/uploads/BossladiesMagazine045.jpg)
+
 ###### Many of our entrepreneurial readers are always looking to learn more about good financial practices for growth as a business owner. What tips can you share with them that you’ve learned from running your own company?
 
 You only have one real opportunity for a first impression in your business. Therefore, the way you present your brand to the public at the outset (branding, logo, launch event, early partners and collaborators, etc.)  is the way they’ll think of your brand long into the future. It will take a lot to change this initial perception. So invest the money to make sure this first impression is a strong one. It will create opportunities later on.
 
-###### In addition to the [biannual magazine](https://www.bossladies.us/shop/issue04), you hold a series of four Work Sesh gatherings each month for 30 creative, driven women to come together to support one another, brainstorm ideas, collaborate on projects, and act as a sounding board. What was your hope in creating these intimate gatherings? What growth have you seen in the women who have attended?
+###### In addition to the [biannual magazine](https://www.bossladies.us/shop/issue04), you hold a series of four Work Sesh gatherings each month for 30 creative, driven women to come together to support one another, brainstorm ideas, and collaborate on projects. What was your hope in creating these intimate gatherings? What growth have you seen in the women who have attended?
 
 My hope was that women would find a circle of friends, collaborators, colleagues, mentors, sounding boards, and confidants. I never anticipated that they would love each other as much as they do – or that they would support each other’s businesses quite as they do. I’m deeply grateful for the way they continue to show up for each other. Our Tuesday mornings together (and now Wednesdays too) is my favorite part of the work week.
+
+![_MG_4972_.jpg](/uploads/_MG_4972_.jpg)
 
 ###### What is your creative process like in choosing the women to feature in each issue - from illustrators to articles?
 
@@ -58,6 +66,8 @@ I could probably write a whole article on just this alone. At the end of the day
 ### Smile at other women when you pass them on the street.
 
 It’s such a small thing, but I think it’s the first step toward demonstrating that we support one another, we are FOR one another, and we aren’t judging one another (as I think we all sometimes fear.)
+
+![BossladiesMagazine036.jpg](/uploads/BossladiesMagazine036.jpg)
 
 ###### You also have a small curated [online shop](https://www.bossladies.us/shop/?category=Collections) of lovely items all made by women-run businesses. What are your hopes for the future of Bossladies - from the magazine, to the gatherings, to this online shop?
 
