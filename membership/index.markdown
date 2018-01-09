@@ -1,7 +1,6 @@
 ---
 title: Membership
 position: 1
-layout: custom/membership
 nav:
   id: membership
   site:
@@ -13,27 +12,34 @@ sm-banners:
 - link: https://members.yellowco.co/
   image: "/assets/images/Membership-Mobile.jpg"
 quote:
-  text: I was building a life in my comfort zone. The Collective brought me out of
-    hiding.
+  text: "### [Interested? Hop on our email list.](http://eepurl.com/bEZbaH)"
   source: Jennifer Mingucci
   source-title: VP of Sales at Kidville
 details:
-- title: crave direction and purpose?
+- title: CRAVE DIRECTION & PURPOSE?
   text: You’re struggling to find the larger purpose in what you do. You move from
     client to client or project to project with no direction or clarity on how to
     make the impact you desire.
-- title: know you're capable of more?
+- title: KNOW YOU'RE CAPABLE OF MORE?
   text: You know you have potential that’s waiting to be unleashed. You know that
     you’re capable of making big waves of good in the world, but you don’t know where
     or how to start.
-- title: search to find your "people"?
+- title: SEARCHING TO FIND YOUR "PEOPLE"?
   text: You move from network to network but never feel like you’ve found your place.
     You crave a genuine group of women who care about building more than just a career.
 theme:
   image: "/assets/images/our-ownership.jpg"
   title: 'Take 2018 by storm with our 2018 theme: Our Ownership'
   text: |-
-    It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own WHO THEY ARE? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens.
+    What does it look like for us as women who are working towards advancing good in the world to OWN who we are, our stories and the issues we see happening all around us?
+
+    What does it look like when we STOP longing for what we don't have, and start owning what we DO have in front of us? What if we stopped denying our passion, our art, and started acknowledging it and giving it room in our lives?
+
+    Are you a poet? A writer? OWN it. Are you a designer? Tell people that's what you are. Do you run a business? You're an entrepreneur- own it!
+
+    What if we stopped the comparison game, stopped worrying about who is better and started to OWN who we are as unique, individual women working to make the world a better place? What if we took ownership, together, of the issues our world is facing and come together to make change?
+
+    This isn't just my ownership, or yours. It's OURS.
 
     **This is our focus for 2018: OUR OWNERSHIP**
     Each month throughout 2018 we will dive into a different focus of ownership, all helping you to take ownership of your life, who you were meant to be and your personal impact on the world.
@@ -64,5 +70,8 @@ faqs:
     each woman commits to helping that person for that month. We always leave feeling
     inspired, having things to think about and having new goals to implement into
     our lives. They’re pretty awesome if we do say so ourselves.
+- question: Where can I find more information?
+  answer: You can hop on our email list right here! ---> http://eepurl.com/bEZbaH
+layout: custom/membership
 ---
 
