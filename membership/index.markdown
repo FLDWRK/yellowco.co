@@ -12,8 +12,8 @@ sm-banners:
 - link: https://members.yellowco.co/
   image: "/assets/images/Membership-Mobile.jpg"
 quote:
-  text: '"I was building a life in my comfort zone, the Collective brought me out
-    of hiding."'
+  text: I was building a life in my comfort zone, the Collective brought me out of
+    hiding.
   source: Jennifer Mingucci
   source-title: VP of Sales at Kidville
 details:
@@ -28,6 +28,8 @@ details:
 - title: SEARCHING TO FIND YOUR "PEOPLE"?
   text: You move from network to network but never feel like you’ve found your place.
     You crave a genuine group of women who care about building more than just a career.
+- title: WANT MORE INFO?
+  text: Hop on our interst list
 theme:
   image: "/assets/images/our-ownership.jpg"
   title: 'Take 2018 by storm with our 2018 theme: Our Ownership'
@@ -42,21 +44,23 @@ theme:
 
     **Join us each month throughout 2018 as we dive into a different focus of ownership, all empowering you to take ownership of your life, who you were meant to be and your personal impact on the world.**
 faqs:
-- question: Do you ship internationally?
-  answer: We offer free shipping within the US., but international shipping prices
-    vary depending on your location. Feel free to chat us below for more info!
-- question: Can I cancel my membership?
-  answer: "Our membership is month to month and you can cancel anytime, although we’d
-    be sad to see you go \U0001F642"
+- question: Where can I find more information?
+  answer: You can hop on our email list right here! ---> <a href="http://eepurl.com/bEZbaH">http://eepurl.com/bEZbaH</a>
 - question: What comes with membership?
   answer: Membership value is delivered in 3 ways. Physically, with a monthly packet
     mailed to your door. Digitally, with access to our online hub of tools, resources
     and digital chats and webcasts. Lastly, in-person. We host monthly in-person gatherings
     with our chapters across the US. If you’re not in a location with an in-person
     chapter, we have digital chapters that meet on Zoom once a month!
+- question: Do you ship internationally?
+  answer: We offer free shipping within the US., but international shipping prices
+    vary depending on your location. Feel free to chat us below for more info!
 - question: How much is shipping?
-  answer: It’s free if you’re within the US! If you’re international, shipping prices
+  answer: It’s FREE if you’re within the US! If you’re international, shipping prices
     vary depending on your location.
+- question: Can I cancel my membership?
+  answer: "Our membership is month to month and you can cancel anytime, although we’d
+    be sad to see you go \U0001F642"
 - question: Where are your chapters and how do the gatherings work?
   answer: Currently we have chapters in West LA, Downtown LA, The Valley LA, Orange
     County, San Diego, Bay Area, New York City, Cincinnati, Austin, Chicago, Denver
@@ -68,8 +72,6 @@ faqs:
     each woman commits to helping that person for that month. We always leave feeling
     inspired, having things to think about and having new goals to implement into
     our lives. They’re pretty awesome if we do say so ourselves.
-- question: Where can I find more information?
-  answer: You can hop on our email list right here! ---> <a href="http://eepurl.com/bEZbaH">http://eepurl.com/bEZbaH</a>
 layout: custom/membership
 ---
 
