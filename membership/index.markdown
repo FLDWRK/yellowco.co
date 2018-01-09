@@ -40,7 +40,7 @@ theme:
 
     This isn't just my ownership, or yours. It's OURS.
 
-    Join us each month throughout 2018 as we dive into a different focus of ownership, all empowering you to take ownership of your life, who you were meant to be and your personal impact on the world.
+    **Join us each month throughout 2018 as we dive into a different focus of ownership, all empowering you to take ownership of your life, who you were meant to be and your personal impact on the world.**
 faqs:
 - question: Do you ship internationally?
   answer: We offer free shipping within the US., but international shipping prices
