@@ -12,7 +12,8 @@ sm-banners:
 - link: https://members.yellowco.co/
   image: "/assets/images/Membership-Mobile.jpg"
 quote:
-  text: "### [Interested? Hop on our email list.](http://eepurl.com/bEZbaH)"
+  text: '"I was building a life in my comfort zone, the Collective brought me out
+    of hiding."'
   source: Jennifer Mingucci
   source-title: VP of Sales at Kidville
 details:
@@ -35,14 +36,11 @@ theme:
 
     What does it look like when we STOP longing for what we don't have, and start owning what we DO have in front of us? What if we stopped denying our passion, our art, and started acknowledging it and giving it room in our lives?
 
-    Are you a poet? A writer? OWN it. Are you a designer? Tell people that's what you are. Do you run a business? You're an entrepreneur- own it!
-
-    What if we stopped the comparison game, stopped worrying about who is better and started to OWN who we are as unique, individual women working to make the world a better place? What if we took ownership, together, of the issues our world is facing and come together to make change?
+    What if we stopped the comparison game, stopped worrying about who is better and started to OWN who we are as unique, individual women working to make the world a better place? What if we took ownership, together, of the issues our world is facing and come together to make a change?
 
     This isn't just my ownership, or yours. It's OURS.
 
-    **This is our focus for 2018: OUR OWNERSHIP**
-    Each month throughout 2018 we will dive into a different focus of ownership, all helping you to take ownership of your life, who you were meant to be and your personal impact on the world.
+    Join us each month throughout 2018 as we dive into a different focus of ownership, all empowering you to take ownership of your life, who you were meant to be and your personal impact on the world.
 faqs:
 - question: Do you ship internationally?
   answer: We offer free shipping within the US., but international shipping prices
@@ -71,7 +69,7 @@ faqs:
     inspired, having things to think about and having new goals to implement into
     our lives. They’re pretty awesome if we do say so ourselves.
 - question: Where can I find more information?
-  answer: You can hop on our email list right here! ---> http://eepurl.com/bEZbaH
+  answer: You can hop on our email list right here! ---> <a href="http://eepurl.com/bEZbaH">http://eepurl.com/bEZbaH</a>
 layout: custom/membership
 ---
 
