@@ -33,14 +33,11 @@ theme:
   image: "/assets/images/our-ownership.jpg"
   title: 'Take 2018 by storm with our 2018 theme: Our Ownership'
   text: |-
-    What does it look like for us as women who are working towards advancing good in the world to OWN who we are, our stories and the issues we see happening all around us?
-
-    What does it look like when we STOP longing for what we don't have, and start owning what we DO have in front of us? What if we stopped denying our passion, our art, and started acknowledging it and giving it room in our lives?
+    What does it look like for us as women who are working towards advancing good in the world to OWN who we are, our stories and the issues we see happening all around us? What does it look like when we STOP longing for what we don't have, and start owning what we DO have in front of us? What if we stopped denying our passion, our art, and started acknowledging it and giving it room in our lives?
 
     What if we stopped the comparison game, stopped worrying about who is better and started to OWN who we are as unique, individual women working to make the world a better place? What if we took ownership, together, of the issues our world is facing and come together to make a change?
 
     This isn't just my ownership, or yours. It's OURS.
-
     **Join us each month throughout 2018 as we dive into a different focus of ownership, all empowering you to take ownership of your life, who you were meant to be and your personal impact on the world.**
 faqs:
 - question: Where can I find more information?
