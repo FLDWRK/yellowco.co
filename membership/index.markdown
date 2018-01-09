@@ -12,9 +12,11 @@ sm-banners:
 - link: https://members.yellowco.co/
   image: "/assets/images/Membership-Mobile.jpg"
 quote:
-  text: aksdjf;askdjf
+  text: I was building a life in my comfort zone, the Collective brought me out of
+    hiding.
   source: Jennifer Mingucci
   source-title: VP of Sales at Kidville
+  title: Want more info? Hop on our interest list!
 details:
 - title: CRAVE DIRECTION & PURPOSE?
   text: You’re struggling to find the larger purpose in what you do. You move from
