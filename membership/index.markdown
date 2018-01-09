@@ -16,7 +16,8 @@ quote:
     hiding.
   source: Jennifer Mingucci
   source-title: VP of Sales at Kidville
-  title: Want more info? Hop on our interest list!
+  title:
+    Key 1: What more info? Hop on our interest list!
 details:
 - title: CRAVE DIRECTION & PURPOSE?
   text: You’re struggling to find the larger purpose in what you do. You move from
@@ -33,9 +34,9 @@ theme:
   image: "/assets/images/our-ownership.jpg"
   title: 'Take 2018 by storm with our 2018 theme: Our Ownership'
   text: |-
-    What does it look like for us as women who are working towards advancing good in the world to OWN who we are, our stories and the issues we see happening all around us? What does it look like when we STOP longing for what we don't have, and start owning what we DO have in front of us? What if we stopped denying our passion, our art, and started acknowledging it and giving it room in our lives?
+    What does it look like for us as women who are working towards advancing good in the world to OWN who we are, our stories and the issues we see happening all around us? What does it look like when we STOP longing for what we don't have, and start owning what we DO have? What if we stopped denying our passion, our art, and started acknowledging it, giving it room in our lives?
 
-    What if we stopped the comparison game, stopped worrying about who is better and started to OWN who we are as unique, individual women working to make the world a better place? What if we took ownership, together, of the issues our world is facing and come together to make a change?
+    What if we stopped the comparison game and started to OWN who we are as unique, individual women? What if we took ownership, together, of the issues our world is facing and come together to make a change?
 
     This isn't just my ownership, or yours. It's OURS.
     **Join us each month throughout 2018 as we dive into a different focus of ownership, all empowering you to take ownership of your life, who you were meant to be and your personal impact on the world.**
@@ -68,6 +69,7 @@ faqs:
     each woman commits to helping that person for that month. We always leave feeling
     inspired, having things to think about and having new goals to implement into
     our lives. They’re pretty awesome if we do say so ourselves.
+Text: WANT MORE INFO? HOP ON OUR INTEREST LIST!
 layout: custom/membership
 ---
 
