@@ -12,8 +12,7 @@ sm-banners:
 - link: https://members.yellowco.co/
   image: "/assets/images/Membership-Mobile.jpg"
 quote:
-  text: I was building a life in my comfort zone, the Collective brought me out of
-    hiding.
+  text: aksdjf;askdjf
   source: Jennifer Mingucci
   source-title: VP of Sales at Kidville
 details:
@@ -28,8 +27,6 @@ details:
 - title: SEARCHING TO FIND YOUR "PEOPLE"?
   text: You move from network to network but never feel like you’ve found your place.
     You crave a genuine group of women who care about building more than just a career.
-- title: WANT MORE INFO?
-  text: Hop on our interst list
 theme:
   image: "/assets/images/our-ownership.jpg"
   title: 'Take 2018 by storm with our 2018 theme: Our Ownership'
