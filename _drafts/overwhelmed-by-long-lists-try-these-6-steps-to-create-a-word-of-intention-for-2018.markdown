@@ -1,6 +1,5 @@
 ---
-title: Overwhelmed by Long Lists? Try These 6 Steps To Create a Word of Intention
-  for 2018
+title: Tired of Lists? Design Your Own Word of Intention for 2018 Instead
 date: 2018-01-10 04:00:00 -08:00
 categories:
 - Growth
