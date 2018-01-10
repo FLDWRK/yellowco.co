@@ -70,8 +70,6 @@ faqs:
     each woman commits to helping that person for that month. We always leave feeling
     inspired, having things to think about and having new goals to implement into
     our lives. They’re pretty awesome if we do say so ourselves.
-Text:
-  Key 1: WANT MORE INFO? HOP ON OUR INTEREST LIST!
 layout: custom/membership
 ---
 
