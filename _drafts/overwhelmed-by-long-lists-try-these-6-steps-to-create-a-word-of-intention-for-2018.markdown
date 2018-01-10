@@ -4,6 +4,7 @@ date: 2018-01-10 04:00:00 -08:00
 categories:
 - Growth
 author: Amy Everhart
+image: "/uploads/Tired%20of%20Lists?%20Design%20Your%20Own%20Word%20of%20Intention%20for%202018%20Instead%20-%20Yellow%20Co.jpg"
 series: Tenderness
 ---
 
@@ -50,4 +51,4 @@ Because this is an intention and not a resolution, you can’t choose wrong or m
 
 With these intentions, our goal isn’t improvement so much as expansion. You’re not conquering your word in the new year, you’re living in devotion to it, and in doing so, creating the exact experiences you want in the new year.
 
-\*Photos by: \*
+*Photos by: [Eileen Roche](http://eileen-roche.com/)*
