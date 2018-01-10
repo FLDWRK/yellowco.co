@@ -4,7 +4,7 @@ date: 2018-01-10 04:00:00 -08:00
 categories:
 - Growth
 author: Amy Everhart
-image: "/uploads/Tired%20of%20Lists?%20Design%20Your%20Own%20Word%20of%20Intention%20for%202018%20Instead%20-%20Yellow%20Co-1340d0.jpg"
+image: "/uploads/Tired%20of%20Lists?%20Design%20Your%20Own%20Word%20of%20Intention%20for%202018%20Instead.jpg"
 series: Tenderness
 ---
 
