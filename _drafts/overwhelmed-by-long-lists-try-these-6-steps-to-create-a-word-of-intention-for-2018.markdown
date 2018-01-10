@@ -6,6 +6,8 @@ categories:
 author: Amy Everhart
 image: "/uploads/160126_Eileen%20Roche_Davis_083.jpg"
 series: Tenderness
+Description: Tired of overwhelmingly long lists of new year's resolutions? Get creative
+  and try these 6 steps to design a word of intention for 2018 instead!
 ---
 
 Almost as soon as the ball drops, I can feel the itch to pull out my planner and set resolutions to make the most of my new year. And inevitably, my well-meant resolutions fall apart by February 1st. We all know how to set goals, but when we make sweeping resolutions about what we’ll change or how we’ll grow, it’s usually out of a place of lack or shame: "I have to get serious about my finances this year because I’m broke," or, "I really need to lose weight so I can finally find a good partner."
