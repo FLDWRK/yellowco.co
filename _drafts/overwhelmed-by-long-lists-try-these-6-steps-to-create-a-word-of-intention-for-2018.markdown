@@ -41,13 +41,15 @@ In 2016, it was “sovereignty”; 2017, “wholeness”; and this year, “true
 5\. Of these three, consider each word and circle the one that you most want to embody in 2018.
 If you’re unsure of which word to choose, consider this:
 
-What do you want to stand for this year?  
+**What do you want to stand for this year?  
 What do you want to be known for this year?  
 What feels most timely for the challenges you’re facing?  
 What would expand you most?  
-What contains the essence of pure possibility and is devoid of any punishing “shoulds”?  
+What contains the essence of pure possibility and is devoid of any punishing “shoulds”?**  
 
 Because this is an intention and not a resolution, you can’t choose wrong or mess it up, so be gentle with yourself and go with your gut.
+
+![160126_Eileen Roche_Davis_084.jpg](/uploads/160126_Eileen%20Roche_Davis_084.jpg)
 
 6\. Finally, choose a way to bring your intention to life. You can get crafty with this and create a small vision board for your word, or you can keep it simple, like writing your word on a post-it note and taping it to your desk or bathroom mirror. Personally, I’ve cleared a small place on my desk for my word, “true”, and added several small objects that remind me of what truth is to me and why it’s important for me to embody this year. However you choose to bring your word to life is the right choice for you. The goal is simply to place it in an area where you’ll be able to connect with it frequently as a reminder.
 
