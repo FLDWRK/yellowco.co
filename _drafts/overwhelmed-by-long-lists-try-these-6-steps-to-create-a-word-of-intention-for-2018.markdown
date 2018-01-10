@@ -18,6 +18,8 @@ In 2016, it was “sovereignty”; 2017, “wholeness”; and this year, “true
 
 ###### Here’s how to set a one-word intention as a theme for your new year:
 
+![160126_Eileen Roche_Davis_092.jpg](/uploads/160126_Eileen%20Roche_Davis_092.jpg)
+
 1\. First, grab a notebook and something to write with. Turn to a clean page and draw three columns: mental, physical, and spiritual.
 
 2\. For each of the columns, make a list of how you want to feel in each realm in 2018. For example, in the mental realm, you might want to feel a sense of clarity. For the spiritual realm, a word that consistently comes up for me is “still” or “stillness”.
@@ -32,16 +34,18 @@ In 2016, it was “sovereignty”; 2017, “wholeness”; and this year, “true
 
 **Spiritual:** How do I want to feel in terms of connection to myself, others, and my higher power?
 
+![160126_Eileen Roche_Davis_064.jpg](/uploads/160126_Eileen%20Roche_Davis_064.jpg)
+
 4\. Next, take a step back and look for patterns in what you’ve written. What words are repeated? What words immediately jump out at you as important and resonant? When you have a sense of what these key words are, underline three of the words that you connect with most.
 
 5\. Of these three, consider each word and circle the one that you most want to embody in 2018.
 If you’re unsure of which word to choose, consider this:
 
-What do you want to stand for this year?
-What do you want to be known for this year?
-What feels most timely for the challenges you’re facing?
-What would expand you most?
-What contains the essence of pure possibility and is devoid of any punishing “shoulds”?
+What do you want to stand for this year?  
+What do you want to be known for this year?  
+What feels most timely for the challenges you’re facing?  
+What would expand you most?  
+What contains the essence of pure possibility and is devoid of any punishing “shoulds”?  
 
 Because this is an intention and not a resolution, you can’t choose wrong or mess it up, so be gentle with yourself and go with your gut.
 
