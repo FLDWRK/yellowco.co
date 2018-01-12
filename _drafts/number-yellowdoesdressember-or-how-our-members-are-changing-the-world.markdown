@@ -43,4 +43,6 @@ We thought this journey would be about our members raising money to help others,
 
 We are truly blown away by our members’ passion and by everyone’s donation and support. If it wasn’t for this community, this goal could have never been achieved. Keep an eye out for us next year, and consider joining the [#YellowDoesDressember](https://www.instagram.com/explore/tags/yellowdoesdressember/) team! Our 2018 goal is $5,000!
 
+Want to join this community of purpose-driven women creating good for human kind? [Become a Yellow member!](https://yellowco.co/membership/)
+
 Photos courtesy of Rachel Neal by [Burrow and Thistle Photography](http://burrowandthistle.com/), and our [#YellowDoesDressember](https://www.instagram.com/explore/tags/yellowdoesdressember/) team
