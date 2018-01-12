@@ -11,7 +11,7 @@ series: Tenderness
 
 After getting to watch [The Yellow Collective](https://yellowco.co/membership/) grow from the very beginning beta members to the tight-knit, powerhouse community it is now, I knew these ladies were amazing. What I did not know until this month was just HOW amazing.
 
-Last year, I was watching the world prepare for December — the pinnacle of the holiday season. Peppermint mochas, gift-wrapping ideas, and reflections on gratitude and giving filled my social media feed. With it, there was one more thing: [Dressember](http://www.dressember.org/) was going to be underway very soon! If you haven’t heard of Dressember or its incredible founder, [Bythe Hill](https://www.instagram.com/blythehill/), then you should really get on that and do *aalll* the researching, but I’ll give you a quick run-down.
+Last year, I was watching the world prepare for December — the pinnacle of the holiday season. Peppermint mochas, gift-wrapping ideas, and reflections on gratitude and giving filled my social media feed. With it, there was one more thing: [Dressember](http://www.dressember.org/) was going to be underway very soon! If you haven’t heard of Dressember or its incredible founder, [Bythe Hill](https://www.instagram.com/blythehill/), then you should really get on that and do *all* the researching, but I’ll give you a quick run-down.
 
 Dressember is a movement born of the founder’s own personal fashion challenge to wear a dress everyday of December. Over the years, it spread to her friends, and then strangers jumped on board.
 
@@ -45,6 +45,6 @@ We thought this journey would be about our members raising money to help others,
 
 We are truly blown away by our members’ passion and by everyone’s donation and support. If it wasn’t for this community, this goal could have never been achieved. Keep an eye out for us next year, and consider joining the [#YellowDoesDressember](https://www.instagram.com/explore/tags/yellowdoesdressember/) team! Our 2018 goal is $5,000!
 
-Want to join this community of purpose-driven women creating good for human kind? [Become a Yellow member!](https://yellowco.co/membership/)
+##### Want to join this community of purpose-driven women creating good for human kind? [Become a Yellow member!](https://yellowco.co/membership/)
 
 Photos courtesy of Rachel Neal by [Burrow and Thistle Photography](http://burrowandthistle.com/), and our [#YellowDoesDressember](https://www.instagram.com/explore/tags/yellowdoesdressember/) team
