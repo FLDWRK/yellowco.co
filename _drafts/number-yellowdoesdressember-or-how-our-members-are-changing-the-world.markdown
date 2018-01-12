@@ -5,7 +5,7 @@ date: 2018-01-12 04:00:00 -08:00
 categories:
 - Conscious Living
 author: Rachel Neal
-image: "/uploads/How%20Yellow%20Members%20Raised%20$3,000%20for%20Human%20Trafficking%20with%2030%20Days%20and%20One%20Outfit.jpg"
+image: "/uploads/How%20Yellow%20Members%20Raised%20$3,000%20for%20Human%20Trafficking%20with%2030%20Days%20and%20One%20Outfit-e4915e.jpg"
 series: Tenderness
 ---
 
@@ -32,6 +32,8 @@ We shared photos of members in their dresses on our [@theyellowcollective](https
 The hope was spreading and donations began pinging in left and right. Due to our Yellow Collective ladies’ dedication to the cause (and great style, of course) we hit our $1,000 goal only 12 days into December! We announced the grand news with a photo of member Nicole Devereaux donning dresses with her two little girls.
 
 “It was so humbling to see people respond,” said Nicole. “I LOVED telling the stories of rescue and restoration. I loved giving a voice to the voiceless.” It didn’t stop there.
+
+![Taken by Burrow and Thistle Photography 2.jpg](/uploads/Taken%20by%20Burrow%20and%20Thistle%20Photography%202.jpg)
 
 ### Our humble goal kept increasing, until finally our campaign had raised $3,630.18 — nearly FOUR times our original amount!
 
