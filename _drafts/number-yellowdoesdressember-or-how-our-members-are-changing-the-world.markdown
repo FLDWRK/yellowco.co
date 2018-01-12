@@ -25,9 +25,9 @@ Our goal was to raise $1,000 and we launched a hashtag so we could follow along 
 
 We shared photos of members in their dresses on our [@theyellowcollective](https://www.instagram.com/theyellowcollective/) Instagram rocking their daily lives while doing such good for the world. [Brianna Towne](https://www.instagram.com/briannatowne/) practicing yoga, [Ella London](https://www.instagram.com/ellalondon/) donning her yellow ensemble, and [Treaneva Crammer](https://www.instagram.com/crammeret/) braving it in the Midwest snow — all in dresses!
 
-![dressember.jpg](/uploads/dressember.jpg)
-
 “I loved being a witness to this Dressember as it aligned movements of women in such creative moments of sisterhood, education, celebration, and lament,” said Treaneva.
+
+![dressember.jpg](/uploads/dressember.jpg)
 
 ### “Being inclusive, powerful, and passionate fighters together was immensely encouraging. It gave me hope for working together towards all of the areas of advocacy needed in our current climate.”
 
