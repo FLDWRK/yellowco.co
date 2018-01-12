@@ -17,13 +17,13 @@ Dressember is a movement born of the founder’s own personal fashion challenge 
 
 ### It became a style challenge to bring awareness to and advocate for the dignity and wellbeing of women who’ve been trafficked into modern day slavery.
 
-Dressember partners with [International Justice Mission](https://www.ijm.org/) every year to raise money pooled from the campaigns of participants — and they’ve been increasing their impact annually.
-
-I had never participated, but I knew this was the year I would get involved — and there was no better group to get involved with than the [Yellow Collective members](https://yellowco.co/membership/). I ran the idea past everyone and the response was immediate and passionate — our campaign was underway and our team quickly grew!
+Dressember partners with [International Justice Mission](https://www.ijm.org/) every year to raise money pooled from the campaigns of participants — and they’ve been increasing their impact annually. I had never participated, but I knew this was the year I would get involved — and there was no better group to get involved with than the [Yellow Collective members](https://yellowco.co/membership/). I ran the idea past everyone and the response was immediate and passionate — our campaign was underway and our team quickly grew!
 
 Our goal was to raise $1,000 and we launched a hashtag so we could follow along with everyone’s journey: [#YellowDoesDressember](https://www.instagram.com/explore/tags/yellowdoesdressember/)! Members shared images of their daily dress, stories they had heard of individuals who had been trafficked, and personal reflections on the cause. Numerous members even had their kids get involved in the mission — a family dress-up occasion!
 
 We shared photos of members in their dresses on our [@theyellowcollective](https://www.instagram.com/theyellowcollective/) Instagram rocking their daily lives while doing such good for the world. [Brianna Towne](https://www.instagram.com/briannatowne/) practicing yoga, [Ella London](https://www.instagram.com/ellalondon/) donning her yellow ensemble, and [Treaneva Crammer](https://www.instagram.com/crammeret/) braving it in the Midwest snow — all in dresses!
+
+![dressember.jpg](/uploads/dressember.jpg)
 
 “I loved being a witness to this Dressember as it aligned movements of women in such creative moments of sisterhood, education, celebration, and lament,” said Treaneva.
 
