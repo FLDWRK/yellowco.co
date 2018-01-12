@@ -1,5 +1,6 @@
 ---
-title: "#YellowDoesDressember (Or, How Our Members Are Changing The World)"
+title: '30 Days, 1 Outfit, and $3,000 Raised for Human Trafficking: How Our Yellow
+  Members Did it'
 date: 2018-01-12 04:00:00 -08:00
 categories:
 - Conscious Living
