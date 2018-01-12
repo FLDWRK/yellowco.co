@@ -1,6 +1,6 @@
 ---
-title: '30 Days, 1 Outfit, and $3,000 Raised for Human Trafficking: How Our Yellow
-  Members Did it'
+title: How Yellow Members Raised $3,000 for Human Trafficking with 30 Days and One
+  Outfit
 date: 2018-01-12 04:00:00 -08:00
 categories:
 - Conscious Living
