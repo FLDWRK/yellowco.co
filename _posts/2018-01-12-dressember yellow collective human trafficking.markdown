@@ -19,7 +19,7 @@ Dressember is a movement born of the founder’s own personal fashion challenge 
 
 Dressember partners with [International Justice Mission](https://www.ijm.org/) every year to raise money pooled from the campaigns of participants — and they’ve been increasing their impact annually. I had never participated, but I knew this was the year I would get involved — and there was no better group to get involved with than the [Yellow Collective members](https://yellowco.co/membership/). I ran the idea past everyone and the response was immediate and passionate — our campaign was underway and our team quickly grew!
 
-![dressember 2.jpg](/uploads/dressember%202.jpg)
+![How Yellow Members Raised $3,000 for Human Trafficking with 30 Days and One Outfit - Yellow Co.jpg](/uploads/dressember%202.jpg)
 
 Our goal was to raise $1,000 and we launched a hashtag so we could follow along with everyone’s journey: [#YellowDoesDressember](https://www.instagram.com/explore/tags/yellowdoesdressember/)! Members shared images of their daily dress, stories they had heard of individuals who had been trafficked, and personal reflections on the cause. Numerous members even had their kids get involved in the mission — a family dress-up occasion!
 
@@ -27,7 +27,7 @@ We shared photos of members in their dresses on our [@theyellowcollective](https
 
 “I loved being a witness to this Dressember as it aligned movements of women in such creative moments of sisterhood, education, celebration, and lament,” said Treaneva.
 
-![dressember.jpg](/uploads/dressember.jpg)
+![How Yellow Members Raised $3,000 for Human Trafficking with 30 Days and One Outfit - Yellow Co.jpg](/uploads/dressember.jpg)
 
 ### “Being inclusive, powerful, and passionate fighters together was immensely encouraging. It gave me hope for working together towards all of the areas of advocacy needed in our current climate.”
 
@@ -35,7 +35,7 @@ The hope was spreading and donations began pinging in left and right. Due to our
 
 “It was so humbling to see people respond,” said Nicole. “I LOVED telling the stories of rescue and restoration. I loved giving a voice to the voiceless.” It didn’t stop there.
 
-![Taken by Burrow and Thistle Photography 2.jpg](/uploads/Taken%20by%20Burrow%20and%20Thistle%20Photography%202.jpg)
+![How Yellow Members Raised $3,000 for Human Trafficking with 30 Days and One Outfit - Yellow Co.jpg](/uploads/Taken%20by%20Burrow%20and%20Thistle%20Photography%202.jpg)
 
 ### Our humble goal kept increasing, until finally our campaign had raised $3,630.18 — nearly FOUR times our original amount!
 
@@ -45,6 +45,6 @@ We thought this journey would be about our members raising money to help others,
 
 We are truly blown away by our members’ passion and by everyone’s donation and support. If it wasn’t for this community, this goal could have never been achieved. Keep an eye out for us next year, and consider joining the [#YellowDoesDressember](https://www.instagram.com/explore/tags/yellowdoesdressember/) team! Our 2018 goal is $5,000!
 
-##### Want to join this community of purpose-driven women creating good for human kind? [Become a Yellow member!](https://yellowco.co/membership/)
+##### Want to join this community of purpose-driven women creating good for human kind? [Become a Yellow member here!](https://yellowco.co/membership/)
 
 Photos courtesy of Rachel Neal by [Burrow and Thistle Photography](http://burrowandthistle.com/), and our [#YellowDoesDressember](https://www.instagram.com/explore/tags/yellowdoesdressember/) team
