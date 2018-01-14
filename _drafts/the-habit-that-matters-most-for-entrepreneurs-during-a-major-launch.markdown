@@ -34,4 +34,4 @@ Simple things like celebrating the small wins (schedule this!), drinking lots of
 
 I’m glad I figured this out during this first campaign, because we will be running the campaign every year! Now I know what to do for next year, and I hope that this encourages you to show yourself grace and compassion during big launches, campaigns, and projects, as well!
 
-Photos
+*Feature image by [Valerie Moreno](http://www.nuanceandbubbles.com/), other images by [Eun Creative](http://www.euncreative.com/)*
