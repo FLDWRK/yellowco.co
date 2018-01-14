@@ -6,6 +6,9 @@ categories:
 author: Elisabetta Colabianchi
 image: "/uploads/The%20Habit%20That%20Matters%20Most%20for%20Entrepreneurs%20During%20a%20Major%20Launch.jpg"
 series: Tenderness
+Description: Have you ever launched a big project that consisted of working 7 days
+  a week from early in the morning until late at night? Find out why slowing down
+  is the most important habit for entreprenuers during a busy season.
 ---
 
 For us purpose-driven women, it’s so easy to let our passion run the show and take control of our life! Working in the non-profit space, I’m no stranger to burn out. Having gone through it at least twice before, I’m now garnering more tools on how to prevent it. These include boundaries, and showing myself grace and compassion during big projects so that I can find more balance and enjoy the journey without getting overwhelmed!
