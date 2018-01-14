@@ -16,7 +16,7 @@ Have you ever launched a big campaign or project that consisted of working 7 day
 
 This past September, my non-profit, Kurandza, launched the #IStandForGirls campaign to raise scholarships for 100 girls in Mozambique. It was actually just a few days after [The Yellow Conference](https://yellowco.co/conference/), and my Mozambican counterpart and best friend, Percina, was in town for the conference and subsequent launch. During this time, I was a little bit (read: very much so) overwhelmed and stressed out about the campaign. Our goal was to raise scholarships for 100 girls in Mozambique, and I knew (thought) that if we didn’t reach our goal, then it meant that I didn’t do enough reaching out and storytelling. Can you relate?
 
-![Cafe-LouLou-01.jpg](/uploads/Cafe-LouLou-01.jpg)
+![The Habit That Matters Most for Entrepreneurs During a Major Launch - Yellow Co.jpg](/uploads/Cafe-LouLou-01.jpg)
 
 So every waking minute I was reaching out to people, posting on social media, doing Facebook videos, and going to events. Other than seeing people for work-related meetings and hanging out with Percina, my social life was non-existent. My morning routine went out the window and my healthy eating habits did too. I didn’t even practice self care. Even as someone who has felt burn out before and is such a fan of self care, I still fall off the wagon every now and then.
 
@@ -26,7 +26,7 @@ Looking back on my campaign, I would have done a couple things differently: I wo
 
 ### I noticed that when all I did was work, I was actually less productive and focused, but felt like I couldn’t be the one to just take a break myself.
 
-![Cafe-Devotional-5 (1).jpg](/uploads/Cafe-Devotional-5%20(1).jpg)
+![The Habit That Matters Most for Entrepreneurs During a Major Launch - Yellow Co.jpg](/uploads/Cafe-Devotional-5%20(1).jpg)
 
 When these breaks are planned into the campaign schedule, it makes it so much easier to follow through and give myself the go-ahead to actually take them!
 
