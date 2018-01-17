@@ -6,6 +6,8 @@ categories:
 author: Emily Schrems
 image: "/uploads/ValerieDenisePhotos-14.jpg"
 series: Tenderness
+Description: Always wanted to learn photography? Hip hop? How to make squash gnocchi?
+  We've got 5 apps that will teach you them all.
 ---
 
 If you’re anything like me, you may have entered into 2018 with high expectations of achievements and a set of goals that will guarantee this to be your best year yet. While there’s nothing wrong with this mentality, focusing solely on rigid achievement will likely lead to burnout, and fast. This year, I’m grateful for the community of women that reminded me of the importance of playful fun that inspires the kid in me to learn something new just because I want to. Shaking off any expectation other than enjoyment and endorphin-releasing, I am welcoming 2018 with delicious new meals, dancing around in my underwear, and learning to code just for the heck of it. Here are a few resources to help you move into the new year with a bit more tenderness and lighthearted play.
@@ -18,7 +20,7 @@ An app designed for food lovers and travelers *by* food lovers and travelers! [T
 
 [Skillshare](https://www.skillshare.com/) accesses online videos and content created by experts in diverse industries. There are over 17,000 classes that go into design, photography, entrepreneurship, and more! They’re short and digestible for you to go at your own pace. You can even get started for free before you decide if you want to become a monthly subscriber.
 
-![ValerieDenisePhotos-44.jpg](/uploads/ValerieDenisePhotos-44.jpg)
+![5 Apps for Everything You Want to Learn from French to Photography - Yellow Co.jpg](/uploads/ValerieDenisePhotos-44.jpg)
 
 ##### [Duolingo](https://www.duolingo.com/)
 
@@ -28,7 +30,7 @@ If 2018 is the year you finally become bilingual or at least learn how to say �
 
 Unleash your inner rockstar. Or at least learn a few chords if you’ve been wanting to for awhile! At any skill level, [Yousician](https://yousician.com/) connects you to step-by-step tutorials for guitar, piano, bass, and ukulele. I like it because you can track your progress, so if you’re like me and get distracted for a few months, you can pick up again right where you left off.
 
-![ValerieDenisePhotos-15.jpg](/uploads/ValerieDenisePhotos-15.jpg)
+![5 Apps for Everything You Want to Learn from French to Photography - Yellow Co.jpg](/uploads/ValerieDenisePhotos-15.jpg)
 
 ##### [Hip Hop Dance by F](https://itunes.apple.com/us/app/hip-hop-dance-volume-1/id988322696?mt=8)**[itivity ](https://itunes.apple.com/us/app/hip-hop-dance-volume-1/id988322696?mt=8)**
 
