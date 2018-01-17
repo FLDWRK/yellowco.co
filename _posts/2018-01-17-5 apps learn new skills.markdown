@@ -38,4 +38,4 @@ Whether you want to be center circle at the club or dance around better at home 
 
 If you needed a reminder to be more lighthearted and tender with yourself this year like I did, I hope this is it for you. Let’s move forward in 2018 together, whether awkwardly or confidently, toward a more honest existence.
 
-Photos by *[Valerie Denise Photos](http://www.valeriedenisephotos.com/)*
+_Photos by [Valerie Denise Photos](http://www.valeriedenisephotos.com/)_
