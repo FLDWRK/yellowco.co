@@ -40,7 +40,7 @@ Yes, I feel like I have to provide myself grace daily. I think as a creative and
 
 ###### This month you also created a custom piece about Tenderness for our [Yellow Collective](https://yellowco.co/membership/) periodical! Can you share a bit about what you wanted our members to feel from this piece?
 
-The idea behind the drawing is to help bring about a sense of completion. To realize even in the chaos of life, you can and should be gracious with yourself. The idea of perfection is daunting. Be kind to yourself. Every journey is different. Your success is not the same as the person next to you and neither are your failures. Show tenderness to yourself. Be gracious.
+The idea behind the drawing is to help bring about a sense of completion. To realize even in the chaos of life, you can and should be gracious with yourself. The idea of perfection is daunting. Be kind to yourself. Every journey is different. Your success is not the same as the person next to you and neither are your failures. [Show tenderness to yourself](https://yellowco.co/blog/2018/01/01/tenderness-new-year-series/). Be gracious.
 
 The shapes represent the different roles we find ourselves in. These shapes take on a life of their own much like they do in life. The dots represent a being which holds all of those roles of life together. Some of those roles are closer to that being than others. But in the end, they are all being held together by it. The dashed lines going around it all represent life, lineage, and time. Everything and everyone has a spot in time. It’s what we do with that time that determines who we are. This drawing was meant to be added onto and transformed into each person's own creation.
 
@@ -52,7 +52,7 @@ I love to be in nature and to travel. I often travel with a sketchbook and some 
 
 ###### Do you have any [intentions](https://yellowco.co/blog/2018/01/10/new-year-resolution-goals-word-intention/) for 2018? If yes, what are they?
 
-I have a few different intentions. I hope to have another solo show, submit to galleries, and learn more about facilitating an art therapy class. I also plan on traveling.
+I have a few different [intentions](https://yellowco.co/blog/2018/01/10/new-year-resolution-goals-word-intention/). I hope to have another solo show, submit to galleries, and learn more about facilitating an art therapy class. I also plan on traveling.
 
 You can find more of Stephanie's work on her [Etsy shop](https://www.etsy.com/shop/stephrenea) or on [Instagram](https://www.instagram.com/stephrenea.art/)!
 
