@@ -8,7 +8,7 @@ image: "/uploads/958A8350%20(1).jpg"
 series: Tenderness
 ---
 
-_From lawyers to letterpress printers, and jewelry designers to business coaches, every entrepreneur has a story. We love hearing from movers and shakers of all kinds to learn about their particular process, background, struggles, and dreams for the future. Today, we're sharing artist, [Stephanie Smith](https://www.instagram.com/stephrenea.art/)'s, story about how she finds freedom in her work, gives herself grace in her process, and what she wants her art to speak to others. You might have even already seen some of her beautiful art in our [focus of the month post ](https://yellowco.co/blog/2018/01/01/tenderness-new-year-series/)on Tenderness, and on the cover of this month's [Yellow Collective](https://yellowco.co/membership/) periodical!_
+*From lawyers to letterpress printers, and jewelry designers to business coaches, every entrepreneur has a story. We love hearing from movers and shakers of all kinds to learn about their particular process, background, struggles, and dreams for the future. Today, we're sharing artist, [Stephanie Smith](https://www.instagram.com/stephrenea.art/)'s, story about how she finds freedom in her work, gives herself grace in her process, and what she wants her art to speak to others. You might have even already seen some of her beautiful art in our [focus of the month post ](https://yellowco.co/blog/2018/01/01/tenderness-new-year-series/)on Tenderness, and on the cover of this month's [Yellow Collective](https://yellowco.co/membership/) periodical!*
 
 ###### How did you start out as an artist?
 
@@ -18,11 +18,11 @@ I have always enjoyed the arts. I grew up dancing. I took dance lessons for 13 y
 
 I take breaks. Sometimes I get into the studio and things just click. It is effortless. Other times, it’s work. It takes being patient and being okay with mistakes. I also ask for feedback. There are times when what I think is terrible others actually enjoy or help me think of ways to make it better. Being open to feedback is a huge part of showing myself tenderness and also willing to just say... “Oh that piece just is not good.”
 
+###### ![image1.jpeg](/uploads/image1.jpeg)
+
 ###### When do you feel your freest?
 
 I feel my freest when working in my studio, hunched over a canvas, and just letting the paint move and flow as it wishes.
-
-![image1.jpeg](/uploads/image1.jpeg)
 
 ###### Do you struggle with [comparison](https://yellowco.co/blog/2018/01/05/avoid-social-media-comparison/) to other artists? If so, how are you able to move past this?
 
