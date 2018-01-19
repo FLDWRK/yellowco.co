@@ -6,9 +6,14 @@ categories:
 author: Yellow Co.
 image: "/uploads/958A8350%20(1).jpg"
 series: Tenderness
+Description: We love hearing from movers and shakers of all kinds to learn about their
+  particular process, background, struggles, and dreams for the future. Today, we're
+  sharing abstract artist, [Stephanie Smith](https://www.instagram.com/stephrenea.art/)'s,
+  story about how she finds freedom in her work, gives herself grace in her process,
+  and what she wants her art to speak to others.
 ---
 
-*From lawyers to letterpress printers, and jewelry designers to business coaches, every entrepreneur has a story. We love hearing from movers and shakers of all kinds to learn about their particular process, background, struggles, and dreams for the future. Today, we're sharing artist, [Stephanie Smith](https://www.instagram.com/stephrenea.art/)'s, story about how she finds freedom in her work, gives herself grace in her process, and what she wants her art to speak to others. You might have even already seen some of her beautiful art in our [focus of the month post ](https://yellowco.co/blog/2018/01/01/tenderness-new-year-series/)on Tenderness, and on the cover of this month's [Yellow Collective](https://yellowco.co/membership/) periodical!*
+*From lawyers to letterpress printers, and jewelry designers to business coaches, every entrepreneur has a story. We love hearing from movers and shakers of all kinds to learn about their particular process, background, struggles, and dreams for the future. Today, we're sharing abstract artist, [Stephanie Smith](https://www.instagram.com/stephrenea.art/)'s, story about how she finds freedom in her work, gives herself grace in her process, and what she wants her art to speak to others. You might have even already seen some of her beautiful art in our [focus of the month post ](https://yellowco.co/blog/2018/01/01/tenderness-new-year-series/)on Tenderness, and on the cover of this month's [Yellow Collective](https://yellowco.co/membership/) periodical!*
 
 ###### How did you start out as an artist?
 
@@ -32,7 +37,7 @@ I used to really struggle with comparison. Occasionally it tries to creep in and
 
 That I am minimal and intentional. It does not take much to make me happy. I am a pretty minimal person and hate drama. I am also an intentional person by nature. I enjoy deep conversations and I am terrible at small talk.
 
-![image2.jpeg](/uploads/image2.jpeg)
+![Speaking with Shapes: 10 Questions with Abstract Artist Stephanie Smith - Yellow Co.jpeg](/uploads/image2.jpeg)
 
 ###### Have you had any specific moments of failure in which you struggled with providing yourself grace?
 
@@ -44,7 +49,7 @@ The idea behind the drawing is to help bring about a sense of completion. To rea
 
 The shapes represent the different roles we find ourselves in. These shapes take on a life of their own much like they do in life. The dots represent a being which holds all of those roles of life together. Some of those roles are closer to that being than others. But in the end, they are all being held together by it. The dashed lines going around it all represent life, lineage, and time. Everything and everyone has a spot in time. It’s what we do with that time that determines who we are. This drawing was meant to be added onto and transformed into each person's own creation.
 
-![yellowco2 (1).jpg](/uploads/yellowco2%20(1).jpg)
+![Speaking with Shapes: 10 Questions with Abstract Artist Stephanie Smith - Yellow Co.jpg](/uploads/yellowco2%20(1).jpg)
 
 ###### Where or how do you rediscover inspiration when you’re feeling creatively dry?
 
