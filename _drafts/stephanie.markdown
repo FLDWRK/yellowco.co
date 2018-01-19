@@ -1,5 +1,5 @@
 ---
-title: 'Speaking with Shapes: 10 Questions with Artist Stephanie Smith'
+title: 'Speaking with Shapes: 10 Questions with Abstract Artist Stephanie Smith'
 date: 2018-01-19 04:00:00 -08:00
 categories:
 - Entrepreneurs
