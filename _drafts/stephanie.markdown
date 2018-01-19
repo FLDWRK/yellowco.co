@@ -1,5 +1,5 @@
 ---
-title: stephanie
+title: 10 Questions
 date: 2018-01-19 04:00:00 -08:00
 categories:
 - Entrepreneurs
@@ -8,7 +8,7 @@ image: "/uploads/958A8350%20(1).jpg"
 series: Tenderness
 ---
 
-From lawyers to letterpress printers, and jewelry designers to business coaches, every entrepreneur has a story. We love hearing from movers and shakers of all kinds to learn about their particular process, background, struggles, and dreams for the future. Today, we're sharing artist, Stephanie Smith's story about how she finds freedom in her work, gives herself grace in her process, and what she wants her art to speak to others. You might have even already seen some of her beautiful art in our [focus of the month post ](https://yellowco.co/blog/2018/01/01/tenderness-new-year-series/)on Tenderness, and on the cover of this month's [Yellow Collective](https://yellowco.co/membership/) periodical!
+From lawyers to letterpress printers, and jewelry designers to business coaches, every entrepreneur has a story. We love hearing from movers and shakers of all kinds to learn about their particular process, background, struggles, and dreams for the future. Today, we're sharing artist, [Stephanie Smith](https://www.instagram.com/stephrenea.art/)'s, story about how she finds freedom in her work, gives herself grace in her process, and what she wants her art to speak to others. You might have even already seen some of her beautiful art in our [focus of the month post ](https://yellowco.co/blog/2018/01/01/tenderness-new-year-series/)on Tenderness, and on the cover of this month's [Yellow Collective](https://yellowco.co/membership/) periodical!
 
 ###### How did you start out as an artist?
 
@@ -54,4 +54,6 @@ I love to be in nature and to travel. I often travel with a sketchbook and some 
 
 I have a few different intentions. I hope to have another solo show, submit to galleries, and learn more about facilitating an art therapy class. I also plan on traveling.
 
-*Images and Artwork courtesy of Stephanie Smith*
+You can find more of Stephanie's work on her [Etsy shop](https://www.etsy.com/shop/stephrenea) or on [Instagram](https://www.instagram.com/stephrenea.art/)!
+
+*Images and Artwork courtesy of [Stephanie Smith](https://www.instagram.com/stephrenea.art/)*
