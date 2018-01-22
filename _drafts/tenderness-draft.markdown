@@ -4,6 +4,7 @@ date: 2018-01-22 04:00:00 -08:00
 categories:
 - Growth
 author: Chantelle Gibbs
+image: "/uploads/ValerieDenisePhotos-15-e92712.jpg"
 series: Tenderness
 ---
 
