@@ -10,7 +10,7 @@ series: Tenderness
 
 The last song I wrote was in 2016.
 
-The year before that I had only successfully finished two, as that was the year I thought it would be a good idea to work a part-time gig on top of my full-time one. But all grown up and well into my twenties, my days were filled with thoughts, melodies, ideas, poems and feelings - so many feelings.
+The year before that I had only successfully finished two, as that was the year I thought it would be a good idea to work a part-time gig on top of my full-time one. But all growing up and well into my twenties, my days were filled with thoughts, melodies, ideas, poems and feelings - so many feelings.
 
 ### Even with my rudimental comprehension of music theory, the only possible antidote I had found to avoid emotionally combusting was to compose songs.
 
