@@ -3,7 +3,7 @@ title: Chantelle Gibbs
 company_name: 
 job_title: 
 bio_image: "/assets/images/chantelle-gibbs.jpg"
-website: https://www.instagram.com/chillchantelle/
+website: https://twitter.com/chillchantelle
 is_guest: true
 ---
 
