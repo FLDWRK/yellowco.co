@@ -11,8 +11,6 @@ Description: Looking for some inspiration, empowerment, or a few laughs, but don
   under 10 minutes.
 ---
 
-<br>  
-
 #### Art & Culture
 
 ###### Fun, Fierce,  and Fantastical African Art - 5 min
