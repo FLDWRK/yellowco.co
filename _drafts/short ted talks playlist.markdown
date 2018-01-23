@@ -15,7 +15,7 @@ Description: Looking for some inspiration, empowerment, or a few laughs, but don
 
 ###### Fun, Fierce,  and Fantastical African Art - 5 min
 
-In this talk, TED Fellow, Wanuri Kahiu, encourages the advocacy of art for arts' sake. She challenges that there is a need for imaginative, vibrant, and lighthearted art to come out of Africa, representing all kinds of human experiences there rather than just stories of poverty and war. Learn about the movement she calls "AfroBubbleGum" art and how it can brighten not just your day, but a global perspective.
+In this talk, TED Fellow, Wanuri Kahiu, encourages the advocacy of art for arts' sake. She challenges that there is a need for imaginative, vibrant, and lighthearted art to come out of Africa; representing all kinds of human experiences that exist there, rather than just stories of poverty and war. Learn about the movement she calls "AfroBubbleGum" art and how it can brighten not just your day, but a global perspective.
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/wanuri_kahiu_fun_fierce_and_fantastical_african_art" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
@@ -25,7 +25,7 @@ In this talk, TED Fellow, Wanuri Kahiu, encourages the advocacy of art for arts'
 
 ###### 3 Thoughtful Ways to Conserve Water - 10 min
 
-We all know a few ways to cut down water use around our homes, but what about our communities? In this talk, Lana Mazahreh, shares some create, approachable ways for cities to be conscious of their water use. Having grown up in Jordan, a state that has experienced absolute water scarcity since 1973, conserving water has been a part of her life both as a child and an adult (and she has a few funny stories about it).
+We all know a few ways to cut down water use around our homes, but what about our communities? Having grown up in Jordan, a state that has experienced absolute water scarcity since 1973, conserving water has been a part of Lana Mazahreh's life both as a child and an adult. In this talk, she shares some creative, approachable ways for cities to be conscious of their water use. 
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lana_mazahreh_3_thoughtful_ways_to_conserve_water" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
@@ -65,7 +65,7 @@ After unexpectedly being let go at 64 years old, Paul Tasner decided it was time
 
 ###### Free Yourself from Your Filter Bubbles - 10 min
 
-What happens when a liberal and conservative meet? Joan Blades,  domestic peace advocate, and John Gable, technologist and activist,  had been wary to find out as most of the company they kept shared their opinions. But, the two quickly became longtime friends and saw the great value and need to have honest conversations with others you might not initially agree with. In their shared talk, learn how to create spaces for mutual listening and even make friends with people who have different beliefs than you.
+What happens when a liberal and conservative meet? Joan Blades,  domestic peace advocate, and John Gable, technologist and activist,  had been wary to find out as most of the company they kept shared their opinions. But, the two quickly became lifelong friends and saw the great value and need to have honest conversations with others you might not initially agree with. In their shared talk, learn how to create spaces for mutual listening and even make friends with people who have different beliefs than you.
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/joan_blades_and_john_gable_free_yourself_from_your_filter_bubbles" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
