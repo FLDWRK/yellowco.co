@@ -4,14 +4,13 @@ date: 2018-01-22 16:07:00 -08:00
 categories:
 - Culture
 author: Hanna Snyder
+image: "/uploads/ValerieDenisePhotos-83.jpg"
 series: Tenderness
 ---
 
 #### Art & Culture
 
-###### Fun, fierce,  and fantastical African art
-
-**5 min**
+###### 5 min - Fun, Fierce,  and Fantastical African Art
 
 In this talk, TED Fellow, Wanuri Kahiu, encourages the advocacy of art for arts' sake. She challenges that there is a need for imaginative, vibrant, and lighthearted art to come out of Africa, representing all kinds of human experiences there rather than just stories of poverty and war. Learn about the movement she calls "AfroBubbleGum" art and how it can brighten not just your day, but a global perspective.
 
