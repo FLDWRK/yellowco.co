@@ -1,5 +1,5 @@
 ---
-title: x bite size ted talks for
+title: 6 bite size ted talks for
 date: 2018-01-22 16:07:00 -08:00
 categories:
 - Culture
@@ -49,3 +49,5 @@ Joan Blades and John Gable
 
 **How I became an entrepreneur at 66 | 7 min**  \
 Paul Tasner -- after working continuously for other people for 40 years, he founded his own start-up at age 66
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/paul_tasner_how_i_became_an_entrepreneur_at_66" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
