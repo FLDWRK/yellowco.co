@@ -1,12 +1,17 @@
 ---
 title: 6 Bite-Sized TED Talks for Every Mood
-date: 2018-01-22 16:07:00 -08:00
+date: 2018-01-24 04:00:00 -08:00
 categories:
 - Culture
 author: Hanna Snyder
 image: "/uploads/ValerieDenisePhotos-83.jpg"
 series: Tenderness
+Description: Looking for some inspiration, empowerment, or a few laughs, but don't
+  have much time? Check out our playlist of 6 TED talks for any mood that are all
+  under 10 minutes.
 ---
+
+<br>  
 
 #### Art & Culture
 
@@ -68,4 +73,4 @@ What happens when a liberal and conservative meet? Joan Blades,  domestic peace 
 
 <br>
 
-_Feature Image by [Valerie Denise Photos](http://www.valeriedenisephotos.com/), Videos via [TED](https://www.ted.com/)_
+*Feature Image by [Valerie Denise Photos](http://www.valeriedenisephotos.com/), Videos via [TED](https://www.ted.com/)*
