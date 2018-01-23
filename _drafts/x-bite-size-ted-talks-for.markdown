@@ -68,4 +68,4 @@ What happens when a liberal and conservative meet? Joan Blades,  domestic peace 
 
 <br>
 
-Content
+_Feature Image by [Valerie Denise Photos](http://www.valeriedenisephotos.com/), Videos via [TED](https://www.ted.com/)_
