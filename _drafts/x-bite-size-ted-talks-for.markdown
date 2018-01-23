@@ -15,7 +15,7 @@ In this talk, TED Fellow, Wanuri Kahiu, encourages the advocacy of art for arts'
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/wanuri_kahiu_fun_fierce_and_fantastical_african_art" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>  
 
-  
+<br><br>  
 
 #### Conscious Living
 
@@ -25,7 +25,7 @@ We all know a few ways to cut down water use around our homes, but what about ou
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lana_mazahreh_3_thoughtful_ways_to_conserve_water" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>  
 
-  
+<br><br>  
 
 #### Creativity
 
@@ -35,7 +35,7 @@ We all experience creative ruts where the ideas are just not flowing. Sometimes,
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/marily_oppezzo_want_to_be_more_creative_go_for_a_walk" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>  
 
-  
+<br><br>  
 
 #### Inspiration
 
@@ -45,7 +45,7 @@ In this moving, emotion-evoking talk, artist and poet, Cleo Wade, shares a poem 
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/cleo_wade_want_to_change_the_world_start_by_being_brave_enough_to_care" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>  
 
-  
+<br><br>  
 
 #### Entrepreneurship
 
@@ -55,7 +55,7 @@ After unexpectedly being let go at 64 years old, Paul Tasner decided it was time
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/paul_tasner_how_i_became_an_entrepreneur_at_66" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>  
 
-  
+<br><br>  
 
 #### Relationships & Communication
 
@@ -65,6 +65,6 @@ What happens when a liberal and conservative meet? Joan Blades,  domestic peace 
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/joan_blades_and_john_gable_free_yourself_from_your_filter_bubbles" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>  
 
-  
+<br><br>  
 
 Content
