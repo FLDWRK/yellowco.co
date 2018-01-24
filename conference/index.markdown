@@ -11,13 +11,19 @@ nav:
     highlight: conference
 banners:
 - image: "/uploads/banner-conference-ownership-a98a35.jpg"
+- link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
+  image: "/uploads/banner-conference-ownership-TICKET-RAISE.jpg"
 sm-banners:
 - image: "/uploads/banner-conference-conference-sm.jpg"
+- link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
+  image: "/uploads/banner-conference-ownership-SM-TICKET-RAISE.jpg"
 conference:
   title: 2018 Yellow Conference
-  date: Thu, Aug 23rd - Fri, Aug 24th
-  text: A gathering for creative women who are making an impact and using their gifts,
-    skills and talents to serve the greater good.
+  date: 2023-01-01 00:00:00 -08:00
+  text: |-
+    A gathering for creative women who are making an impact and using their gifts, skills and talents to serve the greater good.
+
+    **TICKET PRICES GO UP FEB. 1!**
 quote-one:
   image: "/assets/images/conference-guests.jpg"
   text: 'Succinctly: It will change your life and your business. With less brevity:
