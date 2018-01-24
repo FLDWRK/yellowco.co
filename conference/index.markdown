@@ -19,9 +19,11 @@ sm-banners:
   image: "/uploads/banner-conference-ownership-SM-TICKET-RAISE.jpg"
 conference:
   title: 2018 Yellow Conference
+  text: |-
+    A gathering for creative women who are making an impact and using their gifts, skills and talents to serve the greater good.
+
+    *Ticket prices go up Feb 1!*
   date: 2023-01-01 00:00:00 -08:00
-  text: A gathering for creative women who are making an impact and using their gifts,
-    skills and talents to serve the greater good.
 quote-one:
   image: "/assets/images/conference-guests.jpg"
   text: 'Succinctly: It will change your life and your business. With less brevity:
