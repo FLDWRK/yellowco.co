@@ -11,12 +11,12 @@ nav:
     highlight: conference
 banners:
 - image: "/uploads/banner-conference-ownership-a98a35.jpg"
-- link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
-  image: "/uploads/banner-conference-ownership-TICKET-RAISE-b3ae8a.jpg"
+- image: "/uploads/banner-conference-ownership-TICKET-RAISE-b3ae8a.jpg"
+  link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
 sm-banners:
 - image: "/uploads/banner-conference-conference-sm.jpg"
-- link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
-  image: "/uploads/banner-conference-ownership-SM-TICKET-RAISE.jpg"
+- image: "/uploads/banner-conference-ownership-SM-TICKET-RAISE.jpg"
+  link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
 conference:
   title: 2018 Yellow Conference
   date: 2023-01-01 00:00:00 -08:00
