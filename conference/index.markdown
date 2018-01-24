@@ -20,10 +20,8 @@ sm-banners:
 conference:
   title: 2018 Yellow Conference
   date: 2023-01-01 00:00:00 -08:00
-  text: |-
-    A gathering for creative women who are making an impact and using their gifts, skills and talents to serve the greater good.
-
-    **TICKET PRICES GO UP FEB. 1!**
+  text: A gathering for creative women who are making an impact and using their gifts,
+    skills and talents to serve the greater good.
 quote-one:
   image: "/assets/images/conference-guests.jpg"
   text: 'Succinctly: It will change your life and your business. With less brevity:
