@@ -19,7 +19,7 @@ sm-banners:
   image: "/uploads/banner-conference-ownership-SM-TICKET-RAISE.jpg"
 conference:
   title: 2018 Yellow Conference
-  date: 2023-01-01 00:00:00 -08:00
+  time: "Thu, Aug 23 - Fri, Aug 24"
   text: |-
     A gathering for creative women who are making an impact and using their gifts, skills and talents to serve the greater good.
 
@@ -69,6 +69,6 @@ marketplace:
     source: Annie + Jen
     source-company: Tribe of Dreamers
     source-link: https://www.tribeofdreamers.co/
+  apply-link: "https://docs.google.com/forms/d/e/1FAIpQLSeuhlqtlqnxrNHn0DdoFmQdHaO5ouMVwIcPj8Kt_buhJ6uZOA/viewform"
 layout: custom/conference
 ---
-
