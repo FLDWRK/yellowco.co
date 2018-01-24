@@ -12,7 +12,7 @@ nav:
 banners:
 - image: "/uploads/banner-conference-ownership-a98a35.jpg"
 - link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
-  image: "/uploads/banner-conference-ownership-TICKET-RAISE.jpg"
+  image: "/uploads/banner-conference-ownership-TICKET-RAISE-b3ae8a.jpg"
 sm-banners:
 - image: "/uploads/banner-conference-conference-sm.jpg"
 - link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
