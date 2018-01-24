@@ -3,10 +3,10 @@ title: Home
 position: 0
 body-class: home
 banners:
+- link: https://yellowco.co/conference/
+  image: "/uploads/banner-conference-ownership-TICKET-RAISE-c490bb.jpg"
 - link: https://yellowcollective.lpages.co/january-vision-casting-guide/
   image: "/uploads/Free-Vision-Guide.jpg"
-- link: "/blog/2018/01/08/bossladies-magazine-celebrate-women-community/"
-  image: "/uploads/Bossladies-Interview.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 - link: "/conference"
