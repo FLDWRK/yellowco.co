@@ -1,6 +1,7 @@
 ---
 title: 6 Bite-Sized TED Talks for Every Mood
 date: 2018-01-24 04:00:00 -08:00
+published: false
 categories:
 - Culture
 author: Hanna Snyder
