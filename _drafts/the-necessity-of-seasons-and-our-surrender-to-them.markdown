@@ -11,17 +11,15 @@ If you saw *La La Land*, you can't forget the sweeping opening number. Cars back
 
 For a long time, I loved that about my city. The long, nearly eternal summer of Southern California. But those endless sunny days can easily trick us into thinking all of life should be that way.
 
-### Culture has no hesitations telling us that life should be one mountain peak experience after the other.
+### Culture has no hesitations in telling us that life should be one mountain peak experience after the other.
 
 Your career should be a straight-line trajectory upwards. Friendships should only ever deepen, never wane. Happiness and fulfillment should be steady and in full supply at all times. Otherwise, you've done something wrong.
 
-![160125_Eileen Roche_Davis_036.jpg](/uploads/160125_Eileen%20Roche_Davis_036.jpg)
-
 But that can't possibly be true. Look around us. Life is full of rhythms, of highs and lows. Night follows day. Wilting follows blooming. Birds take flight, but then stop to rest their wings.
 
-### The natural world tells us over and over: seasons are necessary.
+![160125_Eileen Roche_Davis_036.jpg](/uploads/160125_Eileen%20Roche_Davis_036.jpg)
 
-<br>
+### The natural world tells us over and over: seasons are necessary.
 
 And not only around us, but inside us, too. In our own hearts and souls.
 
@@ -33,7 +31,7 @@ Now we couldn't avoid that things were different. The temperature had changed. F
 
 At first, I couldn't understand. We had taken our time to grieve, and now I wanted to be busy again; wanted that high capacity I had before, wanted things to go back to being full and falling into place.
 
-### But try as I might, I couldn't wish myself out of this wintery season in my heart. 
+### But try as I might, I couldn't wish myself out of this wintery season in my heart.
 
 And what a blessing that turned out to be, because all those quiet days and all that margin were actually healing my soul.
 
