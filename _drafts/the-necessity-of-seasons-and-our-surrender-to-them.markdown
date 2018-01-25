@@ -35,6 +35,8 @@ At first, I couldn't understand. We had taken our time to grieve, and now I want
 
 And what a blessing that turned out to be, because all those quiet days and all that margin were actually healing my soul.
 
+![160125_Eileen Roche_Davis_035.jpg](/uploads/160125_Eileen%20Roche_Davis_035.jpg)
+
 There was a time when all those late night meals and toasts were life-giving. It was a beautiful season, my heart feasting on easy joy and chasing hard after each new endeavour. But now it was different. My heart was asking for more rest. Asking for time to be quieter than before and discover delight in small, unnoticed things.
 
 Seasons are that way. Sometimes, all those joyful Instagram posts and determined New Year's resolutions feel genuine and true. Gratitude comes easily and fast paces don't tucker you out. Like summertime play, your heart runs rampant in the sunshine till you collapse in bed, full and satisfied.
