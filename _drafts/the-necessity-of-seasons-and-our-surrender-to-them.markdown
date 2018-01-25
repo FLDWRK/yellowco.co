@@ -3,6 +3,7 @@ title: the necessity of seasons and our surrender to them
 date: 2018-01-26 04:00:00 -08:00
 categories:
 - Health
+author: Becky Trejo
 image: "/uploads/160125_Eileen%20Roche_Davis_041.jpg"
 series: Tenderness
 ---
@@ -51,4 +52,4 @@ Maybe this new year coincides exactly with the new beginnings stirring in your s
 
 Once we do that for ourselves, we can do it for others around us. We can invite them to embrace their own seasons and savor whatever they can find in it. By nature, seasons change – even if those sunny LA days would like to tell us otherwise. So let's stand with our people and harvest all the wisdom and empathy and tenderness we can find right where we are, for ourselves and for everyone around us.
 
-*Photos by*
+*Photos by [Eileen Roche](http://eileen-roche.com/)*
