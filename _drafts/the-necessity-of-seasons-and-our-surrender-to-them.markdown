@@ -1,5 +1,5 @@
 ---
-title: the necessity of seasons and our surrender to them
+title: The Importance of Surrendering to Our Emotional Seasons
 date: 2018-01-26 04:00:00 -08:00
 categories:
 - Health
