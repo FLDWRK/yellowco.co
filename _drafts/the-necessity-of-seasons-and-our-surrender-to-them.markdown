@@ -1,5 +1,5 @@
 ---
-title: The Importance of Surrendering to Our Emotional Seasons
+title: The Necessity of Honoring to the kind of season our heart needs
 date: 2018-01-26 04:00:00 -08:00
 categories:
 - Health
