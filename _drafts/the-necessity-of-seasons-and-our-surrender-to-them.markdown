@@ -1,5 +1,5 @@
 ---
-title: The Necessity of Honoring to the kind of season our heart needs
+title: Why Honoring Your Emotional Season Heals
 date: 2018-01-26 04:00:00 -08:00
 categories:
 - Health
