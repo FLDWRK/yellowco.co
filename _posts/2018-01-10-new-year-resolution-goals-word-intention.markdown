@@ -6,7 +6,7 @@ categories:
 author: Amy Everhart
 image: "/uploads/160126_Eileen%20Roche_Davis_083.jpg"
 series: Tenderness
-Description: Tired of overwhelmingly long lists of new year's resolutions? Get creative
+description: Tired of overwhelmingly long lists of new year's resolutions? Get creative
   and try these 6 steps to design a word of intention for 2018 instead!
 ---
 
@@ -47,7 +47,7 @@ If you’re unsure of which word to choose, consider this:
 What do you want to be known for this year?  
 What feels most timely for the challenges you’re facing?  
 What would expand you most?  
-What contains the essence of pure possibility and is devoid of any punishing “shoulds”?**  
+What contains the essence of pure possibility and is devoid of any punishing “shoulds”?**
 
 Because this is an intention and not a resolution, you can’t choose wrong or mess it up, so be gentle with yourself and go with your gut.
 
@@ -59,4 +59,5 @@ Because this is an intention and not a resolution, you can’t choose wrong or m
 
 With these intentions, our goal isn’t improvement so much as expansion. You’re not conquering your word in the new year, you’re living in devotion to it, and in doing so, creating the exact experiences you want in the new year.
 
-*Photos by: [Eileen Roche](http://eileen-roche.com/)*
+_Photos by: [Eileen Roche](http://eileen-roche.com/)_
+
