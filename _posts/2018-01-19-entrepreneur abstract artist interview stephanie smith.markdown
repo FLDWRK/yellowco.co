@@ -6,7 +6,7 @@ categories:
 author: Yellow Co.
 image: "/uploads/958A8350%20(1).jpg"
 series: Tenderness
-Description: We love hearing from movers and shakers of all kinds to learn about their
+description: We love hearing from movers and shakers of all kinds to learn about their
   particular process, background, struggles, and dreams for the future. Today, we're
   sharing abstract artist, [Stephanie Smith](https://www.instagram.com/stephrenea.art/)'s,
   story about how she finds freedom in her work, gives herself grace in her process,
