@@ -33,6 +33,7 @@ defaults:
       site:
         highlight: blog
     excerpt_separator: "<!-- more -->"
+    description:
 - scope:
     path: ''
     type: series
