@@ -6,7 +6,7 @@ categories:
 author: Elisabetta Colabianchi
 image: "/uploads/The%20Habit%20That%20Matters%20Most%20for%20Entrepreneurs%20During%20a%20Major%20Launch.jpg"
 series: Tenderness
-Description: Have you ever launched a big project that consisted of working 7 days
+description: Have you ever launched a big project that consisted of working 7 days
   a week from early in the morning until late at night? Find out why slowing down
   is the most important habit for entreprenuers during a busy season.
 ---
