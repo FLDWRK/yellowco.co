@@ -6,7 +6,7 @@ categories:
 author: Emily Schrems
 image: "/uploads/ValerieDenisePhotos-14.jpg"
 series: Tenderness
-Description: Always wanted to learn photography? Hip hop? How to make squash gnocchi?
+description: Always wanted to learn photography? Hip hop? How to make squash gnocchi?
   We've got 5 apps that will teach you them all.
 ---
 
