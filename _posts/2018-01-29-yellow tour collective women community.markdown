@@ -64,4 +64,6 @@ I know that this dream will be made real as we take [Yellow Co. on tour](https:/
 
 ##### [For more details on the Yellow Co. tour, how to follow along our journey up the coast, and ways you can get involved, click here!](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)
 
+<br>
+
 *Photos by [Cacá Santoro](http://cacasantoro.com/) for Yellow Co.*
