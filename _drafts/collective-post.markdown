@@ -1,9 +1,11 @@
 ---
-title: collective post
+title: How I Discovered What True Community Means (and why Yellow is spreading it
+  on tour)
 date: 2018-01-29 04:00:00 -08:00
 categories:
 - Relationships
 author: Yellow Co.
+image: "/uploads/Yellow2016-436.jpg"
 series: Tenderness
 ---
 
