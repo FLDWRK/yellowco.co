@@ -7,6 +7,9 @@ categories:
 author: Kacy Schlener
 image: "/uploads/Yellow2016-436.jpg"
 series: Tenderness
+description: 'When independent women come together in community, it is a force to
+  be reckoned with. We''re taking Yellow Co. on a West Coast Tour to empower women
+  face-to-face to become agents of good! '
 ---
 
 I have friends who have joked that my real job is moving.
