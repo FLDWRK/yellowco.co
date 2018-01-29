@@ -19,7 +19,7 @@ When 2017 began, I found myself in a familiar place. Readying myself to pack up 
 
 As I replanted my roots as the Director of Operations at Yellow Co. and transitioned into the [Yellow Collective community](https://yellowco.co/membership/) out of a more solitary season, my internal struggle felt ever present. All I knew was that I hoped this new opportunity would bring opportunities to build with people, instead of at a distance from them.
 
-Now, after a year has gone by, and I get to kick off 2018 by planning a [Yellow West Coast Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/), I can’t help but look back on my own experiences with independence, loneliness, community, and solitude, as I reflect on why I believe the[ Yellow Collective](https://yellowco.co/membership/) is important when it comes to building community.
+Now, after a year has gone by, and I get to kick off 2018 by planning a [Yellow West Coast Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/), I can’t help but look back on my own experiences with independence, loneliness, community, and solitude, as I reflect on why I believe the Yellow Collective is important when it comes to building community.
 
 ![0P7A2777.jpg](/uploads/0P7A2777.jpg)
 
@@ -31,7 +31,7 @@ As I went off to college, studied abroad in Europe, and moved from the Midwest, 
 
 ![J46A7615 (1).jpg](/uploads/J46A7615%20(1).jpg)
 
-As 2017 unfolded and I had the opportunity to pursue my dream of building community within community, I was ironically pulled back into more loneliness than I had felt in my adult life as I experienced my 10th move within nine years. Perhaps it was so much harder for me this time because everything was being built at once — my friendships, my job, my daily routine. It was all being created from scratch, with no stable area to lean on when my new constructions felt shaky. All my foundations were being poured at the same time, and as I struggled to balance without falling, I found that this experience was shaking things up inside of me.
+As 2017 unfolded and I had the opportunity to pursue my dream of [building community](https://yellowco.co/membership/) within community, I was ironically pulled back into more loneliness than I had felt in my adult life as I experienced my 10th move within nine years. Perhaps it was so much harder for me this time because everything was being built at once — my friendships, my job, my daily routine. It was all being created from scratch, with no stable area to lean on when my new constructions felt shaky. All my foundations were being poured at the same time, and as I struggled to balance without falling, I found that this experience was shaking things up inside of me.
 
 For the first time, I pursued community with intentions that weren’t healthy, but simply an avoidance tactic that allowed me to make a cross-country move without facing the inconvenient, uncomfortable phase of getting used to being alone again. It was through this process that I was reminded of a very elemental truth —
 
@@ -57,6 +57,8 @@ As I look forward into 2018, my dream is that this community can grow to a great
 
 I know that this dream will be made real as we take [Yellow Co. on tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/), not only learning from amazing speakers during our events, but also connecting women to each other as we travel the coast. We will be kicking off the 7 pop-up conference events on February 17th in San Diego, CA, and heading to Orange County, Los Angeles, San Francisco, Portland, Seattle, and Denver in April and May! If you are in these areas, please join our tour and, more importantly, join a community of women who will challenge themselves, and you, to rise to a higher standard as an agent of good in the world!
 
-#### [For more details on the Yellow Co. tour, how to follow along our journey up the coast, and ways you can get involved, click here!](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)
+<br>
 
-_Photos by [Cacá Santoro](http://cacasantoro.com/) for Yellow Co._
+##### [For more details on the Yellow Co. tour, how to follow along our journey up the coast, and ways you can get involved, click here!](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)
+
+*Photos by [Cacá Santoro](http://cacasantoro.com/) for Yellow Co.*
