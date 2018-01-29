@@ -4,7 +4,7 @@ title: How I Discovered What True Community Means (and why Yellow is spreading i
 date: 2018-01-29 04:00:00 -08:00
 categories:
 - Relationships
-author: Yellow Co.
+author: Kacy Schlener
 image: "/uploads/Yellow2016-436.jpg"
 series: Tenderness
 ---
