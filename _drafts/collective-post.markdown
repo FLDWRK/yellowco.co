@@ -1,6 +1,6 @@
 ---
 title: 'A Force to Be Reckoned With: How Independent Women Create Powerful Community
-  (Plus Yellow Tour News!)'
+  (And Yellow Tour News!)'
 date: 2018-01-29 04:00:00 -08:00
 categories:
 - Relationships
