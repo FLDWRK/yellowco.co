@@ -5,8 +5,6 @@ body-class: home
 banners:
 - link: https://yellowco.co/conference/
   image: "/uploads/banner-conference-ownership-TICKET-RAISE-c490bb.jpg"
-- link: https://yellowcollective.lpages.co/january-vision-casting-guide/
-  image: "/uploads/Free-Vision-Guide.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 - link: "/conference"
@@ -14,14 +12,12 @@ banners:
 - link: "/blog/2017/12/29/jenis-ice-cream-b-corp-business/"
   image: "/uploads/Jenis-IceCream.jpg"
 sm-banners:
-- link: https://yellowcollective.lpages.co/january-vision-casting-guide/
-  image: "/uploads/Free-Vision-Guide.jpg"
-- link: "/blog/2018/01/08/bossladies-magazine-celebrate-women-community/"
-  image: "/uploads/Bossladies-Interview-sm.jpg"
-- link: "/membership"
-  image: "/assets/images/membership-link-sm.jpg"
 - link: "/conference"
   image: "/assets/images/conference-header-sm.jpg"
+- link: "/membership"
+  image: "/assets/images/membership-link-sm.jpg"
+- link: "/blog/2018/01/08/bossladies-magazine-celebrate-women-community/"
+  image: "/uploads/Bossladies-Interview-sm.jpg"
 - link: "/blog/2017/12/29/jenis-ice-cream-b-corp-business/"
   image: "/uploads/Jenis-IceCream-sm.jpg"
 buttons:
