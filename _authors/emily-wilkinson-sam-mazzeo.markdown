@@ -1,6 +1,6 @@
 ---
 title: Emily Wilkinson & Sam Mazzeo
-company_name: Wilkmazz
+company_name: wilkmazz
 job_title: Founders
 bio_image: "/uploads/Screen%20Shot%202018-01-25%20at%2012.14.18%20PM.png"
 website: https://wilkmazz.com/
