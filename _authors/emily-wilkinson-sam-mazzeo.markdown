@@ -1,10 +1,10 @@
 ---
 title: Emily Wilkinson & Sam Mazzeo
-company_name: Wilkinson Mazzeo
+company_name: Wilkmazz
 job_title: Founders
-bio_image: "/assets/images/emily-wilkinson-sam-mazzeo.jpg"
-website: https://wilkinsonmazzeo.com/
+bio_image: "/uploads/Screen%20Shot%202018-01-25%20at%2012.14.18%20PM.png"
+website: https://wilkmazz.com/
 is_guest: true
 ---
 
-Wilkinson Mazzeo has a heart for humanity and a passion for the creative community. They also happen to be lawyers. With an abundance of knowledge and experience between them, they are ready to be your legal advisors, guard dogs, reinforcements, advocates, sounding boards and/or paperwork junkies.
+Wilkmazz simplifies law. Or at least makes it human. They are especially good at interpreting fine print and building community. Their clients are creative, driven, and contagiously enthusiastic.
