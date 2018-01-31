@@ -18,6 +18,8 @@ Before choosing the photos, I would do some brainstorming. What do you want to a
 
 So you may be thinking… yeah yeah, but do these dream boards actually work? Well, I’m here to tell you that yes they do! I’m a lover of dream boards, and I have made three major ones in my life (that all brought their visuals to fruition!).
 
+![IMG_7852.JPG](/uploads/IMG_7852.JPG)
+
 The first one I made was right after graduation from college and I put photos of New York, non-profits, friends, and NYU on it. I moved to NYC after college (a few weeks after making this vision board), got a job with a local non-profit, and enrolled in a post-baccalaureate program at NYU. I met some of my best friends while I was in NYC, too!
 
 The second one was made while I was in NYC and ready for some changes. I put photos of the Peace Corps, Africa, and the United Nations. Shortly after creating the board I studied abroad with NYU at the UN in Geneva, where I realized I wanted to join the Peace Corps, and soon after moved to Mozambique (in Africa). I also worked with UNICEF (the United Nations Children’s Fund) while in the Peace Corps.
@@ -32,4 +34,4 @@ We take small action steps every day that get us closer to our goal.
 
 So I invite you to get clear on what your vision for 2018 is and plan a dream board party with friends, or take a few minutes to create a dream board by yourself. 2018 is going to be an awesome year, so let’s dream big!
 
-_Photos by: [Amy Hulst](https://www.instagram.com/amyhulstforpresident/)_
+*Photos by: [Amy Hulst](https://www.instagram.com/amyhulstforpresident/)*
