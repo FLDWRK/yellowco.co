@@ -1,5 +1,5 @@
 ---
-title: How to Create a Dream Board
+title: How to Create a Dream Board and Let It Work Its Magic
 date: 2018-01-31 04:00:00 -08:00
 categories:
 - Growth
