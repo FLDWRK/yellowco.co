@@ -26,11 +26,9 @@ The second one was made while I was in NYC and ready for some changes. I put pho
 
 The most recent one I created was last year. It had photos of yoga, little straw huts on the beach, and a big “LOVE” sign in nature. Less than a week later, I joined a yoga studio and started practicing yoga everyday. This year, I traveled to a beach town in Brazil with the same huts, and also went on a retreat in Tulum with the same vibe as the photo. I also moved to the town where the “LOVE” sign in the photo was taken, and I didn’t even know it!
 
-### I believe the reason why the visuals on dream boards come to life is because when we constantly see our hopes and goals, we are reminded of where we're trying to go.
+### I believe the reason dream boards come to life is because when we constantly see our hopes and goals, we are focused on where we're trying to go.
 
-We’re reminded of what we want to do and be in life. It helps keep these goals top of mind. Then when we hear someone talking about the Peace Corps, New York, or yoga and there’s an opportunity to get involved, we know that it’s an easy YES.
-
-We take small action steps every day that get us closer to our goal.
+We’re reminded of what we want to do and be in life. It helps keep these goals top of mind. Then when we hear someone talking about the Peace Corps, New York, or yoga and there’s an opportunity to get involved, we know that it’s an easy YES. We take small action steps every day that get us closer to our goal.
 
 So I invite you to get clear on what your vision for 2018 is and plan a dream board party with friends, or take a few minutes to create a dream board by yourself. 2018 is going to be an awesome year, so let’s dream big!
 
