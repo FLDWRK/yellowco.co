@@ -1,9 +1,14 @@
 ---
-title: "(draft) The right kind of “shoulds”: a letter to my children"
+title: Raising My Children to Live Freely in the Face of Rigid Social Standards
 date: 2018-02-02 04:00:00 -08:00
+categories:
+- Culture
 author: Bailey Van Tassel
-image: "/uploads/042416_ERoche_Singh_238.jpg"
+image: "/uploads/Raising%20My%20Children%20to%20Live%20Freely%20in%20the%20Face%20of%20Rigid%20Social%20Standards%20-%20Yellow%20Co.jpg"
 series: Tenderness
+description: Our entire lives, we are influenced by the many things we "should" do.
+  Here's how I'm raising my children to live freely in the face of these rigid social
+  standards.
 ---
 
 Dear children of mine, I have a warning for you. It’s about the danger and promise of "should" and "could".
@@ -14,7 +19,7 @@ You’ll hear it quiet and loud; often and sometimes. You’ll hardly notice hal
 
 "Should" denotes that there is a correctness. A perfect. That life is a two-lane road built on dualities.
 
-![042416_ERoche_Singh_284.jpg](/uploads/042416_ERoche_Singh_284.jpg)
+![Raising My Children to Live Freely in the Face of Rigid Social Standards - Yellow Co.jpg](/uploads/042416_ERoche_Singh_284.jpg)
 
 ### "Should" says that one direction down the road is right, and the other is wrong. There is no such road.
 
@@ -24,7 +29,7 @@ You should be respectful. You should be kind. You should follow your heart. You 
 
 Now, there are also the "coulds". And that denotes that life is full of options and potential, which it is. "Could" is limitless, which you are. "Could" can be dangerous too though – a slippery slope of reality versus fantasy. You will dream up many ways to do things, and I can’t wait to witness all the answers to your coulds.
 
-![042416_ERoche_Singh_338.jpg](/uploads/042416_ERoche_Singh_338.jpg)
+![Raising My Children to Live Freely in the Face of Rigid Social Standards - Yellow Co.jpg](/uploads/042416_ERoche_Singh_338.jpg)
 
 You could be a doctor or lawyer. You could do what ignites your soul so fully that you’re up all night plotting. You could follow the rules. You could break any that are inefficient or unfair.
 
@@ -36,7 +41,7 @@ In reality, there are practicalities that will make your life easier. There are 
 
 You will not do what you should. You will be disrespectful, but I hope you learn from it. You will be unkind, but I hope you never do that twice. You will follow your head, not your heart, but I hope it makes you ask deeper questions about yourself. You’ll follow the crowd, but I hope it takes you somewhere you won’t return to. You will make the same mistake twice, but I hope not three times.
 
-![042416_ERoche_Singh_209.jpg](/uploads/042416_ERoche_Singh_209.jpg)
+![Raising My Children to Live Freely in the Face of Rigid Social Standards - Yellow Co.jpg](/uploads/042416_ERoche_Singh_209.jpg)
 
 I should have the faith to let you fall and also see you take flight. But, I may not be able to once or twice – that could happen. I won’t always respect you, because I’ll want to preempt you. I won’t always be kind to you because I’m not always kind to myself. I’ll urge you to follow my head, when your own heart knows better.
 
