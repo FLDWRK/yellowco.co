@@ -16,9 +16,9 @@ A dream board is a visual representation of what your biggest dreams for yoursel
 
 Before choosing the photos, I would do some brainstorming. What do you want to accomplish in 2018? What new habits or hobbies do you want to take up? Where do you want to live? Where do you want to vacation? Who do you surround yourself with? What do you look like? What clothing do you wear? What do you eat? What do you like to do? How do you spend your time? How do you practice self-care? What do you do for work, and where do you work? How do you feel? This last one is really important… think about how you want to feel in the New Year, and write those down! Some of my words for how I want to feel in 2018 are love, free, fun, joy, and adventure.
 
-So you may be thinking… yeah yeah, but do these dream boards actually work? Well, I’m here to tell you that yes they do! I’m a lover of dream boards, and I have made three major ones in my life (that all brought their visuals to fruition!).
-
 ![IMG_7852.JPG](/uploads/IMG_7852.JPG)
+
+So you may be thinking… yeah yeah, but do these dream boards actually work? Well, I’m here to tell you that yes they do! I’m a lover of dream boards, and I have made three major ones in my life (that all brought their visuals to fruition!).
 
 The first one I made was right after graduation from college and I put photos of New York, non-profits, friends, and NYU on it. I moved to NYC after college (a few weeks after making this vision board), got a job with a local non-profit, and enrolled in a post-baccalaureate program at NYU. I met some of my best friends while I was in NYC, too!
 
@@ -27,6 +27,8 @@ The second one was made while I was in NYC and ready for some changes. I put pho
 The most recent one I created was last year. It had photos of yoga, little straw huts on the beach, and a big “LOVE” sign in nature. Less than a week later, I joined a yoga studio and started practicing yoga everyday. This year, I traveled to a beach town in Brazil with the same huts, and also went on a retreat in Tulum with the same vibe as the photo. I also moved to the town where the “LOVE” sign in the photo was taken, and I didn’t even know it!
 
 ### I believe the reason dream boards come to life is because when we constantly see our hopes and goals, we are focused on where we're trying to go.
+
+![IMG_7854.JPG](/uploads/IMG_7854.JPG)
 
 We’re reminded of what we want to do and be in life. It helps keep these goals top of mind. Then when we hear someone talking about the Peace Corps, New York, or yoga and there’s an opportunity to get involved, we know that it’s an easy YES. We take small action steps every day that get us closer to our goal.
 
