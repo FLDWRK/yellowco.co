@@ -1,5 +1,5 @@
 ---
-title: 'The right kind of “shoulds”: a letter to my children'
+title: "(draft) The right kind of “shoulds”: a letter to my children"
 date: 2018-02-02 04:00:00 -08:00
 author: Bailey Van Tassel
 series: Tenderness
