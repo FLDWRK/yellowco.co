@@ -12,9 +12,9 @@ Dear children of mine, I have a warning for you. It’s about the danger and pro
 
 You’ll hear it quiet and loud; often and sometimes. You’ll hardly notice half the time, and you’ll probably spend many years repairing the damage from the faintest and most whispering of "shoulds". Some of them may even come from us, who love you so. I warn you now to make a note when "shoulds" and "coulds" start creeping out.
 
-![042416_ERoche_Singh_284.jpg](/uploads/042416_ERoche_Singh_284.jpg)
-
 "Should" denotes that there is a correctness. A perfect. That life is a two-lane road built on dualities.
+
+![042416_ERoche_Singh_284.jpg](/uploads/042416_ERoche_Singh_284.jpg)
 
 ### "Should" says that one direction down the road is right, and the other is wrong. There is no such road.
 
