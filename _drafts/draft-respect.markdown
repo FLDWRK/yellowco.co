@@ -10,60 +10,60 @@ series: Respect
 
 They told me I’m a triangle
 
-An abnormally pointed\
-unmatched hue of orange\
-couldn’t fit in their pre-packaged box\
+An abnormally pointed\  
+unmatched hue of orange\  
+couldn’t fit in their pre-packaged box\  
 with all these corners
 
-They told me\
-with shrugs shouting in passivity\
-doused in red taped political incorrectness\
+They told me\  
+with shrugs shouting in passivity\  
+doused in red taped political incorrectness\  
 my design was a particular pill they could not swallow
 
-They told me, sometimes silently\
-in never-gentle punchlines to the joke\
-ever-rampant virus of society’s singular perfect story\
+They told me, sometimes silently\  
+in never-gentle punchlines to the joke\  
+ever-rampant virus of society’s singular perfect story\  
 my worth was worth less
 
-And worse -\
+And worse -\  
 I heard them
 
-I threw my messes into closets\
-two at a time\
-Shame and failures first\
+I threw my messes into closets\  
+two at a time\  
+Shame and failures first\  
 outcast and unacceptables after
 
-I packed entire limbs away\
-to infinitely wait for their place\
-Apologetically covering their mouths\
+I packed entire limbs away\  
+to infinitely wait for their place\  
+Apologetically covering their mouths\  
 should I slip and let anyone catch their screams to see the light
 
-![respect 1.jpg](/uploads/respect%201.jpg)
+![respect 1-03608c.jpg](/uploads/respect%201-03608c.jpg)
 
-Until - I listened:\
+Until - I listened:\  
 Even my smallest stray hair is not meant for the dark
 
-For no body that chooses\
-to reject its own organs is a home\
-No dream weaves its technicolor\
+For no body that chooses\  
+to reject its own organs is a home\  
+No dream weaves its technicolor\  
 only to be altered for easier digestion
 
-So I’ll shout it to my bones\
+So I’ll shout it to my bones\  
 until I believe it
 
-I was never meant for boxes\
-Lines can’t contain\
-something meant to grow\
+I was never meant for boxes\  
+Lines can’t contain\  
+something meant to grow\  
 so wild
 
-I heard -\
-the bigger you let your mountains be\
-the more others stop questioning\
+I heard -\  
+the bigger you let your mountains be\  
+the more others stop questioning\  
 the honor in their existence
 
-![respect 2.jpg](/uploads/respect%202.jpg)
+![respect 2 copy.jpg](/uploads/respect%202%20copy.jpg)
 
-There’s an omnipresent conversation continually happening around us, within us, outside of us. One that, often without words, happily provides a lot of unsolicited thoughts on ourselves. Some of these affirm our spirit; others, our shame. No matter which is being served, we tend to drink it up. We allow it to absorb into our pores as the very truth that informs who we are. 
+There’s an omnipresent conversation continually happening around us, within us, outside of us. One that, often without words, happily provides a lot of unsolicited thoughts on ourselves. Some of these affirm our spirit; others, our shame. No matter which is being served, we tend to drink it up. We allow it to absorb into our pores as the very truth that informs who we are.
 
 ### Maybe the mountains within us grow taller because of it, or maybe they shrink to stones.
 
@@ -71,7 +71,7 @@ The conversation of Respect is a widely multifaceted one. Even by definition, it
 
 Whether we don’t look a certain way, have the standard family, or simply aren’t succeeding at everything all the time, we can fall below the line. And beyond that - should we dare decide to color outside of it, or can’t tuck away any imperfect “baggage” until it’s dealt with - something somewhere murmurs, “you are not enough.” It is perhaps the most heartbreaking thing to me to discover how many different underlying beliefs we have in this lie that we are less than.
 
-![respect 3.jpg](/uploads/respect%203.jpg)
+![respect 3-56f2ce.jpg](/uploads/respect%203-56f2ce.jpg)
 
 Just within the last few weeks did I reveal within myself a deep-rooted, subconscious thought that single women are, in a form, less successful. I was guilt-ridden and honestly disgusted that such an idea could live in my own body - a body included in this very group. How could my brain house a cruel whisper so faint that I hardly knew it was there? I know, of course, in entirety that this judgment is completely untrue.
 
