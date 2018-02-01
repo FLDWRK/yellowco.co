@@ -10,14 +10,14 @@ series: Respect
 
 They told me I’m a triangle
 
-An abnormally pointed  \
-unmatched hue of orange  \
-couldn’t fit in their pre-packaged box  \
+An abnormally pointed  
+unmatched hue of orange  
+couldn’t fit in their pre-packaged box  
 with all these corners
 
-They told me  \
-with shrugs shouting in passivity  \
-doused in red taped political incorrectness  \
+They told me  
+with shrugs shouting in passivity  
+doused in red taped political incorrectness  
 my design was a particular pill they could not swallow
 
 They told me, sometimes silently  
@@ -25,7 +25,7 @@ in never-gentle punchlines to the joke
 ever-rampant virus of society’s singular perfect story  
 my worth was worth less
 
-And worse -  \
+And worse -  
 I heard them
 
 I threw my messes into closets  
