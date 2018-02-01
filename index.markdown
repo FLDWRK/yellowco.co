@@ -3,23 +3,23 @@ title: Home
 position: 0
 body-class: home
 banners:
-- link: https://yellowco.co/conference/
-  image: "/uploads/banner-conference-ownership-TICKET-RAISE-c490bb.jpg"
+- link: https://yellowco.co/tour/
+  image: "/uploads/Tour-Banner.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 - link: "/conference"
   image: "/assets/images/Conference-Header.jpg"
-- link: "/blog/2017/12/29/jenis-ice-cream-b-corp-business/"
-  image: "/uploads/Jenis-IceCream.jpg"
+- link: https://yellowco.co/blog/2018/01/31/create-dream-board-goals-new-year/
+  image: "/uploads/Dream-Board.jpg"
 sm-banners:
-- link: "/conference"
-  image: "/assets/images/conference-header-sm.jpg"
+- link: https://yellowco.co/tour/
+  image: "/uploads/Tour-Banner-SM.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
-- link: "/blog/2018/01/08/bossladies-magazine-celebrate-women-community/"
-  image: "/uploads/Bossladies-Interview-sm.jpg"
-- link: "/blog/2017/12/29/jenis-ice-cream-b-corp-business/"
-  image: "/uploads/Jenis-IceCream-sm.jpg"
+- link: "/conference"
+  image: "/assets/images/conference-header-sm.jpg"
+- link: https://yellowco.co/blog/2018/01/31/create-dream-board-goals-new-year/
+  image: "/uploads/Dream-Board-sm.jpg"
 buttons:
 - text: Membership
   link: "/membership"
