@@ -63,7 +63,9 @@ the honor in their existence
 
 ![respect 2.jpg](/uploads/respect%202.jpg)
 
-There’s an omnipresent conversation continually happening around us, within us, outside of us. One that, often without words, happily provides a lot of unsolicited thoughts on ourselves. Some of these affirm our spirit; others, our shame. No matter which is being served, we tend to drink it up. We allow it to absorb into our pores as the very truth that informs who we are. Maybe the mountains within us grow taller because of it, or maybe they shrink to stones.
+There’s an omnipresent conversation continually happening around us, within us, outside of us. One that, often without words, happily provides a lot of unsolicited thoughts on ourselves. Some of these affirm our spirit; others, our shame. No matter which is being served, we tend to drink it up. We allow it to absorb into our pores as the very truth that informs who we are. 
+
+### Maybe the mountains within us grow taller because of it, or maybe they shrink to stones.
 
 The conversation of Respect is a widely multifaceted one. Even by definition, its meaning covers so many circumstances: esteem for the worth of a person; to hold in honor; to show consideration; deference to a right; proper acceptance. For me - as I grow, and listen, and uncover - this subject boils up a belly full of anger inside me for the unjust way it is often dealt out. It plants me face to face with the science of culture that says some are less than others for a laundry list of reasons. And the criteria for making it? Not fitting the mold that just a few agreed upon.
 
