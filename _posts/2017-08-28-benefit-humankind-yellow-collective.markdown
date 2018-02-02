@@ -4,7 +4,7 @@ date: 2017-08-28 04:00:19 -07:00
 categories:
 - Tension
 author: Hanna Snyder
-image: "https://yellow-blog-images.imgix.net/2017/08/0P7A9724-1320x880.jpg"
+image: https://yellow-blog-images.imgix.net/2017/08/0P7A9724-1320x880.jpg
 redirect_from: "/tension/benefit-humankind-yellow-collective/"
 ---
 

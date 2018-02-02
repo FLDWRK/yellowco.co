@@ -51,21 +51,22 @@ faqs:
     with our chapters across the US. If you’re not in a location with an in-person
     chapter, we have digital chapters that meet on Zoom once a month!
 - question: Where are your chapters and how do the gatherings work?
-  answer: Currently we have chapters in West LA, Downtown LA, Orange
-    County, San Diego, Bay Area, New York City, Cincinnati, Austin, Chicago, Denver
-    and Tulsa. The gatherings are centered around our focus for the month, but each
-    chapter throws in their own flare! The goal is for you to receive your periodical,
-    go through the content and the questions, then come together with your group and
-    talk through the focus for the that month and what you thought of the periodical.
-    Every gathering ends with a 'helping circle' where each woman has an ask, and
-    each woman commits to helping that person for that month. We always leave feeling
-    inspired, having things to think about and having new goals to implement into
-    our lives. They’re pretty awesome if we do say so ourselves.
+  answer: Currently we have chapters in West LA, Downtown LA, Orange County, San Diego,
+    Bay Area, New York City, Cincinnati, Austin, Chicago, Denver and Tulsa. The gatherings
+    are centered around our focus for the month, but each chapter throws in their
+    own flare! The goal is for you to receive your periodical, go through the content
+    and the questions, then come together with your group and talk through the focus
+    for the that month and what you thought of the periodical. Every gathering ends
+    with a 'helping circle' where each woman has an ask, and each woman commits to
+    helping that person for that month. We always leave feeling inspired, having things
+    to think about and having new goals to implement into our lives. They’re pretty
+    awesome if we do say so ourselves.
 - question: How much is shipping?
-  answer: If you're in the US, We offer free shipping, but international shipping prices
-    vary depending on your location. Feel free to chat us below for more info!
+  answer: If you're in the US, We offer free shipping, but international shipping
+    prices vary depending on your location. Feel free to chat us below for more info!
 - question: Can I cancel my membership?
-  answer: "Our membership is month to month and can be cancelled at any time, although we’d
-    be sad to see you go \U0001F642"
+  answer: "Our membership is month to month and can be cancelled at any time, although
+    we’d be sad to see you go \U0001F642"
 layout: custom/membership
 ---
+
