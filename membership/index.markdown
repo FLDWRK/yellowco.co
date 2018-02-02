@@ -50,17 +50,8 @@ faqs:
     and digital chats and webcasts. Lastly, in-person. We host monthly in-person gatherings
     with our chapters across the US. If you’re not in a location with an in-person
     chapter, we have digital chapters that meet on Zoom once a month!
-- question: Do you ship internationally?
-  answer: We offer free shipping within the US., but international shipping prices
-    vary depending on your location. Feel free to chat us below for more info!
-- question: How much is shipping?
-  answer: It’s FREE if you’re within the US! If you’re international, shipping prices
-    vary depending on your location.
-- question: Can I cancel my membership?
-  answer: "Our membership is month to month and you can cancel anytime, although we’d
-    be sad to see you go \U0001F642"
 - question: Where are your chapters and how do the gatherings work?
-  answer: Currently we have chapters in West LA, Downtown LA, The Valley LA, Orange
+  answer: Currently we have chapters in West LA, Downtown LA, Orange
     County, San Diego, Bay Area, New York City, Cincinnati, Austin, Chicago, Denver
     and Tulsa. The gatherings are centered around our focus for the month, but each
     chapter throws in their own flare! The goal is for you to receive your periodical,
@@ -70,6 +61,11 @@ faqs:
     each woman commits to helping that person for that month. We always leave feeling
     inspired, having things to think about and having new goals to implement into
     our lives. They’re pretty awesome if we do say so ourselves.
+- question: How much is shipping?
+  answer: If you're in the US, We offer free shipping, but international shipping prices
+    vary depending on your location. Feel free to chat us below for more info!
+- question: Can I cancel my membership?
+  answer: "Our membership is month to month and can be cancelled at any time, although we’d
+    be sad to see you go \U0001F642"
 layout: custom/membership
 ---
-

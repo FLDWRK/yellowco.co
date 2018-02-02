@@ -4,10 +4,11 @@ date: 2017-08-28 04:00:19 -07:00
 categories:
 - Tension
 author: Hanna Snyder
+image: "https://yellow-blog-images.imgix.net/2017/08/0P7A9724-1320x880.jpg"
 redirect_from: "/tension/benefit-humankind-yellow-collective/"
 ---
 
-We are taking a quick rest over here after an inspiring, busy, and altogether _full_ week at [Yellow Conference 2017](http://yellowco.co/conference/)! If you were able to join us, in any capacity, we hope you left with full hearts and excited minds.
+We are taking a quick rest over here after an inspiring, busy, and altogether *full* week at [Yellow Conference 2017](http://yellowco.co/conference/)! If you were able to join us, in any capacity, we hope you left with full hearts and excited minds.
 
 I know for many of us there is so much intake to process and ideas to flourish. But for now, let's sit for a moment, be present with ourselves, and reflect on all the goodness. Enjoy this video we launched at the conference along with the announcement of the [Yellow Collective](https://yellowcollective.co/) 2.0, made by the incredible [Marissa of Reel Rad Films](http://reelradfilms.com/)!
 

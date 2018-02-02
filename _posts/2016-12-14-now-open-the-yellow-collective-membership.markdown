@@ -22,9 +22,9 @@ That's the best part of this membership.
 
 It's a blast to get a fun box full of product in the mail, it's so much fun to learn and build our brands through the online resources, but it's the connections and the relationships that really make this membership so freaking RAD.
 
-###  _**[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)**_
+###  **_[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)_**
 
-* * *
+---
 
 _**But FIRST THINGS FIRST.**_
 
@@ -46,11 +46,11 @@ _The membership comes with..._
 **• The raddest community of supportive, risk-taking women.**  
 ![](https://gallery.mailchimp.com/3f8e45f74e0653e404965e2ef/images/9ed8b4af-56bb-4f5a-bfae-f4ce76eb96ce.png)
 
-* * *
+---
 
 ### _**[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)**_
 
-* * *
+---
 
 That's the short version. At this point you're probably asking yourself,
 
@@ -104,9 +104,9 @@ In a world full of subscription boxes (which we love), this is definitely not th
 
 The box is a small portion of the larger community and membership. If you are interested in purchasing JUST a box, head to [our shop](https://yellowco.myshopify.com/collections/empowerment-boxes?nopreview)!
 
-###  _**[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)**_
+###  **_[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)_**
 
-* * *
+---
 
 At this point, you may be saying...
 
@@ -119,7 +119,7 @@ Let me start off by telling you a bit about the digital resources portion of the
 
 ## ![_mg_1412](https://yellow-blog-images.imgix.net/2016/12/MG_1412.jpg)
 
-## 2\. THE DIGITAL RESOURCES  
+## 2\. THE DIGITAL RESOURCES
 
 Just like the boxes, these digital resources are centered around our theme for the quarter. Our goal is to have everything connected and cohesive!
 
@@ -142,17 +142,17 @@ That's right, you get an exclusive Yellow Conference ticket price and access to 
 • Weekly email filled with thoughts, take away tips and info  
 • Exclusive bonus material and other online seminars throughout the quarter
 
------------------------
+---
 
 The overall goal of these digital resources is to give you the guidance you need to **hone in on your strengths, be challenged, and become the best version of yourself you can be!** That's what's going to make you both a better business owner and more content, fulfilled human in all areas of your life.
 
 The coolest part is that you get to do it with a community who is supporting you throughout the entire thing.
 
-* * *
+---
 
-###  _**[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)**_
+###  **_[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)_**
 
-* * *
+---
 
 Which brings me to...  
 ![yellow2016-442](https://yellow-blog-images.imgix.net/2016/12/Yellow2016-442.jpg)
@@ -174,12 +174,11 @@ _**The community consists of...**_
 **• If you are in an area with a local chapter _(OR if you get 5 or more people to sign up in your town)_ you'll be able to attend our monthly in person gatherings _(see below for current chapters!)._**  
 This is a place where our members get to connect with each other on a local level. We have monthly discussion topics and a standard way of running our gatherings to make sure everyone is able to get to know each other and connect on a deeper level!
 
-Our current chapters are:  
+Our chapters are located in:
 _**Orange County  
 Long Beach  
 West LA  
 DTLA  
-LA- The Valley  
 San Diego**_
 
 _**Oakland, CA  
@@ -197,7 +196,7 @@ If you don't see your city here, **get 5 or more people to sign up in your local
 Our Slack channel is a great way for our members to connect with each other nationally. Every week we host Slack chats online, centered around a theme for that week. Our Facebook group is a new addition to the membership this quarter! We plan on hosting Facebook Live events, posting photos from our various chapter gatherings, and other fun ways to keep up with other members from all over the country.
 
 **• Book Club**  
-Remember me mentioning the book that comes in the box? It's an awesome feeling to know that members from all over the country are reading the book together! 
+Remember me mentioning the book that comes in the box? It's an awesome feeling to know that members from all over the country are reading the book together!
 
 **• Encouragement Pals**  
 We include a postcard in the Empowerment Box addressed to another woman in the community, so if everyone sends a note, all community members will receive postcards to and from each other!
@@ -210,17 +209,17 @@ As we mentioned previously, we will be hosting a community challenge every quart
 • Various online community convos  
 • Private Instagram access
 
------------------------
+---
 
 The goal is to have a Yellow Collective chapter in EVERY major city in the states! These are definitely a highlight of the membership and we would love to start a chapter in your city.
 
 Community is where we grow, where we learn more about who we are, where we can learn how to think differently and encourage one another. It's truly awesome to see the growth from so many of our members after being apart of this community. The world is CHANGING Y'ALL!
 
-* * *
+---
 
-###  _**[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)**_
+###  **_[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)_**
 
-* * *
+---
 
 [  
 ![valeriedenisephotos-62](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-62.jpg)](https://yellow-blog-images.imgix.net/2016/11/ValerieDenisePhotos-62.jpg)
@@ -231,11 +230,11 @@ Community is where we grow, where we learn more about who we are, where we can l
 
 ## _It starts with a choice. It starts right here._
 
-* * *
+---
 
-###  _**[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)**_
+###  **_[CLICK HERE TO GRAB YOUR MEMBERSHIP](http://yellowco.myshopify.com/collections/the-yellow-collective)_**
 
-* * *
+---
 
 Have a wonderful evening ladies! If you have any specific about the membership, please shoot an email to christine@yellowco.co!
 

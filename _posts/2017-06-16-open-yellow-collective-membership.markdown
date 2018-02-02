@@ -137,7 +137,7 @@ level. We have monthly discussion topics and a standard way of running our gathe
 everyone is able to get to know each other and connect on a deeper level!
 
 **Our current chapters are:**\
-Orange County • West LA • DTLA • LA - The Valley • San Diego • Oakland, CA • Chicago, IL • Austin, TX
+Orange County • West LA • DTLA • San Diego • Oakland, CA • Chicago, IL • Austin, TX
 • Nashville, TX • New York, NY • Washington DC • Tulsa, OK • Cincinnati, OH • Raleigh, NC • Denver, CO
 
 If you don't see your city here, get 5 or more people to sign up in your local area and we will
