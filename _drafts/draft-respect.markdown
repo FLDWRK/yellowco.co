@@ -8,7 +8,9 @@ image: "/uploads/Crop%20cover.jpg"
 series: Respect
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/394035324&amp;color=%23393939&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+Each month at Yellow, we explore and immerse ourselves into one focus - creating conversations between each other and within ourselves centered around topics that hold a lot of influence in our lives. To start this month of February, we wanted to create a space for not just words on a page, but a moment to introduce you into our theme of Respect. Join us in this meditation below to pause, reflect, and see what respect unearths in you.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/394035324&color=%23393939&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 They told me I’m a triangle
 
