@@ -1,6 +1,6 @@
 ---
 title: 'With Respect, We Rise: Reflect on Our New Focus with This Meditation'
-date: 2018-02-05 04:00:00 -08:00
+date: 2018-02-05 14:33:00 -08:00
 categories:
 - Growth
 author: Hanna Snyder
