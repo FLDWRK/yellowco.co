@@ -1,5 +1,5 @@
 ---
-title: Value Your Craft By Charging What Your Work Deserves
+title: How to Value Your Individual Craft by Charging the Rates You Deserve
 date: 2018-02-07 04:00:00 -08:00
 categories:
 - Entrepreneurs
