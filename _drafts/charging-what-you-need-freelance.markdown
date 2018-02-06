@@ -1,5 +1,5 @@
 ---
-title: charging what you need - freelance
+title: Valuing Your Craft By Charging What Your Work Deserves
 date: 2018-02-07 04:00:00 -08:00
 categories:
 - Entrepreneurs
@@ -18,6 +18,8 @@ If you don't find the value in what you do, then how in the world is anyone else
 
 I remember after pitching my rates in a client meeting for social media, I immediately got the response, “You know, if you charged more then I would take you seriously. Whether you know it or not, the price you’re giving me is also telling me the quality of work you’ll deliver as well, and that’s a huge turn off.” Yikes. I didn’t realize that by throwing out whatever low number I felt would make me more appealing actually ended up doing the very opposite. I had given a number that reflected how I ultimately viewed the value of my work - and it wasn’t very high.
 
+![IMG_7988.jpg](/uploads/IMG_7988.jpg)
+
 I didn’t come from a family of numbers, nor did we engage in very many monetary or economic-focused conversations, except for about what we didn’t have. If I were to dive into my “psychology of money”, I know that it would stem from a place always being a topic that brought tension, arguments, and stress. I’ve only recently realized how this has now affected my mindset on rates as a freelance, contracted professional.
 
 ### I would say yes to every event and side gig, only to receive checks that made me feel disheartened and exhausted.
@@ -27,6 +29,8 @@ Why? Because I did not communicate the value of my work and thus did not receive
 What you offer not only has monetary values - it offers a wide range of other benefits. I know I provide an emotional value with my work; the ability to allow people to walk away with a sense of restored identity, purpose, and encouragement. That can be exhausting emotionally, spiritually, and mentally; therefore, I have full freedom to charge accordingly.
 
 One of my mentors also explained to me that I am not only the brand, but the business and the product as well. When people book me for events, they aren’t just requesting what I offer: witty humor and poems that elicit the freedom to feel. They are ultimately requesting me as an individual to contribute to their event. When I come up with my rates, I break down the experience and the entirety of what I’ve seen happen as a result of working with my specific expertise.
+
+![IMG_7975.jpg](/uploads/IMG_7975.jpg)
 
 If you are negotiating rates and you walk away from that meeting not feeling seen nor heard, then your answer to that client should be no. Your time is too precious and your work has too much value for it not to be appreciated by the person who is entrusting you to make a project, product, or event come to life.
 
