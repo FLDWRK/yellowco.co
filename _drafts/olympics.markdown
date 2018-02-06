@@ -45,18 +45,18 @@ Athletes from North and South Korea have joined together to create the Unified K
 
 NIGERIA: Bobsled
 
-Seun Align, Ngozi Onwumere and Akuoma are shaping history to become Nigeria’s first women’s bobsled team. In 2016, Seun Adigun launched a GoFundMe page to help finance an Olympic pursuit: Start a women’s bobsled team in Nigeria and become the first team from Africa to compete in the sport at the 2018 Winter Olympics. All three members of the Nigerian bobsled team are former college sprinters with dual Nigerian-American citizenship. Adugin went to Houston and ran the 100-meter hurdles for Nigeria at the ’12 Summer Olympics, Onwumere also went to Houston and Omeoga attended Minnesota.
+Seun, Ngozi, and Akuoma are shaping history to become Nigeria’s first women’s bobsled team. In 2016, Seun launched a GoFundMe page to help finance an Olympic pursuit: start a women’s bobsled team and become the first team from Africa to compete in the sport at the 2018 Winter Olympics. All three members of the Nigerian bobsled team are former college sprinters with dual Nigerian-American citizenship.
 
-##### Ester Ledecka
+##### Ester Ledecká
 
 CZECH REPUBLIC: Snowboarding & Skiing
 
-At just 21 years old, Ester Ledecka is poised to become the first athlete EVER to qualify for an Olympics in both Alpine skiing and snowboarding. She currently leads the World Cup standings in Alpine snowboarding while competing in the Alpine skiing World Cup with a best finish of 13th. Participation in the Olympics runs in Ester’s family — her grandfather also won a Olympic silver and bronze in ice hockey for Czechoslovakia.
+At just 22 years old, Ester Ledecká is poised to become the first athlete EVER to qualify for the Olympics in both Alpine skiing and snowboarding. She currently leads the World Cup standings in Alpine snowboarding, while competing in the Alpine skiing World Cup with a best finish of 13th. Participation in the Olympics runs in Ester’s family — her grandfather won an Olympic silver and bronze medal in ice hockey for the Czechoslovakian team.
 
 ##### Marie Martinod
 
 FRANCE: Freestyle Skiing
 
-Marie took a silver in the Sochi 2014 olympics after coming “out of retirement” for five-years and giving birth. This season, Marie has won BOTH world cups — 11 years after her initial win. She also won the bronze medal in the superpipe event at the Winter X Games in 2006.
+Marie took a silver medal in the Sochi 2014 Olympics after coming out of a five year retirement, having given birth to her daughter. This season, Marie has won *both* World Cups — 11 years after her initial win. At 33, she's usually now one of the oldest competitors participating, but clearly time isn't slowing her down at all.
 
 *Graphics by*
