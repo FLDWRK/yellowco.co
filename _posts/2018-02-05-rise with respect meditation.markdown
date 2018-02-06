@@ -87,6 +87,9 @@ It is crucial, yes, that we deeply consider the respect we give and receive to o
 
 Let’s reassemble what our science is saying. And this time, create one rooted not in insecurity, nor laziness to listen to a new song, nor fear to speak up. This month marks 51 years since Aretha Franklin recorded an iconic anthem for the civil rights movement and gender equality: “Respect”. Though the song was originally written and recorded by Otis Redding, she revived it with a new arrangement and lyrics. Something that transformed it from a song about a "hard-working man demanding respect," to the revolutionary declaration of a strong, confident woman. I say, this is the kind of respect conversation we run after. The one that makes mountains.
 
+<script src="//static.leadpages.net/leadboxes/current/embed.js" async defer></script> <img style="cursor:pointer;" data-leadbox-popup="xWXjTGvbYtBydRRwWuUu7N" data-leadbox-domain="yellowcollective.lpages.co" src="https://lh3.googleusercontent.com/XHYR2MYzsmasnLbDGvj8p6Lzu1JRhavZIfRlWpxA8-oaTfyfOkh-AUFgGE8mUKIUfyWequ9c3lmUN8sv9MR8=s0" alt="Click here to subscribe"/> 
+
+
 *Photography by [Cacá Santoro](http://cacasantoro.com/) for Yellow Co.*
 
 *Special thanks to [Jonny Pickett](https://auralgauge.com/) for creating the original music in our Yellow Meditation!*
