@@ -1,6 +1,6 @@
 ---
 title: Arielle Estoria
-bio_image: "/uploads/IMG_6079-02-02-18-07-44.JPG"
+bio_image: "/uploads/arielle.jpg"
 website: http://arielleestoria.com/
 is_guest: true
 ---
