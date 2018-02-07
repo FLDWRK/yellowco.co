@@ -33,7 +33,7 @@ layout: site
   </div>
 </div>
 
-<!-- BENEFITS -->
+<!-- DETAILS -->
 <div class="container">
   <div class="row">
     <div class="col text-center">
@@ -77,65 +77,24 @@ layout: site
         <img src="{{ page.theme.image }}" class="img-fluid" alt="inside Yellow Membership"/>
       </div>
       <div class="col-12 col-md-6 my-auto">
-        <h3>{{ page.theme.title }}</h3>
+        <h3 class="pt-4">{{ page.theme.title }}</h3>
         {{ page.theme.text | markdownify }}
         <a href="https://members.yellowco.co/" class="btn btn-primary">Join now</a>
       </div>
     </div>
-    <div class="row my-5">
+    <div class="row my-5 justify-content-center">
       <div class="col-12">
-        <h3 class="text-center my-2 pb-4">Make 2018 the year you take <em>ownership</em> of your life</h3>
+        <h3 class="text-center my-2 pb-4">{{ page.theme.months-title | markdownify }}</h3>
       </div>
-      <div class="col-12 col-sm-6">
-        <ul class="list-unstyled text-center">
-          <li>
-            <p class="mb-0"><strong>JANUAY • TENDERNESS</strong></p>
-            <p>Goal setting with grace</p>
-          </li>
-          <li>
-            <p class="mb-0"><strong>FEBRUARY • RESPECT</strong></p>
-            <p>When it's hard to love yourself, respect yourself</p>
-          </li>
-          <li>
-            <p class="mb-0"><strong>MARCH • HERITAGE</strong></p>
-            <p>Looking at where we've come from & the impact our history has on us</p>
-          </li>
-          <li>
-            <p class="mb-0"><strong>APRIL • PRIVILEGE</strong></p>
-            <p>Understanding privilege & what it means</p>
-          </li>
-          <li>
-            <p class="mb-0"><strong>MAY • VOICE</strong></p>
-            <p>Discover, Refine & Share your TRUE voice</p>
-          </li>
-          <li>
-            <p class="mb-0"><strong>JUNE • BODY</strong></p>
-            <p>Connecting with our physical selves</p>
-          </li>
-        </ul>
-      </div>
-      <div class="col-12 col-sm-6">
-        <ul class="list-unstyled text-center">
-          <li>
-            <p class="mb-0"><strong>JULY • ABILITY</strong></p>
-            <p>Recognizing your potential to learn and do</p>
-          </li>
-          <li>
-            <p class="mb-0"><strong>AUGUST • BELONG</strong></p>
-            <p>Understanding our belonging to ourselves, our communities and the world</p>
-          </li>
-          <li>
-            <p class="mb-0"><strong>SEPTEMBER • INVEST</strong></p>
-            <p>Intentional emotional, financial & relational investing</p>
-          </li>
-          <li>
-            <p class="mb-0"><strong>OCTOBER • WEIRD</strong></p>
-            <p>Embracing our quirks and using them to our advantage</p>
-          </li>
-          <li>
-            <p class="mb-0"><strong>NOVEMBER & DECEMBER • TBD</strong></p>
-          </li>
-        </ul>
+      <div class="col-12 col-md-10 pb-3">
+        <div class="row justify-content-center">
+          {% for month in page.theme.months %}
+            <div class="col-12 col-sm-6 text-center">
+              <p class="mb-0 text-uppercase"><strong>{{ month.title }}</strong></p>
+              <p>{{ month.description }}</p>
+            </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>
@@ -143,51 +102,17 @@ layout: site
 
 <!-- MEMBERSHIP VALUES -->
 <div class="container py-3">
-  <div class="row justify-content-center py-3">
-    <div class="col-10 col-sm-4 col-lg-4">
-      <img src="/assets/images/membership-digital-resources.jpg" class="img-fluid rounded-circle mb-3" data-rjs="2"/>
+  {% for value in page.values %}
+    <div class="row justify-content-center py-3">
+      <div class="col-10 col-sm-4 col-lg-4 {% cycle '', 'flex-md-last' %}">
+        <img src="{{ value.image }}" class="img-fluid rounded-circle mb-3" data-rjs="2"/>
+      </div>
+      <div class="col-12 col-sm-8 col-lg-6 my-auto">
+        <h5 class="text-uppercase">{{ value.title }}</h5>
+        <p>{{ value.description | markdownify }}</p>
+      </div>
     </div>
-    <div class="col-12 col-sm-8 col-lg-6 my-auto">
-      <h5 class="text-uppercase">Exclusive Access to Our Digital Member Hub</h5>
-      <p><em>Consider it your virtual creative lady library you can access from anywhere:</em></p>
-      <ul>
-        <li>Video interviews with female entreprenuers</li>
-        <li>Past Yellow Conference speaker video recordings</li>
-        <li>Workbook downloads aimed at helping you take charge of your life and move forward with impact</li>
-        <li>Various printable downloads &amp; other goodies</li>
-        <li>Monthly custom playlist for Yellow Collective members curated by Jessica Blackstock</li>
-      </ul>
-    </div>
-  </div>
-  <div class="row justify-content-center py-3">
-    <div class="col-10 col-sm-4 col-lg-4 col-xl-4 flex-md-last">
-      <img src="/assets/images/membership-gatherings.jpg" class="img-fluid rounded-circle mb-3" data-rjs="2"/>
-    </div>
-    <div class="col-12 col-sm-8 col-lg-7 offset-lg-1 col-xl-6 offset-xl-2 my-auto">
-      <h5 class="text-uppercase">Monthly Gatherings</h5>
-      <p><em>The best part of the membership are the women who make it :)</em></p>
-      <ul>
-        <li>Connect with other creative, entreprenurial women who are working at building a life, not just a career.</li>
-        <li>If you're local to one of our 12 national chapters, attend an in-person event. If you're not local, attend our digital event!</li>
-        <li>Private Facebook group & weekly Slack chats where we connect on the focus for that month.</li>
-        <li>Learn from peer to peer mentoring, make new friends and change the world together!</li>
-      </ul>
-    </div>
-  </div>
-  <div class="row justify-content-center py-3">
-    <div class="col-10 col-sm-4 col-lg-4">
-      <img src="/assets/images/membership-packet.jpg" class="img-fluid rounded-circle mb-3" data-rjs="2"/>
-    </div>
-    <div class="col-12 col-sm-8 col-lg-6 my-auto">
-      <h5 class="text-uppercase">Monthly "Empowerment Packet" Mailed to Your Door</h5>
-      <p><em>Every month your packet includes:</em></p>
-      <ul>
-        <li>A periodical filled with interactive content surrounding our theme for the month. Every issue will lead you towards making powerful changes in your life.</li>
-        <li>A challenge designed to help you take what you've learned and bring it to life.</li>
-        <li>Various discounts & vouchers for products we love!</li>
-      </ul>
-    </div>
-  </div>
+  {% endfor %}
   <!-- JOIN TODAY -->
   <div class="row justify-content-center mt-5">
     <div class="col-12 col-sm-7 col-md-5 col-lg-4">
@@ -204,12 +129,11 @@ layout: site
       <p class="text-center">Questions? <a href="https://fldwrk.help/yellow-co">Read our FAQs</a></p>
     </div>
     <div class="col-12 col-md-7 col-lg-6 offset-lg-1">
-      <ul class="list-checkmark">
-        <li>Free shipping in the US</li>
-        <li>Cancel anytime, hassle free</li>
-        <li>Exclusive ticket prices for annual conference and workshops</li>
-        <li>Discounts to partnering do-good resources and products</li>
-      </ul>
+      {% for benefit in page.benefits %}
+        <ul class="list-checkmark">
+          <li>{{ benefit | markdownify }}</li>
+        </ul>
+      {% endfor %}
     </div>
   </div>
 </div>
@@ -224,8 +148,8 @@ layout: site
     <div class="container">
       <div class="row intro-overlay justify-content-center">
         <div class="intro-content col-11 col-sm-11 col-lg-8 text-center py-4 px-3">
-          <h6>Your membership is making an impact</h6>
-          <p>Your membership helps employ at-risk youth, empower women globally, and supports other initiatives taking place across the world.</p>
+          <h6>{{ page.impact.title }}</h6>
+          <p>{{ page.impact.description }}</p>
           {% assign featuredImpact = site.posts | where:'impact-feature', true %}
           {% for post in featuredImpact %}
             <a href="{{ post.url }}" class="btn btn-primary">View Our Impact</a>
@@ -253,7 +177,7 @@ layout: site
             </div>
             <div id="collapse{% increment faq-collapse %}" class="collapse" role="tabpanel" aria-labelledby="heading{% increment faq-answer %}">
               <div class="card-block">
-                {{ faq.answer }}
+                {{ faq.answer | markdownify }}
               </div>
             </div>
           </div>

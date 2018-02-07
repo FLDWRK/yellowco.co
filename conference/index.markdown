@@ -11,19 +11,13 @@ nav:
     highlight: conference
 banners:
 - image: "/uploads/banner-conference-ownership-a98a35.jpg"
-- link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
-  image: "/uploads/banner-conference-ownership-TICKET-RAISE-b3ae8a.jpg"
 sm-banners:
 - image: "/uploads/banner-conference-conference-sm.jpg"
-- link: https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0
-  image: "/uploads/banner-conference-ownership-SM-TICKET-RAISE.jpg"
 conference:
   title: 2018 Yellow Conference
   time: Thu, Aug 23 - Fri, Aug 24
   text: |-
     A gathering for creative women who are making an impact and using their gifts, skills and talents to serve the greater good.
-
-    **Ticket prices go up Feb 1!**
 quote-one:
   image: "/assets/images/conference-guests.jpg"
   text: 'Succinctly: It will change your life and your business. With less brevity:
@@ -34,7 +28,7 @@ theme:
   details: |-
     Join 500 creative, entrepreneurial-minded women in the heart of Downtown Los Angeles for a gathering that is so much more than a conference. This is for the ones who desire to fight for a better tomorrow. The ones who are willing to roll up their sleeves, step out in courage, and use their creativity for good. This is where we come together for the benefit of humankind.
 
-    This year our 2018 theme is “Our Ownership”. It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own WHO THEY ARE? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens. Join us as we dive into this theme at our 2018 conference.
+    This year our 2018 theme is “Our Ownership”. It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own _who they are?_ Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens. Join us as we dive into this theme at our 2018 conference.
 speakers:
 - name: Holley Murchison
   image: "/assets/images/holley-murchison.jpg"
@@ -72,4 +66,3 @@ marketplace:
   apply-link: https://docs.google.com/forms/d/e/1FAIpQLSeuhlqtlqnxrNHn0DdoFmQdHaO5ouMVwIcPj8Kt_buhJ6uZOA/viewform
 layout: custom/conference
 ---
-

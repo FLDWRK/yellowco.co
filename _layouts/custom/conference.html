@@ -24,7 +24,7 @@ layout: site
         <h1 class="mb-3">{{ page.conference.title }}</h1>
         <h6>{{ page.conference.time }}</h6>
         <div class="hero-rule my-4"></div>
-        <p class="lead">{{ page.conference.text }}</p>
+        <p class="lead">{{ page.conference.text | markdownify }}</p>
         <script src="https://www.universe.com/embed2.js" data-state=""></script>
         <a class="btn btn-primary btn-sm" href="https://www.universe.com/events/yellow-conference-2018-tickets-SKLDM0?buttonColor=#231f20&buttonText=GRAB YOUR TICKETS">Grab Your Ticket</a>
       </div>
