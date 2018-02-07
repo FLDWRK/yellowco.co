@@ -16,8 +16,8 @@ sm-banners:
 conference:
   title: 2018 Yellow Conference
   time: Thu, Aug 23 - Fri, Aug 24
-  text: |-
-    A gathering for creative women who are making an impact and using their gifts, skills and talents to serve the greater good.
+  text: A gathering for creative women who are making an impact and using their gifts,
+    skills and talents to serve the greater good.
 quote-one:
   image: "/assets/images/conference-guests.jpg"
   text: 'Succinctly: It will change your life and your business. With less brevity:
@@ -66,3 +66,4 @@ marketplace:
   apply-link: https://docs.google.com/forms/d/e/1FAIpQLSeuhlqtlqnxrNHn0DdoFmQdHaO5ouMVwIcPj8Kt_buhJ6uZOA/viewform
 layout: custom/conference
 ---
+
