@@ -48,7 +48,8 @@ theme:
   - title: February • Respect
     description: When it's hard to love yourself, respect yourself
   - title: March • Heritage
-    description: Looking at where we've come from & the impact our history has on us
+    description: Looking at where we've come from & the impact our history has on
+      us
   - title: April • Privilege
     description: Understanding privilege & what it means
   - title: May • Voice
@@ -58,15 +59,16 @@ theme:
   - title: July • Ability
     description: Recognizing your potential to learn and do
   - title: August • Belong
-    description: Understanding our belonging to ourselves, our communities and the world
+    description: Understanding our belonging to ourselves, our communities and the
+      world
   - title: September • Invest
     description: Intentional emotional, financial & relational investing
   - title: October • Weird
     description: Embracing our quirks and using them to our advantage
   - title: November • Conflict
-    description:
+    description: 
   - title: December • Reflect
-    description:
+    description: 
 values:
 - title: Exclusive Access to Our Digital Member Hub
   description: |-
@@ -99,10 +101,11 @@ benefits:
 - Cancel anytime, hassle free
 impact:
   title: Your membership is making an impact
-  description: Your membership helps employ at-risk youth, empower women globally, and supports other initiatives taking place across the world.
+  description: Your membership helps employ at-risk youth, empower women globally,
+    and supports other initiatives taking place across the world.
 faqs:
 - question: Where can I find more information?
-  answer: You can hop on our email list! 👉 [Yellow Membership Interest List](http://eepurl.com/bEZbaH)
+  answer: "You can hop on our email list! \U0001F449 [Yellow Membership Interest List](http://eepurl.com/bEZbaH)"
 - question: What comes with membership?
   answer: Membership value is delivered in 3 ways. Physically, with a monthly packet
     mailed to your door. Digitally, with access to our online hub of tools, resources
@@ -128,3 +131,4 @@ faqs:
     we’d be sad to see you go \U0001F642"
 layout: custom/membership
 ---
+
