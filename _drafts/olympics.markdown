@@ -4,7 +4,7 @@ date: 2018-02-09 04:00:00 -08:00
 categories:
 - Culture
 author: Jackie Boylhart
-image: "/uploads/12-Powerhouse-Women-to-Watch-in-the-2018-Winter-Olympics.jpg"
+image: "/uploads/12-Powerhouse-Women-to-Watch-in-the-2018-Winter-Olympics-09590e.jpg"
 series: Respect
 ---
 
