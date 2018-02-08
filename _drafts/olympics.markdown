@@ -4,7 +4,7 @@ date: 2018-02-09 04:00:00 -08:00
 categories:
 - Culture
 author: Jackie Boylhart
-image: "/uploads/12-Powerhouse-Women-to-Watch-in-the-2018-Winter-Olympics-09590e.jpg"
+image: "/uploads/olympics-4.jpg"
 series: Respect
 ---
 
@@ -66,4 +66,4 @@ At just 22 years old, Ester Ledecká is poised to become the first athlete EVER 
 
 Marie took a silver medal in the Sochi 2014 Olympics after coming out of a five year retirement, having given birth to her daughter. This season, Marie has won *both* World Cups — 11 years after her initial win. At 33, she's usually now one of the oldest competitors participating, but clearly time isn't slowing her down at all.
 
-*Graphics by*
+*Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
