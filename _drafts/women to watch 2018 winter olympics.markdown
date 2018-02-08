@@ -10,11 +10,11 @@ series: Respect
 
 The XXIII Olympic Winter Games are beginning today in Pyeongchang, South Korea! Strong and fearless competitors will come together from across the globe and take to demonstrating their athletic prowess in the snow, ice and cold. Among them will be these powerfully elegant female athletes whose dedication to excellence and discipline inspire us all. While I'll definitely be cheering for all of the athletes competing this Winter, here are some especially incredible ladies to look out for.
 
-##### Maame Biney
+##### Ester Ledecká
 
-**USA: Speed Skating**
+**Czech Republic: Snowboarding & Skiing**
 
-18-year-old, Ghana-born Maame Biney is the first Black woman EVER to qualify for the U.S. Olympic speed skating team. She began figure skating at the age of six after moving to Reston, Virginia to live with her father. A coach recommended Biney switch over to speed skating because she was “too fast” for figure skating, and she hasn’t looked back since. Maame attributes much of her success and dedication to her dad, Kweku Biney (even though he doesn’t like to take credit for Maame’s achievements).
+At just 22 years old, Ester Ledecká is poised to become the first athlete EVER to qualify for the Olympics in both Alpine skiing and snowboarding. She currently leads the World Cup standings in Alpine snowboarding, while competing in the Alpine skiing World Cup with a best finish of 13th. Participation in the Olympics runs in Ester’s family — her grandfather won an Olympic silver and bronze medal in ice hockey for the Czechoslovakian team.
 
 ##### Jazmine Fenlator-Victorian, Carrie Russell, and Audra Segree
 
@@ -54,11 +54,11 @@ Mirai Nagasu made her Olympic debut in Vancouver 2010, but missed qualifying for
 
 ![olympics-10.jpg](/uploads/olympics-10.jpg)
 
-##### Ester Ledecká
+##### Maame Biney
 
-**Czech Republic: Snowboarding & Skiing**
+**USA: Speed Skating**
 
-At just 22 years old, Ester Ledecká is poised to become the first athlete EVER to qualify for the Olympics in both Alpine skiing and snowboarding. She currently leads the World Cup standings in Alpine snowboarding, while competing in the Alpine skiing World Cup with a best finish of 13th. Participation in the Olympics runs in Ester’s family — her grandfather won an Olympic silver and bronze medal in ice hockey for the Czechoslovakian team.
+18-year-old, Ghana-born Maame Biney is the first Black woman EVER to qualify for the U.S. Olympic speed skating team. She began figure skating at the age of six after moving to Reston, Virginia to live with her father. A coach recommended Biney switch over to speed skating because she was “too fast” for figure skating, and she hasn’t looked back since. Maame attributes much of her success and dedication to her dad, Kweku Biney (even though he doesn’t like to take credit for Maame’s achievements).
 
 ##### Marie Martinod
 
