@@ -4,6 +4,7 @@ date: 2018-02-09 04:00:00 -08:00
 categories:
 - Culture
 author: Jackie Boylhart
+image: "/uploads/olympics-7.jpg"
 series: Respect
 ---
 
