@@ -8,21 +8,21 @@ image: "/uploads/olympics-4.jpg"
 series: Respect
 ---
 
-The XXIII Olympic Winter Games are beginning today in Pyeongchang, South Korea! Strong and fearless competitors will come together from across the globe and take to demonstrating their athletic prowess in the snow, ice and cold. Among them will be these powerfully elegant female athletes whose dedication to excellence and discipline inspire us all. While I'll definitely be cheering for all of the athletes competing this Winter, here are some especially incredible ladies to look out for.
+The XXIII Olympic Winter Games are beginning today in Pyeongchang, South Korea! Strong and fearless competitors will come together from across the globe and take to demonstrating their athletic prowess in the snow, ice, and cold. Among them will be these 12 powerfully elegant female athletes whose dedication to excellence and discipline inspires us all. While I'll definitely be cheering for all of the athletes competing this Winter, here are some especially incredible ladies to look out for.
 
 ##### Ester Ledecká
 
-**Czech Republic: Snowboarding & Skiing**
+**Czech Republic: Snowboarding & Alpine Skiing**
 
-At just 22 years old, Ester Ledecká is poised to become the first athlete EVER to qualify for the Olympics in both Alpine skiing and snowboarding. She currently leads the World Cup standings in Alpine snowboarding, while competing in the Alpine skiing World Cup with a best finish of 13th. Participation in the Olympics runs in Ester’s family — her grandfather won an Olympic silver and bronze medal in ice hockey for the Czechoslovakian team.
+At just 22 years old, Ester Ledecká is the first athlete EVER to qualify for the Olympics in both Alpine skiing and snowboarding. She currently leads the World Cup standings in Alpine snowboarding,  and had a best finish of 13th in skiing. Competing in the Olympics runs in Ester’s family — her grandfather won an Olympic silver and bronze medal in ice hockey for the Czechoslovakian team.
 
 ##### Jazmine Fenlator-Victorian, Carrie Russell, and Audra Segree
 
 **Jamaica: Bobsled**
 
-Thirty years after Jamaica sent their first male bobsled team to the Olympics (and inspired the classic movie, Cool Runnings), the country is sending their first female team to Pyeongchang! The team is piloted by Jazmine Fenlator-Victorian, who previously competed on the United States team and finished 11th in the 2014 Sochi Winter Olympics. She is accompanied by the pusher, Carrie Russell, a sprinter who helped Jamaica win the gold in the 4x100-meter relay at the 2013 World Track and Field Championships, and Audra Segree as the brake(wo)man.
+Thirty years after Jamaica sent their first male bobsled team to the Olympics (and inspired the classic movie, Cool Runnings), the country is sending their first female team to Pyeongchang! The team is piloted by Jazmine Fenlator-Victorian, who previously competed on the United States team and finished 11th in the 2014 Sochi Winter Olympics. She is accompanied by pusher, Carrie Russell, a sprinter who helped Jamaica win the gold in the 4x100 meter relay at the 2013 World Track and Field Championships, and Audra Segree as the brake(wo)man.
 
-![olympics-2.jpg](/uploads/olympics-2.jpg)
+![12 Powerhouse Women to Watch in the 2018 Winter Olympics - Yellow Co.jpg](/uploads/olympics-2.jpg)
 
 ##### Chloe Kim
 
@@ -38,7 +38,7 @@ Chloe is also well known for her ever-changing hair color, and frequently posts 
 
 Athletes from North and South Korea have joined together to create the Unified Korean Women's Ice Hockey Team; the first time the two countries will be competing as a unified team at the Olympic Games. Former Harvard University forward Randi Griffin, a North Carolinian of Korean heritage, will be competing on the team. Aside from playing at the Winter Games this year, she’ll also continue to work in her dissertation for her Ph.D. in Evolutionary Anthropology from Duke University.
 
-![olympics-12.jpg](/uploads/olympics-12.jpg)
+![12 Powerhouse Women to Watch in the 2018 Winter Olympics - Yellow Co.jpg](/uploads/olympics-12.jpg)
 
 ##### Seun Adigun, Ngozi Onwumere, and Akuoma Omeoga
 
@@ -50,15 +50,15 @@ Seun, Ngozi, and Akuoma are shaping history to become Nigeria’s first women’
 
 **USA: Figure Skating**
 
-Mirai Nagasu made her Olympic debut in Vancouver 2010, but missed qualifying for Sochi in 2014. This year she’s back in PyeongChang for 2018 looking to take home the Gold. She won her first women’s U.S. national title at the age of 14, making her the youngest woman since 1997 to win the U.S. title. Mirai started skating all because because it was raining on a day she was meant to be training to become training to become a professional golfer. She went to the skating rink instead, and never looked back.
+Mirai Nagasu made her Olympic debut in Vancouver 2010, but missed qualifying for Sochi in 2014. This year she’s back in PyeongChang for 2018 looking to take home the gold. She won her first women’s U.S. national title at the age of 14, making her the youngest woman since 1997 to win the U.S. title. Mirai started skating all because because it was raining on a day she was meant to be training to become a professional golfer. She went to the skating rink instead, and never looked back.
 
-![olympics-10.jpg](/uploads/olympics-10.jpg)
+![12 Powerhouse Women to Watch in the 2018 Winter Olympics - Yellow Co.jpg](/uploads/olympics-10.jpg)
 
 ##### Maame Biney
 
 **USA: Speed Skating**
 
-18-year-old, Ghana-born Maame Biney is the first Black woman EVER to qualify for the U.S. Olympic speed skating team. She began figure skating at the age of six after moving to Reston, Virginia to live with her father. A coach recommended Biney switch over to speed skating because she was “too fast” for figure skating, and she hasn’t looked back since. Maame attributes much of her success and dedication to her dad, Kweku Biney (even though he doesn’t like to take credit for Maame’s achievements).
+18-year-old, Ghana-born Maame Biney is the first Black woman EVER to qualify for the U.S. Olympic speed skating team. She began figure skating at the age of six after moving to Reston, Virginia to live with her father. A coach recommended Biney switch over to speed skating because she was “too fast” for figure skating. Maame attributes much of her success and dedication to her father, Kweku Biney (even though he doesn’t like to take credit for Maame’s achievements).
 
 ##### Marie Martinod
 
