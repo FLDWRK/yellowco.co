@@ -22,6 +22,8 @@ The XXIII Olympic Winter Games are beginning today in Pyeongchang, South Korea! 
 
 Thirty years after Jamaica sent their first male bobsled team to the Olympics (and inspired the classic movie, Cool Runnings), the country is sending their first female team to Pyeongchang! The team is piloted by Jazmine Fenlator-Victorian, who previously competed on the United States team and finished 11th in the 2014 Sochi Winter Olympics. She is accompanied by the pusher, Carrie Russell, a sprinter who helped Jamaica win the gold in the 4x100-meter relay at the 2013 World Track and Field Championships, and Audra Segree as the brake(wo)man.
 
+![olympics-2.jpg](/uploads/olympics-2.jpg)
+
 ##### Chloe Kim
 
 **USA: Snowboarding**
@@ -36,6 +38,8 @@ Chloe is also well known for her ever-changing hair color, and frequently posts 
 
 Athletes from North and South Korea have joined together to create the Unified Korean Women's Ice Hockey Team; the first time the two countries will be competing as a unified team at the Olympic Games. Former Harvard University forward Randi Griffin, a North Carolinian of Korean heritage, will be competing on the team. Aside from playing at the Winter Games this year, she’ll also continue to work in her dissertation for her Ph.D. in Evolutionary Anthropology from Duke University.
 
+![olympics-3.jpg](/uploads/olympics-3.jpg)
+
 ##### Seun Adigun, Ngozi Onwumere, and Akuoma Omeoga
 
 **Nigeria: Bobsled**
@@ -47,6 +51,8 @@ Seun, Ngozi, and Akuoma are shaping history to become Nigeria’s first women’
 **USA: Figure Skating**
 
 Mirai Nagasu made her Olympic debut in Vancouver 2010, but missed qualifying for Sochi in 2014. This year she’s back in PyeongChang for 2018 looking to take home the Gold. She won her first women’s U.S. national title at the age of 14, making her the youngest woman since 1997 to win the U.S. title. Mirai started skating all because because it was raining on a day she was meant to be training to become training to become a professional golfer. She went to the skating rink instead, and never looked back.
+
+![olympics-4.jpg](/uploads/olympics-4.jpg)
 
 ##### Ester Ledecká
 
