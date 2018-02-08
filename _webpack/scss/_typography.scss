@@ -40,6 +40,12 @@ h6 {
   letter-spacing: 2px;
   font-style: normal;
   line-height: 1.4;
+
+  .playfair {
+    font-family: $headings-lg-font-family;
+    letter-spacing: 0;
+    line-height: 1.6;
+  }
 }
 
 .display-1,
@@ -114,6 +120,10 @@ p.lead > strong {
 
 .playfair-display {
   font-family: 'Playfair Display', serif;
+}
+
+.text-gray {
+  color: $gray-light;
 }
 
 ::selection {
