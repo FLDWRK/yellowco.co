@@ -32,7 +32,7 @@ Emily Moberly is the founder of [Traveling Stories](https://travelingstories.org
 
 ###### Leah Kirpalani, Founder of Good Life
 
-Leah Kirpalani is the founder of [Good Life](http://good-life.co/), where she pairs her 8+ years of personal healing experience with her intensive nutrition training to provide the inspiration, education, and wellness tools for men and women to live their most holistically healthful lives! Shop and learn more about Good Life [online](http://good-life.co/shop) or Shop Good in person at 3030 N. Park Way!
+Leah Kirpalani is the founder of [Good Life](http://good-life.co/), where she pairs her 8\+ years of personal healing experience with her intensive nutrition training to provide the inspiration, education, and wellness tools for men and women to live their most holistically healthful lives! Shop and learn more about Good Life [online](http://good-life.co/shop) or Shop Good in person at 3030 N. Park Way!
 
 ###### Joanna Waterfall, Founder of Yellow Co.
 
@@ -45,3 +45,5 @@ In addition, we have [Lindsey Eryn Clark](https://linktr.ee/lindseyeryn), writer
 Besides hearing from all these amazing ladies, we'll be diving into groups to work through an interactive activity together where you can offer your voice and expertise and learn from each other as well!
 
 #### [Head here to grab your ticket for San Diego](https://www.universe.com/events/yellow-co-tour-san-diego-february-17th-tickets-san-diego-F6GLHB), or check out more details about our [other tour stops here](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)!
+
+_Moniker BLDG 177 image via [Moniker Events](https://www.instagram.com/monikerevents/)_
