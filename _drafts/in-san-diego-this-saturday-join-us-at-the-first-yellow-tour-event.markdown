@@ -8,33 +8,21 @@ image: "/uploads/tour.jpg"
 series: Respect
 ---
 
-We're hosting 7 pop-up conference events up the West Coast
+In case you missed it, this Saturday we're kicking off our first ever [Yellow Co. Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)! We've partnered up with the amazing [Airstream](https://www.airstream.com/) and are heading on the road to empower women face to face, hosting 7 pop-up conference events up the West Coast starting in San Diego and continuing on to Orange County, Los Angeles, San Francisco, Portland, Seattle, and Denver.
 
-the yellow ownership tour
+If you're in the San Diego area, join us this Saturday, February 17th at [Moniker's](https://monikergroup.com/) BLDG 177 in [Liberty Station](https://libertystation.com/) as we dive into How to Take Ownership of Your Strengths!
 
-we’re headed on the road to empower women face to face
+Tickets are only $27 each, and not only do our [Yellow Collective](https://yellowco.co/membership/) members attend for free, they get to bring a friend for free!
 
-We've partnered up with the amazing [Airstream](https://www.airstream.com/), to host our very first West Coast Tour! We'll be living out of an airstream for 2 months heading up the West Coast, starting in San Diego and headed to Seattle, and hosting 7 amazing events in cities along the way.
+#### [Grab your ticket here!](https://www.universe.com/events/yellow-co-tour-san-diego-february-17th-tickets-san-diego-F6GLHB)
 
-in addition to the amazing speakers and panel
+Or, you can sign up for a $33 per month [Yellow Collective membership here](https://yellowco.co/membership/) to not only attend any tour stop for FREE with a friend, but to join a community of supportive and creative women who are influencing the world as agents of good.
 
-Interactive Activities
-
-These tour stops aren't the kind of event where you simply sit back and take it all in. We want you to offer your voice and expertise as well. You become each other's teachers as we dive into groups and work through an interactive activity together.
-
-Tickets are only $27 each, and not only do our** [Yellow Collective](https://yellowco.co/membership/) members attend for free**\*-- they get to bring a friend for free!
-
-Become a member and get FREE admission for you *and* a friend to all tour stops
-
-Sign up for a $33 per month [Yellow Collective membership](https://yellowco.co/membership/) here to not only attend any tour stop for free with a friend, but to join a community of supportive and creative women who are influencing the world as agents of good.
-
-Moniker new venue in [Liberty Station](https://libertystation.com/)
-
-HOW TO TAKE OWNERSHIP OF YOUR STRENGTHS
+These are the incredible ladies that will be speaking in San Diego:
 
 ###### Rebecca Ching, Founder of Potentia Therapy
 
-[Rebecca Bass-Ching](http://rebeccaching.com/) is the founder of Potentia Therapy and the I Choose Respect movement-- a movement that encourages men and women to respect their story, even if they can't quite love it yet. You can find more information about Rebecca at her website, [http://rebeccaching.com](http://rebeccaching.com/).
+[Rebecca Bass-Ching](http://rebeccaching.com/) is the founder of Potentia Therapy and the I Choose Respect movement-- a movement that encourages men and women to respect their story, even if they can't quite love it yet. You can find more information about Rebecca at her [website.](http://rebeccaching.com/)
 
 ###### Emily Moberly, Founder of Traveling Stories
 
@@ -48,6 +36,8 @@ Leah Kirpalani is the founder of [Good Life](http://good-life.co/shop/), where s
 
 Joanna Waterfall is the Founder of [Yellow Co.](https://yellowco.co/), an organization that exists to empower creative women to become agents of good. With a degree in graphic design and digital media, Joanna believes that creativity, business, and social impact should go hand in hand. She is motivated by the belief that women can change the world through stepping out of fear and into what makes them come alive.
 
-Panel
+In addition, we have [Lindsey Eryn Clark](https://linktr.ee/lindseyeryn), writer, designer, podcaster and [Krystel Stacey Tien](http://coutureeventsca.com/), Owner of Couture Events that will discussing different topics surrounding being a creative, entreprenurial-minded woman in today's world on a panel!
 
-**[Lindsey Eryn Clark](https://linktr.ee/lindseyeryn), writer, designer, podcaster [Krystel Stacey Tien](http://coutureeventsca.com/), Owner of Couture Events**
+Besides hearing from all these amazing ladies, we'll be diving into groups to work through an interactive activity together where you can offer your voice and expertise and learn from each other as well!
+
+[Head here to grab your ticket for San Diego](https://www.universe.com/events/yellow-co-tour-san-diego-february-17th-tickets-san-diego-F6GLHB), or check out more details about our [other tour stops here](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)!
