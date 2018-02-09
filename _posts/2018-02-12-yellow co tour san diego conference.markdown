@@ -40,7 +40,7 @@ Joanna Waterfall is the Founder of [Yellow Co.](https://yellowco.co/), an organi
 
 ![In San Diego This Saturday? Join Us at the First Yellow Tour Pop-Up Conference.jpg](/uploads/Tour-Photo-Joanna.jpg)
 
-In addition, we have [Lindsey Eryn Clark](https://linktr.ee/lindseyeryn), writer, designer, podcaster and [Krystel Stacey Tien](http://coutureeventsca.com/), Owner of Couture Events that will discussing different topics surrounding being a creative, entreprenurial-minded woman in today's world on a panel!
+In addition, we have [Lindsey Eryn Clark](https://linktr.ee/lindseyeryn), writer, designer, podcaster, and [Krystel Stacey Tien](http://coutureeventsca.com/), Owner of Couture Events that will discussing different topics surrounding being a creative, entreprenurial-minded woman in today's world on a panel!
 
 Besides hearing from all these amazing ladies, we'll be diving into groups to work through an interactive activity together where you can offer your voice and expertise and learn from each other as well!
 
