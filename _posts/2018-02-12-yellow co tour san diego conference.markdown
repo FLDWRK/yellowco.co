@@ -18,7 +18,7 @@ Tickets are only $27 each, and not only do our **[Yellow Collective](https://yel
 
 Or, you can sign up for a $33 per month [Yellow Collective membership here](https://yellowco.co/membership/) to not only attend any tour stop for FREE with a friend, but to join a community of supportive and creative women who are influencing the world as agents of good.
 
-![Screen Shot 2018-02-08 at 8.35.21 PM.png](/uploads/Screen%20Shot%202018-02-08%20at%208.35.21%20PM.png)
+![In San Diego This Saturday? Join Us at the First Yellow Tour Pop-Up Conference.png](/uploads/Screen%20Shot%202018-02-08%20at%208.35.21%20PM.png)
 
 These are the incredible ladies that will be speaking in San Diego:
 
@@ -38,7 +38,7 @@ Leah Kirpalani is the founder of [Good Life](http://good-life.co/), where she pa
 
 Joanna Waterfall is the Founder of [Yellow Co.](https://yellowco.co/), an organization that exists to empower creative women to become agents of good. With a degree in graphic design and digital media, Joanna believes that creativity, business, and social impact should go hand in hand. She is motivated by the belief that women can change the world through stepping out of fear and into what makes them come alive.
 
-![Tour-Photo-Joanna.jpg](/uploads/Tour-Photo-Joanna.jpg)
+![In San Diego This Saturday? Join Us at the First Yellow Tour Pop-Up Conference.jpg](/uploads/Tour-Photo-Joanna.jpg)
 
 In addition, we have [Lindsey Eryn Clark](https://linktr.ee/lindseyeryn), writer, designer, podcaster and [Krystel Stacey Tien](http://coutureeventsca.com/), Owner of Couture Events that will discussing different topics surrounding being a creative, entreprenurial-minded woman in today's world on a panel!
 
@@ -46,4 +46,4 @@ Besides hearing from all these amazing ladies, we'll be diving into groups to wo
 
 #### [Head here to grab your ticket for San Diego](https://www.universe.com/events/yellow-co-tour-san-diego-february-17th-tickets-san-diego-F6GLHB), or check out more details about our [other tour stops here](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)!
 
-_Moniker BLDG 177 image via [Moniker Events](https://www.instagram.com/monikerevents/)_
+*Moniker BLDG 177 image via [Moniker Events](https://www.instagram.com/monikerevents/)*
