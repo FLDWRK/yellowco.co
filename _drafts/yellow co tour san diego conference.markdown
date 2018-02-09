@@ -12,7 +12,7 @@ In case you missed it, this Saturday we're kicking off our first ever [Yellow Co
 
 If you're in the San Diego area, join us this Saturday, February 17th at [Moniker's](https://monikergroup.com/) BLDG 177 in [Liberty Station](https://libertystation.com/) as we dive into How to Take Ownership of Your Strengths!
 
-Tickets are only $27 each, and not only do our [Yellow Collective](https://yellowco.co/membership/) members attend for free, they get to bring a friend for free!
+Tickets are only $27 each, and not only do our **[Yellow Collective](https://yellowco.co/membership/) members attend for free**, they get to **bring a friend for free**!
 
 #### [Grab your ticket here!](https://www.universe.com/events/yellow-co-tour-san-diego-february-17th-tickets-san-diego-F6GLHB)
 
@@ -24,7 +24,7 @@ These are the incredible ladies that will be speaking in San Diego:
 
 ###### Rebecca Ching, Founder of Potentia Therapy
 
-[Rebecca Bass-Ching](http://rebeccaching.com/) is the founder of Potentia Therapy and the I Choose Respect movement-- a movement that encourages men and women to respect their story, even if they can't quite love it yet. You can find more information about Rebecca at her [website.](http://rebeccaching.com/)
+[Rebecca Bass-Ching](http://rebeccaching.com/) is the founder of Potentia Therapy and the I Choose Respect movement - a movement that encourages men and women to respect their story, even if they can't quite love it yet. You can find more information about Rebecca at her [website.](http://rebeccaching.com/)
 
 ###### Emily Moberly, Founder of Traveling Stories
 
@@ -32,7 +32,7 @@ Emily Moberly is the founder of [Traveling Stories](https://travelingstories.org
 
 ###### Leah Kirpalani, Founder of Good Life
 
-Leah Kirpalani is the founder of [Good Life](http://good-life.co/shop/), where she pairs her \+8 years of personal healing experience with her intensive nutrition training to provide the inspiration, education, and wellness tools for men and women to live their most holistically healthful lives! Shop and learn more about Good Life [http://good-life.co/shop](http://good-life.co/shop) or Shop Good in person at 3030 N Park Way!
+Leah Kirpalani is the founder of [Good Life](http://good-life.co/), where she pairs her 8+ years of personal healing experience with her intensive nutrition training to provide the inspiration, education, and wellness tools for men and women to live their most holistically healthful lives! Shop and learn more about Good Life [online](http://good-life.co/shop) or Shop Good in person at 3030 N. Park Way!
 
 ###### Joanna Waterfall, Founder of Yellow Co.
 
@@ -44,4 +44,4 @@ In addition, we have [Lindsey Eryn Clark](https://linktr.ee/lindseyeryn), writer
 
 Besides hearing from all these amazing ladies, we'll be diving into groups to work through an interactive activity together where you can offer your voice and expertise and learn from each other as well!
 
-[Head here to grab your ticket for San Diego](https://www.universe.com/events/yellow-co-tour-san-diego-february-17th-tickets-san-diego-F6GLHB), or check out more details about our [other tour stops here](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)!
+#### [Head here to grab your ticket for San Diego](https://www.universe.com/events/yellow-co-tour-san-diego-february-17th-tickets-san-diego-F6GLHB), or check out more details about our [other tour stops here](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)!
