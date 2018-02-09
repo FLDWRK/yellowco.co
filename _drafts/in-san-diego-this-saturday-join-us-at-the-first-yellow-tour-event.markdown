@@ -4,10 +4,13 @@ date: 2018-02-12 04:00:00 -08:00
 categories:
 - Growth
 author: Yellow Co.
+image: "/uploads/tour.jpg"
 series: Respect
 ---
 
 Moniker new venue in [Liberty Station](https://libertystation.com/)
+
+**HOW TO TAKE OWNERSHIP OF YOUR STRENGTHS**
 
 **Rebecca Ching, Founder of Potentia Therapy**
 
