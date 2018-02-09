@@ -1,5 +1,5 @@
 ---
-title: In San Diego This Saturday? Join Us at the First Yellow Tour Event!
+title: In San Diego This Saturday? Join Us at the First Yellow Tour Pop-Up Conference!
 date: 2018-02-12 04:00:00 -08:00
 categories:
 - Growth
