@@ -10,7 +10,7 @@ series: Respect
 
 In case you missed it, this Saturday we're kicking off our first ever [Yellow Co. Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)! We've partnered up with the amazing [Airstream](https://www.airstream.com/) and are heading on the road to empower women face to face, hosting 7 pop-up conference events up the West Coast starting in San Diego and continuing on to Orange County, Los Angeles, San Francisco, Portland, Seattle, and Denver.
 
-If you're in the San Diego area, join us this Saturday, February 17th at [Moniker's](https://monikergroup.com/) BLDG 177 in [Liberty Station](https://libertystation.com/) as we dive into How to Take Ownership of Your Strengths!
+If you're in the San Diego area, join us this Saturday, February 17th, at [Moniker's](https://monikergroup.com/) BLDG 177 in [Liberty Station](https://libertystation.com/) as we dive into How to Take Ownership of Your Strengths!
 
 Tickets are only $27 each, and not only do our **[Yellow Collective](https://yellowco.co/membership/) members attend for free**, they get to **bring a friend for free**!
 
@@ -44,6 +44,8 @@ In addition, we have [Lindsey Eryn Clark](https://linktr.ee/lindseyeryn), writer
 
 Besides hearing from all these amazing ladies, we'll be diving into groups to work through an interactive activity together where you can offer your voice and expertise and learn from each other as well!
 
-#### [Head here to grab your ticket for San Diego](https://www.universe.com/events/yellow-co-tour-san-diego-february-17th-tickets-san-diego-F6GLHB), or check out more details about our [other tour stops here](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)!
+#### [Head here to grab your ticket for San Diego!](https://www.universe.com/events/yellow-co-tour-san-diego-february-17th-tickets-san-diego-F6GLHB)
+
+#### [Check out more details about our other tour stops here!](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)
 
 *Moniker BLDG 177 image via [Moniker Events](https://www.instagram.com/monikerevents/)*
