@@ -4,6 +4,7 @@ date: 2018-02-14 04:00:00 -08:00
 categories:
 - Health
 author: Rebecca Bass-Ching
+image: "/uploads/How%20I%20Created%20a%20Movement%20That%20Destigmatizes%20Struggle.jpg"
 series: Respect
 ---
 
