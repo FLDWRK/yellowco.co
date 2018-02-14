@@ -3,7 +3,7 @@ title: Rebecca Bass-Ching
 date: 2018-02-13 15:50:00 -08:00
 company_name: Potentia Family Therapy, Inc.
 job_title: 'Founder + CEO '
-bio_image: "/uploads/unnamed.jpg"
+bio_image: "/uploads/rebecca.jpg"
 website: https://potentiatherapy.com/
 is_guest: true
 ---
