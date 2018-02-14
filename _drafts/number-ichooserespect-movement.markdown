@@ -1,5 +1,5 @@
 ---
-title: "#IChooseRespect movement"
+title: "#IChooseRespect: How I Created a Movement That Destigmatizes Struggle"
 date: 2018-02-14 04:00:00 -08:00
 categories:
 - Health
