@@ -1,5 +1,6 @@
 ---
-title: 'Why You Should Get to Know Ella Baker: Mother of the Civil Rights Movement'
+title: 'Why You Should Get to Know (and Love) Ella Baker: Mother of the Civil Rights
+  Movement'
 date: 2018-02-16 04:00:00 -08:00
 categories:
 - Culture
@@ -46,10 +47,10 @@ In the words of Ella Baker herself, “Give light, and people will find the way.
 
 *Many thanks to the following people and websites that made this article and further research on Ella Baker possible:*
 
-Chase Andre  \
-Barbara Ransby, *Ella Baker and the Black Freedom Movement: A Radical Democratic Vision  *\
-Julie Scelfo, Time Magazine’s *"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"  *\
-Ella Baker Center, *"[Who Was Ella Baker](http://ellabakercenter.org/about/who-was-ella-baker)"  *\
-Ibiblio, *"[Ella Baker](http://www.ibiblio.org/sncc/baker.html)"*
+Chase Andre  
+Barbara Ransby, _Ella Baker and the Black Freedom Movement: A Radical Democratic Vision_
+Julie Scelfo, Time Magazine’s _"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"_
+Ella Baker Center, _"[Who Was Ella Baker](http://ellabakercenter.org/about/who-was-ella-baker)"_
+Ibiblio, _"[Ella Baker](http://www.ibiblio.org/sncc/baker.html)"_
 
 *Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
