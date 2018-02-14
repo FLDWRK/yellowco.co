@@ -50,6 +50,6 @@ Chase Andre  \
 Barbara Ransby, *Ella Baker and the Black Freedom Movement: A Radical Democratic Vision  *\
 Julie Scelfo, Time Magazine’s *"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"  *\
 Ella Baker Center, *"Who Was Ella Baker"  *\
-Ibiblio, *"Ella Baker"  *
+Ibiblio, *"Ella Baker"*
 
 *Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
