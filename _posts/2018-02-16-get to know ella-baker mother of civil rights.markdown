@@ -1,11 +1,10 @@
 ---
-title: 'Why You Should Get to Know (and Love) Ella Baker: Mother of the Civil Rights
-  Movement'
+title: 'Why You Should Get to Know Ella Baker: Mother of the Civil Rights Movement'
 date: 2018-02-16 04:00:00 -08:00
 categories:
 - Culture
 author: Chantelle Gibbs
-image: "/uploads/ella%20baker-1.jpg"
+image: "/uploads/Why%20You%20Should%20Get%20to%20Know%20Ella%20Baker,%20Mother%20of%20the%20Civil%20Rights%20Movement%20-%20Yellow%20Co.jpg"
 series: Respect
 ---
 
@@ -19,7 +18,7 @@ As many before me have reinforced and reminded, African-American history is ever
 
 Ella Baker grew up in North Carolina, committed to the eradication of racial injustice and inequality from a young age, heightened with hearing stories from her own grandmother who had been born into slavery. In 1927, she was 24 when she graduated from Shaw University as class valedictorian, before moving to New York City to join various social activist organizations. (1) She worked as an editorial assistant at the *Negro National News* before becoming the National Director of the Young Negroes’ Cooperative League.
 
-![ella baker-3.jpg](/uploads/ella%20baker-3.jpg)
+![Why You Should Get to Know Ella Baker: Mother of the Civil Rights Movement - Yellow Co.jpg](/uploads/ella%20baker-3.jpg)
 
 She started her work with the National Association for the Advancement of Colored People (NAACP) in 1940, starting as a secretary and continuing to advance and serve in various capacities including becoming president of the New York Branch in 1952. Upon hearing of the Montgomery bus boycotts, Baker co-founded the organization, *In Friendship*, in 1955 as a means of raising financial support to oppose the Jim Crow Laws oppressing many in the South. This eventually led to the formation of King’s Southern Christian Leadership Conference (SCLC), which was a bridge between the southern black church and the conversations taking place surrounding racial segregation and discrimination. But as a huge proponent of collective activism, she was discontent with the state of things with SCLC, which caused dissonance and tension between her and those who didn’t agree with her philosophies.
 
@@ -31,7 +30,7 @@ In Robert Moses’ book, *Radical Equations: Civil Rights from Mississippi to th
 
 When reflecting on the work and legacy of Ella Baker, many ruminate on the fact that she remained a private person throughout the duration of her life, again opposed to the self-promotion and self-inflation many fall victim to when rising to levels of prominence and fame. After speaking to young black leaders at her alma mater, the Student Nonviolent Coordinating Committee (SNCC) was birthed in 1960, as she recognized the potential young individuals had to join with the Black Freedom Movement and galvanize significant change.
 
-![ella baker-4.jpg](/uploads/ella%20baker-4.jpg)
+![Why You Should Get to Know Ella Baker: Mother of the Civil Rights Movement - Yellow Co.jpg](/uploads/ella%20baker-4.jpg)
 
 Aptly gifted the nickname, “Fundi,” a Swahili word for someone that teaches a craft to the next generation, (2) she continued to inspire and speak into the lives of many young people, particularly young women of color, with unparalleled dedication. She continued on in her advocacy until her death on her 83rd birthday in 1986.
 
