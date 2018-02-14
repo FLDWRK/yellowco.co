@@ -49,6 +49,8 @@ When I spoke to another young woman about the aftermath of sexual trauma, she wi
 
 These women have faced awkward silences, blame and dismissal, but the risk in sharing their story is worth it. In sharing, we give others the chance to connect. Or as Michaela, a Los Angeles based chef put it, when we share we “help people to know they are seen and not alone in their trauma, that it isn't theirs alone to carry.”
 
-Sharing their story challenges us to see from new perspectives, to grow our empathy and to build bridges of commonality . More importantly, sharing gives others the courage to be vulnerable. The more we share,  the more we learn to respond with empathy instead of pity and to listen with curiosity instead of answers.
+Sharing their story challenges us to see from new perspectives, to grow our empathy and to build bridges of commonality. More importantly, sharing gives others the courage to be vulnerable. The more we share,  the more we learn to respond with empathy instead of pity and to listen with curiosity instead of answers.
 
 Trauma expert Kathleen Martinez wrote, “Trauma is the great equalizer. Regardless of our race, religion, ethnic background, sexual orientation, socioeconomic status, trauma diminishes each and every one of us... to a common ground.”
+
+Photos by:
