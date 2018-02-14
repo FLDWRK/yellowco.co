@@ -36,10 +36,10 @@ In the words of Ella Baker herself, “Give light, and people will find the way.
 
 *Many thanks to the following people and websites that made this article and further research on Ella Baker possible:*
 
-Chase Andre  
-Barbara Ransby, Ella Baker and the Black Freedom Movement: A Radical Democratic Vision"  
+Chase Andre\
+Barbara Ransby, *Ella Baker and the Black Freedom Movement: A Radical Democratic Vision  *\
 Julie Scelfo, Time Magazine’s “On MLK Day, Honor the Mother of the Civil Rights Movement, Too”  \
-Ella Baker Center, *["Who Was Ella Baker"  ](http://ellabakercenter.org/about/who-was-ella-baker)*
-Ibiblio, *["Ella Baker"](http://www.ibiblio.org/sncc/baker.html)*
+Ella Baker Center, *"Who Was Ella Baker"  *\
+Ibiblio, *"Ella Baker"*
 
-Graphics by [Hanna Snyder](http://www.hannasnyder.com/)
+*Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
