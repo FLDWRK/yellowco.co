@@ -38,6 +38,6 @@ It's exciting to take this effort beyond Southern California in 2018 with the he
 
 How are you going to choose respect in the face of struggles this year - even when you do not love the painful parts of your story or a body you may feel has betrayed you at times?
 
-###### You can get involved in the #IChooseRespect movement [here](https://docs.google.com/forms/d/e/1FAIpQLSeVufxIOhFjnOiSvHYXrSb4IIfvtmCYEMVi4Zz2M_VGZuk0XQ/viewform)!
+###### [You can get involved in the #IChooseRespect movement here!](https://docs.google.com/forms/d/e/1FAIpQLSeVufxIOhFjnOiSvHYXrSb4IIfvtmCYEMVi4Zz2M_VGZuk0XQ/viewform)
 
 *Photos by: [Eun Creative](http://www.euncreative.com/)*
