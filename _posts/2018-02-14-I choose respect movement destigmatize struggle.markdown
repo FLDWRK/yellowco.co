@@ -8,7 +8,7 @@ image: "/uploads/How%20I%20Created%20a%20Movement%20That%20Destigmatizes%20Strug
 series: Respect
 ---
 
-The [#IChooseRespect](https://www.instagram.com/explore/tags/ichooserespect/) movement was born out of a desire to share stories of courage and decrease the shame around struggles with mental health, shame, overwhelm, and perfectionism  - especially when these struggles are recurring. Inspired by what I witness daily in my therapy office, along with hearing how many people believe that "everyone else has it all together", #IChooseRespect takes this conversation outside of my therapy office and contributes to shifting the conversation around what it means to be human on a larger scale.
+The [#IChooseRespect](https://www.instagram.com/explore/tags/ichooserespect/) movement was born out of a desire to share stories of courage and decrease the shame around struggles with mental health, shame, overwhelm, and perfectionism  - especially when these struggles are recurring. Inspired by what I witness daily in my office as a therapist, along with hearing how many people believe that "everyone else has it all together", #IChooseRespect takes this conversation outside of my therapy office and contributes to shifting the conversation around what it means to be human on a larger scale.
 
 After years of seeing my clients struggle with messages that told them to “love your body, love your story, just work harder, just let it go, just do more, just surrender, other people have it worse” when they were faced with difficult life experiences, food and body issues, chronic pain and mood struggles, divorce, loneliness, trauma, and loss -
 
@@ -22,7 +22,7 @@ And let’s be honest, it feels like now more than ever we need to bring respect
 
 They started to make respectful choices in how they spoke about their stories of struggle and treated their bodies - even when love was elusive.
 
-Five years ago, I decided to take this mindset approach to my community and asked therapists, wellness professionals, parents, educators, ministry leaders, business owners, artists, and more to share the hats they wore in their day-to-day lives, and how they chose respect in the face of shame around their current struggles. We gathered in person, took pictures, laughed and shared stories of respect - which were posted on the Potentia Facebook and Instagram feeds during the month of February.
+Five years ago, I decided to take this mindset approach to my community and asked therapists, wellness professionals, parents, educators, ministry leaders, business owners, artists, and more to share the hats they wore in their day-to-day lives, and how they chose respect in the face of shame around their current struggles. We gathered in person, took pictures, laughed and shared stories of respect - which were posted on the [Potentia](https://potentiatherapy.com/) Facebook and Instagram feeds during the month of February.
 
 ### It was a powerful message to the many who saw leaders in our community name their story of struggle and how they chose respect in the face of their rumble through the pain.
 
@@ -38,6 +38,6 @@ It's exciting to take this effort beyond Southern California in 2018 with the he
 
 How are you going to choose respect in the face of struggles this year - even when you do not love the painful parts of your story or a body you may feel has betrayed you at times?
 
-*You can get involved in the #IChooseRespect movement [here](https://docs.google.com/forms/d/e/1FAIpQLSeVufxIOhFjnOiSvHYXrSb4IIfvtmCYEMVi4Zz2M_VGZuk0XQ/viewform)!*
+###### You can get involved in the #IChooseRespect movement [here](https://docs.google.com/forms/d/e/1FAIpQLSeVufxIOhFjnOiSvHYXrSb4IIfvtmCYEMVi4Zz2M_VGZuk0XQ/viewform)!
 
 *Photos by: [Eun Creative](http://www.euncreative.com/)*
