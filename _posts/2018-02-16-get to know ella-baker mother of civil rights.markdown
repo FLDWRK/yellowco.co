@@ -49,7 +49,7 @@ In the words of Ella Baker herself, “Give light, and people will find the way.
 Chase Andre  \
 Barbara Ransby, *Ella Baker and the Black Freedom Movement: A Radical Democratic Vision  *\
 Julie Scelfo, Time Magazine’s *"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"  *\
-Ella Baker Center, *"Who Was Ella Baker"  *\
-Ibiblio, *"Ella Baker"*
+Ella Baker Center, *"[Who Was Ella Baker](http://ellabakercenter.org/about/who-was-ella-baker)"  *\
+Ibiblio, *"[Ella Baker](http://www.ibiblio.org/sncc/baker.html)"*
 
 *Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
