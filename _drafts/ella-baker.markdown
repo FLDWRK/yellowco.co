@@ -4,6 +4,7 @@ date: 2018-02-16 04:00:00 -08:00
 categories:
 - Culture
 author: Chantelle Gibbs
+image: "/uploads/ella-baker-1.jpg"
 series: Respect
 ---
 
