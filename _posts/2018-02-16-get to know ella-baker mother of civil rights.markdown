@@ -8,25 +8,25 @@ image: "/uploads/ella%20baker-1.jpg"
 series: Respect
 ---
 
-I’ll never forget the time a friend once squeezed my hand and quipped that there was nothing like being “secretly incredible.” I’ve spent countless days going back to these words, particularly when yearning for praise or validation for good works and kind deeds. And in a time where the Western cultural norm is the exposing and welcoming of others into the superfluous details of our personal lives, I wonder - 
+I’ll never forget the time a friend once squeezed my hand and quipped that there was nothing like being “secretly incredible.” I’ve spent countless days going back to these words, particularly when yearning for praise or validation for good works and kind deeds. And in a time where the Western cultural norm is the exposing and welcoming of others into the superfluous details of our personal lives, I wonder -
 
-### Have we lost touch with the call to live lives of excellence, regardless of whether or not thousands of followers have access to our great secrets of grandeur? 
+### Have we lost touch with the call to live lives of excellence, regardless of whether or not thousands of followers have access to our great secrets of grandeur?
 
 What does it look like to be secretly incredible, to operate not under the fleeting approval and attention of many, but instead be driven by an irrepressible personal conviction that truth, justice, and goodness must be pursued to better the world around us for generations to come, no matter the cost?
 
 As many before me have reinforced and reminded, African-American history is everyone’s history. So in honor of Black History Month, here is a glimpse into the life of an awe-inspiring, esteemed, and legendary African-American woman whose story is beyond worth elevating and recognizing. Ella Baker lived her life with an undeniable fortitude, devoting decade after decade to grassroots organizing and advocating for African-American rights, as a spitfire presence alongside the likes of Rosa Parks, Thurgood Marshall, and Martin Luther King, Jr. She is often hailed as Civil Rights’ unsung hero.
 
-Ella Baker grew up in North Carolina, committed to the eradication of racial injustice and inequality from a young age, heightened with hearing stories from her own grandmother who had been born into slavery. In 1927, she was 24 when she graduated from Shaw University as class valedictorian, before moving to New York City to join various social activist organizations. (1) She worked as an editorial assistant at the _Negro National News_ before becoming the National Director of the Young Negroes’ Cooperative League.
+Ella Baker grew up in North Carolina, committed to the eradication of racial injustice and inequality from a young age, heightened with hearing stories from her own grandmother who had been born into slavery. In 1927, she was 24 when she graduated from Shaw University as class valedictorian, before moving to New York City to join various social activist organizations. (1) She worked as an editorial assistant at the *Negro National News* before becoming the National Director of the Young Negroes’ Cooperative League.
 
 ![ella baker-3.jpg](/uploads/ella%20baker-3.jpg)
 
-She started her work with the National Association for the Advancement of Colored People (NAACP) in 1940, starting as a secretary and continuing to advance and serve in various capacities including becoming president of the New York Branch in 1952. Upon hearing of the Montgomery bus boycotts, Baker co-founded the organization, _In Friendship_, in 1955 as a means of raising financial support to oppose the Jim Crow Laws oppressing many in the South. This eventually led to the formation of King’s Southern Christian Leadership Conference (SCLC), which was a bridge between the southern black church and the conversations taking place surrounding racial segregation and discrimination. But as a huge proponent of collective activism, she was discontent with the state of things with SCLC, which caused dissonance and tension between her and those who didn’t agree with her philosophies.
+She started her work with the National Association for the Advancement of Colored People (NAACP) in 1940, starting as a secretary and continuing to advance and serve in various capacities including becoming president of the New York Branch in 1952. Upon hearing of the Montgomery bus boycotts, Baker co-founded the organization, *In Friendship*, in 1955 as a means of raising financial support to oppose the Jim Crow Laws oppressing many in the South. This eventually led to the formation of King’s Southern Christian Leadership Conference (SCLC), which was a bridge between the southern black church and the conversations taking place surrounding racial segregation and discrimination. But as a huge proponent of collective activism, she was discontent with the state of things with SCLC, which caused dissonance and tension between her and those who didn’t agree with her philosophies.
 
-But she remained abashedly frank about her beliefs, stressing the importance for all members of any social change organization to leverage their commitment, willingness, and hard work to truly fuel positive discussion and change, rather than depending on the eloquence, charisma, and credentials of its top leaders.(1) 
+But she remained abashedly frank about her beliefs, stressing the importance for all members of any social change organization to leverage their commitment, willingness, and hard work to truly fuel positive discussion and change, rather than depending on the eloquence, charisma, and credentials of its top leaders.(1)
 
-### She rallied for young people to be self-sufficient and harness their own power within, rather than being, in her words, “dependent on the charismatic leader.” 
+### She rallied for young people to be self-sufficient and harness their own power within, rather than being, in her words, “dependent on the charismatic leader.”
 
-In Robert Moses’ book, _Radical Equations: Civil Rights from Mississippi to the Algebra Project_, he writes of how Ella’s words still ring true for young people, “\[that\] finding their voice instead of being spoken for is a crucial part of the process.” It still rings true for all of us now.
+In Robert Moses’ book, *Radical Equations: Civil Rights from Mississippi to the Algebra Project*, he writes of how Ella’s words still ring true for young people, “\[that\] finding their voice instead of being spoken for is a crucial part of the process.” It still rings true for all of us now.
 
 When reflecting on the work and legacy of Ella Baker, many ruminate on the fact that she remained a private person throughout the duration of her life, again opposed to the self-promotion and self-inflation many fall victim to when rising to levels of prominence and fame. After speaking to young black leaders at her alma mater, the Student Nonviolent Coordinating Committee (SNCC) was birthed in 1960, as she recognized the potential young individuals had to join with the Black Freedom Movement and galvanize significant change.
 
@@ -34,9 +34,9 @@ When reflecting on the work and legacy of Ella Baker, many ruminate on the fact 
 
 Aptly gifted the nickname, “Fundi,” a Swahili word for someone that teaches a craft to the next generation, (2) she continued to inspire and speak into the lives of many young people, particularly young women of color, with unparalleled dedication. She continued on in her advocacy until her death on her 83rd birthday in 1986.
 
-If there was anything Ella Baker shied away from, it was the spotlight. And in doing so, in keeping her head down to do the necessary work, she, for me, exemplifies what it looks like to live life with a secretly incredible intention. 
+If there was anything Ella Baker shied away from, it was the spotlight. And in doing so, in keeping her head down to do the necessary work, she, for me, exemplifies what it looks like to live life with a secretly incredible intention.
 
-### She understood that the most powerful thing change can have in its arsenal is people who radically believe in it. 
+### She understood that the most powerful thing change can have in its arsenal is people who radically believe in it.
 
 It was this belief that she guarded as her singular focus. Her life reminds us that we are better together, corporately whole, when we are individually strong. Perhaps it is not the practice of deflecting the light, but refracting it.
 
@@ -46,10 +46,10 @@ In the words of Ella Baker herself, “Give light, and people will find the way.
 
 *Many thanks to the following people and websites that made this article and further research on Ella Baker possible:*
 
-Chase Andre\
-Barbara Ransby, *Ella Baker and the Black Freedom Movement: A Radical Democratic Vision  *\
-Julie Scelfo, Time Magazine’s “On MLK Day, Honor the Mother of the Civil Rights Movement, Too”  \
-Ella Baker Center, *"Who Was Ella Baker"  *\
-Ibiblio, *"Ella Baker"*
+Chase Andre  \
+Barbara Ransby, _Ella Baker and the Black Freedom Movement: A Radical Democratic Vision_
+Julie Scelfo, Time Magazine’s _“On MLK Day, Honor the Mother of the Civil Rights Movement, Too”_
+Ella Baker Center, _"Who Was Ella Baker"_\
+Ibiblio, _"Ella Baker"_
 
 *Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
