@@ -25,9 +25,9 @@ Remembering the assault without reliving it and moving through it on my own help
 
 The prominent women over the last year who have come forward in the press to share their stories and lay their cards on the table: Ashley Judd, Rose McGowan, Alyssa Milano, Tarana Burke, Selma Blair, the Plaza Hotel plaintiffs, Sara Gleser, Susan Fowler, Adama Iwu, Taylor Swift, and Isabel Pascual, among others. They are the Silence Breakers who so gracefully and powerfully lent their faces and voices to the cover of *TIME* magazine as the [2017 Time Person of The Year](http://time.com/time-person-of-the-year-2017-silence-breakers/). These women have empowered so many through their bravery to stand up and say: No more. #MeToo. Our experiences, our harassments will not be swept under the rug. Our harassers will not be let off the hook because "boys will be boys." We will stand together and take back what’s been stolen from us.
 
-![0P7A9075.jpg](/uploads/0P7A9075.jpg)
-
 They and so many others have inspired me to do the same. At first it was a timid, simple #MeToo on Twitter and Facebook.
+
+![0P7A9075.jpg](/uploads/0P7A9075.jpg)
 
 ### The amount of my shame that dissipated with just a simple hashtag was so great, I knew I needed to do more - not just for myself, but for other women walking in their own cloud of shame.
 
