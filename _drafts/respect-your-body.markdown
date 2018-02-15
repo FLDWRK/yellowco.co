@@ -1,5 +1,5 @@
 ---
-title: respect your body poem
+title: 'This Body Is Mine, This Body Is Beautiful: a Poem on Embracing Ourselves'
 date: 2018-02-21 04:00:00 -08:00
 categories:
 - Growth
