@@ -1,5 +1,5 @@
 ---
-title: respect your body
+title: respect your body poem
 date: 2018-02-21 04:00:00 -08:00
 categories:
 - Growth
@@ -15,15 +15,15 @@ faces both maturity slim and little girl round
 We have been wrestling with these bodies
 treating them more like battle grounds than temples
 more temporary homes than lighthouses
-we have pinched, pulled and tugged
+we have pinched, pulled, and tugged
 allowed shattered mirrors and hate words to blind our perceptions
 
-this is no way to reclaim our worthy
+This is no way to reclaim our worthy
 this is no way to tread in our purpose
 so my darling, let’s make a pact,
 right here and now
 that we would love
-these curves, thighs and every handle
+these curves, thighs, and every handle
 that we would tuck
 grace filled declarations
 into every part of these bodies
@@ -39,9 +39,9 @@ This body is beautiful
 Your body is yours
 Your body is beautiful
 
-we refuse to be shamed into covering these curves
+We refuse to be shamed into covering these curves
 as if they were disposable pieces
-Or X marks for digging out unwanted treasures
+or x-marks for digging out unwanted treasures
 to make someone else more comfortable
 
 Our bodies were not made to make others feel comfortable
