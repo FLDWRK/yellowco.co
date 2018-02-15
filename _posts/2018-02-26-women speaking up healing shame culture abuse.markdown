@@ -1,6 +1,6 @@
 ---
 title: How Brave Women Are Healing the Shame Culture Around Abuse by Speaking Up
-date: 2018-02-15 14:10:00 -08:00
+date: 2018-02-26 04:00:00 -08:00
 categories:
 - Culture
 author: Brianna Towne
