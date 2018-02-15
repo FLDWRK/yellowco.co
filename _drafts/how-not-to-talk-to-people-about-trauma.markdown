@@ -4,7 +4,7 @@ date: 2018-02-19 04:00:00 -08:00
 categories:
 - Relationships
 author: Jackie Viramontez
-image: "/uploads/unnamed%20(2)%20lg.jpg"
+image: "/uploads/unnamed%20(1).jpg"
 series: Respect
 ---
 
@@ -28,7 +28,7 @@ Her perspective mirrors the response I've heard from many trauma survivors: “H
 
 Bentley, an HR Consultant, was 21 years old when she lost her amazing dad. She says that although she has experienced loss, she is grateful. “Yeah, it's a super weird thing to say, but being grateful for my trauma and the ways it changed me and made me a better person is not the same thing as being glad it happened.”
 
-![unnamed (2).jpg](/uploads/unnamed%20(2).jpg)
+![unnamed (2) lg.jpg](/uploads/unnamed%20(2)%20lg.jpg)
 
 Her advice: “Please don’t say that he/she is in a better place. I either already know that, or don't believe it. Either way, \[it's\] not helpful or reassuring. Instead, ask me: ‘What was your favorite thing about him/her?’"
 
