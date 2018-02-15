@@ -1,6 +1,6 @@
 ---
-title: What You Should (And Shouldn't) Say to Others If They Confide in You About
-  Their Trauma
+title: What You Should (And Shouldn't) Say If Someone Confides in You About Their
+  Trauma
 date: 2018-02-19 04:00:00 -08:00
 categories:
 - Relationships
