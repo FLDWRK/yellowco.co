@@ -4,6 +4,7 @@ date: 2018-02-21 04:00:00 -08:00
 categories:
 - Growth
 author: Arielle Estoria
+image: "/uploads/Larsenandlund_Respect_2.jpg"
 series: Respect
 ---
 
