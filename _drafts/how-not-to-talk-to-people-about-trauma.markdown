@@ -4,6 +4,7 @@ date: 2018-02-19 04:00:00 -08:00
 categories:
 - Relationships
 author: Jackie Viramontez
+image: "/uploads/unnamed%20(1).jpg"
 series: Respect
 ---
 
@@ -15,6 +16,8 @@ When I was 20 years old I experienced sexual assault. But the date rape was less
 
 One of the harshest "dominoes" is the reaction from people we trust. As my mother has sassily said, "I could write a book about the stupid things people have said to me about my son’s death." Her words reflect a reality every trauma survivor understands: If you respond to our story with judgment or blame, you can create wounds deeper than the original and frustrations that make us resistant to share next time.
 
+![Pioneer27.jpg](/uploads/Pioneer27.jpg)
+
 I asked a few friends of mine to share and to shed light on how to respond to others’ stories with respect:
 
 Lauren, an activist for inner city youth, was five-years-old when she and her big brother waited to cross the street. When her brother ran into the busy road, it impacted her in a way that she couldn’t imagine.
@@ -25,6 +28,8 @@ Her perspective mirrors the response I've heard from many trauma survivors: “H
 
 Bentley, an HR Consultant, was 21 years old when she lost her amazing dad. She says that although she has experienced loss, she is grateful. “Yeah, it's a super weird thing to say, but being grateful for my trauma and the ways it changed me and made me a better person is not the same thing as being glad it happened.”
 
+![unnamed (2).jpg](/uploads/unnamed%20(2).jpg)
+
 Her advice: “Please don’t say that he/she is in a better place. I either already know that, or don't believe it. Either way, \[it's\] not helpful or reassuring. Instead, ask me: ‘What was your favorite thing about him/her?’"
 
 ### "It's wonderful to get to share something about a person you love, especially since most people try to steer clear of the topic!”
@@ -34,6 +39,8 @@ Page, a retired school teacher, felt the trauma of sharing her story after losin
 When I did just that, she shared that her son died climbing Mount St. Elias in Southern Alaska. With pride she shared, “He was trying to achieve the world’s longest descent on skis. He, along with his long time friend, made it to the top, because they were heard whooping and hollering when they made it.”
 
 She also shared that years earlier she lost the trust of people she knew when she became a victim of sexual molestation. Her wisdom is this: “Please don’t waste energy assigning blame. Don’t share stories that seem worse to make you feel better.”
+
+![Pioneer29.jpg](/uploads/Pioneer29.jpg)
 
 When I spoke to another young woman about the aftermath of sexual trauma, she wished people knew that, “almost all of us are dealing with some level of trauma."
 
