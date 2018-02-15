@@ -29,9 +29,9 @@ that we would tuck  \
 grace filled declarations  \
 into every part of these bodies  \
 delicately claiming  \
-confidently proclaiming,  
+confidently proclaiming,
 
-**THIS BODY IS MINE  **\
+**THIS BODY IS MINE  **
 **This body is beautiful**
 
 This body is mine  \
