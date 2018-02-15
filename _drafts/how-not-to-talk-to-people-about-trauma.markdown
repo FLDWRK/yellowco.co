@@ -54,4 +54,4 @@ Sharing our story challenges us to see from new perspectives, to grow our empath
 
 As trauma expert Kathleen Martinez wrote, “Trauma is the great equalizer. Regardless of our race, religion, ethnic background, sexual orientation, socioeconomic status, trauma diminishes each and every one of us... to a common ground.”
 
-Photos by:
+Photos by: *[Amy Hulst](https://www.instagram.com/amyhulstforpresident/)* and *[Andrea David](http://andreadavid.co/)*
