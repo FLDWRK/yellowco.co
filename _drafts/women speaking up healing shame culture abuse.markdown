@@ -1,6 +1,5 @@
 ---
-title: How Brave Women Are Beginning to Heal the Shame Culture Around Abuse by Speaking
-  Up
+title: How Brave Women Are Healing the Shame Culture Around Abuse by Speaking Up
 date: 2018-02-15 14:10:00 -08:00
 categories:
 - Culture
