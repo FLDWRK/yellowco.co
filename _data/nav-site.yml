@@ -7,9 +7,6 @@
 - id: conference
   title: Conference
   url: /conference
-- id: about
-  title: About
-  url: /about
 - id: blog
   title: Blog
   url: /blog
