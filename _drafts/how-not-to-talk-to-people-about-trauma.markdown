@@ -4,7 +4,7 @@ date: 2018-02-19 04:00:00 -08:00
 categories:
 - Relationships
 author: Jackie Viramontez
-image: "/uploads/unnamed%20(1).jpg"
+image: "/uploads/unnamed%20(2)%20lg.jpg"
 series: Respect
 ---
 
@@ -16,7 +16,7 @@ When I was 20 years old I experienced sexual assault. But the date rape was less
 
 One of the harshest "dominoes" is the reaction from people we trust. As my mother has sassily said, "I could write a book about the stupid things people have said to me about my son’s death." Her words reflect a reality every trauma survivor understands: If you respond to our story with judgment or blame, you can create wounds deeper than the original and frustrations that make us resistant to share next time.
 
-![Pioneer27.jpg](/uploads/Pioneer27.jpg)
+![Pioneer29.jpg](/uploads/Pioneer29.jpg)
 
 I asked a few friends of mine to share and to shed light on how to respond to others’ stories with respect:
 
@@ -40,7 +40,7 @@ When I did just that, she shared that her son died climbing Mount St. Elias in S
 
 She also shared that years earlier she lost the trust of people she knew when she became a victim of sexual molestation. Her wisdom is this: “Please don’t waste energy assigning blame. Don’t share stories that seem worse to make you feel better.”
 
-![Pioneer29.jpg](/uploads/Pioneer29.jpg)
+![Pioneer27.jpg](/uploads/Pioneer27.jpg)
 
 When I spoke to another young woman about the aftermath of sexual trauma, she wished people knew that, “almost all of us are dealing with some level of trauma."
 
