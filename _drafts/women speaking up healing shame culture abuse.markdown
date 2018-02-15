@@ -17,11 +17,15 @@ I had pushed the experience down so far that honestly most of the time I couldn�
 
 It wasn’t until last year when I started to piece together that night that I began to see the shame dissipate. It wasn’t until I accepted what had happened to me that I could see a way to move through and past it. It will always be a part of my life and an experience I will live with forever - but it won’t consume me and send me down a dark path within my mind when I see a scene in a movie, or hear a line in a song, or when a passerby makes a rude comment.
 
+![0P7A9336 (2).jpg](/uploads/0P7A9336%20(2).jpg)
+
 Remembering the assault without reliving it and moving through it on my own helped to create a space of acceptance and respect for myself - but there was still much more work to be done.
 
 ### The real change - the real shift - came from hearing from other survivors.
 
 The prominent women over the last year who have come forward in the press to share their stories and lay their cards on the table: Ashley Judd, Rose McGowan, Alyssa Milano, Tarana Burke, Selma Blair, the Plaza Hotel plaintiffs, Sara Gleser, Susan Fowler, Adama Iwu, Taylor Swift, and Isabel Pascual, among others. They are the Silence Breakers who so gracefully and powerfully lent their faces and voices to the cover of *TIME* magazine as the [2017 Time Person of The Year](http://time.com/time-person-of-the-year-2017-silence-breakers/). These women have empowered so many through their bravery to stand up and say: No more. #MeToo. Our experiences, our harassments will not be swept under the rug. Our harassers will not be let off the hook because "boys will be boys." We will stand together and take back what’s been stolen from us.
+
+![0P7A9075.jpg](/uploads/0P7A9075.jpg)
 
 They and so many others have inspired me to do the same. At first it was a timid, simple #MeToo on Twitter and Facebook.
 
