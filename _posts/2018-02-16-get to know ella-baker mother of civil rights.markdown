@@ -46,8 +46,8 @@ In the words of Ella Baker herself, “Give light, and people will find the way.
 
 *Many thanks to the following people and websites that made this article and further research on Ella Baker possible:*
 
-Julie Scelfo, Time Magazine’s _"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"_
+1\. Julie Scelfo, Time Magazine’s *"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"*
 
-Ella Baker Center, _"[Who Was Ella Baker](http://ellabakercenter.org/about/who-was-ella-baker)"_
+2\. Ella Baker Center, *"[Who Was Ella Baker](http://ellabakercenter.org/about/who-was-ella-baker)"*
 
 *Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
