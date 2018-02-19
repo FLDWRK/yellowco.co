@@ -4,14 +4,13 @@ date: 2018-02-19 12:36:00 -08:00
 categories:
 - Relationships
 author: Emily Schrems
+image: "/uploads/IMG_2253.jpg"
 series: Respect
 ---
 
-### I used to be the ultimate conflict avoider. 
+### I used to be the ultimate conflict avoider.
 
-### I hung out with elephants in the room like it was my job if it meant I didn’t have to engage in a conversation that addressed an issue. 
-
-When it came to politics and relational controversy, I tapped out of any conversation that felt like it could get heated. Thankfully, the last few years have jolted me out of this habit and into more wholesome ones, surrounding respect in relationships through empathy and communication.
+I hung out with elephants in the room like it was my job if it meant I didn’t have to engage in a conversation that addressed an issue. When it came to politics and relational controversy, I tapped out of any conversation that felt like it could get heated. Thankfully, the last few years have jolted me out of this habit and into more wholesome ones, surrounding respect in relationships through empathy and communication.
 
 My first opportunity out of college was an apprenticeship where I was being groomed to take over a territory of businesses in a short amount of time. From day one I started learning the entire business model; from marketing and sales, recruiting, finances, and coaching others through hands on training. It was rigorous and challenging, but doable given that anyone in a leadership role was in the position I wanted to be in, so it was only in my best interest to trust their perspective, and apply it.
 
@@ -20,6 +19,8 @@ The first few months were amazing, but then I began to bristle against one of my
 I was totally overwhelmed and frustrated and eventually wrote in my letter of resignation. This is where I learned a big lesson. Her boss called me to break down why I felt the way I did and understand why I had chosen to leave. She then explained her posture toward conflict: seek to understand. I realized I had never asked my trainer why she had chosen to delegate so much when I didn’t feel prepared, or really communicate that I disagreed with her training style in general.
 
 ### I learned that silence was only breeding frustration, and the longer it went un-communicated, the worse it got.
+
+![IMG_2258.jpg](/uploads/IMG_2258.jpg)
 
 I failed to think from the perspective that since she was in the position I was growing into, and had gotten there through the same experience I was going through, there must be a method to her madness. Her leadership strategy, I learned, was throwing people into the deep end and forcing them to swim. She was fully aware I wasn’t ready to do most of what she delegated, but believed through total immersion I would learn to swim. After hearing this, I still disagreed with her philosophy, but understanding it allowed us to talk openly about a strategy that would work better for me. Setting pride aside, I took back my letter of resignation (is that even a thing?) and went on to run a territory and learn more about business and people than I ever thought possible.
 
