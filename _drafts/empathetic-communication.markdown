@@ -1,5 +1,5 @@
 ---
-title: Empathetic Communication
+title: Struggling with Communicating through Conflict? Remember This
 date: 2018-02-19 12:36:00 -08:00
 categories:
 - Relationships
@@ -7,7 +7,11 @@ author: Emily Schrems
 series: Respect
 ---
 
-I used to be the ultimate conflict avoider. I hung out with elephants in the room like it was my job if it meant I didn’t have to engage in a conversation that addressed an issue. When it came to politics and relational controversy, I tapped out of any conversation that felt like it could get heated. Thankfully, the last few years have jolted me out of this habit and into more wholesome ones, surrounding respect in relationships through empathy and communication.
+### I used to be the ultimate conflict avoider. 
+
+### I hung out with elephants in the room like it was my job if it meant I didn’t have to engage in a conversation that addressed an issue. 
+
+When it came to politics and relational controversy, I tapped out of any conversation that felt like it could get heated. Thankfully, the last few years have jolted me out of this habit and into more wholesome ones, surrounding respect in relationships through empathy and communication.
 
 My first opportunity out of college was an apprenticeship where I was being groomed to take over a territory of businesses in a short amount of time. From day one I started learning the entire business model; from marketing and sales, recruiting, finances, and coaching others through hands on training. It was rigorous and challenging, but doable given that anyone in a leadership role was in the position I wanted to be in, so it was only in my best interest to trust their perspective, and apply it.
 
