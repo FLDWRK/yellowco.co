@@ -22,7 +22,7 @@ Ella Baker grew up in North Carolina, committed to the eradication of racial inj
 
 She started her work with the National Association for the Advancement of Colored People (NAACP) in 1940, starting as a secretary and continuing to advance and serve in various capacities including becoming president of the New York Branch in 1952. Upon hearing of the Montgomery bus boycotts, Baker co-founded the organization, *In Friendship*, in 1955 as a means of raising financial support to oppose the Jim Crow Laws oppressing many in the South. This eventually led to the formation of King’s Southern Christian Leadership Conference (SCLC), which was a bridge between the southern black church and the conversations taking place surrounding racial segregation and discrimination. But as a huge proponent of collective activism, she was discontent with the state of things with SCLC, which caused dissonance and tension between her and those who didn’t agree with her philosophies.
 
-But she remained abashedly frank about her beliefs, stressing the importance for all members of any social change organization to leverage their commitment, willingness, and hard work to truly fuel positive discussion and change, rather than depending on the eloquence, charisma, and credentials of its top leaders.(1)
+But she remained unabashedly frank about her beliefs, stressing the importance for all members of any social change organization to leverage their commitment, willingness, and hard work to truly fuel positive discussion and change, rather than depending on the eloquence, charisma, and credentials of its top leaders.(1)
 
 ### She rallied for young people to be self-sufficient and harness their own power within, rather than being, in her words, “dependent on the charismatic leader.”
 
@@ -44,10 +44,16 @@ It was her continued involvement in countless organizations and initiatives for 
 
 In the words of Ella Baker herself, “Give light, and people will find the way.”
 
-*Many thanks to the following people and websites that made this article and further research on Ella Baker possible:*
-
 1\. Julie Scelfo, Time Magazine’s *"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"*
 
 2\. Ella Baker Center, *"[Who Was Ella Baker](http://ellabakercenter.org/about/who-was-ella-baker)"*
+
+*Many thanks to the additional following people and websites that made this article and further research on Ella Baker possible:*
+
+Chase Andre
+
+Barbara Ransby, *Ella Baker and the Black Freedom Movement: A Radical Democratic Vision*
+
+Ibiblio, *["Ella Baker"](http://www.ibiblio.org/sncc/baker.html)*
 
 *Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
