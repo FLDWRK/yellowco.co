@@ -1,5 +1,5 @@
 ---
-title: What to Say If Someone Confides in You About Trauma
+title: What to Say (and Not Say) If Someone Confides in You About Trauma
 date: 2018-02-19 04:00:00 -08:00
 categories:
 - Relationships
