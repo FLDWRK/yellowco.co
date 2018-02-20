@@ -1,7 +1,10 @@
 ---
 title: 7 Unexpected Everyday Items You Can Use to Impact the World for Good
 date: 2018-02-23 04:00:00 -08:00
+categories:
+- Conscious Living
 image: "/uploads/OSEA%20MALIBU%202-37910e.jpg"
+series: Respect
 ---
 
 One of my favorite sayings in life is, “actions speak louder than words.”  It’s a theme I try to live out daily. I’m far from perfect and fail at it often. They say our actions reveal who we really are; whether it be holding the door for the person behind you, or learning the name of your restaurant server. Every choice reveals more about our true character.
