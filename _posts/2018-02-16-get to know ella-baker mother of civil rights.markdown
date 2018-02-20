@@ -16,13 +16,13 @@ What does it look like to be secretly incredible, to operate not under the fleet
 
 As many before me have reinforced and reminded, African-American history is everyone’s history. So in honor of Black History Month, here is a glimpse into the life of an awe-inspiring, esteemed, and legendary African-American woman whose story is beyond worth elevating and recognizing. Ella Baker lived her life with an undeniable fortitude, devoting decade after decade to grassroots organizing and advocating for African-American rights, as a spitfire presence alongside the likes of Rosa Parks, Thurgood Marshall, and Martin Luther King, Jr. She is often hailed as Civil Rights’ unsung hero.
 
-Ella Baker grew up in North Carolina, committed to the eradication of racial injustice and inequality from a young age, heightened with hearing stories from her own grandmother who had been born into slavery. In 1927, she was 24 when she graduated from Shaw University as class valedictorian, before moving to New York City to join various social activist organizations. (1) She worked as an editorial assistant at the *Negro National News* before becoming the National Director of the Young Negroes’ Cooperative League.
+Ella Baker grew up in North Carolina, committed to the eradication of racial injustice and inequality from a young age, heightened with hearing stories from her own grandmother who had been born into slavery. In 1927, she was 24 when she graduated from Shaw University as class valedictorian, before moving to New York City to join various social activist organizations. She worked as an editorial assistant at the *Negro National News* before becoming the National Director of the Young Negroes’ Cooperative League.
 
 ![Why You Should Get to Know Ella Baker: Mother of the Civil Rights Movement - Yellow Co.jpg](/uploads/ella%20baker-3.jpg)
 
 She started her work with the National Association for the Advancement of Colored People (NAACP) in 1940, starting as a secretary and continuing to advance and serve in various capacities including becoming president of the New York Branch in 1952. Upon hearing of the Montgomery bus boycotts, Baker co-founded the organization, *In Friendship*, in 1955 as a means of raising financial support to oppose the Jim Crow Laws oppressing many in the South. This eventually led to the formation of King’s Southern Christian Leadership Conference (SCLC), which was a bridge between the southern black church and the conversations taking place surrounding racial segregation and discrimination. But as a huge proponent of collective activism, she was discontent with the state of things with SCLC, which caused dissonance and tension between her and those who didn’t agree with her philosophies.
 
-But she remained unabashedly frank about her beliefs, stressing the importance for all members of any social change organization to leverage their commitment, willingness, and hard work to truly fuel positive discussion and change, rather than depending on the eloquence, charisma, and credentials of its top leaders.(1)
+But she remained unabashedly frank about her beliefs, stressing the importance for all members of any social change organization to leverage their commitment, willingness, and hard work to truly fuel positive discussion and change, rather than depending on the eloquence, charisma, and credentials of its top leaders.
 
 ### She rallied for young people to be self-sufficient and harness their own power within, rather than being, in her words, “dependent on the charismatic leader.”
 
@@ -32,7 +32,7 @@ When reflecting on the work and legacy of Ella Baker, many ruminate on the fact 
 
 ![Why You Should Get to Know Ella Baker: Mother of the Civil Rights Movement - Yellow Co.jpg](/uploads/ella%20baker-4.jpg)
 
-Aptly gifted the nickname, “Fundi,” a Swahili word for someone that teaches a craft to the next generation, (2) she continued to inspire and speak into the lives of many young people, particularly young women of color, with unparalleled dedication. She continued on in her advocacy until her death on her 83rd birthday in 1986.
+Aptly gifted the nickname, “Fundi,” a Swahili word for someone that teaches a craft to the next generation, she continued to inspire and speak into the lives of many young people, particularly young women of color, with unparalleled dedication. She continued on in her advocacy until her death on her 83rd birthday in 1986.
 
 If there was anything Ella Baker shied away from, it was the spotlight. And in doing so, in keeping her head down to do the necessary work, she, for me, exemplifies what it looks like to live life with a secretly incredible intention.
 
@@ -44,11 +44,11 @@ It was her continued involvement in countless organizations and initiatives for 
 
 In the words of Ella Baker herself, “Give light, and people will find the way.”
 
-1\. Julie Scelfo, Time Magazine’s *"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"*
-
-2\. Ella Baker Center, *"[Who Was Ella Baker](http://ellabakercenter.org/about/who-was-ella-baker)"*
-
 *Many thanks to the additional following people and websites that made this article and further research on Ella Baker possible:*
+
+Julie Scelfo, Time Magazine’s *"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"*
+
+Ella Baker Center, *"[Who Was Ella Baker](http://ellabakercenter.org/about/who-was-ella-baker)"*
 
 Chase Andre
 
