@@ -1,5 +1,5 @@
 ---
-title: 7 Everyday
+title: 7 Unexpected Everyday Items You Can Use to Impact the World for Good
 date: 2018-02-23 04:00:00 -08:00
 image: "/uploads/OSEA%20MALIBU%202-37910e.jpg"
 ---
