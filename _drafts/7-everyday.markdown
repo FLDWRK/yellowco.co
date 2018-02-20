@@ -40,7 +40,7 @@ If you are to buy just one cup of coffee or tea in a disposable cup every day, y
 
 Full confession: I am a podcast junkie. Luckily, I live in Los Angeles, so I have plenty of time to indulge my addiction while stuck in our infamous traffic. And you’ll rarely find me without my LSTN earbuds in my ears or hanging around my neck. Not only do they provide excellent sound quality, but proceeds from sales of all products go towards giving hearing aids to people in need worldwide via their charity partner, Starkey Hearing Foundation. They also strive to use sustainable and sustainably sourced materials whenever possible.
 
-![PANSY GALLO DANCE 10.jpg](/uploads/PANSY%20GALLO%20DANCE%2010.jpg)
+![2.jpg](/uploads/2.jpg)
 
 ##### [Pansy Co.](http://www.pansy.co/)
 
