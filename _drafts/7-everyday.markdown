@@ -46,6 +46,8 @@ Full confession: I am a podcast junkie. Luckily, I live in Los Angeles, so I hav
 
 Underwear is such a basic part of our lives that we often forget to think about how it is made or who makes it. I’ve recently been introduced to Pansy Co. and love that not only is their organic cotton grown domestically and designed and sewn locally in California, but the designs are fun and flattering. My favorite part?  Once they are no longer wearable, everything can be thrown in the compost pile to once again return to the earth.
 
+![Screen Shot 2018-02-20 at 3.10.23 PM copy.jpg](/uploads/Screen%20Shot%202018-02-20%20at%203.10.23%20PM%20copy.jpg)
+
 ##### [Studio Skin Legging by Outdoor Voices](https://www.outdoorvoices.com/products/studio-skin-legging?variant=19637567685)
 
 I’m one of those annoying people who actually like to run. However, I struggle with the fact that work-out gear is often made from toxic products and contain carcinogens. Kind of ironic to wear something toxic while you’re doing something to take care of yourself, right? So when I learned about Outdoor Voices, I was thrilled. Not only do they work to ensure their fabrics are sustainable, their seamless collection is designed in a way that eliminates the need to cut and sew the pieces, reducing waste thanks to no left over scraps. What I really love though is that they ensure all employees are safe, paid fairly, with benefits, and regulated work hours.
