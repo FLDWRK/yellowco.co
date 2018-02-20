@@ -44,7 +44,7 @@ It was her continued involvement in countless organizations and initiatives for 
 
 In the words of Ella Baker herself, “Give light, and people will find the way.”
 
-*Many thanks to the additional following people and websites that made this article and further research on Ella Baker possible:*
+*Many thanks to the following people and websites that made this article and further research on Ella Baker possible:*
 
 Julie Scelfo, Time Magazine’s *"On MLK Day, Honor the Mother of the Civil Rights Movement, Too"*
 
