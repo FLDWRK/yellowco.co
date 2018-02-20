@@ -26,14 +26,12 @@ I failed to think from the perspective that since she was in the position I was 
 
 After this experience, I became so obsessed with honest communication and understanding others’ perspectives that my personal relationships grew too. The most challenging and, because of our conversations last year, the most rewarding relationship I have in my life is with my mom. After she and my dad got divorced, we went through a slew of challenges. I felt hurt and betrayed by her choices, but we never talked about why. After reading Brené Brown’s book, *Rising Strong -*
 
-### I learned to remind myself that everyone is doing the best that they can.
+### I realized I had to remind myself that everyone is doing the best that they can.
 
-If I lead from that mindset, it changes the assumption that my mom hurt me and was continuing to hurt me intentionally. She wasn’t. Rather than expect her to change and come to me, I started to consider her, and we began to have real conversations for the first time. We were vulnerable and honest. We talked about her past, why she chose the people and places in her life, and I shared how her decisions affected me. We believed the other was trying the best she could. None of this changed the circumstances that led us to that point in our relationship, but it shaped my perspective completely.
+If I lead from that mindset, it changes the assumption that my mom hurt me and was continuing to hurt me intentionally. She wasn’t. Rather than expect her to change and come to me, I started to consider her, and we began to have real conversations for the first time. We were vulnerable and honest. We talked about her past, why she chose the people and places in her life, and I shared how her decisions affected me. 
 
-### I realized that bitterness holds no one in chains except me.
-
-I chose to believe that mom did the best she could with what she knew. Through that perspective, we’re learning to love each other better, and our relationship has never been more beautiful.
+We believed the other was trying the best she could. None of this changed the circumstances that led us to that point in our relationship, but it shaped my perspective completely. I realized that bitterness holds no one in chains except me. I chose to believe that mom did the best she could with what she knew. Through that perspective, we’re learning to love each other better, and our relationship has never been more beautiful.
 
 I encourage you to look at the relationships in your life. Specifically, those experiencing conflict in your personal or work life. Write down why there is conflict from your perspective and then from theirs. Ask questions from outside mentors to gain perspective if you need it. Do the best you can with what you have, and choose to believe the other person is doing the same!
 
-Photos by
+Photos by *[Marlena Pearl Photography](https://www.marlenapearlphotography.com/)*
