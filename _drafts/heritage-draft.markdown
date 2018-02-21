@@ -2,6 +2,7 @@
 title: heritage intro draft
 date: 2018-02-21 13:57:00 -08:00
 author: Hanna Snyder
+image: "/uploads/IMG_8214-2.jpg"
 series: Heritage
 ---
 
