@@ -40,7 +40,9 @@ Of my mother’s and hers too?
 We are the promise of your forever worth  
 Your very breath, the honor in our endless legacy
 
-Our heritage is a narrative completely individual to each of us, and yet simultaneously - entirely not. We are woven with time-earned wrinkles, countless first homes, and stars wished upon by so many before us. There are faces we will never know, “hellos” we cannot hear, hands we won’t study. All of which hold a mass of influence upon our life; what we care about and rage against, what fuels inspiration and even triggers pain. This story of ours is perhaps one of the greatest paradoxes of life. A tale to which much is already ingrained and unmalleable; a future of which we have the choice to compose.
+Our heritage is a narrative completely individual to each of us, and yet simultaneously - entirely not. We are woven with time-earned wrinkles, countless first homes, and stars wished upon by so many before us. There are faces we will never know, “hellos” we cannot hear, hands we won’t study. All of which hold a mass of influence upon our life; what we care about and rage against, what fuels inspiration and even triggers pain. This story of ours is perhaps one of the greatest paradoxes of life. 
+
+### A tale to which much is already ingrained and unmalleable; a future of which we have the choice to compose.
 
 We all have some form of heirloom sitting on a metaphorical (or not) shelf, each with their own effect. Some of yours may spark careers or gift sentiment in the exact moment you need. Others, even when painful, have the potential to remind us of our ability to be different. What I find so beautiful about our ancestry, our web of culture, is its revival nature. While the past is inerasable, we have the power to carry on, redefine, sculpt, or redeem anything that is a part of us either into something new, or even just slightly altered.
 
