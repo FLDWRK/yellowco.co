@@ -1,5 +1,5 @@
 ---
-title: 7 Unexpected Everyday Items You Can Use to Impact the World for Good
+title: 7 Unexpected Everyday Items You’ll Love That Impact the World for Good
 date: 2018-02-23 04:00:00 -08:00
 categories:
 - Conscious Living
