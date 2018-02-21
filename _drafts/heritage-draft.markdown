@@ -5,38 +5,38 @@ author: Hanna Snyder
 series: Heritage
 ---
 
-Each month at Yellow, we explore and immerse ourselves into one focus - creating conversations between each other and within ourselves centered around topics that hold a lot of influence in our lives. To start this month of February, we wanted to create a space for not just words on a page, but a moment to introduce you into our theme of Respect. Join us in this meditation below to pause, reflect, and see what respect unearths in you.
+Each month at Yellow, we explore and immerse ourselves into one focus - creating conversations between each other and within ourselves centered around topics that hold a lot of influence in our lives. To start this month of March, we wanted to have a space for not just words on a page, but a moment to introduce you into our focus on Heritage.** **Join us in this meditation below to pause, reflect, and see what this unearths in you.
 
-You have my hands, you know?
-Those delicate
-too small to spread across piano keys
-strong enough to sketch for hours
+You have my hands, you know?  
+Those delicate  
+too small to spread across piano keys  
+strong enough to sketch for hours  
 crookedly curved index finger
 
-Your palms speak the poetry of craftswomen
-the untold dreams of visionaries
-and that lingering sweetness on your fingertips?
+Your palms speak the poetry of craftswomen  
+the untold dreams of visionaries  
+and that lingering sweetness on your fingertips?  
 A story of spices ground for generations
 
-You carry our heirloom wherever you go
-Love that bore more weight than it should lift
-steadfast to soothe tears and cradle new life
+You carry our heirloom wherever you go  
+Love that bore more weight than it should lift  
+steadfast to soothe tears and cradle new life  
 arms eternally held open even to shut doors
 
-We’re a two sided mirror
-you and I
-Entirely individual reflection
+We’re a two sided mirror  
+you and I  
+Entirely individual reflection  
 identical shifts, fidgets, and sighs
 
-Those hands - they’re free, you know?
-Saturated with potential to spin their own narrative
-paint themselves into unfamiliar landscapes
+Those hands - they’re free, you know?  
+Saturated with potential to spin their own narrative  
+paint themselves into unfamiliar landscapes  
 hold onto another I’d have never noticed
 
-But when you look down at the freckle on your thumb
-would you think of mine?
-Of my mother’s and hers too?
-We are the promise of your forever worth
+But when you look down at the freckle on your thumb  
+would you think of mine?  
+Of my mother’s and hers too?  
+We are the promise of your forever worth  
 Your very breath, the honor in our endless legacy
 
 Our heritage is a narrative completely individual to each of us, and yet simultaneously - entirely not. We are woven with time-earned wrinkles, countless first homes, and stars wished upon by so many before us. There are faces we will never know, “hellos” we cannot hear, hands we won’t study. All of which hold a mass of influence upon our life; what we care about and rage against, what fuels inspiration and even triggers pain. This story of ours is perhaps one of the greatest paradoxes of life. A tale to which much is already ingrained and unmalleable; a future of which we have the choice to compose.
