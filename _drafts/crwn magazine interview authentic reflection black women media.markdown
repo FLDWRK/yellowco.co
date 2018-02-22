@@ -63,11 +63,11 @@ Inspiration is everywhere, all the time. Nkrumah and I were both into magazines 
 
 ###### This month at Yellow, we are focusing on respect; something CRWN embodies fantastically. What are some areas that you see either women as individuals, or our society as a whole, needing growth in when it comes to respect?
 
-Respect of heritage and history.  
-Respect for the planet.  
-Respect for our bodies.  
-Respect for our teachers.  
-Respect for our purse: the pay gap must be eliminated.  
+Respect of heritage and history.\
+Respect for the planet.\
+Respect for our bodies.\
+Respect for our teachers.\
+Respect for our purse: the pay gap must be eliminated.\
 Respect for the process: delayed gratification is real.
 
 ![crwnmag-i02-43.jpg](/uploads/crwnmag-i02-43.jpg)
@@ -76,13 +76,13 @@ Respect for the process: delayed gratification is real.
 
 I’m encouraged by increased number of Black women being represented, but I’m sometimes leary of the motives — and timing — of some of these organizations. I recently wrote a piece discussing why [It’s Time to Stop Celebrating Appropriation Masked as Representation](https://crwnmag.com/blog/2018/2/fake-love-why-im-sick-of-appropriation-masked-as-representation), which reflects my sentiments in more depth.
 
-![MARK8425-Edit-Edit-developed.jpg](/uploads/MARK8425-Edit-Edit-developed.jpg)
-
 ###### My eyes grew excitedly wide to see the message to your readers, “Let’s take ownership of our story,” as the theme of our [2018 Yellow Conference](https://yellowco.co/conference/) is “[Our Ownership](https://yellowco.co/conference/)”. How do you think women can best own their stories, dreams, and abilities?
 
 For us, ownership of our story means literally owning the platform(s) through which our stories are being told. There is power and influence in the ownership of businesses, land, etc. I think women can best own their stories, dreams, and abilities by submitting themselves to the process and relentlessly chasing their purpose.
 
 ### The best way to own your dreams is to make sure they were yours to begin with.
+
+![MARK8425-Edit-Edit-developed.jpg](/uploads/MARK8425-Edit-Edit-developed.jpg)
 
 ###### How would you describe in one word what it means when women come together in unity?
 
