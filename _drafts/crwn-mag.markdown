@@ -45,7 +45,7 @@ In a time of 45, mass incarceration and the politicization of stolen, innocent B
 
 But all of this - every part of it - begins with self. When we know ourselves, when we tap into our innate power and purpose, we begin to operate from a place of stability. This enables us to form authentic, lasting bonds and run our households with a sense of security. Self-Love helps us to see ourselves in our sisters and brothers - encouraging collaboration and wealth-building over competition. This is the path to ownership and autonomy for our people.”
 
-![crwnmag-i02-pages-12.jpg](/uploads/crwnmag-i02-pages-12.jpg)
+![banner-i02a013-mockup.jpg](/uploads/banner-i02a013-mockup.jpg)
 
 ###### That’s entirely enough of a mic-drop within itself, but I’d love to hear if you have since discovered more about this topic during the creation of this issue, or since its release.
 
@@ -54,6 +54,8 @@ Thank you! I think what I said still stands. We have to do the proper work inter
 ### So often, as individuals, we want to do work that reshapes the world, but we haven’t done the work to reshape our own minds and hearts first.
 
 I think we’d get a lot more accomplished if more of us practiced tough (self) love.
+
+![crwnmag-i02-pages-12.jpg](/uploads/crwnmag-i02-pages-12.jpg)
 
 ###### Everything about CRWN, from print to social media, features brilliant, elevated design. Where do you and CRWN’s Creative Director, Nkrumah Farrar, look for visual inspiration?
 
