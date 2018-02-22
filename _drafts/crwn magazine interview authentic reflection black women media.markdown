@@ -17,9 +17,9 @@ SO MANY THINGS prepared me to co-create [CRWN Magazine](https://crwnmag.com/). F
 
 ### It’s mind-boggling to personally know so many beautiful, educated, successful, well-traveled Black women; but not to see that energy reflected on-screen and in magazines.
 
-![banner-i02a011-mockup.jpg](/uploads/banner-i02a011-mockup.jpg)
-
 This was particularly true when we first launched, and is thankfully changing with movies like *Black Panther*, *A Wrinkle in Time*, etc. We believed then, and we believe now, that modern Black women deserve a tangible, authentic reflection and reminder of their innate beauty and power. So we set out to create just that.
+
+![banner-i02a011-mockup.jpg](/uploads/banner-i02a011-mockup.jpg)
 
 ###### CRWN is declared as “a new kind of print magazine for Black women; for natural hair and the women who wear it.” You not only feature diversity within styles of natural hair, but also within your incredible range of content - covering everything from wellness, to creatives, to beauty, to culture, and beyond. What common core values do you look for while curating your variety of content?
 
@@ -61,8 +61,6 @@ I think we’d get a lot more accomplished if more of us practiced tough (self) 
 
 Inspiration is everywhere, all the time. Nkrumah and I were both into magazines growing up, and we both appreciate the art of the magazine and the book. I’ll go shopping for clothes (which I kinda hate) and somehow I’ll end up in the book/stationery section of the shop taking photos for reference! Nkrumah is constantly picking up zines and bringing magazines and ephemera to the office. We definitely prefer a minimal aesthetic and are big fans of magazines *like Monacle*, *Kinfolk*, *Cherry Bombe,* and *GOOD Magazine*.
 
-![crwnmag-i02-43.jpg](/uploads/crwnmag-i02-43.jpg)
-
 ###### This month at Yellow, we are focusing on respect; something CRWN embodies fantastically. What are some areas that you see either women as individuals, or our society as a whole, needing growth in when it comes to respect?
 
 Respect of heritage and history.  
@@ -71,6 +69,8 @@ Respect for our bodies.
 Respect for our teachers.  
 Respect for our purse: the pay gap must be eliminated.  
 Respect for the process: delayed gratification is real.
+
+![crwnmag-i02-43.jpg](/uploads/crwnmag-i02-43.jpg)
 
 ###### We all know there is still a long way to go when it comes to a diverse representation of women (and men) in all kinds of media - print, film, fashion, television, etc. How do you feel encouraged and/or discouraged about the future of Black women being represented?
 
