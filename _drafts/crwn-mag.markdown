@@ -14,6 +14,8 @@ SO MANY THINGS prepared me to co-create [CRWN Magazine](https://crwnmag.com/). F
 
 This was particularly true when we first launched, and is thankfully changing with movies like *Black Panther*, *A Wrinkle in Time*, etc. We believed then, and we believe now, that modern Black women deserve a tangible, authentic reflection and reminder of their innate beauty and power. So we set out to create just that.
 
+![crwnmag-i02-43.jpg](/uploads/crwnmag-i02-43.jpg)
+
 ###### CRWN is declared as “a new kind of print magazine for Black women; for natural hair and the women who wear it.” You not only feature diversity within styles of natural hair, but also within your incredible range of content - covering everything from wellness, to creatives, to beauty, to culture, and beyond. What common core values do you look for while curating your variety of content?
 
 Our brand pillars were established very early on, when CRWN Magazine was still just a concept, before we even released our first zine. They are: Sisterhood, Knowledge of Self, Authenticity, Self-Love, and Ownership. Whether considering our content, potential partnerships, hiring, or any other opportunity; we make sure that it’s first in line with those brand pillars. This ensures that we’re serving our reader from a real place that truly adds value to their lives.
@@ -21,6 +23,8 @@ Our brand pillars were established very early on, when CRWN Magazine was still j
 And while we have a focus on natural hair lifestyle, our vision has always been to address the whole woman, beyond just her hair — to celebrate the diversity of Black women.
 
 ### Our mission is to create the most beautiful and honest representation of Black women in the history of print.
+
+![crwnmag-i02-pages-133.jpg](/uploads/crwnmag-i02-pages-133.jpg)
 
 ###### The name CRWN evokes an inherent regality; one that undeniably requires respect. How did you land on this word to become the first impression of your publication?
 
@@ -30,11 +34,13 @@ It honestly just came to us. To your point, the word crown has a royal feel and 
 
 “But what about the Sister in Sisterhood? How sustainable is the lifestyle of the ‘strong, Black, independent woman’; selflessly leading her family, community, colleagues… without requiring much, if anything, in return?... What does Love - and more specifically, Self-Love - actually look like in practice?...
 
-In a time of 45, mass incarceration and the politicization of stolen, innocent Black lives; it’s clear that we need more than hashtags and awareness. We need community, support and some damn answers. We need access to capital and resources and trust among our people. 
+In a time of 45, mass incarceration and the politicization of stolen, innocent Black lives; it’s clear that we need more than hashtags and awareness. We need community, support and some damn answers. We need access to capital and resources and trust among our people.
 
 ### We need to learn to see ourselves in each other. This is the only route to true freedom.
 
 But all of this - every part of it - begins with self. When we know ourselves, when we tap into our innate power and purpose, we begin to operate from a place of stability. This enables us to form authentic, lasting bonds and run our households with a sense of security. Self-Love helps us to see ourselves in our sisters and brothers - encouraging collaboration and wealth-building over competition. This is the path to ownership and autonomy for our people.”
+
+![banner-i02a011-mockup.jpg](/uploads/banner-i02a011-mockup.jpg)
 
 ###### That’s entirely enough of a mic-drop within itself, but I’d love to hear if you have since discovered more about this topic during the creation of this issue, or since its release.
 
@@ -48,18 +54,22 @@ I think we’d get a lot more accomplished if more of us practiced tough (self) 
 
 Inspiration is everywhere, all the time. Nkrumah and I were both into magazines growing up, and we both appreciate the art of the magazine and the book. I’ll go shopping for clothes (which I kinda hate) and somehow I’ll end up in the book/stationery section of the shop taking photos for reference! Nkrumah is constantly picking up zines and bringing magazines and ephemera to the office. We definitely prefer a minimal aesthetic and are big fans of magazines *like Monacle*, *Kinfolk*, *Cherry Bombe,* and *GOOD Magazine*.
 
+![crwnmag-i02-pages-12.jpg](/uploads/crwnmag-i02-pages-12.jpg)
+
 ###### This month at Yellow, we are focusing on respect; something CRWN embodies fantastically. What are some areas that you see either women as individuals, or our society as a whole, needing growth in when it comes to respect?
 
-Respect of heritage and history.\
-Respect for the planet.\
-Respect for our bodies.\
-Respect for our teachers.\
-Respect for our purse: the pay gap must be eliminated.\
+Respect of heritage and history.  
+Respect for the planet.  
+Respect for our bodies.  
+Respect for our teachers.  
+Respect for our purse: the pay gap must be eliminated.  
 Respect for the process: delayed gratification is real.
 
 ###### We all know there is still a long way to go when it comes to a diverse representation of women (and men) in all kinds of media - print, film, fashion, television, etc. How do you feel encouraged and/or discouraged about the future of Black women being represented?
 
 I’m encouraged by increased number of Black women being represented, but I’m sometimes leary of the motives — and timing — of some of these organizations. I recently wrote a piece discussing why [It’s Time to Stop Celebrating Appropriation Masked as Representation](https://crwnmag.com/blog/2018/2/fake-love-why-im-sick-of-appropriation-masked-as-representation), which reflects my sentiments in more depth.
+
+![MARK8425-Edit-Edit-developed.jpg](/uploads/MARK8425-Edit-Edit-developed.jpg)
 
 ###### My eyes grew excitedly wide to see the message to your readers, “Let’s take ownership of our story,” as the theme of our [2018 Yellow Conference](https://yellowco.co/conference/) is “[Our Ownership](https://yellowco.co/conference/)”. How do you think women can best own their stories, dreams, and abilities?
 
