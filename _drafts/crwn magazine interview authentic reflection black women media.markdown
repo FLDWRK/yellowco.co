@@ -17,9 +17,9 @@ SO MANY THINGS prepared me to co-create [CRWN Magazine](https://crwnmag.com/). F
 
 ### It’s mind-boggling to personally know so many beautiful, educated, successful, well-traveled Black women; but not to see that energy reflected on-screen and in magazines.
 
-This was particularly true when we first launched, and is thankfully changing with movies like *Black Panther*, *A Wrinkle in Time*, etc. We believed then, and we believe now, that modern Black women deserve a tangible, authentic reflection and reminder of their innate beauty and power. So we set out to create just that.
+![banner-i02a011-mockup.jpg](/uploads/banner-i02a011-mockup.jpg)
 
-![banner-i02a011-mockup.jpg](/uploads/banner-i02a011-mockup.jpg)![banner-i02a013-mockup.jpg](/uploads/banner-i02a013-mockup.jpg)
+This was particularly true when we first launched, and is thankfully changing with movies like *Black Panther*, *A Wrinkle in Time*, etc. We believed then, and we believe now, that modern Black women deserve a tangible, authentic reflection and reminder of their innate beauty and power. So we set out to create just that.
 
 ###### CRWN is declared as “a new kind of print magazine for Black women; for natural hair and the women who wear it.” You not only feature diversity within styles of natural hair, but also within your incredible range of content - covering everything from wellness, to creatives, to beauty, to culture, and beyond. What common core values do you look for while curating your variety of content?
 
@@ -43,9 +43,9 @@ In a time of 45, mass incarceration and the politicization of stolen, innocent B
 
 ### We need to learn to see ourselves in each other. This is the only route to true freedom.
 
-But all of this - every part of it - begins with self. When we know ourselves, when we tap into our innate power and purpose, we begin to operate from a place of stability. This enables us to form authentic, lasting bonds and run our households with a sense of security. Self-Love helps us to see ourselves in our sisters and brothers - encouraging collaboration and wealth-building over competition. This is the path to ownership and autonomy for our people.”
-
 ![banner-i02a013-mockup.jpg](/uploads/banner-i02a013-mockup.jpg)
+
+But all of this - every part of it - begins with self. When we know ourselves, when we tap into our innate power and purpose, we begin to operate from a place of stability. This enables us to form authentic, lasting bonds and run our households with a sense of security. Self-Love helps us to see ourselves in our sisters and brothers - encouraging collaboration and wealth-building over competition. This is the path to ownership and autonomy for our people.”
 
 ###### That’s entirely enough of a mic-drop within itself, but I’d love to hear if you have since discovered more about this topic during the creation of this issue, or since its release.
 
