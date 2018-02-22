@@ -19,7 +19,7 @@ SO MANY THINGS prepared me to co-create [CRWN Magazine](https://crwnmag.com/). F
 
 This was particularly true when we first launched, and is thankfully changing with movies like *Black Panther*, *A Wrinkle in Time*, etc. We believed then, and we believe now, that modern Black women deserve a tangible, authentic reflection and reminder of their innate beauty and power. So we set out to create just that.
 
-![banner-i02a011-mockup.jpg](/uploads/banner-i02a011-mockup.jpg)
+![banner-i02a011-mockup.jpg](/uploads/banner-i02a011-mockup.jpg)![banner-i02a013-mockup.jpg](/uploads/banner-i02a013-mockup.jpg)
 
 ###### CRWN is declared as “a new kind of print magazine for Black women; for natural hair and the women who wear it.” You not only feature diversity within styles of natural hair, but also within your incredible range of content - covering everything from wellness, to creatives, to beauty, to culture, and beyond. What common core values do you look for while curating your variety of content?
 
