@@ -9,12 +9,7 @@ image: "/uploads/i02-rollout-01.png"
 series: Respect
 ---
 
-
-"You are changing the world just by being yourself"
-
-A new kind of print magazine for Black women.find yourself there.
-
-to address the whole Black woman; a woman who is more educated, well-traveled and sophisticated than ever before — largely because generations before her have fought to ensure her seat at the table.
+*From newsstands, to the box office, to the many screens our eyes fall upon daily, it is no secret that media mis-represents the society looking back at it – most of the time. Thanks to new films, magazines, and even revived marketing campaigns, we've been starting to see a truer reflection of humanity that speaks to a more diverse audience. [CRWN Magazine](https://crwnmag.com/) was created to do just that for Black women – and has been doing so, gorgeously. With a mission to "address the whole Black woman; a woman who is more educated, well-traveled and sophisticated than ever before — largely because generations before her have fought to ensure her seat at the table," they have created a place for women to find themselves in. I was so thrilled to get to hear from [CRWN's](https://crwnmag.com/) President and Editor in Chief, [Lindsey Day](https://www.instagram.com/lindseydayy/), on their heart behind creating the magazine, the need for self-love in order for communities to thrive, and what taking ownership of our stories looks like to her.*
 
 ###### Some of the very first words you come across on the CRWN Mag website are, “You are changing the world just by being yourself.” What in your life, whether specific moments or a long journey, led you to create something that spreads such an empowering, reassuring message?
 
