@@ -54,7 +54,9 @@ We all have some form of heirloom sitting on a metaphorical (or not) shelf, each
 
 March marks the 31st National Women’s History Month in the US. It recognizes our shared heritage that we can, similar to our own, look at in two ways. There is courage and gratitude to be found for how far we’ve come, or an unsettled injustice of how far we have to go. I would argue that both perspectives are important. For without any victories we would have little hope, and without failure we would have little fire. No matter the type of past, there will often be both a way to do it better and a common thread of potential. A different way to parent, another glass ceiling to break, a hereditary habit to kick to the curb.
 
-### Within any blemishes we spot, let us see possibility for how we can creatively construct a new story. And within the pearls of what has gone before us, let us be inspired.
+### Within any blemishes we spot, let us see possibility for how we can creatively construct a new story. 
+
+### And within the pearls of what has gone before us, let us be inspired.
 
 This month, we resolve to become students of ourselves. We dive into the impact our history has had on us, and weave dreams of the legacy we want to leave. We’ll find joy in the traditions we hold close, and excitement in the leaves we can’t wait to turn over. We’ll look deep into the eyes of our mothers and fathers, grandparents and great-everyone to reveal not just who they are to us, but who they were before us. We become the romantics of aging honestly, and detectives of inherited traits. There is a world of bravery, imagination, and strength we all have access to in the cloth we’ve been cut from. May we hold it as the gold it is, and be fueled by it to shine brighter.
 
