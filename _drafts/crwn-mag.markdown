@@ -1,10 +1,20 @@
 ---
-title: crwn mag
+title: 'The Magazine Creating a Tangible, Authentic Reflection of Black Women: an
+  Interview with the EIC of CRWN'
 date: 2018-02-26 04:00:00 -08:00
+categories:
+- Entrepreneurs
 author: Hanna Snyder
 image: "/uploads/i02-rollout-01.png"
 series: Respect
 ---
+
+
+"You are changing the world just by being yourself"
+
+A new kind of print magazine for Black women.find yourself there.
+
+to address the whole Black woman; a woman who is more educated, well-traveled and sophisticated than ever before — largely because generations before her have fought to ensure her seat at the table.
 
 ###### Some of the very first words you come across on the CRWN Mag website are, “You are changing the world just by being yourself.” What in your life, whether specific moments or a long journey, led you to create something that spreads such an empowering, reassuring message?
 
@@ -14,7 +24,7 @@ SO MANY THINGS prepared me to co-create [CRWN Magazine](https://crwnmag.com/). F
 
 This was particularly true when we first launched, and is thankfully changing with movies like *Black Panther*, *A Wrinkle in Time*, etc. We believed then, and we believe now, that modern Black women deserve a tangible, authentic reflection and reminder of their innate beauty and power. So we set out to create just that.
 
-![crwnmag-i02-43.jpg](/uploads/crwnmag-i02-43.jpg)
+![banner-i02a011-mockup.jpg](/uploads/banner-i02a011-mockup.jpg)
 
 ###### CRWN is declared as “a new kind of print magazine for Black women; for natural hair and the women who wear it.” You not only feature diversity within styles of natural hair, but also within your incredible range of content - covering everything from wellness, to creatives, to beauty, to culture, and beyond. What common core values do you look for while curating your variety of content?
 
@@ -40,7 +50,7 @@ In a time of 45, mass incarceration and the politicization of stolen, innocent B
 
 But all of this - every part of it - begins with self. When we know ourselves, when we tap into our innate power and purpose, we begin to operate from a place of stability. This enables us to form authentic, lasting bonds and run our households with a sense of security. Self-Love helps us to see ourselves in our sisters and brothers - encouraging collaboration and wealth-building over competition. This is the path to ownership and autonomy for our people.”
 
-![banner-i02a011-mockup.jpg](/uploads/banner-i02a011-mockup.jpg)
+![crwnmag-i02-pages-12.jpg](/uploads/crwnmag-i02-pages-12.jpg)
 
 ###### That’s entirely enough of a mic-drop within itself, but I’d love to hear if you have since discovered more about this topic during the creation of this issue, or since its release.
 
@@ -54,7 +64,7 @@ I think we’d get a lot more accomplished if more of us practiced tough (self) 
 
 Inspiration is everywhere, all the time. Nkrumah and I were both into magazines growing up, and we both appreciate the art of the magazine and the book. I’ll go shopping for clothes (which I kinda hate) and somehow I’ll end up in the book/stationery section of the shop taking photos for reference! Nkrumah is constantly picking up zines and bringing magazines and ephemera to the office. We definitely prefer a minimal aesthetic and are big fans of magazines *like Monacle*, *Kinfolk*, *Cherry Bombe,* and *GOOD Magazine*.
 
-![crwnmag-i02-pages-12.jpg](/uploads/crwnmag-i02-pages-12.jpg)
+![crwnmag-i02-43.jpg](/uploads/crwnmag-i02-43.jpg)
 
 ###### This month at Yellow, we are focusing on respect; something CRWN embodies fantastically. What are some areas that you see either women as individuals, or our society as a whole, needing growth in when it comes to respect?
 
