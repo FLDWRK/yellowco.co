@@ -2,6 +2,7 @@
 title: crwn mag
 date: 2018-02-22 09:51:00 -08:00
 author: Hanna Snyder
+image: "/uploads/i02-rollout-01.png"
 series: Respect
 ---
 
