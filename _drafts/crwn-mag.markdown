@@ -1,6 +1,6 @@
 ---
-title: 'The Magazine Creating a Tangible, Authentic Reflection of Black Women: an
-  Interview with the EIC of CRWN'
+title: 'The Magazine Creating a Holistic, Authentic Reflection of Black Women in Media:
+  an Interview with the EIC of CRWN'
 date: 2018-02-26 04:00:00 -08:00
 categories:
 - Entrepreneurs
