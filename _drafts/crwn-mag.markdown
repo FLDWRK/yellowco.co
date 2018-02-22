@@ -18,7 +18,7 @@ This was particularly true when we first launched, and is thankfully changing wi
 
 Our brand pillars were established very early on, when CRWN Magazine was still just a concept, before we even released our first zine. They are: Sisterhood, Knowledge of Self, Authenticity, Self-Love, and Ownership. Whether considering our content, potential partnerships, hiring, or any other opportunity; we make sure that it’s first in line with those brand pillars. This ensures that we’re serving our reader from a real place that truly adds value to their lives.
 
-And while we have a focus on natural hair lifestyle, our vision has always been to address the whole woman, beyond just her hair — to celebrate the diversity of Black women. 
+And while we have a focus on natural hair lifestyle, our vision has always been to address the whole woman, beyond just her hair — to celebrate the diversity of Black women.
 
 ### Our mission is to create the most beautiful and honest representation of Black women in the history of print.
 
@@ -28,17 +28,19 @@ It honestly just came to us. To your point, the word crown has a royal feel and 
 
 ###### In your latest issue, *The Love Issue*, you focus on exploring self-love. You pose, so beautifully, in your introduction that it is the necessity for communities to thrive as a whole:
 
-###### “But what about the Sister in Sisterhood? How sustainable is the lifestyle of the ‘strong, Black, independent woman’; selflessly leading her family, community, colleagues… without requiring much, if anything, in return?... What does Love - and more specifically, Self-Love - actually look like in practice?...
+“But what about the Sister in Sisterhood? How sustainable is the lifestyle of the ‘strong, Black, independent woman’; selflessly leading her family, community, colleagues… without requiring much, if anything, in return?... What does Love - and more specifically, Self-Love - actually look like in practice?...
 
-###### In a time of 45, mass incarceration and the politicization of stolen, innocent Black lives; it’s clear that we need more than hashtags and awareness. We need community, support and some damn answers. We need access to capital and resources and trust among our people. We need to learn to see ourselves in each other. This is the only route to true freedom.
+In a time of 45, mass incarceration and the politicization of stolen, innocent Black lives; it’s clear that we need more than hashtags and awareness. We need community, support and some damn answers. We need access to capital and resources and trust among our people. 
 
-###### But all of this - every part of it - begins with self. When we know ourselves, when we tap into our innate power and purpose, we begin to operate from a place of stability. This enables us to form authentic, lasting bonds and run our households with a sense of security. Self-Love helps us to see ourselves in our sisters and brothers - encouraging collaboration and wealth-building over competition. This is the path to ownership and autonomy for our people.”
+### We need to learn to see ourselves in each other. This is the only route to true freedom.
+
+But all of this - every part of it - begins with self. When we know ourselves, when we tap into our innate power and purpose, we begin to operate from a place of stability. This enables us to form authentic, lasting bonds and run our households with a sense of security. Self-Love helps us to see ourselves in our sisters and brothers - encouraging collaboration and wealth-building over competition. This is the path to ownership and autonomy for our people.”
 
 ###### That’s entirely enough of a mic-drop within itself, but I’d love to hear if you have since discovered more about this topic during the creation of this issue, or since its release.
 
-Thank you! I think what I said still stands. We have to do the proper work internally, whatever that is, before we can form healthy bonds with others. These bonds shape and define our families, our businesses and the global community at large. 
+Thank you! I think what I said still stands. We have to do the proper work internally, whatever that is, before we can form healthy bonds with others. These bonds shape and define our families, our businesses and the global community at large.
 
-### So often, as individuals, we want to do work that reshapes the world, but we haven’t done the work to reshape our own minds and hearts first. 
+### So often, as individuals, we want to do work that reshapes the world, but we haven’t done the work to reshape our own minds and hearts first.
 
 I think we’d get a lot more accomplished if more of us practiced tough (self) love.
 
