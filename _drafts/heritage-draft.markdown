@@ -1,5 +1,5 @@
 ---
-title: heritage intro draft
+title: How does heritage influence your identity? explore yours with our monthly meditation
 date: 2018-02-21 13:57:00 -08:00
 author: Hanna Snyder
 image: "/uploads/IMG_8214-2.jpg"
