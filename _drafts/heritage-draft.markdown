@@ -60,6 +60,6 @@ March marks the 31st National Women’s History Month in the US. It recognizes o
 
 This month, we resolve to become students of ourselves. We dive into the impact our history has had on us, and weave dreams of the legacy we want to leave. We’ll find joy in the traditions we hold close, and excitement in the leaves we can’t wait to turn over. We’ll look deep into the eyes of our mothers and fathers, grandparents and great-everyone to reveal not just who they are to us, but who they were before us. We become the romantics of aging honestly, and detectives of inherited traits. There is a world of bravery, imagination, and strength we all have access to in the cloth we’ve been cut from. May we hold it as the gold it is, and be fueled by it to shine brighter.
 
-Photos by:
+Photos by [Amy Hulst](https://www.forcollective.com/)
 
 Special thanks to [Jonny Pickett](https://auralgauge.com/) for creating the original music in our Yellow Meditation!
