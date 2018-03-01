@@ -1,5 +1,5 @@
 ---
-title: Has Heritage Shaped Your Identity? Explore How with Our Monthly Meditation
+title: How Has Heritage Shaped Your Identity? Explore with Our Monthly Meditation
 date: 2018-03-05 04:00:00 -08:00
 categories:
 - Growth
