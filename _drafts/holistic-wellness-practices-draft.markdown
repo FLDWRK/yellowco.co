@@ -20,7 +20,7 @@ If using a sage stick, it’s good to note that sage itself has many health bene
 
 ### Sage has been used for thousands of years and is still relevant.
 
-![tim-wright-504298-unsplash.jpg](/uploads/tim-wright-504298-unsplash.jpg)
+![nordwood-themes-535273-unsplash.jpg](/uploads/nordwood-themes-535273-unsplash.jpg)
 
 ##### 2. Using the power steam
 
