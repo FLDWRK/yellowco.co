@@ -36,3 +36,5 @@ To assimilate to one would feel almost as though you've betrayed the place you c
 It means taking the best of your countries in their rituals, ideals, and opportunities. It is to belong to both your parents equally, regardless of who held your body in the womb as you learned to take your first breathe of air. It is to have a responsibility to your people. To move them forward if you've had the privilege of rising. To protect their image if you've had the honor of understanding their soul. To carry their struggle, so that the burden of holding it falls on more shoulders that will engage in more solutions.
 
 Our heritage is not simply tied to a country. It's a perspective, a nostalgic sound, a way of practice, a folklore story, a pallet of colors. It's simply a place of understanding.
+
+*Photos by [Amy Hulst](https://www.forcollective.com/)*
