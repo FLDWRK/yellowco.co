@@ -18,17 +18,25 @@ Emotions relating to responsibility, honoring my family, and representing the co
 
 For some people, understanding who they are becomes more obvious with age. They see themselves in the people they're surrounded by; they use a single language to give labels to their characteristics and words to their thoughts. They are represented in every movie, television show, and by nearly every major CEO.
 
+![IMG_2722.jpg](/uploads/IMG_2722.jpg)
+
 For some of us, however, our identity is much more complex, entangled with struggle, conflicting ideologies, and divergent languages. The world in which we were raised looks completely contradictory to the one that nurtured our parents and grandparents. 'Tradition' means holding onto the last thread that leads to our ancestors, and simultaneously means isolation from our current societal norms.
 
 ### For some of us, home exists in two places at once - and somehow exists much stronger in the land we're not physically in.
 
 Growing up Middle Eastern American means I'm all too familiar with the space in-between. All to familiar with having an identity seeded in struggle and under-representation that also sits hand-in-hand with an identity rooted in autonomy, esteem, and privilege. And I've benefited from both.
 
-When you've grown up in a place where you've had to constantly justify traditions, explain restrictions, and defend vigorous expectations, parts of you become defiant. You grow tired of the questions, of the lack of assimilation between your clashing cultures, of the contradictory images of who you are and who your parents or society expected you to become. You struggle with ancient traditions that don't fit the geography of the place you're being raised. You struggle with emotions of passion, caution, and faith that were taught to you in a foreign language through anecdotes that have no direct translation. Ones that don't feel as powerful or as customary when they're not spoken in their native tongue.
+When you've grown up in a place where you've had to constantly justify traditions, explain restrictions, and defend vigorous expectations, parts of you become defiant. You grow tired of the questions, of the lack of assimilation between your clashing cultures, of the contradictory images of who you are and who your parents or society expected you to become. 
+
+![9A8866C3-AEA2-4C9A-9FFD-AAA513412988.JPG](/uploads/9A8866C3-AEA2-4C9A-9FFD-AAA513412988.JPG)
+
+You struggle with ancient traditions that don't fit the geography of the place you're being raised. You struggle with emotions of passion, caution, and faith that were taught to you in a foreign language through anecdotes that have no direct translation. Ones that don't feel as powerful or as customary when they're not spoken in their native tongue.
 
 ### You fail to belong here or there because being understood becomes a critical component of your ability to feel at home.
 
 Understanding has become your mission, and only those who have began the journey of seeking it out could ever see the road you're walking along. It's as if you've lived a life amongst the most incredible lions, with the vision and perspective of an eagle. The two, like your cultures, exist radiantly and powerfully alone, but together, they change the way you travel through the world. They amplify the voices who share their stories with you. They expand the definition of moments that to others feel insignificant. Both broaden the spectrum of colors you use to paint the world in which you live.
+
+![IMG_2693.jpg](/uploads/IMG_2693.jpg)
 
 To assimilate to one would feel almost as though you've betrayed the place you came from. It would empower the lion at the expense of the eagle. It would be as if to abandon your mother, who gave you the very life that allows you the freedom to contemplate such complexities.
 
