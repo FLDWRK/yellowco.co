@@ -1,6 +1,8 @@
 ---
 title: How Has Heritage Shaped Your Identity? Explore with Our Monthly Meditation
-date: 2018-02-21 13:57:00 -08:00
+date: 2018-03-05 04:00:00 -08:00
+categories:
+- Growth
 author: Hanna Snyder
 image: "/uploads/IMG_8214-2.jpg"
 series: Heritage
