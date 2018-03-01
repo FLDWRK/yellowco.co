@@ -7,8 +7,6 @@ author: Salma Elbarmawi
 series: Heritage
 ---
 
-When Your Heart Calls Two Places Home
-
 There are words that don't exist in the English language. Words my mother uses to describe her love for me, words like 'rouhi' that translates to "you are one with my soul," words like 'hayat alby' that mean "you give my heart its very life." Words more beautiful in meaning and deep in emotion than I could possibly translate, because it would be like trying to describe a color you've never seen before.  
 
 There are emotions that only exist for me in Arabic. Emotions relating to responsibility, honoring my family and representing the country of my parents, of my ancestors. There are movements my hips and torso make that only make sense when they're accompanied by oriental drums, like the tabla, romantic strings like the oud and swiftly moving tambourines in a melody customarily called 'baladi' which literally translates to the word "country." 
