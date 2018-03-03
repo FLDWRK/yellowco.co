@@ -1,9 +1,7 @@
 ---
 title: Kristi Triplett
-company_name: 
-job_title: 
 bio_image: "/assets/images/kristi-triplett.jpg"
-website: https://www.instagram.com/kristitriplett/
+website: www.leadselfleadothers.com
 is_guest: true
 ---
 
