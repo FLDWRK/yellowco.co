@@ -3,6 +3,7 @@ title: money draft
 date: 2018-03-14 04:00:00 -07:00
 categories:
 - Growth
+author: Jenna Rogers
 series: Heritage
 ---
 
