@@ -1,5 +1,5 @@
 ---
-title: 4 Ancient Natural Wellness Practices You Can Easily Do at Home
+title: 4 Natural Wellness Practices You Can Easily Do at Home
 date: 2018-03-09 04:00:00 -08:00
 categories:
 - Health
