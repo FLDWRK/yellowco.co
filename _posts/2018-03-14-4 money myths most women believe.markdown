@@ -46,7 +46,7 @@ This is hands down one of the most common justifications I hear from women regar
 
 ![tim-wright-445482-unsplash.jpg](/uploads/tim-wright-445482-unsplash.jpg)
 
-###### 4. “I should be giving anything extra I have to my kids/parents. They need it more than me.”
+###### 4. “I should be giving anything extra I have to my kids or parents. They need it more than me.”
 
 Women make sacrifices all the time, especially for their loved ones. Just last week I met with a woman who had spent the last 8 months working overtime on a special project at work. She received a bonus as a thank you for her hard work. She expressed to me that she needed a vacation badly, yet she felt guilty spending the bonus on herself. Instead, she decided to give it to her daughter to use as down payment on her first home.
 
