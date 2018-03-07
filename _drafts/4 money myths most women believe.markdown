@@ -16,6 +16,8 @@ We all have our own relationship to money that was shaped by our parents, our te
 
 That they were told at a young age, whether in a subtle way or not, that women just aren’t good at math, or that they shouldn’t worry about saving for their future - that’s was husbands are for. To break down these false truths, I’ve outlined a few of the common money stories that women have shared with me over the past 10 years. My hope is that if any resonate with you and are no longer serving you, you will take the time to reflect on how that belief is impacting your financial future.
 
+![stil-326687-unsplash.jpg](/uploads/stil-326687-unsplash.jpg)
+
 ###### 1. “I'm just not good with numbers. I'll never understand them.”
 
 We all remember the old adage that girls are good at English and boys are good at math. This results in many young women believing they will never understand investing and are bound to fail at it. A recent study performed by Fidelity Investments showed that only 28% of women feel confident in selecting the correct investments for them. Yet, I would argue that women are much better investors than men.
@@ -25,6 +27,8 @@ We all remember the old adage that girls are good at English and boys are good a
 This results in a more long-term approach with their investments (buy and hold), versus taking quick action during market fluctuations (which can often hinder returns).
 
 Education is key in investing and unfortunately, it isn’t really being taught in school. Take an investment course, attend a seminar, or ask for advice from someone you know with experience in investing. Many community colleges even offer adult-ed classes on finance. Or if online classrooms are more your style, [Morningstar](http://www.morningstar.com/) has an [online classroom](http://www.morningstar.com/cover/Classroom.html) that offers hundreds of free online classes about stocks, bonds, and investing. Additionally, [iTunesU](https://www.apple.com/education/itunes-u/) offers a multitude of online investment courses specifically geared towards personal finance. The more you can learn, the more prepared you will feel to dip your feet in and start investing.
+
+![stil-479024-unsplash.jpg](/uploads/stil-479024-unsplash.jpg)
 
 ###### 2. “The stock market is too risky to invest so I keep my money in cash at the bank.”
 
@@ -40,6 +44,8 @@ You enter your zip code and any certified planners in your area will pop up. Ano
 
 This is hands down one of the most common justifications I hear from women regarding their finances and likely one of the most controversial. I have seen countless women run through their savings, not find that knight in shining armor in time, and end up having to depend on their children in retirement. Even if that knight is found, women typically live longer than men and will likely at some point in their life be the primary financial decision maker. That's why it is imperative for women to have a solid understanding of how to manage money and invest for the future, that way they can feel empowered and move into retirement with confidence knowing that no matter what happens, they will be okay.
 
+![tim-wright-445482-unsplash.jpg](/uploads/tim-wright-445482-unsplash.jpg)
+
 ###### 4. “I should be giving anything extra I have to my kids/parents. They need it more than me.”
 
 Women make sacrifices all the time, especially for their loved ones. Just last week I met with a woman who had spent the last 8 months working overtime on a special project at work. She received a bonus as a thank you for her hard work. She expressed to me that she needed a vacation badly, yet she felt guilty spending the bonus on herself. Instead, she decided to give it to her daughter to use as down payment on her first home.
@@ -51,5 +57,3 @@ Now, I am by no means saying she shouldn’t have helped her daughter. But I am 
 I like to recommend setting aside 5% of your monthly pay for YOU. Whether that be for a massage, an art class you’ve been wanting to take, a designation that will help boost your career, or a nice dinner out, honoring yourself is important.
 
 Women are far more capable when it comes to investing than they often give themselves credit for. If we want a future full of strong, independent women, we need to break down these false ideas around money and instill new money stories full of education, positivity, and empowerment.
-
-*Photos by*
