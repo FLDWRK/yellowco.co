@@ -8,7 +8,7 @@ author: Hanna Snyder
 series: Heritage
 ---
 
-Mother-daughter dynamics can be complex enough on their own to navigate, but throwing Co-Founders into the mix? That's adding a whole new level to the relationship. But Val and Breezy, the mother-daughter creators of [Skinny Dipped Almonds](https://getskinnydipped.com/) make starting a family business look deliciously appealing. We got to chat with the two of them about their heart behind starting the company, what they have learned from each other along the way, and how they balance their relationship between work and family. Give it a read below, and head here to grab a 15% discount to try some of their incredible dipped almonds!
+*Mother-daughter dynamics can be complex enough on their own to navigate, but throwing Co-Founders into the mix? That's adding a whole new level to the relationship. But Val and Breezy, the mother-daughter creators of [Skinny Dipped Almonds](https://getskinnydipped.com/) make starting a family business look deliciously appealing. We got to chat with the two of them about their heart behind starting the company, what they have learned from each other along the way, and how they balance their relationship between work and family. Give it a read below, and head here to grab a 15% discount to try some of their incredible dipped almonds!*
 
 ###### What inspired you to start a business specifically working together?
 
