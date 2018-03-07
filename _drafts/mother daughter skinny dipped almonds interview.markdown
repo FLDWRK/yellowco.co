@@ -28,7 +28,7 @@ Love \+ food = Skinny Dipped.
 
 ### We like to think that we each bring a different set of skills to the table, but the real magic is in the combination of the two.
 
-**Breezy: **My mom has better instincts than anyone I have ever met. Equally as important, she just has a way with people and can connect with anyone, whether it’s a buyer or a supplier or a new hire, she’s our secret weapon.  I’m more of the business side, the accelerator pedal you could say.
+**Breezy:** My mom has better instincts than anyone I have ever met. Equally as important, she just has a way with people and can connect with anyone, whether it’s a buyer or a supplier or a new hire, she’s our secret weapon.  I’m more of the business side, the accelerator pedal you could say.
 
 **Val:** Breezy is turbo-charged. She’s a charismatic leader. She’s a doer who relentlessly stalks answers to the questions she doesn’t have answers for then hoovers up the information and deploys to her advantage. Her brain is a crowded, chaotic, fertile, fantastic place. She is tenacious and unafraid. She never gives up. For Breezy, it’s truly a case of where there’s a will there’s a way. I’m more the creative force lurking behind the brand and the occasionally wise old counselor to this human hurricane.
 
@@ -52,9 +52,9 @@ Breezy taught me that I had to trust her enough to set aside my fears and let he
 
 **Breezy:** The most exciting and rewarding part of growing a brand is growing a team. The people we get to go on this journey with are what make this whole crazy adventure so amazing! Keep an eye out for us as we start showing up in a cupboard near you :).
 
-**Val:** I try to remind our team that their health and relationships come first.
+**Val:** I try to remind our team that their health and relationships come first. A healthy, happy human is a productive human. 
 
-### A healthy, happy human is a productive human. Building a business requires a lot of stamina, so being mindful of how and with whom you make the journey matters.
+### Building a business requires a lot of stamina, so being mindful of how and with whom you make the journey matters.
 
 It’s like growing a family — you get all tangled up with the tribe. I can’t imagine life without our two co-founders, Lizzie and Chrissy, whom I love like my own daughters. I’m so proud that Skinny Dipped is a women-run business and I hope we can be an inspiration and mentor to other women who dream big.
 
