@@ -1,5 +1,6 @@
 ---
-title: Skinny Dipped Almonds interview
+title: Meet the Mother-Daughter Team Who Created a Product to Bring People Together
+  (& A Discount to Try It!)
 date: 2018-03-12 04:00:00 -07:00
 categories:
 - Entrepreneurs
