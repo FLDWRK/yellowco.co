@@ -8,8 +8,6 @@ image: "/uploads/4%20Myths%20Most%20Women%20Believe%20About%20Their%20Money%20-%
 series: Heritage
 ---
 
-money stories women have been told for centuries: How being born female influences your money choices.
-
 As a Certified Financial Planner, I spend the majority of my time meeting with people to learn about their current financial situations and how they got there. The end goal is of course to determine what they would like to change about their finances and outline the steps to accomplish those goals, but before any of the planning can start, we need to first go back to the beginning and understand their own personal money stories.
 
 ### We all have our own relationship to money that was shaped by our parents, our teachers, our peers and society, much of it unbeknownst to us.
@@ -56,4 +54,4 @@ I like to recommend setting aside 5% of your monthly pay for YOU. Whether that b
 
 Women are far more capable when it comes to investing than they often give themselves credit for. If we want a future full of strong, independent women, we need to break down these false ideas around money and instill new money stories full of education, positivity, and empowerment.
 
-_Photos by_
+*Photos by*
