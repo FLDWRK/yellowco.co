@@ -8,11 +8,9 @@ image: "/uploads/4%20Myths%20Most%20Women%20Believe%20About%20Their%20Money%20-%
 series: Heritage
 ---
 
-As a Certified Financial Planner, I spend the majority of my time meeting with people to learn about their current financial situations and how they got there. The end goal is of course to determine what they would like to change about their finances and outline the steps to accomplish those goals, but before any of the planning can start, we need to first go back to the beginning and understand their own personal money stories.
+As a Certified Financial Planner, I spend the majority of my time meeting with people to learn about their current financial situations and how they got there. The end goal is of course to determine what they would like to change about their finances and outline the steps to accomplish those goals, but before any of the planning can start, we need to first go back to the beginning and understand their own personal money stories. 
 
-### We all have our own relationship to money that was shaped by our parents, our teachers, our peers and society, much of it unbeknownst to us.
-
-Yet so few people actually take the time to reflect back and consider whether those long-ago ingrained money behaviors are appropriate for what they are trying to accomplish now.
+We all have our own relationship to money that was shaped by our parents, our teachers, our peers and society, much of it unbeknownst to us. Yet so few people actually take the time to reflect back and consider whether those long-ago ingrained money behaviors are appropriate for what they are trying to accomplish now.
 
 ### I constantly hear women tell me stories of why they are not good with money.
 
