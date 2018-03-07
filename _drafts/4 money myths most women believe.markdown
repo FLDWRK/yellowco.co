@@ -4,6 +4,7 @@ date: 2018-03-14 04:00:00 -07:00
 categories:
 - Growth
 author: Jenna Rogers
+image: "/uploads/4%20Myths%20Most%20Women%20Believe%20About%20Their%20Money%20-%20Yellow%20Co.jpg"
 series: Heritage
 ---
 
