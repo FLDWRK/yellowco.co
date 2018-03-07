@@ -26,11 +26,9 @@ Love \+ food = Skinny Dipped.
 
 ###### As a mother-daughter team, what individual strengths do each of you bring to your work?
 
-**Breezy:**
-
 ### We like to think that we each bring a different set of skills to the table, but the real magic is in the combination of the two.
 
-My mom has better instincts than anyone I have ever met. Equally as important, she just has a way with people and can connect with anyone, whether it’s a buyer or a supplier or a new hire, she’s our secret weapon.  I’m more of the business side, the accelerator pedal you could say.
+**Breezy: **My mom has better instincts than anyone I have ever met. Equally as important, she just has a way with people and can connect with anyone, whether it’s a buyer or a supplier or a new hire, she’s our secret weapon.  I’m more of the business side, the accelerator pedal you could say.
 
 **Val:** Breezy is turbo-charged. She’s a charismatic leader. She’s a doer who relentlessly stalks answers to the questions she doesn’t have answers for then hoovers up the information and deploys to her advantage. Her brain is a crowded, chaotic, fertile, fantastic place. She is tenacious and unafraid. She never gives up. For Breezy, it’s truly a case of where there’s a will there’s a way. I’m more the creative force lurking behind the brand and the occasionally wise old counselor to this human hurricane.
 
@@ -42,9 +40,7 @@ My mom has better instincts than anyone I have ever met. Equally as important, s
 
 **Breezy:** My mom has taught me the value of patience, thoughtfulness, and mutual trust and respect. Without those things we certainly wouldn’t be where we are today.
 
-**Val:**
-
-### I’ve learned that a daughter is not a mini me. That if she’s allowed to fully become herself, she will shine so brilliantly it will take your breath away.
+### Val: I’ve learned that a daughter is not a mini me. That if she’s allowed to fully become herself, she will shine so brilliantly it will take your breath away.
 
 Breezy taught me that I had to trust her enough to set aside my fears and let her lead. Our business thrives because we each are unique. It’s the ultimate parental lesson — to let go of one’s secret hope that our children will grow up to be just like us.
 
