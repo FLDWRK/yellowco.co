@@ -21,7 +21,7 @@ series: Heritage
 
 Love \+ food = Skinny Dipped.
 
-![Screen Shot 2018-03-06 at 1.45.45 PM.png](/uploads/Screen%20Shot%202018-03-06%20at%201.45.45%20PM.png)
+![2-6c0b00.jpg](/uploads/2-6c0b00.jpg)
 
 ###### What did your very first “office” together look like?
 
@@ -53,7 +53,7 @@ Breezy taught me that I had to trust her enough to set aside my fears and let he
 
 **Breezy:** It’s an exciting time for the brand and the team! I think it’s a combination of instincts and experience, as well as perseverance and optimism that has helped to catapult the brand.
 
-![IMG_2773.jpg](/uploads/IMG_2773.jpg)
+![3.jpg](/uploads/3.jpg)
 
 ###### What are your biggest hopes for both the brand and your team in the years to come?
 
