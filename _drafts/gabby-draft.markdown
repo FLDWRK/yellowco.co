@@ -10,9 +10,9 @@ series: Heritage
 Title: The Illogical, Irrational Truth of Creating Lasting Change
 Subtitle: What the Giants of the Civil Rights Movement Want Us to Remember
 
-“They ran us down with horses and and bludgeoned us with billy clubs and baseball bats. They jailed us, they beat us, they bombed us, and sprayed us with tear gas and firehouses. They even assassinated a president, a candidate, and a King.”
+*“They ran us down with horses and and bludgeoned us with billy clubs and baseball bats. They jailed us, they beat us, they bombed us, and sprayed us with tear gas and firehouses. They even assassinated a president, a candidate, and a King.”*
 
-* excerpt from “Across That Bridge: Life Lessons and a Vision for Change”
+- excerpt from “Across That Bridge: Life Lessons and a Vision for Change”
 
 “How did they do it?” It’s a question I’ve asked myself for ten years, even more ferociously in the last year. Facing torture, taunting, and even death, how did those who marched and protested for civil rights in the 1960’s and 1970’s, keep going despite the risks. Despite the fear.
 
@@ -44,4 +44,6 @@ Floating Quote:
 
 We live in a time of extreme hate and divisiveness. A time where destruction, fear and turmoil roil around us. But, in my heart, I believe that time, at some point, will come to an end. When that day comes, those of us who felt emboldened to harm others will have to endure a reckoning of our actions. And those of us who were harmed will have a choice - to inflict the same kind of violence and treatment we endured - or to do something different.
 
-A time for reconciliation is coming, however far down the horizon it is. I hope it’s based in the one thing that all of us will feel challenged to do…..love.
+A time for reconciliation is coming, however far down the horizon it is. I hope it’s based in the one thing that all of us will feel challenged to do... love.
+
+*Photos by:*
