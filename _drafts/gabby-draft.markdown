@@ -44,7 +44,3 @@ Floating Quote:
 We live in a time of extreme hate and divisiveness. A time where destruction, fear and turmoil roil around us. But, in my heart, I believe that time, at some point, will come to an end. When that day comes, those of us who felt emboldened to harm others will have to endure a reckoning of our actions. And those of us who were harmed will have a choice - to inflict the same kind of violence and treatment we endured - or to do something different. 
 
 A time for reconciliation is coming, however far down the horizon it is. I hope it’s based in the one thing that all of us will feel challenged to do…..love.
-
-
-Endnote:
-Gabriele Almon (@GabrieleAlmon) is Founder of Rise of the Bulls, a changemaker laboratory, base in Los Angeles. Rise of the Bulls is on a mission to equip creatives with the tools necessary to help solve the world’s largest problems using their unique gifts and strengths. Come learn more and sign up to participate in upcoming events at: www.riseofthebulls.com 
