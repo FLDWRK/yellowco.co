@@ -5,6 +5,7 @@ date: 2018-03-12 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
+image: "/uploads/1.png"
 series: Heritage
 ---
 
@@ -20,6 +21,8 @@ series: Heritage
 
 Love \+ food = Skinny Dipped.
 
+![Screen Shot 2018-03-06 at 1.45.45 PM.png](/uploads/Screen%20Shot%202018-03-06%20at%201.45.45%20PM.png)
+
 ###### What did your very first “office” together look like?
 
 **Breezy:** For the first two years we worked out of my parent’s house, so naturally our office was the dining room table.
@@ -31,6 +34,8 @@ Love \+ food = Skinny Dipped.
 **Breezy:** My mom has better instincts than anyone I have ever met. Equally as important, she just has a way with people and can connect with anyone, whether it’s a buyer or a supplier or a new hire, she’s our secret weapon.  I’m more of the business side, the accelerator pedal you could say.
 
 **Val:** Breezy is turbo-charged. She’s a charismatic leader. She’s a doer who relentlessly stalks answers to the questions she doesn’t have answers for then hoovers up the information and deploys to her advantage. Her brain is a crowded, chaotic, fertile, fantastic place. She is tenacious and unafraid. She never gives up. For Breezy, it’s truly a case of where there’s a will there’s a way. I’m more the creative force lurking behind the brand and the occasionally wise old counselor to this human hurricane.
+
+![18342745_1418506098207031_8464837760377600920_n.jpg](/uploads/18342745_1418506098207031_8464837760377600920_n.jpg)
 
 ###### Do you ever struggle with balancing work and family time within your relationship?
 
@@ -48,11 +53,13 @@ Breezy taught me that I had to trust her enough to set aside my fears and let he
 
 **Breezy:** It’s an exciting time for the brand and the team! I think it’s a combination of instincts and experience, as well as perseverance and optimism that has helped to catapult the brand.
 
+![IMG_2773.jpg](/uploads/IMG_2773.jpg)
+
 ###### What are your biggest hopes for both the brand and your team in the years to come?
 
 **Breezy:** The most exciting and rewarding part of growing a brand is growing a team. The people we get to go on this journey with are what make this whole crazy adventure so amazing! Keep an eye out for us as we start showing up in a cupboard near you :).
 
-**Val:** I try to remind our team that their health and relationships come first. A healthy, happy human is a productive human. 
+**Val:** I try to remind our team that their health and relationships come first. A healthy, happy human is a productive human.
 
 ### Building a business requires a lot of stamina, so being mindful of how and with whom you make the journey matters.
 
