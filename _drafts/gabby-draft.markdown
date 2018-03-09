@@ -10,9 +10,7 @@ series: Heritage
 Title: The Illogical, Irrational Truth of Creating Lasting Change
 Subtitle: What the Giants of the Civil Rights Movement Want Us to Remember
 
-*“They ran us down with horses and and bludgeoned us with billy clubs and baseball bats. They jailed us, they beat us, they bombed us, and sprayed us with tear gas and firehouses. They even assassinated a president, a candidate, and a King.”*
-
-- excerpt from “Across That Bridge: Life Lessons and a Vision for Change”
+*“They ran us down with horses and and bludgeoned us with billy clubs and baseball bats. They jailed us, they beat us, they bombed us, and sprayed us with tear gas and firehouses. They even assassinated a president, a candidate, and a King.” *- excerpt from “Across That Bridge: Life Lessons and a Vision for Change”
 
 “How did they do it?” It’s a question I’ve asked myself for ten years, even more ferociously in the last year. Facing torture, taunting, and even death, how did those who marched and protested for civil rights in the 1960’s and 1970’s, keep going despite the risks. Despite the fear.
 
