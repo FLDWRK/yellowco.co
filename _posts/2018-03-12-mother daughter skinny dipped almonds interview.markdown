@@ -9,7 +9,7 @@ image: "/uploads/1.png"
 series: Heritage
 ---
 
-*Mother-daughter dynamics can be complex enough on their own to navigate - and throwing co-founders into the mix? That's adding a whole new level to the relationship. But Val and Breezy, the mother-daughter creators of [Skinny Dipped Almonds](https://getskinnydipped.com/) make starting a family business look deliciously appealing. We got to chat with the two of them about their heart behind starting the company, what they have learned from each other along the way, and how they balance their relationship between work and family. Give it a read below, and head here to grab a 15% discount to try some of their incredible dipped almonds!*
+*Mother-daughter dynamics can be complex enough on their own to navigate - and throwing co-founders into the mix? That's adding a whole new level to the relationship. But Val and Breezy, the mother-daughter creators of [Skinny Dipped Almonds](https://getskinnydipped.com/) make starting a family business look deliciously appealing. We got to chat with the two of them about their heart behind starting the company, what they have learned from each other along the way, and how they balance their relationship between work and family. Give it a read below, and [head here to grab a 15% discount](https://yellowcollective.lpages.co/skinny-dipped-almonds-discount-code/) to try some of their incredible dipped almonds!*
 
 ###### What inspired you to start a business specifically working together?
 
@@ -69,6 +69,6 @@ It’s like growing a family — you get all tangled up with the tribe. I can’
 
 **Breezy:** Our company was founded on the importance of family and friendship, so my advice would be to not underestimate the value that friends and family bring to the table!
 
-#### Grab your discount here to try some of their delicious Skinny Dipped Almonds!
+#### [Grab your discount here to try some of their delicious Skinny Dipped Almonds!](https://yellowcollective.lpages.co/skinny-dipped-almonds-discount-code/)
 
 *Photos courtesy of [Skinny Dipped Almonds](https://getskinnydipped.com/)*
