@@ -7,9 +7,7 @@ author: Gabriele Almon
 series: Heritage
 ---
 
-*“They ran us down with horses and and bludgeoned us with billy clubs and baseball bats. They jailed us, they beat us, they bombed us, and sprayed us with tear gas and firehouses. They even assassinated a president, a candidate, and a King.”*
-
-* Excerpt from *Across That Bridge: Life Lessons and a Vision for Change*
+*“They ran us down with horses and and bludgeoned us with billy clubs and baseball bats. They jailed us, they beat us, they bombed us, and sprayed us with tear gas and firehouses. They even assassinated a president, a candidate, and a King.” - *Excerpt from *Across That Bridge: Life Lessons and a Vision for Change*
 
 “How did they do it?” It’s a question I’ve asked myself for ten years, even more ferociously in the last year. Facing torture, taunting, and even death, how did those who marched and protested for civil rights in the 1960s and 1970s keep going despite the risks. Despite the fear.
 
@@ -17,8 +15,7 @@ series: Heritage
 
 It’s a place many of us have never been before, and it’s scary. The threats and fears are different than before - cyber attacks, doxxing, and general online intimidation exist. The possibility of large protests or gatherings being prime ground for extremist or terrorist attacks is present as well. Still, we find ourselves marching, despite these fears, to make our presence known for pressing issues that need awareness: immigration, sexual violence, women’s rights, black dignity, policy brutality, and more.
 
-*“One movement will never offer all the growth humanity needs to experience. To expect so is to build your hopes on a puff of smoke, on a whispered breath; it is to anticipate an illusion.”* -
-Congressman John Lewis, who marched alongside with Dr. King
+*“One movement will never offer all the growth humanity needs to experience. To expect so is to build your hopes on a puff of smoke, on a whispered breath; it is to anticipate an illusion.”* - Congressman John Lewis, who marched alongside with Dr. King
 
 Since 2016, after the election of our new president, I’ve researched the tactics and strategies our elders used to create lasting change. I’ve watched interviews with Freedom Riders, read books about Dr. King, and asked community organizers (who are friends of mine) about where they learned to do what they do so well: bring people together around a common cause. Still, I was missing something core to the nonviolent movement of the past - I could sense it.
 
