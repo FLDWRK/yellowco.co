@@ -7,4 +7,17 @@
     margin-bottom: 1rem;
     float: left;
   }
+  @include media-breakpoint-only(md) {
+    .card {
+      width: 49%;
+    }
+  }
+  @include media-breakpoint-down(sm) {
+    .card-gutter {
+      display: none;
+    }
+    .card {
+      width: 100%;
+    }
+  }
 }

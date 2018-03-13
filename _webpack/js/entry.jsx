@@ -26,5 +26,6 @@ if (document.getElementById("instagram"))
 new Masonry(".masonry-cards", {
   horizontalOrder: true,
   itemSelector: ".card",
-  gutter: ".card-gutter"
+  gutter: ".card-gutter",
+  percentPosition: true
 });
