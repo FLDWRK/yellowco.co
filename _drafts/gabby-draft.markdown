@@ -8,7 +8,7 @@ image: "/uploads/civil-rights-post-1.jpg"
 series: Heritage
 ---
 
-“They ran us down with horses and and bludgeoned us with billy clubs and baseball bats. They jailed us, they beat us, they bombed us, and sprayed us with tear gas and firehouses. They even assassinated a president, a candidate, and a King.” - Excerpt from *Across That Bridge: Life Lessons and a Vision for Change*
+_“They ran us down with horses and and bludgeoned us with billy clubs and baseball bats. They jailed us, they beat us, they bombed us, and sprayed us with tear gas and firehouses. They even assassinated a president, a candidate, and a King.”_ - Excerpt from _Across That Bridge: Life Lessons and a Vision for Change_
 
 “How did they do it?” It’s a question I’ve asked myself for ten years, even more ferociously in the last year. Facing torture, taunting, and even death, how did those who marched and protested for civil rights in the 1960s and 1970s keep going despite the risks. Despite the fear.
 
@@ -16,7 +16,7 @@ series: Heritage
 
 It’s a place many of us have never been before, and it’s scary. The threats and fears are different than before - cyber attacks, doxxing, and general online intimidation exist. The possibility of large protests or gatherings being prime ground for extremist or terrorist attacks is present as well. Still, we find ourselves marching, despite these fears, to make our presence known for pressing issues that need awareness: immigration, sexual violence, women’s rights, black dignity, policy brutality, and more.
 
-*“One movement will never offer all the growth humanity needs to experience. To expect so is to build your hopes on a puff of smoke, on a whispered breath; it is to anticipate an illusion.”* - Congressman John Lewis, who marched alongside with Dr. King
+_“One movement will never offer all the growth humanity needs to experience. To expect so is to build your hopes on a puff of smoke, on a whispered breath; it is to anticipate an illusion.”_ - Congressman John Lewis, who marched alongside with Dr. King
 
 ![civil-rights-post-2.jpg](/uploads/civil-rights-post-2.jpg)
 
@@ -24,7 +24,7 @@ Since 2016, after the election of our new president, I’ve researched the tacti
 
 It took me a year (that’s a story in itself), but I just finished reading *Across That Bridge*, an organizing how-to book and reflection written by Congressman John Lewis, who marched alongside Dr. Martin Luther King Jr. In the foreword, Congressman Lewis is described as a “warrior of love” and “the embodiment of forgiveness.” In the book itself, John says this of the people who attacked him and fellow marchers:
 
-*“We believed not only we, but the perpetrators of violence, were victims as well, who began their lives in innocence, but were taught to hate, abuse, and draw distinctions between themselves and others. We held no malice toward them and believed in the power of truth to penetrate their negative conditioning and remind people of their innocence.”*
+_“We believed not only we, but the perpetrators of violence, were victims as well, who began their lives in innocence, but were taught to hate, abuse, and draw distinctions between themselves and others. We held no malice toward them and believed in the power of truth to penetrate their negative conditioning and remind people of their innocence.”_
 
 This was a truth that I had tried to ignore for longer than I can remember. It felt illogical, unreasonable, and damn near impossible, so I rejected it. But, the funny thing about truth, is that exists, whether we choose it accept it or not, and the truth is this:
 
@@ -36,18 +36,16 @@ Love, as our fore-marchers show us, is not the acceptance of bad behavior. It is
 
 ### It is to choose to see our opponents, our enemies, as human beings, with stories, triumphs, and triumphs that precede us.
 
-It is recognizing that we can stand for what we believe in ways that affirm our existence without destroying others. That being kind isn’t the same as being “nice,” and that we must distinguish the difference as we advocate for causes we care about.
-
-This isn’t easy.
+It is recognizing that we can stand for what we believe in ways that affirm our existence without destroying others. That being kind isn’t the same as being “nice,” and that we must distinguish the difference as we advocate for causes we care about. This isn’t easy.
 
 If we listen to the stories and testimonies that have come before us, they share a secret; all of this takes practice. Loving people takes practice. Seeing people who mean us harm as brothers and sisters takes practice. It feels counterintuitive and illogical (and maybe even impossible) at first. But (and maybe you can sense me wrestling with this myself) there is no firmer, more transformative ground to create a unified community on than one that is reconciled to one another.
 
 There are other procedural tactics in mobilizing that emerged from my research which would be incredible to share at some point. But, what I believe, what I’ve seen, is that the giants of the Civil Rights Movement ask that we - those who seek to create change - start with ourselves. To recognize our own inner conflicts, define and hold onto our own principles and values, and reconcile our universal bond to one another first. To move with love and to seek understanding of those we disagree with.
 
-*“The first act of peace is to silence the war raging within.” - John Lewis*
+_“The first act of peace is to silence the war raging within.”_ - John Lewis
 
 We live in a time of extreme hate and divisiveness. A time where destruction, fear, and turmoil roil around us. But, in my heart, I believe that time, at some point, will come to an end. When that day comes, those of us who felt emboldened to harm others will have to endure a reckoning of our actions. And those of us who were harmed will have a choice: to inflict the same kind of violence and treatment we endured, or to do something different.
 
 A time for reconciliation is coming, however far down the horizon it is. I hope it’s based in the one thing that all of us will feel challenged to do... love.
 
-*Photos by:*
+_Graphics by [Hanna Snyder](http://www.hannasnyder.com/)_
