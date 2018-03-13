@@ -42,7 +42,7 @@ If we listen to the stories and testimonies that have come before us, they share
 
 There are other procedural tactics in mobilizing that emerged from my research which would be incredible to share at some point. But, what I believe, what I’ve seen, is that the giants of the Civil Rights Movement ask that we - those who seek to create change - start with ourselves. To recognize our own inner conflicts, define and hold onto our own principles and values, and reconcile our universal bond to one another first. To move with love and to seek understanding of those we disagree with.
 
-_“The first act of peace is to silence the war raging within.”_ - John Lewis
+### _“The first act of peace is to silence the war raging within.”_ - John Lewis
 
 We live in a time of extreme hate and divisiveness. A time where destruction, fear, and turmoil roil around us. But, in my heart, I believe that time, at some point, will come to an end. When that day comes, those of us who felt emboldened to harm others will have to endure a reckoning of our actions. And those of us who were harmed will have a choice: to inflict the same kind of violence and treatment we endured, or to do something different.
 
