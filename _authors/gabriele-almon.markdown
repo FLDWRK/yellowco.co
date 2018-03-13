@@ -1,6 +1,7 @@
 ---
 title: Gabriele Almon
 date: 2018-03-09 12:46:00 -08:00
+bio_image: "/uploads/Square%20Headshot%20for%20Yellow.png"
 website: http://www.riseofthebulls.com/
 ---
 
