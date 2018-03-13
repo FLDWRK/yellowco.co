@@ -19,7 +19,7 @@ It’s a place many of us have never been before, and it’s scary. The threats 
 
 *“One movement will never offer all the growth humanity needs to experience. To expect so is to build your hopes on a puff of smoke, on a whispered breath; it is to anticipate an illusion.”* - Congressman John Lewis, who marched alongside with Dr. King
 
-![What Leading Activists of the Civil Rights Movement Ask of Us Today to Create Lasting Change - Yellow Co.jpg](/uploads/civil-rights-post-5-0f613b.jpg)
+![What Leading Activists of the Civil Rights Movement Ask of Us Today to Create Lasting Change - Yellow Co.jpg](/uploads/civil-rights-post-5-eb064c.jpg)
 
 Since 2016, after the election of our new president, I’ve researched the tactics and strategies our elders used to create lasting change. I’ve watched interviews with Freedom Riders, read books about Dr. King, and asked community organizers (who are friends of mine) about where they learned to do what they do so well: bring people together around a common cause. Still, I was missing something core to the nonviolent movement of the past - I could sense it.
 
