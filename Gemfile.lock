@@ -64,7 +64,7 @@ PLATFORMS
 
 DEPENDENCIES
   hawkins
-  jekyll
+  jekyll (~> 3.4.5)
   jekyll-feed
   jekyll-paginate-v2
   jekyll-redirect-from
