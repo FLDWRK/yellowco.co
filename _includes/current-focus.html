@@ -1,17 +1,16 @@
+{% assign series = site.series | where:"title",page.series | sample %}
 <div class="container my-3">
   <div class="row">
     <div class="col-12 col-md-6 col-lg-5 px-0">
-      <img src="/assets/images/current-focus-respect.jpg" class="img-fluid w-100"/>
+      <a href="{{ series.url }}">
+        <img src="{{ series.image }}" class="img-fluid w-100" />
+      </a>
     </div>
     <div class="col-12 col-md-6 col-lg-7 pl-3 pl-lg-5">
       <h2 class="section-title" class="mt-0 pt-0">current focus</h2>
       <div class="row">
         <div class="col my-auto">
-          <p class="lead">
-            <strong>Recently, we’ve seen women rise up, use their voices and have respect for themselves in brand new ways. It’s a beautiful thing to witness and be a part of.</strong>
-          </p>
-          <p>The word RESPECT can be seen and felt in many different ways, and this month, we’re going to explore the different dimensions and areas that respect can play a role in our lives and the lives of others.</p>
-          <!-- <p><a href="/blog/series/respect">Read more about this month’s focus →</a></p> -->
+          {{ series.content | markdownify }}
         </div>
       </div>
     </div>
