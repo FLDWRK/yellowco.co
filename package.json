@@ -10,6 +10,7 @@
     "font-awesome": "^4.7.0",
     "fotorama": "^4.6.4",
     "jquery": "^3.2.1",
+    "masonry-layout": "^4.2.1",
     "react": "^16.1.1",
     "react-addons-update": "^15.6.2",
     "react-dom": "^16.1.1",
