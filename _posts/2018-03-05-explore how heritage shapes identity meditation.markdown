@@ -10,40 +10,38 @@ series: Heritage
 
 Each month at Yellow, we explore and immerse ourselves into one focus - creating conversations between each other and within ourselves centered around topics that hold a lot of influence in our lives. To start this month of March, we wanted to have a space for not just words on a page, but a moment to introduce you into our focus on Heritage. Join us in this meditation below to pause, reflect, and see what this unearths in you.
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/408779244%3Fsecret_token%3Ds-b3VzT&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/408779244%3Fsecret_token%3Ds-b3VzT&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><br><br>
 
-<br>
-
-You have my hands, you know?\
-Those delicate\
-too small to spread across piano keys\
-strong enough to sketch for hours\
+You have my hands, you know?  
+Those delicate  
+too small to spread across piano keys  
+strong enough to sketch for hours  
 crookedly curved index finger
 
-Your palms speak the poetry of craftswomen\
-the untold dreams of visionaries\
-and that lingering sweetness on your fingertips?\
+Your palms speak the poetry of craftswomen  
+the untold dreams of visionaries  
+and that lingering sweetness on your fingertips?  
 A story of spices ground for generations
 
-You carry our heirloom wherever you go\
-Love that bore more weight than it should lift\
-steadfast to soothe tears and cradle new life\
+You carry our heirloom wherever you go  
+Love that bore more weight than it should lift  
+steadfast to soothe tears and cradle new life  
 arms eternally held open even to shut doors
 
-We’re a two sided mirror\
-you and I\
-Entirely individual reflection\
+We’re a two sided mirror  
+you and I  
+Entirely individual reflection  
 identical shifts, fidgets, and sighs
 
-Those hands - they’re free, you know?\
-Saturated with potential to spin their own narrative\
-paint themselves into unfamiliar landscapes\
+Those hands - they’re free, you know?  
+Saturated with potential to spin their own narrative  
+paint themselves into unfamiliar landscapes  
 hold onto another I’d have never noticed
 
-But when you look down at the freckle on your thumb\
-would you think of mine?\
-Of my mother’s and hers too?\
-We are the promise of your forever worth\
+But when you look down at the freckle on your thumb  
+would you think of mine?  
+Of my mother’s and hers too?  
+We are the promise of your forever worth  
 Your very breath, the honor in our endless legacy
 
 ![IMG_8184-3.jpg](/uploads/IMG_8184-3.jpg)
