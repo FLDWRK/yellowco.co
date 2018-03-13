@@ -1,6 +1,6 @@
 ---
-title: What the Leaders of the Civil Rights Movement Ask of Us Today to Create Lasting
-  Change
+title: What Leading Activists of the Civil Rights Movement Ask of Us Today to Create
+  Lasting Change
 date: 2018-03-16 04:00:00 -07:00
 categories:
 - Culture
