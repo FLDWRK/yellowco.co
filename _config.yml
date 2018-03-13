@@ -24,35 +24,35 @@ defaults:
   values:
     layout: post
     permalink: "/blog/:year/:month/:day/:title/"
-    author:
-    image:
-    series:
-    impact-feature:
+    author: 
+    image: 
+    series: 
+    impact-feature: 
     nav:
       id: post
       site:
         highlight: blog
     excerpt_separator: "<!-- more -->"
-    description:
+    description: 
 - scope:
     path: ''
     type: series
   values:
     layout: series
-    series:
+    series: 
     permalink: "/blog/series/:title/"
-    image:
+    image: 
 - scope:
     path: ''
     type: authors
   values:
     layout: author
     permalink: "/author/:title/"
-    company_name:
-    job_title:
-    bio_image:
-    website:
-    is_guest:
+    company_name: 
+    job_title: 
+    bio_image: 
+    website: 
+    is_guest: 
 url: https://yellowco.co
 description: Yellow Co. exist to empower creative, entrepreneurial women become agents
   of good. We do this through a membership platform, an annual conference, and digital
@@ -72,21 +72,21 @@ sass:
 pagination:
   enabled: true
   debug: false
-  collection: 'posts'
+  collection: posts
   per_page: 9
-  permalink: '/blog/archive/:num/'
-  title: ':title - page :num'
+  permalink: "/blog/archive/:num/"
+  title: ":title - page :num"
   limit: 0
-  sort_field: 'date'
+  sort_field: date
   sort_reverse: true
-  category: 'posts'
+  category: posts
   tag: ''
   locale: ''
   trail:
     before: 2
     after: 2
   extension: html
-  indexpage: 'index'
+  indexpage: index
 gems:
 - jekyll-feed
 - jekyll-redirect-from
