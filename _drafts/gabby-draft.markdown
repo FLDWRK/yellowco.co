@@ -18,6 +18,8 @@ It’s a place many of us have never been before, and it’s scary. The threats 
 
 *“One movement will never offer all the growth humanity needs to experience. To expect so is to build your hopes on a puff of smoke, on a whispered breath; it is to anticipate an illusion.”* - Congressman John Lewis, who marched alongside with Dr. King
 
+![civil-rights-post-2.jpg](/uploads/civil-rights-post-2.jpg)
+
 Since 2016, after the election of our new president, I’ve researched the tactics and strategies our elders used to create lasting change. I’ve watched interviews with Freedom Riders, read books about Dr. King, and asked community organizers (who are friends of mine) about where they learned to do what they do so well: bring people together around a common cause. Still, I was missing something core to the nonviolent movement of the past - I could sense it.
 
 It took me a year (that’s a story in itself), but I just finished reading *Across That Bridge*, an organizing how-to book and reflection written by Congressman John Lewis, who marched alongside Dr. Martin Luther King Jr. In the foreword, Congressman Lewis is described as a “warrior of love” and “the embodiment of forgiveness.” In the book itself, John says this of the people who attacked him and fellow marchers:
@@ -27,6 +29,8 @@ It took me a year (that’s a story in itself), but I just finished reading *Acr
 This was a truth that I had tried to ignore for longer than I can remember. It felt illogical, unreasonable, and damn near impossible, so I rejected it. But, the funny thing about truth, is that exists, whether we choose it accept it or not, and the truth is this:
 
 ### Love is the foundation for true, effective, long-lasting change. And it is the only foundation that the change we hope to see can be built on.
+
+![civil-rights-post-3.jpg](/uploads/civil-rights-post-3.jpg)
 
 Love, as our fore-marchers show us, is not the acceptance of bad behavior. It is not the acceptance of abuse and harassment. It is to choose to recognize that we are all connected to one another (even those, especially those, we disagree with); and that what hurts one impacts us all.
 
