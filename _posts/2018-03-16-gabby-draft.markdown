@@ -1,5 +1,6 @@
 ---
-title: what the civil rights leaders ask of us today to create lasting change
+title: What the Leaders of the Civil Rights Movement Ask of Us Today to Create Lasting
+  Change
 date: 2018-03-16 04:00:00 -07:00
 categories:
 - Culture
@@ -14,11 +15,11 @@ series: Heritage
 
 ### As a nation, we find ourselves in time where many of us are wrestling with our values and feel compelled to find our place on the front lines of issues we care about.
 
-It’s a place many of us have never been before, and it’s scary. The threats and fears are different than before - cyber attacks, doxxing, and general online intimidation exist. The possibility of large protests or gatherings being prime ground for extremist or terrorist attacks is present as well. Still, we find ourselves marching, despite these fears, to make our presence known for pressing issues that need awareness: immigration, sexual violence, women’s rights, black dignity, policy brutality, and more.
+It’s a place many of us have never been before, and it’s scary. The threats and fears are different than before - cyber attacks, doxxing, and general online intimidation exist. The possibility of large protests or gatherings being prime ground for extremist or terrorist attacks is present as well. Still, we find ourselves marching, despite these fears, to make our presence known for pressing issues that need awareness: immigration, sexual violence, women’s rights, Black dignity, policy brutality, and more.
 
 *“One movement will never offer all the growth humanity needs to experience. To expect so is to build your hopes on a puff of smoke, on a whispered breath; it is to anticipate an illusion.”* - Congressman John Lewis, who marched alongside with Dr. King
 
-![civil-rights-post-5.jpg](/uploads/civil-rights-post-5.jpg)
+![civil-rights-post-5-0f613b.jpg](/uploads/civil-rights-post-5-0f613b.jpg)
 
 Since 2016, after the election of our new president, I’ve researched the tactics and strategies our elders used to create lasting change. I’ve watched interviews with Freedom Riders, read books about Dr. King, and asked community organizers (who are friends of mine) about where they learned to do what they do so well: bring people together around a common cause. Still, I was missing something core to the nonviolent movement of the past - I could sense it.
 
