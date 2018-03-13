@@ -10,7 +10,8 @@ layout: page
   </div>
 </div>
 
-<div class="card-columns">
+<div class="archive-cards masonry-cards">
+  <div class="card-gutter"></div>
   {% for post in site.categories[page.category] %}
     <div class="card">
       <a href="{{ post.url }}" class="_no-underline">

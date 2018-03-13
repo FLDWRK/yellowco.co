@@ -65,6 +65,7 @@ layout: site
   </section>
 </div>
 {% include newsletter-form.html %}
+{% include current-focus.html %}
 <div class="container">
   <section>
     <div class="row">
@@ -111,7 +112,7 @@ layout: site
         Newer
         <i class="fa fa-lg fa-caret-right" aria-hidden="true"></i>
       </a>
-      {% else %} {% include current-focus.html %} {% endif %}
+      {% endif %}
     </div>
   </div>
 </div>

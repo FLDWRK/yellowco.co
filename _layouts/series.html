@@ -13,7 +13,8 @@ layout: page
 <div class="row">
   <div class="col-12">
     {% assign posts = site.posts | where: 'series', page.title %}
-    <div class="card-columns">
+    <div class="archive-cards masonry-cards">
+      <div class="card-gutter"></div>
       {% for post in posts %}
         <div class="card">
           <a href="{{ post.url }}" class="_no-underline">
