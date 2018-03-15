@@ -39,7 +39,7 @@ Jen Bedrossian, Founder of [UNCVRD Jewlery](http://www.uncvrdjewelry.com/)
 
 ###### [Grab your ticket to the OC tour stop here!](https://www.universe.com/events/yellow-co-tour-orange-county-april-7th-tickets-fullerton-P9SQBX)
 
-##### Los Angeles
+#### Los Angeles
 
 *How to Take Ownership of Your Relationships*\
 When: April 14th, 9:00 AM–2:00 PM\
