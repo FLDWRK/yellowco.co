@@ -13,9 +13,11 @@ If you haven't heard, we're about to take off on our first ever [Yellow Co. Tour
 
 Tickets are only $27 each, and not only do our **[Yellow Collective](https://yellowco.co/membership/) members attend for free**, they get to **bring a friend for free**!
 
-Or, you can sign up for a $33 per month [Yellow Collective membership here](https://yellowco.co/membership/) to not only attend any tour stop for FREE with a friend, but to join a community of supportive and creative women who are influencing the world as agents of good.
+#### [Grab your ticket here!](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)
 
-### We're also excited to announce that we will be live streaming ALL pop-up conference events for free to everyone!
+Or, you can sign up for a $33/month [Yellow Collective membership here](https://yellowco.co/membership/) to not only attend any tour stop for FREE with a friend, but to join a community of supportive and creative women who are influencing the world as agents of good.
+
+#### We're also excited to announce that we will be live streaming ALL pop-up conference events for free to everyone!
 
 So no matter what city you live in, you can join us digitally for a day of incredible sessions! To stay updated on details of how to live stream the conferences, head here!
 
@@ -36,12 +38,12 @@ Joanna Waterfall, Founder of [Yellow Co.](https://yellowco.co/)
 Panelists:  
 Becky Morquecho, Co-Founder [Idealust Life](http://idealustlife.com/)  
 Ali Garvin, Founder of [NEAT Coffee](http://www.neat.coffee/)  
-Wesley Bird, [Art Director, Illustrator, & Designer] (http://wesleybird.com/)  
+Wesley Bird, [Art Director, Illustrator, & Designer](http://wesleybird.com/)   
 Jen Bedrossian, Founder of [UNCVRD Jewlery](http://www.uncvrdjewelry.com/)
 
 ###### [Grab your ticket to the OC tour stop here!](https://www.universe.com/events/yellow-co-tour-orange-county-april-7th-tickets-fullerton-P9SQBX)
 
-#### Los Angeles
+### Los Angeles
 
 ***How to Take Ownership of Your Relationships***  
 When: April 14th, 9:00 AM–2:00 PM  
@@ -60,7 +62,7 @@ Jessica Yamada, Director of Business Development of [Fifty & Fifty](https://fift
 
 ###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
 
-##### San Francisco
+### San Francisco
 
 ***How to Take Ownership of Your Wellness***  
 When: April 21th, 9:00 AM–2:00 PM  
@@ -73,12 +75,12 @@ Anjelika Temple, Co-Founder of [Brit \+ Co](https://www.brit.co/)
 
 Panelists:  
 Veronica, Executive Director of [Defy Ventures](https://defyventures.org/)  
-Krupa Patel is the Founder and CEO of [Anza](http://anza.co.com/)
-Sabrina Rubli is the Founder and Director of [Femme International](https://www.femmeinternational.org/)
+Krupa Patel, Founder and CEO of [Anza](http://anza.co.com/)  
+Sabrina Rubli, Founder and Director of [Femme International](https://www.femmeinternational.org/)
 
 ###### [Grab your ticket to the SF tour stop here!](https://generalassemb.ly/education/yellow-co-tour/san-francisco/46461)
 
-##### Portland
+### Portland
 
 ***How to Take Ownership of Your Independence***  
 When: April 28th, 9:00 AM–2:00 PM  
@@ -89,18 +91,18 @@ Mary Ceccinni, Founder of [Living Big](https://livingbigtravel.com/)
 More to be announced soon!
 
 Panelists:
-Carolyn Cesario, co-founder of [Ground Up PDX](https://www.grounduppdx.com/)  
+Carolyn Cesario, Co-founder of [Ground Up PDX](https://www.grounduppdx.com/)  
 More to be announced soon!
 
 ###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
 
-##### Seattle
+### Seattle
 
 ***How to Take Ownership of Your Self-Care***  
 When: May 5th, 9:00 AM–2:00 PM  
 Where: [The Riveter](https://theriveter.co/)
 
-Speakers:
+Speakers:  
 Moorea Seal, [Store Owner, Author, Blogger](http://www.moorea-seal.com/)  
 More to be announced soon!
 
@@ -109,13 +111,13 @@ To be announced soon!
 
 ###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
 
-##### Denver
+### Denver
 
 When: May 12th, 9:00 AM–2:00 PM  
 Where: [The Hive](https://www.thehiveon16th.com/)
 
 Speakers: To be announced soon!
-\
+
 Panelists: To be announced soon!
 
 ###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
