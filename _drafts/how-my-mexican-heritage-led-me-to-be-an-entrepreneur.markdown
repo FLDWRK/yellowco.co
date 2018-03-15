@@ -5,6 +5,7 @@ date: 2018-03-21 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Natalia Crawford
+image: "/uploads/What%20Ignited%20My%20Dream%20to%20Be%20an%20Entrepreneur%20and%20Help%20More%20Women%20of%20Color%20Do%20the%20Same%20-%20Yellow%20Co.jpg"
 series: Heritage
 ---
 
@@ -18,7 +19,9 @@ To know more about who I am, how I got here, and proudly represent my heritage.
 
 After asking around only to realize that nobody knew the story of how my grandmother immigrated to the United States, I decided to get it from the source herself. I interviewed my grandmother over the phone, and documented her story as told to me in her own words.
 
-Her journey of fleeing abuse, entering a foreign country (legally in her case) to be closer to her son and raising her children as a single mother provided depth to my own story. The sacrifices she made, the opportunities that she gave, and the determination to let family be the the most important thing led me to being born in the land of opportunity. An opportunity I would have never had if she had not chosen to give it to my father and to me.
+Her journey of fleeing abuse, entering a foreign country (legally in her case) to be closer to her son and raising her children as a single mother provided depth to my own story. The sacrifices she made, the opportunities that she gave, and the determination to let family be the the most important thing led me to being born in the land of opportunity. An opportunity I would have never had if she had not chosen to give it to my father and I.
+
+![What Ignited My Dream to Be an Entrepreneur and Help More Women of Color Do the Same - Yellow Co 3.jpg](/uploads/What%20Ignited%20My%20Dream%20to%20Be%20an%20Entrepreneur%20and%20Help%20More%20Women%20of%20Color%20Do%20the%20Same%20-%20Yellow%20Co%203.jpg)
 
 Not only did she make that decision, but my mother, who came to the U.S. from Mexico too (legally as well), also created the origin of transition from a family being born and raised in Mexico, to a family being born and raised in the United States; starting with my dad, my brother and I. When I recount this story, when I reflect on my heritage and the brave choices made by my abuelita and my mom, I am filled with passion and compassion.
 
@@ -31,6 +34,8 @@ I was given the opportunity to live in a country where chasing my dreams is poss
 ### I can lead the way, and in turn provide the support to help others in my culture lead too.
 
 When I look around for women in leadership, I don’t see enough. When I look for Latina women in leadership, there definitely are not close to enough. Today, I choose to be the change I wish to see in the world. And I have chosen to live it out as a business owner, entrepreneur, CEO, woman in charge, and a woman who CAN.
+
+![What Ignited My Dream to Be an Entrepreneur and Help More Women of Color Do the Same - Yellow Co 2.jpg](/uploads/What%20Ignited%20My%20Dream%20to%20Be%20an%20Entrepreneur%20and%20Help%20More%20Women%20of%20Color%20Do%20the%20Same%20-%20Yellow%20Co%202.jpg)
 
 Because of my grandmother's and my mother's choices, I was elevated in corporate positions in marketing and have worked for global companies. I have started and sold my first business, and created a second with my husband that allowed us to make our dream come true of moving to Seattle, with the flexibility to work from home and run a 6-figure agency while employing others. Additionally, I run a business where I teach women of color how to start and grow successful online businesses, and overcome the social and economical barriers minority women face that hold them back from being in positions of power and influence. I have been given the opportunity to excel, pursue my passion, perfect my craft, and rise up to give back to and help my own community.
 
