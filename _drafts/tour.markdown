@@ -1,5 +1,6 @@
 ---
-title: tour
+title: '6 Pop-Up Yellow Conferences over 6 Weeks: Join Us in Your City on Our West
+  Coast Tour!'
 date: 2018-03-19 04:00:00 -07:00
 categories:
 - Growth
@@ -13,6 +14,10 @@ If you haven't heard, we're about to take off on our first ever [Yellow Co. Tour
 Tickets are only $27 each, and not only do our **[Yellow Collective](https://yellowco.co/membership/) members attend for free**, they get to **bring a friend for free**!
 
 Or, you can sign up for a $33 per month [Yellow Collective membership here](https://yellowco.co/membership/) to not only attend any tour stop for FREE with a friend, but to join a community of supportive and creative women who are influencing the world as agents of good.
+
+We're also excited to announce that we will be live streaming ALL pop-up conference events for free to everyone!
+
+So no matter what city you live in, you can join us digitally for a day of incredible sessions! To stay updated on details of how to live stream the conferences, head here! 
 
 ### Orange County
 
@@ -49,7 +54,7 @@ Panelists:
 Gloria Hwang, Founder of [Thousand](https://www.explorethousand.com/)
 Lulu Brud, Founder of [Of the Wolves](http://ofthewolves.com/)
 Nikia Phoenix, Founder of [Black Girl Beautiful](https://www.blackgirlbeautiful.com/), [Model, Influencer, Activist](http://www.nikiaphoenix.com/)
-Jessica
+Jessica Yamada, Director of Business Development of [Fifty & Fifty](https://fiftyandfifty.org/)
 
 ###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
 
