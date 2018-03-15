@@ -19,7 +19,7 @@ Or, you can sign up for a $33/month [Yellow Collective membership here](https://
 
 #### We're also excited to announce that we will be live streaming ALL pop-up conference events for free to everyone!
 
-So no matter what city you live in, you can join us digitally for a day of incredible sessions! To stay updated on details of how to live stream the conferences, head here!
+So no matter what city you live in, you can join us digitally for a day of incredible sessions! To stay updated on details of how to live stream the conferences, [sign up for our newsletters here](https://yellowco.co/)!
 
 ![sdedited(187of202) (1).jpg](/uploads/sdedited(187of202)%20(1).jpg)
 
@@ -36,7 +36,7 @@ Amy & Jennifer Hood, Founders of [Hoodzpah Designs](https://hoodzpahdesign.com/)
 Joanna Waterfall, Founder of [Yellow Co.](https://yellowco.co/)
 
 Panelists:  
-Becky Morquecho, Co-Founder [Idealust Life](http://idealustlife.com/)  
+Becky Morquecho, Co-Founder of [Idealust Life](http://idealustlife.com/)  
 Ali Garvin, Founder of [NEAT Coffee](http://www.neat.coffee/)  
 Wesley Bird, [Art Director, Illustrator, & Designer](http://wesleybird.com/)   
 Jen Bedrossian, Founder of [UNCVRD Jewlery](http://www.uncvrdjewelry.com/)
@@ -51,7 +51,7 @@ Where: [Impact Hub](https://www.impacthubla.com/)
 
 Speakers:  
 Ann Wang, Founder of [Enrou](https://enrou.co/)  
-Alex Michel May, [Social Influencer, Creative Director, Model](http://alexmichaelmay.com/)  
+Alex Michael May, [Social Influencer, Creative Director, Model](http://alexmichaelmay.com/)  
 Chauncéa Carothers, [Brand Strategist, Social Influencer, Global Connector](https://www.instagram.com/chauncea/)
 
 Panelists:  
@@ -76,7 +76,7 @@ Laura Alexander Wittig Founder of [The Brightly Co](https://thebrightly.co/)
 Anjelika Temple, Co-Founder of [Brit \+ Co](https://www.brit.co/)
 
 Panelists:  
-Veronica, Executive Director of [Defy Ventures](https://defyventures.org/)  
+Veronica Ensign, Executive Director of [Defy Ventures](https://defyventures.org/)  
 Krupa Patel, Founder and CEO of [Anza](http://anza.co.com/)  
 Sabrina Rubli, Founder and Director of [Femme International](https://www.femmeinternational.org/)
 
@@ -89,10 +89,10 @@ When: April 28th, 9:00 AM–2:00 PM
 Where: [The Weller Society](https://www.thewellersociety.com/)
 
 Speakers:  
-Mary Ceccinni, Founder of [Living Big](https://livingbigtravel.com/)
+Mary Ceccinni, Founder of [Living Big](https://livingbigtravel.com/)  
 More to be announced soon!
 
-Panelists:
+Panelists:  
 Carolyn Cesario, Co-founder of [Ground Up PDX](https://www.grounduppdx.com/)  
 More to be announced soon!
 
