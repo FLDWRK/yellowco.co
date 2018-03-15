@@ -62,6 +62,8 @@ Jessica Yamada, Director of Business Development of [Fifty & Fifty](https://fift
 
 ###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
 
+![sdedited(127of202).jpg](/uploads/sdedited(127of202).jpg)
+
 ### San Francisco
 
 ***How to Take Ownership of Your Wellness***  
@@ -95,6 +97,8 @@ Carolyn Cesario, Co-founder of [Ground Up PDX](https://www.grounduppdx.com/)
 More to be announced soon!
 
 ###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
+
+![sdedited(162of202) (1).jpg](/uploads/sdedited(162of202)%20(1).jpg)
 
 ### Seattle
 
