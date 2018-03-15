@@ -23,7 +23,7 @@ Her journey of fleeing abuse, entering a foreign country (legally in her case) t
 
 ![What Ignited My Dream to Be an Entrepreneur and Help More Women of Color Do the Same - Yellow Co 3.jpg](/uploads/What%20Ignited%20My%20Dream%20to%20Be%20an%20Entrepreneur%20and%20Help%20More%20Women%20of%20Color%20Do%20the%20Same%20-%20Yellow%20Co%203.jpg)
 
-Not only did she make that decision, but my mother, who came to the U.S. from Mexico too (legally as well), also created the origin of transition from a family being born and raised in Mexico, to a family being born and raised in the United States; starting with my dad, my brother and I. When I recount this story, when I reflect on my heritage and the brave choices made by my abuelita and my mom, I am filled with passion and compassion.
+Not only did she make that decision, but my mother, who came to the U.S. from Mexico too (legally as well), also created the origin of transition from a family being born and raised in Mexico, to a family being born and raised in the United States; starting with my dad, my brother, and I. When I recount this story, when I reflect on my heritage and the brave choices made by my abuelita and my mom, I am filled with passion and compassion.
 
 ### I am filled with a drive and determination to take life and give it everything I have. To show what I, a Mexican American woman, am made of.
 
