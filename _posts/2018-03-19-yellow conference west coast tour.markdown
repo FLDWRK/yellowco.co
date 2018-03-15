@@ -71,7 +71,7 @@ When: April 21th, 9:00 AM–2:00 PM
 Where: [General Assembly](https://generalassemb.ly/locations/san-francisco)
 
 Speakers:  
-Sonja Overhiser, Writer, Photographer and Co-Creator of [A Couple Cooks](https://www.acouplecooks.com/about/)  
+Sonja Overhiser, Writer, Photographer and Co-Creator of [A Couple Cooks](https://www.acouplecooks.com/)  
 Laura Alexander Wittig Founder of [The Brightly Co](https://thebrightly.co/)  
 Anjelika Temple, Co-Founder of [Brit \+ Co](https://www.brit.co/)
 
