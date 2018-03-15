@@ -1,6 +1,6 @@
 ---
-title: What Ignited My Dream to Be an Entrepreneur and Help More Women of Color Do
-  the Same
+title: What Ignited My Dream to Become an Entrepreneur and Help More Women of Color
+  Do the Same
 date: 2018-03-21 04:00:00 -07:00
 categories:
 - Entrepreneurs
