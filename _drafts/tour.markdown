@@ -8,13 +8,13 @@ image: "/uploads/Yellow%20Co.%20West%20Coast%20Tour.jpg"
 series: Heritage
 ---
 
-If you haven't heard, we're about to take off on our first ever [Yellow Co. Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)! We’ve partnered up with the amazing [Airstream](https://www.airstream.com/) and are heading on the road to empower women face to face, hosting 7 pop-up conference events up the West Coast! We had an incredible first stop in San Diego, and are just a few short weeks from continuing on to Orange County, Los Angeles, San Francisco, Portland, Seattle, and Denver. If you're in the area of any of these cities, we'd love to meet you! Check out the details of the amazing speakers we'll be hearing from at each event and the inspiring spaces we'll be gathering in!
+If you haven't heard, we're about to take off on our first ever [Yellow Co. Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)! We’ve partnered up with the amazing [Airstream](https://www.airstream.com/) and are heading on the road to empower women face to face, hosting 7 pop-up conference events up the West Coast! We had an incredible first stop in San Diego, and are just a few short weeks from continuing on to Orange County, Los Angeles, San Francisco, Portland, Seattle, and Denver. If you're in the area of any of these cities, we'd love to meet you! Check out the details below of the amazing speakers we'll be hearing from at each event and the inspiring spaces we'll be gathering in!
 
 Tickets are only $27 each, and not only do our **[Yellow Collective](https://yellowco.co/membership/) members attend for free**, they get to **bring a friend for free**!
 
 Or, you can sign up for a $33 per month [Yellow Collective membership here](https://yellowco.co/membership/) to not only attend any tour stop for FREE with a friend, but to join a community of supportive and creative women who are influencing the world as agents of good.
 
-##### Orange County
+### Orange County
 
 *How to Take Ownership of Your Story*\
 When: April 7th, 9:00 AM–2:00 PM\
@@ -32,7 +32,7 @@ Ali Garvin, Founder of [NEAT Coffee](http://www.neat.coffee/)
 Wesley Bird, [Art Director, Illustrator, & Designer](http://wesleybird.com/)
 Jen Bedrossian, Founder of [UNCVRD Jewlery](http://www.uncvrdjewelry.com/)
 
-[Grab your ticket to the OC tour stop here!](https://www.universe.com/events/yellow-co-tour-orange-county-april-7th-tickets-fullerton-P9SQBX)
+###### [Grab your ticket to the OC tour stop here!](https://www.universe.com/events/yellow-co-tour-orange-county-april-7th-tickets-fullerton-P9SQBX)
 
 ##### Los Angeles
 
@@ -51,7 +51,7 @@ Lulu Brud, Founder of [Of the Wolves](http://ofthewolves.com/)
 Nikia Phoenix, Founder of [Black Girl Beautiful](https://www.blackgirlbeautiful.com/), [Model, Influencer, Activist](http://www.nikiaphoenix.com/)
 Jessica
 
-[Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
+###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
 
 ##### San Francisco
 
@@ -69,7 +69,7 @@ Veronica, Executive Director of [Defy Ventures](https://defyventures.org/)
 Krupa Patel is the Founder and CEO of [Anza](http://anza.co.com/)
 Sabrina Rubli is the Founder and Director of [Femme International](https://www.femmeinternational.org/)
 
-[Grab your ticket to the SF tour stop here!](https://generalassemb.ly/education/yellow-co-tour/san-francisco/46461)
+###### [Grab your ticket to the SF tour stop here!](https://generalassemb.ly/education/yellow-co-tour/san-francisco/46461)
 
 ##### Portland
 
@@ -83,7 +83,7 @@ Mary Ceccinni, Founder of [Living Big](https://livingbigtravel.com/)
 Panelists:
 Carolyn Cesario, co-founder of [Ground Up PDX](https://www.grounduppdx.com/)
 
-[Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
+###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
 
 ##### Seattle
 
@@ -98,7 +98,7 @@ More to be announced soon!
 Panelists:\
 To be announced soon!
 
-[Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
+###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
 
 ##### Denver
 
@@ -109,6 +109,6 @@ Speakers: To be announced soon!
 \
 Panelists: To be announced soon!
 
-[Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
+###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
 
 We're SO excited to join you ladies in your own cities and dive into conversations around Ownership! See you there!
