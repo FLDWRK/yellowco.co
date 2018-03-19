@@ -17,7 +17,7 @@ Tickets are only $27 each, and not only do our **[Yellow Collective](https://yel
 
 Or, you can sign up for a $33/month [Yellow Collective membership here](https://yellowco.co/membership/) to not only attend any tour stop for FREE with a friend, but to join a community of supportive and creative women who are influencing the world as agents of good.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mv4WQcMLSo4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="2100" height="1181" src="https://www.youtube.com/embed/oySIG4uAljI?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### We're also excited to announce that we will be live streaming ALL pop-up conference events for free to everyone!
 
