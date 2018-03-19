@@ -19,7 +19,7 @@ Or, you can sign up for a $33/month [Yellow Collective membership here](https://
 
 #### We're also excited to announce that we will be live streaming ALL pop-up conference events for free to everyone!
 
-So no matter what city you live in, you can join us digitally for a day of incredible sessions! To stay updated on details of how to live stream the conferences, [sign up for our newsletters here](https://yellowco.co/)!
+So no matter what city you live in, you can join us digitally for a day of incredible sessions! To stay updated on details of how to live stream the conferences, [sign up for our newsletters here](https://yellowco.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=7cb1ced4ff)!
 
 ![sdedited(187of202) (1).jpg](/uploads/sdedited(187of202)%20(1).jpg)
 
@@ -60,7 +60,7 @@ Lulu Brud, Founder of [Of the Wolves](http://ofthewolves.com/)
 Nikia Phoenix, Founder of [Black Girl Beautiful](https://www.blackgirlbeautiful.com/), [Model, Influencer, Activist](http://www.nikiaphoenix.com/)  
 Jessica Yamada, Director of Business Development of [Fifty & Fifty](https://fiftyandfifty.org/)
 
-###### [Tickets will be available soon, stay up to date on details here!](https://yellowconference.us3.list-manage.com/subscribe?u=3f8e45f74e0653e404965e2ef&id=41e72cb91f)
+###### [Grab your ticket to the LA tour stop here!](https://www.universe.com/events/yellow-co-tour-los-angeles-april-14th-tickets-los-angeles-LRF3T8)
 
 ![sdedited(127of202).jpg](/uploads/sdedited(127of202).jpg)
 
