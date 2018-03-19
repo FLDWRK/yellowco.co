@@ -9,13 +9,15 @@ image: "/uploads/Yellow%20Co.%20West%20Coast%20Tour.jpg"
 series: Heritage
 ---
 
-If you haven't heard, we're about to take off on our first ever [Yellow Co. Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)! We’ve partnered up with the amazing [Airstream](https://www.airstream.com/) and are heading on the road to empower women face to face, hosting 7 pop-up conference events up the West Coast! We had an incredible first stop in San Diego, and are just a few short weeks from continuing on to Orange County, Los Angeles, San Francisco, Portland, Seattle, and Denver. If you're in the area of any of these cities, we'd love to meet you! Check out the details below of the amazing speakers we'll be hearing from at each event and the inspiring spaces we'll be gathering in!
+If you haven't heard, we're about to take off on our first ever [Yellow Co. Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)! We’ve partnered up with the amazing [Airstream](https://www.airstream.com/) and are heading on the road to empower women face to face, hosting 7 pop-up conference events up the West Coast! We had an incredible first stop in San Diego, and are just a few short weeks from continuing on to Orange County, Los Angeles, San Francisco, Portland, Seattle, and Denver. If you're in the area of any of these cities, we'd love to meet you! Check out the details below of the amazing speakers we'll be hearing from at each event, the inspiring spaces we'll be gathering in, and a video recap of our first stop in San Diego!
 
 Tickets are only $27 each, and not only do our **[Yellow Collective](https://yellowco.co/membership/) members attend for free**, they get to **bring a friend for free**!
 
 #### [Grab your ticket here!](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)
 
 Or, you can sign up for a $33/month [Yellow Collective membership here](https://yellowco.co/membership/) to not only attend any tour stop for FREE with a friend, but to join a community of supportive and creative women who are influencing the world as agents of good.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mv4WQcMLSo4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### We're also excited to announce that we will be live streaming ALL pop-up conference events for free to everyone!
 
