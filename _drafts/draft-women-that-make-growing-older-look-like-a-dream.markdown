@@ -1,24 +1,29 @@
 ---
-title: draft - women that make growing older look like a dream
+title: 7 women over 60 that prove style
 date: 2018-03-15 14:37:00 -07:00
 ---
 
-Advanced Style
 
-Iris Apfel Documentary\
+[Advanced Style](https://www.instagram.com/advancedstyle/) \+ [Ilona Royce Smithkin](https://www.instagram.com/ilonaroycesmithkin/)** **|** **60\+, 97\
+https://itunes.apple.com/us/movie/advanced-style/id910701215\
+https://www.instagram.com/advancedstyle/\
+https://www.hulu.com/watch/1205035
+
+[Rei Kawakubo](https://www.instagram.com/commedesgarcons/)** **|** **75
+
+[Lyn Slater](https://www.instagram.com/iconaccidental/) (Accidental Icon) |** **64\
+https://www.instagram.com/iconaccidental/\
+https://www.today.com/style/63-accidental-icon-lyn-slater-breaks-fashion-barriers-t107396\
+https://www.accidentalicon.com/
+
+[Iris Apfel](https://www.instagram.com/iris.apfel/) | 96\
 https://www.netflix.com/title/80027120
 
-Lily Tomlin & Jane Fonda\
-https://www.ted.com/talks/jane_fonda_and_lily_tomlin_a_hilarious_celebration_of_lifelong_female_friendship
+[Iman](https://www.instagram.com/the_real_iman/) | 62
 
-Gudy Herder\
-http://eclectictrends.com/about-gudy-herder
-
-Linda Rodin\
-https://goop.com/beauty/skin/how-to-grow-up-to-be-like-linda-rodin/
-
-Isabel Toledo\
+Isabel Toledo | 56\
 https://kinfolk.com/isabel-reuben-toledo/
 
-ILONA ROYCE SMITHKIN\
-http://www.advanced.style/2017/03/happy-97th-birthday-ilona-royce-smithkin.html
+[Linda Rodin](https://www.instagram.com/lindaandwinks/) | 70\
+https://goop.com/beauty/skin/how-to-grow-up-to-be-like-linda-rodin/\
+https://www.instagram.com/lindaandwinks/?hl=en
