@@ -44,3 +44,5 @@ https://www.instagram.com/lindaandwinks/?hl=en
 ###### [Iris Apfel](https://www.instagram.com/iris.apfel/) | 96
 
 https://www.netflix.com/title/80027120
+
+*Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
