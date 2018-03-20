@@ -1,7 +1,11 @@
 ---
-title: draft 7 women over 60 that prove style
-date: 2018-03-15 14:37:00 -07:00
+title: 6 women over 60 that prove style
+date: 2018-03-23 04:00:00 -07:00
+categories:
+- Culture
+author: Hanna Snyder
 image: "/uploads/age-and-style-1.jpg"
+series: Heritage
 ---
 
 ![age-and-style-2.jpg](/uploads/age-and-style-2.jpg)
@@ -17,7 +21,7 @@ https://www.accidentalicon.com/
 
 ![age-and-style-4.jpg](/uploads/age-and-style-4.jpg)
 
-[Advanced Style](https://www.instagram.com/advancedstyle/) \+ [Ilona Royce Smithkin](https://www.instagram.com/ilonaroycesmithkin/)\*\* **|** \*\*60\+, 97\
+[The Women of Advanced Style](https://www.instagram.com/advancedstyle/) **|** 60\+\
 https://itunes.apple.com/us/movie/advanced-style/id910701215\
 https://www.instagram.com/advancedstyle/\
 https://www.hulu.com/watch/1205035
