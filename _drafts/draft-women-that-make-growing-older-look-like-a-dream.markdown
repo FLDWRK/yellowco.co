@@ -4,9 +4,6 @@ date: 2018-03-15 14:37:00 -07:00
 image: "/uploads/Screen%20Shot%202018-03-19%20at%205.05.38%20PM.png"
 ---
 
-![Screen Shot 2018-03-19 at 5.05.38 PM.png](/uploads/Screen%20Shot%202018-03-19%20at%205.05.38%20PM.png)
-
-![Floating__Falling.jpg](/uploads/Floating__Falling.jpg)
 
 [Advanced Style](https://www.instagram.com/advancedstyle/) \+ [Ilona Royce Smithkin](https://www.instagram.com/ilonaroycesmithkin/)** **|** **60\+, 97\
 https://itunes.apple.com/us/movie/advanced-style/id910701215\
