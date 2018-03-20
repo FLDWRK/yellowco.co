@@ -1,5 +1,5 @@
 ---
-title: 7 women over 60 that prove style
+title: draft 7 women over 60 that prove style
 date: 2018-03-15 14:37:00 -07:00
 image: "/uploads/Screen%20Shot%202018-03-19%20at%205.05.38%20PM.png"
 ---
