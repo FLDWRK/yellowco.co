@@ -41,6 +41,6 @@ https://www.instagram.com/lindaandwinks/?hl=en
 
 ![age-and-style-7.jpg](/uploads/age-and-style-7.jpg)
 
-###### [Iris Apfel](https://www.instagram.com/iris.apfel/) | 96\\
+###### [Iris Apfel](https://www.instagram.com/iris.apfel/) | 96
 
 https://www.netflix.com/title/80027120
