@@ -1,5 +1,5 @@
 ---
-title: 6 women over 60 that prove style gets better with age
+title: 6 Women over 60 That Prove Style Gets so Much Better with Age
 date: 2018-03-23 04:00:00 -07:00
 categories:
 - Culture
@@ -34,15 +34,15 @@ Iman is a Somali-American fashion model (not to mention - one of the most iconic
 
 ![age-and-style-6.jpg](/uploads/age-and-style-6.jpg)
 
-###### [Linda Rodin](https://www.instagram.com/lindaandwinks/) | 70\\
+###### [Linda Rodin](https://www.instagram.com/lindaandwinks/) | 70
 
-https://goop.com/beauty/skin/how-to-grow-up-to-be-like-linda-rodin/\
-https://www.instagram.com/lindaandwinks/?hl=en
+After a successful career as a stylist, Linda Rodin started her namesake beauty company at the age of 59, focusing on a few simple, natural products. She went against many discouraging voices in this transition; some telling her that such a change in work was simply crazy, others in the beauty industry scoffing at her face oils (in the days where anything not oil-free). In turn, she set the trend for face oils that leave skin nourished, dewy, and clean. When asked how Rodin came about in an interview with Vogue, she said simply, "I never found something that I really loved. So I decided to make it myself. I just put all the oils together that I like and I mixed it in a cup and here we are." Aside from her company, Linda is known for having a simple, lighthearted, altogether fun approach to style - and life.
 
+\
 ![age-and-style-7.jpg](/uploads/age-and-style-7.jpg)
 
 ###### [Iris Apfel](https://www.instagram.com/iris.apfel/) | 96
 
-https://www.netflix.com/title/80027120
+It seems for as long as we can remember, Iris Apfel has been the queen of eccentric style for older women. Over the course of her life, she worked a stint at *Women's Wear Daily*, worked in interior design; taking part in many design restoration projects (including at the White House for nine different presidents); and started a textile firm with her husband. It was through their business that she began traveling all over the world and gained her affinity for acquiring a range of non-Western, artisanal clothing pieces that she began wearing to high-society parties. Iris' life has been captured in a documentary, *Iris* (that you can [stream on Netflix](https://www.netflix.com/title/80027120)), and earlier this month she just released a coffee table book, *[Iris Apfel: Accidental Icon](https://www.amazon.com/Iris-Apfel-Accidental-Icon/dp/006240508X)*, full of her stories, musings, and observations on life and style.
 
 *Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
