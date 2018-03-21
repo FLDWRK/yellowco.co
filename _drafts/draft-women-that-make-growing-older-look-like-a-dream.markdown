@@ -8,6 +8,8 @@ image: "/uploads/age-and-style-1.jpg"
 series: Heritage
 ---
 
+There's a lot we tend to associate with aging. But one thing often left out of the discussion - personal style. In the realm of fashion, older women haven't had a history of being very included in the conversation, but over time, we've been seeing that change. From bloggers over 60 becoming style inspiration to twenty-somethings, creative directors of major fashion houses designing well into their seventies, and Instagram accounts dedicated to the style of an older generation, age has become something to covet rather than dread. Below are six women who we look up to for owning their unique style and expressing themselves authentically. 
+
 ![age-and-style-2.jpg](/uploads/age-and-style-2.jpg)
 
 ###### [Lyn Slater](https://www.instagram.com/iconaccidental/) ([Accidental Icon](https://www.accidentalicon.com/)) | 64
