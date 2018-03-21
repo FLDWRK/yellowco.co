@@ -8,7 +8,7 @@ image: "/uploads/age-and-style-1.jpg"
 series: Heritage
 ---
 
-There's a lot we tend to associate with aging. But one thing often left out of the discussion - personal style. In the realm of fashion, older women haven't had a history of being very included in the conversation, but over time, we've been seeing that change. From bloggers over 60 becoming style inspiration to twenty-somethings, creative directors of major fashion houses designing well into their seventies, and Instagram accounts dedicated to the style of an older generation, age has become something to covet rather than dread. Below are six women who we look up to for owning their unique style and expressing themselves authentically.
+There's a lot we tend to associate with aging. But one thing often left out of the discussion - personal style. In the realm of fashion, older women haven't had a history of being very included in the conversation, but over time, we've been seeing that change. From bloggers in their sixties becoming style inspiration to twenty-somethings, creative directors of major fashion houses designing well into their seventies, and Instagram accounts dedicated to the style of an older generation, age has become something to covet rather than dread. Below are six women who we look up to for owning their unique style and expressing themselves authentically.
 
 ![age-and-style-2.jpg](/uploads/age-and-style-2.jpg)
 
@@ -20,7 +20,7 @@ Lyn Slater is a fashion blogger, professor at Fordham University's Graduate Scho
 
 ###### [Rei Kawakubo](https://www.instagram.com/commedesgarcons/) **|** 75
 
-Rei Kawakubo is a Japanese fashion designer and the founder of fashion label, Comme des Garçons. Since launching the line in 1969, she has become an iconic leader in pushing the boundaries of fashion. In 2017, she was honored at the The Met's Costume Institute, being the first living designer since 1983 given a solo exhibition of her designs, entitled \[Rei Kawakubo/Commes des Garçons, Art of the In-Between\](Rei Kawakubo/Comme des Garçons Art of the In-Between). She is also the co-founder of cult retail destination, [Dover Street Market](https://www.businessoffashion.com/dover-street-market "Dover Street Market") in London. Rei is known for always donning a uniform of her fringed bob and a black leather motorcycle jacket. 
+Rei Kawakubo is a Japanese fashion designer and the founder of fashion label, Comme des Garçons. Since launching the line in 1969, she has become an iconic leader in pushing the boundaries of fashion. In 2017, she was honored at the The Met's Costume Institute, being the first living designer since 1983 given a solo exhibition of her designs, entitled [Rei Kawakubo/Commes des Garçons, Art of the In-Between](https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo). She is also the co-founder of cult retail destination, [Dover Street Market](https://www.businessoffashion.com/dover-street-market "Dover Street Market") in London. Rei is known for always donning a uniform of her fringed bob and a black leather motorcycle jacket. 
 
 ![age-and-style-4.jpg](/uploads/age-and-style-4.jpg)
 
@@ -32,7 +32,7 @@ With a passion for style and inspiration stemming from a close friendship with h
 
 ###### [Iman](https://www.instagram.com/the_real_iman/) | 62
 
-Iman is a Somali-American model (not to mention - one of the most iconic supermodels in fashion history), actress, and entrepreneur. Over her career, she has walked in runway shows for almost every fashion house, becoming a trail blazer for many models of color who have since followed in her footsteps. Iman continues to be known for her philanthropy, her pioneering work creating a cosmetic line specifically for women of color, and has just graced the cover of this month's issue of [Vogue Arabia](https://en.vogue.me/). 
+Iman is a Somali American model (not to mention - one of the most iconic supermodels in fashion history), actress, and entrepreneur. Over her career, she has walked in runway shows for almost every fashion house, becoming a trail blazer for many models of color who have since followed in her footsteps. Iman continues to be known for her philanthropy, her pioneering work creating a cosmetic line specifically for women of color, and has just graced the cover of this month's issue of [Vogue Arabia](https://en.vogue.me/fashion/imaan-meets-iman-for-the-march-2018-issue-of-vogue-arabia/). 
 
 ![age-and-style-6.jpg](/uploads/age-and-style-6.jpg)
 
