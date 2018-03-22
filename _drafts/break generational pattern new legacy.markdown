@@ -4,7 +4,7 @@ date: 2018-03-26 04:00:00 -07:00
 categories:
 - Relationships
 author: Kristi Triplett
-image: "/uploads/Three%20Steps%20to%20Let%20Generational%20Patterns%20Go%20and%20Turn%20a%20New%20Leaf%20in%20Your%20Legacy%20-%20Yellow%20Co.jpg"
+image: "/uploads/Three%20Steps%20to%20Let%20Generational%20Patterns%20Go%20and%20Turn%20a%20New%20Leaf%20in%20Your%20Legacy%20-%20Yellow%20Co%203.jpg"
 series: Heritage
 ---
 
@@ -18,9 +18,9 @@ Throughout my family work and research, studies have shown that families often r
 
 A research study on the correlation between parenting and child behaviors found that children who grew up with parents who were involved and authoritative repeated their parents' positive behaviors in their lives. Conversely, children with overly authoritarian or permissive parents expressed more negative behavior. What’s so encouraging is that we have the power to change the stigma no matter what our family line may look like, and face these generational issues rather than turning a cheek. Below are three practices that will empower you to bloom into your unique legacy.
 
-![Mar-3 Phase Two.jpg](/uploads/Mar-3%20Phase%20Two.jpg)
+![Three Steps to Let Generational Patterns Go and Turn a New Leaf in Your Legacy - Yellow Co.jpg](/uploads/Three%20Steps%20to%20Let%20Generational%20Patterns%20Go%20and%20Turn%20a%20New%20Leaf%20in%20Your%20Legacy%20-%20Yellow%20Co.jpg)
 
-#### Root Out Weaknesses and Inhibiting Patterns
+##### Root Out Weaknesses and Inhibiting Patterns
 
 We must have the courage to sit down and face ourselves, and our family. It’s not always easy looking at where we’ve come from because of pain, hurt, or suffering. Because of these kinds of experiences, there could be moments where we feel like we don’t have the capability to express joy, love, and strength in the day-to-day.
 
@@ -28,15 +28,15 @@ We must have the courage to sit down and face ourselves, and our family. It’s 
 
 Take some time to sit down and look into your life and your families lives, so that YOU can take charge of your own, unique path. Acknowledge the aches, define your areas of healthy discipline, and receive growth. Watch as you gain vulnerability, deeper insight, and greater steps of action to create good, life-giving habits.
 
-#### Forgive and Love Well
+##### Forgive and Love Well
 
-Are there relationships in your life that may be holding you back from your full potential? Which relationships are helping you thrive; where you leave feeling empowered, capable, worthy? Now look into the areas of your life where there are individuals who make you feel unsafe, incapable, and inhibited. Those are the places I want you to really dive deep and take a look into. 
+Are there relationships in your life that may be holding you back from your full potential? Which relationships are helping you thrive; where you leave feeling empowered, capable, worthy? Now look into the areas of your life where there are individuals who make you feel unsafe, incapable, and inhibited. Those are the places I want you to really dive deep and take a look into.
 
-![Mar-3 Phase Three.jpg](/uploads/Mar-3%20Phase%20Three.jpg)
+![Mar-3 Phase Two.jpg](/uploads/Mar-3%20Phase%20Two.jpg)
 
 Perhaps take the time to write a letter to this person that will help prepare what needs to be spoken. If it’s a story from your family history that is inhibiting you, write it out, forgive that season, and then rip it up. Once we let go and allow what we feel is “significant” fall off of us, it becomes of no significance to us at all. We can breathe, forgive, and move forward loving well.
 
-#### Grace, Grace
+##### Grace, Grace
 
 None of us are perfect people, but it’s in our imperfections where we grow, become stronger, and truly live a life designed to impact this world. I speak this “grace, grace” when I feel like there are mountains in front of me, when fear begins to creep in, or when self-doubt becomes too overbearing. Beginning and walking through the process of turning a new leaf in our lives can be difficult, but with tenderness towards ourselves, support from our communities, and healthy aspirations, we begin to walk in our best days. The days that are set before us to change, impact, and live a sweet life.
 
