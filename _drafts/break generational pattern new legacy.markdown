@@ -4,6 +4,7 @@ date: 2018-03-26 04:00:00 -07:00
 categories:
 - Relationships
 author: Kristi Triplett
+image: "/uploads/Three%20Steps%20to%20Let%20Generational%20Patterns%20Go%20and%20Turn%20a%20New%20Leaf%20in%20Your%20Legacy%20-%20Yellow%20Co.jpg"
 series: Heritage
 ---
 
