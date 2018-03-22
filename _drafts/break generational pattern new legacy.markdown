@@ -1,5 +1,5 @@
 ---
-title: draft breaking generational issues
+title: Three Steps to Let Generational Patterns Go and Turn a New Leaf in Your Legacy
 date: 2018-03-26 04:00:00 -07:00
 categories:
 - Relationships
@@ -17,6 +17,8 @@ Throughout my family work and research, studies have shown that families often r
 
 A research study on the correlation between parenting and child behaviors found that children who grew up with parents who were involved and authoritative repeated their parents' positive behaviors in their lives. Conversely, children with overly authoritarian or permissive parents expressed more negative behavior. What’s so encouraging is that we have the power to change the stigma no matter what our family line may look like, and face these generational issues rather than turning a cheek. Below are three practices that will empower you to bloom into your unique legacy.
 
+![Mar-3 Phase Two.jpg](/uploads/Mar-3%20Phase%20Two.jpg)
+
 #### Root Out Weaknesses and Inhibiting Patterns
 
 We must have the courage to sit down and face ourselves, and our family. It’s not always easy looking at where we’ve come from because of pain, hurt, or suffering. Because of these kinds of experiences, there could be moments where we feel like we don’t have the capability to express joy, love, and strength in the day-to-day.
@@ -29,6 +31,8 @@ Take some time to sit down and look into your life and your families lives, so t
 
 Are there relationships in your life that may be holding you back from your full potential? Which relationships are helping you thrive; where you leave feeling empowered, capable, worthy? Now look into the areas of your life where there are individuals who make you feel unsafe, incapable, and inhibited. Those are the places I want you to really dive deep and take a look into. 
 
+![Mar-3 Phase Three.jpg](/uploads/Mar-3%20Phase%20Three.jpg)
+
 Perhaps take the time to write a letter to this person that will help prepare what needs to be spoken. If it’s a story from your family history that is inhibiting you, write it out, forgive that season, and then rip it up. Once we let go and allow what we feel is “significant” fall off of us, it becomes of no significance to us at all. We can breathe, forgive, and move forward loving well.
 
 #### Grace, Grace
@@ -39,4 +43,4 @@ Your best days, your legacy, and your impact are right in front of you, dear fri
 
 *Art by [Koselig Creative Co](https://www.instagram.com/koseligcreativeco/)* *for Yellow Co.*
 
-*A note on the artwork from Laura: It can be easy for old generational patterns to linger, leaving individuals outside of the family norm feeling alienated due to their differences. Slowly, the perceived outcast begins to individuate oneself, becoming more confident in their being. As this new person emerges, the family recognizes the beauty in the individual’s differences and welcomes them. The individual’s traits which at one time seemed disjointed now aid in the family’s collective development, revealing a richer dynamic.*
+*A note on the artwork from Laura of Koselig: It can be easy for old generational patterns to linger, leaving individuals outside of the family norm feeling alienated due to their differences. Slowly, the perceived outcast begins to individuate oneself, becoming more confident in their being. As this new person emerges, the family recognizes the beauty in the individual’s differences and welcomes them. The individual’s traits which at one time seemed disjointed now aid in the family’s collective development, revealing a richer dynamic.*
