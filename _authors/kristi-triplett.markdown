@@ -1,7 +1,7 @@
 ---
 title: Kristi Triplett
 bio_image: "/assets/images/kristi-triplett.jpg"
-website: www.leadselfleadothers.com
+website: http://www.leadselfleadothers.com/
 is_guest: true
 ---
 
