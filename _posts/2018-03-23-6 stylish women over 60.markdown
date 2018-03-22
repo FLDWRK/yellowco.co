@@ -47,3 +47,7 @@ After a successful career as a stylist, Linda Rodin started her namesake beauty 
 It seems for as long as we can remember, Iris Apfel has been the queen of eccentric style for older women. Over the course of her life, she completed a stint at *Women's Wear Daily*, worked in interior design; taking part in many design restoration projects (including the White House for nine different presidents); and started a textile firm with her husband. It was through their business that she began traveling all over the world and gained her affinity for acquiring a range of non-Western, artisanal clothing pieces that she began wearing to high-society parties. Iris' life has been captured in a documentary, *Iris* (that you can [stream on Netflix](https://www.netflix.com/title/80027120)), and earlier this month she released a coffee table book, *[Iris Apfel: Accidental Icon](https://www.amazon.com/Iris-Apfel-Accidental-Icon/dp/006240508X)*, full of her stories, musings, and observations on life and style.
 
 *Graphics by [Hanna Snyder](http://www.hannasnyder.com/)*
+
+<br>
+
+##### [Click here to take our 3-minute 2018 reader survey and be entered in our giveaway for a ticket to the 2018 Yellow Conference!](https://yellowco.typeform.com/to/mJRdfw)
