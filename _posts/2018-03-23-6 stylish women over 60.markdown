@@ -50,4 +50,4 @@ It seems for as long as we can remember, Iris Apfel has been the queen of eccent
 
 <br>
 
-##### [Click here to take our 3-minute 2018 reader survey and be entered in our giveaway for a ticket to the 2018 Yellow Conference!](https://yellowco.typeform.com/to/mJRdfw)
+##### [Click here to take our 3-minute 2018 reader survey and be entered in our giveaway for a FREE ticket to the 2018 Yellow Conference!](https://yellowco.typeform.com/to/mJRdfw)
