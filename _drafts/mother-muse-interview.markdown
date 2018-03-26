@@ -4,6 +4,7 @@ date: 2018-03-28 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
+image: "/uploads/B69D9359-2B45-469E-A379-BA0E291C534B.JPG"
 series: Heritage
 ---
 
