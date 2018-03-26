@@ -1,5 +1,5 @@
 ---
-title: ancestry test draft
+title: How an Ancestry DNA Test Gave Me Direction in Searching for My Purpose
 date: 2018-03-30 04:00:00 -07:00
 categories:
 - Growth
