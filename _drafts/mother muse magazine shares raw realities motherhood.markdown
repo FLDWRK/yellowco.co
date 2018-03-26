@@ -9,7 +9,7 @@ image: "/uploads/IMG_8564.JPG"
 series: Heritage
 ---
 
-_There are many voices in the world telling mothers what they are and aren't once they become a mom. It seems in many cases, one of the loudest voices says that mothers are no longer their own person. And while there is certainly a huge shift in life that comes with motherhood, we love seeing mothers being celebrated not just for who they are to their children, but who they are entirely as a woman. [Mother Muse](https://mother-muse.com/) does a gorgeous job as doing just this. Their fashion and lifestyle magazine (that feels much more like a keepsake coffee table book) features inspiring women and discusses the art of of slow living and modern motherhood with a raw, authentic, and honest approach. We got to hear from Mother Muse Founder and Editor, [Shereen Jupp](https://www.instagram.com/mothermusemag/), on her passion for making sure mothers never feel alone in their experiences, how her background in the fashion industry has influenced her magazine, and the one question she asks every mother muse she interviews._ 
+*There are many voices in the world telling mothers what they are and aren't once they become a mom. It seems in many cases, one of the loudest voices says that mothers are no longer their own person. And while there is certainly a huge shift in life that comes with motherhood, we love seeing mothers being celebrated not just for who they are to their children, but who they are entirely as a woman. [Mother Muse](https://mother-muse.com/) does a gorgeous job as doing just this. Their fashion and lifestyle magazine (that feels much more like a keepsake coffee table book) features inspiring women and discusses the art of of slow living and modern motherhood with a raw, authentic, and honest approach. We got to hear from Mother Muse Founder and Editor, [Shereen Jupp](https://www.instagram.com/mothermusemag/), on her passion for making sure mothers never feel alone in their experiences, how her background in the fashion industry has influenced her magazine, and the one question she asks every mother muse she interviews.*
 
 ###### To start, you describe [Mother Muse](https://mother-muse.com/) as “my love letter to you.” Where does your passion for celebrating mothers and motherhood stem from?
 
@@ -21,7 +21,7 @@ It all started after becoming a mother myself - becoming a mother at a younger a
 
 It’s important for me to showcase powerful women that have a voice that can impact some mothers who maybe aren’t ready to share their experiences or feel alone.
 
-![IMG_7860.JPG](/uploads/IMG_7860.JPG)
+![IMG_9390.JPG](/uploads/IMG_9390.JPG)
 
 ###### Your background in the fashion industry has certainly influenced the books, which feature such elegant, modern photography and design. Can you share a little about your career background, and how that inspired you to take such an editorial approach to creating something for mothers?
 
@@ -33,7 +33,7 @@ I was in the modeling industry and that definitely influenced the quality of edi
 
 Motherhood itself is very raw, and approaching my readers with an open heart that brings us together has only been positive for Mother Muse.
 
-![IMG_9390.JPG](/uploads/IMG_9390.JPG)
+![IMG_7860.JPG](/uploads/IMG_7860.JPG)
 
 ###### [This month at Yellow, we are focusing on our Heritage](https://yellowco.co/blog/series/heritage/); looking at the impact our history has had on us, what we can learn from the generations before us, and how we can be inspired to leave a legacy of our own. How has your heritage influenced your work and life? How has it shaped the influences you want to leave with your children?
 
