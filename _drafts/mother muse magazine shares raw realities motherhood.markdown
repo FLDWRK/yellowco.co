@@ -5,11 +5,11 @@ date: 2018-03-28 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
-image: "/uploads/B69D9359-2B45-469E-A379-BA0E291C534B.JPG"
+image: "/uploads/IMG_8564.JPG"
 series: Heritage
 ---
 
-*There are many voices in the world telling mothers what they are and aren't once they become a mom. It seems in many cases, one of the loudest voices says that mothers are no longer their own person. And while there is certainly a huge shift in life that comes with motherhood, we love seeing mothers being celebrated not just for who they are to their children, but who they are entirely as a woman. [Mother Muse](https://mother-muse.com/) does a gorgeous job as doing just this. Their fashion and lifestyle magazine (that feels much more like a keepsake coffee table book) features inspiring women and discusses the art of of slow living and modern motherhood with a raw, authentic, and honest approach. We got to hear from Mother Muse Founder and Editor, [Shereen Jupp](https://www.instagram.com/mothermusemag/), on her passion for making sure mothers never feel alone in their experiences, how her background in the fashion industry has influenced her magazine, and the one question she asks every mother muse she interviews. *
+\*There are many voices in the world telling mothers what they are and aren't once they become a mom. It seems in many cases, one of the loudest voices says that mothers are no longer their own person. And while there is certainly a huge shift in life that comes with motherhood, we love seeing mothers being celebrated not just for who they are to their children, but who they are entirely as a woman. [Mother Muse](https://mother-muse.com/) does a gorgeous job as doing just this. Their fashion and lifestyle magazine (that feels much more like a keepsake coffee table book) features inspiring women and discusses the art of of slow living and modern motherhood with a raw, authentic, and honest approach. We got to hear from Mother Muse Founder and Editor, [Shereen Jupp](https://www.instagram.com/mothermusemag/), on her passion for making sure mothers never feel alone in their experiences, how her background in the fashion industry has influenced her magazine, and the one question she asks every mother muse she interviews. \*
 
 ###### To start, you describe [Mother Muse](https://mother-muse.com/) as “my love letter to you.” Where does your passion for celebrating mothers and motherhood stem from?
 
@@ -21,7 +21,7 @@ It all started after becoming a mother myself - becoming a mother at a younger a
 
 It’s important for me to showcase powerful women that have a voice that can impact some mothers who maybe aren’t ready to share their experiences or feel alone.
 
-![IMG_8564.JPG](/uploads/IMG_8564.JPG)
+![IMG_7860.JPG](/uploads/IMG_7860.JPG)
 
 ###### Your background in the fashion industry has certainly influenced the books, which feature such elegant, modern photography and design. Can you share a little about your career background, and how that inspired you to take such an editorial approach to creating something for mothers?
 
@@ -43,7 +43,7 @@ Both my parents are entrepreneurs and run their own business. That has definitel
 
 I think that empowerment comes again from a place of vulnerability and authenticity. It’s the kind of question that makes you feel a connection to yourself.
 
-I would describe myself as the kind of woman that likes to beat to her own drum.
+### I would describe myself as the kind of woman that likes to beat to her own drum.
 
 ![IMG_8736.JPG](/uploads/IMG_8736.JPG)
 
