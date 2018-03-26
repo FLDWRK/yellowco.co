@@ -21,6 +21,8 @@ It all started after becoming a mother myself - becoming a mother at a younger a
 
 It’s important for me to showcase powerful women that have a voice that can impact some mothers who maybe aren’t ready to share their experiences or feel alone.
 
+![IMG_8564.JPG](/uploads/IMG_8564.JPG)
+
 ###### Your background in the fashion industry has certainly influenced the books, which feature such elegant, modern photography and design. Can you share a little about your career background, and how that inspired you to take such an editorial approach to creating something for mothers?
 
 I was in the modeling industry and that definitely influenced the quality of editorial content I look for with the magazine. I also studied Journalism, business, and fashion merchandising, and while I was on maternity leave, I was a marketing lead for a well known Canadian company. All of that knowledge spun together helped me to focus on my branding and marketing for Mother Muse. I like to think all of these experiences lead me to this one great path, that and of course, motherhood.
@@ -31,6 +33,8 @@ I was in the modeling industry and that definitely influenced the quality of edi
 
 Motherhood itself is very raw, and approaching my readers with an open heart that brings us together has only been positive for Mother Muse.
 
+![IMG_9390.JPG](/uploads/IMG_9390.JPG)
+
 ###### [This month at Yellow, we are focusing on our Heritage](https://yellowco.co/blog/series/heritage/); looking at the impact our history has had on us, what we can learn from the generations before us, and how we can be inspired to leave a legacy of our own. How has your heritage influenced your work and life? How has it shaped the influences you want to leave with your children?
 
 Both my parents are entrepreneurs and run their own business. That has definitely impacted and inspired me, and is probably what gave me the drive to want to pursue my own career. They both taught me a lot of core values, one of them being to work hard in everything that you do and love. I hope to pass that onto my children.
@@ -40,6 +44,8 @@ Both my parents are entrepreneurs and run their own business. That has definitel
 I think that empowerment comes again from a place of vulnerability and authenticity. It’s the kind of question that makes you feel a connection to yourself.
 
 I would describe myself as the kind of woman that likes to beat to her own drum.
+
+![IMG_8736.JPG](/uploads/IMG_8736.JPG)
 
 ###### Who have been the top three Mother Muses in your own life? Why?
 
