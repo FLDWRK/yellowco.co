@@ -9,7 +9,7 @@ image: "/uploads/B69D9359-2B45-469E-A379-BA0E291C534B.JPG"
 series: Heritage
 ---
 
-Mother Muse is a fashion and lifestyle printed coffee table book available worldwide that focuses on the quality of slow living and modern motherhood. Filled with original artwork, articles, interviews and editorials we dedicate on curating a quality book for the women that inspire us everyday. Mother Muse is a passion project it’s my love letter to you.
+There are many voices in the world telling mothers what they are and aren't once they become a mom. It seems in many cases, one of the loudest voices says that mothers are no longer their own person. And while there is certainly a huge shift in life that comes with motherhood, we love seeing mothers being celebrated not just for who they are to their children, but who they are entirely as a *woman*. [Mother Muse](https://mother-muse.com/) does a gorgeous job as doing just this. Their fashion and lifestyle magazine (that feels much more like a keepsake coffee table book) features inspiring women and discusses the art of of slow living and modern motherhood with a raw, authentic, and honest approach. We got to hear from Mother Muse Founder and Editor, [Shereen Jupp](https://www.instagram.com/mothermusemag/), on her passion for making sure mothers never feel alone in their experiences, how her background in the fashion industry has influenced her magazine, and the one question she asks every mother muse she interviews. 
 
 ###### To start, you describe [Mother Muse](https://mother-muse.com/) as “my love letter to you.” Where does your passion for celebrating mothers and motherhood stem from?
 
@@ -59,4 +59,4 @@ Christy Turlington Burns; I absolutely admire everything she does with her organ
 
 I hope for it to continue to flourish, grow, inspire, and connect us together as mothers in a way that is beautiful, authentic, raw, and honest.
 
-*Images courtesy of Mother Muse Magazine*
+*Images courtesy of [Mother Muse Magazine](https://mother-muse.com/)*
