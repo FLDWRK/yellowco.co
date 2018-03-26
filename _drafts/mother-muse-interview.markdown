@@ -1,5 +1,6 @@
 ---
-title: mother muse interview
+title: 'The Editorial Magazine Sharing the Raw Realities of Modern Motherhood: Our
+  Interview with Mother Muse'
 date: 2018-03-28 04:00:00 -07:00
 categories:
 - Entrepreneurs
@@ -7,6 +8,8 @@ author: Hanna Snyder
 image: "/uploads/B69D9359-2B45-469E-A379-BA0E291C534B.JPG"
 series: Heritage
 ---
+
+Mother Muse is a fashion and lifestyle printed coffee table book available worldwide that focuses on the quality of slow living and modern motherhood. Filled with original artwork, articles, interviews and editorials we dedicate on curating a quality book for the women that inspire us everyday. Mother Muse is a passion project it’s my love letter to you.
 
 ###### To start, you describe [Mother Muse](https://mother-muse.com/) as “my love letter to you.” Where does your passion for celebrating mothers and motherhood stem from?
 
@@ -24,7 +27,7 @@ I was in the modeling industry and that definitely influenced the quality of edi
 
 ###### Both the pieces and imagery in Mother Muse often take a very raw, honest approach to discussing and sharing the experience of motherhood. How have you seen this vulnerability impact other women (your readers)?
 
-### Being vulnerable and honest is an act of strength that connects us all together. 
+### Being vulnerable and honest is an act of strength that connects us all together.
 
 Motherhood itself is very raw, and approaching my readers with an open heart that brings us together has only been positive for Mother Muse.
 
