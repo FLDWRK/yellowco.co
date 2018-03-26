@@ -7,44 +7,42 @@ author: Hanna Snyder
 series: Heritage
 ---
 
-Please keep word count between 750 - 1200 max.
+###### To start, you describe [Mother Muse](https://mother-muse.com/) as “my love letter to you.” Where does your passion for celebrating mothers and motherhood stem from?
 
-To start, you describe Mother Muse as “my love letter to you.” Where does your passion for celebrating mothers and motherhood stem from?
+It all started after becoming a mother myself and becoming a mother at a younger age I struggled with postpartum depression and not feeling a connection to things I resonated with prior to motherhood.
 
-It all started after becoming a mother myself and becoming a mother at a younger age I struggled with postpartum depression and not feeling a connection to things I resonated with prior to motherhood. 
+###### In both your coffee table books and online content, you interview a wide range of mothers - from actresses like Selma Blair and Jaime King, to designers and artists like TyLynn Nguyen and Jaycina Almond, to CEO’s including Caitlin Crosby of The Giving Keys and Sarah Dubbeldam of Darling Media; not to mention many others. What values or characteristics do you look for when selecting women to share their stories?
 
-In both your coffee table books and online content, you interview a wide range of mothers - from actresses like Selma Blair and Jaime King, to designers and artists like TyLynn Nguyen and Jaycina Almond, to CEO’s including Caitlin Crosby of The Giving Keys and Sarah Dubbeldam of Darling Media; not to mention many others. What values or characteristics do you look for when selecting women to share their stories?
+Diversity, authenticity and empowerment – It’s important for me to showcase powerful woman that have a voice that can impact maybe some mothers that aren’t ready to share their experiences or feel alone.
 
-Diversity, authenticity and empowerment – It’s important for me to showcase powerful woman that have a voice that can impact maybe some mothers that aren’t ready to share their experiences or feel alone. 
+###### Your background in the fashion industry has certainly influenced the books, which feature such elegant, modern photography and design. Can you share a little about your career background, and how that inspired you to take such an editorial approach to creating something for mothers?
 
-Your background in the fashion industry has certainly influenced the books, which feature such elegant, modern photography and design. Can you share a little about your career background, and how that inspired you to take such an editorial approach to creating something for mothers?
+I was in the modelling industry and that definitely influenced the quality of editorial content I look for with the magazine. I also studied Journalism, business and fashion merchandising and while I was on maternity leave, I was a marketing-lead for a well-known Canadian company all of that knowledge spun together helped me to focus on my branding and marketing for Mother Muse. I like to think all of these experiences lead me to this one great path, that and of course motherhood.
 
-I was in the modelling industry and that definitely influenced the quality of editorial content I look for with the magazine. I also studied Journalism, business and fashion merchandising and while I was on maternity leave, I was a marketing-lead for a well-known Canadian company all of that knowledge spun together helped me to focus on my branding and marketing for Mother Muse. I like to think all of these experiences lead me to this one great path, that and of course motherhood. 
+###### Both the pieces and imagery in Mother Muse often take a very raw, honest approach to discussing and sharing the experience of motherhood. How have you seen this vulnerability impact other women (your readers)?
 
-Both the pieces and imagery in Mother Muse often take a very raw, honest approach to discussing and sharing the experience of motherhood. How have you seen this vulnerability impact other women (your readers)?
+Being vulnerable and honest is an act of strength that connects us all together. Motherhood itself is very raw and approaching my readers with an open heart that brings us together has only been positive for Mother Muse.
 
-Being vulnerable and honest is an act of strength that connects us all together. Motherhood itself is very raw and approaching my readers with an open heart that brings us together has only been positive for Mother Muse. 
+###### [This month at Yellow, we are focusing on our Heritage](https://yellowco.co/blog/series/heritage/); looking at the impact our history has had on us, what we can learn from the generations before us, and how we can be inspired to leave a legacy of our own. How has your heritage influenced your work and life? How has it shaped the influences you want to leave with your children?
 
-This month at Yellow, we are focusing on our Heritage; looking at the impact our history has had on us, what we can learn from the generations before us, and how we can be inspired to leave a legacy of our own. How has your heritage influenced your work and life? How has it shaped the influences you want to leave with your children?
+Both my parents are entrepreneurs and run their own business that has definitely impacted and inspired me and probably what gave me the drive to want to pursue my own career. They both taught me a lot of core values one of them being to work hard in everything that you do and love, I hope to pass that on to my children.
 
-Both my parents are entrepreneurs and run their own business that has definitely impacted and inspired me and probably what gave me the drive to want to pursue my own career. They both taught me a lot of core values one of them being to work hard in everything that you do and love, I hope to pass that on to my children. 
+###### I love that you ask every woman you interview to describe herself in one sentence. What kind of empowerment do you think making this statement creates? How would you describe yourself in one sentence?
 
-I love that you ask every woman you interview to describe herself in one sentence. What kind of empowerment do you think making this statement creates? How would you describe yourself in one sentence? 
-
-I think that empowerment comes again from a place of vulnerability and authenticity. It’s the kind of question that makes you feel a connection to yourself. 
+I think that empowerment comes again from a place of vulnerability and authenticity. It’s the kind of question that makes you feel a connection to yourself.
 
 I would describe myself as the kind of woman that likes to beat to her own drum
 
-Who have been the top three Mother Muses in your own life? Why?
+###### Who have been the top three Mother Muses in your own life? Why?
 
 My mother, because she is an incredible caring and loving woman that I believe was destined to be a mother. She is always there for me and I can’t thank her enough.
 
-Mother Nature, because without her life and nurturing in the aspects of nature would seize to exist. 
+Mother Nature, because without her life and nurturing in the aspects of nature would seize to exist.
 
-Christy Turlington Burns, I absolutely admire everything she does with her organization Every Mom Counts and her devotion to global maternal health. 
+Christy Turlington Burns, I absolutely admire everything she does with her organization Every Mom Counts and her devotion to global maternal health.
 
-At the present moment, what are your greatest hopes for the future of Mother Muse, as well as for all women who are mothers?
+###### At the present moment, what are your greatest hopes for the future of Mother Muse, as well as for all women who are mothers?
 
-I hope for it to continue to flourish & grow, inspire and connect us together as mothers in a way that is beautiful, authentic, raw and honest. 
+I hope for it to continue to flourish & grow, inspire and connect us together as mothers in a way that is beautiful, authentic, raw and honest.
 
-Images courtesy of Mother Muse
+*Images courtesy of Mother Muse*
