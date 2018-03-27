@@ -2,6 +2,7 @@
 title: privilege intro draft
 date: 2018-04-02 14:29:00 -07:00
 author: Hanna Snyder
+series: Privilege
 ---
 
 It seems I had been seeing everything in shades of pink
