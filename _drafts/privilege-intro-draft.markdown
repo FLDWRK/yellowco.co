@@ -5,6 +5,12 @@ author: Hanna Snyder
 series: Privilege
 ---
 
+Each month at Yellow, we explore and immerse ourselves into one focus - creating conversations between each other and within ourselves centered around topics that hold a lot of influence in our lives. To start this month of March, we wanted to have a space for not just words on a page, but a moment to introduce you into our focus on Heritage. Join us in this meditation below to pause, reflect, and see what this unearths in you.
+
+\(meditation)
+
+<br>
+
 It seems I had been seeing everything in shades of pink
 Pour the morning coffee - magenta
 Wave in mauve to the passing neighbor
@@ -15,51 +21,59 @@ clanging, piercing,
 electrified awakening
 “Avert your eyes,” was the peachy, uncanny suggestion
 
-Said in silence more than anything - 
+Said in silence more than anything -
 
 “Don’t worry your little coral head,
 honey, we like to stay color blind
-Nonsense to get worked up over unsettling hues, 
+Nonsense to get worked up over unsettling hues,
 it’s just the way things are”
 
-Still, you begin to wonder how many auroras it takes 
+Still, you begin to wonder how many auroras it takes
 fuschia and cerulean streaking before your eyes
 to be shook out of sheltered pastel
 Face no exaggeration: things here are skewed
 
 Shades of injustice beg us
-to recognize any rose colored glasses 
-and shed them 
-(their innocence expires into ignorance otherwise)
+to recognize any rose colored glasses
+and shed them
+\(their innocence expires into ignorance otherwise)
 
-Our experience, 
+Our experience,
 it’s a kaleidoscope of components
-Navy lilac amber charcoal 
+Navy lilac amber charcoal
 all etching a unique chromatic outlook into existence
 
-It seems I cannot shy from the importance 
+It seems I cannot shy from the importance
 of the need to look through every filter within another's lens
-Never too proud to admit there was ever a day 
-I assumed everything was perfectly pink 
+Never too proud to admit there was ever a day
+I assumed everything was perfectly pink
 
--
+### There comes a day when we can no longer allow certain words to continue to be hushed when spoken. 
 
-There comes a day when we can no longer allow certain words to continue to be hushed when spoken. You know, those that conjure cringed eyes to their name, and gritted teeth to their truth. Privilege knows this reaction well. Its weight has called for it for a very long time. While its complexity will always require care when spoken of, the loss of words that strikes many at the mention of its name must be let go. These heavy realities, though easier to shy away from, deserve light to be shed on each of their fractures. No matter the mere awkwardness or struggle for what to say, when we hide from any ugly truth about our world, we in turn ignore the stories and experiences of each other.
+You know, those that conjure cringed eyes to their name, and gritted teeth to their truth. Privilege knows this reaction well. Its weight has called for it for a very long time. While its complexity will always require care when spoken of, the loss of words that strikes many at the mention of its name must be let go. These heavy realities, though easier to shy away from, deserve light to be shed on each of their fractures. No matter the mere awkwardness or struggle for what to say, when we hide from any ugly truth about our world, we in turn ignore the stories and experiences of each other.
 
-By its nature, privilege touches us all differently. Even by definition, it holds a multifaceted meaning. Most simply put, privilege gives an advantage to a person or a people. When this advantage is either earned as an achievement or received by chance, we acknowledge it with gratitude. But when unearned, and one is given a benefit or opportunity at the expense and oppression of another, injustice has flooded in. 
+By its nature, privilege touches us all differently. Even by definition, it holds a multifaceted meaning. Most simply put, privilege gives an advantage to a person or a people. When this advantage is either earned as an achievement or received by chance, we acknowledge it with gratitude. But when unearned, and one is given a benefit or opportunity at the expense and oppression of another, injustice has flooded in.
 
 This type of privilege has pointed at so many different parts of humanity and blatantly or subtly spoken to what each says about a person’s worthiness. Race, gender, sexuality, socioeconomic background, health, and age have all been used as a scale to measure people by both systemically and through the eyes of others. But how can these aspects inherent to who we are, yet not in our control, be appraised to say some are better, smarter, more capable, beautiful, trusting, powerful, fill in the blank, than others?
 
-We know that the roots of these inequalities go deeply back into history. And though time has proven to make equality a larger reality and louder conversation, the influence of privilege remains a part of global society. One way we see possible to further the world’s movement in the right direction? Talking about it. Which is why this month, we want to focus on having discussions around privilege; the perceptions, experiences, and opportunities of each individual. 
+We know that the roots of these inequalities go deeply back into history. And though time has proven to make equality a larger reality and louder conversation, the influence of privilege remains a part of global society. One way we see possible to further the world’s movement in the right direction? Talking about it. Which is why this month, we want to focus on having discussions around privilege; the perceptions, experiences, and opportunities of each individual.
 
-I can’t speak for others, but I don’t think I’m alone in having gone quite a long time in my youth not understanding the capacity to which some unwritten rules the world turns to are corrupt. That they are something to be recognized and are worth speaking up about when their consequences affect you. That they are not something to ignore when they burden someone else. In his “Letter from Birmingham City Jail”, Martin Luther King Jr. declares this responsibility to awareness, “Shallow understanding from people of good will is more frustrating than absolute misunderstanding from people of ill will. Lukewarm acceptance is much more bewildering than outright rejection.” Remaining in any ignorance by staying silent about or not understanding the ramifications of unjust privilege only continue to keep it on life support. 
+I can’t speak for others, but I don’t think I’m alone in having gone quite a long time in my youth not understanding the capacity to which some unwritten rules the world turns to are corrupt. That they are something to be recognized and are worth speaking up about when their consequences affect you. That they are not something to ignore when they burden someone else. In his “Letter from Birmingham City Jail”, Martin Luther King Jr. declares this responsibility to awareness, 
 
-Another complex that stifles our open communication about privilege is shame. In the same way that being born into circumstances with disadvantages is not a choice, neither is that of someone born into advantages. Coming into a life with certain privileges does not mean you are to be ashamed of who you are. You do a greater disservice to those less privileged than you by not utilizing the resources and opportunities you have in a healthy way. To pretend what we have been given doesn’t exist leaves the power in privilege’s possession. But by harnessing it for good, we can shift its influence. 
+### “Shallow understanding from people of good will is more frustrating than absolute misunderstanding from people of ill will."
+
+"Lukewarm acceptance is much more bewildering than outright rejection.” Remaining in any ignorance by staying silent about or not understanding the ramifications of unjust privilege only continue to keep it on life support.
+
+Another complex that stifles our open communication about privilege is shame. In the same way that being born into circumstances with disadvantages is not a choice, neither is that of someone born into advantages. Coming into a life with certain privileges does not mean you are to be ashamed of who you are. You do a greater disservice to those less privileged than you by not utilizing the resources and opportunities you have in a healthy way. 
+
+### To pretend what we have been given doesn’t exist leaves the power in privilege’s possession. But by harnessing it for good, we can shift its influence.
 
 Consider, for example, if men chose to sit on their hands, too fearful or guilty about the privileges they have to do something; would that really be serving us women? Or, does it do more for us for them to speak up and encourage other men to collectively empower and further equality for women? Recently I watched Justin Baldoni’s TED Talk from this fall, and was left inspired in seeing exactly this:
 
-“Are you confident enough to listen to the women in your life? To hear their ideas and their solutions? To hold their anguish and actually believe them, even if what they're saying is against you? And will you be man enough to stand up to other men when you hear ‘locker room talk’, when you hear stories of sexual harassment?... Will you actually stand up and do something so that one day we don't have to live in a world where a woman has to risk everything and come forward to say the words ‘me too’?” 
+“Are you confident enough to listen to the women in your life? To hear their ideas and their solutions? To hold their anguish and actually believe them, even if what they're saying is against you? And will you be man enough to stand up to other men when you hear ‘locker room talk’, when you hear stories of sexual harassment?... Will you actually stand up and do something so that one day we don't have to live in a world where a woman has to risk everything and come forward to say the words ‘me too’?”
 
-This month, and for each one to follow, may we approach privilege with open hands instead of clenched fists. Join us to lean in and listen to the experiences of those both alongside us, and as far as the other end of the earth. Reflect inward to find how you can utilize the privilege you have creatively, and be inspired by those before you to progress equality in any areas you lack it. Even though we may know to our core all in this world are equal, the reality is that all are not treated this way. To continue chipping away towards that future, we need to look this topic in the eye instead of shoving it in the corner. It is then we can truly use whatever form of privilege we have, over the course of our entire lives, to lift up those who have less. It is then we take ownership over this place we are, blemishes and all, and tenderly, fiercely resolve for it to heal.
+This month, and for each one to follow, may we approach privilege with open hands instead of clenched fists. Join us to lean in and listen to the experiences of those both alongside us, and as far as the other end of the earth. Reflect inward to find how you can utilize the privilege you have creatively, and be inspired by those before you to progress equality in any areas you lack it. Even though we may know to our core all in this world are equal, the reality is that all are not treated this way. To continue chipping away towards that future, we need to look this topic in the eye instead of shoving it in the corner. It is then we can truly use whatever form of privilege we have, over the course of our entire lives, to lift up those who have less. 
 
-Photos by 
+### It is then we take ownership over this place we are, blemishes and all, and tenderly, fiercely resolve for it to heal.
+
+Photos by [Amy Hulst](https://www.forcollective.com/)
