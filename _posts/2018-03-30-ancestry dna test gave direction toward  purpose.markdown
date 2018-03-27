@@ -8,23 +8,23 @@ image: "/uploads/How%20an%20Ancestry%20DNA%20Test%20Gave%20Me%20Direction%20in%2
 series: Heritage
 ---
 
-A few years back, I was scrolling through my social feeds and saw a post from someone about results that they had gotten from a recent [Ancestry.com](https://www.ancestry.com/) DNA test. During this time, I was also digging into the recesses of my past, trying to understand my lineage; who I am, where I came from, and what “ancestral energies” exist, with the hope that it would somehow support me in discovering my purpose by identifying my vocational heritage.
+A few years back, I was scrolling through my social feeds and saw a post from someone about results they had received from a recent [Ancestry.com](https://www.ancestry.com/) DNA test. During this time, I was also digging into the recesses of my past, trying to understand my lineage; who I am, where I came from, and what “ancestral energies” exist, with the hope that it would somehow support me in discovering my purpose by identifying my vocational heritage.
 
-### I had been in the process of pivoting in my career, discovering my gifts and strengths, and unpacking my purpose.
+### I had been in the process of pivoting my career, discovering my gifts and strengths, and unpacking my purpose.
 
-So I thought learning more about my past could be a useful exercise to engage in. I studied the lives of people who seemed to have it together in terms of their work - meaning, they woke up every morning doing something they loved to do. I found that a significant portion of these individuals were doing something that was “in the family.”
+So I thought learning more about my past could be a useful exercise to engage in. I had been studying the lives of people who seemed to have it together in terms of their work - meaning, they woke up every morning doing something they loved to do. I found that a significant portion of these individuals were doing something that was “in the family.”
 
 There were teachers who loved teaching because that’s what their family did; doctor families, artist families, business families, creative families... the list goes on and on. There are even families with last names that are also occupations, because that’s what they were “known for.” For example, Archer, Baker, Brewer, Butcher, Carter... And while most people in my immediate family are engineers, I was hoping to find a “slant” on this family heritage that perhaps was more suited to my personality.
 
 ![HJ-Kaleidos-025.jpg](/uploads/HJ-Kaleidos-025.jpg)
 
-In addition to using my ancestry DNA results to get more in touch with what I was “supposed to do” on this Earth, I also wanted to get in touch with the more “fun” cultural aspects of my ancestry, specifically food and clothing. I hoped to have something to pass down to my children that connects them to the roots of their past. And so at $99, I went with my impulses and purchased an ancestry DNA test so I could have one more piece of the puzzle that is “me.”
+In addition to using my ancestry DNA results to get more in touch with what I am “supposed to do” on this Earth, I also wanted to get in touch with the more “fun” cultural aspects of my ancestry, specifically food and clothing. I hoped to have something to pass down to my children that connects them to the roots of their past. And so at $99, I went with my impulses and purchased an ancestry DNA test so I could have one more piece of the puzzle that is “me.”
 
 I waited patiently and anxiously as my Ancestry.com box was on its way. It arrived in the mail a few days later and I eagerly opened the box, read the instructions, and spit in the saliva tube. I placed the tube inside the box, put on the mailing label, and drove to the UPS store to ship my sample away. And now came the “waiting game.” About eight weeks later, I received an e-mail notification that my DNA ancestry matches were ready. It literally it felt like it was my birthday.
 
 ### It was very surprising and intriguing to find a more nuanced story about my ancestors than I had grown up believing.
 
-The ancestry test works by taking a DNA sample from your saliva and then comparing it to the other individuals who are in your database. From those comparisons they are able to predict similarities in your DNA with other people from various regions around the world. When I got my results back, I expected about half of my ancestry to be from East Asia. However my results showed that only 31% of my ancestry matched individuals from there. I also had a significant portion (17%) from Polynesia, specifically the Samoan Islands. I never considered any relations with that area, so this result prompted me to explore the Samoan culture more.
+The ancestry test works by taking a DNA sample from your saliva and then comparing it to the other individuals who are in your database. From those comparisons they are able to predict similarities in your DNA with other people from various regions around the world. When I got my results back, I expected about half of my ancestry to be from East Asia. However my results showed that only 31% of my ancestry matched individuals there. I also had a significant portion (17%) from Polynesia, specifically the Samoan Islands. I never considered any relations with that area, so this result prompted me to explore the Samoan culture more.
 
 ![HJ-Kaleidos-050.jpg](/uploads/HJ-Kaleidos-050.jpg)
 
@@ -38,8 +38,8 @@ We are the sum total of experiences, both positive and negative, of our family t
 
 ![HJ-Kaleidos-022.jpg](/uploads/HJ-Kaleidos-022.jpg)
 
-Second, diving into my Ancestry really pushed me to consider and reflect on how I define being an “American”; how that informs my personal outlook and choices. I consider myself to be both a “salad-theory” American and “melting-pot” American. On one hand, I feel very strongly about being an American and am quick to release my personal nationalities or other identities in favor of cultural assimilation. Yet on the other hand, I was also interested in incorporating some ideas from my ancestral past to complement my Americanism.
+Second, diving into my ancestry really pushed me to consider and reflect on how I define being an “American”; how that informs my personal outlook and choices. I consider myself to be both a “salad-theory” American and “melting-pot” American. On one hand, I feel very strongly about being an American and am quick to release some of my personal nationalities or other identities in favor of cultural assimilation. Yet on the other hand, I was also interested in incorporating some ideas from my ancestral past to complement my Americanism.
 
 Ultimately, we are all on a continual journey of defining ourselves. And while there are so many other factors I take into consideration when building my identity, I found it really fascinating to fill in some missing gaps surrounding my heritage. It truly shifted my previous perspective on all that has gone into what makes me, *me*.
 
-*Photos by*
+*Photos by [Eun Creative](http://www.euncreative.com/)*
