@@ -16,7 +16,7 @@ So I thought learning more about my past could be a useful exercise to engage in
 
 There were teachers who loved teaching because that’s what their family did; doctor families, artist families, business families, creative families... the list goes on and on. There are even families with last names that are also occupations, because that’s what they were “known for.” For example, Archer, Baker, Brewer, Butcher, Carter... And while most people in my immediate family are engineers, I was hoping to find a “slant” on this family heritage that perhaps was more suited to my personality.
 
-![HJ-Kaleidos-025.jpg](/uploads/HJ-Kaleidos-025.jpg)
+![How an Ancestry DNA Test Gave Me Direction in Searching for My Purpose - Yellow Co.jpg](/uploads/HJ-Kaleidos-025.jpg)
 
 In addition to using my ancestry DNA results to get more in touch with what I am “supposed to do” on this Earth, I also wanted to get in touch with the more “fun” cultural aspects of my ancestry, specifically food and clothing. I hoped to have something to pass down to my children that connects them to the roots of their past. And so at $99, I went with my impulses and purchased an ancestry DNA test so I could have one more piece of the puzzle that is “me.”
 
@@ -26,7 +26,7 @@ I waited patiently and anxiously as my Ancestry.com box was on its way. It arriv
 
 The ancestry test works by taking a DNA sample from your saliva and then comparing it to the other individuals who are in your database. From those comparisons they are able to predict similarities in your DNA with other people from various regions around the world. When I got my results back, I expected about half of my ancestry to be from East Asia. However my results showed that only 31% of my ancestry matched individuals there. I also had a significant portion (17%) from Polynesia, specifically the Samoan Islands. I never considered any relations with that area, so this result prompted me to explore the Samoan culture more.
 
-![HJ-Kaleidos-050.jpg](/uploads/HJ-Kaleidos-050.jpg)
+![How an Ancestry DNA Test Gave Me Direction in Searching for My Purpose - Yellow Co.jpg](/uploads/HJ-Kaleidos-050.jpg)
 
 The other 52% of my DNA results came from Western Europe. My grandmother is from France, so of course I expected the Iberian Peninsula to be part of those results. However, I was suprised to see a 9% match with Scandinavia. I had always thought that my grandfather's side descended from Germany (at least that's what I had always been told), but when I saw the Scandinavian result I went to research the origins of my former last name, Foss. I discovered it is actually a variant of the surname “Voss” (yes like the water), which is the Scandinavian word for waterfall. So, I claim that my 9% Scandinavian heritage contributes to my love of simple, natural design. Whether or not that's actually true is a different story, but for now, this is what I’d like to believe.
 
@@ -36,7 +36,7 @@ There was also a significant 13% of my DNA, that could be traced to Eastern Euro
 
 We are the sum total of experiences, both positive and negative, of our family trees, not only in this life, but (as some may include) lives we experienced in the past. However, the most tangible manifestation of this can be seen in our physical world as the socioeconomic background, habits, traits, skills, knowledge, and mindsets that are passed down through families.
 
-![HJ-Kaleidos-022.jpg](/uploads/HJ-Kaleidos-022.jpg)
+![How an Ancestry DNA Test Gave Me Direction in Searching for My Purpose - Yellow Co.jpg](/uploads/HJ-Kaleidos-022.jpg)
 
 Second, diving into my ancestry really pushed me to consider and reflect on how I define being an “American”; how that informs my personal outlook and choices. I consider myself to be both a “salad-theory” American and “melting-pot” American. On one hand, I feel very strongly about being an American and am quick to release some of my personal nationalities or other identities in favor of cultural assimilation. Yet on the other hand, I was also interested in incorporating some ideas from my ancestral past to complement my Americanism.
 
