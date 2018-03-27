@@ -4,6 +4,7 @@ date: 2018-03-30 04:00:00 -07:00
 categories:
 - Growth
 author: Jackie Boylhart
+image: "/uploads/How%20an%20Ancestry%20DNA%20Test%20Gave%20Me%20Direction%20in%20Searching%20for%20My%20Purpose%20-%20Yellow%20Co.jpg"
 series: Heritage
 ---
 
