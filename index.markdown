@@ -4,7 +4,7 @@ position: 0
 body-class: home
 banners:
 - link: http://www.yellowtour.co/
-  image: "/uploads/Tour-Header-Journal-c81319.jpg"
+  image: "/uploads/Tour-Header-Journal-d50462.jpg"
 - link: https://yellowco.co/tour/
   image: "/uploads/Tour-Banner.jpg"
 - link: "/membership"
