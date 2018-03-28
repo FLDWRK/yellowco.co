@@ -3,8 +3,8 @@ title: Home
 position: 0
 body-class: home
 banners:
-- link: https://yellowcollective.lpages.co/march-defining-your-legacy-worksheet/
-  image: "/uploads/Free-Defining-Legacy-Guide.jpg"
+- link: http://www.yellowtour.co/
+  image: "/uploads/Tour-Header-Journal.jpg"
 - link: https://yellowco.co/tour/
   image: "/uploads/Tour-Banner.jpg"
 - link: "/membership"
@@ -12,8 +12,8 @@ banners:
 - link: "/conference"
   image: "/assets/images/Conference-Header.jpg"
 sm-banners:
-- link: https://yellowcollective.lpages.co/march-defining-your-legacy-worksheet/
-  image: "/uploads/Define-Your-Legacy-sm.jpg"
+- link: http://www.yellowtour.co/
+  image: "/uploads/Tour-Small-header.jpg"
 - link: https://yellowco.co/tour/
   image: "/uploads/Tour-Banner-SM.jpg"
 - link: "/membership"
