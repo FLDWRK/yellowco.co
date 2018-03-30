@@ -1,5 +1,6 @@
 ---
-title: privilege intro draft
+title: 'Why Opening up About Privilege Will Help Heal the World: Monthly Meditation
+  No. 3'
 date: 2018-04-02 04:00:00 -07:00
 categories:
 - Growth
