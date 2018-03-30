@@ -77,7 +77,7 @@ Another complex that stifles our open communication about privilege is shame. In
 
 ### To pretend what we have been given doesn’t exist leaves the power in privilege’s possession. But by harnessing it for good, we can shift its influence.
 
-Consider, for example, if men chose to sit on their hands, too fearful or guilty about the privileges they have to do something; would that really be serving us women? Or, does it do more for us for them to speak up and encourage other men to collectively empower and further equality for women? Recently I watched Justin Baldoni’s TED Talk from this fall, and was left inspired in seeing exactly this:
+Consider, for example, if men chose to sit on their hands, too fearful or guilty about the privileges they have to do something; would that really be serving us women? Or, does it do more for us for them to speak up and encourage other men to collectively empower and further equality for women? Recently I watched Justin Baldoni’s [TED Talk](https://www.ted.com/talks/justin_baldoni_why_i_m_done_trying_to_be_man_enough) from this fall, and was left inspired in seeing exactly this:
 
 _“Are you confident enough to listen to the women in your life? To hear their ideas and their solutions? To hold their anguish and actually believe them, even if what they're saying is against you? And will you be man enough to stand up to other men when you hear ‘locker room talk’, when you hear stories of sexual harassment?... Will you actually stand up and do something so that one day we don't have to live in a world where a woman has to risk everything and come forward to say the words ‘me too’?”_
 
