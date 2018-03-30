@@ -49,6 +49,8 @@ of the need to look through every filter within another's lens
 Never too proud to admit there was ever a day  
 I assumed everything was perfectly pink
 
+![yellow-56_Edit.jpg](/uploads/yellow-56_Edit.jpg)
+
 ### There comes a day when we can no longer allow certain words to continue to be hushed when spoken.
 
 You know, those that conjure cringed eyes to their name, and gritted teeth to their truth. Privilege knows this reaction well. Its weight has called for it for a very long time. While its complexity will always require care when spoken of, the loss of words that strikes many at the mention of its name must be let go. These heavy realities, though easier to shy away from, deserve light to be shed on each of their fractures. No matter the mere awkwardness or struggle for what to say, when we hide from any ugly truth about our world, we in turn ignore the stories and experiences of each other.
@@ -56,6 +58,8 @@ You know, those that conjure cringed eyes to their name, and gritted teeth to th
 By its nature, privilege touches us all differently. Even by definition, it holds a multifaceted meaning. Most simply put, privilege gives an advantage to a person or a people. When this advantage is either earned as an achievement or received by chance, we acknowledge it with gratitude. But when unearned, and one is given a benefit or opportunity at the expense and oppression of another, injustice has flooded in.
 
 This type of privilege has pointed at so many different parts of humanity and blatantly or subtly spoken to what each says about a person’s worthiness. Race, gender, sexuality, socioeconomic background, health, and age have all been used as a scale to measure people by both systemically and through the eyes of others. But how can these aspects inherent to who we are, yet not in our control, be appraised to say some are better, smarter, more capable, beautiful, trusting, powerful, fill in the blank, than others?
+
+![yellow-59-Edit.jpg](/uploads/yellow-59-Edit.jpg)
 
 We know that the roots of these inequalities go deeply back into history. And though time has proven to make equality a larger reality and louder conversation, the influence of privilege remains a part of global society. One way we see possible to further the world’s movement in the right direction? Talking about it. Which is why this month, we want to focus on having discussions around privilege; the perceptions, experiences, and opportunities of each individual.
 
@@ -67,6 +71,8 @@ I can’t speak for others, but I don’t think I’m alone in having gone quite
 
 Another complex that stifles our open communication about privilege is shame. In the same way that being born into circumstances with disadvantages is not a choice, neither is that of someone born into advantages. Coming into a life with certain privileges does not mean you are to be ashamed of who you are. You do a greater disservice to those less privileged than you by not utilizing the resources and opportunities you have in a healthy way.
 
+![yellow-58.jpg](/uploads/yellow-58.jpg)
+
 ### To pretend what we have been given doesn’t exist leaves the power in privilege’s possession. But by harnessing it for good, we can shift its influence.
 
 Consider, for example, if men chose to sit on their hands, too fearful or guilty about the privileges they have to do something; would that really be serving us women? Or, does it do more for us for them to speak up and encourage other men to collectively empower and further equality for women? Recently I watched Justin Baldoni’s TED Talk from this fall, and was left inspired in seeing exactly this:
@@ -76,5 +82,7 @@ Consider, for example, if men chose to sit on their hands, too fearful or guilty
 This month, and for each one to follow, may we approach privilege with open hands instead of clenched fists. Join us to lean in and listen to the experiences of those both alongside us, and as far as the other end of the earth. Reflect inward to find how you can utilize the privilege you have creatively, and be inspired by those before you to progress equality in any areas you lack it. Even though we may know to our core all in this world are equal, the reality is that all are not treated this way. To continue chipping away towards that future, we need to look this topic in the eye instead of shoving it in the corner. It is then we can truly use whatever form of privilege we have, over the course of our entire lives, to lift up those who have less.
 
 ### It is then we take ownership over this place we are, blemishes and all, and tenderly, fiercely resolve for it to heal.
+
+<br>
 
 Photos by [Amy Hulst](https://www.forcollective.com/)
