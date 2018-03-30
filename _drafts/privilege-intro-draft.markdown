@@ -1,6 +1,6 @@
 ---
 title: privilege intro draft
-date: 2018-04-02 14:29:00 -07:00
+date: 2018-04-02 04:00:00 -07:00
 author: Hanna Snyder
 image: "/uploads/Cover-April.jpg"
 series: Privilege
