@@ -69,7 +69,7 @@ I can’t speak for others, but I don’t think I’m alone in having gone quite
 
 ### “Shallow understanding from people of good will is more frustrating than absolute misunderstanding from people of ill will."
 
-"Lukewarm acceptance is much more bewildering than outright rejection.” Remaining in any ignorance by staying silent about or not understanding the ramifications of unjust privilege only continue to keep it on life support.
+_"Lukewarm acceptance is much more bewildering than outright rejection.”_ Remaining in any ignorance by staying silent about or not understanding the ramifications of unjust privilege only continue to keep it on life support.
 
 Another complex that stifles our open communication about privilege is shame. In the same way that being born into circumstances with disadvantages is not a choice, neither is that of someone born into advantages. Coming into a life with certain privileges does not mean you are to be ashamed of who you are. You do a greater disservice to those less privileged than you by not utilizing the resources and opportunities you have in a healthy way.
 
@@ -79,7 +79,7 @@ Another complex that stifles our open communication about privilege is shame. In
 
 Consider, for example, if men chose to sit on their hands, too fearful or guilty about the privileges they have to do something; would that really be serving us women? Or, does it do more for us for them to speak up and encourage other men to collectively empower and further equality for women? Recently I watched Justin Baldoni’s TED Talk from this fall, and was left inspired in seeing exactly this:
 
-“Are you confident enough to listen to the women in your life? To hear their ideas and their solutions? To hold their anguish and actually believe them, even if what they're saying is against you? And will you be man enough to stand up to other men when you hear ‘locker room talk’, when you hear stories of sexual harassment?... Will you actually stand up and do something so that one day we don't have to live in a world where a woman has to risk everything and come forward to say the words ‘me too’?”
+_“Are you confident enough to listen to the women in your life? To hear their ideas and their solutions? To hold their anguish and actually believe them, even if what they're saying is against you? And will you be man enough to stand up to other men when you hear ‘locker room talk’, when you hear stories of sexual harassment?... Will you actually stand up and do something so that one day we don't have to live in a world where a woman has to risk everything and come forward to say the words ‘me too’?”_
 
 This month, and for each one to follow, may we approach privilege with open hands instead of clenched fists. Join us to lean in and listen to the experiences of those both alongside us, and as far as the other end of the earth. Reflect inward to find how you can utilize the privilege you have creatively, and be inspired by those before you to progress equality in any areas you lack it. Even though we may know to our core all in this world are equal, the reality is that all are not treated this way. To continue chipping away towards that future, we need to look this topic in the eye instead of shoving it in the corner. It is then we can truly use whatever form of privilege we have, over the course of our entire lives, to lift up those who have less.
 
