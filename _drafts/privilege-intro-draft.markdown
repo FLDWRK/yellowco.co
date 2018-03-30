@@ -29,7 +29,7 @@ Said in silence more than anything -
 “Don’t worry your little coral head,  
 honey, we like to stay color blind  
 Nonsense to get worked up over unsettling hues,  
-it’s just the way things are”
+it’s _just the way things are_”
 
 Still, you begin to wonder how many auroras it takes  
 fuschia and cerulean streaking before your eyes  
@@ -63,7 +63,7 @@ This type of privilege has pointed at so many different parts of humanity and bl
 
 ![yellow-59-Edit.jpg](/uploads/yellow-59-Edit.jpg)
 
-We know that the roots of these inequalities go deeply back into history. And though time has proven to make equality a larger reality and louder conversation, the influence of privilege remains a part of global society. One way we see possible to further the world’s movement in the right direction? Talking about it. Which is why this month, we want to focus on having discussions around privilege; the perceptions, experiences, and opportunities of each individual.
+We know that the roots of these inequalities go deeply back into history. And though time has proven to make equality a larger reality and louder conversation, the influence of privilege remains a part of global society. One way we see possible to further the world’s movement in the right direction? _Talking about it._ Which is why this month, we want to focus on having discussions around privilege; the perceptions, experiences, and opportunities of each individual.
 
 I can’t speak for others, but I don’t think I’m alone in having gone quite a long time in my youth not understanding the capacity to which some unwritten rules the world turns to are corrupt. That they are something to be recognized and are worth speaking up about when their consequences affect you. That they are not something to ignore when they burden someone else. In his “Letter from Birmingham City Jail”, Martin Luther King Jr. declares this responsibility to awareness,
 
