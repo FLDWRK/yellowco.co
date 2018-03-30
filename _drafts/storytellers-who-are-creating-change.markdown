@@ -11,7 +11,9 @@ I’ve heard it once said that story is currency. Humor might not always transla
 
 The stories that usually compel me most are not the ones that are from top-to-bottom exactly like mine, but maybe the ones that push the boundaries of what I know or am familiar with, yet still challenge me to find the relatability and humanness that exists in someone else’s voice. In sitting up and leaning in to hear another’s radically unique and personal story, we feel the unraveling. 
 
-Stories have the potency to reveal commonalities, elevate empathy and narrow the chasms between us. Whether it’s through song, testimony, poetry, picture, or movement, our individual interpretations of this life push light into the dark places. And slowly but surely, we can lend our eyes and hearts to each other when we recognize that seeing merely through our own lens will not do. With nearly 8 billion people orbiting the sun alongside you, don’t you wonder at the multitude of stories that exist between us and around us, waiting to be shared, waiting to bond us together? 
+### Stories have the potency to reveal commonalities, elevate empathy, and narrow the chasms between us. 
+
+Whether it’s through song, testimony, poetry, picture, or movement, our individual interpretations of this life push light into the dark places. And slowly but surely, we can lend our eyes and hearts to each other when we recognize that seeing merely through our own lens will not do. With nearly 8 billion people orbiting the sun alongside you, don’t you wonder at the multitude of stories that exist between us and around us, waiting to be shared, waiting to bond us together? 
 
 From birth to old age, stories compound and pulsate within us; few can argue with the truth that stories are worth sharing. Here is a list (though far from exhaustive) of some of my favorite story-tellers, truth-revealers, and light-bringers.
 
