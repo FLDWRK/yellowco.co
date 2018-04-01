@@ -11,7 +11,7 @@ series: Privilege
 
 Each month at Yellow, we explore and immerse ourselves into one focus - creating conversations between each other and within ourselves centered around topics that hold a lot of influence in our lives. As we begin to reflect and explore our new topic this month, we invite you into a moment to introduce our focus on Privilege. Join us in this meditation below to pause, reflect, and see what is unearthed in you.
 
-(meditation)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423083763&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <br>
 
@@ -87,5 +87,7 @@ This month, and for each one to follow, may we approach privilege with open hand
 ### It is then we take ownership over this place we are, blemishes and all, and tenderly, fiercely resolve for it to heal.
 
 <br>
+
+[![BLOG-IMAGE-TEMPLATE-april.jpg](/uploads/BLOG-IMAGE-TEMPLATE-april.jpg)](https://yellowcollective.lpages.co/april-free-pdf/)
 
 Photos by [Amy Hulst](https://www.forcollective.com/)
