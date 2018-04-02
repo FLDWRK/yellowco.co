@@ -36,4 +36,4 @@ I am constantly aware of my Blackness, but I also try to constantly remind mysel
 
 for those who didn’t grow up on our side of town, but still have brilliant minds and fascinating ideas to share. It’s also up to us to care enough to recognize our ugly past, and choose to take a seat so we can truly see and hear what those who are often forgotten or silenced in our society have to say. I, for one, look forward to the day where we can see the safety that is found in so many marginalized spaces move toward the center of society, so there can be a true sense of intersectionality as we march forward in our journey toward dismantling systems built on a foundation of racism and sexism. 
 
-Illustrations by 
+_Illustrations by [Laura Berger](https://www.lauraberger.com/)_
