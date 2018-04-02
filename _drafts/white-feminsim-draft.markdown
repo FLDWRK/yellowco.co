@@ -34,9 +34,9 @@ There has never been a period in the history of our country where America has fu
 
 ### If we are going to band together in our fight to end sexism and sexist oppression, then those in the center must recognize their own privilege and look to those in the margins for solutions. 
 
-![Everybody.jpg](/uploads/Everybody.jpg)
-
 I am constantly aware of my Blackness, but I also try to constantly remind myself of my privilege. I am a single woman who is able to work and support myself, then gleefully take myself back to my studio apartment where I can write, or cook, or lay in my bed for hours looking at videos of dogs. I am only able to do that because of the women (and men - hey ya’ll I haven’t forgotten about you), who have struggled so I can have all those freedoms and more. Now it is up to me to continue to look to those more marginalized than myself, so that I can continue to build the necessary bridges to bring them to the center; bringing lights to their stories and struggles so that one day life can be better for all.  
+
+![Everybody.jpg](/uploads/Everybody.jpg)
 
 ### At the end of the day, we will be the ones who collectively write the story of how we built bridges and opened doors of opportunity for people who don’t look like us; 
 
