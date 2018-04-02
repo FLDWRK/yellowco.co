@@ -24,9 +24,9 @@ As a woman of color who has spent much of her life in predominantly White spaces
 
 I read about our struggles, and I read about the people who have made our progress slower. Within the context of sisterhood and feminism, privilege gives those in the center, the ones most privilege in our society due to factors of race and class, the right to conveniently forget history, moves past true reconciliation, and into a space where the “centered” can then guilt the marginalized for not standing up for “all women”. All women? 
 
-![Floating__Falling-362077.jpg](/uploads/Floating__Falling-362077.jpg)
-
 ### Where has this talk of “all women” been in the last 100 years? Where has it even been in the last five? 
+
+![Floating__Falling-362077.jpg](/uploads/Floating__Falling-362077.jpg)
 
 How can we even begin to partner together or come up with common goals when so many women have felt wounded and betrayed by the ones who say “all women”.
 
