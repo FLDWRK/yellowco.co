@@ -1,5 +1,5 @@
 ---
-title: white feminsim draft
+title: white feminism draft
 date: 2018-04-02 13:44:00 -07:00
 ---
 
