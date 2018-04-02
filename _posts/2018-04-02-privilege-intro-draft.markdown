@@ -88,6 +88,6 @@ This month, and for each one to follow, may we approach privilege with open hand
 
 <br>
 
-[![BLOG-IMAGE-TEMPLATE-april (1).jpg](/uploads/BLOG-IMAGE-TEMPLATE-april%20(1).jpg)](https://yellowcollective.lpages.co/april-free-pdf/)
+[![BLOG-IMAGE-TEMPLATE-april (2).jpg](/uploads/BLOG-IMAGE-TEMPLATE-april%20(2).jpg)](https://yellowcollective.lpages.co/april-free-pdf/)
 
 Photos by [Amy Hulst](https://www.forcollective.com/)
