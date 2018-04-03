@@ -1,5 +1,5 @@
 ---
-title: white feminism draft
+title: Why Feminism Isn’t Actually Feminism Without Intersectionality
 date: 2018-04-04 04:00:00 -07:00
 categories:
 - Culture
