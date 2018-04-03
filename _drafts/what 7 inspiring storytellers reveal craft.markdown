@@ -1,5 +1,5 @@
 ---
-title: how these 7 storytellers
+title: What These 7 Inspiring Storytellers Reveal Through Their Craft
 date: 2018-04-06 04:00:00 -07:00
 categories:
 - Culture
@@ -45,7 +45,7 @@ Many first became familiar with Mindy Kaling as she starred in the American-adap
 
 ![storyteller -4.jpg](/uploads/storyteller%20-4.jpg)
 
-#### Dan Fogelman/Jason Katims
+#### Dan Fogelman & Jason Katims
 
 Dan Fogelman is the brilliant head writer and producer of some of your favorite television shows and movies, including “This Is Us,” “Tangled,” and “Crazy Stupid Love.” If you don’t like shows or movies with themes that hit you right in your gut or leave your cheeks tear-stained from the ugly cry, then maybe Fogelman isn’t the guy for you. And Jason Katims would be of no help to you either. Katims is best known for creating hit shows like Parenthood and Friday Night Lights, which both absolutely changed my life (hyperbole noted). But listen - both Fogelman and Katims are truth-tellers, made evident in the scenarios and seasons they write for their characters, thus honoring the real human experiences of their audiences. Prejudice, racial tension, foster care, adoption, insecurity, adolescence, love, heartbreak, growing up, marriage, parenting, leaning in, letting go - their shows cover it all. I just can’t get enough of these two and their wonderfully poignant way of capturing life vividly and authentically.  
 
