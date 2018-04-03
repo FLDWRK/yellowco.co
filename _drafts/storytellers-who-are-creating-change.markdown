@@ -1,5 +1,5 @@
 ---
-title: 7 storytellers draft
+title: how these 7 storytellers
 date: 2018-04-06 04:00:00 -07:00
 categories:
 - Culture
