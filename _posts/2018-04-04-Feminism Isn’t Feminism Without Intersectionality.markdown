@@ -28,7 +28,7 @@ I read about our struggles, and I read about the people who have made our progre
 
 ![Floating__Falling-362077.jpg](/uploads/Floating__Falling-362077.jpg)
 
-How can we even begin to partner together or come up with common goals when so many women have felt wounded and betrayed by the ones who say “all women”. Many within the world of feminism refer to this type of narrowly focused feminism as “white feminism”, a view that pushes an agenda that only benefits a small section of society without including women of color, poor women, Indigenous women, immigrant women, and those in the LGBTQIA community.
+How can we even begin to partner together or come up with common goals when so many women have felt wounded and betrayed by the ones who say “all women”. Many within the world of feminism refer to this type of narrowly focused feminism as “White feminism”, a view that pushes an agenda that only benefits a small section of society without including women of color, poor women, Indigenous women, immigrant women, and those in the LGBTQIA community.
 
 There has never been a period in the history of our country where America has fully recognized the ills of our past and made measurable efforts to break the yoke of oppression, or attempt to create any type of equality. I would say that the same is true when it comes to women and our fight. 
 
