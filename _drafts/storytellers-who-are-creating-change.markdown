@@ -4,7 +4,7 @@ date: 2018-04-06 04:00:00 -07:00
 categories:
 - Culture
 author: Chantelle Gibbs
-image: "/uploads/sarah-kay.jpg"
+image: "/uploads/storyteller%20-1.jpg"
 series: Privilege
 ---
 
@@ -22,15 +22,18 @@ From birth to old age, stories compound and pulsate within us; few can argue wit
 
 Sarah Kay has been my favorite spoken word artist for years. An incredibly gifted poet, the New York native travels the world performing, speaking and teaching on the value of poetry to elementary schoolers and adults alike. She was 14 when she first started sharing her poetry at the Bowery Poetry Club in East Village and has since taken her poems to spaces such as the Lincoln Center, the United Nations, and even right to the TED Conference stage in 2011 (the last of which you can watch on Youtube to add to the already garnered 7 million plus views!).  Some of her poems, including “B (If I Should Have a Daughter),” “Hiroshima,” and “The Type” will grip you and center you, elevating heart and soul before all else. May we not ever forget the beauty of the world around us, poetry unraveling before our eyes - “because,” as Kay says, “there’s nothing more beautiful than the way the ocean refuses to stop kissing the shoreline, no matter how many times it’s sent away.”
 
+![storyteller -2.jpg](/uploads/storyteller%20-2.jpg)
+
 #### Lin-Manuel Miranda
 	
 I can count the heroes in my life on one hand and Lin-Manuel Miranda is easily one of them. He is the heart-melting genius behind _In the Heights_, _Moana_, and the game-changing musical you can only afford to see in your dreams: _Hamilton_. But more than revolutionizing the theatre scene and frankly, the world with his work, the Pulitzer Prize winner is also an activist and perpetuator of good, specifically in the wake of the Hurricane Maria’s devastating aftermath in Puerto Rico. Perhaps one of the most prolific writers of our time, Miranda’s beautiful mind spills into stories and song with a vibrancy and buoyancy for life that connects and welds together generations, cultures, genres, and hearts. Follow him on Twitter @Lin_Manuel to see how he actually does write and create like he’s running out of time but truth is, we’re all better for it and all the more inspired as a result. 
 
 #### Eryn Allen Kane
 
-One minute into listening to Eryn Allen Kane sing for the first time, I was immediately confused as to how she at one point considered stopping her career. Now you might recognize her smooth 
-crooning on Chance the Rapper’s Coloring Book track, “Finish Line / Drown” or featured accompanying Thirdstory in their newly released acoustic video for their song, “Still in Love.” But there was a time after college when Kane wasn’t sure exactly how she felt about continuing on with music, so she spent a summer in Australia to gain clarity and direction. What followed was a phone call and invitation from the legend, Prince himself, asking her to sing on a song 
+One minute into listening to Eryn Allen Kane sing for the first time, I was immediately confused as to how she at one point considered stopping her career. Now you might recognize her smooth crooning on Chance the Rapper’s Coloring Book track, “Finish Line / Drown” or featured accompanying Thirdstory in their newly released acoustic video for their song, “Still in Love.” But there was a time after college when Kane wasn’t sure exactly how she felt about continuing on with music, so she spent a summer in Australia to gain clarity and direction. What followed was a phone call and invitation from the legend, Prince himself, asking her to sing on a song 
 with him. Kane’s talent is undeniable, but what sets her apart is the way she writes and sings with this raw response to the world she sees around her, whether that’s the outcry and prayer of “Have Mercy” or the charged and bone-rattling depth of “How Many Times.” 
+
+![storyteller -3.jpg](/uploads/storyteller%20-3.jpg)
 
 #### Joseph
 
@@ -39,6 +42,8 @@ This sweet trio of sisters from Portland, Oregon has music in their blood and ho
 #### Mindy Kaling
 
 Many first became familiar with Mindy Kaling as she starred in the American-adapted hit show, ‘The Office,’ as spitfire Kelly Kapoor. Kaling was also responsible for writing near 22 episodes for the show’s entire run, along with a couple directing credits as well. She went on to create, produce, write and star in her own sitcom, The Mindy Project, which was one of the first times if not the first time I had ever seen an Indian-American woman pioneer such a project with hilarity, excellence and great success. I’ve read both of her New York Times best-selling memoirs, which are both delightful snapshots and mementos of the road traversed by a woman of color forging her own path in Hollywood. Representation matters and it’s like water to my soul seeing a strong female comedian person of color calling shots and making magic. Her projects now include starring in director Ava Duvernay’s _A Wrinkle in Time_ currently out in theatres, along with creating a brand new show on NBC, “Champions, which features a radically diverse cast with an affinity for musical theatre (these are a few of my favorite things). 
+
+![storyteller -4.jpg](/uploads/storyteller%20-4.jpg)
 
 #### Dan Fogelman/Jason Katims
 
