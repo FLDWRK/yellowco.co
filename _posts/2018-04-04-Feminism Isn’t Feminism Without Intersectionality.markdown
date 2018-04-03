@@ -16,7 +16,7 @@ On the particular evening that this group conversation started, I just happened 
 
 ### Like many of you, I have had moments in my life where someone says something that I don’t agree with and I have to take a moment to collect my thoughts so I can respond clearly, rationally, and with as much empathy as I can muster. 
 
-![Alliance.jpg](/uploads/Alliance.jpg)
+![Why Feminism Isn’t Actually Feminism Without Intersectionality - Yellow Co.jpg](/uploads/Alliance.jpg)
 
 As a woman of color who has spent much of her life in predominantly White spaces, this is something that I have had to practice over and over again. However, this is something I don’t have to do in the safe space created by my fellow sisters in our group chat. In that space I can be real, I can be a mess, and I can be wrong, because I know they will check me if I am. This evening, I proceeded to send about 10 voice memos to the chat venting about why I thought it was wrong for these White women to call out my friend. By memo number nine, I was able to succinctly communicate why I hated the responses she was getting so much. 
 
@@ -26,7 +26,7 @@ I read about our struggles, and I read about the people who have made our progre
 
 ### Where has this talk of “all women” been in the last 100 years? Where has it even been in the last five? 
 
-![Floating__Falling-362077.jpg](/uploads/Floating__Falling-362077.jpg)
+![Why Feminism Isn’t Actually Feminism Without Intersectionality - Yellow Co.jpg](/uploads/Floating__Falling-362077.jpg)
 
 How can we even begin to partner together or come up with common goals when so many women have felt wounded and betrayed by the ones who say “all women”. Many within the world of feminism refer to this type of narrowly focused feminism as “White feminism”, a view that pushes an agenda that only benefits a small section of society without including women of color, poor women, Indigenous women, immigrant women, and those in the LGBTQIA community.
 
@@ -36,7 +36,7 @@ There has never been a period in the history of our country where America has fu
 
 I am constantly aware of my Blackness, but I also try to constantly remind myself of my privilege. I am a single woman who is able to work and support myself, then gleefully take myself back to my studio apartment where I can write, or cook, or lay in my bed for hours looking at videos of dogs. I am only able to do that because of the women (and men - hey ya’ll I haven’t forgotten about you), who have struggled so I can have all those freedoms and more. Now it is up to me to continue to look to those more marginalized than myself, so that I can continue to build the necessary bridges to bring them to the center; bringing lights to their stories and struggles so that one day life can be better for all.  
 
-![Everybody.jpg](/uploads/Everybody.jpg)
+![Why Feminism Isn’t Actually Feminism Without Intersectionality - Yellow Co.jpg](/uploads/Everybody.jpg)
 
 ### At the end of the day, we will be the ones who collectively write the story of how we built bridges and opened doors of opportunity for people who don’t look like us; 
 
