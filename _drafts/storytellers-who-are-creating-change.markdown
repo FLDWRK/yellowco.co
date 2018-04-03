@@ -4,7 +4,7 @@ date: 2018-04-06 04:00:00 -07:00
 categories:
 - Culture
 author: Chantelle Gibbs
-image: "/uploads/test-77a26e.jpg"
+image: "/uploads/sarah-kay.jpg"
 series: Privilege
 ---
 
