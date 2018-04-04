@@ -18,7 +18,7 @@ Whether it’s through song, testimony, poetry, picture, or movement, our indivi
 
 From birth to old age, stories compound and pulsate within us; few can argue with the truth that stories are worth sharing. Here is a list (though far from exhaustive) of some of my favorite story-tellers, truth-revealers, and light-bringers.
 
-#### [1. Sarah Kay: Poet](http://www.kaysarahsera.com/)
+#### [Sarah Kay, _Poet_](http://www.kaysarahsera.com/)
 
 [Sarah Kay](http://www.kaysarahsera.com/) has been my favorite spoken word artist for years. An incredibly gifted poet, the New York native travels the world performing, speaking and teaching on the value of poetry to elementary schoolers and adults alike. She was 14 when she first started sharing her poetry at the Bowery Poetry Club in East Village and has since taken her poems to spaces such as the Lincoln Center, the United Nations, and even right to the TED Conference stage in 2011 (the last of which you can watch [here](https://www.ted.com/talks/sarah_kay_if_i_should_have_a_daughter) to add to the already garnered 11 million plus views!). Some of her poems, including “B (If I Should Have a Daughter),” “Hiroshima,” and “The Type” will grip you and center you, elevating heart and soul before all else. May we not ever forget the beauty of the world around us, poetry unraveling before our eyes - “because,” as Kay says, “there’s nothing more beautiful than the way the ocean refuses to stop kissing the shoreline, no matter how many times it’s sent away.”
 
