@@ -13,6 +13,6 @@ In case you missed it, we are SO excited to share that each entire event will be
 
 In addition to each stop being fully livestreamed, we've been sharing every detail (great and not-so-glamorous) in our [Tour Journal](http://www.yellowtour.co/)! Follow along with us [here](http://www.yellowtour.co/) up the coast with videos, reflections, and the (often equally beautiful and hilarious) musings of Joanna and Kacy! You can also catch all the details by following our [#theyellowcotour](https://www.instagram.com/explore/tags/theyellowcotour/) on Instagram!
 
-Can't wait to see all you ladies and spend time with you in our cities! If you haven't grabbed a ticket yet for your tour stop, find all the details and sign up here!
+Can't wait to see all you ladies and spend time with you in our cities! If you haven't grabbed a ticket yet for your tour stop, find all the details and [sign up here](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)!
 
 [#### Grab your Yellow Co. Tour ticket here!](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/)
