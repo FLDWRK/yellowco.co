@@ -1,6 +1,8 @@
 ---
 title: Can't Make it to a Yellow Tour Stop? Livestream each event from home for free!
 date: 2018-04-09 04:00:00 -07:00
+categories:
+- Growth
 author: Yellow Co.
 series: Privilege
 ---
