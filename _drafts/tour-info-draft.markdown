@@ -1,5 +1,6 @@
 ---
-title: Can't Make it to a Yellow Tour Stop? Livestream each event from home for free!
+title: Can't Make It to a Yellow Tour Stop? Livestream Each Pop-Up Conference from
+  Home for Free!
 date: 2018-04-09 04:00:00 -07:00
 categories:
 - Growth
