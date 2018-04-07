@@ -25,9 +25,7 @@ Since that moment nearly five years ago, Parker Clay has since opened up our own
 
 ### Besides following fair trade practices, we pay our employees an average of 87% above local wage rates.
 
-We also offer additional benefits to our employees including pension, generous vacation policies, transportation to and from work, access to laundry facilities, daily coffee breaks, savings groups, and more.
-
-We have continued to partner with Ellilta - Women at Risk by sourcing all of our woven blankets and jewelry products from them, and I maintain a close relationship with their staff to consult on leadership and development opportunities. 
+We also offer additional benefits to our employees including pension, generous vacation policies, transportation to and from work, access to laundry facilities, daily coffee breaks, savings groups, and more. We have continued to partner with Ellilta - Women at Risk by sourcing all of our woven blankets and jewelry products from them, and I maintain a close relationship with their staff to consult on leadership and development opportunities. 
 
 ![undecorated_home_2_1024x1024.jpg](/uploads/undecorated_home_2_1024x1024.jpg)
 
