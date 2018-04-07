@@ -16,6 +16,8 @@ It’s certainly not how most humans live. Not because they don't choose to, but
 
 I attended a wellness event recently where a woman was speaking about eating mindfully and intuitively. This is exactly how I work with my own nutrition clients, so I was excited to hear from someone else on the subject. A question was directed to the speaker about how to combat binge eating or simply overeating and the woman responded with a well-thought out answer, but then said, “Leave some food on the table. If you don’t finish it today, there’s always more tomorrow.”
 
+![alison-marras-361007-unsplash.jpg](/uploads/alison-marras-361007-unsplash.jpg)
+
 My breath caught in my chest. No one else seemed to be caught off-guard by this comment. The talk continued and we were dismissed for a bit of free time. I couldn’t shake the feeling that I was in the wrong place. That I missed an opportunity to speak up and say, "Hey, that is not at all true." To call this group of women out on their obvious privilege. 
 
 ### There are 23.5 million people in the United States who live in a food desert. 
@@ -24,7 +26,9 @@ They live in areas where access to affordable, healthy food options are limited 
 
 I was floored and angry and confused. I received a master’s in nutrition education and every course I took looked heavily on socioeconomic factors. In every assignment I was thinking, "How would this affect someone in a food desert? How can I assist change when there are fast food restaurants on every corner? What’s the healthiest way to use food stamps?" 
 
-### It was a stark realization to see I seemed to be the only one in the green smoothie, yoga-loving, tofu-eating, $70 eco-friendly-made-in-America-t-shirt-wearing club who could see how our privilege was blinding us.
+### It was a stark realization to see I seemed to be the only one in the green-smoothie-drinking, yoga-loving, tofu-eating, $70 eco-friendly made in America t-shirt wearing club who could see how our privilege was blinding us.
+
+![mikael-cho-344275-unsplash.jpg](/uploads/mikael-cho-344275-unsplash.jpg)
 
 I am grateful for the wellness trend happening right now. While there may be some blatant errors in how some choose to approach it - the overall sentiment is simple and effective: make healthier choices. Not just with food and exercise, but in any way we choose to use our time and resources. 
 
@@ -32,11 +36,15 @@ I am grateful for the wellness trend happening right now. While there may be som
 
 Choosing to live the eco-friendly, conscious lifestyle is a choice reserved for those with means, opportunity, and education. We have to remember that not everyone - in fact, most - cannot make the same choices we make with our money. There are 66% of us in America who have to make a choice between health care and food purchases. These people don’t need to hear the endless benefits of organic produce and $5 avocados. 
 
+![brooke-lark-209712-unsplash.jpg](/uploads/brooke-lark-209712-unsplash.jpg)
+
 We need to check our privilege at the door and realize that this is a personal choice. That pair of shoes you just bought that were handmade a few miles away, by workers who are paid well and using ethically-sourced materials? It’s worth 6 weeks of food for a family of 4. So please, buy the shoes. Eat the organic grass-fed beef. Use the $50 chemical-free face cream. Because you can. 
 
 ### You have the incredible power to use your dollars for good. To support businesses and products building the health and wellness wave and allowing it to thrive. 
 
 And perhaps, by using those dollars for good you can challenge other businesses to up their standards, adjust their missions, and begin to incorporate the products that do good. You have the ability to make that choice. But don’t shame or question anyone who doesn’t make those same choices. 
+
+![sarah-dorweiler-211779-unsplash.jpg](/uploads/sarah-dorweiler-211779-unsplash.jpg)
 
 Eventually, as those who can continue to make their eco-friendly, conscious purchases, supply will go up, prices will decrease, education will expand, and the people who can’t make those choices and purchases now will be able to start to partake in the growing trend. I believe we vote with our dollars. 
 
