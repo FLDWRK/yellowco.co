@@ -10,7 +10,9 @@ series: Privilege
 
 I choose to shop at the farmers market and grow many of my own vegetables. I choose to purchase clothing from ethical retailers. I choose to fill my bathroom with eco-conscious shampoos and lotions and makeups. I can more easily make that choice because I am an upper-middle class White woman. I’m well-educated with my own business, and am married to a well-educated successful White man. We have the means, the education, and the ability to live the way we do - to make the choices we make with how we spend our money.
 
-And while those choices are certainly healthy and worthwhile, it’s not how most Americans live. It’s certainly not how most humans live. Not because they don't choose to, but because they don’t have the means. 
+### And while these choices are certainly healthy and worthwhile, it’s not how most Americans live. 
+
+It’s certainly not how most humans live. Not because they don't choose to, but because they don’t have the means. 
 
 I attended a wellness event recently where a woman was speaking about eating mindfully and intuitively. This is exactly how I work with my own nutrition clients, so I was excited to hear from someone else on the subject. A question was directed to the speaker about how to combat binge eating or simply overeating and the woman responded with a well-thought out answer, but then said, “Leave some food on the table. If you don’t finish it today, there’s always more tomorrow.”
 
