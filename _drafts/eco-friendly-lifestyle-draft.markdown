@@ -1,5 +1,5 @@
 ---
-title: conscious living
+title: What We Must Remember When We Choose to Live a Conscious Lifestyle
 date: 2018-04-13 04:00:00 -07:00
 categories:
 - Conscious Living
