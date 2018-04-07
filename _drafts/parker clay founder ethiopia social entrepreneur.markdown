@@ -41,6 +41,8 @@ We live in a place where we are able to help make the connections between people
 
 Instead of being frustrated and dislike the wealth and privilege of the community we are a part of, we choose to be thankful for having that benefit in our lives – to be able to use our resources to help others. We do so not out of obligation, but because it is a privilege.
 
+![bentley-family-1075.jpeg](/uploads/bentley-family-1075.jpeg)
+
 ###### You guys are from Santa Barbara, a primarily White and wealthy place, and you work with people from a totally different culture and background than yours. Have you ever felt an internal conflict regarding the privilege you've been given? How do you process through that?
 
 ### We didn’t choose to be born in our privilege, but we have a choice daily to be conscious of our purchases. 
@@ -49,6 +51,8 @@ We can make effort to make purchases that build stronger communities and healthi
 
 Santa Barbara is an incredible community with people who genuinely want to have an impact on the world. After adopting our daughter from Ethiopia our vision became globally focused, and while we loved Santa Barbara we ready to leave when we packed up our family and flew to Ethiopia. However, the more years we were away we were so thankful to look back at the privilege we had while living in California. Our daughter was diagnosed with a brain tumor and epilepsy while we lived in Ethiopia. Because of our privilege we were able to fly back to California and access amazing medical care. We continue to receive services for her physical therapy and her education, we are humbled that we have access to this. 
 
+![bentley-family-1055.jpeg](/uploads/bentley-family-1055.jpeg)
+
 ###### Tell us about your experience living in Ethiopia.
 
 We learned the importance of relationship. In many low income countries where a lot of international aid is flowing, it’s not uncommon to see a constant turnover of new faces. We saw a lot of people come and go, and it was at about the first year mark that we noticed a larger turnover. Many people would come, stay for a year and leave. 
@@ -56,6 +60,8 @@ We learned the importance of relationship. In many low income countries where a 
 ### For us, living there three years showed us a completely different side of Ethiopia, deeper connections, relationships, and trust.  
 
 We loved that connection and it still feels like home. When we go back, it’s often surprising to Ethiopians that we meet for the first time when we speak Amharic, the local language, with them. We loved the culture, its family style embrace, and observed time and time again the beauty through such challenging circumstances. It really redefined what true strength is for me. 
+
+![Copy_of_yellow_conference-carly_mask-66_1024x1024.jpg](/uploads/Copy_of_yellow_conference-carly_mask-66_1024x1024.jpg)
 
 ###### You have empowered and built strong relationships with so many women in Ethiopia. How do the women you work with overseas view your life and upbringing here in the states?
 
@@ -66,6 +72,8 @@ Most of my time was spent with women who had been in vulnerable situations or le
 ### The humbling part of empowerment in cases like this, is that I thought I would be the one to offer support, but in many cases I ended up learning and receiving so much care from them as well. 
 
 When we adopted our second daughter, when my daughter needed surgery, or when I found out I was pregnant, they rejoiced with me, prayed with me, and cared for me. Their strength in community is something that is powerful to be part of.
+
+![IMG_5905.jpeg](/uploads/IMG_5905.jpeg)
 
 ###### If you were to speak to privileged women here in the States and tell them one thing you've learned from your work, what would you tell them?
 
