@@ -1,5 +1,6 @@
 ---
-title: interview with founder of parker clay
+title: Parker Clay Founder Shares What 3 Years of Living (& Launching a Business)
+  in Ethiopia Taught Her
 date: 2018-04-11 04:00:00 -07:00
 categories:
 - Entrepreneurs
@@ -37,7 +38,9 @@ Instead of being frustrated and dislike the wealth and privilege of the communit
 
 ##### 3. You guys are from Santa Barbara, a primarily White and wealthy place, and you work with people from a totally different culture and background than yours. Have you ever felt an internal conflict regarding the privilege you've been given? How do you process through that?
 
-We didn’t choose to be born in our privilege, but we have a choice daily to be conscious of our purchases. We can make effort to make purchases that build stronger communities and healthier families. It’s amazing to have large retail stores where we can get everything we want, but it was very overwhelming when we came “home”… it was a privilege in Ethiopia to step outside our front door and have a little market shop to get last minute food. Living intentionally and simply was such a privilege in Ethiopia, and a challenge with 5 kids in America!
+### We didn’t choose to be born in our privilege, but we have a choice daily to be conscious of our purchases. 
+
+We can make effort to make purchases that build stronger communities and healthier families. It’s amazing to have large retail stores where we can get everything we want, but it was very overwhelming when we came “home”… it was a privilege in Ethiopia to step outside our front door and have a little market shop to get last minute food. Living intentionally and simply was such a privilege in Ethiopia, and a challenge with 5 kids in America!
 
 Santa Barbara is an incredible community with people who genuinely want to have an impact on the world. After adopting our daughter from Ethiopia our vision became globally focused, and while we loved Santa Barbara we ready to leave when we packed up our family and flew to Ethiopia. However, the more years we were away we were so thankful to look back at the privilege we had while living in California. Our daughter was diagnosed with a brain tumor and epilepsy while we lived in Ethiopia. Because of our privilege we were able to fly back to California and access amazing medical care. We continue to receive services for her physical therapy and her education, we are humbled that we have access to this. 
 
