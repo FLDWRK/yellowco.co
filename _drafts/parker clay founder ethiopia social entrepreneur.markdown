@@ -5,6 +5,7 @@ date: 2018-04-11 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Joanna Waterfall
+image: "/uploads/Parker%20Clay%20Founder%20Shares%20What%203%20Years%20of%20Living%20(&%20Launching%20a%20Business)%20in%20Ethiopia%20Taught%20Her.jpg"
 series: Privilege
 ---
 
