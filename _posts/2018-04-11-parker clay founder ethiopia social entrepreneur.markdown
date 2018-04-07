@@ -71,7 +71,7 @@ Most of my time was spent with women who had been in vulnerable situations or le
 
 When we adopted our second daughter, when my daughter needed surgery, or when I found out I was pregnant, they rejoiced with me, prayed with me, and cared for me. Their strength in community is something that is powerful to be part of.
 
-![IMG_5905.jpeg](/uploads/IMG_5905.jpeg)
+![pc 2.jpg](/uploads/pc%202.jpg)
 
 ###### If you were to speak to privileged women here in the States and tell them one thing you've learned from your work, what would you tell them?
 
