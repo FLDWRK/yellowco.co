@@ -9,7 +9,7 @@ image: "/uploads/Parker%20Clay%20Founder%20Shares%20What%203%20Years%20of%20Livi
 series: Privilege
 ---
 
-_So many social enterprises are built from truly amazing stories, but a long-standing favorite of ours has always been the story of [Parker Clay](https://www.parkerclay.com/). In so many ways, husband and wife co-founders, Brittany and Ian Bentley, have used their passions and resources to not just empower and impact others for good, but to learn from them. Their collection of gorgeous leather goods and textiles are made ethically by women in Ethiopia - a country where they not only adopted two of their five children and lived for three years, but where the heart of Parker Clay was born. Read more on their story and how they built an incredible community despite cultural differences in our interview with Brittany! It's a good one._
+_So many social enterprises are built from truly amazing stories, but a long-standing favorite of ours has always been the story of [Parker Clay](https://www.parkerclay.com/). In so many ways, husband and wife co-founders, Brittany and Ian Bentley, have used their passions and resources to not just empower and impact others for good, but to learn from them. Their collection of gorgeous leather goods and textiles are made ethically [by women in Ethiopia](https://www.parkerclay.com/pages/our-mission) - a country where they not only adopted two of their five children and lived for three years, but where the heart of Parker Clay was born. Read more on their story and how they built an incredible community despite cultural differences in our interview with Brittany! It's a good one._
 
 ###### Tell us a bit about your company. Who are you, what do you do, and how are you changing the world?
 
