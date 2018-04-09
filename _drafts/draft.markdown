@@ -16,7 +16,7 @@ I’d spent a few summers in New York, I was in the arts, and moderately well tr
 
 One of my first courses was a class on cultural policy, and an early assignment required us to conceive and pitch an idea that could bring the local Santa Clarita Valley community together through the arts. In my hometown in Texas, our biggest community event every year was centered around celebrating the Fourth of July. The town spent major dollars bringing in big-name music acts, hosting a huge carnival, setting up tons of food vendors, and dedicated several blocks of booths to local Texas artisans. Our suburb was (and still is) largely racially segregated by neighborhood, but at this event, everyone was there. I loved it. So I came up with a more arts-focused pitch about bringing the SCV community together on the Fourth of July, and confidently shared it with my class. 
 
-![yellow-16.jpg](/uploads/yellow-16.jpg)
+![yellow-30-c390bf.jpg](/uploads/yellow-30-c390bf.jpg)
 
 Despite my enthusiasm, the idea was not well received by my classmates. I was surprised. Then a classmate of mine, a brilliant graduate from Howard University, shook my basic, 22-year-old, White girl world forever. “I wouldn’t attend that event,” she said. “Why? It’s a national holiday. Everyone loves the Fourth of July,” I rebutted. “For you, I’m sure it’s fun. But I don’t celebrate it. Black people were not free on Independence Day.” 
 
