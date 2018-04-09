@@ -49,4 +49,4 @@ It’s never too late to do the work. So what if it’s hard? Lean into that dis
 
 Whiteness is like getting a big head start on a race that everyone’s running, and that’s the truth no matter what your economic or educational privileges are. None of us has power over the skin color we are born with, but we do have the power over the way we treat others, and the way we use our realities to influence the world around us. We have all the knowledge we need at our fingertips, we just have to open our eyes and ears. 
 
-_Photos by _
+_Photos by [Natalie Crane](http://www.likemorningsun.com/)_
