@@ -1,6 +1,8 @@
 ---
 title: How I Learned to See My White Privilege as a Responsibility
 date: 2018-04-20 04:00:00 -07:00
+categories:
+- Growth
 author: Laura Youngkin
 image: "/uploads/yellow-19.jpg"
 series: Privilege
