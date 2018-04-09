@@ -16,7 +16,7 @@ I’d spent a few summers in New York, I was in the arts, and moderately well tr
 
 One of my first courses was a class on cultural policy, and an early assignment required us to conceive and pitch an idea that could bring the local Santa Clarita Valley community together through the arts. In my hometown in Texas, our biggest community event every year was centered around celebrating the Fourth of July. The town spent major dollars bringing in big-name music acts, hosting a huge carnival, setting up tons of food vendors, and dedicated several blocks of booths to local Texas artisans. Our suburb was (and still is) largely racially segregated by neighborhood, but at this event, everyone was there. I loved it. So I came up with a more arts-focused pitch about bringing the SCV community together on the Fourth of July, and confidently shared it with my class. 
 
-![yellow-30-c390bf.jpg](/uploads/yellow-30-c390bf.jpg)
+![How I Learned to See My White Privilege as a Responsibility - Yellow Co.jpg](/uploads/yellow-30-c390bf.jpg)
 
 Despite my enthusiasm, the idea was not well received by my classmates. I was surprised. Then a classmate of mine, a brilliant graduate from Howard University, shook my basic, 22-year-old, White girl world forever. “I wouldn’t attend that event,” she said. “Why? It’s a national holiday. Everyone loves the Fourth of July,” I rebutted. “For you, I’m sure it’s fun. But I don’t celebrate it. Black people were not free on Independence Day.” 
 
@@ -28,7 +28,7 @@ I walked out with the most sinking, hot feeling in the pit of my stomach. I was 
 
 ### If White privilege meant that everything I’d accumulated or achieved in my short life was solely because of the color of my skin, then I did not want it anymore. 
 
-![yellow-13.jpg](/uploads/yellow-13.jpg)
+![How I Learned to See My White Privilege as a Responsibility - Yellow Co.jpg](/uploads/yellow-13.jpg)
 
 I spiraled. Did this mean I was a fraud? An idiot? How did I not know that my Black friends and classmates, even in Texas, may have shared this point of view? Was I racist and oblivious? And to what extent? 
 
@@ -42,7 +42,7 @@ That classroom conversation led to months and years of reading, listening, and s
 
 It is my responsibility to understand and consider their perspective always. It is not their responsibility to teach me, although so many non-White friends have graciously guided me over the last decade. I know I cannot expect or require their labor on this – it is up to me to do this work. 
 
-![yellow-17.jpg](/uploads/yellow-17.jpg)
+![How I Learned to See My White Privilege as a Responsibility - Yellow Co.jpg](/uploads/yellow-17.jpg)
 
 I must yield my privilege with care. I will fail at being an ally, and that means I will always have to work harder at it. I can’t burrow in White guilt either, because that’s just another way to avoid responsibility. I think there’s a perception among White people that this mindset is somehow a burden. I promise you it’s not; it’s the opposite.  
 
@@ -52,7 +52,7 @@ Why does this matter? Because to whom much is given, much is expected. White pri
 
 The societal consequences of ignoring this conversation are severe. Abuse of White privilege is all around us, especially now. Once you see it, you never stop seeing it. If you’re not actively working towards awareness, then you’re on the other team. Personally, that’s not a team I’d want to be on. And no, no one expects White people to walk around feeling ashamed for being White all the time – no one’s asking that. But I do believe we have to acknowledge our responsibility to our fellow humans, and use our privilege to help or serve, and never to harm.  
 
-![yellow-31.jpg](/uploads/yellow-31.jpg)
+![How I Learned to See My White Privilege as a Responsibility - Yellow Co.jpg](/uploads/yellow-31.jpg)
 
 Sharing this story with you is honestly… uncomfortable. A little embarrassing, sure. But I’m sharing my light-bulb moment because I hope it may spark something in the White people who read this story and know they have more to learn. 
 
