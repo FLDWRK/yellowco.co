@@ -2,6 +2,7 @@
 title: draft
 date: 2018-04-18 04:00:00 -07:00
 author: Laura Youngkin
+image: "/uploads/yellow-19.jpg"
 series: Privilege
 ---
 
