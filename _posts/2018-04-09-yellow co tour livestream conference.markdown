@@ -5,6 +5,7 @@ date: 2018-04-09 04:00:00 -07:00
 categories:
 - Growth
 author: Yellow Co.
+image: "/uploads/sdedited(75of202)%20(2).jpg"
 series: Privilege
 ---
 
