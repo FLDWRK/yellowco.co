@@ -13,7 +13,7 @@ series: Privilege
 
 In case you missed it, we are SO excited to share that each entire event will be livestreamed (for FREE), so that everyone can be a part of each stop! Simply [head to this link](https://yellowco.co/live/) on the day of each event, grab a cup of coffee, and settle yourself in to hear some wisdom.
 
-#### [Livestream each pop-up conference here!](https://yellowco.co/live/)
+#### [Livestream each conference here!](https://yellowco.co/live/)
 
 ![sdedited(76of202) (1).jpg](/uploads/sdedited(76of202)%20(1).jpg)
 
