@@ -50,4 +50,4 @@ I know it’s hard! I am a willing participant in the social media generation, b
 
 I think meditation can be helpful for anyone who wishes to achieve a more centered state of mind. For those just starting, I recommend guided meditations. The [Insight](https://itunes.apple.com/us/app/insight-timer-meditation-app/id337472899?mt=8) app offers several guided meditations, or you can find options on Spotify, iTunes, and YouTube. I also have a [Meditation Mixtape](https://open.spotify.com/album/3Fm01zC9lox7X0NP05bdbf) that is available on all streaming platforms. Guided meditations are a great way to start your meditation journey. 
 
-_Photos by_
+_Photos courtesy of [Curvy, Curly, Conscious](http://www.curvycurlyconscious.com/)_
