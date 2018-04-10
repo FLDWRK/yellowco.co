@@ -4,7 +4,7 @@ date: 2018-04-16 04:00:00 -07:00
 categories:
 - Health
 author: Shelah Marie
-image: "/uploads/123.jpg"
+image: "/uploads/ShelahMarie-63dc94.jpg"
 series: Privilege
 ---
 
@@ -28,7 +28,7 @@ Many Black women I encounter suffer from the Superwoman Syndrome, which affects 
 
 Black women are taught historically, socially, on TV, in movies, and in literature that we are strong. “Ohh that’s a strong Black woman.” “Look at those strong legs!” At first it seems like a compliment, like, “Oh, thanks for calling me strong.” But the insidious part about it is that it implies that our strength means we can take more pain. Black women are about half as likely to be prescribed pain medication. 
 
-![ShelahMarie-63dc94.jpg](/uploads/ShelahMarie-63dc94.jpg)
+![123.jpg](/uploads/123.jpg)
 
 ### Black women are also about three to four times more likely to die of pregnancy or delivery complications than White women - why?
 
@@ -36,7 +36,7 @@ Sure, there are various complicated factors to justify those statistics - but on
 
 The most exciting part about our Curvy, Curly, Conscious movement is that I get a front row seat to the self-love revolution. We get to see women open the invitation to the self-love journey and release the guilt around taking care of themselves. 
 
-![cccatl (240 of 302).jpg](/uploads/cccatl%20(240%20of%20302).jpg)
+![cccatl (224 of 302).jpg](/uploads/cccatl%20(224%20of%20302).jpg)
 
 Healing is a birthright. Taking immaculate care of yourself is not an option. 
 
