@@ -9,7 +9,7 @@ image: "/uploads/image4%20(1).jpeg"
 series: Privilege
 ---
 
-_There is no question that our story; what we experience and face in our lives; deeply influences the passions we have to make an impact in the world. It is endlessly inspiring to see women doing just this, especially when this means turning a major challenge they have faced into something beautiful that serves others. After the loss of her hand and eye in an accident, [Lauren Scruggs Kennedy](http://www.lskfoundation.com/) set out to bring hope, restore confidence, and ignite faith in women and girls who have also experienced limb loss. Hear more of her story and her gratitude-filled perspective on life below!_
+_There is no question that our story; what we experience and face in our lives; deeply influences the passions we have to make an impact in the world. It is endlessly inspiring to see women putting those passions into action, especially when this means turning a major challenge they have faced into something beautiful that serves others. After the loss of her hand and eye in an accident, [Lauren Scruggs Kennedy](http://www.lskfoundation.com/) set out to bring hope, restore confidence, and ignite faith in women and girls who have also experienced limb loss. Hear more of her story and her gratitude-filled perspective on life below!_
 
 ###### Tell us a little bit about yourself! What do you do and how are you using your work to make an impact on the world?
 
