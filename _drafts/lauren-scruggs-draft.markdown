@@ -20,6 +20,8 @@ I also launched my charity, called [The Lauren Scruggs Kennedy Foundation](http:
 
 What is truly important seems extra clear during those times, which is such a gift! My experience made me realize how short life is, how many people experience pain, and how life changing, difficult circumstances are for the best.
 
+![image2 (3).jpeg](/uploads/image2%20(3).jpeg)
+
 ###### [Our focus this month at Yellow is "privilege".](https://yellowco.co/blog/) It's a touchy subject, and is mostly seen in a negative light, but we see privilege as a responsibility. How do you see privilege? 
 
 This is so interesting to think about! We have discussions similar to this with the perspective that God puts us in the place we are for a reason and gives us our stories and experiences for a reason! The word privilege reminds me to always be thankful for what we have, to keep giving more, and it reminds me to view any public visibility as a responsibility and opportunity to bring hope to people!
@@ -27,6 +29,8 @@ This is so interesting to think about! We have discussions similar to this with 
 ###### It's not our natural tendency to see our physical abilities as privilege, but in reality they really are. How did your circumstances change the way you look at the privileges you have? 
 
 They made me extra thankful for what I do have. For instance, I am so thankful for the amount of arm I still have, even though I am missing my hand. I am able to do so much because of the length of my arm, and it makes it easy to wear a prosthesis comfortably, hold a baby, carry groceries, and put up my hair. I also hear so many stories that specifically revolve around limb loss, and it makes me overwhelmed with gratefulness for what I have - two legs, two arms,  and one hand!
+
+![image5.jpeg](/uploads/image5.jpeg)
 
 ###### You recently launched the Lauren Scruggs Kennedy Foundation, which exists to bring hope, restore dignity, and ignite faith in girls and women with limb loss by providing beautiful cosmetic coverings for prostheses. Through this you're truly exemplifying how to use your own experience and story to give back to those in need. What is your favorite success story that's come out of your foundation? 
 
@@ -36,9 +40,11 @@ Oh my goodness, each story is so extra special! Our first recipient, Diana’s s
 
 She is focused on living every day to the fullest with so much focus on how she can help others; so inspiring! It was also such a sweet experience because she received her arm before her wedding day! 
 
-###### You mention that your work is about "wellness rooted in balance". Where does that come from? 
+###### You mention that your work is about, "Wellness rooted in balance." Where does that come from? 
 
 I have learned so much about wellness as a whole specifically since my accident. It involves emotional health and awareness, spiritual health, and physical health; which includes rest and boundaries. So much easier said than done! I love sharing what I have learned and continue to learn in the journey of balancing life!
+
+![image3 (2).jpeg](/uploads/image3%20(2).jpeg)
 
 ###### What is one book, tool, or resource that has impacted you along your journey? 
 
