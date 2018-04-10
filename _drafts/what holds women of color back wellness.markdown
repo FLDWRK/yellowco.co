@@ -18,6 +18,8 @@ Through my work with Curvy, Curly, Conscious I have the privilege of intimately 
 
 It’s almost as if healing is a White woman’s sport. As a woman of color who grew up in the United States, when I hear the word privilege - my mind automatically hears, “White privilege.”  	
 
+![curvycurlyconscious.jpeg](/uploads/curvycurlyconscious.jpeg)
+
 Women of color, and Black women in particular, are not at all new to the healing arts, but we are just learning how to allow this for ourselves. 
 
 ### We can take care of our lovers, nurture our children, grow our businesses - but when it comes to our own personal self-care, we somehow draw a line in the sand. 
@@ -26,11 +28,15 @@ Many Black women I encounter suffer from the Superwoman Syndrome, which affects 
 
 Black women are taught historically, socially, on TV, in movies, and in literature that we are strong. “Ohh that’s a strong Black woman.” “Look at those strong legs!” At first it seems like a compliment, like, “Oh, thanks for calling me strong.” But the insidious part about it is that it implies that our strength means we can take more pain. Black women are about half as likely to be prescribed pain medication. 
 
+![ShelahMarie-63dc94.jpg](/uploads/ShelahMarie-63dc94.jpg)
+
 ### Black women are also about three to four times more likely to die of pregnancy or delivery complications than White women - why?
 
 Sure, there are various complicated factors to justify those statistics - but one is the fact that Black women don’t feel they have the right to complain. And we are perceived as being really good at taking pain. I am thrilled now to see a wave of Black women who know they deserve to take care of themselves, that self-care is a not a selfish act; but instead, a “self-full” act in the words of healer and TV Host, Iyanla Vanzant. 
 
 The most exciting part about our Curvy, Curly, Conscious movement is that I get a front row seat to the self-love revolution. We get to see women open the invitation to the self-love journey and release the guilt around taking care of themselves. 
+
+![cccatl (240 of 302).jpg](/uploads/cccatl%20(240%20of%20302).jpg)
 
 Healing is a birthright. Taking immaculate care of yourself is not an option. 
 
