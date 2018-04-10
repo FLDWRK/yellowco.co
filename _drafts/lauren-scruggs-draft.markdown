@@ -14,15 +14,15 @@ I am newly married, a new-ish resident to Los Angeles, and I am a twin who misse
 
 I also launched my charity, called [The Lauren Scruggs Kennedy Foundation](http://www.lskfoundation.com/), a little over a year ago. It has been such a joy to use my experience to help other women not feel alone in theirs! We provide beautiful cosmetic coverings for prosthetic arms and limbs for girls and women who have experienced limb loss. It has been so special to see all three of these projects intertwine together to help others!
 
-###### [Our focus this month at Yellow is "privilege".](https://yellowco.co/blog/) It's a touchy subject, and is mostly seen in a negative light, but we see privilege as a responsibility. How do you see privilege? 
-
-This is so interesting to think about! We have discussions similar to this with the perspective that God puts us in the place we are for a reason and gives us our stories and experiences for a reason! The word privilege reminds me to always be thankful for what we have, to keep giving more, and it reminds me to view any public visibility as a responsibility and opportunity to bring hope to people!
-
 ###### You were in a plane accident that almost took your life and resulted in the loss of your hand and eye - how did your pain help you find meaning in your life and work? 
 
 ### Anything tragic and momentarily life-stopping brings so much focus to life. 
 
 What is truly important seems extra clear during those times, which is such a gift! My experience made me realize how short life is, how many people experience pain, and how life changing, difficult circumstances are for the best.
+
+###### [Our focus this month at Yellow is "privilege".](https://yellowco.co/blog/) It's a touchy subject, and is mostly seen in a negative light, but we see privilege as a responsibility. How do you see privilege? 
+
+This is so interesting to think about! We have discussions similar to this with the perspective that God puts us in the place we are for a reason and gives us our stories and experiences for a reason! The word privilege reminds me to always be thankful for what we have, to keep giving more, and it reminds me to view any public visibility as a responsibility and opportunity to bring hope to people!
 
 ###### It's not our natural tendency to see our physical abilities as privilege, but in reality they really are. How did your circumstances change the way you look at the privileges you have? 
 
