@@ -27,7 +27,7 @@ What is truly important seems extra clear during those times, which is such a gi
 
 ###### [Our focus this month at Yellow is "privilege".](https://yellowco.co/blog/) It's a touchy subject, and is mostly seen in a negative light, but we see privilege as a responsibility. How do you see privilege? 
 
-This is so interesting to think about! We have discussions similar to this with the perspective that God puts us in the place we are for a reason and gives us our stories and experiences for a reason! The word privilege reminds me to always be thankful for what we have, to keep giving more, and it reminds me to view any public visibility as a responsibility and opportunity to bring hope to people!
+The word privilege reminds me to always be thankful for what we have, to keep giving more, and it reminds me to view any public visibility as a responsibility and opportunity to bring hope to people!
 
 ###### It's not our natural tendency to see our physical abilities as privilege, but in reality they really are. How did your circumstances change the way you look at the privileges you have? 
 
