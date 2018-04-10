@@ -19,19 +19,25 @@ This is so interesting to think about! We have discussions similar to this with 
 
 ###### You were in a plane accident that almost took your life and resulted in the loss of your hand and eye - how did your pain help you find meaning in your life and work? 
 
-Anything tragic and momentarily life-stopping brings so much focus to life. What is truly important seems extra clear during those times, which is such a gift! My experience made me realize how short life is, how many people experience pain, and how life changing, difficult circumstances are for the best.
+### Anything tragic and momentarily life-stopping brings so much focus to life. 
+
+What is truly important seems extra clear during those times, which is such a gift! My experience made me realize how short life is, how many people experience pain, and how life changing, difficult circumstances are for the best.
 
 ###### It's not our natural tendency to see our physical abilities as privilege, but in reality they really are. How did your circumstances change the way you look at the privileges you have? 
 
-They made me extra thankful for what I do have. For instance, I am so thankful for the amount of arm I still have even though I am missing my hand. I am able to do so much because of the length of my arm, and it makes it easy to wear a prosthesis comfortably, hold a baby, carry groceries, and put up my hair. I also hear so many stories that specifically revolve around limb loss, and it makes me overwhelmed with gratefulness for what I have - two legs, two arms,  and one hand!
+They made me extra thankful for what I do have. For instance, I am so thankful for the amount of arm I still have, even though I am missing my hand. I am able to do so much because of the length of my arm, and it makes it easy to wear a prosthesis comfortably, hold a baby, carry groceries, and put up my hair. I also hear so many stories that specifically revolve around limb loss, and it makes me overwhelmed with gratefulness for what I have - two legs, two arms,  and one hand!
 
 ###### You recently launched the Lauren Scruggs Kennedy Foundation, which exists to bring hope, restore dignity, and ignite faith in girls and women with limb loss by providing beautiful cosmetic coverings for prostheses. Through this you're truly exemplifying how to use your own experience and story to give back to those in need. What is your favorite success story that's come out of your foundation? 
 
-Oh my goodness, each story is so extra special! Our first recipient, Diana’s story, is what I related to most! She lost her arm recently, is really close to my age, and was engaged and is now married. Her warrior perspective was so beautiful and real to me. She is focused on living every day to the fullest with so much focus on how she can help others; so inspiring! It was also such a sweet experience because she received her arm before her wedding day! 
+Oh my goodness, each story is so extra special! Our first recipient, Diana’s story, is what I related to most! She lost her arm recently, is really close to my age, was engaged, and is now married. 
+
+### Her warrior perspective was so beautiful and real to me. 
+
+She is focused on living every day to the fullest with so much focus on how she can help others; so inspiring! It was also such a sweet experience because she received her arm before her wedding day! 
 
 ###### You mention that your work is about "wellness rooted in balance". Where does that come from? 
 
-I have learned so much about wellness as a whole specifically since my accident; it involves emotional health and awareness, spiritual health, and physical health, which includes rest and boundaries - so much easier said than done! I love sharing what I have learned and continue to learn in the journey of balancing life!
+I have learned so much about wellness as a whole specifically since my accident. It involves emotional health and awareness, spiritual health, and physical health; which includes rest and boundaries. So much easier said than done! I love sharing what I have learned and continue to learn in the journey of balancing life!
 
 ###### What is one book, tool, or resource that has impacted you along your journey? 
 
