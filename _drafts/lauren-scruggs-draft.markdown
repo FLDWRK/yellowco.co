@@ -8,6 +8,8 @@ image: "/uploads/image4%20(1).jpeg"
 series: Privilege
 ---
 
+_There is no question that our story; what we experience and face in our lives; deeply influences the passions we have to make an impact in the world. It is endlessly inspiring to see women doing just this, especially when this means turning a major challenge they have faced into something beautiful that serves others. After the loss of her hand and eye in an accident, [Lauren Scruggs Kennedy](http://www.lskfoundation.com/) set out to bring hope, restore confidence, and ignite faith in women and girls who have also experienced limb loss. Hear more of her story and her gratitude-filled perspective on life below!_
+
 ###### Tell us a little bit about yourself! What do you do and how are you using your work to make an impact on the world?
 
 I am newly married, a new-ish resident to Los Angeles, and I am a twin who misses my Dallas-based family more than words. I have a blog that I enjoy so much because it is a space that I am vulnerable and creative, and I cherish the online community that has been formed! I launched a dry shampoo company called [Stranded](https://thestrandedshop.com/) with my best friend, sister, and her husband a little over a year ago, and it has been the most rewarding learning experience and accomplishment. We cherish the journey so much! 
@@ -32,7 +34,7 @@ They made me extra thankful for what I do have. For instance, I am so thankful f
 
 ![image5.jpeg](/uploads/image5.jpeg)
 
-###### You recently launched the Lauren Scruggs Kennedy Foundation, which exists to bring hope, restore dignity, and ignite faith in girls and women with limb loss by providing beautiful cosmetic coverings for prostheses. Through this you're truly exemplifying how to use your own experience and story to give back to those in need. What is your favorite success story that's come out of your foundation? 
+###### You recently launched the [Lauren Scruggs Kennedy Foundation](http://www.lskfoundation.com/), which exists to bring hope, restore dignity, and ignite faith in girls and women with limb loss by providing beautiful cosmetic coverings for prostheses. Through this you're truly exemplifying how to use your own experience and story to give back to those in need. What is your favorite success story that's come out of your foundation? 
 
 Oh my goodness, each story is so extra special! Our first recipient, Diana’s story, is what I related to most! She lost her arm recently, is really close to my age, was engaged, and is now married. 
 
