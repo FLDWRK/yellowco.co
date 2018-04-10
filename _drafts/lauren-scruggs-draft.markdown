@@ -1,5 +1,6 @@
 ---
-title: lauren scruggs draft
+title: Meet the Entrepreneur Using Her Story of Overcoming to Help Other Women with
+  Limb Loss Do the Same
 date: 2018-04-18 04:00:00 -07:00
 categories:
 - Entrepreneurs
