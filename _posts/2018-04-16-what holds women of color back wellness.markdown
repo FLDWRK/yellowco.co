@@ -4,7 +4,7 @@ date: 2018-04-16 04:00:00 -07:00
 categories:
 - Health
 author: Shelah Marie
-image: "/uploads/ShelahMarie-63dc94.jpg"
+image: "/uploads/DSC_4470edit-web%20(2).jpg"
 series: Privilege
 ---
 
