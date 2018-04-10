@@ -57,4 +57,4 @@ The Bible, New Morning Mercies, and Present Over Perfect!
 
 I hope my work is always a tool to make a meaningful difference in the lives of others - offering hope, genuine encouragement, and wellness tips that impact the quality of life!  
 
-_Photos courtesy of [Lauren Scruggs](https://laurenscruggskennedy.com/)_
+_Photos courtesy of [Lauren Scruggs Kennedy](https://laurenscruggskennedy.com/)_
