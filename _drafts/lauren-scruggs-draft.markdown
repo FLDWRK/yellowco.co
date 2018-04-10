@@ -4,6 +4,7 @@ date: 2018-04-18 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Joanna Waterfall
+image: "/uploads/image4%20(1).jpeg"
 series: Privilege
 ---
 
