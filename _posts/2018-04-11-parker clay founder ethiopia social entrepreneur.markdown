@@ -15,7 +15,7 @@ _So many social enterprises are built from truly amazing stories, but a long-sta
 
 My husband (Ian) and I first traveled to Ethiopia in 2011 to adopt our first daughter, and eventually felt prompted to move to the capital city of Addis Ababa one year later. While living in Ethiopia, we had the fortune of working with an organization called [Ellilta - Women at Risk](http://www.ellilta.org/), an NGO that seeks to empower women emerging from the commercial sex industry by offering prevention and awareness programs, counseling, skills training, and other services. 
 
-### Meeting these women and witnessing the amazing, transformative work that Ellilta was doing doing deeply moved us, and we began to wonder how we could do more. 
+### Meeting these women and witnessing the amazing, transformative work that Ellilta was doing deeply moved us, and we began to wonder how we could do more. 
 
 ![IMG_2867.jpeg](/uploads/IMG_2867.jpeg)
 
