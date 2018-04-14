@@ -12,7 +12,7 @@ Admitting privilege is uncomfortable.
 
 It’s an aspect of my life I’d like to distance myself from, depending on my situation. 
 
-See…I’m the girl that likes to fit in. 
+See… I’m the girl that likes to fit in. 
 
 I like to “connect” with others about experiences and don’t want to be perceived as being “better than” or “less than”. Sometimes I want to be different, but only if it sets me apart in a socially acceptable way.  
 
