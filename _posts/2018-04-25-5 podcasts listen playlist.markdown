@@ -16,7 +16,7 @@ The world of podcasting is becoming vast and varied, all the better to feed our 
  
 As the world morphs into more and more of a place where the access to information is infinite, we’re too easily forgetting that all of these varied perspectives and passions were once hidden behind closed doors. I love the glimpse into niche places that podcasts give us, and the characters you find there. Below are five podcasts I've gathered that do an incredible job sharing the wide variety of our human experiences - the inspiring, the heart-warming, and the struggle.
 
-![ben-kolde-578198-unsplash.jpg](/uploads/ben-kolde-578198-unsplash.jpg)
+![The 5 Podcasts You Need to Add to Your Playlist - Yellow Co.jpg](/uploads/ben-kolde-578198-unsplash.jpg)
  
 #### [The Moth](https://itunes.apple.com/us/podcast/the-moth-podcast/id275699983?mt=2)
 
