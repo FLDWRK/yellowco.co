@@ -1,6 +1,7 @@
 ---
 title: Mary Beth Ferrante
 date: 2018-04-16 10:42:00 -07:00
+bio_image: "/uploads/mb.jpg"
 website: http://www.liveworklead.com/
 ---
 
