@@ -4,6 +4,7 @@ date: 2018-04-25 04:00:00 -07:00
 categories:
 - Growth
 author: Bailey Van Tassel
+image: "/uploads/sarah-dorweiler-127187-unsplash%20(1).jpg"
 series: Privilege
 ---
 
