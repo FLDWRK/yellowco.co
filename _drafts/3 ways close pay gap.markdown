@@ -52,4 +52,4 @@ As expectations change, it is important for you to define anything outside your 
 
 Achieving equal pay and gender parity as a country may be 150 years away, but we can all take individual action in our own careers to know our worth and ask for it! Simply by advocating for ourselves, we can take action to help close the gap.
 
-Photos
+_Photos by [Eun Creative](http://www.euncreative.com/)_
