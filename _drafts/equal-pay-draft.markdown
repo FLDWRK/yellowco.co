@@ -1,9 +1,10 @@
 ---
-title: 3 ways you can bring us all closer to equal pay
+title: 3 Ways You Can Help Close the Pay Gap
 date: 2018-04-23 04:00:00 -07:00
 categories:
 - Culture
 author: Mary Beth Ferrante
+image: "/uploads/TheFinerFewer-Final-257.jpg"
 series: Privilege
 ---
 
@@ -13,7 +14,7 @@ Two hundred seventeen years. We have 217 years left until we achieve global gend
 
 I think it’s important to dive into some of the details behind the pay gap first, and then talk about what you and I can actually do. 
 
-Here in the U.S., gender parity is expected to close in just shy of 150 years. Better, sure, but clearly not great. On April 10, 2018, we celebrated – no strike that, we recognized – [Equal Pay Day](https://twitter.com/hashtag/EqualPayDay?src=hash). The date symbolizes how far into the year that the average American woman has to work to make the same amount of money as the average White, non-Hispanic man earned in the previous year . Yet, the dates vary widely by race. According to the National Women’s Law Center, Equal Pay Day milestones by race are:
+Here in the U.S., gender parity is expected to close in just shy of 150 years. Better, sure, but clearly not great. On April 10, 2018, we celebrated – no strike that, we recognized – [Equal Pay Day](https://twitter.com/hashtag/EqualPayDay?src=hash). The date symbolizes how far into the year that the average American woman has to work to make the same amount of money as the average White, non-Hispanic man earned in the previous year. Yet, the dates vary widely by race. According to the National Women’s Law Center, Equal Pay Day milestones by race are:
 
 Asian-American Women: February 22, 2018  
 White Women: April 17, 2018  
