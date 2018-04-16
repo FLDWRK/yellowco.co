@@ -8,13 +8,11 @@ image: "/uploads/TheFinerFewer-Final-257.jpg"
 series: Privilege
 ---
 
-Two hundred seventeen years. We have 217 years left until we achieve global gender parity, which includes equal participation in the labor force, closing the leadership gap, and of course, closing the gender pay gap. What’s particularly striking about this number, projected by the [World Economic Forum](https://www.weforum.org/reports/the-global-gender-gap-report-2017), is that it is increasing. Just last year, gender parity was expected to be achieved 47 years earlier at 170 years. 
+Two hundred seventeen years. We have 217 years left until we achieve global gender parity, which includes equal participation in the labor force, closing the leadership gap, and of course, closing the gender pay gap. What’s particularly striking about this number, projected by the [World Economic Forum](https://www.weforum.org/reports/the-global-gender-gap-report-2017), is that it is increasing. Just last year, gender parity was expected to be achieved 47 years earlier, at 170 years. 
 
 ### In 2018, I find it frightening that the gap is widening, and from a personal standpoint, asking, “What can I do about it?” easily feels impossible. 
 
-I think it’s important to dive into some of the details behind the pay gap first, and then talk about what you and I can actually do. 
-
-Here in the U.S., gender parity is expected to close in just shy of 150 years. Better, sure, but clearly not great. On April 10, 2018, we celebrated – no strike that, we recognized – [Equal Pay Day](https://twitter.com/hashtag/EqualPayDay?src=hash). The date symbolizes how far into the year that the average American woman has to work to make the same amount of money as the average White, non-Hispanic man earned in the previous year. Yet, the dates vary widely by race. According to the National Women’s Law Center, Equal Pay Day milestones by race are:
+Here in the U.S., gender parity is expected to close in just shy of 150 years. Better, sure, but clearly not great. On April 10, 2018, we celebrated – no strike that, we recognized – [Equal Pay Day](https://twitter.com/hashtag/EqualPayDay?src=hash). The date symbolizes how far into the year that the average American woman has to work to make the same amount of money that the average White man earned in the previous year. Yet, the dates vary widely by race. According to the National Women’s Law Center, Equal Pay Day milestones by race are:
 
 Asian-American Women: February 22, 2018  
 White Women: April 17, 2018  
@@ -26,9 +24,9 @@ Latinas: November 1, 2018
 
 To make matters worse, when you layer in the factor of motherhood, the date for equal pay for the average mom, compared to dads, extends out to May 30th, 2018. 
 
-### It’s also important to recognize that the gender wage gap is prevalent in 98% of occupations, so this is clearly not about women choosing lower paying jobs. 
+### It’s also important to recognize that the gender wage gap is prevalent in 98% of occupations. 
 
-The actual causes of the wage gap are numerous starting with the simple fact that women are still paid less for the same work. And while significant strides have been made – for example, women are entering college at higher rates then men – women are still overrepresented in lower paying jobs and underrepresented in higher paying industries, such as STEM. In addition, most jobs are "[gendered](https://fairygodboss.com/articles/gender-stereotypes-don-t-just-hurt-women-men-lose-too)", and women’s work becomes devalued simply because it’s considered "women’s work" (e.g. nurse vs. doctor). Finally, the "motherhood penalty" impacts women’s pay, their access to opportunity, and even their ability to be hired.  [Mothers are 79% less likely to be hired](http://www.kauffman.org/~/media/kauffman_org/research%20reports%20and%20covers/2016/labor_after_labor_may3b.pdf) and 50% less likely to be promoted than men or women without children. Add in both the blatant harassment and unconscious bias that plagues women throughout their careers, which of course comes back to lack of promotions and access to opportunity.
+So this is clearly not about women choosing lower paying jobs. The actual causes of the wage gap are numerous, starting with the simple fact that women are still paid less for the same work. And while significant strides have been made – for example, women are entering college at higher rates then men – women are still overrepresented in lower paying jobs and underrepresented in higher paying industries, such as STEM. In addition, most jobs are "[gendered](https://fairygodboss.com/articles/gender-stereotypes-don-t-just-hurt-women-men-lose-too)", and women’s work becomes devalued simply because it’s considered "women’s work" (e.g. nurse vs. doctor). Finally, the "motherhood penalty" impacts women’s pay, their access to opportunity, and even their ability to be hired.  [Mothers are 79% less likely to be hired](http://www.kauffman.org/~/media/kauffman_org/research%20reports%20and%20covers/2016/labor_after_labor_may3b.pdf) and 50% less likely to be promoted than men, or women without children. Add in both the blatant harassment and unconscious bias that plagues women throughout their careers, which of course comes back to lack of promotions and access to opportunity.
 
 So now begs the question: What do you and I do about it?  
 
