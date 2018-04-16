@@ -1,5 +1,5 @@
 ---
-title: 5 podcasts
+title: The 5 Podcasts You Need to Add to Your Playlist
 date: 2018-04-25 04:00:00 -07:00
 categories:
 - Growth
