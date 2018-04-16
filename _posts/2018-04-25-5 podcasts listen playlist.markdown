@@ -8,7 +8,7 @@ image: "/uploads/sarah-dorweiler-127187-unsplash%20(1).jpg"
 series: Privilege
 ---
 
-I’m just going to come out and say it, hoping it’s never been said before. Podcast bingeing is the new Netflix bingeing. Am I right? Can I get some praise hand emojis?!
+I’m just going to come out and say it, hoping it’s never been said before. Podcast bingeing is the new Netflix bingeing. Am I right?!
  
 The world of podcasting is becoming vast and varied, all the better to feed our new addictions. I personally love taking note of how each podcast has different little editing features, which keeps things interesting. 
 
