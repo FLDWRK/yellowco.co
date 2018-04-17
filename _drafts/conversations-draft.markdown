@@ -46,4 +46,4 @@ Although I’ll continue to speak up against things that are threatening the ide
 
 So, all in all, what does this mean for me? 
 
-It means I need to acknowledge my privilege.  But I know that’s only a part of me, and not all of me.  I’m also a loving and compassionate person whose passion in life is to teach kids to be kind and do good.  I’m learning I can acknowledge my privilege, be humble, and USE it to make the world a better place.  It doesn’t make me a better person to deny it or to pretend it doesn’t exist.  It only serves to make me inauthentic when I’ve finally learned that all I want to be is… me.
+It means I need to acknowledge my privilege. But I know that’s only a part of me, and not all of me. I’m also a loving and compassionate person whose passion in life is to teach kids to be kind and do good. I’m learning I can acknowledge my privilege, be humble, and USE it to make the world a better place. It doesn’t make me a better person to deny it or to pretend it doesn’t exist. It only serves to make me inauthentic when I’ve finally learned that all I want to be is… me.
