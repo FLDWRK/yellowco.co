@@ -4,7 +4,7 @@ date: 2018-04-27 04:00:00 -07:00
 categories:
 - Relationships
 author: Misty Castañeda
-image: "/uploads/Len%20(1).jpg"
+image: "/uploads/Len-8%20(2).jpg"
 series: Privilege
 ---
 
@@ -16,7 +16,9 @@ If I want to “be brave enough to start a conversation that matters” (shout o
 
 #### Be Authentic & Honest
 
-This is something I struggle with, not because I’m dishonest, but because I want to “fit in”. My husband and I were fortunate to live in Hong Kong with his job and we had some amazing perks… the best being where we lived. This “flat” was, by far, the nicest place I have EVER lived. But I began to notice the way I talked about our home varied, based on who I was talking to.  
+This is something I struggle with, not because I’m dishonest, but because I want to “fit in”. My husband and I were fortunate to live in Hong Kong with his job and we had some amazing perks… the best being where we lived. This “flat” was, by far, the nicest place I have EVER lived. But I began to notice the way I talked about our home varied, based on who I was talking to. 
+
+![How to Break Barriers and Have Conversations That Matter - Yellow Co.jpg](/uploads/Len-16%20(1).jpg) 
 
 If someone came over that talked about how nice our place was, I’d say things like, “We can ONLY live here because the company pays for it.” But if someone came over that lived in a nicer place than us and commented on our home, I would simply say, “Thank you”.
 
@@ -27,10 +29,14 @@ The truth was that the company did pay for our accommodations and while I’d al
 For me, this can be the trickiest of the three. When I have a conversation with someone, whether I like it or not, I make assumptions based on things I see, hear, and feel. I’m learning to be honest about that, as uncomfortable as that may be. 
 
 What I’m working hard on now is to NOT do that. People that follow me on social media know that my son and I just got back from a five week trip to Asia. I posted tons of pictures of beautiful landscapes, exciting adventures, and lanterns - lots of lanterns. I know people make assumptions about me and my travels and that can be difficult. Now, I understand that this is a privileged problem in and of itself, but I use it here to illustrate a point. 
+
+![How to Break Barriers and Have Conversations That Matter - Yellow Co.jpg](/uploads/Len%20(1).jpg)
  
 Others may assume that my toddler and I effortlessly hop on a plane and travel with no tantrums, that we stay in exotic places with no challenges, and that we’ve “arrived” at this life without hard work.  But I know that’s not the case.
 
 ### If we’re to take part in brave discussions, we need to make a conscious decision to leave our assumptions of others and their situations behind. 
+
+![How to Break Barriers and Have Conversations That Matter - Yellow Co.jpg](/uploads/Len-12%20(1).jpg)
 
 Which brings me to number three, perhaps the most important of them all.
 
@@ -43,6 +49,8 @@ The U.S., despite having its core values challenged today, is still one of the m
 Less than an hour later, my husband expressed how hard it is for him to hear me talk about the U.S. like it is a despicable place. You see, my husband and his family came to the U.S. from Cuba. The U.S. to him represents the land of opportunity and a place where he and his family were able to live free of persecution. 
 
 ### While I wanted to both crawl in a hole of shame AND debate the legitimacy of my statement, I knew I needed to listen to him with empathy and compassion, and accept his feelings as his experience; one that I cannot even imagine.
+
+![Len-24.jpg](/uploads/Len-24.jpg)
 
 Although I’ll continue to speak up against things that are threatening the ideals and values of this country, I need to be better at listening with empathy and compassion, especially about situations which I know nothing about.
 
