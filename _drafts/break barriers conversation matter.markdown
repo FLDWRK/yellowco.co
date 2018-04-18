@@ -36,13 +36,13 @@ Others may assume that my toddler and I effortlessly hop on a plane and travel w
 
 ### If we’re to take part in brave discussions, we need to make a conscious decision to leave our assumptions of others and their situations behind. 
 
-![How to Break Barriers and Have Conversations That Matter - Yellow Co.jpg](/uploads/Len-12%20(1).jpg)
-
 Which brings me to number three, perhaps the most important of them all.
 
 #### Be Empathetic, Compassionate, and Listen with Acceptance
 
 Like privilege, one of the other things I’ve struggled with is being American (thanks loud, obnoxious, non-globally-minded stereotypes, and a couple of presidents). And what I’ve JUST begun to understand is that it doesn’t get much more privileged than that.
+
+![How to Break Barriers and Have Conversations That Matter - Yellow Co.jpg](/uploads/Len-12%20(1).jpg)
 
 The U.S., despite having its core values challenged today, is still one of the most privileged places in the world. My husband and I were on a bicycle tour in Vietnam recently with people from all over, and we were discussing what has become of American politics. I said to a woman from Scandinavia, “I wish the U.S. would take a few lessons from your governments as you guys seemed to have figured it all out.” 
 
@@ -50,9 +50,11 @@ Less than an hour later, my husband expressed how hard it is for him to hear me 
 
 ### While I wanted to both crawl in a hole of shame AND debate the legitimacy of my statement, I knew I needed to listen to him with empathy and compassion, and accept his feelings as his experience; one that I cannot even imagine.
 
+Although I’ll continue to speak up against things that are threatening the ideals and values of this country, I need to be better at listening with empathy and compassion, especially about situations which I know nothing about.
+
 ![Len-24.jpg](/uploads/Len-24.jpg)
 
-Although I’ll continue to speak up against things that are threatening the ideals and values of this country, I need to be better at listening with empathy and compassion, especially about situations which I know nothing about.
+
 
 So, all in all, what does this mean for me? 
 
