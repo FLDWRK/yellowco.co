@@ -48,13 +48,11 @@ The U.S., despite having its core values challenged today, is still one of the m
 
 Less than an hour later, my husband expressed how hard it is for him to hear me talk about the U.S. like it is a despicable place. You see, my husband and his family came to the U.S. from Cuba. The U.S. to him represents the land of opportunity and a place where he and his family were able to live free of persecution. 
 
-### While I wanted to both crawl in a hole of shame AND debate the legitimacy of my statement, I knew I needed to listen to him with empathy and compassion, and accept his feelings as his experience; one that I cannot even imagine.
+### While I wanted to both crawl in a hole of shame and debate the legitimacy of my statement, I knew I needed to listen to him with empathy and compassion, and accept his feelings as his experience; one that I cannot even imagine.
 
 Although I’ll continue to speak up against things that are threatening the ideals and values of this country, I need to be better at listening with empathy and compassion, especially about situations which I know nothing about.
 
-![Len-24.jpg](/uploads/Len-24.jpg)
-
-
+![How to Break Barriers and Have Conversations That Matter - Yellow Co.jpg](/uploads/Len-24.jpg)
 
 So, all in all, what does this mean for me? 
 
