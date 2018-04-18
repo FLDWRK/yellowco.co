@@ -1,5 +1,5 @@
 ---
-title: How to Break Barriers and Have Conversations that Matter
+title: How to Break Barriers and Have Conversations That Matter
 date: 2018-04-27 04:00:00 -07:00
 categories:
 - Relationships
