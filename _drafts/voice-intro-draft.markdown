@@ -6,70 +6,70 @@ author: Hanna Snyder
 
 To the storytellers,
 
-Do you know how you move us
+Do you know how you move us  
 even in your stillness?
 
-That your words are the willow 
+That your words are the willow  
 we rest our heads under -
 
-Cool earth in our hands
-eyes gazing, mesmerized 
-at the rhythm of your whispers
+Cool earth in our hands  
+eyes gazing, mesmerized  
+at the rhythm of your whispers  
 sweetly swaying in the breeze 
 
 Regal deep breath magic grace and welcome
 
-To the dreamers with dried paint
+To the dreamers with dried paint  
 forever peeling from under their fingernails 
 
-Those that speak oceans 
+Those that speak oceans  
 Freeze motion rage and romance in a moment -
 
-Ones who abandon warm beds
-wheel into the night at epiphany's first call
-Caffeinated by the craving 
+Ones who abandon warm beds  
+wheel into the night at epiphany's first call  
+Caffeinated by the craving  
 for the right hue’s resolve
 
 Wildfire constellation and neon symphony
 
-To the poets who use flavor as their syllables
+To the poets who use flavor as their syllables  
 Expert linguists in our universal language 
 
-Architects of making time travel possible
+Architects of making time travel possible  
 around any four-legged surface -
 
-You whisk us to lands we’ve yet to devour 
-and deep rooted memories in one breath
-Warm notes of curry, impulsive lime zest,
+You whisk us to lands we’ve yet to devour  
+and deep rooted memories in one breath  
+Warm notes of curry, impulsive lime zest,  
 ease of mint all in your wheelhouse 
 
 Nurture spunk grit wisdom and surprise
 
-To the composers that melt and mold us
-Rebuild our hearts and weaken our knees
-Ones who gift us vocabulary
+To the composers that melt and mold us  
+Rebuild our hearts and weaken our knees  
+Ones who gift us vocabulary  
 for the grandest canyons we ache to express -
 
-Know by name the strings heartache sounds like
-how to turn wind into wistfulness
-and horns - soaring arms spread wide
+Know by name the strings heartache sounds like  
+how to turn wind into wistfulness  
+and horns - soaring arms spread wide  
 As much the lifeblood as the gold leaf to our world
 
 Sweat revel swoon and illumination
 
 To you, storytellers,
 
-Lions on the front lines
+Lions on the front lines  
 Unsung aces behind the curtain -
 
-Before and behind us
-among and within us
-The voice in your veins exhales life -
+Before and behind us  
+among and within us  
+The voice in your veins exhales life -  
 expands our capacity to breathe it in 
 
 Marvel mystery granite and humanity
 
--
+
 
 There are voices we’d name with our eyes closed, past and present, that have shaped so many areas of our society. The Brenés, the Oprahs, the Malalas; the Georgias, the Fridas, the Annies; the Mayas and the Marys; the Dianas, Ellas, and Stevies. These women have all used their unique way of adding to and speaking about the world around us; the impact of which we all know has been monumental. From poets to philanthropists, artists to activists, singers to chefs - any genuine, poignant expression of emotion or opinion is undeniably eye-catching. Far from this pack of influential women as we may feel, the truth is, all of us have a voice. We all have a story, a background, a passion that we burn for; and none of ours sound quite the same. Even if never lifted on a stage, nor hung in a museum, we’re still capable of immense impact. 
 
