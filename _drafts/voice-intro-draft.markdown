@@ -81,7 +81,7 @@ expands our capacity to breathe it in
 
 Marvel mystery granite and humanity
 
-![voice 3.jpg](/uploads/voice%203.jpg)
+![yellow-23.jpg](/uploads/yellow-23.jpg)
 
 There are voices we’d name with our eyes closed, past and present, that have shaped so many areas of our society. The Brenés, the Oprahs, the Malalas; the Georgias, the Fridas, the Annies; the Mayas and the Marys; the Dianas, Ellas, and Stevies. These women have all used their unique way of adding to and speaking about the world around us; the impact of which we all know has been monumental. 
 
@@ -91,13 +91,11 @@ Far from this pack of influential women as we may feel, the truth is, all of us 
 
 So, what holds us back from owning our voice, and makes falling into the arms of the herd’s sweet embrace much more enticing? Granted, in some ways it’s inevitable for us to be continually hopping onto similar trains, even in the most minute ways. From what I can tell, you’d be hard pressed to find someone right now who doesn’t love a good fiddle leaf fig in the corner, or enjoy that shade of pale pink that seems to be on everyone and everything. But at what point does appreciating a trend, whether materialistic or far greater, evolve into the re-molding of ourselves just to fit it? How long does it take for the childlike carefreeness toward the gap in our teeth, crack in our laugh, quirk in our humor, or asymmetry in our eyes fade away in the face of desiring “normality?”
 
+![voice 3.jpg](/uploads/voice%203.jpg)
+
 ### Can we bravely choose to be curious enough about what could happen when we not just embrace, but articulate our distinct character?
 
-Because when people speak up in their fullest potential, it does something to the rest of us. It’s the very reason we flock to museums, shed tears at vulnerable speeches, and find freedom rolling down the freeway, shouting along to another’s lyrics. The richness that comes from being alive and in love in your own skin goes beyond you; it illuminates a road map for the rest of us. It touches our spirit. 
-
-### It gives us a star to point to in the sky and say, “THAT. That’s what this feels like.” 
-
-Your particular expression of thrill, loss, joy, fear, and love can speak loudly to our core, yet come in a form we could never reiterate. 
+Because when people speak up in their fullest potential, it does something to the rest of us. It’s the very reason we flock to museums, shed tears at vulnerable speeches, and find freedom rolling down the freeway, shouting along to another’s lyrics. The richness that comes from being alive and in love in your own skin goes beyond you; it illuminates a road map for the rest of us. It touches our spirit. It gives us a star to point to in the sky and say, “THAT. That’s what this feels like.” Your particular expression of thrill, loss, joy, fear, and love can speak loudly to our core, yet come in a form we could never reiterate. 
 
 This life is filled with so much bittersweet mystery. And is there anything more gratifying, more soul swelling, than finding something for our fingers to grab onto that defines our human experience? So let’s expand our dreaming of what we can give our version of words to. Whether that means delivering a message to the masses, or perhaps passing your metaphorical microphone onto someone else. Even gratitude by the recognition of every simple, meaningful moment of life serves to shift perspective. Capture the sentiment in familiar handwriting, the scent of grinding coffee filling the air, the smile consuming a child’s face. Give light to the abundance of significance around us. Affirm the beauty that all of it - all of us - matter. 
 
