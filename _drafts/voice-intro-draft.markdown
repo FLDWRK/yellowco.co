@@ -2,6 +2,7 @@
 title: voice intro draft
 date: 2018-04-30 04:00:00 -07:00
 author: Hanna Snyder
+image: "/uploads/yellow-27.jpg"
 ---
 
 To the storytellers,
