@@ -39,6 +39,8 @@ for the right hue’s resolve
 
 Wildfire constellation and neon symphony
 
+![voice 2.jpg](/uploads/voice%202.jpg)
+
 To the poets who use flavor as their syllables  
 Expert linguists in our universal language 
 
