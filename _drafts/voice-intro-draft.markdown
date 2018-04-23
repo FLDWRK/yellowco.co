@@ -1,8 +1,11 @@
 ---
 title: voice intro draft
 date: 2018-04-30 04:00:00 -07:00
+categories:
+- Growth
 author: Hanna Snyder
 image: "/uploads/yellow-27.jpg"
+series: Voice
 ---
 
 Each month at Yellow, we explore and immerse ourselves into one focus - creating conversations between each other and within ourselves centered around topics that hold a lot of influence in our lives. As we begin to reflect and explore our new topic this month, we invite you into a moment to introduce our focus on Voice. Join us in this meditation below to pause, reflect, and see what is unearthed in you.
