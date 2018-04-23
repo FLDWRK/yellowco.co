@@ -5,6 +5,12 @@ author: Hanna Snyder
 image: "/uploads/yellow-27.jpg"
 ---
 
+Each month at Yellow, we explore and immerse ourselves into one focus - creating conversations between each other and within ourselves centered around topics that hold a lot of influence in our lives. As we begin to reflect and explore our new topic this month, we invite you into a moment to introduce our focus on Privilege. Join us in this meditation below to pause, reflect, and see what is unearthed in you.
+
+(meditation)
+
+<br>
+
 To the storytellers,
 
 Do you know how you move us  
