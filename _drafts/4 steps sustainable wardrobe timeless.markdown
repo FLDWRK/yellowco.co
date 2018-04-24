@@ -16,7 +16,7 @@ With each season of life, we are continually seeking a personal, reliable style 
 
 So let’s dive into some simple ways to develop a style that’s timelessly you and one that stays away from fast fashion trends - as we want our pieces to be worn and loved for years to come. It starts with one piece at a time.
 
-![Kicheko-Buki-SP-008.jpg](/uploads/Kicheko-Buki-SP-008.jpg)
+![4 Steps to Create a Sustainable Wardrobe That Is Timelessly You.jpg](/uploads/Kicheko-Buki-SP-008.jpg)
 
 ##### 1. Wear what makes you feel confident
 
@@ -39,7 +39,7 @@ With these high quality, versatile pieces that fit, you can work to avoid growin
 
 ### That pair of jeans that fits perfectly, whether after a workout or a slice of cake.
 
-![Kicheko-Buki-SP-004.jpg](/uploads/Kicheko-Buki-SP-004.jpg)
+![4 Steps to Create a Sustainable Wardrobe That Is Timelessly You.jpg](/uploads/Kicheko-Buki-SP-004.jpg)
 
 ##### 3. Repeat those outfits
 
@@ -49,35 +49,35 @@ Don’t be afraid to repeat your favorite outfits and tops! It’s a lie in the 
 
 If not, chances are the item is not high quality enough, or just not the style you really need to add to your wardrobe! 
 
-![Kicheko-Buki-SP-003.jpg](/uploads/Kicheko-Buki-SP-003.jpg)
+![4 Steps to Create a Sustainable Wardrobe That Is Timelessly You.jpg](/uploads/Kicheko-Buki-SP-003.jpg)
 
 ##### 4. Shop timeless and sustainable brands 
 
 To get that perfect (for you) wardrobe started, you have to curate a loyal brand list to start from. There are many brands out there that are focused on bringing you timeless, well-made pieces that are created ethically and sustainably with a lasting wardrobe in mind. Here are a few of them to add to your list: 
 
 **[ABLE](https://www.livefashionable.com/)**  
-Clothes, shoes and accessories in seasonal styles and colors  
+Clothes, shoes, and accessories in seasonal styles and colors.  
 
 **[Nisolo](https://nisolo.com/)**  
-Ethically made leather shoes and bags for men and women  
+Ethically made leather shoes and bags for men and women.  
 
 **[Power of My People](https://powerofmypeople.com/)**   
-Sustainable styles of button down shirts for men and women  
+Sustainable styles of button down shirts for men and women.  
 
 **[Marine Layer](https://www.marinelayer.com/)**  
-Casual clothing and accessories as well as great basics for men and women  
+Casual clothing and accessories, as well as great basics for men and women.  
 
 **[Amour Vert](https://amourvert.com/)**  
-Large curated seasonal collections of clothing, shoes and jewelry for women  
+Large, curated seasonal collections of clothing, shoes, and jewelry for women.  
 
 **[United By Blue](https://unitedbyblue.com/)**  
-Outdoor, casual wear and gear for men and women 
+Outdoor, casual wear and gear for men and women. 
  
 **[Elizabeth Suzann](https://elizabethsuzann.com/)**  
 High quality, hand stitched, minimal basics that can be paired with what you already own.  
 
 **[VETTA Capsule](https://www.vettacapsule.com/)**  
-Designed to product capsule wardrobe collections pieces for each season - each item can be worn in multiple ways.
+Designed to produce capsule wardrobe collections for each season - each item can be worn in multiple ways.
 
 With attention to these simple practices towards timeless style, we can take steps towards a wardrobe that has a lifetime of wears. It may take time and intentionality, but it’s worth those steps to wear items every day that help bring confidence, comfort, sustainability, and practicality to our lives.
 
