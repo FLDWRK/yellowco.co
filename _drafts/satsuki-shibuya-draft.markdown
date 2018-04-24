@@ -1,5 +1,5 @@
 ---
-title: satsuki shibuya draft
+title: Satsuki Shibuya Shares How to Learn the Art of Self Expression
 date: 2018-05-02 04:00:00 -07:00
 image: "/uploads/art_obsidian.jpg"
 ---
