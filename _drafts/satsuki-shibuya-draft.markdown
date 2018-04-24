@@ -1,6 +1,7 @@
 ---
 title: satsuki shibuya draft
 date: 2018-04-23 19:31:00 -07:00
+image: "/uploads/SisiliaPiring-8068.jpg"
 ---
 
  
