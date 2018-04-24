@@ -3,7 +3,9 @@ title: Satsuki Shibuya Shares How to Learn the Art of Self Expression
 date: 2018-05-02 04:00:00 -07:00
 categories:
 - Entrepreneurs
+author: Hanna Snyder
 image: "/uploads/art_midst.jpg"
+series: Voice
 ---
 
 _I've been deeply drawn to [Satsuki Shibuya's](http://www.satsukishibuya.com/) work for quite a long time now. Like, have yet to take down her 2016 watercolor calendar from my wall long (going on my third year of rotating it monthly). Her work seems to speak the same language that a cliff-lined coast does; as light, airy, and refreshing as it is powerful, reverent, and grand. I had the honor of getting to hear from Satsuki herself on the voice fueling her art, her advice on integrating your passions into your work, and the influences that have shaped who she is not just as an artist, but a person._
