@@ -1,9 +1,11 @@
 ---
-title: style draft
+title: style Finding your Voice in Timeless Style draft
 date: 2018-05-04 04:00:00 -07:00
+categories:
+- Conscious Living
+author: Kelly LaFerriere
+series: Voice
 ---
-
-Finding your Voice in Timeless Style
 
 Wouldn’t it be amazing if we purchased items of clothing that we could plan on passing down to our daughters one day? It was once a normalcy to purchase clothing that would last for years to come, but with today’s fast fashion, trend chasing industry, we are missing out on high quality and sustainably made items. But, the good news is, we still have the choice to pursue intentional and mindful purchases to be investments for years to come. 
 
