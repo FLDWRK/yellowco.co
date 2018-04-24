@@ -1,5 +1,5 @@
 ---
-title: 4 steps to create a sustainable wardrobe that is timelessly you
+title: 4 Steps to Create a Sustainable Wardrobe That Is Timelessly You
 date: 2018-05-04 04:00:00 -07:00
 categories:
 - Conscious Living
