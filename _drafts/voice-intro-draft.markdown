@@ -1,5 +1,5 @@
 ---
-title: 'Using Your Individual Voice to Impact Others: Discover How with This Meditation'
+title: Discover the Necessity of Sharing Your Individual Voice with This Meditation
 date: 2018-04-30 04:00:00 -07:00
 categories:
 - Growth
