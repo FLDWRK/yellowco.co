@@ -22,7 +22,7 @@ With the message to paint correlating with my own spiritual reconnection, came a
 
 Before, the approach to work would be based upon control — concise movement, placement, and in some instances, I still believe it is necessary, but discovered through painting, the beauty of unexpected moments, ushering in magic, openness, perfectly imperfect happenings, all of which connects us to one another. I find this coloring not only my work, but business approach and life, where syncing with the flow, many times, reveals better solutions rather than force through one’s own volition.
 
-###### 4. At Yellow, we believe that work isn’t just a career, but how you find and make meaning in this world. What are your views on how to live a holistic, integrated life that blends who we are as individuals with the work we do?
+###### 4. [At Yellow, we believe that work isn’t just a career, but how you find and make meaning in this world.](https://yellowco.co/membership/) What are your views on how to live a holistic, integrated life that blends who we are as individuals with the work we do?
 
 Seek an underlying thread between what is meaningful in life and weaving this into work. Also a two-way street, finding things which make the blood rush through work and incorporating these elements into the every day is just as important for seamless integration. 
 
