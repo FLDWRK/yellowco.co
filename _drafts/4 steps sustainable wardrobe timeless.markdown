@@ -16,6 +16,8 @@ With each season of life, we are continually seeking a personal, reliable style 
 
 So let’s dive into some simple ways to develop a style that’s timelessly you and one that stays away from fast fashion trends - as we want our pieces to be worn and loved for years to come. It starts with one piece at a time.
 
+![Kicheko-Buki-SP-008.jpg](/uploads/Kicheko-Buki-SP-008.jpg)
+
 ##### 1. Wear what makes you feel confident
 
 A timeless style doesn’t happen overnight. It’s a conscious effort to take note on the styles and items that you reach for when you get dressed in the morning or go out in the evening. 
@@ -24,10 +26,10 @@ A timeless style doesn’t happen overnight. It’s a conscious effort to take n
 
 Ask yourself these questions to help narrow down your style and head towards smarter, long lasting purchases:
 
-**Do you prefer comfort over trends?  
+Do you prefer comfort over trends?  
 Do you prefer neutrals or pops of color?  
 Do you prefer pants/jeans or dresses/skirts?  
-Do you prefer flats or heels?**
+Do you prefer flats or heels?
 
 ##### 2. Wear styles that fit you
 
@@ -37,6 +39,8 @@ With these high quality, versatile pieces that fit, you can work to avoid growin
 
 ### That pair of jeans that fits perfectly, whether after a workout or a slice of cake.
 
+![Kicheko-Buki-SP-004.jpg](/uploads/Kicheko-Buki-SP-004.jpg)
+
 ##### 3. Repeat those outfits
 
 Don’t be afraid to repeat your favorite outfits and tops! It’s a lie in the industry that we are not supposed to re-wear items that we’ve already worn before. If you have a top that you love - re-wear it with no fear of anyone remembering you wore it last week. I promise from first hand experience, most people won’t.
@@ -44,6 +48,8 @@ Don’t be afraid to repeat your favorite outfits and tops! It’s a lie in the 
 ### When purchasing a new items of clothing, take some time to consider if you will wear the item you’re looking to purchase more than 30 times. 
 
 If not, chances are the item is not high quality enough, or just not the style you really need to add to your wardrobe! 
+
+![Kicheko-Buki-SP-003.jpg](/uploads/Kicheko-Buki-SP-003.jpg)
 
 ##### 4. Shop timeless and sustainable brands 
 
