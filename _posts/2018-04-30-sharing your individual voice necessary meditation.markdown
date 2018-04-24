@@ -42,7 +42,7 @@ for the right hue’s resolve
 
 Wildfire constellation and neon symphony
 
-![Discover the Necessity of Sharing Your Individual Voice with This Meditation - Yellow Co.jpg](/uploads/yellow%204.jpg)
+![yellow-23.jpg](/uploads/yellow-23.jpg)
 
 To the poets who use flavor as their syllables  
 Expert linguists in our universal language 
@@ -81,7 +81,7 @@ expands our capacity to breathe it in
 
 Marvel mystery granite and humanity
 
-![Discover the Necessity of Sharing Your Individual Voice with This Meditation - Yellow Co.jpg](/uploads/yellow-23.jpg)
+![yellow 4.jpg](/uploads/yellow%204.jpg)
 
 There are voices we’d name with our eyes closed, past and present, that have shaped so many areas of our society. The Brenés, the Oprahs, the Malalas; the Georgias, the Fridas, the Annies; the Mayas and the Marys; the Dianas, Ellas, and Stevies. These women have all used their unique way of adding to and speaking about the world around us; the impact of which we all know has been monumental. 
 
@@ -91,7 +91,7 @@ Far from this pack of influential women as we may feel, the truth is, all of us 
 
 So, what holds us back from owning our voice, and makes falling into the arms of the herd’s sweet embrace much more enticing? Granted, in some ways it’s inevitable for us to be continually hopping onto similar trains, even in the most minute ways. From what I can tell, you’d be hard pressed to find someone right now who doesn’t love a good fiddle leaf fig in the corner, or enjoy that shade of pale pink that seems to be on everyone and everything. But at what point does appreciating a trend, whether materialistic or far greater, evolve into the re-molding of ourselves just to fit it? How long does it take for the childlike carefreeness toward the gap in our teeth, crack in our laugh, quirk in our humor, or asymmetry in our eyes fade away in the face of desiring “normality?”
 
-![Discover the Necessity of Sharing Your Individual Voice with This Meditation - Yellow Co.jpg](/uploads/yellow%204.jpg)
+![voice 2.jpg](/uploads/voice%202.jpg)
 
 ### Can we bravely choose to be curious enough about what could happen when we not just embrace, but articulate our distinct character?
 
