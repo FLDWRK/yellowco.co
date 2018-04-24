@@ -13,6 +13,8 @@ Painting as a profession never crossed my mind. The sudden path shift happened d
 ### “You must paint,” is what I heard, and after confirming its non-correlation to insanity, I began to explore the idea. 
 
 The experience was and continues to be the most freeing and direct expression of creation — letting go of ego and any preconceived ideas of what should be, allowing the practice itself to unfold, reveal, in its own time. 
+
+![SisiliaPiring-8106.jpg](/uploads/SisiliaPiring-8106.jpg)
  
 ###### 2. You describe the mission of your work by saying each piece is meant to, “take us on a unique and personal journey into our own soul in hopes that we emerge — not only inspired to cultivate peace and harmony — but also with an enlightened appreciation for this world we all share.” How did you discover this to be the purpose of what you do?
 
@@ -21,6 +23,8 @@ With the message to paint correlating with my own spiritual reconnection, came a
 ###### 3. Tell us a bit about the journey it has been to becoming a full-time artist and doing work that is aligned with who you are. Was there previously a disconnect between your work and who you are as a person? 
 
 Before, the approach to work would be based upon control — concise movement, placement, and in some instances, I still believe it is necessary, but discovered through painting, the beauty of unexpected moments, ushering in magic, openness, perfectly imperfect happenings, all of which connects us to one another. I find this coloring not only my work, but business approach and life, where syncing with the flow, many times, reveals better solutions rather than force through one’s own volition.
+
+![art_obsidian.jpg](/uploads/art_obsidian.jpg)
 
 ###### 4. [At Yellow, we believe that work isn’t just a career, but how you find and make meaning in this world.](https://yellowco.co/membership/) What are your views on how to live a holistic, integrated life that blends who we are as individuals with the work we do?
 
@@ -33,6 +37,8 @@ The root which holds all together is consciousness of what we do with our time, 
 ###### 5. What is one book, tool, resource, podcast, etc. that has influenced your story?
 
 The book which began my current journey was _The Art of Happiness_ by the Dalai Lama. I’m not sure if it was the book itself which ignited the hunger and need to find the essence of my soul, but it definitely was the gateway into expanding my understanding about the magnificence of others' perspectives, especially those wiser and aware. I truly believe that reading is a key component in keeping our minds and hearts connected to the continuum of time. 
+
+![Women with Superpowers_1.jpg](/uploads/Women%20with%20Superpowers_1.jpg)
  
 ###### 6. You also write beautiful verses that often go along with your art, usually written in both English and Japanese. How does using different mediums and languages to express your thoughts and experiences allow you to connect with others?
 
@@ -45,6 +51,8 @@ By writing in both, I am able to share multiple facets of my being and through t
 ###### 7. You released a collection of watercolors and verse called _Moment_ about a year and a half ago. What did you want to evoke in your readers through this work specifically?
 
 This book was purely to invoke the idea of being in the moment, whether with ourselves, an experience, with others or life. To live not in the past or the future, but fully be where we can only be, in the present. By living in each moment with awareness, we are able to harness answers we ponder upon, and be a part of the continuum of life without missing a second. Beauty, peace, harmony are unlocked when we find ourselves in the moment.
+
+![art_kome_kome.jpg](/uploads/art_kome_kome.jpg)
  
 ###### 8. In addition to being an artist, you call yourself a Spiritual Thinker. How does this aspect of who you are influence your work and daily life?
 
