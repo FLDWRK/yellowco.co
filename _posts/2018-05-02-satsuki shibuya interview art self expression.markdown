@@ -1,10 +1,12 @@
 ---
 title: Satsuki Shibuya Shares How to Learn the Art of Self Expression
 date: 2018-05-02 04:00:00 -07:00
+categories:
+- Entrepreneurs
 image: "/uploads/art_midst.jpg"
 ---
 
-_I've been deeply drawn to [Satsuki Shibuya's](http://www.satsukishibuya.com/) work for quite a long time now. Like, have yet to take down her 2016 watercolor calendar from my wall long (going on three years of rotating it monthly). Her work seems to speak the same language that a cliff-lined coastline does; as much light, airy, and refreshing as it is powerful, reverent, and grand. I had the honor of getting to hear from Satsuki herself on the voice fueling her art, her advice on integrating your passions into your work, and the influences that have shaped who she is not just as an artist, but a person._
+_I've been deeply drawn to [Satsuki Shibuya's](http://www.satsukishibuya.com/) work for quite a long time now. Like, have yet to take down her 2016 watercolor calendar from my wall long (going on my third year of rotating it monthly). Her work seems to speak the same language that a cliff-lined coast does; as light, airy, and refreshing as it is powerful, reverent, and grand. I had the honor of getting to hear from Satsuki herself on the voice fueling her art, her advice on integrating your passions into your work, and the influences that have shaped who she is not just as an artist, but a person._
  
 ###### 1. What first drew you to expressing yourself through painting?
 
@@ -48,7 +50,7 @@ The Japanese language connects not only to my ancestry, but also, in a more prac
 
 By writing in both, I am able to share multiple facets of my being and through this, appreciate the beauty of each and combined.
  
-###### 7. You released a collection of watercolors and verse called _Moment_ about a year and a half ago. What did you want to evoke in your readers through this work specifically?
+###### 7. You released a collection of watercolors and verse called _[Moment](http://www.satsukishibuya.com/moment-book/)_ about a year and a half ago. What did you want to evoke in your readers through this work specifically?
 
 This book was purely to invoke the idea of being in the moment, whether with ourselves, an experience, with others or life. To live not in the past or the future, but fully be where we can only be, in the present. By living in each moment with awareness, we are able to harness answers we ponder upon, and be a part of the continuum of life without missing a second. Beauty, peace, harmony are unlocked when we find ourselves in the moment.
 
