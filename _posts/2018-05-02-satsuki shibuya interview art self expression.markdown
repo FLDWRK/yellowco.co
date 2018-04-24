@@ -23,11 +23,11 @@ The experience was and continues to be the most freeing and direct expression of
  
 ###### 2. You describe the mission of your work by saying each piece is meant to, “take us on a unique and personal journey into our own soul in hopes that we emerge — not only inspired to cultivate peace and harmony — but also with an enlightened appreciation for this world we all share.” How did you discover this to be the purpose of what you do?
 
-With the message to paint correlating with my own spiritual reconnection, came a knowing, and through this, began pondering how to channel this into the realm of creation. I realized the act was not only crucial in expressing my own inner thoughts, but a way of direct conversation, without the need of translation with another, to share glimpses of the unknown, in hopes of being a catalyst for awakening and peace. 
+With the message to paint correlating with my own spiritual reconnection came a knowing, and through this, I began pondering how to channel this into the realm of creation. I realized the act was not only crucial in expressing my own inner thoughts, but a way of direct conversation, without the need of translation with another, to share glimpses of the unknown, in hopes of being a catalyst for awakening and peace. 
  
 ###### 3. Tell us a bit about the journey it has been to becoming a full-time artist and doing work that is aligned with who you are. Was there previously a disconnect between your work and who you are as a person? 
 
-Before, the approach to work would be based upon control — concise movement, placement, and in some instances, I still believe it is necessary, but discovered through painting, the beauty of unexpected moments, ushering in magic, openness, perfectly imperfect happenings, all of which connects us to one another. I find this coloring not only my work, but business approach and life, where syncing with the flow, many times, reveals better solutions rather than force through one’s own volition.
+Before, the approach to work would be based upon control — concise movement, placement, and in some instances, I still believe it is necessary, but I discovered through painting, the beauty of unexpected moments, ushering in magic, openness, perfectly imperfect happenings, all of which connects us to one another. I find this coloring not only my work, but business approach and life, where syncing with the flow, many times, reveals better solutions rather than force through one’s own volition.
 
 ![Satsuki Shibuya Shares How to Learn the Art of Self Expression 
  - Yellow Co.jpg](/uploads/art_obsidian.jpg)
@@ -40,7 +40,7 @@ Seek an underlying thread between what is meaningful in life and weaving this in
 
 The root which holds all together is consciousness of what we do with our time, minds, energies, spirit, physical being — to constantly question, connect, re-connect with ourselves to see whether we are still on target. As we evolve, mature, and grow, so too will our visions of fulfillment.
  
-###### 5. What is one book, tool, resource, podcast, etc. that has influenced your story?
+###### 5. What is one book or resource that has influenced your story?
 
 The book which began my current journey was _The Art of Happiness_ by the Dalai Lama. I’m not sure if it was the book itself which ignited the hunger and need to find the essence of my soul, but it definitely was the gateway into expanding my understanding about the magnificence of others' perspectives, especially those wiser and aware. I truly believe that reading is a key component in keeping our minds and hearts connected to the continuum of time. 
 
@@ -57,7 +57,7 @@ By writing in both, I am able to share multiple facets of my being and through t
  
 ###### 7. You released a collection of watercolors and verse called _[Moment](http://www.satsukishibuya.com/moment-book/)_ about a year and a half ago. What did you want to evoke in your readers through this work specifically?
 
-This book was purely to invoke the idea of being in the moment, whether with ourselves, an experience, with others or life. To live not in the past or the future, but fully be where we can only be, in the present. By living in each moment with awareness, we are able to harness answers we ponder upon, and be a part of the continuum of life without missing a second. Beauty, peace, harmony are unlocked when we find ourselves in the moment.
+This book was purely to invoke the idea of being in the moment, whether with ourselves, an experience, with others, or life. To live not in the past or the future, but fully be where we can only be, in the present. By living in each moment with awareness, we are able to harness answers we ponder upon, and be a part of the continuum of life without missing a second. Beauty, peace, harmony are unlocked when we find ourselves in the moment.
 
 ![Satsuki Shibuya Shares How to Learn the Art of Self Expression 
  - Yellow Co.jpg](/uploads/art_kome_kome.jpg)
@@ -66,7 +66,7 @@ This book was purely to invoke the idea of being in the moment, whether with our
 
 Spiritual thinker is part of my core, connected directly to spirit and from this place, extends into other aspects of my existence, whether painting, writing, cooking, or interacting. Without this spiritual understanding of myself, I would not be able to function freely within this World. Of course, no one is perfect, including myself, and there are times when I am not in this place of knowing, but understand, especially with creative work, due to its revealing nature, my requirement to approach it with openness and honesty. Simply put, it is a part of my core being. 
  
-###### 9. This month at Yellow, we’re focusing on [Voice](https://5a330ed30e6f1a7d06d23a1a.preview.siteleaf.com/blog/series/voice/); looking at how by uncovering and embracing our unique character, we can use our individual voice to impact others for good. What advice would you give to a woman who is struggling to define her voice or finding a medium to use it meaningfully?
+###### 9. [This month at Yellow, we’re focusing on Voice; looking at how by uncovering and embracing our unique character, we can use our individual voice to impact others for good. What advice would you give to a woman who is struggling to define her voice, or finding a medium to use it meaningfully?](https://5a330ed30e6f1a7d06d23a1a.preview.siteleaf.com/blog/series/voice/)
 
 Give yourself grace and the space to explore who you are as an individual, the meaning behind what you do or why something is important to you. What draws you towards expressing yourself in this way? 
 
