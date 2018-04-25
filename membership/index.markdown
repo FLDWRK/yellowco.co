@@ -126,9 +126,6 @@ faqs:
 - question: How much is shipping?
   answer: If you're in the US, We offer free shipping, but international shipping
     prices vary depending on your location. Feel free to chat us below for more info!
-- question: How do I cancel my membership?
-  answer: "Our membership is month to month and can be cancelled at any time, although
-    we’d be sad to see you go \U0001F642"
 layout: custom/membership
 ---
 
