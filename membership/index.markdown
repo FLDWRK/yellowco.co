@@ -34,7 +34,7 @@ theme:
   image: "/assets/images/our-ownership.jpg"
   title: 'Take 2018 by storm with our 2018 theme: Our Ownership'
   text: |-
-    What does it look like for us as women who are working towards advancing good in the world to _OWN_ who we are, our stories and the issues we see happening all around us? What does it look like when we _STOP_ longing for what we don't have, and start owning what we DO have? What if we stopped denying our passion, our art, and started acknowledging it, giving it room in our lives?
+    What does it look like for us as women who are working toward advancing good in the world to _OWN_ who we are, our stories and the issues we see happening all around us? What does it look like when we _STOP_ longing for what we don't have, and start owning what we DO have? What if we stopped denying our passion, our art, and started acknowledging it, giving it room in our lives?
 
     What if we stopped the comparison game and started to OWN who we are as unique, individual women? What if we took ownership of the issues our world is facing and come together to make a change?
 
@@ -90,7 +90,7 @@ values:
 - title: Monthly "Empowerment Packet" Mailed to Your Door
   description: |-
     _Every month your packet includes:_
-    * A periodical filled with interactive content surrounding our theme for the month. Every issue will lead you towards making powerful changes in your life.
+    * A periodical filled with interactive content surrounding our theme for the month. Every issue will lead you toward making powerful changes in your life.
     * A challenge designed to help you take what you've learned and bring it to life.
     * Various discounts & vouchers for products we love!
   image: "/assets/images/membership-packet.jpg"
