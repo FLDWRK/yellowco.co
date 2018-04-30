@@ -100,3 +100,5 @@ Because when people speak up in their fullest potential, it does something to th
 This life is filled with so much bittersweet mystery. And is there anything more gratifying, more soul swelling, than finding something for our fingers to grab onto that defines our human experience? So let’s expand our dreaming of what we can give our version of words to. Whether that means delivering a message to the masses, or perhaps passing your metaphorical microphone onto someone else. Even gratitude by the recognition of every simple, meaningful moment of life serves to shift perspective. Capture the sentiment in familiar handwriting, the scent of grinding coffee filling the air, the smile consuming a child’s face. Give light to the abundance of significance around us. Affirm the beauty that all of it - all of us - matter. 
 
 _Photos by [Natalie Crane](http://www.likemorningsun.com/)_
+
+_Special thanks to [Jonny Pickett](https://auralgauge.com/) for creating the original music in our Yellow Meditation!_
