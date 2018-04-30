@@ -101,4 +101,4 @@ This life is filled with so much bittersweet mystery. And is there anything more
 
 _Photos by [Natalie Crane](http://www.likemorningsun.com/)_
 
-_Special thanks to [Jonny Pickett](https://auralgauge.com/) for creating the original music in our Yellow Meditation!_
+_Special thanks to [Jonny Pickett](https://auralgauge.com/) for creating the original music in our [Yellow Meditation](https://soundcloud.com/user-129593206/voice-a-yellow-meditation)!_
