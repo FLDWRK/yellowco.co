@@ -3,8 +3,6 @@ title: Home
 position: 0
 body-class: home
 banners:
-- link: https://yellowco.co/live/
-  image: "/uploads/Tour-Livestream-Header.jpg"
 - link: http://www.yellowtour.co/
   image: "/uploads/Tour-Header-Journal-d50462.jpg"
 - link: "/membership"
