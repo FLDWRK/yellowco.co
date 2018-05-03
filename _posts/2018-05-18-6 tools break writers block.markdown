@@ -16,7 +16,7 @@ For five years I procrastinated writing my first book, so I paid a writing coach
 
 None of this would have happened without six crucial tips that saved me from writer’s block.
 
-##### 1. Think of The Finished Piece Like a Letter
+##### 1. Think of the Finished Piece like a Letter
 
 Writer’s block can happen when you try to write for an entire group instead of one single reader. If you struggle to find words for this opinionated audience, focus on the face of one person you hope reads your piece. Whether this ideal reader is your inner child or favorite client, vividly imagine their face and write as if writing them a letter. This will re-connect you to the tone you wish to use and the words they need to hear.
 
