@@ -1,5 +1,5 @@
 ---
-title: Does Your Story Feel Ordinary? Learn Why the World Needs It
+title: Does Your Story Feel Ordinary? Learn Why It’s so Worth Being Shared
 date: 2018-05-11 04:00:00 -07:00
 categories:
 - Growth
