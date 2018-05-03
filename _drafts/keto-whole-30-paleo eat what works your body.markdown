@@ -20,8 +20,6 @@ The Ketogenic Diet, or Keto, was [originally used](https://www.ncbi.nlm.nih.gov/
 
 The Keto diet looks at the ratio between fat, protein, and fiber. Basically, you’re looking for about 70% of your calories to come from fat, 20% from protein, and 5% from carbohydrates. To put that in perspective, the average American diet consists of 300g of carbohydrates a day. That’s like swapping those carbs for fat. A huge difference. 
 
-![mike-dorner-173502-unsplash.jpg](/uploads/mike-dorner-173502-unsplash.jpg)
-
 Why? The goal is for your body to reach a state of ketosis. Ketosis is when your body doesn’t have enough carbs to use for energy, so it begins to use ketones (byproducts of fat) instead. 
 
 ### Keto can help with short-term weight loss, mood, and physical performance.
@@ -29,6 +27,8 @@ Why? The goal is for your body to reach a state of ketosis. Ketosis is when your
 What do you eat? Lots of high fat foods like red meat, eggs, dairy products, avocados, nuts, and oils. What don’t you eat? Pasta, rice, oats, beans, root vegetables, and you’ll be eating very little greens and higher carb veggies. 
 
 The Keto diet hasn’t been studied enough long-term to know its effects. That means that if you use it for short-term weight loss (under the advisement of a health professional), it could be useful for you. But in the long term, there’s just not enough evidence to support continued use. You should also know that the human brain needs glucose to function (the major component of those carbohydrates that you’re not eating). 
+
+![mike-dorner-173502-unsplash.jpg](/uploads/mike-dorner-173502-unsplash.jpg)
 
 #### The Paleo Diet
 
@@ -44,6 +44,8 @@ A quick Google search will show you thousands of results for "paleo cookies" whi
 
 Many of the "banned" foods in a paleo diet are incredibly healthy (legumes, eggs, quinoa, oats), however this diet can be expensive to follow given its limited food options.
 
+![foodism360-397360-unsplash.jpg](/uploads/foodism360-397360-unsplash.jpg)
+
 #### Whole30 
 
 You’ve surely heard of Whole30. Your Facebook feed is full of friends and family giving it a try. #Whole30approved has over 350,000 posts on Instagram alone. Whole30 isn’t a long-term diet. Or at least it’s not designed that way. Whole30 is a 30-day program to determine which foods or food groups are causing inconsistencies and intolerances in your body. 
@@ -56,15 +58,15 @@ What can’t you eat? Whole30 is confusing and complicated and comes with a lot 
 
 So which route do you take? What’s the "best diet" around?
 
+![thought-catalog-620865-unsplash.jpg](/uploads/thought-catalog-620865-unsplash.jpg)
+
 While diets may be wonderful biologically - lose weight, more energy, no more yucky feelings after eating cheese - most fail to take into consideration the other aspects of health. Because health doesn’t happen in a biological vacuum. 
 
 ### True health encompasses the biological, the psychological, the social, and the spiritual.
 
 This is called the Biopsychosocial Model. If you’re eating all the "healthiest" foods and eschewing things that are on the "don’t even think about touching" list, you’re rocking the "bio" part. But what about the rest? Is your restrictive diet causing you stress? Yes. Is your restrictive diet limiting your social interactions? Yes. Is your restrictive diet allowing you to connect with yourself on a spiritual level? Or, as I like to put it, are you doing honoring yourself? No. 
 
-### So if diets like these are too restrictive to be healthy on the biopsychosocial level, how should we be eating? 
-
-Most nutrition experts agree that the healthiest diet is the Mediterranean Diet. It begins with activity and social connections, then adds on whole grains, fruits, veggies, beans, herbs, spices, and healthy fats. Fish and seafood are recommended a few times a week, and dairy, like cheese, are enjoyed frequently and in moderate portions. Red meats and sweets are rarely eaten, you’re drinking plenty of water, and some wine. Simple, right? 
+So if diets like these are too restrictive to be healthy on the biopsychosocial level, how should we be eating? Most nutrition experts agree that the healthiest diet is the Mediterranean Diet. It begins with activity and social connections, then adds on whole grains, fruits, veggies, beans, herbs, spices, and healthy fats. Fish and seafood are recommended a few times a week, and dairy, like cheese, are enjoyed frequently and in moderate portions. Red meats and sweets are rarely eaten, you’re drinking plenty of water, and some wine. Simple, right? 
 
 ### Food doesn’t have to be complicated. It can, and should be enjoyable, delicious, stress and guilt free. 
 
