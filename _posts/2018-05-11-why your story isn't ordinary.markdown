@@ -1,5 +1,5 @@
 ---
-title: discover individual voice draft
+title: Why Your Story Isn’t as Ordinary as You Think
 date: 2018-05-11 04:00:00 -07:00
 categories:
 - Growth
