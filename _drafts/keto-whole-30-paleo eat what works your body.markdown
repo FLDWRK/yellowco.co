@@ -4,10 +4,9 @@ date: 2018-05-09 04:00:00 -07:00
 categories:
 - Health
 author: Brianna Towne
+image: "/uploads/charles-deluvio-538051-unsplash.jpg"
 series: Voice
 ---
-
-whole 30 vs keto vs all the trendy diets - how to eat what works for your body
 
 I find myself perusing the library health section whenever I get a chance. Picking up a few new recipes, ideas, and reading up on trends. Call it continuing education, I suppose. The study of nutrition is a relatively new field, and even with years of training and education there are always new studies, research, and of course trends, to keep an eye out for. 
 
