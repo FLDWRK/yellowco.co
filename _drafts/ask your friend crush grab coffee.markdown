@@ -16,6 +16,8 @@ When we believe that our voice, our perspective or story, isn’t worth bringing
 
 Take a second to realize how beautiful it is that you’re meeting someone in person, in the unfiltered flesh! This used to be the only way people could communicate, and now it’s an intentional choice we try to fit into our busy lives. In his book, _The Lost Art of Good Conversation_, Sakyong Mipham writes, “In the art of conversation, we cultivate some sense of goodness, not only in ourselves, but in others as well. When we are gentle with ourselves, we can open our hearts to others.” Your story, thoughts, opinions, things you find funny, etc. will most likely be new to her ears. 
 
+![coffee pattern update objects 3.jpg](/uploads/coffee%20pattern%20update%20objects%203.jpg)
+
 ##### Self-care leads to self-confidence.
 
 Owning your voice requires being gentle and kind to yourself. Take care of the thoughts you allow into your head, the ones that make you feel unworthy or uninteresting. The more you can direct the traffic of your thoughts and give the green light to the thoughts that are true and from you heart, you will start to see more clearly your unique gifts and strengths. Think of how you might give your friend, husband, or mother a compliment. You don’t do it once and then go another 20 years. You remind them often of how much you value them, how great they are at something, how beautiful they are. Your soul too needs daily nurturing. 
@@ -27,6 +29,8 @@ Mipham writes, “Great artists use painting, sculpting, or music as their mediu
 ### “Likewise, by opening up a conversation with another person, our inspiration has a channel to express itself.” 
 
 “It is an art because it transmits feeling. Art brings beauty and meaning into our lives.” If you consider yourself creative, which we at Yellow believe everyone is, know that there is no right or wrong way to express yourself even in conversation. The silence in between thoughts or over-talking moments are a messy mix of colors on the canvas of your conversation. 
+
+![best friends necklace 3.jpg](/uploads/best%20friends%20necklace%203.jpg)
 
 ##### Research & reflect.
 
@@ -41,6 +45,8 @@ You may have heard this before (because it’s so true), but be more interested 
 ### Maybe you’ll end up sharing a story that soothes and empathizes with something she thought she was alone in feeling. 
 
 You might recommend a book or self-care practice that has helped you, a mutual friend you think she should meet, or even just give the gift of a listening ear. Trust the timing. There are some women I’ve reconnected with years later after that one coffee date, or have even continued long-distance connecting with over email (technology can be good!) if we no longer are in the same town. 
+
+![yellow polka dots 3.jpg](/uploads/yellow%20polka%20dots%203.jpg)
 
 There’s so much to see on the “outside” of someone’s life. The way someone dresses, what they choose to share on social media, the way we interpret someone’s career success. Maya Angelou said, “Success is liking yourself, liking what you do, and liking how you do it.” Don’t be intimidated by what someone else has achieved on the outside. 
 
