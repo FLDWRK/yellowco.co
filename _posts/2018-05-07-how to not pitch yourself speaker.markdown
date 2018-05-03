@@ -8,7 +8,7 @@ image: "/uploads/0P7A2767.jpg"
 series: Voice
 ---
 
-Before I started [Yellow Co.](https://yellowco.co/conference/), I had no idea how many people were aspiring to be speakers. By far, the number one request I receive in my inbox is from women, or their PR companies, reaching out to ask about speaking opportunities and how one can go about getting a spot as a speaker on the [Yellow Co. stage](https://yellowco.co/conference/). 
+Before I started Yellow Co., I had no idea how many people were aspiring to be speakers. By far, the number one request I receive in my inbox is from women, or their PR companies, reaching out to ask about speaking opportunities and how one can go about getting a spot as a speaker on the [Yellow Co. stage](https://yellowco.co/conference/). 
 
 ### There’s obviously a strong desire that women have to use their voice on a stage and offer up advice in front of a captivated audience.
 
@@ -24,7 +24,7 @@ If you don’t already have a connection or relationship with the person you’r
 
 I’m a big fan of bullet points, so I’ve narrowed it down to 5 bullet points with what to do and what not to do when it comes to initially pitching yourself as a speaker. My hope is that it helps you to use your authentic voice, and lands you on the stage of the conference of your dreams!
 
-**What to do:**
+###### What to do:
 
 ##### DO show, not tell me about who you are. 
 
@@ -72,4 +72,4 @@ _Photos by [Cacá Santoro](http://cacasantoro.com/)_
 
 <br>
 
-##### [Want to hear from a group of authentic, inspiring speakers making an impact for good on the world? Join us in LA at our 2018 Yellow Conference!](https://yellowco.co/conference/)
+##### [Want to hear from a group of authentic, inspiring speakers who are making an impact for good on the world? Join us in LA at our 2018 Yellow Conference!](https://yellowco.co/conference/)
