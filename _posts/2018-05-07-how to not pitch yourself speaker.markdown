@@ -22,7 +22,7 @@ If you don’t already have a connection or relationship with the person you’r
 
 ### Conferences and events literally get hundreds of emails about speaking every week - so you’ve got to make sure you stand out from the crowd!
 
-I’m a big fan of bullet points, so I’ve narrowed it down to 5 bullet points with what to do and what not to do when it comes to initially pitching yourself as a speaker. My hope is that it helps you to use your authentic voice, and lands you on the stage of the conference of your dreams!
+I’m a big fan of bullet points, so I’ve narrowed it down to six bullet points with what to do and what not to do when it comes to initially pitching yourself as a speaker. My hope is that it helps you to use your authentic voice, and lands you on the stage of the conference of your dreams!
 
 ###### What to do:
 
@@ -44,7 +44,7 @@ Be really clear about how you can offer value, even apart from the speaking slot
 
 When you’re able to give a taste of who you are, show you really care, and are willing to go the extra mile, you’ll stand out from the hundreds of others.
 
-**What not to do:**
+###### What not to do:
 
 ##### DON’T write a novel. 
 
