@@ -14,6 +14,8 @@ For five years I procrastinated writing my first book, so I paid a writing coach
 
 ### A few months later I had a final draft, a cover design, a book launch team, and an Amazon #1 New Release. 
 
+<br>
+
 None of this would have happened without six crucial tips that saved me from writer’s block.
 
 ##### 1. Think of The Finished Piece Like a Letter
@@ -24,6 +26,8 @@ Writer’s block can happen when you try to write for an entire group instead of
 
 You are rarely at a loss for words when speaking, so you shouldn’t be at a loss for words when writing. The next time you stumble over the written word, put down the pen. Explain the idea or tell the story as if speaking to a friend. If you can’t remember what you said, pull out your voice memo app and record the hypothetical conversation. 
 
+![nicole-honeywill-568366-unsplash.jpg](/uploads/nicole-honeywill-568366-unsplash.jpg)
+
 ##### 3. Let Technology Transcribe Your Thoughts 
 
 If you need to verbally process without the hassle of transcribing voice memos, let dictation software like [SpeechNotes](https://speechnotes.co/) and [Dictation](https://dictation.io/speech) transcribe your words as you speak directly into your computer’s microphone. If you have a flash of inspiration while driving, you can upload MP3 files to paid services like [Descript](https://www.descript.com/) and [Trint](https://trint.com/) transcribe them later on.
@@ -31,6 +35,8 @@ If you need to verbally process without the hassle of transcribing voice memos, 
 ##### 4. Get Creative Juices Flowing with Digital Inspiration
 
 If you feel creatively zapped, engage with websites like [Writelight](http://writelight.guru/), [MindNode](https://mindnode.com/), and [Evernote](https://evernote.com/). Writelight helps you get in the habit of daily free-writing. Their well designed website allows you to set a timer and free-write to thought-provoking prompts. If you are a visual person, you will love MindNode, which lets you create mind maps out of thoughts, images, and links that you discover. They use a layout to "always make sure it is readable and beautiful” - turning your half-baked ideas into future starting points. If you need a place to get organized without the visual flare, download the Evernote App. You can find all of these resources on the web, app store, and on Instagram.
+
+![jake-campbell-355139-unsplash.jpg](/uploads/jake-campbell-355139-unsplash.jpg)
 
 ##### 5. Productively Procrastinate
 
