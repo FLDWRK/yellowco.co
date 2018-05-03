@@ -16,7 +16,9 @@ As a little girl, I was raised to believe that my life had inherent value and th
 
 Many women don’t know. And so we don’t share; thinking that our story hasn’t come yet, and that we are not ready or experienced enough for our voices to be heard. I was one of these women, until about one year into my first business, when I learned about something called the “Hero’s Journey”.
 
-#### Uncovering the Importance of Journey
+![Jess-16.jpg](/uploads/Jess-16.jpg)
+
+##### Uncovering the Importance of Journey
 
 I had been asked to speak at a conference for purpose-driven entrepreneurs. The conference team told me they were looking for a TED-style talk, and I was instantly stressed out; wondering how on earth I was going to share my life’s work in a compelling way that actually helped people. I brought up this worry to one of my friends, who is also a business coach, and she told me about the classic Hero’s Journey, a common circular template used throughout history for telling grand tales.
 
@@ -24,17 +26,19 @@ Even if you don’t remember it from English class, you have probably seen varia
 
 I have experienced meaningful adventures already, I am going through an adventure now, and I will have new adventures in my future. In fact, the only time that my Hero’s Journey will be told or remembered as one single unit will probably be at my funeral. Until then, I wanted to learn how to embrace my past and current journey to uncover their significance and to give them each a voice so they can impact others.
 
+![Jess-37.jpg](/uploads/Jess-37.jpg)
+
 I got off the phone, Googled the steps of the Hero’s Journey, and put them to the test. I wrote down at the top of a piece of paper, “Started my purpose-driven company,” then started working backwards. As I reflected on each stage, I wrote down the times of entering new seasons, feelings like frustration, fear, and discouragement, helpers I encountered along the way, little victories, and times of crisis.
 
 ### By outlining all of my experiences in one place, I suddenly saw how they collectively led me toward transformations. 
 
 Some of them were "aha" moments and lessons learned, others were the stepping stones to start a brand new Hero’s Journey cycle. The beautiful timeline provided me not only with clarity about my own life’s experiences up until now, but also gave new meaning to my current season, and an anticipation for what might happen next!
 
-### For the first time, I was proud of my stories, aware of their significance, and more ready to share them with others.
+For the first time, I was proud of my stories, aware of their significance, and more ready to share them with others. Although I was still nervous that the audience at the conference wouldn’t think my “TED Talk” was interesting, I went into it with a new sense of belief that my voice mattered. And it turns out, it did.
 
-Although I was still nervous that the audience at the conference wouldn’t think my “TED Talk” was interesting, I went into it with a new sense of belief that my voice mattered. And it turns out, it did.
+![Jess-14.jpg](/uploads/Jess-14.jpg)
 
-#### Our stories are ready to be told.
+##### Our stories are ready to be told.
 
 Each and every one of us are the Heroine of our own journey. But, we don’t need to put pressure on ourselves to make one big giant movie theme out of our whole lives. Instead, allow yourself the freedom of appreciating all the steps —  all the fears you overcame, the fears you are learning to overcome now, and the fears you will overcome in the future. When you do this, you make room for more adventures and more transformations. 
 
