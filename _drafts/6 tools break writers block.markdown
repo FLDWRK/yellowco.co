@@ -1,5 +1,5 @@
 ---
-title: "6 Tips To Save You During Writer’s Block \nJackie Viramontez"
+title: 6 Tools to Break Your Writer’s Block
 date: 2018-05-18 04:00:00 -07:00
 categories:
 - Growth
