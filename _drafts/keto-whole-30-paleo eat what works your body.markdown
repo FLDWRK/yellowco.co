@@ -20,6 +20,8 @@ The Ketogenic Diet, or Keto, was [originally used](https://www.ncbi.nlm.nih.gov/
 
 The Keto diet looks at the ratio between fat, protein, and fiber. Basically, you’re looking for about 70% of your calories to come from fat, 20% from protein, and 5% from carbohydrates. To put that in perspective, the average American diet consists of 300g of carbohydrates a day. That’s like swapping those carbs for fat. A huge difference. 
 
+![mike-dorner-173502-unsplash.jpg](/uploads/mike-dorner-173502-unsplash.jpg)
+
 Why? The goal is for your body to reach a state of ketosis. Ketosis is when your body doesn’t have enough carbs to use for energy, so it begins to use ketones (byproducts of fat) instead. 
 
 ### Keto can help with short-term weight loss, mood, and physical performance.
