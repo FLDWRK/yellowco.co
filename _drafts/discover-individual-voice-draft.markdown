@@ -7,11 +7,6 @@ author: Kari Enge
 series: Voice
 ---
 
-Finding Your Inner Heroine and Giving Her a Voice
-By Kari Enge
-
-
-
 “Never doubt your story has value, and merit, and by sharing it you could help someone else you have never met come to terms with something in their life. No one’s life story is boring.” — Holly Salsman
 
 As a little girl, I was raised to believe that my life had inherent value and that I have unique gifts and talents, which I can use to fulfill my individual purpose. But, I was never told that my life’s story was important, interesting, and useful to share.
