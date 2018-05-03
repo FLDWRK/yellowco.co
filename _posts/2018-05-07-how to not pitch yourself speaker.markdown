@@ -16,7 +16,7 @@ It’s a privilege to speak in front of a crowd. To have so many voices who are 
 
 Because I’ve had so much experience in accepting and unfortunately, rejecting so many requests for speaking, the team and I thought it would be appropriate for me to offer some advice for those aspiring speakers out there - hopefully bringing you more opportunity to use your voice on a stage, and get noticed by the event or conference you’d like to speak at.  
 
-![0P7A8475.jpg](/uploads/0P7A8475.jpg)
+![How Not to Pitch Yourself as a Speaker - Yellow Co.jpg](/uploads/0P7A8475.jpg)
 
 If you don’t already have a connection or relationship with the person you’re emailing, you’ve got to cold email. The first thing you need to do is make sure you're emailing the decision maker. And if you’re emailing the basic contact email, ask for the right person to contact about speaking to guarantee you reach out to the right person. Once you have your contact email, you’ve got to captivate and get the attention of the person you’re emailing with a crazy good, cold email. 
 
@@ -34,7 +34,7 @@ You don’t get to know someone by reading about them, you get to know someone b
 
 People are busy, they might look at your email and like your vibe, and then completely forget to follow up with you. Not that that’s ever happened to me before… ;). But one thing I always appreciate is a follow up email. It bumps you to the top of my inbox and reminds me to get back to you. It also shows that you care, that you really want it, and you’re excited to speak. 
 
-![J46A8309.jpg](/uploads/J46A8309.jpg)
+![How Not to Pitch Yourself as a Speaker - Yellow Co.jpg](/uploads/J46A8309.jpg)
 
 ##### DO include something that’s easy to say yes to. 
 
@@ -52,7 +52,7 @@ Don’t copy and paste a five paragraph email that lists everything you’ve don
 
 Captivate and intrigue people in the first sentence - and keep it short. One paragraph at most. Then say something like, “If this peaks your interest, I’d love to hop on a phone call or send over more details”. This allows you to have a second touch point with the person on the other end, and if your email is short and captivating, why wouldn’t they want to hear more?
 
-![J46A7615.jpg](/uploads/J46A7615.jpg)
+![How Not to Pitch Yourself as a Speaker - Yellow Co.jpg](/uploads/J46A7615.jpg)
 
 ##### DON'T make it all about you. 
 
