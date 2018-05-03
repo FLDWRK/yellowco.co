@@ -16,7 +16,7 @@ I’ve rounded up the three most popular trending diets right now (according to 
 
 #### The Ketogenic Diet
 
-The Ketogenic Diet, or Keto, was [originally used](https://www.ncbi.nlm.nih.gov/pubmed/19049574) to treat patients with epilepsy and seizures, and likely gained popularity due to the low-carb craze. So what exactly is it? What do you eat? What don’t you eat? 
+The Ketogenic Diet, or Keto, was originally used to treat patients with epilepsy and seizures, and likely gained popularity due to the low-carb craze. So what exactly is it? What do you eat? What don’t you eat? 
 
 The Keto diet looks at the ratio between fat, protein, and fiber. Basically, you’re looking for about 70% of your calories to come from fat, 20% from protein, and 5% from carbohydrates. To put that in perspective, the average American diet consists of 300g of carbohydrates a day. That’s like swapping those carbs for fat. A huge difference. 
 
