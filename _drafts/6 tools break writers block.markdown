@@ -8,7 +8,7 @@ image: "/uploads/bench-accounting-49909-unsplash.jpg"
 series: Voice
 ---
 
-“Yes, you can extend your writing deadline, but it will be $1,000 per day.”
+_“Yes, you can extend your writing deadline, but it will be $1,000 per day.”_
 
 For five years I procrastinated writing my first book, so I paid a writing coach to enforce a five week deadline. Her approach was fierce, penalizing procrastination with hefty fines, but her tough love worked. 
 
