@@ -38,7 +38,7 @@ For the first time, I was proud of my stories, aware of their significance, and 
 
 ![Jess-14.jpg](/uploads/Jess-14.jpg)
 
-##### Our stories are ready to be told.
+##### Your Story Is Ready to Be Told
 
 Each and every one of us are the Heroine of our own journey. But, we don’t need to put pressure on ourselves to make one big giant movie theme out of our whole lives. Instead, allow yourself the freedom of appreciating all the steps —  all the fears you overcame, the fears you are learning to overcome now, and the fears you will overcome in the future. When you do this, you make room for more adventures and more transformations. 
 
