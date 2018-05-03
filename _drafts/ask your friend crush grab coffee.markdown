@@ -8,9 +8,7 @@ image: "/uploads/coffee%20hands%203%20copy.jpg"
 series: Voice
 ---
 
-Ah, that rush of excitement and anxiety when you and your “friend crush” have set a time to grab coffee. The follow through can be the hardest part. Before you back out, let's back up to why you wanted to engage in caffeinated conversation in the first place. Did you see something in her you admire such as the way she mothers, her creative job, or sense of humor? Heck, maybe you just like her hair? While you are noticing these qualities, you might not know this but… this is the way someone sees and thinks about you. 
-
-### We are so used to being around ourselves, we can sometimes forget how unique and powerful our very own voice is. 
+Ah, that rush of excitement and anxiety when you and your “friend crush” have set a time to grab coffee. The follow through can be the hardest part. Before you back out, let's back up to why you wanted to engage in caffeinated conversation in the first place. Did you see something in her you admire such as the way she mothers, her creative job, or sense of humor? Heck, maybe you just like her hair? While you are noticing these qualities, you might not know this but… this is the way someone sees and thinks about you. We are so used to being around ourselves, we can sometimes forget how unique and powerful our very own voice is. 
 
 When we believe that our voice, our perspective or story, isn’t worth bringing out into the world or that it is “almost ready, just not there yet”, we take away something vital that the world needs. As what some call an introverted-extrovert, I can often find myself wanting to retreat. There is definitely a time for this, but trusting the inner-voice that wanted to reach out to this person in the first place has always benefited me more in the end. 
 
