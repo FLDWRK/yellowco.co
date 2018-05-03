@@ -12,7 +12,7 @@ _“Never doubt your story has value, and merit, and by sharing it you could hel
 
 As a little girl, I was raised to believe that my life had inherent value and that I have unique gifts and talents, which I can use to fulfill my individual purpose. But, I was never told that my life’s story was important, interesting, and useful to share. I guess I always thought that my “Malala movie moment” was something that might come way later in life, if I had an experience worth sharing — something amazing — which defined my purpose and changed the world. But life never seems to be as glamorous as the heroines of the movies. After all, “this” led to “that”, then we went on a detour over “there”... 
 
-### Our journeys are made up of many seemingly ordinary parts mixed in with some extraordinary experiences, but how do they all line up into one grand beautiful masterpiece? 
+### Our journeys are made up of many seemingly ordinary parts mixed in with some extraordinary experiences, but how do they all line up into one grand masterpiece? 
 
 Many women don’t know. And so we don’t share; thinking that our story hasn’t come yet, and that we are not ready or experienced enough for our voices to be heard. I was one of these women, until about one year into my first business, when I learned about something called the “Hero’s Journey”.
 
