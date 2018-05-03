@@ -4,7 +4,7 @@ date: 2018-05-16 04:00:00 -07:00
 categories:
 - Relationships
 author: Kathryn Parrish
-image: "/uploads/coffee%20hands%203.jpg"
+image: "/uploads/coffee%20hands%203%20copy.jpg"
 series: Voice
 ---
 
