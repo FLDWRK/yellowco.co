@@ -14,8 +14,6 @@ For five years I procrastinated writing my first book, so I paid a writing coach
 
 ### A few months later I had a final draft, a cover design, a book launch team, and an Amazon #1 New Release. 
 
-<br>
-
 None of this would have happened without six crucial tips that saved me from writer’s block.
 
 ##### 1. Think of The Finished Piece Like a Letter
@@ -49,5 +47,3 @@ Break your writing goal into big and small benchmarks. For each benchmark, set a
 If you employ these tips, you won’t need a $1,000 fine to motivate you (unless that’s your self-inflicted penalty). I waited half a decade to bust through writer’s block and hold a finished product. You don’t have to wait that long. When in doubt, start small, set your timer, and write a heartfelt note to your ideal reader. Remembering the words of a writer who overcame his fair share of writer’s block, “If I had more time I’d have written a shorter letter.”
 
 Thanks Mark Twain, we will keep that in mind. 
-
-_Photos by_
