@@ -4,6 +4,7 @@ date: 2018-05-18 04:00:00 -07:00
 categories:
 - Growth
 author: Jackie Viramontez
+image: "/uploads/bench-accounting-49909-unsplash.jpg"
 series: Voice
 ---
 
