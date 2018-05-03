@@ -1,5 +1,5 @@
 ---
-title: How to (And to Not) Pitch Yourself as a Speaker
+title: How Not to Pitch Yourself as a Speaker from the Yellow Conference Founder
 date: 2018-05-07 04:00:00 -07:00
 categories:
 - Entrepreneurs
