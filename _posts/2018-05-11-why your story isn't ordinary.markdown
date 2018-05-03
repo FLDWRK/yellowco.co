@@ -1,5 +1,5 @@
 ---
-title: Why Your Story Isn’t as Ordinary as You Think
+title: Does Your Story Feel Ordinary? Learn Why the World Needs It
 date: 2018-05-11 04:00:00 -07:00
 categories:
 - Growth
