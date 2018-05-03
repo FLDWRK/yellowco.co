@@ -1,5 +1,5 @@
 ---
-title: 'Whole 30 vs. Keto vs. Paleo: What to eat that works for your body'
+title: 'Whole 30 vs. Keto vs. Paleo: What to Actually Eat That Works for Your Body'
 date: 2018-05-09 04:00:00 -07:00
 categories:
 - Health
