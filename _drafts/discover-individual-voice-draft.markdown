@@ -46,4 +46,4 @@ Each and every one of us are the Heroine of our own journey. But, we don’t nee
 
 I hope you are encouraged to use the Hero’s Journey structure to see the significance of some of the experiences of your life, and let it give you the confidence to share your voice. To see that your stories have value, and that sharing them will help someone come to terms with something in their lives that might be similar. No one’s life is boring, including yours.
 
-_Photos by_
+_Photos by [Tory Putnam](http://toryputnam.com/)_
