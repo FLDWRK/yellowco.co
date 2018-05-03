@@ -1,5 +1,5 @@
 ---
-title: Why you should ask your friend crush on a coffee date draft
+title: Why You Should Ask Your Friend Crush to Grab Coffee
 date: 2018-05-16 04:00:00 -07:00
 categories:
 - Relationships
