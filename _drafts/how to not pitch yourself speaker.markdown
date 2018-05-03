@@ -16,6 +16,8 @@ It’s a privilege to speak in front of a crowd. To have so many voices who are 
 
 Because I’ve had so much experience in accepting and unfortunately, rejecting so many requests for speaking, the team and I thought it would be appropriate for me to offer some advice for those aspiring speakers out there - hopefully bringing you more opportunity to use your voice on a stage, and get noticed by the event or conference you’d like to speak at.  
 
+![J46A8309.jpg](/uploads/J46A8309.jpg)
+
 If you don’t already have a connection or relationship with the person you’re emailing, you’ve got to cold email. The first thing you need to do is make sure you're emailing the decision maker. And if you’re emailing the basic contact email, ask for the right person to contact about speaking to guarantee you reach out to the right person. Once you have your contact email, you’ve got to captivate and get the attention of the person you’re emailing with a crazy good, cold email. 
 
 ### Conferences and events literally get hundreds of emails about speaking every week - so you’ve got to make sure you stand out from the crowd!
@@ -31,6 +33,8 @@ You don’t get to know someone by reading about them, you get to know someone b
 ##### DO follow up. 
 
 People are busy, they might look at your email and like your vibe, and then completely forget to follow up with you. Not that that’s ever happened to me before… ;). But one thing I always appreciate is a follow up email. It bumps you to the top of my inbox and reminds me to get back to you. It also shows that you care, that you really want it, and you’re excited to speak. 
+
+![0P7A2767.jpg](/uploads/0P7A2767.jpg)
 
 ##### DO include something that’s easy to say yes to. 
 
@@ -48,6 +52,8 @@ Don’t copy and paste a five paragraph email that lists everything you’ve don
 
 Captivate and intrigue people in the first sentence - and keep it short. One paragraph at most. Then say something like, “If this peaks your interest, I’d love to hop on a phone call or send over more details”. This allows you to have a second touch point with the person on the other end, and if your email is short and captivating, why wouldn’t they want to hear more?
 
+![J46A7615.jpg](/uploads/J46A7615.jpg)
+
 ##### DON'T make it all about you. 
 
 We at [Yellow](https://yellowco.co/conference/) run a very niche conference and we’re looking for a very specific type of speaker. We want our speakers to be excited about who we are and what we’re doing, not just about what they’re doing. I’m always going to read more when someone cold emails me and shows me that they care about our brand, who we are, and what we care about - then listing why they fit well into our mission. 
@@ -63,5 +69,7 @@ Not about how rich and famous you are. So instead of listing out your accomplish
 You’ll receive a ton of no’s... but if you really want to be a speaker, you won’t let that stop you. You’ll keep going, will learn, and get creative. Believe in yourself, keep developing your voice and be authentically YOU. Embrace what makes you different and you’ll go far. Good luck!
 
 _Photos by [Cacá Santoro](http://cacasantoro.com/)_
+
+<br>
 
 ##### [Want to hear from a group of authentic, inspiring speakers making an impact for good on the world? Join us in LA at our 2018 Yellow Conference!](https://yellowco.co/conference/)
