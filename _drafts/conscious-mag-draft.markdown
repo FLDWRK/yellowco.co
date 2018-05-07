@@ -8,7 +8,7 @@ image: "/uploads/Conscious_Issue06_Lifestyle_Large-5.jpg"
 series: Voice
 ---
 
-
+_intro What ultimately influenced this media direction were the incredible people with incredible ideas that are changing the world. We are inspired by their stories, their courage, and their determination to create change where change is needed, which is why we dedicated our platform to featuring global initiatives and nonprofit work. The more engaged we are with this conversation, the more we are connected with an audience of leaders and social entrepreneurs._ 
 
 ###### The mission Conscious Magazine declares is, “Empowering people everywhere to change the conversation.” What all has influenced you to create a publication with this core purpose?
 
