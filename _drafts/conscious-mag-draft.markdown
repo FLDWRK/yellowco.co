@@ -1,5 +1,5 @@
 ---
-title: conscious mag draft
+title: 7 Questions with the EIC of Conscious Magazine on Creating Media That Inspires
 date: 2018-05-14 04:00:00 -07:00
 categories:
 - Conscious Living
@@ -8,7 +8,7 @@ image: "/uploads/Conscious_Issue06_Lifestyle_Large-5.jpg"
 series: Voice
 ---
 
-_When we think of media, it's common for us to associate it with negativity - the stories and events of divisiveness, pain, and how much there is to improve on a global scale. But some platforms do an incredible job of highlighting truth in a way that empowers and inspires us to see how much hope there is for changing the world for good. Rachael Baxter, Co-Founder and Editor-in-Chief of [Conscious Magazine](http://consciousmagazine.co/), chatted with us to share how she creates media that does just this. Check out our interview with her below to hear about their platform that celebrates and learns from global initiatives, non-profits, social entrepreneurs, and so much more._ 
+_When we think of media, it's common for us to associate it with negativity - the stories and events of divisiveness, pain, and how much there is to improve on a global scale. But some platforms do an incredible job of highlighting truth in a way that empowers and inspires us to see how much hope there is for changing the world for good. [Rachael Baxter](https://www.instagram.com/rachaelabaxter/), Co-Founder and Editor-in-Chief of [Conscious Magazine](http://consciousmagazine.co/), chatted with us to share how she creates media that does just this. Check out our interview with her below to hear about their platform that celebrates and learns from global initiatives, non-profits, social entrepreneurs, and so much more._ 
 
 ###### The mission Conscious Magazine declares is, “Empowering people everywhere to change the conversation.” What all has influenced you to create a publication with this core purpose?
 
