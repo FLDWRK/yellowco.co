@@ -8,7 +8,7 @@ image: "/uploads/Conscious_Issue06_Lifestyle_Large-5.jpg"
 series: Voice
 ---
 
-_intro What ultimately influenced this media direction were the incredible people with incredible ideas that are changing the world. We are inspired by their stories, their courage, and their determination to create change where change is needed, which is why we dedicated our platform to featuring global initiatives and nonprofit work. The more engaged we are with this conversation, the more we are connected with an audience of leaders and social entrepreneurs._ 
+_When we think of media, it's common for us to associate it with negativity - the stories and events of divisiveness, pain, and how much there is to improve on a global scale. But some platforms do an incredible job of highlighting truth in a way that empowers and inspires us to see how much hope there is for changing the world for good. Rachael Baxter, Co-Founder and Editor-in-Chief of [Conscious Magazine](http://consciousmagazine.co/), chatted with us to share how she creates media that does just this. Check out our interview with her below to hear about their platform that celebrates and learns from global initiatives, non-profits, social entrepreneurs, and so much more._ 
 
 ###### The mission Conscious Magazine declares is, “Empowering people everywhere to change the conversation.” What all has influenced you to create a publication with this core purpose?
 
