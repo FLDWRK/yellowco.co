@@ -4,6 +4,7 @@ date: 2018-05-14 04:00:00 -07:00
 categories:
 - Conscious Living
 author: Hanna Snyder
+image: "/uploads/Conscious_Issue06_Lifestyle_Large-5.jpg"
 series: Voice
 ---
 
