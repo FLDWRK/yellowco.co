@@ -4,7 +4,7 @@ date: 2018-05-25 04:00:00 -07:00
 categories:
 - Relationships
 author: Emily Schrems & Emily Steffen
-image: "/uploads/IMG_4128-Edit%20sm.jpg"
+image: "/uploads/2%20sm.jpg"
 series: Voice
 ---
 
