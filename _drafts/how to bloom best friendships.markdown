@@ -40,3 +40,5 @@ _(E. Schrems)_ Being honest about this has created so much freedom for me. Somet
 _(E. Steffen)_ Em and I may have both grown up in Michigan and lived in LA, but the same places don’t craft the same story. Us living in the same city doesn’t mean our day to day experiences are even close to being similar. So asking questions often has stemmed constant communication and an invitation that has allowed me to be a part of Emily's day to day story. Our conversations make me realize that the influence of the present is just as important to recognize in what has molded our voices as the experiences of the past. 
 
 _(E. Schrems)_ Finding our voice is an all encompassing journey. When you bring another person into that process, it forces you to know what you believe, and what your voice sounds like amidst a culture telling you how it should sound in a thousand different ways. My friendship with Em has made me more honest, more intentional, and more wholly myself. I encourage you to identify who these people are in your life, and choose to cheer them on and hear their voice for life.
+
+_Photos by [Marisa Kimmel](https://www.instagram.com/marisakimmel/) of Emily & Emily_
