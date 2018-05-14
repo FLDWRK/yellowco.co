@@ -30,7 +30,7 @@ _(E. Schrems)_ I have learned so much from the way she shares her own experience
 
 This is important because we’re able to sit with each other without judgement or the anxiety of needing to find a solution for the other person. 
 
-_(E. Steffen)_ One of the essential things to remember: just because you are similar in ways, does not mean that you are the same. 
+_(E. Steffen)_ One of the essential things to remember: just because you are similar in some ways, does not mean that you are the same. 
 
 ![em   em.jpg](/uploads/em%20%20%20em.jpg)
 
