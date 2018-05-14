@@ -1,5 +1,5 @@
 ---
-title: friend draft
+title: 'How to Bloom the Best Relationships: A Conversation Between Friends'
 date: 2018-05-25 04:00:00 -07:00
 categories:
 - Relationships
