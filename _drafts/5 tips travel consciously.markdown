@@ -1,5 +1,5 @@
 ---
-title: 5 tips on traveling consciously this summer draft
+title: 5 Tips on Traveling Consciously This Summer
 date: 2018-05-21 04:00:00 -07:00
 categories:
 - Conscious Living
