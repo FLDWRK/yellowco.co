@@ -16,7 +16,7 @@ Whether we're taking a local staycation or going international to a land we've y
 
 Taking a trip doesn't have to mean sacrificing your values and efforts to live a life that impacts the world, and those around you, for good. Check out our tips below for a few ways you can start!
 
-[IMG_7852-6ebd8d.JPG](/uploads/IMG_7852-6ebd8d.JPG)
+![amy 3.jpeg](/uploads/amy%203.jpeg)
 
 ###### 1. Bring a refillable water bottle and/or coffee thermos to fill up along your trip.
 
@@ -30,7 +30,7 @@ We may not realize it, but there are _so_ many ways airlines can use sustainable
 
 For many cities and countries, tourism is a major part of their local economy. It's important to give back to the places you visit by supporting the communities there - whether that means eating at a family-run restaurant in the area, grabbing coffee from a local roaster, or even staying at a small hotel or rental home as opposed to a large chain. Not only does making these choices as a consumer support the area you're visiting, but they often create a much richer experience while traveling, giving you a true taste for the local culture.
 
-[IMG_9306.JPG](/uploads/IMG_9306.JPG)
+![amy 2.jpeg](/uploads/amy%202.jpeg)
 
 ###### 4. Grab your travel essentials from do-good brands.
 
