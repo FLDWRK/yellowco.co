@@ -37,4 +37,4 @@ From bathing suits to beach towels, from luggage to sunscreen, the options for i
 In addition to supporting local businesses along your trip, add women-owned or women-run businesses to your list! By doing just a little bit of researching, you'll find plenty of shops to browse, services to use, and food to taste - all that supports the livelihood of women in the area. 
 
 
-_Photos by Amy Hulst_
+_Photos by [Amy Hulst](https://www.instagram.com/amesandliza/)_
