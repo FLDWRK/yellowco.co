@@ -18,7 +18,7 @@ In 2014, Erin took her idea for a female entrepreneur-focused documentary to Kic
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/v3rj42IYFTU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Jennifer Siebel Newsom, Director of [Miss Representation](http://therepresentationproject.org/film/miss-representation/)
+#### [Jennifer Siebel Newsom, Director of Miss Representation](http://therepresentationproject.org/film/miss-representation/)
 
 Jennifer Siebel Newsom is a feminist icon, whose film, _Miss Representation_, seems almost like a page from her life story. With an established career in Hollywood before her documentary debut, critics refer to Newsom to with regards to her designer clothing choices and her “high-profile” dating history. Now, Newsom’s film, _Miss Representation_, and her more recent documentary feature, _The Mask You Live In_, have rightfully evolved her image to that of a cultural champion. In the wake of the tremendous impact of _Miss Representation_, Newsom founded [The Representation Project](http://therepresentationproject.org/), which uses media as a device for culture change. 
 
