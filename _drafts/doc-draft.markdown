@@ -26,11 +26,15 @@ Jennifer Siebel Newsom is a feminist icon, whose film Miss Representation seems 
 
 The film alternates between expert commentary, open discussion with high-school age women, and clips from a wide range of media supporting the central theme: How can women achieve parity when they are still wholly disrespected by the mainstream media? Sexual objectification effects women of all ages and social status, including political leaders, actors and singers, and high-level intellectual contributors. Newsom’s documentary boldly brings to light the rampant misrepresentation of women and girls in all arenas of mass communication, and presents a number of ways in which we can progressively move forward. 
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/W2UZZV3xU6Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 #### Bonni Cohen, director of [Audrie & Daisy](http://www.audrieanddaisy.com/)
 
 Audrie & Daisy, told through two narratives of interwoven subject matter, is a gut-wrenching spotlight on the way our culture treats its victims. Not an easy story to tell, but Bonni Cohen and her co-director husband Jon Shenk were committed to further exploring the sexual assault survivor’s experience. They spent two years filming Daisy Coleman and her family, watching as Daisy’s social life and ultimately, her family’s place in the community, unravel in the aftermath of Daisy's assault. Cohen’s delicate capturing of the Coleman family and retelling of the tragically-ended life of Audrie Pott brought to light the stark realities of living as a victim in the midst of a media circus and community annulment.  
 
 Both Audrie Pott and Daisy Coleman are victims of underaged sexual assault, with each girl’s situation further aggravated by social media. Audrie’s story continues long after she ended her life following the distribution of her video-recorded assault to her classmates. Bonni Cohen’s comprehensive record of Daisy’s harrowing experience, from her classmates turning on her to favor her attackers to her family home being burned to the ground, is sheds light on the harsh reality victims face even after the judge’s gavel falls. 
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/29Dr4ChJUBc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Deborah Esquenazi, director of [Southwest of Salem: The Story of the San Antonio Four](http://www.southwestofsalem.com/)
 
@@ -38,14 +42,20 @@ The initial trials of the crudely nicknamed San Antonio Four were heavily biased
 
 The initial case was heavily biased and over-sexualized, influenced by misogyny and homophobia, and was a severe failure of the American justice system. Esquenazi’s unrelenting commitment to the truth and to helping these women open a much more substantial discussion on race, sexuality, and the media’s impact on our personal biases. She went beyond the re-examination of evidence and instead took each biased claim used for conviction and exposed the rampant discrimination. 
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/zuAf4fT9Umo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 #### Sarah Polley, director of [Stories We Tell](http://www.storieswetellmovie.com/story.html)
 
 Stories We Tell is a personal film, strikingly relevant to anyone who has ever endeavored to peel back the layers of their family lineage. Sarah Polley interviews a variety of cast of family members, candidly and sincerely, about their perspectives of her late mother, actress Diane Polley. Each family member’s account of her mother’s life, transgressions, and personality lead Polley to discover a family secret that went with her mother to her grave. 
 
 This documentary is among a handful of films, short and feature length, in which Sarah Polley investigates the intricacies of long-term interpersonal relationships. In the wake of the film’s release on the festival circuit, she elected not to give any media interviews to preserve the viewer’s firsthand experience of the film, which she hoped would invite introspection around how our family shapes our identity.
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/ytq4VZ2Nyxg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 #### Barbara Kopple, director of [Running From Crazy](http://www.cabincreekfilms.com/film_RunningFromCrazy.html)
 
 Executively produced by Oprah, Barbara Kopple’s Running From Crazy follows Mariel Hemingway, granddaughter to famed author Ernest Hemingway, as she processes and proceeds beyond her family’s tumultuous history. The Hemingway lineage is ravaged by substance abuse, psychological struggles, and a high rate of suicide, which Kopple captures with delicate elegance. 
 
 Barbara Kopple has built a multi-decade career of diverse, hard-hitting storytelling, including her first feature-length documentary Harlan County U.S.A, which features on-the-ground footage from a 1976 violent miner strike. Running From Crazy catalogs Mariel’s journey to distance herself from what is dubbed the Hemingway family curse by including her speaking for mental health activism, pursuing physical wellness, and visiting family members to discuss how the phenomenon has impacted their lives. 
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/N4fqNvQnfHc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
