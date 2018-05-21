@@ -17,7 +17,7 @@ Conduct a basic search for “famous entrepreneurs,” and almost every person o
 
 In 2014, Erin took her idea for a female entrepreneur-focused documentary to Kickstarter and raised over $100,000 to create the film, despite having never directed a feature film before. Dream, Girl is produced and crewed by an all-female team and interviews ten women of diverse origin. Telling stories of first successes and failures, smashing cultural bias, and with a hopeful tone for the future, Erin Bagwell has just begun the work of bringing to light the diverse sphere of women entrepreneurs. 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/v3rj42IYFTU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/v3rj42IYFTU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Jennifer Siebel Newsom, director of [Miss Representation](http://therepresentationproject.org/film/miss-representation/)
 
