@@ -58,3 +58,5 @@ Don’t wait for people to find your site, which is buried in the trash heap tha
 ###### A. Lookup your dream clients: brands, people, companies. What is their tone, their personality, their ethos? What do you have in common? Learn from the pros. See how they tell their story. Take any lessons you can, then implement in your own unique way. If those are the people you want to appeal to, you can learn a lot by analyzing how they tell their own story.
 
 ###### B. Lookup your heroes in your industry. Take notes on what makes them special and how they tell their story. Notice their tactics and strategy to get inspired and educated on how you might tell your story. Again, don’t copy their voice or story. But aim to understand the methods of the masters so you can inform your own story’s road.
+
+Photos courtesy of Hoodzpah Design
