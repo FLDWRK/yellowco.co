@@ -3,6 +3,7 @@ title: doc draft
 date: 2018-05-28 04:00:00 -07:00
 categories:
 - Culture
+author: Amelia Bartlett
 series: Voice
 ---
 
