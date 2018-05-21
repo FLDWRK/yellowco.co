@@ -1,6 +1,7 @@
 ---
 title: Amelia Bartlett
 date: 2018-05-21 12:35:00 -07:00
+bio_image: "/uploads/Amelia.jpg"
 website: https://www.amelia-bartlett.com/
 ---
 
