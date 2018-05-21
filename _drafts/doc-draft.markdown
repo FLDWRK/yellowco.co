@@ -12,7 +12,7 @@ series: Voice
 
 Documentarists go where other storytellers cannot; they dig for months, sometimes years, into a story that can only be told through videography. They span minutes and decades and produce compilations independent of opinion, showcasing facts and personal accounts, demanding the audience to participate with their critical intuition. Women have fought a long battle for their place behind the camera, in the director’s chair, and for the earned respect of hard-hitting documentation. Each of the women below have used their voices and their position as documentarists to examine marginalization, misrepresentation, injustice, and fate. 
 
-#### [Erin Bagwell, director of Dream, Girl](https://www.dreamgirlfilm.com/)
+#### [Erin Bagwell, Director of Dream, Girl](https://www.dreamgirlfilm.com/)
 
 Conduct a basic search for “famous entrepreneurs,” and almost every person on the resulting lists are male, regardless that there are millions of female entrepreneurs starting businesses every day. Erin Bagwell became fascinated with entrepreneurial women after she left her corporate job and began spending more time in feminism-focused thought spaces. Inspired by the circle of female CEOs and change-makers she cultivated, Bagwell decided that she should follow her dream to create a film telling entrepreneurial women’s stories. 
 
