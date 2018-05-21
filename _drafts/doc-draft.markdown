@@ -4,6 +4,7 @@ date: 2018-05-28 04:00:00 -07:00
 categories:
 - Culture
 author: Amelia Bartlett
+image: "/uploads/alexander-andrews-260988-unsplash.jpg"
 series: Voice
 ---
 
