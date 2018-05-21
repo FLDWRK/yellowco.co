@@ -1,6 +1,7 @@
 ---
 title: Jennifer & Amy Hood
 date: 2018-05-21 16:31:00 -07:00
+bio_image: "/uploads/jen%20amy.jpg"
 website: https://hoodzpahdesign.com/
 ---
 
