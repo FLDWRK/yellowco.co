@@ -7,7 +7,9 @@ author: Jennifer & Amy Hood
 series: Voice
 ---
 
-A week or so ago we got the chance to talk at Yellow Co’s (www.yellowco.co) Ownership Tour stop in Orange County. Yellow Co focuses on connecting and developing creative and entrepreneurial-minded women who want to use their platform to interact with the world as an agent of good. The tour’s theme is aimed at inspiring women to claim their goals by just starting. Take ownership of what you want and take action. Joanna Waterfall and Kacy Schlener called us to talk about what we could cover during our presentation. We decided on “How to Tell Your Brand Story”. We live in our own skin and walk in our own shoes but it can be hard to put a narrative to who we are by ourselves! So we put together some quick tips on how to distill down your unique narrative angle (finding your radness), how to vocalize it, and how to hire yourself. It’s a fun 101 guide. Here’s the recap along with some photos from the event, taken by Kate Spencer (www.katespencerphoto.com) :
+_A few weeks ago, we had the incredible opportunity to hear from sisters and co-founders, Jennifer and Amy Hood of [Hoodzpah Design Co.](https://hoodzpahdesign.com/), at our Orange County stop of the [Yellow Co. Ownership Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/). Our focus for the day was "How to Take Ownership of Your Story", and these two were a crowd favorite - keeping everyone laughing as much as they were jotting down their tangible tips as fast as they could. Today on the blog, Jennifer and Amy are sharing a recap of their tips on how to tell your individual brand story!_
+
+We live in our own skin and walk in our own shoes, but it can be hard to put a narrative to who we are by ourselves! So we put together some quick tips on how to distill down your unique narrative angle (finding your radness), how to vocalize it, and how to hire yourself. It’s a fun 101 guide. 
 
 #### 1. Take Stock: How to Find Your Radness
 
