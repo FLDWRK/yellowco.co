@@ -18,6 +18,8 @@ In 2014, Erin took her idea for a female entrepreneur-focused documentary to Kic
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/v3rj42IYFTU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<br>
+
 #### [Jennifer Siebel Newsom, Director of Miss Representation](http://therepresentationproject.org/film/miss-representation/)
 
 Jennifer Siebel Newsom is a feminist icon, whose film, _Miss Representation_, seems almost like a page from her life story. With an established career in Hollywood before her documentary debut, critics refer to Newsom to with regards to her designer clothing choices and her “high-profile” dating history. Now, Newsom’s film, _Miss Representation_, and her more recent documentary feature, _The Mask You Live In_, have rightfully evolved her image to that of a cultural champion. In the wake of the tremendous impact of _Miss Representation_, Newsom founded [The Representation Project](http://therepresentationproject.org/), which uses media as a device for culture change. 
@@ -28,7 +30,9 @@ The film alternates between expert commentary, open discussion with high-school 
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/W2UZZV3xU6Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Bonni Cohen, Director of [Audrie & Daisy](http://www.audrieanddaisy.com/)
+<br>
+
+#### [Bonni Cohen, Director of Audrie & Daisy](http://www.audrieanddaisy.com/)
 
 _Audrie & Daisy_, told through two narratives of interwoven subject matter, is a gut-wrenching spotlight on the way our culture treats its victims. Thought not an easy story to tell, but Bonni Cohen and her co-director husband Jon Shenk were committed to further exploring the sexual assault survivor’s experience. They spent two years filming Daisy Coleman and her family, watching as Daisy’s social life and ultimately, her family’s place in the community, unraveled in the aftermath of Daisy's assault. Cohen’s delicate capturing of the Coleman family and retelling of the tragically-ended life of Audrie Pott brought to light the stark realities of living as a victim in the midst of a media circus and community annulment.  
 
@@ -36,7 +40,9 @@ Both Audrie Pott and Daisy Coleman are victims of underaged sexual assault, with
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/29Dr4ChJUBc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Deborah Esquenazi, Director of [Southwest of Salem: The Story of the San Antonio Four](http://www.southwestofsalem.com/)
+<br>
+
+#### [Deborah Esquenazi, Director of Southwest of Salem: The Story of the San Antonio Four](http://www.southwestofsalem.com/)
 
 The initial trials of the crudely nicknamed "San Antonio Four" were heavily biased, mysogynist, and overly sexualized used during a time of media hysteria. After the women spent nearly a decade in prison, Deborah Esquenazi discovered the case and set out to shed light on the severe injustice these women suffered. Wrongfully convicted of gang-raping two young girls, the four lesbian Latina women comprising the San Antonio Four spoke with Esquenazi for a totaled seven years to create the film. Ultimately, _Southwest of Salem_ was a primary driver in the exoneration of the San Antonio Four, who now walk free and maintain a friendship with Esquenazi. 
 
@@ -48,7 +54,9 @@ She went beyond the re-examination of evidence and instead took each biased clai
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/zuAf4fT9Umo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Sarah Polley, Director of [Stories We Tell](http://www.storieswetellmovie.com/story.html)
+<br>
+
+#### [Sarah Polley, Director of Stories We Tell](http://www.storieswetellmovie.com/story.html)
 
 _Stories We Tell_ is a personal film, strikingly relevant to anyone who has ever endeavored to peel back the layers of their family lineage. Sarah Polley interviews a variety of cast of family members, candidly and sincerely, about their perspectives of her late mother, actress Diane Polley. Each family member’s account of her mother’s life, transgressions, and personality lead Polley to discover a family secret that went with her mother to her grave. 
 
@@ -56,7 +64,9 @@ This documentary is among a handful of films, short and feature length, in which
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/ytq4VZ2Nyxg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Barbara Kopple, Director of [Running From Crazy](http://www.cabincreekfilms.com/film_RunningFromCrazy.html)
+<br>
+
+#### [Barbara Kopple, Director of Running From Crazy](http://www.cabincreekfilms.com/film_RunningFromCrazy.html)
 
 Executively produced by Oprah, Barbara Kopple’s _Running From Crazy_ follows Mariel Hemingway, granddaughter to famed author, Ernest Hemingway, as she processes and proceeds beyond her family’s tumultuous history. The Hemingway lineage is ravaged by substance abuse, psychological struggles, and a high rate of suicide, which Kopple captures with delicate elegance. 
 
