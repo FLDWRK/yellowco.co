@@ -4,6 +4,7 @@ date: 2018-05-30 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Jennifer & Amy Hood
+image: "/uploads/YellowCoTourOC-85.jpg"
 series: Voice
 ---
 
