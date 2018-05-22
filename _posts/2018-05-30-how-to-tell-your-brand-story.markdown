@@ -8,7 +8,7 @@ image: "/uploads/YellowCoTourOC-85.jpg"
 series: Voice
 ---
 
-_A few weeks ago, we had the incredible opportunity to hear from sisters and co-founders, Jennifer and Amy Hood of [Hoodzpah Design Co.](https://hoodzpahdesign.com/), at our Orange County stop of the [Yellow Co. Ownership Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/). Our focus for the day was "How to Take Ownership of Your Story", and these two were a crowd favorite - keeping everyone laughing as much as they were jotting down their tangible tips as fast as they could. Today on the blog, Jennifer and Amy are sharing a recap of their tips on how to tell your individual brand story!_
+_A few weeks ago, we had the incredible opportunity to hear from sisters and co-founders, Jennifer and Amy Hood of [Hoodzpah Design Co.](https://hoodzpahdesign.com/), at our Orange County stop of the [Yellow Co. Ownership Tour](https://yellowcollective.lpages.co/yellow-west-coast-tour-2018/). Our focus for the day was "How to Take Ownership of Your Story", and these two were a crowd favorite - keeping the audience laughing as much as they were jotting down their tangible tips as fast as they could. Today on the blog, Jennifer and Amy are sharing a recap of their tips on how to tell your individual brand story!_
 
 We live in our own skin and walk in our own shoes, but it can be hard to put a narrative to who we are by ourselves! So we put together some quick tips on how to distill down your unique narrative angle (finding your radness), how to vocalize it, and how to hire yourself. It’s a fun 101 guide. 
 
@@ -36,11 +36,11 @@ Set yearly budgets, make a list of goal clients, think about what success is to 
 
 ###### Externally/Casually: Tell friends what you want. 
 
-Everyday our friends and acquaintances ask us “how are you?”, “what are you working on?”. Take advantage of those opportunities to share what you’re excited about, what you’re hoping to work on, what your goals are. Your friends want to help. People love to hook things up. Let them promote you. Plus, vocalizing to people will keep you accountable. They’ll be following up on your progress and it’ll keep you accountable.
+Everyday our friends and acquaintances ask us, “How are you?”, “What are you working on?” Take advantage of those opportunities to share what you’re excited about, what you’re hoping to work on, what your goals are. Your friends want to help. People love to hook things up. Let them promote you. Plus, vocalizing to people will keep you accountable. They’ll be following up on your progress and it’ll keep you accountable.
 
 ###### Externally/Professionally: Tell the world what you want. 
 
-Cold email agencies and dream clients. How will they know about you otherwise? Keep it friendly, succinct and to the point. Find your contact at the company by reverse looking them up on LinkedIn (find the company then search their employees to find someone in the creative department). Tell them why you admire their company, where you can help, and point them to your online portfolio.  
+Cold email agencies and dream clients. How will they know about you otherwise? Keep it friendly, succinct, and to the point. Find your contact at the company by reverse looking them up on LinkedIn (find the company, then search their employees to find someone in the creative department). Tell them why you admire their company, where you can help, and point them to your online portfolio.  
 
 Interact with your community and peers too. Attend creative meet ups and local events. Don’t go in with the aim of a hard sell. Go in hoping to make organic friendships. Seeking to sell will make you come off eager and pushy. Go in looking to meet passionate people and learn about what they do. Then be ready to share what you’re working on. 
 
@@ -58,7 +58,7 @@ Create a passion project, join a design challenge (Inktober or UIDaily are great
 
 It doesn’t have to be custom built for you. Try Semplice, WordPress, or Squarespace. A Dribbble account or Behance account alone will do!
 
-###### Make it easier for people to discover you who don’t know you: Use springboard sites like Dribbble, Behance, Medium. 
+###### Make it easier for people to discover you who don’t know you: Use springboard sites like Dribble, Behance, Medium. 
 
 Don’t wait for people to find your site, which is buried in the trash heap that is the internet. That would require a lot of back linking and SEO work if you’re just starting out. Rather, go on sites like Dribbble where agencies and large brands are already hunting for talent to contract. Then link from there to your personal website in case someone wants to learn more about you.
 
@@ -70,7 +70,7 @@ Don’t wait for people to find your site, which is buried in the trash heap tha
 
 What is their tone, their personality, their ethos? What do you have in common? Learn from the pros. See how they tell their story. Take any lessons you can, then implement in your own unique way. If those are the people you want to appeal to, you can learn a lot by analyzing how they tell their own story.
 
-###### Lookup your heroes in your industry. 
+###### Look up your heroes in your industry. 
 
 Take notes on what makes them special and how they tell their story. Notice their tactics and strategy to get inspired and educated on how you might tell your story. Again, don’t copy their voice or story. But aim to understand the methods of the masters so you can inform your own story’s road.
 
