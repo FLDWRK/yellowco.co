@@ -32,8 +32,6 @@ The film alternates between expert commentary, open discussion with high-school 
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/W2UZZV3xU6Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<br>
-
 ##### [Audrie & Daisy | Directed by Bonni Cohen](http://www.audrieanddaisy.com/)
 
 _Audrie & Daisy_, told through two narratives of interwoven subject matter, is a gut-wrenching spotlight on the way our culture treats its victims. Thought not an easy story to tell, but Bonni Cohen and her co-director husband Jon Shenk were committed to further exploring the sexual assault survivor’s experience. They spent two years filming Daisy Coleman and her family, watching as Daisy’s social life and ultimately, her family’s place in the community, unraveled in the aftermath of Daisy's assault. Cohen’s delicate capturing of the Coleman family and retelling of the tragically-ended life of Audrie Pott brought to light the stark realities of living as a victim in the midst of a media circus and community annulment.  
