@@ -60,4 +60,4 @@ Don’t wait for people to find your site, which is buried in the trash heap tha
 
 ###### B. Lookup your heroes in your industry. Take notes on what makes them special and how they tell their story. Notice their tactics and strategy to get inspired and educated on how you might tell your story. Again, don’t copy their voice or story. But aim to understand the methods of the masters so you can inform your own story’s road.
 
-Photos courtesy of Hoodzpah Design
+Photos by [Kate Spencer Photography](http://katespencerphoto.com/) of Jennifer & Amy Hood at The Yellow Tour
