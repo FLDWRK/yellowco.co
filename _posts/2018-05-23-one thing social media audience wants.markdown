@@ -14,7 +14,7 @@ Ever since I was a little plastic-heel-wearing, tu-tu twirling girl, I have alwa
 
 In her book, _Rising Strong_, author Brené Brown talks about how stories are not just something we enjoy hearing or telling, but that we are connected to them on a deeper and intellectual level. “We're wired for story. In a culture of scarcity and perfectionism, there's a surprisingly simple reason we want to own, integrate, and share our stories of struggle. We do this because we feel the most alive when we're connecting with others and being brave with our stories - it's in our biology. The idea of storytelling has become ubiquitous. It’s a platform for everything from creative movements to marketing strategies. But the idea that we’re 'wired for story' is more than a catchy phrase. Neuroeconomist Paul Zak has found that hearing a story - a narrative with a beginning, middle, and end - causes our brains to release cortisol and oxytocin. These chemicals trigger the uniquely human abilities to connect, empathize, and make meaning. Story is literally in our DNA.”
 
-![joel-stylis-573185-unsplash.jpg](/uploads/joel-stylis-573185-unsplash.jpg)
+![The #1 Thing Your Social Media Audience Is Actually Craving to See - Yellow Co.jpg](/uploads/E263C087-0D38-4E2A-B6A0-259E3B835C4F.jpg)
 
 Stories are such a necessary part of our society and who we are as human beings because it reminds us that we are connected, no matter the differences in our background or culture. When I first started dabbling in social media through Myspace (anyone remember that?), I realized that not only do we love to tell, be part of, and take in stories, but that we _are_ stories. These spaces that we could alter, customize, and share our thoughts and experiences in a very public forum to both strangers and friends alike, became our outlets to not only share stories, but to become them. 
 
@@ -24,7 +24,7 @@ Then slowly, other forms of social medias came into our culture; from Facebook a
 
 It is easy to get on social media and assume that everyone is living their most aesthetically pleasing, seamlessly curated, photo-worthy lives. Especially with outlets that allows us to put our best foot forward 24/7; our best hairstyles, most highlighted moments, and instagrammable food. We forget that we are just humans behind these screens who cry, get their hearts broken, live most their days in yoga pants, and often don’t leave our homes (let alone our beds) when we work. It has become assumed that the life we create on our social media channels is the one that we live daily. We don't realize that it’s missing the necessary messy of what makes us human.
 
-![nagy-arnold-612483-unsplash.jpg](/uploads/nagy-arnold-612483-unsplash.jpg)
+[The #1 Thing Your Social Media Audience Is Actually Craving to See - Yellow Co.JPG](/uploads/D2454D23-925F-4991-B170-2A84628CA35E.JPG)
 
 Everyone enjoys a good filter and the perfect golden hour. We are people who appreciate the beauty in life, and rightfully so, but we can glorify the beauty in a way that makes us think that’s how life should be all the time. 
 
