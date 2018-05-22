@@ -1,5 +1,5 @@
 ---
-title: activism draft
+title: Intimidated by Activism? Use These 4 Steps to Start Speaking up
 date: 2018-06-01 04:00:00 -07:00
 categories:
 - Culture
