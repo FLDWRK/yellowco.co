@@ -7,25 +7,15 @@ author: Salma Elbarmawi
 series: Voice
 ---
 
-We often wonder why the world is filled with so much suffering. Why innocent people become targets of violence, or children are taken from us too soon. We often wonder why prejudice is perpetuated or injustice carried out. Following every notion of inequity, violations, or oppression, a seed of resistance is planted so deep within our souls waiting for it's time to rise. The fortune of so many obstacles in this world is that there is enough room for every human being to become an advocate against suffering that raises the voice buried in their soul. 
+We often wonder why the world is filled with so much suffering. Why innocent people become targets of violence, or children are taken from us too soon. We often wonder why prejudice is perpetuated or injustice carried out. Following every notion of inequity, violations, or oppression, a seed of resistance is planted so deep within our souls waiting for it's time to rise. With so many obstacles in this world, there is enough room for every human being to become an advocate against suffering that raises the voice buried in their soul. 
 
-Your voice is not something to be found. She has existed within you from the very first moment you felt the outrage of hurt. She’s been whispering her words since your body's first interaction with intolerance. Since your spirit's first feeling of wreckage by heartbreak. Since your eyes first witnessed the agony of a homeless child's hunger. Your voice has been writing on the wall since before you knew how to read. 
-
-Discovering what you care about, what your heart yearns for, is tied ever so paradoxically between your pain and your passion. 
+Your voice is not something to be found. She has existed within you from the very first moment you felt the outrage of hurt. She’s been whispering her words since your body's first interaction with intolerance. Since your spirit's first feeling of wreckage by heartbreak. Since your eyes first witnessed the agony of a homeless child's hunger. Discovering what you care about, what your heart yearns for, is tied ever so paradoxically between your pain and your passion. What markers in your life will you always look back on as the time of change in the woman you were? 
 
 ### What moments have moved your soul in a way that has re-shaped the world you've always seen? 
 
-What markers in your life will you always look back on as the time of change in the woman you were? 
+Those moments can be as profound as World War I was for Crystal Eastman. A lawyer, journalist, and social advocate at the time, she lead in the fight for women's suffrage, and her long-standing beliefs in equality for all eventually led her to co-found the National Civil Liberties Bureau, now the ACLU. These markers can be also as a slower process, like the publishing of Rupi Kaur's first book, _Milk and Honey_; a collection of poetry about survival and the experiences of violence, abuse, love, and loss. It was a work conceived years after her middle school essays, being bullied by nasty teens, and the rejection from so many publishers and magazines who didn't believe in her vision. 
 
-Those markers can be as profound as World War I was for Crystal Eastman. At the time a lawyer, journalist, and social advocate, she lead in the fight for women's suffrage, and her long-standing beliefs in equality for all eventually led her to co-found the National Civil Liberties Bureau, now the ACLU. 
-
-These events can also be as drawn out as the publishing of Rupi Kaur's first book, _Milk and Honey_; a collection of poetry about survival and the experiences of violence, abuse, love, and loss. A book which was conceived years after her middle school essays, being bullied by nasty teens, and the rejection from so many publishers and magazines who didn't believe in her vision. 
-
-If your voice is too afraid to speak, you must start by swearing to believe in her. To support her. To love her even at the expense of standing with her alone. 
-
-The most qualitative assurance you'll have in building the courage to breathe your truth is to make an unbreakable pact: that you won't feel guilty for pushing your vision. That you won't allow the world to tune the chords of your voice to the way they're comfortable hearing it. That when you shake, because it's hard and tiresome, you do it in the confines of the people who support you, rather than in the arms of those who promise you a path at the expense of your vision. 
-
-Once you've determined what your energy for activism will fuel, take these steps to move forward in using your voice for good.
+If your voice is too afraid to speak, you must start by swearing to believe in her. To love her even at the expense of standing with her alone. That you won't allow the world to tune the chords of your voice to the way they're comfortable hearing it. Once you've determined what your energy for activism will fuel, take these steps to move forward in using your voice for good.
 
 #### Educate Yourself 
 
