@@ -4,6 +4,7 @@ date: 2018-06-01 04:00:00 -07:00
 categories:
 - Culture
 author: Salma Elbarmawi
+image: "/uploads/image14.jpeg"
 series: Voice
 ---
 
@@ -17,6 +18,8 @@ Those moments can be as profound as World War I was for Crystal Eastman. A lawye
 
 If your voice is too afraid to speak, you must start by swearing to believe in her. To love her even at the expense of standing with her alone. That you won't allow the world to tune the chords of your voice to the way they're comfortable hearing it. Once you've determined what your energy for activism will fuel and garnered the courage to put it to action, take these steps to move forward in using your voice for good.
 
+![image13.jpeg](/uploads/image13.jpeg)
+
 #### Educate Yourself 
 
 Whether your goal is to educate others or fight for a cause, knowledge is power. While you don't have to be Black to advocate for [Black Lives Matter](https://blacklivesmatter.com/), and you don't have to be an immigrant to defend [DACA](https://www.npr.org/2017/09/05/548754723/5-things-you-should-know-about-daca), you do have to understand what you're talking about. You must learn from the perspectives of those whose lives are affected by the cause, even if one of those lives is yours.   
@@ -28,6 +31,8 @@ Chances are, you aren't the only human who is fighting for the cause, and that's
 #### Share the Wealth of Information
 
 Now that you've taken the time to educate yourself, asses your beliefs, and possibly unlearn some of your own bad habits, it's time to share your experiences and resources. Despite angry rants and less-than-pleasant arguments on Facebook and Twitter, [Pew Research Center](http://www.pewinternet.org/2016/10/25/the-tone-of-social-media-discussions-around-politics/) recently found that 1 in 5 social media users saw something on social media that changed their mind about a political issue or candidate. It may feel a little draining at times, but your words matter. There are ears open specifically to your voice, ears that others can't get to. That power is spectacular and can be used for change you never thought possible. 
+
+![image15.jpeg](/uploads/image15.jpeg)
 
 #### Take Action 
 
