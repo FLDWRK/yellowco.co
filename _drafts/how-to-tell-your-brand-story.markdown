@@ -26,7 +26,9 @@ Maybe you played fiddle in your family bluegrass band, maybe you
 
 Example: You’re a blackbelt in karate, you’re a Nic Cage enthusiast, etc.. Find what makes you memorable and unique and see if you can weave that into your story to help you stand out from competition.
 
-#### 2 Vocalize: How to Spread Your Gospel
+![YellowCoTourOC-91.jpg](/uploads/YellowCoTourOC-91.jpg)
+
+#### 2. Vocalize: How to Spread Your Gospel
 
 ###### A. Internally: Write down your goals regularly. 
 
@@ -39,6 +41,8 @@ Everyday our friends and acquaintances ask us “how are you?”, “what are yo
 ###### C. Externally/Professionally: Tell the world what you want. 
 
 Cold email agencies and dream clients. How will they know about you otherwise? Keep it friendly, succinct and to the point. Find your contact at the company by reverse looking them up on LinkedIn (find the company then search their employees to find someone in the creative department). Tell them why you admire their company, where you can help, and point them to your online portfolio.  Interact with your community and peers too. Attend creative meet ups and local events. Don’t go in with the aim of a hard sell. Go in hoping to make organic friendships. Seeking to sell sell will make you come off eager and pushy. Go in looking to meet passionate people and learn about what they do. Then be ready to share what you’re working on. GET ON TWITTER! The barrier for conversation is so much lower on Twitter compared to email or Instagram. Most of your creative heroes are managing their own Twitter (there’s no secretary fielding it like their email). Most interactions on Twitter are likes or retweets. Stand out by interacting with people through comments. Try and ask good questions, connect on non-design interests that you have in common, just have fun. Genuine interactions will build a rapport on a human level with people who work at agencies/companies you admire. The goal is fostering true relationships, not making hard sales.
+
+![YellowCoTourOC-120.jpg](/uploads/YellowCoTourOC-120.jpg)
 
 #### 3. Hire Yourself: Make The Work You Want To Get Hired For
 
@@ -56,8 +60,12 @@ Don’t wait for people to find your site, which is buried in the trash heap tha
 
 #### Extra Credit: Research Your Dream Clients and Heroes to Find Shared Plots.
 
-###### A. Lookup your dream clients: brands, people, companies. What is their tone, their personality, their ethos? What do you have in common? Learn from the pros. See how they tell their story. Take any lessons you can, then implement in your own unique way. If those are the people you want to appeal to, you can learn a lot by analyzing how they tell their own story.
+###### A. Lookup your dream clients: brands, people, companies. 
 
-###### B. Lookup your heroes in your industry. Take notes on what makes them special and how they tell their story. Notice their tactics and strategy to get inspired and educated on how you might tell your story. Again, don’t copy their voice or story. But aim to understand the methods of the masters so you can inform your own story’s road.
+What is their tone, their personality, their ethos? What do you have in common? Learn from the pros. See how they tell their story. Take any lessons you can, then implement in your own unique way. If those are the people you want to appeal to, you can learn a lot by analyzing how they tell their own story.
+
+###### B. Lookup your heroes in your industry. 
+
+Take notes on what makes them special and how they tell their story. Notice their tactics and strategy to get inspired and educated on how you might tell your story. Again, don’t copy their voice or story. But aim to understand the methods of the masters so you can inform your own story’s road.
 
 Photos by [Kate Spencer Photography](http://katespencerphoto.com/) of Jennifer & Amy Hood at The Yellow Tour
