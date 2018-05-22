@@ -16,9 +16,10 @@ sm-banners:
 conference:
   title: 2018 Yellow Conference
   time: Thu, Aug 23 - Fri, Aug 24
-  text: A gathering for creative women who are making an impact and using their gifts,
-    skills and talents to serve the greater good.<br></br>Taking place at Hudson Loft
-    • 1200 S Hope St Los Angeles, CA 90015<br></br>
+  text: |-
+    A gathering for creative women who are making an impact and using their gifts, skills and talents to serve the greater good.
+
+    Taking place at Hudson Loft • 1200 S Hope St Los Angeles, CA 90015
 quote-one:
   image: "/assets/images/conference-guests.jpg"
   text: 'Succinctly: It will change your life and your business. With less brevity:
