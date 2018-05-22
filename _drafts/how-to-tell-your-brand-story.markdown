@@ -14,15 +14,15 @@ We live in our own skin and walk in our own shoes, but it can be hard to put a n
 
 ##### 1. Take Stock: How to Find Your Radness
 
-###### A. What do people tell you you’re good at? 
+###### What do people tell you you’re good at? 
 
 It can be hard to know what we’re good at. We’re biased and confused by our ego/fears/insecurities. Let your friends and family help you figure it out. Ask them what your strengths are. What makes you fun to work with, to hang out with? Knowing those skills can help you talk about your company and the experience you deliver to clients.
 
-###### B. What is weird or memorable about you? 
+###### What is weird or memorable about you? 
 
-Maybe you played fiddle in your family bluegrass band, maybe you
+Maybe you played fiddle in your family bluegrass band.
 
-###### C. What are your hobbies and interests? 
+###### What are your hobbies and interests? 
 
 Example: You’re a blackbelt in karate, you’re a Nic Cage enthusiast, etc.. Find what makes you memorable and unique and see if you can weave that into your story to help you stand out from competition.
 
@@ -30,15 +30,15 @@ Example: You’re a blackbelt in karate, you’re a Nic Cage enthusiast, etc.. F
 
 #### 2. Vocalize: How to Spread Your Gospel
 
-###### A. Internally: Write down your goals regularly. 
+###### Internally: Write down your goals regularly. 
 
 Set yearly budgets, make a list of goal clients, think about what success is to you. It can be easy to run on auto-pilot and let life happen to you. Journaling will help you focus on where you want to go so you don’t drift aimlessly through life.
 
-###### B. Externally/Casually: Tell friends what you want. 
+###### Externally/Casually: Tell friends what you want. 
 
 Everyday our friends and acquaintances ask us “how are you?”, “what are you working on?”. Take advantage of those opportunities to share what you’re excited about, what you’re hoping to work on, what your goals are. Your friends want to help. People love to hook things up. Let them promote you. Plus, vocalizing to people will keep you accountable. They’ll be following up on your progress and it’ll keep you accountable.
 
-###### C. Externally/Professionally: Tell the world what you want. 
+###### Externally/Professionally: Tell the world what you want. 
 
 Cold email agencies and dream clients. How will they know about you otherwise? Keep it friendly, succinct and to the point. Find your contact at the company by reverse looking them up on LinkedIn (find the company then search their employees to find someone in the creative department). Tell them why you admire their company, where you can help, and point them to your online portfolio.  
 
@@ -50,15 +50,15 @@ GET ON TWITTER! The barrier for conversation is so much lower on Twitter compare
 
 #### 3. Hire Yourself: Make The Work You Want To Get Hired For
 
-###### A. Don’t wait for the right assignment, make the assignment.
+###### Don’t wait for the right assignment, make the assignment.
 
 Create a passion project, join a design challenge (Inktober or UIDaily are great examples). Make quality work that reflects the style and level you want to land from clients.
 
-###### B. Show your work! Get a website up. 
+###### Show your work! Get a website up. 
 
 It doesn’t have to be custom built for you. Try Semplice, WordPress, or Squarespace. A Dribbble account or Behance account alone will do!
 
-###### C. Make it easier for people to discover you who don’t know you: Use springboard sites like Dribbble, Behance, Medium. 
+###### Make it easier for people to discover you who don’t know you: Use springboard sites like Dribbble, Behance, Medium. 
 
 Don’t wait for people to find your site, which is buried in the trash heap that is the internet. That would require a lot of back linking and SEO work if you’re just starting out. Rather, go on sites like Dribbble where agencies and large brands are already hunting for talent to contract. Then link from there to your personal website in case someone wants to learn more about you.
 
@@ -66,11 +66,11 @@ Don’t wait for people to find your site, which is buried in the trash heap tha
 
 #### Extra Credit: Research Your Dream Clients and Heroes to Find Shared Plots.
 
-###### A. Lookup your dream clients: brands, people, companies. 
+###### Lookup your dream clients: brands, people, companies. 
 
 What is their tone, their personality, their ethos? What do you have in common? Learn from the pros. See how they tell their story. Take any lessons you can, then implement in your own unique way. If those are the people you want to appeal to, you can learn a lot by analyzing how they tell their own story.
 
-###### B. Lookup your heroes in your industry. 
+###### Lookup your heroes in your industry. 
 
 Take notes on what makes them special and how they tell their story. Notice their tactics and strategy to get inspired and educated on how you might tell your story. Again, don’t copy their voice or story. But aim to understand the methods of the masters so you can inform your own story’s road.
 
