@@ -34,4 +34,4 @@ We desire the ability to be real, authentic, and honest with our human capacity 
 
 Our social media pages are more than just photo feeds, they are still shots of who we are, what we’re passionate about, and what we stand for. They are extensions of ourselves, our stories, and they should encapsulate not only the beautiful moments, but also the messy; the most authentic aspect of who we are being brought to light. Each of us are walking, breathing, beautiful stories that have been uniquely given to each of us, and the ability to connect those stories with people from all over the world through social media is a gift - one to tread softly on with grace, intentionality, and authenticity. 
 
-_Photos courtesy of Arielle Estoria_
+_Photos courtesy of [Arielle Estoria](https://www.instagram.com/arielleestoria/)_
