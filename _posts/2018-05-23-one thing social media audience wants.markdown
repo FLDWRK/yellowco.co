@@ -4,7 +4,7 @@ date: 2018-05-23 04:00:00 -07:00
 categories:
 - Culture
 author: Arielle Estoria
-image: "/uploads/annie-spratt-76930-unsplash.jpg"
+image: "/uploads/0p9a3458.JPG"
 series: Voice
 ---
 
@@ -33,3 +33,5 @@ Everyone enjoys a good filter and the perfect golden hour. We are people who app
 We desire the ability to be real, authentic, and honest with our human capacity to feel. Don’t get me wrong, I appreciated, and still do, a good, aesthetically pleasing photo with an outfit that I probably planned days in advance. But one of the things I strive to focus on within my engagement are the narratives of realness; the very raw candidness of where I’m at in that season, what I’m learning, and what I’m feeling. I realized that I didn’t want my social media channels to just be outlets where I put my best foot forward all the time, and conveyed the lie that’s how my life is 24/7. I wanted my social media outlets to be a continuation of who I was already, not who I was trying to be. I noticed that the posts that gained the most engagement were often the ones I would refer to as "spilling  the captions" that were more personal and honest, rather than the sassy, short-and-sweet ones. In studying these posts with the most comments or likes, I realized one thing: we strive to connect and thread ourselves into others' stories.
 
 Our social media pages are more than just photo feeds, they are still shots of who we are, what we’re passionate about, and what we stand for. They are extensions of ourselves, our stories, and they should encapsulate not only the beautiful moments, but also the messy; the most authentic aspect of who we are being brought to light. Each of us are walking, breathing, beautiful stories that have been uniquely given to each of us, and the ability to connect those stories with people from all over the world through social media is a gift - one to tread softly on with grace, intentionality, and authenticity. 
+
+_Photos courtesy of Arielle Estoria_
