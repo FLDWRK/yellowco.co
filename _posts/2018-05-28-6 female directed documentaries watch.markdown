@@ -28,6 +28,8 @@ The film alternates between expert commentary, open discussion with high-school 
 
 ### This documentary boldly brings to light the rampant misrepresentation of women and girls in all arenas of mass communication, and presents a number of ways in which we can progressively move forward. 
 
+<br>
+
 <iframe width="720" height="405" src="https://www.youtube.com/embed/W2UZZV3xU6Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
@@ -73,3 +75,5 @@ Executively produced by Oprah, Barbara Kopple’s _Running From Crazy_ follows M
 Barbara Kopple has built a multi-decade career of diverse, hard-hitting storytelling, including her first feature-length documentary, _Harlan County U.S.A_, which features on-the-ground footage from a 1976 violent miner strike. _Running From Crazy_ catalogs Mariel’s journey to distance herself from what is dubbed the "Hemingway family curse" by including her speaking for mental health activism, pursuing physical wellness, and visiting family members to discuss how the phenomenon has impacted their lives. 
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/N4fqNvQnfHc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
