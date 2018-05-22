@@ -1,5 +1,5 @@
 ---
-title: How to Tell Your Brand Story & Get the Work You Want
+title: How to Tell Your Brand Story & Get the Work You Dream Of
 date: 2018-05-30 04:00:00 -07:00
 categories:
 - Entrepreneurs
