@@ -40,4 +40,4 @@ You are your most powerful force, and yet as you've probably felt anytime you've
 
 No matter what you do, no matter how many steps it takes, or how long you're at it before you ever feel any momentum, remember that you are an activist by advocating for yourself first. There was a space carved out in this world that only you fit. Remember that when your voice trails, when it feels like too much, or when the fear is holding you back. You were given a voice because you were meant to speak, so speak, and let your heart find the right words to guide you.
 
-Photos by
+_Photos by [Em Steffen](https://www.instagram.com/em.steffen/)_
