@@ -3,25 +3,15 @@ title: Home
 position: 0
 body-class: home
 banners:
-- link: http://www.yellowtour.co/
-  image: "/uploads/Tour-Header-Journal-d50462.jpg"
-- link: "/membership"
-  image: "/assets/images/membership-link.jpg"
-- link: https://yellowco.co/tour/
-  image: "/uploads/Tour-Banner.jpg"
 - link: "/conference"
   image: "/assets/images/Conference-Header.jpg"
-sm-banners:
-- link: https://yellowco.co/live/
-  image: "/uploads/Tour-Livestream-SM.jpg"
-- link: http://www.yellowtour.co/
-  image: "/uploads/Tour-Small-header.jpg"
 - link: "/membership"
-  image: "/assets/images/membership-link-sm.jpg"
-- link: https://yellowco.co/tour/
-  image: "/uploads/Tour-Banner-SM.jpg"
+  image: "/assets/images/membership-link.jpg"
+sm-banners:
 - link: "/conference"
   image: "/assets/images/conference-header-sm.jpg"
+- link: "/membership"
+  image: "/assets/images/membership-link-sm.jpg"
 buttons:
 - text: Tour
   link: "/tour"
