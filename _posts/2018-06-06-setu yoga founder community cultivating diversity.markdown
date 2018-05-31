@@ -30,6 +30,8 @@ Mainstream media has fed us imagery of people that look a certain way for so lon
 
 ### But when there is no standard, when the emphasis is taken off of finding commonality in our external appearance, we start to look for commonality among our internal being - our experiences, feelings and thoughts.
 
+![high lunge.jpg](/uploads/high%20lunge.jpg)
+
 ###### Yoga itself helps us connect to our bodies on many levels. What has practicing yoga done for your relationship with your body?
 
 Yoga continues do incredible things for my body. The longer I practice the more I learn, feel, and grow. Primarily it’s shown me how to have a positive relationship with my body. I grew up playing fast-paced sports and feeling the adrenaline rush. When I started practicing yoga about 10 years ago, I realized I enjoyed staying in one place and moving intentionally. Every movement counts in yoga. There are no throwaway parts of the practice. 
@@ -46,6 +48,8 @@ Staying on track means having patience and love for myself. I lived many years w
 
 My routine is an tool that helps reinforce the positive way I show up for myself and others. I definitely have challenging days and feel unbalanced, but by integrating wellness into everything I do, I'm provided with many access points to recenter and align.
 
+![Setu wheel pose figure.jpg](/uploads/Setu%20wheel%20pose%20figure.jpg)
+
 ###### What does Setu mean? Why did you choose this for the name of your community?
 
 Setu comes from Sanskrit and means bridge. I chose it because I believe this community has the potential to authentically connect people. When I was looking for the name, I wanted one that meant something in another language – something with a legacy. Initially I was looking for a Greek name, since I’m half Greek, but many of those names were in use or really long [laugh]. I started looking through names of yoga poses to see if one had a meaning that resonated with me. When I found Setu, it felt on point.
@@ -58,13 +62,17 @@ _[Curvy Yoga](https://www.amazon.com/Curvy-Yoga%C2%AE-Love-Yourself-Little/dp/14
 _[Practice You](https://www.amazon.com/Practice-You-Journal-Elena-Brower/dp/162203922X/ref=sr_1_1?ie=UTF8&qid=1527804153&sr=8-1&keywords=practicing+you&dpID=510HVo1PgaL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)_ by Elana Brower (more of a journal than book)  
 _[When Things Fall Apart](https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438/ref=sr_1_1?ie=UTF8&qid=1527804181&sr=8-1&keywords=when+things+fall+apart&dpID=51CBNUl8u8L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)_ by Pema Chödrön
 
-Podcast: _She’s All Fat_ 
+Podcast: _[She’s All Fat](https://shesallfatpod.com/)_ 
 
 Tools: Aromatherapy things like essential oils + a diffuser, palo santo and sage, candles, salts. The smells they provide calm and ground me.
 
 ###### For any women out there who don’t have a good relationship with their body, what is a first step you would tell them to take?
 
-Listen to your body and show it compassion. This may take many attempts - it took me a good 22 years and I’m still learning. Some ways to do this are through positive affirmations, using a kind voice in your head, keeping a gratitude journal, finding time to be in nature and other ways that calm your nervous system. Through this process you’ll become your body’s best friend. You’ll start to treat your body like you do your best friend - with patience and respect. 
+Listen to your body and show it compassion. This may take many attempts - it took me a good 22 years and I’m still learning. Some ways to do this are through positive affirmations, using a kind voice in your head, keeping a gratitude journal, finding time to be in nature, and other ways that calm your nervous system. Through this process you’ll become your body’s best friend. 
+
+### You’ll start to treat your body like you do your best friend - with patience and respect. 
+
+![_DSC0190.jpg](/uploads/_DSC0190.jpg)
 
 ###### What is your greatest hope for the future of Setu?
 
