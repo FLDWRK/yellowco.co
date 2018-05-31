@@ -1,17 +1,18 @@
 ---
-title: setu interview
+title: Meet the Founder Cultivating Inclusivity and Diversity in the Yoga Community
 date: 2018-06-06 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
+image: "/uploads/Setu%20logo.jpg"
 series: Body
 ---
 
 
 
-###### How did the dream to create Setu come about? Was there a particular moment that revealed the need for a diverse, inclusive yoga community to you?
+###### How did the dream to create [Setu](https://setu.yoga/) come about? Was there a particular moment that revealed the need for a diverse, inclusive yoga community to you?
 
-Setu came about when I was completing my yoga teacher training in May 2017. One of the final segments of the training covered diversity and inclusivity in yoga. Daba Briggs, a NY yoga teacher, led us through a conversation on the importance of being mindful of how we create a welcoming and compassionate space as yoga teachers for all students in the room. She put us in partners to brainstorm special projects we could create that facilitated inclusivity. I ended up partnering with her and share my ideas, which were vague since Setu wasn’t fully planned. Her feedback affirmed my desire to support inclusivity in yoga as a larger project. About a month later, I realized what Setu was and began working on it.
+[Setu](https://setu.yoga/) came about when I was completing my yoga teacher training in May 2017. One of the final segments of the training covered diversity and inclusivity in yoga. Daba Briggs, a NY yoga teacher, led us through a conversation on the importance of being mindful of how we create a welcoming and compassionate space as yoga teachers for all students in the room. She put us in partners to brainstorm special projects we could create that facilitated inclusivity. I ended up partnering with her and share my ideas, which were vague since Setu wasn’t fully planned. Her feedback affirmed my desire to support inclusivity in yoga as a larger project. About a month later, I realized what Setu was and began working on it.
 
 
 ###### Tell us a bit about how you go about creating this community filled with a variety of nationalities, races, gender identities, body types, and life stories.
