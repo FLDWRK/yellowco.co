@@ -10,8 +10,8 @@ nav:
   site:
     highlight: conference
 banners:
-- image: "/uploads/Conference-Header.jpg"
-  link: https://www.universe.com/embed2/events/yellow-conference-2018-tickets-los-angeles-SKLDM0
+- link: https://www.universe.com/embed2/events/yellow-conference-2018-tickets-los-angeles-SKLDM0
+  image: "/uploads/Conference-Header.jpg"
 sm-banners:
 - image: "/uploads/banner-conference-conference-sm.jpg"
 conference:
