@@ -1,6 +1,8 @@
 ---
 title: Why Gut Health Isn't Just a Trend draft
 date: 2018-06-08 04:00:00 -07:00
+categories:
+- Health
 author: Abigail Davidson
 series: Body
 ---
