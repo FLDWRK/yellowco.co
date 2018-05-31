@@ -60,12 +60,10 @@ marketplace:
   title: The Deets
   quote:
     text: |-
-      VENUE: HUDSON LOFT • 1200 S Hope St Los Angeles, CA 90015
+      Venue: Hudson Loft • 1200 S Hope St, Los Angeles
 
-      SCHEDULE: \
-      Day 1 • Thursday 9am - 5pm, Attendee After Party Directly following Conference
-      \
-      Day 2 • Friday 9am - 5pm
+      SCHEDULE: Day 1 • Thursday 9am - 5pm, Attendee After Party Directly following Conference
+          Day 2 • Friday 9am - 5pm
     source: Annie + Jen
     source-company: Tribe of Dreamers
     source-link: https://www.tribeofdreamers.co/
