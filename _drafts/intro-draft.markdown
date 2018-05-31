@@ -1,5 +1,5 @@
 ---
-title: intro draft
+title: Why You Are Essential to Creating the Body Positive Culture We Crave
 date: 2018-06-04 04:00:00 -07:00
 categories:
 - Growth
