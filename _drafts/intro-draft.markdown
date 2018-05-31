@@ -3,6 +3,9 @@ title: intro draft
 date: 2018-06-04 04:00:00 -07:00
 categories:
 - Growth
+author: Hanna Snyder
+image: "/uploads/Yellow-Voice-26.jpg"
+series: Body
 ---
 
 I knew a girl 
