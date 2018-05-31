@@ -57,12 +57,15 @@ quote-two:
     old, any creative woman can seek the groundbreaking inspiration poured out from
     this conference. Absolutely can't wait until next year!
 marketplace:
-  title: The Do-Good Goods Marketplace
+  title: The Deets
   quote:
-    text: The Yellow Do-Good Goods marketplace was amazing! We've never met such a
-      wonderful group of like-minded women who were genuinely interested in products
-      that give back. As for sales, this is the most successful marketplace we've
-      ever been a part of.
+    text: |-
+      VENUE: HUDSON LOFT • 1200 S Hope St Los Angeles, CA 90015
+
+      SCHEDULE: \
+      Day 1 • Thursday 9am - 5pm, Attendee After Party Directly following Conference
+      \
+      Day 2 • Friday 9am - 5pm
     source: Annie + Jen
     source-company: Tribe of Dreamers
     source-link: https://www.tribeofdreamers.co/
