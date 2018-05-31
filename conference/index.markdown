@@ -61,11 +61,12 @@ marketplace:
   quote:
     text: |-
       Venue: Hudson Loft • 1200 S Hope St, Los Angeles
+      \
+      •••
 
-      SCHEDULE: Day 1 • Thursday 9am - 5pm, Attendee After Party Directly following Conference
-          Day 2 • Friday 9am - 5pm
+      Day 1 • Thursday 9am - 5pm, Attendee After Party Directly following Conference ••• Day 2 • Friday 9am - 5pm
     source: 
-    source-company: More details to be released soon!
+    source-company: More details to be released soon! ---
     source-link: 
   apply-link: https://docs.google.com/forms/d/e/1FAIpQLSeuhlqtlqnxrNHn0DdoFmQdHaO5ouMVwIcPj8Kt_buhJ6uZOA/viewform
 layout: custom/conference
