@@ -46,6 +46,8 @@ Could spell sass in winked eyelids
 Lose breath from the lightest touch  
 Catch rain on the teeth I greet the sky with
 
+![Yellow-Voice-8.jpg](/uploads/Yellow-Voice-8.jpg)
+
 And yet - I let her slip away 
 
 Forgot all the wonder she showed me  
@@ -86,7 +88,7 @@ From birth, we begin connecting with our body. We figure out what our fingers ar
 
 So many, if not all, of us have struggled with insecurity when it comes to our bodies. A lot of times, it feels like a factor of life we have to simply accept. But research studies surrounding this issue have started calling out the massive domino effect it has on the lives of women and girls. In 2016, Dove released the _[The Dove Global Beauty and Confidence Report](https://www.prnewswire.com/news-releases/new-dove-research-finds-beauty-pressures-up-and-women-and-girls-calling-for-change-583743391.html)_, which interviewed 10,500 females across 13 countries about their relationships with their bodies. Among other findings, the study showed that low body esteem greatly impacts a woman’s ability to see her full potential, assert her opinions, and prioritize her health.
 
-![Yellow-Voice-8.jpg](/uploads/Yellow-Voice-8.jpg)
+![Yellow-Voice-23.jpg](/uploads/Yellow-Voice-23.jpg)
 
 ### 85% of women and 79% of girls said they opt out of important life activities, such as trying out for a team or engaging with loved ones, when they don't feel good about the way they look. 
 
