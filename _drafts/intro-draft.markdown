@@ -8,76 +8,77 @@ image: "/uploads/Yellow-Voice-26.jpg"
 series: Body
 ---
 
-I knew a girl 
-warm and weightless
+I knew a girl  
+warm and weightless  
 who saw in me, a playground 
 
-Skipping two steps ahead
-she’d call for me to join her,
+Skipping two steps ahead  
+she’d call for me to join her,  
 “Let me show you what life feels like”
 
 And limb by limb, she did -
 
-A ceaseless, seamless freedom awakened
-when these legs broke loose with the wind
+A ceaseless, seamless freedom awakened  
+when these legs broke loose with the wind  
 An invitation to anywhere wheeling beneath me
 
-Found satisfaction in marks of charcoal
-caught by the sentimental edge of my wrist
+Found satisfaction in marks of charcoal  
+caught by the sentimental edge of my wrist  
 Evidence of wild thoughts escaped
 
-There were velvet overlooks, 
-electric mountaintops
+There were velvet overlooks,  
+electric mountaintops  
 to be learned with lips
 
-A forever companion
-to dance out every living rhythm 
+A forever companion  
+to dance out every living rhythm  
 Ten toes to shake the earth with
 
-Discovered how a hum bouncing in your throat
-blooms sun into your soul,
+Discovered how a hum bouncing in your throat  
+blooms sun into your soul,  
 a porch swing in your mind
 
-That ears are a medium of instant ease 
-Sweetly welcoming any familiar tone
+That ears are a medium of instant ease  
+Sweetly welcoming any familiar tone  
 of a grandmother miles away
 
-Could spell sass in winked eyelids
-Lose breath from the lightest touch
+Could spell sass in winked eyelids  
+Lose breath from the lightest touch  
 Catch rain on the teeth I greet the sky with
 
 And yet - I let her slip away 
 
-Forgot all the wonder she showed me
-are not just measurements,
+Forgot all the wonder she showed me  
+are not just measurements,  
 failed attempts at mirroring something else
-But too regal to dare pick at
-pull at sigh at stare at
+
+But too regal to dare pick at  
+pull at sigh at stare at  
 in anything but adoration
 
-No less a home when
-she’s asking for tenderness
+No less a home when  
+she’s asking for tenderness  
 No less weak in need of rest
 
-She gave this holy soul
-language to connect to the ground with,
+She gave this holy soul  
+language to connect to the ground with,  
 declare the depth of its magic with
 
-Not a captive of gravity
-A star that can burn
+Not a captive of gravity  
+A star that can burn  
 into any atmosphere
 
-So tomorrow when I wake
-I’ll hold her tight and kiss the morning
+So tomorrow when I wake  
+I’ll hold her tight and kiss the morning  
 as my feet hit the floor
 
-Knowing in these bones and blood
-I carry not just a miracle
-A damn design 
-perfect form 
+Knowing in these bones and blood  
+I carry not just a miracle  
+A damn design  
+perfect form  
 manifestation of me
 
--
+
 
 From birth, we begin connecting with our body. We figure out what our fingers are, how our legs can bend, and eventually, how to make a sound. It is an inherent, fascinating exploration of self; one that we approach, as children, joyfully. But as we grow, many more influences enter in that affect our body image beyond this excitement of understanding. It becomes far easier to see what our bodies are not, than to be amazed by all that they are.
 
