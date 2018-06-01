@@ -57,6 +57,6 @@ Obviously, there are times when you can’t avoid taking antibiotics, but try no
 
 As women, we are often taught how to be caretakers and to focus externally. Many of us have become very disconnected from our bodies and we’ve stopped listening to the quiet (or loud) cues we’re given. I encourage you to begin to learn how to tune into your body in order to recognize when you are stressed and how your body reacts (Is your breathing shallow? Is your chest tightening?), and what foods and lifestyle choices affect your body, mood, and energy levels in a negative way. Helpful practices for tuning in include yoga, meditation, journaling, and setting little reminders on your phone throughout the day to stop and check in with a body scan.
 
-#### If You’re Overwhelmed, Take Baby Steps
+###### If You’re Overwhelmed, Take Baby Steps
 
 If you’re one of the people who is experiencing the severe and long term effects of poor gut health, I can absolutely empathize with you. I have been there, and so have millions of others. I know it can be extremely frustrating. It can make you feel isolated, crazy, and out of control. So I encourage you to take baby steps, figuring out what is good for your body one step at a time. It will be a process, but it will absolutely be worth it, because YOU are worth it. So ask for support when and where you need it and be gentle with yourself along the way. 
