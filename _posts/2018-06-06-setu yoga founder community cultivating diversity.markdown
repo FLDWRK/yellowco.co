@@ -8,6 +8,8 @@ image: "/uploads/Setu%20logo.jpg"
 series: Body
 ---
 
+_It's not always an easy feat to find spaces in life that don't feel competitive. Where there isn't a lingering narrative in the back of our minds comparing ourselves to others. And when it comes to exercise classes? It's even more rare. But why is it that in a time we're gifting our bodies to be taken care of, we're focusing on what they're not? Libby Nicholaou set out to change this. By founding [Setu Yoga](https://setu.yoga/), she has created a yoga community driven by supporting and promoting diversity. Recently we were able to hear more from her about how diversity influences the perception of our own bodies, what wellness means to her, and her journey of creating a healthy relationship with her body._
+
 ###### How did the dream to create [Setu](https://setu.yoga/) come about? Was there a particular moment that revealed the need for a diverse, inclusive yoga community to you?
 
 [Setu](https://setu.yoga/) came about when I was completing my yoga teacher training in May 2017. One of the final segments of the training covered diversity and inclusivity in yoga. Daba Briggs, a NY yoga teacher, led us through a conversation on the importance of being mindful of how we create a welcoming and compassionate space as yoga teachers for all students in the room. She put us in partners to brainstorm special projects we could create that facilitated inclusivity. I ended up partnering with her and shared my ideas, which were vague since Setu wasn’t fully planned. Her feedback affirmed my desire to support inclusivity in yoga as a larger project. About a month later, I realized what Setu was and began working on it.
