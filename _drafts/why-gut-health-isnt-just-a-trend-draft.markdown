@@ -27,7 +27,7 @@ This is both good and bad news. The bad news is that some of us are going to be 
 
 ###### What You Can Do To Protect and Improve Your Gut Health
 
-#### 1. Eliminate foods your body doesn’t process well.
+### 1. Eliminate foods your body doesn’t process well.
 
 What we put in our body matters. Our bodies are creating new cells every second of the day, and they are using the food we eat to make those cells. That’s why diet is so important to our overall health.
 
@@ -37,23 +37,23 @@ After you’ve cut out these foods for a few weeks and experienced a decrease in
 
 That being said, there are a few foods that everyone (whether you currently have gut issues or not) should try to keep to a limited amount. I’m primarily talking about processed foods and refined sugars. All of the fast food and packaged foods that are staples in the Standard American Diet (is it ironic that the acronym for that is SAD?) have so many ingredients in them that aren’t real foods, therefore our bodies can’t really process them properly. Over time, these sugars, preservatives, refined oils, and other additives cause inflammation, which is the root of nearly all disease. Make sure you are eating wholesome, nutritious foods as well, like green leafy vegetables, good fiber, healthy fats, and sustainable proteins.
 
-#### 2. Make stress management a priority.
+### 2. Make stress management a priority.
 
 I cannot stress (pun intended) enough how important (and often overlooked!) stress management is in protecting your gut and overall health. In short, stress puts our body in a chronic "fight or flight" mode, which affects our body’s entire homeostasis. "Stress" includes what we stereotypically think of (lack of work/life balance, toxic relationships, etc.), but it can also include things like overtraining, exposing yourself to environmental toxins (personal care or cleaning products filled with chemicals, air and water pollution, etc.), not getting enough sleep, or not incorporating enough play into your life.
 
-#### 3. Try probiotics and/or fermented foods.
+### 3. Try probiotics and/or fermented foods.
 
 To help increase the good bacteria in your gut that may have been compromised, try taking a daily probiotic or eat fermented foods like kimchi or kombucha. Make sure you find a high quality probiotic and that your fermented foods or kombucha aren’t full of sugar.
 
-#### 4. Stay hydrated.
+### 4. Stay hydrated.
 
 Drinking plenty of water is one of the best ways to keep things flowing in your body and encourage detoxification. When you can, drink filtered water and stay away from plastic bottles.
 
-#### 5. Avoid antibiotics and other medications when possible.
+### 5. Avoid antibiotics and other medications when possible.
 
 Obviously, there are times when you can’t avoid taking antibiotics, but try not to overuse them. The point of antibiotics is to kill bacteria, but that includes the good bacteria too. The bacteria in your gut is literally what makes it function properly, so killing all of that can really mess things up. If you’re really sensitive, other OTC medications like ibuprofen can have a negative effect on your microbiome too.
 
-#### 6. No matter what steps you choose to take, learn to listen carefully to your body.
+### 6. No matter what steps you choose to take, learn to listen carefully to your body.
 
 As women, we are often taught how to be caretakers and to focus externally. Many of us have become very disconnected from our bodies and we’ve stopped listening to the quiet (or loud) cues we’re given. I encourage you to begin to learn how to tune into your body in order to recognize when you are stressed and how your body reacts (Is your breathing shallow? Is your chest tightening?), and what foods and lifestyle choices affect your body, mood, and energy levels in a negative way. Helpful practices for tuning in include yoga, meditation, journaling, and setting little reminders on your phone throughout the day to stop and check in with a body scan.
 
