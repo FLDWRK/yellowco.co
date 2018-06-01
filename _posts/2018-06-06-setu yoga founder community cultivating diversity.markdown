@@ -57,7 +57,7 @@ Setu comes from Sanskrit and means bridge. I chose it because I believe this com
 My recent favorite books are:  
 _[Every Body Yoga](https://www.amazon.com/Every-Body-Yoga-Fear-Body/dp/0761193111)_ by Jessamyn Stanley  
 _[Curvy Yoga](https://www.amazon.com/Curvy-Yoga%C2%AE-Love-Yourself-Little/dp/1454920661)_ by Anna Guest Jelley  
-_[Practice You](https://www.amazon.com/Practice-You-Journal-Elena-Brower/dp/162203922X/ref=sr_1_1?ie=UTF8&qid=1527804153&sr=8-1&keywords=practicing+you&dpID=510HVo1PgaL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)_ by Elana Brower (more of a journal than book)  
+_[Practice You](https://www.amazon.com/Practice-You-Journal-Elena-Brower/dp/162203922X/ref=sr_1_1?ie=UTF8&qid=1527804153&sr=8-1&keywords=practicing+you&dpID=510HVo1PgaL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)_ by Elena Brower (more of a journal than book)  
 _[When Things Fall Apart](https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438/ref=sr_1_1?ie=UTF8&qid=1527804181&sr=8-1&keywords=when+things+fall+apart&dpID=51CBNUl8u8L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)_ by Pema Chödrön
 
 Podcast: _[She’s All Fat](https://shesallfatpod.com/)_ 
