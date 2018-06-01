@@ -1,5 +1,5 @@
 ---
-title: 'Why Gut Health Isn''t Just a Trend: 6 Ways to Improve Yours'
+title: Why Gut Health Isn't Just a Trend & 6 Ways to Improve Yours
 date: 2018-06-08 04:00:00 -07:00
 categories:
 - Health
