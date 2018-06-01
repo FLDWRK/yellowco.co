@@ -72,7 +72,7 @@ Listen to your body and show it compassion. This may take many attempts - it too
 
 ### You’ll start to treat your body like you do your best friend - with patience and respect. 
 
-![_DSC0190.jpg](/uploads/_DSC0190.jpg)
+![setu 2.jpg](/uploads/setu%202.jpg)
 
 ###### What is your greatest hope for the future of Setu?
 
