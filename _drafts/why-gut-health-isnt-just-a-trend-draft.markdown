@@ -18,6 +18,8 @@ The scientific term for "gut" is actually "microbiome". Essentially, this is the
 
 The gut-brain axis is essentially the biochemical relationship between our GI tract and our central nervous system (the brain being the primary actor in the CNS). Researchers have only scratched the surface when it comes to our knowledge of the power of this connection, but what we know so far is that our gut has incredible influence over the rest of our body. If you think about it, our brain controls almost everything we do, on both a conscious and subconscious level. So if our microbiome is talking to and influencing our brain, this has huge implications for our overall brain and body function. This is also why scientists continue to find stronger links between gut health and mental health; a gut that isn’t working properly can cause or worsen mood, anxiety, depression, and more.
 
+![chris-ralston-484562-unsplash.jpg](/uploads/chris-ralston-484562-unsplash.jpg)
+
 ###### Some People Are More Susceptible to Gut Issues
 
 Why can two people live similar lifestyles and eat similar diets, and yet one person will end up with an autoimmune condition and the other will be just fine? Why do some seem to be so much more sensitive to certain foods and environmental toxins?
@@ -38,6 +40,8 @@ After you’ve cut out these foods for a few weeks and experienced a decrease in
 
 That being said, there are a few foods that everyone (whether you currently have gut issues or not) should try to keep to a limited amount. I’m primarily talking about processed foods and refined sugars. All of the fast food and packaged foods that are staples in the Standard American Diet (is it ironic that the acronym for that is SAD?) have so many ingredients in them that aren’t real foods, therefore our bodies can’t really process them properly. Over time, these sugars, preservatives, refined oils, and other additives cause inflammation, which is the root of nearly all disease. Make sure you are eating wholesome, nutritious foods as well, like green leafy vegetables, good fiber, healthy fats, and sustainable proteins.
 
+![nicole-honeywill-591548-unsplash.jpg](/uploads/nicole-honeywill-591548-unsplash.jpg)
+
 ### 2. Make stress management a priority.
 
 I cannot stress (pun intended) enough how important (and often overlooked!) stress management is in protecting your gut and overall health. In short, stress puts our body in a chronic "fight or flight" mode, which affects our body’s entire homeostasis. "Stress" includes what we stereotypically think of (lack of work/life balance, toxic relationships, etc.), but it can also include things like overtraining, exposing yourself to environmental toxins (personal care or cleaning products filled with chemicals, air and water pollution, etc.), not getting enough sleep, or not incorporating enough play into your life.
@@ -53,6 +57,8 @@ Drinking plenty of water is one of the best ways to keep things flowing in your 
 ### 5. Avoid antibiotics and other medications when possible.
 
 Obviously, there are times when you can’t avoid taking antibiotics, but try not to overuse them. The point of antibiotics is to kill bacteria, but that includes the good bacteria too. The bacteria in your gut is literally what makes it function properly, so killing all of that can really mess things up. If you’re really sensitive, other OTC medications like ibuprofen can have a negative effect on your microbiome too.
+
+![brooke-lark-537698-unsplash.jpg](/uploads/brooke-lark-537698-unsplash.jpg)
 
 ### 6. No matter what steps you choose to take, learn to listen carefully to your body.
 
