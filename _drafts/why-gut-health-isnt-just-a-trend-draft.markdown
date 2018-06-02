@@ -4,6 +4,7 @@ date: 2018-06-08 04:00:00 -07:00
 categories:
 - Health
 author: Abigail Davidson
+image: "/uploads/crop%20bb.jpg"
 series: Body
 ---
 
