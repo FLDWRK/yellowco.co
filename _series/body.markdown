@@ -1,6 +1,7 @@
 ---
 title: Body
 date: 2018-05-31 12:56:00 -07:00
+series: Body
 image: "/uploads/Body%20thumb.jpg"
 ---
 
