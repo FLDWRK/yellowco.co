@@ -67,3 +67,5 @@ As women, we are often taught how to be caretakers and to focus externally. Many
 ###### If You’re Overwhelmed, Take Baby Steps
 
 If you’re one of the people who is experiencing the severe and long term effects of poor gut health, I can absolutely empathize with you. I have been there, and so have millions of others. I know it can be extremely frustrating. It can make you feel isolated, crazy, and out of control. So I encourage you to take baby steps, figuring out what is good for your body one step at a time. It will be a process, but it will absolutely be worth it, because YOU are worth it. So ask for support when and where you need it and be gentle with yourself along the way. 
+
+_Feature Image by [Amy Hulst](https://www.instagram.com/amesandliza/)_
