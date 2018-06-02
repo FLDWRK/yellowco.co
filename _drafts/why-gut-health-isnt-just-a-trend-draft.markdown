@@ -40,7 +40,7 @@ After you’ve cut out these foods for a few weeks and experienced a decrease in
 
 That being said, there are a few foods that everyone (whether you currently have gut issues or not) should try to keep to a limited amount. I’m primarily talking about processed foods and refined sugars. All of the fast food and packaged foods that are staples in the Standard American Diet (is it ironic that the acronym for that is SAD?) have so many ingredients in them that aren’t real foods, therefore our bodies can’t really process them properly. Over time, these sugars, preservatives, refined oils, and other additives cause inflammation, which is the root of nearly all disease. Make sure you are eating wholesome, nutritious foods as well, like green leafy vegetables, good fiber, healthy fats, and sustainable proteins.
 
-![nicole-honeywill-591548-unsplash.jpg](/uploads/nicole-honeywill-591548-unsplash.jpg)
+![brooke-lark-537698-unsplash.jpg](/uploads/brooke-lark-537698-unsplash.jpg)
 
 ### 2. Make stress management a priority.
 
