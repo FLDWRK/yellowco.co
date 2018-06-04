@@ -9,7 +9,9 @@ series: Body
 
 ###### 1. What was the core inspiration that moved you to create [Girlfriend Collective](https://www.girlfriend.com/)?
 
-For us, we wanted to be the brand in the very crowded activewear space that made the highest quality activewear made above reproach in all facets, but with accessible prices for all people of different shapes and sizes. We want to be as impactful as possible with everything we make, and to let our customers know that they have the opportunity to be impactful with us. 
+For us, we wanted to be the brand in the very crowded activewear space that made the highest quality activewear made above reproach in all facets, but with accessible prices for all people of different shapes and sizes. 
+
+### We want to be as impactful as possible with everything we make, and to let our customers know that they have the opportunity to be impactful with us. 
 
 ###### 2. You put a huge amount of emphasis on creating an eco-friendly product, made sustainably and ethically, and designed to be timeless rather than trendy. Can you share with us a few of the ways you accomplish this?
 
