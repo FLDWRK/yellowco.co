@@ -6,7 +6,7 @@ nav:
     highlight: blog
 pagination:
   enabled: true
-series: Voice
+series: Body
 layout: custom/blog
 ---
 
