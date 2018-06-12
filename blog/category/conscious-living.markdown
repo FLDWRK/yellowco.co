@@ -1,6 +1,6 @@
 ---
 title: Conscious Living
-position: 3
+position: 6
 category: Conscious Living
 layout: category
 ---

@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 0
+position: 4
 body-class: home
 banners:
 - link: "/conference"
