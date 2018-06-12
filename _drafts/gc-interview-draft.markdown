@@ -5,6 +5,8 @@ author: Hanna Snyder
 series: Body
 ---
 
+
+
 ###### 1. What was the core inspiration that moved you to create [Girlfriend Collective](https://www.girlfriend.com/)?
 
 For us, we wanted to be the brand in the very crowded activewear space that made the highest quality activewear made above reproach in all facets, but with accessible prices for all people of different shapes and sizes. 
