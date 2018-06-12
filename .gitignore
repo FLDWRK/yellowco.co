@@ -1,8 +1,0 @@
-_site
-public
-.DS_Store
-.sass-cache
-.jekyll-metadata
-.siteleaf.yml
-node_modules
-yarn-error.log
