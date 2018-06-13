@@ -118,7 +118,7 @@ wrapped in empty words.
 
 “Not good enough.” We all struggle with this. But is it just me, or does it seem that “not good enough” is hitting girls at a younger and younger age. I think I was around 8 or 9 years old when I started doubting myself and my appearance. Now I hear girls even younger than that wanting to be “thinner” or have “big boobs” when they get older. But besides this being completely insane, it’s understandable. 
 
-### We are constantly being spoon-fed negative messages everywhere we go, so of course we’ve become programed to believe them.
+### We are constantly being spoon-fed negative messages everywhere we go, so of course we’ve become programmed to believe them.
 
 It’s just scary how these younger girls will have even a harder time undoing the damage, as they’ll have more accumulated years of negative programing stuffed down their throats. 
 
@@ -130,7 +130,9 @@ This is why I almost everything I do now centers around female empowerment. Beca
 
 “Why can’t dark, curvy, and different be considered beautiful?” Because advertising doesn’t accept dark, curvy and different girls as beautiful.
 
-I kept asking myself, "Why? Why? Why?" and eventually got down to this question: “Why does society want me to believe I’m not good enough?” Somehow, a wise, inner voice responded: "Because they want to sell you products as the solution to being good enough." It hit me. All the ads I saw in magazines, on tv, and billboards all said the same thing, “You are imperfect, buy this, and you’ll be perfect.” At that point, I thought - forget it. I am not going to waste my life hating myself, so that a bunch of people can profit off my insecurities. Instead, I am going to profit off my confidence. From that day, 14-year-old me set out to find self-love. 
+I kept asking myself, "Why? Why? Why?" and eventually got down to this question: “Why does society want me to believe I’m not good enough?” Somehow, a wise, inner voice responded: "Because they want to sell you products as the solution to being good enough." It hit me. All the ads I saw in magazines, on tv, and billboards all said the same thing, “You are imperfect, buy this, and you’ll be perfect.” At that point, I thought - forget it. I am not going to waste my life hating myself, so that a bunch of people can profit off my insecurities. Instead, I am going to profit off my confidence. From that day, 14-year-old me set out to find self-love.
+
+![Yellow Co Illustraions Mermaids Don't Have Thigh Gaps By Jolie Brownell copy.jpg](/uploads/Yellow%20Co%20Illustraions%20Mermaids%20Don't%20Have%20Thigh%20Gaps%20By%20Jolie%20Brownell%20copy.jpg) 
 
 I began researching self-love and confidence, and back in 2014, the first search result was a link to a Pinterest page full of motivational quotes. I read them ALL and wrote down every one that touched me in a way, and rewrote, and rewrote them. I filled my notebooks with colorful quotes and would read them to myself whenever I could. These words made me feel whole, loved, and even a little beautiful. 
 
