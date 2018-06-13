@@ -9,6 +9,8 @@ image: "/uploads/gc%201.jpg"
 series: Body
 ---
 
+_As if ethically manufactured, sustainable, eco-friendly activewear made from recycled water bottles wasn’t enough, [Girlfriend Collective](https://www.girlfriend.com/) has elevated all that a pair of leggings is capable of. Their super soft matching sets have proved to be a fit for every type of woman and kind of body. I was honored to get to hear from Quang Dinh, Girlfriend Collective's founder, on the heart behind their brand, priority of creating an inclusive culture, and how they handle the hurdles that come with choosing to create slow fashion._
+
 ###### What was the core inspiration that moved you to create [Girlfriend Collective](https://www.girlfriend.com/)?
 
 For us, we wanted to be the brand in the very crowded activewear space that made the highest quality activewear above reproach in all facets, but with accessible prices for all people of different shapes and sizes. 
@@ -25,7 +27,7 @@ Time was the main factor above all. I took a lot of time to go through the R&D p
 
 In terms of shopping online, I think it makes sense to include women with different body types because it represents our customers and shows how our product fits and performs for all women. We feel that beauty comes in all different colors, shapes, and sizes, and we want our campaign imagery to reflect that. 
 
-### We didn’t want to be the brand that didn’t walk the talk and, really, diversity is at the core of who we are and why our name is Girlfriend Collective. 
+### We didn’t want to be the brand that didn’t walk the talk and, really, diversity is at the core of who we are and why our name is [Girlfriend Collective](https://www.girlfriend.com/). 
 
 We want to be the brand that all women can look to, trust, and know that they are important to us always, and that we’re not just including them as a marketing tactic or revenue driver.
 
