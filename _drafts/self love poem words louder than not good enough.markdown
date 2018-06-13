@@ -64,6 +64,8 @@ you are their success,
 but only if you are first,  
 a failure to yourself.
 
+![Yellow Co Illustraions Blessed By Jolie Brownell copy 2.jpg](/uploads/Yellow%20Co%20Illustraions%20Blessed%20By%20Jolie%20Brownell%20copy%202.jpg)
+
 you see,  
 they cannot  
 afford for you to  
