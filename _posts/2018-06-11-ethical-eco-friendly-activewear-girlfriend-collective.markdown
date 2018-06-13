@@ -15,7 +15,7 @@ _As if ethically manufactured, sustainable, eco-friendly activewear made from re
 
 For us, we wanted to be the brand in the very crowded activewear space that made the highest quality activewear above reproach in all facets, but with accessible prices for all people of different shapes and sizes. 
 
-### We want to be as impactful as possible with everything we make, and to let our customers know that they have the opportunity to be impactful with us. 
+### We want to be as impactful as possible with everything we make, and let our customers know that they have the opportunity to be impactful with us. 
 
 ![Lilah_Look 8_110.jpg](/uploads/Lilah_Look%208_110.jpg)
 
@@ -47,7 +47,7 @@ We have a saying around the office lately: that it’s important to keep our emo
 
 I think the struggle for us is not having enough merchandise to supply our demand. We want to make the right things, and not just churn out goods based on trends or what we see is doing well in the marketplace. With that, we would miss out on those anyway because our process just takes longer. 
 
-### We want to make timeless clothes — things that people can wear year-round, for many years. 
+### We want to make timeless clothes that people can wear year-round, for many years. 
 
 ###### As an activewear company, your pieces are made to be moved in. What are some of the Girlfriend Collective team’s favorite ways of being active and connecting with your body?
 
