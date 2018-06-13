@@ -20,7 +20,7 @@ words.
 
 they will instead  
 feed you words full of  
-“not good enough’s”  
+“not good enough”  
 and supply you with a solution  
 as dessert.
 
@@ -55,17 +55,17 @@ remember,
 they told you  
 these things,  
 not to satisfy you,  
-or give you piece.  
+or give you peace.  
 but to fill their own  
 bottomless pockets.
 
 you are their income,  
 you are their success,  
-but only if you are  
-first, a failure to yourself.
+but only if you are first,  
+a failure to yourself.
 
 you see,  
-they can not  
+they cannot  
 afford for you to  
 be confident,  
 to feel beautiful,  
@@ -78,14 +78,14 @@ who believes
 they are everything  
 they are searching for?
 
-they can not.
+they cannot.
 
 so know this.  
 understand their logic,  
 their rooted message.
 
 they are hidden in  
-plane sight,  
+plain sight,  
 targeted towards  
 young women  
 and girls like us.
@@ -113,7 +113,6 @@ in search for solutions
 wrapped in empty words.
 
 ![Yellow Co Illustraions Confidence By Jolie Brownell copy 2.jpg](/uploads/Yellow%20Co%20Illustraions%20Confidence%20By%20Jolie%20Brownell%20copy%202.jpg)
-
 
 “Not good enough.” We all struggle with this. But is it just me, or does it seem that “not good enough” is hitting girls at a younger and younger age. I think I was around 8 or 9 years old when I started doubting myself and my appearance. Now I hear girls even younger than that wanting to be “thinner” or have “big boobs” when they get older. But besides this being completely insane, it’s understandable. 
 
