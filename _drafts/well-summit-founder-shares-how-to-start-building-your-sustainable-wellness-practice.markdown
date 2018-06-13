@@ -68,4 +68,4 @@ This is part of that global awakening we were talking about earlier. It’s not 
 
 We are committed to providing an experience that speaks to every attendee, wherever they are in their wellness journey. Whether you’re just starting out or are a wellness professional, we aim to give you tools and support to empower you to take that next step on your journey - and to help you plug into a warm and welcoming tribe of like-minded people to share the journey with.
 
-_Photos courtesy of the WELL Summit_
+_Photos courtesy of the [WELL Summit](https://wellsummit.org/)_
