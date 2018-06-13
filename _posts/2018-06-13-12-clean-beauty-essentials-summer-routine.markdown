@@ -8,13 +8,13 @@ image: "/uploads/image.png"
 series: Body
 ---
 
-Summer has finally arrived, and with it comes lots of fun spent outside in the sun and nature. But while it may be convenient to grab that old sunscreen on your way out the door to the beach, or a plastic water bottle on your way to a hike, we as consumers should be thinking more about what we are putting in and on our bodies during these upcoming summer months. 
+Summer has finally arrived, and with it comes lots of fun spent outside in the sun and in nature. But while it may be convenient to grab that old sunscreen on your way out the door to the beach, or a plastic water bottle on your way to a hike, we as consumers should be thinking more about what we are putting in and on our bodies during these upcoming summer months. 
 
 Unfortunately, many of our usual summer go-to products aren’t doing much to support our health, and are loaded with harmful chemicals we do not need in or on our bodies. Luckily, there are many amazing companies that are making it so much easier for conscious consumers to shop for summer essentials that not only look out for the health of the consumer, but also the health of the planet. So with many fun summer months ahead, I rounded up my top safe, toxin-free, and sustainable summer essentials for you to use and enjoy this summer.
 
 ![eir.jpg](/uploads/eir.jpg)
 
-### Skin
+### Sun
 
 ###### [Natural Zinc Sunscreen](https://eirnyc.com/collections/sun-and-surf/products/surf-mud-pro), [Cooling Lip Balm](https://eirnyc.com/collections/face/products/cooling-lip-balm), & [Hydrating Face Mist](https://eirnyc.com/collections/face/products/hydrating-face-mist) by [EiR NYC](https://eirnyc.com/)
 
