@@ -9,7 +9,7 @@ image: "/uploads/gc%201.jpg"
 series: Body
 ---
 
-_As if ethically manufactured, sustainable, eco-friendly activewear made from recycled water bottles wasn’t enough, [Girlfriend Collective](https://www.girlfriend.com/) has elevated all that a pair of leggings is capable of. Their super soft matching sets have proved to be a fit for every type of woman and kind of body. I was honored to get to hear from Quang Dinh, Girlfriend Collective's founder, on the heart behind their brand, priority of creating an inclusive culture, and how they handle the hurdles that come with choosing to create slow fashion._
+_As if ethically manufactured, sustainable, eco-friendly activewear made from recycled water bottles wasn’t enough, [Girlfriend Collective](https://www.girlfriend.com/) has elevated all that a pair of leggings is capable of. Their super soft matching sets made with every type of woman and kind of body in mind have proved moveable enough for any workout, and stylish enough for any hour of the day. I was honored to get to hear from Quang Dinh, Girlfriend Collective's founder, on the heart behind their brand, their priority of creating an inclusive culture, and how they handle the hurdles that come with choosing to create slow fashion._
 
 ###### What was the core inspiration that moved you to create [Girlfriend Collective](https://www.girlfriend.com/)?
 
