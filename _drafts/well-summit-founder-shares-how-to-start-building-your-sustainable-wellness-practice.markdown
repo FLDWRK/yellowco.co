@@ -5,6 +5,7 @@ date: 2018-06-18 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Amelia Bartlett
+image: "/uploads/well%205-1.jpg"
 series: Body
 ---
 
@@ -18,27 +19,13 @@ I define wellness as a 360° conversation - everything from the company we keep,
 
 I created the WELL Summit because I wanted to bring world class experts together from across the spectrum to share their knowledge, insights, and perspective on living a healthy life. I didn’t have all the answers to the questions that my friends and family were asking about the broader world of wellness, and I didn’t see an educational conference that focused on wellness at all, so I created one.
 
-###### What do you think caused the seismic shift toward conscious consumption that makes the WELL Summit not only possible, but arguably necessary to help consumers learn about wellness from dependable sources? 
-
-I think the shift toward more conscious consumption is part of a larger global awareness and awakening. 
-
-### People are hungry for community, connection, and fulfillment. It’s not about checking the box and living on autopilot. 
-
-You see this awareness happening in all areas, and WELL Summit provides the knowledge, community, and connection in a way that empowers attendees to make better choices.
-
 ###### What advice do you have for women looking to cultivate holistic wellness at home?
 
 Start with what you have. You may already have a quiet corner in your home that you go to when you need peace, maybe that's where your future meditation practice can be. You may already have Manuka Honey in your kitchen cabinet which makes for a perfect face mask, or coconut oil which makes for a great hair mask. 
 
 ### Starting small and building a sustainable wellness practice is more important than keeping up with every trend.
 
-###### What inspiration contributes to the Summit’s design? 
-
-We make sure that the Summit includes beautiful, open spaces that encourage community interaction. For WELL Summit Boston, Nilda Martin of Reserve Modern created a gorgeous indoor garden for us. Attendees were encouraged to lounge in our garden, make new friends, and recharge. 
-
-###### You have cultivated a strong group of diverse and talented women who make up your core team. Tell us a bit about how surrounding yourself with like-minded individuals has impacted the realization of the WELL Summit. 
-
-Having first established myself in my corporate career, I know first-hand that your network can be your net worth. In other words, I believe you are the company you keep, so I make sure to keep great company. I count my blessings every day to be able to work with women who are so accomplished as well as passionate about what we’re building with WELL Summit. Together, we inspire, empower, and uplift each other. And that positive energy is at the core of the Summit. Attendees share time and again that there is nothing like WELL Summit and its tribe, and I believe this is why.
+![well 8-1.jpg](/uploads/well%208-1.jpg)
 
 ###### As an entrepreneur with a lot on your plate, how do you create a realistic wellness routine? 
 
@@ -50,7 +37,23 @@ At the core of the WELL Summit, we want our tribe to be able to come, learn from
 
 ### No one should be feeling guilty or less than because their personal routine doesn’t look exactly like someone else’s. 
 
-We should feel good about doing our best for ourselves. 
+We should feel good about doing our best for ourselves.
+
+![well 2-1.jpg](/uploads/well%202-1.jpg)
+
+###### What inspiration contributes to the Summit’s design? 
+
+We make sure that the Summit includes beautiful, open spaces that encourage community interaction. For WELL Summit Boston, Nilda Martin of Reserve Modern created a gorgeous indoor garden for us. Attendees were encouraged to lounge in our garden, make new friends, and recharge.
+
+###### What do you think caused the seismic shift toward conscious consumption that makes the WELL Summit not only possible, but arguably necessary to help consumers learn about wellness from dependable sources? 
+
+I think the shift toward more conscious consumption is part of a larger global awareness and awakening. 
+
+### People are hungry for community, connection, and fulfillment. It’s not about checking the box and living on autopilot. 
+
+You see this awareness happening in all areas, and WELL Summit provides the knowledge, community, and connection in a way that empowers attendees to make better choices.
+
+![well 7-1.jpg](/uploads/well%207-1.jpg)
 
 ###### More than ever, women are being represented with more diversity in the health and wellness space. What has been your experience as a woman of color leading a brand in the modern wellness industry? 
 
@@ -63,6 +66,12 @@ I also define diversity more broadly: whether it’s age, sexual orientation, cu
 ###### Several of your sessions focus on mental wellness. How do you see psychological health as a factor in our self-care practices? 
 
 This is part of that global awakening we were talking about earlier. It’s not just about physical health, it’s also about mental, emotional, and spiritual health. We’re all very comfortable seeking out support for our physical health, and we believe it’s time for that same openness and care to be applied to mental health as well.
+
+![well 9-1.jpg](/uploads/well%209-1.jpg)
+
+###### You have cultivated a strong group of diverse and talented women who make up your core team. Tell us a bit about how surrounding yourself with like-minded individuals has impacted the realization of the WELL Summit. 
+
+Having first established myself in my corporate career, I know first-hand that your network can be your net worth. In other words, I believe you are the company you keep, so I make sure to keep great company. I count my blessings every day to be able to work with women who are so accomplished as well as passionate about what we’re building with WELL Summit. Together, we inspire, empower, and uplift each other. And that positive energy is at the core of the Summit. Attendees share time and again that there is nothing like WELL Summit and its tribe, and I believe this is why.
 
 ###### Boldly stated, the Summit is geared toward: Wellness. Empowerment. Learning. Luxury. What is your hope that attendees will walk away with? 
 
