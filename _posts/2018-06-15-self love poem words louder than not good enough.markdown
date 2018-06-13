@@ -140,8 +140,6 @@ Now I am 18 years old, and am an award winning author and speaker. (I still can�
 
 Words are powerful. Which is why all of us must make a choice about who we will listen to: society, our inner critic, or the small voice inside of us who wants to love us unconditionally. The truth is that society will always try and give you something new to chew on. Believe me when I say that your inner critic will never truly go away, but if you choose to listen to your own words of affirmation, eventually the other will drown out. You can finally stop running the race of perfection, and head towards your wildest dreams instead. 
 
-So if you haven’t heard this yet today:
-
-You are beautiful, you are important, and you are capable of achieving whatever you put your heart, soul, and mind to. 
+So if you haven’t heard this yet today: You are beautiful, you are important, and you are capable of achieving whatever you put your heart, soul, and mind to. 
 
 _Illustrations by [Jolie Brownell](https://www.metoogirl.com/)_
