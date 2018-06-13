@@ -8,7 +8,7 @@ image: "/uploads/image.png"
 series: Body
 ---
 
-Summer has finally arrived, and with it comes lots of fun spent outside in the sun and in nature. But while it may be convenient to grab that old sunscreen on your way out the door to the beach, or a plastic water bottle on your way to a hike, we as consumers should be thinking more about what we are putting in and on our bodies during these upcoming summer months. 
+Summer has finally arrived, and with it comes lots of fun spent outside in the sun and nature. But while it may be convenient to grab that old sunscreen on your way out the door to the beach, or a plastic water bottle on your way to a hike, we as consumers should be thinking more about what we are putting in and on our bodies during these upcoming summer months. 
 
 Unfortunately, many of our usual summer go-to products aren’t doing much to support our health, and are loaded with harmful chemicals we do not need in or on our bodies. Luckily, there are many amazing companies that are making it so much easier for conscious consumers to shop for summer essentials that not only look out for the health of the consumer, but also the health of the planet. So with many fun summer months ahead, I rounded up my top safe, toxin-free, and sustainable summer essentials for you to use and enjoy this summer.
 
@@ -16,17 +16,17 @@ Unfortunately, many of our usual summer go-to products aren’t doing much to su
 
 ### Skin
 
-###### [Natural Zinc Sunscreen](https://eirnyc.com/collections/sun-and-surf/products/surf-mud-pro), [Cooling Lip Balm](https://eirnyc.com/collections/face/products/cooling-lip-balm), & [Hydrating Face Mist](https://eirnyc.com/collections/face/products/hydrating-face-mist) by [EIR NYC](https://eirnyc.com/)
+###### [Natural Zinc Sunscreen](https://eirnyc.com/collections/sun-and-surf/products/surf-mud-pro), [Cooling Lip Balm](https://eirnyc.com/collections/face/products/cooling-lip-balm), & [Hydrating Face Mist](https://eirnyc.com/collections/face/products/hydrating-face-mist) by [EiR NYC](https://eirnyc.com/)
 
-[EIR](https://eirnyc.com/) is making it simple and safe to protect your skin this summer with their incredible line of high-performance zinc sunscreens, and hydrating after-sun products. I love to use the [Surf Mud Pro sunscreen](https://eirnyc.com/collections/sun-and-surf/products/surf-mud-pro) and the [Cooling Lip Balm](https://eirnyc.com/collections/face/products/cooling-lip-balm) for long-lasting durability for any outdoor summer adventure. Once you have had enough time in the sun, try using the [Hydrating Face Mist](https://eirnyc.com/collections/face/products/hydrating-face-mist) to naturally remove your sunscreen, while also hydrating your skin with aloe and rose-infused witch hazel. 
+[EiR](https://eirnyc.com/) is making it simple and safe to protect your skin this summer with their incredible line of high-performance zinc sunscreens, and hydrating after-sun products. I love to use the [Surf Mud Pro sunscreen](https://eirnyc.com/collections/sun-and-surf/products/surf-mud-pro) and the [Cooling Lip Balm](https://eirnyc.com/collections/face/products/cooling-lip-balm) for long-lasting durability for any outdoor summer adventure. Once you have had enough time in the sun, try using the [Hydrating Face Mist](https://eirnyc.com/collections/face/products/hydrating-face-mist) to naturally remove your sunscreen, while also hydrating your skin with aloe and rose-infused witch hazel. 
 
 ![sp.jpg](/uploads/sp.jpg)
 
-### Hair
+### Hair & Body
 
 ###### [Sea Salt Sprays](https://captainblankenship.com/collections/retail/products/golden-waves-sea-salt-shimmer-spray) by [Captain Blackenship](https://captainblankenship.com/) 
 
-Whether you are spending time at the beach, or hiking in the mountains this summer, I love [Captain Blackenship](https://captainblankenship.com/) for all summer body and hair needs. To achieve those perfect beachy summer waves, Captain Blackenship’s [Golden Waves Sea Salt Shimmer Spray](https://captainblankenship.com/collections/retail/products/golden-waves-sea-salt-shimmer-spray) and [Mermaid Sea Salt Hair Spray](https://captainblankenship.com/collections/retail/products/mermaid-sea-salt-hair-spray) have you covered. Made from organic aloe vera, sea kelp extract, and with delicious smelling essential oils, these two products are just what you need for healthy, hydrated, summer hair.  
+Whether spending time at the beach, or hiking in the mountains this summer, I love [Captain Blackenship](https://captainblankenship.com/) for all summer body and hair needs. To achieve those perfect beachy summer waves, Captain Blackenship’s [Golden Waves Sea Salt Shimmer Spray](https://captainblankenship.com/collections/retail/products/golden-waves-sea-salt-shimmer-spray) and [Mermaid Sea Salt Hair Spray](https://captainblankenship.com/collections/retail/products/mermaid-sea-salt-hair-spray) have you covered. Made from organic aloe vera, sea kelp extract, and with delicious smelling essential oils, these two products are just what you need for healthy, hydrated, summer hair.  
 
 ###### [Natural Bug Spray](https://captainblankenship.com/collections/retail/products/sail-away-bug-spray) by [Captain Blackenship](https://captainblankenship.com/)
 
@@ -34,9 +34,9 @@ To keep those pesky summer insects away, [Captain Blackenship](https://captainbl
 
 ![do.jpg](/uploads/do.jpg)
 
-### Non-Toxic Deodorant (That Works!)
+### Non-Toxic Deodorants (That Actually Work!)
 
-Deodorant is essential for hot summer days, but that doesn’t mean you should be exposed to harmful aluminum and other unwanted chemicals found in traditional deodorants. Below are my top three favorite clean and safe deodorants that actually work!
+Deodorant is essential for hot summer days, but that doesn’t mean you should be exposed to harmful aluminum and other unwanted chemicals found in traditional deodorants. 
 
 ###### [AER Next-Level Deodorant](https://vapourbeauty.com/products/aer-next-level-deodorant) by [Vapour](https://vapourbeauty.com/)
 
