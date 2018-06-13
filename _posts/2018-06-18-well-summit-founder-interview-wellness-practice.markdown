@@ -11,7 +11,7 @@ series: Body
 
 _We are living in an age of awakening, seeing holistic health as more important than ever before. A growing focus on community and fulfillment has ushered in a massive expansion in the wellness space, in which dual-founder, Gianne Doherty, of the [WELL Summit](https://wellsummit.org/) and [Organic Bath Co.](https://www.organicbath.co/) is creating her life’s work. The WELL Summit is a multi-city, yearly event that brings together health and wellness-minded individuals from across the globe. I had the opportunity to connect with Gianne on her inspiration to create the WELL Summit, her experience as an entrepreneurial woman of color, and her down-to-Earth perspective on creating a holistic lifestyle that works for you._
 
-###### [The WELL Summit](https://wellsummit.org/) is described as, "A Curated Conference Promoting A 360° View of Wellness." Share with us what your 360° view of wellness looks like.
+###### [The WELL Summit](https://wellsummit.org/) is described as, "A curated conference promoting a 360° view of wellness." Share with us what your 360° view of wellness looks like.
 
 I define wellness as a 360° conversation - everything from the company we keep, to the thoughts we feed ourselves, to what and HOW we eat (mindfully, in a way that nourishes yourself body, mind and spirit), to the products we put on our skin, and the way we move through each day.
 
