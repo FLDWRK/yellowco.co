@@ -124,11 +124,7 @@ It’s just scary how these younger girls will have even a harder time undoing t
 
 This is why I almost everything I do now centers around female empowerment. Because I know what society’s negative messages and “not good enough’s” taste like. I know how they make me feel horrible about myself. After being bullied all through middle school and entering into a stressful high school, I couldn’t take it anymore. I couldn’t keep racing towards perfection. I couldn’t keep crying myself to sleep. I knew something needed change. All I can remember asking myself my freshman year of high school was one question: “Why?” 
 
-“Why do I hate myself? Because you’re ugly. 
-
-“Why am I not beautiful?” Because you’re too dark, curvy, and different.
-
-“Why can’t dark, curvy, and different be considered beautiful?” Because advertising doesn’t accept dark, curvy and different girls as beautiful.
+“Why do I hate myself? Because you’re ugly. “Why am I not beautiful?” Because you’re too dark, curvy, and different. “Why can’t dark, curvy, and different be considered beautiful?” Because advertising doesn’t accept dark, curvy and different girls as beautiful.
 
 I kept asking myself, "Why? Why? Why?" and eventually got down to this question: “Why does society want me to believe I’m not good enough?” Somehow, a wise, inner voice responded: "Because they want to sell you products as the solution to being good enough." It hit me. All the ads I saw in magazines, on tv, and billboards all said the same thing, “You are imperfect, buy this, and you’ll be perfect.” At that point, I thought - forget it. I am not going to waste my life hating myself, so that a bunch of people can profit off my insecurities. Instead, I am going to profit off my confidence. From that day, 14-year-old me set out to find self-love.
 
