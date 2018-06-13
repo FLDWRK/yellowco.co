@@ -11,7 +11,7 @@ series: Body
 
 ###### What was the core inspiration that moved you to create [Girlfriend Collective](https://www.girlfriend.com/)?
 
-For us, we wanted to be the brand in the very crowded activewear space that made the highest quality activewear made above reproach in all facets, but with accessible prices for all people of different shapes and sizes. 
+For us, we wanted to be the brand in the very crowded activewear space that made the highest quality activewear above reproach in all facets, but with accessible prices for all people of different shapes and sizes. 
 
 ### We want to be as impactful as possible with everything we make, and to let our customers know that they have the opportunity to be impactful with us. 
 
@@ -25,7 +25,7 @@ Time was the main factor above all. I took a lot of time to go through the R&D p
 
 In terms of shopping online, I think it makes sense to include women with different body types because it represents our customers and shows how our product fits and performs for all women. We feel that beauty comes in all different colors, shapes, and sizes, and we want our campaign imagery to reflect that. 
 
-### We didn’t want to be the brand that didn’t walk the talk and, really, diversity is at the core of what we are and even why our name is Girlfriend Collective. 
+### We didn’t want to be the brand that didn’t walk the talk and, really, diversity is at the core of who we are and why our name is Girlfriend Collective. 
 
 We want to be the brand that all women can look to, trust, and know that they are important to us always, and that we’re not just including them as a marketing tactic or revenue driver.
 
