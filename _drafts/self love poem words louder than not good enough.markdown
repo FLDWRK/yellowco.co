@@ -134,9 +134,11 @@ I kept asking myself, "Why? Why? Why?" and eventually got down to this question:
 
 ![Yellow Co Illustraions Mermaids Don't Have Thigh Gaps By Jolie Brownell copy.jpg](/uploads/Yellow%20Co%20Illustraions%20Mermaids%20Don't%20Have%20Thigh%20Gaps%20By%20Jolie%20Brownell%20copy.jpg) 
 
-I began researching self-love and confidence, and back in 2014, the first search result was a link to a Pinterest page full of motivational quotes. I read them ALL and wrote down every one that touched me in a way, and rewrote, and rewrote them. I filled my notebooks with colorful quotes and would read them to myself whenever I could. These words made me feel whole, loved, and even a little beautiful. 
+I began researching self-love and confidence, and back in 2014, the first search result was a link to a Pinterest page full of motivational quotes. I read them ALL and wrote down every one that touched me in a way, and rewrote, and rewrote them. I filled my notebooks with colorful quotes and would read them to myself whenever I could. These words made me feel whole, loved, and even a little beautiful. I kept writing these quotes down and fell in love with words in the process. 
 
-I kept writing these quotes down and fell in love with words in the process. Because for the first time, I found words that weren't being used to bully me or put me down. They were solely meant to lift me up, and I loved that. So much so, that I made it my mission in life to use my own words to empower people. I started writing my own quotes, set up my blog, and shared my story on finding self love. 
+### For the first time, I found words that weren't being used to bully or put me down. 
+
+They were solely meant to lift me up, and I loved that. So much so, that I made it my mission in life to use my own words to empower people. I started writing my own quotes, set up my blog, and shared my story on finding self love. 
 
 Now I am 18 years old, and am an award winning author and speaker. (I still can’t believe it sometimes.) I built this foundation on self-confidence and choosing to feed myself my own words of love, instead of society's lies of not being good enough. I now get to profit off my confidence, with my book, “Me Too”, a collection of quotes, messages, and poems on body acceptance, confidence, goal setting, and healthy relationships.
 
