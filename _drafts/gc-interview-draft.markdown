@@ -33,9 +33,9 @@ We want to be the brand that all women can look to, trust, and know that they ar
 
 ###### As we all know, the media has a history of doing a poor job representing different body types; often creating an unrealistic “standard of beauty” for women. Thankfully, a movement of body positivity has been on the rise within the last few years. How has Girlfriend Collective aimed to become a part of this movement?
 
-It’s always been a core belief to have representation. We started this brand to be inclusive and be for everyone. Our goal is to grow a base of different customers from all walks of life to join our mission and be the change they want to see. 
+It’s always been a core belief of ours to have representation. We started this brand to be inclusive and be for everyone. Our goal is to grow a base of different customers from all walks of life to join our mission and be the change they want to see. 
 
-###### [This month at Yellow, we are focusing on Body;](https://yellowco.co/blog/2018/06/04/you-are-essential-create-body-positive-culture/) opening up conversation around the relationships we have with our bodies; from our shame and struggles to how we can care for and celebrate them. What are 3 things you believe contribute to having a healthy, positive relationship with our bodies?
+###### [This month at Yellow, we are focusing on Body;](https://yellowco.co/blog/2018/06/04/you-are-essential-create-body-positive-culture/) opening up conversation around the relationships we have with our bodies; from our shame and struggles to how we can care for and celebrate them. What do you believe contributes to having a healthy, positive relationship with our bodies?
 
 We have a saying around the office lately: that it’s important to keep our emotional capacity high. And really that means a lot of "treat yourself" self care, leaving noise at the door, and remembering there’s no need to burn that emotional energy on things that don’t matter. I think if you need to eat a pizza, eat a pizza, and leave the guilt at the door. If you need time off to mentally recharge, do it! If you just feel like going for a walk versus a run, walk! Be active, be happy, and don’t stress about it!
 
