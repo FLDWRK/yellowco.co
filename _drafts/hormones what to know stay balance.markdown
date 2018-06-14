@@ -4,6 +4,7 @@ date: 2018-06-20 04:00:00 -07:00
 categories:
 - Health
 author: Kaitlin Schilling
+image: "/uploads/040917_American%20Weekend_Eileen%20Roche_1749.jpg"
 series: Body
 ---
 
@@ -25,6 +26,8 @@ Tip: Did mom ever give you warm milk before bed? While you don’t necessarily h
 
 So skip electronics an hour before bed, and get some good sunshine in the morning to keep your circadian rhythm in check.
 
+![040917_American Weekend_Eileen Roche_1698.jpg](/uploads/040917_American%20Weekend_Eileen%20Roche_1698.jpg)
+
 #### Eat 
 
 Insulin and Glucagon are most related to the breakdown and use of blood sugar in the body. The pancreas secretes both Insulin and Glucagon, regulating our blood sugar and affecting our energy. Insulin allows sugars from food to enter the cells for storage. Glucagon works in the opposite fashion, releasing glucose from cell storage into the bloodstream for muscles and organs to use.
@@ -37,6 +40,8 @@ Two primary sex hormones in women’s health are Estrogen and Progesterone. Estr
 
 Tip: Get to know your body! It’s never too late to learn about our bodies in a more intimate way. If you’re extra curious, check out Taking Charge of Your Fertility by Toni Weschler. The book has a plethora of information. Included topics are tracking your menstrual cycle, and learning natural methods for birth control or trying to conceive. Your OB/GYN is another great resource for fertility counseling, contraception, and hormone replacement therapies.
 
+![040917_American Weekend_Eileen Roche_1693.jpg](/uploads/040917_American%20Weekend_Eileen%20Roche_1693.jpg)
+
 #### Play 
 
 Stress isn’t limited to the mind. Stress affects every part of the body. During periods of stress, the adrenal glands secrete Cortisol, dubbed the “stress hormone.” 
@@ -47,6 +52,8 @@ Cortisol regulates blood pressure, metabolism, blood sugar levels, formation of 
 
 Tip: Take time to play! Get your body out of fight-or-flight mode and give yourself a break. Check out new methods to manage stress, and free yourself from judgement. Some natural methods to reduce stress include deep breathing exercises, mindfulness, and acupuncture. In a pinch? Take a walk outside and spend some time in nature, practicing awareness of the beauty in your environment.
 
+![040917_American Weekend_Eileen Roche_1672.jpg](/uploads/040917_American%20Weekend_Eileen%20Roche_1672.jpg)
+
 #### Move 
 
 I will never forget the peppy explanation of Endorphins by Elle Woods (Reese Witherspoon) in Legally Blonde. Endorphins are hormones! And like Elle says, “Exercise gives you endorphins! Endorphins make you happy!” Regular exercise also helps to regulate other essential hormones, like Cortisol, Human Growth Hormone, Estrogen, and Testosterone (yes ladies, we have testosterone too). Human Growth Hormone is one of the essential, basic hormones needed for development in childhood and adolescence. It also plays a role in strengthening bone and muscle with exercise.
@@ -56,3 +63,5 @@ Tip: Get some movement. Start small. Choose activities and exercises that you en
 There we have it. A crash course in hormones. While many natural, non-pharmacological methods exist to to manage hormones, I always encourage readers to discuss health plans with a physician. Some common disruptions in hormones, like hypothyroidism, require lab testing to diagnose. And because of the wide alterations in environmental and food exposure over the past 100 years, it’s never been more important to educate ourselves on the role of hormones. 
 
 Thankfully, we find ourselves in an age with incredible diagnostic tools to help pinpoint areas of imbalance in our lives. Paired with the basic lifestyle changes that promote hormone balance and overall health, there’s never been a better time to know your hormones. 
+
+_Photos by [Eileen Roche](http://eileen-roche.com/)_
