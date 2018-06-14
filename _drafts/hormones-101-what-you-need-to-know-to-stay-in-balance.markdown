@@ -3,6 +3,7 @@ title: 'Hormones 101: What You Need to Know to Stay in Balance'
 date: 2018-06-20 04:00:00 -07:00
 categories:
 - Health
+author: Kaitlin Schilling
 series: Body
 ---
 
