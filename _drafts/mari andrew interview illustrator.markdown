@@ -52,7 +52,7 @@ I have certainly become much more grateful through this process. Every morning I
 
 It's traumatic. I read that the definition of trauma is anything happening to you without your consent. I feel that. I'm deeply wounded by it. I think I'll need a lifetime of therapy to fully process it. Like any trauma, I think about it constantly. I talk about it a lot with my mom - who came to the hospital to be with me - and replay a lot of those horrible moments. It's so hard to explain to anyone else; I'm thankful my mom was there to share a bit of it with me, because otherwise I think it would be overwhelmingly isolating. I am in therapy and will continue to go as a means of healing!
 
-![7.jpg](/uploads/7.jpg)
+![download.jpeg](/uploads/download.jpeg)
 
 ###### What has the transition back into drawing been like for you?
 
@@ -61,6 +61,8 @@ In all candor, I feel blessed that I have more experiences to express now. Befor
 ### I would never wish to go through what I went through, but I do think that it gave me a new tool to relate to people with, and a new power to heal people. 
 
 I know that empathy was such a powerful healer for me during my recovery; it was so good to hear from people who had gone through similar experiences. I hope I can be that person to someone else. It is a gift.
+
+![7-c653d7.jpg](/uploads/7-c653d7.jpg)
 
 ###### How can we love our bodies when they suddenly render us incapable of using them in a way we've identified with for so long?
 
