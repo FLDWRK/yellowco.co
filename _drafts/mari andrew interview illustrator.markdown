@@ -29,6 +29,8 @@ But it was so disheartening. I really got along well with a couple of my nurses,
 
 It was a horrific time of life, one in which I became intimate with the suffering that so many people live with permanently. The world is just not built for people with disabilities, and the lack of accessibility made me feel even more isolated and heartbroken during recovery. 
 
+IMAGE
+
 ###### What was the rehabilitation period like? What emotions or thoughts did it hold? How did others respond to you in the midst of it?
 
 My rehabilitation might have been the hardest part of the whole ordeal. Similar to grief, which I have also experienced, sometimes the most difficult part comes after the really intense first month when people are still sending flowers and asking you how you are. 
@@ -37,15 +39,19 @@ During recovery, my friends were just focused on how well I was doing compared t
 
 I was happy to make progress, but angry that I had to make progress in the first place. It was really frustrating learning to walk again. Everything about my recovery process was so frustrating. My friends would listen to me as best they could, but how could they really understand what I was going through? I felt like I had to put on a smiling face because I had just survived a potentially fatal disease. I ended up breaking up with my beloved boyfriend because we had a lot of communication issues that time, and I felt very strained in a lot of my friendships. I really grew to understand that good health is an enormous blessing that allows space for so much of the goodness of life.
 
+IMAGE
+
 ###### How has your relationship with your body been throughout all this?
 
-A dear friend wrote me a text after I was diagnosed with GBS: "I'm sure this is so hard for someone with such an exquisite relationship with her body." I loved that. I've always been very active, and I take pride in my physical strength. I also process a lot of emotion through activity--long walks and once, mostly. I remember thinking, "Why would this happen to ME? I use my body more than anybody!" 
+A dear friend wrote me a text after I was diagnosed with GBS: "I'm sure this is so hard for someone with such an exquisite relationship with her body." I loved that. I've always been very active, and I take pride in my physical strength. I also process a lot of emotion through activity - long walks and once, mostly. I remember thinking, "Why would this happen to ME? I use my body more than anybody!" 
 
 I have certainly become much more grateful through this process. Every morning I write a gratitude list, and I typically begin with "grateful for mobility in my hands" or "thankful for the ability to walk" because those are not givens. For people without disabilities, it seems obvious, but it's incredible to have the ability to move through the city with ease. I am now very sensitive to "ableist" values, such as the New Yorkers' obsession with fast walking! I have always been a super fast walker, but now I can't walk as fast. I hate seeing signs like "You're in New York: Walk faster." Some people physically cannot do that, and it's very painful to get those messages. My empathy has increased x10000.
 
 ###### How have you coped with and responded to the reality of your body's capabilities changing without your consent?
 
 It's traumatic. I read that the definition of trauma is anything happening to you without your consent. I feel that. I'm deeply wounded by it. I think I'll need a lifetime of therapy to fully process it. Like any trauma, I think about it constantly. I talk about it a lot with my mom - who came to the hospital to be with me - and replay a lot of those horrible moments. It's so hard to explain to anyone else; I'm thankful my mom was there to share a bit of it with me, because otherwise I think it would be overwhelmingly isolating. I am in therapy and will continue to go as a means of healing!
+
+IMAGE
 
 ###### What has the transition back into drawing been like for you?
 
