@@ -1,6 +1,6 @@
 ---
 title: 'Hormones 101: What You Need to Know to Stay in Balance'
-date: 2018-06-13 22:59:00 -07:00
+date: 2018-06-20 04:00:00 -07:00
 categories:
 - Health
 series: Body
