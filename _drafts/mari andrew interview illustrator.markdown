@@ -4,7 +4,7 @@ date: 2018-06-22 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Rachel Neal
-image: "/uploads/8.jpg"
+image: "/uploads/2-2be313.jpg"
 series: Body
 ---
 
