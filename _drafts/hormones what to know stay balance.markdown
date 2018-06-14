@@ -26,7 +26,7 @@ Tip: Did mom ever give you warm milk before bed? While you don’t necessarily h
 
 So skip electronics an hour before bed, and get some good sunshine in the morning to keep your circadian rhythm in check.
 
-![040917_American Weekend_Eileen Roche_1698.jpg](/uploads/040917_American%20Weekend_Eileen%20Roche_1698.jpg)
+![040917_American Weekend_Eileen Roche_1700.jpg](/uploads/040917_American%20Weekend_Eileen%20Roche_1700.jpg)
 
 #### Eat 
 
