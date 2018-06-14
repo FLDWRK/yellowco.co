@@ -30,7 +30,7 @@ But it was so disheartening. I really got along well with a couple of my nurses,
 
 It was a horrific time of life, one in which I became intimate with the suffering that so many people live with permanently. The world is just not built for people with disabilities, and the lack of accessibility made me feel even more isolated and heartbroken during recovery. 
 
-IMAGE
+![30.jpeg](/uploads/30.jpeg)
 
 ###### What was the rehabilitation period like? What emotions or thoughts did it hold? How did others respond to you in the midst of it?
 
@@ -40,7 +40,7 @@ During recovery, my friends were just focused on how well I was doing compared t
 
 I was happy to make progress, but angry that I had to make progress in the first place. It was really frustrating learning to walk again. Everything about my recovery process was so frustrating. My friends would listen to me as best they could, but how could they really understand what I was going through? I felt like I had to put on a smiling face because I had just survived a potentially fatal disease. I ended up breaking up with my beloved boyfriend because we had a lot of communication issues that time, and I felt very strained in a lot of my friendships. I really grew to understand that good health is an enormous blessing that allows space for so much of the goodness of life.
 
-IMAGE
+![3-905840.jpg](/uploads/3-905840.jpg)
 
 ###### How has your relationship with your body been throughout all this?
 
@@ -52,7 +52,7 @@ I have certainly become much more grateful through this process. Every morning I
 
 It's traumatic. I read that the definition of trauma is anything happening to you without your consent. I feel that. I'm deeply wounded by it. I think I'll need a lifetime of therapy to fully process it. Like any trauma, I think about it constantly. I talk about it a lot with my mom - who came to the hospital to be with me - and replay a lot of those horrible moments. It's so hard to explain to anyone else; I'm thankful my mom was there to share a bit of it with me, because otherwise I think it would be overwhelmingly isolating. I am in therapy and will continue to go as a means of healing!
 
-IMAGE
+![7.jpg](/uploads/7.jpg)
 
 ###### What has the transition back into drawing been like for you?
 
