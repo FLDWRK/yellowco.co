@@ -14,7 +14,7 @@ I am passionate about illustration simply because I enjoy it! I enjoy so many th
 
 ### I now know there is no line between "someone who draws" and "artist." If you make any kind of art, you're an artist--end of story.
 
-IMAGE
+![8-475f89.jpg](/uploads/8-475f89.jpg)
 
 ###### For those that don't know your story, tell us a bit about your time of temporary paralysis and what the reality of that situation meant for your identity as an artist. What emotions, frustrations, or struggles did that time hold? 
 
