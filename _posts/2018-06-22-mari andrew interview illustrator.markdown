@@ -8,6 +8,8 @@ image: "/uploads/Mari%20Andrew%20for%20Passerbuys60.jpg"
 series: Body
 ---
 
+_What began as a form of self-expression in the midst of a difficult season has since become an illustration series featuring pointedly relatable content that's beloved by nearly a million people. In addition to her digital creations, illustrator and writer, [Mari Andrew](http://bymariandrew.com/), recently published her first book, ["Am I There Yet?: The Loop-de-loop, Zigzagging Journey to Adulthood"](http://bymariandrew.com/book/), featuring her written reflections on growing up — accompanied by her art. This new movement into the publishing world closely follows a season where Mari was diagnosed with Guillain-Barré Syndrome — a rare disease that caused her physical paralysis while abroad. I was grateful to hear from Mari about her relationship with her body following trauma and the transition back into drawing._
+
 ###### Talk to me about your passion for illustration; how it came to be, what defining yourself as an artist means to you, and why you fell in love with it. 
 
 I am passionate about illustration simply because I enjoy it! I enjoy so many things: dance, good food, my friend, fashion, interior design, cheese, solo travel, writing, and languages, but illustration is the hobby I'm best known for out of all of those! I started it a bit later in life than most people; I picked up a drawing pen at age 28. I decided I wanted to do more things every day that made me happy, including drawing and using watercolors. I started an Instagram page to keep myself accountable to my new hobby, and here I am! It is still the most relaxing part of my day. Of course I was hesitant to call myself an "artist" because I have no training and I'm not very technically good at it.
