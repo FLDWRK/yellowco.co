@@ -1,6 +1,6 @@
 ---
-title: The Belief Holding You Back from Living Freely in Your Body & How to Release
-  Its Shame
+title: The Belief Holding You Back from Living Freely in Your Body & How to Undo Its
+  Shame
 date: 2018-06-25 04:00:00 -07:00
 categories:
 - Growth
