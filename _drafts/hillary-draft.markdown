@@ -8,8 +8,6 @@ image: "/uploads/YELLOW_BODY_Melanie-Loon_A.jpg"
 series: Body
 ---
 
-Moving into the house: undoing the body/shame story you carry to lovingly inhabit yourself. 
-
 ### One time, I tried to count how long in my short life I had spent feeling shame about my body. 
 
 The edges of the moments when shame came up were fuzzy - it was hard to tell where they ended and began. There were specific moments when it seems like thoughts and images and feelings about my dissatisfaction with myself raced to the front of my awareness - making it difficult to think about anything else. And then there was the rest of the time: the low level hum in the background reminding me constantly that I was this painful mix of too much (and I should be ashamed of that) and not enough (also, self, be ashamed of that). It made it difficult to count these hours of body shame because I realized there were few moments without them. I was struck in a new way that the story, like a thread, that wove through my life was this feeling like my body was unacceptable, unlovable, not what it should be. And in turn, it felt like those things were also true about me as a person.
