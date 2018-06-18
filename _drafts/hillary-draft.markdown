@@ -1,5 +1,5 @@
 ---
-title: The Belief Holding You Back from Living Freely in Your Body & How to Undo It
+title: The Belief You Didn’t Know That’s Fueling Your Body Shame
 date: 2018-06-25 04:00:00 -07:00
 categories:
 - Growth
