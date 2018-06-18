@@ -4,6 +4,7 @@ date: 2018-06-25 04:00:00 -07:00
 categories:
 - Growth
 author: Hillary McBride
+image: "/uploads/YELLOW_BODY_Melanie-Loon_A.jpg"
 series: Body
 ---
 
