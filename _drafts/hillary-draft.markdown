@@ -1,9 +1,11 @@
 ---
 title: hillary draft
-date: 2018-06-18 14:54:00 -07:00
+date: 2018-06-25 04:00:00 -07:00
+categories:
+- Growth
+author: Hillary McBride
+series: Body
 ---
-
-Hillary McBride- Body
 
 Moving into the house: undoing the body/shame story you carry to lovingly inhabit yourself. 
 
