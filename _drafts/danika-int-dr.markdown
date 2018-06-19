@@ -4,6 +4,7 @@ date: 2018-06-29 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Bailey Van Tassel
+image: "/uploads/TBS2.jpg"
 series: Body
 ---
 
