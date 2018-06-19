@@ -1,5 +1,5 @@
 ---
-title: danika int dr
+title: Model Meals Founder, Danika Brysha, on How Intuitive Eating Changed Her Life
 date: 2018-06-29 04:00:00 -07:00
 categories:
 - Entrepreneurs
@@ -8,9 +8,9 @@ image: "/uploads/TBS2.jpg"
 series: Body
 ---
 
-_The first thing you’ll notice when you meet [Danika Brysha](http://www.danikabrysha.com/) are her sparkling, crystal clear blue eyes. She will give you an all-encompassing smile, and a full hug. Her confidence warms you like afternoon sun and has a contagious impact. Like all success stories, there was a before. Before she was the founder and CEO of [Model Meals](https://modelmeals.com/), a Whole30/Paleo meal delivery business, an [IMG Curve Model](https://www.imgmodels.com/model/new-york/women/17052), and a self-care coach, she struggled with her diet, self-image, confidence, and a couple of sticky vices too.
+_The first thing you’ll notice when you meet [Danika Brysha](http://www.danikabrysha.com/) are her sparkling, crystal clear blue eyes. She will give you an all-encompassing smile, and a full hug. Her confidence warms you like afternoon sun and has a contagious impact. Like all success stories, there was a before. Before she was the founder and CEO of [Model Meals](https://modelmeals.com/), a Whole30/Paleo meal delivery business, an [IMG Curve Model](https://www.imgmodels.com/model/new-york/women/17052), and a self-care coach, she struggled with her diet, self-image, confidence, and a couple of sticky vices too._
  
-As an expert in the fields of self-care and body image, Danika is leading this generation into a place that takes the trending topic of body positivity and turns it upside down, helping us to realize that it’s not actually about our bodies. I had the opportunity to interview Danika about how to truly love your body, and yourself, from the inside out._
+_As an expert in the fields of self-care and body image, Danika is leading this generation into a place that takes the trending topic of body positivity and turns it upside down, helping us to realize that it’s not actually about our bodies. I had the opportunity to interview Danika about how to truly love your body, and yourself, from the inside out._
  
 ###### “Body positivity” is becoming a buzz word, but it can mean a lot of different things. How do you define it?
  
