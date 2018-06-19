@@ -107,7 +107,7 @@ schedule:
     title: 'Speaker Session #4'
   - time: 3:30pm
     title: Afternoon Snack Break
-    text: Because you can never have too many snacks. Coffee will also be avaliable,
+    text: Because you can never have too many snacks. Coffee will also be available,
       obviously.
   - time: 4:00pm
     title: 'Speaker Session #5'
