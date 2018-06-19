@@ -60,10 +60,16 @@ quote-two:
 venue:
 - title: Hudson Loft Downtown LA
   image: "/uploads/hudson1.jpg"
-  text: Located in the South Park district of DTLA, Hudson Loft was once a Hudson car dealership in the 1930's. Located two blocks east of the Staples Center and LA Live, off of 12th & Hope, we're so looking forward to hosting our conference in the heart of LA in this beautiful and historic building.
+  text: Located in the South Park district of DTLA, Hudson Loft was once a Hudson
+    car dealership in the 1930's. Located two blocks east of the Staples Center and
+    LA Live, off of 12th & Hope, we're so looking forward to hosting our conference
+    in the heart of LA in this beautiful and historic building.
 - title: Where to Stay
   image: "/uploads/freehand1.jpg"
-  text: The brand new Freehand Hotel in Los Angeles will be partnering with us for attendee accommodations this year (wooo!!). You can book a room through their website using the code YELLOW to get 10% off of your stay during the days of the conference.
+  text: The brand new Freehand Hotel in Los Angeles will be partnering with us for
+    attendee accommodations this year (wooo!!). You can book a room through their
+    website using the code YELLOW to get 10% off of your stay during the days of the
+    conference.
 schedule:
 - day_number: 1
   day_of_week: Thursday
@@ -73,34 +79,42 @@ schedule:
   times:
   - time: 8:00am
     title: Breakfast & Registration
-    text: Matcha, breakfast bites, juices & coffee (duh) will be available for you to enjoy as you enter into Yellow.
+    text: Matcha, breakfast bites, juices & coffee (duh) will be available for you
+      to enjoy as you enter into Yellow.
   - time: 9:00am
     title: Yellow Begins!
-    text: Yes, it’s early, but you're not going to want to miss our kickoff opener this year :)
+    text: Yes, it’s early, but you're not going to want to miss our kickoff opener
+      this year :)
   - time: 9:30am
-    title: "Speaker Session #1"
+    title: 'Speaker Session #1'
   - time: 10:10am
-    title: "Speaker Session #2"
+    title: 'Speaker Session #2'
   - time: 10:45am
     title: Morning Snack Break
     text: Because snacks are everything.
   - time: 11:15am
-    title: "Speaker Session #3"
+    title: 'Speaker Session #3'
   - time: 12:00pm
     title: Lunch Time!
-    text: We will have bites avaliable for you to eat while you hangout with your new friends at Hudson Loft, or you’re free to go explore LA and the surrounding areas for food. If you’re craving something specific and don’t want to walk too far--Postmates is our BFF.
+    text: We will have bites avaliable for you to eat while you hangout with your
+      new friends at Hudson Loft, or you’re free to go explore LA and the surrounding
+      areas for food. If you’re craving something specific and don’t want to walk
+      too far--Postmates is our BFF.
   - time: 1:30pm
-    title: "Panel #1"
+    title: 'Panel #1'
   - time: 2:45pm
-    title: "Speaker Session #4"
+    title: 'Speaker Session #4'
   - time: 3:30pm
     title: Afternoon Snack Break
-    text: Because you can never have too many snacks. Coffee will also be avaliable, obviously.
+    text: Because you can never have too many snacks. Coffee will also be avaliable,
+      obviously.
   - time: 4:00pm
-    title: "Speaker Session #5"
+    title: 'Speaker Session #5'
   - time: 5:00pm
     title: Attendee Cocktail Party
-    text: Come hangout with us and relax after a packed Day 1 of Yellow! We’ll provide delicious bites, desserts, great conversations with great women, and of course, bubbly drinks! Free for Yellow attendees.
+    text: Come hangout with us and relax after a packed Day 1 of Yellow! We’ll provide
+      delicious bites, desserts, great conversations with great women, and of course,
+      bubbly drinks! Free for Yellow attendees.
 - day_number: 2
   day_of_week: Friday
   month_day: August 24th
@@ -109,38 +123,48 @@ schedule:
   times:
   - time: 7:00am
     title: Member Rooftop Yoga & Mimosas
-    text: If you're a Yellow Member (must be an active member at the time of the conference) we'd love for you to join us for some soul filling yoga and mimosas on the rooftop of Hudson Loft! A great way to connect with other members and get centered before a full day of Yellow-Conferencing!
+    text: If you're a Yellow Member (must be an active member at the time of the conference)
+      we'd love for you to join us for some soul filling yoga and mimosas on the rooftop
+      of Hudson Loft! A great way to connect with other members and get centered before
+      a full day of Yellow-Conferencing!
   - time: 8:00am
     title: Doors Open & Breakfast
-    text: We wouldn't want you to enter into Day 2 without your Matcha, breakfast bites, juices & coffee! Come early to grab a good seat and to have time to grab some nourishment!
+    text: We wouldn't want you to enter into Day 2 without your Matcha, breakfast
+      bites, juices & coffee! Come early to grab a good seat and to have time to grab
+      some nourishment!
   - time: 9:00am
     title: Day 2 Begins!
     text: You thought yesterday was good? Just wait.
   - time: 9:30am
-    title: "Speaker Session #6"
+    title: 'Speaker Session #6'
   - time: 10:10am
-    title: "Speaker Session #7"
+    title: 'Speaker Session #7'
   - time: 10:45am
     title: Morning Snack Break
     text: Day 2 deserves all the snack breaks too.
   - time: 11:15am
-    title: "Speaker Session #8"
+    title: 'Speaker Session #8'
   - time: 12:00pm
     title: Lunch Time!
-    text: Just like yesterday, we will have bites avaliable for you to eat while you hangout with your new friends at Hudson Loft, or you’re free to go explore LA and the surrounding areas for food!
+    text: Just like yesterday, we will have bites avaliable for you to eat while you
+      hangout with your new friends at Hudson Loft, or you’re free to go explore LA
+      and the surrounding areas for food!
   - time: 1:30pm
-    title: "Panel #2"
+    title: 'Panel #2'
   - time: 2:45pm
-    title: "Speaker Session #9"
+    title: 'Speaker Session #9'
   - time: 3:30pm
     title: Afternoon Snack Break
     text: We like to eat food and we like to give food. Eating is very important.
   - time: 4:00pm
-    title: "Speaker Session #10"
-    text: The last speaker of Yellow 2018! It’s going to be good and we’re already sad it’s over!!
+    title: 'Speaker Session #10'
+    text: The last speaker of Yellow 2018! It’s going to be good and we’re already
+      sad it’s over!!
   - time: 5:00pm
     title: Yellow Member After Party
-    text: If you’re a Yellow Member (must be an active member at the time of the conference) we’d love for you to join us to hangout and enjoy the company of our fellow Yellow members for some good grub and good company. Location TBA!
+    text: If you’re a Yellow Member (must be an active member at the time of the conference)
+      we’d love for you to join us to hangout and enjoy the company of our fellow
+      Yellow members for some good grub and good company. Location TBA!
 marketplace:
   image: "/assets/images/banner-marketplace.jpg"
   apply-link: https://docs.google.com/forms/d/e/1FAIpQLSeuhlqtlqnxrNHn0DdoFmQdHaO5ouMVwIcPj8Kt_buhJ6uZOA/viewform
@@ -156,3 +180,4 @@ sponsors:
   link: https://matchabarnyc.com/
 layout: custom/conference
 ---
+
