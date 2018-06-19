@@ -7,9 +7,7 @@ author: Bailey Van Tassel
 series: Body
 ---
 
-Danika Brysha is an IMG Curve Model, the founder and CEO of Model Meals, a healthy meal delivery business, a self-care coach, and the creator of The Brunch Series wellness events and 2018 US/Canada tour. Danika’s mission in life is to help others to live their fullest possible lives. She speaks openly about her recovery from food addiction and disordered eating, and teaches workshops centered around using self-care daily to create the life of your wildest dreams. 
-
-_The first thing you’ll notice when you meet Danika Brysha are her sparkling, crystal clear blue eyes. She will give you an all-encompassing smile, and a full hug. Her confidence warms you like afternoon sun and has a contagious impact. Like all success stories, there was a before. Before she was the founder and CEO of [Model Meals](https://modelmeals.com/), a Whole30/Paleo meal delivery business, and an [IMG Curve Model](https://www.imgmodels.com/model/new-york/women/17052), she struggled with her diet, self-image, confidence, and a couple of sticky vices too.
+_The first thing you’ll notice when you meet [Danika Brysha](http://www.danikabrysha.com/) are her sparkling, crystal clear blue eyes. She will give you an all-encompassing smile, and a full hug. Her confidence warms you like afternoon sun and has a contagious impact. Like all success stories, there was a before. Before she was the founder and CEO of [Model Meals](https://modelmeals.com/), a Whole30/Paleo meal delivery business, and an [IMG Curve Model](https://www.imgmodels.com/model/new-york/women/17052), she struggled with her diet, self-image, confidence, and a couple of sticky vices too.
  
 As an expert in the fields of self-care and body image, Danika is leading this generation into a place that takes the trending topic of body positivity and turns it upside down, helping us to realize that it’s not actually about our bodies. I had the opportunity to interview Danika about how to truly love your body, and yourself, from the inside out._
  
