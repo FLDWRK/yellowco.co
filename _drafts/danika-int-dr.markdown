@@ -51,4 +51,4 @@ Your body will find its natural place and settle there, once you’re healthy. I
  
 _To hear more from Danika, check out the tons of resources on her [website](http://www.danikabrysha.com/). I highly recommend looking into her [self-care checklist](http://www.danikabrysha.com/blog/my-daily-self-care-checklist), which I have personally implemented successfully in my busy, new-mom life. You can also find her currently touring the country on [The Brunch Series Tour](http://www.danikabrysha.com/thebrunchseries/), where women can gather and learn all about living a healthy, positive life, and pursuing their dreams._
 
-_Images courtesy of Danika Brysha_
+_Images courtesy of [Danika Brysha](http://www.danikabrysha.com/)_
