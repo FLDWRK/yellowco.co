@@ -15,6 +15,8 @@ _As an expert in the fields of self-care and body image, Danika is leading this 
 ###### “Body positivity” is becoming a buzz word, but it can mean a lot of different things. How do you define it?
  
 Body positivity to me is the absence of awareness around your body having any sort of value. It’s that we don’t have to talk about it. The people who have the most body positivity are the ones that are free from even putting value on their bodies. For me personally, I literally don’t acknowledge that my body is bigger than most people’s. The reality is that I’m so focused on the internal work, the soul work as a person, that I don’t think about my body or how I feel about it.
+
+![MM5.jpg](/uploads/MM5.jpg)
  
 ###### Wow, that is amazing. I never even thought of it that way – a lack of even having this conversation! I love that. How do you feel we can be examples to the upcoming generation when it comes to loving your body? Can you share some tactical tips?
  
@@ -27,6 +29,8 @@ Another tip is to pay attention to what you consume. Media, social media, and al
 ### When I became a plus-sized model, I started filling my news feed with other plus-sized models, so I began adopting that as my normal and believing that those women and bodies are beautiful. 
 
 I recreated my normal, and now it’s my reality, and the example that I set.  
+
+![MM2.jpg](/uploads/MM2.jpg)
  
 ###### Body dysmorphia has become a rampant issue, causing women of all shapes and sizes to look in the mirror and see different things. How do we combat this?
  
@@ -35,6 +39,8 @@ This reminds me of a story from before I had discovered Whole30, and made a lot 
 ### Your mind and soul don’t always catch up with what your physical body is like, which is a reminder that it’s always about self-love.
  
 Investing in self-care, mindfulness, meditation, and believing in ourselves all support this. The more we take care of ourselves in a gentle, loving, feminine way, the more we can take care of others too.
+
+![TBS4.jpg](/uploads/TBS4.jpg)
  
 ###### After all of the dieting you did, you discovered a way to make a life change around food, and that led you to the body positive life you lead. However, there are so many opinions on the concept of "dieting" vs. understanding the nourishment your individual body needs. How do you recommend people go about bettering their eating habits?
  
