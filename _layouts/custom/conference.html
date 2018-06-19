@@ -95,6 +95,13 @@ layout: site
     </div>
     {% endfor %}
   </div>
+  {% if page.speakers-teaser %}
+    <div class="row">
+      <div class="col text-center">
+        {{ page.speakers-teaser | markdownify }}
+      </div>
+    </div>
+  {% endif %}
   <div class="row my-3">
     <div class="col text-center">
       <a href="http://yellowco.co/tension/present-journey-yellow-2017/" class="btn btn-outline-primary">Full 2017 Recap</a>
