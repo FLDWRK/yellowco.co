@@ -4,16 +4,18 @@ layout: site
 ---
 
 <div>
-  <div class="fotorama page-banner hidden-sm-down pt-0 pt-md-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+  <div class="fotorama page-banner hidden-sm-down pt-0 pt-md-3" data-width="100%" data-max-width="100%"
+    data-loop="true" data-autoplay="6000" data-swipe="true">
     {% for banner in page.banners %}
-      <div data-img="{{ banner.image }}" class="link" data-rjs="2">
-      </div>
+    <div data-img="{{ banner.image }}" class="link" data-rjs="2">
+    </div>
     {% endfor %}
   </div>
-  <div class="fotorama hidden-md-up pt-0 pt-md-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+  <div class="fotorama hidden-md-up pt-0 pt-md-3" data-width="100%" data-max-width="100%" data-loop="true"
+    data-autoplay="6000" data-swipe="true">
     {% for sm-banner in page.sm-banners %}
-      <div data-img="{{ sm-banner.image }}" class="link" data-rjs="2">
-      </div>
+    <div data-img="{{ sm-banner.image }}" class="link" data-rjs="2">
+    </div>
     {% endfor %}
   </div>
 </div>
@@ -47,8 +49,12 @@ layout: site
   <div class="container py-3">
     <div class="row">
       <div class="col-12 col-md-5">
-        <h2 class="h1"><em>{{ site.time | date: '%Y' }} theme:</em></h2>
-        <h2 class="h1 mt-3"><em>{{ page.theme.title }}</em></h2>
+        <h2 class="h1">
+          <em>{{ site.time | date: '%Y' }} theme:</em>
+        </h2>
+        <h2 class="h1 mt-3">
+          <em>{{ page.theme.title }}</em>
+        </h2>
       </div>
       <div class="col-12 col-md-7">
         <p>
@@ -63,19 +69,28 @@ layout: site
   <div class="row pb-3">
     <div class="col-12">
       <div class="header-rule">
-        <h2 class="h1 text-center">Past speakers</h2>
+        <h2 class="h1 text-center">2018 Speakers & Panelists</h2>
       </div>
     </div>
   </div>
-  <div class="row justify-content-center">
+  <div class="row speakers">
     {% for speaker in page.speakers %}
-    <div class="col-6 col-md-3 text-center mb-3">
-      <img class="rounded-circle img-fluid px-md-3" src="{{ speaker.image }}" alt="{{ speaker.name }}: {{ speaker.company }}" data-rjs="2">
+    <div class="text-center mb-3 speaker">
+      <img class="img-fluid border border-secondary speaker-photo" src="{{ speaker.image | image_src }}?w=500&h=500&fit=crop&crop=faces" alt="{{ speaker.name }}: {{ speaker.company }}"
+        data-rjs="2">
       <h6 class="mt-3">{{ speaker.name }}</h6>
       {% if speaker.company %}
-      <p><em>{{ speaker.title }}, <a href="{{ speaker.link }}">{{ speaker.company }}</a></em></p>
+      <p>
+        <em>{{ speaker.title }},
+          <a href="{{ speaker.link }}">{{ speaker.company }}</a>
+        </em>
+      </p>
       {% else %}
-      <p><em><a href="{{ speaker.link }}">{{ speaker.title }}</a></em></p>
+      <p>
+        <em>
+          <a href="{{ speaker.link }}">{{ speaker.title }}</a>
+        </em>
+      </p>
       {% endif %}
     </div>
     {% endfor %}
@@ -97,34 +112,101 @@ layout: site
   </div>
 </div>
 
-<img src="/assets/images/banner-marketplace.jpg" class="img-fluid mb-3"/>
-
-<div class="container my-3">
-  <div class="row pb-2">
-    <div class="col-12">
+<div class="container py-5">
+  <div class="row pb-3">
+    <div class="col">
       <div class="header-rule">
-        <h2 class="text-center">{{ page.marketplace.title }}</h2>
+        <h2 class="h1 text-center">The Venue</h2>
       </div>
     </div>
   </div>
-  <div class="row justify-content-center mb-5">
-    <div class="col-12 col-md-9 col-lg-6">
-      <blockquote class="blockquote text-center">
-        <p>{{ page.marketplace.quote.text }}</p>
-        <footer class="blockquote-footer">{{ page.marketplace.quote.source }},<cite title="Source Title"><a href="{{ page.marketplace.quote.source-link }}">{{ page.marketplace.quote.source-company }}</a></cite></footer>
-      </blockquote>
+  <div class="alternating-two-col">
+    {% for venue in page.venue %}
+      <div class="alternating-col">
+        <div class="photo">
+          <img src="{{ venue.image | image_src }}" alt="" />
+        </div>
+        <div class="content">
+          <h3 class="title">{{ venue.title }}</h3>
+          {{ venue.text | markdownify }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="container py-5">
+  <div class="row pb-3">
+    <div class="col">
+      <div class="header-rule">
+        <h2 class="h1 text-center">The Schedule</h2>
+      </div>
+    </div>
+  </div>
+  <div class="schedule">
+    {% for day in page.schedule %}
+      <div class="day">
+        <div class="day-title">
+          <h4>Day {{ day.day_number }} &bull; {{ day.day_of_week }}<br/>{{ day.month_day }}</h4>
+          <div class="spacer"></div>
+          <address>
+            {{ day.address1 }}<br/>{{ day.address2 }}
+          </address>
+        </div>
+        <div class="times">
+          {% for time in day.times %}
+            <div class="slot">
+              <h5 class="time">{{ time.time }}</h5>
+              <div class="content">
+                <h5>{{ time.title }}</h5>
+                {{ time.text | markdownify }}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="container my-3">
+  <div class="row">
+    <div class="col">
+      <img src="{{ page.marketplace.image }}" class="img-fluid mb-3" />
     </div>
   </div>
   <div class="row text-center">
     <div class="col-12">
       <h4>Have a do-good business?</h4>
-      <p>Apply for the 2018 marketplace here. Questions? Email <a href="mailto:kathryn@yellowco.co">kathryn@yellowco.co</a></p>
+      <p>Apply for the 2018 marketplace here. Questions? Email
+        <a href="mailto:kathryn@yellowco.co">kathryn@yellowco.co</a>
+      </p>
       <a href="{{ page.marketplace.apply-link }}" class="btn btn-primary btn-sm">Apply for 2018</a>
     </div>
   </div>
   <div class="row mt-5">
     <div class="col">
-      <script src="https://www.universe.com/embed2.js" data-widget-type="universe-ticket" data-target-type="Listing" data-target-id="yellow-conference-2018-tickets-SKLDM0" data-state="buttonColor=#231f20&buttonText=Grab Your Ticket" ></script>
+      <script src="https://www.universe.com/embed2.js" data-widget-type="universe-ticket" data-target-type="Listing"
+        data-target-id="yellow-conference-2018-tickets-SKLDM0" data-state="buttonColor=#231f20&buttonText=Grab Your Ticket"></script>
+    </div>
+  </div>
+</div>
+
+<div class="sponsors-container py-5 mt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h4 class="text-center">Our Yellow 2018 Partners in Good</h4>
+      </div>
+    </div>
+    <div class="sponsors">
+      {% for sponsor in page.sponsors %}
+        <div class="sponsor" title="{{ sponsor.title | escape }}">
+          <a href="{{ sponsor.link }}" class="logo">
+            <img src="{{ sponsor.image | image_src }}" alt="{{ sponsor.title | escape }}" />
+          </a>
+        </div>
+      {% endfor %}
     </div>
   </div>
 </div>

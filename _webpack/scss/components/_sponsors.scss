@@ -1,0 +1,17 @@
+.sponsors-container {
+  background: $yellow;
+  margin-bottom: calc(-1rem + 1px);
+  border-bottom: 1px solid white;
+}
+
+.sponsors {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  .sponsor {
+    width: calc(25% - 2rem);
+    .logo img {
+      width: 100%;
+    }
+  }
+}

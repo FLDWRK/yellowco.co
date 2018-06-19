@@ -1,0 +1,44 @@
+.speakers {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: flex-start;
+  padding: 0 15px;
+  @include media-breakpoint-down(xs) {
+    justify-content: center;
+  }
+  .speaker {
+    max-width: 250px;
+    @include media-breakpoint-up(xl) {
+      margin-right: 2.25rem;
+      &:nth-child(4n) {
+        margin-right: 0;
+      }
+    }
+    @include media-breakpoint-only(lg) {
+      margin-right: 5.55rem;
+      &:nth-child(3n) {
+        margin-right: 0;
+      }
+    }
+    @include media-breakpoint-only(md) {
+      margin-right: 11.75rem;
+      &:nth-child(2n) {
+        margin-right: 0;
+      }
+    }
+    @include media-breakpoint-only(sm) {
+      margin-right: 0.65rem;
+      &:nth-child(2n) {
+        margin-right: 0;
+      }
+    }
+    @include media-breakpoint-only(xs) {
+      margin-left: 0.15rem;
+      margin-right: 0.15rem;
+    }
+    .speaker-photo {
+      border-width: 15px;
+    }
+  }
+}

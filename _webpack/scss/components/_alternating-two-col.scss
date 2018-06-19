@@ -1,0 +1,40 @@
+.alternating-two-col {
+  .alternating-col {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3rem;
+    .photo {
+      width: calc(50% - 3rem);
+      img {
+        width: 100%;
+      }
+    }
+    .content {
+      width: calc(50% - 3rem);
+      .title {
+        // font-family: $font-family-serif;
+        font-style: italic;
+      }
+    }
+    &:nth-child(even) {
+      .photo {
+        order: 1;
+      }
+      .content {
+        text-align: right;
+      }
+    }
+    @include media-breakpoint-down(md) {
+      display: block;
+      .photo {
+        width: 100%;
+        margin-bottom: 1rem;
+      }
+      .content {
+        width: 100%;
+        text-align: left !important;
+      }
+    }
+  }
+}

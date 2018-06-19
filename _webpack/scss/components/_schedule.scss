@@ -1,0 +1,90 @@
+.schedule {
+  .day {
+    padding: 3rem 0;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    &:last-child {
+      border-bottom: 0;
+    }
+    .day-title {
+      width: calc(40% - 3rem);
+      text-align: right;
+      .spacer {
+        width: 120px;
+        height: 7px;
+        background: black;
+        margin: 0.5rem 0;
+        display: inline-block;
+      }
+    }
+    .times {
+      width: calc(60% - 3rem);
+      .slot {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 0.5rem;
+        &:last-child {
+          margin-bottom: 0;
+        }
+        .time {
+          width: calc(20% - 1rem);
+          background: $yellow;
+          padding: 0.5rem;
+          text-align: center;
+          font-size: 1.1rem;
+        }
+        .content {
+          width: calc(80% - 1rem);
+          h5 {
+            font-family: $font-family-serif;
+            font-style: italic;
+          }
+        }
+      }
+    }
+    @include media-breakpoint-down(lg) {
+      .day-title {
+        font-size: 90%;
+        h4 {
+          font-size: 1.3rem;
+        }
+        .spacer {
+          height: 5px;
+          width: 100px;
+        }
+      }
+      .times {
+        .slot {
+          .time {
+            font-size: 0.9rem;
+          }
+        }
+      }
+    }
+    @include media-breakpoint-down(md) {
+      .times {
+        .slot {
+          flex-direction: column;
+          .time {
+            width: auto;
+          }
+          .content {
+            width: 100%;
+          }
+        }
+      }
+    }
+    @include media-breakpoint-down(sm) {
+      flex-direction: column;
+      .day-title {
+        width: 100%;
+        text-align: left;
+      }
+      .times {
+        width: 100%;
+      }
+    }
+  }
+}

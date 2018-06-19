@@ -33,42 +33,126 @@ theme:
 
     This year our 2018 theme is “Our Ownership”. It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own _who they are?_ Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens. Join us as we dive into this theme at our 2018 conference.
 speakers:
-- name: Holley Murchison
-  image: "/assets/images/holley-murchison.jpg"
-  title: Founder & CEO
-  company: Oratory Glory
-  link: http://holleymurchison.com/
-- name: Lisa Gungor
-  image: "/assets/images/lisa-gungor.jpg"
-  title: Grammy Nominated Musician & Artist
-  link: http://www.gungormusic.com/
-- name: Maggie Doyne
-  image: "/assets/images/maggie-doyne.jpg"
-  title: Founder & CEO
-  company: BlinkNow Foundation
-  link: http://www.blinknow.org/
-- name: Ruthie Lindsey
-  image: "/uploads/Ruthie.jpg"
-  title: Speaker & Stylist
-  link: http://www.ruthielindsey.com/
+- name: Allison Fallon
+  image: "/uploads/yc2018-speakers-allison-fallon.jpg"
+  title: Writer & Writing Coach
+  company: Allison Fallon
+  link: https://allisonfallon.com/
+- name: Nikia Phoenix
+  image: "/uploads/yc2018-speakers-nikia-phoenix.jpg"
+  title: Model, Writer, Founder
+  company: Black Girl Beautiful
+  link: https://linktr.ee/nikiaphoenix
+- name: Brittany & Ian Bentley
+  image: "/uploads/yc2018-speakers-bently.jpg"
+  title: Co-Founders
+  company: Parker Clay
+  link: https://parkerclay.com/
+- name: Alex Michael May, Yellow Emcee
+  image: "/uploads/yc2018-speakers-alex-michael-may.jpg"
+  title: Creative Director, Stylist & Body Positivity Advocate
+  link: https://www.instagram.com/alexmichaelmay/
 quote-two:
   image: "/assets/images/conference-smiles.jpg"
   text: Wow, oh wow, this year just proved once again that no matter how young or
     old, any creative woman can seek the groundbreaking inspiration poured out from
     this conference. Absolutely can't wait until next year!
+venue:
+- title: Hudson Loft Downtown LA
+  image: "/uploads/hudson1.jpg"
+  text: Located in the South Park district of DTLA, Hudson Loft was once a Hudson car dealership in the 1930's. Located two blocks east of the Staples Center and LA Live, off of 12th & Hope, we're so looking forward to hosting our conference in the heart of LA in this beautiful and historic building.
+- title: Where to Stay
+  image: "/uploads/freehand1.jpg"
+  text: The brand new Freehand Hotel in Los Angeles will be partnering with us for attendee accommodations this year (wooo!!). You can book a room through their website using the code YELLOW to get 10% off of your stay during the days of the conference.
+schedule:
+- day_number: 1
+  day_of_week: Thursday
+  month_day: August 23rd
+  address1: Hudson Loft, 1200 S Hope St,
+  address2: Los Angeles 90015
+  times:
+  - time: 8:00am
+    title: Breakfast & Registration
+    text: Matcha, breakfast bites, juices & coffee (duh) will be available for you to enjoy as you enter into Yellow.
+  - time: 9:00am
+    title: Yellow Begins!
+    text: Yes, it’s early, but you're not going to want to miss our kickoff opener this year :)
+  - time: 9:30am
+    title: "Speaker Session #1"
+  - time: 10:10am
+    title: "Speaker Session #2"
+  - time: 10:45am
+    title: Morning Snack Break
+    text: Because snacks are everything.
+  - time: 11:15am
+    title: "Speaker Session #3"
+  - time: 12:00pm
+    title: Lunch Time!
+    text: We will have bites avaliable for you to eat while you hangout with your new friends at Hudson Loft, or you’re free to go explore LA and the surrounding areas for food. If you’re craving something specific and don’t want to walk too far--Postmates is our BFF.
+  - time: 1:30pm
+    title: "Panel #1"
+  - time: 2:45pm
+    title: "Speaker Session #4"
+  - time: 3:30pm
+    title: Afternoon Snack Break
+    text: Because you can never have too many snacks. Coffee will also be avaliable, obviously.
+  - time: 4:00pm
+    title: "Speaker Session #5"
+  - time: 5:00pm
+    title: Attendee Cocktail Party
+    text: Come hangout with us and relax after a packed Day 1 of Yellow! We’ll provide delicious bites, desserts, great conversations with great women, and of course, bubbly drinks! Free for Yellow attendees.
+- day_number: 2
+  day_of_week: Friday
+  month_day: August 24th
+  address1: Hudson Loft, 1200 S Hope St,
+  address2: Los Angeles 90015
+  times:
+  - time: 7:00am
+    title: Member Rooftop Yoga & Mimosas
+    text: If you're a Yellow Member (must be an active member at the time of the conference) we'd love for you to join us for some soul filling yoga and mimosas on the rooftop of Hudson Loft! A great way to connect with other members and get centered before a full day of Yellow-Conferencing!
+  - time: 8:00am
+    title: Doors Open & Breakfast
+    text: We wouldn't want you to enter into Day 2 without your Matcha, breakfast bites, juices & coffee! Come early to grab a good seat and to have time to grab some nourishment!
+  - time: 9:00am
+    title: Day 2 Begins!
+    text: You thought yesterday was good? Just wait.
+  - time: 9:30am
+    title: "Speaker Session #6"
+  - time: 10:10am
+    title: "Speaker Session #7"
+  - time: 10:45am
+    title: Morning Snack Break
+    text: Day 2 deserves all the snack breaks too.
+  - time: 11:15am
+    title: "Speaker Session #8"
+  - time: 12:00pm
+    title: Lunch Time!
+    text: Just like yesterday, we will have bites avaliable for you to eat while you hangout with your new friends at Hudson Loft, or you’re free to go explore LA and the surrounding areas for food!
+  - time: 1:30pm
+    title: "Panel #2"
+  - time: 2:45pm
+    title: "Speaker Session #9"
+  - time: 3:30pm
+    title: Afternoon Snack Break
+    text: We like to eat food and we like to give food. Eating is very important.
+  - time: 4:00pm
+    title: "Speaker Session #10"
+    text: The last speaker of Yellow 2018! It’s going to be good and we’re already sad it’s over!!
+  - time: 5:00pm
+    title: Yellow Member After Party
+    text: If you’re a Yellow Member (must be an active member at the time of the conference) we’d love for you to join us to hangout and enjoy the company of our fellow Yellow members for some good grub and good company. Location TBA!
 marketplace:
-  title: The Deets
-  quote:
-    text: |-
-      •• Venue: Hudson Loft • 1200 S Hope St, Los Angeles
-
-      ••
-
-      Day 1 • Thursday 9am - 5pm, Attendee After Party Directly following Conference ~~ Day 2 • Friday 9am - 5pm
-    source: 
-    source-company: More details to be released soon!  --
-    source-link: 
+  image: "/assets/images/banner-marketplace.jpg"
   apply-link: https://docs.google.com/forms/d/e/1FAIpQLSeuhlqtlqnxrNHn0DdoFmQdHaO5ouMVwIcPj8Kt_buhJ6uZOA/viewform
+sponsors:
+- title: Adobe
+  image: "/uploads/yc2018-sponsors-adobe.png"
+  link: https://adobe.com
+- title: Alaska Airlines
+  image: "/uploads/yc2018-sponsors-alaska-airlines.png"
+  link: https://alaskaair.com
+- title: Matchabar
+  image: "/uploads/yc2018-sponsors-matchabar.png"
+  link: https://matchabarnyc.com/
 layout: custom/conference
 ---
-
