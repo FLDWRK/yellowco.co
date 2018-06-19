@@ -97,10 +97,10 @@ schedule:
     title: 'Speaker Session #3'
   - time: 12:00pm
     title: Lunch Time!
-    text: We will have bites avaliable for you to eat while you hangout with your
+    text: We will have bites available for you to eat while you hang out with your
       new friends at Hudson Loft, or you’re free to go explore LA and the surrounding
       areas for food. If you’re craving something specific and don’t want to walk
-      too far--Postmates is our BFF.
+      too far-- Postmates is our BFF.
   - time: 1:30pm
     title: 'Panel #1'
   - time: 2:45pm
@@ -113,7 +113,7 @@ schedule:
     title: 'Speaker Session #5'
   - time: 5:00pm
     title: Attendee Cocktail Party
-    text: Come hangout with us and relax after a packed Day 1 of Yellow! We’ll provide
+    text: Come hang out with us and relax after a packed Day 1 of Yellow! We’ll provide
       delicious bites, desserts, great conversations with great women, and of course,
       bubbly drinks! Free for Yellow attendees.
 - day_number: 2
@@ -147,24 +147,24 @@ schedule:
     title: 'Speaker Session #8'
   - time: 12:00pm
     title: Lunch Time!
-    text: Just like yesterday, we will have bites avaliable for you to eat while you
-      hangout with your new friends at Hudson Loft, or you’re free to go explore LA
-      and the surrounding areas for food!
+    text: Just like yesterday, we will have bites available for you to eat while you
+      hang out with your new friends at Hudson Loft, or you’re free to go explore
+      LA and the surrounding areas for food!
   - time: 1:30pm
     title: 'Panel #2'
   - time: 2:45pm
     title: 'Speaker Session #9'
   - time: 3:30pm
     title: Afternoon Snack Break
-    text: We like to eat food and we like to give food. Eating is very important.
+    text: Eating is very important.
   - time: 4:00pm
     title: 'Speaker Session #10'
     text: The last speaker of Yellow 2018! It’s going to be good and we’re already
-      sad it’s over!!
+      sad it's over!!
   - time: 5:00pm
     title: Yellow Member After Party
     text: If you’re a Yellow Member (must be an active member at the time of the conference)
-      we’d love for you to join us to hangout and enjoy the company of our fellow
+      we’d love for you to join us to hang out and enjoy the company of our fellow
       Yellow members for some good grub and good company. Location TBA!
 marketplace:
   image: "/assets/images/banner-marketplace.jpg"
