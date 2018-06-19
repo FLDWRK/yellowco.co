@@ -52,7 +52,7 @@ speakers:
   image: "/uploads/yc2018-speakers-alex-michael-may.jpg"
   title: Creative Director, Stylist & Body Positivity Advocate
   link: https://www.instagram.com/alexmichaelmay/
-speakers-teaser: "_(more speakers will be announced soon!)_"
+speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
   image: "/assets/images/conference-smiles.jpg"
   text: Wow, oh wow, this year just proved once again that no matter how young or
@@ -181,3 +181,4 @@ sponsors:
   link: https://matchabarnyc.com/
 layout: custom/conference
 ---
+
