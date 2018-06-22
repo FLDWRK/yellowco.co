@@ -7,11 +7,47 @@
 .sponsors {
   margin-top: 2rem;
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
   .sponsor {
     width: calc(25% - 2rem);
+    height: 200px;
+    margin-bottom: 1rem;
+    margin-right: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    &:nth-child(4n) {
+      margin-right: 0;
+    }
     .logo img {
+      width: auto;
+      max-width: 100%;
+      max-height: 200px;
+    }
+    @include media-breakpoint-down(md) {
+      width: calc(33% - 1rem);
+      margin-right: 1rem;
+      height: 150px;
+      &:nth-child(3n) {
+        margin-right: 1rem;
+      }
+      &:nth-child(4n) {
+        margin-right: 0;
+      }
+      .logo img {
+        max-height: 150px;
+      }
+    }
+    @include media-breakpoint-only(xs) {
       width: 100%;
+      margin-right: 0 !important;
+      height: auto;
+      .logo img {
+        max-width: 70%;
+      }
     }
   }
 }
