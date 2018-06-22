@@ -174,7 +174,7 @@ sponsors:
   image: "/uploads/yc2018-sponsors-adobe.png"
   link: https://adobe.com
 - title: Alaska Airlines
-  image: "/uploads/yc2018-sponsors-alaska-airlines.png"
+  image: "/uploads/AA-Airlines.png"
   link: https://alaskaair.com
 - title: Matchabar
   image: "/uploads/yc2018-sponsors-matchabar.png"
