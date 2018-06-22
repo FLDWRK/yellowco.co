@@ -179,6 +179,15 @@ sponsors:
 - title: Matchabar
   image: "/uploads/yc2018-sponsors-matchabar.png"
   link: https://matchabarnyc.com/
+- title: Pur Gum
+  image: "/uploads/PUR_Logo.png"
+  link: http://thepurcompany.com/
+- title: Fawen Soup
+  image: "/uploads/Fawen_Logo.png"
+  link: https://drinkfawen.com/?gclid=EAIaIQobChMIrq-sjYHo2wIVAo3ICh1lcQFaEAAYASAAEgIeAvD_BwE
+- title: Siren Snacks
+  image: "/uploads/Siren%20Snacks%20Logo.png"
+  link: https://www.sirensnacks.com/
 layout: custom/conference
 ---
 
