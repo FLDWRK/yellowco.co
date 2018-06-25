@@ -16,7 +16,7 @@ _As an expert in the fields of self-care and body image, Danika is leading this 
  
 Body positivity to me is the absence of awareness around your body having any sort of value. It’s that we don’t have to talk about it. The people who have the most body positivity are the ones that are free from even putting value on their bodies. For me personally, I literally don’t acknowledge that my body is bigger than most people’s. The reality is that I’m so focused on the internal work, the soul work as a person, that I don’t think about my body or how I feel about it.
 
-![MM5.jpg](/uploads/MM5.jpg)
+![AnnieVovanPhotography_Danika_1.4.2018-26.jpg](/uploads/AnnieVovanPhotography_Danika_1.4.2018-26.jpg)
  
 ###### Wow, that is amazing. I never even thought of it that way – a lack of even having this conversation! I love that. How do you feel we can be examples to the upcoming generation when it comes to loving your body? Can you share some tactical tips?
  
@@ -30,7 +30,7 @@ Another tip is to pay attention to what you consume. Media, social media, and al
 
 I recreated my normal, and now it’s my reality, and the example that I set.  
 
-![MM2.jpg](/uploads/MM2.jpg)
+![AnnieVovanPhotography_ModelMeals-138.jpg](/uploads/AnnieVovanPhotography_ModelMeals-138.jpg)
  
 ###### Body dysmorphia has become a rampant issue, causing women of all shapes and sizes to look in the mirror and see different things. How do we combat this?
  
