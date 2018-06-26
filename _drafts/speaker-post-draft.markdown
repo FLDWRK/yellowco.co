@@ -26,6 +26,9 @@ Nikia is a model, writer, and dream instigator with a passion for women's issues
 #### [Brittany & Ian Bentley](https://www.instagram.com/parkerclayintl/)  
 ###### [Co-founders of Parker Clay](https://www.parkerclay.com/)
 
+Brittany and Ian Bentley founded Parker Clay as a result and response to several life events they never could have expected - starting from adopting their daughter in Ethiopia, moving to Addis Ababa one year later
+as a response to 
+
 **What was a powerful moment in your life when you took ownership over something?** 
 
 "One late night while living in Ethiopia, I was driving home and saw a young woman standing out in the dark waiting. It was clear she was working in prostitution, but rather than seeing her as just another woman on the streets, I saw my young daughter in that little girl. Something that night raged in my heart, something I was already passionate about fighting for became even more important to me. When I saw my little girl in the eyes of this young woman, I knew that this was what I was called to live for, that is why we started Parker Clay."
