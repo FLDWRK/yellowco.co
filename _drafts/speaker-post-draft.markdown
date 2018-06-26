@@ -4,7 +4,7 @@ date: 2018-06-27 04:00:00 -07:00
 categories:
 - Growth
 author: Yellow Co.
-image: "/uploads/Instagram-Template-2-1.jpg"
+image: "/uploads/Instagram-Template%202-3-1.jpg"
 series: Body
 ---
 
