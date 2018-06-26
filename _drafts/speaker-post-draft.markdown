@@ -1,5 +1,5 @@
 ---
-title: speaker post draft
+title: Meet 4 of Our 2018 Yellow Conference Speakers!
 date: 2018-06-27 04:00:00 -07:00
 categories:
 - Growth
