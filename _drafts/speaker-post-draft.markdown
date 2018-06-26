@@ -12,26 +12,28 @@ We are just two months out from our [5th annual Yellow Conference](https://yello
 
 This year our 2018 theme is [“Our Ownership”](https://yellowco.co/conference/). It’s no secret millennials aren’t owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own who they are? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we’re in this together as global citizens. 
 
+### [Grab your ticket to the 2018 Yellow Conference here!](https://yellowco.co/conference/)
+
 In addition to the amazing community of 500 creative, entrepreneurial-minded women gathering together, interactive experiences, and a whole marketplace of do-good businesses, we will, of course, be hearing from some powerhouse speakers! We're so excited to announce a few of them to you today, and to hear from them on how taking ownership has influenced their lives!
 
-#### Nikia Phoenix  
-Model, writer, founder of Black Girl Beautiful
+#### [Nikia Phoenix](https://www.instagram.com/nikiaphoenix/)  
+Model, writer, founder of [Black Girl Beautiful](https://www.blackgirlbeautiful.com/)
 
-Nikia is a model, writer, and dream instigator with a passion for women's issues, social equality, and all things beautiful. If you don’t follow her daily morning routine and affirmations she posts daily on her story- go there now and soak in the goodness. We’re big fans. Nikia is also the Founder of the women's empowerment platform @blackgirlbeautifuldotcom.⠀
+Nikia is a model, writer, and dream instigator with a passion for women's issues, social equality, and all things beautiful. If you don’t follow her daily morning routine and affirmations she posts daily on her story - go there now and soak in the goodness. We’re big fans. Nikia is also the founder of the women's empowerment platform [Black Girl Beautiful](https://www.blackgirlbeautiful.com/).⠀
 
 ![Instagram-Template-1-1.jpg](/uploads/Instagram-Template-1-1.jpg)
 
-#### Brittany & Ian Bentley  
-Co-founders of Parker Clay
+#### [Brittany & Ian Bentley](https://www.instagram.com/parkerclayintl/)  
+[Co-founders of Parker Clay](https://www.parkerclay.com/)
 
-What was a powerful moment in your life when you took ownership over something? 
+**What was a powerful moment in your life when you took ownership over something?** 
 
 "One late night while living in Ethiopia, I was driving home and saw a young woman standing out in the dark waiting. It was clear she was working in prostitution, but rather than seeing her as just another woman on the streets, I saw my young daughter in that little girl. Something that night raged in my heart, something I was already passionate about fighting for became even more important to me. When I saw my little girl in the eyes of this young woman, I knew that this was what I was called to live for, that is why we started Parker Clay."
 
 ![Instagram-Template-3-1.jpg](/uploads/Instagram-Template-3-1.jpg)
 
-#### Allison Fallon  
-Author & writer
+#### [Allison Fallon](https://www.instagram.com/allyfallon/)  
+[Author & writer](https://allisonfallon.com/)
 
 What was a powerful moment in your life when you took ownership over something? 
 
@@ -39,10 +41,12 @@ What was a powerful moment in your life when you took ownership over something?
 
 ![Instagram-Template-4-1.jpg](/uploads/Instagram-Template-4-1.jpg)
 
-#### Emcee: Alex Michael May  
-Creative Director, Stylist & Body Positivity Advocate
+#### [Emcee: Alex Michael May](https://www.instagram.com/alexmichaelmay/)  
+[Creative Director, Stylist & Body Positivity Advocate](http://alexmichaelmay.com/)
 
 A nebraska-born california dreamer and starry-eyed believer living the life of a creative entrepreneur in los angeles (more on that here!) i believe we are all creative, and that you have the ability to design a life you love. this is the place where i share my own creative journey, what i’m learning and some cool tricks that can help you go from dreaming to doing.
+
+
 
 Ticket prices go up on the 3rd! 
 
