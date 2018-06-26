@@ -8,13 +8,13 @@ image: "/uploads/Instagram-Template-2-1.jpg"
 series: Body
 ---
 
-We are just two months out from our [5th annual Yellow Conference](https://yellowco.co/conference/), and our team is bursting with excitement getting everything ready for all of you incredible ladies that will be joining us! If you haven't made it to one yet - these two days are so much more than a typical conference. This is for the ones who desire to fight for a better tomorrow. The ones who are willing to roll up their sleeves, step out in courage, and use their creativity for good. This is where we come together for the benefit of humankind.
+We are just two months out from our [5th annual Yellow Conference](https://yellowco.co/conference/), and our team is bursting with excitement getting everything ready for all of you incredible ladies that will be joining us! If you haven't made it to one yet - these two days are so much more than a typical conference. This gathering is for the ones who desire to fight for a better tomorrow. The ones who are willing to roll up their sleeves, step out in courage, and use their creativity for good. This is where we come together for the benefit of humankind.
 
-This year our 2018 theme is [“Our Ownership”](https://yellowco.co/conference/). It’s no secret millennials aren’t owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own who they are? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we’re in this together as global citizens. 
+Our 2018 theme for the conference is [“Our Ownership”](https://yellowco.co/conference/). It’s no secret millennials aren’t owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own who they are? Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we’re in this together as global citizens. 
 
-### [Grab your ticket to the 2018 Yellow Conference here!](https://yellowco.co/conference/)
+##### [Grab your ticket to the 2018 Yellow Conference here!](https://yellowco.co/conference/)
 
-In addition to the amazing community of 500 creative, entrepreneurial-minded women gathering together, interactive experiences, and a whole marketplace of do-good businesses, we will, of course, be hearing from some powerhouse speakers! We're so excited to announce a few of them to you today, and to hear from them on how taking ownership has influenced their lives!
+In addition to the amazing community of 500 creative, entrepreneurial-minded women gathering together, interactive experiences, and a whole marketplace of do-good businesses, we will, of course, be hearing from some powerhouse speakers on this topic! We're so excited to announce a few of them to you today, and to hear from them on how taking ownership has influenced their lives!
 
 #### [Nikia Phoenix](https://www.instagram.com/nikiaphoenix/)  
 Model, writer, founder of [Black Girl Beautiful](https://www.blackgirlbeautiful.com/)
