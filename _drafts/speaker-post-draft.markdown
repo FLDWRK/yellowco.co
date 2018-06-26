@@ -26,8 +26,7 @@ Nikia is a model, writer, and dream instigator with a passion for women's issues
 #### [Brittany & Ian Bentley](https://www.instagram.com/parkerclayintl/)  
 ###### [Co-founders of Parker Clay](https://www.parkerclay.com/)
 
-Brittany and Ian Bentley founded Parker Clay as a result and response to several life events they never could have expected - starting from adopting their daughter in Ethiopia, moving to Addis Ababa one year later
-as a response to 
+Brittany and Ian Bentley founded Parker Clay as a result and response to several life events they never could have expected - starting from adopting their first daughter in Ethiopia, to returning back just one year later to live in Addis Ababa and adopt their second daughter, to getting to know the incredible organizations in the area working to empower women vulnerable to prostitution and human trafficking through skills development and job creation, to discovering high quality, ethically sourced leather goods made by local artisans. Parker Clay was then born as a luxury lifestyle brand that hand selects the highest quality leather to make timeless products by way of age-old traditional craftsmanship - all while creating opportunities for vulnerable women to become economically independent. They have since returned to their roots in Santa Barbara, California, where they are able to continue growing their platform and spreading their vision.
 
 **What was a powerful moment in your life when you took ownership over something?** 
 
@@ -37,6 +36,8 @@ as a response to
 
 #### [Allison Fallon](https://www.instagram.com/allyfallon/)  
 ###### [Author & writer](https://allisonfallon.com/)
+
+Allison Fallon writes books, helps people write books and believes a regular practice of writing can change your life. She is the author of 12+ books, sought after public speaker and coach to hundred of authors from New York Times Bestsellers to total beginners. She has spent the last decade coaching hundreds of people to gain confidence, overcome writer’s block and get their stories on paper. Even if you say, “I’m not a writer” she can show you how a daily practice of writing can improve your sleep, your focus, your creativity, your productivity, and even your relationships.
 
 What was a powerful moment in your life when you took ownership over something? 
 
