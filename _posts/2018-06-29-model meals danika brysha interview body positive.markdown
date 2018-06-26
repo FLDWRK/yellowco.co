@@ -1,5 +1,6 @@
 ---
-title: Model Meals Founder, Danika Brysha, on How Intuitive Eating Changed Her Life
+title: Whole 30-Friendly Model Meals Founder, Danika Brysha, on How Intuitive Eating
+  Changed Her Life
 date: 2018-06-29 04:00:00 -07:00
 categories:
 - Entrepreneurs
