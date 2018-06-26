@@ -14,7 +14,7 @@ Our 2018 theme for the conference is [“Our Ownership”](https://yellowco.co/c
 
 ##### [Grab your ticket to the 2018 Yellow Conference here! Prices go up July 3rd!](https://yellowco.co/conference/)
 
-In addition to the amazing community of 500 creative, entrepreneurial-minded women gathering together, interactive experiences, and a whole marketplace of do-good businesses, we will, of course, be hearing from some powerhouse speakers on Ownership! We're so excited to announce a few of them to you today, and to hear from them on how taking ownership has influenced their lives!
+In addition to the amazing community of 500 creative, entrepreneurial-minded women gathering together, interactive experiences, and a whole marketplace of do-good businesses, we will, of course, be hearing from many powerhouse speakers on Ownership! We're so excited to announce a few of them to you today, and to hear from them on how taking ownership has influenced their lives!
 
 #### [Nikia Phoenix](https://www.instagram.com/nikiaphoenix/)  
 ###### [Model, Writer,](http://www.nikiaphoenix.com/) Founder of [Black Girl Beautiful](https://www.blackgirlbeautiful.com/)
