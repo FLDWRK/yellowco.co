@@ -7,13 +7,15 @@ author: Yellow Co.
 series: Body
 ---
 
-Nikia Phoenix, model, writer, founder of Black Girl Beautiful
+#### Nikia Phoenix  
+Model, writer, founder of Black Girl Beautiful
 
 Nikia is a model, writer, and dream instigator with a passion for women's issues, social equality, and all things beautiful. If you don’t follow her daily morning routine and affirmations she posts daily on her story- go there now and soak in the goodness. We’re big fans. Nikia is also the Founder of the women's empowerment platform @blackgirlbeautifuldotcom.⠀
 
 ![Instagram-Template-1-1.jpg](/uploads/Instagram-Template-1-1.jpg)
 
-Brittany & Ian Bentley, Co-founders of Parker Clay
+#### Brittany & Ian Bentley  
+Co-founders of Parker Clay
 
 What was a powerful moment in your life when you took ownership over something? 
 
@@ -21,7 +23,8 @@ What was a powerful moment in your life when you took ownership over something?
 
 ![Instagram-Template-3-1.jpg](/uploads/Instagram-Template-3-1.jpg)
 
-Allison Fallon, Author & writer
+#### Allison Fallon  
+Author & writer
 
 What was a powerful moment in your life when you took ownership over something? 
 
@@ -29,7 +32,8 @@ What was a powerful moment in your life when you took ownership over something?
 
 ![Instagram-Template-4-1.jpg](/uploads/Instagram-Template-4-1.jpg)
 
-Alex Michael May, Creative Director, Stylist & Body Positivity Advocate
+#### Emcee: Alex Michael May  
+Creative Director, Stylist & Body Positivity Advocate
 
 A nebraska-born california dreamer and starry-eyed believer living the life of a creative entrepreneur in los angeles (more on that here!) i believe we are all creative, and that you have the ability to design a life you love. this is the place where i share my own creative journey, what i’m learning and some cool tricks that can help you go from dreaming to doing.
 
