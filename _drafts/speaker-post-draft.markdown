@@ -19,7 +19,7 @@ In addition to the amazing community of 500 creative, entrepreneurial-minded wom
 #### [Nikia Phoenix](https://www.instagram.com/nikiaphoenix/)  
 ###### Model, Writer, Founder of [Black Girl Beautiful](https://www.blackgirlbeautiful.com/)
 
-Nikia is a model, writer, and dream instigator with a passion for women's issues, social equality, and all things beautiful. If you don’t follow her daily morning routine and affirmations she posts daily on her story - go there now and soak in the goodness. We’re big fans. Nikia is also the founder of the women's empowerment platform [Black Girl Beautiful](https://www.blackgirlbeautiful.com/).⠀
+Nikia is a model, writer, and dream instigator with a passion for women's issues, social equality, and all things beautiful. If you don’t follow her daily morning routine and affirmations she posts daily on [her story](https://www.instagram.com/nikiaphoenix/) - go there now and soak in the goodness. We’re big fans. Nikia is also the founder of the women's empowerment platform [Black Girl Beautiful](https://www.blackgirlbeautiful.com/).⠀
 
 ![Instagram-Template-1-1.jpg](/uploads/Instagram-Template-1-1.jpg)
 
@@ -48,7 +48,7 @@ _"When I wrote the first draft of my book, I promised myself I’d tell the whol
 #### [Emcee: Alex Michael May](https://www.instagram.com/alexmichaelmay/)  
 ###### [Creative Director, Stylist & Body Positivity Advocate](http://alexmichaelmay.com/)
 
-A nebraska-born california dreamer and starry-eyed believer living the life of a creative entrepreneur in los angeles (more on that here!) i believe we are all creative, and that you have the ability to design a life you love. this is the place where i share my own creative journey, what i’m learning and some cool tricks that can help you go from dreaming to doing.
+Alex Michael May is a Nebraska-born California dreamer and starry-eyed believer living the life of a creative entrepreneur in Los Angeles. She believes we are all creative, and that we have the ability to design a life you love. For her tips on style, travel, beauty, check out her [Instagram](https://www.instagram.com/alexmichaelmay/)!
 
 We can't wait to hear from all of these incredible speakers (and many more to come!) with you in DTLA at the beautiful Hudson Loft in August! If you haven't grabbed your ticket yet, get yours here before the price goes up on July 3rd! See you ladies there!
 
