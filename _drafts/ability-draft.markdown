@@ -5,6 +5,7 @@ categories:
 - Growth
 author: Hanna Snyder
 image: "/uploads/IMG_0994-1.jpg"
+series: Ability
 ---
 
 For every resounding doubt  
