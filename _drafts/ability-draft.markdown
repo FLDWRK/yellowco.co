@@ -79,7 +79,7 @@ You are enough
 of the you  
 we need
 
-
+![IMG_1008-1.jpg](/uploads/IMG_1008-1.jpg)
 
 Not feeling like enough has always been the big one for me. The lifelong lie that seems to sneak its way into the roots of every insecurity, fear, and doubt in my world. It has caused me to cling to others for identity, seeped anxiety into the very works I create, and placed procrastination into many of my passions. It robs me, of me.
 
@@ -87,8 +87,10 @@ For nearly forever, women have been told a lot on the matter of what we can’t 
 
 How many times do we put down the pen - too afraid to commit to simply starting? How often do we sink back from speaking up - convincing ourselves into apathy of not being heard? What about the last time you didn’t ask twice for affirmation before taking action? Can you remember the last day you rested in the confidence of you?
 
-If owning our passions is the spark, then owning our abilities is the wind that turns it to fire. The marriage of the two breathes life into our imagination and ignites action into our daydreams. Sometimes, this means taking the simple, staggering first step - making the cold call, hiring another to do what they’re stronger at, or even uttering your secret desire into existence. Other times, this work is the getting-dirt-under-your-fingernails kind of gritty. It can mean finally facing the false truths following you around, or making the daily, inch-by-inch crawl toward the marathon you’re in the middle of. 
+### If owning our passions is the spark, then owning our abilities is the wind that turns it to fire. 
 
-In any case, it asks our guts to shift the question from, “What are we capable of?” to, “What are we not?”
+The marriage of the two breathes life into our imagination and ignites action into our daydreams. Sometimes, this means taking the simple, staggering first step - making the cold call, hiring another to do what they’re stronger at, or even uttering your secret desire into existence. Other times, this work is the getting-dirt-under-your-fingernails kind of gritty. It can mean finally facing the false truths following you around, or making the daily, inch-by-inch crawl toward the marathon you’re in the middle of. 
+
+### In any case, it asks our guts to shift the question from, “What are we capable of?” to, “What are we not?”
 
 This is the month we rally. When we can clearly see ourselves in what is calling out our names so loudly. When we listen first to the tug in our stomachs toward where we are meant to go, and never to the voices that call us to stagnance. We own who we are, paying no mind to who we are not. It is the time we shake the dust, and rise to the risk of making the richest version of our days possible. For as Eleanor Roosevelt grandly challenges us (and as I imagine, with a good helping of sass), “It’s your life - but only if you make it so.”
