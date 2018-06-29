@@ -7,7 +7,7 @@ series: Ability
 
 When you’re preparing to host a crowdfunding campaign, think about it as if you were preparing to pitch your business to investors. Only, those investors are regular people like you or me, and they want to know they’re investing in something that will work. Crowdfunding platforms make it easy to display your project attractively and completely, like an online shop where your customers don’t mind that shipping could take up to a year. But the difference between opening an online store and a crowdfunding campaign is that your customers’ purchases are often what makes the products possible, so planning for production, among many other things, ahead of your launch is crucial. 
 
-I want to see your project not just meet, but surpass it’s goal. Utilize this list of steps to take, garnered from a number of unsuccessful and successful crowdfunding experiences, to plan your campaign far ahead of its launch date.
+I want to see your project not just meet, but surpass it’s goal. Utilize this list of steps to take, garnered from a number of [successful](https://www.kickstarter.com/projects/547269256/the-tiny-mess?ref=user_menu) and [unsuccessful](https://www.kickstarter.com/projects/1661218202/st-petian-magazine-volume-1-the-weekender-travel-g?ref=user_menu) crowdfunding experiences, to plan your campaign far ahead of its launch date.
  
 #### Start with a business plan. 
 
