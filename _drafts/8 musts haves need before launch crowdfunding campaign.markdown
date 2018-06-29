@@ -1,6 +1,8 @@
 ---
 title: The 8 Must-Haves You Need Before Launching Your (Successful) Crowdfunding Campaign
 date: 2018-07-04 04:00:00 -07:00
+categories:
+- Entrepreneurs
 author: Amelia Bartlett
 image: "/uploads/norbert-levajsics-184254-unsplash-1.jpg"
 series: Ability
