@@ -1,11 +1,11 @@
 ---
 title: draft
 date: 2018-07-06 04:00:00 -07:00
+categories:
+- Relationships
 author: Salma Elbarmawi
 series: Ability
 ---
-
-Ability
 
 How many ways have you heard the word “no”? What about, “don’t touch that,” or “you can’t do that” or “there’s no way.” Has anyone told you to believe in yourself, that you have potential, or that you must step out of your comfort zone? Which words held more weight? 
 
