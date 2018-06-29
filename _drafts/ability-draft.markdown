@@ -4,6 +4,7 @@ date: 2018-07-02 04:00:00 -07:00
 categories:
 - Growth
 author: Hanna Snyder
+image: "/uploads/IMG_0994-1.jpg"
 ---
 
 For every resounding doubt  
