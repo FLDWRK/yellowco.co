@@ -1,5 +1,5 @@
 ---
-title: 8 Musts You Need to Know Before Launching a Crowdfunding Campaign
+title: The 8 Must-Haves You Need Before Launching Your (Successful) Crowdfunding Campaign
 date: 2018-07-04 04:00:00 -07:00
 author: Amelia Bartlett
 series: Ability
