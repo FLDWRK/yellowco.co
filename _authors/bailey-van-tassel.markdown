@@ -1,18 +1,8 @@
 ---
 title: Bailey Van Tassel
-company_name: Abel Impact
-job_title: Founder
 bio_image: "/assets/images/bailey-van-tassel.jpg"
-website: http://www.abelimpact.com/about/
+website: http://www.baileyvantassel.com/
 is_guest: true
 ---
 
-Bailey is the Founder and President of Abel Impact, a social responsibility firm
-that helps business and families partner with charity to create meaningful
-do-good programming. Her background is in marketing, non-profit management,
-sales, and fundraising. She brings a wealth of knowledge from over eight years
-of studying the way the private sector interacts with the social sector, and is
-certified in non-profit evaluation. She has worked with companies like Google,
-MasterCard, Club Corp, and many others. Bailey’s passion lies in bridging the
-worlds of philanthropy and business, alongside her love for her family, yoga,
-cooking, and doing anything outside.
+Bailey is a writer, wife, and mother, as well as the Director of Generosity and Culture for Auric Road, a petite resort hospitality brand, where she creates unforgettable experiences for guests and the community. She brings a wealth of knowledge from over ten years of studying the way the private sector interacts with the social sector, and how cause marketing can change the world. She founded her own social responsibility firm, Abel Impact, and has worked with companies like Google, Sysco, MasterCard, Club Corp, and many others. Bailey’s ultimate passion lies in writing about home and happiness, along with her love for her family, yoga, cooking, and doing anything outside.
