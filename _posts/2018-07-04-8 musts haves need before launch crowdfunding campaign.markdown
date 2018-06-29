@@ -85,6 +85,4 @@ A great way to do this is by bringing 10 - 15 “ambassadors” into your market
 
 Measure twice, cut once. Once you have your business plan, operating budget, reward pool, compelling media, curated project page, cross-platform marketing strategy, and a confirmed list of campaign ambassadors, have your team and/or a mentor double check everything before you take the plunge. 
 
-Remember, crowdfunding is first and foremost a place of community support. Thank your community. Praise your community. And celebrate with them the success of each project milestone! 
-
-Photos by
+Remember, crowdfunding is first and foremost a place of community support. Thank your community. Praise your community. And celebrate with them the success of each project milestone!
