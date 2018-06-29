@@ -8,11 +8,11 @@ image: "/uploads/img402.jpg"
 series: Ability
 ---
 
-How many ways have you heard the word “no”? What about, “Don’t touch that,” or, “You can’t do that,” or, “There’s no way.” Has anyone told you to believe in yourself, that you have potential, or that you must step out of your comfort zone? Which words held more weight? As inspiring as the latter phrases truly are, often times, like a stick of juicy fruit gum, they seems to lack longevity. 
+How many ways have you heard the word “no”? What about, “You can’t do that.” Or, “There’s no way.” Has anyone told you to believe in yourself, that you have potential, or that you must step out of your comfort zone? Which words held more weight? As inspiring as the latter phrases truly are, often times, like a stick of juicy fruit gum, they seems to lack longevity. 
 
 ### Why is it that it feels more natural to stop when someone tells you to, rather than to go when they’re begging you? 
 
-I believe courage is a seed, one that grows from within, but is often planted from without. Truthfully, for some of us, it's not enough to know we can. We have to feel that the people who love us believe we can too. We want to know that those with our best interests also think we’ll succeed if we take a chance. We want to know that in their eyes, failure isn’t a possible outcome for us. And yet, certainty seems to be everyone's prerequisite of your likelihood to succeed. Isn’t that the catch 22 of living your best life? You can never know for fact that it will be. 
+I believe courage is a seed, one that grows from within, but is often planted from without. Truthfully, for some of us, it's not enough to know we can. We have to feel that the people who love us believe we can too. We want to know that those with our best interests also think we’ll succeed if we take a chance. We want to know that in their eyes, failure isn’t a possible outcome for us. And yet, certainty seems to be everyone's prerequisite of our likelihood to succeed. Isn’t that the catch 22 of living your best life? You can never know for fact that it will be. 
 
 In life, we make plans. We push boundaries. We play it safe. We take risks. We live honorable lives that our parents would be proud of. Yet no matter what decisions we've made, no matter what choices we chose or pathways we've walked, we're the only ones who ever have to live with our decisions. 
 
@@ -24,9 +24,9 @@ The simple truth of life is that we will all stare failure in the face more than
 
 If you're wondering if your plan will work, if you can find a way to travel the world, meet the love of your life, land the job you’re not quite qualified for, write the book, build the company... the answer is that you'll never know unless you try – and neither will those around you. 
 
-I didn't find the confidence to overcome the, "You shouldn't do that," talk. Nor did I just wake up one morning and feel resistant to the, "You should be responsible," advice. I spent long, thoughtful hours wondering what I'd do if I didn't go, how I'd live with my decision to play it safe, and if I was making it for someone else. I contemplated how I'd feel if I found out someone else I knew did it first, risked it all, while I was stuck in the same place – all at the fault of my own. 
+I've had a longstanding dream to travel the world. And I didn't find the confidence to overcome the, "You shouldn't do that," talk instantly. Nor did I just wake up one morning and feel resistant to, "You should be responsible," advice. I spent long, thoughtful hours wondering what I'd do if I didn't go, how I'd live with my decision to play it safe, and if I was making it for someone else. I contemplated how I'd feel if I found out someone else I knew did it first, risked it all, while I was stuck in the same place – all at the fault of my own. 
 
-### I decided that instead of wondering if I would succeed, I'd throw all of my emotional energy into figuring out what I'd do if I failed. 
+### I decided that instead of wondering _if_ I would succeed, I'd put my emotional energy toward figuring out what I'd do in the chance that I failed. 
 
 Leaving the stability of a steady income, the comfort of a loving home, and the city that I was raised in wasn't an easy decision. The extravagance of it all tends to overshadow the practical elements. But traveling has been a burning desire in the pit of my soul for as long as I can remember. For me, uncertainty is a slippery slope to anxiety. For me, there's value in consistency. And yet, simultaneously for me, two weeks in a single foreign place would never be enough. 
 
