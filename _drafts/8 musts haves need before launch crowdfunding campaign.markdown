@@ -2,6 +2,7 @@
 title: The 8 Must-Haves You Need Before Launching Your (Successful) Crowdfunding Campaign
 date: 2018-07-04 04:00:00 -07:00
 author: Amelia Bartlett
+image: "/uploads/norbert-levajsics-184254-unsplash-1.jpg"
 series: Ability
 ---
 
@@ -22,7 +23,9 @@ These are the key sections you should define:
 **Value Propositions:** The value you bring and the problems you'll solve for your customers with what you’re producing and selling.  
 **Customer Segments:** More often than not, more than one “type” of customer is engaging with your campaign or project. List them out and get to know them!  
 **Channels:** How and where you’ll reach your customers.  
-**Revenue Streams:** How the results of your campaign funding will earn revenue to support your project through delivery and beyond. 
+**Revenue Streams:** How the results of your campaign funding will earn revenue to support your project through delivery and beyond.
+
+![kirill-zakharov-119133-unsplash-1.jpg](/uploads/kirill-zakharov-119133-unsplash-1.jpg) 
 
 #### Plan for pitfalls.
 
@@ -44,6 +47,8 @@ Whether your aim is to sell self-published comic books or launch a high end clot
 
 Once you’ve budgeted an approximate funding goal value that will empower you to accomplish your goals, add 10 - 15% more for unforeseen challenges. 
 
+![sylvie-tittel-673974-unsplash-1.jpg](/uploads/sylvie-tittel-673974-unsplash-1.jpg)
+
 #### Create rewards your community will love.
 
 Your community is the group of early-adopters who will see your campaign, know who you or your brand are already, and be the first to support you. They are your inner circle. Brainstorm a long, far-reaching list of what this inner circle would value from you. 
@@ -61,6 +66,8 @@ You’ll be able to upload videos, media, quotes, and various engaging pieces of
 ### Create your content once and repurpose it extensively. 
 
 Share it across your social media pages, through email communication, and on your website. Go through past campaigns that have reached their goal, and take notes on project page elements you find impactful. ([Boulder Denim](https://www.kickstarter.com/projects/bradspence/boulder-denim-ultra-stretch-stain-resistant-premiu) did this stupendously with their video, photos, graphic design, and layout of their project page.) Focus on picture collages, graphics, paragraph styles, lists, and storytelling flow. You’re designing a user experience, so create something people will fall in love with.
+
+![norbert-levajsics-184730-unsplash-1.jpg](/uploads/norbert-levajsics-184730-unsplash-1.jpg)
 
 #### Strategize authentic cross-platform engagement in the main places your community gathers.
 
