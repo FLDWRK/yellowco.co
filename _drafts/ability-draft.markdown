@@ -39,6 +39,8 @@ That barriers can’t be torn down
 House plants revived hundredth time over  
 Arms punch skylights through the roof 
 
+![IMG_1013-1.jpg](/uploads/IMG_1013-1.jpg)
+
 Hear this
 
 You are enough   
