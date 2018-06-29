@@ -1,5 +1,5 @@
 ---
-title: ability draft
+title: 'You Are Enough of the You You Need: A Poem on Recognizing Our Ability'
 date: 2018-07-02 04:00:00 -07:00
 categories:
 - Growth
