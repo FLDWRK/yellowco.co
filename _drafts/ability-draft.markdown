@@ -96,3 +96,5 @@ The marriage of the two breathes life into our imagination and ignites action in
 ### In any case, it asks our guts to shift the question from, “What are we capable of?” to, “What are we not?”
 
 This is the month we rally. When we can clearly see ourselves in what is calling out our names so loudly. When we listen first to the tug in our stomachs toward where we are meant to go, and never to the voices that call us to stagnance. We own who we are, paying no mind to who we are not. It is the time we shake the dust, and rise to the risk of making the richest version of our days possible. For as Eleanor Roosevelt grandly challenges us (and as I imagine, with a good helping of sass), “It’s your life - but only if you make it so.”
+
+_Photos by [Amy Hulst](https://www.instagram.com/amesandliza/) for Yellow Co._
