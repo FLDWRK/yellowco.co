@@ -7,7 +7,7 @@ nav:
     highlight: blog
 pagination:
   enabled: true
-series: Ability
+series: Body
 layout: custom/blog
 ---
 
