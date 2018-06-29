@@ -6,77 +6,77 @@ categories:
 author: Hanna Snyder
 ---
 
-For every resounding doubt
-Overuse of not yet
-Handful of too late 
+For every resounding doubt  
+Overuse of not yet  
+Handful of too late  
 Enough
 
-To the slumped shoulders
-Stifled exhales
-Tangled mess of missed attempts
+To the slumped shoulders  
+Stifled exhales  
+Tangled mess of missed attempts  
 Enough
 
-For each justification
-Guilty explanation
-Continual claim of someday 
+For each justification  
+Guilty explanation  
+Continual claim of someday   
 Enough
 
-You have outgrown 
-this house you’ve been 
-comfortably calling home
+You have outgrown   
+this house you’ve been   
+comfortably calling home  
 
-The you you’re becoming
-is too big 
-to live here
+The you you’re becoming  
+is too big   
+to live here  
 
 Enough
 
-Do you really believe
+Do you really believe  
 you’ve hit your ceiling?
 
-That barriers can’t be torn down
-House plants revived hundredth time over
-Arms punch skylights through the roof
+That barriers can’t be torn down  
+House plants revived hundredth time over  
+Arms punch skylights through the roof 
 
 Hear this
 
-You are enough 
-of the you 
+You are enough   
+of the you  
 you need
 
-You are enough 
-of the you 
+You are enough  
+of the you  
 you need
 
-The brave you are craving?
+The brave you are craving?  
 Enough
 
-The wild you’re waiting on?
+The wild you’re waiting on?  
 Enough
 
-That elastic bounce back?
+That elastic bounce back?  
 Enough
 
-A romantic of possibility
-Unshakeable value
-Bare your skin shameless
+A romantic of possibility  
+Unshakeable value  
+Bare your skin shameless  
 Enough
 
-Your own steady hand to hold
-Crayon to color outside the lines
+Your own steady hand to hold  
+Crayon to color outside the lines  
 Marble staircase crown
 
 Hear it
 
-You are enough 
-of the you
+You are enough  
+of the you  
 we need
 
-You are enough 
-of the you
+You are enough   
+of the you  
 we need
 
--
+
 
 Not feeling like enough has always been the big one for me. The lifelong lie that seems to sneak its way into the roots of every insecurity, fear, and doubt in my world. It has caused me to cling to others for identity, seeped anxiety into the very works I create, and placed procrastination into many of my passions. It robs me, of me.
 
