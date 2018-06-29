@@ -38,8 +38,8 @@ The world has always been a marvel I’ve been dying to see, and life seems so m
 
 I had to realize that the naysayers could be right, but they also could be wrong. I had to believe that I was meant for something more, because feeling like your days are on repeat can kill you too. 
 
-Getting past unsupportive words is about committing to your truth. It means knowing that when others in your life ask you, "What if this or that happens," you’re allowed to say you don’t know. Or, “What happens if it doesn’t?” Or even, “I’ll figure it out.” The only answer anyone is looking for is your own vote of confidence. The only response they need is your assurance. The only person capable of holding you back is _you_. 
+Getting past unsupportive words is about committing to your truth. It means knowing that when others in your life ask you, "What if this or that happens?" you’re allowed to say you don’t know. Or, “What happens if it doesn’t?” Or even, “I’ll figure it out.” The only answer anyone is looking for is your own vote of confidence. The only response they need is your assurance. The only person capable of holding you back is _you_. 
 
-The money will come. The job listings will continue to be posted. The work will eventually get done. But your time will never come back, so be sure that the life you're living is truly the one you want to be. 
+The money will come. The job listings will continue to be posted. The work will eventually get done. But your time will never come back. So be sure that the life you're living is truly the one you want to be. 
 
 _Photos by [Summer Staeb](https://www.instagram.com/summerstaeb/)_ 
