@@ -18,15 +18,19 @@ In life, we make plans. We push boundaries. We play it safe. We take risks. We l
 
 So why is it that so often we allow others to make them for us? 
 
+![img404.jpg](/uploads/img404.jpg)
+
 The simple truth of life is that we will all stare failure in the face more than once. We will all fall apart. We will all lose someone we love, make mistakes we regret, and give up on dreams we wish we hadn't. The beauty of life is that as long as you're breathing, you have the capacity to mess up, fall apart, and start all over. We were brought on this earth for such a short span of time. None of us are certain of the future, nor able to predict the outcome of our choices. But all of us want to leave this place knowing we made an impact that was greater than ourselves. 
 
 If you're wondering if your plan will work, if you can find a way to travel the world, meet the love of your life, land the job you’re not quite qualified for, write the book, build the company... the answer is that you'll never know unless you try – and neither will those around you. 
 
 I didn't find the confidence to overcome the, "You shouldn't do that," talk. Nor did I just wake up one morning and feel resistant to the, "You should be responsible," advice. I spent long, thoughtful hours wondering what I'd do if I didn't go, how I'd live with my decision to play it safe, and if I was making it for someone else. I contemplated how I'd feel if I found out someone else I knew did it first, risked it all, while I was stuck in the same place – all at the fault of my own. 
 
-I decided that instead of wondering if I would succeed, I'd throw all of my emotional energy into figuring out what I'd do if I failed. 
+### I decided that instead of wondering if I would succeed, I'd throw all of my emotional energy into figuring out what I'd do if I failed. 
 
 Leaving the stability of a steady income, the comfort of a loving home, and the city that I was raised in wasn't an easy decision. The extravagance of it all tends to overshadow the practical elements. But traveling has been a burning desire in the pit of my soul for as long as I can remember. For me, uncertainty is a slippery slope to anxiety. For me, there's value in consistency. And yet, simultaneously for me, two weeks in a single foreign place would never be enough. 
+
+![img403.jpg](/uploads/img403.jpg)
 
 The world has always been a marvel I’ve been dying to see, and life seems so much shorter the longer I live it. 
 
