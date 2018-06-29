@@ -89,6 +89,8 @@ How many times do we put down the pen - too afraid to commit to simply starting?
 
 ### If owning our passions is the spark, then owning our abilities is the wind that turns it to fire. 
 
+![IMG_0983-1.jpg](/uploads/IMG_0983-1.jpg)
+
 The marriage of the two breathes life into our imagination and ignites action into our daydreams. Sometimes, this means taking the simple, staggering first step - making the cold call, hiring another to do what they’re stronger at, or even uttering your secret desire into existence. Other times, this work is the getting-dirt-under-your-fingernails kind of gritty. It can mean finally facing the false truths following you around, or making the daily, inch-by-inch crawl toward the marathon you’re in the middle of. 
 
 ### In any case, it asks our guts to shift the question from, “What are we capable of?” to, “What are we not?”
