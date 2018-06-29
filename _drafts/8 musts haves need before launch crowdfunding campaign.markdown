@@ -47,7 +47,7 @@ Whether your aim is to sell self-published comic books or launch a high end clot
 
 Once you’ve budgeted an approximate funding goal value that will empower you to accomplish your goals, add 10 - 15% more for unforeseen challenges. 
 
-![sylvie-tittel-673974-unsplash-1.jpg](/uploads/sylvie-tittel-673974-unsplash-1.jpg)
+![norbert-levajsics-184730-unsplash-1.jpg](/uploads/norbert-levajsics-184730-unsplash-1.jpg)
 
 #### Create rewards your community will love.
 
@@ -67,7 +67,7 @@ You’ll be able to upload videos, media, quotes, and various engaging pieces of
 
 Share it across your social media pages, through email communication, and on your website. Go through past campaigns that have reached their goal, and take notes on project page elements you find impactful. ([Boulder Denim](https://www.kickstarter.com/projects/bradspence/boulder-denim-ultra-stretch-stain-resistant-premiu) did this stupendously with their video, photos, graphic design, and layout of their project page.) Focus on picture collages, graphics, paragraph styles, lists, and storytelling flow. You’re designing a user experience, so create something people will fall in love with.
 
-![norbert-levajsics-184730-unsplash-1.jpg](/uploads/norbert-levajsics-184730-unsplash-1.jpg)
+![sylvie-tittel-673974-unsplash-1.jpg](/uploads/sylvie-tittel-673974-unsplash-1.jpg)
 
 #### Strategize authentic cross-platform engagement in the main places your community gathers.
 
