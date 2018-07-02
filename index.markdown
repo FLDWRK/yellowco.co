@@ -13,8 +13,6 @@ sm-banners:
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
 buttons:
-- text: Tour
-  link: "/tour"
 - text: Membership
   link: "/membership"
 - text: Conference
