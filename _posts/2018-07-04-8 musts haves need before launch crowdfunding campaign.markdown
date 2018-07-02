@@ -1,5 +1,5 @@
 ---
-title: The 8 Must-Haves You Need Before Launching Your (Successful) Crowdfunding Campaign
+title: The 8 Must-Haves You Need Before Launching Your Crowdfunding Campaign
 date: 2018-07-04 04:00:00 -07:00
 categories:
 - Entrepreneurs
