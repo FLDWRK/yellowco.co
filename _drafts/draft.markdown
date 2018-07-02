@@ -42,4 +42,4 @@ Getting past unsupportive words is about committing to your truth. It means know
 
 The money will come. The job listings will continue to be posted. The work will eventually get done. But your time will never come back. So be sure that the life you're living is truly the one you want to be. 
 
-_Photos by [Summer Staeb](https://www.instagram.com/summerstaeb/)_ 
+_Photos by [Summer Staeb](https://www.summerstaeb.com/)_ 
