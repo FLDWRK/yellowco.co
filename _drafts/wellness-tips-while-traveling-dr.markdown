@@ -1,6 +1,5 @@
 ---
-title: How to Nurture Your Wellness While Traveling - wellness tips while traveling
-  dr
+title: 3 Ways to Prioritize Wellness While Traveling This Summer
 date: 2018-07-11 04:00:00 -07:00
 author: Melanie Loon
 ---
