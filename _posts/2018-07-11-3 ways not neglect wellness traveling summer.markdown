@@ -1,6 +1,8 @@
 ---
 title: 3 Ways Not to Neglect Your Wellness While Traveling This Summer
 date: 2018-07-11 04:00:00 -07:00
+categories:
+- Health
 author: Melanie Loon
 image: "/uploads/andre-benz-283764-unsplash-1.jpg"
 series: Ability
