@@ -5,7 +5,7 @@ date: 2018-07-09 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
-image: "/uploads/three-stone-ring-1.jpg"
+image: "/uploads/mix-diamond-cuff-2.jpg"
 series: Ability
 ---
 
@@ -31,7 +31,7 @@ I would say curiosity is the force that drives me to create change – I always 
 
 ### Once you’ve identified the root, you can build an entirely new way of doing things from the ground up. 
 
-![oval-ring-sl-2.jpg](/uploads/oval-ring-sl-2.jpg)
+![esentialsrings_m_1-ff6bac.jpg](/uploads/esentialsrings_m_1-ff6bac.jpg)
 
 ###### Have there been any moments where you have doubted your abilities? If so, how were you able to move past them?
 
@@ -45,7 +45,7 @@ Los Angeles is going through a transition and it has this amazing energy that fo
 
 When you’re passionate about what you do, your work is no longer "work". You’re on a mission to create something with meaning and purpose, and it’s nearly impossible to separate that intention from your personal life. 
 
-![dot-cuff-ring-1.jpg](/uploads/dot-cuff-ring-1.jpg)
+![three-stone-ring-1.jpg](/uploads/three-stone-ring-1.jpg)
 
 ###### What does the name Vrai & Oro mean, and why did you choose it for the brand?
 
