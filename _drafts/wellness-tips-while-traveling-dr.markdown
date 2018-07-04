@@ -1,5 +1,5 @@
 ---
-title: 3 Ways to Prioritize Wellness While Traveling This Summer
+title: 3 Ways Not to Neglect Your Wellness While Traveling This Summer
 date: 2018-07-11 04:00:00 -07:00
 author: Melanie Loon
 image: "/uploads/samuel-zeller-144543-unsplash-1.jpg"
