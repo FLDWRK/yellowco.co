@@ -1,6 +1,8 @@
 ---
 title: imposter syndrome draft
 date: 2018-07-13 04:00:00 -07:00
+categories:
+- Growth
 author: Kari Enge
 image: "/uploads/168200-R1-15.jpg"
 series: Ability
