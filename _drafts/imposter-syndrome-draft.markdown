@@ -26,8 +26,6 @@ If you have ever felt any of these things, then you may have told yourself: “W
 
 ![168200-R1-12.jpg](/uploads/168200-R1-12.jpg)
 
-So procrastinating, over-analyzing and over-perfecting won’t get us anywhere.
-
 I would be lying to you if I said there was an easy fix to the, "I'm not good enough," lie. Just like getting in shape, overcoming the lie doesn’t happen overnight. It takes constant work to maintain the right mindset to not fall off the wagon into old self-sabotaging ways of thinking. 
 
 The first step to overcoming your feelings of inadequacy is to define those feelings as lies. Once you can recognize your negative self-talk as inaccurate, you will be much more capable of fighting against imposter syndrome when it starts to whisper in your ear and distract you. 
