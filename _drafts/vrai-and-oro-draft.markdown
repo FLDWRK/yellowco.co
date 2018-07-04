@@ -8,6 +8,8 @@ image: "/uploads/mix-diamond-cuff-2.jpg"
 series: Ability
 ---
 
+_So I found myself with the urge to live through this lifecycle from start to finish. I was curious as to why I didn’t wear much jewelry, and realized that nothing truly connected to me in the industry, so I set out to design something that would.So I found myself with the urge to live through this lifecycle from start to finish. I was curious as to why I didn’t wear much jewelry,_
+
 ###### Tell us a bit about your background and what led you to founding [Vrai & Oro](https://vraiandoro.com/)!
 
 I actually don’t have a background in jewelry. I studied graphic design and founded a boutique branding studio where I spent a few years designing brand identities for small companies and startups.  
