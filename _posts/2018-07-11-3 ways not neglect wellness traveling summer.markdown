@@ -3,6 +3,7 @@ title: 3 Ways Not to Neglect Your Wellness While Traveling This Summer
 date: 2018-07-11 04:00:00 -07:00
 author: Melanie Loon
 image: "/uploads/andre-benz-283764-unsplash-1.jpg"
+series: Ability
 ---
 
 It doesn’t fit into our Eat Pray Love dreams, but sometimes travel can leave us feeling like we need a vacation from a vacation. Still, the value of exploration is something that can’t be quantified. It refreshes the mind, ushers us out of our comfort zones, and recharges our sense of awe and global community. Whether you’re going on a short staycation or have been planning for a few weeks abroad, preparing to take good care of your wellness can curb the inevitable hiccups that come with traveling.
