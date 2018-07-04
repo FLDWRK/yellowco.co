@@ -72,4 +72,4 @@ My favorite part of the day is the morning when I sit down at my desk with a cup
 
 “In the beginner’s mind there are many possibilities, but in the expert’s there are few.” ― Shunryu Suzuki 
 
-_Photos courtesy of Vrai & Oro_
+_Photos courtesy of [Vrai & Oro](https://vraiandoro.com/)_
