@@ -24,6 +24,8 @@ If you have ever felt any of these things, then you may have told yourself: “W
 
 ### But the real problem is that imposter syndrome will keep finding its way into the conversation no matter what level of success we will achieve. 
 
+![168200-R1-12.jpg](/uploads/168200-R1-12.jpg)
+
 So procrastinating, over-analyzing and over-perfecting won’t get us anywhere.
 
 I would be lying to you if I said there was an easy fix to the, "I'm not good enough," lie. Just like getting in shape, overcoming the lie doesn’t happen overnight. It takes constant work to maintain the right mindset to not fall off the wagon into old self-sabotaging ways of thinking. 
@@ -33,6 +35,8 @@ The first step to overcoming your feelings of inadequacy is to define those feel
 ### When I feel like I am not good enough I ask myself, “Do I hold others to the same standard I am holding myself to right now?” 
 
 I had a coaching client who makes meaningful nursery prints that support mothers in need with transportation so they can lift themselves and their young children out of poverty. My client wanted to create a free guide to help potential customers design their nurseries, but felt like, “Who am I to create this guide? I am not a designer… my house doesn’t even look that good… what will my friends and family think of me?!” So I asked her, “Do you care if you see a beautifully designed nursery on Pinterest or a helpful article about nursery design, and the author is not a trained designer?” Her answer was a resounding, “NO.”
+
+![168200-R1-16.jpg](/uploads/168200-R1-16.jpg)
 
 In most cases, we as customers tend to care more about how people and products can help us, rather than searching LinkedIn for their credentials. So, practice cutting yourself some slack by holding yourself to the standard you hold others to in your respective field. Then, identify the rest as a big fat lie.
 
