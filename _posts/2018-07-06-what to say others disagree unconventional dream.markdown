@@ -1,5 +1,5 @@
 ---
-title: What to Say When Others Disagree with Your Unconventional Dream Life
+title: What to Say When Others Disagree with Your Unconventional Dream
 date: 2018-07-06 04:00:00 -07:00
 categories:
 - Relationships
