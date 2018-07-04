@@ -45,3 +45,5 @@ The second trick I use is a little harder, but extremely effective: do the thing
 Taking small actions in a direct attempt to tell fear to kindly step aside is really scary and uncomfortable, but that’s exactly why it works. It shows you that you can move forward where fear is still present, and that you can make progress when you are scared.
 
 Imposter syndrome is something we all deal with, and it’s something we will all continually encounter as we put ourselves out there. But by defining it, recognizing its lies, and taking action steps in a direct attempt to move through fear, we can rise above our feelings of inadequacy. Remember, you are good enough, right this very second. Don’t let anything hold you back from working toward the life, business and impact you wish to have. Take a small but bold step. And take it today.
+
+_Photos by [Summer Staeb](https://www.summerstaeb.com/)_ 
