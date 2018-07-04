@@ -1,5 +1,6 @@
 ---
-title: vrai & oro draft
+title: 'How This Founder Is Using Her Personal Values to Reshape the Jewelry Industry:
+  Our Interview with Vrai & Oro'
 date: 2018-07-09 04:00:00 -07:00
 categories:
 - Entrepreneurs
