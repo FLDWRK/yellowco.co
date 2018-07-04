@@ -5,20 +5,21 @@ author: Kari Enge
 series: Ability
 ---
 
-No matter your type of work, you are probably experiencing a form of imposter syndrome right now. And most likely, its sneaky little lies are holding you back more than you are even aware of. But what would happen if you were able to fight back against the lie that you are inadequate? To finally escape what is entangling you to go for your dreams with confidence?
+No matter your type of work, you are probably experiencing some form of imposter syndrome right now. And most likely, its sneaky little lies are holding you back more than you are even aware of. But what would happen if you were able to fight back against the lie that you are inadequate? To finally escape what is entangling you to go for your dreams with confidence?
 
 For all of us, this would mean more inspired, fulfilled women doing impactful work they truly love. And that is darn good for you, me, and the world. The key is understanding what imposter syndrome really is and how we can actually overcome it.
 
-What is imposter syndrome?
+##### What really is imposter syndrome?
 
 Imposter syndrome has its subtleties, but the most common type I find in myself and the other women I work with is an ongoing internal conversation we have with ourselves about our lack of credibility and experience, which feels like inadequacy or phoniness. Have you ever felt any of the following?
-Confused (lack of clarity around a clear direction forward)
-Cluttered (trouble seeing the simplest and easiest solution)
-Stressed (worried about how others will view you)
-Hypocritical (like your friends and family will think you are not authentic)
 
-Not ready (like A and B need to line up before you can do C)
-If you have ever felt any of these things, then you may have told yourself: “Who am I to _____?” Or, “Once I am able to _____, then I will finally be able to_____.” This "I am not ready yet" mentality is actually the main root of imposter syndrome. And it means that deep down, we believe that we are not good enough as we are right now.
+- Confused (lack of clarity around a clear direction forward)  
+- Cluttered (trouble seeing the simplest and easiest solution)  
+- Stressed (worried about how others will view you)  
+- Hypocritical (like your friends and family will think you are not authentic)  
+- Not ready (like A and B need to line up before you can do C)
+
+If you have ever felt any of these things, then you may have told yourself: “Who am I to ____?” Or, “Once I am able to _____, then I will finally be able to_____.” This "I am not ready yet" mentality is actually the main root of imposter syndrome. And it means that deep down, we believe that we are not good enough as we are right now.
 
 So we wait, and we wait. We might not work on our creative ideas at all - or we might subconsciously over-analyze and over-perfect. But the real problem is that imposter syndrome will keep finding its way into the conversation no matter what level of success we will achieve. So procrastinating, over-analyzing and over-perfecting won’t get us anywhere.
 
