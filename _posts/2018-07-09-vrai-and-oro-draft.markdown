@@ -5,7 +5,7 @@ date: 2018-07-09 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
-image: "/uploads/dot-cuff-ring-1.jpg"
+image: "/uploads/three-stone-ring-1.jpg"
 series: Ability
 ---
 
