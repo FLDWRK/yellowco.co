@@ -17,6 +17,8 @@ A little planning goes a long way for making sure an itinerary goes smoothly, bu
 
 ### Leave space on the path and it’ll invite you to experience things you couldn’t plan to see.
 
+![angelo-pantazis-631030-unsplash-1.jpg](/uploads/angelo-pantazis-631030-unsplash-1.jpg)
+
 #### Make Time To Reset
 
 Resetting isn’t the point of every trip, but if you’re traveling with a group, do plan some time to let your mind run free. Alone time comes naturally to me as an introvert, but while traveling I’m a lot more pack-oriented and don’t stray much from a group, so this time is something I have to plan as part of my days. The early morning invites you to a good cup of coffee alone with your journal, or a workout that will get you energized for the day to come! Don’t let it slip by. Try winding down at the end of the day by doodling your stream of consciousness of everything you saw and heard.
@@ -25,10 +27,12 @@ Has your daily routine been giving you basically no time to think? Maybe it’s 
 
 #### Bring Travel Home With You
 
-The fun part! I wish I could bring the sunsets home from Mexico, and literally everything touched by humans in Denmark. But alas, some things don’t fit in your bag and shouldn’t. The best souvenirs are, yes, memories, but what do you like bringing home? Pages of your journal with new words you’ve learned in Hungarian? Postcards with traditional art on them? Chocolates? Random beauty products? No object is really a token sealing in your experience, but sometimes a lip balm with another language on it keeps some of the wanderlust magic and saves it for later.
+The fun part! I wish I could bring the sunsets home from Mexico, and literally everything touched by humans in Denmark. But alas, some things don’t fit in your bag and shouldn’t. The best souvenirs are, yes, memories, but what do you like bringing home? Pages of your journal with new words you’ve learned in Hungarian? Postcards with traditional art on them? Chocolates? Random beauty products? 
 
-I say take a break from minimalism and embrace whatever cute, small mementos you can gift or use to tuck your new experiences into your work bag. You’ll always feel like you’re on your way to something new, even if it’s just returning to your routine.
+![alex-block-604697-unsplash-1.jpg](/uploads/alex-block-604697-unsplash-1.jpg)
 
-I’ve personally really liked using postcards from other places as bookmarks for later reading about history and culture, or taking advantage of the power of olfactory memory with tiny candles… or perfume I’ve sadly turned out to be allergic to. You win some and you lose some, but it’s worth exploring what you enjoy!
+### No object is really a token sealing in your experience, but sometimes a lip balm with another language on it keeps some of the wanderlust magic and saves it for later.
+
+I say take a break from minimalism and embrace whatever cute, small mementos you can gift or use to tuck your new experiences into your work bag. You’ll always feel like you’re on your way to something new, even if it’s just returning to your routine. I’ve personally really liked using postcards from other places as bookmarks for later reading about history and culture, or taking advantage of the power of olfactory memory with tiny candles… or perfume I’ve sadly turned out to be allergic to. You win some and you lose some, but it’s worth exploring what you enjoy!
 
 Trekking over hills and valleys to new sights can come with hiccups, hang-ups, and sometimes wishing to be home, but the expanded sense of vision and love for life is worth all of the above. Nurturing our wellness requires some practice at home, and it’s the same while away. Find the things that give you rest or quiet refreshment, and make time and space for them. It’ll only support and refresh you as you seek a new perspective elsewhere.
