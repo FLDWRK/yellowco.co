@@ -50,14 +50,6 @@ When you’re passionate about what you do, your work is no longer "work". You�
 
 Vrai & Oro means "truth" in French and "gold" in Spanish. Truth is an intangible ideal that we’re always striving for and gold is a fundamental element that’s tangible and real. The two words symbolize what we strive to create in our jewelry – a combination of a larger concept with a physical product. 
 
-###### Are there any books, tools, or resources that have impacted you recently?
-
-Would mediation be considered a tool? :) If so, that’s what keeps me grounded, self-aware and consistent. 
-
-###### What is your favorite part of the day at Vrai & Oro?
-
-My favorite part of the day is the morning when I sit down at my desk with a cup of tea. Every day is different so it’s like flipping the page in a book you can’t put down. You don’t know what to expect, but you’re excited to see what happens next. 
-
 ###### Many of us struggle with not feeling truly confident in our abilities to take on the dreams we want to. What advice would you give to any woman currently dealing with this?
 
 I think the fear of failure is the biggest hurdle women face when deciding whether to take on their dreams or play it safe. 
@@ -65,6 +57,16 @@ I think the fear of failure is the biggest hurdle women face when deciding wheth
 ### But if we can change our mindsets to see failure as an opportunity, we become unstoppable. 
 
 I believe we learn more in our failures than our successes – it’s like touching a hot stove, we have to get burned to understand how it feels and then we can grow and quickly move on. 
+
+![unnamed-1.jpg](/uploads/unnamed-1.jpg)
+
+###### Are there any books, tools, or resources that have impacted you recently?
+
+Would mediation be considered a tool? :) If so, that’s what keeps me grounded, self-aware and consistent. 
+
+###### What is your favorite part of the day at Vrai & Oro?
+
+My favorite part of the day is the morning when I sit down at my desk with a cup of tea. Every day is different so it’s like flipping the page in a book you can’t put down. You don’t know what to expect, but you’re excited to see what happens next. 
 
 ###### Do you have a favorite quote or mantra for your life?
 
