@@ -1,12 +1,9 @@
 ---
-title: wellness tips while traveling dr
+title: How to Nurture Your Wellness While Traveling - wellness tips while traveling
+  dr
 date: 2018-07-11 04:00:00 -07:00
 author: Melanie Loon
 ---
-
-How to Nurture Your Wellness While Traveling
-Yellow - Ability
-Melanie Loon
 
 It doesn’t fit into our Eat Pray Love dreams, but sometimes travel can leave us feeling like we need a vacation from a vacation.
 
@@ -16,7 +13,7 @@ Whether you’re going on a short staycation or have been planning for a few wee
 
 Here are a few things you can do before, during and after to make the most of your time away:
 
-Don’t Try to Pack It All In
+#### Don’t Try to Pack It All In
 
 You already know not to do this with your suitcase, but while you’re planning how you’ll get from A to B and if you can afford to squeeze in C, remember you don’t have to pack every experience in this experience.
 
@@ -37,7 +34,6 @@ The early morning invites you to a good cup of coffee alone with your journal, o
 
 Has your daily routine been basically giving you no time to think? Maybe it’s the beginning of the day or maybe it’s the afternoon when everyone comes back inside after a swim, but claim the time to just settle and reflect.
 
-
 Bring Travel Home With You
 
 The fun part! I wish I could bring the sunsets home from Mexico, and literally everything touched by humans in Denmark. But alas, some things don’t fit in your bag and shouldn’t.
@@ -51,7 +47,6 @@ No object is really a token sealing in your experience, but sometimes a lip balm
 I say take a break from minimalism and embrace whatever cute small mementos you can gift or use to tuck your new experiences into your work bag. You’ll always feel like you’re on your way to something new, even if it’s just returning to your routine.
 
 I’ve personally really liked using postcards from other places as bookmarks for later reading about history and culture, or taking advantage of the power of olfactory memory with tiny candles…or perfume I’ve sadly turned out to be allergic to. You win some and you lose some, but it’s worth exploring what you enjoy!
-
 
 Trekking over hills and valleys to new sights can come with hiccups, hang-ups and sometimes wishing to be home, but the expanded sense of vision and love for life is worth all of the above.
 
