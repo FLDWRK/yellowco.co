@@ -70,6 +70,7 @@ My favorite part of the day is the morning when I sit down at my desk with a cup
 
 ###### Do you have a favorite quote or mantra for your life?
 
-“In the beginner’s mind there are many possibilities, but in the expert’s there are few.” ― Shunryu Suzuki 
+“In the beginner’s mind there are many possibilities, but in the expert’s there are few.”  
+― Shunryu Suzuki 
 
 _Photos courtesy of [Vrai & Oro](https://vraiandoro.com/)_
