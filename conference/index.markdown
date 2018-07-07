@@ -197,6 +197,9 @@ sponsors:
 - title: The Good Trade
   image: "/uploads/Good-Trade.png"
   link: http://www.thegoodtrade.com/
+- title: Raven & Lily
+  image: "/uploads/R&L.png"
+  link: https://www.ravenandlily.com/
 layout: custom/conference
 ---
 
