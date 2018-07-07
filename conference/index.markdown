@@ -218,6 +218,9 @@ sponsors:
 - title: Bees Wrap
   image: "/uploads/Bees-Wrap.png"
   link: https://beeswrap.com/
+- title: Eco Bags
+  image: "/uploads/ECO-BAGS.png"
+  link: https://www.ecobags.com/
 layout: custom/conference
 ---
 
