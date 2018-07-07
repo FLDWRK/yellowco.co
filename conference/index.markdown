@@ -200,6 +200,12 @@ sponsors:
 - title: Raven & Lily
   image: "/uploads/R&L.png"
   link: https://www.ravenandlily.com/
+- title: Goodnewspaper
+  image: "/uploads/GOOD-NEWSPAPER.png"
+  link: https://www.goodgoodgood.co/goodnewspaper
+- title: Elate
+  image: "/uploads/Elate.png"
+  link: https://elatebeauty.com/
 layout: custom/conference
 ---
 
