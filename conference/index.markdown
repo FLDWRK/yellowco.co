@@ -188,18 +188,18 @@ sponsors:
 - title: In Lieu
   image: "/uploads/In-Leiu-7b59b3.png"
   link: https://www.inlieu.com/
-- title: Hail Merry
-  image: "/uploads/Hail-Merry.png"
-  link: https://hailmerry.com/
+- title: Raven & Lily
+  image: "/uploads/R&L.png"
+  link: https://www.ravenandlily.com/
 - title: Restore Blank
   image: "/uploads/Restore-Blank.png"
   link: https://restoreblank.com/
 - title: Bev
   image: "/uploads/Bev-40c9d3.png"
   link: https://drinkbev.com/
-- title: Raven & Lily
-  image: "/uploads/R&L.png"
-  link: https://www.ravenandlily.com/
+- title: Hail Merry
+  image: "/uploads/Hail-Merry.png"
+  link: https://hailmerry.com/
 - title: Bogo Brush
   image: "/uploads/Bogo.png"
   link: https://www.bogobrush.com/
