@@ -215,6 +215,9 @@ sponsors:
 - title: Cocos Organics
   image: "/uploads/Cocos.png"
   link: https://www.cocos-organics.com/
+- title: Bees Wrap
+  image: "/uploads/Bees-Wrap.png"
+  link: https://beeswrap.com/
 layout: custom/conference
 ---
 
