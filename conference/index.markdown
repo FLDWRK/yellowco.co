@@ -182,9 +182,9 @@ sponsors:
 - title: Pur Gum
   image: "/uploads/PUR_Logo.png"
   link: http://thepurcompany.com/
-- title: Fawen Soup
-  image: "/uploads/Fawen_Logo.png"
-  link: https://drinkfawen.com/?gclid=EAIaIQobChMIrq-sjYHo2wIVAo3ICh1lcQFaEAAYASAAEgIeAvD_BwE
+- title: Bev
+  image: "/uploads/Bev.png"
+  link: https://drinkbev.com/
 - title: Siren Snacks
   image: "/uploads/Siren%20Snacks%20Logo.png"
   link: https://www.sirensnacks.com/
