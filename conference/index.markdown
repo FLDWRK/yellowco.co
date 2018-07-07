@@ -186,7 +186,7 @@ sponsors:
   image: "/uploads/Bev.png"
   link: https://drinkbev.com/
 - title: In Lieu
-  image: "/uploads/In-Leiu.png"
+  image: "/uploads/In-Leiu-7b59b3.png"
   link: https://www.inlieu.com/
 - title: Hail Merry
   image: "/uploads/Hail-Merry.png"
