@@ -185,9 +185,9 @@ sponsors:
 - title: Bev
   image: "/uploads/Bev.png"
   link: https://drinkbev.com/
-- title: Siren Snacks
-  image: "/uploads/Siren%20Snacks%20Logo.png"
-  link: https://www.sirensnacks.com/
+- title: In Lieu
+  image: "/uploads/In-Leiu.png"
+  link: https://www.inlieu.com/
 layout: custom/conference
 ---
 
