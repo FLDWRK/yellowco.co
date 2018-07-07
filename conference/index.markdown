@@ -188,6 +188,12 @@ sponsors:
 - title: In Lieu
   image: "/uploads/In-Leiu.png"
   link: https://www.inlieu.com/
+- title: Hail Merry
+  image: "/uploads/Hail-Merry.png"
+  link: https://hailmerry.com/
+- title: Restore Blank
+  image: "/uploads/Restore-Blank.png"
+  link: https://restoreblank.com/
 layout: custom/conference
 ---
 
