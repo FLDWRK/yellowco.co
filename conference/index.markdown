@@ -194,6 +194,9 @@ sponsors:
 - title: Restore Blank
   image: "/uploads/Restore-Blank.png"
   link: https://restoreblank.com/
+- title: The Good Trade
+  image: "/uploads/Good-Trade.png"
+  link: http://www.thegoodtrade.com/
 layout: custom/conference
 ---
 
