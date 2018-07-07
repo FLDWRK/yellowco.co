@@ -206,6 +206,9 @@ sponsors:
 - title: Elate
   image: "/uploads/Elate.png"
   link: https://elatebeauty.com/
+- title: Bogo Brush
+  image: "/uploads/Bogo.png"
+  link: https://www.bogobrush.com/
 layout: custom/conference
 ---
 
