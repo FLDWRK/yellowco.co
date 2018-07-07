@@ -221,9 +221,12 @@ sponsors:
 - title: Eco Bags
   image: "/uploads/ECO-BAGS.png"
   link: https://www.ecobags.com/
-- title: 
+- title: Happy Spritz
   image: "/uploads/Happy-Spritz.png"
-  link: 
+  link: https://happyspritz.com/
+- title: Soulfull Project
+  image: "/uploads/SoulFull-Project.png"
+  link: " https://thesoulfullproject.com/"
 layout: custom/conference
 ---
 
