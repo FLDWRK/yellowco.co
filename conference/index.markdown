@@ -176,18 +176,18 @@ sponsors:
 - title: Alaska Airlines
   image: "/uploads/AA-Airlines.png"
   link: https://alaskaair.com
-- title: Matchabar
-  image: "/uploads/yc2018-sponsors-matchabar.png"
-  link: https://matchabarnyc.com/
+- title: In Lieu
+  image: "/uploads/In-Leiu-7b59b3.png"
+  link: https://www.inlieu.com/
 - title: Pur Gum
   image: "/uploads/PUR_Logo.png"
   link: http://thepurcompany.com/
 - title: The Good Trade
   image: "/uploads/Good-Trade.png"
   link: http://www.thegoodtrade.com/
-- title: In Lieu
-  image: "/uploads/In-Leiu-7b59b3.png"
-  link: https://www.inlieu.com/
+- title: Matchabar
+  image: "/uploads/MatchaBar_Logo.png"
+  link: https://matchabarnyc.com/
 - title: Raven & Lily
   image: "/uploads/R&L.png"
   link: https://www.ravenandlily.com/
@@ -221,6 +221,9 @@ sponsors:
 - title: Eco Bags
   image: "/uploads/ECO-BAGS.png"
   link: https://www.ecobags.com/
+- title: 
+  image: "/uploads/Happy-Spritz.png"
+  link: 
 layout: custom/conference
 ---
 
