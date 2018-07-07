@@ -182,9 +182,9 @@ sponsors:
 - title: Pur Gum
   image: "/uploads/PUR_Logo.png"
   link: http://thepurcompany.com/
-- title: Bev
-  image: "/uploads/Bev-40c9d3.png"
-  link: https://drinkbev.com/
+- title: The Good Trade
+  image: "/uploads/Good-Trade.png"
+  link: http://www.thegoodtrade.com/
 - title: In Lieu
   image: "/uploads/In-Leiu-7b59b3.png"
   link: https://www.inlieu.com/
@@ -194,21 +194,27 @@ sponsors:
 - title: Restore Blank
   image: "/uploads/Restore-Blank.png"
   link: https://restoreblank.com/
-- title: The Good Trade
-  image: "/uploads/Good-Trade.png"
-  link: http://www.thegoodtrade.com/
+- title: Bev
+  image: "/uploads/Bev-40c9d3.png"
+  link: https://drinkbev.com/
 - title: Raven & Lily
   image: "/uploads/R&L.png"
   link: https://www.ravenandlily.com/
+- title: Bogo Brush
+  image: "/uploads/Bogo.png"
+  link: https://www.bogobrush.com/
 - title: Goodnewspaper
   image: "/uploads/GOOD-NEWSPAPER.png"
   link: https://www.goodgoodgood.co/goodnewspaper
 - title: Elate
   image: "/uploads/Elate.png"
   link: https://elatebeauty.com/
-- title: Bogo Brush
-  image: "/uploads/Bogo.png"
-  link: https://www.bogobrush.com/
+- title: Imani Collective
+  image: "/uploads/Imani.png"
+  link: https://imanicollective.com/
+- title: Cocos Organics
+  image: "/uploads/Cocos.png"
+  link: https://www.cocos-organics.com/
 layout: custom/conference
 ---
 
