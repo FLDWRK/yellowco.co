@@ -183,7 +183,7 @@ sponsors:
   image: "/uploads/PUR_Logo.png"
   link: http://thepurcompany.com/
 - title: Bev
-  image: "/uploads/Bev.png"
+  image: "/uploads/Bev-40c9d3.png"
   link: https://drinkbev.com/
 - title: In Lieu
   image: "/uploads/In-Leiu-7b59b3.png"
