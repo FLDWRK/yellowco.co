@@ -95,10 +95,9 @@ values:
     * Various discounts & vouchers for products we love!
   image: "/assets/images/membership-packet.jpg"
 benefits:
-- Exclusive ticket prices for annual conference and workshops
+- Exclusive ticket prices for annual conference and events
 - Discounts to partnering do-good resources and products
 - Free shipping in the US
-- Cancel anytime, hassle free
 impact:
   title: Your membership is making an impact
   description: Your membership helps employ at-risk youth, empower women globally,
