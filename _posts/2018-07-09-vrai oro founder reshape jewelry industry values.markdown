@@ -9,7 +9,7 @@ image: "/uploads/mix-diamond-cuff-2.jpg"
 series: Ability
 ---
 
-_Today on the blog we're chatting with Vanessa Stofenmacher, founder of Vrai & Oro, an LA- based jewelry line founded on three key values: quality, simplicity, and transparency. By creating high quality, elegantly designed pieces while cutting down on typical high markups, Vrai & Oro is on a mission to expose the flaws within the jewelry industry, and reshape them into something more beautiful, and more honest. Hear more from Vanessa in our interview with her below!_
+_Today on the blog we're chatting with Vanessa Stofenmacher, founder of [Vrai & Oro](https://vraiandoro.com/), an LA-based jewelry line founded on three key values: quality, simplicity, and transparency. By creating high quality, elegantly designed pieces while cutting down on typical high markups, Vrai & Oro is on a mission to expose the flaws within the jewelry industry, and reshape them into something more beautiful, and more honest. Hear more from Vanessa in our interview with her below!_
 
 ###### Tell us a bit about your background and what led you to founding [Vrai & Oro](https://vraiandoro.com/)!
 
