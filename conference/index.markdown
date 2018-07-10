@@ -64,6 +64,10 @@ speakers:
   image: "/uploads/Liz-Skalla.jpg"
   title: Co-founder, GIVN Goods
   link: https://www.givnwater.com/
+- name: Susan O'Brien
+  image: "/uploads/HailMerry8452_susan.tif"
+  title: Founder, Hail Merry
+  link: https://hailmerry.com/
 - name: Stay tuned for more speaker & panelist announcements!
   image: "/uploads/More-To-Come-05-05.png"
   title: 
