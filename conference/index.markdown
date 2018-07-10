@@ -53,19 +53,19 @@ speakers:
   title: Creative Director, Stylist & Body Positivity Advocate
   link: https://www.instagram.com/alexmichaelmay/
 - name: AmyAnn Cadwell, Panelist
-  image: "/uploads/Amy-Ann-01.png"
+  image: "/uploads/Amy-Ann.jpeg"
   title: Co-Founder The Good Trade
   link: http://www.thegoodtrade.com/
 - name: Kathy Terry, Panelist
-  image: "/uploads/Kathry-Terry-01.png"
+  image: "/uploads/Kathy.jpeg"
   title: Founder, InLieu App
   link: https://www.inlieu.com/
 - name: Liz Skalla, Panelist
-  image: "/uploads/Liz-Skalla-05.png"
+  image: "/uploads/Liz-Skalla.jpg"
   title: Co-founder, GIVN Goods
   link: https://www.givnwater.com/
 - name: Stay tuned for more speaker announcements!
-  image: "/uploads/More-To-Come-05.png"
+  image: "/uploads/More-To-Come-05-05.png"
   title: 
   link: 
 speakers-teaser: _(more speakers will be announced soon!)_
