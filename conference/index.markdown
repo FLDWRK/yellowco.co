@@ -52,10 +52,6 @@ speakers:
   image: "/uploads/yc2018-speakers-alex-michael-may.jpg"
   title: Creative Director, Stylist & Body Positivity Advocate
   link: https://www.instagram.com/alexmichaelmay/
-- name: AmyAnn Cadwell, Panelist
-  image: "/uploads/Amy-Ann.jpeg"
-  title: Co-Founder The Good Trade
-  link: http://www.thegoodtrade.com/
 - name: Kathy Terry, Panelist
   image: "/uploads/Kathy.jpeg"
   title: Founder, InLieu App
@@ -64,6 +60,10 @@ speakers:
   image: "/uploads/Liz-Skalla.jpg"
   title: Co-founder, GIVN Goods
   link: https://www.givnwater.com/
+- name: AmyAnn Cadwell, Panelist
+  image: "/uploads/Amy-Ann.jpeg"
+  title: Co-Founder The Good Trade
+  link: http://www.thegoodtrade.com/
 - name: Susan O'Brien
   image: "/uploads/HailMerry8452_susan.tif"
   title: Founder, Hail Merry
