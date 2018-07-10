@@ -68,8 +68,20 @@ speakers:
   image: "/uploads/HailMerry8452_susan.tif"
   title: Founder, Hail Merry
   link: https://hailmerry.com/
-- name: Stay tuned for more speaker & panelist announcements!
+- name: Stay tuned for more speaker & panellist announcements!
   image: "/uploads/More-To-Come-05-05.png"
+  title: 
+  link: 
+- name: Stay tuned for more speaker & panellist announcements!
+  image: "/uploads/More-To-Come-05-05-57d8cb.png"
+  title: 
+  link: 
+- name: Stay tuned for more speaker & panellist announcements!
+  image: "/uploads/More-To-Come-05-05-7cedfb.png"
+  title: 
+  link: 
+- name: Stay tuned for more speaker & panellist announcements!
+  image: "/uploads/More-To-Come-05-05-5f0dfa.png"
   title: 
   link: 
 speakers-teaser: _(more speakers will be announced soon!)_
