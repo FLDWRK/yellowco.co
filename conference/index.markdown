@@ -64,7 +64,7 @@ speakers:
   image: "/uploads/Liz-Skalla.jpg"
   title: Co-founder, GIVN Goods
   link: https://www.givnwater.com/
-- name: Stay tuned for more speaker announcements!
+- name: Stay tuned for more speaker & panelist announcements!
   image: "/uploads/More-To-Come-05-05.png"
   title: 
   link: 
