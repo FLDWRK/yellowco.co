@@ -1,5 +1,5 @@
 ---
-title: imposter syndrome draft
+title: Is This Fear Holding You Back from Taking Your Work to the Next Level?
 date: 2018-07-13 04:00:00 -07:00
 categories:
 - Growth
@@ -8,7 +8,7 @@ image: "/uploads/168200-R1-15.jpg"
 series: Ability
 ---
 
-No matter your type of work and how successful you are, it's not uncommon to experience some form of imposter syndrome. And most likely if you are, its sneaky little lies are holding you back more than you are even aware of. But what would happen if you were able to fight back against the lie that you are inadequate? To escape what is entangling you to go further with your dreams with confidence?
+No matter your type of work and how successful you are, it's not uncommon to experience some form of impostor syndrome. And most likely if you are, its sneaky little lies are holding you back more than you are even aware of. But what would happen if you were able to fight back against the lie that you are inadequate? To escape what is entangling you to go further with your dreams with confidence?
 
 For all of us, this would mean more inspired, fulfilled women doing impactful work they truly love. And that is darn good for you, me, and the world. The key is understanding what imposter syndrome really is and how we can actually overcome it.
 
