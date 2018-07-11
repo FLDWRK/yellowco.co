@@ -8,11 +8,11 @@ image: "/uploads/168200-R1-15.jpg"
 series: Ability
 ---
 
-No matter your type of work, you are probably experiencing some form of imposter syndrome right now. And most likely, its sneaky little lies are holding you back more than you are even aware of. But what would happen if you were able to fight back against the lie that you are inadequate? To finally escape what is entangling you to go for your dreams with confidence?
+No matter your type of work and how successful you are, it's not uncommon to experience some form of imposter syndrome. And most likely if you are, its sneaky little lies are holding you back more than you are even aware of. But what would happen if you were able to fight back against the lie that you are inadequate? To escape what is entangling you to go further with your dreams with confidence?
 
 For all of us, this would mean more inspired, fulfilled women doing impactful work they truly love. And that is darn good for you, me, and the world. The key is understanding what imposter syndrome really is and how we can actually overcome it.
 
-##### What really is imposter syndrome?
+##### What actually is imposter syndrome?
 
 Imposter syndrome has its subtleties, but the most common type I find in myself and the other women I work with is an ongoing internal conversation we have with ourselves about our lack of credibility and experience, which feels like inadequacy or phoniness. Have you ever felt any of the following?
 
