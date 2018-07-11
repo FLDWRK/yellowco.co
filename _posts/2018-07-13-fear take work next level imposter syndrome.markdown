@@ -29,7 +29,7 @@ Impostor syndrome has its subtleties, but the most common type I find in myself 
 - Hypocritical (like your friends and family will think you are not authentic)  
 - Not ready (like A and B need to line up before you can do C)
 
-If you have ever felt any of these things, then you may have told yourself: "Who am I to ____ ?" Or, "Once I am able to ____ , then I will finally be able to ____ ." This "I am not ready yet" mentality is actually the main root of impostor syndrome. And it means that deep down, we believe that we are not good enough as we are right now. So we wait, and we wait. We might not work on our creative ideas at all - or we might subconsciously over-analyze and over-perfect. 
+If you have ever felt any of these things, then you may have told yourself: "Who am I to (blank)?" Or, "Once I am able to (blank), then I will finally be able to (blank)." This "I am not ready yet" mentality is actually the main root of impostor syndrome. And it means that deep down, we believe that we are not good enough as we are right now. So we wait, and we wait. We might not work on our creative ideas at all - or we might subconsciously over-analyze and over-perfect. 
 
 ### But the real problem is that impostor syndrome will keep finding its way into the conversation no matter what level of success we will achieve. 
 
