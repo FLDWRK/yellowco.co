@@ -37,29 +37,29 @@ I interpret these values and apply them in several very practical ways 80% of th
 
 ###### 4. You recently released [your first book about small businesses!](https://www.amazon.com/Magic-Tiny-Business-Great-Living/dp/1523094788) What do you want potential entrepreneurs to take away from your words?
 
-I wrote my book as a bridge into the world of using business as a platform for good; to create the change you want to see in the world. We’re a [Bcorp](https://www.bcorporation.net/), B[est for the World](https://www.bcorporation.net/criteria-the-b-corp-best-the-world-list). I see so many opportunities for “tiny” intentional and laser-focused businesses. 
+I wrote my book as a bridge into the world of using business as a platform for good; to create the change you want to see in the world. I see so many opportunities for “tiny” intentional and laser-focused businesses. 
 
 ### I want potential entrepreneurs to hear that yes, you can make a good living doing good work using business. 
 
 ###### 5. [At Yellow, we believe that work isn’t just a career, but how you find and make meaning in this world.](https://yellowco.co/membership/) What are your views on how to live a holistic, integrated life that blends who we are as individuals with the work we do?
 
-This is what the “magic of tiny business” is. It’s your business to take care of you, so that you can take care of your business. This isn’t easy and it takes discipline.  Here’s a few things to practice
+This is what the “magic of tiny business” is. It’s your business to take care of you, so that you can take care of your business. This isn’t easy and it takes discipline. Here’s a few things to practice:
 
-- Put your well-being practice (yoga, running...etc) into your day as a “business appointment.” Make it non negotiable. Don’t squeeze it in before or after a long day. 
+- Put your well-being practice (yoga, running, etc.) into your day as a “business appointment.” Make it non-negotiable. Don’t squeeze it in before or after a long day. 
 
-- Start your work day at reasonable time and pick and end time and stick with that. Think of yourself as a shop with “regular business hours.” Open 9:30-5:30
+- Start your work day at reasonable time, and pick an end time and stick with it. Think of yourself as a shop with “regular business hours.” Open 9:30-5:30pm.
 
 - Take scheduled breaks from your cell phone and computer.
 
-Remember you are setting up a practice of making your well being a priority.  Conflicts will arise. You don’t need to be perfect.
+Remember you are setting up a practice of making your well being a priority. Conflicts will arise. You don’t need to be perfect.
 
-###### 6. Eco Bags Products is, impressively, a B-Corporation. For any readers who don’t know, what does being a B-corp mean? Why did you prioritize making sure your company met all of these standards?
+###### 6. Eco Bags Products is, impressively, a [B-Corporation](https://www.bcorporation.net/). For any readers who don’t know, what does being a B-corp mean? Why did you prioritize making sure your company met all of these standards?
 
-Since 1989, we have worked to build a business that doesn’t compromise people or planet for profit from the way we source our goods to the suppliers we choose to work with and the way we conduct business.  We became a Bcorp in 2012 and have been certified Best for the World, for many years. Being certified as Bcorp means building an ethical and sustainable business by honoring people and planet while building an asset. If you are a public company being a BCorporation means saying to your shareholders that you won’t put profit in front of people and planet. It’s a very holistic approach and it’s good-for-business.
+Since 1989, we have worked to build a business that doesn’t compromise people or the planet for profit, from the way we source our goods to the suppliers we choose to work with, and the way we conduct business. We became a [Bcorp](https://www.bcorporation.net/) in 2012 and have been certified [Best for the World](https://www.bcorporation.net/criteria-the-b-corp-best-the-world-list) for many years. Being certified as Bcorp means building an ethical and sustainable business by honoring people and the planet while building an asset. If you are a public company, being a B-Corporation means saying to your shareholders that you won’t put profit in front of people and planet. It’s a very holistic approach, and it’s good for business.
 
-###### 7. If you could share one piece of encouragement for any women doubting their abilities to pursue the work/life they dream of, what would it be?
+###### 7. If you could share one piece of encouragement for women about their ability to pursue the work/life they dream of, what would it be?
 
 My advice is always, “Start.” Start from wherever you are. You are enough and you have enough. Building your confidence is like learning to play an instrument only the instrument is you.
 And... have fun. Enjoy the process.
 
-Photos courtesy of 
+_Photos courtesy of [Eco-Bags Products](https://www.ecobags.com/)_
