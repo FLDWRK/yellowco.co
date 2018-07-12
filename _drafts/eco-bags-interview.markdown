@@ -34,18 +34,7 @@ These are just a few things I do regularly.
 
 I wrote my book as a bridge into the world of using business as a platform for good, to create the change you want to see in the world. We’re a Bcorp, Best for the World.  I see so many opportunities for “tiny” intentional and laser focused businesses. I want the takeaway to be that yes, you can make a good living doing good work using business. 
 
-###### 5. Clearly, Eco Bags is passionate about ditching the use of plastic. What are 3 (or as many as you want to share) simple ways we can stop wasting plastic?
-
-I answered this in # 3 so you can repeat here?
-Bring your own bag (for shopping and produce), water & beverage containers 
-Buy in bulk
-Do not buy or say “no” to all single use plastics like straws, martini mixers, balloons etc.
-Only choose unpackaged fruits and veggies
-Stop purchasing packaged, pre-made meals unless they are in compostable packaging
-Know where products you buy come from and who made them.
-Re-use and Repair items before you buy new.
-
-###### 6. At Yellow, we believe that work isn’t just a career, but how you find and make meaning in this world. What are your views on how to live a holistic, integrated life that blends who we are as individuals with the work we do?
+###### 5. At Yellow, we believe that work isn’t just a career, but how you find and make meaning in this world. What are your views on how to live a holistic, integrated life that blends who we are as individuals with the work we do?
 
 This is what the “magic of tiny business is.” It’s your business to take care of you, so that you can take care of your business. This isn’t easy and it takes discipline.  Here’s a few things to practice
 
@@ -57,11 +46,11 @@ This is what the “magic of tiny business is.” It’s your business to take c
 
 Remember you are setting up a practice of making your well being a priority.  Conflicts will arise. You don’t need to be perfect.
 
-###### 7. Eco Bags Products is, impressively, a B-Corporation. For any readers who don’t know, what does being a B-corp mean? Why did you prioritize making sure your company met all of these standards?
+###### 6. Eco Bags Products is, impressively, a B-Corporation. For any readers who don’t know, what does being a B-corp mean? Why did you prioritize making sure your company met all of these standards?
 
 Since 1989, we have worked to build a business that doesn’t compromise people or planet for profit from the way we source our goods to the suppliers we choose to work with and the way we conduct business.  We became a Bcorp in 2012 and have been certified Best for the World, for many years. Being certified as Bcorp means building an ethical and sustainable business by honoring people and planet while building an asset. If you are a public company being a BCorporation means saying to your shareholders that you won’t put profit in front of people and planet. It’s a very holistic approach and it’s good-for-business.
 
-###### 8. If you could share one piece of encouragement for any women doubting their abilities to pursue the work/life they dream of, what would it be?
+###### 7. If you could share one piece of encouragement for any women doubting their abilities to pursue the work/life they dream of, what would it be?
 
 My advice is always, “Start.” Start from wherever you are. You are enough and you have enough. Building your confidence is like learning to play an instrument only the instrument is you.
 And... have fun. Enjoy the process.
