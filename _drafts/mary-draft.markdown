@@ -6,10 +6,6 @@ categories:
 series: Ability
 ---
 
-Mary McLeod- Ability
-
-Palms Up
-
 I was only a few hours old when the biggest decision of my life was made. One that set me up for heartbreak and resilience in ways that no baby should ever have to endure. One that I desperately would’ve chose differently given the chance. And yet, it was just the beginning of my story. I’m not sure if my birth mother made the choice to give me up for adoption before or after the final push that 25th day of April, but this choice was the first of many that would change my life in ways I never would have imagined. 
 
 That’s the thing about life. We have all these dreams and plans and some go the way we want, but most of the time they don’t. I would have never written for my three year old self to be molested behind my own home by the neighbor boy. I would have never written for my eight year old soul to be bullied so badly by the people I grew to call friends. I would have never written for those abusive words to be said day in and day out under that roof for 18 years… words that tore me to shreds and led to lonely nights crying to a God I wasn’t sure I believed in for something to change. 
