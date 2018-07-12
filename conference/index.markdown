@@ -38,16 +38,20 @@ speakers:
   title: Writer & Writing Coach
   company: Allison Fallon
   link: https://allisonfallon.com/
-- name: Nikia Phoenix
-  image: "/uploads/yc2018-speakers-nikia-phoenix.jpg"
-  title: Model, Writer, Founder
-  company: Black Girl Beautiful
-  link: https://linktr.ee/nikiaphoenix
+- name: Miki Agrawal
+  image: "/uploads/Miki%20Headshot%20Daniel%20Johnson.JPG"
+  title: THINX CoFounder and Serial Entrepreneur
+  link: THINX CoFounder and Serial Entrepreneur
 - name: Brittany & Ian Bentley
   image: "/uploads/yc2018-speakers-bently.jpg"
   title: Co-Founders
   company: Parker Clay
   link: https://parkerclay.com/
+- name: Nikia Phoenix
+  image: "/uploads/yc2018-speakers-nikia-phoenix.jpg"
+  title: Model, Writer, Founder
+  company: Black Girl Beautiful
+  link: https://linktr.ee/nikiaphoenix
 - name: Alex Michael May, Yellow Emcee
   image: "/uploads/yc2018-speakers-alex-michael-may.jpg"
   title: Creative Director, Stylist & Body Positivity Advocate
@@ -64,7 +68,7 @@ speakers:
   image: "/uploads/Amy-Ann.jpeg"
   title: Co-Founder The Good Trade
   link: http://www.thegoodtrade.com/
-- name: Susan O'Brien
+- name: Susan O'Brien, Panelist
   image: "/uploads/HailMerry8452_susan.tif"
   title: Founder, Hail Merry
   link: https://hailmerry.com/
@@ -72,10 +76,6 @@ speakers:
   image: "/uploads/Heather-McDougal.jpeg"
   title: Co-Founder & CEO of Bogobrush
   link: https://www.bogobrush.com/
-- name: Stay tuned for more speaker & panellist announcements!
-  image: "/uploads/More-To-Come-05-05-57d8cb.png"
-  title: 
-  link: 
 - name: Stay tuned for more speaker & panellist announcements!
   image: "/uploads/More-To-Come-05-05-7cedfb.png"
   title: 
