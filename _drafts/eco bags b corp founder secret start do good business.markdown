@@ -1,9 +1,17 @@
 ---
-title: Eco Bags B-Corp Founder Spills the Secret on How to Start a Do-Good Business
-  and Make a Living Doing It
+title: Eco Bags B-Corp Founder Spills the Secret on How to Make a Living Running a
+  Do-Good Business
 date: 2018-07-18 04:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- B-Corporation
+- B-Corp
+- Eco-Bags Products
+- Eco Bags
+- Female Founders
+- Start a business
+- make a living
 author: Yellow Co.
 image: "/uploads/bags.jpg"
 series: Ability
