@@ -3,6 +3,12 @@ title: crypto draft
 date: 2018-07-16 04:00:00 -07:00
 categories:
 - Culture
+tags:
+- cryptocurrency
+- bitcoin
+- what is cryptocurrency
+- tech
+- technology
 author: Amelia Bartlett
 series: Ability
 ---
