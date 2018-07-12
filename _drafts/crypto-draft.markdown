@@ -43,7 +43,7 @@ While women can have a business, the male account owner could have access to the
 
 All over the world, new technology startups are taking advantage of the technology on which cryptocurrency was built: blockchain. These companies issue cryptocurrencies (also called tokens) as a means of funding their startup, rather than issuing stocks which distribute the ownership of their company. 
 
-#### How are cryptocurrencies valued? Why is Bitcoin so expensive? 
+#### How are cryptocurrencies valued and why is Bitcoin so expensive? 
 
 Like the stock market, cryptocurrency is a speculative market. That means that investors utilizing their funds within exchanges are speculating the value of their currencies based on their research and perception of the currency’s trends. Bitcoin is the “godfather” of cryptocurrency and is disproportionately more expensive than other currencies, basically because the market says so. 
 
