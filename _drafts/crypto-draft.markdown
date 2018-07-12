@@ -13,7 +13,7 @@ author: Amelia Bartlett
 series: Ability
 ---
 
-Mainstream media is doing a terrific job confusing the general public about cryptocurrency and scaring people away from a potentially world-changing technology. I’m a young, broke, early-adopter of cryptocurrency and today I’m breaking down some common questions about what cryptocurrency actually is and why you shouldn’t (or should) invest in it. 
+Mainstream media is doing a terrific job confusing the general public about cryptocurrency and scaring people away from a potentially world-changing technology. I’m a young, broke, early-adopter of cryptocurrency and today I’m breaking down some common questions about what cryptocurrency actually is and why you would or wouldn't want to invest in it. 
 
 #### What is cryptocurrency? 
 
