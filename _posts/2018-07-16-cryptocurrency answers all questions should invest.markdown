@@ -24,7 +24,7 @@ When you transfer money from your checking account, you aren't moving dollar bil
 
 Instead, the value of any cryptocurrency you hold is verified by many sources using cryptography. No one sees your personal information, and that’s what makes cryptocurrency different. 
 
-Bitcoin is the most common and recognizable cryptocurrency, but currently, there are over 1600 registered, circulating cryptocurrencies. The word currency makes this concept confusing, since most of us are only familiar with government-issued fiat currencies like the U.S. dollar, British pound, etc. 
+Bitcoin is the most common and recognizable cryptocurrency, but currently, there are over 1600 registered, circulating cryptocurrencies. The word currency makes this concept confusing, since most of us are only familiar with government-issued fiat currencies like the U.S. dollar, British pound, euro, etc. 
 
 ![The Answers to All of Your Cryptocurrency Questions (And If You Should Invest).jpg](/uploads/thought-catalog-580692-unsplash-1.jpg)
 
