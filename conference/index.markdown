@@ -68,10 +68,10 @@ speakers:
   image: "/uploads/HailMerry8452_susan.tif"
   title: Founder, Hail Merry
   link: https://hailmerry.com/
-- name: Stay tuned for more speaker & panellist announcements!
-  image: "/uploads/More-To-Come-05-05.png"
-  title: 
-  link: 
+- name: Heather McDougall
+  image: "/uploads/Heather-McDougal.jpeg"
+  title: Co-Founder & CEO of Bogobrush
+  link: https://www.bogobrush.com/
 - name: Stay tuned for more speaker & panellist announcements!
   image: "/uploads/More-To-Come-05-05-57d8cb.png"
   title: 
