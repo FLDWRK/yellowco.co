@@ -1,6 +1,6 @@
 ---
 title: mary draft
-date: 2018-07-20 14:31:00 -07:00
+date: 2018-07-20 04:00:00 -07:00
 categories:
 - Growth
 series: Ability
