@@ -1,5 +1,5 @@
 ---
-title: mary draft
+title: The One Way I Didn't Expect Miscarriage, Divorce, and Adoption to Change Me
 date: 2018-07-20 04:00:00 -07:00
 categories:
 - Growth
