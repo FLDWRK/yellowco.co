@@ -52,18 +52,18 @@ speakers:
   title: Model, Writer, Founder
   company: Black Girl Beautiful
   link: https://linktr.ee/nikiaphoenix
-- name: Alex Michael May, Yellow Emcee
-  image: "/uploads/yc2018-speakers-alex-michael-may.jpg"
-  title: Creative Director, Stylist & Body Positivity Advocate
-  link: https://www.instagram.com/alexmichaelmay/
-- name: Kathy Terry, Panelist
-  image: "/uploads/Kathy.jpeg"
-  title: Founder, InLieu App
-  link: https://www.inlieu.com/
 - name: Liz Skalla, Panelist
   image: "/uploads/Liz-Skalla.jpg"
   title: Co-founder, GIVN Goods
   link: https://www.givnwater.com/
+- name: Kathy Terry, Panelist
+  image: "/uploads/Kathy.jpeg"
+  title: Founder, InLieu App
+  link: https://www.inlieu.com/
+- name: Alex Michael May, Yellow Emcee
+  image: "/uploads/yc2018-speakers-alex-michael-may.jpg"
+  title: Creative Director, Stylist & Body Positivity Advocate
+  link: https://www.instagram.com/alexmichaelmay/
 - name: AmyAnn Cadwell, Panelist
   image: "/uploads/Amy-Ann.jpeg"
   title: Co-Founder The Good Trade
