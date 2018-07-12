@@ -4,6 +4,7 @@ date: 2018-07-18 04:00:00 -07:00
 categories:
 - Conscious Living
 author: Yellow Co.
+image: "/uploads/bags.jpg"
 series: Ability
 ---
 
@@ -21,11 +22,11 @@ I decided I only wanted to make products that were ethically and sustainably sou
 
 I come from a theatre background. As I say in the book, when my acting career filled seats but not my bank account and I had a newborn, I decided I wanted to do something that wouldn’t compromise my values or my schedule and... oh, I needed to make a living. I took a long view approach and decided to build my brand with my personal priorities blended into the business goals. Over more than two decades I created what I wanted. I realized that there’s a need to articulate that the big cultural messages of, “Go big or go bust,” block people from starting businesses. I wrote the book to say that if you take a  “tiny”, laser-focused, and very intentional approach to what you want, you will get it. I can’t say how long it will take, but you will get to where you set out to go. It’s a process.
 
+![Ecobags-8 (1).jpg](/uploads/Ecobags-8%20(1).jpg)
+
 ###### 3. Eco Bags Products champions two age-old sayings, “Leave no trace,” and “Do no harm,” as components of your company mission. Aside from your business, what are some tips on how to incorporate these values into our everyday lives? 
 
-I interpret these values and apply them in several very practical ways 80% of the time. I say 80% because I’m not perfect, and there are situations when I cannot follow through, like when I’m traveling in India and I have to buy bottled water for my own safety. 
-
-### Zero waste is a practice and if it gets you to less waste, that’s valuable, too.
+I interpret these values and apply them in several very practical ways 80% of the time. I say 80% because I’m not perfect, and there are situations when I cannot follow through, like when I’m traveling in India and I have to buy bottled water for my own safety. Zero waste is a practice and if it gets you to less waste, that’s valuable, too.
 
 * Bring your own bag (for shopping and produce), water, and beverage containers.
 * Buy in bulk.
@@ -41,14 +42,14 @@ I wrote my book as a bridge into the world of using business as a platform for g
 
 ### I want potential entrepreneurs to hear that yes, you can make a good living doing good work using business. 
 
+![Ecobags-5 (1).jpg](/uploads/Ecobags-5%20(1).jpg)
+
 ###### 5. [At Yellow, we believe that work isn’t just a career, but how you find and make meaning in this world.](https://yellowco.co/membership/) What are your views on how to live a holistic, integrated life that blends who we are as individuals with the work we do?
 
 This is what the “magic of tiny business” is. It’s your business to take care of you, so that you can take care of your business. This isn’t easy and it takes discipline. Here’s a few things to practice:
 
 - Put your well-being practice (yoga, running, etc.) into your day as a “business appointment.” Make it non-negotiable. Don’t squeeze it in before or after a long day. 
-
 - Start your work day at reasonable time, and pick an end time and stick with it. Think of yourself as a shop with “regular business hours.” Open 9:30-5:30pm.
-
 - Take scheduled breaks from your cell phone and computer.
 
 Remember you are setting up a practice of making your well being a priority. Conflicts will arise. You don’t need to be perfect.
@@ -56,6 +57,8 @@ Remember you are setting up a practice of making your well being a priority. Con
 ###### 6. Eco Bags Products is, impressively, a [B-Corporation](https://www.bcorporation.net/). For any readers who don’t know, what does being a B-corp mean? Why did you prioritize making sure your company met all of these standards?
 
 Since 1989, we have worked to build a business that doesn’t compromise people or the planet for profit, from the way we source our goods to the suppliers we choose to work with, and the way we conduct business. We became a [Bcorp](https://www.bcorporation.net/) in 2012 and have been certified [Best for the World](https://www.bcorporation.net/criteria-the-b-corp-best-the-world-list) for many years. Being certified as Bcorp means building an ethical and sustainable business by honoring people and the planet while building an asset. If you are a public company, being a B-Corporation means saying to your shareholders that you won’t put profit in front of people and planet. It’s a very holistic approach, and it’s good for business.
+
+![IMG_1399 (1).jpg](/uploads/IMG_1399%20(1).jpg)
 
 ###### 7. If you could share one piece of encouragement for women about their ability to pursue the work/life they dream of, what would it be?
 
