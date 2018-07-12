@@ -32,13 +32,13 @@ Bitcoin is the most common and recognizable cryptocurrency, but currently, there
 
 Cryptocurrencies have a numerous benefits that government-issued currencies don’t:
 
-###### 1. It offers people in areas with little access to banking a solution.
+###### 1. It offers a solution to people in areas with little access to banking.
 
 In developing nations, access to the internet grows rapidly every day, but access to banking can be practically non-existent. Migrant workers sending wages back to their home countries risk their earnings requiring high Western Union wire fees, and limited ability to keep their money safe in a bank. With a cryptocurrency wallet, they can receive funds instantly, safely, and typically for fees that are fractions of pennies.
 
 ###### 2. It helps women protect their money.
 
-### In Afghanistan, for example, women can not have their own bank accounts unless their husband, brother, or father co-own it. 
+### In Afghanistan, for example, women cannot have their own bank accounts unless their husband, brother, or father co-own it. 
 
 While women can have a business, the male account owner could have access to the funds and spend it without any punishment. With a cryptocurrency wallet, she can run her business while keeping what she made as her own without government regulations.
 
@@ -68,6 +68,8 @@ If you are considering cryptocurrency investment, it’s up to you to get to kno
 
 **Steem:** A top-50 cryptocurrency that has a massive social media platform called Steemit where users earn STEEM for their engagement and content production on the site. 
 
-Cryptocurrency is revolutionary, and to get involved, your first step is to learn. Though Bitcoin launched nearly a decade ago, we are still in the very early stages of cryptocurrency and blockchain’s potential. Each new company, blockchain update, and currency is an opportunity to decentralize and improve the industries that power our world. 
+### Cryptocurrency is revolutionary, and to get involved, your first step is to learn. 
+
+Though Bitcoin launched nearly a decade ago, we are still in the very early stages of cryptocurrency and blockchain’s potential. Each new company, blockchain update, and currency is an opportunity to decentralize and improve the industries that power our world. 
 
 To further your research, take a look at Coin Market Cap to learn about the cryptocurrencies currently circulating on the market. Read the Whitepapers, and team pages on the websites of currencies whose mission aligns with your values. Learn more about utilizing exchanges safely and efficiently. Talk about cryptocurrency with your friends and family from a place of curiosity, rather than a place of fear. Don’t be afraid of the future. Be a part of it.
