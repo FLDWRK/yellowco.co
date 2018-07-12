@@ -1,5 +1,6 @@
 ---
-title: eco bags interview
+title: Eco Bags B-Corp Founder Spills the Secret on How to Start a Do-Good Business
+  and Make a Living Doing It
 date: 2018-07-18 04:00:00 -07:00
 categories:
 - Conscious Living
