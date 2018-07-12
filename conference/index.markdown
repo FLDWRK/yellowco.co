@@ -72,7 +72,7 @@ speakers:
   image: "/uploads/HailMerry8452_susan.tif"
   title: Founder, Hail Merry
   link: https://hailmerry.com/
-- name: Heather McDougall
+- name: Heather McDougall, Panelist
   image: "/uploads/Screenshot%202018-07-12%2011.49.42.png"
   title: Co-Founder & CEO of Bogobrush
   link: https://www.bogobrush.com/
