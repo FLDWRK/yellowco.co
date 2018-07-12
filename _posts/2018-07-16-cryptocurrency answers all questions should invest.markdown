@@ -10,6 +10,7 @@ tags:
 - tech
 - technology
 author: Amelia Bartlett
+image: "/uploads/The%20Answers%20to%20All%20of%20Your%20Cryptocurrency%20Questions%20(And%20If%20You%20Should%20Invest).jpg"
 series: Ability
 ---
 
@@ -23,7 +24,9 @@ When you transfer money from your checking account, you aren't moving dollar bil
 
 Instead, the value of any cryptocurrency you hold is verified by many sources using cryptography. No one sees your personal information, and that’s what makes cryptocurrency different. 
 
-Bitcoin is the most common and recognizable cryptocurrency, but currently, there are over 1600 registered, circulating cryptocurrencies. The word currency makes this concept confusing, since most of us are only familiar with government-issued fiat currencies like the U.S. dollar, BritishpPound, etc. 
+Bitcoin is the most common and recognizable cryptocurrency, but currently, there are over 1600 registered, circulating cryptocurrencies. The word currency makes this concept confusing, since most of us are only familiar with government-issued fiat currencies like the U.S. dollar, British pound, etc. 
+
+![thought-catalog-580692-unsplash-1.jpg](/uploads/thought-catalog-580692-unsplash-1.jpg)
 
 #### What’s the point? 
 
@@ -43,6 +46,8 @@ While women can have a business, the male account owner could have access to the
 
 All over the world, new technology startups are taking advantage of the technology on which cryptocurrency was built: blockchain. These companies issue cryptocurrencies (also called tokens) as a means of funding their startup, rather than issuing stocks which distribute the ownership of their company. 
 
+![thought-catalog-580700-unsplash-1.jpg](/uploads/thought-catalog-580700-unsplash-1.jpg)
+
 #### How are cryptocurrencies valued and why is Bitcoin so expensive? 
 
 Like the stock market, cryptocurrency is a speculative market. That means that investors utilizing their funds within exchanges are speculating the value of their currencies based on their research and perception of the currency’s trends. Bitcoin is the “godfather” of cryptocurrency and is disproportionately more expensive than other currencies, basically because the market says so. 
@@ -52,6 +57,8 @@ Cryptocurrency is an extremely volatile market. It is wracked by the woes and wi
 #### So, should I invest in cryptocurrency?
 
 If you have researched the cryptocurrency you want to invest in and are confident in losing your entire investment in the blink of an eye, then you are in the perfect place to give it a shot. Why on earth would I be comfortable with this? Because I believe in the future possibilities that cryptocurrency is creating. When the masses first started to access the internet, nobody knew what they were looking at or what it would become. The dot com bubble was immense, and some people made a lot of money. What the misleading name “dot com bubble” doesn’t showcase is that the folks involved who took a chance on the internet revolutionized technology with their risky bets. 
+
+![neonbrand-315896-unsplash-1.jpg](/uploads/neonbrand-315896-unsplash-1.jpg)
 
 If you are considering cryptocurrency investment, it’s up to you to get to know who and what you are investing in. Bitcoin is the most common and well-known cryptocurrency, and its movement has been known to impact the market, but there are endless opportunities for you to invest and make a profit. For example: 
 
