@@ -7,11 +7,9 @@ author: Melanie Loon
 series: Ability
 ---
 
-Building harmony and trust into your team’s work culture is always a process.
+Building harmony and trust into your team’s work culture is always a process. Every team and every company is different, and you might not work with management that sees value in workshops, off-sites, or personality tests.
 
-Every team and every company is different, and you might not work with management that sees value in workshops, off-sites or personality tests.
-
-But you don’t have to be a CEO or have a formal title of leadership to guide more trust and harmony into your team.
+### But you don’t have to be a CEO or have a formal title of leadership to guide more trust and harmony into your team.
 
 Two easy ways are simply to be consistently aware of what your colleagues are working on, and to be interested in what they aspire to be professionally and personally. Investing relationally with these two goals builds a culture of professional support without it being entirely based on achievements at work. Our lives aren’t just made of professional wins are they?
 
