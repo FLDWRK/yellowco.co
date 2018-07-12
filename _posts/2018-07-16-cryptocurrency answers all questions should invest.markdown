@@ -26,7 +26,7 @@ Instead, the value of any cryptocurrency you hold is verified by many sources us
 
 Bitcoin is the most common and recognizable cryptocurrency, but currently, there are over 1600 registered, circulating cryptocurrencies. The word currency makes this concept confusing, since most of us are only familiar with government-issued fiat currencies like the U.S. dollar, British pound, etc. 
 
-![thought-catalog-580692-unsplash-1.jpg](/uploads/thought-catalog-580692-unsplash-1.jpg)
+![The Answers to All of Your Cryptocurrency Questions (And If You Should Invest).jpg](/uploads/thought-catalog-580692-unsplash-1.jpg)
 
 #### What’s the point? 
 
@@ -46,7 +46,7 @@ While women can have a business, the male account owner could have access to the
 
 All over the world, new technology startups are taking advantage of the technology on which cryptocurrency was built: blockchain. These companies issue cryptocurrencies (also called tokens) as a means of funding their startup, rather than issuing stocks which distribute the ownership of their company. 
 
-![thought-catalog-580700-unsplash-1.jpg](/uploads/thought-catalog-580700-unsplash-1.jpg)
+![The Answers to All of Your Cryptocurrency Questions (And If You Should Invest).jpg](/uploads/thought-catalog-580700-unsplash-1.jpg)
 
 #### How are cryptocurrencies valued and why is Bitcoin so expensive? 
 
@@ -58,7 +58,7 @@ Cryptocurrency is an extremely volatile market. It is wracked by the woes and wi
 
 If you have researched the cryptocurrency you want to invest in and are confident in losing your entire investment in the blink of an eye, then you are in the perfect place to give it a shot. Why on earth would I be comfortable with this? Because I believe in the future possibilities that cryptocurrency is creating. When the masses first started to access the internet, nobody knew what they were looking at or what it would become. The dot com bubble was immense, and some people made a lot of money. What the misleading name “dot com bubble” doesn’t showcase is that the folks involved who took a chance on the internet revolutionized technology with their risky bets. 
 
-![neonbrand-315896-unsplash-1.jpg](/uploads/neonbrand-315896-unsplash-1.jpg)
+![The Answers to All of Your Cryptocurrency Questions (And If You Should Invest).jpg](/uploads/neonbrand-315896-unsplash-1.jpg)
 
 If you are considering cryptocurrency investment, it’s up to you to get to know who and what you are investing in. Bitcoin is the most common and well-known cryptocurrency, and its movement has been known to impact the market, but there are endless opportunities for you to invest and make a profit. For example: 
 
@@ -70,4 +70,4 @@ If you are considering cryptocurrency investment, it’s up to you to get to kno
 
 Cryptocurrency is revolutionary, and to get involved, your first step is to learn. Though Bitcoin launched nearly a decade ago, we are still in the very early stages of cryptocurrency and blockchain’s potential. Each new company, blockchain update, and currency is an opportunity to decentralize and improve the industries that power our world. 
 
-To further your research, take a look at Coin Market Cap to learn about the cryptocurrencies currently circulating on the market. Read the Whitepapers, and team pages on the websites of currencies whose mission aligns with your values. Learn more about utilizing exchanges safely and efficiently. Talk about cryptocurrency with your friends and family from a place of curiosity, rather than a place of fear. Don’t be afraid of the future. Be a part of it. 
+To further your research, take a look at Coin Market Cap to learn about the cryptocurrencies currently circulating on the market. Read the Whitepapers, and team pages on the websites of currencies whose mission aligns with your values. Learn more about utilizing exchanges safely and efficiently. Talk about cryptocurrency with your friends and family from a place of curiosity, rather than a place of fear. Don’t be afraid of the future. Be a part of it.
