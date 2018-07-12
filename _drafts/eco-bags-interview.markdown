@@ -8,7 +8,7 @@ image: "/uploads/bags.jpg"
 series: Ability
 ---
 
-_intro_
+_One of our favorite parts about the women in our Yellow community are their creative, passionate dreams and ideas for how to make the world a better place. We know that no matter how big the dream, the practicality of figuring out how to take the next steps to make it come to life can be a challenging question. Today, we're so excited to hear from a founder who has an excellent answer. Sharon Rowe is the author of _[The Magic of Tiny Business](https://www.amazon.com/Magic-Tiny-Business-Great-Living/dp/1523094788)_, and CEO/Founder of [Eco-Bags Products](https://www.ecobags.com/), a B-Corporation that makes reusable bags for shopping, travel, a day at the beach - you name it. Read our interview with Sharon below to hear about her approach to business, 7 ways to reduce waste in your every day, and her advice to budding entrepreneurs!_
 
 ###### 1. When you set out to grow a sustainable, ethically produced business, what was your hope for the impact it would create?
 
