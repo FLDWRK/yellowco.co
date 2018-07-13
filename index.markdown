@@ -21,8 +21,7 @@ buttons:
   link: "/membership"
 - text: Conference
   link: "/conference"
-custom_page_title: "Yellow Co. | Empowering\L creative, entrepreneurial women to become
-  agents of good."
+custom_page_title: Yellow Co. | Women working together for the good of the world.
 layout: custom/home
 ---
 
