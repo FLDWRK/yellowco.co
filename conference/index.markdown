@@ -76,11 +76,11 @@ speakers:
   image: "/uploads/Screenshot%202018-07-12%2011.49.42.png"
   title: Co-Founder & CEO of Bogobrush
   link: https://www.bogobrush.com/
-- name: Stay tuned for more speaker & panellist announcements!
+- name: Stay tuned for more speaker & panelist announcements!
   image: "/uploads/More-To-Come-05-05-7cedfb.png"
   title: 
   link: 
-- name: Stay tuned for more speaker & panellist announcements!
+- name: Stay tuned for more speaker & panelist announcements!
   image: "/uploads/More-To-Come-05-05-5f0dfa.png"
   title: 
   link: 
