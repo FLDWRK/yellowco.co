@@ -123,8 +123,10 @@ schedule:
   - time: 10:10am
     title: 'Speaker Session #2'
   - time: 10:45am
-    title: Morning Snack Break
-    text: Because snacks are everything.
+    title: Morning Snack & Shop Break
+    text: 'Shop our Do-Good Goods Marketplace filled with curated brands that are
+      all making an impact for good in one way or another. Shopping and changing the
+      world? Sounds good to us! '
   - time: 11:15am
     title: 'Speaker Session #3'
   - time: 12:00pm
@@ -138,16 +140,17 @@ schedule:
   - time: 2:45pm
     title: 'Speaker Session #4'
   - time: 3:30pm
-    title: Afternoon Snack Break
-    text: Because you can never have too many snacks. Coffee will also be available,
-      obviously.
+    title: Afternoon Snack & Shop Break
+    text: Because you can never have too many snacks. Those items you were eyeing
+      at lunch in the Do-Goods Goods Marketplace? Now's your chance to grab them.
+      Coffee will also be available, obviously.
   - time: 4:00pm
     title: 'Speaker Session #5'
   - time: 5:00pm
     title: Attendee Cocktail Party
     text: Come hang out with us and relax after a packed Day 1 of Yellow! We’ll provide
-      delicious bites, desserts, great conversations with great women, and of course,
-      bubbly drinks! Free for Yellow attendees.
+      delicious bites, desserts, great conversations & connection with attendees,
+      and of course, bubbly drinks! Free for Yellow attendees.
 - day_number: 2
   day_of_week: Friday
   month_day: August 24th
@@ -173,22 +176,24 @@ schedule:
   - time: 10:10am
     title: 'Speaker Session #7'
   - time: 10:45am
-    title: Morning Snack Break
-    text: Day 2 deserves all the snack breaks too.
+    title: Morning Snack & Shop Break
+    text: Day 2 deserves all the snacking and shopping breaks too.
   - time: 11:15am
     title: 'Speaker Session #8'
   - time: 12:00pm
     title: Lunch Time!
     text: Just like yesterday, we will have bites available for you to eat while you
       hang out with your new friends at Hudson Loft, or you’re free to go explore
-      LA and the surrounding areas for food!
+      LA and the surrounding areas for food! The marketplace will also be open during
+      lunch.
   - time: 1:30pm
     title: 'Panel #2'
   - time: 2:45pm
     title: 'Speaker Session #9'
   - time: 3:30pm
-    title: Afternoon Snack Break
-    text: Eating is very important.
+    title: Afternoon Snack & Shop Break
+    text: Grab a snack and head to the Do-Good Goods marketplace- one of your last
+      chances to grab those adorable world changing items you've been wanting!
   - time: 4:00pm
     title: 'Speaker Session #10'
     text: The last speaker of Yellow 2018! It’s going to be good and we’re already
@@ -197,7 +202,8 @@ schedule:
     title: Yellow Member After Party
     text: If you’re a Yellow Member (must be an active member at the time of the conference)
       we’d love for you to join us to hang out and enjoy the company of our fellow
-      Yellow members for some good grub and good company. Location TBA!
+      Yellow members for some good grub and good company. All held in the Member Lounge
+      at Hudson Loft!
 marketplace:
   image: "/assets/images/banner-marketplace.jpg"
   apply-link: https://docs.google.com/forms/d/e/1FAIpQLSeuhlqtlqnxrNHn0DdoFmQdHaO5ouMVwIcPj8Kt_buhJ6uZOA/viewform
