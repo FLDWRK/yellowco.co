@@ -217,9 +217,6 @@ sponsors:
 - title: In Lieu
   image: "/uploads/In-Leiu-7b59b3.png"
   link: https://www.inlieu.com/
-- title: Pur Gum
-  image: "/uploads/PUR_Logo.png"
-  link: http://thepurcompany.com/
 - title: The Good Trade
   image: "/uploads/Good-Trade.png"
   link: http://www.thegoodtrade.com/
