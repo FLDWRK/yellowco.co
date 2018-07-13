@@ -86,7 +86,7 @@ speakers:
   link: 
 speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
-  image: "/assets/images/conference-smiles.jpg"
+  image: "/uploads/Yellow2016-146.jpg"
   text: Wow, oh wow, this year just proved once again that no matter how young or
     old, any creative woman can seek the groundbreaking inspiration poured out from
     this conference. Absolutely can't wait until next year!
