@@ -25,3 +25,4 @@ custom_page_title: Yellow Co. | Women working together for the good of the world
 layout: custom/home
 ---
 
+<em>Women working together for <br class="hidden-xs-down"> the <u>good of the world</u>.</em>
