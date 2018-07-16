@@ -1,6 +1,6 @@
 ---
-title: All the Answers to Your Cryptocurrency Questions & 3 Ways It’s Changing the
-  World for Good
+title: All the Answers to Your Cryptocurrency Questions & 3 Surprising Ways It’s Changing
+  the World for Good
 date: 2018-07-16 04:00:00 -07:00
 categories:
 - Culture
