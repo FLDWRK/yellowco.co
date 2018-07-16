@@ -74,4 +74,4 @@ Since 1989, we have worked to build a business that doesn’t compromise people 
 My advice is always, “Start.” Start from wherever you are. You are enough and you have enough. Building your confidence is like learning to play an instrument only the instrument is you.
 And... have fun. Enjoy the process.
 
-_Photos courtesy of [Eco-Bags Products](https://www.ecobags.com/)_
+_Feature Image by [Fedra Online](http://www.fedraonline.com/), other images courtesy of [Eco-Bags Products](https://www.ecobags.com/)_
