@@ -1,5 +1,6 @@
 ---
-title: The Answers to All of Your Cryptocurrency Questions (And If You Should Invest)
+title: All the Answers to Your Cryptocurrency Questions & 3 Ways It’s Changing the
+  World for Good
 date: 2018-07-16 04:00:00 -07:00
 categories:
 - Culture
