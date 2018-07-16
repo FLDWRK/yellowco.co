@@ -41,7 +41,7 @@ speakers:
 - name: Miki Agrawal
   image: "/uploads/Miki%20Headshot%20Daniel%20Johnson.JPG"
   title: THINX CoFounder and Serial Entrepreneur
-  link: THINX CoFounder and Serial Entrepreneur
+  link: https://www.mikiagrawal.com/
 - name: Brittany & Ian Bentley
   image: "/uploads/yc2018-speakers-bently.jpg"
   title: Co-Founders
