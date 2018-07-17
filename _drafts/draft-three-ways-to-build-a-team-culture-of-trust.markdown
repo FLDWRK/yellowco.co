@@ -13,9 +13,7 @@ Building harmony and trust into your team’s work culture is always a process. 
 
 Two easy ways are simply to be consistently aware of what your colleagues are working on, and to be interested in what they aspire to be professionally and personally. Investing relationally with these two goals builds a culture of professional support without it being entirely based on achievements at work. Our lives aren’t just made of professional wins are they?
 
-If you’ve been looking for ways to find genuine, supportive networking and mentorship opportunities, these might be it, right within your own team! You might not need to strain as much to diversify your network, but instead, deepen it.
-
-Here are a few ways to do just that:
+If you’ve been looking for ways to find genuine, supportive networking and mentorship opportunities, these might be it, right within your own team! You might not need to strain as much to diversify your network, but instead, deepen it. Here are a few ways to do just that:
 
 #### Self-Assess
 
