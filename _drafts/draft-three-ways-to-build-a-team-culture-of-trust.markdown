@@ -1,5 +1,5 @@
 ---
-title: 3 Steps to Thrive at Work by Strengthening Your Team
+title: 3 Steps to Strengthen Your Team & Thrive at Work
 date: 2018-07-25 04:00:00 -07:00
 categories:
 - Relationships
