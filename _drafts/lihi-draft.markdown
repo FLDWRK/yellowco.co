@@ -16,7 +16,7 @@ I have a background in architecture and city planning. I completed my undergradu
 
 ### I wanted to develop innovative solutions focused on people who are most vulnerable and in need of affordable housing. 
 
-[Sunny Village 1.JPG](/uploads/Sunny%20Village%201.JPG)
+[village 1.JPG](/uploads/village%201.JPG)
 
 ###### Recently, LIHI created a tiny house village designated exclusively for women, that was built by women. In what ways is this project empowering and equipping the women now able to live in those homes? 
 
@@ -42,7 +42,7 @@ As an Asian-American woman, I encounter both subtle and overt racism and sexism.
 
 It was truly extraordinary to see women in the trades turn out to build the tiny houses at Whittier Heights Village for homeless women. It was not just female carpenters, but also female electricians, plumbers, arborists, roofers, painters, architects, engineers, artists, doctors, and other occupations. The Women4Women effort was unique. At LIHI, we have trained and hired hundreds of women in the real estate development professions such as housing developers, housing finance specialists, construction project managers, asset managers, housing preservation experts, brokers, architects, landscape architects, real estate attorneys, engineers and environmental experts. 
 
-[IMG_3258-1.JPG](/uploads/IMG_3258-1.JPG)
+[1234.JPG](/uploads/1234.JPG)
 
 ###### What is your favorite part of the work you do at LIHI?
 
