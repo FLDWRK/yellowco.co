@@ -289,6 +289,9 @@ sponsors:
 - title: Rebbl
   image: "/uploads/Rebbl.png"
   link: http://rebbl.co/
+- title: Hakuna Banana
+  image: "/uploads/Hakuna-Banana.png"
+  link: https://hakunabanana.com/
 layout: custom/conference
 ---
 
