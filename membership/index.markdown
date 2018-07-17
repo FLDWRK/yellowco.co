@@ -87,10 +87,10 @@ values:
     * Private Facebook group & weekly Slack chats where we connect on the focus for that month.
     * Learn from peer to peer mentoring, make new friends and change the world together!
   image: "/assets/images/membership-gatherings.jpg"
-- title: Monthly "Empowerment Packet" Mailed to Your Door
+- title: Monthly Packet Mailed to Your Door
   description: |-
     _Every month your packet includes:_
-    * A periodical filled with interactive content surrounding our theme for the month. Every issue will lead you toward making powerful changes in your life.
+    * A magazine filled with interactive content surrounding our theme for the month. Every issue will lead you toward making powerful changes in your life.
     * A challenge designed to help you take what you've learned and bring it to life.
     * Various discounts & vouchers for products we love!
   image: "/assets/images/membership-packet.jpg"
