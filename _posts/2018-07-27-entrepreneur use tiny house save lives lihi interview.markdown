@@ -9,7 +9,7 @@ image: "/uploads/sharon%20lee%20crop.jpg"
 series: Ability
 ---
 
-In major cities, homelessness is an issue 
+_In major cities, homelessness is an issue growing continually more rampant - and the solutions, often not immediate enough. Sharon Lee, the Founding Executive Director of [The Low Income Housing Institute](https://lihi.org/), has a fire within her to change this. Her nonprofit builds tiny houses for the most vulnerable in the Seattle community, offering them a safe, stable, empowering place to live. Read more about the incredible work LIHI does in our interview with Sharon below!_
 
 ###### Tell us a bit about your background and the work you do at [LIHI](https://lihi.org/).
 
