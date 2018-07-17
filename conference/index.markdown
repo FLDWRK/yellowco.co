@@ -263,7 +263,7 @@ sponsors:
   image: "/uploads/SoulFull-Project.png"
   link: " https://thesoulfullproject.com/"
 - title: Verve
-  image: "/uploads/verve%20(1).png"
+  image: "/uploads/verve.png"
   link: https://www.vervecoffee.com/
 - title: Califia
   image: "/uploads/Califia.png"
