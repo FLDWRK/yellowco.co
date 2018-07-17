@@ -45,6 +45,4 @@ What projects are your colleagues working on that you’re not directly involved
 
 ### Just being actively interested in your teammates can help give them the confidence and accountability to make their dream come to fruition.
 
-#### Be there for that victory.
-
 It’s easy to become siloed into just your department or focus, and lose sight of a well-rounded understanding of what your organization is doing as a whole. When you branch out consistently to support and challenge your teammates, you say in practical ways that you believe in them, and that you can achieve more than you imagine together.
