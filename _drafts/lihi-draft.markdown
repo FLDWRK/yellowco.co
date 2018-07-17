@@ -16,11 +16,7 @@ I have a background in architecture and city planning. I completed my undergradu
 
 ### I wanted to develop innovative solutions focused on people who are most vulnerable and in need of affordable housing. 
 
-###### LIHI has grown to now have over 2,000 housing units in the Seattle area, which is incredible! What has been key in this growth process?
-
-In our business plan we decided we had to grow rapidly in order to survive any downturn due to the economy, real estate cycles, or the ever looming federal budget cuts to low-income housing. We knew we had to grow quickly to have 500 apartment units under ownership and management and then to 1,000 units to achieve economies of scale and efficiency.  
-
-Developing and managing real estate can be a really tough business.  There are lots of regulations, risks, and complexity. Of course, Seattle is right up there with San Francisco, Los Angeles, Boston, and New York in terms of escalating rents, gentrification, and displacement of low income people from their neighborhoods. LIHI excels in finding real estate to buy that has not been listed yet, and we are persistent in getting our housing financed. We do not take "no" for an answer - especially when we know there are hundreds of homeless families, women, and young adults (age 18-24) who are struggling to survive unsheltered on the streets of Seattle.  
+[Sunny Village 1.JPG](/uploads/Sunny%20Village%201.JPG)
 
 ###### Recently, LIHI created a tiny house village designated exclusively for women, that was built by women. In what ways is this project empowering and equipping the women now able to live in those homes? 
 
@@ -30,6 +26,14 @@ Seattle has the third largest homeless population of any large city. We are righ
 
 At our women-only Whittier Heights Village, women can lock their door, keep their belongings, and stay warm and dry as the tiny houses have heat, insulation, and electricity. Women support each other in a village-like setting. A kitchen, community space, toilets, and showers are all on-site. LIHI provides social workers to help women find long-term housing, employment, and connection to services. 
 
+![Sharon-1.jpg](/uploads/Sharon-1.jpg)
+
+###### LIHI has grown to now have over 2,000 housing units in the Seattle area, which is incredible! What has been key in this growth process?
+
+In our business plan we decided we had to grow rapidly in order to survive any downturn due to the economy, real estate cycles, or the ever looming federal budget cuts to low-income housing. We knew we had to grow quickly to have 500 apartment units under ownership and management and then to 1,000 units to achieve economies of scale and efficiency.  
+
+Developing and managing real estate can be a really tough business.  There are lots of regulations, risks, and complexity. Of course, Seattle is right up there with San Francisco, Los Angeles, Boston, and New York in terms of escalating rents, gentrification, and displacement of low income people from their neighborhoods. LIHI excels in finding real estate to buy that has not been listed yet, and we are persistent in getting our housing financed. We do not take "no" for an answer - especially when we know there are hundreds of homeless families, women, and young adults (age 18-24) who are struggling to survive unsheltered on the streets of Seattle.  
+
 ###### [This month at Yellow, we’re focusing on Ability; recognizing both our potential to learn new skills, as well as our capability to uniquely impact the world with our individual strengths.](https://yellowco.co/blog/2018/07/02/you-are-enough-poem-recognize-ability/) Which of your abilities have you leaned on to make the meaningful work you’re doing come to life?
 
 As an Asian-American woman, I encounter both subtle and overt racism and sexism. I am okay with not being liked and I am proud of being "different," so I have no qualms of being a strong and vocal advocate for low-income and homeless people, women, and people of color. I know that politicians can change their positions when times get tough. In terms of Ability, I focus on persistence and perseverance. By now, people know I don’t give up. I like it when elected officials state they cannot say "no" to me, so they might as well say "yes" now. 
@@ -37,6 +41,8 @@ As an Asian-American woman, I encounter both subtle and overt racism and sexism.
 ###### Construction work is a trade not often associated with or entrusted to women. Have there been any moments during your work at LIHI where you have seen women realize their potential and ability to be a part of building these houses that they had never before seen?
 
 It was truly extraordinary to see women in the trades turn out to build the tiny houses at Whittier Heights Village for homeless women. It was not just female carpenters, but also female electricians, plumbers, arborists, roofers, painters, architects, engineers, artists, doctors, and other occupations. The Women4Women effort was unique. At LIHI, we have trained and hired hundreds of women in the real estate development professions such as housing developers, housing finance specialists, construction project managers, asset managers, housing preservation experts, brokers, architects, landscape architects, real estate attorneys, engineers and environmental experts. 
+
+[IMG_3258-1.JPG](/uploads/IMG_3258-1.JPG)
 
 ###### What is your favorite part of the work you do at LIHI?
 
