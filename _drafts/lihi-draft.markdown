@@ -16,7 +16,7 @@ I have a background in architecture and city planning. I completed my undergradu
 
 ### I wanted to develop innovative solutions focused on people who are most vulnerable and in need of affordable housing. 
 
-[village 1.JPG](/uploads/village%201.JPG)
+![lihi 2-1.jpg](/uploads/lihi%202-1.jpg)
 
 ###### Recently, LIHI created a tiny house village designated exclusively for women, that was built by women. In what ways is this project empowering and equipping the women now able to live in those homes? 
 
@@ -38,7 +38,7 @@ Developing and managing real estate can be a really tough business.  There are l
 
 As an Asian-American woman, I encounter both subtle and overt racism and sexism. I am okay with not being liked and I am proud of being "different," so I have no qualms of being a strong and vocal advocate for low-income and homeless people, women, and people of color. I know that politicians can change their positions when times get tough. In terms of Ability, I focus on persistence and perseverance. By now, people know I don’t give up. I like it when elected officials state they cannot say "no" to me, so they might as well say "yes" now. 
 
-[1234.JPG](/uploads/1234.JPG)
+![lihi 1-1.jpg](/uploads/lihi%201-1.jpg)
 
 ###### Construction work is a trade not often associated with or entrusted to women. Have there been any moments during your work at LIHI where you have seen women realize their potential and ability to be a part of building these houses that they had never before seen?
 
