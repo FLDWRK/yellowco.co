@@ -3,6 +3,16 @@ title: Everything You Need to Convince Your Boss to Send You to the 2018 Yellow 
 date: 2018-07-23 04:00:00 -07:00
 categories:
 - Growth
+tags:
+- Yellow Conference
+- Yellow 2018
+- Yellow conference 2018
+- downtown los angeles
+- female founders
+- women's conference
+- women creative conference
+- entrepreneur conference
+- los angeles conference
 author: Joanna Waterfall
 image: "/uploads/J46A7615-1.jpg"
 series: Ability
