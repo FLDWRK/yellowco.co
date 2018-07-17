@@ -1,5 +1,5 @@
 ---
-title: lihi draft
+title: The (Literally) Tiny Thing This Entrepreneur Is Using to Save Hundreds of Lives
 date: 2018-07-27 04:00:00 -07:00
 author: Yellow Co.
 image: "/uploads/sharon%20lee%20crop.jpg"
