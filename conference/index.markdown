@@ -292,6 +292,9 @@ sponsors:
 - title: Hakuna Banana
   image: "/uploads/Hakuna-Banana.png"
   link: https://hakunabanana.com/
+- title: The Snap Bar
+  image: "/uploads/Snap-Bar.png"
+  link: https://thesnapbar.com/
 layout: custom/conference
 ---
 
