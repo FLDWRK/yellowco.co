@@ -1,8 +1,8 @@
 ---
-title: draft Three Ways to Build a Team Culture of Trust
+title: 3 Steps to Thrive at Work by Strengthening Your Team
 date: 2018-07-25 04:00:00 -07:00
 categories:
-- Entrepreneurs
+- Relationships
 author: Melanie Loon
 series: Ability
 ---
