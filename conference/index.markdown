@@ -295,6 +295,9 @@ sponsors:
 - title: The Snap Bar
   image: "/uploads/Snap-Bar.png"
   link: https://thesnapbar.com/
+- title: Caulipowered
+  image: "/uploads/Caulipower.png"
+  link: http://eatcaulipower.com/
 layout: custom/conference
 ---
 
