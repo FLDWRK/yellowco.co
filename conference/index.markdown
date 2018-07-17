@@ -33,11 +33,10 @@ theme:
 
     This year our 2018 theme is “Our Ownership”. It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own _who they are?_ Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens. Join us as we dive into this theme at our 2018 conference.
 speakers:
-- name: Allison Fallon
-  image: "/uploads/yc2018-speakers-allison-fallon.jpg"
-  title: Writer & Writing Coach
-  company: Allison Fallon
-  link: https://allisonfallon.com/
+- name: Cassandra Lee
+  image: "/uploads/Cassandra.jpeg"
+  title: Co-Founder & Executive Director of Justice Rising
+  link: https://www.justicerising.org/
 - name: Miki Agrawal
   image: "/uploads/Miki%20Headshot%20Daniel%20Johnson.JPG"
   title: THINX CoFounder and Serial Entrepreneur
@@ -52,6 +51,11 @@ speakers:
   title: Model, Writer, Founder
   company: Black Girl Beautiful
   link: https://linktr.ee/nikiaphoenix
+- name: Allison Fallon
+  image: "/uploads/yc2018-speakers-allison-fallon.jpg"
+  title: Writer & Writing Coach
+  company: Allison Fallon
+  link: https://allisonfallon.com/
 - name: Liz Skalla, Panelist
   image: "/uploads/Liz-Skalla.jpg"
   title: Co-founder, GIVN Goods
@@ -76,10 +80,6 @@ speakers:
   image: "/uploads/Screenshot%202018-07-12%2011.49.42.png"
   title: Co-Founder & CEO of Bogobrush
   link: https://www.bogobrush.com/
-- name: Cassandra Lee
-  image: "/uploads/Cassandra.jpeg"
-  title: Co-Founder & Executive Director of Justice Rising
-  link: https://www.justicerising.org/
 - name: Stay tuned for more speaker & panelist announcements!
   image: "/uploads/More-To-Come-05-05-5f0dfa.png"
   title: 
