@@ -10,6 +10,7 @@ tags:
 - divorce
 - change
 - personal growth
+author: Mary McLeod
 image: "/uploads/212100-R1-15A.jpg"
 series: Ability
 ---
