@@ -35,6 +35,8 @@ So what enables you to play at that prime level? StrengthsFinders, the Thinking 
 
 Evaluate your strengths and weaknesses. What’s continually difficult? Don’t just stay confined to what you think you can be good at. Is there someone on your team who seems like an expert at something you could use help on? Maybe it’s about systems, or choosing industry events to attend. Ask for a mini-orientation on how someone else organizes a database, manages relationships with vendors, or crushes their inbox!
 
+![img028.jpg](/uploads/img028.jpg)
+
 #### Peer Mentorship
 
 Finding a mentor for your specific ambitions can sound daunting, but you’re probably already surrounded by “mini” mentors in your colleagues. We live in an exciting time in culture celebrating collaboration over competition. Learning is everywhere, and not just in supervisors or cold emails industry titans, but also in your peers, those you manage, and your interns right next to you!
@@ -44,6 +46,8 @@ Finding a mentor for your specific ambitions can sound daunting, but you’re pr
 Do your homework when it comes to your projects, but if you’re hitting a familiar rut in a project, asking someone else to weigh in and audit your process isn’t a sign of weakness. Instead, it shows how committed you are both to solving a problem and to committing to a team beyond just yourself.
 
 Work-wise, our value lies in continuous learning, but no matter what, success is best enjoyed when shared. When you find it together, the shared pride of hitting a goal together is amazing momentum for the next hurdle you’ll face. Don’t forget to also assess if you’re taking ownership over too many tasks that should be delegated.
+
+![img025.jpg](/uploads/img025.jpg)
 
 #### Take the Time
 
@@ -58,3 +62,5 @@ What projects are your colleagues working on that you’re not directly involved
 ### Just being actively interested in your teammates can help give them the confidence and accountability to make their dream come to fruition.
 
 It’s easy to become siloed into just your department or focus, and lose sight of a well-rounded understanding of what your organization is doing as a whole. When you branch out consistently to support and challenge your teammates, you say in practical ways that you believe in them, and that you can achieve more than you imagine together.
+
+_Photos by [Summer Staeb](https://www.summerstaeb.com/)_
