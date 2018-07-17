@@ -1,6 +1,8 @@
 ---
 title: lihi draft
-date: 2018-07-17 13:08:00 -07:00
+date: 2018-07-27 04:00:00 -07:00
+author: Yellow Co.
+series: Ability
 ---
 
 
