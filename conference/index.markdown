@@ -268,6 +268,9 @@ sponsors:
 - title: Califia
   image: "/uploads/Califia.png"
   link: https://www.califiafarms.com/
+- title: KIND
+  image: "/uploads/KIND-LOGOA.png"
+  link: https://www.kindsnacks.com/
 layout: custom/conference
 ---
 
