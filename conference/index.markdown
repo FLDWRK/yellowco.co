@@ -298,6 +298,9 @@ sponsors:
 - title: Caulipowered
   image: "/uploads/Caulipower.png"
   link: http://eatcaulipower.com/
+- title: Cheeky Home
+  image: "/uploads/Cheeky.png"
+  link: https://www.cheekyhome.com/
 layout: custom/conference
 ---
 
