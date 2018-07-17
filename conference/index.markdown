@@ -76,10 +76,10 @@ speakers:
   image: "/uploads/Screenshot%202018-07-12%2011.49.42.png"
   title: Co-Founder & CEO of Bogobrush
   link: https://www.bogobrush.com/
-- name: Stay tuned for more speaker & panelist announcements!
-  image: "/uploads/More-To-Come-05-05-7cedfb.png"
-  title: 
-  link: 
+- name: Cassandra Lee
+  image: "/uploads/Cassandra.jpeg"
+  title: Co-Founder & Executive Director of Justice Rising
+  link: https://www.justicerising.org/
 - name: Stay tuned for more speaker & panelist announcements!
   image: "/uploads/More-To-Come-05-05-5f0dfa.png"
   title: 
