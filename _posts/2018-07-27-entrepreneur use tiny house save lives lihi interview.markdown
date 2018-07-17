@@ -4,6 +4,16 @@ title: The (Literally) Tiny Thing This Entrepreneur Is Using to Save Hundreds of
 date: 2018-07-27 04:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- LIHI
+- Lower Income Housing Institute
+- Seattle
+- homlessness solutions
+- homelessness
+- entrepreneur
+- purposeful entrepreneur
+- nonprofit
+- female founders
 author: Yellow Co.
 image: "/uploads/sharon%20lee%20crop.jpg"
 series: Ability
