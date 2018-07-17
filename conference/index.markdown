@@ -274,6 +274,9 @@ sponsors:
 - title: Purely Elizabeth
   image: "/uploads/Purley-Elizabeth.png"
   link: https://purelyelizabeth.com/
+- title: Lavva
+  image: "/uploads/Lavva.png"
+  link: https://lovvelavva.com/
 layout: custom/conference
 ---
 
