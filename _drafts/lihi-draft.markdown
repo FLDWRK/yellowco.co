@@ -38,17 +38,19 @@ Developing and managing real estate can be a really tough business.  There are l
 
 As an Asian-American woman, I encounter both subtle and overt racism and sexism. I am okay with not being liked and I am proud of being "different," so I have no qualms of being a strong and vocal advocate for low-income and homeless people, women, and people of color. I know that politicians can change their positions when times get tough. In terms of Ability, I focus on persistence and perseverance. By now, people know I don’t give up. I like it when elected officials state they cannot say "no" to me, so they might as well say "yes" now. 
 
+[1234.JPG](/uploads/1234.JPG)
+
 ###### Construction work is a trade not often associated with or entrusted to women. Have there been any moments during your work at LIHI where you have seen women realize their potential and ability to be a part of building these houses that they had never before seen?
 
 It was truly extraordinary to see women in the trades turn out to build the tiny houses at Whittier Heights Village for homeless women. It was not just female carpenters, but also female electricians, plumbers, arborists, roofers, painters, architects, engineers, artists, doctors, and other occupations. The Women4Women effort was unique. At LIHI, we have trained and hired hundreds of women in the real estate development professions such as housing developers, housing finance specialists, construction project managers, asset managers, housing preservation experts, brokers, architects, landscape architects, real estate attorneys, engineers and environmental experts. 
-
-[1234.JPG](/uploads/1234.JPG)
 
 ###### What is your favorite part of the work you do at LIHI?
 
 The staff at LIHI has grown to 180 people, which means more of my time is spent on management and organizational issues. I really like two areas of my job. The first is finding well-located and attractive properties to purchase for affordable housing. I look for sites close to good schools, transit, employment, shopping, and amenities. The second is the incredible reward of seeing homeless families and individuals move into their new home or tiny house.  
 
 ### Housing is fundamental. It provides a foundation for people to build their futures. 
+
+![Tiny House and Garden at Othello Village.jpg](/uploads/Tiny%20House%20and%20Garden%20at%20Othello%20Village.jpg)
 
 ###### Are there any books, tools, or resources that have impacted you recently?
 
