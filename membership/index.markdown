@@ -19,14 +19,14 @@ quote:
   title:
     Key 1: What more info? Hop on our interest list!
 details:
-- title: CRAVE DIRECTION & PURPOSE?
-  text: You’re struggling to find the larger purpose in what you do. You move from
-    client to client or project to project with no direction or clarity on how to
-    make the impact you desire.
 - title: KNOW YOU'RE CAPABLE OF MORE?
   text: You know you have potential that’s waiting to be unleashed. You know that
-    you’re capable of making big waves of good in the world, but you don’t know where
-    or how to start.
+    you’re capable of making big waves of good in the world, and you want community
+    and resources to begin.
+- title: CRAVE DIRECTION & PURPOSE?
+  text: You’re excited to find the larger purpose in what you do. You move from client
+    to client or project to project wanting more direction and clarity on how to make
+    the impact you desire.
 - title: SEARCHING TO FIND YOUR "PEOPLE"?
   text: You move from network to network but never feel like you’ve found your place.
     You crave a genuine group of women who care about building more than just a career.
@@ -40,7 +40,7 @@ theme:
 
     This isn't just my ownership, or yours. It's _OURS._
 
-    **Join us each month throughout 2018 as we dive into a different focus of ownership, all empowering you to take ownership of your life, who you were meant to be and your personal impact on the world.**
+    **Join us each month throughout 2018 as we dive into a different focus of ownership, all equipping you to take ownership of your life, who you were meant to be and your personal impact on the world.**
   months-title: Make 2018 the year you take _ownership_ of your life
   months:
   - title: January • Tenderness
@@ -73,7 +73,7 @@ values:
 - title: Exclusive Access to Our Digital Member Hub
   description: |-
     _Consider it your virtual creative lady library you can access from anywhere:_
-    * Video interviews with female entrepreneurs
+    * Video interviews with female founders, leaders, and activists
     * Past Yellow Conference speaker video recordings
     * Workbook downloads aimed at helping you take charge of your life and move forward with impact
     * Various printable downloads &amp; other goodies
@@ -82,7 +82,7 @@ values:
 - title: Monthly Gatherings
   description: |-
     _The best part of the membership are the women who make it :)_
-    * Connect with other creative, entrepreneurial women who are working at building a life, not just a career.
+    * Connect with other women working together for the good of the world
     * If you're local to one of our 12 national chapters, attend an in-person event. If you're not local, attend our digital event!
     * Private Facebook group & weekly Slack chats where we connect on the focus for that month.
     * Learn from peer to peer mentoring, make new friends and change the world together!
@@ -115,13 +115,12 @@ faqs:
   answer: Currently we have chapters in West LA, Downtown LA, Orange County, San Diego,
     Bay Area, New York City, Cincinnati, Austin, Chicago, Denver and Tulsa. The gatherings
     are centered around our focus for the month, but each chapter throws in their
-    own flare! The goal is for you to receive your periodical, go through the content
+    own flare! The goal is for you to receive your magazine, go through the content
     and the questions, then come together with your group and talk through the focus
-    for the that month and what you thought of the periodical. Every gathering ends
-    with a 'helping circle' where each woman has an ask, and each woman commits to
-    helping that person for that month. We always leave feeling inspired, having things
-    to think about and having new goals to implement into our lives. They’re pretty
-    awesome if we do say so ourselves.
+    for that month. Every gathering ends with a 'helping circle' where each woman
+    has an ask, and each woman commits to helping that person for that month. We always
+    leave feeling inspired, having things to think about, and having new goals to
+    implement into our lives. They’re pretty awesome if we do say so ourselves.
 - question: How much is shipping?
   answer: If you're in the US, We offer free shipping, but international shipping
     prices vary depending on your location. Feel free to chat us below for more info!
