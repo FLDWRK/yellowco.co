@@ -271,6 +271,9 @@ sponsors:
 - title: KIND
   image: "/uploads/KIND-LOGOA.png"
   link: https://www.kindsnacks.com/
+- title: Purely Elizabeth
+  image: "/uploads/Purley-Elizabeth.png"
+  link: https://purelyelizabeth.com/
 layout: custom/conference
 ---
 
