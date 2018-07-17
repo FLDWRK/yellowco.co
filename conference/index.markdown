@@ -283,6 +283,9 @@ sponsors:
 - title: Siren Snacks
   image: "/uploads/Siren%20Snacks%20Logo-a46df7.png"
   link: https://www.sirensnacks.com/
+- title: GIVN Water
+  image: "/uploads/Givn.png"
+  link: https://www.givnwater.com/
 layout: custom/conference
 ---
 
