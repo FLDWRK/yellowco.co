@@ -1,5 +1,6 @@
 ---
-title: The (Literally) Tiny Thing This Entrepreneur Is Using to Save Hundreds of Lives
+title: The (Literally) Tiny Thing This Entrepreneur Is Using to Save Hundreds of Homeless
+  Lives
 date: 2018-07-27 04:00:00 -07:00
 categories:
 - Entrepreneurs
@@ -8,7 +9,7 @@ image: "/uploads/sharon%20lee%20crop.jpg"
 series: Ability
 ---
 
-
+In major cities, homelessness is an issue 
 
 ###### Tell us a bit about your background and the work you do at [LIHI](https://lihi.org/).
 
