@@ -286,6 +286,9 @@ sponsors:
 - title: GIVN Water
   image: "/uploads/Givn.png"
   link: https://www.givnwater.com/
+- title: Rebbl
+  image: "/uploads/Rebbl.png"
+  link: http://rebbl.co/
 layout: custom/conference
 ---
 
