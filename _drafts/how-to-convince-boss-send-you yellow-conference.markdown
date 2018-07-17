@@ -4,6 +4,7 @@ date: 2018-07-23 04:00:00 -07:00
 categories:
 - Growth
 author: Joanna Waterfall
+image: "/uploads/J46A7615-1.jpg"
 series: Ability
 ---
 
