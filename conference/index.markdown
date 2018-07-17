@@ -263,7 +263,7 @@ sponsors:
   image: "/uploads/SoulFull-Project.png"
   link: " https://thesoulfullproject.com/"
 - title: Verve
-  image: "/uploads/verve.png"
+  image: "/uploads/verve-PNG.png"
   link: https://www.vervecoffee.com/
 - title: Califia
   image: "/uploads/Califia.png"
@@ -277,6 +277,9 @@ sponsors:
 - title: Lavva
   image: "/uploads/Lavva.png"
   link: https://lovvelavva.com/
+- title: Paletas Please
+  image: "/uploads/Siestas-for-Fiestas.png"
+  link: https://www.siestasforfiestas.com/pages/paletacart
 layout: custom/conference
 ---
 
