@@ -1,5 +1,5 @@
 ---
-title: How to Convince Your Boss to Send  You to the 2018 Yellow Conference
+title: Everything You Need to Convince Your Boss to Send You to the 2018 Yellow Conference
 date: 2018-07-23 04:00:00 -07:00
 categories:
 - Growth
@@ -7,7 +7,10 @@ author: Joanna Waterfall
 series: Ability
 ---
 
-
+really want to come, but need to get time off and pay for me to come
+make it easy to pitch it to your boss so you can make it
+everything you need to know
+why it's a worthy investment, what you can bring back to your team, how it will benefit you as an employee/them as a business
 
 ###### Boss Question #1: What is this thing you want to go to?
 
