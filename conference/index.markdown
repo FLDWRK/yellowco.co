@@ -280,6 +280,9 @@ sponsors:
 - title: Paletas Please
   image: "/uploads/Siestas-for-Fiestas.png"
   link: https://www.siestasforfiestas.com/pages/paletacart
+- title: Siren Snacks
+  image: "/uploads/Siren%20Snacks%20Logo-a46df7.png"
+  link: https://www.sirensnacks.com/
 layout: custom/conference
 ---
 
