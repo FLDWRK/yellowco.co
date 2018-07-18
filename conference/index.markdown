@@ -18,7 +18,7 @@ conference:
   title: 2018 Yellow Conference
   time: Thu, Aug 23 - Fri, Aug 24
   text: |-
-    A gathering for women working together for the good of the world using their gifts, skills and talents to serve the greater good.
+    A gathering for women using their gifts, skills and talents to work together for the good of the world.
 
     Taking place at Hudson Loft • 1200 S Hope St Los Angeles, CA 90015
 quote-one:
