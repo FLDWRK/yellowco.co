@@ -2,9 +2,9 @@
 title: Conference
 position: 7
 custom_page_title: 2018 Yellow Conference in Los Angeles, CA
-keywords: yellow, collective, conference, entrepreneurship, social good, bloom, women,
-  woman, entrepreneur, creative, inspiration, gathering, event, Los Angeles, august,
-  2018, greater, good, impact, business, hustle, make a difference
+keywords: yellow, collective, conference, work, entrepreneurship, social good, bloom,
+  women, woman, entrepreneur, creative, inspiration, gathering, event, Los Angeles,
+  august, 2018, greater, good, impact, business, hustle, make a difference
 nav:
   id: conference
   site:
@@ -18,7 +18,7 @@ conference:
   title: 2018 Yellow Conference
   time: Thu, Aug 23 - Fri, Aug 24
   text: |-
-    A gathering for creative women who are making an impact and using their gifts, skills and talents to serve the greater good.
+    A gathering for women working together for the good of the world using their gifts, skills and talents to serve the greater good.
 
     Taking place at Hudson Loft • 1200 S Hope St Los Angeles, CA 90015
 quote-one:
@@ -29,7 +29,7 @@ quote-one:
 theme:
   title: Our Ownership
   details: |-
-    Join 500 creative, entrepreneurial-minded women in the heart of Downtown Los Angeles for a gathering that is so much more than a conference. This is for the ones who desire to fight for a better tomorrow. The ones who are willing to roll up their sleeves, step out in courage, and use their creativity for good. This is where we come together for the benefit of humankind.
+    Join 500 women in the heart of Downtown Los Angeles for a gathering that is so much more than a conference. This is for women who desire to fight for a better tomorrow. The ones who are willing to roll up their sleeves, step out in courage, and use their creativity for good. This is where we come together for the benefit of humankind.
 
     This year our 2018 theme is “Our Ownership”. It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own _who they are?_ Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens. Join us as we dive into this theme at our 2018 conference.
 speakers:
@@ -66,11 +66,11 @@ speakers:
   link: https://www.inlieu.com/
 - name: Alex Michael May, Yellow Emcee
   image: "/uploads/yc2018-speakers-alex-michael-may.jpg"
-  title: Creative Director, Stylist & Body Positivity Advocate
+  title: Creative Director, Stylist, & Body Positivity Advocate
   link: https://www.instagram.com/alexmichaelmay/
 - name: AmyAnn Cadwell, Panelist
   image: "/uploads/Amy-Ann.jpeg"
-  title: Co-Founder The Good Trade
+  title: Co-Founder, The Good Trade
   link: http://www.thegoodtrade.com/
 - name: Susan O'Brien, Panelist
   image: "/uploads/HailMerry8452_susan.tif"
@@ -112,7 +112,7 @@ schedule:
   times:
   - time: 8:00am
     title: Breakfast & Registration
-    text: Matcha, breakfast bites, juices & coffee (duh) will be available for you
+    text: Matcha, breakfast bites, juices, & coffee (duh) will be available for you
       to enjoy as you enter into Yellow.
   - time: 9:00am
     title: Yellow Begins!
@@ -149,7 +149,7 @@ schedule:
   - time: 5:00pm
     title: Attendee Cocktail Party
     text: Come hang out with us and relax after a packed Day 1 of Yellow! We’ll provide
-      delicious bites, desserts, great conversations & connection with attendees,
+      delicious bites, desserts, great conversations, & connection with attendees,
       and of course, bubbly drinks! Free for Yellow attendees.
 - day_number: 2
   day_of_week: Friday
@@ -166,8 +166,8 @@ schedule:
   - time: 8:00am
     title: Doors Open & Breakfast
     text: We wouldn't want you to enter into Day 2 without your Matcha, breakfast
-      bites, juices & coffee! Come early to grab a good seat and to have time to grab
-      some nourishment!
+      bites, juices, & coffee! Come early to grab a good seat and to have time to
+      grab some nourishment!
   - time: 9:00am
     title: Day 2 Begins!
     text: You thought yesterday was good? Just wait.
@@ -196,7 +196,7 @@ schedule:
       chances to grab those adorable world changing items you've been wanting!
   - time: 4:00pm
     title: 'Speaker Session #10'
-    text: The last speaker of Yellow 2018! It’s going to be good and we’re already
+    text: The last speaker of Yellow 2018! It’s going to be good, and we’re already
       sad it's over!!
   - time: 5:00pm
     title: Yellow Member After Party
