@@ -84,6 +84,10 @@ speakers:
   image: "/uploads/More-To-Come-05-05-5f0dfa.png"
   title: 
   link: 
+- name: Hoda Katebi
+  image: "/uploads/cover%20(15%20of%2017)%20(1).jpg"
+  title: Activist Fashion Blogger, Author & Photographer
+  link: 
 speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
   image: "/uploads/Yellow2016-146.jpg"
