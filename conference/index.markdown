@@ -33,24 +33,28 @@ theme:
 
     This year our 2018 theme is “Our Ownership”. It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own _who they are?_ Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens. Join us as we dive into this theme at our 2018 conference.
 speakers:
-- name: Cassandra Lee
-  image: "/uploads/Cassandra.jpeg"
-  title: Co-Founder & Executive Director of Justice Rising
-  link: https://www.justicerising.org/
+- name: Hoda Katebi
+  image: "/uploads/cover%20(15%20of%2017)%20(1).jpg"
+  title: Activist Fashion Blogger, Author & Photographer
+  link: 
 - name: Miki Agrawal
   image: "/uploads/Miki%20Headshot%20Daniel%20Johnson.JPG"
   title: THINX CoFounder and Serial Entrepreneur
   link: https://www.mikiagrawal.com/
-- name: Brittany & Ian Bentley
-  image: "/uploads/yc2018-speakers-bently.jpg"
-  title: Co-Founders
-  company: Parker Clay
-  link: https://parkerclay.com/
+- name: Cassandra Lee
+  image: "/uploads/Cassandra.jpeg"
+  title: Co-Founder & Executive Director of Justice Rising
+  link: https://www.justicerising.org/
 - name: Nikia Phoenix
   image: "/uploads/yc2018-speakers-nikia-phoenix.jpg"
   title: Model, Writer, Founder
   company: Black Girl Beautiful
   link: https://linktr.ee/nikiaphoenix
+- name: Brittany & Ian Bentley
+  image: "/uploads/yc2018-speakers-bently.jpg"
+  title: Co-Founders
+  company: Parker Clay
+  link: https://parkerclay.com/
 - name: Allison Fallon
   image: "/uploads/yc2018-speakers-allison-fallon.jpg"
   title: Writer & Writing Coach
@@ -83,10 +87,6 @@ speakers:
 - name: Stay tuned for more speaker & panelist announcements!
   image: "/uploads/More-To-Come-05-05-5f0dfa.png"
   title: 
-  link: 
-- name: Hoda Katebi
-  image: "/uploads/cover%20(15%20of%2017)%20(1).jpg"
-  title: Activist Fashion Blogger, Author & Photographer
   link: 
 speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
