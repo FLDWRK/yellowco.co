@@ -305,6 +305,12 @@ sponsors:
 - title: Cheeky Home
   image: "/uploads/Cheeky.png"
   link: https://www.cheekyhome.com/
+- title: Ursa Major
+  image: "/uploads/Ursa_Major_Logo_grande.png"
+  link: https://www.ursamajorvt.com/
+- title: Tumble
+  image: "/uploads/Tumble.png"
+  link: https://www.wearetumble.com/
 layout: custom/conference
 ---
 
