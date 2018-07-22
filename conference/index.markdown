@@ -42,7 +42,7 @@ speakers:
   title: THINX CoFounder and Serial Entrepreneur
   link: https://www.mikiagrawal.com/
 - name: Hoda Katebi
-  image: "/uploads/Screenshot%202018-07-22%2013.08.27.png"
+  image: "/uploads/Screenshot%202018-07-22%2013.25.49.png"
   title: Activist Fashion Blogger, Author & Photographer
   link: 
 - name: Nikia Phoenix
