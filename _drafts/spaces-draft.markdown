@@ -57,6 +57,6 @@ Roswell, GA
 
 [Circle+Moon’s](https://www.circleandmoon.com/) vision is to create a community of female leaders by offering the support, resources, and space necessary for women to find their voice and shine their light. In addition to their office space and weekly events such as manifestation workshops and lunch hour yoga, Circle+Moon also facilitates a weekly mastermind group to support women-owned businesses through connection, collaboration, and accountability. 
 
-She Writes Press publisher, Brooke Warner, emphasized the importance of women-only spaces: “Equality is not a zero-sum game. Women getting ahead doesn’t compromise men’s power. It just normalizes the reality that women do get ahead, and that we’re as capable as men of doing so.”
+She Writes Press publisher, Brooke Warner, [emphasized](https://www.huffingtonpost.com/entry/why-women-only_us_58d04f10e4b07112b64730e4) the importance of women-only spaces: “Equality is not a zero-sum game. Women getting ahead doesn’t compromise men’s power. It just normalizes the reality that women do get ahead, and that we’re as capable as men of doing so.”
 
 Thanks to these spaces, more and more women are showing what they’re capable of by finding their place and taking up space in the world. We can get behind any movement that encourages more women to feel that they belong and can truly be themselves. 
