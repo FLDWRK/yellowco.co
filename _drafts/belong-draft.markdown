@@ -4,46 +4,48 @@ date: 2018-07-30 04:00:00 -07:00
 categories:
 - Growth
 author: Hanna Snyder
+image: "/uploads/faces.jpg"
+series: Belong
 ---
 
-Some say, it’s an ease
-A pick up and go
-Endlessly open door
-Come without calling
+Some say, it’s an ease  
+A pick up and go  
+Endlessly open door  
+Come without calling  
 Home
 
-Some say, it’s like waking up daily
-to sun warming your skin
-A perfect circle promise
-Restful, rush-less 
+Some say, it’s like waking up daily  
+to sun warming your skin  
+A perfect circle promise  
+Restful, rush-less  
 Content 
 
-Some say, it’s in the threads
-Familiar intonation of steps across the floor
-or half-woken voice 
-A gaze you can rest in without words
+Some say, it’s in the threads  
+Familiar intonation of steps across the floor  
+or half-woken voice  
+A gaze you can rest in without words  
 Known
 
-Some say, it’s in the bigness
-Jagged coastlines and jade-colored water
-Swells of the wild 
-calling your core to be one 
+Some say, it’s in the bigness  
+Jagged coastlines and jade-colored water  
+Swells of the wild  
+calling your core to be one   
 Communion
 
-Some say, it’s finding a mirror
-Reciprocal tone to the grit 
-you’ve gone through
-A fellow romantic’s lack of logic 
+Some say, it’s finding a mirror  
+Reciprocal tone to the grit  
+you’ve gone through  
+A fellow romantic’s lack of logic  
 Kindred
 
-Some say, it’s everything
-The exhale our souls search for
-Push to grow further
-Pull dearly close
-A place to, space to
+Some say, it’s everything  
+The exhale our souls search for  
+Push to grow further  
+Pull dearly close  
+A place to, space to  
 Belong
 
--
+![hands red new.jpg](/uploads/hands%20red%20new.jpg)
 
 It’s in our skin, you know? That deep-rooted need to sit across from someone, and be seen. It fuels the craving inside of us to run our fingers across the carpet we used to crawl on; to smell the same blooming spring that marks a time when we too grew; to feel no need to be anything, but the freedom to just be. Our sense of true belonging allows all that you are to be enough - for others, for yourself. It has the great ability to flourish us into the greatest versions of ourselves, or in the lack of it, to crumble us. It’s been recognized for years as one of our core human motivations, and for centuries, as essential to our survival. Whether it be your family, friends, coworkers, or team - belonging to a people, a community, is a need we cannot deny. 
 
