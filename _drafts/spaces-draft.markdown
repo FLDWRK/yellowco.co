@@ -6,9 +6,7 @@ categories:
 series: Belong
 ---
 
-Series: Belong
-Title: Why Women Need Their Own Space to Work—and 8 Places You Can Find Them
-Author: Jenna Britton
+Why Women Need Their Own Space to Work—and 8 Places You Can Find Them
 
 The independent workforce has accelerated rapidly, and shared coworking spaces have popped up just as quickly to accommodate it. A 2017 study showed that women make up 44% of the population in these shared spaces, so it might comes as little surprise that recently coworking communities have shifted their demographic focus more squarely to women.
 
