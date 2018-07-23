@@ -47,9 +47,13 @@ Belong
 
 ![hands red new.jpg](/uploads/hands%20red%20new.jpg)
 
-It’s in our skin, you know? That deep-rooted need to sit across from someone, and be seen. It fuels the craving inside of us to run our fingers across the carpet we used to crawl on; to smell the same blooming spring that marks a time when we too grew; to feel no need to be anything, but the freedom to just be. Our sense of true belonging allows all that you are to be enough - for others, for yourself. It has the great ability to flourish us into the greatest versions of ourselves, or in the lack of it, to crumble us. It’s been recognized for years as one of our core human motivations, and for centuries, as essential to our survival. Whether it be your family, friends, coworkers, or team - belonging to a people, a community, is a need we cannot deny. 
+### It’s in our skin, you know? That deep-rooted need to sit across from someone, and be seen. 
+
+It fuels the craving inside of us to run our fingers across the carpet we used to crawl on; to smell the same blooming spring that marks a time when we too grew; to feel no need to be anything, but the freedom to just be. Our sense of true belonging allows all that you are to be enough - for others, for yourself. It has the great ability to flourish us into the greatest versions of ourselves, or in the lack of it, to crumble us. It’s been recognized for years as one of our core human motivations, and for centuries, as essential to our survival. Whether it be your family, friends, coworkers, or team - belonging to a people, a community, is a need we cannot deny. 
 
 Inviting others into our lives, it does so much more than keep us from loneliness; the people in our lives change us. They teach us new ways to see the world; they balance our weaknesses and inspire growth; they can be the muses that allow our imaginations to run wild with new dreams. Humans are most often our driving force of purpose - from the injustices we fight for, to the faces that fill the seats of our dinner table. How is it then, that many nations around the world now recognize the “loneliness epidemic” we seem to be facing? For as indispensable an element of life as belonging is, it’s something so many of us are not experiencing to the full.
+
+![lines.jpg](/uploads/lines.jpg)
 
 In 2017, a study presented by Julianne Holt-Lunstad, PhD, professor of psychology at Brigham Young University, showed that a greater social connection is associated with a 50% reduced risk of early death. In contrast, social isolation, loneliness, or living alone is proving to have an equal, or greater, effect on the risk of premature death as obesity. More and more, we are recognizing that our emotional needs carry as much weight as the physical when it comes to our health. And while the awareness is a huge step forward, will we choose to now move in the way necessary to truly prioritize our mental and emotional needs?
 
