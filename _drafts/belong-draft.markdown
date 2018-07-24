@@ -4,7 +4,7 @@ date: 2018-07-30 04:00:00 -07:00
 categories:
 - Growth
 author: Hanna Snyder
-image: "/uploads/faces.jpg"
+image: "/uploads/faces-0f3742.jpg"
 series: Belong
 ---
 
