@@ -90,8 +90,8 @@ speakers:
   link: 
 - name: Enid Hwang
   image: "/uploads/Screen%20Shot%202018-07-24%20at%2010.51.12%20AM.png"
-  title: 
-  link: 
+  title: Head of Culture & Community at Pinterest
+  link: http://pinterest.com/enid
 speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
   image: "/uploads/Yellow2016-146.jpg"
