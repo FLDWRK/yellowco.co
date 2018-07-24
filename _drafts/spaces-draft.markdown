@@ -4,6 +4,7 @@ date: 2018-08-01 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Jenna Britton
+image: "/uploads/wing%201-1.jpg"
 series: Belong
 ---
 
@@ -26,7 +27,7 @@ _Seattle, WA (Capitol Hill & Fremont) –– Los Angeles, CA (West LA & Marina d
 
 Seattle-based company, [The Riveter](https://www.theriveter.co/), says they design their workspaces for the way women work. That means a gorgeous aesthetic, a mix of open and private areas, tranquil meditation rooms, and plenty of educational and cultural programs to attend. The Riveter founder, Amy Sterner Nelson, and her team are also deeply committed to political activism, making it their mission to support women at work and in the world. Their second Los Angeles location in [Marina del Rey](https://www.theriveter.co/los-angeles/marina-del-rey) officially opens _today_! 
 
-![Pasted-image-at-2018_03_14-07_05-PM.png](/uploads/Pasted-image-at-2018_03_14-07_05-PM.png)
+![wing 2-1.jpg](/uploads/wing%202-1.jpg)
 
 ##### [The Wing](https://www.the-wing.com/)  
 New York, NY - Washington D.C. - San Francisco, CA
