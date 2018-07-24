@@ -20,7 +20,7 @@ Plus, the #MeToo movement — which has ousted [417 high-profile people](https:/
 In looking for spaces that are more accessible and safe for them, women have been creating and turning to communities of their own to create, collaborate, and learn. And if the following eight female-focused coworking spaces are any indication, there is clearly value — and interest! — in offering these niche spaces where women can truly belong.
 
 ##### [The Riveter](https://www.theriveter.co/)  
-_Seattle, WA –– Los Angeles, CA (West LA & Marina del Rey)_
+_Seattle, WA (Capitol Hill & Fremont) –– Los Angeles, CA (West LA & Marina del Rey)_
 
 Seattle-based company, [The Riveter](https://www.theriveter.co/), says they design their workspaces for the way women work. That means a gorgeous aesthetic, a mix of open and private areas, tranquil meditation rooms, and plenty of educational and cultural programs to attend. The Riveter founder, Amy Sterner Nelson, and her team are also deeply committed to political activism, making it their mission to support women at work and in the world. Their second Los Angeles location in [Marina del Rey](https://www.theriveter.co/los-angeles/marina-del-rey) officially opens _today_! 
 
