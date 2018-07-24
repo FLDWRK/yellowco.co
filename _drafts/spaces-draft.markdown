@@ -46,6 +46,13 @@ Carlsbad, CA - San Diego, CA - Phoenix, AZ
 
 As the first international co-working space for women, [Hera Hub](https://herahub.com/) may have arguably laid the foundation for this new trend. But Hera Hub isn’t just about women coming together to work in a shared office space — the company also supports its members as a business accelerator, offering education, mentoring, and collaborative opportunities to help women build a prosperous (and profitable) business. There is also an an angel investment division specifically for their female entrepreneurs.
 
+![circle   moon-18.jpg](/uploads/circle%20%20%20moon-18.jpg)
+
+##### [Circle+Moon](https://www.circleandmoon.com/)  
+Roswell, GA
+
+[Circle+Moon’s](https://www.circleandmoon.com/) vision is to create a community of female leaders by offering the support, resources, and space necessary for women to find their voice and shine their light. In addition to their office space and weekly events such as manifestation workshops and lunch hour yoga, Circle+Moon also facilitates a weekly mastermind group to support women-owned businesses through connection, collaboration, and accountability. 
+
 ![DSC_7133-1-1.jpeg](/uploads/DSC_7133-1-1.jpeg)
 
 ##### [Women in Kind](https://www.womeninkind.com/)  
@@ -64,11 +71,6 @@ Minneapolis, MN
 Portland, OR
 
 Portland’s [The Perlene](https://www.theperlene.com/) bills itself as the perfect place to renew your spirit and get sh*t done. With a strong focus on feminine leadership (what Perlene’s founders say they hope becomes the standard), this female-focused coworking space offers not only a place for women to work, but also a place for them to learn, to connect, and to rest and recharge once the work is done (for that day, at least!). Part social club and part workspace, their (feminist) community always comes first at The Perlence.
-
-##### [Circle+Moon](https://www.circleandmoon.com/)  
-Roswell, GA
-
-[Circle+Moon’s](https://www.circleandmoon.com/) vision is to create a community of female leaders by offering the support, resources, and space necessary for women to find their voice and shine their light. In addition to their office space and weekly events such as manifestation workshops and lunch hour yoga, Circle+Moon also facilitates a weekly mastermind group to support women-owned businesses through connection, collaboration, and accountability. 
 
 Publisher and author, Brooke Warner, [emphasized](https://www.huffingtonpost.com/entry/why-women-only_us_58d04f10e4b07112b64730e4) the importance of women-only spaces: “Equality is not a zero-sum game. Women getting ahead doesn’t compromise men’s power. It just normalizes the reality that women do get ahead, and that we’re as capable as men of doing so.”
 
