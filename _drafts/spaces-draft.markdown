@@ -74,4 +74,4 @@ Publisher and author, Brooke Warner, [emphasized](https://www.huffingtonpost.com
 
 Thanks to these spaces, more and more women are showing what they’re capable of by finding their place and taking up space in the world. We can get behind any movement that encourages more women to feel that they belong and can truly be themselves. 
 
-Images via The Wing, The Riveter, The Hivery, Circle+Moon, The Coven
+Images via [The Wing](https://www.the-wing.com/), [The Riveter](https://www.theriveter.co/), [The Hivery](https://www.thehivery.com/), [Circle+Moon](https://www.circleandmoon.com/), [The Coven](https://www.thecovenmpls.com/)
