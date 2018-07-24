@@ -19,15 +19,21 @@ Plus, the #MeToo movement — which has ousted [417 high-profile people](https:/
 
 In looking for spaces that are more accessible and safe for them, women have been creating and turning to communities of their own to create, collaborate, and learn. And if the following eight female-focused coworking spaces are any indication, there is clearly value — and interest! — in offering these niche spaces where women can truly belong.
 
+![TheRiveter_CapitolHill010_CreditAljohnGaviola-1.jpg](/uploads/TheRiveter_CapitolHill010_CreditAljohnGaviola-1.jpg)
+
 ##### [The Riveter](https://www.theriveter.co/)  
 _Seattle, WA (Capitol Hill & Fremont) –– Los Angeles, CA (West LA & Marina del Rey)_
 
 Seattle-based company, [The Riveter](https://www.theriveter.co/), says they design their workspaces for the way women work. That means a gorgeous aesthetic, a mix of open and private areas, tranquil meditation rooms, and plenty of educational and cultural programs to attend. The Riveter founder, Amy Sterner Nelson, and her team are also deeply committed to political activism, making it their mission to support women at work and in the world. Their second Los Angeles location in [Marina del Rey](https://www.theriveter.co/los-angeles/marina-del-rey) officially opens _today_! 
 
+![Pasted-image-at-2018_03_14-07_05-PM.png](/uploads/Pasted-image-at-2018_03_14-07_05-PM.png)
+
 ##### [The Wing](https://www.the-wing.com/)  
 New York, NY - Washington D.C. - San Francisco, CA
 
-[The Wing’s](https://www.the-wing.com/) focus is on female community, whether that means coming together for work or play. With three offices in New York, one in Washington D.C., another in San Francisco, and several more locations planned across the country and globe, the company is clearly growing rapidly. The Wing’s community and coworking spaces are inspired by the women’s club movement of the late 19th century. Much like those early women’s groups, The Wing encourages the advancement of women by coming together in a physical space to share ideas, opportunities, and conversations.
+[The Wing’s](https://www.the-wing.com/) focus is on female community, whether that means coming together for work or play. With three offices in New York, one in Washington D.C., another coming to San Francisco, and several more locations planned across the country and globe, the company is clearly growing rapidly. The Wing’s community and coworking spaces are inspired by the women’s club movement of the late 19th century. Much like those early women’s groups, The Wing encourages the advancement of women by coming together in a physical space to share ideas, opportunities, and conversations.
+
+![i-6FNR9nb-X3.jpg](/uploads/i-6FNR9nb-X3.jpg)
 
 ##### [The Hivery](https://www.thehivery.com/)  
 Mill Valley, CA
@@ -39,10 +45,14 @@ Carlsbad, CA - San Diego, CA - Phoenix, AZ
 
 As the first international co-working space for women, [Hera Hub](https://herahub.com/) may have arguably laid the foundation for this new trend. But Hera Hub isn’t just about women coming together to work in a shared office space — the company also supports its members as a business accelerator, offering education, mentoring, and collaborative opportunities to help women build a prosperous (and profitable) business. There is also an an angel investment division specifically for their female entrepreneurs.
 
+![DSC_7133-1-1.jpeg](/uploads/DSC_7133-1-1.jpeg)
+
 ##### [Women in Kind](https://www.womeninkind.com/)  
 Denver, CO
 
 [Women in Kind](https://www.womeninkind.com/) makes an important promise to its female members from the start: They won’t ask you to “figure it out” on your own. Instead, they’ll identify, anticipate, and provide what you need to succeed as a woman and a business owner — and integrate your time at work with your needs in life. To them, that means providing office spaces that are warm enough so that you’re not shivering at your desk, on-site dedicated play spaces for children so that you can work without worry or distraction, and access to lifestyle resources such as dry cleaning and meal planning services. 
+
+![CovenEnvironment-26.jpg](/uploads/CovenEnvironment-26.jpg)
 
 ##### [The Coven](https://www.thecovenmpls.com/)  
 Minneapolis, MN
