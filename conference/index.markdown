@@ -88,6 +88,10 @@ speakers:
   image: "/uploads/More-To-Come-05-05-5f0dfa.png"
   title: 
   link: 
+- name: Enid Hwang
+  image: "/uploads/Screen%20Shot%202018-07-24%20at%2010.51.12%20AM.png"
+  title: 
+  link: 
 speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
   image: "/uploads/Yellow2016-146.jpg"
