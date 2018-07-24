@@ -53,6 +53,11 @@ Roswell, GA
 
 [Circle+Moon’s](https://www.circleandmoon.com/) vision is to create a community of female leaders by offering the support, resources, and space necessary for women to find their voice and shine their light. In addition to their office space and weekly events such as manifestation workshops and lunch hour yoga, Circle+Moon also facilitates a weekly mastermind group to support women-owned businesses through connection, collaboration, and accountability. 
 
+##### [The Perlene](https://www.theperlene.com/)  
+Portland, OR
+
+Portland’s [The Perlene](https://www.theperlene.com/) bills itself as the perfect place to renew your spirit and get sh*t done. With a strong focus on feminine leadership (what Perlene’s founders say they hope becomes the standard), this female-focused coworking space offers not only a place for women to work, but also a place for them to learn, to connect, and to rest and recharge once the work is done (for that day, at least!). Part social club and part workspace, their (feminist) community always comes first at The Perlene.
+
 ![DSC_7133-1-1.jpeg](/uploads/DSC_7133-1-1.jpeg)
 
 ##### [Women in Kind](https://www.womeninkind.com/)  
@@ -66,11 +71,6 @@ Denver, CO
 Minneapolis, MN
 
 [The Coven](https://www.thecovenmpls.com/) is a collaborative community of women and non-binary people — and it is the first organization of its kind in the midwest! More of a social club than an office space, The Coven bills itself as a place to “become the absolute best version of yourself through connection, collaboration, and content.” With countless events and workshops — ranging from “How She Built It” talks with local entrepreneurs, to meeting with local gubernatorial candidates, to volunteering at The Crisis Nursery — and services ranging from task management to meal prep, The Coven truly does offer its members an opportunity to make progress and find success in every aspect of their lives.
-
-##### [The Perlene](https://www.theperlene.com/)  
-Portland, OR
-
-Portland’s [The Perlene](https://www.theperlene.com/) bills itself as the perfect place to renew your spirit and get sh*t done. With a strong focus on feminine leadership (what Perlene’s founders say they hope becomes the standard), this female-focused coworking space offers not only a place for women to work, but also a place for them to learn, to connect, and to rest and recharge once the work is done (for that day, at least!). Part social club and part workspace, their (feminist) community always comes first at The Perlence.
 
 Publisher and author, Brooke Warner, [emphasized](https://www.huffingtonpost.com/entry/why-women-only_us_58d04f10e4b07112b64730e4) the importance of women-only spaces: “Equality is not a zero-sum game. Women getting ahead doesn’t compromise men’s power. It just normalizes the reality that women do get ahead, and that we’re as capable as men of doing so.”
 
