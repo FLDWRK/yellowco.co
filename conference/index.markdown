@@ -318,6 +318,9 @@ sponsors:
 - title: Suja
   image: "/uploads/Suja.png"
   link: https://www.sujajuice.com/
+- title: Unplug Meditation
+  image: "/uploads/Unplug.png"
+  link: https://www.unplug.com/
 layout: custom/conference
 ---
 
