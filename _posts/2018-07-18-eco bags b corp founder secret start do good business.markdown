@@ -1,5 +1,5 @@
 ---
-title: Eco Bags B-Corp Founder Spills the Secret on How to Make a Living Running a
+title: ECOBAGS B-Corp Founder Spills the Secret on How to Make a Living Running a
   Do-Good Business
 date: 2018-07-18 04:00:00 -07:00
 categories:
