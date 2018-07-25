@@ -44,7 +44,7 @@ speakers:
 - name: Hoda Katebi
   image: "/uploads/Screenshot%202018-07-22%2013.25.49.png"
   title: Activist Fashion Blogger, Author & Photographer
-  link: 
+  link: http://www.joojooazad.com/
 - name: Nikia Phoenix
   image: "/uploads/yc2018-speakers-nikia-phoenix.jpg"
   title: Model, Writer, Founder
