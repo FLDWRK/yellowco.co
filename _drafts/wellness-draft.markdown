@@ -7,7 +7,7 @@ author: Brianna Towne
 series: Belong
 ---
 
-Throughout the course of my career as a nutritionist, I’ve noticed a reoccurring theme. In my education, my training, and my observations of clients and humans in general, I see an area of healing that’s often left out of the conversation: Human Connection.
+Throughout the course of my career as a nutritionist, I’ve noticed a reoccurring theme. In my education, my training, and my observations of clients and humans in general, I see an area of healing that’s often left out of the conversation: human connection.
 
 Humans are biological creatures. We need food and water and physical activity to survive, to help protect against chronic disease, to keep our bodies moving easily through old age. It’s essential, it’s vital, it’s non-negotiable. But humans are also social creatures. We crave social interactions, belonging, someone to share a life with. 
 
