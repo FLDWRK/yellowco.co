@@ -55,15 +55,15 @@ speakers:
   title: Writer & Writing Coach
   company: Allison Fallon
   link: https://allisonfallon.com/
+- name: Enid Hwang
+  image: "/uploads/Screen%20Shot%202018-07-24%20at%2010.51.12%20AM.png"
+  title: Head of Culture & Community at Pinterest
+  link: http://pinterest.com/enid
 - name: Brittany & Ian Bentley
   image: "/uploads/yc2018-speakers-bently.jpg"
   title: Co-Founders
   company: Parker Clay
   link: https://parkerclay.com/
-- name: Enid Hwang
-  image: "/uploads/Screen%20Shot%202018-07-24%20at%2010.51.12%20AM.png"
-  title: Head of Culture & Community at Pinterest
-  link: http://pinterest.com/enid
 - name: Alison Faulkner
   image: "/uploads/Screen%20Shot%202018-07-26%20at%202.26.56%20PM.png"
   title: Branding Expert, Podcast Host, Founder of The Alison Show
