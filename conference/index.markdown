@@ -92,6 +92,10 @@ speakers:
   image: "/uploads/More-To-Come-05-05-5f0dfa.png"
   title: 
   link: 
+- name: Alison Faulkner
+  image: "/uploads/Screen%20Shot%202018-07-26%20at%202.26.56%20PM.png"
+  title: Branding Expert, Podcast Host, Founder of The Alison Show
+  link: https://www.instagram.com/thealisonshow/?hl=en
 speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
   image: "/uploads/Yellow2016-146.jpg"
