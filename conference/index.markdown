@@ -50,10 +50,11 @@ speakers:
   title: Model, Writer, Founder
   company: Black Girl Beautiful
   link: https://linktr.ee/nikiaphoenix
-- name: Alison Faulkner
-  image: "/uploads/Screen%20Shot%202018-07-26%20at%202.26.56%20PM.png"
-  title: Branding Expert, Podcast Host, Founder of The Alison Show
-  link: https://www.instagram.com/thealisonshow/?hl=en
+- name: Allison Fallon
+  image: "/uploads/yc2018-speakers-allison-fallon.jpg"
+  title: Writer & Writing Coach
+  company: Allison Fallon
+  link: https://allisonfallon.com/
 - name: Brittany & Ian Bentley
   image: "/uploads/yc2018-speakers-bently.jpg"
   title: Co-Founders
@@ -63,11 +64,10 @@ speakers:
   image: "/uploads/Screen%20Shot%202018-07-24%20at%2010.51.12%20AM.png"
   title: Head of Culture & Community at Pinterest
   link: http://pinterest.com/enid
-- name: Allison Fallon
-  image: "/uploads/yc2018-speakers-allison-fallon.jpg"
-  title: Writer & Writing Coach
-  company: Allison Fallon
-  link: https://allisonfallon.com/
+- name: Alison Faulkner
+  image: "/uploads/Screen%20Shot%202018-07-26%20at%202.26.56%20PM.png"
+  title: Branding Expert, Podcast Host, Founder of The Alison Show
+  link: https://www.instagram.com/thealisonshow/?hl=en
 - name: Liz Skalla, Panelist
   image: "/uploads/Liz-Skalla.jpg"
   title: Co-founder, GIVN Goods
