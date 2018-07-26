@@ -3,6 +3,8 @@ title: Home
 position: 4
 body-class: home
 banners:
+- link: https://www.universe.com/events/yellow-conference-2018-tickets-los-angeles-SKLDM0
+  image: "/uploads/TICKET-GO-UP.jpg"
 - link: https://www.dropbox.com/s/0ro6sfa415zade6/Convince-Your-Boss-Yellow-2018.pdf?dl=0
   image: "/uploads/Convince-Your-Boss.jpg"
 - link: "/conference"
@@ -10,6 +12,8 @@ banners:
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 sm-banners:
+- link: https://www.universe.com/events/yellow-conference-2018-tickets-los-angeles-SKLDM0
+  image: "/uploads/TICKET-GO-UP-sm.jpg"
 - link: https://www.dropbox.com/s/0ro6sfa415zade6/Convince-Your-Boss-Yellow-2018.pdf?dl=0
   image: "/uploads/Convince-Your-Boss-sm.jpg"
 - link: "/conference"
