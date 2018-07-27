@@ -4,6 +4,7 @@ date: 2018-08-03 04:00:00 -07:00
 categories:
 - Health
 author: Brianna Towne
+image: "/uploads/Yellow-Voice-47.jpg"
 series: Belong
 ---
 
