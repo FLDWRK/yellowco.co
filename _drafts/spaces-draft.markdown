@@ -1,5 +1,5 @@
 ---
-title: spaces draft
+title: 8 Coworking Spaces Designed Uniquely for Women to
 date: 2018-08-01 04:00:00 -07:00
 categories:
 - Entrepreneurs
@@ -7,8 +7,6 @@ author: Jenna Britton
 image: "/uploads/wing%201-1.jpg"
 series: Belong
 ---
-
-Why Women Need Their Own Space to Work—and 8 Places You Can Find Them
 
 The independent workforce has accelerated rapidly, and shared coworking spaces have popped up just as quickly to accommodate it. A [2017 study](https://www.slideshare.net/carstenfoertsch/members-of-coworking-spaces-demographic-background-global-coworking-survey-80058366) showed that women make up 44% of the population in these shared spaces, so it might comes as little surprise that recently coworking communities have shifted their demographic focus more squarely to women.
 
