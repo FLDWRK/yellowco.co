@@ -7,7 +7,7 @@ nav:
     highlight: blog
 pagination:
   enabled: true
-series: Ability
+series: Belong
 layout: custom/blog
 ---
 
