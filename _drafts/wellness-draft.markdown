@@ -23,3 +23,5 @@ I recently stumbled upon a study done with a group of mothers of highly disabled
 ### Humans are biological creatures. We crave human connections. Not just because it feels cozy, but because it actually heals. 
 
 So how do you find it? Cultivate it? Make it work for you? The key is to find the right kind of connections, the groups that will lift you up instead of tear you down. The humans who want to connect with you because of you, and not because they need something in return. In my life, I’ve found these healing human connections through the women in the [Yellow Collective](https://yellowco.co/membership/), through [Bossladies Worksesh](https://www.bossladies.us/worksesh/), and through the women in my yoga teacher training. Follow your intuition, follow your passions, and find (or create!) groups of women who fill that space for you. Keeping in mind that a "group" can simply be you and one other rad lady gabbing over coffee. 
+
+_Photos by [Kate Spencer Photo](http://katespencerphoto.com/)_
