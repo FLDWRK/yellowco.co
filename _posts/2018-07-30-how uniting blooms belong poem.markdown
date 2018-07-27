@@ -1,8 +1,16 @@
 ---
-title: belong draft
+title: 'How Uniting as One Blooms: A Poem on Our Need to Belong'
 date: 2018-07-30 04:00:00 -07:00
 categories:
 - Growth
+tags:
+- belong
+- belonging
+- unite
+- mental health
+- personal growth
+- connection
+- illustration
 author: Hanna Snyder
 image: "/uploads/faces-0f3742.jpg"
 series: Belong
