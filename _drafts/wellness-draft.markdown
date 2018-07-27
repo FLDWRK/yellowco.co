@@ -1,5 +1,5 @@
 ---
-title: wellness draft
+title: The One Wellness Need Being Forgotten That Has a Huge Ability to Heal
 date: 2018-08-03 04:00:00 -07:00
 categories:
 - Health
