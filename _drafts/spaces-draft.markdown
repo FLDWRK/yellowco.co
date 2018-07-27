@@ -1,5 +1,5 @@
 ---
-title: 8 Coworking Spaces Designed Uniquely for Women to
+title: 8 Coworking Spaces Designed Specifically for Women to Flourish
 date: 2018-08-01 04:00:00 -07:00
 categories:
 - Entrepreneurs
