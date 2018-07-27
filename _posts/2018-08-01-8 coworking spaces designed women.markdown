@@ -3,6 +3,14 @@ title: 8 Coworking Spaces Designed Specifically for Women to Flourish
 date: 2018-08-01 04:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- coworking spaces
+- female coworking spaces
+- cowork
+- women coworking spaces
+- the riveter
+- the wing
+- the hivery
 author: Jenna Britton
 image: "/uploads/wing%201-1.jpg"
 series: Belong
