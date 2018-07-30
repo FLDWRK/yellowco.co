@@ -24,13 +24,19 @@ I began writing daily devotionals and sharing them on Instagram in 2014 on a sep
 
 I always love to share that because I honestly haven’t been sharing consistently for very long even though I have been creating for years, and I truly believe that everyone has something inside of that’s been waiting to be cultivated and shared with the world...and it’s never too late to get started!
 
+IMAGE
+
 ###### What do you think is the best way to continuously craft something that’s both true to yourself as an artist and earnestly giving to others?
 
 Every day, I write words and I make art for people who send me their story, a name, or a request for someone in their life. I do this because practicing generosity on a daily basis not only shows me how to connect with people on a heart-level, it reveals things within my own heart as well. I think many, if not all of us, struggle at some capacity with the fear that we will not have enough to give.
 
-We fear that will not have enough in our inner reservoir so we retreat and hold back. When I found this pattern appearing in my life, I knew I had to do something about it. I am so grateful for the grace that showed me that I didn’t have to sink further into this idea of “not having enough to give.”
+### We fear that will not have enough in our inner reservoir [to give] so we retreat and hold back. 
+
+When I found this pattern appearing in my life, I knew I had to do something about it. I am so grateful for the grace that showed me that I didn’t have to sink further into this idea of “not having enough to give.”
 
 Instead, I choose to bravely step forward and continue to give, trusting that whatever I was meant to share with others in my life, whether personally or professionally, it would be. I am still learning that it is up to me to take a deep breath and not let these fears hold the reigns of my creativity, my purpose, my life.
+
+IMAGE
 
 ###### How do you begin writing a poem for a reader who requests one?
 
@@ -45,6 +51,8 @@ From there, I write thinking of different ways to say that phrase. I also always
 I firmly believe in spending a little time digging for the right words, and sometimes, you don’t even know what you’re looking for until you sit down and write it all out. This is why I love writing for others so often. It’s so easy to judge my own writing as I’m writing and let self-doubt take over the process, but when I remember that there is another human being on the other side of this and the purpose is to encourage them, it becomes a lot more like a writing a letter and a lot less like trying to create the most perfect piece of art.
 
 Additionally, I use the mind map method, especially when I feel stuck. This is just one way of getting those words down on paper first without worrying about how it’s going to fit perfectly together.
+
+IMAGE
 
 ###### What would you say is your mission specifically with your Instagram audience?
 
@@ -64,15 +72,19 @@ So about six months ago I just decided, “Why not just publish it all and let t
 
 It can be hard to keep it all organized on the back end, but it’s still worth it for me to be able to see other people interact with the art in this way.
 
+IMAGE
+
 ###### This month at Yellow, we’re focusing on the theme “Belong”; exploring the many ways we desire to belong as humans and recognizing that this is a shared search to be part of a larger whole. Not only are we all in this thing together, but we are a much richer palette as one than we ever could be on our own. How has the idea of belonging influenced your life and your work?
 
-‘Belong’ has been a very potent word in my life. I grew up as a homeschooled preacher’s kid in a small town. Oftentimes, it felt like the concept of ‘belonging’ didn’t really extend beyond my family. I never had strong friend groups and struggled to understand community’s role in my life, especially leading into my college years.
+"Belong" has been a very potent word in my life. I grew up as a homeschooled preacher’s kid in a small town. Oftentimes, it felt like the concept of "belonging" didn’t really extend beyond my family. I never had strong friend groups and struggled to understand community’s role in my life, especially leading into my college years.
 
 Afraid of really dealing with those emotions, I retreated inward, and thought that it would be easier to just try and go at things on my own. If other people came along, then great, but if they didn’t, I had to keep going. However, as I began to create more and share it online, I met other people who were dealing with these same feelings.
 
-I began to learn that community wasn’t made up of people who had this whole ‘belonging’ thing figured out in every aspect of their life.
+### I began to learn that community wasn’t made up of people who had this whole ‘belonging’ thing figured out in every aspect of their life.
 
 Healthy, meaningful community was made up of people who were broken and who had questions just like I did, and if we all allowed ourselves to open up and be a little more vulnerable about this, we would see that at our core, we have more in common than we think, and that there is a place for all of us.
+
+IMAGE
 
 ###### How did the way you grew up influence the themes of what you write and draw?
 
@@ -80,19 +92,21 @@ Both of my parents are in ministry and are highly creative. They are both writer
 
 I often joke with them that all I really do is copy what they did, but with Instagram! I do consider it an enormous blessing that even though we didn’t have a lot growing up in terms of material things, the creative gene and compassionate spirit I got from my parents is priceless and I wouldn’t trade it.
 
-W###### ho are a few artists that inspire you?
+###### Who are a few artists that inspire you?
 
 Jon Foreman of Switchfoot is probably one of my favorite artists/writers of all time. I discovered their music in high school when I was dealing with those feelings of not belonging, and when I listened to the message in their music, I felt understood, and it gave me so much hope.
 
 I am also inspired by the photographer Ansel Adams, writers like C.S. Lewis, Langston Hughes, Rita Dove, John Muir and many, many more.
 
+IMAGE
+
 ###### Lastly, what advice would you give to a creative person wanting to grow their body of work?
 
-My advice to the one who wants to grow their body of work is first, to pay attention. Pay attention to the things that you could spend hours doing. Pay attention to things that calm you or give you a fresh perspective on life.
+My advice to the one who wants to grow their body of work is first, to pay attention. 
 
-Do you feel that way when you are painting? Designing? Writing? Photographing? And from there, continue to dig deeper. Pay attention to the kind of photography that speaks to you to the most.
+### Pay attention to the things that you could spend hours doing. Pay attention to things that calm you or give you a fresh perspective on life.
 
-Pay attention to the subjects you tend to write a few more paragraphs about over other subjects.
+Do you feel that way when you are painting? Designing? Writing? Photographing? And from there, continue to dig deeper. Pay attention to the kind of photography that speaks to you to the most. Pay attention to the subjects you tend to write a few more paragraphs about over other subjects.
 
 Even when it gets hard or things aren’t turning out the way you want them to, you can still look back at all the work you’ve created with gratitude for how far you have come. Why? Because the work will be honest and authentic to you, no matter what happens.
 
