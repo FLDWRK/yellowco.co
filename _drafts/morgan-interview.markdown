@@ -5,16 +5,16 @@ author: Melanie Loon
 series: Belong
 ---
 
-_During a rough patch this year, I kept seeing a melodic name reposted on Instagram. I’m not much of a poetry reader, so when I see stanzas spaced out, I often keep scrolling. Then those stanzas came to encourage me, as one of my best friends began sending me [Morgan Harper Nichols’](https://www.instagram.com/morganharpernichols/) poems.
+_During a rough patch this year, I kept seeing a melodic name reposted on Instagram. I’m not much of a poetry reader, so when I see stanzas spaced out, I often keep scrolling. Then those stanzas came to encourage me, as one of my best friends began sending me [Morgan Harper Nichols’](https://www.instagram.com/morganharpernichols/) poems._
 
-If you’ve ever read her letters, you know they’re like water in the desert. If you haven’t, it’s time for a sip.
-Writing personalized letters (for free!) for her readers, Morgan lets her audience in on the journal notes, mind map drawings and ProCreate tips that culminate in her signature illustrated poetry. So on the subject of social media as related to this month’s theme of BELONG, she was the one to interview.
+_If you’ve ever read her letters, you know they’re like water in the desert. If you haven’t, it’s time for a sip.
+Writing personalized letters (for free!) for her readers, Morgan lets her audience in on the journal notes, mind map drawings and ProCreate tips that culminate in her signature illustrated poetry. So on the subject of social media as related to this month’s theme of BELONG, she was the one to interview._
 
-Instagram holds a few different formulas for success, but what Morgan has is a craft. She is a friend to the creative process, and notes that while she just began more purposefully using mind maps as a writing tool this year, she enjoys that it can be its own art form, equal parts relaxing and productive.
+_Instagram holds a few different formulas for success, but what Morgan has is a craft. She is a friend to the creative process, and notes that while she just began more purposefully using mind maps as a writing tool this year, she enjoys that it can be its own art form, equal parts relaxing and productive._
 
-When asked about social media’s capacity for genuine belonging, she likened it to finding “a café or a book store in a crowded city that makes us feel at home,” concluding, “I believe there’s a version of that that can happen on crowded social media platforms as well.”
+_When asked about social media’s capacity for genuine belonging, she likened it to finding “a café or a book store in a crowded city that makes us feel at home,” concluding, “I believe there’s a version of that that can happen on crowded social media platforms as well.”_
 
-Overall, this is the reigning theme of Morgan’s work: generosity as a daily exercise against fear. Once that barrier has been faced, belonging flows freely, just as in our conversation below:_
+_Overall, this is the reigning theme of Morgan’s work: generosity as a daily exercise against fear. Once that barrier has been faced, belonging flows freely, just as in our conversation below:_
 
 ###### Tell us a bit about how you got started as a poet and artist. When did you start posting your poems regularly on Instagram?
 
