@@ -80,7 +80,7 @@ IMAGE
 
 Afraid of really dealing with those emotions, I retreated inward, and thought that it would be easier to just try and go at things on my own. If other people came along, then great, but if they didn’t, I had to keep going. However, as I began to create more and share it online, I met other people who were dealing with these same feelings.
 
-### I began to learn that community wasn’t made up of people who had this whole ‘belonging’ thing figured out in every aspect of their life.
+### I began to learn that community wasn’t made up of people who had this whole "belonging" thing figured out in every aspect of their life.
 
 Healthy, meaningful community was made up of people who were broken and who had questions just like I did, and if we all allowed ourselves to open up and be a little more vulnerable about this, we would see that at our core, we have more in common than we think, and that there is a place for all of us.
 
@@ -113,3 +113,5 @@ Even when it gets hard or things aren’t turning out the way you want them to, 
 Secondly, I would encourage them to make their work about other people. Join a conversation of a cause you’re passionate about and contribute to that conversation with art. Keep seeking ways to make a difference in everyday life by choosing to make things from your heart, for others.
 
 _This interview has been edited for length and clarity. Find out more about Morgan Harper Nichols by following her on Instagram: [@morganharpernichols](https://www.instagram.com/morganharpernichols/)._
+
+_Images courtesy of [Morgan Harper Nichols](https://www.instagram.com/morganharpernichols/)_
