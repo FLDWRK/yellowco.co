@@ -36,7 +36,11 @@ Instead, I choose to bravely step forward and continue to give, trusting that wh
 
 When someone requests that I write something for them, I always start with some variation of this: “If I were standing face to face with this person for the first time and wanted to say something encouraging, what would I say?”
 
-There’s this pressure when it comes to writing that if it isn’t “deep” or “original” then it’s not worthy of being written down. The truth is, telling someone, “It’s going to be okay,” or, “You are stronger than you think,” can really have an impact on someone, even if it’s been said a billion times before.  From there, I write thinking of different ways to say that phrase. I also always over-write and then edit later.
+There’s this pressure when it comes to writing that if it isn’t “deep” or “original” then it’s not worthy of being written down. 
+
+### The truth is, telling someone, “It’s going to be okay,” or, “You are stronger than you think,” can really have an impact on someone, even if it’s been said a billion times before.  
+
+From there, I write thinking of different ways to say that phrase. I also always over-write and then edit later.
 
 I firmly believe in spending a little time digging for the right words, and sometimes, you don’t even know what you’re looking for until you sit down and write it all out. This is why I love writing for others so often. It’s so easy to judge my own writing as I’m writing and let self-doubt take over the process, but when I remember that there is another human being on the other side of this and the purpose is to encourage them, it becomes a lot more like a writing a letter and a lot less like trying to create the most perfect piece of art.
 
@@ -44,7 +48,9 @@ Additionally, I use the mind map method, especially when I feel stuck. This is j
 
 ###### What would you say is your mission specifically with your Instagram audience?
 
-My mission with Instagram is to inspire others to tell their story, in their own unique and creative way. There are a lot of creative, charismatic people on this platform, and while that is inspiring, it can also be incredibly intimidating, even for people who are seasoned in their field. I want to show that while it may seem that it is only the viral video or shock-factor content that makes a difference, this is far from true.
+My mission with Instagram is to inspire others to tell their story, in their own unique and creative way. There are a lot of creative, charismatic people on this platform, and while that is inspiring, it can also be incredibly intimidating, even for people who are seasoned in their field. 
+
+### I want to show that while it may seem that it is only the viral video or shock-factor content that makes a difference, this is far from true.
 
 There is always at least one other person out there scrolling through their feed looking to be inspired by something new or to be reminded of what they already know to be true.
 
