@@ -53,7 +53,7 @@ I firmly believe in spending a little time digging for the right words, and some
 
 Additionally, I use the mind map method, especially when I feel stuck. This is just one way of getting those words down on paper first without worrying about how it’s going to fit perfectly together.
 
-![File_001(2) copy-1.jpg](/uploads/File_001(2)%20copy-1.jpg)
+![morgan.jpg](/uploads/morgan.jpg)
 
 ###### What would you say is your mission specifically with your Instagram audience?
 
