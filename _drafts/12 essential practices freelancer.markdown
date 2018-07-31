@@ -12,7 +12,7 @@ _If you're a freelancer, you know this type of work brings up endless questions,
 
 ###### Margeaux JoJo, Social Media Strategist  
 
-** [margeauxjojo.com](https://www.margeauxjojo.com/) | [@margeauxjojo](https://www.instagram.com/margeauxjojo/) **
+*[margeauxjojo.com](https://www.margeauxjojo.com/) - [@margeauxjojo](https://www.instagram.com/margeauxjojo/)*
 
 Hello! My name is Margeaux, but I got the nickname JoJo growing up because nobody could pronounce my name, haha! So it stuck! As a creative, I do many things, but mainly I’m a Social Media Strategist helping to brand the social media presences of local businesses and entrepreneurs. 
 
