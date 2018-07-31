@@ -8,7 +8,7 @@ series: Belong
 _During a rough patch this year, I kept seeing a melodic name reposted on Instagram. I’m not much of a poetry reader, so when I see stanzas spaced out, I often keep scrolling. Then those stanzas came to encourage me, as one of my best friends began sending me [Morgan Harper Nichols’](https://www.instagram.com/morganharpernichols/) poems._
 
 _If you’ve ever read her letters, you know they’re like water in the desert. If you haven’t, it’s time for a sip.
-Writing personalized letters (for free!) for her readers, Morgan lets her audience in on the journal notes, mind map drawings and ProCreate tips that culminate in her signature illustrated poetry. So on the subject of social media as related to this month’s theme of BELONG, she was the one to interview._
+Writing personalized letters (for free!) for her readers, Morgan lets her audience in on the journal notes, mind map drawings and ProCreate tips that culminate in her signature illustrated poetry. So on the subject of social media as related to this month’s Yellow theme of [Belong](https://yellowco.co/blog/2018/07/30/how-uniting-blooms-belong-poem/), she was definitely the one to interview._
 
 _Instagram holds a few different formulas for success, but what Morgan has is a craft. She is a friend to the creative process, and notes that while she just began more purposefully using mind maps as a writing tool this year, she enjoys that it can be its own art form, equal parts relaxing and productive._
 
