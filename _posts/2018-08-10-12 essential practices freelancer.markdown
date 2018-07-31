@@ -3,6 +3,12 @@ title: 12 Essential Practices for Freelancers, by Freelancers
 date: 2018-08-10 04:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- freelancers
+- freelance
+- freelance tips
+- freelance practices
+- freelance advice
 author: Yellow Co.
 image: "/uploads/kirill-zakharov-630681-unsplash-1.jpg"
 series: Belong
