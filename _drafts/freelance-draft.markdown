@@ -9,13 +9,13 @@ What are a few of your best freelance practices?
 
 ###### Margeaux JoJo
 
-Hello! My name is Margeaux (mar-jo), but I got the nickname JoJo growing up because nobody could pronounce my name, haha! So it just stuck! As a creative, I do many things, but mainly I’m a Social Media Strategist helping to brand the social media presences of local businesses and entrepreneurs.
-
-@margeauxjojo 
+Hello! My name is Margeaux, but I got the nickname JoJo growing up because nobody could pronounce my name, haha! So it stuck! As a creative, I do many things, but mainly I’m a Social Media Strategist helping to brand the social media presences of local businesses and entrepreneurs. 
 
 ### I believe that the world of social media is a real place and community where we can spread love and inspire people, while still generating income and using your talents. 
 
 It’s a platform to tell our story and do more good in a hurting world that needs it so much.
+
+[margeauxjojo.com](https://www.margeauxjojo.com/) | [@margeauxjojo](https://www.instagram.com/margeauxjojo/)
 
 #### Establish your rates, and packages, and why. 
 
