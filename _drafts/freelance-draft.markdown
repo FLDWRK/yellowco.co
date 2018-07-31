@@ -3,11 +3,13 @@ title: freelance draft
 date: 2018-08-10 04:00:00 -07:00
 categories:
 - Entrepreneurs
+author: Yellow Co.
+series: Belong
 ---
 
 What are a few of your best freelance practices?
 
-###### Margeaux JoJo
+###### Margeaux JoJo, Social Media Strategist  
 
 Hello! My name is Margeaux, but I got the nickname JoJo growing up because nobody could pronounce my name, haha! So it stuck! As a creative, I do many things, but mainly I’m a Social Media Strategist helping to brand the social media presences of local businesses and entrepreneurs. 
 
@@ -19,59 +21,68 @@ It’s a platform to tell our story and do more good in a hurting world that nee
 
 #### Establish your rates, and packages, and why. 
 
-The worst thing you can do is meet with a client for the first time or get asked your rates via DM and then not have an answer. It leaves room for doubt, inconsistency, and unprofessionalism. It’s not just the product, skill, and time you are getting paid for...it’s the experience working with you. What is an experience with YOU worth?  
+The worst thing you can do is meet with a client for the first time or get asked your rates via DM and not have an answer. It leaves room for doubt, inconsistency, and unprofessionalism. It’s not just the product, skill, and time you are getting paid for... it’s the experience of working with you. What is an experience with YOU worth?  
 
 #### Create a schedule.
 
-Freelancing has its positives and negatives. The freedom to not have to clock in or be stuck to a desk in an office can definitely be a plus, but not having the accountability can throw you off too. A whole week will go by and none of your deadlines and goals be accomplished. Schedule out the hours that are for work and play.
+Freelancing has its positives and negatives. The freedom to not have to clock in or be stuck to a desk in an office can definitely be a plus, but not having the accountability can throw you off too. A whole week will go by without any of your deadlines or goals being accomplished. Schedule out the hours that are for work and play.
 
 #### Never stop learning.
 
-The moment you get too comfortable or think you know it all, greatness comes to a halt. There’s always growing to be had, more wisdom to gain, and different perspectives to experience. Keep reading articles, listening to podcasts, watching Facebook LIVES, and attending conferences. Join other communities, get a mentor, and mentor others. 
+The moment you get too comfortable or think you know it all, greatness comes to a halt. There’s always growth to be had, more wisdom to gain, and different perspectives to experience. Keep reading articles, listening to podcasts, watching Facebook Live, and attending conferences. Join other communities, get a mentor, and mentor others. 
 
-#### Know your why and let it carry you in the tougher seasons.
+#### Know your purpose and let it carry you through tougher seasons.
 
-With freelancing, you will for sure experience seasons of heartache, doubt, and weariness. Whether that’s because people aren’t engaging with your content, no ones buying your product, clients back out, summer months are slow, others are doing it so much better than you, or you have to get a “real” job on top of freelancing because bills aren’t getting paid...remind yourself why you started in the first place and what your calling is. Let that sustain you and keep you hustling. And like the weather, seasons do change. 
+With freelancing, you will for sure experience seasons of heartache, doubt, and weariness. Whether that’s because people aren’t engaging with your content, no one's buying your product, clients back out, summer months are slow, others appear to be doing it so much better than you, or you have to get a “real” job on top of freelancing because bills aren’t getting paid... remind yourself why you started in the first place and what your calling is. Let that sustain you and keep you hustling. Because like the weather, seasons do change. 
 
-#### Self-Care, Balance, & Emotional Health
+#### Practice self-care, balance, & emotional health.
 
-Work hard but live your best life too! What’s the point of hustling if you aren’t able to enjoy the fruits? Give yourself permission to rest, get pampered, spend time with family, and just stop for a sec. Balance doesn’t always mean 50/50. Some days are 10/90 while others are no work at all. Fit in a therapy session, go to a church service, or spend a day binge watching HULU with your girlfriends or even by yourself if you need to. You can’t pour into others if you’re completely empty.
+Work hard, but live your best life too! What’s the point of hustling if you aren’t able to enjoy the fruits? Give yourself permission to rest, get pampered, spend time with family, and just stop for a second. Balance doesn’t always mean 50/50. Some days are 10/90, while others are no work at all. Fit in a therapy session, go to a church service, or spend a day binge watching Hulu with your girlfriends or even by yourself if you need to. You can’t pour into others if you’re completely empty.
 
-###### Elena Bosch
+###### Elena Bosch, Marketing Communications Strategist
 
-My website is www.elenabosch.com.
+[elenabosch.com](http://elenabosch.com/) | [@elena__bosch](https://www.instagram.com/elena__bosch/)
 
-I am marketing communications strategist. I work with brands to establish their voice online using content marketing, blogging, media placement and social media. Most of the brands I work with are either in non-profit or social impact sectors which I really enjoy because we can really get creative with how we get the word out about an issue, event or campaign.
+I am marketing communications strategist. I work with brands to establish their voice online using content marketing, blogging, media placement, and social media. Most of the brands I work with are either in non-profit or social impact sectors, which I really enjoy because we can get creative with how we get the word out about an issue, event, or campaign.
 
-#### 1. Done is better than perfect. 
+#### Done is better than perfect. 
 
 As a freelancer, you are your own boss and sometimes, you just need to be confident in the final product you produced. You have to know when a task is complete to the best of your ability and move on to the next task.
 
-#### 2. Time is your most precious asset. 
+#### Time is your most precious asset. 
 
-Be honest and realistic about the time you have. If you don't think it's feasible to get a task done on time, don't lie to a client or colleague. Be honest and up front about your time and protect your time fiercely. Determine how much you think your time is worth up front and learn how to delegate or say no when you need to.
+Be honest and realistic about the time you have. If you don't think it's feasible to get a task done on time, don't lie to a client or colleague. Be honest and up front about your time and protect your time fiercely. 
+
+### Determine how much you think your time is worth up front, and learn how to delegate or say no when you need to.
 
 Early in my career, I worked at a public relations agency and we had to bill our time. This helped me establish the habit of tracking my time meticulously in my calendar and putting every task, project deadline and event in my calendar so I can project for it appropriately.
  
-#### 3. Don't get trapped constantly comparing yourself to others. 
+#### Don't get trapped constantly comparing yourself to others. 
 
 While it's perfectly healthy to have positive role models and others around you to rally you on, don't let the success of others bring you down. Everyone works at their own pace and in their own divine timing. You were given a gift only you can give the world. Don't let the gifts of others distract you from the gift you were meant to give.
 
 Remember this great quote from First Lady, Eleanor Roosevelt, "No one can make you feel inferior without your consent." Another great one from her, "Great minds discuss ideas; average minds discuss events; small minds discuss people."
 
-###### Tia Meyers
+###### Tia Meyers, Founder of Freelancing Females
 
-Tia is the Founder of Freelancing Females, the world’s largest community of freelance women providing mentorship, support and opportunities. She also works as a social media consultant out of Brooklyn, NY
-Tiameyers.com 
+I'm the Founder of Freelancing Females, the world’s largest community of freelance women providing mentorship, support and opportunities. I also work as a social media consultant out of Brooklyn, NY.
 
-#### Whatever rate you think you should be starting at, raise it. 
+[tiameyers.com](http://www.tiameyers.com/) | [@tiameghan](https://www.instagram.com/tiameghan/) & [@freelancingfemales](https://www.instagram.com/freelancingfemales/)
 
-Don't be afraid to have open conversations with other women (& men) in your field about charging. I talk to friends and strangers all the time about rates because the more you know, the more power you have. If someone is $20 higher at the same level as you - RAISE your rate. Because when we all work towards bettering ourselves and our rates, we all win.
+#### Raise your rates.
 
-#### Don’t fall into the quantity over quality trap. 
-The work you put out will garner the right attention and help you more in the long run. 
+Whatever rate you think you should be starting at, raise it. Don't be afraid to have open conversations with other women (and men) in your field about charging. I talk to friends and strangers all the time about rates because the more you know, the more power you have. If someone is $20 higher at the same level as you - RAISE your rate. Because when we all work towards bettering ourselves and our rates, we all win.
 
-Always remember, there are thousands of people doing what YOU do but your personality is truly what your client is going to hire you for. Be authentic and sell yourself for who you are. 
-Never stop educating yourself on business and furthering your skills but also on business in general. 
+#### Quality over quantity.
+
+Don’t fall into the quantity over quality trap. The work you put out will garner the right attention and help you more in the long run. 
+
+#### Authenticity is your best tool.
+
+Always remember, there are thousands of people doing what _you_ do, but your personality is truly what your client is going to hire you for. Be authentic and sell yourself for who you are. 
+
+#### Prioritize education.
+
+Never stop educating yourself on business and furthering your skills, but also on business in general. 
 
 Photos by
