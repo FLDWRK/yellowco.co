@@ -2,6 +2,7 @@
 title: morgan interview
 date: 2018-07-30 16:06:00 -07:00
 author: Melanie Loon
+image: "/uploads/File_001(1)%20copy-1.jpg"
 series: Belong
 ---
 
@@ -24,7 +25,7 @@ I began writing daily devotionals and sharing them on Instagram in 2014 on a sep
 
 I always love to share that because I honestly haven’t been sharing consistently for very long even though I have been creating for years, and I truly believe that everyone has something inside of that’s been waiting to be cultivated and shared with the world...and it’s never too late to get started!
 
-IMAGE
+![File_001 copy-1.jpg](/uploads/File_001%20copy-1.jpg)
 
 ###### What do you think is the best way to continuously craft something that’s both true to yourself as an artist and earnestly giving to others?
 
@@ -36,7 +37,7 @@ When I found this pattern appearing in my life, I knew I had to do something abo
 
 Instead, I choose to bravely step forward and continue to give, trusting that whatever I was meant to share with others in my life, whether personally or professionally, it would be. I am still learning that it is up to me to take a deep breath and not let these fears hold the reigns of my creativity, my purpose, my life.
 
-IMAGE
+![File_001(3) copy-1.jpg](/uploads/File_001(3)%20copy-1.jpg)
 
 ###### How do you begin writing a poem for a reader who requests one?
 
@@ -52,7 +53,7 @@ I firmly believe in spending a little time digging for the right words, and some
 
 Additionally, I use the mind map method, especially when I feel stuck. This is just one way of getting those words down on paper first without worrying about how it’s going to fit perfectly together.
 
-IMAGE
+![File_001(2) copy-1.jpg](/uploads/File_001(2)%20copy-1.jpg)
 
 ###### What would you say is your mission specifically with your Instagram audience?
 
@@ -72,7 +73,7 @@ So about six months ago I just decided, “Why not just publish it all and let t
 
 It can be hard to keep it all organized on the back end, but it’s still worth it for me to be able to see other people interact with the art in this way.
 
-IMAGE
+![File_001(4) copy-1.jpg](/uploads/File_001(4)%20copy-1.jpg)
 
 ###### This month at Yellow, we’re focusing on the theme “Belong”; exploring the many ways we desire to belong as humans and recognizing that this is a shared search to be part of a larger whole. Not only are we all in this thing together, but we are a much richer palette as one than we ever could be on our own. How has the idea of belonging influenced your life and your work?
 
