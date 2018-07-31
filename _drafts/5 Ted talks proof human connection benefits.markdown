@@ -3,6 +3,11 @@ title: 5 TED Talks Share Unbelievable Proof of What Human Connection Can Do
 date: 2018-08-08 04:00:00 -07:00
 categories:
 - Culture
+tags:
+- ted talks
+- human connection
+- relationships
+- connection benefits
 author: Kristen Green
 series: Belong
 ---
