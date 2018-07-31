@@ -11,13 +11,13 @@ What are a few of your best freelance practices?
 
 ###### Margeaux JoJo, Social Media Strategist  
 
+**[margeauxjojo.com](https://www.margeauxjojo.com/) | [@margeauxjojo](https://www.instagram.com/margeauxjojo/)**
+
 Hello! My name is Margeaux, but I got the nickname JoJo growing up because nobody could pronounce my name, haha! So it stuck! As a creative, I do many things, but mainly I’m a Social Media Strategist helping to brand the social media presences of local businesses and entrepreneurs. 
 
 ### I believe that the world of social media is a real place and community where we can spread love and inspire people, while still generating income and using your talents. 
 
 It’s a platform to tell our story and do more good in a hurting world that needs it so much.
-
-[margeauxjojo.com](https://www.margeauxjojo.com/) | [@margeauxjojo](https://www.instagram.com/margeauxjojo/)
 
 #### Establish your rates, and packages, and why. 
 
@@ -41,7 +41,7 @@ Work hard, but live your best life too! What’s the point of hustling if you ar
 
 ###### Elena Bosch, Marketing Communications Strategist
 
-[elenabosch.com](http://elenabosch.com/) | [@elena__bosch](https://www.instagram.com/elena__bosch/)
+**[elenabosch.com](http://elenabosch.com/) | [@elena__bosch](https://www.instagram.com/elena__bosch/)**
 
 I am marketing communications strategist. I work with brands to establish their voice online using content marketing, blogging, media placement, and social media. Most of the brands I work with are either in non-profit or social impact sectors, which I really enjoy because we can get creative with how we get the word out about an issue, event, or campaign.
 
@@ -65,9 +65,9 @@ Remember this great quote from First Lady, Eleanor Roosevelt, "No one can make y
 
 ###### Tia Meyers, Founder of Freelancing Females
 
-I'm the Founder of Freelancing Females, the world’s largest community of freelance women providing mentorship, support and opportunities. I also work as a social media consultant out of Brooklyn, NY.
+**[tiameyers.com](http://www.tiameyers.com/) | [@tiameghan](https://www.instagram.com/tiameghan/) & [@freelancingfemales](https://www.instagram.com/freelancingfemales/)**
 
-[tiameyers.com](http://www.tiameyers.com/) | [@tiameghan](https://www.instagram.com/tiameghan/) & [@freelancingfemales](https://www.instagram.com/freelancingfemales/)
+I'm the Founder of Freelancing Females, the world’s largest community of freelance women providing mentorship, support and opportunities. I also work as a social media consultant out of Brooklyn, NY.
 
 #### Raise your rates.
 
