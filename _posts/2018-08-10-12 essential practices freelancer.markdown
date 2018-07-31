@@ -46,7 +46,7 @@ Work hard, but live your best life too! What’s the point of hustling if you ar
 
 ###### Elena Bosch, Marketing Communications Strategist
 
-**[elenabosch.com](http://elenabosch.com/) | [@elena__bosch](https://www.instagram.com/elena__bosch/)**
+**WEB:** [elenabosch.com](http://elenabosch.com/) **IG:**  [@elena__bosch](https://www.instagram.com/elena__bosch/)
 
 I am marketing communications strategist. I work with brands to establish their voice online using content marketing, blogging, media placement, and social media. Most of the brands I work with are either in non-profit or social impact sectors, which I really enjoy because we can get creative with how we get the word out about an issue, event, or campaign.
 
@@ -72,7 +72,7 @@ Remember this great quote from First Lady, Eleanor Roosevelt, "No one can make y
 
 ###### Tia Meyers, Founder of Freelancing Females
 
-**[tiameyers.com](http://www.tiameyers.com/) | [@tiameghan](https://www.instagram.com/tiameghan/) & [@freelancingfemales](https://www.instagram.com/freelancingfemales/)**
+**WEB:** [tiameyers.com](http://www.tiameyers.com/) **IG:** [@tiameghan](https://www.instagram.com/tiameghan/) & [@freelancingfemales](https://www.instagram.com/freelancingfemales/)
 
 I'm the Founder of Freelancing Females, the world’s largest community of freelance women providing mentorship, support and opportunities. I also work as a social media consultant out of Brooklyn, NY.
 
