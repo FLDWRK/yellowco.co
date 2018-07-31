@@ -44,7 +44,7 @@ I always love to share that because I honestly haven’t been sharing consistent
 
 Every day, I write words and I make art for people who send me their story, a name, or a request for someone in their life. I do this because practicing generosity on a daily basis not only shows me how to connect with people on a heart-level, it reveals things within my own heart as well. I think many, if not all of us, struggle at some capacity with the fear that we will not have enough to give.
 
-### We fear that will not have enough in our inner reservoir [to give] so we retreat and hold back. 
+### We fear that we will not have enough in our inner reservoir [to give] so we retreat and hold back. 
 
 When I found this pattern appearing in my life, I knew I had to do something about it. I am so grateful for the grace that showed me that I didn’t have to sink further into this idea of “not having enough to give.”
 
