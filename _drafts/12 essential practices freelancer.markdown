@@ -1,5 +1,5 @@
 ---
-title: Best Practices for freelancers, by freelancers
+title: 12 Essential Practices for Freelancers, by Freelancers
 date: 2018-08-10 04:00:00 -07:00
 categories:
 - Entrepreneurs
