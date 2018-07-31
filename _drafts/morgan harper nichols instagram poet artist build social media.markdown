@@ -1,7 +1,7 @@
 ---
 title: 'Your Favorite Instagram Artist/Poet on Building a Social Media Presence with
   Meaning : Q&A with Morgan Harper Nichols'
-date: 2018-08-06 04:00:00 -07:00
+date: 2018-08-10 04:00:00 -07:00
 categories:
 - Entrepreneurs
 tags:
