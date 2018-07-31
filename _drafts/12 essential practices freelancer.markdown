@@ -28,6 +28,8 @@ The worst thing you can do is meet with a client for the first time or get asked
 
 Freelancing has its positives and negatives. The freedom to not have to clock in or be stuck to a desk in an office can definitely be a plus, but not having the accountability can throw you off too. A whole week will go by without any of your deadlines or goals being accomplished. Schedule out the hours that are for work and play.
 
+![domenico-loia-310197-unsplash-1.jpg](/uploads/domenico-loia-310197-unsplash-1.jpg)
+
 #### Never stop learning.
 
 The moment you get too comfortable or think you know it all, greatness comes to a halt. There’s always growth to be had, more wisdom to gain, and different perspectives to experience. Keep reading articles, listening to podcasts, watching Facebook Live, and attending conferences. Join other communities, get a mentor, and mentor others. 
@@ -39,6 +41,8 @@ With freelancing, you will for sure experience seasons of heartache, doubt, and 
 #### Practice self-care, balance, & emotional health.
 
 Work hard, but live your best life too! What’s the point of hustling if you aren’t able to enjoy the fruits? Give yourself permission to rest, get pampered, spend time with family, and just stop for a second. Balance doesn’t always mean 50/50. Some days are 10/90, while others are no work at all. Fit in a therapy session, go to a church service, or spend a day binge watching Hulu with your girlfriends or even by yourself if you need to. You can’t pour into others if you’re completely empty.
+
+![nicole-honeywill-591548-unsplash-1.jpg](/uploads/nicole-honeywill-591548-unsplash-1.jpg)
 
 ###### Elena Bosch, Marketing Communications Strategist
 
@@ -64,6 +68,8 @@ While it's perfectly healthy to have positive role models and others around you 
 
 Remember this great quote from First Lady, Eleanor Roosevelt, "No one can make you feel inferior without your consent." Another great one from her, "Great minds discuss ideas; average minds discuss events; small minds discuss people."
 
+![jon-tyson-232630-unsplash-1.jpg](/uploads/jon-tyson-232630-unsplash-1.jpg)
+
 ###### Tia Meyers, Founder of Freelancing Females
 
 **[tiameyers.com](http://www.tiameyers.com/) | [@tiameghan](https://www.instagram.com/tiameghan/) & [@freelancingfemales](https://www.instagram.com/freelancingfemales/)**
@@ -85,5 +91,3 @@ Always remember, there are thousands of people doing what _you_ do, but your per
 #### Prioritize education.
 
 Never stop educating yourself on business and furthering your skills, but also on business in general. 
-
-Photos by
