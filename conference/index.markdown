@@ -281,7 +281,7 @@ sponsors:
   image: "/uploads/Califia.png"
   link: https://www.califiafarms.com/
 - title: Saje
-  image: "/uploads/download.png"
+  image: "/uploads/Saje-Natural-Wellness-essential-oils-diffuser-logo.svg"
   link: https://www.saje.com/
 - title: Purely Elizabeth
   image: "/uploads/Purley-Elizabeth.png"
