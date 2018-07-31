@@ -8,7 +8,7 @@ image: "/uploads/kirill-zakharov-630681-unsplash-1.jpg"
 series: Belong
 ---
 
-What are a few of your best freelance practices?
+_If you're a freelancer, you know this type of work brings up endless questions, trial and error, and what seems like infinite Googling of best practices. We've asked three of our [Yellow Collective](https://yellowco.co/membership/) members, and successful freelancers, what their essential practices are to create a thriving business, and a balanced life._
 
 ###### Margeaux JoJo, Social Media Strategist  
 
