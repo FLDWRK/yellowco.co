@@ -3,6 +3,8 @@ title: ted talk draft 5 TED Talks on the Powerful Benefits of Belonging
 date: 2018-08-08 04:00:00 -07:00
 categories:
 - Culture
+author: Kristen Green
+series: Belong
 ---
 
 As summer ramps down and we switch gears into a new season, let's take a deep breath to reset and consider all the benefits we can reap mentally and physically by digging into the community around us. Whether it's friends, family, co-workers or strangers on the bus, these TED Talks break down some stereotypes and teach us to embrace the different possibilities and impacts of belonging. 
@@ -10,8 +12,6 @@ As summer ramps down and we switch gears into a new season, let's take a deep br
 ###### What Makes a Good Life? Lessons from the Longest Study on Happiness – 13 mins
 
 This insightful TED talk based on a 75-year study tracking the lives of more than 700 men confirms what many of us have assumed along the way, "Good relationships keep us happier and healthier. Period." From their work to their home lives to their health, this one-of-a-kind study delves into the impact of good relationships. Check out this talk to hear from Robert Waldinger, Director of the Harvard Study of Adult Development, to understand how relationships protect our brains and why quality over quantity matters. 
-
-<br>
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
