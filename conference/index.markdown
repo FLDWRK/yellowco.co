@@ -72,6 +72,10 @@ speakers:
   image: "/uploads/Screen%20Shot%202018-07-26%20at%202.26.56%20PM.png"
   title: Branding Expert, Podcast Host, Founder of The Alison Show
   link: https://www.instagram.com/thealisonshow/?hl=en
+- name: Heather McDougall, Panel Moderator
+  image: "/uploads/Screenshot%202018-07-12%2011.49.42.png"
+  title: Co-Founder & CEO of Bogobrush
+  link: https://www.bogobrush.com/
 - name: Liz Skalla, Panelist
   image: "/uploads/Liz-Skalla.jpg"
   title: Co-founder, GIVN Goods
@@ -92,10 +96,6 @@ speakers:
   image: "/uploads/HailMerry8452_susan.tif"
   title: Founder, Hail Merry
   link: https://hailmerry.com/
-- name: Heather McDougall, Panelist
-  image: "/uploads/Screenshot%202018-07-12%2011.49.42.png"
-  title: Co-Founder & CEO of Bogobrush
-  link: https://www.bogobrush.com/
 - name: Stay tuned for more speaker & panelist announcements!
   image: "/uploads/More-To-Come-05-05-5f0dfa.png"
   title: 
