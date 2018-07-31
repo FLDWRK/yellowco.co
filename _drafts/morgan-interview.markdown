@@ -2,6 +2,8 @@
 title: 'Your Favorite Instagram Artist/Poet on Building a Social Media Presence with
   Meaning : Q&A with Morgan Harper Nichols'
 date: 2018-07-30 16:06:00 -07:00
+categories:
+- Entrepreneurs
 author: Melanie Loon
 image: "/uploads/File_001(1)%20copy-1.jpg"
 series: Belong
