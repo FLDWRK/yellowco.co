@@ -3,7 +3,9 @@ title: 5 TED Talks Share Unbelievable Proof of What Human Connection Can Do
 date: 2018-08-08 04:00:00 -07:00
 categories:
 - Culture
+author: Kristen Green
 image: "/uploads/HJ-Kaleidos-109.jpg"
+series: Belong
 ---
 
 As summer ramps down and we switch gears into a new season, let's take a deep breath to reset and consider all the benefits we can reap mentally and physically by digging into the community around us. Whether it's friends, family, co-workers or strangers on the bus, these TED Talks break down some stereotypes and teach us to embrace the different possibilities and impacts of belonging. 
