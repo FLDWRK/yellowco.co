@@ -33,10 +33,14 @@ theme:
 
     This year our 2018 theme is “Our Ownership”. It's no secret millennials aren't owning items like cars, houses and music like previous generations. Although we are less inclined to own when it comes to material possessions, what if we were known as a generation who knows how to own _who they are?_ Owning the stories, dreams, visions, passions and abilities we have. Owning the problems of the world instead of turning a blind eye. Owning the fact that we're in this together as global citizens. Join us as we dive into this theme at our 2018 conference.
 speakers:
-- name: Cassandra Lee
-  image: "/uploads/Cassandra.jpeg"
-  title: Co-Founder & Executive Director of Justice Rising
-  link: https://www.justicerising.org/
+- name: Alison Faulkner
+  image: "/uploads/Screen%20Shot%202018-07-26%20at%202.26.56%20PM.png"
+  title: Branding Expert, Podcast Host, Founder of The Alison Show
+  link: https://www.instagram.com/thealisonshow/?hl=en
+- name: Miki Agrawal
+  image: "/uploads/Miki%20Headshot%20Daniel%20Johnson.JPG"
+  title: THINX CoFounder and Serial Entrepreneur
+  link: https://www.mikiagrawal.com/
 - name: Amena Brown
   image: "/uploads/Screenshot%202018-08-02%2010.22.39.png"
   title: poet, spoken word artist, & author
@@ -45,10 +49,10 @@ speakers:
   image: "/uploads/Screen%20Shot%202018-07-31%20at%2010.49.02%20AM.png"
   title: Bestselling Author & Kintsugi Wellness Expert
   link: https://www.instagram.com/CandiceKumai/
-- name: Miki Agrawal
-  image: "/uploads/Miki%20Headshot%20Daniel%20Johnson.JPG"
-  title: THINX CoFounder and Serial Entrepreneur
-  link: https://www.mikiagrawal.com/
+- name: Cassandra Lee
+  image: "/uploads/Cassandra.jpeg"
+  title: Co-Founder & Executive Director of Justice Rising
+  link: https://www.justicerising.org/
 - name: Hoda Katebi
   image: "/uploads/Screenshot%202018-07-22%2013.25.49.png"
   title: Activist Fashion Blogger, Author & Photographer
@@ -58,24 +62,20 @@ speakers:
   title: Model, Writer, Founder
   company: Black Girl Beautiful
   link: https://linktr.ee/nikiaphoenix
+- name: Enid Hwang
+  image: "/uploads/Screen%20Shot%202018-07-24%20at%2010.51.12%20AM.png"
+  title: Head of Culture & Community at Pinterest
+  link: http://pinterest.com/enid
 - name: Allison Fallon
   image: "/uploads/yc2018-speakers-allison-fallon.jpg"
   title: Writer & Writing Coach
   company: Allison Fallon
   link: https://allisonfallon.com/
-- name: Enid Hwang
-  image: "/uploads/Screen%20Shot%202018-07-24%20at%2010.51.12%20AM.png"
-  title: Head of Culture & Community at Pinterest
-  link: http://pinterest.com/enid
 - name: Brittany & Ian Bentley
   image: "/uploads/yc2018-speakers-bently.jpg"
   title: Co-Founders
   company: Parker Clay
   link: https://parkerclay.com/
-- name: Alison Faulkner
-  image: "/uploads/Screen%20Shot%202018-07-26%20at%202.26.56%20PM.png"
-  title: Branding Expert, Podcast Host, Founder of The Alison Show
-  link: https://www.instagram.com/thealisonshow/?hl=en
 - name: Heather McDougall, Panel Moderator
   image: "/uploads/Screenshot%202018-07-12%2011.49.42.png"
   title: Co-Founder & CEO of Bogobrush
