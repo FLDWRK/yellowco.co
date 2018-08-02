@@ -80,6 +80,10 @@ speakers:
   image: "/uploads/Screenshot%202018-07-12%2011.49.42.png"
   title: Co-Founder & CEO of Bogobrush
   link: https://www.bogobrush.com/
+- name: AmyAnn Cadwell, Panelist
+  image: "/uploads/Amy-Ann.jpeg"
+  title: Co-Founder, The Good Trade
+  link: http://www.thegoodtrade.com/
 - name: Liz Skalla, Panelist
   image: "/uploads/Liz-Skalla.jpg"
   title: Co-founder, GIVN Goods
@@ -92,10 +96,6 @@ speakers:
   image: "/uploads/yc2018-speakers-alex-michael-may.jpg"
   title: Creative Director, Stylist, & Body Positivity Advocate
   link: https://www.instagram.com/alexmichaelmay/
-- name: AmyAnn Cadwell, Panelist
-  image: "/uploads/Amy-Ann.jpeg"
-  title: Co-Founder, The Good Trade
-  link: http://www.thegoodtrade.com/
 - name: Susan O'Brien, Panelist
   image: "/uploads/HailMerry8452_susan.tif"
   title: Founder, Hail Merry
