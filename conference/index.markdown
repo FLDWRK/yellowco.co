@@ -37,6 +37,10 @@ speakers:
   image: "/uploads/Cassandra.jpeg"
   title: Co-Founder & Executive Director of Justice Rising
   link: https://www.justicerising.org/
+- name: Amena Brown
+  image: "/uploads/Screenshot%202018-08-02%2010.22.39.png"
+  title: poet, spoken word artist, & author
+  link: http://www.amenabrown.com/
 - name: Candice Kumai
   image: "/uploads/Screen%20Shot%202018-07-31%20at%2010.49.02%20AM.png"
   title: Bestselling Author & Kintsugi Wellness Expert
@@ -96,10 +100,6 @@ speakers:
   image: "/uploads/HailMerry8452_susan.tif"
   title: Founder, Hail Merry
   link: https://hailmerry.com/
-- name: Stay tuned for more speaker & panelist announcements!
-  image: "/uploads/More-To-Come-05-05-5f0dfa.png"
-  title: 
-  link: 
 speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
   image: "/uploads/Yellow2016-146.jpg"
