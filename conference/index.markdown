@@ -41,14 +41,14 @@ speakers:
   image: "/uploads/Miki%20Headshot%20Daniel%20Johnson.JPG"
   title: THINX CoFounder and Serial Entrepreneur
   link: https://www.mikiagrawal.com/
-- name: Amena Brown
-  image: "/uploads/Screenshot%202018-08-02%2010.22.39.png"
-  title: poet, spoken word artist, & author
-  link: http://www.amenabrown.com/
 - name: Candice Kumai
   image: "/uploads/Screen%20Shot%202018-07-31%20at%2010.49.02%20AM.png"
   title: Bestselling Author & Kintsugi Wellness Expert
   link: https://www.instagram.com/CandiceKumai/
+- name: Amena Brown
+  image: "/uploads/Screenshot%202018-08-02%2010.22.39.png"
+  title: poet, spoken word artist, & author
+  link: http://www.amenabrown.com/
 - name: Cassandra Lee
   image: "/uploads/Cassandra.jpeg"
   title: Co-Founder & Executive Director of Justice Rising
