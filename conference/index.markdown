@@ -165,9 +165,9 @@ schedule:
   - time: 5:00pm
     title: Attendee Cocktail Hour by Bev
     text: Come hang out with us and relax after a packed Day 1 of Yellow! We’ll provide
-      delicious bites, desserts, great conversations, & connection with attendees,
-      and of course, bubbly drinks from our friends at [Bev](https://drinkbev.com/)!
-      Free for Yellow attendees.
+      delicious bites, desserts from [Hail Merry](https://hailmerry.com/), great conversations,
+      & connection with attendees, and of course, bubbly drinks from our friends at
+      [Bev](https://drinkbev.com/)! Free for Yellow attendees.
 - day_number: 2
   day_of_week: Friday
   month_day: August 24th
