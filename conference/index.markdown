@@ -163,10 +163,11 @@ schedule:
   - time: 4:00pm
     title: 'Speaker Session #5'
   - time: 5:00pm
-    title: Attendee Cocktail Party
+    title: Attendee Cocktail Hour by Bev
     text: Come hang out with us and relax after a packed Day 1 of Yellow! We’ll provide
       delicious bites, desserts, great conversations, & connection with attendees,
-      and of course, bubbly drinks! Free for Yellow attendees.
+      and of course, bubbly drinks from our friends at [Bev](https://drinkbev.com/)!
+      Free for Yellow attendees.
 - day_number: 2
   day_of_week: Friday
   month_day: August 24th
