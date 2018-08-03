@@ -333,8 +333,11 @@ sponsors:
   image: "/uploads/OOLY-logo%20copy.png"
   link: https://www.ooly.com/
 - title: Nipomo
-  image: 
+  image: "/uploads/SP18-Nipomo-Logo-blk-a3412f.png"
   link: https://nipomo.co/
+- title: Harmless Harves
+  image: "/uploads/Harmless.png"
+  link: http://www.harmlessharvest.com/
 layout: custom/conference
 ---
 
