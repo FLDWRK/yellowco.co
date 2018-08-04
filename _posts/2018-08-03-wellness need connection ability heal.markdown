@@ -1,5 +1,5 @@
 ---
-title: The Aspect of Our Wellness Being Forgotten That Has a Huge Ability to Heal
+title: The Most Effective Way to Heal Your Body from Stress
 date: 2018-08-03 04:00:00 -07:00
 categories:
 - Health
