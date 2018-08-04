@@ -96,21 +96,19 @@ Afraid of really dealing with those emotions, I retreated inward, and thought th
 
 Healthy, meaningful community was made up of people who were broken and who had questions just like I did, and if we all allowed ourselves to open up and be a little more vulnerable about this, we would see that at our core, we have more in common than we think, and that there is a place for all of us.
 
-![File_001(4) copy-1.jpg](/uploads/File_001(4)%20copy-1.jpg)
-
 ###### How did the way you grew up influence the themes of what you write and draw?
 
 Both of my parents are in ministry and are highly creative. They are both writers; my mom is an artist, and my dad is a drummer. I spent my whole childhood watching them come up with creative ways to not only get things done, but positively impact the lives of those around them.
 
 I often joke with them that all I really do is copy what they did, but with Instagram! I do consider it an enormous blessing that even though we didn’t have a lot growing up in terms of material things, the creative gene and compassionate spirit I got from my parents is priceless and I wouldn’t trade it.
 
+![File_001(4) copy-1.jpg](/uploads/File_001(4)%20copy-1.jpg)
+
 ###### Who are a few artists that inspire you?
 
 Jon Foreman of Switchfoot is probably one of my favorite artists/writers of all time. I discovered their music in high school when I was dealing with those feelings of not belonging, and when I listened to the message in their music, I felt understood, and it gave me so much hope.
 
 I am also inspired by the photographer Ansel Adams, writers like C.S. Lewis, Langston Hughes, Rita Dove, John Muir and many, many more.
-
-IMAGE
 
 ###### Lastly, what advice would you give to a creative person wanting to grow their body of work?
 
