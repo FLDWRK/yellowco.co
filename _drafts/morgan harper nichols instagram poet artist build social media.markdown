@@ -1,6 +1,6 @@
 ---
 title: 'Your Favorite Instagram Artist/Poet on Building a Social Media Presence with
-  Meaning : Q&A with Morgan Harper Nichols'
+  Meaning: Q&A with Morgan Harper Nichols'
 date: 2018-08-06 04:00:00 -07:00
 categories:
 - Entrepreneurs
@@ -50,8 +50,6 @@ When I found this pattern appearing in my life, I knew I had to do something abo
 
 Instead, I choose to bravely step forward and continue to give, trusting that whatever I was meant to share with others in my life, whether personally or professionally, it would be. I am still learning that it is up to me to take a deep breath and not let these fears hold the reigns of my creativity, my purpose, my life.
 
-![File_001(3) copy-1.jpg](/uploads/File_001(3)%20copy-1.jpg)
-
 ###### How do you begin writing a poem for a reader who requests one?
 
 When someone requests that I write something for them, I always start with some variation of this: “If I were standing face to face with this person for the first time and wanted to say something encouraging, what would I say?”
@@ -66,7 +64,7 @@ I firmly believe in spending a little time digging for the right words, and some
 
 Additionally, I use the mind map method, especially when I feel stuck. This is just one way of getting those words down on paper first without worrying about how it’s going to fit perfectly together.
 
-![morgan.jpg](/uploads/morgan.jpg)
+![File_001(3) copy-1.jpg](/uploads/File_001(3)%20copy-1.jpg)
 
 ###### What would you say is your mission specifically with your Instagram audience?
 
@@ -86,7 +84,7 @@ So about six months ago I just decided, “Why not just publish it all and let t
 
 It can be hard to keep it all organized on the back end, but it’s still worth it for me to be able to see other people interact with the art in this way.
 
-![File_001(4) copy-1.jpg](/uploads/File_001(4)%20copy-1.jpg)
+![morgan.jpg](/uploads/morgan.jpg)
 
 ###### This month at Yellow, we’re focusing on the theme “Belong”; exploring the many ways we desire to belong as humans and recognizing that this is a shared search to be part of a larger whole. Not only are we all in this thing together, but we are a much richer palette as one than we ever could be on our own. How has the idea of belonging influenced your life and your work?
 
@@ -98,7 +96,7 @@ Afraid of really dealing with those emotions, I retreated inward, and thought th
 
 Healthy, meaningful community was made up of people who were broken and who had questions just like I did, and if we all allowed ourselves to open up and be a little more vulnerable about this, we would see that at our core, we have more in common than we think, and that there is a place for all of us.
 
-IMAGE
+![File_001(4) copy-1.jpg](/uploads/File_001(4)%20copy-1.jpg)
 
 ###### How did the way you grew up influence the themes of what you write and draw?
 
