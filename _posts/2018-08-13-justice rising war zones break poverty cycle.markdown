@@ -4,6 +4,16 @@ title: 'This Woman Goes into War Zones to Break the Extremism & Poverty Cycle: H
 date: 2018-08-13 04:00:00 -07:00
 categories:
 - Culture
+tags:
+- Justice Rising
+- war zones
+- non-profits
+- non profit
+- war zone non profit
+- education non profit
+- poverty cycle
+- break poverty cycle
+- break extremism cycle
 author: Hanna Snyder
 image: "/uploads/justice-rising-DRC-2015-echoearl-500-1.jpg"
 series: Belong
@@ -78,7 +88,7 @@ My heart will forever have a Sipé sized hole in it and I’ll work as long as I
 
 When you start a non-profit, you usually wear multiple hats for the first several years. You’re the fundraiser, program manager, human resources, and accountant. It’s pretty tiring, you work long hours and with little pay. Don’t let that discourage you. If you’re truly passionate about going after your dream, it’s worth it 100% of the time.
 
-### Also, my practical advice: take a business course. 
+### My practical advice: take a business course. 
 
 Learn the financial side of things, even if you have someone else doing your books, being able to understand and communicate the impact of your donor dollars is a HUGE asset to your work. 
 
