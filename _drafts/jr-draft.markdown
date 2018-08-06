@@ -8,7 +8,7 @@ series: Belong
 
 _intro_
 
-###### 1. Tell us a bit about the incredible work you do at [Justice Rising](https://www.justicerising.org/)! 
+###### Tell us a bit about the incredible work you do at [Justice Rising](https://www.justicerising.org/)! 
 
 I co-founded [Justice Rising](https://www.justicerising.org/) in 2015 to use education to disrupt cycles of war and combat extremist ideologies in conflict areas of the world. I remember for years seeing the wars raging around the world, children suffering, and communities crumbling due to the conflict raging and I knew we had to respond in a way that could interrupt that, and invest in long-term change for those countries. 
 
@@ -22,7 +22,7 @@ Right now we’re working towards our Vision 2020 goal: building 40 schools in w
 
 ![DSCF4457-1.jpg](/uploads/DSCF4457-1.jpg)
 
-###### 2. How did your mission to co-found such a non-profit start? What in your background led you here?
+###### How did your mission to co-found such a non-profit start? What in your background led you here?
 
 I started Justice Rising after more than ten years of experience working internationally in areas of conflict, hearing story after story on the devastating effects of war on children. 
 
@@ -36,7 +36,7 @@ During the process, I also met my now-husband Edison Lee, who is an architect tu
 
 ![justice-rising-2017-woodnote-photography-democratic-republic-of-congo-1206 copy 2-1.jpg](/uploads/justice-rising-2017-woodnote-photography-democratic-republic-of-congo-1206%20copy%202-1.jpg)
 
-###### 3. By going into the most dangerous war zones to build schools and provide education, Justice Rising is actively breaking the cycle of war and poverty. How have you already seen results of this cycle ending?
+###### By going into the most dangerous war zones to build schools and provide education, Justice Rising is actively breaking the cycle of war and poverty. How have you already seen results of this cycle ending?
 
 We’ve only been at this for a few years, but can already see an impact on the individuals in the community. In some of the most rural communities we work, we’ve seen a shift in the mindsets of those living there. At the beginning there was a lot of hopelessness, people were seeing the cycles of war repeat and out of frustration, wanted to respond with violence, but things have changed since. 
  
@@ -46,7 +46,7 @@ After a while, he saw that there were some people who moved into his neighborhoo
 
 ![justice-rising-2017-woodnote-photography-democratic-republic-of-congo-463-1.jpg](/uploads/justice-rising-2017-woodnote-photography-democratic-republic-of-congo-463-1.jpg)
  
-###### 4. At Yellow, we believe that work isn’t just a career, but how you find and make meaning in this world. What are your views on how we can continue creating purposeful work throughout our lives? 
+###### At Yellow, we believe that work isn’t just a career, but how you find and make meaning in this world. What are your views on how we can continue creating purposeful work throughout our lives? 
 
 I felt my calling at a really young age. I was 10 years old, living in Canada, and hearing about the war raging in the Congo, the rape capitol of the world, and I knew I needed to dedicate my life to bringing peace to war torn nations. I spent the next two plus decades orienting my life around this idea, eventually landing on education as my viable way to contribute to the peacemaking process. 
 
@@ -56,7 +56,7 @@ It may not be moving to a war zone, but by making daily efforts to use your tale
 
 ![justice-rising-2017-woodnote-photography-democratic-republic-of-congo-888-2 copy-1.jpg](/uploads/justice-rising-2017-woodnote-photography-democratic-republic-of-congo-888-2%20copy-1.jpg)
 
-###### 5. I’m sure you must have so many stories from the children you’ve worked with, but is there one in particular you could share that stands out as especially powerful?
+###### I’m sure you must have so many stories from the children you’ve worked with, but is there one in particular you could share that stands out as especially powerful?
 
 During some of the earlier trips to the rural villages in Eastern Congo, I met a young girl named Sipé. She had experienced such extreme trauma as a young child that her mental state began to fray and she became mentally slower than the rest of the kids. She was maybe five and couldn’t speak, and other kids used to tease her. But I loved Sipé, she soon became “my girl” and even started calling me “Mama” as the only word she spoke. 
 
@@ -71,7 +71,7 @@ My heart will forever have a Sipé sized hole in it and I’ll work as long as I
 
 ![sarahshreves.com-0050-1.jpg](/uploads/sarahshreves.com-0050-1.jpg)
 
-###### 6. What tips would you give to any women passionate about starting a non-profit?
+###### What tips would you give to any women passionate about starting a non-profit?
 
 When you start a non-profit, you usually wear multiple hats for the first several years. You’re the fundraiser, program manager, human resources, and accountant. It’s pretty tiring, you work long hours and with little pay. Don’t let that discourage you. If you’re truly passionate about going after your dream, it’s worth it 100% of the time.
 
@@ -79,7 +79,7 @@ When you start a non-profit, you usually wear multiple hats for the first severa
 
 Learn the financial side of things, even if you have someone else doing your books, being able to understand and communicate the impact of your donor dollars is a HUGE asset to your work. 
 
-###### 7. This month at Yellow, our focus is Belong. In your work and life, how have you seen connection and community allow individuals to thrive?
+###### This month at Yellow, our focus is Belong. In your work and life, how have you seen connection and community allow individuals to thrive?
 
 Working in such harsh environments, I believe that the only way that my husband, our team, and myself are able to do what we do because of the incredible community that surrounds us. 
 
@@ -89,11 +89,11 @@ When the going gets tough, more often then not, the tough have a community that 
 
 ![justice-rising-2017-woodnote-photography-democratic-republic-of-congo-692-1.jpg](/uploads/justice-rising-2017-woodnote-photography-democratic-republic-of-congo-692-1.jpg)
 
-###### 8. Do you have a quote that fuels your life?
+###### Do you have a quote that fuels your life?
 
 “We’re too young to realize certain things are impossible, so we will do them anyway.” - William Wilberforce
 
-###### 9. What is your hope for the future of Justice Rising?
+###### What is your hope for the future of Justice Rising?
 
 My hope for Justice Rising is that we would no longer be needed. That every child living in a post conflict zone would be living in peace, educated, and making steps towards creating a better future. As I know that may still be a while for most of the places we work, our vision for the future of Justice Rising is to grow to 40 schools by the end of the year 2020. 
 
