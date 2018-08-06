@@ -5,6 +5,8 @@ author: Hanna Snyder
 series: Belong
 ---
 
+_intro_
+
 ###### 1. Tell us a bit about the incredible work you do at [Justice Rising](https://www.justicerising.org/)! 
 
 I co-founded [Justice Rising](https://www.justicerising.org/) in 2015 to use education to disrupt cycles of war and combat extremist ideologies in conflict areas of the world. I remember for years seeing the wars raging around the world, children suffering, and communities crumbling due to the conflict raging and I knew we had to respond in a way that could interrupt that, and invest in long-term change for those countries. 
