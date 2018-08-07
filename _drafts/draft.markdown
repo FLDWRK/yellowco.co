@@ -4,6 +4,7 @@ date: 2018-08-17 04:00:00 -07:00
 categories:
 - Relationships
 author: Talitha Baker
+image: "/uploads/ValerieDenisePhotos-68.jpg"
 series: Belong
 ---
 
