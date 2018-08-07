@@ -1,5 +1,5 @@
 ---
-title: Finding Community in Your 30s draft
+title: How to Find Friends Again in Your 30s
 date: 2018-08-17 04:00:00 -07:00
 categories:
 - Relationships
