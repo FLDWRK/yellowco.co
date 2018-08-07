@@ -1,6 +1,5 @@
 ---
-title: 'This Woman Goes into War Zones to Break the Extremism & Poverty Cycle: Here’s
-  How'
+title: 'This Woman Goes into War Zones Break the Extremism Cycle: Here’s How'
 date: 2018-08-13 04:00:00 -07:00
 categories:
 - Culture
