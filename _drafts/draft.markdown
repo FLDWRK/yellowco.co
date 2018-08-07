@@ -1,6 +1,8 @@
 ---
 title: Finding Community in Your 30s draft
 date: 2018-08-17 04:00:00 -07:00
+categories:
+- Relationships
 author: Talitha Baker
 series: Belong
 ---
@@ -25,7 +27,11 @@ I began to ponder a few questions:
 - What social gatherings could I say yes to more often?  
 - What experiences could I invite others into?
 
-I leaned into surrounding myself with the people from the DC wedding and from the Fourth of July celebration. However, many of them no longer lived near me, so I made a point to find more like them. I told certain friends that I was choosing them to be a part of my “friends as family” family. On the times that my psyche started to spiral into the irrational space, I revealed my imperfect thought process to this chosen family. I let them love me and bring me back down to earth. And I tried to always let them know that I loved them, especially if their psyche ever also spiraled into the dark place. 
+I leaned into surrounding myself with the people from the DC wedding and from the Fourth of July celebration. However, many of them no longer lived near me, so I made a point to find more like them. I told certain friends that I was choosing them to be a part of my “friends as family” family. On the times that my psyche started to spiral into the irrational space, I revealed my imperfect thought process to this chosen family. 
+
+### I let them love me and bring me back down to earth. 
+
+And I tried to always let them know that I loved them, especially if their psyche ever also spiraled into the dark place. 
 
 Did it work? Can I mark this resolution as achieved? Perhaps. I dug myself out of depression, at least for the moment. I revealed my neurosis to a few trusted people, allowing them to comfort me. The lonely moments still pop up, but somehow, I’ve felt more supported to push through them. 
 
