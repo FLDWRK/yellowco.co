@@ -3,6 +3,13 @@ title: Finding Community in Your 30s draft
 date: 2018-08-17 04:00:00 -07:00
 categories:
 - Relationships
+tags:
+- finding friends
+- finding community
+- find friends in 30s
+- 30s
+- community
+- female friends
 author: Talitha Baker
 image: "/uploads/ValerieDenisePhotos-68.jpg"
 series: Belong
