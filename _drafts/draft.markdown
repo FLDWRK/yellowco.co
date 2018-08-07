@@ -51,4 +51,4 @@ Did it work? Can I mark this resolution as achieved? Perhaps. I dug myself out o
 
 Perhaps there are friends eager to serve as your surrogate sisters, brothers, mothers, and fathers in your life. Maybe there’s a way to navigate life in a strange and distant city, and part of it means not being perfect. Maybe healing can be found in the moments when you’re hopelessly late somewhere important, and your best friend hollers for you to, “GET IN THE CAR, NOW!”... Just the way mom would. 
 
-_Photos by_
+_Photos by [Valerie Denise Photos](https://www.instagram.com/valeriedenisephotos/)_
