@@ -1,6 +1,6 @@
 ---
 title: Why This Millennial Woman Goes into War Zones
-date: 2018-08-13 04:00:00 -07:00
+date: 2018-08-15 04:00:00 -07:00
 categories:
 - Culture
 tags:
