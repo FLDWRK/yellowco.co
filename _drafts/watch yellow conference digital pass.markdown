@@ -15,8 +15,6 @@ image: "/uploads/0P7A2725-1.jpg"
 series: Belong
 ---
 
-YELLOW CONFERENCE DIGITAL PASS: NOW ON SALE
-
 ### 500 women, 9 speakers, and an electricity of courage, creativity, and fighting for a better tomorrow.
 
 It's all happening next week. But - if you don’t have the time, money, or resources this year to get to The 2018 Yellow Conference in person, you’re in luck. We’ve just released a Digital Pass ticket for you! And trust us, you'll feel that same electricity buzzing from your screen.
