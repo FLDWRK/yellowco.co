@@ -17,9 +17,9 @@ series: Belong
 
 ### 500 women, 9 speakers, and an electricity of courage, creativity, and fighting for a better tomorrow.
 
-It's all happening next week. But - if you don’t have the time, money, or resources this year to get to The 2018 Yellow Conference in person, you’re in luck. We’ve just released a Digital Pass ticket for you! And trust us, you'll feel that same electricity buzzing from your screen.
+It's all happening next week. But - if you don’t have the time, money, or resources this year to get to The [2018 Yellow Conference](https://yellowco.co/conference/) in person, you’re in luck. We’ve just released a [Digital Pass](https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7) for you! And trust us, you'll feel that same electricity buzzing from your screen.
 
-The Digital Pass includes access to our 2-day conference including 8 full length speaker sessions, 2 panels, and exclusive announcements, early access, and early ticket prices to some brand new, exciting experiences we have coming up in 2019! It’s over 12 hours of content- cue that confetti.
+[The Digital Pass](https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7) includes access to our 2-day conference including 8 full length speaker sessions, 2 panels, and exclusive announcements, early access, and early ticket prices to some brand new, exciting experiences we have coming up in 2019! It’s over 12 hours of content- cue that confetti.
 
 #### [Grab your Digital Pass to The Yellow Conference!](https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7)
 
