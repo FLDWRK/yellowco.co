@@ -25,6 +25,8 @@ The Digital Pass includes access to our 2-day conference including 8 full length
 
 By signing up, you'll get a link to all of the conference footage by Sunday, August 26th. And not only can you sit through all the goodness once, but you over and over again whenever you want! 
 
+![J46A8309-1.jpg](/uploads/J46A8309-1.jpg)
+
 A few ways we recommend soaking up the Digital Pass best:
 
 ###### 1. In your PJs. 
