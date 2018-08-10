@@ -1,7 +1,10 @@
 ---
-title: digital ticket
+title: '3 Ways to Watch Yellow Conference from Your Couch: Digital Pass Now Live!'
 date: 2018-08-13 04:00:00 -07:00
+categories:
+- Growth
 author: Yellow Co.
+image: "/uploads/0P7A2725-1.jpg"
 series: Belong
 ---
 
