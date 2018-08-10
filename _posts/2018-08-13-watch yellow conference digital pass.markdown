@@ -27,7 +27,7 @@ By signing up, you'll get a link to all of the conference footage by Sunday, Aug
 
 ![J46A8309-1.jpg](/uploads/J46A8309-1.jpg)
 
-A few ways we recommend enjoying the Digital Pass best:
+A few ways we recommend enjoying the [Digital Pass](https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7) best:
 
 ###### 1. In your PJs. 
 
