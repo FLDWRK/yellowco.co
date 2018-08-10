@@ -43,6 +43,6 @@ Do you belong to a networking group? A [Yellow Collective](https://yellowco.co/m
 
 Most importantly, have FUN! It can be tempting to feel as though exciting things only happen in big cities like Los Angeles. Being the digital people that we are, we see everything that’s going on at all times, and it can cause some major FOMO. BUT, one of the great things about the digital space is it also allows you to participate from wherever you are! This is a chance for us to work together for the good of the world – regardless of distance or location. How will _you_ be joining in?
 
-#### [Grab your Digital Pass here!](https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7)
+#### [Get your Digital Pass here!](https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7)
 
 _Photos by [Cacá Santoro](http://cacasantoro.com/) for Yellow Co._
