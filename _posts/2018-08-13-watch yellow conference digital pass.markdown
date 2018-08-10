@@ -45,3 +45,4 @@ Most importantly, have FUN! It can be tempting to feel as though exciting thing
 
 #### [Grab your Digital Pass here!](https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7)
 
+_Photos by [Cacá Santoro](http://cacasantoro.com/) for Yellow Co._
