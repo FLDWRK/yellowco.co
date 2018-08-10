@@ -1,5 +1,5 @@
 ---
-title: '3 Ways to Watch Yellow Conference from Your Couch: Digital Pass Now Live!'
+title: '3 Ways to Watch Yellow Conference from Your Couch: Digital Passes Now Live!'
 date: 2018-08-13 04:00:00 -07:00
 categories:
 - Growth
