@@ -338,6 +338,12 @@ sponsors:
 - title: Harmless Harves
   image: "/uploads/Harmless.png"
   link: http://www.harmlessharvest.com/
+- title: The Philosophie
+  image: "/uploads/Philosophie%20Logo-%20white-burgundy-01.png"
+  link: https://www.thephilosophie.com/
+- title: Kitchfix
+  image: "/uploads/Kitchfix.png"
+  link: https://www.kitchfix.com/
 layout: custom/conference
 ---
 
