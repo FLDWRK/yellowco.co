@@ -344,6 +344,9 @@ sponsors:
 - title: Kitchfix
   image: "/uploads/Kitchfix.png"
   link: https://www.kitchfix.com/
+- title: Loomstate
+  image: "/uploads/Loomstate.png"
+  link: https://www.loomstate.org/
 layout: custom/conference
 ---
 
