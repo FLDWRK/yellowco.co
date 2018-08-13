@@ -1,8 +1,19 @@
 ---
-title: Why You Should Release the Need to Fit In
+title: Why Releasing the Need to Fit in Is Vital to Being Your Best Self
 date: 2018-08-24 04:00:00 -07:00
 categories:
 - Growth
+tags:
+- personal growth
+- personal development
+- self awareness
+- self development
+- fitting in
+- fit in
+- best self
+- individuality
+- growth
+- stand out
 author: Arielle Estoria
 image: "/uploads/StylewithBuki-024-1.JPG"
 series: Belong
