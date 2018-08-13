@@ -1,5 +1,5 @@
 ---
-title: arielle draft
+title: Why You Should Release the Need to Fit In
 date: 2018-08-24 04:00:00 -07:00
 categories:
 - Growth
@@ -34,4 +34,4 @@ Here’s the thing, you’re going to stand out, in fact you are MEANT to stand 
 
 When you make yourself small, when you try to fit into the molds of everyone around you, you hinder the world from experiencing just what it is that YOU have to offer. Think of it this way, a mosaic is a collection of beautifully colored, broken pieces, and each one is necessary to the whole picture no matter how big or how small. YOUR beautifully colored, broken piece is necessary to the mosaic, so please do not take that away. Do not be afraid to stand out, do not be afraid to go against the grain for you are a beautiful and necessary part of the mosaic. 
 
-Photos by
+_Photos by [Eun Creative](http://www.euncreative.com/)_
