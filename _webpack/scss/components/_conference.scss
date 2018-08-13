@@ -1,0 +1,42 @@
+.tickets {
+  margin-top: 2rem;
+  .col,
+  .col-md {
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+  }
+  .ticket {
+    background-color: #e0dedf;
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: $headings-sm-font-family;
+    line-height: 1;
+    .title {
+      margin-bottom: 8px;
+      position: relative;
+      &::before {
+        content: " ";
+        position: absolute;
+        left: 30%;
+        top: calc(50% - 2.5px);
+        width: 40%;
+        height: 5px;
+        background-color: $brand-primary;
+        z-index: 0;
+      }
+      span {
+        position: relative;
+        z-index: 1;
+      }
+    }
+    .btn-white {
+      background-color: white;
+      color: black;
+      font-size: 1.2rem;
+      margin-top: 1.5rem;
+    }
+  }
+}
