@@ -4,6 +4,7 @@ date: 2018-08-22 04:00:00 -07:00
 categories:
 - Relationships
 author: Jill Arbini
+image: "/uploads/img016.jpg"
 series: Belong
 ---
 
