@@ -23,15 +23,16 @@ Hand making their brass, gold, and silver jewelry at their headquarters in Nashv
 
 #### [Akola Project](https://akolaproject.org/)
 
-[Akola Project](https://akolaproject.org/) is a very unique brand that employs women in Dallas, TX and Uganda & gives back 100% of their profits to global missions to improve families, education and communities. Their jewelry is stylish and colorful, perfect for all occasions and ages.
+[Akola Project](https://akolaproject.org/) is a very unique brand that employs women in Dallas, TX and Uganda, and gives back 100% of their profits to global missions to improve families, education, and communities. Their jewelry is stylish and colorful, perfect for all occasions and ages.
 
-#### Half United
+#### [Half United](https://www.halfunited.com/)
 
-Each purchase from Half United goes to giving back to fight global hunger. The brand creates jewelry out of recycled bullets and other supplies to use up those recycled materials that are no longer in order to create unique and staple jewelry that tells a story.
+Each purchase from [Half United](https://www.halfunited.com/) goes to giving back to fight global hunger. The brand creates jewelry out of recycled bullets and other supplies to use up those recycled materials that are no longer in order to create unique and staple jewelry that tells a story.
 
-#### Mazi
-A Chicago maker founded Mazi to create handmade and hand painted clay jewelry to provide funds for global empowerment. With each of your purchase of the beautiful earrings, 25% goes to Team World Vision to help bring water to Africa.
+#### [Mazi](https://www.shopmazi.com/)
 
-Each of these companies’ beautiful accessories are created tell a story and provide empowerment to those in need around the world. Whether through employment, non-profit work or donation, each purchase will give back in some way. And while wearing them, your style will be one with purpose!
+A Chicago maker founded [Mazi](https://www.shopmazi.com/) to create handmade and hand painted clay jewelry to provide funds for global empowerment. With each of your purchases of the beautiful earrings, 25% goes to [Team World Vision](https://www.teamworldvision.org/) to help bring water to Africa.
+
+Each of these companies’ beautiful accessories are created to tell a story and provide empowerment to those in need around the world. Whether through employment, non-profit work, or donation, each purchase will give back in some way. And while wearing them, your style will be one with purpose!
 
 _Photos via_
