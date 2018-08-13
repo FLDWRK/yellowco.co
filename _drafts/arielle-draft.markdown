@@ -4,6 +4,7 @@ date: 2018-08-24 04:00:00 -07:00
 categories:
 - Growth
 author: Arielle Estoria
+image: "/uploads/StylewithBuki-024-1.JPG"
 series: Belong
 ---
 
