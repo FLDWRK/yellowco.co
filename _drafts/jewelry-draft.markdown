@@ -51,4 +51,4 @@ Each purchase from [Half United](https://www.halfunited.com/) goes to giving bac
 
 Each of these companies’ beautiful accessories are created to tell a story and provide empowerment to those in need around the world. Whether through employment, non-profit work, or donation, each purchase will give back in some way. And while wearing them, your style will be one with purpose!
 
-_Photos via_
+_Feature image via [Noonday Collection](https://www.noondaycollection.com/), second image via [Mazi](https://www.shopmazi.com/)_
