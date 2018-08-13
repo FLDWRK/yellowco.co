@@ -3,6 +3,19 @@ title: jewelry draft
 date: 2018-08-20 04:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- ethical jewelry
+- conscious jewelry
+- sustainable jewelry
+- ethical fashion
+- noonday collection
+- able jewelry
+- able
+- purpose jewelry
+- akola project
+- half united
+- mazi
+- give back
 author: Kelly LaFerriere
 series: Belong
 ---
