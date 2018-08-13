@@ -17,7 +17,7 @@ tags:
 - mission driven work
 - integrated work
 author: Jill Arbini
-image: "/uploads/img016.jpg"
+image: "/uploads/img022.jpg"
 series: Belong
 ---
 
