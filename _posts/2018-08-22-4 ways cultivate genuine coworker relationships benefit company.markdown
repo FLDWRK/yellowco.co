@@ -31,6 +31,8 @@ Belonging results from living into who you really are. Whereas fitting in involv
 
 In my most recent job, I’ve done a deep dive into the world of purposeful entrepreneurship and have rubbed shoulders with many creatives, entrepreneurs, and small organizations doing purposeful work. As I’ve observed and experienced what has (and hasn’t) worked, I’m sharing a few things you may like to consider as you seek to cultivate a sense of belonging within your team.
 
+![img010.jpg](/uploads/img010.jpg)
+
 #### Create connections
 
 Work affects life and life affects work. So knowing more about your team than their job function seems like a no-brainer. But, when goals need to be accomplished, it can be easy to push aside what can feel like non-essential interactions in favor of getting the job done. However, creating connections with your team doesn’t need to take a lot of extra time or break the bank. 
@@ -45,7 +47,9 @@ It’s as simple (and perhaps as hard) as it sounds. The path of purposeful work
 
 ### Celebrate the little things like an encouraging comment from a client.
 
-Set tangible goals and celebrate when you meet them. Things may not always look great, but you can’t argue with facts. You can try, but the facts will always win. They’re stubborn like that. Make it a habit to review your mission — know the reason why you do what you do and celebrate anything that shows your mission is being accomplished, no matter how small. Celebrate birthdays, launches, work anniversaries. In the midst of it all, there is good to be celebrated; sometimes you just have to look a little harder for it. 
+Set tangible goals and celebrate when you meet them. Things may not always look great, but you can’t argue with facts. You can try, but the facts will always win. They’re stubborn like that. Make it a habit to review your mission — know the reason why you do what you do and celebrate anything that shows your mission is being accomplished, no matter how small. Celebrate birthdays, launches, work anniversaries. In the midst of it all, there is good to be celebrated; sometimes you just have to look a little harder for it.
+
+![img022.jpg](/uploads/img022.jpg) 
 
 #### Recognize strengths and struggles 
 
