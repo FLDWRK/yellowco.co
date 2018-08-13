@@ -1,5 +1,5 @@
 ---
-title: 6 Jewelry Brands to Wear That Give Back Globally
+title: 6 Jewelry Brands to Love That Give Back Globally
 date: 2018-08-20 04:00:00 -07:00
 categories:
 - Conscious Living
