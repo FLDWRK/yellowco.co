@@ -4,6 +4,18 @@ title: 4 Ways to Cultivate Better Coworker Relationships That Benefit Your Entir
 date: 2018-08-22 04:00:00 -07:00
 categories:
 - Relationships
+tags:
+- coworker
+- coworkers
+- coworker relationships
+- company culture
+- connection
+- team strengths
+- work
+- purposeful work
+- holistic work
+- mission driven work
+- integrated work
 author: Jill Arbini
 image: "/uploads/img016.jpg"
 series: Belong
@@ -53,4 +65,4 @@ What does this look like tangibly? In short, it means crafting jobs to match ski
 
 ### This approach to job function can create space where you and your team can find the sweet spot to integrate who they are with what they do. In other words —  to belong. 
 
-Photos by
+_Photos by [Summer Staeb](https://www.summerstaeb.com/)_
