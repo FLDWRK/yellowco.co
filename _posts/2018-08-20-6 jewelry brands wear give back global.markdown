@@ -1,5 +1,5 @@
 ---
-title: jewelry draft
+title: 6 Jewelry Brands to Wear That Give Back Globally
 date: 2018-08-20 04:00:00 -07:00
 categories:
 - Conscious Living
@@ -16,6 +16,8 @@ tags:
 - half united
 - mazi
 - give back
+- do good
+- global impact
 author: Kelly LaFerriere
 image: "/uploads/noonday%201.jpg"
 series: Belong
