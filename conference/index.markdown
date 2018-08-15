@@ -228,7 +228,7 @@ sponsors:
   image: "/uploads/yc2018-sponsors-adobe.png"
   link: https://adobe.com
 - title: Alaska Airlines
-  image: "/uploads/Sm_4cp_Official_AS_Wordmark_logo.svg"
+  image: "/uploads/AlaskaAirlines_Wordmark_Official_4cp_Lg%20copy.png"
   link: https://alaskaair.com
 - title: In Lieu
   image: "/uploads/In-Leiu-7b59b3.png"
