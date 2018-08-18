@@ -100,6 +100,26 @@ speakers:
   image: "/uploads/HailMerry8452_susan.tif"
   title: Founder, Hail Merry
   link: https://hailmerry.com/
+- name: Cassandra Fowler, Panel Moderator
+  image: "/uploads/Cassandra-Pledgeling.png"
+  title: VP of Strategy & Social Impact, Pledgeling
+  link: https://www.pledgeling.com/
+- name: James Citron
+  image: "/uploads/James-Citron.jpeg"
+  title: CEO of Pledgeling
+  link: https://www.pledgeling.com/
+- name: Clancy Cauble
+  image: "/uploads/Clancy-Cauble.jpg"
+  title: Head of Social Goodness, This Bar Saves Lives
+  link: https://www.thisbarsaveslives.com/
+- name: Michelle Bakva
+  image: "/uploads/Michelle-Bakava.jpeg"
+  title: VP of Marketing, The William Warren Group
+  link: https://www.williamwarren.com/
+- name: Sharon Feder
+  image: "/uploads/Sharon.jpg"
+  title: Director of Communications, LA’s BEST
+  link: https://lasbest.org/
 speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
   image: "/uploads/Yellow2016-146.jpg"
