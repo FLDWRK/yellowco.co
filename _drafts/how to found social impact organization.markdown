@@ -11,6 +11,7 @@ tags:
 - social enterprise
 - female empowerment
 author: Rachel Neal
+image: "/uploads/2018-06-14_15-35-51_022.jpeg"
 series: Belong
 ---
 
