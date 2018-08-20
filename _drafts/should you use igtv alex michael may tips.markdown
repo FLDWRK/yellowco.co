@@ -35,7 +35,7 @@ And the benefit to IGTV is that you can capture the attention of your already-ex
 
 ###### What are the perks? Do you have any tips on its functions?
 
-I have found that it’s much easier to use than youtube, and you can do it all right on your smartphone — filming, editing, posting (unless the video is over 10 minutes, then you have to upload from your desktop!). I actually made a video [here](https://www.instagram.com/tv/Bkl1WLkg0cD/) you can watch with my top tips on how to make a pro-looking video, right on my IG channel! 
+I have found that it’s much easier to use than youtube, and you can do it all right on your smartphone — filming, editing, posting (unless the video is over 10 minutes, then you have to upload from your desktop!). I actually made a video [here](https://www.instagram.com/tv/Bkl1WLkg0cD/) you can watch with my top tips on how to make a pro-looking video, right on my [IG channel](https://www.instagram.com/alexmichaelmay/)! 
 
 The bar to entry is lower than IG feed or Youtube, so just get to creating! If you have existing videos not in vertical format, you can download the InShot App and easily convert them to vertical in an aesthetically pleasing way. That’s a great way to get used to creating content and familiarize yourself with the platform!
 
@@ -53,7 +53,7 @@ Throwing a lot of different kinds of content out there allowed me to be spontane
 
 I think it does! It allows me to expand upon the personal connection IG has created through posts and stories, and share more with my audience. 
 
-### I can share more in-depth information, tutorials, etc. but it still feels real and raw. 
+### I can share more in-depth information, tutorials, etc., but it still feels real and raw. 
 
 Something about vertical video to me mimics the feeling of Facetiming with a friend, and I think it’s cool to get to watch people and brands and causes I care about up close and personal in a new way.
 
