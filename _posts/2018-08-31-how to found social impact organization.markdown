@@ -27,6 +27,8 @@ I also own and am the primary maker of a children’s apparel company, [Harp Noe
 
 I love the work I do - everything I’ve created represents a stage in my life where I was in need of the community I’m creating and serving.  
 
+![GE2A4014.jpg](/uploads/GE2A4014.jpg)
+
 ###### What inspired your tagline of “Vision. Work. Follow Through.” and how has that method played out in your work?
 
 My tagline was the process I followed to tackle things in my life. A vision, typically represented a change or pivot I needed to make in my life. With change comes work, figuring out the work to bring a vision to reality. Work is anything from time management, evaluating habits, shifting thought, to investing in yourself. The final piece is the most important, follow through, a.k.a. where I got it wrong for a while. 
@@ -34,6 +36,8 @@ My tagline was the process I followed to tackle things in my life. A vision, typ
 ### I spent a lot of time working on my vision, but not enough time tracking progress, analyzing the results of my work, and mistaking being busy as working towards my goal. 
 
 Follow through is “less sexy” but represents what allows us to turn the corner. Building real relationships, the hundreds of follow-up emails we send, the stillness to make sure we’re operating in alignment with purpose, figuring out what success and failure is, being told no and moving forward anyway, asking for help, the list goes on and on. This interview is an example of our tagline at work. I registered for your [conference](https://yellowco.co/conference/), which I’m super excited about! I reached out to offer help and shared the conference with my community. My vision was to build community with like-minded women through conferences, the work is represented by my investment financially, in time, and in preparation. My follow through was offering to serve and sharing with my community. I’m thankful for the opportunity to share on the blog today!
+
+![2018-06-26_17-06-13_941.jpeg](/uploads/2018-06-26_17-06-13_941.jpeg)
 
 ###### It’s inspiring that you invite women to focus on self, family, and career all together. What are some of the best ways you’ve seen women live intentionally in all three areas?
 
@@ -43,17 +47,17 @@ The most common ah-ha moment is watching women connect the dots and realizing ho
 
 I’m an extremely spiritual person. I pray for guidance literally daily. I realize that my purpose is way bigger than me and I am no different than the members of my community. I go to therapy, I lead a small group at my church, I spend time taking care of my mental wellbeing by spending time alone in reflection, I have great friends who I confide in, and I pay close attention to my environment. I take the time to be present in every moment, especially with my kids, and I don’t pursue something unless I feel 100% about it. That’s the formula for me.
 
+![2018-06-16_19-56-20_365.jpeg](/uploads/2018-06-16_19-56-20_365.jpeg)
+
 ###### What advice would you give to someone who wants to found a social impact organization — but has no idea where to begin?
 
-You’re not alone! I’d say start! No one has it all figured out. 
-
-### Put yourself in rooms that inspire you, then plan how to carve out your niche. 
-
-Read a lot of books and get comfortable being uncomfortable, there are a lot of people way smarter than you! I’d encourage them to believe in what their organization will stand for. 
+You’re not alone! I’d say start! No one has it all figured out. Put yourself in rooms that inspire you, then plan how to carve out your niche. Read a lot of books and get comfortable being uncomfortable, there are a lot of people way smarter than you! I’d encourage them to believe in what their organization will stand for. 
 
 ### Social impact is trendy right now, you have to be certain you’re creating change for the right reasons - not because it’s trendy, but because you’re passionate about the work. 
 
 Lastly I would say, you will fail, so don't get discouraged. Every “failure” is simply rerouting you to exactly where you’re supposed to be! So keep working and don’t quit.
+
+![GE2A4024.jpg](/uploads/GE2A4024.jpg)
 
 ###### We love that you collaborate with men doing good work in your arena! What’s been the most effective way to draw men into the conversations your organization is focused on?
 
