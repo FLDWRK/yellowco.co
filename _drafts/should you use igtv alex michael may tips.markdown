@@ -45,7 +45,7 @@ IGTV is best for content you want to live on (as opposed to stories which expire
 
 ### I challenged myself to let go of perfectionism and just go for it! 
 
-Some days I would walk around my neighborhood and share tips on not comparing yourself to strangers on the internet, and some days it would be a lookbook I shot specifically for IGTV, but they were all edited and posted directly from my phone.
+Some days I would walk around my neighborhood and share [tips on not comparing yourself to strangers on the internet](https://www.instagram.com/tv/Bkyp80rg6vb/), and some days it would be a [lookbook](https://www.instagram.com/tv/Bkdq9dKgDcg/) I shot specifically for IGTV, but they were all edited and posted directly from my phone.
 
 Throwing a lot of different kinds of content out there allowed me to be spontaneous and creative, to try new things and see what my audience resonated with. What I like about IGTV is that it’s still new, so there’s not yet an established strategy or one right way yet!
 
