@@ -1,7 +1,7 @@
 ---
 title: Should You Use IGTV? Alex Michael May Answers All Your Questions & Shares Her
   Tips
-date: 2018-08-27 16:51:00 -07:00
+date: 2018-08-27 04:00:00 -07:00
 categories:
 - Entrepreneurs
 tags:
