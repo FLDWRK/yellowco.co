@@ -34,11 +34,15 @@ IGTV is a great way for brands, businesses, nonprofits, causes, influencers, and
 
 And the benefit to IGTV is that you can capture the attention of your already-existing user base right there on the Instagram app, as well as attract new users.
 
+![Photo Sep 29, 12 55 07 AM-1.jpg](/uploads/Photo%20Sep%2029,%2012%2055%2007%20AM-1.jpg)
+
 ###### What are the perks? Do you have any tips on its functions?
 
 I have found that it’s much easier to use than youtube, and you can do it all right on your smartphone — filming, editing, posting (unless the video is over 10 minutes, then you have to upload from your desktop!). I actually made a video [here](https://www.instagram.com/tv/Bkl1WLkg0cD/) you can watch with my top tips on how to make a pro-looking video, right on my [IG channel](https://www.instagram.com/alexmichaelmay/)! 
 
 The bar to entry is lower than IG feed or Youtube, so just get to creating! If you have existing videos not in vertical format, you can download the InShot App and easily convert them to vertical in an aesthetically pleasing way. That’s a great way to get used to creating content and familiarize yourself with the platform!
+
+![Photo Jan 24, 6 01 17 PM-1.jpg](/uploads/Photo%20Jan%2024,%206%2001%2017%20PM-1.jpg)
 
 ###### What type of content is best to put on IGTV as opposed to other social media features? How have you been using it?
 
@@ -50,6 +54,8 @@ Some days I would walk around my neighborhood and share [tips on not comparing y
 
 Throwing a lot of different kinds of content out there allowed me to be spontaneous and creative, to try new things and see what my audience resonated with. What I like about IGTV is that it’s still new, so there’s not yet an established strategy or one right way yet!
 
+![Photo Jan 24, 5 16 54 PM-1.jpg](/uploads/Photo%20Jan%2024,%205%2016%2054%20PM-1.jpg)
+
 ###### Does IGTV help you connect more authentically with others? If so, how have you seen this happen?
 
 I think it does! It allows me to expand upon the personal connection IG has created through posts and stories, and share more with my audience. 
@@ -57,6 +63,8 @@ I think it does! It allows me to expand upon the personal connection IG has crea
 ### I can share more in-depth information, tutorials, etc., but it still feels real and raw. 
 
 Something about vertical video to me mimics the feeling of Facetiming with a friend, and I think it’s cool to get to watch people and brands and causes I care about up close and personal in a new way.
+
+![Photo Jan 22, 7 48 57 PM-1.jpg](/uploads/Photo%20Jan%2022,%207%2048%2057%20PM-1.jpg)
 
 ###### How could this platform help women create meaningful, purpose-driven work that impacts others for good?
 
