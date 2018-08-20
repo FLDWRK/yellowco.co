@@ -49,7 +49,7 @@ The most common ah-ha moment is watching women connect the dots and realizing ho
 
 I’m an extremely spiritual person. I pray for guidance literally daily. I realize that my purpose is way bigger than me and I am no different than the members of my community. I go to therapy, I lead a small group at my church, I spend time taking care of my mental wellbeing by spending time alone in reflection, I have great friends who I confide in, and I pay close attention to my environment. I take the time to be present in every moment, especially with my kids, and I don’t pursue something unless I feel 100% about it. That’s the formula for me.
 
-![2018-06-16_19-56-20_365.jpeg](/uploads/2018-06-16_19-56-20_365.jpeg)
+![copy 2.jpeg](/uploads/copy%202.jpeg)
 
 ###### What advice would you give to someone who wants to found a social impact organization — but has no idea where to begin?
 
