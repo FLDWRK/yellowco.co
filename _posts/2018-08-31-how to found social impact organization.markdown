@@ -1,6 +1,8 @@
 ---
 title: Want to Launch a Social Impact Org? This Founder Shares the First Step
 date: 2018-08-31 04:00:00 -07:00
+categories:
+- Entrepreneurs
 tags:
 - social impact
 - social impact organization
