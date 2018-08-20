@@ -1,6 +1,15 @@
 ---
-title: k. hargrove interview placeholder
+title: Want to Launch a Social Impact Org? This Founder Shares the First Step
 date: 2018-08-31 04:00:00 -07:00
+tags:
+- social impact
+- social impact organization
+- Female Founders
+- empowomant
+- how to start business
+- how to start social impact business
+- social enterprise
+- female empowerment
 author: Rachel Neal
 series: Belong
 ---
