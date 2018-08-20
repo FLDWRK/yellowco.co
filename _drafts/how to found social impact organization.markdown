@@ -15,7 +15,7 @@ image: "/uploads/2018-06-14_15-35-51_022.jpeg"
 series: Belong
 ---
 
-_While social impact organizations have been quickly on the rise in popularity, founding one remains anything but an easy feat. Today on the blog, Krystin Hargrove, three-time founder shares her journey with launching her social impact organization, Empowomant, the importance of community in her work, and the first steps to take if you want to start your own company to impact the world for good._
+_While social impact organizations have been quickly on the rise in popularity, founding one remains anything but an easy feat. Today on the blog, [Krystin Hargrove](https://www.instagram.com/krystinhargrove/), three-time founder shares her journey with launching her social impact organization, Empowomant, the importance of community in her work, and the first steps to take if you want to start your own company to impact the world for good._
 
 ###### Tell us a bit about the work you do!
 
@@ -59,4 +59,4 @@ Lastly I would say, you will fail, so don't get discouraged. Every “failure”
 
 Personally I’ve collaborated with a lot of amazing men who value the ideas of women. So with Empowomant, I was adamant not to exclude men from our community. In all honesty, I don’t have to draw men in. They’re a huge part of it. They represent our husbands, boyfriends, fathers, sons - I mean half of the world’s population is male, fact check me on that! As women, we need communities specifically for us, but that doesn’t mean men aren’t an integral part, they should be. Men are excited and more than willing to contribute and support.
 
-_Photos courtesy of _
+_Photos courtesy of [Krystin Hargrove](https://www.instagram.com/krystinhargrove/)_
