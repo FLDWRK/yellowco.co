@@ -15,7 +15,7 @@ image: "/uploads/2018-06-14_15-35-51_022.jpeg"
 series: Belong
 ---
 
-_intro_
+_While social impact organizations have been quickly on the rise in popularity, founding one remains anything but an easy feat. Today on the blog, Krystin Hargrove, three-time founder shares her journey with launching her social impact organization, Empowomant, the importance of community in her work, and the first steps to take if you want to start your own company to impact the world for good._
 
 ###### Tell us a bit about the work you do!
 
