@@ -39,7 +39,11 @@ You’re not alone! I’d say start! No one has it all figured out.
 
 ### Put yourself in rooms that inspire you, then plan how to carve out your niche. 
 
-Read a lot of books and get comfortable being uncomfortable, there are a lot of people way smarter than you! I’d encourage them to believe in what their organization will stand for. Social impact is trendy now, you have to be certain you’re creating change for the right reasons - not because it’s trendy, but because you’re passionate about the work. Lastly I would say, you will fail, so don't get discouraged. Every “failure” is simply rerouting you to exactly where you’re supposed to be! So keep working and don’t quit.
+Read a lot of books and get comfortable being uncomfortable, there are a lot of people way smarter than you! I’d encourage them to believe in what their organization will stand for. 
+
+### Social impact is trendy right now, you have to be certain you’re creating change for the right reasons - not because it’s trendy, but because you’re passionate about the work. 
+
+Lastly I would say, you will fail, so don't get discouraged. Every “failure” is simply rerouting you to exactly where you’re supposed to be! So keep working and don’t quit.
 
 ###### We love that you collaborate with men doing good work in your arena! What’s been the most effective way to draw men into the conversations your organization is focused on?
 
