@@ -19,7 +19,7 @@ author: Hanna Snyder
 series: Belong
 ---
 
-_Yes, the internet has done it again. Given us yet another social media platform to share content and connect with others on. And while some businesses and content creators excitedly jumped on the opportunity to use Instagram's new [IGTV](https://itunes.apple.com/us/app/igtv/id1394351700?mt=8), it seems to have left others overwhelmed with questions – a main one being, how important is it for me to use another space to share content with my audience? For any who can relate - worry not. Today [Alex Michael May](http://alexmichaelmay.com/), speaker, writer, creative director, and virtual bff to many, is answering all our questions about the importance of IGTV, how it can be used, and who should be utilizing it as a platform!_
+_Yes, the internet has done it again. Given us yet another social media platform to share content and connect with others on. And while some businesses and content creators excitedly jumped on the opportunity to use Instagram's new [IGTV](https://itunes.apple.com/us/app/igtv/id1394351700?mt=8), it seems to have left others overwhelmed with questions – a main one being, how important is it for me to use another new space to share content with my audience? For any who can relate - worry not. Today [Alex Michael May](http://alexmichaelmay.com/), speaker, writer, creative director, and virtual bff to many, is answering all our questions about the importance of IGTV, how it can be used, and who should be utilizing it as a platform!_
 
 ###### What is the deal with IGTV? Do you think it is here to stay?
 
