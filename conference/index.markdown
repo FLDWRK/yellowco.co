@@ -367,6 +367,9 @@ sponsors:
 - title: Loomstate
   image: "/uploads/Loomstate.png"
   link: https://www.loomstate.org/
+- title: Samaya
+  image: "/uploads/SAMAYA.png"
+  link: https://samaya.life/
 layout: custom/conference
 ---
 
