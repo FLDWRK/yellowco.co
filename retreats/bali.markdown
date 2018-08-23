@@ -12,7 +12,7 @@ dates:
   end: 2019-02-23 16:00:00 -08:00
 tickets:
   button: Grab your spot
-  url: https://www.universe.com/yellow-retreat-2019-bali
+  url: https://yellowco.typeform.com/to/jIzB0Y
 lead:
   title: Are you ready to take your<br>do-good business to the next level?
   description: Come with us to the beautiful beaches of Bali as we dive into so much
@@ -273,4 +273,3 @@ footer:
 
     Email [kacy@yellowco.co](mailto:kacy@yellowco.co).
 ---
-
