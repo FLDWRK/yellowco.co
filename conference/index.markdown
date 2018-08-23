@@ -120,6 +120,10 @@ speakers:
   image: "/uploads/Sharon.jpg"
   title: Director of Communications, LA’s BEST
   link: https://lasbest.org/
+- name: Talitha Baker
+  image: "/uploads/Screenshot%202018-08-22%2023.10.15.png"
+  title: Sr Manger of Impact, Fullscreen Media
+  link: https://fullscreenmedia.co/
 speakers-teaser: _(more speakers will be announced soon!)_
 quote-two:
   image: "/uploads/Yellow2016-146.jpg"
