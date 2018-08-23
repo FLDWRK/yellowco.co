@@ -133,4 +133,19 @@
       text-align: left;
     }
   }
+  .footer {
+    .cta {
+      border-top: 1px solid $brand-black;
+      text-align: center;
+      .btn-wrapper {
+        background-color: $white;
+        display: inline-block;
+        padding: 0 1rem;
+        transform: translateY(-53%);
+        .btn {
+          font-size: 1.3rem;
+        }
+      }
+    }
+  }
 }

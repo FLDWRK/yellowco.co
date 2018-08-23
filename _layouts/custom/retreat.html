@@ -126,4 +126,24 @@ layout: site
         </div>
       </div>
     </div>
+  </div>
+  <div class="container footer">
+    <div class="row">
+      <div class="col">
+        <p class="cta">
+          <span class="btn-wrapper">
+            <a href="{{page.tickets.url}}" class="btn btn-outline-primary">{{page.tickets.button}}</a>
+          </span>
+        </p>
+        {{page.footer.text | markdownify}}
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        {% include newsletter-form.html %}
+      </div>
+    </div>
+  </div>
 </div>

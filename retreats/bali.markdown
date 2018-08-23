@@ -1,7 +1,8 @@
 ---
 layout: custom/retreat
+title: "Bali Retreat - Launch & Build Your Do-Good Business"
 background-image: "/uploads/bali-bg.jpg"
-tagline: Launch & Build Your Do Good<br>Business With Us In
+tagline: Launch & Build Your Do-Good<br>Business With Us In
 location:
   short-name: Bali
   long-name: Bali, Indonesia
@@ -176,4 +177,9 @@ faqs:
     answer: Absolutely! The retreat is a wonderful opportunity to befriend kindred spirited women from around the world— prepare yourselves to make friends with a group that loves to travel as much as you do, and who wants to use work to impact the world for good!
   - question: What do I need to bring?
     answer: Once you have booked your spot we will send you a list of suggested things to bring with you to the retreat, as well as whats available at the villa, such as hairdryers etc.
+footer:
+  text: |-
+    **Questions? Comments? Concerns? We got you.**
+
+    Email [kacy@yellowco.co](mailto:kacy@yellowco.co).
 ---
