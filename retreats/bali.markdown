@@ -3,6 +3,9 @@ title: Bali Retreat - Launch & Build Your Do-Good Business
 layout: custom/retreat
 background-image: "/uploads/bali-bg.jpg"
 tagline: Launch & Build Your Do-Good<br>Business With Us In
+redirect_from:
+- "/retreat/"
+- "/retreats/"
 location:
   short-name: Bali
   long-name: Bali, Indonesia
@@ -273,4 +276,3 @@ footer:
 
     Email [kacy@yellowco.co](mailto:kacy@yellowco.co).
 ---
-
