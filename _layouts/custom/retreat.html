@@ -1,0 +1,129 @@
+---
+title: Retreat
+layout: site
+---
+
+<div class="retreat">
+  <div class="container banner" style="background-image: url({{page.background-image}})">
+    <div class="row">
+      <div class="col">
+        <h2 class="tagline">{{page.tagline}}</h2>
+        <h1 class="location">{{page.location.short-name}}</h1>
+        <hr>
+        <h3 class="dates">{{page.dates.full}}</h3>
+      </div>
+    </div>
+  </div>
+  <div class="container lead">
+    <div class="row">
+      <div class="col">
+        <h2 class="title">{{page.lead.title}}</h2>
+        {{page.lead.description | markdownify}}
+        <p>
+          <a href="{{page.tickets.url}}" class="btn btn-outline-primary">{{page.tickets.button}}</a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="container accommodations">
+    <div class="row">
+      <div class="col">
+        <h2 class="title">{{page.accommodations.title}}</h2>
+        {{page.accommodations.description | markdownify}}
+        <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-transition="crossfade" data-loop="true" data-autoplay="true" data-keyboard="true" data-swipe="true">
+          {% for image in page.accommodations.all-images %}
+            <img src="{{image}}" />
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container coaches">
+    {% for coach in page.coaches %}
+      <div class="row coach">
+        <div class="col-sm col-image">
+          <img src="{{coach.image}}" class="img-fluid"/>
+        </div>
+        <div class="col-sm-6 col-lg-7 col-xl-9 col-bio">
+          <h3>{{coach.name}}<br>{{coach.title}}</h3>
+          <blockquote>{{coach.quote | markdownify}}</blockquote>
+          {{coach.description | markdownify}}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class="container overview">
+    <div class="row">
+      <div class="col">
+        <div class="header-rule">
+          <h2>{{page.overview.title}}</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md">
+        <h4>{{page.overview.subtitle}}</h4>
+        {{page.overview.description | markdownify}}
+      </div>
+      <div class="col-1 slash hidden-md-down">
+        <img src="/assets/images/retreat-slash.svg"/>
+      </div>
+      <div class="col-md">
+        <h4>{{page.overview.facts.title}}</h4>
+        {% for fact in page.overview.facts.facts %}
+          <p>
+            {% if fact.fact %}
+              <strong>{{fact.fact}}</strong>:
+            {% endif %}
+            {% if fact.info %}
+              {{fact.info}}
+            {% endif %}
+            {% if fact.extra-info %}
+              <br>
+              <small>
+                <em>
+                  {{fact.extra-info}}
+                </em>
+              </small>
+            {% endif %}
+          </p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  <div class="container attendees">
+    <div class="row">
+      <div class="col-md-6 col-xl-7">
+        <h2 class="title">{{page.attendees.title}}</h2>
+        {{page.attendees.description | markdownify}}
+      </div>
+      <div class="col-md">
+        <img src="{{page.attendees.image}}" class="img-fluid"/>
+      </div>
+    </div>
+  </div>
+  <div class="container faqs">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10 col-xl-9">
+        <h2 class="text-center mb-3">{{page.faqs.title}}</h2>
+        <div class="card-accordion" role="tablist" aria-multiselectable="true">
+          {% for faq in page.faqs.faqs %}
+            <div class="card">
+              <div class="card-header" role="tab" id="heading{% increment faq-heading %}">
+                <p class="mb-0">
+                  <a data-toggle="collapse" href="#collapse{% increment collapse-link %}" aria-expanded="false" aria-controls="collapse{% increment collapse-control %}" class="accordion-toggle collapsed">
+                    {{ faq.question }}
+                  </a>
+                </p>
+              </div>
+              <div id="collapse{% increment faq-collapse %}" class="collapse" role="tabpanel" aria-labelledby="heading{% increment faq-answer %}">
+                <div class="card-block">
+                  {{ faq.answer | markdownify }}
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+</div>

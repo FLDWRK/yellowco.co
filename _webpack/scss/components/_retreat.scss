@@ -1,0 +1,136 @@
+.retreat {
+  h2 {
+    font-size: 2.4rem;
+    font-style: italic;
+  }
+  p {
+    font-size: 1rem;
+    text-align: center;
+    line-height: 1.5;
+  }
+  .container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+  }
+  .banner {
+    text-align: center;
+    background-size: cover;
+    border-bottom: 5px solid $yellow;
+    hr {
+      border-top: 2px solid $yellow;
+      width: 10rem;
+    }
+    h1,
+    h2,
+    h3 {
+      font-family: $font-family-subheadings;
+      color: $yellow;
+    }
+    h2,
+    h3 {
+      font-size: 1.4rem;
+    }
+    h1 {
+      font-size: 7rem;
+      text-transform: uppercase;
+    }
+    h2 {
+      font-style: normal;
+    }
+  }
+  .lead {
+    .title {
+      text-align: center;
+      font-style: italic;
+    }
+    .btn {
+      margin-top: 2rem;
+    }
+  }
+  .accommodations {
+    padding: 3rem;
+    background-color: #eeede7;
+    text-align: center;
+    p {
+      text-align: center;
+    }
+  }
+  .coaches {
+    background-color: $yellow;
+    h3 {
+      font-family: $font-family-subheadings;
+      font-size: 1.4rem;
+    }
+    blockquote {
+      font-style: italic;
+      font-family: $font-family-serif;
+    }
+    .coach {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      h3,
+      blockquote,
+      p {
+        text-align: left;
+      }
+      img {
+        border: 1rem solid black;
+      }
+      @include media-breakpoint-only(xs) {
+        .col-image {
+          margin-bottom: 1rem;
+        }
+      }
+    }
+    .coach:nth-child(even) {
+      @include media-breakpoint-up(sm) {
+        h3,
+        blockquote,
+        p {
+          text-align: right;
+        }
+        .col-bio {
+          order: 1;
+        }
+        .col-image {
+          order: 2;
+        }
+      }
+    }
+  }
+  .overview {
+    p {
+      text-align: left;
+    }
+    .slash {
+      img {
+        @include media-breakpoint-only(xl) {
+          height: 730px;
+        }
+        @include media-breakpoint-only(lg) {
+          height: 850px;
+        }
+      }
+    }
+  }
+  .attendees {
+    padding: 3rem;
+    background-color: #eeede7;
+    text-align: center;
+    p {
+      text-align: center;
+    }
+    @include media-breakpoint-up(md) {
+      text-align: right;
+      p {
+        text-align: right;
+      }
+    }
+  }
+  .faqs {
+    p {
+      text-align: left;
+    }
+  }
+}

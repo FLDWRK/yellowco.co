@@ -1,4 +1,4 @@
-#content {
+.content {
   a {
     cursor: pointer;
 
@@ -24,6 +24,6 @@
 
 [data-href],
 [href],
-[type='submit'] {
+[type="submit"] {
   cursor: pointer;
 }
