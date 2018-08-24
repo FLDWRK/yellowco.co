@@ -374,6 +374,9 @@ sponsors:
 - title: Samaya
   image: "/uploads/SAMAYA.png"
   link: https://samaya.life/
+- title: Beekeepers Naturals
+  image: "/uploads/Beekeepers.png"
+  link: https://beekeepersnaturals.com/?gclid=EAIaIQobChMIx5yz0veF3QIVhKDsCh1gbAVGEAAYASAAEgLAGfD_BwE
 layout: custom/conference
 ---
 
