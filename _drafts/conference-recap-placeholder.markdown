@@ -48,7 +48,7 @@ But as these incredible speakers rotated, I watched a kaleidoscope click to beau
 
 Much like the attention to detail paid to decorating and sectioning the venue, nothing was flashy. Everything was atmospheric, because of what was said and the audience who was hearing and responding to it. 
 
-With that, I say yes, please, get the Digital Pass so you don’t miss out on this year, but the real deal is being in this environment and interacting with such deeply excellent women. Not to mention, shopping with them in the Do Good Goods Marketplace! It was as fun to walk around as it was inspiring, as were the Conference goodie bags!
+With that, I say yes, please, get the [Digital Pass](https://yellowco.co/conference/) so you don’t miss out on all the goodness from this year, but the real deal is being in this environment and interacting with such deeply excellent women. Not to mention, shopping with them in the Do Good Goods Marketplace! It was as fun to walk around as it was inspiring, as were the Conference goodie bags!
 
 Knowledge and support flow freely here. Attending is an education. Here I learned about organizations and resources like [Pledgeling](https://www.pledgeling.com/) and [InLieu](https://www.inlieu.com/) that are widening accessibility for giving back to causes on the corporate and individual levels.
 
@@ -58,16 +58,16 @@ Toxin and cruelty-free beauty abounded in [Cocos Organics](https://www.cocos-org
 
 An adorable mini llama pillow and "Own It" canvas banner from Imani Collective, and a gold keychain from Tumble represented female makers who are not only sewing and soldering beautiful goods, but fashioning new lives for themselves and their communities.
 
-In her talk, [Allison Fallon](https://allisonfallon.com/) convinced us that we’re all writers and need to write the truth, regularly. Well, there’s no dodging that now that we’re equipped with fair-trade notebooks by Raven & Lily, a B-Corp, and Ooly Pens that give back to classrooms, and market bags from Eco-Bags, another B-Corp, to take them around on errands.
+In her talk, [Allison Fallon](https://allisonfallon.com/) convinced us that we’re all writers and need to write the truth, regularly. Well, there’s no dodging that now that we’re equipped with fair-trade notebooks by B-Corp, [Raven & Lily](https://ravenandlily.com/), [Ooly Pens](https://www.ooly.com/), a female-run brand that give back to classrooms, and market bags from B-Corp, [Eco-Bags](https://www.ecobags.com/) to take them along anywhere.
 
-To close such a beautiful cast of speakers, Ameena Brown’s spoken word made us both laugh and remember soberly, confidently, “We are not alone doing the work we do.”
+To close such a beautiful lineup of speakers, [Amena Brown’s](http://www.amenabrown.com/) spoken word pieces made us both laugh and remember soberly, confidently, “We are not alone doing the work we do.”
 
 As I filled nearly a whole pocket notebook with scribbled wisdom, I came away from each practical and inspiring talk with a fresh zing of, “Yeah? Well, my sister said…” for any opposition, external or internal. I’m thinking about that five-year-old Cardi B meme...
 
-“There is a big difference between someone who wants to do something and someone who wants to be a ‘SOMEONE.’ I suggest you DO something,” Candice had said.
+As [Candice](https://www.instagram.com/CandiceKumai/) implored in her talk, “There is a big difference between someone who wants to do something and someone who wants to be a ‘SOMEONE.’ I suggest you DO something.”
 
-Unique to women is how inextricable our passion is from everything we do! It’s confidence in “intuition,” as Hail Merry founder Susan O’Brien pointed out. We can tap into a new and better future by putting your dreams to work now.
+Unique to women is how inextricable our passion is from everything we do! It’s confidence in “intuition,” as Hail Merry founder, Susan O’Brien pointed out. We can tap into a new and better future by putting your dreams to work now.
 
-What better time is there to own it?
+So – what better time is there to own it?
 
 _Photos by [Cacá Santoro](http://cacasantoro.com/)_
