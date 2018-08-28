@@ -1,6 +1,5 @@
 ---
 title: Bali Retreat - Launch & Build Your Do-Good Business
-layout: custom/retreat
 background-image: "/uploads/bali-bg.jpg"
 tagline: Launch & Build Your Do-Good<br>Business With Us In
 redirect_from:
@@ -112,13 +111,13 @@ overview:
 
     **Depending on the needs of the group, topics will include:**
 
-    * Overview of social entrepreneurship
-    * Defining your challenge/customer and storytelling—-articulating your "why"
-    * Market segmentation and user discovery
-    * Customer empathy: how to do it, and why it's so important
-    * Building your MVP
+    * Defining your customer challenge and articulating your "why"
+    * Develop the organizational strategy
+    * How to develop customer empathy & it's importance
+    * Tailoring your MVP
     * Tailoring your marketing to your audience
     * Business financials--the what why and how
+    * Creating a company playbook
     * Developing a post-retreat game plan that includes "next steps"
 
     You'll walk away with a clear understanding of a MVP to execute on, the foundation of your business plan, and a step by step guide on next steps you'll take when you get back home!
@@ -275,5 +274,6 @@ footer:
     **Questions? Comments? Concerns? We got you.**
 
     Email [kacy@yellowco.co](mailto:kacy@yellowco.co).
+layout: custom/retreat
 ---
 
