@@ -112,15 +112,15 @@ overview:
     **Depending on the needs of the group, topics will include:**
 
     * Defining your customer challenge and articulating your "why"
-    * Develop the organizational strategy
-    * How to develop customer empathy & it's importance
-    * Tailoring your MVP
-    * Tailoring your marketing to your audience
+    * Developing your organizational strategy
+    * Developing customer empathy & it's importance
+    * Tailoring and refining your MVP
+    * Coming up with a marketing plan that is custom to your audience
     * Business financials--the what why and how
     * Creating a company playbook
     * Developing a post-retreat game plan that includes "next steps"
 
-    You'll walk away with a clear understanding of a MVP to execute on, the foundation of your business plan, and a step by step guide on next steps you'll take when you get back home!
+    You'll walk away with a step by step guide on next steps you'll take when you get back home!
   facts:
     title: The Facts
     facts:
@@ -187,16 +187,14 @@ faqs:
     answer: |-
       The retreat curriculum will be developed by Yellow Co. Coaches will revise our curriculum based on the group. Depending on the needs of the group, potential topics may include:
 
-      * Overview of social entrepreneurship
-      * Defining your challenge/customer and storytelling—-articulating your “why”
-      * Market segmentation and user discovery
-      * Customer empathy: how to do it, and why it’s so important
-      * Building your MVP
+      * Defining your customer challenge and articulating your "why"
+      * Developing your organizational strategy
+      * Developing customer empathy & it's importance
+      * Tailoring and refining your MVP
       * Tailoring your marketing to your audience
       * Business financials--the what why and how
-      * Developing a post-retreat game plan that includes “next steps”
-
-      Participants will walk away with a clear understanding of  a MVP to execute on, the foundation of their business plan, and a plan to carry their momentum forward into actionable steps.
+      * Creating a company playbook
+      * Developing a post-retreat game plan that includes "next steps"
   - question: Who are our coaches at the Bali Retreat?
     answer: Participants will work individually and as a group on the curriculum and
       will receive coaching from Joanna Waterfall, as well as another experienced
