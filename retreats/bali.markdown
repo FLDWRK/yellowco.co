@@ -139,6 +139,10 @@ overview:
     - fact: Coaches
       info: Joanna Waterfall & Jessie Simonson
     - extra-info: "**Flights to and from Bali are _not_ included"
+    - fact: Pricing
+      info: |-
+        Presale through Sept 20th: $2100
+        General: $3000
 attendees:
   image: "/uploads/bali-attendees.jpg"
   title: Who is this for?
