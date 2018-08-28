@@ -156,17 +156,17 @@ faqs:
   title: Got questions? We've got answers.
   faqs:
   - question: Why join a Yellow Co Retreat?
-    answer: Great question! There certainly are a lot retreats out there, and we think
-      many of them are great! However, we think that a Yellow Co Retreat offers something
-      special— not only are you getting the experience of a lifetime by traveling
-      to an amazing destination, but the bulk of the value contained in this retreat
-      is what you will learn! The curriculum our group is going through has rendered
-      amazing results in past participants, and not only are you going to push yourself
-      and your social enterprise to the next level, but you are also going to have
-      the opportunity to do that alongside two amazing founders who have been through
-      many of the ups and downs that you are facing, and maybe have already experienced!
-      You will receive one-on-one coaching, group coaching, and peer reviews from
-      an extraordinary number of women who are making a difference in the world!
+    answer: Great question! We think that a Yellow Co Retreat offers something special—
+      not only are you getting the experience of a lifetime by traveling to a country
+      that many people dream of visiting, but the bulk of the value contained in this
+      retreat is what you will learn! The curriculum our group is going through has
+      rendered amazing results in past participants (including Joanna), and not only
+      are you going to push yourself and your social enterprise to the next level,
+      but you are also going to have the opportunity to do that alongside two amazing
+      founders who have been through many of the ups and downs that you are facing,
+      and maybe have already experienced! You will receive one-on-one coaching, group
+      coaching, and peer reviews from an extraordinary number of women who are making
+      a difference in the world!
   - question: How do I know my business is in the right stage to join this retreat?
     answer: Do you currently have a working product, program, or service that’s helping
       people? Are you ready to see if you can turn your side hustle into a full-time
@@ -191,29 +191,27 @@ faqs:
     answer: |-
       The retreat curriculum will be developed by Yellow Co. Coaches will revise our curriculum based on the group. Depending on the needs of the group, potential topics may include:
 
-      * Defining your customer challenge and articulating your "why"
-      * Developing your organizational strategy
-      * Developing customer empathy & it's importance
-      * Tailoring and refining your MVP
-      * Tailoring your marketing to your audience
-      * Business financials--the what why and how
-      * Creating a company playbook
-      * Developing a post-retreat game plan that includes "next steps"
+      -Defining your customer challenge and articulating your “why”
+      -Developing your organizational strategy
+      -Developing customer empathy & it’s importance
+      -Tailoring and refining your MVP
+      -Coming up with a marketing plan that is custom to your audience
+      -Business financials–the what why and how
+      -Creating a company playbook
+      -Developing a post-retreat game plan that includes “next steps”
   - question: Who are our coaches at the Bali Retreat?
     answer: Participants will work individually and as a group on the curriculum and
       will receive coaching from Joanna Waterfall, as well as another experienced
       social enterprise founder— Jessie Simonson, founder of 31 Bits!
-  - question: Is it all work, or will we get to have fun too?
-    answer: We want you to walk away from this retreat feeling confident and ready
-      to take your business to the next level, but don’t worry, we will be having
-      time to enjoy the amazing country of Bali too. There will be workshops scheduled
-      into every day—-we highly recommend extending your stay in Bali if you want
-      to spend more time vacationing on the island.
+  - question: Is it all work? What's the free time like?
+    answer: 'We want you to walk away from this retreat feeling confident and ready
+      to take your business to the next level! We plan on soaking up every thing about
+      Bali as well! There will be coaching scheduled into each day—- if one week of
+      time in Bali isn''t enough for you, we totally encourage you to stay longer! '
   - question: Where will we be staying in Bali?
-    answer: We will be staying in the beautiful Canggu neighborhood. Canggu is highly
-      sought after as its location is nestled away in a quiet area, yet is very close
-      to the international airport, to the beach, and to some of the most famous destinations
-      in Bali!
+    answer: We will be staying in the beautiful Canggu neighborhood. Canggu is a dream--
+      it's a chill area, but is near the international airport, the beach, and to
+      some of the best destinations in Bali!
   - question: What are our accommodations like in Bali?
     answer: Our luxurious villa was designed by a famous French designer, and is a
       elegant take on cultural Balinese accommodations. Nine large bedrooms with luscious
@@ -222,17 +220,19 @@ faqs:
       within tropical gardens. From the pool and jacuzzi you will have plenty of views
       of the rice fields that extend beyond the villa.
   - question: Are there single occupancy rooms?
-    answer: |-
-      All rooms are shared occupancy with one other female guest. Each room has two beds, either two single beds or one queen and one single bed. We do not have single occupancy rooms available at the villa.
-
-      Paid room upgrades to a single room may be made available closer to the retreat date if the there are last minute cancellations.
+    answer: All rooms are shared with one other female guest. Each room has two beds  (either
+      two single beds or one queen and one single bed). Single occupancy rooms  typically
+      aren't available but paid room upgrades to a single room may be made available
+      closer to the retreat date if the there are last minute cancellations.
   - question: How many hours of workshops?
-    answer: We have approximately 20+ hours of formal workshops. Workshops typically
-      begin around 8am and we work though until lunch with some breaks in between.
-  - question: Is there content prep I should do before the retreat?
-    answer: Yes, we will send you a Blog Business Planning document to complete ahead
-      of the retreat. The business planning document is to get you thinking about
-      your business and blog before you arrive at the retreat.
+    answer: We have approximately 25 hours of formal coaching. Coaching will be scheduled
+      to suit the weather. Many days we will be adventuring around in the morning,
+      and will dive into our coaching in the afternoon during the afternoon rainy
+      hour or so that accompanies this season.
+  - question: How can I best prepare before the retreat?
+    answer: Yes! We will be sending you docs to help your planning. You'll be able
+      to work through some great questions that prepare you for the content covered
+      by coaching.
   - question: Do I need a visa for Bali?
     answer: US citizens need a valid passport that will not expire within 6 months
       of the date of return from Bali to the US, as well as a visitors visa, which
@@ -240,37 +240,39 @@ faqs:
   - question: When is payment due?
     answer: Depending on the payment plan you choose and the number of registrants,
       payments can be made as late as early December, 2018.
-  - question: What is the Early Bird period?
+  - question: What is the Early Bird pricing period?
     answer: August 23-September 20, 2018
-  - question: Is there a minimum guest limit?
+  - question: Is there a minimum group number?
     answer: Yes. We operate a minimum of 7 guests per week. As we state in our Terms
       & Conditions, Yellow Co does reserve the right to cancel the retreat if the
       running of the trip is not deemed financially viable. In this situation you
-      will be refunded all payments made to Yellow Co.
+      will be refunded all payments made to Yellow Co. with the exception of a couple
+      fees that our ticketing service (Universe) may require.
   - question: Do I need travel insurance?
     answer: |-
       Yes! You are responsible for obtaining your own travel insurance cover. We recommend and require that you purchase travel insurance at the point of  booking your spot on a Yellow Co Retreat. We promise it’s a good idea— we require this is in order to make sure you are insured just in case unforeseen circumstances prevent you from attending the trip.
 
-      One great option is World Nomads. However, it is your responsibility to research travel insurance companies in your location and select an insurer that suits your needs and coverage requirements!
+      We have heard great things about World Nomads. However, we recommend that you research travel insurance companies in your area and select an insurer that best fits what you need and are looking for.
   - question: Do you cater to dietary needs?
     answer: We can cater to dietary needs within reason! Once your place is booked
       we will send out a guest information form requesting information such as dietary
-      requirements. The chef will look to accommodate all dietary requirements for
-      meals at the villa. Balinese food is has a large number of vegetarian and vegan
-      options, so typically you will not find it difficult to find something scrumptious
-      out and about in Bali!
+      requirements (if you say in the application you have specific diet needs). The
+      chef at the villa is able to accommodate the majority of dietary requirements
+      for meals we will have at our villa. Balinese food has lots of vegetarian and
+      vegan options, so typically you will not find it difficult to find something
+      you can't wait to bite into when we are exploring Bali!
   - question: What is the activity level?
-    answer: We want you to get the very most out of our time together, and we do have
-      a rather full itinerary. However, the activities themselves are not strenuous.
+    answer: We want you to get the very most out of our time together, and we have
+      lots planned each day. However, the activities themselves are not physically
+      draining.
   - question: Can I come alone?
-    answer: Absolutely! The retreat is a wonderful opportunity to befriend kindred
+    answer: 'Absolutely! The retreat is a wonderful opportunity to befriend kindred
       spirited women from around the world— prepare yourselves to make friends with
       a group that loves to travel as much as you do, and who wants to use work to
-      impact the world for good!
+      impact the world for good! '
   - question: What do I need to bring?
-    answer: Once you have booked your spot we will send you a list of suggested things
-      to bring with you to the retreat, as well as whats available at the villa, such
-      as hairdryers etc.
+    answer: Once you have signed up we will send you a list of things that we provide
+      as well as items we recommend that you bring.
 footer:
   text: |-
     **Questions? Comments? Concerns? We got you.**
