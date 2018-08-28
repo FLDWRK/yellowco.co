@@ -109,15 +109,14 @@ overview:
 
     We want to help you move from side-gig to full time business owner--because we believe in YOU. And your business needs to get out into the world and start impacting the world for good!
 
-    **Depending on the needs of the group, topics will include:**
+    **Retreat topics and milestones will include:**
 
-    * Defining your customer challenge and articulating your "why"
-    * Developing your organizational strategy
-    * Developing customer empathy & it's importance
-    * Tailoring and refining your MVP
-    * Coming up with a marketing plan that is custom to your audience
-    * Business financials--the what why and how
-    * Creating a company playbook
+    * Understanding the root problems facing your customers and articulating your "Why"
+    * Developing dream, mission, and vision statements to guide your organizational strategy
+    * Creating a brand persona to target a specific customer segment
+    * Building a comprehensive business model around your minimum viable product (MVP)
+    * Beginning to model business financials to assess short-term and long-term viability
+    * Creating a company playbook to guide your daily/weekly activities
     * Developing a post-retreat game plan that includes "next steps"
 
     You'll walk away with a step by step guide on next steps you'll take when you get back home!
