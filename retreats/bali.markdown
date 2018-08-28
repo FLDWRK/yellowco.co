@@ -188,16 +188,14 @@ faqs:
       on how to grow and scale your social enterprise.
   - question: What will we cover during the Bali Retreat?
     answer: |-
-      The retreat curriculum will be developed by Yellow Co. Coaches will revise our curriculum based on the group. Depending on the needs of the group, potential topics may include:
-
-      -Defining your customer challenge and articulating your “why”
-      -Developing your organizational strategy
-      -Developing customer empathy & it’s importance
-      -Tailoring and refining your MVP
-      -Coming up with a marketing plan that is custom to your audience
-      -Business financials–the what why and how
-      -Creating a company playbook
-      -Developing a post-retreat game plan that includes “next steps”
+      The retreat curriculum has been developed by Yellow Co. in partnership with FLDWRK (fldwrk.io). Topics and milestones will include:
+      * Understanding the root problems facing your customers and articulating your "Why"
+      * Developing dream, mission, and vision statements to guide your organizational strategy
+      * Creating a brand persona to target a specific customer segment
+      * Building a comprehensive business model around your minimum viable product (MVP)
+      * Beginning to model business financials to assess short-term and long-term viability
+      * Creating a company playbook to guide your daily/weekly activities
+      * Developing a post-retreat game plan that includes "next steps"
   - question: Who are our coaches at the Bali Retreat?
     answer: Participants will work individually and as a group on the curriculum and
       will receive coaching from Joanna Waterfall, as well as another experienced
