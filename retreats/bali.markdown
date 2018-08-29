@@ -103,7 +103,7 @@ coaches:
     successes and failures- and ultimately, change the world for good!
 overview:
   title: Bali Retreat Overview
-  subtitle: About the Retreat
+  subtitle: Retreat Goal
   description: |-
     Our goal with this retreat is to help you move from the beginning phases of your do good business to a developed business plan with clear next steps on how to grow and scale your social enterprise, all on a beautiful island with a group of like minded women supporting you and cheering you on.
 
@@ -125,18 +125,18 @@ overview:
     facts:
     - fact: Dates
       info: February 17th-24th, 2019, 8 days, 7 nights
-    - fact: Trip Style
-      info: Educational Incubator + Active Travel
     - fact: Group Size
       info: Approximately 15 total attendees
-    - fact: Accommodation Type
+    - fact: Activities
+      info: Educational Incubator + Active Travel
+    - fact: Accommodations
       info: Luxury Villa
+    - fact: Coaches
+      info: Joanna Waterfall & Jessie Simonson
     - fact: Meals
       info: Most all Breakfast, Lunch, and Dinner Included
       extra-info: "(there will be 1-2 nights when we go out and eat and you'll be
         on your own, other than those times everything is included!)"
-    - fact: Coaches
-      info: Joanna Waterfall & Jessie Simonson
     - extra-info: "**Flights to and from Bali are _not_ included"
     - fact: Pricing
       info: |-
@@ -144,7 +144,7 @@ overview:
         General: $3000
 attendees:
   image: "/uploads/bali-attendees.jpg"
-  title: Who is this for?
+  title: Who should come?
   description: Do you currently have a working product, program, or service that's
     helping people? Are you ready to see if you can turn your side hustle into a full-time
     gig? Then chances are, you are in the right stage to take full advantage of the
