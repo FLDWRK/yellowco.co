@@ -134,7 +134,7 @@ overview:
     - fact: Coaches
       info: Joanna Waterfall & Jessie Simonson
     - fact: Meals
-      info: Most all Breakfast, Lunch, and Dinner Included
+      info: Most all Breakfasts, Lunches, and Dinners Included
       extra-info: "(there will be 1-2 nights when we go out and eat and you'll be
         on your own, other than those times everything is included!)"
     - extra-info: "**Flights to and from Bali are _not_ included"
