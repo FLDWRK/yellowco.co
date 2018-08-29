@@ -102,7 +102,7 @@ coaches:
     to spill the beans on our Bali retreat to help other women learn from her both
     successes and failures- and ultimately, change the world for good!
 overview:
-  title: Bali Retreat Overview
+  title: Bali Retreat Details
   subtitle: Retreat Goal
   description: |-
     Our goal with this retreat is to help you move from the beginning phases of your do good business to a developed business plan with clear next steps on how to grow and scale your social enterprise, all on a beautiful island with a group of like minded women supporting you and cheering you on.
