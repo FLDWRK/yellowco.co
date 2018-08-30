@@ -13,7 +13,7 @@ dates:
   start: 2019-02-16 16:00:00 -08:00
   end: 2019-02-23 16:00:00 -08:00
 tickets:
-  button: Grab your spot
+  button: Click here to apply
   url: https://yellowco.typeform.com/to/jIzB0Y
 lead:
   title: Are you ready to take your<br>do-good business to the next level?
