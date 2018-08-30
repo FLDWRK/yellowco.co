@@ -24,7 +24,8 @@ After committing an L.A. driving mistake I’m too embarrassed to tell you, man 
 
 Everyone assembled for the conference kickoff, as emcee [Alex Michael May](http://alexmichaelmay.com/) and Yellow founder, Joanna Waterfall, greeted attendees, sharing the layout of the space including two rooms behind the main stage seating dedicated to quiet meditation and to creativity respectively.
 
-![374-0P7A7615.jpg](/uploads/374-0P7A7615.jpg)
+![021-0P7A4535.jpg](/uploads/021-0P7A4535.jpg)
+![025-0P7A4545.jpg](/uploads/025-0P7A4545.jpg)
 
 In the Silent Space room, attendees could break off whenever needed to take a little time to themselves amidst the inevitable buzz of social energy. Filled with cozy floor pillows, essential oil diffusers, and the warm, inspiring poems of [I Am Her Tribe](https://www.instagram.com/iamhertribe/), the space was a perfect invitation to rest. In the Create Corner, we were encouraged to add to a communal collage by playing with art supplies spread across the room. It was so thoughtful and disarming. 
 
@@ -39,6 +40,8 @@ Joanna started the day reminding us, “In this space, we’re all equals.” We
 As speaker after speaker took the stage, I was impressed in one new way after another by each woman’s work, but moreover by her distinct commitment to serving the world where she saw a need. This year, speakers were asked to choose their favorite nonprofits, and attendees were encouraged to try out the [InLieu](https://www.inlieu.com/) app to donate to the causes after each talk.
 
 As the day carried on, [Justice Rising](https://www.justicerising.org/) founder, Cassandra Lee, shared why and how she [goes into war zones](https://yellowco.co/blog/2018/08/15/why-millennial-woman-war-zones-justice-rising/) to catalyze children’s education. She rallied us to see how our generation’s desire to right injustice could be brought to fruition. Author and wellness expert Candice Kumai followed, imploring us to take off our masks and go back to what makes us us. To fight to live up to our legacies and do something significant, rather than just hope to be a "someone".
+
+![107-0P7A5018.jpg](/uploads/107-0P7A5018.jpg)
 
 Already filled with lots of wisdom to process, any pretenses we walked in with were dropped at the door, and it was time for lunch. Friends old and new broke off to enjoy some delicious and healthy bites in the marketplace, or adventure off for a meal downtown.
 
