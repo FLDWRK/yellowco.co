@@ -20,6 +20,10 @@ This year’s theme was **Our Ownership**. The idea of ownership is essential fo
 
 Women poured into the first floor of Hudson Loft in downtown L.A., exploring the marketplace of amazing do-good vendors and grabbing that necessary cup of coffee before heading upstairs to begin learning how to work together for the good of the world.
 
+Bustling above the marketplace was the Yellow Collective Member Lounge, decked out with cozy seating areas to chat and refresh, a manicure bar by Restore Blank, a booth to get your watercolor portrait done, and a bar serving up refreshing mocktails all day!
+
+![479-0P7A5456 (1)-0bc91c.jpg](/uploads/479-0P7A5456%20(1)-0bc91c.jpg)
+
 After committing an L.A. driving mistake I’m too embarrassed to tell you, man that [Verve](https://www.vervecoffee.com/) coffee was what I wanted in my system. And it smelled SO GOOD. But upstairs finding my seat next to a friend, I was quickly eased into the sense that this was a place I was going to be nourished as a woman, an artist, and a somewhat reluctant business woman — exactly where I need to take ownership.
 
 Everyone assembled for the conference kickoff, as emcee [Alex Michael May](http://alexmichaelmay.com/) and Yellow founder, Joanna Waterfall, greeted attendees, sharing the layout of the space including two rooms behind the main stage seating dedicated to quiet meditation and to creativity respectively.
@@ -63,8 +67,6 @@ The same went for this year’s goodie bags, a tall market tote packed with clea
 We also received the cutest mini llama pillow and "Own It" canvas banner by [Imani Collective](https://imanicollective.com/), and a gold keychain from [Tumble](https://www.wearetumble.com/). Both companies employ female artisans either domestically or internationally, empowering and equipping them with opportunity. It so happened that I have an empty hook in my bedroom where Imani Collective’s banner now belongs, and I promptly put the keychain on my backpack for the next day. Nothing like the feeling of being ready for school.
 
 To top it all off, we're all ready to write, plan, and reflect in our new journals by B-Corp [Raven & Lily](https://ravenandlily.com/), with [Ooly Pens](https://www.ooly.com/), a female-run brand that gives back to schools.
-
-Bustling above the marketplace was the Yellow Collective Member Lounge, decked out with cozy seating areas to chat and refresh, a manicure bar by Restore Blank, a booth to get your watercolor portrait done, and a bar serving up refreshing mocktails all day!
 
 ![032-0P7A4565-7b7910.jpg](/uploads/032-0P7A4565-7b7910.jpg)
 
