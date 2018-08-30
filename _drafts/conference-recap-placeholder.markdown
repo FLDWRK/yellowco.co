@@ -49,11 +49,15 @@ Getting back down to business, we heard practical advice and the good, bad, and 
 
 In deep with my note-taking, I was convicted of just how much I need to commit to pen and paper by speaker [Allison Fallon’s](https://allisonfallon.com/) case for claiming our identity as writers. “Writing is rerouting your neurological pathways for positive change,” she shared. I think when she said, “Writer’s block isn’t writer’s block, it’s life block,” we all felt it in our gut that it’s time to own some truths, and to be better off for it.
 
+![223-0P7A6202.jpg](/uploads/223-0P7A6202.jpg)
+
 To close the day, [Miki Agrawal](https://www.mikiagrawal.com/), founder of [THINX](https://www.shethinx.com/) and multiple other businesses, showed how fearlessness is true disruptive innovation. “It’s all about all of us uplifting each other,” she said. 
 
 ### Virality and money are great, but are not as key as being artful, uncompromising, and stirring participation in your community to help address global problems. 
 
 We toasted to an incredible first day with drinks and shopping in the do-good marketplace! Every speaker and marketplace vendor was tangible proof that it’s possible to use business for good in so many ways. In the Do Good Goods Marketplace, all products passed a high standard of being ethically made and/or giving back in different forms.
+
+![Yellow2018bags-9.jpg](/uploads/Yellow2018bags-9.jpg)
 
 The same went for this year’s goodie bags, a tall market tote packed with clean beauty goods like [Cocos Organics](https://www.cocos-organics.com/products/crowdfund-campaign-profits-driven-by-purpose) non-toxic lip balm, [Elate Cosmetics](https://elatebeauty.com/) eyeshadow, [Ursa Major](https://www.ursamajorvt.com/) natural deodorant, [Trilogy](https://www.trilogyproducts.com/us/) organic rosehip oil, and all [Saje](https://www.saje.com/home/) everything for essential oils in the lounges. 
 
@@ -62,6 +66,8 @@ We also received the cutest mini llama pillow and "Own It" canvas banner by [Ima
 To top it all off, we're all ready to write, plan, and reflect in our new journals by B-Corp [Raven & Lily](https://ravenandlily.com/), with [Ooly Pens](https://www.ooly.com/), a female-run brand that gives back to schools.
 
 Bustling above the marketplace was the Yellow Collective Member Lounge, decked out with cozy seating areas to chat and refresh, a manicure bar by Restore Blank, a booth to get your watercolor portrait done, and a bar serving up refreshing mocktails all day!
+
+![479-0P7A5456 (1).jpg](/uploads/479-0P7A5456%20(1).jpg)
 
 On day two, we hit the ground running by hearing Pintrest Head of Culture & Community, [Enid Hwang’s](https://www.pinterest.com/enid/), breakdown of what makes good goals and how to start living by priorities rather than drowning in a to-do mindset.
 
