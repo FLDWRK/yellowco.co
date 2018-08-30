@@ -18,6 +18,8 @@ This year’s theme was **Our Ownership**. The idea of ownership is essential fo
 
 Women poured into the first floor of Hudson Loft in downtown L.A., exploring the marketplace of amazing do-good vendors and grabbing that necessary cup of coffee before heading upstairs to begin learning how to work together for the good of the world.
 
+![103-0P7A4966.jpg](/uploads/103-0P7A4966.jpg)
+
 After committing an L.A. driving mistake I’m too embarrassed to tell you, man that [Verve](https://www.vervecoffee.com/) coffee was what I wanted in my system. And it smelled SO GOOD. But upstairs finding my seat next to a friend, I was quickly eased into the sense that this was a place I was going to be nourished as a woman, an artist, and a somewhat reluctant business woman — exactly where I need to take ownership.
 
 Everyone assembled for the conference kickoff, as emcee [Alex Michael May](http://alexmichaelmay.com/) and Yellow founder, Joanna Waterfall, greeted attendees, sharing the layout of the space including two rooms behind the main stage seating dedicated to quiet meditation and to creativity respectively.
@@ -27,6 +29,8 @@ In the Silent Space room, attendees could break off whenever needed to take a li
 ### I could see how much passion the Yellow community has for every kind of woman to flourish, no matter her personality, her setbacks or achievements. 
 
 There wouldn’t be one answer to success, or one appearance to being on the journey towards it.
+
+![374-0P7A7615.jpg](/uploads/374-0P7A7615.jpg)
 
 Joanna started the day reminding us, “In this space, we’re all equals.” We all followed with a few, good deep breaths together (literally) led by breathwork and meditation coach, Jenna Reiss, before our first speaker, [Nikia Phoenix](https://linktr.ee/nikiaphoenix) uplifted us into paying attention to our self-talk and nurturing our what our heart song might be.
 
