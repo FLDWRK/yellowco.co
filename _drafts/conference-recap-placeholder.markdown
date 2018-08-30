@@ -7,7 +7,7 @@ author: Melanie Loon
 series: Belong
 ---
 
-Counting down the hours to my first [Yellow Conference](https://yellowco.co/conference/), I was too excited to sleep after seeing Instagram sneak peeks of big, bright illustrative installations by The Shift Creative and Hanna Snyder setting up a Yellow universe at Hudson Loft.
+Counting down the hours to my first [Yellow Conference](https://yellowco.co/conference/), I was too excited to sleep after seeing Instagram sneak peeks of big, bright illustrative installations by [The Shift Creative](http://theshiftcreative.com/) and Hanna Snyder setting up a Yellow universe at Hudson Loft.
 
 Used to a fairly solo freelance routine, I was anticipating female entrepreneurship Christmas – 
 
