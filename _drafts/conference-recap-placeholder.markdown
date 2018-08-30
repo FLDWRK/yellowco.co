@@ -16,13 +16,15 @@ Used to a mostly solo freelance routine, I was anticipating female entrepreneurs
 
 This year’s theme was **Our Ownership**. The idea of ownership is essential for entrepreneurs, and for women, as we learn to articulate our missions more boldly, more clearly. But this theme was two words, _Our_ Ownership, and the way that sunk in through speakers, organizations, and new friends was clarifying and motivating in a way that I had been needing a refresh in.
 
-Women poured into the first floor of Hudson Loft in downtown L.A., exploring the marketplace of amazing do-good vendors and grabbing that necessary cup of coffee before heading upstairs to begin learning how to work together for the good of the world.
-
 ![103-0P7A4966.jpg](/uploads/103-0P7A4966.jpg)
+
+Women poured into the first floor of Hudson Loft in downtown L.A., exploring the marketplace of amazing do-good vendors and grabbing that necessary cup of coffee before heading upstairs to begin learning how to work together for the good of the world.
 
 After committing an L.A. driving mistake I’m too embarrassed to tell you, man that [Verve](https://www.vervecoffee.com/) coffee was what I wanted in my system. And it smelled SO GOOD. But upstairs finding my seat next to a friend, I was quickly eased into the sense that this was a place I was going to be nourished as a woman, an artist, and a somewhat reluctant business woman — exactly where I need to take ownership.
 
 Everyone assembled for the conference kickoff, as emcee [Alex Michael May](http://alexmichaelmay.com/) and Yellow founder, Joanna Waterfall, greeted attendees, sharing the layout of the space including two rooms behind the main stage seating dedicated to quiet meditation and to creativity respectively.
+
+![374-0P7A7615.jpg](/uploads/374-0P7A7615.jpg)
 
 In the Silent Space room, attendees could break off whenever needed to take a little time to themselves amidst the inevitable buzz of social energy. Filled with cozy floor pillows, essential oil diffusers, and the warm, inspiring poems of [I Am Her Tribe](https://www.instagram.com/iamhertribe/), the space was a perfect invitation to rest. In the Create Corner, we were encouraged to add to a communal collage by playing with art supplies spread across the room. It was so thoughtful and disarming. 
 
@@ -30,7 +32,7 @@ In the Silent Space room, attendees could break off whenever needed to take a li
 
 There wouldn’t be one answer to success, or one appearance to being on the journey towards it.
 
-![374-0P7A7615.jpg](/uploads/374-0P7A7615.jpg)
+![368-0P7A7601.jpg](/uploads/368-0P7A7601.jpg)
 
 Joanna started the day reminding us, “In this space, we’re all equals.” We all followed with a few, good deep breaths together (literally) led by breathwork and meditation coach, Jenna Reiss, before our first speaker, [Nikia Phoenix](https://linktr.ee/nikiaphoenix) uplifted us into paying attention to our self-talk and nurturing our what our heart song might be.
 
