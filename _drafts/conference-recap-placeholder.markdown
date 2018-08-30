@@ -25,7 +25,6 @@ After committing an L.A. driving mistake I’m too embarrassed to tell you, man 
 Everyone assembled for the conference kickoff, as emcee [Alex Michael May](http://alexmichaelmay.com/) and Yellow founder, Joanna Waterfall, greeted attendees, sharing the layout of the space including two rooms behind the main stage seating dedicated to quiet meditation and to creativity respectively.
 
 ![021-0P7A4535.jpg](/uploads/021-0P7A4535.jpg)
-![025-0P7A4545.jpg](/uploads/025-0P7A4545.jpg)
 
 In the Silent Space room, attendees could break off whenever needed to take a little time to themselves amidst the inevitable buzz of social energy. Filled with cozy floor pillows, essential oil diffusers, and the warm, inspiring poems of [I Am Her Tribe](https://www.instagram.com/iamhertribe/), the space was a perfect invitation to rest. In the Create Corner, we were encouraged to add to a communal collage by playing with art supplies spread across the room. It was so thoughtful and disarming. 
 
@@ -49,17 +48,17 @@ Getting back down to business, we heard practical advice and the good, bad, and 
 
 In deep with my note-taking, I was convicted of just how much I need to commit to pen and paper by speaker [Allison Fallon’s](https://allisonfallon.com/) case for claiming our identity as writers. “Writing is rerouting your neurological pathways for positive change,” she shared. I think when she said, “Writer’s block isn’t writer’s block, it’s life block,” we all felt it in our gut that it’s time to own some truths, and to be better off for it.
 
-![223-0P7A6202.jpg](/uploads/223-0P7A6202.jpg)
-
 To close the day, [Miki Agrawal](https://www.mikiagrawal.com/), founder of [THINX](https://www.shethinx.com/) and multiple other businesses, showed how fearlessness is true disruptive innovation. “It’s all about all of us uplifting each other,” she said. 
+
+![223-0P7A6202.jpg](/uploads/223-0P7A6202.jpg)
 
 ### Virality and money are great, but are not as key as being artful, uncompromising, and stirring participation in your community to help address global problems. 
 
 We toasted to an incredible first day with drinks and shopping in the do-good marketplace! Every speaker and marketplace vendor was tangible proof that it’s possible to use business for good in so many ways. In the Do Good Goods Marketplace, all products passed a high standard of being ethically made and/or giving back in different forms.
 
-![Yellow2018bags-9.jpg](/uploads/Yellow2018bags-9.jpg)
+The same went for this year’s goodie bags, a tall market tote packed with clean beauty goods like [Cocos Organics](https://www.cocos-organics.com/products/crowdfund-campaign-profits-driven-by-purpose) non-toxic lip balm, [Elate Cosmetics](https://elatebeauty.com/) eyeshadow, [Ursa Major](https://www.ursamajorvt.com/) natural deodorant, [Trilogy](https://www.trilogyproducts.com/us/) organic rosehip oil, not to mention all [Saje](https://www.saje.com/home/) Essential Oils everything placed around the entire space. 
 
-The same went for this year’s goodie bags, a tall market tote packed with clean beauty goods like [Cocos Organics](https://www.cocos-organics.com/products/crowdfund-campaign-profits-driven-by-purpose) non-toxic lip balm, [Elate Cosmetics](https://elatebeauty.com/) eyeshadow, [Ursa Major](https://www.ursamajorvt.com/) natural deodorant, [Trilogy](https://www.trilogyproducts.com/us/) organic rosehip oil, and all [Saje](https://www.saje.com/home/) everything for essential oils in the lounges. 
+![Yellow2018bags-9.jpg](/uploads/Yellow2018bags-9.jpg)
 
 We also received the cutest mini llama pillow and "Own It" canvas banner by [Imani Collective](https://imanicollective.com/), and a gold keychain from [Tumble](https://www.wearetumble.com/). Both companies employ female artisans either domestically or internationally, empowering and equipping them with opportunity. It so happened that I have an empty hook in my bedroom where Imani Collective’s banner now belongs, and I promptly put the keychain on my backpack for the next day. Nothing like the feeling of being ready for school.
 
@@ -67,17 +66,21 @@ To top it all off, we're all ready to write, plan, and reflect in our new journa
 
 Bustling above the marketplace was the Yellow Collective Member Lounge, decked out with cozy seating areas to chat and refresh, a manicure bar by Restore Blank, a booth to get your watercolor portrait done, and a bar serving up refreshing mocktails all day!
 
-![479-0P7A5456 (1).jpg](/uploads/479-0P7A5456%20(1).jpg)
+![032-0P7A4565-7b7910.jpg](/uploads/032-0P7A4565-7b7910.jpg)
 
 On day two, we hit the ground running by hearing Pintrest Head of Culture & Community, [Enid Hwang’s](https://www.pinterest.com/enid/), breakdown of what makes good goals and how to start living by priorities rather than drowning in a to-do mindset.
 
 Our time is something to own; it belongs to us. As do our unique personalities, which branding expert, [Alison Faulkner](https://www.instagram.com/thealisonshow/?hl=en), taught us to embrace and feel as awesome as we already are. We danced it out, and then got some serious education on the politics of public art and fashion from activist fashion blogger, [Hoda Katebi](http://www.joojooazad.com/).
 
-[Pledgeling](https://www.pledgeling.com/) moderated today's panel on how to integrate and sustain a give-back element in a business. It was fascinating to hear how companies like [Fullscreen Media](https://fullscreenmedia.co/), [This Bar Saves Lives](https://www.thisbarsaveslives.com/), and [The Giving Keys](https://www.thegivingkeys.com/) have harnessed new media and emerging tech to qualify (storytelling) and quantify (hard numbers) social impact to keep advancing philanthropic efforts. Next up, co-founders Brittany and Ian Bentley shared how they started [Parker Clay](https://www.parkerclay.com/) with community at the heart and generational impact for good in Ethiopia as a goal, citing their favorite African proverb: 
+![327-0P7A7411.jpg](/uploads/327-0P7A7411.jpg)
+
+[Pledgeling](https://www.pledgeling.com/) moderated the second panel on how to integrate and sustain a give-back element in a business. It was fascinating to hear how companies like [Fullscreen Media](https://fullscreenmedia.co/), [This Bar Saves Lives](https://www.thisbarsaveslives.com/), and [The Giving Keys](https://www.thegivingkeys.com/) have harnessed new media and emerging tech to qualify (storytelling) and quantify (hard numbers) social impact to keep advancing philanthropic efforts. Next up, co-founders Brittany and Ian Bentley shared how they started [Parker Clay](https://www.parkerclay.com/) with community at the heart and generational impact for good in Ethiopia as a goal, citing their favorite African proverb: 
 
 ### “If you want to go fast, go alone. If you want to go far, go together.”
 
 So much wisdom was dropped, but we ended these two very full days with spoken word by [Amena Brown](http://www.amenabrown.com/) that made us laugh from our bellies and remember soberly, confidently, “We are not alone in doing the work we do.”
+
+![434-0P7A8315.jpg](/uploads/434-0P7A8315.jpg)
 
 No new strategy, algorithm, or way of presenting oneself compares to the power of answering a deep, personal calling to impact the world for good. Each of us has them! Making it our shared mission to own them is the best place to be - with all that we have and all that we are in the present moment.
 
