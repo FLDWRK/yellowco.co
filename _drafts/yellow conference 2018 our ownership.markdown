@@ -85,7 +85,7 @@ The same went for this year’s goodie bags, a tall market tote packed with clea
 
 We also received the cutest mini llama pillow and "Own It" canvas banner by [Imani Collective](https://imanicollective.com/), and a gold keychain from [Tumble](https://www.wearetumble.com/). Both companies employ female artisans either domestically or internationally, empowering and equipping them with opportunity. It so happened that I have an empty hook in my bedroom where Imani Collective’s banner now belongs, and I promptly put the keychain on my backpack for the next day. Nothing like the feeling of being ready for school.
 
-To top it all off, we're all ready to write, plan, and reflect in our new journals by B-Corp [Raven & Lily](https://ravenandlily.com/), with [Ooly Pens](https://www.ooly.com/), a female-run brand that gives back to schools.
+To top it all off, we're all ready to write, plan, and reflect in our new journals by B-Corp [Raven & Lily](https://ravenandlily.com/), with [Ooly Pens](https://www.ooly.com/), a female-run brand that gives back to schools. Plus – an ethically made bag from [Eco Bags](https://www.ecobags.com/) to take it all on the go!
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/032-0P7A4565-7b7910.jpg)
 
