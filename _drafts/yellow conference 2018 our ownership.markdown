@@ -33,7 +33,7 @@ Used to a mostly solo freelance routine, I was anticipating female entrepreneurs
 
 ### A wonderland of creative, ambitious, generous women is exactly the gift I got over two days there.
 
-This year’s theme was **Our Ownership**. The idea of ownership is essential for entrepreneurs, and for women, as we learn to articulate our missions more boldly, more clearly. But this theme was two words, _Our_ Ownership, and the way that sunk in through speakers, organizations, and new friends was clarifying and motivating in a way that I had been needing a refresh in.
+This year’s conference theme was **Our Ownership**. The idea of ownership is essential for entrepreneurs, and for women, as we learn to articulate our missions more boldly, more clearly. But this theme was two words, _Our_ Ownership, and the way that sunk in through speakers, organizations, and new friends was clarifying and motivating in a way that I had needed a refresh in.
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/103-0P7A4966.jpg)
 
@@ -43,7 +43,9 @@ Bustling above the marketplace was the Yellow Collective Member Lounge, decked o
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/479-0P7A5456%20(1)-0bc91c.jpg)
 
-After committing an L.A. driving mistake I’m too embarrassed to tell you, man that [Verve](https://www.vervecoffee.com/) coffee was what I wanted in my system. And it smelled SO GOOD. But upstairs finding my seat next to a friend, I was quickly eased into the sense that this was a place I was going to be nourished as a woman, an artist, and a somewhat reluctant business woman — exactly where I need to take ownership.
+After committing an L.A. driving mistake I’m too embarrassed to tell you, man that [Verve](https://www.vervecoffee.com/) coffee was what I wanted in my system. And it smelled SO GOOD. But upstairs finding my seat next to a friend, 
+
+### I was quickly eased into the sense that this was a place I was going to be nourished as a woman, an artist, and a somewhat reluctant business woman (exactly where I need to take ownership).
 
 Everyone assembled for the conference kickoff, as emcee [Alex Michael May](http://alexmichaelmay.com/) and Yellow founder, Joanna Waterfall, greeted attendees, sharing the layout of the space including two rooms behind the main stage seating dedicated to quiet meditation and to creativity respectively.
 
