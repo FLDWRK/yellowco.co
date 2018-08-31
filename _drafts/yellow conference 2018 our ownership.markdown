@@ -1,5 +1,5 @@
 ---
-title: How Yellow Conference 2018 Proved That Our Ownership Will Change the World
+title: How Yellow Conference 2018 Proved That Taking Ownership Will Change the World
 date: 2018-08-31 04:00:00 -07:00
 categories:
 - Growth
