@@ -39,7 +39,7 @@ This year’s theme was **Our Ownership**. The idea of ownership is essential fo
 
 Women poured into the first floor of Hudson Loft in downtown L.A., exploring the marketplace of amazing do-good vendors and grabbing that necessary cup of coffee before heading upstairs to begin learning how to work together for the good of the world.
 
-Bustling above the marketplace was the Yellow Collective Member Lounge, decked out with cozy seating areas to chat and refresh, a manicure bar by Restore Blank, a booth to get your watercolor portrait done, and a bar serving up refreshing mocktails all day!
+Bustling above the marketplace was the Yellow Collective Member Lounge, decked out with cozy seating areas to chat and refresh, a manicure bar by [Restore Blank](https://restoreblank.com/), a booth to get your watercolor portrait done, and a bar serving up refreshing mocktails all day!
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/479-0P7A5456%20(1)-0bc91c.jpg)
 
