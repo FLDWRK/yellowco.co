@@ -27,7 +27,7 @@ image: "/uploads/464-0P7A5417.jpg"
 series: Belong
 ---
 
-Counting down the hours to my first [Yellow Conference](https://yellowco.co/conference/), I was too excited to sleep after seeing Instagram sneak peeks of big, bright illustrative installations by [The Shift Creative](http://theshiftcreative.com/) and [Hanna Snyder](http://hancreative.co/) setting up a Yellow universe at [Hudson Loft](http://www.hudsonloft.com/).
+Counting down the hours to my first [Yellow Conference](https://yellowco.co/conference/), I was too excited to sleep after seeing Instagram sneak peeks of big, bright, illustrative installations going up by [The Shift Creative](http://theshiftcreative.com/) and [Hanna Snyder](http://hancreative.co/) setting up a Yellow universe at [Hudson Loft](http://www.hudsonloft.com/).
 
 Used to a mostly solo freelance routine, I was anticipating female entrepreneurship Christmas, and -
 
