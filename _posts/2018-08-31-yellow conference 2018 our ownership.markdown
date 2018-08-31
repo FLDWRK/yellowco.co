@@ -47,7 +47,7 @@ After committing an L.A. driving mistake I’m too embarrassed to tell you, man 
 
 ### I was quickly eased into the sense that this was a place I was going to be nourished as a woman, an artist, and a somewhat reluctant business woman (exactly where I need to take ownership).
 
-Everyone assembled for the conference kickoff, as emcee [Alex Michael May](http://alexmichaelmay.com/) and Yellow founder, Joanna Waterfall, greeted attendees, sharing the layout of the space including two rooms behind the main stage seating dedicated to quiet meditation and to creativity respectively.
+Everyone assembled for the conference kickoff, as emcee [Alex Michael May](http://alexmichaelmay.com/) and Yellow founder, Joanna Waterfall, greeted attendees, sharing the layout of the space including two rooms behind the main stage seating dedicated to quiet meditation and creativity, respectively.
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/021-0P7A4535.jpg)
 
@@ -59,21 +59,23 @@ There wouldn’t be one answer to success, or one appearance to being on the jou
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/368-0P7A7601.jpg)
 
-Joanna started the day reminding us, “In this space, we’re all equals.” We all followed with a few, good deep breaths together (literally) led by breathwork and meditation coach, Jenna Reiss, before our first speaker, [Nikia Phoenix](https://linktr.ee/nikiaphoenix) uplifted us into paying attention to our self-talk and nurturing our what our heart song might be.
+Joanna started the day reminding us, “In this space, we’re all equals.” We all followed with a few, good deep breaths together (literally) led by breathwork and meditation coach, Jenna Reiss, before our first speaker, [Nikia Phoenix](https://linktr.ee/nikiaphoenix), uplifted us into paying attention to our self-talk and nurturing our what our heart song might be.
 
-As speaker after speaker took the stage, I was impressed in one new way after another by each woman’s work, but moreover by her distinct commitment to serving the world where she saw a need. This year, speakers were asked to choose their favorite nonprofits, and attendees were encouraged to try out the [InLieu](https://www.inlieu.com/) app to donate to the causes after each talk.
+### As speaker after speaker took the stage, I was uniquely impressed by each woman’s work, but moreover by her distinct commitment to serving the world where she saw a need. 
 
-As the day carried on, [Justice Rising](https://www.justicerising.org/) founder, Cassandra Lee, shared why and how she [goes into war zones](https://yellowco.co/blog/2018/08/15/why-millennial-woman-war-zones-justice-rising/) to catalyze children’s education. She rallied us to see how our generation’s desire to right injustice could be brought to fruition. Author and wellness expert [Candice Kumai](https://www.instagram.com/CandiceKumai/) followed, imploring us to take off our masks and go back to what makes us us. To fight to live up to our legacies and do something significant, rather than just hope to be a "someone".
+This year, speakers were asked to choose their favorite nonprofits, and attendees were encouraged to try out the [InLieu](https://www.inlieu.com/) app to donate to the causes after each talk.
+
+As the day carried on, [Justice Rising](https://www.justicerising.org/) founder, Cassandra Lee, shared why and how she [goes into war zones](https://yellowco.co/blog/2018/08/15/why-millennial-woman-war-zones-justice-rising/) to catalyze children’s education. She rallied us to see how our generation’s desire to right injustice could be brought to fruition. Author and wellness expert [Candice Kumai](https://www.instagram.com/CandiceKumai/) followed, imploring us to take off our masks and go back to what makes us _us_. To fight to live up to our legacies and do something significant, rather than just hope to be a "someone".
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/107-0P7A5018.jpg)
 
 Already filled with lots of wisdom to process, any pretenses we walked in with were dropped at the door, and it was time for lunch. Friends old and new broke off to enjoy some delicious and healthy bites in the marketplace, or adventure off for a meal downtown.
 
-Getting back down to business, we heard practical advice and the good, bad, and not-so-pretty experiences of building a do-good business from the ground up from a panel of entrepreneurs moderated by Bogobrush CEO Heather McDougall. Founders Kathy Terry of [InLieu](https://www.inlieu.com/), AmyAnn Cadwell of [The Good Trade](http://www.thegoodtrade.com/), Liz Skalla of [GIVN Water](https://www.givnwater.com/), and Susan O’Brien of [Hail Merry](https://hailmerry.com/) shared about their business "firsts", and everything learned along the way.
+Getting back down to business, we heard practical advice and the good, bad, and not-so-pretty experiences of building a do-good business from the ground up from a panel of entrepreneurs moderated by [Bogobrush](https://www.bogobrush.com/) CEO Heather McDougall. Founders Kathy Terry of [InLieu](https://www.inlieu.com/), AmyAnn Cadwell of [The Good Trade](http://www.thegoodtrade.com/), Liz Skalla of [GIVN Water](https://www.givnwater.com/), and Susan O’Brien of [Hail Merry](https://hailmerry.com/) shared about their business "firsts", and everything learned along the way.
 
 In deep with my note-taking, I was convicted of just how much I need to commit to pen and paper by speaker [Allison Fallon’s](https://allisonfallon.com/) case for claiming our identity as writers. “Writing is rerouting your neurological pathways for positive change,” she shared. I think when she said, “Writer’s block isn’t writer’s block, it’s life block,” we all felt it in our gut that it’s time to own some truths, and to be better off for it.
 
-To close the day, [Miki Agrawal](https://www.mikiagrawal.com/), founder of [THINX](https://www.shethinx.com/) and multiple other businesses, showed how fearlessness is true disruptive innovation. “It’s all about all of us uplifting each other,” she said. 
+To close the day, [Miki Agrawal](https://www.mikiagrawal.com/), founder of [THINX](https://www.shethinx.com/) and multiple other incredible businesses, showed how fearlessness is true disruptive innovation. 
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/223-0P7A6202.jpg)
 
@@ -81,7 +83,7 @@ To close the day, [Miki Agrawal](https://www.mikiagrawal.com/), founder of [THIN
 
 We toasted to an incredible first day with drinks and shopping in the do-good marketplace! Every speaker and marketplace vendor was tangible proof that it’s possible to use business for good in so many ways. In the Do Good Goods Marketplace, all products passed a high standard of being ethically made and/or giving back in different forms.
 
-The same went for this year’s goodie bags, a tall market tote packed with clean beauty goods like [Cocos Organics](https://www.cocos-organics.com/products/crowdfund-campaign-profits-driven-by-purpose) non-toxic lip balm, [Elate Cosmetics](https://elatebeauty.com/) eyeshadow, [Ursa Major](https://www.ursamajorvt.com/) natural deodorant, [Trilogy](https://www.trilogyproducts.com/us/) organic rosehip oil, not to mention all [Saje](https://www.saje.com/home/) Essential Oils everything placed around the entire space. 
+The same went for this year’s goodie bags, a tall market tote packed with clean beauty goods like [Cocos Organics](https://www.cocos-organics.com/products/crowdfund-campaign-profits-driven-by-purpose) non-toxic lip balm, [Elate Cosmetics](https://elatebeauty.com/) eyeshadow, [Ursa Major](https://www.ursamajorvt.com/) natural deodorant, and [Trilogy](https://www.trilogyproducts.com/us/) organic rosehip oil – not to mention all [Saje](https://www.saje.com/home/) Essential Oils everything placed around the entire space. 
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/Yellow2018bags-9.jpg)
 
@@ -91,7 +93,7 @@ To top it all off, we're all ready to write, plan, and reflect in our new journa
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/032-0P7A4565-7b7910.jpg)
 
-On day two, we hit the ground running by hearing Pintrest Head of Culture & Community, [Enid Hwang’s](https://www.pinterest.com/enid/), breakdown of what makes good goals and how to start living by priorities rather than drowning in a to-do mindset.
+On day two, we hit the ground running by hearing Pintrest's Head of Culture & Community, [Enid Hwang’s](https://www.pinterest.com/enid/), breakdown of what makes good goals and how to start living by priorities rather than drowning in a to-do mindset.
 
 Our time is something to own; it belongs to us. As do our unique personalities, which branding expert, [Alison Faulkner](https://www.instagram.com/thealisonshow/?hl=en), taught us to embrace and feel as awesome as we already are. We danced it out, and then got some serious education on the politics of public art and fashion from activist fashion blogger, [Hoda Katebi](http://www.joojooazad.com/).
 
@@ -107,6 +109,6 @@ So much wisdom was dropped, but we ended these two very full days with spoken wo
 
 No new strategy, algorithm, or way of presenting oneself compares to the power of answering a deep, personal calling to impact the world for good. Each of us has them! Making it our shared mission to own them is the best place to be - with all that we have and all that we are in the present moment.
 
-Attending Yellow Conference 2018 filled me with anticipation for the good to come, and the joy over the people to do it with. Together, we can own a generous kind of confidence and be a force for good in the world, no matter who or where we are.
+Attending [Yellow Conference 2018](https://yellowco.co/conference/) filled me with anticipation for the good to come, and joy over the people to do it with. Together, we can own a generous confidence and be a force for good in the world, no matter who or where we are.
 
 _Photos by [Cacá Santoro](http://cacasantoro.com/)_
