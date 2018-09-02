@@ -7,7 +7,7 @@ nav:
     highlight: blog
 pagination:
   enabled: true
-series: Belong
+series: Invest
 layout: custom/blog
 ---
 
