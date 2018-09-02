@@ -1,8 +1,11 @@
 ---
 title: invest
-date: 2018-09-01 17:26:00 -07:00
+date: 2018-09-03 04:00:00 -07:00
+categories:
+- Growth
 author: Hanna Snyder
 image: "/uploads/inside%20cover-c4bd33.jpg"
+series: Invest
 ---
 
 The mountains of you are not built  
