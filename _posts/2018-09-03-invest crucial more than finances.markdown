@@ -1,8 +1,18 @@
 ---
-title: invest
+title: Why Investing Is Crucial for More Than Your Finances
 date: 2018-09-03 04:00:00 -07:00
 categories:
 - Growth
+tags:
+- invest
+- investment
+- investing
+- finances
+- financial investing
+- relational investing
+- personal growth
+- personal development
+- poetry
 author: Hanna Snyder
 image: "/uploads/inside%20cover-c4bd33.jpg"
 series: Invest
