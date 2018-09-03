@@ -1,10 +1,10 @@
 ---
 title: freelancer guide
-date: 2018-09-03 11:41:00 -07:00
+date: 2018-09-05 04:00:00 -07:00
+categories:
+- Entrepreneurs
+series: Invest
 ---
-
-Get The Balance Right: What To Charge As a Freelance Graphic Designer
-
 
 Being a self-employed designer comes with plenty of juicy perks but as with everything good in life, there are plenty of trickier areas, too, most notably determining what to charge for your services.
 
