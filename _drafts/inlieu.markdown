@@ -24,11 +24,13 @@ Once I decided I was going to have to build my own app in order to do what I wan
 
 I really had to get out of my comfort zone and ask people for help.
 
+[IMG_6127.JPG](/uploads/IMG_6127.JPG)
+
 ###### How do you see InLieu changing the world of gift giving?
 
 I think as humans we all have the need to express our emotions of love, acceptance, and gratitude, and with the fast paced world we live in we don’t have the time to find those perfect meaningful gifts. I’m hoping with inLieu we change our thinking around meaningful gift giving and support our friends by supporting the causes they love.
 
-5. Not only are you trying to change culture, but create an app at the same time. What struggles have you encountered in the midst of both? 
+###### Not only are you trying to change culture, but create an app at the same time. What struggles have you encountered in the midst of both? 
 
 Oh boy, how much time do you have? I actually think developing the app was much easier than the next challenge, which is changing people’s behavior. It’s like breaking a habit, which makes inLieu a high touch product. You may hear about inLieu, read an article about us, or even receive a gift of a donation from a friend, but you still may not download it and use it. We have to spend time building awareness that I hope will lead to consideration, and ultimately conversion! 
 
