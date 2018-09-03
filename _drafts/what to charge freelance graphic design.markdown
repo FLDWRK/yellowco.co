@@ -30,6 +30,8 @@ Many years later when I founded my design studio, Branch, in 2013, I had to get 
 
 While my journey to figuring out what to charge has evolved over time, I eventually landed on charging flat package rates for my studio’s most popular services, like branding, while using a hourly studio rate of $100.00 for projects that are smaller add-ons.
 
+![WE_ARE_BRANCH_SHAUNA_HAIDER_6.jpg](/uploads/WE_ARE_BRANCH_SHAUNA_HAIDER_6.jpg)
+
 Let’s review some pricing basics:
 
 ##### 1. Pricing is usually broken into two categories, flat versus hourly.
