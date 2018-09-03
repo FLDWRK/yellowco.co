@@ -50,6 +50,8 @@ If you choose to go the package route, your package options should clearly list 
 
 **C. A clear call-to-action to book in.** On a website, you may have a “book now” button while in a media kit, you may list your email address.
 
+![WE_ARE_BRANCH_SHAUNA_HAIDER_3.jpg](/uploads/WE_ARE_BRANCH_SHAUNA_HAIDER_3.jpg)
+
 ##### 3. Always include “starting at” in front of your package rates.
 
 This lets potential clients know that they are subject to change based on their particular project scope. The base rates are a general guideline but you should always provide a custom quote in writing once you’ve reviewed their specific needs to avoid any misunderstandings.
