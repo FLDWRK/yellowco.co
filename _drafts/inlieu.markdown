@@ -4,6 +4,7 @@ date: 2018-09-07 04:00:00 -07:00
 categories:
 - Culture
 author: Joanna Waterfall
+image: "/uploads/IMG_6065.JPG"
 series: Invest
 ---
 
