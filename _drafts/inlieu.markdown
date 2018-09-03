@@ -24,7 +24,7 @@ Once I decided I was going to have to build my own app in order to do what I wan
 
 I really had to get out of my comfort zone and ask people for help.
 
-[IMG_6127.JPG](/uploads/IMG_6127.JPG)
+![1.jpeg](/uploads/1.jpeg)
 
 ###### How do you see InLieu changing the world of gift giving?
 
@@ -41,6 +41,8 @@ It is a huge mind shift.
 ###### How can we as women, creating meaningful work, bring the practice of giving into our daily lives?
 
 I think we all have the ability to practice giving in our daily lives. It starts with just being KIND. Kind to our friends, our family, and the people that come in and out of our lives, but also being kind to ourselves. That in itself is a gift. Once you have that covered, then so many other opportunities will show up. If you treat everyone you meet with kindness and show them dignity, things happen. I think it grounds us and we start looking differently at how we spend our time and our money.  
+
+[IMG_6129.JPG](/uploads/IMG_6129.JPG)
 
 ###### What is your vision for InLieu in 5 years?
 
