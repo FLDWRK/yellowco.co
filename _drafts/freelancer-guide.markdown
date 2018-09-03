@@ -3,6 +3,7 @@ title: freelancer guide
 date: 2018-09-05 04:00:00 -07:00
 categories:
 - Entrepreneurs
+author: Shauna Haider
 series: Invest
 ---
 
