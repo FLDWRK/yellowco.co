@@ -16,7 +16,7 @@ tags:
 - graphic design pricing
 - graphic design pricing guide
 author: Shauna Haider
-image: "/uploads/WE_ARE_BRANCH_SHAUNA_HAIDER_2.jpg"
+image: "/uploads/branch%201.jpeg"
 series: Invest
 ---
 
