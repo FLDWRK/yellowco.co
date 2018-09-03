@@ -78,7 +78,7 @@ Here’s an example of what a package rate may entail:
 
 ###### Brand Platform 
 
-$4,000.00 flat rate
+$4,000 flat rate
 
 This quote includes the following:
 
@@ -98,7 +98,7 @@ This quote includes the following:
 
 As you can see, there’s a defined process with many steps, and tracking the time for each would be a lot of extra work. Outlining the deliverables, rounds of included revisions, and investment upfront streamlines the process for both you and the client. 
 
-###### Hourly Rates
+#### Hourly Rates
 
 For smaller projects and add-ons to your basic packages, hourly rates may be the way to go. For instance, if a client has already booked and paid full price for your branding package but they also need a business card design, there’s a lot less unknowns in play since you have their assets on-hand. In this case, you can provide a fairly accurate hourly estimate that breaks down the cost.
 
