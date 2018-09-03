@@ -72,6 +72,8 @@ Most of our projects are based on packages which have flat-rate pricing. Project
 
 With creative work that requires a lot of conceptual thinking, it doesn’t make sense to charge an hourly rate because if you’re really good and have a ton of experience under your belt, you may get shortchanged.
 
+![WE_ARE_BRANCH_SHAUNA_HAIDER_3.jpg](/uploads/WE_ARE_BRANCH_SHAUNA_HAIDER_3.jpg)
+
 Here’s an example of what a package rate may entail:
 
 ###### Brand Platform 
@@ -95,8 +97,6 @@ This quote includes the following:
 - Brand files: Editable files including logos, fonts, and textures are delivered via Dropbox along with a custom 40 page PDF brand guide.
 
 As you can see, there’s a defined process with many steps, and tracking the time for each would be a lot of extra work. Outlining the deliverables, rounds of included revisions, and investment upfront streamlines the process for both you and the client. 
-
-![WE_ARE_BRANCH_SHAUNA_HAIDER_3.jpg](/uploads/WE_ARE_BRANCH_SHAUNA_HAIDER_3.jpg)
 
 ###### Hourly Rates
 
