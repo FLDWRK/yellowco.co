@@ -8,15 +8,17 @@ image: "/uploads/IMG_6065.JPG"
 series: Invest
 ---
 
+Technology has helped advance so many different industries grow to new levels, and it's so exciting to see this start happening for nonprofits as well! inLieu is a new app that allows you to donate to a cause your loved one supports in lieu of a material gift. Not only are they making strides in modernizing giving to causes that impact the world for good, but they are creating a cultural shift of what gift giving can really mean. Today on the blog, we're hearing from their founder, Kathy Terry, on how she got started as an entrepreneur, how generosity benefits our lives, and how she dreams inLieu will change the world.
+
 ###### You have a long history with entrepreneurship. How did you and your husband start your first business, P-Terry’s Burger Stand?
 
 I have to blame my husband for our first venture together. P. Terry’s was his idea. He always had a thing for burgers, fries, and shakes. He wanted to serve a good quality burger with all fresh ingredients at a reasonable price, but getting it off the ground was definitely a joint effort. We are lucky because we make a good team…he is the architect and I’m the contractor, so we complement each other’s skill set. I also think we were blessed because we really had no idea what we were doing, and if I think we would have known how hard it was going to be I probably would have tried to talk him out of it. But now I’m so glad I didn’t. By doing it our way, we have been able to create our own segment in a very crowded market, and at the same time create an amazing company that employs more than 800 people, and can still give back to our community. It’s a win, win!
 
-###### How did the idea for [InLieu](https://www.inlieu.com/) come about?
+###### How did the idea for [inLieu](https://www.inlieu.com/) come about?
 
 The idea of [inLieu](https://www.inlieu.com/) actually came to me while out on a run. I realized that I had not purchased a hostess gift for a party we were going to that evening, and knew that my friend would appreciate a donation to her favorite charity in lieu of a re-gifted bottle of wine or a scented candle. That is when I started looking for a way to easily make a donation in honor of a friend. Over time it became apparent that no such platform existed to do just this, so I decided to build my own. By the way, I ended up taking a re-gifted candle to my friends the night of the party!
 
-###### What was the first step you took in making InLieu come to life?
+###### What was the first step you took in making inLieu come to life?
 
 Once I decided I was going to have to build my own app in order to do what I wanted, I started calling friends who were in the tech business. My first call was to a friend who was behind a new ride sharing app in Austin called Ride Austin that was a nonprofit itself. The app allows riders to round up their fare to other nonprofits, so I knew he could steer me in the right direction.   
 
@@ -26,7 +28,7 @@ I really had to get out of my comfort zone and ask people for help.
 
 ![1.jpeg](/uploads/1.jpeg)
 
-###### How do you see InLieu changing the world of gift giving?
+###### How do you see inLieu changing the world of gift giving?
 
 I think as humans we all have the need to express our emotions of love, acceptance, and gratitude, and with the fast paced world we live in we don’t have the time to find those perfect meaningful gifts. I’m hoping with inLieu we change our thinking around meaningful gift giving and support our friends by supporting the causes they love.
 
@@ -44,7 +46,7 @@ I think we all have the ability to practice giving in our daily lives. It starts
 
 ![13.jpg](/uploads/13.jpg)
 
-###### What is your vision for InLieu in 5 years?
+###### What is your vision for inLieu in 5 years?
 
 My vision of inLieu in 5 years is that social giving will be an everyday occurrence and we as a society will think differently about how we express our love, gratitude, and appreciation by making small donations in honor of our friends and loved ones. My hope is inLieu will be a platform where we all go to connect with our friends and lift them up. It will be a place where we do all our giving and inLieu will become a verb… meaning the act of sending someone a donation in lieu of something else.  
 
