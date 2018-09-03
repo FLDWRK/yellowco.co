@@ -1,5 +1,5 @@
 ---
-title: inlieu
+title: The New App That’s Creating a Culture of Generosity & Helping Nonprofits Thrive
 date: 2018-09-07 04:00:00 -07:00
 categories:
 - Culture
