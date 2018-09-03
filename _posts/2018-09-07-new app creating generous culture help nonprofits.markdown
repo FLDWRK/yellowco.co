@@ -3,6 +3,17 @@ title: The New App That’s Creating a Culture of Generosity & Helping Nonprofit
 date: 2018-09-07 04:00:00 -07:00
 categories:
 - Culture
+tags:
+- nonprofits
+- app
+- new app
+- technology
+- generosity
+- financial generosity
+- grow nonprofits
+- good cause
+- technology give back
+- nonprofit technology
 author: Joanna Waterfall
 image: "/uploads/IMG_6065.JPG"
 series: Invest
