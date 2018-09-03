@@ -120,4 +120,4 @@ Pricing will be an ongoing topic throughout the life of your business and it mak
 
 Remember, only you can make the final decision of what to charge based on your comfort level. The best way to figure out what works is by gaining as much real world experience as possible. Dive into working on a variety of projects and test out your pricing methods as you go. Rinse and repeat until you’re at a pricing structure that works for your specific business and goals. Good luck!
 
-_Photos courtesy of _
+_Photos courtesy of [Branch](http://www.wearebranch.com/), by Monica True_
