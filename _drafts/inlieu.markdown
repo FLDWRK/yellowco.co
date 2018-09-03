@@ -52,4 +52,4 @@ My vision of inLieu in 5 years is that social giving will be an everyday occurre
 
 In a world where you can be anything, be kind!
 
-Photos courtesy of In Lieu
+_Photos courtesy of [In Lieu](https://www.inlieu.com/)_
