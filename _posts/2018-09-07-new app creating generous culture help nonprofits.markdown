@@ -19,7 +19,7 @@ image: "/uploads/IMG_6065.JPG"
 series: Invest
 ---
 
-Technology has helped advance so many different industries grow to new levels, and it's so exciting to see this start happening for nonprofits as well! inLieu is a new app that allows you to donate to a cause your loved one supports in lieu of a material gift. Not only are they making strides in modernizing giving to causes that impact the world for good, but they are creating a cultural shift of what gift giving can really mean. Today on the blog, we're hearing from their founder, Kathy Terry, on how she got started as an entrepreneur, how generosity benefits our lives, and how she dreams inLieu will change the world.
+_Technology has helped advance so many different industries grow to new levels, and it's so exciting to see this start happening for nonprofits as well! [inLieu](https://www.inlieu.com/) is a new app that allows you to donate to a cause your loved one supports in lieu of a material gift. Not only are they making strides in modernizing giving to causes that impact the world for good, but they are creating a cultural shift of what gift giving can really mean. Today on the blog, we're hearing from their founder, Kathy Terry, on how she got started as an entrepreneur, how generosity benefits our lives, and how she dreams inLieu will change the world._
 
 ###### You have a long history with entrepreneurship. How did you and your husband start your first business, P-Terry’s Burger Stand?
 
