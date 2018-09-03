@@ -20,7 +20,9 @@ image: "/uploads/branch%201.jpeg"
 series: Invest
 ---
 
-Being a self-employed designer comes with plenty of juicy perks but as with everything good in life, there are plenty of trickier areas, too, most notably determining what to charge for your services. Pricing is difficult because there are so many factors that come into play. And, let’s get honest here — if you charge too little, you won’t be able to keep the lights on. On the other hand, if you charge too much, you may price yourself out of the market. Finding that happy balance definitely takes some trial and error and it’s not a one-size-fits-all proposition.
+Being a self-employed designer comes with plenty of juicy perks but as with everything good in life, there are plenty of trickier areas, too, most notably determining what to charge for your services. Pricing is difficult because there are so many factors that come into play. And, let’s get honest here — if you charge too little, you won’t be able to keep the lights on. On the other hand, if you charge too much, you may price yourself out of the market. 
+
+### Finding that happy balance definitely takes some trial and error and it’s not a one-size-fits-all proposition.
 
 When I first started taking on paid design projects in 2006, I was still in college. Because I was working a retail job and had a paid internship, my basics expenses were covered. I was still growing as a new designer while learning my way around the Adobe Creative Suite so charging top dollar wasn’t even an option. Making any amount of money from something I enjoyed doing so much was exciting enough.
 
