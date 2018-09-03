@@ -1,8 +1,20 @@
 ---
-title: freelancer guide
+title: How to Know What to Charge as a Freelance Graphic Designer
 date: 2018-09-05 04:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- pricing guide
+- freelance pricing guide
+- graphic design
+- freelancers
+- freelance designer
+- flat rate
+- hourly rate
+- design rate
+- what to charge
+- graphic design pricing
+- graphic design pricing guide
 author: Shauna Haider
 series: Invest
 ---
