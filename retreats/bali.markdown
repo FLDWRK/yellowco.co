@@ -114,10 +114,12 @@ overview:
     * Understanding the root problems facing your customers and articulating your "Why"
     * Developing dream, mission, and vision statements to guide your organizational strategy
     * Creating a brand persona to target a specific customer segment
-    * Marketing 101
+    * Marketing Strategy & PR 101
+    * Developing a pricing structure for your product or service
     * Building a comprehensive business model around your minimum viable product (MVP)
     * Beginning to model business financials to assess short-term and long-term viability
     * Creating a company playbook to guide your daily/weekly activities
+    * Various budget hacks & tricks of the trade
     * Developing a post-retreat game plan that includes "next steps"
 
     You'll walk away with a step by step guide on next steps you'll take when you get back home!
