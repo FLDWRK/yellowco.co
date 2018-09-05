@@ -114,6 +114,7 @@ overview:
     * Understanding the root problems facing your customers and articulating your "Why"
     * Developing dream, mission, and vision statements to guide your organizational strategy
     * Creating a brand persona to target a specific customer segment
+    * Marketing 101
     * Building a comprehensive business model around your minimum viable product (MVP)
     * Beginning to model business financials to assess short-term and long-term viability
     * Creating a company playbook to guide your daily/weekly activities
