@@ -93,7 +93,7 @@ To top it all off, we're all ready to write, plan, and reflect in our new journa
 
 ![How Yellow Conference 2018 Proved That Our Ownership Will Change the World.jpg](/uploads/032-0P7A4565-7b7910.jpg)
 
-On day two, we hit the ground running by hearing Pintrest's Head of Culture & Community, [Enid Hwang’s](https://www.pinterest.com/enid/), breakdown of what makes good goals and how to start living by priorities rather than drowning in a to-do mindset.
+On day two, we hit the ground running by hearing Pinterest's Head of Culture & Community, [Enid Hwang’s](https://www.pinterest.com/enid/), breakdown of what makes good goals and how to start living by priorities rather than drowning in a to-do mindset.
 
 Our time is something to own; it belongs to us. As do our unique personalities, which branding expert, [Alison Faulkner](https://www.instagram.com/thealisonshow/?hl=en), taught us to embrace and feel as awesome as we already are. We danced it out, and then got some serious education on the politics of public art and fashion from activist fashion blogger, [Hoda Katebi](http://www.joojooazad.com/).
 
