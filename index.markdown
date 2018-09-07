@@ -5,19 +5,11 @@ body-class: home
 banners:
 - link: https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7
   image: "/uploads/Digital-Pass.jpg"
-- link: https://www.dropbox.com/s/0ro6sfa415zade6/Convince-Your-Boss-Yellow-2018.pdf?dl=0
-  image: "/uploads/Convince-Your-Boss.jpg"
-- link: "/conference"
-  image: "/assets/images/Conference-Header.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 sm-banners:
 - link: https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7
   image: "/uploads/Digital-Pass-SM.jpg"
-- link: https://www.dropbox.com/s/0ro6sfa415zade6/Convince-Your-Boss-Yellow-2018.pdf?dl=0
-  image: "/uploads/Convince-Your-Boss-sm.jpg"
-- link: "/conference"
-  image: "/assets/images/conference-header-sm.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
 buttons:
