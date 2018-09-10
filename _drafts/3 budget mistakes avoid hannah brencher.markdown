@@ -3,6 +3,16 @@ title: 3 Mistakes Hannah Brencher Avoids When Making a Budget That Actually Work
 date: 2018-09-12 04:00:00 -07:00
 categories:
 - Growth
+tags:
+- Hannah Brencher
+- budget
+- budget that works
+- money
+- finances
+- budget mistakes
+- easy budgets
+- simple budgets
+- debt free
 author: Hanna Snyder
 image: "/uploads/IMG_0417.jpg"
 series: Invest
