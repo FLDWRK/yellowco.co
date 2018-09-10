@@ -18,7 +18,7 @@ image: "/uploads/123.jpeg"
 series: Invest
 ---
 
-_When it comes to making a budget that you can actually stick to, there is so much more to account for than transactions. Today we're hearing from [Hannah Brencher](https://www.hannahbrenchercreative.com/), writer, speaker, and budgeting pro on how she paid off over $50k of student loans in one year, shifting our money mindset, and creating goals with intention. _
+_When it comes to making a budget that you can actually stick to, there is so much more to account for than transactions. Today we're hearing from [Hannah Brencher](https://www.hannahbrenchercreative.com/), writer, speaker, and [budgeting pro](http://www.hannahbrenchercreative.com/new-products/budgebudget t-sheets) on how she paid off over $50k of student loans in one year, shifting our money mindset, and creating goals with intention. _
 
 ###### In short, you do a lot! Can you share a bit about what ties together your writing, coaching, speaking, workbooks, and more?
 
@@ -46,7 +46,7 @@ I honestly created those sheets for myself. I wanted a budget tool that wasn’t
 
 - Nix the credit cards while killing your debt. I never allow myself to spend more than I have. I use one credit card to accrue miles but I never spend money I don’t have. During my time of killing debt, I didn’t use credit cards at all and it made all the difference. A standard debit card will work.
 
-- I absolutely love using the app Qapital for saving money on the fly. It has changed my life and has helped me save for some of the biggest things in my life: killing debt, anniversary trips, Christmas shopping, tithing to my church, etc.
+- I absolutely love using the app [Qapital](https://get.qapital.com/QpUgcEgtpP) for saving money on the fly. It has changed my life and has helped me save for some of the biggest things in my life: killing debt, anniversary trips, Christmas shopping, tithing to my church, etc.
 
 ![12.jpeg](/uploads/12.jpeg)
 
