@@ -1,5 +1,5 @@
 ---
-title: 4 Tips to Keep a Healthy Life Balance While Working from Home
+title: 4 Tips to Keep Your Life in Balance While Working from Home
 date: 2018-09-10 04:00:00 -07:00
 categories:
 - Entrepreneurs
