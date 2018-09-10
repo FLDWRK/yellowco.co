@@ -1,6 +1,7 @@
 ---
 title: Alexandra Douwes
 date: 2018-09-09 23:22:00 -07:00
+bio_image: "/uploads/alex.jpg"
 website: https://purposeplaybook.com/
 ---
 
