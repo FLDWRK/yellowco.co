@@ -58,7 +58,7 @@ Establishing discipline when it comes to your daily schedule is key. Time-blocki
 
 It’s simply a productivity tool. One important key to making this work is prioritization. At the beginning of every day, think about the top 3 tasks you want to accomplish during your “Get Sh*T Done Time” and commit to those. 
 
-![andrew-neel-218073-unsplash (1)-1.jpg](/uploads/andrew-neel-218073-unsplash%20(1)-1.jpg)
+![annie-spratt-76930-unsplash-1.jpg](/uploads/annie-spratt-76930-unsplash-1.jpg)
 
 #### Find an excuse to leave the house.
 
