@@ -4,6 +4,7 @@ date: 2018-09-12 04:00:00 -07:00
 categories:
 - Growth
 author: Hanna Snyder
+image: "/uploads/IMG_0417.jpg"
 series: Invest
 ---
 
@@ -21,6 +22,8 @@ This whole “journey” (I guess it’s a journey?) began when I moved to Atlan
 
 In January 2016, I decided to get really disciplined with killing my debt, wanting to get rid of most of it before my December wedding. I personally didn’t want to walk into marriage with a ton of debt. I wanted to tackle it and be proud of the progress I’d made. So I began saving and budgeting furiously and I killed all my student loan debt before December 31, 2016. This plan wouldn’t work for everyone, but I made this my biggest priority and I am so thankful I did. Since then, I’ve been addicted to finances! 
 
+[A7EE6E4A-8960-43F8-BFEF-B41DF9F4797F.JPG](/uploads/A7EE6E4A-8960-43F8-BFEF-B41DF9F4797F.JPG)
+
 ###### Tell us about your “no ruffles, no frills” [budget sheets](https://www.hannahbrenchercreative.com/new-products/budget-sheets) that you created! What is the intention behind the way you designed them to be used?
 
 I honestly created those sheets for myself. I wanted a budget tool that wasn’t an app (I’m a pen and paper kind of girl), was easy to figure out, had a minimal look and feel to it, and saved room for tacos. I wanted someone to break budgeting down for me in a way that felt approachable and easy. I guess I did that for myself in a lot of ways. 
@@ -34,6 +37,8 @@ These sheets aren’t for the spreadsheet wizard or the person who needs all the
 - Nix the credit cards while killing your debt. I never allow myself to spend more than I have. I use one credit card to accrue miles but I never spend money I don’t have. During my time of killing debt, I didn’t use credit cards at all and it made all the difference. A standard debit card will work.
 
 - I absolutely love using the app Qapital for saving money on the fly. It has changed my life and has helped me save for some of the biggest things in my life: killing debt, anniversary trips, Christmas shopping, tithing to my church, etc.
+
+[32413B5A-F3A2-4A7E-8065-72D656616368-6c4027.JPG](/uploads/32413B5A-F3A2-4A7E-8065-72D656616368-6c4027.JPG)
 
 ###### How about the three biggest pitfalls of a budget that doesn’t work?
 
@@ -58,6 +63,8 @@ I put my health first so that I can better take care of other people and thrive 
 
 I make sure my to-do list is an even balance of projects, plans, and people. I don’t want a week full of only projects or only plans. I need a good balance and so I try to break that down.
 
+![IMG_0416.jpg](/uploads/IMG_0416.jpg)
+
 ###### In your new book, _[Come Matter Here](https://www.hannahbrenchercreative.com/the-books/)_, you share some raw stories about struggles you have faced in your life. How have experiences from your past fueled the purpose behind the work that you now do?
 
 I’ve known what it feels like to have work dominate your entire life. I’ve been that workaholic who believed all my value was tied to the work I did. I don’t think that anymore and I love getting to share with people that life is a balance of beautiful things. We just have to get better at balancing. I also love using my platform to inspire discipline, knowing you can change your life with a series of small steps. It won’t be instant or overnight but I promise, it’s worth it.
@@ -66,4 +73,4 @@ I’ve known what it feels like to have work dominate your entire life. I’ve b
 
 Break the goal down into attainable steps. I mean, painfully attainable steps. Steps that seem so elementary because that’s where you start to see little victories. And little victories stack up to something bigger! So much of the time we set these massive goals and then feel defeated when we don’t reach them by a certain time. What if we broke them down? What if we really dug into the nitty gritty? We can all do hard things but it is a matter of doing it little-by-little on a daily basis.
 
-Images
+_Images courtesy of [Hannah Brencher](https://www.hannahbrenchercreative.com/)_
