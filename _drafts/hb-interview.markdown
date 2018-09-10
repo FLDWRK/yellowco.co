@@ -58,11 +58,11 @@ I put my health first so that I can better take care of other people and thrive 
 
 I make sure my to-do list is an even balance of projects, plans, and people. I don’t want a week full of only projects or only plans. I need a good balance and so I try to break that down.
 
-###### In your new book, Come Matter Here, you share some raw stories about struggles you have faced in your life. How have experiences from your past fueled the purpose behind the work that you now do?
+###### In your new book, _Come Matter Here_, you share some raw stories about struggles you have faced in your life. How have experiences from your past fueled the purpose behind the work that you now do?
 
-I’ve known what it feels like to have work dominate your entire life. I’ve been that workaholic who believed all my value was tied in the work I did. I don’t think that anymore and I love getting to share with people that life is a balance of beautiful things. We just have to get better at balancing. I also love using my platform to inspire discipline, knowing you can change your life with a series of small steps. It won’t be instant or overnight but I promise, it’s worth it.
+I’ve known what it feels like to have work dominate your entire life. I’ve been that workaholic who believed all my value was tied to the work I did. I don’t think that anymore and I love getting to share with people that life is a balance of beautiful things. We just have to get better at balancing. I also love using my platform to inspire discipline, knowing you can change your life with a series of small steps. It won’t be instant or overnight but I promise, it’s worth it.
 
-###### As we’re discussing in our September focus on Invest, often the most valuable things in our lives take a lot of inch-by-inch work. What advice would you give to women on how to keep moving toward their long term goals that feel far off?
+###### As we’re discussing in our September focus on [Invest](https://yellowco.co/blog/2018/09/03/invest-crucial-for-more-than-finances/), often the most valuable things in our lives take a lot of inch-by-inch work. What advice would you give to women on how to keep moving toward their long term goals that feel far off?
 
 Break the goal down into attainable steps. I mean, painfully attainable steps. Steps that seem so elementary because that’s where you start to see little victories. And little victories stack up to something bigger! So much of the time we set these massive goals and then feel defeated when we don’t reach them by a certain time. What if we broke them down? What if we really dug into the nitty gritty? We can all do hard things but it is a matter of doing it little-by-little on a daily basis.
 
