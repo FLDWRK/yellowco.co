@@ -21,7 +21,7 @@ This whole “journey” (I guess it’s a journey?) began when I moved to Atlan
 
 In January 2016, I decided to get really disciplined with killing my debt, wanting to get rid of most of it before my December wedding. I personally didn’t want to walk into marriage with a ton of debt. I wanted to tackle it and be proud of the progress I’d made. So I began saving and budgeting furiously and I killed all my student loan debt before December 31, 2016. This plan wouldn’t work for everyone, but I made this my biggest priority and I am so thankful I did. Since then, I’ve been addicted to finances! 
 
-###### Tell us about your “no ruffles, no frills” budget sheets that you created! What is the intention behind the way you designed them to be used?
+###### Tell us about your “no ruffles, no frills” [budget sheets](https://www.hannahbrenchercreative.com/new-products/budget-sheets) that you created! What is the intention behind the way you designed them to be used?
 
 I honestly created those sheets for myself. I wanted a budget tool that wasn’t an app (I’m a pen and paper kind of girl), was easy to figure out, had a minimal look and feel to it, and saved room for tacos. I wanted someone to break budgeting down for me in a way that felt approachable and easy. I guess I did that for myself in a lot of ways. 
 
@@ -58,7 +58,7 @@ I put my health first so that I can better take care of other people and thrive 
 
 I make sure my to-do list is an even balance of projects, plans, and people. I don’t want a week full of only projects or only plans. I need a good balance and so I try to break that down.
 
-###### In your new book, _Come Matter Here_, you share some raw stories about struggles you have faced in your life. How have experiences from your past fueled the purpose behind the work that you now do?
+###### In your new book, _[Come Matter Here](https://www.hannahbrenchercreative.com/the-books/)_, you share some raw stories about struggles you have faced in your life. How have experiences from your past fueled the purpose behind the work that you now do?
 
 I’ve known what it feels like to have work dominate your entire life. I’ve been that workaholic who believed all my value was tied to the work I did. I don’t think that anymore and I love getting to share with people that life is a balance of beautiful things. We just have to get better at balancing. I also love using my platform to inspire discipline, knowing you can change your life with a series of small steps. It won’t be instant or overnight but I promise, it’s worth it.
 
