@@ -18,7 +18,7 @@ image: "/uploads/123.jpeg"
 series: Invest
 ---
 
-_When it comes to making a budget that you can actually stick to, there is so much more to account for than transactions. Today we're hearing from [Hannah Brencher](https://www.hannahbrenchercreative.com/), writer, speaker, and [budgeting pro](http://www.hannahbrenchercreative.com/new-products/budgebudget t-sheets) on how she paid off over $50k of student loans in one year, shifting our money mindset, and creating goals with intention._
+_When it comes to making a budget that you can actually stick to, there is so much more to account for than transactions. Today we're hearing from [Hannah Brencher](https://www.hannahbrenchercreative.com/), writer, speaker, and [budgeting pro](http://www.hannahbrenchercreative.com/new-products/budgebudget t-sheets), on how she paid off over $50k of student loans in one year, shifting our money mindset, and creating goals with intention._
 
 ###### In short, you do a lot! Can you share a bit about what ties together your writing, coaching, speaking, workbooks, and more?
 
