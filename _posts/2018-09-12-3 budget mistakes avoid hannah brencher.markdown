@@ -18,7 +18,7 @@ image: "/uploads/123.jpeg"
 series: Invest
 ---
 
-_intro_
+_When it comes to making a budget that you can actually stick to, there is so much more to account for than transactions. Today we're hearing from [Hannah Brencher](https://www.hannahbrenchercreative.com/), writer, speaker, and budgeting pro on how she paid off over $50k of student loans in one year, shifting our money mindset, and creating goals with intention. _
 
 ###### In short, you do a lot! Can you share a bit about what ties together your writing, coaching, speaking, workbooks, and more?
 
@@ -38,7 +38,7 @@ In January 2016, I decided to get really disciplined with killing my debt, wanti
 
 I honestly created those sheets for myself. I wanted a budget tool that wasn’t an app (I’m a pen and paper kind of girl), was easy to figure out, had a minimal look and feel to it, and saved room for tacos. I wanted someone to break budgeting down for me in a way that felt approachable and easy. I guess I did that for myself in a lot of ways. 
 
-These sheets aren’t for the spreadsheet wizard or the person who needs all the fancy finance gadgets. I created these sheets for people who love inspiration and also want to be smart with their money.
+[These sheets](https://www.hannahbrenchercreative.com/new-products/budget-sheets) aren’t for the spreadsheet wizard or the person who needs all the fancy finance gadgets. I created these sheets for people who love inspiration and also want to be smart with their money.
 
 ###### What are three key essentials to know when creating a budget that works?
 
