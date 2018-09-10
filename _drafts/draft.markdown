@@ -1,5 +1,5 @@
 ---
-title: draft
+title: 4 Tips to Keep a Healthy Life Balance While Working from Home
 date: 2018-09-10 04:00:00 -07:00
 categories:
 - Entrepreneurs
@@ -21,7 +21,11 @@ Unfortunately, this is harder to achieve when working remotely. Establishing a m
 
 #### Establish clear (schedule) boundaries.
 
-The danger of a “flexible” work schedule is that there is no clear beginning and no clear end. You start responding to emails while enjoying your morning coffee and are often finishing up the last to-do’s while (barely) watching your latest Netflix obsession after dinner. The lines between work and life become even more blurred than usual in an already “always-on” society. The catch is that you never really give yourself a chance to reset and refuel. You’re powering down your laptop at 11pm, only to open it again at 7am. Even if you’re not spending every waking hour glued to your keyboard, by Thursday or Friday you’re inevitably going to feel burned out.  
+The danger of a “flexible” work schedule is that there is no clear beginning and no clear end. You start responding to emails while enjoying your morning coffee and are often finishing up the last to-do’s while (barely) watching your latest Netflix obsession after dinner. 
+
+### The lines between work and life become even more blurred than usual in an already “always-on” society. 
+
+The catch is that you never really give yourself a chance to reset and refuel. You’re powering down your laptop at 11pm, only to open it again at 7am. Even if you’re not spending every waking hour glued to your keyboard, by Thursday or Friday you’re inevitably going to feel burned out.  
 
 Something I have personally found helpful is establishing what I like to call a “separation ritual.” Every day, some time between 5pm and 7pm, I do something to acknowledge the end of my work day. Sometimes it’s a workout, other times it’s a trip to the grocery store, or simply cooking dinner for my husband and I. Whatever it is, it enables me to fully unwind. There is always going to be more work to do, and sometimes you have no choice, but it’s important to make these late night work sessions the exception rather than the rule. Treat your work day as if you were in an office, surrounded by colleagues who leave at 5pm and come back refreshed the next morning. 
 
@@ -36,10 +40,12 @@ Establishing discipline when it comes to your daily schedule is key. Time-blocki
 - Inbox Time (20%): time to work on that Inbox Zero goal.
 - Recharge Time (15%): time to refuel in between other time blocks by enjoying lunch outside, browsing Pinterest, or grabbing coffee with a friend. 
 
-The point is not to lose all the flexibility you have by becoming too rigid about these time blocks. It’s simply a productivity tool. One important key to making this work is prioritization. At the beginning of every day, think about the top 3 tasks you want to accomplish during your “Get Sh*T Done Time” and commit to those. 
+### The point is not to lose all the flexibility you have by becoming too rigid about these time blocks. 
+
+It’s simply a productivity tool. One important key to making this work is prioritization. At the beginning of every day, think about the top 3 tasks you want to accomplish during your “Get Sh*T Done Time” and commit to those. 
 
 #### Find an excuse to leave the house.
 
-A recent [study](https://open.buffer.com/state-remote-work-2018/) by Buffer estimated that 78% of remote workers work from home. The most common response I get from people when I say I work remotely, is something along the lines of “oh that’s amazing, you get to stay in bed all day!” It sounds too good to be true...and it is. Wearing pajamas all day and working from your couch quickly begins to wear on you. Over time, you’ll notice that your energy levels start to dip, or that it’s harder to find your creative spark. 
+A recent [study](https://open.buffer.com/state-remote-work-2018/) by Buffer estimated that 78% of remote workers work from home. The most common response I get from people when I say I work remotely, is something along the lines of, “Oh that’s amazing, you get to stay in bed all day!” It sounds too good to be true... and it is. Wearing pajamas all day and working from your couch quickly begins to wear on you. Over time, you’ll notice that your energy levels start to dip, or that it’s harder to find your creative spark. 
 
 Fortunately, there’s an easy and highly effective solution to this: leave the house. Even if you’re not working from home, it’s important to fill your calendar with reasons to slap on some makeup and get out of your yoga clothes. Schedule a standing coffee date with another remote worker or freelancer in your network, sign up for a local event series like [CreativeMornings](https://creativemornings.com/), or join a co-working space. Shared work spaces are popping up in big and small cities alike and many offer part-time memberships or day passes for those who want to do a trial run, or travel frequently like myself. 
