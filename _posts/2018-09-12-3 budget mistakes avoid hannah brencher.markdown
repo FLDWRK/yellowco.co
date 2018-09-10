@@ -1,5 +1,5 @@
 ---
-title: 3 Mistakes Hannah Brencher Avoids When Making a Budget That Actually Works
+title: 3 Mistakes Hannah Brencher Avoids to Make a Budget That Actually Works
 date: 2018-09-12 04:00:00 -07:00
 categories:
 - Growth
