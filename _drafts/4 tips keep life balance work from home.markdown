@@ -13,6 +13,7 @@ tags:
 - freelance advice
 - work life balance
 author: Alexandra Douwes
+image: "/uploads/paul-hanaoka-369641-unsplash-1.jpg"
 series: Invest
 ---
 
