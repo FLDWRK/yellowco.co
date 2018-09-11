@@ -3,6 +3,15 @@ title: 7 Ethical Denim Brands That Won’t Break the Bank
 date: 2018-09-14 04:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- ethical fashion
+- ethical denim brand
+- ethical jeans
+- jeans
+- denim
+- conscious clothing
+- conscious fashion
+- ethically made denim
 author: Abigail Davidson
 image: "/uploads/jeans-1.jpg"
 series: Invest
