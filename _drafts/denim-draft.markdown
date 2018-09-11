@@ -1,5 +1,5 @@
 ---
-title: 7 Ethical Denim Brands to Invest in That Won’t Break the Bank
+title: 7 Ethical Denim Brands That Won’t Break the Bank
 date: 2018-09-14 04:00:00 -07:00
 categories:
 - Conscious Living
