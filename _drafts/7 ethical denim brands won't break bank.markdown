@@ -45,7 +45,7 @@ Sustainability is at the core of everything [Reformation](https://www.thereforma
 ![reformation.jpg](/uploads/reformation.jpg)
 
 ##### [MUD](https://mudjeans.eu/)
-$115
+$140
 
 [MUD](https://mudjeans.eu/) jeans are created with a circular design, which means they can be redesigned, reused, and recycled easily. Their jeans are made in fair factories from recycled cotton, which saves water and cuts down on CO2 emissions. They also have a jean leasing program, where you can pay a monthly subscription fee to wear your jeans for a while, and then you’re done with them, send them right back for someone else to love!
 
