@@ -273,6 +273,15 @@ faqs:
   - question: What do I need to bring?
     answer: Once you have signed up we will send you a list of things that we provide
       as well as items we recommend that you bring.
+  - question: Anything I need to know when arranging my flights?
+    answer: "Regarding dates, we will have access to our villa by 2pm local time February
+      17th, and must be cleared out by noon February 24. \n\nWe definitely recommend
+      grabbing a deal by arranging your flight sooner rather than later! That being
+      said, make sure you get it along with travel insurance (for your flight as well
+      as medical, etc. so that everyone is fully covered for  unexpected events like
+      loss of income, medical emergencies for you or someone dear to you before and
+      during the trip, a death in the family, natural disasters, and other unforeseen
+      events). "
 footer:
   text: |-
     **Questions? Comments? Concerns? We got you.**
