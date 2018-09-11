@@ -19,11 +19,11 @@ series: Invest
 
 Investing in denim jeans is a must. Every woman needs at least one pair of jeans that make her feel confident and comfortable, that she can dress up or down.  When you invest in a high quality pair of jeans, they will last you years and years…. But, we all know how difficult it can be to find the perfect pair! Not only do they have to fit your body just right, but if you’re going to invest in a wardrobe staple that you know you’re going to get a lot of use out of, you want them to be high quality and made ethically as well.
 
-Sadly, traditional denim jeans require a TON of water to produce. It takes about 2,900 gallons of water to produce one pair of traditional cotton jeans! That doesn’t even include the water needed to grow the cotton, which is extremely water-intense plant.
+Sadly, traditional denim jeans require a TON of water to produce. It takes about 2,900 gallons of water to produce one pair of traditional cotton jeans! That doesn’t even include the water needed to grow the cotton, which is an extremely water-intense plant.
 
 The good news is, there are several denim companies who are doing things differently by using innovative technologies and creative upcycling to create jeans that are actually worth your investment, in more ways than one.
 
-In order from most affordable to biggest investment, here are seven incredible denim brands that sell ethically-made, sustainable, and high-quality denim.
+In order from most affordable to the biggest investment, here are six incredible denim brands that sell ethically-made, sustainable, and high-quality denim.
 
 ![je-1.jpg](/uploads/je-1.jpg)
 
@@ -52,7 +52,7 @@ $140
 ##### [AG Jeans](https://www.agjeans.com/women)
 $190-240
 
-[AG Jeans](https://www.agjeans.com/women) are made using Ozone Technology, which cuts their water consumption in half. They use natural, biodegradable, eco-conscious fibers and continually take steps to reduce waste and energy use. Their jeans are manufactured in their own vertically integrated factories, so they are able to keep a transparent eye on their entire production process to ensure ethical and sustainable policies are followed. The brand also partners with charity:water to help bring clean drinking water to developing countries.
+[AG Jeans](https://www.agjeans.com/women) are made using Ozone Technology, which cuts their water consumption in half. They use natural, biodegradable, eco-conscious fibers and continually take steps to reduce waste and energy use. Their jeans are manufactured in their own vertically integrated factories, so they are able to keep a transparent eye on their entire production process to ensure ethical and sustainable policies are followed. The brand also partners with charity: water to help bring clean drinking water to developing countries.
 
 ##### [Triarchy](https://triarchy.com/)
 $185-575
