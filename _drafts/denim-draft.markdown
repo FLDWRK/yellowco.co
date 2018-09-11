@@ -16,15 +16,12 @@ The good news is, there are several denim companies who are doing things differe
 
 In order from most affordable to biggest investment, here are seven incredible denim brands that sell ethically-made, sustainable, and high-quality denim.
 
+![je-1.jpg](/uploads/je-1.jpg)
+
 ##### [Everlane](https://www.everlane.com/collections/womens-jeans)
 $70-80 USD
 
 You probably know of [Everlane](https://www.everlane.com/collections/womens-jeans), the brand that has made radical transparency trendy. Their jeans are produced ethically out of premium Japanese denim, which has a touch of stretch. The jeans are made in a [facility](https://www.everlane.com/denim-factory) that uses 98% recycled water and are 85% air-dried, meaning lots of saved electricity. 
-
-##### Urban Renewal
-$70-90
-
-The most sustainable option we have when it comes to new clothing is to purchase used or secondhand! Urban Renewal is Urban Outfitters’ curated vintage collection, so you can give an old pair of jeans a second life.
 
 ##### [Re/Done](https://shopredone.com/)
 $80-200
@@ -35,6 +32,8 @@ $80-200
 $100-200
 
 Sustainability is at the core of everything [Reformation](https://www.thereformation.com/categories/jeans) does as a company, from the energy efficiency of their factories to the way they treat and train their employees. The average pair of Reformation jeans requires about 88% less water than a traditional pair, and a lot of their denim is made out of deadstock or repurposed vintage fabric, which would otherwise go to waste. Reformation has a really wide selection of all different styles and colors of denim.
+
+![reformation.jpg](/uploads/reformation.jpg)
 
 ##### [MUD](https://mudjeans.eu/)
 $115
@@ -51,4 +50,4 @@ $185-575
 
 [Triarchy](https://triarchy.com/) denim jeans are made using 85% less water than traditional jeans and are made out of either re-purposed denim or eco-conscious Tencel. The hardware on the jeans is made from recycled metal and the labels are made from recycled leather and recycled plastic bottles. Triarchy has one factory in Mexico and one in Los Angeles, where the team visits frequently in order to maintain transparency and make sure all of the employees are being treated fairly. 
 
-Images via 
+_Images via [Everlane](https://www.everlane.com/) & [Reformation](https://www.thereformation.com/)_
