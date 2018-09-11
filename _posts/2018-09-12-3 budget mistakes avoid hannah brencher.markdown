@@ -1,5 +1,5 @@
 ---
-title: 3 Mistakes Hannah Brencher Avoids to Make a Budget That Actually Works
+title: How Hannah Brencher Sticks to Her Budget (And Can Still Add Guac)
 date: 2018-09-12 04:00:00 -07:00
 categories:
 - Growth
@@ -32,7 +32,7 @@ This whole “journey” (I guess it’s a journey?) began when I moved to Atlan
 
 In January 2016, I decided to get really disciplined with killing my debt, wanting to get rid of most of it before my December wedding. I personally didn’t want to walk into marriage with a ton of debt. I wanted to tackle it and be proud of the progress I’d made. So I began saving and budgeting furiously and I killed all my student loan debt before December 31, 2016. This plan wouldn’t work for everyone, but I made this my biggest priority and I am so thankful I did. Since then, I’ve been addicted to finances! 
 
-![IMG_0417.jpg](/uploads/IMG_0417.jpg)
+![12.jpeg](/uploads/12.jpeg)
 
 ###### Tell us about your “no ruffles, no frills” [budget sheets](https://www.hannahbrenchercreative.com/new-products/budget-sheets) that you created! What is the intention behind the way you designed them to be used?
 
@@ -48,7 +48,7 @@ I honestly created those sheets for myself. I wanted a budget tool that wasn’t
 
 - I absolutely love using the app [Qapital](https://get.qapital.com/QpUgcEgtpP) for saving money on the fly. It has changed my life and has helped me save for some of the biggest things in my life: killing debt, anniversary trips, Christmas shopping, tithing to my church, etc.
 
-![12.jpeg](/uploads/12.jpeg)
+![IMG_0417.jpg](/uploads/IMG_0417.jpg)
 
 ###### How about the three biggest pitfalls of a budget that doesn’t work?
 
