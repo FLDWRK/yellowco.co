@@ -28,7 +28,7 @@ In order from most affordable to biggest investment, here are seven incredible d
 ![je-1.jpg](/uploads/je-1.jpg)
 
 ##### [Everlane](https://www.everlane.com/collections/womens-jeans)
-$70-80 USD
+$70-80 
 
 You probably know of [Everlane](https://www.everlane.com/collections/womens-jeans), the brand that has made radical transparency trendy. Their jeans are produced ethically out of premium Japanese denim, which has a touch of stretch. The jeans are made in a [facility](https://www.everlane.com/denim-factory) that uses 98% recycled water and are 85% air-dried, meaning lots of saved electricity. 
 
