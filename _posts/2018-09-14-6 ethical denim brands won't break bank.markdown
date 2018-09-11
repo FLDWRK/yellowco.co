@@ -1,5 +1,5 @@
 ---
-title: 7 Ethical Denim Brands That Won’t Break the Bank
+title: 6 Ethical Denim Brands That Won’t Break the Bank
 date: 2018-09-14 04:00:00 -07:00
 categories:
 - Conscious Living
@@ -50,7 +50,7 @@ $140
 [MUD](https://mudjeans.eu/) jeans are created with a circular design, which means they can be redesigned, reused, and recycled easily. Their jeans are made in fair factories from recycled cotton, which saves water and cuts down on CO2 emissions. They also have a jean leasing program, where you can pay a monthly subscription fee to wear your jeans for a while, and then you’re done with them, send them right back for someone else to love!
 
 ##### [AG Jeans](https://www.agjeans.com/women)
-$190-250
+$190-240
 
 [AG Jeans](https://www.agjeans.com/women) are made using Ozone Technology, which cuts their water consumption in half. They use natural, biodegradable, eco-conscious fibers and continually take steps to reduce waste and energy use. Their jeans are manufactured in their own vertically integrated factories, so they are able to keep a transparent eye on their entire production process to ensure ethical and sustainable policies are followed. The brand also partners with charity:water to help bring clean drinking water to developing countries.
 
