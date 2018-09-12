@@ -1,5 +1,5 @@
 ---
-title: bali draft
+title: Want to Build Your Do-Good Business? Join Us in Bali!
 date: 2018-09-17 04:00:00 -07:00
 categories:
 - Entrepreneurs
