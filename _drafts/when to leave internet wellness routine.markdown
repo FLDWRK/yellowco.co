@@ -28,6 +28,8 @@ There are so many people, accounts, and websites out there giving health and wel
 
 Some people are into strict diets, some juice cleanses, some ayurveda and breathwork. What works for one girl on Instagram may not work for you. So get out there and try a few things before settling down a wellness path. Journal for a few weeks, try meditation for a month, or finally ask your doctor about antidepressants. Give it a good go and then decide which is for you.
 
+![brooke-lark-331977-unsplash-1.jpg](/uploads/brooke-lark-331977-unsplash-1.jpg)
+
 ###### 4. Be inspired. 
 
 Scroll Instagram, Pin your heart out. Spend time in those online spaces that inspire you to spend more on your wellness. _But stop at inspiration._ Don’t strive to be like the perfection you see - be inspired to try new things, eat new vegetables, cook in a new way, move your body, and nourish your soul.
@@ -43,6 +45,8 @@ There’s a lot of hype about meditation, but the research backs it up as someth
 ###### 7. Look beyond the scale. 
 
 I am not a fan of scales. I tell my clients in our first sessions to ditch it completely and walk away for good. A simple number on a scale doesn’t say much. If you're wanting to find qualitative numbers regarding your health, I recommend using a tool like [QardioBase](https://www.getqardio.com/). It reads important aspects of body composition: water, muscle, body fat %, and bone mass - numbers that are far more important to overall health than BMI or weight. If you can’t imagine not having a scale in your home, invest in one that shows the whole picture. 
+
+![giulia-bertelli-104575-unsplash-1.jpg](/uploads/giulia-bertelli-104575-unsplash-1.jpg)
 
 ###### 8. Use technology to workout - or not. 
 
