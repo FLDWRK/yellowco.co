@@ -3,6 +3,18 @@ title: When You Should Leave the Internet out of Your Wellness Routine
 date: 2018-09-19 04:00:00 -07:00
 categories:
 - Health
+tags:
+- wellness
+- health
+- lifestyle
+- healthy living
+- internet
+- technology
+- wellness technology
+- phone
+- wellness routine
+- phone detox
+- meditation
 author: Brianna Towne
 image: "/uploads/leone-venter-693463-unsplash-1.jpg"
 series: 'Invest '
