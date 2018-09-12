@@ -14,13 +14,13 @@ Our [Bali Retreat](https://yellowco.co/retreats/bali/) was created through brain
 
 So, ladies, that’s what we’re doing. In February 2019 we are headed to Bali to dive into so much more than the coral reef filled water ;).
 
-##### Lead by [31 Bits](https://31bits.com/) social enterprise founder, Jessie Simonson, and myself, Joanna, founder of Yellow Co., we'll spend the week jumping into the coaching, tools, knowledge, resources, and community you need to start, build, or scale your do-good business – all while growing new friendships with like-minded women and adventuring through the beautiful island of Bali.
+##### Lead by [31 Bits](https://31bits.com/) social enterprise founder, Jessie Simonson, and myself, Joanna, founder of Yellow Co., we'll spend the week jumping into the coaching, tools, knowledge, resources, and community you need to start, build, or scale your do-good business – all while growing new friendships with like-minded women and adventuring around the beautiful island of Bali.
 
 ![Marika Sawah2 9Bed (5).jpg](/uploads/Marika%20Sawah2%209Bed%20(5).jpg)
 
 We will be staying in a beautiful villa in Canggu – an area favored for its relaxed atmosphere among the rice fields, and proximity to Bali’s most famous beaches. Complete with a pool, jacuzzi, tropical garden, and views of the rice fields, our villa is the perfect space to get away and focus on yourself and your business.
 
-##### [Our goal with this retreat is to help you move from the beginning phases of your do-good business to a developed business plan with clear next steps on how to grow and scale your social enterprise, while on a beautiful island with a group of like minded women to support and cheer you on.](https://yellowco.co/retreats/bali/) 
+##### [Our goal with this retreat is to help you move from the beginning phases of your do-good business to a developed business plan with clear next steps on how to grow and scale your social enterprise, while on a beautiful island with a group of women to support and cheer you on.](https://yellowco.co/retreats/bali/) 
 
 We want to help you move from side-gig to full time business owner, because we believe in YOU. Your business needs to get out into the world and start impacting the world for good!
 
@@ -28,16 +28,16 @@ We want to help you move from side-gig to full time business owner, because we b
 
 The curriculum we’ll be going through will be surrounding these topics, depending on the needs and unique problems the group is facing:
 
-- Understanding the root problems facing your customers and articulating your “Why” 
+- Understanding the root problems facing your customers and articulating your “why” 
 - Developing dream, mission, and vision statements to guide your organizational strategy
 - Creating a brand persona to target a specific customer segment
-- Marketing Strategy & PR 101 
+- Marketing strategy & PR 101 
 - Developing a pricing structure for your product or service 
 - Building a comprehensive business model around your minimum viable product (MVP)
 - Beginning to model business financials to assess short-term and long-term viability 
 - Creating a company playbook to guide your daily/weekly activities 
 - Various budget hacks & tricks of the trade 
-- Developing a post-retreat game plan that includes “next steps”
+- Developing a post-retreat game plan that includes your next steps
 
 You’ll walk away with a plan and a step by step guide of the actions you’ll take when you’re back home in the thick of running your business!
 
