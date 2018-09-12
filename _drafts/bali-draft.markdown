@@ -7,9 +7,6 @@ author: Joanna Waterfall
 series: Invest
 ---
 
-WE’RE HEADED TO BALI - WANT TO JOIN US?
-
-
 At Yellow, we’re always looking for new ways to better equip our community with the practical tools and resources they need to make an impact for good on the world. We’re also always asking ourselves “how can we make Yellow our dream job”? Because working is so much more fun when you have a chance to dream, scheme, and do what you love. 
 
 The Bali retreat came up through brainstorming ways we could better help and serve our community while having a blast ourselves. “What if we took a group of people to Bali to get away and out of their normal routine, learn about growing and scaling their do-good business while staying in a beautiful villa and going on adventures?” It’s a no brainer. YES.
@@ -38,14 +35,14 @@ Developing a post-retreat game plan that includes “next steps”
 You’ll walk away with a plan and a step by step guide on next steps you’ll take when you’re back home in the thick of running your business!
 
 
-We are so excited for this and are currently accepting applications. (https://yellowco.typeform.com/to/jIzB0Y ) If you’re serious about coming and would like to apply, click here. 
+We are so excited for this and are currently [accepting applications](https://yellowco.typeform.com/to/jIzB0Y). If you’re serious about coming and would like to apply, [click here](https://yellowco.typeform.com/to/jIzB0Y). 
 
 We will be following up to schedule a phone interview with you in approximately 2-3 days after you apply.
 
 The sooner you book, the cheaper it is! The cost is currently $2100 and will go up to $2900 after September 20th. Payment plans are available. Cost includes food, lodging, transportation around Bali, workshops and coaching, but does not include flight to or back from Bali.
 
-Have any other questions? Check out our FAQ section here. (put in link: https://yellowco.co/retreats/bali/)
+Have any other questions? Check out our FAQ section [here](https://yellowco.co/retreats/bali/)!
 
-And if you’re ready to apply, click here! https://yellowco.typeform.com/to/jIzB0Y
+And if you’re ready to apply, [head here](https://yellowco.typeform.com/to/jIzB0Y)! 
 
 Can’t wait!
