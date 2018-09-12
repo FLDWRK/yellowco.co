@@ -4,6 +4,7 @@ date: 2018-09-17 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Joanna Waterfall
+image: "/uploads/Marika%20Sawah2%209Bed%20(1).jpg"
 series: Invest
 ---
 
@@ -11,9 +12,9 @@ Here at Yellow, we’re always looking for new ways to better equip our communit
 
 Our Bali retreat was created through brainstorming ways we could better help and serve our community, while also having a blast! “What if we took a group of people to Bali to get away and out of their normal routine, learn about growing and scaling their do-good business, all while staying in a beautiful villa and going on adventures?” It’s a no brainer. YES.
 
-So, ladies, that’s what we’re doing. February 2019 we are headed to Bali to dive into so much more than the coral reef filled water ;).
+So, ladies, that’s what we’re doing. In February 2019 we are headed to Bali to dive into so much more than the coral reef filled water ;).
 
-Lead by social enterprise founder of [31 Bits](https://31bits.com/), Jessie Simonson, and myself, Joanna, founder of Yellow Co., we will be spending a week jumping into the coaching, tools, knowledge, resources, and community you need to start, build, or scale your do-good business. All while building new friendships with like-minded women and adventuring through the beautiful island of Bali.
+##### Lead by [31 Bits](https://31bits.com/) social enterprise founder, Jessie Simonson, and myself, Joanna, founder of Yellow Co., we'll spend the week jumping into the coaching, tools, knowledge, resources, and community you need to start, build, or scale your do-good business – all while growing new friendships with like-minded women and adventuring through the beautiful island of Bali.
 
 We will be staying in a beautiful villa in Canggu – an area favored for its relaxed atmosphere among the rice fields, and proximity to Bali’s most famous beaches. Complete with a pool, jacuzzi, tropical garden, and views of the rice fields, our villa is the perfect space to get away and focus on yourself and your business.
 
