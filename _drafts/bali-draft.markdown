@@ -24,7 +24,7 @@ We will be staying in a beautiful villa in Canggu – an area favored for its re
 
 We want to help you move from side-gig to full time business owner, because we believe in YOU. Your business needs to get out into the world and start impacting the world for good!
 
-
+![YellowCoTourOC-72.jpg](/uploads/YellowCoTourOC-72.jpg)
 
 The curriculum we’ll be going through will be surrounding these topics, depending on the needs and unique problems the group is facing:
 
