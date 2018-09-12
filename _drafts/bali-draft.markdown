@@ -48,3 +48,5 @@ You’ll walk away with a plan and a step by step guide of the actions you’ll 
 **The sooner you book, the cheaper it is!** The cost is currently $2100 and will go up to $2900 after September 20th. Payment plans are available. Cost includes food, lodging, transportation around Bali, workshops and coaching, but does not include flight to or back from Bali.
 
 Have any other questions? Check out our FAQ section [here](https://yellowco.co/retreats/bali/)! And if you’re ready to apply, [head here](https://yellowco.typeform.com/to/jIzB0Y)! Can’t wait!
+
+_Image 3 by [Kate Spencer Photography](http://katespencerphoto.com/)_
