@@ -4,6 +4,7 @@ date: 2018-09-19 04:00:00 -07:00
 categories:
 - Health
 author: Brianna Towne
+image: "/uploads/leone-venter-693463-unsplash-1.jpg"
 series: 'Invest '
 ---
 
