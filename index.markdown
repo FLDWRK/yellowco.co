@@ -4,14 +4,14 @@ position: 4
 body-class: home
 banners:
 - link: https://yellowco.co/blog/2018/08/22/4-ways-cultivate-genuine-coworker-relationships-benefit-company/
-  image: "/uploads/Co-working-Relationships.jpg"
+  image: "/uploads/Co-working-Relationships-c4635f.jpg"
 - link: https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7
   image: "/uploads/Digital-Pass.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 sm-banners:
 - link: https://yellowco.co/blog/2018/08/22/4-ways-cultivate-genuine-coworker-relationships-benefit-company/
-  image: "/uploads/Co-working-Relationships-sm.png"
+  image: "/uploads/Bammer-Small.jpg"
 - link: https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7
   image: "/uploads/Digital-Pass-SM.jpg"
 - link: "/membership"
