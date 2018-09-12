@@ -16,11 +16,15 @@ So, ladies, that’s what we’re doing. In February 2019 we are headed to Bali 
 
 ##### Lead by [31 Bits](https://31bits.com/) social enterprise founder, Jessie Simonson, and myself, Joanna, founder of Yellow Co., we'll spend the week jumping into the coaching, tools, knowledge, resources, and community you need to start, build, or scale your do-good business – all while growing new friendships with like-minded women and adventuring through the beautiful island of Bali.
 
+![Marika Sawah2 9Bed (5).jpg](/uploads/Marika%20Sawah2%209Bed%20(5).jpg)
+
 We will be staying in a beautiful villa in Canggu – an area favored for its relaxed atmosphere among the rice fields, and proximity to Bali’s most famous beaches. Complete with a pool, jacuzzi, tropical garden, and views of the rice fields, our villa is the perfect space to get away and focus on yourself and your business.
 
 ##### Our goal with this retreat is to help you move from the beginning phases of your do-good business to a developed business plan with clear next steps on how to grow and scale your social enterprise, while on a beautiful island with a group of like minded women to support and cheer you on. 
 
 We want to help you move from side-gig to full time business owner, because we believe in YOU. Your business needs to get out into the world and start impacting the world for good!
+
+
 
 The curriculum we’ll be going through will be surrounding these topics, depending on the needs and unique problems the group is facing:
 
