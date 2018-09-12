@@ -3,6 +3,19 @@ title: Want to Build Your Do-Good Business? Join Us in Bali!
 date: 2018-09-17 04:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- bali
+- yellow co retreat
+- yellow retreat
+- social enterprise retreat
+- social enterprise
+- entrepreneur retreat
+- founder retreat
+- entrepreneur workshop
+- grow business
+- business founder retreat
+- travel
+- do good business
 author: Joanna Waterfall
 image: "/uploads/Marika%20Sawah2%209Bed%20(1).jpg"
 series: Invest
@@ -45,7 +58,7 @@ You’ll walk away with a plan and a step by step guide of the actions you’ll 
 
 **We are so excited for this and are currently [accepting applications](https://yellowco.typeform.com/to/jIzB0Y). If you’re serious about coming and would like to apply, [click here](https://yellowco.typeform.com/to/jIzB0Y).** We will follow up to schedule a phone interview with you approximately 2-3 days after you apply.
 
-**The sooner you book, the cheaper it is!** The cost is currently $2100 and will go up to $2900 after September 20th. Payment plans are available. Cost includes food, lodging, transportation around Bali, workshops and coaching, but does not include flight to or back from Bali.
+**The sooner you book, the cheaper it is!** The cost is currently $2,100 and will go up to $2,900 after September 20th. Payment plans are available. Cost includes food, lodging, transportation around Bali, workshops and coaching, but does not include flight to or back from Bali.
 
 Have any other questions? Check out our FAQ section [here](https://yellowco.co/retreats/bali/)! And if you’re ready to apply, [head here](https://yellowco.typeform.com/to/jIzB0Y)! Can’t wait!
 
