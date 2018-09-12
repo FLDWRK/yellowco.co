@@ -1,13 +1,11 @@
 ---
-title: draft
+title: When You Should Leave the Internet out of Your Wellness Routine
 date: 2018-09-19 04:00:00 -07:00
 categories:
 - Health
 author: Brianna Towne
 series: 'Invest '
 ---
-
-10 Ways to Invest in Your Wellness With Technology (or without)
 
 I’m often asked which food-tracking, calorie-counting app is best. Or where you can find the best exercise videos online. Or what foodie Instagram accounts are the most inspiring. And of course, I have my opinions. I can rattle off a list of a good 5-10 for each and send you on your way. Technology has this amazing way of bringing people together, making the world feel a little smaller, and creating a superwave of information sharing that’s unparalleled. 
 
