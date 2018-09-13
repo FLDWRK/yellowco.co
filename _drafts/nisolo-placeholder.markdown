@@ -7,6 +7,8 @@ author: Hanna Snyder
 series: Invest
 ---
 
+_intro_
+
 ###### For years, Nisolo has represented an excellent standard for all that a social enterprise can do: quality design, ethically made, fairly priced, and creating an impact of good for both people and the planet. What has been a driving force of making this excellence possible?
 
 From a big picture perspective, our vision for Nisolo is to set a new standard in the fashion industry for the relationship between consumers, producers, and the brand that stands between them. The more we can grow Nisolo, the more we can grow our direct impact with our producers and our larger, industry-wide influence as an emerging brand within the fashion industry. 
