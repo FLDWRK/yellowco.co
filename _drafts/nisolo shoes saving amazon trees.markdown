@@ -1,14 +1,27 @@
 ---
-title: nisolo placeholder
+title: How Nisolo Is Using Shoes to Save 60,000 Trees in the Amazon
 date: 2018-09-21 04:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- nisolo
+- nisolo shoes
+- social enterprise
+- ethical fashion
+- ethical shoes
+- fashion
+- sustainable fashion
+- sustainability
+- b-corp
+- b corp
 author: Hanna Snyder
 image: "/uploads/n1-1-2.jpg"
 series: Invest
 ---
 
 _intro_
+
+Zoe Cleary
 
 ###### For years, Nisolo has represented an excellent standard for all that a social enterprise can do: quality design, ethically made, fairly priced, and creating an impact of good for both people and the planet. What has been a driving force of making this excellence possible?
 
