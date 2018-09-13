@@ -19,9 +19,7 @@ image: "/uploads/n1-1-2.jpg"
 series: Invest
 ---
 
-_intro_
-
-Zoe Cleary
+_Today we're thrilled to hear from Nisolo Co-founder, Zoe Cleary, on the many ways they are expanding their impact for good in the world. Not only are they continuing to evolve their beautiful, quality leather shoes, but keep asking themselves how they can be more sustainable, eco-conscious, and thoughtful in every aspect of their business. Hear more about the incredible projects Nisolo is up to in the interview with Zoe below!_
 
 ###### For years, Nisolo has represented an excellent standard for all that a social enterprise can do: quality design, ethically made, fairly priced, and creating an impact of good for both people and the planet. What has been a driving force of making this excellence possible?
 
