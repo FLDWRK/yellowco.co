@@ -143,8 +143,8 @@ overview:
     - extra-info: "**Flights to and from Bali are _not_ included"
     - fact: Pricing
       info: |-
-        Presale through Sept 20th: $2100
-        General: $3000
+        Presale through end of day Sept 20th: $2100
+        General: $2900
 attendees:
   image: "/uploads/bali-attendees.jpg"
   title: Who should come?
@@ -177,9 +177,9 @@ faqs:
       support you need to propel your product, program, or service into a comprehensive
       business model!
   - question: How much is the Bali Retreat?
-    answer: If you purchase your ticket by September 20th, prices are only $2,100!
-      After September 20th, prices increase to $2,500 for annual Yellow Collective
-      members, and $3,000 for non-members!
+    answer: If you purchase your ticket by the end of day September 20th, prices are
+      only $2,100! After September 20th, prices increase to $2,500 for annual Yellow
+      Collective members, and $2,900 for non-members!
   - question: Is there an option to break the payments up?
     answer: 'Yep, there sure is! We have a payment plan option for you budgeters out
       there. After you make your first payment, you will be charged on the following
@@ -246,8 +246,8 @@ faqs:
     answer: Yes. We operate a minimum of 7 guests per week. As we state in our Terms
       & Conditions, Yellow Co does reserve the right to cancel the retreat if the
       running of the trip is not deemed financially viable. In this situation you
-      will be refunded all payments made to Yellow Co. with the exception of a couple
-      fees that our ticketing service (Universe) may require.
+      will be refunded all payments made to Yellow Co. with the exception of a $15
+      fee that our ticketing service (Universe) requires for payment plans.
   - question: Do I need travel insurance?
     answer: |-
       Yes! You are responsible for obtaining your own travel insurance cover. We recommend and require that you purchase travel insurance at the point of  booking your spot on a Yellow Co Retreat. We promise it’s a good idea— we require this is in order to make sure you are insured just in case unforeseen circumstances prevent you from attending the trip.
