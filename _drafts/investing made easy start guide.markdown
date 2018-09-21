@@ -3,6 +3,16 @@ title: 'Investing Made Easy (Seriously): A Guide on Where to Start'
 date: 2018-09-24 04:00:00 -07:00
 categories:
 - Growth
+tags:
+- Invest
+- investing
+- finances
+- financial investing
+- money
+- guide to investing
+- easy investing
+- budget
+- budgeting
 author: Talitha Baker
 image: "/uploads/jimi-filipovski-189724-unsplash.jpg"
 series: Invest
