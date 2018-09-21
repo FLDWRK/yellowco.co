@@ -78,6 +78,6 @@ I know I can be deep a lot of the time, but my first love will forever be fashio
 
 ###### Anything new you want to try or are trying now?
 
-I want to get into podcasting, which I have some other projects in the works but that’s all for now. :) 
+I want to get into podcasting, and I have some other projects in the works, but that’s all for now. :) 
 
 _Photos courtesy of Clothed in Abundance_
