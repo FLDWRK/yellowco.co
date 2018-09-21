@@ -42,7 +42,7 @@ Of course, it’s healthy to audit your life to see if there are any additional 
 
 ### Then it gets a little more fun:
 
-##### Don’t adjust lifestyle after raises
+##### Don’t Adjust Your Lifestyle After Raises
 
 It’s funny how as broke college students we survived eating ramen noodles and riding the city bus. However, following pay increases, it’s easy to inflate your lifestyle expenses. One of the best pieces of advice I ever got was to simply direct-deposit new raise values into savings immediately. This helps keep your lifestyle at status quo, while surging more money into savings.
 
