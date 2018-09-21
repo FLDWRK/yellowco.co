@@ -7,8 +7,6 @@ author: Alexandra Douwes
 series: Invest
 ---
 
-Quality Over Quantity: How to Invest in Friendships That Matter
-
 Last year, I exchanged the hustle and bustle of San Francisco for a quieter (but equally wonderful) life in Santa Barbara, California. One of the hardest parts about moving was the impact I feared it would have on my friendships. I was spoiled in San Francisco. Several of my closest friends lived a matter of minutes away and without putting too much effort or thought into it, I was able to enjoy a vibrant social life. 
 
 While I never expected to lose my closest friends, I knew that the “ease” with which I maintained the wider circle would most likely disappear when I moved. It did, and at first I experienced a lot of anxiety around missing out on the casual wine nights, birthday parties, and book club meetings. But it all changed when I made the conscious choice to focus on quality over quantity. 
