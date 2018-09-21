@@ -22,7 +22,7 @@ Clothed In Abundance is a minimalist fashion and wellness destination encouragin
 
 It means to intentionally simplify your life to focus on the important things without any societal pressures. 
 
-[7194D1EF-DA3D-43E1-A900-046FA68993D9-1.JPG](/uploads/7194D1EF-DA3D-43E1-A900-046FA68993D9-1.JPG)
+![2-3ccb81.jpeg](/uploads/2-3ccb81.jpeg)
 
 ###### That pressure is so important to distinguish and refuse. How does minimalism help you get specific about your personal goals?
 
@@ -32,7 +32,7 @@ So, I decided to shift to a predominantly plant-based diet (occasionally pescata
 
 ### People get the misconception that minimalism is rigid but it’s actually fluid. As you evolve and grow as person, so will the things that you value.
 
-[0AEE5944-E6E5-42CE-8E54-AE0A3E03A0D0-1.JPG](/uploads/0AEE5944-E6E5-42CE-8E54-AE0A3E03A0D0-1.JPG)
+![4.jpeg](/uploads/4.jpeg)
 
 ###### Your blog began as “The Broke Minimalist.” “Minimalism” can conjure an image of a small, cold collection of expensive designer things but that title spins it with humor. What made you change your blog to Clothed in Abundance?
 
@@ -42,7 +42,7 @@ Ironically 6 months after graduating college, I got a very high paying job in co
 
 I believe that when we make idols out of things, God has to remove them...and I pretty much became THE BROKE MINIMALIST. Regardless of what you believe, our words have insane power. I surrendered to God to my negative mindset, which catapulted me into abundance. Now, I can honestly say that I’m genuinely living in abundance. In an abundance of joy, of a larger space, of a great job (less money but way less stress), entrepreneurship, peace in my relationships, etc. I really am Clothed In Abundance. 
 
-[D6B7F2A0-A193-4A08-98E7-613F4FCC8BD8-1.JPG](/uploads/D6B7F2A0-A193-4A08-98E7-613F4FCC8BD8-1.JPG)
+![3.jpeg](/uploads/3.jpeg)
 
 ###### Our readers might remember you joined Yellow on their West Coast tour this spring! In the panel discussion, you mentioned that your videos about empowerment have outperformed ones about minimalism. What have your learned about your readers and the kind of content you want to create?
 
@@ -56,15 +56,15 @@ My valued readers definitely still want to see my style of new ethical or thrift
 
 I’ve had to take a very long break recently from all social media and blogging. It was very hard but my mind was shattered. I was so negative and feeling like I have no idea what I’m doing anymore.
 
-The break really strengthened me to not rely so much on social media because if Instagram was to be deleted tomorrow, I’d still be okay. Also, I’ve learned my self-worth is not tied to numbers or a “following.” I’m definitely focused on how I can impact one person.  
+The break really strengthened me to not rely so much on social media because if Instagram was to be deleted tomorrow, I’d still be okay. Also, I’ve learned my self-worth is not tied to numbers or a “following.” I’m definitely focused on how I can impact one person. 
+
+![00018Deb52onFilm-1.jpg](/uploads/00018Deb52onFilm-1.jpg) 
 
 ###### You write really honestly about how you overcame a pretty serious shopping addiction and practically about how to buckle down and beat impulsive shopping. What spurred the internal shift for you to take control of spending and justifying for it?
 
 God revealed that I didn’t really desire him but I desired things to cope. So, $7 shirt here and $100 outfit there was just my way of coping with my mom getting ill or with a toxic work environment.
 
 Society tells us that retail therapy is normal and it’s just what you do because life sucks. But God says that He has good plans for my life and that He desires to spend time with me. Once I decluttered my life I got excited about getting debt free and deepening my relationship with God. This is what really led me to minimalism. 
-
-![00018Deb52onFilm-1.jpg](/uploads/00018Deb52onFilm-1.jpg)
 
 ###### What’s a goal or something you do on a weekly or monthly basis to prioritize your mental health?
 
