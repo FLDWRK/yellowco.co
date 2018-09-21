@@ -1,5 +1,5 @@
 ---
-title: investing 101 dr
+title: 'Investing Made Easy (Seriously): A Guide on Where to Start'
 date: 2018-09-24 04:00:00 -07:00
 categories:
 - Growth
