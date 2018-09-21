@@ -4,6 +4,7 @@ date: 2018-09-24 04:00:00 -07:00
 categories:
 - Growth
 author: Talitha Baker
+image: "/uploads/jimi-filipovski-189724-unsplash.jpg"
 series: Invest
 ---
 
