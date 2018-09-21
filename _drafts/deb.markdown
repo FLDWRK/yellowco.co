@@ -8,11 +8,11 @@ image: "/uploads/7194D1EF-DA3D-43E1-A900-046FA68993D9-1.JPG"
 series: Invest
 ---
 
-_For many of us, it’s a clumsy theory to own both creativity and financial savvy at the same time. But having those two skills at odds takes away from our ability to truly Invest well in our expression and in our businesses.
+_For many of us, it’s a clumsy theory to own both creativity and financial savvy at the same time. But having those two skills at odds takes away from our ability to truly Invest well in our expression and in our businesses._
 
-Having kicked a major spending habit, Deb Shepherd turned her love for style and hard-won financial accountability to write the blog Clothed in Abundance.
+_Having kicked a major spending habit, Deb Shepherd turned her love for style and hard-won financial accountability to write the blog Clothed in Abundance._
 
-She joined us this year for Our Ownership Tour in Seattle, and today she breaks down how minimalism can give our wellness a freedom we didn’t have before._
+_She joined us this year for Our Ownership Tour in Seattle, and today she breaks down how minimalism can give our wellness a freedom we didn’t have before._
 
 ###### Tell us a little about the Clothed in Abundance universe.
 
