@@ -4,6 +4,7 @@ date: 2018-09-26 04:00:00 -07:00
 categories:
 - Health
 author: Melanie Loon
+image: "/uploads/7194D1EF-DA3D-43E1-A900-046FA68993D9-1.JPG"
 series: Invest
 ---
 
@@ -27,7 +28,7 @@ Minimalism definitely helps me to stay focused on what I value and discover ways
 
 So, I decided to shift to a predominantly plant-based diet (occasionally pescatarian if I crave “meat” or something) and I’ve actually stayed consistent with it. I only picked up more vegetables, beans, and fruits and noticed a drastic difference of not binge eating as much, desiring smaller portions, and overall happiness. 
 
-People get the misconception that minimalism is rigid but it’s actually fluid. As you evolve and grow as person, so will the things that you value.
+### People get the misconception that minimalism is rigid but it’s actually fluid. As you evolve and grow as person, so will the things that you value.
 
 ###### Your blog began as “The Broke Minimalist.” “Minimalism” can conjure an image of a small, cold collection of expensive designer things but that title spins it with humor. What made you change your blog to Clothed in Abundance?
 
