@@ -4,6 +4,7 @@ date: 2018-09-28 04:00:00 -07:00
 categories:
 - Relationships
 author: Alexandra Douwes
+image: "/uploads/ShopKaleidos-014-1.JPG"
 series: Invest
 ---
 
