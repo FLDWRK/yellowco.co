@@ -14,7 +14,7 @@ tags:
 - budget
 - budgeting
 author: Talitha Baker
-image: "/uploads/jimi-filipovski-189724-unsplash.jpg"
+image: "/uploads/jimi-filipovski-189724-unsplash%20copy.jpg"
 series: Invest
 ---
 
