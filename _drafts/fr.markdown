@@ -63,3 +63,5 @@ Less is only more when you’re highly intentional about how you are going to sp
 Extra tip: Experiencing something new together is one of the best ways to create a lasting memory. These are the things you still talk about years after the fact. I live 5,000 miles away from my siblings, who are both based in Amsterdam. Because quantity is near-impossible at this distance, we decided to double down on quality. For the third year in a row, we’ve planned an annual “siblings trip” with my husband’s siblings and mine. For a long weekend or full week every year, the six of us (and any partners) get together with one single intention: to enjoy each other’s company. Those few days provide more than enough fuel to last us another 12 months if need be!
 
 Whether you choose to declutter your friendships or maintain the ones you have, I hope this serves as a small reminder to be intentional about how you spend your time and with whom. 
+
+_Photos by [Eun Creative](http://www.euncreative.com/)_
