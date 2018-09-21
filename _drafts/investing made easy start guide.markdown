@@ -36,7 +36,9 @@ After ensuring you can survive a financial catastrophe, the next step is to conq
 
 People often feel paralyzed attempting to build emergency funds and conquer debt. Unfortunately, if you aren’t progressing positively on these first two goals, they’ll only get worse with passing time. The hard truth is that you need to find more money to prioritize these two goals first. 
 
-Of course, it’s healthy to audit your life to see if there are any additional lifestyle costs you can cut, but perhaps it’s time to also increase your income. I know it’s exhausting working a full-time job, but if that pay isn’t covering the basics, a side hustle may be in order. Or, perhaps the best use of your time is to actively seek out new employment that pays better. Unfortunately, company loyalty often results in being pigeon-holed without promotion. Often times, the best way to advance your career is to leave your current employer after convincing a new employer that you’re worth more. This may lead to a tough season of particularly draining workload, but unfortunately, this is the world of adulting. 
+Of course, it’s healthy to audit your life to see if there are any additional lifestyle costs you can cut, but perhaps it’s time to also increase your income. I know it’s exhausting working a full-time job, but if that pay isn’t covering the basics, a side hustle may be in order. Or, perhaps the best use of your time is to actively seek out new employment that pays better. Unfortunately, company loyalty often results in being pigeon-holed without promotion. Often times, the best way to advance your career is to leave your current employer after convincing a new employer that you’re worth more. This may lead to a tough season of particularly draining workload, but unfortunately, this is the world of adulting.
+
+![analia-baggiano-1056358-unsplash-1.jpg](/uploads/analia-baggiano-1056358-unsplash-1.jpg) 
 
 ### Then it gets a little more fun:
 
@@ -53,6 +55,8 @@ There are ample retirement account options: 401k, 403b, IRA, Roth IRA, Health Sa
 ##### Employee Matching
 
 It should be noted though that Employee Matching for retirement is a special (and wonderful) case. If your employer matches your 401k contributions, a full (or even partial) match usually is a much higher return on investment than even the burden of the highest interest rates on debt. Traditionally, the advice is to pay off debt before saving for retirement, however maximizing your employer’s matching may prove to be a more mathematically sound option.
+
+![stil-410572-unsplash-1.jpg](/uploads/stil-410572-unsplash-1.jpg)
 
 ### Now for the really fun part! 
 
@@ -77,5 +81,3 @@ Every investment contains some level of risk. The higher the possibility for lar
 Most financial advisors recommend embracing more risk when younger, but then settling into a lower risk investment strategy as you age. However, it’s ultimately your personal decision for how much risk you’re willing to assume. 
 
 Was this quick tour of Investing 101 helpful for you? What investing tips have you found most helpful over the years?
-
-_Images_
