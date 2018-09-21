@@ -1,8 +1,19 @@
 ---
-title: deb
+title: Why This Blogger Takes a Minimalist Approach to Fashion, Finances & Mental
+  Health
 date: 2018-09-26 04:00:00 -07:00
 categories:
 - Health
+tags:
+- fashion blog
+- fashion blogger
+- blogger
+- finances
+- mental health
+- mental health blog
+- wellness blog
+- clothed in abundance
+- deb shepherd
 author: Melanie Loon
 image: "/uploads/00012Deb52onFilm-1.jpg"
 series: Invest
@@ -34,7 +45,7 @@ So, I decided to shift to a predominantly plant-based diet (occasionally pescata
 
 ![4.jpeg](/uploads/4.jpeg)
 
-###### Your blog began as “The Broke Minimalist.” “Minimalism” can conjure an image of a small, cold collection of expensive designer things but that title spins it with humor. What made you change your blog to Clothed in Abundance?
+###### Your blog began as “The Broke Minimalist”. “Minimalism” can conjure an image of a small, cold collection of expensive designer things but that title spins it with humor. What made you change your blog to Clothed in Abundance?
 
 Thank you! The Broke Minimalist was a pivotal starting position for me. I was living a small town in Eastern, WA, when God spoke that name to me very clearly. I had never been SO happy in my life with SO little at the time.
 
@@ -44,7 +55,7 @@ I believe that when we make idols out of things, God has to remove them...and I 
 
 ![3.jpeg](/uploads/3.jpeg)
 
-###### Our readers might remember you joined Yellow on their West Coast tour this spring! In the panel discussion, you mentioned that your videos about empowerment have outperformed ones about minimalism. What have your learned about your readers and the kind of content you want to create?
+###### Our readers may remember that you joined Yellow on their West Coast tour this spring! In your panel discussion, you mentioned that your videos about empowerment have outperformed ones about minimalism. What have your learned about your readers and the kind of content you want to create?
 
 ### I’ve realized that I’m not the typical “fashion blogger” you go to when you want to know about the latest trends or how to style. 
 
@@ -54,9 +65,7 @@ My valued readers definitely still want to see my style of new ethical or thrift
 
 ###### When it comes to being a content creator, it can be like “the floor is lava” for mental health. How do you choose how much time you spend on social media or writing with an audience in mind?
 
-I’ve had to take a very long break recently from all social media and blogging. It was very hard but my mind was shattered. I was so negative and feeling like I have no idea what I’m doing anymore.
-
-The break really strengthened me to not rely so much on social media because if Instagram was to be deleted tomorrow, I’d still be okay. Also, I’ve learned my self-worth is not tied to numbers or a “following.” I’m definitely focused on how I can impact one person. 
+I’ve had to take a very long break recently from all social media and blogging. It was very hard but my mind was shattered. I was so negative and feeling like I have no idea what I’m doing anymore. The break really strengthened me to not rely so much on social media because if Instagram was to be deleted tomorrow, I’d still be okay. Also, I’ve learned my self-worth is not tied to numbers or a “following.” I’m definitely focused on how I can impact one person. 
 
 ![00018Deb52onFilm-1.jpg](/uploads/00018Deb52onFilm-1.jpg) 
 
