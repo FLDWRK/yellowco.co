@@ -16,6 +16,8 @@ While I never expected to lose my closest friends, I knew that the “ease” wi
 
 Inspired by some of the basic principles of minimalism, I stopped thinking about this shift as a negative thing and started viewing it as an opportunity to double down on what matters most. It turns out that this rule doesn’t just apply to interiors and belongings, it works for relationships too. Of course, this is easier said than done. I’m still a work in progress, but letting go of the pressure I was putting on myself to maintain every single friendship has been quite liberating. 
 
+[ShopKaleidos-012-1.JPG](/uploads/ShopKaleidos-012-1.JPG)
+
 If you’re looking to re-evaluate how and with whom you spend your most valuable asset, time, here are five tips to consider: 
 
 #### Create a friendship wish list. 
@@ -32,6 +34,8 @@ The number five comes from psychologist Robin Dunbar, who developed a theory aro
 
 Note that your five people do not necessarily have to be people you’ve known for your whole life. They might be new friends you want to get to know better, or a relative you love who is going through a particularly tough time. 
 
+[ShopKaleidos-011-1.JPG](/uploads/ShopKaleidos-011-1.JPG)
+
 #### Ditch the guilt.
  
 This whole process forced me to face one of my biggest achilles heels: the disease to please. Investing more time in fewer relationships meant giving up on my grand ambition to be everything to everyone. Of course, this was a lose-lose game to begin with. 
@@ -42,11 +46,15 @@ The guilt I would feel after declining an invitation to a birthday dinner or bac
 
 Embrace this no-guilt mantra and I guarantee you will discover a newfound sense of freedom. People can smell guilt from a mile away and can’t help but try to take advantage of it. By making excuses and apologizing profusely, whomever you’re cancelling on is more likely to feel offended and react negatively. On the other hand, if you confidently own your decision without the need to provide an excuse beyond “I can’t make it,” that individual won’t think twice about questioning your intentions.
 
+[ShopKaleidos-015-1.JPG](/uploads/ShopKaleidos-015-1.JPG)
+
 #### Establish a weekly relationship power hour.
 
 Don’t overthink it. Sometimes all it takes is a quick check-in via text or email to keep a friendship thriving. If you do this regularly enough, you’re also less likely to feel overwhelmed by the thought of reaching out for what is bound to become an hour long catch up session. It will help you stay up to date on the small, day-to-day things, making the distance or time that lapses in between meetups seem less significant. 
 
 Every week, block off 30 minutes to an hour (you’ll get more efficient the more you do this) to send a note to the people on your list. Some weeks you might choose to send the whole list something brief, other weeks you might pick one person to send a longer update to. Even a simple text like, “How was your week?” or, “Any fun weekend plans?” will be appreciated and can keep that friendship fire burning. 
+
+[ShopKaleidos-013-1.JPG](/uploads/ShopKaleidos-013-1.JPG)
 
 #### Be intentional about the WHAT. 
 
