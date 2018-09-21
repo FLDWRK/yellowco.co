@@ -80,4 +80,4 @@ I know I can be deep a lot of the time, but my first love will forever be fashio
 
 I want to get into podcasting, and I have some other projects in the works, but that’s all for now. :) 
 
-_Photos courtesy of Clothed in Abundance_
+_Photos courtesy of [Clothed in Abundance](https://clothedinabundance.com/)_
