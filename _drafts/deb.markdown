@@ -40,15 +40,15 @@ Thank you! The Broke Minimalist was a pivotal starting position for me. I was li
 
 Ironically 6 months after graduating college, I got a very high paying job in corporate. Over time, my values transitioned from humility and gratitude into this tangled mess of desiring a significant title and salary. [The name] was so scary because it was the polar opposite of why it was named that way. 
 
-I believe that when we make idols out of things, God has to remove them...and I pretty much became THE BROKE MINIMALIST.
-
-Regardless of what you believe, our words have insane power. I surrendered to God to my negative mindset, which catapulted me into abundance. Now, I can honestly say that I’m genuinely living in abundance. In an abundance of joy, of a larger space, of a great job (less money but way less stress), entrepreneurship, peace in my relationships, etc. I really am Clothed In Abundance. 
+I believe that when we make idols out of things, God has to remove them...and I pretty much became THE BROKE MINIMALIST. Regardless of what you believe, our words have insane power. I surrendered to God to my negative mindset, which catapulted me into abundance. Now, I can honestly say that I’m genuinely living in abundance. In an abundance of joy, of a larger space, of a great job (less money but way less stress), entrepreneurship, peace in my relationships, etc. I really am Clothed In Abundance. 
 
 [D6B7F2A0-A193-4A08-98E7-613F4FCC8BD8-1.JPG](/uploads/D6B7F2A0-A193-4A08-98E7-613F4FCC8BD8-1.JPG)
 
-###### Our readers might remember you joined us on tour! In the panel discussion, you mentioned that your videos about empowerment have outperformed ones about minimalism. What have your learned about your readers and the kind of content you want to create?
+###### Our readers might remember you joined Yellow on their West Coast tour this spring! In the panel discussion, you mentioned that your videos about empowerment have outperformed ones about minimalism. What have your learned about your readers and the kind of content you want to create?
 
-I’ve realized that I’m not the typical “fashion blogger” you go to when you want to know about the latest trends or how to style. It’s totally shifted from when I started several years ago and I’m happy about that!
+### I’ve realized that I’m not the typical “fashion blogger” you go to when you want to know about the latest trends or how to style. 
+
+It’s totally shifted from when I started several years ago and I’m happy about that!
 
 My valued readers definitely still want to see my style of new ethical or thrifted items with encouragement, real life talk, and minimalism. I’ve come to this conclusion based on what people request. To a degree, I’m in a committed relationship with my readers and I intentionally listen to what they want, while creating content that I like. 
 
@@ -74,7 +74,7 @@ Also, I switched to a therapist that specializes in Cognitive Behavioral Therapy
 
 ###### Who would you say are your style icons?
 
-I know I can be deep a lot of the time, but my first love will forever be fashion. I’ve always looked up to the Olsen Twins, Tracee Ellis Ross and Nikisha Riley. I’m inspired by people who dress effortlessly and clothed in confidence. 
+I know I can be deep a lot of the time, but my first love will forever be fashion. I’ve always looked up to the Olsen Twins, Tracee Ellis Ross, and Nikisha Riley. I’m inspired by people who dress effortlessly and clothed in confidence. 
 
 ###### Anything new you want to try or are trying now?
 
