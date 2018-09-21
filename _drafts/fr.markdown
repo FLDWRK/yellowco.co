@@ -30,7 +30,7 @@ The first step is to get crystal clear on what you truly value in a relationship
 
 It sounds strange to “prioritize” your friends, but it’s funny how easy it is to make decisions when you’re forced to put pen to paper. Make a list of the five relationships you want to invest in over the next six months to a year. This doesn’t necessarily mean you’re going to neglect all the other people in your life who don’t make the list, but it will enable you to be more intentional about those who matter to you most right now.
 
-The number five comes from psychologist Robin Dunbar, who developed a theory around the number of friendships a human can realistically maintain based on brain size, attention span, and the time it takes to nurture those relationships. He found that while humans can maintain up to 150 friendships at any given time, the smallest nuclear group of intimate friends - in other words, your true “peeps” - is limited to five. 
+The number five comes from psychologist [Robin Dunbar](https://www.youtube.com/watch?v=07IpED729k8), who developed a theory around the number of friendships a human can realistically maintain based on brain size, attention span, and the time it takes to nurture those relationships. He found that while humans can maintain up to 150 friendships at any given time, the smallest nuclear group of intimate friends - in other words, your true “peeps” - is limited to five. 
 
 Note that your five people do not necessarily have to be people you’ve known for your whole life. They might be new friends you want to get to know better, or a relative you love who is going through a particularly tough time. 
 
