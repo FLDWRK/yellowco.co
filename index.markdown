@@ -5,6 +5,8 @@ body-class: home
 banners:
 - link: https://www.universe.com/events/yellow-conference-2019-tickets-los-angeles-SY12HX
   image: "/uploads/Yellow-2019.jpg"
+- link: https://yellowco.co/blog/2018/09/21/nisolo-shoes-saving-amazon-trees/
+  image: "/uploads/Nisolo.jpg"
 - link: https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7
   image: "/uploads/Digital-Pass.jpg"
 - link: "/membership"
@@ -12,6 +14,8 @@ banners:
 sm-banners:
 - link: https://www.universe.com/events/yellow-conference-2019-tickets-los-angeles-SY12HX
   image: "/uploads/Yellow-2019-sm.jpg"
+- link: https://yellowco.co/blog/2018/09/21/nisolo-shoes-saving-amazon-trees/
+  image: "/uploads/Nisolo-sm.jpg"
 - link: https://www.universe.com/events/yellow-conference-digital-pass-tickets-los-angeles-XHSCT7
   image: "/uploads/Digital-Pass-SM.jpg"
 - link: "/membership"
