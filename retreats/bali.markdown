@@ -143,7 +143,7 @@ overview:
     - extra-info: "**Flights to and from Bali are _not_ included"
     - fact: Pricing
       info: |-
-        Presale through end of day Sept 20th: $2100
+        Yellow Collective members (annual only): $2500
         General: $2900
 attendees:
   image: "/uploads/bali-attendees.jpg"
@@ -177,14 +177,12 @@ faqs:
       support you need to propel your product, program, or service into a comprehensive
       business model!
   - question: How much is the Bali Retreat?
-    answer: If you purchase your ticket by the end of day September 20th, prices are
-      only $2,100! After September 20th, prices increase to $2,500 for annual Yellow
-      Collective members, and $2,900 for non-members!
+    answer: Prices are $2,500 for annual Yellow Collective members, and $2,900 for
+      non-members!
   - question: Is there an option to break the payments up?
     answer: 'Yep, there sure is! We have a payment plan option for you budgeters out
       there. After you make your first payment, you will be charged on the following
-      dates: September 21, 2018; October 21, 2018; November 21, 2018; and January
-      2, 2019.'
+      dates:  October 21, 2018; November 21, 2018; and January 2, 2019.'
   - question: What is the purpose of the Bali Retreat?
     answer: The goal of this retreat is to help you move from the beginning phases
       of your do-good business to a developed business plan with clear next steps
