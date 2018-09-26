@@ -4,36 +4,37 @@ date: 2018-10-01 04:00:00 -07:00
 categories:
 - Growth
 author: Hanna Snyder
+image: "/uploads/WEIRD-YellowCo0042.jpg"
 ---
 
-Today, I take off my mask
+Today, I take off my mask  
 
-Shed trends from my shoulders
-Rid my language of every
+Shed trends from my shoulders  
+Rid my language of every  
 uniform catch phrase
 
-Replace pretense with permission
+Replace pretense with permission  
 for my brains to be spaghetti sometimes
 
-Stop apologizing for the way 
+Stop apologizing for the way   
 I walk into a room
 
-Pretend my prose is anything less 
+Pretend my prose is anything less  
 than everything 
 
-Cause these apple-shaped eyes,
+Cause these apple-shaped eyes,  
 pear-sized ears,
 
-Watercolor work ethic
+Watercolor work ethic  
 and cartoon dance moves –
 
 They’re the electric current of life
 
-Why mask this magic
-for the sake of easy acceptance
+Why mask this magic  
+for the sake of easy acceptance  
 when my waves can shake storms? 
 
--
+![WEIRD-YellowCo0116.jpg](/uploads/WEIRD-YellowCo0116.jpg)
 
 Most of us can remember the days we felt more ourselves wearing a unicorn headdress than a navy cardigan. We preferred pirate code to perfect cursive. We turned living rooms into a fort palace and our household pets into tempermentable dragons and noble steeds alike. Our imaginations were unleashed not just often, but always. We were unleashed always.
 
