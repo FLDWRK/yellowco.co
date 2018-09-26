@@ -1,5 +1,5 @@
 ---
-title: weird
+title: weird draft
 date: 2018-10-01 04:00:00 -07:00
 categories:
 - Growth
@@ -37,9 +37,13 @@ when my waves can shake storms?
 
 ![WEIRD-YellowCo0116.jpg](/uploads/WEIRD-YellowCo0116.jpg)
 
-Most of us can remember the days we felt more ourselves wearing a unicorn headdress than a navy cardigan. We preferred pirate code to perfect cursive. We turned living rooms into a fort palace and our household pets into tempermentable dragons and noble steeds alike. Our imaginations were unleashed not just often, but always. We were unleashed always.
+Most of us can remember the days we felt more ourselves wearing a unicorn headdress than a navy cardigan. We preferred pirate code to perfect cursive. We turned living rooms into a fort palace and our household pets into tempermentable dragons and noble steeds alike. Our imaginations were unleashed not just often, but always. 
+
+### We were unleashed always.
 
 Some time along the way, we start to not lose, but stifle, our weird. All the quirky, funky, off-kilter, spectacular things about ourselves that make us the individuals we are. From the pressures of the society around us, to the simple instinct to fit in that catches us all so early, many factors play a role in quieting this magic living inside us. 
+
+![WEIRD-YellowCo0054.jpg](/uploads/WEIRD-YellowCo0054.jpg)
 
 So this month, we implore you to let her stand in the sun again. We want to celebrate our weirdness not only because it breeds authenticity, but because when we work and live from a place of being our truest selves, we create a richer, stronger, more dynamic, and diverse world around us. This means bringing the specific flavor of our individual gifts, character, and values into the work we do. It means permission for others to be free to be themselves in the face of you showing up fully. It means the world around us becoming a more accurate reflection of who we are, rather than who we think we’re supposed to be. So, hold a mirror up to every nook and cranny of the weird within you. Become familiar with your full self again, and let us see every abstract, oddly shaped, metallic rainbow part of it.
 
