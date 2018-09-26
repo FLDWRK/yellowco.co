@@ -5,6 +5,7 @@ categories:
 - Growth
 author: Hanna Snyder
 image: "/uploads/WEIRD-YellowCo0042.jpg"
+series: Weird
 ---
 
 Today, I take off my mask  
