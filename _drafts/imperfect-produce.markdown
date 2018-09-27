@@ -3,6 +3,17 @@ title: imperfect produce
 date: 2018-10-03 04:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- Imperfect Produce
+- food waste
+- conscious consumer
+- conscious living
+- eliminate food waste
+- sustainability
+- sustainable eating
+- produce
+- grocery delivery
+- branding
 author: Hanna Snyder
 image: "/uploads/Googly_Avocados-1.jpg"
 series: Weird
@@ -34,7 +45,7 @@ People are conditioned to see uniform, perfect-looking produce in the grocery st
 
 The reality is that for a home cook, appearance couldn't matter less. Folks get won over by Imperfect’s cost savings, the convenience, and the waste reduction. Then they look back and realize how silly it was to worry about appearance in the first place. Once we've made it clear that we're not sourcing rotten or moldy produce and that we’re helping to make a positive impact on the environment, folks are won over, either by the cost savings, the convenience or both! 
 
-![IP_9_8_3qtr_109 (1)-1.jpg](/uploads/IP_9_8_3qtr_109%20(1)-1.jpg) 
+![2-220300.jpg](/uploads/2-220300.jpg)
 
 ###### I believe your branding has done an excellent job in making both your mission and product very approachable to consumers. What was the creative process like in finding a way to share your story?
 
