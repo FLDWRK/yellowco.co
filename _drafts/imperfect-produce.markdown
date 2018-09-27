@@ -1,6 +1,6 @@
 ---
-title: How Imperfect Produce Has Saved 30 Million Lbs of Food One “Ugly” Avocado at
-  a Time
+title: How Imperfect Produce Saved 30 Million Lbs of Food One “Ugly” Avocado at a
+  Time
 date: 2018-10-03 04:00:00 -07:00
 categories:
 - Conscious Living
