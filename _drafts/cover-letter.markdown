@@ -4,6 +4,7 @@ date: 2018-10-05 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Talitha Baker
+image: "/uploads/EitherOrDesign-003-1.JPG"
 series: Weird
 ---
 
