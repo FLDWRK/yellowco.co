@@ -4,10 +4,13 @@ date: 2018-10-03 04:00:00 -07:00
 categories:
 - Conscious Living
 author: Hanna Snyder
+image: "/uploads/Googly_Avocados-1.jpg"
 series: Weird
 ---
 
+The first time I saw an [Imperfect Produce](https://www.imperfectproduce.com/home.php) box, I got teary eyed. I don't remember the exact details well, but the packaging had an image of a fruit or vegetable with a face, and a tagline reading something along the lines of the vegetable being left behind, or not chosen, because it was shaped differently than the rest. I have since continually admired Imperfect Produce for the extremely clever, lighthearted, yet heartfelt approach they have taken to make eliminating food waste approachable and relatable to us as consumers. Even more impressive than their ability to do so? The impact they've already had on the world. 
 
+Co-founders [Ben Simon](https://www.imperfectproduce.com/p-3-about-us.html) and [Ben Chesler](https://www.imperfectproduce.com/p-3-about-us.html) set out to find a solution for the massive amounts of produce rejected by grocery stores for their slight imperfections, despite being perfectly good to eat. By delivering delicious produce right to their customer's doors, they've already saved 30 million pounds of food that would have otherwise gone to waste. We were thrilled to get to hear more from Ben Chesler on what strict grocery store standards really entail, if people have been receptive to eating different-looking produce, and how to take on such major issues as big as food waste.
 
 ###### Where did the dream to start [Imperfect Produce](https://www.imperfectproduce.com/) begin? Tell us a bit about your story!
 
