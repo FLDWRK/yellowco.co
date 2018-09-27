@@ -20,7 +20,7 @@ For example, I know a girl who wanted to work at a social media marketing agency
  
 You don’t have to completely break the medium to stand out; a GIF-filled Tumblr cover-letter may make you look crazy for many applications. However, consider your industry and think about other unique ways that you can infuse a “fluency” of that specific industry’s language into your cover letter.
 
-[EitherOrDesign-012-1.JPG](/uploads/EitherOrDesign-012-1.JPG)
+![12-9373cf.jpeg](/uploads/12-9373cf.jpeg)
  
 #### Brand It 
 
@@ -28,7 +28,7 @@ It used to be that hiring managers were unimpressed with design elements in resu
  
 If you opt to apply design elements to your resume, can you mirror that same font, color and branding on your cover letter? This reflects a cohesive package in your storytelling.
 
-[EitherOrDesign-011-1.JPG](/uploads/EitherOrDesign-011-1.JPG)
+![415.jpeg](/uploads/415.jpeg)
  
 #### Write Small
 
