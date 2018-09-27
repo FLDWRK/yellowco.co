@@ -39,3 +39,5 @@ Moving on from the cover letter’s aesthetic, it’s important that the content
 How can you write small in your cover letter? Rather than speak broadly about your generic qualifications, instead identify a specific example of a challenge in the workplace, how you rose to overcome it, and how that applies to your capacity to shine in this new role as well. Write about how you helped your last employer saves thousands on their holiday marketing campaign or the time you stepped up when your co-worker left on medical leave when no one else would. This will give your application personality and help the interviewer have an inroad to ask more about these examples in person.
 
 Happy job hunting!
+
+_Photos by [Eun Creative](http://www.euncreative.com/)_
