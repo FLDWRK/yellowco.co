@@ -1,8 +1,17 @@
 ---
-title: cover letter
+title: 3 Tips to Write the Most Creative Cover Letter & Land Your Dream Job
 date: 2018-10-05 04:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- cover letter
+- how to write cover letter
+- creative cover letter
+- dream job
+- interview
+- resume
+- work
+- meaningful work
 author: Talitha Baker
 image: "/uploads/EitherOrDesign-003-1.JPG"
 series: Weird
