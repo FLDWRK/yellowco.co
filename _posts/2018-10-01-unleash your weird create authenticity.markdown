@@ -1,8 +1,16 @@
 ---
-title: weird draft
+title: Why Unleashing Your Weird Is Essential to Creating an Authentic World
 date: 2018-10-01 04:00:00 -07:00
 categories:
 - Growth
+tags:
+- authenticity
+- personal growth
+- personal development
+- meaningful work
+- weird
+- weirdness
+- be yourself
 author: Hanna Snyder
 image: "/uploads/WEIRD-YellowCo0042.jpg"
 series: Weird
