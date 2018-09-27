@@ -7,7 +7,7 @@ nav:
     highlight: blog
 pagination:
   enabled: true
-series: Invest
+series: Weird
 layout: custom/blog
 ---
 
