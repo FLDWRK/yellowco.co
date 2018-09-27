@@ -33,7 +33,7 @@ You don’t have to completely break the medium to stand out; a GIF-filled Tumbl
  
 #### Brand It 
 
-It used to be that hiring managers were unimpressed with design elements in resumes. Today, that’s changing. Heavily designed resumes may be extremely appropriate for designers attempting to show their design chops. In fact, in 2013 a web-designer named Robby Leonardi gained national coverage for creating such a remarkable and interactive resume. This is an extreme approach and you may not be a designer. However, for even for the average job seeker, a light design touch like a signature accent color, small infographic, unique font and well-placed bullets can help you stand out from the crowd. Templates abound for the non-designer in need of one; typically, the ones for sale (at a nominal price) are the best.
+It used to be that hiring managers were unimpressed with design elements in resumes. Today, that’s changing. Heavily designed resumes may be extremely appropriate for designers attempting to show their design chops. In fact, in 2013 a web-designer named Robby Leonardi gained national coverage for [creating such a remarkable and interactive résumé](http://www.rleonardi.com/interactive-resume/). This is an extreme approach and you may not be a designer. However, for even for the average job seeker, a light design touch like a signature accent color, small infographic, unique font and well-placed bullets can help you stand out from the crowd. Templates abound for the non-designer in need of one; typically, the ones for sale (at a nominal price) are the best.
  
 If you opt to apply design elements to your resume, can you mirror that same font, color and branding on your cover letter? This reflects a cohesive package in your storytelling.
 
