@@ -1,6 +1,6 @@
 ---
-title: 'How This Company Saved 30 Million Lbs of Food One “Ugly” Avocado at a Time:
-  Our Interview with Imperfect Produce'
+title: How Imperfect Produce Has Saved 30 Million Lbs of Food One “Ugly” Avocado at
+  a Time
 date: 2018-10-03 04:00:00 -07:00
 categories:
 - Conscious Living
