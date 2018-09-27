@@ -24,6 +24,8 @@ As a college student at the University of Maryland, I noticed a lot of food in t
 
 Examples of “ugly” produce include crooked carrots, small squash, or oranges with scarring or discoloration. Additionally, a huge amount of produce goes to waste just because of its size; fruits and veggies that are too big or too small. A few centimeters can be the difference between produce going to waste and making it to the grocery store. Grocery stores are used to buying produce that stacks perfectly in uniform patterns in display cases, so anything that doesn’t fit this criteria won’t get purchased and often never even leaves the farm. 
 
+![eggplants in a row-1.jpg](/uploads/eggplants%20in%20a%20row-1.jpg)
+
 ###### Has it been difficult to break down the stigma that produce doesn’t have to look “perfect” for it to be healthy and delicious to eat?
 
 People are conditioned to see uniform, perfect-looking produce in the grocery store but once they realize how much food is needlessly wasted every year because of minor cosmetic quirks, they open their minds pretty quickly. 
@@ -32,7 +34,7 @@ People are conditioned to see uniform, perfect-looking produce in the grocery st
 
 The reality is that for a home cook, appearance couldn't matter less. Folks get won over by Imperfect’s cost savings, the convenience, and the waste reduction. Then they look back and realize how silly it was to worry about appearance in the first place. Once we've made it clear that we're not sourcing rotten or moldy produce and that we’re helping to make a positive impact on the environment, folks are won over, either by the cost savings, the convenience or both! 
 
-![eggplants in a row-1.jpg](/uploads/eggplants%20in%20a%20row-1.jpg)
+![IP_9_8_3qtr_109 (1)-1.jpg](/uploads/IP_9_8_3qtr_109%20(1)-1.jpg) 
 
 ###### I believe your branding has done an excellent job in making both your mission and product very approachable to consumers. What was the creative process like in finding a way to share your story?
 
@@ -46,7 +48,7 @@ Thanks so much! At the end of the day, our mission is to eliminate food waste an
 
 Our vision is for Imperfect to deliver to 30-40 major cities nationwide so that we can make an even bigger positive impact on our food system. In our first 3 years, we’ve expanded to 8 cities and kept over 30 million pounds of produce from going to waste. We just launched in Texas and we’re heading to the east coast soon. While we’re quite proud of this, I hope that one day we can be recovering billions of pounds of produce and helping folks all across the country eat better and waste less.
 
-![IP_9_8_3qtr_109 (1)-1.jpg](/uploads/IP_9_8_3qtr_109%20(1)-1.jpg) 
+![TwistySweetPotato_IP-1.jpg](/uploads/TwistySweetPotato_IP-1.jpg)
 
 ###### This month at Yellow we are celebrating the weird, quirky parts of ourselves, and life, that have a greater impact on the world when we use them creatively for good. It’s becoming increasingly more urgent and necessary for society to find creative, “weird” solutions to supply resources and materials we need without further harming the planet. As an organization who has done a wonderful job doing this, what advice would you give to others who want to find creative solutions to the issues affecting us globally?
 
