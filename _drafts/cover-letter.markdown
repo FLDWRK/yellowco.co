@@ -19,12 +19,16 @@ Certain industries may automatically disqualify you if you attempt to break the 
 For example, I know a girl who wanted to work at a social media marketing agency and based on her intel of the company, she knew that everyone there frequently communicated with GIFs. In lieu of a traditional cover letter, she created a password-protected Tumblr page for the hiring manager and wrote the entire cover letter out in GIF-form. The hiring manager loved it. This applicant proved that she understood the social media platform (Tumblr in this case), that she understood the company culture (which loved GIFs), and that her capacity to develop creative content for her cover letter would be the same creativity that the agency’s clients were seeking.
  
 You don’t have to completely break the medium to stand out; a GIF-filled Tumblr cover-letter may make you look crazy for many applications. However, consider your industry and think about other unique ways that you can infuse a “fluency” of that specific industry’s language into your cover letter.
+
+[EitherOrDesign-012-1.JPG](/uploads/EitherOrDesign-012-1.JPG)
  
-#### Brand It and Design It
+#### Brand It 
 
 It used to be that hiring managers were unimpressed with design elements in resumes. Today, that’s changing. Heavily designed resumes may be extremely appropriate for designers attempting to show their design chops. In fact, in 2013 a web-designer named Robby Leonardi gained national coverage for creating such a remarkable and interactive resume. This is an extreme approach and you may not be a designer. However, for even for the average job seeker, a light design touch like a signature accent color, small infographic, unique font and well-placed bullets can help you stand out from the crowd. Templates abound for the non-designer in need of one; typically, the ones for sale (at a nominal price) are the best.
  
 If you opt to apply design elements to your resume, can you mirror that same font, color and branding on your cover letter? This reflects a cohesive package in your storytelling.
+
+[EitherOrDesign-011-1.JPG](/uploads/EitherOrDesign-011-1.JPG)
  
 #### Write Small
 
