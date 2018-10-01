@@ -2,6 +2,7 @@
 title: s co
 date: 2018-10-08 04:00:00 -07:00
 author: Hanna Snyder
+image: "/uploads/finals100-9.jpg"
 series: Weird
 ---
 
