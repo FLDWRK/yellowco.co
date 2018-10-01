@@ -14,6 +14,8 @@ A few years ago, our middle daughter, Ransom, was diagnosed with Sensory Process
 
 I just couldn’t imagine cuddling up with one of those. At the time, I happened to be weaving a rag rug for my living room. It was made of thick cotton jersey, that I hand-dyed indigo. When I was finished, it ended up being way too thick and far too heavy for a rug, but as a weighted blanket — it was practically perfect! I spent a few weeks tweaking the design and I remember the moment I placed it over my daughter, you could see her entire body soften and relax, the blanket just melted over her and she smiled. I can’t even tell you how many happy tears I cried when that happened, it felt pretty miraculous.
 
+![finals100-5.jpg](/uploads/finals100-5.jpg)
+
 ###### For those who don’t know, what are the benefits of weighted blankets? Who should use them?
 
 Historically, weighted blankets have been used to help insomnia and other sleep disorders and many occupational therapists recommend them for ADHD, autism, SPD, and OCD, as well as many other disorders. They are also really beneficial for people who suffer from anxiety and depression. The blanket acts as an evenly distributed hug over your entire body. 
@@ -28,11 +30,15 @@ Everything I own has a story. And I’m constantly inspired by the creative L.A.
 
 I wanted to align myself with those same values when I set out to start my company. And I gotta admit, I also have a major sensitivity to fabrics and textures so I could really relate to Ransom. And after becoming a mom, I run hot all the time so I needed something that wasn’t going to hold in heat, but that would allow for airflow, so there you have the big open knits of our Sheltered Co. blankets. In the end, we want to create a brand where everyone benefits — the maker, the receiver, and our beautiful earth. 
 
+![Sheltered(1of4).jpg](/uploads/Sheltered(1of4).jpg)
+
 ###### [You launched a kickstarter to get Sheltered Co. off the ground, and raised nearly triple the amount you set out to. What were a few key parts of your campaign that made it so successful?](https://www.kickstarter.com/projects/1831123737/sheltered-co-breathable-sustainable-weighted-blank)
 
 It took a village to pull that [campaign](https://www.kickstarter.com/projects/1831123737/sheltered-co-breathable-sustainable-weighted-blank) together. I’m so grateful for my large group of creative friends who all wanted to help. Starting and launching Sheltered Co. is a redemption story for me to many of my friends who have heard about my struggles. The team of people that came together couldn’t have been more perfect! Nara Walker produced it and her husband Ryan Eng directed and filmed it along with his lighting and sound team. They really did an amazing job and on such a time crunch. 
 
 The video helped illustrate the need behind the blankets and the heart we have moving forward. My friend Nicki Wong wrote all the copy, which she literally pulled off at the very last minute since I was so busy putting everything else together. It really couldn’t have worked out more perfectly and I was really shocked and surprised to see the campaign do so well. You can ask anyone — I was so scared at first! 
+
+![PamelaFam0034.jpg](/uploads/PamelaFam0034.jpg)
 
 ###### The work you’re doing is breaking down stigmas not only around who weighted blankets are for, but stigmas surrounding our health. Do you have any stories of how have you seen the use of your blankets have an impact in this way?
 
@@ -44,6 +50,8 @@ Another thing that happens a lot is I’ll get an order from someone who has anx
 
 Make something that works for you and your personal needs, because chances are there’s an entire group of people looking for the very thing you’re about to create. There’s a lot of good intentioned people who will want to help you and give you advice, so listen to them until it isn’t helpful and then do what’s right for you and your company. Don’t spend time on the things that are really hard for you... if you can delegate that stuff, do it! You will have more time to work on the most important parts that will take you to the next level. Also, be kind to yourself because everything will always take 5x longer than you expect.
 
+![finals100-4.jpg](/uploads/finals100-4.jpg)
+
 ###### Have you always been doing meaningful work that is purpose-driven? How did you discover what kind of work aligns your values, passions, and skills?
 
 I have had so many different jobs, but I’ve always had the desire to love people. Just after my 18th birthday I found out I was pregnant with my first baby. I decided that I was going to work hard and give her and I the best life possible. I worked multiple jobs while I was pregnant, including my favorite job I’ve ever had. I worked in the special education program at the high school I attended in Huntington Beach. I worked as a vocational trainer and would accompany students to job sites and help train and prepare them for life after graduation.
@@ -53,6 +61,8 @@ My students had varying levels of abilities, but the common theme was how much l
 I’ve always been a creative person, but when I moved to Los Angeles in 2008 I was able to channel that creativity into wardrobe styling, art direction, dressing people in a retail store, and eventually vintage buying and store design. My love for vintage and recycled clothing is a huge reason I decided that my company was going to use deadstock fabrics.
 
 ### I didn’t want to add to the production of fabric, and all of the pollution caused by it, when there’s plenty of fabric out there to potentially rescue from being tossed into landfills.
+
+![_B9B6330.jpg](/uploads/_B9B6330.jpg)
 
 ###### What is your hope for the future of Sheltered Co.?
 
