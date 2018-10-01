@@ -34,6 +34,8 @@ Historically, weighted blankets have been used to help insomnia and other sleep 
 
 These blankets are for everyone because who couldn’t use a big giant hug at the end of the day?! 
 
+![PamelaFam0034.jpg](/uploads/PamelaFam0034.jpg)
+
 ###### You truly prioritize making a beautiful, quality, conscious product made of safe materials by using natural, recycled, or deadstock fabric and non-plastic/polyester weights. Why has this been so important to Sheltered Co.?
 
 Everything I own has a story. And I’m constantly inspired by the creative L.A. brands that surround me, many of them my friends, who create from a place of sustainability and craftsmanship... not just knocking off designs for a quick buck. They care about doing good with their products. 
@@ -48,7 +50,7 @@ It took a village to pull that [campaign](https://www.kickstarter.com/projects/1
 
 The video helped illustrate the need behind the blankets and the heart we have moving forward. My friend Nicki Wong wrote all the copy, which she literally pulled off at the very last minute since I was so busy putting everything else together. It really couldn’t have worked out more perfectly and I was really shocked and surprised to see the campaign do so well. You can ask anyone — I was so scared at first! 
 
-![PamelaFam0034.jpg](/uploads/PamelaFam0034.jpg)
+![PamelaFam0095.jpg](/uploads/PamelaFam0095.jpg)
 
 ###### The work you’re doing is breaking down stigmas not only around who weighted blankets are for, but stigmas surrounding our health. Do you have any stories of how have you seen the use of your blankets have an impact in this way?
 
@@ -72,7 +74,7 @@ I’ve always been a creative person, but when I moved to Los Angeles in 2008 I 
 
 ### I didn’t want to add to the production of fabric, and all of the pollution caused by it, when there’s plenty of fabric out there to potentially rescue from being tossed into landfills.
 
-![_B9B6330.jpg](/uploads/_B9B6330.jpg)
+![B9B6330.jpg](/uploads/B9B6330.jpg)
 
 ###### What is your hope for the future of Sheltered Co.?
 
