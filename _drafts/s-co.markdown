@@ -1,6 +1,16 @@
 ---
 title: s co
 date: 2018-10-08 04:00:00 -07:00
+categories:
+- Weighted blanket
+- sheltered co.
+- anxiety treatment
+- anxiety
+- self care
+- natural anxiety treatment
+- anxiety treatments
+- insomnia
+- autism
 author: Hanna Snyder
 image: "/uploads/finals100-9.jpg"
 series: Weird
