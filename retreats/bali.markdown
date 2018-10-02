@@ -200,7 +200,9 @@ faqs:
   - question: Who are our coaches at the Bali Retreat?
     answer: Participants will work individually and as a group on the curriculum and
       will receive coaching from Joanna Waterfall, as well as another experienced
-      social enterprise founder— Jessie Simonson, founder of 31 Bits!
+      social enterprise founder— Jessie Simonson, founder of 31 Bits! In the event
+      that we have a coach who is unable to come due to health reasons (unlikely,
+      but ya never know!) we will bring in an alternative fully trained coach!
   - question: Is it all work? What's the free time like?
     answer: 'We want you to walk away from this retreat feeling confident and ready
       to take your business to the next level! We plan on soaking up every thing about
