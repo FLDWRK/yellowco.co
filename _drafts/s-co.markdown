@@ -1,5 +1,5 @@
 ---
-title: s co
+title: 'Why Everyone Needs a Weighted Blanket: Our Interview with Sheltered Co.'
 date: 2018-10-08 04:00:00 -07:00
 categories:
 - Weighted blanket
