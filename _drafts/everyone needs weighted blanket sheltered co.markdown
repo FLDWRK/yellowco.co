@@ -28,6 +28,10 @@ image: "/uploads/finals100-9.jpg"
 series: Weird
 ---
 
+_For a while now, weighted blankets have been a common topic in conversations surrounding anxiety, autism, ADHD, insomnia, and more. But is it possible the benefits of this all-encompassing hug of a blanket are really for everyone? [Sheltered Co.](https://www.shelteredco.com/) says a resounding, "Yes."_
+
+_After searching for a solution and only finding sterile looking (and feeling) options, founder Pamela Hunter, decided not only to create incredibly beautiful blankets with natural fabrics, but set out to shatter the stigma of who they were truly for – everyone._
+
 ###### Tell us a bit about what first moved you to create weighted blankets.
 
 A few years ago, our middle daughter, Ransom, was diagnosed with Sensory Processing Disorder. So many things in her life are just a little more difficult because she has some body regulation difficulties. We were dealing with daily meltdowns, tears, sadness, and frustration. We quickly found out that compression vests and weighted blankets and clothing would really help her body relax. The fancy term our occupational therapist told us was proprioceptive input, the feeling of pressure around the body, which induces a secure and calming feeling. 
