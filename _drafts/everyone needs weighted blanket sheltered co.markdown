@@ -11,6 +11,18 @@ categories:
 - anxiety treatments
 - insomnia
 - autism
+tags:
+- weighted blanket
+- weighted blankets
+- therapy blanket
+- non-toxic blanket
+- mental health
+- self care
+- anxiety cure
+- anxiety
+- autism
+- autism tools
+- depression
 author: Hanna Snyder
 image: "/uploads/finals100-9.jpg"
 series: Weird
