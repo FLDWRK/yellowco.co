@@ -3,6 +3,16 @@ title: 3 Reasons Why Being Yourself at Work Is the Most Important Part of Your J
 date: 2018-10-12 04:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- be yourself
+- be yourself at work
+- work self
+- holistic work
+- meaningful work
+- entrepreneur
+- authenticity
+- work
+- women entrepreneurs
 author: Bailey Van Tassel
 image: "/uploads/ShopKaleidos-028-1.JPG"
 series: Weird
