@@ -4,6 +4,15 @@ title: Never Thought You’d Eat a Cricket? These Sustainable Protein Bars Will 
 date: 2018-10-10 04:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- coast protein
+- cricket protein
+- cricket
+- sustainable protein
+- conscious living
+- edible insects
+- protein bars
+- protein powder
 author: Rachel Neal
 image: "/uploads/Coast%20Bars%20Group-1.jpg"
 series: Weird
