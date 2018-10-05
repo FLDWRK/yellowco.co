@@ -12,7 +12,7 @@ _Would you eat a cricket? What if it was dipped in chocolate, spiced with lime a
 
 _The team behind [Coast Protein](https://www.coastprotein.com/) in Canada wants to incorporate cricket protein into mainstream food systems through just that: an adorably packaged and mightily tasty protein bar. Since launching last year, the Coast team have been developing new flavors, products, and spreading the good news of cricket protein! And it is good news; not only are crickets a complete protein in and of themselves, they also contain a lot of essential vitamins and minerals! When compared to meat, crickets also have a much lower impact on the earth; they produce less greenhouse gases and require far less water land for the same pound of protein. We had the chance to talk with Coast Partner and Head of Research and Development, Stefanie Di Giovanni, about her day-to-day and dreams for the future of cricket protein!_ 
 
-###### How and why did you get involved with Coast Cricket Protein? What was the moment you knew you needed to jump on board with the vision?
+###### How and why did you get involved with Coast Protein? What was the moment you knew you needed to jump on board with the vision?
 
 One day, our founder Dylan asked me what I thought about edible insects as he was re-telling me his experiences in Asia and how he noticed edible insects all over the local markets and menus. After some digging, he came across a report issued by the UN on edible insects, and soon after, Coast was born. After learning that crickets are hyper-sustainable with an impressive nutritional panel, I eagerly jumped on board. Since competing in a fitness show myself and having to eat a high protein diet, I struggled finding protein bars that aligned with my dietary preferences.
 
