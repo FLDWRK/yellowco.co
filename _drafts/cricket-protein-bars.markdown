@@ -1,5 +1,6 @@
 ---
-title: cricket protein bars
+title: Never Thought You’d Eat a Cricket? These Sustainable Protein Bars Will Change
+  Your Mind
 date: 2018-10-10 04:00:00 -07:00
 categories:
 - Conscious Living
