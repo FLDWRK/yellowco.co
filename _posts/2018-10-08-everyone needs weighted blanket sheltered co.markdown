@@ -2,15 +2,7 @@
 title: 'Why Everyone Needs a Weighted Blanket: Our Interview with Sheltered Co.'
 date: 2018-10-08 04:00:00 -07:00
 categories:
-- Weighted blanket
-- sheltered co.
-- anxiety treatment
-- anxiety
-- self care
-- natural anxiety treatment
-- anxiety treatments
-- insomnia
-- autism
+- Health
 tags:
 - weighted blanket
 - weighted blankets
@@ -23,6 +15,9 @@ tags:
 - autism
 - autism tools
 - depression
+- sheltered co.
+- anxiety treatment
+- insomnia
 author: Hanna Snyder
 image: "/uploads/finals100-9.jpg"
 series: Weird
