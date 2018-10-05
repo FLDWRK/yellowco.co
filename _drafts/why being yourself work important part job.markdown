@@ -4,6 +4,7 @@ date: 2018-10-12 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Bailey Van Tassel
+image: "/uploads/ShopKaleidos-028-1.JPG"
 series: Weird
 ---
 
