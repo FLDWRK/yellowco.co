@@ -1,5 +1,5 @@
 ---
-title: work
+title: 3 Reasons Why Being Yourself at Work Is the Most Important Part of Your Job
 date: 2018-10-12 04:00:00 -07:00
 categories:
 - Entrepreneurs
