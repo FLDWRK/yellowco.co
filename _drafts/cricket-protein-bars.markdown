@@ -52,10 +52,14 @@ As I mentioned before, as we developed the values and mission of Coast I quickly
 
 ###### In your wildest dreams, what effect will Coast Protein have on the world? Any future goals you'd like to share?
 
-We started Coast to change the way people think about their daily food, nutrition, and most importantly their food systems. The most common question we get, even before, “Why Crickets?,” is “where do the crickets come from?” If more people asked this question about a lot of their food, then we believe, in terms of environmental impact, the entire food system would be in a much better state. In our wildest dreams, Coast would be on the forefront of changing food systems worldwide and have more products and companies taking ownership of their whole supply chain to ensure even the lowly protein bar has ingredients that are healthy, but also have a positive impact on the people that grow the ingredients and the environment.  We’d love to one day have an entirely organic bar, but currently it is way too expensive to even attempt it. As our volume’s grow, we slowly incorporate more and more organic ingredients but we’re still only at best 25% organic. Yes, the crickets are organic.
+We started Coast to change the way people think about their daily food, nutrition, and most importantly their food systems. The most common question we get, even before, “Why Crickets?” is, “Where do the crickets come from?” 
+
+### If more people asked this question about a lot of their food, then we believe, in terms of environmental impact, the entire food system would be in a much better state.
+
+In our wildest dreams, Coast would be on the forefront of changing food systems worldwide and have more products and companies taking ownership of their whole supply chain to ensure even the lowly protein bar has ingredients that are healthy, but also have a positive impact on the people that grow the ingredients and the environment. We’d love to one day have an entirely organic bar, but currently it is way too expensive to even attempt it. As our volumes grow, we slowly incorporate more and more organic ingredients but we’re still only at best 25% organic. Yes, the crickets are organic.
 
 ###### How are you currently experimenting with adventurous foods and flavors at Coast and at home?
 
-I have actually been keeping my home cooking very simple; it might because I spend a lot of time thinking about bars and making samples, so when I cook I like to do flavourful, yet simple and seasonal cooking. Right now Dylan [Coast’s Founder] and I are in love with an adapted recipe of Najib’s Special from Nuba in Vancouver. It’s a Lebanese roasted cauliflower with cumin, paprika, and lemon; it’s delicious. 
+I have actually been keeping my home cooking very simple; it might because I spend a lot of time thinking about bars and making samples, so when I cook I like to do flavorful, yet simple and seasonal cooking. Right now Dylan [Coast’s Founder] and I are in love with an adapted recipe of Najib’s Special from Nuba in Vancouver. It’s a Lebanese roasted cauliflower with cumin, paprika, and lemon; it’s delicious. 
 
 _Photos courtesy of [Coast Protein](https://www.coastprotein.com/)_
