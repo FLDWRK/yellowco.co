@@ -4,11 +4,11 @@ date: 2018-10-15 04:00:00 -07:00
 categories:
 - Conscious Living
 author: Hanna Snyder
-image: "/uploads/Reishi%20Tea.JPG"
+image: "/uploads/OM-Lions-Mane-web-image-1710-vs1-730d19.jpg"
 series: Weird
 ---
 
-_Sandra Carter of Om Mushrooms_
+_Sandra Carter co-founder of Om Mushrooms_
 
 ###### Tell us a bit about your background! What led to your passion for wellness, and the founding of your company, [Om Mushrooms](https://ommushrooms.com/)?
 
@@ -26,7 +26,7 @@ Each individual species of mushrooms has its own unique benefits. Since I began 
 
 We can all benefit from these amazing superfoods!
 
-![OM-Lions-Mane-web-image-1710-vs1-730d19.jpg](/uploads/OM-Lions-Mane-web-image-1710-vs1-730d19.jpg)
+[Reishi Tea.JPG](/uploads/Reishi%20Tea.JPG)
 
 ###### You have several different products, featuring a total of nine different types of mushrooms - all with varying benefits! For anyone who has never taken mushroom supplements before, how should they determine what to try first?
 
