@@ -80,7 +80,7 @@ I created Om with the vision to make our superfood mushroom powders as versatile
 
 ![12 copy.jpg](/uploads/12%20copy.jpg)
 
-###### While mushrooms are growing in popularity in the wellness space, many people are very new to the idea of taking them for health benefits! How is Om widening the conversation about mushrooms and making them approachable to a wider community?
+###### While mushrooms are growing in popularity in the wellness space, many people are very new to the idea of taking them for health benefits. How is Om widening the conversation about mushrooms and making them approachable to a wider community?
 
 At Om, we aim to make mushroom powders approachable for everyone no matter your knowledge of health and wellness. When educating the community on mushroom superfoods, we lead with the functions and benefits of each species, so that if you’re new to the wellness space, it’s easy to find one that suits your lifestyle. For example, energy and stress are very common issues that most people are looking to combat. Whether it be our [Om Energy](https://ommushrooms.com/product/energy?utm_source=Yellow%20Co.&utm_campaign=Om%20Energy) drink sticks that you can easily pop in water for daily energy, or [Om Reishi](https://ommushrooms.com/product/reishi?utm_source=Yellow%20Co.&utm_campaign=Om%20Reishi) that you can toss in a smoothie to calm stress, these products are relatable entry points for anyone wanting to try mushroom powders for the first time. Our website also breaks down each powder and makes it seamless for people to identify which product best fits their needs. We’re constantly looking to improve and grow as a company to reach new audiences and allow everyone the opportunity to reap the benefits.  
 
