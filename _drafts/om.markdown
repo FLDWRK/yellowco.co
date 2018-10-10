@@ -4,6 +4,7 @@ date: 2018-10-15 04:00:00 -07:00
 categories:
 - Conscious Living
 author: Hanna Snyder
+image: "/uploads/OM-Lions-Mane-web-image-1710-vs1.jpg"
 series: Weird
 ---
 
