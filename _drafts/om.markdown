@@ -1,5 +1,6 @@
 ---
-title: om
+title: 'The Stress Reducing Superfood You Can Add to Anything: Our Interview with
+  Om Mushrooms'
 date: 2018-10-15 04:00:00 -07:00
 categories:
 - Conscious Living
