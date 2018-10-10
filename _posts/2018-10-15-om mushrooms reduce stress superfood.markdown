@@ -42,7 +42,7 @@ Each individual species of mushrooms has its own unique benefits. Since I began 
 
 We can all benefit from these amazing superfoods!
 
-[Reishi Tea-d1e4ad.JPG](/uploads/Reishi%20Tea-d1e4ad.JPG)
+![tea.jpeg](/uploads/tea.jpeg)
 
 ###### You have several different products, featuring a total of nine different types of mushrooms - all with varying benefits! For anyone who has never taken mushroom supplements before, how should they determine what to try first?
 
