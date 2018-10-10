@@ -14,6 +14,8 @@ _Sandra Carter of Om Mushrooms_
 
 I’ve always had a passion for helping people achieve optimal health and wellness through good daily habits and nutrition. After being an athlete in college, I sought out a career in sports performance with a Master’s in Exercise Physiology from McGill University where I began teaching fitness classes and developing community health programs. I went on to obtain a Master’s in Public Health from UCLA and a Ph.D. in Preventative Medicine from USC. When I see a collective need for something - whether it’s building a Cancer Center at our local Tahoe hospital, allowing people to stay in the community to receive treatment and social support, or a Center for Health and Sports Performance for Olympic athletes, I can’t help but pursue it until it’s a reality. This obsession with providing access to what can help us thrive is what ultimately drove me to found Om Mushrooms.
 
+![11 copy.jpg](/uploads/11%20copy.jpg)
+
 ###### How did you first learn about the many benefits of mushrooms? What ways have you seen them impact your health and the health of others?
 
 I was attending a Scripps Integrative Medicine Supplement Conference, and serendipitously met mushroom expert and mycologist, Steve Farrar, who had developed a unique growing technique for powerful mushroom superfoods. I began researching the benefits of these amazing mushrooms and after experiencing them first-hand, I felt a strong passion to help introduce mushroom superfood products to the American market.
@@ -23,6 +25,8 @@ Each individual species of mushrooms has its own unique benefits. Since I began 
 ### I think many people underestimate how versatile mushroom powders can be, not only in terms of how they can be consumed, but also the vast range of functional benefits they offer. 
 
 We can all benefit from these amazing superfoods!
+
+![OM-Lions-Mane-web-image-1710-vs1-730d19.jpg](/uploads/OM-Lions-Mane-web-image-1710-vs1-730d19.jpg)
 
 ###### You have several different products, featuring a total of nine different types of mushrooms - all with varying benefits! For anyone who has never taken mushroom supplements before, how should they determine what to try first?
 
@@ -36,6 +40,8 @@ Our vision is to make a positive difference to everyday health through mushrooms
 
 In building Om, forging strong connections with our retail partners and customers by listening to what they need, sharing education, and being in-store for demos has been a key part of my day-to-day work. For me, the consistent testimonials we receive from our customers reassure me that we’re making that positive difference.
 
+![10-A.jpeg](/uploads/10-A.jpeg)
+
 ###### What is your hope for the future of the wellness industry?
 
 It’s so great to see how people are demanding more from their food, supplements, and everything they are putting into their bodies. 
@@ -43,6 +49,8 @@ It’s so great to see how people are demanding more from their food, supplement
 ### I truly believe that food is medicine and the more we look to food as nourishment for targeting our individual needs, the better we’ll feel. 
 
 I think many people understand that Mother Nature is pretty smart. The complex array of nutrients in a whole-food product provides the most benefits, as opposed to an extract. People are now more than ever doing their research to gain a better understanding of ingredients and how products are made for holistic wellness, so I’m thrilled to play a part in growing the awareness.
+
+![OM-Beauty-web-image-1710-vs1.jpg](/uploads/OM-Beauty-web-image-1710-vs1.jpg)
 
 ###### You have very rigorous requirements for your products – being certified organic, non-gmo, soy, gluten, and filler-free, and all grown and processed right in Carlsbad! Many entrepreneurs and brands want to create products held to these standards, but have challenges getting started due to the costs. How has Om been able to approach these challenges? What makes it the most worth it to uphold these standards?
 
@@ -53,6 +61,8 @@ We have invested an enormous amount of resources in our indoor farm and team to 
 ###### What are some of your favorite recipes to add Om Mushrooms to?
 
 I created Om with the vision to make our superfood mushroom powders as versatile as possible so they could be easily added into any recipe. Aside from Om Energy which has a refreshing citrus flavor, all of our powders have a neutral flavor, so they are great to add into [smoothies](https://ommushrooms.com/recipe/warrior-smoothie?utm_source=Yellow%20Co.&utm_campaign=Recipe%20Warrior%20Smoothie), coffee, avocado toast, [soup](https://ommushrooms.com/recipe/six-mushroom-soup?utm_source=Yellow%20Co.&utm_campaign=Six%20Mushroom%20Soup), even [ice cream](https://ommushrooms.com/recipe/banana-nice-cream?utm_source=Yellow%20Co.&utm_campaign=Banana%20Nice%20Cream)! While I always add [Om Lion’s Mane](https://ommushrooms.com/product/lions-mane?utm_source=Yellow%20Co.&utm_campaign=Om%20Lion%27s%20Mane) to my morning coffee, I love incorporating [Om Reishi](https://ommushrooms.com/product/reishi?utm_source=Yellow%20Co.&utm_campaign=Om%20Reishi) or [Om Beauty](https://ommushrooms.com/product/beauty?utm_source=Yellow%20Co.&utm_campaign=Om%20Beauty) into my baking recipes or pasta sauces. But again, they’re so versatile, so I encourage you to get creative!
+
+![12 copy.jpg](/uploads/12%20copy.jpg)
 
 ###### While mushrooms are growing in popularity in the wellness space, many people are very new to the idea of taking them for health benefits! How is Om widening the conversation about mushrooms and making them approachable to a wider community?
 
