@@ -24,7 +24,7 @@ image: "/uploads/OM-Lions-Mane-web-image-1710-vs1-730d19.jpg"
 series: Weird
 ---
 
-_Sandra Carter co-founder of Om Mushrooms_
+_Today on the blog, the Co-founder of Om Mushrooms, Sandra Carter, is sharing all of her expertise on the very long list of benefits that mushroom powders have, and why she has made it her mission to make them approachable for everyone. From reducing stress, to better focus, to more energy, it's no wonder that mushrooms have been gaining popularity in the wellness world. Om Mushrooms has made it so easy to bring this superfood into your routine _
 
 ###### Tell us a bit about your background! What led to your passion for wellness, and the founding of your company, [Om Mushrooms](https://ommushrooms.com/)?
 
