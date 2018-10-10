@@ -4,6 +4,21 @@ title: 'The Stress Reducing Superfood You Can Add to Anything: Our Interview wit
 date: 2018-10-15 04:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- mushrooms
+- mushroom powder
+- om mushrooms
+- superfood
+- stress reducing food
+- reduce stress
+- adaptogen
+- reishi
+- lions mane
+- energy
+- chaga
+- focus
+- wellness
+- supplement
 author: Hanna Snyder
 image: "/uploads/OM-Lions-Mane-web-image-1710-vs1-730d19.jpg"
 series: Weird
