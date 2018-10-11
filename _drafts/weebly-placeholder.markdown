@@ -4,6 +4,7 @@ date: 2018-10-17 04:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Jackie Korpeck
+image: "/uploads/thought-catalog-641073-unsplash-1.jpg"
 series: Weird
 ---
 
