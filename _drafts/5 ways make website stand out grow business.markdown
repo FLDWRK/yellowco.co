@@ -26,6 +26,8 @@ It’s important to have clear, high quality images that showcase your product a
 
 If you’re selling products, make sure your site is integrated to be a one-stop shop so customers don’t need to leave your page to make purchases. Create an inventory of your items, use integrated shipping and tax options, and use easy checkout options like Square or PayPal. You can also use features like coupon codes for loyalty or abandon cart emails to recapture visitors that may have forgotten to complete their purchase.
 
+![flipboard-650209-unsplash-1.jpg](/uploads/flipboard-650209-unsplash-1.jpg)
+
 #### Strong headlines 
 
 We believe that your homepage should describe what you do and the purpose of your site in 15 words or less. This will capture the essence of your brand in an impactful way. Use short and concise headers to help deliver a powerful and trusting message (and keeps your customers coming back for more). Also consider the look of your headline - consider bright colors or a unique font to help grab attention. Not sure where to start creating a striking homepage? Use a website builder that has [bold, beautiful templates](https://www.weebly.com/themes) pre-designed for you to use!
@@ -34,7 +36,9 @@ We believe that your homepage should describe what you do and the purpose of you
 
 These should always highlight the underlying goal of your site, and help users navigate it seamlessly. For example, if your visitors have a question about completing a sale, how can they get in touch? Adding a "contact us" form, an email address, or a direct "buy now" button on your homepage can point your customers in the right direction.
 
-#### Mobile friendly website builder
+![kevin-bhagat-343433-unsplash-1.jpg](/uploads/kevin-bhagat-343433-unsplash-1.jpg)
+
+#### Mobile-friendly website builder
 
 Make sure that you choose a website builder where you can update your site from your phone or tablet. Managing your business is something you should be able to do on-the-go. If your store is closed due to a holiday, you need to fulfill orders, communicate with customers that have questions, or you just want to easily view your website traffic, you should be able to. 
  
