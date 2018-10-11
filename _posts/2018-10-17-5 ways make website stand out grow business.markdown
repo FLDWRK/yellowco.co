@@ -16,9 +16,9 @@ image: "/uploads/thought-catalog-641073-unsplash-1.jpg"
 series: Weird
 ---
 
-Creating a website to showcase what your true passion is can be a daunting task. There are so many items to think of when you are starting to put your pen to paper (or mouse to computer screen in this case). The difficulty is, what should you focus on? What is most important, and how can you highlight your vision properly? I've put together a short list of the most important parts to keep in mind when building your website to make sure it stands out. 
+Creating a website to showcase what your true passion is can be a daunting task. There are so many items to think of when you are starting to put your pen to paper (or mouse to computer screen in this case). The difficulty is, what should you focus on? How can you highlight your vision properly? I've put together a short list of the most important parts to keep in mind when building your website to make sure it stands out among the rest. 
  
-#### Eye catching imagery  
+#### Eye-catching imagery  
 
 It’s important to have clear, high quality images that showcase your product and service to communicate your professionalism. Your brand's personality and origin is delivered via the images the visitors see, and it is all about creating a memorable first impression. If you need, there are even some great free image sites, such as [Gratisography](https://gratisography.com/), that have high-resolution images. 
  
@@ -30,7 +30,7 @@ If you’re selling products, make sure your site is integrated to be a one-stop
 
 #### Strong headlines 
 
-We believe that your homepage should describe what you do and the purpose of your site in 15 words or less. This will capture the essence of your brand in an impactful way. Use short and concise headers to help deliver a powerful and trusting message (and keeps your customers coming back for more). Also consider the look of your headline - consider bright colors or a unique font to help grab attention. Not sure where to start creating a striking homepage? Use a website builder that has [bold, beautiful templates](https://www.weebly.com/themes) pre-designed for you to use!
+We believe that your homepage should describe what you do and the purpose of your site in 15 words or less. This will capture the essence of your brand in an impactful way. Use short and concise headers to help deliver a powerful and trusting message (and keep your customers coming back for more). Also consider the look of your headline - consider bright colors or a unique font to help grab attention. Not sure where to start creating a striking homepage? Use a website builder that has [bold, beautiful templates](https://www.weebly.com/themes) pre-designed for you to use!
 
 #### Clear call to actions
 
