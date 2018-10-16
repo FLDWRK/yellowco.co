@@ -34,3 +34,5 @@ It had taken us over six hours to drive the relatively short distance to Marsieu
 His story reminded me that it’s not enough for a community to survive — we should all have the opportunity to thrive. The people I met in Haiti are just like me. They have their own passions, senses of humor, dreams, and fears. I want them to thrive — to physically, mentally, socially, and spiritually be free to pursue the things that make them light up inside! 
 
 It’s so easy to make an impact and provide clean water for these communities, and I was so proud to bring Yellow Co. into a problem that does have a solution – one that we intend to be a part of solving. I would encourage anyone who feels called to being a part of solving the global water crisis to partner with Healing Waters initiative by buying a shirt! For individuals who are interesting in giving a larger, tax-deductible financial gift, you can do so directly at [run5050.org](https://www.classy.org/campaign/run-5050/c160482) or by connecting with Jess Matteson of Healing Waters.
+
+_Photos by [Jessie Nichole Photography](http://jessienicholephotography.com/)_
