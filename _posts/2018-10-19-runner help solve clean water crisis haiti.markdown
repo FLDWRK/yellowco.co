@@ -53,6 +53,6 @@ The people I met in Haiti are just like me. They have their own passions, senses
 
 ![DSC_9007-1.jpg](/uploads/DSC_9007-1.jpg)
 
-It’s so easy to make an impact and provide clean water for these communities, and I was so proud to bring Yellow Co. into a problem that does have a solution – one that we intend to be a part of solving. I would encourage anyone who feels called to being a part of solving the global water crisis to partner with Healing Waters initiative by [buying a shirt](https://www.bonfire.com/fueled-by-water/?utm_source=healing%20waters&utm_campaign=kacy%20schlener)! Or, if you're interesting in giving tax-deductible donation, you can do so directly at [Run5050.org](https://www.classy.org/campaign/run-5050/c160482).
+It’s so easy to make an impact and provide clean water for these communities, and I was so proud to bring Yellow Co. into a problem that does have a solution – one that we intend to be a part of solving. I would encourage anyone who feels called to being a part of solving the global water crisis to partner with Healing Waters initiative by [buying a shirt](https://www.bonfire.com/fueled-by-water/?utm_source=healing%20waters&utm_campaign=kacy%20schlener)!
 
 _Photos by [Jessie Nichole Photography](http://jessienicholephotography.com/)_
