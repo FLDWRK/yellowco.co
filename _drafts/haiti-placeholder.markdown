@@ -4,6 +4,7 @@ date: 2018-10-19 04:00:00 -07:00
 categories:
 - Culture
 author: Kacy Schlener
+image: "/uploads/DSC_9193-1.jpg"
 series: Weird
 ---
 
