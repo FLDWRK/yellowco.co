@@ -1,5 +1,6 @@
 ---
-title: How Running Is Helping Solve the Clean Water Crisis in Haiti
+title: How This Runner Is Helping Solve the Clean Water Crisis in Haiti (& So Can
+  You!)
 date: 2018-10-19 04:00:00 -07:00
 categories:
 - Culture
