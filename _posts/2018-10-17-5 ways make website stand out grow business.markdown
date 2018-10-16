@@ -16,7 +16,7 @@ image: "/uploads/thought-catalog-641073-unsplash-1.jpg"
 series: Weird
 ---
 
-Creating a website to showcase what your true passion is can be a daunting task. There are so many items to think of when you are starting to put your pen to paper (or mouse to computer screen in this case). The difficulty is, what should you focus on? How can you highlight your vision properly? I've put together a short list of the most important parts to keep in mind when building your website to make sure it stands out among the rest. 
+Creating a website to showcase your true passion can be a daunting task. There are so many items to think of when you are starting to put your pen to paper (or mouse to computer screen in this case). The difficulty is, what should you focus on? How can you highlight your vision properly? I've put together a short list of the most important parts to keep in mind when building your website to make sure it stands out among the rest. 
  
 #### Eye-catching imagery  
 
