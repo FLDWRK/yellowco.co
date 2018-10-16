@@ -4,6 +4,14 @@ title: How This Runner Is Helping Solve the Clean Water Crisis in Haiti (& So Ca
 date: 2018-10-19 04:00:00 -07:00
 categories:
 - Culture
+tags:
+- healing waters
+- global water crisis
+- clean water crisis
+- clean water
+- haiti
+- run 5050
+- bonfire
 author: Kacy Schlener
 image: "/uploads/DSC_9193-1.jpg"
 series: Weird
