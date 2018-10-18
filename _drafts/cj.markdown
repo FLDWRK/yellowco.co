@@ -4,6 +4,7 @@ date: 2018-10-24 04:00:00 -07:00
 categories:
 - Growth
 author: Amelia Bartlett
+image: "/uploads/12.png"
 series: Weird
 ---
 
