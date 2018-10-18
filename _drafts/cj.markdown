@@ -61,4 +61,4 @@ She continued, “why would you destroy it? What’s the matter with you?” I q
 
 This situation reminded me that we are perpetuating generations of people who are never encouraged to express themselves in positive ways. And as we’ve seen over and over again, when people don’t know how to express themselves positively, they to negative means – ones that harm themselves and others. Solving that problem gets me up in the morning. Encouraging people to connect with the part of them that freely colors outside the lines, sees the world from a different angle, and imagines a better solution is something I’m dedicating the rest of my life to.
 
-_Photos courtesy of CJ Casciotta_
+_Photos courtesy of [CJ Casciotta](https://www.cjcas.com/?r_done=1)_
