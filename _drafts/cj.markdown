@@ -9,7 +9,7 @@ series: Weird
 
 When someone calls you weird, do you see it as a compliment? 
 
-If you’re CJ Casciotta, the answer is a resounding yes. CJ has built a career, a nonprofit, and a new book on encouraging people to embrace their ‘weird’ and contribute their unique gifts to the world. He’s is a brilliant writer whose voice sounds like my best friend and the career coach I always wanted, cheering for uniqueness, contribution, acceptance, and creativity in every facet of life. His new book _Get Weird_ has shaken free my fears of sharing what makes me special and just might help you unlock the creative and successful future you’re dreaming of. But, only if you’re ready to get weird.  
+If you’re [CJ Casciotta](https://www.cjcas.com/?r_done=1), the answer is a resounding yes. CJ has built a career, a nonprofit, and a new book on encouraging people to embrace their ‘weird’ and contribute their unique gifts to the world. He’s is a brilliant writer whose voice sounds like my best friend and the career coach I always wanted, cheering for uniqueness, contribution, acceptance, and creativity in every facet of life. His new book _[Get Weird](https://www.getweirdbook.com/)_ has shaken free my fears of sharing what makes me special and just might help you unlock the creative and successful future you’re dreaming of. But, only if you’re ready to get weird.  
 
 ###### Your new book, _Get Weird_, was recently released, but this isn’t your first foray into encouraging the celebration of “weird.” What has driven you to make a career out of inspiring others to embrace their uniqueness? 
 
