@@ -1,5 +1,5 @@
 ---
-title: Curious About Cbd Oil? 3 Questions to Ask Before Buying
+title: Curious About CBD Oil? 3 Questions to Ask Before Buying
 date: 2018-10-22 04:00:00 -07:00
 categories:
 - Health
