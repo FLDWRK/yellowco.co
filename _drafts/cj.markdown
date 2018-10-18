@@ -22,7 +22,7 @@ What if your weirdness was the key to changing everything? What if the outrageou
 
 It's the essence of creativity, the stuff of movements, and the hope for humanity.
 
-![Screen Shot 2018-10-18 at 4.10.48 PM.png](/uploads/Screen%20Shot%202018-10-18%20at%204.10.48%20PM.png)
+![cropped.jpg](/uploads/cropped.jpg)
 
 ###### The word “weird” rarely carries a positive connotation, especially in a society where fitting in is subliminally expected. How can individuals of all walks of life embrace their “weird” without losing touch with the society in which they exist?
 
