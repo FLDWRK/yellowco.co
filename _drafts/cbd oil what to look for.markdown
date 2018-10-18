@@ -14,6 +14,7 @@ tags:
 - health
 - mental health
 author: Brianna Towne
+image: "/uploads/hutomo-abrianto-673201-unsplash-1.jpg"
 series: Weird
 ---
 
@@ -23,7 +24,9 @@ By now you’ve probably heard of this CBD oil craze and have either jumped righ
 
 CBD oil, or Cannabidoil, is an oil taken from the cannabis plant then mixed with a carrier oil like coconut, or olive, or hemp seed. It’s just one of many chemical compounds found in the cannabis plant, it’s more well-known partner THC is another. THC is the chemical compound that will produce a “high” as it’s the psychoactive piece of the cannabis plant. Unlike THC, Cannabidoil is not psychoactive and won’t produce any mind-altering effects that other cannabis products and pharmaceutical drugs come with.
 
-### A lot of people hear CBD oil and associate it rightly with the cannabis plant, but make the incorrect assumption that it’s the same as smoking products containing THC and will produce the same “high”. 
+### A lot of people hear CBD oil and associate it rightly with the cannabis plant, but make the incorrect assumption that it’s the same as smoking products containing THC and will produce the same “high”.
+
+![paul-hanaoka-369639-unsplash-1.jpg](/uploads/paul-hanaoka-369639-unsplash-1.jpg) 
 
 I was apprehensive myself when first learning about CBD oil. Maybe it was my midwestern upbringing that simply assumed that anything with the word "cannabis" in it was definitely a drug and no good. But when a recovering addict and friend told me she uses CBD oil for anxiety and to help her sleep at night, I was intrigued and definitely interested in learning more.
 
@@ -36,6 +39,8 @@ CBD oil comes in a handful of different forms including liquid oil, hemp oil as 
 The most common way is to use a dropper and place the oil under your tongue and hold for about 15 seconds before swallowing. But it can also be easily added to foods and drinks like your morning coffee!
 
 You can use it daily or as needed - it can build up in your system so if using it to combat something like anxiety you might want to go with the daily option.
+
+![nathan-dumlao-450012-unsplash-1.jpg](/uploads/nathan-dumlao-450012-unsplash-1.jpg)
 
 #### What should you look for when buying CBD oil?
 
