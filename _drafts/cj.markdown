@@ -28,6 +28,8 @@ It's the essence of creativity, the stuff of movements, and the hope for humanit
 
 We’re not weird to stockpile attention or store up conceit. Rather, when we recognize that every soul comes preinstalled with unique worth, every human designed with a divine imagination, we discover the playing field has been leveled. Yes, we’re weird, but we’re not weirder than anyone else. And if that’s the case, we must tell the others! They have to know that, like us, everyone has the opportunity to step into the unique shape of their soul, the curious cavern where their deepest purpose and passions lie. Like us, everyone gets an invitation to belong in a world that would rather them buy in. Like us, they get to leave Misfits Anonymous and join Misfits Unanimous! 
 
+![CJ_GETWEIRD_-8 (1).jpg](/uploads/CJ_GETWEIRD_-8%20(1).jpg)
+
 ###### I devoured the sample chapter [available for download](https://www.getweirdbook.com/chapter?r_done=1) on your website. This quote shook me: 
 
 “The Sacred Weird isn’t there in our soul to be exploited. It’s not something that’s tethered to someone else’s opinion. It doesn’t have to conform to a pattern or bargain for its worth. It’s the undeniable, unshakable reality that is you.” 
@@ -48,7 +50,7 @@ For me it’s been surrounding myself with a few people who just couldn’t give
 
 The first step was the very non-sexy, non-fun process of outlining everything and seeing if this was actually a viable book. And that can only be done when you write a proposal, which is basically like a business plan for it. It forces you to look at it from every angle including how you’ll get it out there once it’s done. 
 
-![CJ_GETWEIRD_-8 (1).jpg](/uploads/CJ_GETWEIRD_-8%20(1).jpg)
+![Screen Shot 2018-10-18 at 4.07.30 PM.png](/uploads/Screen%20Shot%202018-10-18%20at%204.07.30%20PM.png)
 
 ###### Can you give us a taste of how we will actually uncover our unique personal gifts in reading your book? 
 
