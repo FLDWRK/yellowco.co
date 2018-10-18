@@ -22,6 +22,8 @@ What if your weirdness was the key to changing everything? What if the outrageou
 
 It's the essence of creativity, the stuff of movements, and the hope for humanity.
 
+![Screen Shot 2018-10-18 at 4.10.48 PM.png](/uploads/Screen%20Shot%202018-10-18%20at%204.10.48%20PM.png)
+
 ###### The word “weird” rarely carries a positive connotation, especially in a society where fitting in is subliminally expected. How can individuals of all walks of life embrace their “weird” without losing touch with the society in which they exist?
 
 We’re not weird to stockpile attention or store up conceit. Rather, when we recognize that every soul comes preinstalled with unique worth, every human designed with a divine imagination, we discover the playing field has been leveled. Yes, we’re weird, but we’re not weirder than anyone else. And if that’s the case, we must tell the others! They have to know that, like us, everyone has the opportunity to step into the unique shape of their soul, the curious cavern where their deepest purpose and passions lie. Like us, everyone gets an invitation to belong in a world that would rather them buy in. Like us, they get to leave Misfits Anonymous and join Misfits Unanimous! 
@@ -36,6 +38,8 @@ Well, speaking from experience, lately, I feel like my neck is on the chopping b
 
 ### I think the more we begin operating out of our true, weird selves, the more frightening it is – but at the same time, the closer we are to the difference we were designed to make. 
 
+![CJ door (1) copy.jpg](/uploads/CJ%20door%20(1)%20copy.jpg)
+
 ###### When it comes to community, how do you surround yourself with people who accept your “weird” and thrive in their own? 
 
 For me it’s been surrounding myself with a few people who just couldn’t give a flying rip about what I’ve accomplished or what I haven’t. Sure, they’re proud of me when I do something I’m proud of, but they’re also proud of me when I’ve done something I’m convinced is garbage. And that’s because our value exchange is deeper than what I make in the moment. It’s the conversations, the silence, the presence, the laughter, and the memories that bind us to each other.  Now that I’m in my 30s, I’m realizing how rare those kinds of relationships are, so I’m guarding the ones I’ve got for dear life, like I’m Liam Neeson in _Taken_ or something. 
@@ -43,6 +47,8 @@ For me it’s been surrounding myself with a few people who just couldn’t give
 ###### What was the very first step you took as a writer in moving towards getting your book published?
 
 The first step was the very non-sexy, non-fun process of outlining everything and seeing if this was actually a viable book. And that can only be done when you write a proposal, which is basically like a business plan for it. It forces you to look at it from every angle including how you’ll get it out there once it’s done. 
+
+![CJ_GETWEIRD_-8 (1).jpg](/uploads/CJ_GETWEIRD_-8%20(1).jpg)
 
 ###### Can you give us a taste of how we will actually uncover our unique personal gifts in reading your book? 
 
@@ -57,6 +63,8 @@ The third section of the book gets really practical. It moves from, “WHY are y
 **4. HACK THE CULTURE:** Finally, movements hit a stride when they're able to make believers out of those who initially overlook them (e.g. podcasts). This tough act of changing minds & permeating culture is only accomplished after completing the first steps.
 
 So my hope in the way I’ve framed the book is that you’ll not only be inspired and, encouraged, but tactically equipped to go live out your weirdness in a world that needs it.  
+
+![CJ_GETWEIRD_-20 (1).jpg](/uploads/CJ_GETWEIRD_-20%20(1).jpg)
 
 ###### What are the far-reaching, big-dreaming measures of impact you hope to make with _Get Weird_, and what takeaways do you hope your will readers implement into their lives? 
 
