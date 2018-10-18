@@ -21,7 +21,7 @@ Two days ago I was driving in a truck through Haiti, fording rivers and navigati
 
 It’s a question I have been asked over and over in the last few weeks, as I prepared to take Yellow Co. to Haiti on a trip hosted by [Healing Waters International](https://healingwaters.org/) and [Bonfire](https://www.bonfire.com/), with the mission of raising awareness and money to bring a clean water project to a community in Haiti. 
 
-Each organization there was committed to the goal of [selling 1,000 shirts](https://www.bonfire.com/fueled-by-water/?utm_source=healing%20waters&utm_campaign=kacy%20schlener) designed by Bonfire, which would fully fund building a filtration system that provides clean water to an ENTIRE COMMUNITY! 
+Run5050 teamed up with Bonfire to create custom "Fueled by Water" [t-shirts, sweatshirts & tanks](https://www.bonfire.com/fueled-by-water/?utm_source=healing%20waters&utm_campaign=kacy%20schlener) so YOU can get involved too (without having to run a marathon)! Each organization there was committed to the goal of [selling 1,000 shirts](https://www.bonfire.com/fueled-by-water/?utm_source=healing%20waters&utm_campaign=kacy%20schlener), which would fully fund building a filtration system that provides clean water to an ENTIRE COMMUNITY! 
 
 ### According to the UN, no other single intervention is more likely to have a significant impact on global poverty than the provision of clean water.
 
