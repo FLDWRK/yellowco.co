@@ -1,8 +1,18 @@
 ---
-title: cbd
+title: Curious About Cbd Oil? 3 Questions to Ask Before Buying
 date: 2018-10-22 04:00:00 -07:00
 categories:
 - Health
+tags:
+- cbd oil
+- wellness
+- anxiety cure
+- anxiety treatment
+- hemp oil
+- hemp
+- cbd anxiety
+- health
+- mental health
 author: Brianna Towne
 series: Weird
 ---
