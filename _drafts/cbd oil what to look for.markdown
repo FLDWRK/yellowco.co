@@ -14,7 +14,7 @@ tags:
 - health
 - mental health
 author: Brianna Towne
-image: "/uploads/hutomo-abrianto-673201-unsplash-1.jpg"
+image: "/uploads/443.jpeg"
 series: Weird
 ---
 
