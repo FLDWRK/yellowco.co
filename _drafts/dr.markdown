@@ -12,7 +12,9 @@ Working with friends is never easy. It takes hard work, just like any relationsh
 
 I’ve only worked with friends. I’ve built businesses with friends, created art with friends, and befriended the majority of my co-workers, clients, and bosses. In fact, the people I work with are my BEST friends. 
 
-When everything is in harmony, working with friends makes the work even more rewarding. But when the waters get shaky, working with your friends can feel like a burden. Some people argue that working with friends can’t mix well, but I like to view it as a marriage. There are ups and downs, but when you know how to embrace the good and tend to the bad... it can really make your relationship so much stronger. It does not have to be a struggle. 
+### When everything is in harmony, working with friends makes the work even more rewarding. 
+
+But when the waters get shaky, working with your friends can feel like a burden. Some people argue that working with friends can’t mix well, but I like to view it as a marriage. There are ups and downs, but when you know how to embrace the good and tend to the bad... it can really make your relationship so much stronger. It does not have to be a struggle. 
 
 All you need are a few insightful reminders on how to find balance in your working relationship AND friendship.
 
