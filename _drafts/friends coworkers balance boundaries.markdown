@@ -26,7 +26,7 @@ But when the waters get shaky, working with your friends can feel like a burden.
 
 All you need are a few insightful reminders on how to find balance in your working relationship _and_ friendship.
 
-[ShopKaleidos-008-6a16a0.JPG](/uploads/ShopKaleidos-008-6a16a0.JPG)
+![a.jpeg](/uploads/a.jpeg)
 
 #### Be clear and communicative on expectations.
 
@@ -42,7 +42,7 @@ Does this one moment really matter in the end, or is it a temporary feeling? You
 
 Some things aren’t worth mentioning unless it really, really affects you and how you work together. That being said, if there is a problem that is continuously bothering you, vocalize it. Tend to it right away instead of let fester. Speak from the heart and be honest. That is the best you can do in difficult situations. 
 
-[ShopKaleidos-007.JPG](/uploads/ShopKaleidos-007.JPG)
+![b.jpeg](/uploads/b.jpeg)
 
 #### Take space when you need to.
 
@@ -58,7 +58,7 @@ Work together, not against each other. Ask for help when you need it, offer supp
 
 ### Teamwork is about trust. It’s that simple.   
 
-[ShopKaleidos-010.JPG](/uploads/ShopKaleidos-010.JPG) 
+![c.jpeg](/uploads/c.jpeg)
 
 #### Hold yourself and each other accountable.
 
