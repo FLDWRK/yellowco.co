@@ -10,7 +10,7 @@ series: Weird
 
 _When someone calls you weird, do you see it as a compliment?_ 
 
-_If you’re [CJ Casciotta](https://www.cjcas.com/?r_done=1), the answer is a resounding yes. CJ has built a career, a nonprofit, and a new book on encouraging people to embrace their "weird" and contribute their unique gifts to the world. He’s a brilliant writer whose voice sounds like my best friend and the career coach I always wanted, cheering for uniqueness, contribution, acceptance, and creativity in every facet of life. His new book _[Get Weird](https://www.getweirdbook.com/)_ has shaken free my fears of sharing what makes me special and just might help you unlock the creative and successful future you’re dreaming of. But, only if you’re ready to get weird._  
+_If you’re [CJ Casciotta](https://www.cjcas.com/?r_done=1), the answer is a resounding yes. CJ has built a career, a nonprofit, and a new book on encouraging people to embrace their "weird" and contribute their unique gifts to the world. He’s a brilliant writer whose voice sounds like my best friend and the career coach I always wanted, cheering for uniqueness, contribution, acceptance, and creativity in every facet of life. His new book [Get Weird](https://www.getweirdbook.com/) has shaken free my fears of sharing what makes me special and just might help you unlock the creative and successful future you’re dreaming of. But, only if you’re ready to get weird._  
 
 ###### Your new book, _Get Weird_, was recently released, but this isn’t your first foray into encouraging the celebration of “weird.” What has driven you to make a career out of inspiring others to embrace their uniqueness? 
 
@@ -32,9 +32,9 @@ We’re not weird to stockpile attention or store up conceit. Rather, when we re
 
 ###### I devoured the sample chapter [available for download](https://www.getweirdbook.com/chapter?r_done=1) on your website. This quote shook me: 
 
-“The Sacred Weird isn’t there in our soul to be exploited. It’s not something that’s tethered to someone else’s opinion. It doesn’t have to conform to a pattern or bargain for its worth. It’s the undeniable, unshakable reality that is you.” 
+###### “The Sacred Weird isn’t there in our soul to be exploited. It’s not something that’s tethered to someone else’s opinion. It doesn’t have to conform to a pattern or bargain for its worth. It’s the undeniable, unshakable reality that is you.” 
 
-What advice would you give to creatives whose “weird” is a key part of their work, and often associated with monetary value and criticism?
+###### What advice would you give to creatives whose “weird” is a key part of their work, and often associated with monetary value and criticism?
 
 Well, speaking from experience, lately, I feel like my neck is on the chopping block in more ways than one. I’m coming out with a book. I’m starting a nonprofit that teaches kids creativity and character development. I keep telling myself, “This is not supposed to be easy. If it was, you’d be bored and it probably wouldn’t make that much of a difference.”  
 
