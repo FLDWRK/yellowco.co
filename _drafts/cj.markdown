@@ -1,5 +1,5 @@
 ---
-title: Why This Author Says Embracing Our Weirdness Creates World-Changing Movements
+title: This Author Says Embracing Our Weirdness Creates World-Changing Movements
 date: 2018-10-24 04:00:00 -07:00
 categories:
 - Growth
