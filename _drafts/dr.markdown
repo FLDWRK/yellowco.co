@@ -1,9 +1,11 @@
 ---
 title: dr
-date: 2018-10-19 10:58:00 -07:00
+date: 2018-10-26 04:00:00 -07:00
+categories:
+- Relationships
+author: Danielle Magee
+series: Weird
 ---
-
-By Danielle Magee
 
 Working with friends is never easy. It takes hard work, just like any relationship you have. Whether you decide to start a business with a friend or are forming friendships with your coworkers, it changes the dynamic of your relationship. That doesn’t necessarily mean the change is negative.
 
