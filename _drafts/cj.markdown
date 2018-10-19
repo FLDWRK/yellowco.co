@@ -1,5 +1,5 @@
 ---
-title: cj
+title: Why This Author Believes Being Weird Creates Movements That Change the World
 date: 2018-10-24 04:00:00 -07:00
 categories:
 - Growth
