@@ -16,7 +16,9 @@ I’ve only worked with friends. I’ve built businesses with friends, created a
 
 But when the waters get shaky, working with your friends can feel like a burden. Some people argue that working with friends can’t mix well, but I like to view it as a marriage. There are ups and downs, but when you know how to embrace the good and tend to the bad... it can really make your relationship so much stronger. It does not have to be a struggle. 
 
-All you need are a few insightful reminders on how to find balance in your working relationship AND friendship.
+All you need are a few insightful reminders on how to find balance in your working relationship _and_ friendship.
+
+[ShopKaleidos-008-6a16a0.JPG](/uploads/ShopKaleidos-008-6a16a0.JPG)
 
 #### Be clear and communicative on expectations.
 
@@ -32,6 +34,8 @@ Does this one moment really matter in the end, or is it a temporary feeling? You
 
 Some things aren’t worth mentioning unless it really, really affects you and how you work together. That being said, if there is a problem that is continuously bothering you, vocalize it. Tend to it right away instead of let fester. Speak from the heart and be honest. That is the best you can do in difficult situations. 
 
+[ShopKaleidos-007.JPG](/uploads/ShopKaleidos-007.JPG)
+
 #### Take space when you need to.
 
 Disagreements happen, feelings get hurt... it’s all a part of the journey. Know when you need space from a situation to catch your chill. It makes communicating so much clearer. When emotions run high, we can say or do things we don’t mean or keep adding fuel to a fire when we don’t need to. Feelings can be temporary, but actions last forever and have consequences. It’s totally okay to say, “Hey, I hear you. But I need some space before I jump back into this because I’m frustrated right now and I won’t be able to react or respond in the best, most constructive way.” When you’re ready, dive back in and work together to find a solution.
@@ -44,7 +48,9 @@ Make time to also self reflect. You may not be able to see what your coworkers a
 
 Work together, not against each other. Ask for help when you need it, offer support when you can give it. 
 
-### Teamwork is about trust. It’s that simple.    
+### Teamwork is about trust. It’s that simple.   
+
+[ShopKaleidos-010.JPG](/uploads/ShopKaleidos-010.JPG) 
 
 #### Hold yourself and each other accountable.
 
