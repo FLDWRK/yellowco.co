@@ -1,8 +1,16 @@
 ---
-title: Balancing the boundaries/dynamics of being friends with your coworkers/employer/employee
+title: Friends or Coworkers? How to Balance Boundaries so You Can Be Both
 date: 2018-10-26 04:00:00 -07:00
 categories:
 - Relationships
+tags:
+- friendships
+- work friends
+- work friendships
+- coworker friends
+- coworker relationships
+- employees
+- boss relationship
 author: Danielle Magee
 image: "/uploads/ShopKaleidos-009.JPG"
 series: Weird
