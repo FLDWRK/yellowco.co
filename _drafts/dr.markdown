@@ -58,3 +58,4 @@ Remember the “why” behind your work: what are you striving for, together? Wh
 
 When you’re in the wrong, you should be the first to own up to it. Accountability comes from leading by example. Not only will it make you a great co-worker, an amazing leader, or a awesome boss... it will make you a great friend, too. 
 
+_Photos by [Eun Creative](http://www.euncreative.com/)_
