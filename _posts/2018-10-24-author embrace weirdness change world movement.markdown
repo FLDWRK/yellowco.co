@@ -3,6 +3,17 @@ title: This Author Says Embracing Our Weirdness Creates World-Changing Movements
 date: 2018-10-24 04:00:00 -07:00
 categories:
 - Growth
+tags:
+- CJ Casciotta
+- get weird
+- weird
+- weirdness
+- individuality
+- personal growth
+- impact
+- change world
+- make a difference
+- movement
 author: Amelia Bartlett
 image: "/uploads/12.png"
 series: Weird
