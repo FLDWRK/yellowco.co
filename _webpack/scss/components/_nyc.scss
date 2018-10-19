@@ -1,0 +1,23 @@
+.nyc {
+  .header {
+    h1 {
+      font-size: 3rem;
+      @include media-breakpoint-only(lg) {
+        font-size: 2.4rem;
+      }
+      @include media-breakpoint-only(md) {
+        font-size: 1.8rem;
+      }
+      @include media-breakpoint-down(sm) {
+        font-size: 2.4rem;
+      }
+    }
+    h2,
+    h3 {
+      font-size: 1.6rem;
+      @include media-breakpoint-only(md) {
+        font-size: 1.2rem;
+      }
+    }
+  }
+}

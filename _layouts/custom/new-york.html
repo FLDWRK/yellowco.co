@@ -1,0 +1,152 @@
+---
+title: Yellow Conference New York
+layout: site
+---
+
+<script src='https://www.universe.com/embed2.js'></script>
+<div class="nyc">
+  <div class="container">
+    <div class="row px-3 pt-3 pb-5 mb-5 border border-bottom header">
+      <div class="col-md-5">
+        <img src="/assets/images/nyc/nyc.svg" class="img-fluid" />
+      </div>
+      <div class="col-md pt-3">
+        <h2 class="league-spartan">{{page.subtitle}}</h2>
+        <h1>{{page.title}}</h1>
+        <h3 class="league-spartan pt-2">{{page.event-date}}</h3>
+        <a href="https://www.universe.com/events/new-york-yellow-conference-2019-tickets-los-angeles-0WJ6T3?buttonColor=#333333&buttonText=Get%20Tickets" class="btn btn-outline-primary mt-4">RESERVE YOUR SPOT!</a>
+      </div>
+    </div>
+    <div class="row pb-5">
+      <div class="col">
+        <h2 class="col-md-8 offset-md-2 font-italic text-center">{{page.short-description}}</h4>
+      </div>
+    </div>
+    <div class="row pb-5">
+      <div class="col-lg">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/295958523" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+        </div>
+      </div>
+      <div class="col-lg">
+        <p class="mt-3 mt-lg-0">{{page.long-description}}</p>
+      </div>
+    </div>
+    <div class="row pb-5">
+      <div class="col">
+        <img src="/assets/images/nyc/theme.svg" class="img-fluid" />
+      </div>
+    </div>
+    <div class="row pb-5">
+      <div class="col">
+        <a href="https://www.universe.com/events/new-york-yellow-conference-2019-tickets-los-angeles-0WJ6T3?buttonColor=#333333&buttonText=Get%20Tickets" class="btn btn-outline-primary btn-block btn-lg">RESERVE YOUR SPOT!</a>
+      </div>
+    </div>
+    <div class="row pb-3">
+      <div class="col-12">
+        <div class="header-rule">
+          <h2 class="h1 text-center">Speakers & Panelists</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row speakers">
+      {% for speaker in page.speakers %}
+      <div class="text-center mb-3 speaker">
+        <img class="img-fluid border border-secondary speaker-photo" src="{{ speaker.image | image_src }}?w=500&h=500&fit=crop&crop=faces" alt="{{ speaker.name }}: {{ speaker.company }}" data-rjs="2">
+        <h6 class="mt-3">{{ speaker.name }}</h6> {% if speaker.company %}
+        <p>
+          <em>{{ speaker.title }},
+            <a href="{{ speaker.link }}">{{ speaker.company }}</a>
+          </em>
+        </p>
+        {% else %}
+        <p>
+          <em>
+            <a href="{{ speaker.link }}">{{ speaker.title }}</a>
+          </em>
+        </p>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    {% if page.speakers-teaser %}
+    <div class="row">
+      <div class="col text-center">
+        {{ page.speakers-teaser | markdownify }}
+      </div>
+    </div>
+    {% endif %}
+    <div class="row pb-3">
+      <div class="col">
+        <div class="header-rule">
+          <h2 class="h1 text-center">The Venue</h2>
+        </div>
+      </div>
+    </div>
+    <div class="alternating-two-col">
+      {% for venue in page.venue %}
+      <div class="alternating-col">
+        <div class="photo">
+          <img src="{{ venue.image | image_src }}" alt="" />
+        </div>
+        <div class="content">
+          <h3 class="title">{{ venue.title }}</h3> {{ venue.text | markdownify }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row pb-5">
+      <div class="col">
+        <a href="https://www.universe.com/events/new-york-yellow-conference-2019-tickets-los-angeles-0WJ6T3?buttonColor=#333333&buttonText=Get%20Tickets" class="btn btn-outline-primary btn-block btn-lg">RESERVE YOUR SPOT!</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container my-3">
+    <div class="row">
+      <div class="col">
+        <img src="{{ page.marketplace.image }}" class="img-fluid mb-3" />
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col-12">
+        <h4>Have a do-good business?</h4>
+        <p>
+          Apply for the marketplace here. Questions? Email <a href="mailto:kathryn@yellowco.co">kathryn@yellowco.co</a>
+        </p>
+      </div>
+    </div>
+    <div class="row mt-5">
+      <div class="col">
+        <script
+          src="https://www.universe.com/embed2.js"
+          data-widget-type="universe-ticket"
+          data-target-type="Listing"
+          data-target-id="new-york-yellow-conference-2019-tickets-los-angeles-0WJ6T3"
+          data-state="buttonColor=#333333&buttonText=Get Tickets">
+        </script>
+      </div>
+    </div>
+  </div>
+  {% if page.sponsors %}
+    <a name="partners"></a>
+    <div class="sponsors-container py-5 mt-5">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <h4 class="text-center">Our Yellow New York Partners in Good</h4>
+          </div>
+        </div>
+        <div class="sponsors">
+          {% for sponsor in page.sponsors %}
+          <div class="sponsor" title="{{ sponsor.title | escape }}">
+            <a href="{{ sponsor.link }}" class="logo">
+                <img src="{{ sponsor.image | image_src }}" alt="{{ sponsor.title | escape }}" />
+              </a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+</div>
