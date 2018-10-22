@@ -5,6 +5,8 @@ body-class: home
 banners:
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header.jpg"
+- link: https://yellowco.co/retreats/bali/
+  image: "/uploads/BALI-HEADER.jpg"
 - link: https://www.universe.com/events/yellow-conference-2019-tickets-los-angeles-SY12HX
   image: "/uploads/Yellow-2019-6add09.jpg"
 - link: "/membership"
@@ -12,6 +14,8 @@ banners:
 sm-banners:
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header-SM.jpg"
+- link: https://yellowco.co/retreats/bali/
+  image: "/uploads/Bali-Header-SM.jpg"
 - link: https://www.universe.com/events/yellow-conference-2019-tickets-los-angeles-SY12HX
   image: "/uploads/Yellow-2019-sm-0b1332.jpg"
 - link: "/membership"
