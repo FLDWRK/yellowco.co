@@ -18,7 +18,7 @@ speakers:
   company: CHARITY:WATER
   image: "/uploads/vik_portrait.jpg"
 - name: Mari Andrew Co-Founder of Celsious
-  title: Writer & Illustrator
+  title: Writer & Illustrator, Co-Founder of Celsious
   image: "/uploads/Mari_Andrew-3901.JPG"
 - name: Theresa Williams, Co-Founder of Celsious
   image: "/uploads/Screenshot%202018-10-22%2008.04.13.png"
