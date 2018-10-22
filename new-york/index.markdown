@@ -1,7 +1,7 @@
 ---
 title: Yellow Conference New York
 subtitle: OUR VERY FIRST EAST COAST EVENT
-event-date: MAY 10TH, 2019 • A 1-DAY EVENT
+event-date: 2019-05-10 01:00:00 -07:00
 short-description: A 1-day gathering for women who are working for the good of the
   world.
 long-description: A gathering for entrepreneurial-minded women who are using their
@@ -16,10 +16,10 @@ speakers:
 - name: Vik Harrison
   title: CO-FOUNDER
   company: CHARITY:WATER
-  image: "/assets/images/nyc/vik-harrison.jpg"
+  image: "/uploads/vik_portrait.jpg"
 - name: Mari Andrew
   title: Writer & Illustrator
-  image: "/assets/images/nyc/mari-andrew.jpg"
+  image: "/uploads/Mari_Andrew-3901.JPG"
 - name: More speakers and panelists to be announced!
   image: "/assets/images/nyc/more-to-come.png"
 venue:
