@@ -6,7 +6,7 @@ banners:
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header.jpg"
 - link: https://yellowco.co/retreats/bali/
-  image: "/uploads/BALI-HEADER.jpg"
+  image: "/uploads/BALI-HEADER-bed6f1.jpg"
 - link: https://www.universe.com/events/yellow-conference-2019-tickets-los-angeles-SY12HX
   image: "/uploads/Yellow-2019-6add09.jpg"
 - link: "/membership"
