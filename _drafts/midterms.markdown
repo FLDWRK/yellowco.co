@@ -31,6 +31,8 @@ Even if you missed the deadline to register for the 2018 election, head over to 
 #### Absentee Ballots
 
 If you want to [vote by mail](https://www.vote.org/absentee-ballot/), make sure you’re signed up. In the majority of states there’s still time (although not much) to request your absentee ballot. Most ballots need to be received by November 6, but double check the laws in your state because there’s some variance.
+
+![adam-birkett-550020-unsplash-1.jpg](/uploads/adam-birkett-550020-unsplash-1.jpg)
  
 #### Voting for Local Candidates
 
@@ -47,6 +49,8 @@ A time consuming, but incredibly rewarding tradition I began in the 2012 electio
 Don’t fear if you’re unable to be a part of a proposition party. Review your local newspaper’s endorsements, these reporters are well versed in the local politics and needs of your community. However, read these endorsements with a grain of salt. Certain newspapers are known to skew particularly left or particularly right. Most states have great local bi-partisan resources published by local community groups to simply break down the meaning behind the propositions. Google to find them!
  
 Propositions are put on the ballot by the groups who have a vested interest in seeing them pass. Sometimes what’s good for their industry isn’t good for the community at large. If a proposition seems overly confusing or you just generally feel a sense of doubt around it, it’s okay to just vote no.
+
+![alexa-mazzarello-196473-unsplash-1.jpg](/uploads/alexa-mazzarello-196473-unsplash-1.jpg)
  
 #### Activating Other Voters
 
