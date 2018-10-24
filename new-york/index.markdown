@@ -1,7 +1,7 @@
 ---
 title: Yellow Conference New York
 subtitle: OUR VERY FIRST EAST COAST EVENT
-event-date: 2019-05-10 01:00:00 -07:00
+event-details: MAY 10TH, 2019 • A 1-DAY EVENT
 short-description: A 1-day gathering for women who are working for the good of the
   world.
 long-description: A gathering for entrepreneurial-minded women who are using their
@@ -37,4 +37,3 @@ venue:
     weddings, corporate events, and photo shoots.
 layout: custom/new-york
 ---
-
