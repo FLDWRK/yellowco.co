@@ -16,13 +16,16 @@ The hardest part about being in Kenya is that I do not get to have all those cof
 
 Note: There are so many amazing social enterprises and we don’t pretend to have it all figured out but here are three things we set as a standard for ourselves and look for with “do good” brands.
 
-They know the artisans/maker
+##### They know the artisans/maker
+
 Not everyone who starts a “do good” company wants to move to the location full time, but we believe maintaining those relationships are key, and to know the true impact in their lives + community. If the company is very large they may not know every maker by name, but a key part of our culture, even as we expand, is staying connected to our artisans and knowing them on a deep level. We believe community among our team is integral for true empowerment + development.
 
-They practice ethics + fair wages
+##### They practice ethics + fair wages
+
 This is so important to know that artisans are making a fair wage in their economy + culture. There are many models for this that are beneficial in their own ways such as paying per piece, we have found in our context salaried employment + benefits is the most beneficial model. This has brought much stability to the artisans and their families and promotes commitment on both ends. 
 
-Transparency
+##### Transparency
+
 Any social enterprise or company claiming to do good should be open about business practices, where products are sourced and where artisans are located. This helps consumers know the actual impact of their purchase and allows them make more well informed purchases.
 
 As “do good” grows and becomes the norm, make sure to look for the authenticity of the brand. Ask the hard questions and set your standards for the ethical organizations you want to be involved with. My advice, is find the genuine storytellers and if you have a chance, go meet those beautiful artisans, give them a hug and empower them with a thank you. You will forever change their life. I promise you.
