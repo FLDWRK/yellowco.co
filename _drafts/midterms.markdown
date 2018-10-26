@@ -54,7 +54,7 @@ If you want to [vote by mail](https://www.vote.org/absentee-ballot/), make sure 
 
 Certainly, there’s a temptation to just vote down your ballot for candidates who are affiliated with your party. However, just because someone aligns with your party, doesn’t mean they’re ideal to do the job. Take time to review the qualifications of all the candidates on the ballot. It’s okay to vote for candidates from the opposing party if you think they’re the most qualified person for the job.
 
-Below are a few resources to learn more about your local candidates and propositions, and a few extra for the fellow Californians :).
+Below are a few resources to learn more about your local candidates, and a few extra for the fellow Californians :).
 
 ###### Candidate Research Resources
 
@@ -68,7 +68,7 @@ Below are a few resources to learn more about your local candidates and proposit
 
 **[California Choices](https://www.californiachoices.org/)**
 
-**[Official CA Voter Guide](http://voterguide.sos.ca.gov/)**
+**[Official CA Voter Guide](http://voterguide.sos.ca.gov/candidates/)**
 
 **[Voter's Edge](https://votersedge.org/ca)**
  
@@ -76,7 +76,7 @@ States like Washington, California, and Nebraska deploy a unique “Top-Two Prim
  
 #### Research Your Local Propositions
 
-Navigating local propositions can feel overwhelming. Unlike candidates, yes and no votes don’t clearly align themselves with a party; you can’t just say “oh because I’m of this political party, I’ll just vote this way.”
+Navigating local propositions can feel overwhelming. Unlike candidates, yes and no votes don’t clearly align themselves with a party; so you can’t just say, “Oh because I’m of this political party, I’ll just vote this way.”
  
 A time consuming, but incredibly rewarding tradition I began in the 2012 election was to host a “[proposition party](https://www.propositionparty.com/).” I invite enough people to my home to represent the quantity of propositions on the ballot. Everyone is assigned a proposition to research and then they explain to the rest of us what the issue is all about. Lively and uplifting conversation ensues and everyone in attendance feels much more confident heading into the polls.
 
@@ -96,7 +96,7 @@ A time consuming, but incredibly rewarding tradition I began in the 2012 electio
 
 **[Ballot FYI](https://www.ballot.fyi/)**
 
-**[Official CA Voter Guide](http://voterguide.sos.ca.gov/)**
+**[Official CA Voter Guide](http://voterguide.sos.ca.gov/propositions/)**
 
 **[Voter's Edge](https://votersedge.org/ca)**
  
