@@ -26,17 +26,17 @@ The electorate is currently engaged — heading to the polls to let their leader
  
 #### Find Your Polling Place
 
-Election Day is November 6. Do you know your assigned polling place? Take a look at [vote.org](https://www.vote.org/polling-place-locator/) to know your location in advance.
-
 ###### [Find your assigned polling place here!](https://www.vote.org/polling-place-locator/)
+
+Election Day is November 6. Do you know your assigned polling place? Take a look at [vote.org](https://www.vote.org/polling-place-locator/) to know your location in advance.
  
 As much as I wish that elections would not take place on a weekday (and [I’m not alone](https://www.youtube.com/watch?v=9WvoGlQ7zH8)… more people would vote on the weekend), the fact remains that our election tradition is to vote on the first Tuesday of the November. The good news is that the government works to ensure that employers will allow their employees to take time off to vote (often times fully paid for these hours). Explore your state’s specific policies [here](https://www.nolo.com/legal-encyclopedia/taking-time-off-voting-jury-29708.html).
  
 #### Make Sure You're Registered
 
-Perhaps you’ve never registered to vote before. Alternatively, you may have moved or changed your name and need to re-register. While the voter registration deadline has passed in many states, there’s still time to [register](https://www.vote.org/) in Colorado, Connecticut, New Hampshire, North Carolina, North Dakota, Utah, Vermont, and Washington.
-
 ###### [Check your registration status here!](https://www.vote.org/am-i-registered-to-vote/)
+
+Perhaps you’ve never registered to vote before. Alternatively, you may have moved or changed your name and need to re-register. While the voter registration deadline has passed in many states, there’s still time to [register](https://www.vote.org/) in Colorado, Connecticut, New Hampshire, North Carolina, North Dakota, Utah, Vermont, and Washington.
  
 Additionally, you can just show up at your assigned polling location and register on the day of the election in CA, CO, CT, DC, HI, IA, ID, IL, ME, MN, MT, ND, VT, WI, and WY.
  
@@ -44,9 +44,9 @@ Even if you missed the deadline to register for the 2018 election, head over to 
  
 #### Vote By Mail
 
-If you want to [vote by mail](https://www.vote.org/absentee-ballot/), make sure you’re signed up. In the majority of states there’s still time (although not much) to request your absentee ballot. Most ballots need to be received by November 6, but double check the laws in your state because there’s some variance.
-
 ###### [Sign up to vote by mail here!](https://www.vote.org/absentee-ballot/)
+
+If you want to [vote by mail](https://www.vote.org/absentee-ballot/), make sure you’re signed up. In the majority of states there’s still time (although not much) to request your absentee ballot. Most ballots need to be received by November 6, but double check the laws in your state because there’s some variance.
 
 ![adam-birkett-550020-unsplash-1.jpg](/uploads/adam-birkett-550020-unsplash-1.jpg)
  
