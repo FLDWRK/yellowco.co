@@ -1,5 +1,5 @@
 ---
-title: 'Midterm Election Guide: Resources for Everything You Need to Know'
+title: 'Midterm Elections Guide: Resources for Everything You Need to Know'
 date: 2018-10-29 04:00:00 -07:00
 categories:
 - Culture
