@@ -3,6 +3,18 @@ title: midterms
 date: 2018-10-29 04:00:00 -07:00
 categories:
 - Culture
+tags:
+- Midterms 2018
+- midterm elections
+- california elections
+- state election 2018
+- voter guide
+- proposition guide
+- voter resource
+- election endorsement
+- proposition party
+- candidate research
+- local candidate guide
 author: Talitha Baker
 image: "/uploads/victor-lozano-227612-unsplash-1.jpg"
 series: Weird
