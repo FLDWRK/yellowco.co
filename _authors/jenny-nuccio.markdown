@@ -1,6 +1,7 @@
 ---
 title: Jenny Nuccio
 date: 2018-10-26 15:42:00 -07:00
+bio_image: "/uploads/jenny.jpg"
 website: https://jennynuccio.com/about/
 ---
 
