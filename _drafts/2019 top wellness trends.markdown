@@ -3,6 +3,23 @@ title: The Top 2019 Wellness Trends Worth Trying (Or Tasting) Next Year
 date: 2018-11-02 04:00:00 -07:00
 categories:
 - Health
+tags:
+- wellness trends
+- 2019 wellness trends
+- adaptogens
+- cbd
+- cbd product
+- hemp products
+- no-waste
+- mushroom coffee
+- mushroom
+- plastic free
+- waste free
+- probiotics
+- fermented food
+- vegan options
+- dairy free
+- plant based
 author: Brianna Towne
 image: "/uploads/rezel-apacionado-362232-unsplash-1.jpg"
 series: Weird
