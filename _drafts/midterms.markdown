@@ -44,19 +44,21 @@ Certainly, there’s a temptation to just vote down your ballot for candidates w
 
 Below are a few resources to learn more about your local candidates and propositions, and a few extra for the fellow Californians :).
 
+###### Candidate Research Resources
+
 **All States:**
 
-###### [theSkimm Ballot Cheat Sheet](https://www.theskimm.com/noexcuses/myballot)
+**[theSkimm Ballot Cheat Sheet](https://www.theskimm.com/noexcuses/myballot)**
 
-###### [Ballotpedia](https://ballotpedia.org/Sample_Ballot_Lookup?utm_source=ballotpedia&utm_campaign=sample_ballot_frontpage)
+**[Ballotpedia](https://ballotpedia.org/Sample_Ballot_Lookup?utm_source=ballotpedia&utm_campaign=sample_ballot_frontpage)**
 
 **California:**
 
-###### [California Choices](https://www.californiachoices.org/)
+**[California Choices](https://www.californiachoices.org/)**
 
-###### [Official CA Voter Guide](http://voterguide.sos.ca.gov/)
+**[Official CA Voter Guide](http://voterguide.sos.ca.gov/)**
 
-###### [Voter's Edge](https://votersedge.org/ca)
+**[Voter's Edge](https://votersedge.org/ca)**
  
 States like Washington, California, and Nebraska deploy a unique “Top-Two Primary” approach. Most states chose the top Republican and top Democrat during the primaries to run against each other in the November election, but Top-Two instead pits whoever garners the most votes during the primary against each other. This can result in two candidates running against each other from the same party, and leave the voter in confusion. In cases like this, it’s even more important to review the candidates’ qualifications to make the best choice.
  
@@ -66,7 +68,23 @@ Navigating local propositions can feel overwhelming. Unlike candidates, yes and 
  
 A time consuming, but incredibly rewarding tradition I began in the 2012 election was to host a “[proposition party](https://www.propositionparty.com/).” I invite enough people to my home to represent the quantity of propositions on the ballot. Everyone is assigned a proposition to research and then they explain to the rest of us what the issue is all about. Lively and uplifting conversation ensues and everyone in attendance feels much more confident heading into the polls.
 
-###### [Proposition Party Research Resources](https://www.propositionparty.com/research/)
+###### Proposition Research Resources
+
+**All States:**
+
+**[theSkimm Ballot Cheat Sheet](https://www.theskimm.com/noexcuses/myballot)**
+
+**[Ballotpedia](https://ballotpedia.org/Sample_Ballot_Lookup?utm_source=ballotpedia&utm_campaign=sample_ballot_frontpage)**
+
+**California:**
+
+**[California Choices](https://www.californiachoices.org/)**
+
+**[Official CA Voter Guide](http://voterguide.sos.ca.gov/)**
+
+**[Voter's Edge](https://votersedge.org/ca)**
+
+**[Proposition Party Research Resources](https://www.propositionparty.com/research/)**
  
 Don’t fear if you’re unable to be a part of a proposition party. Review your local newspaper’s endorsements, these reporters are well versed in the local politics and needs of your community. However, read these endorsements with a grain of salt. Certain newspapers are known to skew particularly left or particularly right. Most states have great local bi-partisan resources published by local community groups to simply break down the meaning behind the propositions. Google to find them!
  
