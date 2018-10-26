@@ -27,7 +27,7 @@ The more I network with other do good brands, I realize my story of moving out o
 
 ![TR3_0602 (1).jpg](/uploads/TR3_0602%20(1).jpg)
 
-### Everyday, I get to build authentic relationships, be transparent with my artisans and customers, and build lasting friendships. 
+### Every day, I get to build authentic relationships, be transparent with my artisans and customers, and build lasting friendships. 
 
 It has been beautiful over the years to build a community that breaks all global boundaries and has created a culture that is contagious to be around. The hardest part about being in Kenya is that I do not get to have all those coffee dates I crave with each one of you, but I do have some practical advice to give when it comes to choosing "do good" brands that are trying to be more ethically conscious.
 
