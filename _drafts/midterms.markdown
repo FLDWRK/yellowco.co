@@ -10,41 +10,63 @@ series: Weird
 
 November 6th is Election Day – but you have most certainly heard this already. _Everyone_ is talking about the midterms this year. Often times, midterms are overlooked with far more attention given to presidential election years. However, forecasters predict that this year’s election will draw out the largest number of midterm voters [in over 50-years](https://www.npr.org/2018/10/18/658255884/voter-turnout-could-hit-50-year-record-for-midterm-elections).
  
-The electorate is currently engaged — heading to the polls to let their leaders know that they are paying attention to what’s happening in the government and want their voices heard.
+The electorate is currently engaged — heading to the polls to let their leaders know that they are paying attention to what’s happening in the government and want their voices heard. As you are personally preparing to cast your midterm ballot, here’s a rundown of things to consider so that you can vote with confidence:
  
-As you are personally preparing to cast your midterm ballot, here’s a rundown of things to consider so that you can vote with confidence:
- 
-#### Election Day
+#### Find Your Polling Place
 
 Election Day is November 6. Do you know your assigned polling place? Take a look at [vote.org](https://www.vote.org/polling-place-locator/) to know your location in advance.
+
+###### [Find your assigned polling place here!](https://www.vote.org/polling-place-locator/)
  
 As much as I wish that elections would not take place on a weekday (and [I’m not alone](https://www.youtube.com/watch?v=9WvoGlQ7zH8)… more people would vote on the weekend), the fact remains that our election tradition is to vote on the first Tuesday of the November. The good news is that the government works to ensure that employers will allow their employees to take time off to vote (often times fully paid for these hours). Explore your state’s specific policies [here](https://www.nolo.com/legal-encyclopedia/taking-time-off-voting-jury-29708.html).
  
-#### Are You Registered?
+#### Make Sure You're Registered
 
 Perhaps you’ve never registered to vote before. Alternatively, you may have moved or changed your name and need to re-register. While the voter registration deadline has passed in many states, there’s still time to [register](https://www.vote.org/) in Colorado, Connecticut, New Hampshire, North Carolina, North Dakota, Utah, Vermont, and Washington.
+
+###### [Check your registration status here!](https://www.vote.org/am-i-registered-to-vote/)
  
 Additionally, you can just show up at your assigned polling location and register on the day of the election in CA, CO, CT, DC, HI, IA, ID, IL, ME, MN, MT, ND, VT, WI, and WY.
  
 Even if you missed the deadline to register for the 2018 election, head over to [vote.org](https://www.vote.org/register-to-vote/) and sign up now to vote in the next election. 2020 isn’t far away!
  
-#### Absentee Ballots
+#### Vote By Mail
 
 If you want to [vote by mail](https://www.vote.org/absentee-ballot/), make sure you’re signed up. In the majority of states there’s still time (although not much) to request your absentee ballot. Most ballots need to be received by November 6, but double check the laws in your state because there’s some variance.
 
+###### [Sign up to vote by mail here!](https://www.vote.org/absentee-ballot/)
+
 ![adam-birkett-550020-unsplash-1.jpg](/uploads/adam-birkett-550020-unsplash-1.jpg)
  
-#### Voting for Local Candidates
+#### Research Your Local Candidates
 
 Certainly, there’s a temptation to just vote down your ballot for candidates who are affiliated with your party. However, just because someone aligns with your party, doesn’t mean they’re ideal to do the job. Take time to review the qualifications of all the candidates on the ballot. It’s okay to vote for candidates from the opposing party if you think they’re the most qualified person for the job.
+
+Below are a few resources to learn more about your local candidates and propositions, and a few extra for the fellow Californians :).
+
+**All States:**
+
+###### [theSkimm Ballot Cheat Sheet](https://www.theskimm.com/noexcuses/myballot)
+
+###### [Ballotpedia](https://ballotpedia.org/Sample_Ballot_Lookup?utm_source=ballotpedia&utm_campaign=sample_ballot_frontpage)
+
+**California:**
+
+###### [California Choices](https://www.californiachoices.org/)
+
+###### [Official CA Voter Guide](http://voterguide.sos.ca.gov/)
+
+###### [Voter's Edge](https://votersedge.org/ca)
  
-States like Washington, California and Nebraska deploy a unique “Top-Two Primary” approach. Most states chose the top Republican and top Democrat during the primaries to run against each other in the November election, but Top-Two instead pits whoever garners the most votes during the primary against each other. This can result in two candidates running against each other from the same party and in confusion for the voter. In cases like this, it’s even more important to review the candidates’ qualifications to make the best choice.
+States like Washington, California, and Nebraska deploy a unique “Top-Two Primary” approach. Most states chose the top Republican and top Democrat during the primaries to run against each other in the November election, but Top-Two instead pits whoever garners the most votes during the primary against each other. This can result in two candidates running against each other from the same party, and leave the voter in confusion. In cases like this, it’s even more important to review the candidates’ qualifications to make the best choice.
  
-#### Voting for Local Propositions
+#### Research Your Local Propositions
 
 Navigating local propositions can feel overwhelming. Unlike candidates, yes and no votes don’t clearly align themselves with a party; you can’t just say “oh because I’m of this political party, I’ll just vote this way.”
  
 A time consuming, but incredibly rewarding tradition I began in the 2012 election was to host a “[proposition party](https://www.propositionparty.com/).” I invite enough people to my home to represent the quantity of propositions on the ballot. Everyone is assigned a proposition to research and then they explain to the rest of us what the issue is all about. Lively and uplifting conversation ensues and everyone in attendance feels much more confident heading into the polls.
+
+###### [Proposition Party Research Resources](https://www.propositionparty.com/research/)
  
 Don’t fear if you’re unable to be a part of a proposition party. Review your local newspaper’s endorsements, these reporters are well versed in the local politics and needs of your community. However, read these endorsements with a grain of salt. Certain newspapers are known to skew particularly left or particularly right. Most states have great local bi-partisan resources published by local community groups to simply break down the meaning behind the propositions. Google to find them!
  
