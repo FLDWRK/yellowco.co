@@ -78,13 +78,15 @@ A time consuming, but incredibly rewarding tradition I began in the 2012 electio
 
 **California:**
 
+**[Proposition Party Research Resources](https://www.propositionparty.com/research/)**
+
 **[California Choices](https://www.californiachoices.org/)**
+
+**[Ballot FYI](https://www.ballot.fyi/)**
 
 **[Official CA Voter Guide](http://voterguide.sos.ca.gov/)**
 
 **[Voter's Edge](https://votersedge.org/ca)**
-
-**[Proposition Party Research Resources](https://www.propositionparty.com/research/)**
  
 Don’t fear if you’re unable to be a part of a proposition party. Review your local newspaper’s endorsements, these reporters are well versed in the local politics and needs of your community. However, read these endorsements with a grain of salt. Certain newspapers are known to skew particularly left or particularly right. Most states have great local bi-partisan resources published by local community groups to simply break down the meaning behind the propositions. Google to find them!
  
