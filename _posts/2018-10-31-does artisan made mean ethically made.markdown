@@ -25,7 +25,7 @@ I never fully committed to living in Kenya, and kept traveling back to the state
 
 The more I network with other do good brands, I realize my story of moving out of the country full time is more rare than I would have thought. There are definitely benefits to both, but I have found that being so closely involved with the artisans I work with has allowed me to see impact and ultimate life changes right before my eyes. 
 
-[TR3_0647b (1).JPG](/uploads/TR3_0647b%20(1).JPG)
+![copy-0b7bd4.jpeg](/uploads/copy-0b7bd4.jpeg)
 
 ### Everyday, I get to build authentic relationships, be transparent with my artisans and customers, and build lasting friendships. 
 
@@ -47,7 +47,7 @@ It is so important to know that artisans are making a fair wage in their economy
 
 ### This has brought much stability to the artisans and their families, and promotes commitment on both ends. 
 
-[1167B908-9F0F-40C3-968D-29928EE419E7.JPG](/uploads/1167B908-9F0F-40C3-968D-29928EE419E7.JPG)
+![pillow.jpeg](/uploads/pillow.jpeg)
 
 ##### Transparency
 
