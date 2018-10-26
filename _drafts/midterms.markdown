@@ -89,6 +89,10 @@ A time consuming, but incredibly rewarding tradition I began in the 2012 electio
 **[Voter's Edge](https://votersedge.org/ca)**
  
 Don’t fear if you’re unable to be a part of a proposition party. Review your local newspaper’s endorsements, these reporters are well versed in the local politics and needs of your community. However, read these endorsements with a grain of salt. Certain newspapers are known to skew particularly left or particularly right. Most states have great local bi-partisan resources published by local community groups to simply break down the meaning behind the propositions. Google to find them!
+
+For any Angelenos interested, here are the [Los Angeles Times](http://www.latimes.com/opinion/endorsements/la-ed-endorsement-wrapup-20181019-story.html) official endorsements:
+
+**[Los Angeles Times Endorsements](http://www.latimes.com/opinion/endorsements/la-ed-endorsement-wrapup-20181019-story.html)**
  
 Propositions are put on the ballot by the groups who have a vested interest in seeing them pass. Sometimes what’s good for their industry isn’t good for the community at large. If a proposition seems overly confusing or you just generally feel a sense of doubt around it, it’s okay to just vote no.
 
