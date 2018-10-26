@@ -58,13 +58,13 @@ Below are a few resources to learn more about your local candidates and proposit
 
 ###### Candidate Research Resources
 
-**All States:**
+**ALL STATES:**
 
 **[theSkimm Ballot Cheat Sheet](https://www.theskimm.com/noexcuses/myballot)**
 
 **[Ballotpedia](https://ballotpedia.org/Sample_Ballot_Lookup?utm_source=ballotpedia&utm_campaign=sample_ballot_frontpage)**
 
-**California:**
+**CALIFORNIA:**
 
 **[California Choices](https://www.californiachoices.org/)**
 
@@ -82,13 +82,13 @@ A time consuming, but incredibly rewarding tradition I began in the 2012 electio
 
 ###### Proposition Research Resources
 
-**All States:**
+**ALL STATES:**
 
 **[theSkimm Ballot Cheat Sheet](https://www.theskimm.com/noexcuses/myballot)**
 
 **[Ballotpedia](https://ballotpedia.org/Sample_Ballot_Lookup?utm_source=ballotpedia&utm_campaign=sample_ballot_frontpage)**
 
-**California:**
+**CALIFORNIA:**
 
 **[Proposition Party Research Resources](https://www.propositionparty.com/research/)**
 
