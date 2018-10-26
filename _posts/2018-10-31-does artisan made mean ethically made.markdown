@@ -25,7 +25,7 @@ I never fully committed to living in Kenya, and kept traveling back to the state
 
 The more I network with other do good brands, I realize my story of moving out of the country full time is more rare than I would have thought. There are definitely benefits to both, but I have found that being so closely involved with the artisans I work with has allowed me to see impact and ultimate life changes right before my eyes. 
 
-![copy-0b7bd4.jpeg](/uploads/copy-0b7bd4.jpeg)
+![TR3_0602 (1).jpg](/uploads/TR3_0602%20(1).jpg)
 
 ### Everyday, I get to build authentic relationships, be transparent with my artisans and customers, and build lasting friendships. 
 
@@ -39,7 +39,7 @@ Note: There are so many amazing social enterprises and we don’t pretend to hav
 
 Not everyone who starts a “do good” company wants to move to the location of production full time, but we believe maintaining those relationships are key for the business and for knowing the true impact in their lives and community. If the company is very large, they may not know every maker by name, but a key part of our culture, even as we expand, is staying connected to our artisans and knowing them on a deep level. We believe community among our team is integral for true empowerment and development.
 
-![TR3_0602 (1).jpg](/uploads/TR3_0602%20(1).jpg)
+![copy-0b7bd4.jpeg](/uploads/copy-0b7bd4.jpeg)
 
 ##### They practice ethics + provide fair wages
 
