@@ -1,5 +1,5 @@
 ---
-title: wellness trends
+title: The Top 2019 Wellness Trends Worth Trying (Or Tasting) Next Year
 date: 2018-11-02 04:00:00 -07:00
 categories:
 - Health
