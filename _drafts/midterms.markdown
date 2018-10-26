@@ -110,12 +110,12 @@ Propositions are put on the ballot by the groups who have a vested interest in s
 
 ![alexa-mazzarello-196473-unsplash-1.jpg](/uploads/alexa-mazzarello-196473-unsplash-1.jpg)
  
-#### Activating Other Voters
+#### Activate Other Voters
 
 You’re likely very passionate about the issues up for debate at the polls. It’s amazing to live in a country where (most) everyone is given the same opportunity to weigh in on our governmental process. However, it’s worth noting that certain demographics are more likely to show up and actually vote than other demographics. So, if a group opts out of voting, then political leaders won’t be incentivized to act in their best interests. Engaging in this election is about more than just casting your own vote. Can you empower others around you to do the same?
  
 Take a look at HeadCount’s [The Future is Voting Toolkit](https://thefutureisvoting.org/) for super sharable (and cute) social media assets to encourage your friends and followers to vote.
  
-Additionally, it’s worth noting that there are people living in America who cannot represent themselves at the polls: non-citizens, felons and people under 18. However, they live within this country and the decisions made here impact them. Consider talking to people in your life who may want to vote but cannot. (Extra credit…. Consider making new friends if you don’t yet know people from these voting-ineligible groups). You may be able to help give a voice to the issues that impact them as well when you enter the polls.
+Additionally, it’s worth noting that there are people living in America who cannot represent themselves at the polls: non-citizens, felons and people under 18. However, they live within this country and the decisions made here impact them. Consider talking to people in your life who may want to vote but cannot. (Extra credit… consider making new friends if you don’t yet know people from these voting-ineligible groups). You may be able to help give a voice to the issues that impact them as well when you enter the polls.
 
 Happy voting!
