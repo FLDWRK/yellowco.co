@@ -2,6 +2,7 @@
 title: conflict
 date: 2018-11-05 04:00:00 -08:00
 author: Hanna Snyder
+image: "/uploads/CONFLICT-YellowCo0619.jpg"
 ---
 
 I thought we were done here
