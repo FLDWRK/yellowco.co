@@ -6,47 +6,35 @@ author: Hanna Snyder
 
 I thought we were done here
 
-The conversation – untangled
+The conversation – untangled  
 The conflict – compromised
 
 But the knot in me disagrees
 
-An inconvenient, perhaps irrational
+An inconvenient, perhaps irrational  
 Saboteur to polite smiles
 
-I’ve tried to swallow it down
+I’ve tried to swallow it down  
 Ignore it simmering inside
 
-But my body refuses to be a home to discord -
+But my body refuses to be a home to discord -  
 Disassembled as I attempt to be
 
-So we pull our strings again
+So we pull our strings again  
 Clench every tendon lining our jaw
 
-Bend our fingers white
+Bend our fingers white  
 ‘Till it all seems too likely to snap
 
 And with surprise –
 
-Everything unfurls.
+Everything unfurls.  
 We’re woven back only to embrace
 
 We seem to forget we’re elastic
 
-Stretched twisted and released –
+Stretched twisted and released –  
 Bent, but never enough to break
-
-
-
-
-
-
-
-
-
-
-
-
 
 When I was young, my sister and I played a mess of a game at our Grandparents’ house. We would take my Gram’s spools of yarn and create a giant spider web throughout the house, tying yarn from doorknob to dresser handle, coffee table leg to lamp stand. At the time for us, so small and nimble, it was quite easy to navigate through with a lot of fun – diving through triangles and limboing under low threads. But now, so much taller, I imagine trying to weave through it and it sounds all too familiar. It sounds like life.
 
@@ -56,3 +44,4 @@ This month, our goal is to pull back the curtain on conflict. To see it for what
 
 Rather, when we approach any of these conflicts with the intent to not just make our point the loudest, but to find where the tangling started, share our perspective, and listen with empathy, there is much more to gain than unraveled yarn. From what I’ve encountered in healthy conflict – it means more honesty. More resilience. More unconditionality. More of the understanding we’re all really searching for.
 
+_Photos by [Nicol Biesek](https://nicolbiesek.com/) for Yellow Co._
