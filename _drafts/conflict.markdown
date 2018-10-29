@@ -24,6 +24,8 @@ Ignore it simmering inside
 But my body refuses to be a home to discord -  
 Disassembled as I attempt to be
 
+![CONFLICT-YellowCo0689.jpg](/uploads/CONFLICT-YellowCo0689.jpg)
+
 So we pull our strings again  
 Clench every tendon lining our jaw
 
@@ -39,6 +41,8 @@ We seem to forget we’re elastic
 
 Stretched twisted and released –  
 Bent, but never enough to break
+
+![CONFLICT-YellowCo0648.jpg](/uploads/CONFLICT-YellowCo0648.jpg)
 
 When I was young, my sister and I played a mess of a game at our Grandparents’ house. We would take my Gram’s spools of yarn and create a giant spider web throughout the house, tying yarn from doorknob to dresser handle, coffee table leg to lamp stand. At the time for us, so small and nimble, it was quite easy to navigate through with a lot of fun – diving through triangles and limboing under low threads. But now, so much taller, I imagine trying to weave through it and it sounds all too familiar. It sounds like life.
 
