@@ -1,8 +1,11 @@
 ---
 title: conflict
 date: 2018-11-05 04:00:00 -08:00
+categories:
+- Growth
 author: Hanna Snyder
 image: "/uploads/CONFLICT-YellowCo0619.jpg"
+series: Conflict
 ---
 
 I thought we were done here
