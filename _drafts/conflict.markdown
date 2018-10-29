@@ -52,6 +52,8 @@ This month, our goal is to pull back the curtain on conflict. To see it for what
 
 ### Because when our only goal is to pull as hard as we can at our end of the string, clinging to win the tug-of-war for pride, will it really bring us anywhere other than a giant web of yarn?
 
+![CONFLICT-YellowCo0659.jpg](/uploads/CONFLICT-YellowCo0659.jpg)
+
 Rather, when we approach any of these conflicts with the intent to not just make our point the loudest, but to find where the tangling started, share our perspective, and listen with empathy, there is much more to gain than unraveled yarn. From what I’ve encountered in healthy conflict – it means more honesty. More resilience. More unconditionality. More of the understanding we’re all really searching for.
 
 _Photos by [Nicol Biesek](https://nicolbiesek.com/) for Yellow Co._
