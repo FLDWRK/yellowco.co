@@ -1,8 +1,18 @@
 ---
-title: conflict
+title: Why Avoiding Conflict Actually Prevents Peace
 date: 2018-11-05 04:00:00 -08:00
 categories:
 - Growth
+tags:
+- personal growth
+- personal development
+- growth
+- conflict
+- avoid conflict
+- healthy conflict
+- relationships
+- conversation
+- communication
 author: Hanna Snyder
 image: "/uploads/CONFLICT-YellowCo0619.jpg"
 series: Conflict
