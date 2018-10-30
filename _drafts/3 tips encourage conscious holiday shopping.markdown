@@ -1,6 +1,5 @@
 ---
-title: 3 Tips on How to Encourage Conscious Shopping with Your Holiday Gifts This
-  Season
+title: 3 Tips on How to Encourage Conscious Shopping with Your Holiday Gifts
 date: 2018-11-09 04:00:00 -08:00
 categories:
 - Conscious Living
