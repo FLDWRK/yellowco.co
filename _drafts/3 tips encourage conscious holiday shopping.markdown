@@ -3,6 +3,17 @@ title: 3 Tips on How to Encourage Conscious Shopping with Your Holiday Gifts
 date: 2018-11-09 04:00:00 -08:00
 categories:
 - Conscious Living
+tags:
+- conscious clothing
+- conscious fashion
+- conscious consumer
+- conscious living
+- ethical gifts
+- conscious holiday gift
+- conscious gift
+- holiday gift
+- holiday shopping
+- conscious holiday shopping
 author: Nicole Ziza Bauer
 image: "/uploads/nynne-schroder-689495-unsplash-1.jpg"
 series: Conflict
