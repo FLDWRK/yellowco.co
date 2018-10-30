@@ -7,7 +7,7 @@ author: Hanna Snyder
 series: Conflict
 ---
 
-Miki Agrawal, Co-Founder of THINX, TUSHY and WILD & author of Do Cool Shit and soon Disrupt-Her: A Manifesto For the Modern Woman 
+[Miki Agrawal](https://www.mikiagrawal.com/), Co-Founder of [THINX](https://www.shethinx.com/), [TUSHY](https://hellotushy.com/?utm_expid=.qUBTCqfDQ06WDHKSiEv3lA.0&utm_referrer=) and [WILD](http://www.eatdrinkwild.com/) & author of [Do Cool Shit](https://www.amazon.com/Do-Cool-Sh-Business-Happily/dp/0062366858/ref=sr_1_1?ie=UTF8&qid=1540848166&sr=8-1&keywords=do+cool+shit+book) and soon [Disrupt-Her: A Manifesto For the Modern Woman](https://www.amazon.com/Disrupt-Her-Manifesto-Modern-Miki-Agrawal/dp/1401955568/ref=sr_1_fkmr0_1?ie=UTF8&qid=1540848181&sr=8-1-fkmr0&keywords=disrupt-her+book) 
 
 ###### The standout common thread in all of your businesses is their disruptive innovation. How did your background leading up to becoming an entrepreneur influence you to take this taboo-shattering, problem-solving approach to business?
 
