@@ -7,7 +7,7 @@ nav:
     highlight: blog
 pagination:
   enabled: true
-series: Conflict
+series: Weird
 layout: custom/blog
 ---
 
