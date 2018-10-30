@@ -1,12 +1,12 @@
 ---
-title: conscious
+title: Tips on how to share information about buying conscious for holiday gifts without
+  coming off judgmental
 date: 2018-11-09 04:00:00 -08:00
 categories:
 - Conscious Living
+author: Nicole Ziza Bauer
 series: Conflict
 ---
-
-Tips on how to share information about buying conscious for holiday gifts without coming off judgmental
 
 To give a gift is a lovely thing; it can also err on stressful. 
 
@@ -14,7 +14,7 @@ How many times have you purchased a gift on the same day as that shower, birthda
 
 (You can’t tell, but I am raising both hands and primarily talking to myself over here.)
 
-The pull of what’s now and seemingly urgent -- of which many causes are rightfully labeled -- can easily eclipse our ability to be intentional in other areas of life, especially when it comes to those to-do list activities such as, “Buy gift.” Talking about myself, I can quickly get fired up about an issue and devote large amounts of time to it, subconsciously expecting everyone else to feel the same way. This has a way of backfiring as Ms. Know It All, especially when said devotion actually results in me overlooking tangible ways to support the community I’m already part of (IE: that baby shower gift I keep forgetting I need to buy).
+The pull of what’s now and seemingly urgent – of which many causes are rightfully labeled – can easily eclipse our ability to be intentional in other areas of life, especially when it comes to those to-do list activities such as, “Buy gift.” Talking about myself, I can quickly get fired up about an issue and devote large amounts of time to it, subconsciously expecting everyone else to feel the same way. This has a way of backfiring as Ms. Know It All, especially when said devotion actually results in me overlooking tangible ways to support the community I’m already part of (IE: that baby shower gift I keep forgetting I need to buy).
 
 Which is why the holidays offer people like me such a great opportunity through conscious shopping. With a little forethought, we get to champion larger world issues on a real world scale through the relationships we already have. Buying gifts doesn’t have to feel like a harried, last-minute dash, nor does it have to come off as a judgmental strong arm, trying to get others to immediately jump on board with a cause.
 
@@ -31,14 +31,14 @@ Consider where you shop.
 
 Maybe you’ve already decided to give consciously this season; that’s great! What’s not-so-great is the fact that there are many companies waiting to take advantage of this desire to do good. It’s inevitable that as consumer habits shift to the more sustainable and intentional, we’ll start to see more big-name brands adopting tactics to keep their sales up. 
 
-This isn’t to say it isn’t encouraging to watch change happen within an industry, but it is all the more reason to make sure we’re informed consumers instead of pawns in a greenwashed marketing campaign. An easy place to start is the actual place of getting your gifts. Skip the giant department store in favor of a local farmer’s market or artisan fair (setting up a Google alert for your city can be an easy way to find one). Even if the gift you’d like to buy -- a bottle of wine, a good facial scrub, a journal -- could be found at a big box retailer, you can duly support your local economy and find a great gift by purchasing one through an independent seller, often for just a few extra dollars.
+This isn’t to say it isn’t encouraging to watch change happen within an industry, but it is all the more reason to make sure we’re informed consumers instead of pawns in a greenwashed marketing campaign. An easy place to start is the actual place of getting your gifts. Skip the giant department store in favor of a local farmer’s market or artisan fair (setting up a Google alert for your city can be an easy way to find one). Even if the gift you’d like to buy – a bottle of wine, a good facial scrub, a journal – could be found at a big box retailer, you can duly support your local economy and find a great gift by purchasing one through an independent seller, often for just a few extra dollars.
 
 A conscious gift can serve every part of the supply chain.
 Consider what a gift truly is.
 
 I seemingly forget this most often, usually due to the aforementioned rush to get a gift, any gift. But what I’ve realized about true “conscious” shopping is that it’s ultimately about connection. We don’t exist in vacuums, and our actions will always have an effect. The best gifts I’ve ever received were the ones where I felt immediately seen and known by the giver, as if they took note of something random I had mentioned or thought ahead a few steps as to why I, personally, might appreciate something.
 
-This is at the heart of conscious gifting, saying: “Hi, you’re uniquely cared for and valued.” While sometimes this can translate through a physical product -- like a handmade Italian tote for your friend who studied abroad there, or a pair of ocean-friendly sneakers for your sister who loves the outdoors -- sometimes it’s as simple as a few extra lines in a card that specifically call out an encouragement. Maybe it’s a few free hours to babysit for that mom who just wants to run errands alone.
+This is at the heart of conscious gifting, saying: “Hi, you’re uniquely cared for and valued.” While sometimes this can translate through a physical product – like a handmade Italian tote for your friend who studied abroad there, or a pair of ocean-friendly sneakers for your sister who loves the outdoors – sometimes it’s as simple as a few extra lines in a card that specifically call out an encouragement. Maybe it’s a few free hours to babysit for that mom who just wants to run errands alone.
 
 A conscious gift embodies intention.
 
