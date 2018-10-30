@@ -48,11 +48,11 @@ When I was young, my sister and I played a mess of a game at our Grandparents’
 
 Every day, conflict arises. We move forward through the morning only to cross injustice on our left, weave through an internal struggle on our right, and run into disappointment and hurt smack in the middle of our path. Try to bend under its strings momentarily as we may, whether in an effort to keep the peace or avoid the lack thereof, conflict calls for our attention. It calls for untangling.
 
+![CONFLICT-YellowCo0659.jpg](/uploads/CONFLICT-YellowCo0659.jpg)
+
 This month, our goal is to pull back the curtain on conflict. To see it for what it truly is – something to navigate through – rather than avoid out of fear. Whether it be miscommunicated expectations between friends or partners, a long-buried conversation to be addressed with family, or the global issues affecting lives daily, the process of weeding through it is essential for growth. Most of which comes through how we enter into these hard conversations. 
 
 ### Because when our only goal is to pull as hard as we can at our end of the string, clinging to win the tug-of-war for pride, will it really bring us anywhere other than a giant web of yarn?
-
-![CONFLICT-YellowCo0659.jpg](/uploads/CONFLICT-YellowCo0659.jpg)
 
 Rather, when we approach any of these conflicts with the intent to not just make our point the loudest, but to find where the tangling started, share our perspective, and listen with empathy, there is much more to gain than unraveled yarn. From what I’ve encountered in healthy conflict – it means more honesty. More resilience. More unconditionality. More of the understanding we’re all really searching for.
 
