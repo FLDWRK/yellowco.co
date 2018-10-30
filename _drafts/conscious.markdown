@@ -5,6 +5,7 @@ date: 2018-11-09 04:00:00 -08:00
 categories:
 - Conscious Living
 author: Nicole Ziza Bauer
+image: "/uploads/nynne-schroder-689495-unsplash.jpg"
 series: Conflict
 ---
 
