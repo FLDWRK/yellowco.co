@@ -21,6 +21,8 @@ Which is why the holidays offer people like me such a great opportunity through 
 
 Buying gifts doesn’t have to feel like a harried, last-minute dash, nor does it have to come off as a judgmental strong arm, trying to get others to immediately jump on board with a cause. As you begin, or even just begin to think about, holiday shopping, here are a few suggestions for ensuring the gifts you give can both love and serve in all the right ways:
 
+![modern-essentials-792824-unsplash-1.jpg](/uploads/modern-essentials-792824-unsplash-1.jpg)
+
 #### Consider what is actually useful.
 
 “Will this get used?” is the ultimate conscious shopping question. Few people enjoy clutter, yet no time is it more prevalent than around the holidays, when candy cane-striped this and Santa hat-wearing that pop up to pepper every shelf in the name of, “I got you something.” 
@@ -37,6 +39,8 @@ This isn’t to say it isn’t encouraging to watch change happen within an indu
 
 _A conscious gift can serve every part of the supply chain._
 
+![sylvie-tittel-743127-unsplash-1.jpg](/uploads/sylvie-tittel-743127-unsplash-1.jpg)
+
 #### Consider what a gift truly is.
 
 I seemingly forget this most often, usually due to the aforementioned rush to get a gift, any gift. But what I’ve realized about true “conscious” shopping is that it’s ultimately about connection. We don’t exist in vacuums, and our actions will always have an effect. The best gifts I’ve ever received were the ones where I felt immediately seen and known by the giver, as if they took note of something random I had mentioned, or thought ahead a few steps as to why I, personally, might appreciate something.
@@ -46,4 +50,3 @@ This is at the heart of conscious gifting, saying: “Hi, you’re uniquely care
 _A conscious gift embodies intention._
 
 This, ultimately, is why ethical shopping matters. Because there is some element within in it that goes the extra mile, beyond the bottom line to bridge us with the bigger picture. When deciding what gifts to give this season, let this core of connectivity be your motivator. If it is, then whatever you buy is sure to be well-received.
-
