@@ -1,5 +1,6 @@
 ---
-title: miki interview
+title: 'The Serial Entrepreneur Disrupting Taboos Left and Right: Our Interview with
+  Thinx Co-Founder Miki Agrawal'
 date: 2018-11-07 04:00:00 -08:00
 categories:
 - Entrepreneurs
