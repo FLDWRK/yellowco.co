@@ -23,7 +23,7 @@ My dad is from India and my mom is from Japan and they raised us in Montreal Can
 
 ###### You quote, “Iteration is perfection,” as your favorite saying. What does this mean to you?
 
-So often, and as women especially, we have been told that we have to look perfect and be perfect, or else society will laugh at us and make us feel bad about ourselves. This often prevents so many women from putting themselves out there and launching businesses or taking on big projects. I want to disrupt that notion and show that it’s not about “being perfect”, but it’s the “iterative process that’s perfect”. What I mean by that is that we need to start somewhere and put something out (a minimum viable product), even if not perfect, and then listen to feedback, continue to make adjustments, and keep improving the product, service, or idea. That is iteration: the process of listening to feedback and making constant small adjustments. The opposite of iteration is stagnation. And I also say “stagnation is death”. The minute you stop making improvements, however big or small, is the minute you die. 88% of Fortune 500 companies from 1955 and now GONE because they did not iterate fast enough. 
+So often, and as women especially, we have been told that we have to look perfect and be perfect, or else society will laugh at us and make us feel bad about ourselves. This often prevents so many women from putting themselves out there and launching businesses or taking on big projects. I want to disrupt that notion and show that it’s not about “being perfect”, but it’s the “iterative process that’s perfect”. What I mean by that is that we need to start somewhere and put something out (a minimum viable product), even if not perfect, and then listen to feedback, continue to make adjustments, and keep improving the product, service, or idea. That is iteration: the process of listening to feedback and making constant small adjustments. The opposite of iteration is stagnation. And I also say, “Stagnation is death.” The minute you stop making improvements, however big or small, is the minute you die. 88% of Fortune 500 companies from 1955 and now GONE because they did not iterate fast enough. 
 
 ###### In doing this kind of culture shifting work, many more roadblocks must surface along the way. For instance, [the resistance THINX faced in having your ads displayed in the New York City subway.](https://www.bustle.com/articles/122564-thinx-underwear-ads-on-nyc-subway-are-up-but-the-company-has-another-big-announcement) How do you tackle opposition like this in a way that moves us forward progressively?
 
@@ -50,7 +50,7 @@ tushy IMAGE
 
 ###### You are very intentional about implementing give-back models into your businesses, but have gone beyond this to find even more impactful, sustainable solutions to address needs that people are facing globally. Can you share about what this process has looked like in your companies?
 
-I think the future of entrepreneurship is social entrepreneurship, where businesses will HAVE to incorporate a give-back mission. My restaurant [WILD](http://www.eatdrinkwild.com/) supports local farms. At [THINX](https://www.shethinx.com/), we created the Buy 1 Fund 1 model, where for every pair of underwear sold, we funded a local company in Uganda that made washable cloth pads and helped them grow their business to sell more affordable pads to local girls. Now at [TUSHY](https://hellotushy.com/), for every TUSHY bidet sold, we fund the buildout of clean toilets to help fight the global sanitation crisis. 
+I think the future of entrepreneurship is social entrepreneurship, where businesses will HAVE to incorporate a give-back mission. My restaurant [WILD](http://www.eatdrinkwild.com/) supports local farms. At [THINX](https://www.shethinx.com/), we created the Buy 1 Fund 1 model, where for every pair of underwear sold, we funded a local company in Uganda that makes washable cloth pads and helped them grow their business to sell more affordable pads to local girls. At [TUSHY](https://hellotushy.com/), for every TUSHY bidet sold, we fund the buildout of clean toilets to help fight the global sanitation crisis. 
 
 ###### What has been your proudest moment between founding THINX, ICON, TUSHY, and WILD? 
 
@@ -64,7 +64,7 @@ brand IMAGE
 
 ###### What are the next dreams you want to take on? Do you plan to continue launching new social enterprises?
 
-Yes, I have several in the pipeline. I will launch them when TUSHY gets to $10 Million, which we are planning on hitting in 2019. 
+Yes, I have several in the pipeline. I will launch them when TUSHY gets to $10 million, which we are planning on hitting in 2019. 
 
 ###### What one piece of advice would you give to women wanting to use their work to make an impact for good on the world? 
 
