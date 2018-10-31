@@ -16,7 +16,11 @@ My dad is from India and my mom is from Japan and they raised us in Montreal Can
 
 ### My parents also taught us to question everything in our lives. 
 
-IMAGE
+![2018Mar20_DSC05090_ScreenRes (1).jpg](/uploads/2018Mar20_DSC05090_ScreenRes%20(1).jpg)
+
+###### You quote, “Iteration is perfection,” as your favorite saying. What does this mean to you?
+
+So often, and as women especially, we have been told that we have to look perfect and be perfect, or else society will laugh at us and make us feel bad about ourselves. This often prevents so many women from putting themselves out there and launching businesses or taking on big projects. I want to disrupt that notion and show that it’s not about “being perfect”, but it’s the “iterative process that’s perfect”. What I mean by that is that we need to start somewhere and put something out (a minimum viable product), even if not perfect, and then listen to feedback, continue to make adjustments, and keep improving the product, service, or idea. That is iteration: the process of listening to feedback and making constant small adjustments. The opposite of iteration is stagnation. And I also say “stagnation is death”. The minute you stop making improvements, however big or small, is the minute you die. 88% of Fortune 500 companies from 1955 and now GONE because they did not iterate fast enough. 
 
 ###### In doing this kind of culture shifting work, many more roadblocks must surface along the way. For instance, [the resistance THINX faced in having your ads displayed in the New York City subway.](https://www.bustle.com/articles/122564-thinx-underwear-ads-on-nyc-subway-are-up-but-the-company-has-another-big-announcement) How do you tackle opposition like this in a way that moves us forward progressively?
 
@@ -26,11 +30,7 @@ I think we need to be creative when trying to manage opposition or current socie
 
 Our ads paved the way for so many more non-traditional companies to be in the subways. 
 
-###### You quote, “Iteration is perfection,” as your favorite saying. What does this mean to you?
-
-So often, and as women especially, we have been told that we have to look perfect and be perfect, or else society will laugh at us and make us feel bad about ourselves. This often prevents so many women from putting themselves out there and launching businesses or taking on big projects. I want to disrupt that notion and show that it’s not about “being perfect”, but it’s the “iterative process that’s perfect”. What I mean by that is that we need to start somewhere and put something out (a minimum viable product), even if not perfect, and then listen to feedback, continue to make adjustments, and keep improving the product, service, or idea. That is iteration: the process of listening to feedback and making constant small adjustments. The opposite of iteration is stagnation. And I also say “stagnation is death”. The minute you stop making improvements, however big or small, is the minute you die. 88% of Fortune 500 companies from 1955 and now GONE because they did not iterate fast enough. 
-
-IMAGE
+thinx ad IMAGE
 
 ###### The marketing content for your businesses takes an incredibly clever, eye catching, and artistic approach to telling a story. Where do you draw inspiration for producing such creative content that is unapologetically clear in its message?
 
@@ -42,7 +42,7 @@ The very first step is to research and talk to people to see if your idea has a 
 
 For example, bidet attachments existed before, but they were all ugly and irrelevant, and so we created [TUSHY](https://hellotushy.com/) to make bidets beautiful, relevant, and affordable (only $69!). By making TUSHY designer and aspirational, more people grew interested in the idea of bidets, and gained the understanding that the current practice of using toilet paper is not only terrible for our health and hygiene (causing 30 million cases of chronic UTIs, hemorrhoids, yeast infections, anal fissures, anal itching, etc.), but terrible for our planet too (toilet paper kills 15 million trees per year!). We showed that wiping is such an old, outdated practice. 
 
-IMAGE
+tushy IMAGE
 
 ###### You are very intentional about implementing give-back models into your businesses, but have gone beyond this to find even more impactful, sustainable solutions to address needs that people are facing globally. Can you share about what this process has looked like in your companies?
 
@@ -56,7 +56,7 @@ I think the future of entrepreneurship is social entrepreneurship, where busines
 
 When Americans were not ready to adopt the bidet, TUSHY came to be on the forefront of the conversation. 
 
-IMAGE
+brand IMAGE
 
 ###### What are the next dreams you want to take on? Do you plan to continue launching new social enterprises?
 
