@@ -4,6 +4,7 @@ date: 2018-11-07 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
+image: "/uploads/2018Mar20_DSC04053_ScreenRes%20(1).jpg"
 series: Conflict
 ---
 
@@ -14,6 +15,8 @@ series: Conflict
 My dad is from India and my mom is from Japan and they raised us in Montreal Canada, so we were exposed at a very young age to lots of different cultures and practices, which helped expand our world view and expand where we pulled ideas from. My parents also taught us that if there is something missing in our communities to not complain about it, but to do something about it. For example, when we were children, my parents believed that the future would have electronics in it and couldn’t find a course to teach kids about it, so they created their own electronics kit company that would. Since my dad came here from India with $5 in his pocket and my parents raised us modestly, I learned how to do a lot with little. 
 
 ### My parents also taught us to question everything in our lives. 
+
+IMAGE
 
 ###### In doing this kind of culture shifting work, many more roadblocks must surface along the way. For instance, [the resistance THINX faced in having your ads displayed in the New York City subway.](https://www.bustle.com/articles/122564-thinx-underwear-ads-on-nyc-subway-are-up-but-the-company-has-another-big-announcement) How do you tackle opposition like this in a way that moves us forward progressively?
 
@@ -27,6 +30,8 @@ Our ads paved the way for so many more non-traditional companies to be in the su
 
 So often, and as women especially, we have been told that we have to look perfect and be perfect, or else society will laugh at us and make us feel bad about ourselves. This often prevents so many women from putting themselves out there and launching businesses or taking on big projects. I want to disrupt that notion and show that it’s not about “being perfect”, but it’s the “iterative process that’s perfect”. What I mean by that is that we need to start somewhere and put something out (a minimum viable product), even if not perfect, and then listen to feedback, continue to make adjustments, and keep improving the product, service, or idea. That is iteration: the process of listening to feedback and making constant small adjustments. The opposite of iteration is stagnation. And I also say “stagnation is death”. The minute you stop making improvements, however big or small, is the minute you die. 88% of Fortune 500 companies from 1955 and now GONE because they did not iterate fast enough. 
 
+IMAGE
+
 ###### The marketing content for your businesses takes an incredibly clever, eye catching, and artistic approach to telling a story. Where do you draw inspiration for producing such creative content that is unapologetically clear in its message?
 
 My team and I always gain creative inspiration from being out in the world, looking at art, being in nature, going to events like Burning Man, going to galleries and museums, and sharing detailed stories. In the sharing, little nuggets and moments, ideas pop out and we use those moments to represent what we are trying to offer. 
@@ -37,13 +42,21 @@ The very first step is to research and talk to people to see if your idea has a 
 
 For example, bidet attachments existed before, but they were all ugly and irrelevant, and so we created [TUSHY](https://hellotushy.com/) to make bidets beautiful, relevant, and affordable (only $69!). By making TUSHY designer and aspirational, more people grew interested in the idea of bidets, and gained the understanding that the current practice of using toilet paper is not only terrible for our health and hygiene (causing 30 million cases of chronic UTIs, hemorrhoids, yeast infections, anal fissures, anal itching, etc.), but terrible for our planet too (toilet paper kills 15 million trees per year!). We showed that wiping is such an old, outdated practice. 
 
+IMAGE
+
 ###### You are very intentional about implementing give-back models into your businesses, but have gone beyond this to find even more impactful, sustainable solutions to address needs that people are facing globally. Can you share about what this process has looked like in your companies?
 
 I think the future of entrepreneurship is social entrepreneurship, where businesses will HAVE to incorporate a give-back mission. My restaurant [WILD](http://www.eatdrinkwild.com/) supports local farms. At [THINX](https://www.shethinx.com/), we created the Buy 1 Fund 1 model, where for every pair of underwear sold, we funded a local company in Uganda that made washable cloth pads and helped them grow their business to sell more affordable pads to local girls. Now at [TUSHY](https://hellotushy.com/), for every TUSHY bidet sold, we fund the buildout of clean toilets to help fight the global sanitation crisis. 
 
 ###### What has been your proudest moment between founding THINX, ICON, TUSHY, and WILD? 
 
-100% changing culture in the different categories in my proudest moment. When people eat gluten-free and farm-to-table now, I feel like WILD played a part in that, changing conversation and education early on. When nobody wanted to talk about periods, creating THINX pushed that conversation forward and broke that taboo. When Americans were not ready to adopt the bidet, TUSHY came to be on the forefront of the conversation. 
+100% changing culture in the different categories in my proudest moment. When people eat gluten-free and farm-to-table now, I feel like WILD played a part in that, changing conversation and education early on. 
+
+### When nobody wanted to talk about periods, creating THINX pushed that conversation forward and broke that taboo. 
+
+When Americans were not ready to adopt the bidet, TUSHY came to be on the forefront of the conversation. 
+
+IMAGE
 
 ###### What are the next dreams you want to take on? Do you plan to continue launching new social enterprises?
 
