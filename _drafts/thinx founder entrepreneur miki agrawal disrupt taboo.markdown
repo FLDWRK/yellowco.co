@@ -4,6 +4,21 @@ title: 'The Serial Entrepreneur Disrupting Taboos Daily: Our Interview with Thin
 date: 2018-11-07 04:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- thinx
+- tushy
+- icon
+- wild
+- miki agrawal
+- thinx founder
+- entrepreneur
+- give back
+- disruptive innovation
+- break taboo
+- period underwear
+- thinx underwear
+- feminism
+- female founders
 author: Hanna Snyder
 image: "/uploads/2018Mar20_DSC04128_ScreenRes%20(1).jpg"
 series: Conflict
