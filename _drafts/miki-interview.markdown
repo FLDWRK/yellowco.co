@@ -30,7 +30,7 @@ I think we need to be creative when trying to manage opposition or current socie
 
 Our ads paved the way for so many more non-traditional companies to be in the subways. 
 
-thinx ad IMAGE
+![thinx.jpg](/uploads/thinx.jpg)
 
 ###### The marketing content for your businesses takes an incredibly clever, eye catching, and artistic approach to telling a story. Where do you draw inspiration for producing such creative content that is unapologetically clear in its message?
 
