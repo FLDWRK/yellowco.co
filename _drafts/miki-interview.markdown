@@ -17,7 +17,7 @@ My dad is from India and my mom is from Japan and they raised us in Montreal Can
 
 ### My parents also taught us to question everything in our lives. 
 
-![2018Mar20_DSC05090_ScreenRes (1).jpg](/uploads/2018Mar20_DSC05090_ScreenRes%20(1).jpg)
+![2018Mar20_DSC04053_ScreenRes (1).jpg](/uploads/2018Mar20_DSC04053_ScreenRes%20(1).jpg)
 
 ###### You quote, “Iteration is perfection,” as your favorite saying. What does this mean to you?
 
