@@ -4,7 +4,7 @@ date: 2018-11-07 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
-image: "/uploads/2018Mar20_DSC04053_ScreenRes%20(1).jpg"
+image: "/uploads/2018Mar20_DSC04128_ScreenRes%20(1).jpg"
 series: Conflict
 ---
 
