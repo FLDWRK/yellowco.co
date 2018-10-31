@@ -22,7 +22,7 @@ IMAGE
 
 I think we need to be creative when trying to manage opposition or current societal conditioning. For us, it was going to press with the story that in the most progressive city in the world (New York City), the New York Public Transit System was not allowing the word “period” to be in the subways. 
 
-### Instead of complaining about it, we did something about it and it worked. 
+### Instead of complaining about it, we did something about it, and it worked. 
 
 Our ads paved the way for so many more non-traditional companies to be in the subways. 
 
