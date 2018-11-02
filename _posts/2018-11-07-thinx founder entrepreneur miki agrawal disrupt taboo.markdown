@@ -24,7 +24,7 @@ image: "/uploads/2018Mar20_DSC04128_ScreenRes%20(1).jpg"
 series: Conflict
 ---
 
-_[Miki Agrawal](https://www.mikiagrawal.com/) has given disruptive innovation a true modern definition. As a serial entrepreneur, she has founded an astounding four businesses, all of which tackle taboos and provide better options for the natural, human functions that our bodies experience._ 
+_[Miki Agrawal](https://www.mikiagrawal.com/) has truly given disruptive innovation a modern definition. As a serial entrepreneur, she has founded an astounding four businesses, all of which tackle taboos and provide better options for the natural, human functions that our bodies experience._ 
 
 _She co-founded [THINX](https://www.shethinx.com/), a line of period-proof underwear, [TUSHY](https://hellotushy.com/?utm_expid=.qUBTCqfDQ06WDHKSiEv3lA.0&utm_referrer=), a modern bidet to transform hygiene, [WILD](http://www.eatdrinkwild.com/), a gluten-free, farm to table pizza restaurant, and [ICON](https://www.iconundies.com/), a line of pee-proof underwear. Not to mention, she's authored two books – [Do Cool Shit](https://www.amazon.com/Do-Cool-Sh-Business-Happily/dp/0062366858/ref=sr_1_1?ie=UTF8&qid=1540848166&sr=8-1&keywords=do+cool+shit+book) and soon to be released, [Disrupt-Her: A Manifesto For the Modern Woman](https://www.amazon.com/Disrupt-Her-Manifesto-Modern-Miki-Agrawal/dp/1401955568/ref=sr_1_fkmr0_1?ie=UTF8&qid=1540848181&sr=8-1-fkmr0&keywords=disrupt-her+book). After hearing Miki speak at our [2018 Yellow Conference](https://yellowco.co/conference/) a few months ago, I was eager to hear more on her culture-changing and entirely clever approach to  entrepreneurship that is changing lives around the world for the better._
 
