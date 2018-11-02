@@ -61,7 +61,7 @@ The very first step is to research and talk to people to see if your idea has a 
 
 For example, bidet attachments existed before, but they were all ugly and irrelevant, and so we created [TUSHY](https://hellotushy.com/) to make bidets beautiful, relevant, and affordable (only $69!). By making TUSHY designer and aspirational, more people grew interested in the idea of bidets, and gained the understanding that the current practice of using toilet paper is not only terrible for our health and hygiene (causing 30 million cases of chronic UTIs, hemorrhoids, yeast infections, anal fissures, anal itching, etc.), but terrible for our planet too (toilet paper kills 15 million trees per year!). We showed that wiping is such an old, outdated practice. 
 
-![miki.jpg](/uploads/miki.jpg)
+![2-b906db.jpg](/uploads/2-b906db.jpg)
 
 ###### You are very intentional about implementing give-back models into your businesses, but have gone beyond this to find even more impactful, sustainable solutions to address needs that people are facing globally. Can you share about what this process has looked like in your companies?
 
