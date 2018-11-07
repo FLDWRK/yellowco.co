@@ -39,7 +39,7 @@ And wah-lahh! This is what it looks like:
 
 ##### 1. Compare the 9 template families. 
 
-Squarespace has recently added template families to the squarespace support page, but even today, I still reference the Squarespace Template Comparison. I’m a pretty visual person, so this is much easier for me to digest.
+Squarespace has recently added template families to the squarespace support page, but even today, I still reference the [Squarespace Template Comparison](https://ilovecreatives.com/market/squarespace-template-comparison-tool#utm_source=yellow&utm_campaign=squarespace-online-course). I’m a pretty visual person, so this is much easier for me to digest.
 
 Alright, what are you looking at here? Essentially, I’ve bucketed each template into a Template Family. What is a template family? Let’s start with the Brine family. See all the templates below “01. Brine Family”? Every single one of these templates have the same exact features. GASP! I know, it’s nuts because they look so different. 
 
@@ -72,4 +72,4 @@ If you’re a freelancer taking on Squarespace clients, make sure you understand
 
 If you’re an entrepreneur trying to make their own website, take a look at each of the Parent Templates (eg, the first thumbnail under each Template Family). And see which one you like! Ignore the other templates because you’ll be adding your own photos and fonts.
 
-I’m a big fan of Squarespace and I definitely think you can make your site not look like a Squarespace site. Ilovecreatives.com was built on Squarespace and so was http://shapeshiftreport.co, http://www.bytoni.com, and http://jhannahjournal.com. Now, I have to mention that these also have CSS, but I never had to use Developer Mode!
+I’m a big fan of Squarespace and I definitely think you can make your site not look like a Squarespace site. [Ilovecreatives.com](https://ilovecreatives.com/) was built on Squarespace and so was [Shape Shift Report](https://www.shapeshiftreport.co/), [By Toni](http://www.bytoni.com/), and [J Hannah Journal](http://jhannahjournal.com/). Now, I have to mention that these also have CSS, but I never had to use Developer Mode!
