@@ -22,6 +22,8 @@ And wah-lahh! This is what it looks like:
 
 ![sqsp-1.jpg](/uploads/sqsp-1.jpg)
 
+##### 1. Compare the 9 template families. 
+
 Squarespace has recently added template families to the squarespace support page, but even today, I still reference the Squarespace Template Comparison. I’m a pretty visual person, so this is much easier for me to digest.
 
 Alright, what are you looking at here? Essentially, I’ve bucketed each template into a Template Family. What is a template family? Let’s start with the Brine family. See all the templates below “01. Brine Family”? Every single one of these templates have the same exact features. GASP! I know, it’s nuts because they look so different. 
@@ -34,13 +36,13 @@ So, back to the question at hand, how do you pick a Squarespace template?
 
 ![sqsp-2.jpg](/uploads/sqsp-2.jpg)
 
-#### Prioritize your deal breaker features to pick a template family .
+##### 2. Prioritize your deal breaker features.
 
 With this tool, you’ll see that you actually only have to choose from 9 templates. Not so overwhelming anymore, huh? If you ignore all the ones that say “Meh, use Brine”, then you’ll only be choosing from 5 templates! Personally, I think Squarespace is quadrupling down on the Brine family. As you can see in the Squarespace Comparison Tool, majority of the templates are in the Brine Family.
 
 The way you choose between the five templates is you look for the deal breaker features you (or your client) really cares about. For example, parallax scrolling. This is a when you have two images layered on top of each other. As you scroll, there is an illusion of depth. You’ll want to make sure that the template you choose includes that feature. If you don't have a deal breaker feature, then just stick with the Brine family! It’s the most versatile.
 
-#### Select your template within the family (or just make it easy and pick the parent template). 
+##### 3. Select your template within the family (or just make it easy and pick the parent template). 
 
 Alright, but which template should you choose from within a Template Family? For me, I just pick the parent template (or whatever the name of the Template Family is). Before I begin designing, I’ll be deleting all of the demo pages and starting from scratch.
 Couple of other things to consider:
