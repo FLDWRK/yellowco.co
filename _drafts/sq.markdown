@@ -3,6 +3,8 @@ title: "How to choose the right \nSquarespace Template"
 date: 2018-11-12 04:00:00 -08:00
 categories:
 - Entrepreneurs
+author: 'Puno '
+series: Conflict
 ---
 
 Most people aren’t sure which Squarespace Template they should start with. You’re not alone! When I started building Squarespace websites as a freelancer, I was pretty confused. The last thing I wanted to do was use a template that didn’t have the features my client needed. 
