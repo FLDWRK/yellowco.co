@@ -42,6 +42,8 @@ With this tool, you’ll see that you actually only have to choose from 9 templa
 
 The way you choose between the five templates is you look for the deal breaker features you (or your client) really cares about. For example, parallax scrolling. This is a when you have two images layered on top of each other. As you scroll, there is an illusion of depth. You’ll want to make sure that the template you choose includes that feature. If you don't have a deal breaker feature, then just stick with the Brine family! It’s the most versatile.
 
+![sqsp-5.jpg](/uploads/sqsp-5.jpg)
+
 ##### 3. Select your template within the family (or just make it easy and pick the parent template). 
 
 Alright, but which template should you choose from within a Template Family? For me, I just pick the parent template (or whatever the name of the Template Family is). Before I begin designing, I’ll be deleting all of the demo pages and starting from scratch.
