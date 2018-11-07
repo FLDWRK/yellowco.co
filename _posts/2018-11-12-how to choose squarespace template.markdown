@@ -18,7 +18,7 @@ tags:
 - squarespace template tips
 - i love creatives
 - puno
-author: 'Puno '
+author: Puno
 image: "/uploads/punodostres-1800puno.JPG"
 series: Conflict
 ---
