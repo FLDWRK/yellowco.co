@@ -14,7 +14,7 @@ Over the past few years, I’ve built over 100 Squarespace sites and realized af
 
 And this is the lesson you need to learn before picking a Squarespace Template. You're not going to believe this, but most templates have the 👏🏼 same 👏🏼 features. They are just styled differently with fonts, colors, photos, and how it’s laid out. 
 
-I finally came to this conclusion after I spent hours chatting with Squarespace Support (which is amazing btw). That’s when I started to build my Squarespace Comparison Tool. We literally went through every template and I started categorizing them by Template Family.
+I finally came to this conclusion after I spent hours chatting with Squarespace Support (which is amazing btw). That’s when I started to build my [Squarespace Comparison Tool](https://ilovecreatives.com/squarespace-template-comparison#utm_source=yellow&utm_campaign=squarespace-online-course). We literally went through every template and I started categorizing them by Template Family.
 
 And wah-lahh! This is what it looks like:
 
