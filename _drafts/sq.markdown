@@ -4,6 +4,7 @@ date: 2018-11-12 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: 'Puno '
+image: "/uploads/punodostres-1800puno.JPG"
 series: Conflict
 ---
 
