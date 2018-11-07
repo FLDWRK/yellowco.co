@@ -3,6 +3,21 @@ title: How to Simplify Choosing a Squarespace Template in 3 Steps
 date: 2018-11-12 04:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- squarespace
+- website
+- entrepreneur
+- entrepreneur advice
+- freelance web designer
+- web design tips
+- squarespace tips
+- choose squarespace template
+- squarespace designer
+- build website
+- website template
+- squarespace template tips
+- i love creatives
+- puno
 author: 'Puno '
 image: "/uploads/punodostres-1800puno.JPG"
 series: Conflict
@@ -58,5 +73,3 @@ If you’re a freelancer taking on Squarespace clients, make sure you understand
 If you’re an entrepreneur trying to make their own website, take a look at each of the Parent Templates (eg, the first thumbnail under each Template Family). And see which one you like! Ignore the other templates because you’ll be adding your own photos and fonts.
 
 I’m a big fan of Squarespace and I definitely think you can make your site not look like a Squarespace site. Ilovecreatives.com was built on Squarespace and so was http://shapeshiftreport.co, http://www.bytoni.com, and http://jhannahjournal.com. Now, I have to mention that these also have CSS, but I never had to use Developer Mode!
-
-Puno is the Founder of ilovecreatives.com and is a Squarespace Authorized Trainer. 
