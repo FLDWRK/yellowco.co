@@ -32,6 +32,8 @@ I teach a Squarespace course where we going go through the tedious, but highly e
 
 So, back to the question at hand, how do you pick a Squarespace template? 
 
+![sqsp-2.jpg](/uploads/sqsp-2.jpg)
+
 #### Prioritize your deal breaker features to pick a template family .
 
 With this tool, you’ll see that you actually only have to choose from 9 templates. Not so overwhelming anymore, huh? If you ignore all the ones that say “Meh, use Brine”, then you’ll only be choosing from 5 templates! Personally, I think Squarespace is quadrupling down on the Brine family. As you can see in the Squarespace Comparison Tool, majority of the templates are in the Brine Family.
