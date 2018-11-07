@@ -20,7 +20,7 @@ I finally came to this conclusion after I spent hours chatting with Squarespace 
 
 And wah-lahh! This is what it looks like:
 
-![sqsp-1.jpg](/uploads/sqsp-1.jpg)
+![sqsp-3.jpg](/uploads/sqsp-3.jpg)
 
 ##### 1. Compare the 9 template families. 
 
@@ -34,7 +34,7 @@ I teach a Squarespace course where we going go through the tedious, but highly e
 
 So, back to the question at hand, how do you pick a Squarespace template? 
 
-![sqsp-2.jpg](/uploads/sqsp-2.jpg)
+![sqsp-4.jpg](/uploads/sqsp-4.jpg)
 
 ##### 2. Prioritize your deal breaker features.
 
