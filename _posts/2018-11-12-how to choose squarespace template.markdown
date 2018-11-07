@@ -1,5 +1,5 @@
 ---
-title: How to Simplify Choosing a Squarespace Template in 3 Steps
+title: How to Choose a Squarespace Template in 3 Simple Steps
 date: 2018-11-12 04:00:00 -08:00
 categories:
 - Entrepreneurs
