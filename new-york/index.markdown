@@ -20,6 +20,8 @@ speakers:
 - name: 'Mari Andrew '
   title: Writer & Illustrator
   image: "/uploads/Mari_Andrew-3901.JPG"
+- name: Jacqui Lewis, Activist, Preacher, Pastor and Advocate for Racial Equality
+  image: "/uploads/Screen%20Shot%202018-11-07%20at%205.22.31%20PM.png"
 - name: Theresa Williams, Co-Founder of Celsious
   image: "/uploads/Screenshot%202018-10-22%2008.04.13.png"
 - name: Corinna Williams, Co-Founder of Celsious
