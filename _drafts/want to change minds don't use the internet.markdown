@@ -3,6 +3,18 @@ title: Want to Actually Change Minds on Issues That Matter? Don't Go to the Inte
 date: 2018-11-14 08:36:00 -08:00
 categories:
 - Culture
+tags:
+- social media
+- bullying
+- internet conflict
+- internet arguments
+- hate
+- communication
+- direct communication
+- digital conflict
+- social media arguments
+- change opinions
+- cyberbullying
 author: Joanna Waterfall
 image: "/uploads/neonbrand-440644-unsplash-1.jpg"
 series: Conflict
@@ -42,11 +54,15 @@ So what DOES change people's minds in a true sense? Relationships. Face to face 
 
 If this is what the facts say, then why is it so difficult for us to have these conversations in person? I think we're out of practice. We've got to do the difficult work of learning to deal with conflict in person, and stop dealing with our conflicts in the digital realm. We've got to look past the screen and see the human behind it, because as amounts of good social media arguments have, the damage it creates is very, very real. 
 
+![marianne-krohn-703826-unsplash-1.jpg](/uploads/marianne-krohn-703826-unsplash-1.jpg)
+
 So real, that according to the Cyberbullying Research Center, [20% of cyberbullying victims reported having suicidal thoughts](http://cyberbullying.us/cyberbullying_and_suicide_research_fact_sheet.pdf). This study was done on a group ranging from 10-19 years old, but we know that no matter your age, cyberbullying has lasting impacts. Research shows it can create lasting depression, chronic fatigue, insomnia, and poor performance at work. In summary, being mean online has little impact on changing ideas or minds, but a lasting impact on the person it's directed to.
 
 Part of the reason we're so aggressive online is because we have real bitterness and anger towards the people who have hurt us in our own life that we haven't dealt with. Could those that made the death threat to Susan Collins actually have built up anger towards their mother who they didn't feel acknowledged by, or have a relationship with? Could this anger be dealt with by talking to their mother or a therapist about these deep-seated emotions? 
 
-I know we're getting deep here, but truly, if you feel the urge to be hateful, mean, or just plain impolite to someone online - stop and think about where that emotion is coming from. Is there someone you need to have a difficult conversation with in real life? It's important to pay attention to these emotions and figure out how to express them in a healthy way.
+I know we're getting deep here, but truly, if you feel the urge to be hateful, mean, or just plain impolite to someone online - stop and think about where that emotion is coming from. Is there someone you need to have a difficult conversation with in real life? 
+
+### It's important to pay attention to these emotions and figure out how to express them in a healthy way.
 
 Before I end, I want to make sure that you understand that I'm not saying you should never be angry or post your opinions online. It is SO okay to be angry. If you want to post about your opinions on your social channels - go right on ahead! I'm saying that the most effective and lasting way to channel that anger and create real change is by having in person interactions and conversations - not being hateful on the internet.
 
