@@ -7,11 +7,15 @@ author: Joanna Waterfall
 series: Conflict
 ---
 
-I'll never forget the first time I saw MySpace. It was a page that my boyfriend at the time made for his (very emo) band. (Anyone else miss the emo / scene days of the 2000s??) I'll never forget him so proudly showing me that their band had fans – random girls were commenting on photos of my boyfriend saying how cute he was and how much they loved their music. "WHAT is THIS??" I instantly felt the 16-year-old teenage girl jealousy cloud come over me and hated MySpace instantly. How could it be that these random girls could tell my boyfriend that they liked his music and thought he was cute?? They don't even KNOW him!
+I'll never forget the first time I saw MySpace. My boyfriend at the time made a page for his (very emo) band. (Anyone else miss the emo/scene days of the 2000s??) I'll never forget him so proudly showing me that their band had fans, and how random girls were commenting on photos of him saying how cute he was and how much they loved their music. "WHAT is THIS??" I felt the 16-year-old teenage girl jealousy cloud come over me and hated MySpace instantly. How could it be that these random girls could tell my boyfriend that they liked his music and thought he was cute?? They don't even KNOW him!
 
 Time went on and, like everyone else, I eventually loved MySpace. It was a perfect venue for me to describe exactly WHO I was (or who I wanted the world to think I was). I so carefully chose what song I had playing on my profile (the lyrics usually having a secret message to my friends or the guy I liked at the time). I went for an all white, clean template design, and did a photoshoot with my best friend where I morphed my short hair into a mohawk and upped that contrast hard in the post. My very first personal branding exercise.
 
-As we all know, the social media-sphere looks a lot different these days. But, just as those random girls commenting on my boyfriend's photos made me mad then, there's a lot of comments, images, and words flying around the internet making a lot of us mad today. And because we get mad, we post aggressive and mean comments directed towards people we don't even know! We say things behind the screen we wouldn't dare to say to someone in real life. This clip from the Jimmy Fallon show sums this up so hilariously perfectly:
+As we all know, the social media-sphere looks a lot different these days. But just as those random girls commenting on my boyfriend's photos made me upset then, there are a lot of comments, images, and words flying around the internet today doing the same to many of us. And because we get mad, we post aggressive and mean comments directed towards people we don't even know! 
+
+### We say things behind the screen that we wouldn't dare to say to someone in real life. 
+
+This clip from the Jimmy Fallon show sums this up so hilariously perfectly:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0b9rOji_PWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
