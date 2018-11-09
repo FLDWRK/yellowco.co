@@ -16,7 +16,7 @@ tags:
 - change opinions
 - cyberbullying
 author: Joanna Waterfall
-image: "/uploads/neonbrand-440644-unsplash-1.jpg"
+image: "/uploads/phhone.jpeg"
 series: Conflict
 ---
 
