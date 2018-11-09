@@ -1,6 +1,6 @@
 ---
 title: Want to Actually Change Minds on Issues That Matter? Don't Go to the Internet
-date: 2018-11-14 08:36:00 -08:00
+date: 2018-11-14 04:00:00 -08:00
 categories:
 - Culture
 tags:
