@@ -4,6 +4,7 @@ date: 2018-11-14 08:36:00 -08:00
 categories:
 - Culture
 author: Joanna Waterfall
+image: "/uploads/neonbrand-440644-unsplash-1.jpg"
 series: Conflict
 ---
 
@@ -17,7 +18,7 @@ As we all know, the social media-sphere looks a lot different these days. But ju
 
 This clip from the Jimmy Fallon show hilariously sums this up so perfectly:
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/0b9rOji_PWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/0b9rOji_PWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Fans boo a cardboard photo of a Yankee player who then steps out from behind the cardboard cutout. The reactions are priceless. They immediately stop boo-ing and start fanboy-ing over this guy. They go to shake his hand - many of them saying very nice things to his face and acting super embarrassed about their boo-ing.
 
