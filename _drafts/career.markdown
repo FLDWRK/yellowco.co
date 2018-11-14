@@ -3,6 +3,19 @@ title: when you want to change career paths but it means a large pay cut
 date: 2018-11-16 04:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- entrepreneur
+- purposeful entrepreneur
+- purposeful work
+- career change
+- become entrepreneur
+- start business
+- money
+- salary
+- pay change
+- entrepreneur finances
+- how to change career
+- pay cut
 author: Ashley Ayala
 image: "/uploads/ShopKaleidos-027.JPG"
 series: Conflict
