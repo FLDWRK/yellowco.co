@@ -1,5 +1,5 @@
 ---
-title: when you want to change career paths but it means a large pay cut
+title: Is Taking a Pay Cut Keeping You from Being an Entrepreneur? Read This
 date: 2018-11-16 04:00:00 -08:00
 categories:
 - Entrepreneurs
