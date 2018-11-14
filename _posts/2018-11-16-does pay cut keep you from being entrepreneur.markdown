@@ -68,3 +68,5 @@ Write down and plan on sticking to a mostly-necessities budget. Pencil a savings
 Challenges force us to grow. Big leaps of faith force us to grow. Take a moment to decide: what does success mean to you?
 
 Money will come and go, but your spirit, your sense of wonder and what sets your soul on fire, are worth protecting.
+
+_Photos by [Eun Creative](http://www.euncreative.com/)_
