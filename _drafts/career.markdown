@@ -20,7 +20,7 @@ I work with women entrepreneurs a lot, and the most pressing question I receive 
 
 ### If you’re going after your own dreams as an entrepreneur or freelancer, you’re not irresponsible, you’re courageous.
 
-[ShopKaleidos-025-282dfd.JPG](/uploads/ShopKaleidos-025-282dfd.JPG)
+![22.jpeg](/uploads/22.jpeg)
 
 I’m writing you here to share with you some tangible steps for addressing the pay cut concern.
 
@@ -40,7 +40,7 @@ Grab a piece of paper (maybe that same one you just used to gather the courage t
 
 From there, choose three of your first-choice alternatives and maybe highlight some of the skills you already have that could help kick-start you toward one of these chosen, potential directions. Draft out a loose timeline for each alternative path, writing in some practical, actionable steps you would need to start taking, and realistic quarterly goals that would span the next year. After you’ve written your alternative options down on paper, thoughtfully assess them - this could take a few days, weeks, or even months. Where are you headed next? Once that becomes clear, use your timeline as your game-plan.
 
-[ShopKaleidos-026-41f5b9.JPG](/uploads/ShopKaleidos-026-41f5b9.JPG)
+![23.jpeg](/uploads/23.jpeg)
 
 #### Create a Budget Strategy
 
