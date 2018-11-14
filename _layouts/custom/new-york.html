@@ -53,19 +53,23 @@ layout: site
       {% for speaker in page.speakers %}
       <div class="text-center mb-3 speaker">
         <img class="img-fluid border border-secondary speaker-photo" src="{{ speaker.image | image_src }}?w=500&h=500&fit=crop&crop=faces" alt="{{ speaker.name }}: {{ speaker.company }}" data-rjs="2">
-        <h6 class="mt-3">{{ speaker.name }}</h6> {% if speaker.company %}
-        <p>
-          <em>{{ speaker.title }},
-            <a href="{{ speaker.link }}">{{ speaker.company }}</a>
-          </em>
-        </p>
-        {% else %}
+        <h6 class="mt-3">{{ speaker.name }}</h6>
         <p>
           <em>
-            <a href="{{ speaker.link }}">{{ speaker.title }}</a>
+            {% if speaker.title %}
+              {{ speaker.title }}{% if speaker.company %},{% endif %}
+            {% endif %}
+            {% if speaker.company %}
+              {% if speaker.company-link %}
+                <a href="{{ speaker.company-link }}">
+              {% endif %}
+              {{ speaker.company }}
+              {% if speaker.company-link %}
+                </a>
+              {% endif %}
+            {% endif %}
           </em>
         </p>
-        {% endif %}
       </div>
       {% endfor %}
     </div>
