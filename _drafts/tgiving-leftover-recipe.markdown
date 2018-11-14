@@ -47,6 +47,6 @@ Sea salt and black pepper, to taste
 
 8. Top the lentil mixture with a layer of sweet potatoes. Bake in the oven for 20 minutes. Allow to cool before serving.
 
-If you want to try other modernized plant-based Ayurvedic recipes like this, you can find more in my new book, [Eat Feel Fresh: A Contemporary Plant-Based Ayurvedic Cookbook](https://www.amazon.com/Eat-Feel-Fresh-contemporary-plant-based/dp/1465475621/ref=sr_1_1?ie=UTF8&qid=1523932550&sr=8-1&keywords=eat+feel+fresh+sahara+rose). (They make awesome Christmas gifts!)
+_If you want to try other modernized plant-based Ayurvedic recipes like this, you can find more in my new book, [Eat Feel Fresh: A Contemporary Plant-Based Ayurvedic Cookbook](https://www.amazon.com/Eat-Feel-Fresh-contemporary-plant-based/dp/1465475621/ref=sr_1_1?ie=UTF8&qid=1523932550&sr=8-1&keywords=eat+feel+fresh+sahara+rose). (They make awesome Christmas gifts!)_
 
 _Photos courtesy of Sahara Rose Ketabi_
