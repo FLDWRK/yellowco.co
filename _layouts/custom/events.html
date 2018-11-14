@@ -1,0 +1,46 @@
+---
+title: Events
+layout: site
+---
+
+<div class="events">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="subtitle">
+          <h2>
+            {{page.subtitle1}}
+            <br class="d-none d-lg-block">
+            {{page.subtitle2}}
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div class="row my-5">
+      <div class="col">
+        <h3 class="events-title"><em>Upcoming events:</em></h3>
+      </div>
+    </div>
+    <div class="events">
+      {% for event in page.events %}
+        <div class="row event">
+          <div class="col">
+            <h4 class="title">{{event.title}}</h4>
+            <h5 class="location">{{event.location}}</h5>
+            <h5 class="date">{{event.when}}</h5>
+            <a class="btn btn-outline-primary details" href="{{event.url}}">DETAILS</a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    <div class="row my-5">
+      <div class="col">
+        <h3 class="footer">
+          <em>
+            Want to be the first to know about our events? Join our mailing list!
+          </em>
+        </h3>
+      </div>
+    </div>
+  </div>
+</div>

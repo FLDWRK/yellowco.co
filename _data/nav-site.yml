@@ -1,9 +1,9 @@
+- id: events
+  title: Events
+  url: /events
 - id: experiences
   title: Experiences
   url: /retreats/bali
-- id: membership
-  title: Membership
-  url: /membership
 - id: conference
   title: Conference
   url: /conference

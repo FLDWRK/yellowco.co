@@ -1,5 +1,8 @@
 ---
 title: Bali Retreat - Launch & Build Your Do-Good Business
+nav:
+  site:
+    highlight: experiences
 background-image: "/uploads/bali-bg.jpg"
 tagline: Launch & Build Your Do-Good<br>Business With Us In
 redirect_from:
@@ -289,4 +292,3 @@ footer:
     Email [kacy@yellowco.co](mailto:kacy@yellowco.co).
 layout: custom/retreat
 ---
-
