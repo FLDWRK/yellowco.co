@@ -4,7 +4,7 @@ date: 2018-11-21 04:00:00 -08:00
 categories:
 - Conscious Living
 author: Sahara Rose
-image: "/uploads/Sweet-Potato-Lentil-Shepherd's-Pie-1-1.jpg"
+image: "/uploads/sp.jpeg"
 series: Conflict
 ---
 
