@@ -1,6 +1,6 @@
 ---
 title: enneagram
-date: 2018-11-14 15:05:00 -08:00
+date: 2018-11-19 04:00:00 -08:00
 ---
 
 Conflict and the Enneagram 
