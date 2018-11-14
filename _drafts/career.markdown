@@ -20,7 +20,7 @@ I work with women entrepreneurs a lot, and the most pressing question I receive 
 
 ### If you’re going after your own dreams as an entrepreneur or freelancer, you’re not irresponsible, you’re courageous.
 
-[ShopKaleidos-025.JPG](/uploads/ShopKaleidos-025.JPG)
+[ShopKaleidos-025-282dfd.JPG](/uploads/ShopKaleidos-025-282dfd.JPG)
 
 I’m writing you here to share with you some tangible steps for addressing the pay cut concern.
 
@@ -39,6 +39,8 @@ My second hope for you if you’ve decided to change directions in your professi
 Grab a piece of paper (maybe that same one you just used to gather the courage toward making a change) and make a list of alternatives to your current career path, as well as some specialty skills you have. (P.S. Tenacity is totally a skill - so if something interests you but you’ve never tried it, add that to the list, too. This is just to get you thinking of what’s possible!) Really think about it. What are you doing in your daydreams? What have you tried before and thought, “Hmm. I wonder if I could make money doing this?” Write it all down!
 
 From there, choose three of your first-choice alternatives and maybe highlight some of the skills you already have that could help kick-start you toward one of these chosen, potential directions. Draft out a loose timeline for each alternative path, writing in some practical, actionable steps you would need to start taking, and realistic quarterly goals that would span the next year. After you’ve written your alternative options down on paper, thoughtfully assess them - this could take a few days, weeks, or even months. Where are you headed next? Once that becomes clear, use your timeline as your game-plan.
+
+[ShopKaleidos-026-41f5b9.JPG](/uploads/ShopKaleidos-026-41f5b9.JPG)
 
 #### Create a Budget Strategy
 
