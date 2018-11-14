@@ -1,10 +1,11 @@
 ---
 title: enneagram
 date: 2018-11-19 04:00:00 -08:00
+categories:
+- Relationships
+author: Ashlee Sikorski
+series: Conflict
 ---
-
-Conflict and the Enneagram 
-
 
 So, you’re in a group of of your closest friends and say, “I think Kanye West should be the next President.” How do you imagine each of them responding in this scenario?
 
