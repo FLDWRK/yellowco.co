@@ -21,20 +21,14 @@ We read the text or hear the backhanded comment, and we feel the pit in the stom
 
 When we do this, we aren’t truly dealing with or dismissing the conflict and, instead, residual feelings of resentment begin to thrive in the ignored corners of our minds. The next time a rude comment is made in the meeting, we are quick to pull up the list of snubs that we never really threw away. Our subconscious offers us all too quickly a version of events that fits a narrative around our feelings of hurt or embarrassment. We can’t see the situation – or our emotions – clearly.
 
-
 This doesn’t have to be the case. We can change our habits around conflict. When we familiarize ourselves with the trigger of passing discomfort, we can condition our minds not to run away.
-
 
 When we can make room for our emotions for even a moment longer than usual, we often find that they really do pass quickly and we are able to do what we hoped all along: just let it go. We can be generous in our assumptions of others - maybe that team member is having a rough day – and truly release any resentment that almost snuck in undetected. Or if she’s harsh again, we can see the pattern for what it is and rather than feel ill at ease or snap back at her, we can approach her in the way we feel will best resolve the conflict.
 
-
 All of this is possible because we were mindful of our feelings in that first instance of conflict and responded in an intentional way.
-
 
 Becoming mindful isn’t hard, but like anything worthwhile, practice does help. Some of us can do this simply by setting an intention each morning and reminding ourselves throughout the day that we are trying to be more mindful of our emotions. When I start to feel I’ve had a few days strung together without being mindful, I will set an alarm on my phone for certain intervals throughout the day. When the alarm goes off, I take a quick inventory of how I’m feeling at the moment. The more I practice noticing, the easier it is to do when small conflicts trigger discomfort in me.
 
-
 I’ve also found meditation to be helpful with this. Even five minutes in the morning of quieting myself and focusing on my breath has helped set the tone for my day. As my mind wanders, I note it, then bring my attention back to my breath. Meditation has been shown to have various health benefits, but I use it most as practice for noticing my emotions. Rather than reacting to conflict in a way I’m not proud of, I’m able to respond well in the moment and let my emotions move on from the situation.
-
 
 Once we know what our feelings are trying to tell us, we can let them pass or speak truth to them. And the more we do this, the more we build trust in ourselves to navigate the waters of everyday conflict and the less we turn to numbing distractions or suppression that don’t do our hearts any good in the long run.
