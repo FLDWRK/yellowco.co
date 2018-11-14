@@ -37,6 +37,6 @@ Sea salt and black pepper, to taste
 7. When the sweet potatoes are soft, remove them from the heat and drain the water. Remove the skins and mash with a fork. Add some sea salt, black pepper, and splash of non-dairy milk until it reaches a good consistency.  
 8. Top the lentil mixture with a layer of sweet potatoes. Bake in the oven for 20 minutes. Allow to cool before serving.
 
-Get more modernized plant-based Ayurvedic recipes like this in my new book Eat Feel Fresh: A Contemporary Plant-Based Ayurvedic Cookbook, available on Amazon + wherever books are sold. They make awesome Christmas gifts!
+Get more modernized plant-based Ayurvedic recipes like this in my new book [Eat Feel Fresh: A Contemporary Plant-Based Ayurvedic Cookbook](https://www.amazon.com/Eat-Feel-Fresh-contemporary-plant-based/dp/1465475621/ref=sr_1_1?ie=UTF8&qid=1523932550&sr=8-1&keywords=eat+feel+fresh+sahara+rose). (They make awesome Christmas gifts!)
 
 _Photos courtesy of Sahara Rose Ketabi_
