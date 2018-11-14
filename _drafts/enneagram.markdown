@@ -41,8 +41,7 @@ Type Eights desire intensity. Conflict for this type will often look firey and e
 
 Type Nines desire harmony and are the most conflict avoidant out of each of the nine enneagram types. Conflict for a nine often shows up in the form of indecision. Their superpower is seeing all sides to everything, leaving them in a state of constant ambivalence. The best version of a type nine is unstoppable, showing up to her life agenda. 
 
-
-
+![Screen Shot 2018-11-14 at 3.59.08 PM.png](/uploads/Screen%20Shot%202018-11-14%20at%203.59.08%20PM.png)
 
 If you don’t know your core type and want to put in the work, read through the nine type descriptions. Discuss with safe people, a coach, counselor, or mentor. Extracted from Alexander pope famous poem, “a little knowledge is a dangerous thing.” If you plan to use the enneagram it takes time, study, reflection, humility, and the awareness that it’s not a “feel good” personality test. If you are ready to put in the hard work, I think it’s worth it! -Ashlee 
 
