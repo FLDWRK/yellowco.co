@@ -3,6 +3,7 @@ title: tgiving leftover recipe
 date: 2018-11-21 04:00:00 -08:00
 categories:
 - Conscious Living
+image: "/uploads/Sweet-Potato-Lentil-Shepherd's-Pie-1-1.jpg"
 series: Conflict
 ---
 
