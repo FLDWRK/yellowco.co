@@ -1,8 +1,19 @@
 ---
-title: enneagram
+title: How to Handle Conflict for Each Enneagram Type
 date: 2018-11-19 04:00:00 -08:00
 categories:
 - Relationships
+tags:
+- Enneagram
+- relational conflict
+- conflict
+- handle conflict
+- enneagram tips
+- enneagram advice
+- conflict enneagram
+- enneagram relationships
+- conflict tool
+- relationship tool
 author: Ashlee Sikorski
 image: "/uploads/CONFLICT-YellowCo0739.jpg"
 series: Conflict
