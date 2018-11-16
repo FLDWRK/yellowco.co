@@ -1,5 +1,5 @@
 ---
-title: How to Handle Conflict for Each Enneagram Type
+title: How to Handle Conflict Based on Your Enneagram Type
 date: 2018-11-19 04:00:00 -08:00
 categories:
 - Relationships
