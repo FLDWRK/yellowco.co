@@ -25,9 +25,9 @@ Maybe some laughingly agree. Maybe some instantly get riled up and start emphati
 
 ### People hunker down into certain roles during conflict based on their values and personalities.
 
-That’s where knowing the enneagram comes in. Many people talk about the Enneagram these days, but, for those of you who might be less familiar, stated at its simplest, the Enneagram is an ancient and (in my experience) amazingly accurate personality framework that separates people into 9 core types based on desires and fears. These desires and fears are a mix of nature (what we were born with) and nurture (ways we learned to cope with unmet childhood needs – yes, even if you had wonderful parents). 
+That’s where knowing the [Enneagram](https://www.enneagraminstitute.com/type-descriptions/) comes in. Many people talk about the Enneagram these days, but, for those of you who might be less familiar, stated at its simplest, the Enneagram is an ancient and (in my experience) amazingly accurate personality framework that separates people into 9 core types based on desires and fears. These desires and fears are a mix of nature (what we were born with) and nurture (ways we learned to cope with unmet childhood needs – yes, even if you had wonderful parents). 
 
-I like to say that the enneagram makes up .002% of a person, if that. I say this because a lot of folks who like the Enneagram like to assume people _are_ their number: “I’m a 9! What are you?” But there is so much more to a human being beyond their personality - what they believe about the world or the culture they are born into, for instance.
+I like to say that the Enneagram makes up .002% of a person, if that. I say this because a lot of folks who like the Enneagram like to assume people _are_ their number: “I’m a 9! What are you?” But there is so much more to a human being beyond their personality - what they believe about the world or the culture they are born into, for instance.
 
 ![CONFLICT-YellowCo0659-4e30de.jpg](/uploads/CONFLICT-YellowCo0659-4e30de.jpg)
 
