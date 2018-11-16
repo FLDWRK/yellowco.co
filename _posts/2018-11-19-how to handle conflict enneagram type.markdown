@@ -41,7 +41,7 @@ So, here is where we dive in. Thanks for staying with me reader, I promise there
 
 ##### Type Ones: Desire integrity and goodness. 
 
-For ones, the principle of the situation is foremost, and a type One will act differently depending on what they think is right or wrong in the situation. An example of conflict for this type could look like the One stuffing down feelings of frustration toward the other with the mindset, “I shouldn’t be having these thoughts; they are bad.” Ones are often trying to be good and do things right. But a healthy version of someone who falls into the traps of a One will see that by engaging in conflict and admitting their own less-admirable feelings and qualities, instead of eventually exploding with anger. This way, they can gently diffuse life’s conflicts one situation at a time as they come up.
+For Ones, the principle of the situation is foremost, and a type One will act differently depending on what they think is right or wrong in the situation. An example of conflict for this type could look like the One stuffing down feelings of frustration toward the other with the mindset, “I shouldn’t be having these thoughts; they are bad.” Ones are often trying to be good and do things right. But a healthy version of someone who falls into the traps of a One will see that by engaging in conflict and admitting their own less-admirable feelings and qualities, instead of eventually exploding with anger. This way, they can gently diffuse life’s conflicts one situation at a time as they come up.
 
 ##### Type Twos: Desire to be loved and cared for by those around them. 
 
