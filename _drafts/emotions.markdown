@@ -18,6 +18,8 @@ Running from discomfort is something we learn as children. Author Geneen Roth ex
 
 Undoubtedly, our lives have moments of deep pain and grief, but most of the conflict in our everyday lives doesn’t approach levels of suffering we are truly ill-equipped to handle. Most conflicts aren’t sources of genuine pain, but rather discomfort. If we are alert, we can tell the difference and remember that we are strong enough to sort through discomfort. It’s simply a matter of changing our habits around it.
 
+[ShopKaleidos-017.JPG](/uploads/ShopKaleidos-017.JPG)
+
 Executive performance coach, Brendon Burchard, explains that most of our actions are dictated by habits. For instance, we have a habit of putting on our seat belt when we get in a car. The habit or action is buckling up; the trigger is getting in the car. The same trigger-response happens in our emotional lives.
 
 We read the text or hear the backhanded comment, and we feel the pit in the stomach forming or the heat behind the ears. We’re triggered. And we respond in the way we usually respond: avoidance or diversion.
@@ -28,6 +30,8 @@ When we do this, we aren’t truly dealing with or dismissing the conflict and, 
 
 We can’t see the situation – or our emotions – clearly. This doesn’t have to be the case. We can change our habits around conflict. When we familiarize ourselves with the trigger of passing discomfort, we can condition our minds not to run away.
 
+[ShopKaleidos-018.JPG](/uploads/ShopKaleidos-018.JPG)
+
 When we can make room for our emotions for even a moment longer than usual, we often find that they really do pass quickly and we are able to do what we hoped all along: just let it go. We can be generous in our assumptions of others - maybe that team member is having a rough day – and truly release any resentment that almost snuck in undetected. Or if she’s harsh again, we can see the pattern for what it is and rather than feel ill at ease or snap back at her, we can approach her in the way we feel will best resolve the conflict.
 
 ### All of this is possible because we were mindful of our feelings in that first instance of conflict, and responded in an intentional way.
@@ -37,3 +41,5 @@ Becoming mindful isn’t hard, but like anything worthwhile, practice does help.
 I’ve also found meditation to be helpful with this. Even five minutes in the morning of quieting myself and focusing on my breath has helped set the tone for my day. As my mind wanders, I note it, then bring my attention back to my breath. Meditation has been shown to have various health benefits, but I use it most as practice for noticing my emotions. Rather than reacting to conflict in a way I’m not proud of, I’m able to respond well in the moment and let my emotions move on from the situation.
 
 Once we know what our feelings are trying to tell us, we can let them pass or speak truth to them. And the more we do this, the more we build trust in ourselves to navigate the waters of everyday conflict, the less we turn to numbing distractions or suppression that don’t do our hearts any good in the long run.
+
+_Photos by [Eun Creative](http://www.euncreative.com/)_
