@@ -4,6 +4,19 @@ title: 'Sweet Potato Shepherd''s Pie: The Perfect, Plant-Based Recipe for Your T
 date: 2018-11-21 04:00:00 -08:00
 categories:
 - Conscious Living
+tags:
+- recipe
+- plant-based recipe
+- whole 30
+- paleo
+- thanksgiving
+- thanksgiving recipe
+- thanksgiving leftover
+- vegan recipe
+- shepherd's pie
+- sweet potato
+- lentil
+- sahara rose
 author: Sahara Rose
 image: "/uploads/sp.jpeg"
 series: Conflict
