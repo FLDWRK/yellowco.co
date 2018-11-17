@@ -1,5 +1,6 @@
 ---
-title: tgiving leftover recipe
+title: 'The Perfect, Plant-Based Recipe for Your Thanksgiving Leftovers: Sweet Potato
+  Lentil Shepherd''s Pie'
 date: 2018-11-21 04:00:00 -08:00
 categories:
 - Conscious Living
@@ -7,8 +8,6 @@ author: Sahara Rose
 image: "/uploads/sp.jpeg"
 series: Conflict
 ---
-
-Transform Your Thanksgiving Leftovers with this Sweet Potato Lentil Shepherd's Pie 
 
 Don’t throw away your Thanksgiving leftovers and go straight for the juice cleanse! You can actually transform them into a healthy, plant-based, gluten-free, and nutrient-dense option with a few easy steps! It will help detox your body after a few too many comfort foods, while still feeling indulgent. 
 
