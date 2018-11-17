@@ -1,6 +1,6 @@
 ---
-title: 'The Perfect, Plant-Based Recipe for Your Thanksgiving Leftovers: Sweet Potato
-  Lentil Shepherd''s Pie'
+title: 'Sweet Potato Lentil Shepherd''s Pie: The Perfect, Plant-Based Recipe for Your
+  Thanksgiving Leftovers'
 date: 2018-11-21 04:00:00 -08:00
 categories:
 - Conscious Living
