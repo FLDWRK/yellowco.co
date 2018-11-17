@@ -10,7 +10,9 @@ series: Conflict
 
 Transform Your Thanksgiving Leftovers with this Sweet Potato Lentil Shepherd's Pie 
 
-Don’t throw away your Thanksgiving leftovers and go straight for the juice cleanse! You can actually transform them into a healthy, plant-based, gluten-free and nutrient-dense option with a few easy steps! It will help detox your body after a few too many comfort foods, while still feeling indulgent. 
+Don’t throw away your Thanksgiving leftovers and go straight for the juice cleanse! You can actually transform them into a healthy, plant-based, gluten-free, and nutrient-dense option with a few easy steps! It will help detox your body after a few too many comfort foods, while still feeling indulgent. 
+
+##### Sweet Potato Lentil Shepherd's Pie
 
 _Serves 6_
 
