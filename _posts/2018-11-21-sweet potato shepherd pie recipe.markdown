@@ -1,5 +1,5 @@
 ---
-title: 'Sweet Potato Shepherd''s Pie: The Perfect, Plant-Based Recipe for Your Thanksgiving
+title: 'Sweet Potato Shepherd''s Pie: The Perfect Plant-Based Recipe for Your Thanksgiving
   Leftovers'
 date: 2018-11-21 04:00:00 -08:00
 categories:
@@ -36,8 +36,8 @@ _Serves 6_
 1/2 cup diced carrots  
 3 cloves garlic, minced  
 4 1/2 cups prepared brown lentils  
-2 15 oz cans diced tomatoes  
-2 tbsp tamari or coconut amigos  
+2, 15 oz cans diced tomatoes  
+2 tbsp tamari or coconut aminos  
 1 tbsp basil + more for garnish  
 1/2 cup chopped spinach  
 2+ tbsp non-dairy milk  
@@ -55,7 +55,7 @@ Sea salt and black pepper, to taste
 
 5. Preheat oven to 425°F.  
 
-6. Add the cans of diced tomatoes, with the liquid, along with the basil, spinach and soy sauce to the pan. Let this filling simmer for 10-15 minutes.  
+6. Add the cans of diced tomatoes, with the liquid, along with the basil, and spinach, and tamari to the pan. Let this filling simmer for 10-15 minutes.  
 
 7. When the sweet potatoes are soft, remove them from the heat and drain the water. Remove the skins and mash with a fork. Add some sea salt, black pepper, and splash of non-dairy milk until it reaches a good consistency.  
 
