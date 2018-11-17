@@ -1,5 +1,5 @@
 ---
-title: emotions
+title: Have a Habit of Avoiding Your Emotions? What to Do to Be More Mindful
 date: 2018-11-23 04:00:00 -08:00
 categories:
 - Health
