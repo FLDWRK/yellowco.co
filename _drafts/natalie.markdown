@@ -4,6 +4,17 @@ title: 'The Workout Redefining Self-Awareness: Our Interview with Natalie Kuhn, 
 date: 2018-11-26 04:00:00 -08:00
 categories:
 - Growth
+tags:
+- the class
+- the class by taryn toomey
+- natalie kuhn
+- self awareness
+- meditation
+- workout classes
+- awareness workout la
+- los angeles workout class
+- nyc workout class
+- growth
 author: Kathryn Parrish
 image: "/uploads/Daniel%20Duane%201.jpg"
 series: Conflict
