@@ -16,7 +16,7 @@ tags:
 - nyc workout class
 - growth
 author: Kathryn Parrish
-image: "/uploads/Daniel%20Duane%201.jpg"
+image: "/uploads/JaimieBaird_5-1-6bddf1.jpg"
 series: Conflict
 ---
 
