@@ -4,6 +4,7 @@ date: 2018-11-26 04:00:00 -08:00
 categories:
 - Growth
 author: Kathryn Parrish
+image: "/uploads/Daniel%20Duane%201.jpg"
 series: Conflict
 ---
 
