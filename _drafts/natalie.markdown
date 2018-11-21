@@ -1,5 +1,5 @@
 ---
-title: 'The Workout Redefining Self Awareness: Our Interview with Natalie Kuhn, Founding
+title: 'The Workout Redefining Self-Awareness: Our Interview with Natalie Kuhn, Founding
   Teacher of The Class'
 date: 2018-11-26 04:00:00 -08:00
 categories:
