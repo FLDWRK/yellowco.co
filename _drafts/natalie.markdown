@@ -28,7 +28,7 @@ I have the good fortune of serving as a Founding Teacher and the Vice President 
 
 We decided early on that I would start on a trajectory to become a teacher, even though there was no real plan for it to become a method or a business. It was simply an offering that came from deep in TT's heart and soul. I helped her produce the first Retreatment and from there, we decided that I would become the first official employee. That was back in 2013. I'm proud to say that 5 years later, we are a family of incredible Teachers and dedicated team members that allow for The Class to be offered in NYC, LA, and Vancouver.
 
-![JaimieBaird_5-1.jpg](/uploads/JaimieBaird_5-1.jpg)
+![Sam Sing 2.jpg](/uploads/Sam%20Sing%202.jpg)
 
 ###### Why is it important that we witness our resistance to discomfort? How is The Class a metaphor for daily life?
 
@@ -46,7 +46,7 @@ The Class is the practice of awareness, the ability to witness your thoughts rat
 
 Oh my goodness, thank you! I am always listening to podcasts, reading books, and discussing self-improvement with friends and family. My main teacher right now, though I have never met him, is David Whyte. I am making my way through his canon of poetry. My classes are a result of my own self-contemplation inspired by the poetry of Master Whyte. 
 
-![Sam Sing 2.jpg](/uploads/Sam%20Sing%202.jpg)
+![Daniel Duane 1.jpg](/uploads/Daniel%20Duane%201.jpg)
 
 ###### Some have described going to The Class as a form of therapy. Is there a place, ritual, or activity that is a form of therapy for you?
 
