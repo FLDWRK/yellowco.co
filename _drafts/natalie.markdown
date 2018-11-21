@@ -16,6 +16,8 @@ I have the good fortune of serving as a Founding Teacher and the Vice President 
 
 We decided early on that I would start on a trajectory to become a teacher, even though there was no real plan for it to become a method or a business. It was simply an offering that came from deep in TT's heart and soul. I helped her produce the first Retreatment and from there, we decided that I would become the first official employee. That was back in 2013. I'm proud to say that 5 years later, we are a family of incredible Teachers and dedicated team members that allow for The Class to be offered in NYC, LA, and Vancouver.
 
+![JaimieBaird_5-1.jpg](/uploads/JaimieBaird_5-1.jpg)
+
 ###### Why is it important that we witness our resistance to discomfort? How is The Class a metaphor for daily life?
 
 As the old saying goes, "If nothing changes, nothing changes." And change does not happen while we are sitting on the couch watching Netflix. 
@@ -32,6 +34,8 @@ The Class is the practice of awareness, the ability to witness your thoughts rat
 
 Oh my goodness, thank you! I am always listening to podcasts, reading books, and discussing self-improvement with friends and family. My main teacher right now, though I have never met him, is David Whyte. I am making my way through his canon of poetry. My classes are a result of my own self-contemplation inspired by the poetry of Master Whyte. 
 
+![Sam Sing 2.jpg](/uploads/Sam%20Sing%202.jpg)
+
 ###### Some have described going to The Class as a form of therapy. Is there a place, ritual, or activity that is a form of therapy for you?
 
 Without a doubt, my medicine is a dinner party with my closest girlfriends. Oven on. Phones off. I am a self-professed workaholic. I love what I do and could keep going weeks on end without a real day off. These days my work schedule lets in free nights and weekends. The company has been so supportive in holding me accountable. Now, when I have personal plans, my calendar says "PROTECT" and everyone helps me do just that - protect that sacred time.
@@ -42,8 +46,10 @@ So many of us don't take that next courageous step because of the possibility of
 
 ### Simplified: if the insecurity holding you back is the possibility of failure, consider the fact that failure is just a fictional way of telling yourself that something other that what you expected happened - and that might not be a bad thing. 
 
+![Sam Sing 3.jpg](/uploads/Sam%20Sing%203.jpg)
+
 ###### You've mentioned your highest calling in life is to serve others. How has working with The Class given you the ability to merge who you are with the work that you do?
 
 Both of my parents are of service - my mom was a nun and later a high school teacher, and my father is the most competent and generous doctor. Helping others feel alive is in my lineage. The work of The Class does just this. Whether it's people who are looking for a strong workout, or going through a life transition, or on a spiritual path, or teenagers trying to navigate adolescence, or inmates at a juvenile detention center, I have seen this work _work_. It meets you where you are, helps you define your roadblocks and creates long lasting change. The Class has never felt like a job, it is my vocation. 
 
-_Images courtesy of _
+_Images courtesy of [The Class by Taryn Toomey](https://taryntoomey.com/), by _
