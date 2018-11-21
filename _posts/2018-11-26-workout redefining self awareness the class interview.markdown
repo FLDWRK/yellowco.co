@@ -64,4 +64,4 @@ So many of us don't take that next courageous step because of the possibility of
 
 Both of my parents are of service - my mom was a nun and later a high school teacher, and my father is the most competent and generous doctor. Helping others feel alive is in my lineage. The work of The Class does just this. Whether it's people who are looking for a strong workout, or going through a life transition, or on a spiritual path, or teenagers trying to navigate adolescence, or inmates at a juvenile detention center, I have seen this work _work_. It meets you where you are, helps you define your roadblocks and creates long lasting change. The Class has never felt like a job, it is my vocation. 
 
-_Images courtesy of [The Class by Taryn Toomey](https://taryntoomey.com/), by _
+_Images courtesy of [The Class by Taryn Toomey](https://taryntoomey.com/), by [Jaimie Baird](http://jaimiebaird.com/), [Sam Sing](http://www.samsing.co/), & [Daniel Duane](http://daniel-duane.com/)_
