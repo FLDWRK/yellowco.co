@@ -56,7 +56,7 @@ Without a doubt, my medicine is a dinner party with my closest girlfriends. Oven
 
 So many of us don't take that next courageous step because of the possibility of failure. But what IS failure? It is when we set expectations at a time when we didn't have all the information and then something - else - happens. Some imaginary golden orb known as success is not achieved because something - else - happened. That's it. So what if we allowed ourselves to take a step without attaching to it what the terrain will feel like when our feet hit the ground? 
 
-### Simplified: if the insecurity holding you back is the possibility of failure, consider the fact that failure is just a fictional way of telling yourself that something other that what you expected happened - and that might not be a bad thing. 
+### Simplified: if the insecurity holding you back is the possibility of failure, consider the fact that failure is just a fictional way of telling yourself that something other than what you expected happened - and that might not be a bad thing. 
 
 ![Sam Sing 3.jpg](/uploads/Sam%20Sing%203.jpg)
 
