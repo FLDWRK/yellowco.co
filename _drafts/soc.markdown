@@ -26,13 +26,15 @@ While there are upsides and good things that come from using it, most of us are 
 
 According to a recent study done by [Mediakix](http://mediakix.com/2016/12/how-much-time-is-spent-on-social-media-lifetime/#gs.FqpYMtU), the average person will spend around five years and four months of their lives on social media. That’s the equivalent of flying to the moon and back 32 times, or walking the Great Wall of China 3.5 times. 
 
-A little over five years of my life fighting feelings of jealousy, comparison, and discontentment? No thank you. I didn’t like the sound of that, so I did something about it. 
+### A little over five years of my life fighting feelings of jealousy, comparison, and discontentment? No thank you. 
 
-I deleted Instagram from my phone.
+I didn’t like the sound of that, so I did something about it. I deleted Instagram from my phone.
 
 I started off by abstaining only for a couple of weeks, then when it felt like I had curbed my attachment to the app, I downloaded it again. When I noticed bad habits and cynical feelings wreaking havoc once more, I deleted it again — but this time, I decided I would go off of it for a year. I figured I had lived my life plenty of years without it, I couldn’t possibly miss out on too much.
 
 And I was right.
+
+![benjaminrobyn-jespersen-540757-unsplash-1.jpg](/uploads/benjaminrobyn-jespersen-540757-unsplash-1.jpg)
 
 #### To Delete or Not to Delete
 
@@ -45,6 +47,8 @@ I remember telling a friend with great pride that I was fasting from Instagram. 
 This was, and continues to be, such a great barometer for social media motives that I think looks different for everyone. Fasting from anything should not merely be a mindless shallow task, but a pause for introspection and clarity. Whether it’s spending money, watching Netflix, or eating ice cream every night for dinner, there are reasons why we allot our time the way we do, passive or deliberate. So when we make the resolve to abstain from these things, it should serve as a reset — always remembering these things are not intrinsically bad or evil, but if we do not keep a tight grip on reality and truth, it paves the way for a debilitating way to live life. 
 
 I feel so loved and known every time one of my friends asks me, “Are you on Instagram right now or not?” They recognize and celebrate the freedom ushered in by the choice to be on it when you need to be, and off it when you don’t. 
+
+![daniel-roe-30145-unsplash.jpg](/uploads/daniel-roe-30145-unsplash.jpg)
 
 #### Check Yourself Before You Wreck Yourself
 
