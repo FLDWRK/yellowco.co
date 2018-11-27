@@ -3,6 +3,16 @@ title: 'To Delete or Not to Delete: Why Fasting from Instagram Isn’t Always th
 date: 2018-11-28 04:00:00 -08:00
 categories:
 - Culture
+tags:
+- Instagram
+- social media
+- social media fast
+- delete instagram
+- social media culture
+- milennials
+- instagram fast
+- instagram break
+- social media motives
 author: Chantelle Gibbs
 image: "/uploads/luke-porter-548456-unsplash-1.jpg"
 series: Conflict
