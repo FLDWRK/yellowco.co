@@ -22,6 +22,8 @@ If you’re anything like me, having social media accounts, like Instagram, come
 
 While there are upsides and good things that come from using it, most of us are well-acquainted with the negative feelings Instagram can elicit, ranging anywhere from sadness to severe FOMO (fear of missing out), from extreme jealousy to rampant materialism. And the thing is, with one swipe of a finger, I ride the rollercoaster of both sides in a wild flurry of sentiments, reeling from the whiplash. Within minutes, I’ve moved from a content, happy state to a suddenly envious, sour mood that becomes increasingly harder to shake.
 
+![thought-catalog-579760-unsplash-1.jpg](/uploads/thought-catalog-579760-unsplash-1.jpg)
+
 According to a recent study done by [Mediakix](http://mediakix.com/2016/12/how-much-time-is-spent-on-social-media-lifetime/#gs.FqpYMtU), the average person will spend around five years and four months of their lives on social media. That’s the equivalent of flying to the moon and back 32 times, or walking the Great Wall of China 3.5 times. 
 
 A little over five years of my life fighting feelings of jealousy, comparison, and discontentment? No thank you. I didn’t like the sound of that, so I did something about it. 
