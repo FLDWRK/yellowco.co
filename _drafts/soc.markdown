@@ -38,7 +38,7 @@ I might have missed baby gender reveals, dog adoptions, and a few selfies here a
  
 I remember telling a friend with great pride that I was fasting from Instagram. She then asked me a question that stopped me dead in my tracks: 
 
-“But are you really learning self-control if you delete it from your phone entirely, or if you keep it on there and train yourself not to go on it as much?”
+### “But are you really learning self-control if you delete it from your phone entirely, or if you keep it on there and train yourself not to go on it as much?”
 
 This was, and continues to be, such a great barometer for social media motives that I think looks different for everyone. Fasting from anything should not merely be a mindless shallow task, but a pause for introspection and clarity. Whether it’s spending money, watching Netflix, or eating ice cream every night for dinner, there are reasons why we allot our time the way we do, passive or deliberate. So when we make the resolve to abstain from these things, it should serve as a reset — always remembering these things are not intrinsically bad or evil, but if we do not keep a tight grip on reality and truth, it paves the way for a debilitating way to live life. 
 
