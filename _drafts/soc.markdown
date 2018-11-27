@@ -1,5 +1,5 @@
 ---
-title: soc
+title: 'To Delete or Not to Delete: Why Fasting from Instagram Isn’t Always the Answer'
 date: 2018-11-28 04:00:00 -08:00
 categories:
 - Culture
