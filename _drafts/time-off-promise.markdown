@@ -3,6 +3,15 @@ title: time off - promise
 date: 2018-11-30 04:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- entrepreneur
+- time off
+- entrepreneur taking time off
+- out of office
+- delegating
+- running a business
+- female founders
+- entrepreneur advice
 author: Melanie Loon
 image: "/uploads/Go-Live-June-2018-281-4d0f29.jpg"
 series: Conflict
