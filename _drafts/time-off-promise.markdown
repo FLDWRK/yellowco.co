@@ -12,6 +12,8 @@ tags:
 - running a business
 - female founders
 - entrepreneur advice
+- hiring
+- hire employees
 author: Melanie Loon
 image: "/uploads/Go-Live-June-2018-281-4d0f29.jpg"
 series: Conflict
