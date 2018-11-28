@@ -22,6 +22,8 @@ We have an amazing team of remote workers all across the country and even in Can
 
 It’s important to know your strengths and weaknesses! If you aren’t afraid to point out your weaknesses, you can hire someone whose strengths fill out your weak points. For example, my first hire was for an administrative position for things such as emails, booking, invoicing, client calls, follow-ups, etc. If I’m being honest, I am TERRIBLE at those things. Those kinds of tasks tended to keep me from being able to work into my strengths as the Creative Director and do what I do best for the company. I always try to hire people so that my company is well-rounded in terms of strengths, so all our bases are covered. 
 
+![Go-Live-June-2018-242.jpg](/uploads/Go-Live-June-2018-242.jpg)
+
 ###### How do you discern what tasks you should entrust to someone else? What has that process of delegating work looked like in your business?
 
 ### Delegate the tasks that don’t require you or your special sauce. 
@@ -40,6 +42,8 @@ The team really took pride and ownership in their roles while I was away. They t
 
 ### It's definitely counterintuitive to think that taking time away would actually move the business farther forward faster, but I've experienced that to be true.
 
+![Promise-June-2017-33.jpg](/uploads/Promise-June-2017-33.jpg)
+
 ###### That speaks really wonderfully to the culture you’ve grown within your company. What led you to decide to that much time off of work?
 
 In the last decade of running my business, I had never taken more than a week or so off. 
@@ -51,6 +55,8 @@ I finally felt confident enough to to step away after really spending the last y
 ###### Do you gain inspiration for your projects now the same way you did before leading a team at Go Live HQ?
 
 In the past, one of my main jobs was finding inspiration for the actual design we did for our clients; however, now I entrust my designers to lead the charge on inspiration and execution for our clients. In my role now as the company lead and CEO, I spend my creative time finding inspiration for new ventures and new paths the company could take to stay fresh and innovative. I also work with our clients less on the design and more in their positioning and marketing strategy for the big picture. That is such a fun and new way for me to be creative now in a strategic way. I get inspiration for those things by taking courses that keep me ahead of marketing and strategy trends, following innovative companies, and always keeping the spirit of being a learner. 
+
+[PBP-19.JPG](/uploads/PBP-19.JPG)
 
 ###### What is the importance of taking time away from work? Is there a way to make sure time off is truly recharging you as a creative and as a business owner?
 
