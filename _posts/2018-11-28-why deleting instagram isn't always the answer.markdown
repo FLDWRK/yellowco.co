@@ -26,7 +26,7 @@ Oh, how quickly things changed.
 
 #### In My Feelings/My Take on Insta
 
-If you’re anything like me, having social media accounts, like Instagram, comes with mixed feelings. There’s nothing intrinsically wrong with the app or any social media outlet for that matter. 
+If you’re anything like me, having social media accounts like Instagram come with mixed feelings. There’s nothing intrinsically wrong with the app or any social media outlet for that matter. 
 
 ### Where we’ve gone awry is becoming complicit in letting it pervade our thoughts, dictate our emotions, inform our behavior, and worst of all, perpetuate our insecurities.   
 
