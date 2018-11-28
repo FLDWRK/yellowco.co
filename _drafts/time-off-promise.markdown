@@ -4,7 +4,7 @@ date: 2018-11-30 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Melanie Loon
-image: "/uploads/Go-Live-June-2018-281.jpg"
+image: "/uploads/Go-Live-June-2018-281-4d0f29.jpg"
 series: Conflict
 ---
 
