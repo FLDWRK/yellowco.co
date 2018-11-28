@@ -47,13 +47,15 @@ This also can be seasonal in your business as you grow and change. For example, 
 
 For some of my team members, I gave them special or specific authority over the business for the time that I was gone so they could make decisions in my stead. For some, that meant working ahead of time and getting approval ahead of schedule on new projects or ventures. We also talked through the schedule for the whole month before I left so everyone knew exactly what was ahead, what to expect, and what they were responsible for. 
 
+![Go-Live-June-2018-242.jpg](/uploads/Go-Live-June-2018-242.jpg)
+
 ###### What was one key takeaway for you from taking the month off to recharge? In what ways did your team shine or step up in leadership?
 
 The team really took pride and ownership in their roles while I was away. They treated the business like it was their business, and I appreciated that. Through this experience I've learned that I should probably step away MORE and take time to recharge, dream, and plan. 
 
 ### It's definitely counterintuitive to think that taking time away would actually move the business farther forward faster, but I've experienced that to be true.
 
-![Go-Live-June-2018-242.jpg](/uploads/Go-Live-June-2018-242.jpg)
+![Go-Live-June-2018-397.jpg](/uploads/Go-Live-June-2018-397.jpg)
 
 ###### That speaks really wonderfully to the culture you’ve grown within your company. What led you to decide to that much time off of work?
 
@@ -67,7 +69,7 @@ I finally felt confident enough to to step away after really spending the last y
 
 In the past, one of my main jobs was finding inspiration for the actual design we did for our clients; however, now I entrust my designers to lead the charge on inspiration and execution for our clients. In my role now as the company lead and CEO, I spend my creative time finding inspiration for new ventures and new paths the company could take to stay fresh and innovative. I also work with our clients less on the design and more in their positioning and marketing strategy for the big picture. That is such a fun and new way for me to be creative now in a strategic way. I get inspiration for those things by taking courses that keep me ahead of marketing and strategy trends, following innovative companies, and always keeping the spirit of being a learner. 
 
-[PBP-19.JPG](/uploads/PBP-19.JPG)
+![2-e7a492.jpeg](/uploads/2-e7a492.jpeg)
 
 ###### What is the importance of taking time away from work? Is there a way to make sure time off is truly recharging you as a creative and as a business owner?
 
