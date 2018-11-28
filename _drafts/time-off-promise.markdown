@@ -22,7 +22,7 @@ We have an amazing team of remote workers all across the country and even in Can
 
 It’s important to know your strengths and weaknesses! If you aren’t afraid to point out your weaknesses, you can hire someone whose strengths fill out your weak points. For example, my first hire was for an administrative position for things such as emails, booking, invoicing, client calls, follow-ups, etc. If I’m being honest, I am TERRIBLE at those things. Those kinds of tasks tended to keep me from being able to work into my strengths as the Creative Director and do what I do best for the company. I always try to hire people so that my company is well-rounded in terms of strengths, so all our bases are covered. 
 
-![Go-Live-June-2018-242.jpg](/uploads/Go-Live-June-2018-242.jpg)
+![Promise-June-2017-33.jpg](/uploads/Promise-June-2017-33.jpg)
 
 ###### How do you discern what tasks you should entrust to someone else? What has that process of delegating work looked like in your business?
 
@@ -42,7 +42,7 @@ The team really took pride and ownership in their roles while I was away. They t
 
 ### It's definitely counterintuitive to think that taking time away would actually move the business farther forward faster, but I've experienced that to be true.
 
-![Promise-June-2017-33.jpg](/uploads/Promise-June-2017-33.jpg)
+![Go-Live-June-2018-242.jpg](/uploads/Go-Live-June-2018-242.jpg)
 
 ###### That speaks really wonderfully to the culture you’ve grown within your company. What led you to decide to that much time off of work?
 
