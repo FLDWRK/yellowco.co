@@ -1,5 +1,5 @@
 ---
-title: How This Biz Owner Took One Month off & Her Company Still Thrived
+title: How This Biz Owner Took One Month Off & Her Company Still Thrived
 date: 2018-11-30 04:00:00 -08:00
 categories:
 - Entrepreneurs
