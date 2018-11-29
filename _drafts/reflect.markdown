@@ -43,6 +43,8 @@ Our souls crave it. Our bodies welcome it. Our minds turn in time with it. And m
 
 A good bit of the magic found in reserving the time to reflect comes in yet another yin and yang of balance. Some Decembers, you’ll find the same gratitudes at the top of your list from the last. Others, you may sit down with an entirely new perspective shaped by all you’ve experienced. Maybe you approach reflection with rituals and traditions – maybe you never welcome it in the same form twice. 
 
+![REFLECT_YellowCo0363.jpg](/uploads/REFLECT_YellowCo0363.jpg)
+
 Personally, December means I’ll be penning poems for my friends about the past year, often within the walls of my favorite coffee shop – warm cup in hand, ceilings decked with some form of evergreen. I’ll exchange secrets with my closest ones about the last minute, seemingly impossible hopes we wish will come before the end of the year (for which we have dubbed the name “Christmas Miracles”). And often, I’ll release a tear for each loss that came, or change that didn’t.
 
 ### While the time spent soaking in specific moments from our previous year is an important process, the refresh it offers us to enter the new year with is just as important of a result. 
