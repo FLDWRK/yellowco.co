@@ -73,3 +73,5 @@ Do you feel that in times like these, which feel tumultuous and chaotic, that yo
 ### I truly believe that we all are feeling a deep need to process our emotions out loud and connect with one another, though we may not know exactly how to do that.
 
 Keep in mind that as you navigate conversations like these that we never, ever have to agree with someone’s else stance in order to listen to them. Try to remember that as you’re vocalizing your thoughts and listening to others, we’re all human - imperfect, but ingrained to be in community with one another. In our country where we’re growing more distant from one another these conversations - which can offer a chance to understand each other - are more important than ever.
+
+_Photos by [Eun Creative](http://www.euncreative.com/)_
