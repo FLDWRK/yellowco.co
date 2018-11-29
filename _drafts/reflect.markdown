@@ -1,5 +1,5 @@
 ---
-title: reflect
+title: Why Reserving Time to Reflect Is the Best Gift You Can Give Yourself This Year
 date: 2018-12-03 04:00:00 -08:00
 categories:
 - Growth
