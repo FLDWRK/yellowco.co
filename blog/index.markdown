@@ -7,7 +7,7 @@ nav:
     highlight: blog
 pagination:
   enabled: true
-series: Conflict
+series: Reflect
 layout: custom/blog
 ---
 
