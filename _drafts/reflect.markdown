@@ -47,7 +47,7 @@ A good bit of the magic found in reserving the time to reflect comes in yet anot
 
 Personally, December means I’ll be penning poems for my friends about the past year, often within the walls of my favorite coffee shop – warm cup in hand, ceilings decked with some form of evergreen. I’ll exchange secrets with my closest ones about the last minute, seemingly impossible hopes we wish will come before the end of the year (for which we have dubbed the name “Christmas Miracles”). And often, I’ll release a tear for each loss that came, or change that didn’t.
 
-### While the time spent soaking in specific moments from our previous year is an important process, the refresh it offers us to enter the new year with is just as important of a result. 
+### While the time spent soaking in specific moments from our previous year is an important process, the refresh it offers us to enter the new one with is just as important. 
 
 When the process is rushed or skipped altogether, January can come as early as an unwelcome alarm clock. But with a careful sweeping of every corner in our minds and hearts, I find a much roomier space is available for opportunity to grow, for love to take root, for an entire year of life to happily unfold, in full.
 
