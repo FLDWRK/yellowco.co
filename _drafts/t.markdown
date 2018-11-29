@@ -1,13 +1,11 @@
 ---
-title: t
+title: How to Identify Where to Prioritize Your Time & Attention as a Business Owner
 date: 2018-12-07 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Jessica Comingore
 series: Reflect
 ---
-
-Identifying Where You Should Put Your Time & Attention as a Business Owner
 
 Managing my time and making sure I’m focusing my attention in the right places is an ongoing challenge for me, just as it is for most business owners. Things come up, priorities get muddled, and sometimes you find yourself with the same to-do list you had yesterday, or even last week. You may even find yourself unsure of what to focus on because it all seems so important.
 
