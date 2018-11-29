@@ -4,6 +4,7 @@ date: 2018-12-03 04:00:00 -08:00
 categories:
 - Growth
 author: Hanna Snyder
+series: Reflect
 ---
 
 From January,
