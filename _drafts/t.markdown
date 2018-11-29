@@ -3,6 +3,7 @@ title: t
 date: 2018-12-07 04:00:00 -08:00
 categories:
 - Entrepreneurs
+author: Jessica Comingore
 series: Reflect
 ---
 
