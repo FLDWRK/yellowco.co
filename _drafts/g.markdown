@@ -1,6 +1,6 @@
 ---
-title: "A quick guide to having conversations about our political climate: \nSubtitle:
-  Questions to ask for a meaningful/productive/respectful discussion"
+title: Your Guide to Having Healthy Conversations About Our Political Climate (Without
+  Losing It)
 date: 2018-12-05 04:00:00 -08:00
 categories:
 - Culture
