@@ -4,35 +4,24 @@ date: 2018-12-03 04:00:00 -08:00
 categories:
 - Growth
 author: Hanna Snyder
+image: "/uploads/REFLECT_YellowCo0374.jpg"
 series: Reflect
 ---
 
-From January,
+From January,  
 I’ll take the fog kissing my cheek through the passenger window, wheeling through the forest. How her whisper from the other side of the glass pressed to my face promised to breathe rest into my bones, no matter the amount of miles crossed. How she taught me that any space could become familiar when I not only recognized, but honored my own body as my home.
 
-From April,
+From April,  
 I hold the peaceful resolve of my discoveries. Of the way snow-clad, sharp-edged mountains felt in my rear view mirror. Of the clarity found in how my thoughts sounded standing at the rim of a crater. Of fully accepting that my address could be wherever I claim it – and whether it be Big Sur or my backyard, each adventure would be its own shade of grand.
 
-From June,
+From June,  
 I’ll bring all the yeses I gave myself permission to say in the mirror. Yes to taking all my practice gently dismantling the doubts of others, tile by tile, and building my own shelter of courage to keep. Yes to finding freedom in the silence of my mind I used to fear. Yes to embracing the great, universal expanse that comes with trusting your voice.
 
-From August,
+From August,  
 I carry the ownership I took more than any month before. Own that I can create ripple effects the size of waves with my fingertips. Own five times over that the vulnerability of one will allow thousands to bloom. Own the love enveloping my life and offer my greatest response – to expand the edges of its capacity by inviting new life into its magnitude.
 
-From December,
+From December,  
 I’ll rewear the reminders of possibility I stitched into every seam of my being. Remember that beginnings are divine in the nature they arrive – without calling, without context. Remember that endings are divine in the nature they ask my hands to open – with gratitude, with release. Remember that both are infinitely occurring, and with them, a continual carving of the me I am becoming.
-
-
-
-
-
-
-
-
-
-
-
-
 
 With December, we welcome in many a sweet paradoxes. We experience a slowing of our spirit with the simultaneous, anxious spark for newness just around the corner. We close the curtains on the past twelve months, turning them into memories, while rough-drafting our dreams for the next dozen to come. We hibernate into the most nostalgic comforts we know, and shed from within what we won’t carry forward. It is as much an ending as it is a beginning.
 
