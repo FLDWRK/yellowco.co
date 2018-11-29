@@ -3,6 +3,16 @@ title: reflect
 date: 2018-12-03 04:00:00 -08:00
 categories:
 - Growth
+tags:
+- reflect
+- reflection
+- new year
+- end of the year
+- personal growth
+- gratitude
+- self reflection
+- poem
+- poetry
 author: Hanna Snyder
 image: "/uploads/REFLECT_YellowCo0374.jpg"
 series: Reflect
