@@ -5,6 +5,7 @@ date: 2018-12-05 04:00:00 -08:00
 categories:
 - Culture
 author: Gabriele Almon
+image: "/uploads/ShopKaleidos-002.JPG"
 series: Reflect
 ---
 
@@ -24,6 +25,8 @@ You’ll do yourself a world of favor by asking yourself (and the person you’r
 
 If you can be honest with this question, you can save yourself time and emotional energy in the long run. My strong recommendation is to (1.) always come from a place of listening, and (2.) to only engage in these kind of conversations with people who want to listen and share, rather than persuade and debate.
 
+[ShopKaleidos-004.JPG](/uploads/ShopKaleidos-004.JPG)
+
 ##### What are my boundaries and what are yours? 
 
 Establish some simple and basic rules together, such as: no name-calling, no derogatory terms, no raised voices, listen first - speak second. Identify certain words or issues that are emotional landmines for the both of you so that you can either tread lightly with one another and choose disengage if the conversation ventures there.
@@ -42,6 +45,8 @@ Everyone has a story, and not many of us have a chance to share it.
 
 Asking this question could offer another way to understand why the person you’re speaking with feels the way that they feel about certain issues and topics. (And it also offers you, the listener, a way to humanize and connect with someone that you may disagree with.)
 
+[ShopKaleidos-003.JPG](/uploads/ShopKaleidos-003.JPG)
+
 ##### Wondering where can you learn more about facilitating (and participating in) tough conversations?
 
 There are a number of initiatives out there that are specially designed to help us learn how to connect over difficult topics and discuss sensitive topics (like politics). Here are a few I’ve tried myself and recommend:
@@ -51,6 +56,8 @@ There are a number of initiatives out there that are specially designed to help 
 2. [The Civil Conversations Project](http://www.civilconversationsproject.org/) is dedicated to helping people cover difficult group conversations in an open and safe way. Check out their [“Better Conversations: A Starter Guide”](https://static1.squarespace.com/static/52e04689e4b06ba19ad5a957/t/5a7e16f60852291995133e8b/1518212854325/onbeing_ccp_guide_09February2018.pdf) for an easy to follow, step-by-step guide on facilitating effective dialogues. (I’ve read and forwarded this on as a resource to friends many times this past year.)
 
 3. If you work for a corporation and are interested in having people lead a facilitated discussion at the workplace, check out the [Center for Council](https://www.centerforcouncil.org/). They have a proven, yet simple, method for having polarized groups find common ground.
+
+[ShopKaleidos-001.JPG](/uploads/ShopKaleidos-001.JPG)
 
 Do you feel that in times like these, which feel tumultuous and chaotic, that you’re having a hard time processing what’s going on in America? I do, and I imagine that most people in the country do too - even those on the other side of the political spectrum as me.
 
