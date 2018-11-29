@@ -4,6 +4,15 @@ title: Your Guide to Having Healthy Conversations About Our Political Climate (W
 date: 2018-12-05 04:00:00 -08:00
 categories:
 - Culture
+tags:
+- politics
+- political climate
+- political conversation
+- healthy conversation
+- healthy political conversation
+- polarized
+- america
+- united states politics
 author: Gabriele Almon
 image: "/uploads/ShopKaleidos-002.JPG"
 series: Reflect
