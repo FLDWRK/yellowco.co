@@ -22,6 +22,8 @@ In this grid, you organize your tasks in each of the four quadrants and then pri
 
 I’ve found that approaching my day in this way is the best way to identify where I should be spending my time and what _actually_ needs my attention. It’s also served as boundary reinforcement for me; if something comes up and it’s not important and urgent, it can wait (or be delegated).
 
+![jean-philippe-delberghe-660138-unsplash-1.jpg](/uploads/jean-philippe-delberghe-660138-unsplash-1.jpg)
+
 #### Planning to prevent setbacks
 
 In your business, you’ve got deadlines, pressing emails, and things you need to accomplish to move the needle forward each day. Your team also has tasks that they need to finish, but likely rely on _you_ to hand off a piece of the puzzle. All of these tasks need to get done, and you need to make sure you’re not the bottleneck slowing down the rest of the team.
