@@ -40,6 +40,8 @@ To help get things done for me and my team, I create a to-do list that includes 
 
 If you adopt this habit and work to strengthen it, you’ll start to find that you can filter out what requires your response (DMs and texts can wait, I promise) and which “fires” are actually worthy of your involvement. This means less decision fatigue and an increased ability to focus on the “Big Picture” – which is deserves your attention just as much as the daily work does.
 
+![liana-mikah-343245-unsplash-1.jpg](/uploads/liana-mikah-343245-unsplash-1.jpg)
+
 #### 50/50 focus
 
 As business owners, most of our “job” is split between managing a team and growing the business. Personally, I try to commit 50 percent to managing the team and our daily work, and 50 percent to the “big picture.” This could include marketing, business development, community outreach, product launches, etc. It could also mean considering the trajectory you’re on, and evaluating whether that’s in line with where you want to go. Without focusing a large chunk of your time and attention on this important element, your business can float off-course, or even stagnate.
