@@ -3,6 +3,14 @@ title: How to Identify Where to Prioritize Your Time & Attention as a Business O
 date: 2018-12-07 04:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- entrepreneur
+- time management
+- prioritize time
+- identify priorities
+- business owner
+- ceo
+- entrepreneur advice
 author: Jessica Comingore
 image: "/uploads/scott-webb-476290-unsplash-1.jpg"
 series: Reflect
