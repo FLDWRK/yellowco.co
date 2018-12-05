@@ -7,3 +7,5 @@ author: Hanna Snyder
 series: Reflect
 ---
 
+Slingback Tassel Bag by Elevate
+
