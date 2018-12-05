@@ -34,7 +34,7 @@ You’ll do yourself a world of favor by asking yourself (and the person you’r
 
 If you can be honest with this question, you can save yourself time and emotional energy in the long run. My strong recommendation is to (1.) always come from a place of listening, and (2.) to only engage in these kind of conversations with people who want to listen and share, rather than persuade and debate.
 
-[ShopKaleidos-022-1.JPG](/uploads/ShopKaleidos-022-1.JPG)
+![pc3.jpeg](/uploads/pc3.jpeg)
 
 ##### What are my boundaries and what are yours? 
 
@@ -54,7 +54,7 @@ Everyone has a story, and not many of us have a chance to share it.
 
 Asking this question could offer another way to understand why the person you’re speaking with feels the way that they feel about certain issues and topics. (And it also offers you, the listener, a way to humanize and connect with someone that you may disagree with.)
 
-[ShopKaleidos-024-1.JPG](/uploads/ShopKaleidos-024-1.JPG)
+![pc2.jpeg](/uploads/pc2.jpeg)
 
 ##### Wondering where can you learn more about facilitating (and participating in) tough conversations?
 
@@ -66,7 +66,7 @@ There are a number of initiatives out there that are specially designed to help 
 
 3. If you work for a corporation and are interested in having people lead a facilitated discussion at the workplace, check out the [Center for Council](https://www.centerforcouncil.org/). They have a proven, yet simple, method for having polarized groups find common ground.
 
-[ShopKaleidos-023-1.JPG](/uploads/ShopKaleidos-023-1.JPG)
+![pc.jpeg](/uploads/pc.jpeg)
 
 Do you feel that in times like these, which feel tumultuous and chaotic, that you’re having a hard time processing what’s going on in America? I do, and I imagine that most people in the country do too - even those on the other side of the political spectrum as me.
 
