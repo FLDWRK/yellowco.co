@@ -64,7 +64,9 @@ What’s better than treating your friend to a coffee? Having coffee consistentl
 
 ##### [Into the Woods Diffuser Gift Set by Saje](https://www.saje.com/holiday-gift-sets/into-the-woods-702260.html#q=into%2Bthe%2Bwoods&lang=default&start=1)
 
-description
+Welcome to relaxation nation. If your loved one has yet to know the many joys of essential oils drifting through the air (and thus turning their home into a spa-like dream), [this diffuser set](https://www.saje.com/holiday-gift-sets/into-the-woods-702260.html#q=into%2Bthe%2Bwoods&lang=default&start=1) from Saje is the perfect present. Their [Into the Woods](https://www.saje.com/holiday-gift-sets/into-the-woods-702260.html#q=into%2Bthe%2Bwoods&lang=default&start=1) set comes with their Aroma Tree Diffuser and a Rain Forest Diffuser blend – a mix of balsam fir, pine, and cedarwood that’s the perfect balance of fresh and earthy (not to mention 100% natural). Diffusers humidify and revitalize your air with healing essential oils, and release negative ions – all while bringing you calm and clarity to de-stress at the end of the day, or wake up your senses in the morning. 
+
+![ae 1 copy-1.jpg](/uploads/ae%201%20copy-1.jpg)
 
 ##### [Organic, Fair Trade Chocolate Gift Boxes by Alter Eco](https://www.alterecofoods.com/collections/holiday-gifts)
 
