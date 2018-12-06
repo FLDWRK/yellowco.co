@@ -56,9 +56,11 @@ Any wine of theirs I’ve tried has such a crisp, clean finish and sips as smoot
 
 We’re in full-on sweater season people, and few things make a better present than the gift of coziness. Our fave this year: this lovely number by Vetta. Their Cropped Mockneck Sweater is made from organic cotton, a light-but-warm waffle knit, and is cropped to the perfect length for high-waisted jeans. Not to mention – it can be worn multiple ways, so you can literally spend all season in it without looking like you are. Vetta is well known for making sustainable, versatile essentials that you can build a capsule wardobe out of – because they know that one of the best ways to help overproduction in the fashion industry is to simply buy less and rewear more. This sweater has a detachable turtleneck (yes, it really works!), so you can basically give two gifts in one to your sister, friend, or yourself (no judgement).
 
+![BVPGenerous1-1.jpg](/uploads/BVPGenerous1-1.jpg)
+
 ##### [Coffee Subscription from Generous](https://generousmovement.com/collections/subscribe)
 
-description
+What’s better than treating your friend to a coffee? Having coffee consistently delivered to their doorstep to make every morning. [Coffee subscriptions](https://generousmovement.com/collections/subscribe) have been getting more and more popular, and they make for such a thoughtful gift! Our pick of the best beans is [Generous](https://generousmovement.com/collections/subscribe). They offer subscriptions of the most delicious specialty coffees (I’ve been sipping on the rich [Obsidian blend](https://generousmovement.com/collections/all/products/obsidian?variant=8705087930459) and it’s a dream) that can be delivered whenever and however often you would like. Generous partners with socially responsible organizations on each of their products, giving 100% of their profits to causes that are fighting injustices around the world. Talk about a do-good gift.
 
 ##### [Into the Woods Diffuser Gift Set by Saje](https://www.saje.com/holiday-gift-sets/into-the-woods-702260.html#q=into%2Bthe%2Bwoods&lang=default&start=1)
 
