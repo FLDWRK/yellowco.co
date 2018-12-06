@@ -44,7 +44,7 @@ series: Reflect
 
 ##### [Clean Wines from Thrive Market](http://l.thrv.me/yellowconferencewine-25p)
 
-If you’ve yet to hear of Thrive Market, hold onto your chair. It’s an online marketplace full of organic foods and natural products – all at a fraction of retail prices. Including, most importantly, WINE. You can grab a bottle (or six) from them and rest easy knowing that ALL of their wines are organic, biodynamic, or sustainably farmed. Why does this matter? Because wine is not regulated by the FDA, chemicals can be legally added to wine without being printed on the label (yikes). And let me tell you, you can truly taste the difference. 
+If you’ve yet to hear of Thrive Market, hold onto your chair. It’s an online marketplace full of organic foods and natural products – all at a fraction of the price. Including, most importantly, WINE. You can grab a bottle (or six) from them and rest easy knowing that ALL of their wines are organic, biodynamic, or sustainably farmed. Why does this matter? Because wine is not regulated by the FDA, chemicals can be legally added to wine without being printed on the label (yikes). And let me tell you, you can truly taste the difference. 
 
 Any wine of theirs I’ve tried has such a crisp, clean finish and sips as smooth as velvet. So for any hostess gift, stocking stuffer, or dinner party drink of choice this year, these are our go-to. My favorite so far? The 
 
