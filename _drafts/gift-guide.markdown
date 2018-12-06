@@ -3,6 +3,38 @@ title: GIFT GUIDE
 date: 2018-12-10 04:00:00 -08:00
 categories:
 - Conscious Living
+tags:
+- gift guide
+- conscious gift guide
+- thrive market
+- clean wine
+- organic wine
+- vetta
+- vetta capsule
+- sweater
+- ethical sweater
+- ethically made clothing
+- ethical christmas gifts
+- holiday gift guide
+- christmas gift guide
+- coffee subscription
+- fair trade coffee
+- saje
+- diffuser
+- essential oils
+- organic chocolate
+- vegan chocolate
+- alter eco
+- ethical leather
+- elevate
+- ethical leather bag
+- throw blanket
+- gifts for good
+- ethical earrings
+- able
+- 31 bits
+- ethical home goods
+- vase
 author: Hanna Snyder
 series: Reflect
 ---
