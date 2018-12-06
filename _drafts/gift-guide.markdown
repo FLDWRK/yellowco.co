@@ -40,9 +40,11 @@ author: Hanna Snyder
 series: Reflect
 ---
 
+![Social_IG_1000x1000.png](/uploads/Social_IG_1000x1000.png)
+
 ##### [Clean Wines from Thrive Market](http://l.thrv.me/yellowconferencewine-25p)
 
-description
+My favorite so far? The 
 
 ##### Cropped Mockneck Sweater by Vetta
 
