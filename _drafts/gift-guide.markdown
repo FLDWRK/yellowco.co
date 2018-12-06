@@ -35,6 +35,7 @@ tags:
 - 31 bits
 - ethical home goods
 - vase
+- christmas shopping discounts
 author: Hanna Snyder
 series: Reflect
 ---
