@@ -70,9 +70,11 @@ Welcome to relaxation nation. If your loved one has yet to know the many joys of
 
 ![ae 1 copy-1.jpg](/uploads/ae%201%20copy-1.jpg)
 
-##### [Organic, Fair Trade Chocolate Gift Boxes by Alter Eco](https://www.alterecofoods.com/collections/holiday-gifts)
+##### [Organic Chocolate Gift Boxes by Alter Eco](https://www.alterecofoods.com/collections/holiday-gifts)
 
-description
+I love chocolate more than anyone I know, and in my eyes (and taste buds) no bar has measured up to Alter Eco’s. They make a bunch of different decadent flavors (I can’t get away from the Dark Salted Brown Butter) of delicious chocolate that is organic, fair trade, and even some that are vegan! This holiday season, Alter Eco is planting a tree in the Peruvian Amazon for every gift box sold as part of their reforestation project. Chocolate + saving the planet – need we say more?
+
+**[Use code YELLOWCO for 25% off any of their holiday gift boxes!](https://www.alterecofoods.com/collections/holiday-gifts)**
 
 ##### [Slingback Tassel Bag by Elevate](https://www.elevatepeople.com/collections/bags/products/slingback?variant=9048685314084)
 
