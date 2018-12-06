@@ -48,7 +48,7 @@ If you’ve yet to hear of [Thrive Market](http://l.thrv.me/yellowconferencewine
 
 Any wine of theirs I’ve tried has such a crisp, clean finish and sips as smooth as velvet. So for any hostess gift, stocking stuffer, or dinner party drink of choice this year, these are our go-to. My favorite so far? The Verdicchio Classico by Tenuta dell'Ugolino.
 
-**[Grab an extra 25% off your first purchase + a free 30-day membership to their site HERE.](http://l.thrv.me/yellowconferencewine-25p)**
+**[Grab an extra 25% off your first purchase + a free 30-day membership to their site HERE!](http://l.thrv.me/yellowconferencewine-25p)**
 
 ![The Cropped Mockneck Sweater - Editorial 1-1.jpg](/uploads/The%20Cropped%20Mockneck%20Sweater%20-%20Editorial%201-1.jpg)
 
@@ -61,6 +61,8 @@ We’re in full-on sweater season people, and few things make a better present t
 ##### [Coffee Subscription from Generous](https://generousmovement.com/collections/subscribe)
 
 What’s better than treating your friend to a coffee? Having coffee consistently delivered to their doorstep to make every morning. [Coffee subscriptions](https://generousmovement.com/collections/subscribe) have been getting more and more popular, and they make for such a thoughtful gift! Our pick of the best beans is [Generous](https://generousmovement.com/collections/subscribe). They offer subscriptions of the most delicious specialty coffees (I’ve been sipping on the rich [Obsidian blend](https://generousmovement.com/collections/all/products/obsidian?variant=8705087930459) and it’s a dream) that can be delivered whenever and however often you would like. Generous partners with socially responsible organizations on each of their products, giving 100% of their profits to causes that are fighting injustices around the world. Talk about a do-good gift.
+
+![Screen Shot 2018-12-04 at 3.01.22 PM.png](/uploads/Screen%20Shot%202018-12-04%20at%203.01.22%20PM.png)
 
 ##### [Into the Woods Diffuser Gift Set by Saje](https://www.saje.com/holiday-gift-sets/into-the-woods-702260.html#q=into%2Bthe%2Bwoods&lang=default&start=1)
 
