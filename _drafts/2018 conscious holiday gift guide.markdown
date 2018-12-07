@@ -1,5 +1,5 @@
 ---
-title: GIFT GUIDE
+title: Our 2018 Do-Good Holiday Gift Guide (With Discounts!)
 date: 2018-12-10 04:00:00 -08:00
 categories:
 - Conscious Living
