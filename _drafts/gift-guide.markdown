@@ -74,7 +74,7 @@ Welcome to relaxation nation. If your loved one has yet to know the many joys of
 
 I love chocolate more than anyone I know, and in my eyes (and taste buds) no bar has measured up to Alter Eco’s. They make a bunch of different decadent flavors (I can’t get away from the Dark Salted Brown Butter) of delicious chocolate that is organic, fair trade, and even some that are vegan! This holiday season, Alter Eco is planting a tree in the Peruvian Amazon for every gift box sold as part of their reforestation project. Chocolate + saving the planet – need we say more?
 
-**[Use the code YELLOWCO for 25% off any of their holiday gift boxes!](https://www.alterecofoods.com/collections/holiday-gifts)**
+**[Use code YELLOWCO for 25% off any of their holiday gift boxes!](https://www.alterecofoods.com/collections/holiday-gifts)**
 
 ![yellowco.jpg](/uploads/yellowco.jpg)
 
@@ -82,7 +82,7 @@ I love chocolate more than anyone I know, and in my eyes (and taste buds) no bar
 
 For the ethical leather lover on your list. Elevate’s [Slingback Tassel Bag](https://www.elevatepeople.com/collections/bags/products/slingback?variant=9048685314084) is handcrafted by global artisans, and 50% of the proceeds from each purchase are reinvested into creating even more meaningful, sustainable jobs for men and women in South Asia. Plus, it’s thoughtfully designed to change your day-to-day while simultaneously changing the world. This bag is a 3-in-1 that triples as a bucket bag, crossbody, _and_ a backpack (talk about multitasking). It’s the ultimate conscious gift that keeps on giving.
 
-**[Use the code holiday10 for 10% off your order!](https://www.elevatepeople.com/)**
+**[Use code holiday10 for 10% off your order!](https://www.elevatepeople.com/)**
 
 ##### [Flat Weave Fouta Throw from Gifts for Good](https://www.giftsforgood.com/collections/home-personal-care/products/asymmetric-flat-weave-fouta-throw)
 
