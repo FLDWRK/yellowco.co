@@ -96,8 +96,10 @@ Use code DOGOOD for 10% off, or get it automatically by using [this link!](https
 
 ##### [Totem Earrings by ABLE](https://www.livefashionable.com/products/totem-earrings)
 
-You can really never go wrong with jewelry, right? These Totem Earrings are our pick this year for the girl on our list who loves to make a statement while keeping it classy. ABLE is an incredible lifestyle brand focused on ending generational poverty by providing jobs for women. Their products are handcrafted and bring impact to Nashville, Ethiopia, Mexico, Peru, and more. We’re big fans.
+You can really never go wrong with jewelry, right? These [Totem Earrings](https://www.livefashionable.com/products/totem-earrings) are our pick this year for the girl on our list who loves to make a statement while keeping it classy. [ABLE](https://www.livefashionable.com/) is an incredible lifestyle brand focused on ending generational poverty by providing jobs for women. Their products are handcrafted and bring impact to Nashville, Ethiopia, Mexico, Peru, and more. We’re big fans.
+
+![31Bits-F18-NewHomeGoods-Styled-25_800x1000.jpg](/uploads/31Bits-F18-NewHomeGoods-Styled-25_800x1000.jpg)
 
 ##### [Sunbeam Vase by 31 Bits](https://31bits.com/collections/goods/products/sunbeam-vase-tall?variant=13587904495699)
 
-description
+Has anyone seen the gorgeous home goods 31 Bits have been making? We’ve been swooning over them! My current favorite in their collection is this [Sunbeam Vase](https://31bits.com/collections/goods/products/sunbeam-vase-tall?variant=13587904495699) – it’s quirky, simple, and truly one of a kind. [31 Bits](https://31bits.com/) creates products that are ethically made by artisans around the world (this vase was handmade in Bali!) - providing fair pay, safe workshops, a family work culture, and opportunity to use traditional techniques on modern designs.
