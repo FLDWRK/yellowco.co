@@ -40,6 +40,8 @@ author: Hanna Snyder
 series: Reflect
 ---
 
+Dreaming up thoughtful gifts is one of my absolute favorite things to do (aka slightly obsess over) at this time of year. But beyond remembering that one wish my friend mentioned off the cuff that one time, or finding the perfect class for my parent's new hobby, thoughtful gifting has taken on a new meaning for me. We have _so much_ opportunity in this season to be thoughtful of the impact our purchases have and to vote, and vote hard, with our dollars for the brands we want to support. So, I've rounded up our Yellow team's picks for not only some grand gift ideas for everyone on your list, but all from brands that truly inspire, motivate, and excite by the incredible impact each of them are making in the world. **(A few of which have discounts for you below!)** Happy conscious shopping! 
+
 ![Social_IG_1000x1000.png](/uploads/Social_IG_1000x1000.png)
 
 ##### [Clean Wines from Thrive Market](http://l.thrv.me/yellowconferencewine-25p)
