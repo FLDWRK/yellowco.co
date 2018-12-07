@@ -80,7 +80,7 @@ I love chocolate more than anyone I know, and in my eyes (and taste buds) no bar
 
 ##### [Slingback Tassel Bag by Elevate](https://www.elevatepeople.com/collections/bags/products/slingback?variant=9048685314084)
 
-description
+For the ethical leather lover on your list. Elevate’s [Slingback Tassel Bag](https://www.elevatepeople.com/collections/bags/products/slingback?variant=9048685314084) is handcrafted by global artisans, and 50% of the proceeds from each purchase are reinvested into creating even more meaningful, sustainable jobs for men and women in South Asia. Plus, it’s thoughtfully designed to change your day-to-day while simultaneously changing the world. This bag is a 3-in-1 that triples as a bucket bag, crossbody, _and_ a backpack (talk about multitasking). It’s the ultimate conscious gift that keeps on giving.
 
 **[Use the code holiday10 for 10% off your order!](https://www.elevatepeople.com/)**
 
