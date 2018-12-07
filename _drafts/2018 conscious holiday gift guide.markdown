@@ -37,7 +37,7 @@ tags:
 - vase
 - christmas shopping discounts
 author: Hanna Snyder
-image: "/uploads/test-2a0917.jpg"
+image: "/uploads/Totem_Earrings-c53cd0.jpg"
 series: Reflect
 ---
 
