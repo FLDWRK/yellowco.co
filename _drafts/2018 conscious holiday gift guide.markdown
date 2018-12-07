@@ -37,7 +37,7 @@ tags:
 - vase
 - christmas shopping discounts
 author: Hanna Snyder
-image: "/uploads/GG.gif"
+image: "/uploads/GG-1.jpg"
 series: Reflect
 ---
 
