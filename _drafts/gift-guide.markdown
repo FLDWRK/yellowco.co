@@ -84,9 +84,13 @@ For the ethical leather lover on your list. Elevate’s [Slingback Tassel Bag](h
 
 **[Use code holiday10 for 10% off your order!](https://www.elevatepeople.com/)**
 
+![Gift for Good047-1.jpg](/uploads/Gift%20for%20Good047-1.jpg)
+
 ##### [Flat Weave Fouta Throw from Gifts for Good](https://www.giftsforgood.com/collections/home-personal-care/products/asymmetric-flat-weave-fouta-throw)
 
-description
+This versatile throw is the perfect go-to gift for anyone! The [Flat Weave Fouta](https://www.giftsforgood.com/collections/home-personal-care/products/asymmetric-flat-weave-fouta-throw) (or Tunisian towel) from [Gifts for Good](https://www.giftsforgood.com/discount/DOGOOD) can be used as a cozy throw, beach blanket, bath towel, tablecloth, baby blanket – you name it. It’s as luxurious as it is lightweight, and not to mention - machine washable. If you’ve yet to shop through Gifts for Good, head on over to their online market of conscious gifts that give back! Every item on their site helps support the work of over 40 nonprofits and social enterprises around the world – funding causes that provide things like clean water, food, hearing, shelter for the homeless, support to human trafficking survivors, and employment for refugees.
+
+Use code DOGOOD for 10% off, or get it automatically by using [this link!](https://www.giftsforgood.com/discount/DOGOOD)
 
 ##### [Totem Earrings by ABLE](https://www.livefashionable.com/products/totem-earrings)
 
