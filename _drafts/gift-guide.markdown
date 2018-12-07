@@ -74,11 +74,15 @@ Welcome to relaxation nation. If your loved one has yet to know the many joys of
 
 I love chocolate more than anyone I know, and in my eyes (and taste buds) no bar has measured up to Alter Eco’s. They make a bunch of different decadent flavors (I can’t get away from the Dark Salted Brown Butter) of delicious chocolate that is organic, fair trade, and even some that are vegan! This holiday season, Alter Eco is planting a tree in the Peruvian Amazon for every gift box sold as part of their reforestation project. Chocolate + saving the planet – need we say more?
 
-**[Use code YELLOWCO for 25% off any of their holiday gift boxes!](https://www.alterecofoods.com/collections/holiday-gifts)**
+**[Use the code YELLOWCO for 25% off any of their holiday gift boxes!](https://www.alterecofoods.com/collections/holiday-gifts)**
+
+![yellowco.jpg](/uploads/yellowco.jpg)
 
 ##### [Slingback Tassel Bag by Elevate](https://www.elevatepeople.com/collections/bags/products/slingback?variant=9048685314084)
 
 description
+
+**[Use the code holiday10 for 10% off your order!](https://www.elevatepeople.com/)**
 
 ##### [Flat Weave Fouta Throw from Gifts for Good](https://www.giftsforgood.com/collections/home-personal-care/products/asymmetric-flat-weave-fouta-throw)
 
