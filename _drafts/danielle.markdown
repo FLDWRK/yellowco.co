@@ -1,6 +1,5 @@
 ---
-title: Reflect on Your Year with This Guided Writing Exercise from “I Am Her” Poet,
-  Danielle Doby
+title: Reflect on 2018 with This Writing Exercise from “I Am Her” Poet, Danielle Doby
 date: 2018-12-12 04:00:00 -08:00
 categories:
 - Growth
