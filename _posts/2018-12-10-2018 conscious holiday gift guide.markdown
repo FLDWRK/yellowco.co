@@ -101,6 +101,8 @@ This versatile throw is the perfect go-to gift for anyone! The [Flat Weave Fouta
 
 You can really never go wrong with jewelry, right? These [Totem Earrings](https://www.livefashionable.com/products/totem-earrings) are our pick this year for the girl on our list who loves to make a statement while keeping it classy. [ABLE](https://www.livefashionable.com/) is an incredible lifestyle brand focused on ending generational poverty by providing jobs for women. Their products are handcrafted and bring impact to Nashville, Ethiopia, Mexico, Peru, and more. We’re big fans.
 
+**[Use code YELLOW20 for 20% off your order!](https://www.livefashionable.com/)**
+
 ![31Bits-F18-NewHomeGoods-Styled-25_800x1000.jpg](/uploads/31Bits-F18-NewHomeGoods-Styled-25_800x1000.jpg)
 
 ##### [Sunbeam Vase by 31 Bits](https://31bits.com/collections/goods/products/sunbeam-vase-tall?variant=13587904495699)
