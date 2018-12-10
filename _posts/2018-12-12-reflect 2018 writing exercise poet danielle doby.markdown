@@ -3,6 +3,19 @@ title: Reflect on 2018 with This Writing Exercise from “I Am Her” Poet, Dani
 date: 2018-12-12 04:00:00 -08:00
 categories:
 - Growth
+tags:
+- I am Her poet
+- I am Her
+- writing exercise
+- 2018 reflection
+- self reflection
+- reflect on the year
+- self reflection writing exercise
+- guided writing prompt
+- writing prompt
+- danielle doby
+- poet
+- instagram poets
 author: Danielle Doby
 image: "/uploads/Screen%20Shot%202018-12-10%20at%2011.29.29%20AM.png"
 series: Reflect
