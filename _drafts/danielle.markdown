@@ -4,6 +4,7 @@ date: 2018-12-12 04:00:00 -08:00
 categories:
 - Growth
 author: Danielle Doby
+image: "/uploads/britney-gill-photography_I-AM-HER-TRIBE_47-42128a.jpg"
 series: Reflect
 ---
 
@@ -47,4 +48,4 @@ With reflection comes awareness. With awareness comes deeper understanding and t
 
 When we choose to honor the past and thank it for all it has taught us and where it has led us, we move forward with acceptance, clarity, gratitude, and the freedom to create anything we want to. In the new year to come, let yourself dream without boundaries and use your self-declarations and intentions from this exercise as guiding lights, while also giving them space to shift and evolve with you. When you continue to choose in the name of your heart, there is no wrong step or answer. All will bring you closer to love, all will show you the way home.  
 
-_Images courtesy of Danielle Doby_
+_Images courtesy of Danielle Doby, by Britney Gill_
