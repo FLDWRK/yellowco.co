@@ -4,7 +4,7 @@ date: 2018-12-12 04:00:00 -08:00
 categories:
 - Growth
 author: Danielle Doby
-image: "/uploads/britney-gill-photography_I-AM-HER-TRIBE_47-42128a.jpg"
+image: "/uploads/Screen%20Shot%202018-12-10%20at%2011.29.29%20AM.png"
 series: Reflect
 ---
 
@@ -32,7 +32,7 @@ Without worrying about how it may look, how it may sound, or what anyone else ma
 
 Remember that it all holds value, no matter how small or passing the thought may seem in the moment. The practice: write down what's honest and real, not perfect.
 
-![britney-gill-photography_I-AM-HER-TRIBE_263.jpg](/uploads/britney-gill-photography_I-AM-HER-TRIBE_263.jpg)
+![britney-gill-photography_I-AM-HER-TRIBE_47-42128a.jpg](/uploads/britney-gill-photography_I-AM-HER-TRIBE_47-42128a.jpg)
 
 #### Get curious. 
 
@@ -46,7 +46,7 @@ When did you choose someone else's happiness over your own? How did you use this
 
 With reflection comes awareness. With awareness comes deeper understanding and the opportunity for change. Now, with your new and honest discoveries, ask yourself these questions: In what ways did the past year prepare me for where I am going? What do I choose to take with me into the new year, and what do I want to leave behind? What will nourish me and help me grow in this next season? What will I let go of right now, so that new gifts can make their way to me?  Who do I need to be and what do I need to commit to, so that I create the future I want for myself that has yet to exist? Write your declarations down. 
 
-![britney-gill-photography_I-AM-HER-TRIBE_258.jpg](/uploads/britney-gill-photography_I-AM-HER-TRIBE_258.jpg)
+![britney-gill-photography_I-AM-HER-TRIBE_263.jpg](/uploads/britney-gill-photography_I-AM-HER-TRIBE_263.jpg)
 
 #### What we let go of creates room for new beginnings.
 
