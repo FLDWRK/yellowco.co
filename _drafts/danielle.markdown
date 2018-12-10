@@ -18,6 +18,8 @@ Use your breath as a vehicle to bring yourself to a state of restful awareness.
 
 Find a comfortable seat that allows you to feel both connected and grounded. Sit up tall, place one hand on your chest, the other resting on your soft belly. Close your eyes, unclench your jaw, relax your shoulders and begin to slowly inhale and exhale in a fluid movement that feels free and expansive. After a few cycles of breath, scan your inner landscape and repeat this rhythm until you feel a sense of calm and ease. 
 
+![britney-gill-photography_I-AM-HER-TRIBE_77.jpg](/uploads/britney-gill-photography_I-AM-HER-TRIBE_77.jpg)
+
 #### Go back to the basics. 
 
 Put away your computer, tablet or phone and opt for a journal and pen instead. The physical act of putting ink to paper and writing down your thoughts creates a mind-body connection that helps your brain fully integrate itself into the task at hand. Bonus: in between sections, read your findings out loud and acknowledge your emotional response to how the words roll off your tongue and land in your body. Your feelings and how they surface often hold the answers we are searching for.
@@ -29,6 +31,8 @@ Without worrying about how it may look, how it may sound, or what anyone else ma
 ### The technique of writing continuously can often get us out of our heads, remove blocks, and shift us out of self-doubt. 
 
 Remember that it all holds value, no matter how small or passing the thought may seem in the moment. The practice: write down what's honest and real, not perfect.
+
+![britney-gill-photography_I-AM-HER-TRIBE_263.jpg](/uploads/britney-gill-photography_I-AM-HER-TRIBE_263.jpg)
 
 #### Get curious. 
 
@@ -42,10 +46,12 @@ When did you choose someone else's happiness over your own? How did you use this
 
 With reflection comes awareness. With awareness comes deeper understanding and the opportunity for change. Now, with your new and honest discoveries, ask yourself these questions: In what ways did the past year prepare me for where I am going? What do I choose to take with me into the new year, and what do I want to leave behind? What will nourish me and help me grow in this next season? What will I let go of right now, so that new gifts can make their way to me?  Who do I need to be and what do I need to commit to, so that I create the future I want for myself that has yet to exist? Write your declarations down. 
 
+![britney-gill-photography_I-AM-HER-TRIBE_258.jpg](/uploads/britney-gill-photography_I-AM-HER-TRIBE_258.jpg)
+
 #### What we let go of creates room for new beginnings.
 
 ### There is a powerful saying that goes: "Letting go is releasing all hope for a better past." 
 
 When we choose to honor the past and thank it for all it has taught us and where it has led us, we move forward with acceptance, clarity, gratitude, and the freedom to create anything we want to. In the new year to come, let yourself dream without boundaries and use your self-declarations and intentions from this exercise as guiding lights, while also giving them space to shift and evolve with you. When you continue to choose in the name of your heart, there is no wrong step or answer. All will bring you closer to love, all will show you the way home.  
 
-_Images courtesy of Danielle Doby, by Britney Gill_
+_Images courtesy of [Danielle Doby](https://www.danielledoby.com/), by Britney Gill_
