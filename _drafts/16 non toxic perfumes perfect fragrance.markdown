@@ -148,4 +148,4 @@ This fragrance is absolutely beautiful. It has a faint coconut scent, but also h
 
 **[Honore des Pres:](https://honoredespres.com/en/100-natural.html)** 100% natural and vegan. Uses no synthetic fragrance, added coloring, phlalates, or other additives known to be aggressive to the skin.
 
-_Images via 
+_Images via [Abel:](https://us.abelodor.com), [LURK:](https://lurkmade.com), [Splash of Scent:](https://splashofscent.com/), [Ellis Brooklyn:](https://www.ellisbrooklyn.com/), [Alitura:](https://alituranaturals.com), [Strange Invisible:](https://siperfumes.com), [by rosie jane:](https://byrosiejane.com), [Dasein:](http://www.daseinfragrance.com), [Smoke Perfume:](https://smokeperfume.com/), [MCMC:](https://mcmcfragrances.com), [PHLUR:](https://phlur.com), [One Seed Perfumes:](https://oneseedperfumes.com), [Hiram Green:](https://hiramgreen.com/), [Pour Le Monde:](https://pourlemondeparfums.com), [Floracopeia:](https://www.floracopeia.com), [Honore des Pres:](https://honoredespres.com)_
