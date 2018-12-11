@@ -19,10 +19,11 @@ quote:
   title:
     Key 1: What more info? Hop on our interest list!
 details:
-- title: KNOW YOU'RE CAPABLE OF MORE?
-  text: You know you have potential that’s waiting to be unleashed. You know that
-    you’re capable of making big waves of good in the world, and you want community
-    and resources to begin.
+- title: CRAVE A PLACE TO ASK QUESTIONS & GIVE ADVICE?
+  text: You have a lot to offer, but you also have a lot to learn when it comes to
+    building your do-good business. You'd love a place to bounce your ideas off of
+    like-minded ladies as well as offer the wisdom you've learned to those just starting
+    out.
 - title: CRAVE DIRECTION & PURPOSE?
   text: You’re excited to find the larger purpose in what you do. You move from client
     to client or project to project wanting more direction and clarity on how to make
