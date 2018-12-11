@@ -36,7 +36,17 @@ theme:
   image: "/uploads/Screen%20Shot%202018-12-11%20at%2011.53.02%20AM.png"
   title: Where entrepreneurial women who care about making an impact for good gather
     to learn from, inspire and meet each other!
-  text: 
+  text: |-
+    As a member of The Yellow Collective, you will:
+
+    • Gain access to a community of like-minded women working to make an impact for good on the world.
+    • Ask your do-good business questions and get advice with the challenges you're facing.
+    • Have access to member-only interactive digital courses and events.
+    • Be invited to exclusive member-only events surrounding our conferences.
+    • Get first access to our retreat and event announcements.
+    • Create or attend a local, in-person event for members in your area.
+    • Have access to past Yellow Conference speaker videos to watch any time you like.
+    • Gain access to our vault filled with PDF worksheets, past webcast interviews with influential women and workbooks to help you better create meaningful work.
   months-title: Make 2018 the year you take _ownership_ of your life
   months:
   - title: January • Tenderness
