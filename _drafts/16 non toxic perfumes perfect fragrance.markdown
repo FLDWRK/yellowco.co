@@ -116,14 +116,6 @@ Dreamer is a playful, fruity, feminine fragrance. I could immediately smell the 
 
 **[One Seed Perfumes:](https://oneseedperfumes.com/pages/about)** Uses all-natural ingredients with at least 80% organic content, and all their products are gentle on skin and the environment. Packaging is minimal, and all of it is recyclable or reusable.
 
-![ginger.jpg](/uploads/ginger.jpg)
-
-##### [Ginger Lily Attar by Floracopeia](https://www.floracopeia.com/ginger-lily-attar-roll-on)
-
-Perfect for lovers of deeper sandalwood fragrances, and for those who want their perfume to double as aromatherapy! I could only very lightly smell the ginger lily that blends with the sandalwood base notes, and actually ended up sleeping in this fragrance a few nights. Floracopeia describes this fragrance as “an aromatic masterpiece” and as sandalwood is a mild sedative, it certainly did the job!
-
-**[Floracopeia:](https://www.floracopeia.com/floracopeia)** Uses only natural essential oils. Ingredient lists available on the website.
-
 ![slow.jpg](/uploads/slow.jpg)
 
 ##### [Slowdive by Hiram Green](https://hiramgreen.com/collections/fragrances/products/slowdive) 
@@ -131,8 +123,6 @@ Perfect for lovers of deeper sandalwood fragrances, and for those who want their
 I loved this scent— it is complex, exotic, and once I spritzed it on, it warmed up to a beautiful, warm honey scent (probably due to the beeswax notes). As it wears, it slightly changes, but stays true to its initial impression. [Hyde](https://hiramgreen.com/collections/fragrances/products/copy-of-hyde) was runner up— this fragrance is rich and opulent, and made quite an impression! 
 
 **[Hiram Green:](https://hiramgreen.com/)** Deeply complex fragrances made exclusively from natural materials.
-
-
 
 ![alt_-PourleMonde_natural_fragrance_Empower_1080x.png](/uploads/alt_-PourleMonde_natural_fragrance_Empower_1080x.png)
 
@@ -142,6 +132,14 @@ This is a really beautiful citrus scent, with mint heart notes and a deeper wood
 
 **[Pour Le Monde:](https://pourlemondeparfums.com/collections/pour-le-monde)** Pour Le Monde fragrances are 100% natural and synthetic free. Free of harmful chemicals such as phthalates, dyes, sulfates, chemical sunscreens, and petrochemicals. They use a corn based alcohol, essential oils and that are extracted using a steam distillation technique.
 
+![ginger.jpg](/uploads/ginger.jpg)
+
+##### [Ginger Lily Attar by Floracopeia](https://www.floracopeia.com/ginger-lily-attar-roll-on)
+
+Perfect for lovers of deeper sandalwood fragrances, and for those who want their perfume to double as aromatherapy! I could only very lightly smell the ginger lily that blends with the sandalwood base notes, and actually ended up sleeping in this fragrance a few nights. Floracopeia describes this fragrance as “an aromatic masterpiece” and as sandalwood is a mild sedative, it certainly did the job!
+
+**[Floracopeia:](https://www.floracopeia.com/floracopeia)** Uses only natural essential oils. Ingredient lists available on the website.
+
 ![coconut.jpg](/uploads/coconut.jpg)
 
 ##### [Love Coconut by Honore Des Pres ](https://honoredespres.com/store/honore-des-pres/25-mon-parfum.html)
@@ -150,4 +148,4 @@ This fragrance is absolutely beautiful. It has a faint coconut scent, but also h
 
 **[Honore des Pres:](https://honoredespres.com/en/100-natural.html)** 100% natural and vegan. Uses no synthetic fragrance, added coloring, phlalates, or other additives known to be aggressive to the skin.
 
-
+_Images via 
