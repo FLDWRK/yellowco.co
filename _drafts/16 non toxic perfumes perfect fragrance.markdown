@@ -36,14 +36,6 @@ This delicious combination of orange, lime, and sandalwood notes are actually a 
 
 **[LURK:](https://lurkmade.com/pages/our-story)** All fragrances are created with 100% pure essential oils with no additives, synthetics, compounds, fixatives, preservatives, GMO's, phthalates, or parabens. Recycled, recyclable, and reusable packaging.
 
-![scifi-e6b0aa.jpg](/uploads/scifi-e6b0aa.jpg)
-
-##### [Sci Fi by Ellis Brooklyn ](https://www.ellisbrooklyn.com/collections/eau-de-parfum/products/sci-fi-eau-de-parfum)
-
-This fragrance starts out fresh and citrusy with bergamot and orange as the top notes, with a sweet cashmere and vanilla base that blends beautifully with the green tea and freesia mid notes. The blend of citrus with sweet makes SciFi perfect to wear at day or at night.
-
-**[Ellis Brooklyn:](https://www.ellisbrooklyn.com/pages/about)** Phthalates-free, paraben-free, cruelty-free, eco-friendly (meaning they use responsible sourcing and partner with sustainable businesses. They also use recycled, lead-free glass and FSC-certified, Green Seal certified paper stock for their packaging, and offset their carbon footprint through carbon-neutral shipping.
-
 ![DSC_0674-2.jpg](/uploads/DSC_0674-2.jpg)
 
 ##### [Mai by Splash of Scent](https://splashofscent.com/fragrance/mai/)
@@ -52,13 +44,13 @@ Mai’s top notes of citrus, bergamot, orange and spices are immediately apparen
 
 **[Splash of Scent:](https://splashofscent.com/natural-perfumes-colognes-honest-prices/about-us/)** Made primarily of organic, and if not available, natural ingredients. Non-toxic, no phthalates, no parabens.
 
-![hepcat.jpg](/uploads/hepcat.jpg)
+![scifi-e6b0aa.jpg](/uploads/scifi-e6b0aa.jpg)
 
-##### [Hepcat by PHLUR](https://phlur.com/products/hepcat) 
+##### [Sci Fi by Ellis Brooklyn ](https://www.ellisbrooklyn.com/collections/eau-de-parfum/products/sci-fi-eau-de-parfum)
 
-As the temperatures drop I found myself pulled towards the dark and smoky Hepcat (though I can already tell that [Hanami](https://phlur.com/products/hanami) will be my summer faves!) PHLUR describes Hepcat as being inspired by the jazz aficionados of the 40’s and 50’s, and one sniff of the saffron, black vetiver, tobacco and oud notes will make it perfectly clear why. 
+This fragrance starts out fresh and citrusy with bergamot and orange as the top notes, with a sweet cashmere and vanilla base that blends beautifully with the green tea and freesia mid notes. The blend of citrus with sweet makes SciFi perfect to wear at day or at night.
 
-**[PHLUR:](https://phlur.com/about)** Hypoallergenic, cruelty-free, vegan, sustainably sourced and packaged with recycled materials, and never uses parabens, phthalates, BHT, phenoxyethanol and nitro musks. Full ingredient lists for each fragrance can be found on their website. They also encourage volunteerism and regularly hold all-team service days at their base of Austin, TX.
+**[Ellis Brooklyn:](https://www.ellisbrooklyn.com/pages/about)** Phthalates-free, paraben-free, cruelty-free, eco-friendly (meaning they use responsible sourcing and partner with sustainable businesses. They also use recycled, lead-free glass and FSC-certified, Green Seal certified paper stock for their packaging, and offset their carbon footprint through carbon-neutral shipping.
 
 ![alitura presence.jpg](/uploads/alitura%20presence.jpg)
 
@@ -68,6 +60,14 @@ I am obsessed with this fragrance— if you love Santal 33 by Le Labo you will l
 
 **[Alitura:](https://alituranaturals.com/about-us-best-moisturizer-and-clay-masks/)** Vegan, cruelty free, and is free of parabens, phthalates, sulfates, dye, gluten, mineral oil and silicone. Alitura is devoted to providing qualities of the highest quality and are anti-laboratory, anti-GMO and anti-chemicals. 
 
+![Screen Shot 2018-12-11 at 11.45.13 AM.png](/uploads/Screen%20Shot%202018-12-11%20at%2011.45.13%20AM.png)
+
+##### [Autumn by Dasein](http://www.daseinfragrance.com/shop/autumn-unisex-fragrance)
+
+Dasein has a fragrance for each season (literally) and it just so happened that my favorite season and favorite scent went hand-in-hand. Autumn has notes of amber, incense, cedar, coffee and cinnamon bark— I could really smell the cinnamon come through and it felt like the perfect fragrance for a crisp day spent snuggled up in a blanket and reading by a fire. 
+
+**[Dasein:](http://www.daseinfragrance.com/about/)** Paraben, glycol and cruelty free. The fragrances include raw materials sourced from around the globe including: natural essential oils and absolutes, precise co2 extractions, and modern aroma molecules and isolates.
+
 ![MCMC_MONOI_copy_1024x1024.jpg](/uploads/MCMC_MONOI_copy_1024x1024.jpg)
 
 ##### [Monoï by MCMC ](https://mcmcfragrances.com/collections/monoi/products/monoi-10ml-perfume-oil)
@@ -75,6 +75,14 @@ I am obsessed with this fragrance— if you love Santal 33 by Le Labo you will l
 If you are looking for a soft, subtle, and completely lovely fragrance, then this is a great option. Monoï reminds me of a cool breeze at the very beginning of summer. It’s floral, but with the slightest hint of coconut to keep it warm. There is a slight “green” scent that balances out the coconut beautifully, and keeps the overall fragrance complex. 
 
 **[MCMC:](https://mcmcfragrances.com/pages/about)** Phthalate-free, paraben-free, gluten-free, vegan and not tested on animals.
+
+![hepcat.jpg](/uploads/hepcat.jpg)
+
+##### [Hepcat by PHLUR](https://phlur.com/products/hepcat) 
+
+As the temperatures drop I found myself pulled towards the dark and smoky Hepcat (though I can already tell that [Hanami](https://phlur.com/products/hanami) will be my summer faves!) PHLUR describes Hepcat as being inspired by the jazz aficionados of the 40’s and 50’s, and one sniff of the saffron, black vetiver, tobacco and oud notes will make it perfectly clear why. 
+
+**[PHLUR:](https://phlur.com/about)** Hypoallergenic, cruelty-free, vegan, sustainably sourced and packaged with recycled materials, and never uses parabens, phthalates, BHT, phenoxyethanol and nitro musks. Full ingredient lists for each fragrance can be found on their website. They also encourage volunteerism and regularly hold all-team service days at their base of Austin, TX.
 
 ![ginger.jpg](/uploads/ginger.jpg)
 
@@ -92,7 +100,7 @@ This is for the girl who loves roses! Rosie is a lovely blend of rose top notes 
 
 **[by rosie jane:](https://byrosiejane.com/pages/about)** Free from parabens, phthalates, BHT and phenoxyethanol. Vegan and cruelty free. Packaged in 100% eco-friendly materials.
 
-![EdP_-_ritual3_1024x1024.jpg](/uploads/EdP_-_ritual3_1024x1024.jpg)
+![ritual.jpeg](/uploads/ritual.jpeg)
 
 ##### [Ritual by Smoke Perfume](https://smokeperfume.com/products/ritual-eau-de-parfum)
 
@@ -139,12 +147,4 @@ This fragrance is absolutely beautiful. It has a faint coconut scent, but also h
 This is a beautiful woodsy scent, with a combination of citrus, cypress, sage, honey and botanical musk. It smells very fresh, and wears well over time. 
 
 **[Strange Invisible:](https://siperfumes.com/pages/about)** Crafted from authentic botanical essences with no synthetic chemicals in any products. All oils are sourced sustainably. Sustainable packaging, with paper manufactured using biofuel with pulp from sustainably managed forests.  
-
-![Screen Shot 2018-12-11 at 11.45.13 AM.png](/uploads/Screen%20Shot%202018-12-11%20at%2011.45.13%20AM.png)
-
-##### [Autumn by Dasein](http://www.daseinfragrance.com/shop/autumn-unisex-fragrance)
-
-Dasein has a fragrance for each season (literally) and it just so happened that my favorite season and favorite scent went hand-in-hand. Autumn has notes of amber, incense, cedar, coffee and cinnamon bark— I could really smell the cinnamon come through and it felt like the perfect fragrance for a crisp day spent snuggled up in a blanket and reading by a fire. 
-
-**[Dasein:](http://www.daseinfragrance.com/about/)** Paraben, glycol and cruelty free. The fragrances include raw materials sourced from around the globe including: natural essential oils and absolutes, precise co2 extractions, and modern aroma molecules and isolates.
 
