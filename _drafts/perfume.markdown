@@ -16,6 +16,8 @@ I honestly still can’t decide whether [White Vetiver](https://us.abelodor.com/
 
 **[Abel:](https://us.abelodor.com/our-story/)** uses 100% natural ingredients that evolve with the natural chemistry of your skin. Full ingredient lists for each scent are disclosed on their website. Abel also has a give back partnership with [Mary’s Meals](http://www.marysmeals.nl/), and for every bottle of fragrance sold, donate’s one meal to a child in need.
 
+![LURK_BS_004.jpg](/uploads/LURK_BS_004.jpg)
+
 ##### [BS004 by LURK ](https://lurkmade.com/collections/perfume-oils/products/bs-004-perfume-oil)
 
 This delicious combination of orange, lime, and sandalwood notes are actually a renaissance of the popular LURK fragrance BS003. I found BS004 to be crisp, light, and fruity, without feeling syrupy or boring.
