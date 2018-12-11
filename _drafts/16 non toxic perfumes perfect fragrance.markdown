@@ -3,6 +3,18 @@ title: 16 Non-Toxic Perfumes for You to Find Your Perfect Fragrance
 date: 2018-12-14 04:00:00 -08:00
 categories:
 - Health
+tags:
+- non-toxic perfumes
+- clean perfumes
+- clean beauty
+- clean fragrance
+- non-toxic fragrance
+- perfume gift
+- fragrance gift
+- non-toxic beauty
+- clean beauty gifts
+- christmas gift
+- clean beauty christmas gift
 author: Kacy Schlener
 image: "/uploads/Golden-for-web.jpg"
 series: Reflect
