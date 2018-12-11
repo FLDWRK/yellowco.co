@@ -20,7 +20,7 @@ image: "/uploads/Golden-for-web.jpg"
 series: Reflect
 ---
 
-After learning about the negative health effects linked to chemicals in perfumes, our Director of Operations went on a quest to find the best non-toxic perfumes out there! Here are her reviews of 16 fragrances that smell great (and are good for you too!) 
+After learning about the negative health effects linked to chemicals in perfumes, our Director of Operations went on a quest to find the best non-toxic perfumes out there. Here are her reviews of 16 fragrances that smell great (and are good for you too)! 
 
 ##### [Golden Neroli by Abel](https://us.abelodor.com/shop/golden-neroli/)
 
@@ -60,11 +60,21 @@ I am obsessed with this fragrance— if you love Santal 33 by Le Labo you will l
 
 **[Alitura:](https://alituranaturals.com/about-us-best-moisturizer-and-clay-masks/)** Vegan, cruelty free, and is free of parabens, phthalates, sulfates, dye, gluten, mineral oil and silicone. Alitura is devoted to providing qualities of the highest quality and are anti-laboratory, anti-GMO and anti-chemicals. 
 
+![Screen Shot 2018-12-11 at 11.41.19 AM.png](/uploads/Screen%20Shot%202018-12-11%20at%2011.41.19%20AM.png)
+
 ##### [Peloponnesian by Strange Invisible ](https://siperfumes.com/collections/eaux-de-parfum/products/peloponnesian)
 
 This is a beautiful woodsy scent, with a combination of citrus, cypress, sage, honey and botanical musk. It smells very fresh, and wears well over time. 
 
 **[Strange Invisible:](https://siperfumes.com/pages/about)** Crafted from authentic botanical essences with no synthetic chemicals in any products. All oils are sourced sustainably. Sustainable packaging, with paper manufactured using biofuel with pulp from sustainably managed forests.  
+
+![hand_edp_0234v2_Web_90240441-74a2-4849-9e62-6d3c93b4b3e7_1000x.jpg](/uploads/hand_edp_0234v2_Web_90240441-74a2-4849-9e62-6d3c93b4b3e7_1000x.jpg)
+
+##### [Rosie by rosie jane ](https://byrosiejane.com/collections/all/products/rosie-eau-de-parfum)
+
+This is for the girl who loves roses! Rosie is a lovely blend of rose top notes with base notes of musk to create some depth. It’s a simple fragrance, but not boring— the combination of musk with the sweeter rose blends well with your natural scent and develops into a clean fragrance. 
+
+**[by rosie jane:](https://byrosiejane.com/pages/about)** Free from parabens, phthalates, BHT and phenoxyethanol. Vegan and cruelty free. Packaged in 100% eco-friendly materials.
 
 ![Screen Shot 2018-12-11 at 11.45.13 AM.png](/uploads/Screen%20Shot%202018-12-11%20at%2011.45.13%20AM.png)
 
@@ -73,6 +83,14 @@ This is a beautiful woodsy scent, with a combination of citrus, cypress, sage, h
 Dasein has a fragrance for each season (literally) and it just so happened that my favorite season and favorite scent went hand-in-hand. Autumn has notes of amber, incense, cedar, coffee and cinnamon bark— I could really smell the cinnamon come through and it felt like the perfect fragrance for a crisp day spent snuggled up in a blanket and reading by a fire. 
 
 **[Dasein:](http://www.daseinfragrance.com/about/)** Paraben, glycol and cruelty free. The fragrances include raw materials sourced from around the globe including: natural essential oils and absolutes, precise co2 extractions, and modern aroma molecules and isolates.
+
+![ritual.jpeg](/uploads/ritual.jpeg)
+
+##### [Ritual by Smoke Perfume](https://smokeperfume.com/products/ritual-eau-de-parfum)
+
+I tried out Ritual not expecting to like it if we are being honest. I swiftly changed my mind. This is a warm fragrance, and you can smell the cinnamon leaf immediately. After a few hours the cinnamon, neroli, and patchouli blend together beautifully and the smell becomes a very clean one— almost like soap. 
+
+**[Smoke Perfume:](https://smokeperfume.com/pages/about-us)** Use ethically sourced, all-natural ingredients with sustainable packaging.
 
 ![MCMC_MONOI_copy_1024x1024.jpg](/uploads/MCMC_MONOI_copy_1024x1024.jpg)
 
@@ -90,6 +108,14 @@ As the temperatures drop I found myself pulled towards the dark and smoky Hepcat
 
 **[PHLUR:](https://phlur.com/about)** Hypoallergenic, cruelty-free, vegan, sustainably sourced and packaged with recycled materials, and never uses parabens, phthalates, BHT, phenoxyethanol and nitro musks. Full ingredient lists for each fragrance can be found on their website. They also encourage volunteerism and regularly hold all-team service days at their base of Austin, TX.
 
+![dreamer_square_1500_800x.jpg](/uploads/dreamer_square_1500_800x.jpg)
+
+##### [Dreamer by One Seed Perfumes](https://oneseedperfumes.com/collections/fresh-scents/products/dreamer-eau-de-parfum)
+
+Dreamer is a playful, fruity, feminine fragrance. I could immediately smell the fig and stone fruits, but after wearing a while I began to smell more of the orange blossom. This is the perfect perfume if you enjoy sweet fragrances that aren’t cloying or overly sweet.
+
+**[One Seed Perfumes:](https://oneseedperfumes.com/pages/about)** Uses all-natural ingredients with at least 80% organic content, and all their products are gentle on skin and the environment. Packaging is minimal, and all of it is recyclable or reusable.
+
 ![ginger.jpg](/uploads/ginger.jpg)
 
 ##### [Ginger Lily Attar by Floracopeia](https://www.floracopeia.com/ginger-lily-attar-roll-on)
@@ -98,23 +124,7 @@ Perfect for lovers of deeper sandalwood fragrances, and for those who want their
 
 **[Floracopeia:](https://www.floracopeia.com/floracopeia)** Uses only natural essential oils. Ingredient lists available on the website.
 
-![hand_edp_0234v2_Web_90240441-74a2-4849-9e62-6d3c93b4b3e7_1000x.jpg](/uploads/hand_edp_0234v2_Web_90240441-74a2-4849-9e62-6d3c93b4b3e7_1000x.jpg)
-
-##### [Rosie by rosie jane ](https://byrosiejane.com/collections/all/products/rosie-eau-de-parfum)
-
-This is for the girl who loves roses! Rosie is a lovely blend of rose top notes with base notes of musk to create some depth. It’s a simple fragrance, but not boring— the combination of musk with the sweeter rose blends well with your natural scent and develops into a clean fragrance. 
-
-**[by rosie jane:](https://byrosiejane.com/pages/about)** Free from parabens, phthalates, BHT and phenoxyethanol. Vegan and cruelty free. Packaged in 100% eco-friendly materials.
-
-![ritual.jpeg](/uploads/ritual.jpeg)
-
-##### [Ritual by Smoke Perfume](https://smokeperfume.com/products/ritual-eau-de-parfum)
-
-I tried out Ritual not expecting to like it if we are being honest. I swiftly changed my mind. This is a warm fragrance, and you can smell the cinnamon leaf immediately. After a few hours the cinnamon, neroli, and patchouli blend together beautifully and the smell becomes a very clean one— almost like soap. 
-
-**[Smoke Perfume:](https://smokeperfume.com/pages/about-us)** Use ethically sourced, all-natural ingredients with sustainable packaging.
-
-![sd50ml_1024x1024.png](/uploads/sd50ml_1024x1024.png)
+![slow.jpg](/uploads/slow.jpg)
 
 ##### [Slowdive by Hiram Green](https://hiramgreen.com/collections/fragrances/products/slowdive) 
 
@@ -122,13 +132,7 @@ I loved this scent— it is complex, exotic, and once I spritzed it on, it warme
 
 **[Hiram Green:](https://hiramgreen.com/)** Deeply complex fragrances made exclusively from natural materials.
 
-![dreamer_square_1500_800x.jpg](/uploads/dreamer_square_1500_800x.jpg)
 
-##### [Dreamer by One Seed Perfumes](https://oneseedperfumes.com/collections/fresh-scents/products/dreamer-eau-de-parfum)
-
-Dreamer is a playful, fruity, feminine fragrance. I could immediately smell the fig and stone fruits, but after wearing a while I began to smell more of the orange blossom. This is the perfect perfume if you enjoy sweet fragrances that aren’t cloying or overly sweet.
-
-**[One Seed Perfumes:](https://oneseedperfumes.com/pages/about)** Uses all-natural ingredients with at least 80% organic content, and all their products are gentle on skin and the environment. Packaging is minimal, and all of it is recyclable or reusable.
 
 ![alt_-PourleMonde_natural_fragrance_Empower_1080x.png](/uploads/alt_-PourleMonde_natural_fragrance_Empower_1080x.png)
 
@@ -146,5 +150,4 @@ This fragrance is absolutely beautiful. It has a faint coconut scent, but also h
 
 **[Honore des Pres:](https://honoredespres.com/en/100-natural.html)** 100% natural and vegan. Uses no synthetic fragrance, added coloring, phlalates, or other additives known to be aggressive to the skin.
 
-![Screen Shot 2018-12-11 at 11.41.19 AM.png](/uploads/Screen%20Shot%202018-12-11%20at%2011.41.19%20AM.png)
 
