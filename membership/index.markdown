@@ -7,10 +7,10 @@ nav:
     highlight: membership
 banners:
 - link: https://members.yellowco.co/
-  image: "/assets/images/Membership-Header-text.jpg"
+  image: "/uploads/Feature-Image.jpg"
 sm-banners:
 - link: https://members.yellowco.co/
-  image: "/assets/images/Membership-Mobile.jpg"
+  image: "/uploads/Feature-Image-mobile.jpg"
 quote:
   text: I was building a life in my comfort zone, the Collective brought me out of
     hiding.
