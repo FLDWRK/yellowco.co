@@ -22,14 +22,16 @@ details:
 - title: CRAVE A PLACE TO BOTH GET & GIVE ADVICE?
   text: You have a lot to offer, but you also have a lot to learn when it comes to
     building your do-good business. You'd love a place to bounce your ideas off of
-    mentors and like-minded ladies as well as offer up the wisdom you've gained over
-    the years to others.
-- title: WANT TO CONNECT WITH THAT WOMAN YOU MET AT ONE OF OUR EVENTS?
+    mentors and like-minded ladies and offer up the wisdom you've gained over the
+    years to others.
+- title: WANT TO CONNECT MORE WOMEN LIKE THE ONES YOU MET AT ONE OF OUR EVENTS?
   text: 'You attended a Yellow Co. event and want to connect deeper, learn with and
-    be in community with the amazing women you met there. '
-- title: SEARCHING TO FIND YOUR "PEOPLE"?
-  text: You move from network to network but never feel like you’ve found your place.
-    You crave a genuine group of women who care about building more than just a career.
+    be in community with more people like the amazing women you met there. '
+- title: HAVE A DESIRE TO WORK FOR MORE THAN A CAREER?
+  text: You work hard, you've built something amazing, but you do it because you know
+    your hard work has an impact for good on both yourself and the world. You're building
+    more than a career- you're changing the world and desire a supportive community
+    who is doing the same.
 theme:
   image: "/assets/images/our-ownership.jpg"
   title: 'Take 2018 by storm with our 2018 theme: Our Ownership'
