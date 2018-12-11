@@ -37,7 +37,7 @@ theme:
   title: Where entrepreneurial women who care about making an impact for good gather
     to learn from, inspire and meet each other!
   text: 
-  months-title: Make 2018 the year you take _ownership_ of your life
+  months-title: 'As a member of The Yellow Collective, you''ll receive:'
   months:
   - title: Access to an amazing community
     description: Gain access to a community of like-minded women working to make an
@@ -51,7 +51,7 @@ theme:
     description: 'Get first access to our retreat and event announcements.
 
 '
-  - title: Local gatherings
+  - title: Access to Local gatherings
     description: 'Create or attend a local, in-person event for members in your area.
 
 '
@@ -67,20 +67,20 @@ theme:
   - title: Access to Mentors
     description: We've intentionally brought in women who have been where you've been,
       ready to offer up and give advice to you when you ask!
-  - title: Chat with other members
+  - title: Ability to privately chat with other members
     description: Our platform has a chat feature where you can message and chat in
       real time with any member you choose to connect with.
-  - title: Join a group
+  - title: Ability to join a niche group
     description: We have dedicated groups on our platform so you can connect with
       women in similar stages as you. Join one or all of the groups that resonate
       with you!
-  - title: Be encouraged
+  - title: 'Encouragement '
     description: Being a part of this community means you're not alone in your desire
       to make an impact for good on the world.
   - title: Accountability
     description: When you talk about your goals with our community, you're held accountable
       to us and yourself to get stuff done!
-  - title: Be Celebrated
+  - title: Celebrations
     description: This is a very encouraging group of women. When you succeed- we all
       succeed! Get ready to share your celebrations and have a community celebrating
       with you!
