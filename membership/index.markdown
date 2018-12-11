@@ -7,7 +7,7 @@ nav:
     highlight: membership
 banners:
 - link: https://members.yellowco.co/
-  image: "/uploads/Feature-Image.jpg"
+  image: "/uploads/Feature-Image-d055a8.jpg"
 sm-banners:
 - link: https://members.yellowco.co/
   image: "/uploads/Feature-Image-mobile.jpg"
