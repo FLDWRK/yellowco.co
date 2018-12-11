@@ -33,8 +33,9 @@ details:
     mentors and like-minded ladies and offer up the wisdom you've gained over the
     years to others.
 theme:
-  image: "/assets/images/our-ownership.jpg"
-  title: 'Take 2018 by storm with our 2018 theme: Our Ownership'
+  image: "/uploads/Screen%20Shot%202018-12-11%20at%2011.53.02%20AM.png"
+  title: Where entrepreneurial women who care about making an impact for good gather
+    to learn from, inspire, and meet each other!
   text: |-
     What does it look like for us as women who are working toward advancing good in the world to _OWN_ who we are, our stories and the issues we see happening all around us? What does it look like when we _STOP_ longing for what we don't have, and start owning what we DO have? What if we stopped denying our passion, our art, and started acknowledging it, giving it room in our lives?
 
