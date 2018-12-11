@@ -36,7 +36,7 @@ This delicious combination of orange, lime, and sandalwood notes are actually a 
 
 **[LURK:](https://lurkmade.com/pages/our-story)** All fragrances are created with 100% pure essential oils with no additives, synthetics, compounds, fixatives, preservatives, GMO's, phthalates, or parabens. Recycled, recyclable, and reusable packaging.
 
-![scifi.jpg](/uploads/scifi.jpg)
+![scifi-e6b0aa.jpg](/uploads/scifi-e6b0aa.jpg)
 
 ##### [Sci Fi by Ellis Brooklyn ](https://www.ellisbrooklyn.com/collections/eau-de-parfum/products/sci-fi-eau-de-parfum)
 
