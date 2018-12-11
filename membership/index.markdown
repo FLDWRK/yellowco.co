@@ -42,7 +42,7 @@ theme:
   - title: Access to an amazing community
     description: Gain access to a community of like-minded women working to make an
       impact for good on the world.
-  - title: Member-only interactive digital courses and events
+  - title: Member-only digital courses & events
     description: 'As a member, you''ll have access to our ongoing member-only interactive
       digital courses and events.
 
@@ -61,29 +61,26 @@ theme:
 
 '
   - title: Tools, Videos & Resources Vault
-    description: Gain access to our vault filled with PDF worksheets, past webcast
-      interviews with influential women and workbooks to help you better create meaningful
-      work.
+    description: Gain access to our vault filled with PDF worksheets, webcast interviews,
+      and workbooks to help you better create meaningful work.
   - title: Access to Mentors
     description: We've intentionally brought in women who have been where you've been,
       ready to offer up and give advice to you when you ask!
   - title: Ability to privately chat with other members
-    description: Our platform has a chat feature where you can message and chat in
-      real time with any member you choose to connect with.
+    description: Message and chat in real time with any member you choose to connect
+      with.
   - title: Ability to join a niche group
     description: We have dedicated groups on our platform so you can connect with
-      women in similar stages as you. Join one or all of the groups that resonate
-      with you!
+      women in similar stages as you.
   - title: 'Encouragement '
     description: Being a part of this community means you're not alone in your desire
       to make an impact for good on the world.
   - title: Accountability
-    description: When you talk about your goals with our community, you're held accountable
-      to us and yourself to get stuff done!
+    description: Talk about your goals with our community, and you're held accountable
+      to us to get stuff done!
   - title: Celebrations
-    description: This is a very encouraging group of women. When you succeed- we all
-      succeed! Get ready to share your celebrations and have a community celebrating
-      with you!
+    description: When you succeed- we all succeed! Get ready to share your celebrations
+      and have us celebrating with you!
 values:
 - title: Exclusive Access to Our Digital Member Hub
   description: |-
