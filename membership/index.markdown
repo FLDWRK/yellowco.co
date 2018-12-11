@@ -12,8 +12,8 @@ sm-banners:
 - link: https://members.yellowco.co/
   image: "/uploads/Feature-Image-mobile.jpg"
 quote:
-  text: I was building a life in my comfort zone, the Collective brought me out of
-    hiding.
+  text: I have made real connections here and sparked a desire to help other women
+    thrive.
   source: Jennifer Mingucci
   source-title: VP of Sales at Kidville
   title:
