@@ -35,15 +35,8 @@ details:
 theme:
   image: "/uploads/Screen%20Shot%202018-12-11%20at%2011.53.02%20AM.png"
   title: Where entrepreneurial women who care about making an impact for good gather
-    to learn from, inspire, and meet each other!
-  text: |-
-    What does it look like for us as women who are working toward advancing good in the world to _OWN_ who we are, our stories and the issues we see happening all around us? What does it look like when we _STOP_ longing for what we don't have, and start owning what we DO have? What if we stopped denying our passion, our art, and started acknowledging it, giving it room in our lives?
-
-    What if we stopped the comparison game and started to OWN who we are as unique, individual women? What if we took ownership of the issues our world is facing and come together to make a change?
-
-    This isn't just my ownership, or yours. It's _OURS._
-
-    **Join us each month throughout 2018 as we dive into a different focus of ownership, all equipping you to take ownership of your life, who you were meant to be and your personal impact on the world.**
+    to learn from, inspire and meet each other!
+  text: 
   months-title: Make 2018 the year you take _ownership_ of your life
   months:
   - title: January • Tenderness
