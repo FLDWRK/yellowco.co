@@ -60,6 +60,12 @@ I am obsessed with this fragrance— if you love Santal 33 by Le Labo you will l
 
 **[Alitura:](https://alituranaturals.com/about-us-best-moisturizer-and-clay-masks/)** Vegan, cruelty free, and is free of parabens, phthalates, sulfates, dye, gluten, mineral oil and silicone. Alitura is devoted to providing qualities of the highest quality and are anti-laboratory, anti-GMO and anti-chemicals. 
 
+##### [Peloponnesian by Strange Invisible ](https://siperfumes.com/collections/eaux-de-parfum/products/peloponnesian)
+
+This is a beautiful woodsy scent, with a combination of citrus, cypress, sage, honey and botanical musk. It smells very fresh, and wears well over time. 
+
+**[Strange Invisible:](https://siperfumes.com/pages/about)** Crafted from authentic botanical essences with no synthetic chemicals in any products. All oils are sourced sustainably. Sustainable packaging, with paper manufactured using biofuel with pulp from sustainably managed forests.  
+
 ![Screen Shot 2018-12-11 at 11.45.13 AM.png](/uploads/Screen%20Shot%202018-12-11%20at%2011.45.13%20AM.png)
 
 ##### [Autumn by Dasein](http://www.daseinfragrance.com/shop/autumn-unisex-fragrance)
@@ -141,10 +147,4 @@ This fragrance is absolutely beautiful. It has a faint coconut scent, but also h
 **[Honore des Pres:](https://honoredespres.com/en/100-natural.html)** 100% natural and vegan. Uses no synthetic fragrance, added coloring, phlalates, or other additives known to be aggressive to the skin.
 
 ![Screen Shot 2018-12-11 at 11.41.19 AM.png](/uploads/Screen%20Shot%202018-12-11%20at%2011.41.19%20AM.png)
-
-##### [Peloponnesian by Strange Invisible ](https://siperfumes.com/collections/eaux-de-parfum/products/peloponnesian)
-
-This is a beautiful woodsy scent, with a combination of citrus, cypress, sage, honey and botanical musk. It smells very fresh, and wears well over time. 
-
-**[Strange Invisible:](https://siperfumes.com/pages/about)** Crafted from authentic botanical essences with no synthetic chemicals in any products. All oils are sourced sustainably. Sustainable packaging, with paper manufactured using biofuel with pulp from sustainably managed forests.  
 
