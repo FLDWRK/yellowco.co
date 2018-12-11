@@ -108,13 +108,13 @@ As the temperatures drop I found myself pulled towards the dark and smoky Hepcat
 
 **[PHLUR:](https://phlur.com/about)** Hypoallergenic, cruelty-free, vegan, sustainably sourced and packaged with recycled materials, and never uses parabens, phthalates, BHT, phenoxyethanol and nitro musks. Full ingredient lists for each fragrance can be found on their website. They also encourage volunteerism and regularly hold all-team service days at their base of Austin, TX.
 
-![dreamer_square_1500_800x.jpg](/uploads/dreamer_square_1500_800x.jpg)
+![alt_-PourleMonde_natural_fragrance_Empower_1080x.png](/uploads/alt_-PourleMonde_natural_fragrance_Empower_1080x.png)
 
-##### [Dreamer by One Seed Perfumes](https://oneseedperfumes.com/collections/fresh-scents/products/dreamer-eau-de-parfum)
+##### [Empower by Pour Le Monde](https://pourlemondeparfums.com/collections/pour-le-monde/products/empowernaturalperfume)
 
-Dreamer is a playful, fruity, feminine fragrance. I could immediately smell the fig and stone fruits, but after wearing a while I began to smell more of the orange blossom. This is the perfect perfume if you enjoy sweet fragrances that aren’t cloying or overly sweet.
+This is a really beautiful citrus scent, with mint heart notes and a deeper woodsy base. You can spray this fragrance liberally without worrying it will be overpowering— Pour Le Monde designs each fragrance to release it’s different notes as your body temperature warms the fragrance up, which allows the perfume to evolve and stay with you through the day! 
 
-**[One Seed Perfumes:](https://oneseedperfumes.com/pages/about)** Uses all-natural ingredients with at least 80% organic content, and all their products are gentle on skin and the environment. Packaging is minimal, and all of it is recyclable or reusable.
+**[Pour Le Monde:](https://pourlemondeparfums.com/collections/pour-le-monde)** Pour Le Monde fragrances are 100% natural and synthetic free. Free of harmful chemicals such as phthalates, dyes, sulfates, chemical sunscreens, and petrochemicals. They use a corn based alcohol, essential oils and that are extracted using a steam distillation technique.
 
 ![slow.jpg](/uploads/slow.jpg)
 
@@ -124,13 +124,13 @@ I loved this scent— it is complex, exotic, and once I spritzed it on, it warme
 
 **[Hiram Green:](https://hiramgreen.com/)** Deeply complex fragrances made exclusively from natural materials.
 
-![alt_-PourleMonde_natural_fragrance_Empower_1080x.png](/uploads/alt_-PourleMonde_natural_fragrance_Empower_1080x.png)
+![dreamer_square_1500_800x.jpg](/uploads/dreamer_square_1500_800x.jpg)
 
-##### [Empower by Pour Le Monde](https://pourlemondeparfums.com/collections/pour-le-monde/products/empowernaturalperfume)
+##### [Dreamer by One Seed Perfumes](https://oneseedperfumes.com/collections/fresh-scents/products/dreamer-eau-de-parfum)
 
-This is a really beautiful citrus scent, with mint heart notes and a deeper woodsy base. You can spray this fragrance liberally without worrying it will be overpowering— Pour Le Monde designs each fragrance to release it’s different notes as your body temperature warms the fragrance up, which allows the perfume to evolve and stay with you through the day! 
+Dreamer is a playful, fruity, feminine fragrance. I could immediately smell the fig and stone fruits, but after wearing a while I began to smell more of the orange blossom. This is the perfect perfume if you enjoy sweet fragrances that aren’t cloying or overly sweet.
 
-**[Pour Le Monde:](https://pourlemondeparfums.com/collections/pour-le-monde)** Pour Le Monde fragrances are 100% natural and synthetic free. Free of harmful chemicals such as phthalates, dyes, sulfates, chemical sunscreens, and petrochemicals. They use a corn based alcohol, essential oils and that are extracted using a steam distillation technique.
+**[One Seed Perfumes:](https://oneseedperfumes.com/pages/about)** Uses all-natural ingredients with at least 80% organic content, and all their products are gentle on skin and the environment. Packaging is minimal, and all of it is recyclable or reusable.
 
 ![ginger.jpg](/uploads/ginger.jpg)
 
