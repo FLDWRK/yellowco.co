@@ -49,8 +49,9 @@ theme:
     • Gain access to our vault filled with PDF worksheets, past webcast interviews with influential women and workbooks to help you better create meaningful work.
   months-title: Make 2018 the year you take _ownership_ of your life
   months:
-  - title: January • Tenderness
-    description: Goal setting with grace
+  - title: Access to an amazing community
+    description: "• Gain access to a community of like-minded women working to make
+      an impact for good on the world."
   - title: February • Respect
     description: When it's hard to love yourself, respect yourself
   - title: March • Heritage
