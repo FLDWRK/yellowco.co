@@ -50,32 +50,50 @@ theme:
   months-title: Make 2018 the year you take _ownership_ of your life
   months:
   - title: Access to an amazing community
-    description: "• Gain access to a community of like-minded women working to make
-      an impact for good on the world."
-  - title: February • Respect
-    description: When it's hard to love yourself, respect yourself
-  - title: March • Heritage
-    description: Looking at where we've come from & the impact our history has on
-      us
-  - title: April • Privilege
-    description: Understanding privilege & what it means
-  - title: May • Voice
-    description: Discover, Refine & Share your TRUE voice
-  - title: June • Body
-    description: Connecting with our physical selves
-  - title: July • Ability
-    description: Recognizing your potential to learn and do
-  - title: August • Belong
-    description: Understanding our belonging to ourselves, our communities and the
-      world
-  - title: September • Invest
-    description: Intentional emotional, financial & relational investing
-  - title: October • Weird
-    description: Embracing our quirks and using them to our advantage
-  - title: November • Conflict
-    description: 
-  - title: December • Reflect
-    description: 
+    description: Gain access to a community of like-minded women working to make an
+      impact for good on the world.
+  - title: Member-only interactive digital courses and events
+    description: 'As a member, you''ll have access to our ongoing member-only interactive
+      digital courses and events.
+
+'
+  - title: First access to events
+    description: 'Get first access to our retreat and event announcements.
+
+'
+  - title: Local gatherings
+    description: 'Create or attend a local, in-person event for members in your area.
+
+'
+  - title: Yellow Conference Speaker Video Recordings
+    description: 'Have access to past Yellow Conference speaker videos to watch any
+      time you like.
+
+'
+  - title: Tools, Videos & Resources Vault
+    description: Gain access to our vault filled with PDF worksheets, past webcast
+      interviews with influential women and workbooks to help you better create meaningful
+      work.
+  - title: Access to Mentors
+    description: We've intentionally brought in women who have been where you've been,
+      ready to offer up and give advice to you when you ask!
+  - title: Chat with other members
+    description: Our platform has a chat feature where you can message and chat in
+      real time with any member you choose to connect with.
+  - title: Join a group
+    description: We have dedicated groups on our platform so you can connect with
+      women in similar stages as you. Join one or all of the groups that resonate
+      with you!
+  - title: Be encouraged
+    description: Being a part of this community means you're not alone in your desire
+      to make an impact for good on the world.
+  - title: Accountability
+    description: When you talk about your goals with our community, you're held accountable
+      to us and yourself to get stuff done!
+  - title: Be Celebrated
+    description: This is a very encouraging group of women. When you succeed- we all
+      succeed! Get ready to share your celebrations and have a community celebrating
+      with you!
 values:
 - title: Exclusive Access to Our Digital Member Hub
   description: |-

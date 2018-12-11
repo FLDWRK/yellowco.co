@@ -32,7 +32,15 @@ This fragrance starts out fresh and citrusy with bergamot and orange as the top 
 
 **[Ellis Brooklyn:](https://www.ellisbrooklyn.com/pages/about)** Phthalates-free, paraben-free, cruelty-free, eco-friendly (meaning they use responsible sourcing and partner with sustainable businesses. They also use recycled, lead-free glass and FSC-certified, Green Seal certified paper stock for their packaging, and offset their carbon footprint through carbon-neutral shipping.
 
-![gallery-2.jpg](/uploads/gallery-2.jpg)
+![DSC_0674-2.jpg](/uploads/DSC_0674-2.jpg)
+
+##### [Mai by Splash of Scent](https://splashofscent.com/fragrance/mai/)
+
+Mai’s top notes of citrus, bergamot, orange and spices are immediately apparent, and fade into the rose and geranium heart notes. The vetiver and cedar base keeps this getting too sweet— it’s described as a refreshing and energizing morning walk in the Mediterranean!
+
+**[Splash of Scent:](https://splashofscent.com/natural-perfumes-colognes-honest-prices/about-us/)** Made primarily of organic, and if not available, natural ingredients. Non-toxic, no phthalates, no parabens.
+
+![hepcat.jpg](/uploads/hepcat.jpg)
 
 ##### [Hepcat by PHLUR](https://phlur.com/products/hepcat) 
 
@@ -56,7 +64,7 @@ If you are looking for a soft, subtle, and completely lovely fragrance, then thi
 
 **[MCMC:](https://mcmcfragrances.com/pages/about)** Phthalate-free, paraben-free, gluten-free, vegan and not tested on animals.
 
-![ginger-lily-attar-roll-on_main-01.jpg](/uploads/ginger-lily-attar-roll-on_main-01.jpg)
+![ginger.jpg](/uploads/ginger.jpg)
 
 ##### [Ginger Lily Attar by Floracopeia](https://www.floracopeia.com/ginger-lily-attar-roll-on)
 
@@ -79,14 +87,6 @@ This is for the girl who loves roses! Rosie is a lovely blend of rose top notes 
 I tried out Ritual not expecting to like it if we are being honest. I swiftly changed my mind. This is a warm fragrance, and you can smell the cinnamon leaf immediately. After a few hours the cinnamon, neroli, and patchouli blend together beautifully and the smell becomes a very clean one— almost like soap. 
 
 **[Smoke Perfume:](https://smokeperfume.com/pages/about-us)** Use ethically sourced, all-natural ingredients with sustainable packaging.
-
-![DSC_0674-2.jpg](/uploads/DSC_0674-2.jpg)
-
-##### [Mai by Splash of Scent](https://splashofscent.com/fragrance/mai/)
-
-Mai’s top notes of citrus, bergamot, orange and spices are immediately apparent, and fade into the rose and geranium heart notes. The vetiver and cedar base keeps this getting too sweet— it’s described as a refreshing and energizing morning walk in the Mediterranean!
-
-**[Splash of Scent:](https://splashofscent.com/natural-perfumes-colognes-honest-prices/about-us/)** Made primarily of organic, and if not available, natural ingredients. Non-toxic, no phthalates, no parabens.
 
 ![sd50ml_1024x1024.png](/uploads/sd50ml_1024x1024.png)
 
@@ -112,7 +112,7 @@ This is a really beautiful citrus scent, with mint heart notes and a deeper wood
 
 **[Pour Le Monde:](https://pourlemondeparfums.com/collections/pour-le-monde)** Pour Le Monde fragrances are 100% natural and synthetic free. Free of harmful chemicals such as phthalates, dyes, sulfates, chemical sunscreens, and petrochemicals. They use a corn based alcohol, essential oils and that are extracted using a steam distillation technique.
 
-![mon-parfum.jpg](/uploads/mon-parfum.jpg)
+![coconut.jpg](/uploads/coconut.jpg)
 
 ##### [Love Coconut by Honore Des Pres ](https://honoredespres.com/store/honore-des-pres/25-mon-parfum.html)
 
