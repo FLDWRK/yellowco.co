@@ -89,7 +89,7 @@ values:
     * Past Yellow Conference speaker video recordings
     * Workbook downloads aimed at helping you take charge of your life and move forward with impact
     * Various printable downloads &amp; other goodies
-  image: "/uploads/Screen%20Shot%202018-12-11%20at%205.43.34%20PM.png"
+  image: "/uploads/Tools-Resources.jpg"
 - title: Digital + Local Gatherings
   description: |-
     _The best part of the membership are the women who make it :)_
@@ -103,7 +103,7 @@ values:
     * You'll talk through the theme in your local groups and online!
     * Designed to help you grow in your entrepreneurial adventures
     * Dive into the theme with mentors and members going through the same content
-  image: "/uploads/Screen%20Shot%202018-11-15%20at%202.59.13%20PM.png"
+  image: "/uploads/Grow.jpg"
 benefits:
 - ACCESS TO AN AMAZING COMMUNITY
 - MEMBER-ONLY DIGITAL COURSES & EVENTS
