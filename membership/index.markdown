@@ -89,23 +89,21 @@ values:
     * Past Yellow Conference speaker video recordings
     * Workbook downloads aimed at helping you take charge of your life and move forward with impact
     * Various printable downloads &amp; other goodies
-    * Monthly custom playlist for Yellow Collective members curated by Jessica Blackstock
-  image: "/assets/images/membership-digital-resources.jpg"
-- title: Monthly Gatherings
+  image: "/uploads/Screen%20Shot%202018-12-11%20at%205.43.34%20PM.png"
+- title: Digital + Local Gatherings
   description: |-
     _The best part of the membership are the women who make it :)_
     * Connect with other women working together for the good of the world
-    * If you're local to one of our 12 national chapters, attend an in-person event. If you're not local, attend our digital event!
-    * Private Facebook group & weekly Slack chats where we connect on the focus for that month.
+    * If you're local to one of our "Hives", attend an in-person event. If you're not local, attend one of our many digital events!
     * Learn from peer to peer mentoring, make new friends and change the world together!
   image: "/assets/images/membership-gatherings.jpg"
-- title: Monthly Packet Mailed to Your Door
+- title: Monthly Theme to Focus on as a Group
   description: |-
-    _Every month your packet includes:_
-    * A magazine filled with interactive content surrounding our theme for the month. Every issue will lead you toward making powerful changes in your life.
-    * A challenge designed to help you take what you've learned and bring it to life.
-    * Various discounts & vouchers for products we love!
-  image: "/assets/images/membership-packet.jpg"
+    _Every month we come together under a new theme:_
+    * You'll talk through the theme in your local groups and online!
+    * Designed to help you grow in your entrepreneurial adventures
+    * Dive into the theme with mentors and members going through the same content
+  image: "/uploads/Screen%20Shot%202018-11-15%20at%202.59.13%20PM.png"
 benefits:
 - ACCESS TO AN AMAZING COMMUNITY
 - MEMBER-ONLY DIGITAL COURSES & EVENTS
