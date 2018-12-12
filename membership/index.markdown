@@ -35,7 +35,7 @@ details:
 theme:
   image: "/uploads/Screen%20Shot%202018-12-11%20at%2011.53.02%20AM.png"
   title: Where entrepreneurial women who care about making an impact for good gather
-    to learn from, inspire and meet each other!
+    to learn from, inspire and meet each other! Curious? Try it free for 7 days.
   text: 
   months-title: 'As a member of The Yellow Collective, you''ll receive:'
   months:
