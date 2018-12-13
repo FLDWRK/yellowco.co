@@ -19,7 +19,7 @@ speakers:
   image: "/uploads/vik_portrait.jpg"
 - name: 'Mari Andrew '
   title: Writer & Illustrator
-  image: "/uploads/Mari_Andrew-3901.JPG"
+  image: "/uploads/Screen%20Shot%202018-12-12%20at%205.08.19%20PM.png"
 - name: Jacqui Lewis
   title: Activist, Preacher, Pastor and Advocate for Racial Equality
   image: "/uploads/Screen%20Shot%202018-11-07%20at%205.22.31%20PM.png"
