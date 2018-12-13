@@ -59,7 +59,7 @@
   > .navbar-nav .nav-link {
     color: $gray-dark;
     @include media-breakpoint-only(md) {
-      font-size: 0.7rem;
+      font-size: 0.65rem;
     }
     @include media-breakpoint-only(lg) {
       font-size: 0.82rem;

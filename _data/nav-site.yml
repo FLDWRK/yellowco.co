@@ -1,3 +1,6 @@
+- id: membership
+  title: Membership
+  url: /membership
 - id: events
   title: Events
   url: /events

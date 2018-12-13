@@ -5,18 +5,32 @@ layout: site
 
 <!-- BANNER -->
 <div class="mb-2 mb-lg-5">
-  <div class="fotorama page-banner hidden-sm-down pt-0 pt-md-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+  <div
+    class="fotorama page-banner hidden-sm-down pt-0 pt-md-3"
+    data-width="100%"
+    data-max-width="100%"
+    data-loop="true"
+    data-autoplay="6000"
+    data-swipe="true"
+  >
     {% for banner in page.banners %}
-      <div data-img="{{ banner.image }}" class="link" data-rjs="2">
-        <a href="{{ banner.link }}" class="_no-underline"></a>
-      </div>
+    <div data-img="{{ banner.image }}" class="link" data-rjs="2">
+      <a href="{{ banner.link }}" class="_no-underline"></a>
+    </div>
     {% endfor %}
   </div>
-  <div class="fotorama hidden-md-up pt-0 pt-md-3" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-swipe="true">
+  <div
+    class="fotorama hidden-md-up pt-0 pt-md-3"
+    data-width="100%"
+    data-max-width="100%"
+    data-loop="true"
+    data-autoplay="6000"
+    data-swipe="true"
+  >
     {% for sm-banner in page.sm-banners %}
-      <div data-img="{{ sm-banner.image }}" class="link" data-rjs="2">
-        <a href="{{ sm-banner.link }}" class="_no-underline"></a>
-      </div>
+    <div data-img="{{ sm-banner.image }}" class="link" data-rjs="2">
+      <a href="{{ sm-banner.link }}" class="_no-underline"></a>
+    </div>
     {% endfor %}
   </div>
 </div>
@@ -27,7 +41,10 @@ layout: site
     <div class="col-12 col-sm-12 col-md-10 col-lg-8">
       <blockquote class="blockquote blockquote-lg text-center">
         <p><em>{{ page.quote.text }}</em></p>
-        <footer class="blockquote-footer">{{ page.quote.source }} <cite title="Source Title">{{ page.quote.source-title }}</cite></footer>
+        <footer class="blockquote-footer">
+          {{ page.quote.source }}
+          <cite title="Source Title">{{ page.quote.source-title }}</cite>
+        </footer>
       </blockquote>
     </div>
   </div>
@@ -40,15 +57,12 @@ layout: site
       <h2 class="mb-5">Do You…</h2>
       <div class="row mb-3">
         {% for detail in page.details %}
-          <div class="col-12 col-sm-4 px-4">
-            {% if details.icon %}
-              {% include icon.html name=detail.icon classes="icon-xxl" %}
-            {% endif %}
-            <h6 class="mt-2">{{ detail.title }}</h6>
-            <p>
-              {{ detail.text }}
-            </p>
-          </div>
+        <div class="col-12 col-sm-4 px-4">
+          {% if details.icon %} {% include icon.html name=detail.icon
+          classes="icon-xxl" %} {% endif %}
+          <h6 class="mt-2">{{ detail.title }}</h6>
+          <p>{{ detail.text }}</p>
+        </div>
         {% endfor %}
       </div>
     </div>
@@ -62,7 +76,12 @@ layout: site
     <div class="row justify-content-center">
       <div class="col col-sm-6 col-md-6 col-lg-4">
         <form action="https://members.yellowco.co/">
-          <button type="submit" class="btn btn-primary btn-lg btn-block d-inline-block"/>Join Now</button>
+          <button
+            type="submit"
+            class="btn btn-primary btn-lg btn-block d-inline-block"
+          >
+            Join Now
+          </button>
         </form>
       </div>
     </div>
@@ -74,25 +93,35 @@ layout: site
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-6 mb-2">
-        <img src="{{ page.theme.image }}" class="img-fluid" alt="inside Yellow Membership"/>
+        <img
+          src="{{ page.features-section.image }}"
+          class="img-fluid"
+          alt="inside Yellow Membership"
+        />
       </div>
       <div class="col-12 col-md-6 my-auto">
-        <h3 class="pt-4">{{ page.theme.title }}</h3>
-        {{ page.theme.text | markdownify }}
-        <a href="https://members.yellowco.co/" class="btn btn-primary">Join now</a>
+        <h3 class="pt-4">{{ page.features-section.title }}</h3>
+        {{ page.features-section.text | markdownify }}
+        <a href="https://members.yellowco.co/" class="btn btn-primary"
+          >Join now</a
+        >
       </div>
     </div>
     <div class="row my-5 justify-content-center">
       <div class="col-12">
-        <h3 class="text-center my-2 pb-4">{{ page.theme.months-title | markdownify }}</h3>
+        <h3 class="text-center my-2 pb-4">
+          {{ page.features-section.features-title | markdownify }}
+        </h3>
       </div>
       <div class="col-12 col-md-10 pb-3">
         <div class="row justify-content-center">
-          {% for month in page.theme.months %}
-            <div class="col-12 col-sm-6 text-center">
-              <p class="mb-0 text-uppercase"><strong>{{ month.title }}</strong></p>
-              <p>{{ month.description }}</p>
-            </div>
+          {% for feature in page.features-section.features %}
+          <div class="col-12 col-sm-6 text-center">
+            <p class="mb-0 text-uppercase">
+              <strong>{{ feature.title }}</strong>
+            </p>
+            <p>{{ feature.description }}</p>
+          </div>
           {% endfor %}
         </div>
       </div>
@@ -103,15 +132,19 @@ layout: site
 <!-- MEMBERSHIP VALUES -->
 <div class="container py-3">
   {% for value in page.values %}
-    <div class="row justify-content-center py-3">
-      <div class="col-10 col-sm-4 col-lg-4 {% cycle '', 'flex-md-last' %}">
-        <img src="{{ value.image }}" class="img-fluid rounded-circle mb-3" data-rjs="2"/>
-      </div>
-      <div class="col-12 col-sm-8 col-lg-6 my-auto">
-        <h5 class="text-uppercase">{{ value.title }}</h5>
-        <p>{{ value.description | markdownify }}</p>
-      </div>
+  <div class="row justify-content-center py-3">
+    <div class="col-10 col-sm-4 col-lg-4 {% cycle '', 'flex-md-last' %}">
+      <img
+        src="{{ value.image }}"
+        class="img-fluid rounded-circle mb-3"
+        data-rjs="2"
+      />
     </div>
+    <div class="col-12 col-sm-8 col-lg-6 my-auto">
+      <h5 class="text-uppercase">{{ value.title }}</h5>
+      <p>{{ value.description | markdownify }}</p>
+    </div>
+  </div>
   {% endfor %}
   <!-- JOIN TODAY -->
   <div class="row justify-content-center mt-5">
@@ -121,18 +154,22 @@ layout: site
           <div class="card-block">
             <h6 class="card-title text-uppercase">Join now!</h6>
             <p class="card-text">
-              <span class="price">33</span>/mo
+              <span class="price">
+                {{ page.price.dollars }}<sup
+                  ><small>.{{ page.price.cents }}</small></sup
+                ></span
+              >/mo
             </p>
           </div>
         </div>
       </a>
-      <p class="text-center">Questions? <a href="https://fldwrk.help/yellow-co">Read our FAQs</a></p>
+      <p class="text-center"><em>* When paid annually.</em></p>
     </div>
     <div class="col-12 col-md-7 col-lg-6 offset-lg-1">
       {% for benefit in page.benefits %}
-        <ul class="list-checkmark">
-          <li>{{ benefit | markdownify }}</li>
-        </ul>
+      <ul class="list-checkmark">
+        <li>{{ benefit | markdownify }}</li>
+      </ul>
       {% endfor %}
     </div>
   </div>
@@ -144,15 +181,21 @@ layout: site
 <!-- IMPACT FEATURE POST -->
 <div class="row mt-md-5">
   <div class="col-12">
-    <img src="/assets/images/membership-impact.jpg" class="img-fluid w-100" data-rjs="2" />
+    <img
+      src="/assets/images/membership-impact.jpg"
+      class="img-fluid w-100"
+      data-rjs="2"
+    />
     <div class="container">
       <div class="row intro-overlay justify-content-center">
-        <div class="intro-content col-11 col-sm-11 col-lg-8 text-center py-4 px-3">
+        <div
+          class="intro-content col-11 col-sm-11 col-lg-8 text-center py-4 px-3"
+        >
           <h6>{{ page.impact.title }}</h6>
           <p>{{ page.impact.description }}</p>
-          {% assign featuredImpact = site.posts | where:'impact-feature', true %}
-          {% for post in featuredImpact %}
-            <a href="{{ post.url }}" class="btn btn-primary">View Our Impact</a>
+          {% assign featuredImpact = site.posts | where:'impact-feature', true
+          %} {% for post in featuredImpact %}
+          <a href="{{ post.url }}" class="btn btn-primary">View Our Impact</a>
           {% endfor %}
         </div>
       </div>
@@ -160,38 +203,4 @@ layout: site
   </div>
 </div>
 
-<!-- FAQ -->
-<div class="container">
-  <div class="row justify-content-center">
-    <div class="col-12 col-lg-10 col-xl-9">
-      <h2 class="text-center mb-3">Membership FAQ</h2>
-      <div class="card-accordion" role="tablist" aria-multiselectable="true">
-        {% for faq in page.faqs %}
-          <div class="card">
-            <div class="card-header" role="tab" id="heading{% increment faq-heading %}">
-              <p class="mb-0">
-                <a data-toggle="collapse" href="#collapse{% increment collapse-link %}" aria-expanded="false" aria-controls="collapse{% increment collapse-control %}" class="accordion-toggle collapsed">
-                  {{ faq.question }}
-                </a>
-              </p>
-            </div>
-            <div id="collapse{% increment faq-collapse %}" class="collapse" role="tabpanel" aria-labelledby="heading{% increment faq-answer %}">
-              <div class="card-block">
-                {{ faq.answer | markdownify }}
-              </div>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col text-center">
-      <a href="https://fldwrk.help/yellow-co" class="btn btn-sm btn-primary mt-4">More FAQs</a>
-    </div>
-  </div>
-</div>
-
-<div class="container py-2 pt-md-4">
-  {% include instagram.html %}
-</div>
+<div class="container py-2 pt-md-4">{% include instagram.html %}</div>
