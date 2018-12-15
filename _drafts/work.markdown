@@ -3,6 +3,18 @@ title: What to Do When Your Client Business Slows down in the Winter
 date: 2018-12-17 04:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- entrepreneur
+- female owned business
+- clients
+- getting clients
+- business
+- slow business season
+- how to get clients
+- work slowing down in winter
+- client work
+- self employed
+- running a business
 author: Kristi Triplett Jones
 image: "/uploads/ryan-riggins-207644-unsplash-1.jpg"
 series: Reflect
