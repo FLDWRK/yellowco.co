@@ -1,5 +1,5 @@
 ---
-title: How to Plan for Slower Client Work Seasons in Business
+title: What to Do When Your Client Business Slows down in the Winter
 date: 2018-12-17 04:00:00 -08:00
 categories:
 - Entrepreneurs
