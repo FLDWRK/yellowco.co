@@ -22,21 +22,23 @@ series: Reflect
 
 It’s officially winter, whether you’re somewhere sunny or in the middle of a snowstorm. And… winter means that the holidays are here – if that’s your fancy. It’s dark by 6pm, you’re trying to plan ahead on the holiday shopping, and you may be taking some time off to spend with family or enjoy a break somewhere from your year of hard work. 
 
-Winter. It’s a season where physically we can nearly hibernate as humans. Our minds tell us we should be going to bed around 8pm. It’s cold. We’re spending money on giving or vacations. And during all of this change, we begin to find that our clientele slows down significantly. Naturally so, this will happen for many businesses. 
+It’s a season where physically we can nearly hibernate as humans. Our minds tell us we should be going to bed around 8pm. It’s cold. We’re spending money on giving or vacations. And during all of this change, we begin to find that our clientele slows down significantly. Naturally so, this will happen for many businesses. 
 
 When my husband and I first started growing our coaching and consulting business, I remember this slow season of work. To be completely transparent with you, we face it again and again during this time of my year. At first, this brought with it all the anxious feels. My inner critic kept repeating, “I’m not good enough as a coach,” or, “Finances will be TIGHT this month,” and so on. 
 
-Pushing through that mindset and finding our confidence and mission in the business –
+Pushing through that mindset, and finding our confidence and mission in our business –
 
-### We realized this season isn't about hibernation, nor the clientele we lost, but is about preparation and boosting what we know the world needs. 
+### We realized that this season isn't about hibernation, nor the clientele we lost, but is about preparation and boosting what we know the world needs. 
 
-It may look like things are slowing down, but in reality – they're speeding up (if you choose to).
+It may look like things are slowing down, but in reality – they're speeding up.
 
 ![paul-hanaoka-369641-unsplash-1-c10aef.jpg](/uploads/paul-hanaoka-369641-unsplash-1-c10aef.jpg)
 
-John Maxwell writes about this so clearly in his book, _Great Leaders Ask Great Questions_. Spring, Summer, Fall, and Winter all have a role in the development and leadership in our businesses. Since we’re focusing on the winter season, I’ll first briefly describe how he relates the other seasons in our growth. Spring is a time for planting. Summer is a time for perspiration and cultivation. Fall is a time for reaping the harvest of your labor. Winter is the season for planning – this is where many of us currently find ourselves. 
+### Spring, summer, fall, and winter all have specific roles in the development and leadership of our businesses. 
 
-As you start planning for a slower season of clientele, I want to unfold 3 tangible steps you can put into action today so that you are fully prepared to step into the new year. 
+John Maxwell writes about this so clearly in his book, _Great Leaders Ask Great Questions_. He describes spring as a time for planting. Summer as a time for perspiration and cultivation. Fall as a time for reaping the harvest of your labor. Winter as the season for planning – this is where many of us currently find ourselves. 
+
+As you start planning for a slower season of clientele, I want to unfold three tangible steps you can put into action today, so that you are fully prepared to step into the new year. 
 
 #### Step 1: Change Your Mindset
 
@@ -50,6 +52,6 @@ Start thinking of what could be. This is your time to plan how you’ll get ther
 
 #### Step 3: Give Abundantly
 
-Remember that this is a season where you get to have some fun. Inspiration can come from giving what we have, and this goes beyond money. Choose to take a perspective that isn't limited by what you see right in front of you, and instead take a mindset of abundance and trust. Find a need, and give to it. Empower those around you. Know that your voice is valued, and share it with others in a way only you can.  
+Remember that this is a season where you get to have some fun. Inspiration can come from giving what we have, and this goes beyond money. Choose to take a perspective that isn't limited by what you see right in front of you, and instead take a mindset of abundance and trust. Find a need, and give to it. Empower those around you. Know that your voice is valued, and share it with others in a way that only you can.  
 
 If you feel like you’re stuck listening to that inner critic during this season of slower work, don’t give up! These next few weeks are vital for your current and future clientele. 'Tis the season to dream big, create big, and give big – so embrace it.
