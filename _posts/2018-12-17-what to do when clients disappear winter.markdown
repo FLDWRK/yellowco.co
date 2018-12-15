@@ -44,11 +44,11 @@ As you start planning for a slower season of clientele, I want to unfold three t
 
 Your thoughts influence your feelings, which therefore, influence your behaviors. It’s easy for us to get caught up thinking we have nothing to do at the end of our year. Things are slowing down, we find ourselves in the middle of finishing the year and planning the next one, and we can lose focus on the crucial moments that are happening now for our business. Give your mind a deep cleaning daily and change that thought pattern. Set yourself up for success so that your feelings and behaviors follow the present moments that will pave the pathway for your future endeavors. 
 
+![kirill-zakharov-630681-unsplash.jpg](/uploads/kirill-zakharov-630681-unsplash.jpg)
+
 #### Step 2: Dream, Plan, Create, Write, Boost 
 
 Start thinking of what could be. This is your time to plan how you’ll get there. Goals are set, and visions and dreams are clarified of what success would look like for you. Have an article you want to share with more people? Boost it! Created a new product on Etsy? Share it! Want to set up an event to bring in potential clients and eat good food? Create one! Preparation in this slow season saves you so much more future work so that you are able to jump into the busy season right around the corner. This is the time to have fun, take action, and widen your platform.
-
-![kirill-zakharov-630681-unsplash.jpg](/uploads/kirill-zakharov-630681-unsplash.jpg)
 
 #### Step 3: Give Abundantly
 
