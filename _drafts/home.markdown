@@ -7,13 +7,6 @@ author: Melanie Loon
 series: Reflect
 ---
 
-Yellow
-December: REFLECT
-
-How to Fight your Old Teenage Angst this Holiday
-When Home for the Holidays Brings Back Teen Angst
-Wake Me Up When December Ends
-
 Some places seem to zap histories out of us. For some, that place might be home for the holidays. Getting placed back into the context of cousins or within a few right turns to old memories can land us in a time-warp back to itchy adolescent insecurity or complicated family expectations.
 
 Maybe you grew up with certain standards you’ve only begun to realize you hope to live up to, and maybe there are family quirks you hope to keep from passing down. But as an adult, you’re not just a bud on the family tree anymore.
