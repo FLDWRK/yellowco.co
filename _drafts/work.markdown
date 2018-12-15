@@ -4,6 +4,7 @@ date: 2018-12-17 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Kristi Triplett Jones
+image: "/uploads/ryan-riggins-207644-unsplash-1.jpg"
 series: Reflect
 ---
 
@@ -19,6 +20,8 @@ Pushing through that mindset and finding our confidence and mission in the busin
 
 It may look like things are slowing down, but in reality – they're speeding up (if you choose to).
 
+![paul-hanaoka-369641-unsplash-1-c10aef.jpg](/uploads/paul-hanaoka-369641-unsplash-1-c10aef.jpg)
+
 John Maxwell writes about this so clearly in his book, _Great Leaders Ask Great Questions_. Spring, Summer, Fall, and Winter all have a role in the development and leadership in our businesses. Since we’re focusing on the winter season, I’ll first briefly describe how he relates the other seasons in our growth. Spring is a time for planting. Summer is a time for perspiration and cultivation. Fall is a time for reaping the harvest of your labor. Winter is the season for planning – this is where many of us currently find ourselves. 
 
 As you start planning for a slower season of clientele, I want to unfold 3 tangible steps you can put into action today so that you are fully prepared to step into the new year. 
@@ -30,6 +33,8 @@ Your thoughts influence your feelings, which therefore, influence your behaviors
 #### Step 2: Dream, Plan, Create, Write, Boost 
 
 Start thinking of what could be. This is your time to plan how you’ll get there. Goals are set, and visions and dreams are clarified of what success would look like for you. Have an article you want to share with more people? Boost it! Created a new product on Etsy? Share it! Want to set up an event to bring in potential clients and eat good food? Create one! Preparation in this slow season saves you so much more future work so that you are able to jump into the busy season right around the corner. This is the time to have fun, take action, and widen your platform.
+
+![kirill-zakharov-630681-unsplash.jpg](/uploads/kirill-zakharov-630681-unsplash.jpg)
 
 #### Step 3: Give Abundantly
 
