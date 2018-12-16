@@ -4,6 +4,7 @@ date: 2018-12-26 04:00:00 -08:00
 categories:
 - Health
 author: Emily Schrems
+image: "/uploads/ian-dooley-298780-unsplash-1.jpg"
 series: Reflect
 ---
 
