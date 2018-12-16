@@ -23,6 +23,8 @@ The Enneagram is successful as a tool for transformation because it provided an 
 
 The ancient Greeks believed the secret to life and the basis of every kind of knowledge started with the key idea, “Know Thyself.” And the Enneagram comes from this kind of wisdom tradition. It’s based in time-tested truths about our human nature and possibility for transcendence. 
 
+img
+
 ###### When did you know you wanted to dedicate so much of your work to the Enneagram?
 
 When I first read about my type I was hooked. I couldn’t believe something could exist that could be so clear in describing me to myself – both what I knew to be true, and what I barely saw in myself, but intuitively knew was accurate. And when I saw Dr. Daniels leading Enneagram “panels,” in which people of a specific type shared about how they saw their own patterns in action as a way of becoming more aware of themselves and creating more consciousness in their lives, I knew I wanted to be a therapist and help people have that kind of awakening. The more I knew about the Enneagram and everything connected to it, especially the esoteric teachings behind it that pointed to deep truths about human evolution, the more I wanted to study it and work with it. It’s endlessly fascinating to me. 
@@ -34,6 +36,8 @@ Making sure you have typed yourself accurately is important. If you are certain 
 ### It’s really important to study all aspects of your type, including your center of intelligence, your dominant instinct, and your subtype.
 
 These aspects provide very specific insights that can help guide self-observation and raise your self-awareness level. The “passion” is also a very important aspect to focus on, as it’s the emotional driver at the core of the personality that often remains unconscious. It’s important to make that and other blind spots more conscious through carefully observing yourself and noticing things you may not have noticed before when you were just in the “default” mode of your type and subtype. 
+
+img
 
 ###### For those who are already knowledgeable about the Enneagram, how would you recommend they deepen their learning? 
 
@@ -48,6 +52,8 @@ The Enneagram is great for enhancing relationships. It starts with self-awarenes
 ### If you are on a team, sharing how you see things, what your work preferences are, what bothers you, and what you love can greatly enhance how you work with others. 
 
 The Enneagram can both create a mutual understanding very quickly and encourage more empathy for others, because we see that people don’t disagree with us just because they are being perverse or difficult, but because they have a whole different lens on the same reality. Solopreneurs can get a sense of what they do well and what they don’t pay attention to. This can reveal when they may need to develop more skill in a specific area, or when they may need to contract for a specific kind of help.
+
+img
 
 ###### In the midst of our current divisive political climate, how could we look to the Enneagram as a tool? 
 
