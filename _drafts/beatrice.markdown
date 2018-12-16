@@ -1,20 +1,21 @@
 ---
 title: beatrice
 date: 2018-12-28 04:00:00 -08:00
+categories:
+- Growth
 author: Kacy Schlener
 series: Reflect
 ---
 
-Beatrice Chestnut has been a bit of an idol of mine since I first discovered and started studying the Enneagram about 2 years ago. I still can’t believe my luck in getting to interview her, and of course I had to sneak in a personal question about my 8 “friend” at the end! Read on to get amazing insight from the Enneagram Yoda of our generation. 
+_Beatrice Chestnut has been a bit of an idol of mine since I first discovered and started studying the Enneagram about 2 years ago. I still can’t believe my luck in getting to interview her, and of course I had to sneak in a personal question about my 8 “friend” at the end! Read on to get amazing insight from the Enneagram Yoda of our generation._
 
-1. So tell us — how did your Enneagram journey begin? And for any who don’t know, what is it? 
+###### So tell us — how did your Enneagram journey begin? And for any who don’t know, what is it? 
 
 I learned the Enneagram informally, from a friend’s father over the dinner table in March of 1990. Fortunately for me, my friend’s father was Dr. David Daniels, a psychiatrist and early pioneer in the teaching of the Enneagram in the U.S. He started one of the first Enneagram training programs near where I grew up with Helen Palmer, who had written one of the first popular books about the Enneagram in 1989. I studied the Enneagram through their school in 1994-1997.
 
 The Enneagram is a personality typology that provides a great deal of insight into individuals’ psychological makeup--and their possibilities for psycho-spiritual growth through its amazingly accurate descriptions of 9 (and 27) personality types. It has roots in ancient wisdom traditions, which I believe accounts for its uniquely helpful descriptions of specific personality patterns of thinking, feeling, and behaving.
 
-
-2. Based on your years of experience, why do you think the Enneagram is so successful as a tool for transformation?
+###### Based on your years of experience, why do you think the Enneagram is so successful as a tool for transformation?
 
 The Enneagram is successful as a tool for transformation because it provided an objective map of personality that we can use to become more aware of our unconscious patterns and blind spots so we can become more conscious. Each personality starts out as a survival strategy, but in adulthood, becomes a self-limiting, but largely automatic, defensive structure. The Enneagram helps us see these invisible habitual patterns of defense so we can break free of them. The ancient Greeks believed the secret to life and the basis of every kind of knowledge started with the key idea, “Know Thyself.” And this Enneagram comes from this kind of wisdom tradition--it’s based in time-tested truths about our human nature and possibility for transcendence. 
 
