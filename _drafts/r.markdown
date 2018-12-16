@@ -7,7 +7,9 @@ author: Brianna Towne
 series: Reflect
 ---
 
-When I first started thinking about crafting these clean holiday drink recipes the phrase “guilt-free” first came to mind. It’s funny, how we vilify certain foods or food groups (sugar, carbs, fat) when the truth is, if we simply take everything in moderation, we’d all be far happier and healthier. The phrase “guilt-free” just amplifies the idea that some foods are ‘bad’ and others are ‘good’. Well I don’t believe that to be true. Food is food. Some options are healthier than others but there’s nothing inherently good or bad about anything. So please, if you’ve been waiting all year for your favorite eggnog - go for it. You have my permission to enjoy a guilt-free full of fat eggnog. Enjoy the heck out of it! And then, swap to a version that’s a little healthier that you can feel equally as good about drinking.
+When I first started thinking about crafting these clean holiday drink recipes the phrase “guilt-free” first came to mind. It’s funny, how we vilify certain foods or food groups (sugar, carbs, fat) when the truth is, if we simply take everything in moderation, we’d all be far happier and healthier. 
+
+The phrase “guilt-free” just amplifies the idea that some foods are "bad" and others are "good". Well I don’t believe that to be true. Food is food. Some options are healthier than others, but there’s nothing inherently good or bad about anything. So please, if you’ve been waiting all year for your favorite eggnog - go for it. You have my permission to enjoy a guilt-free, full of fat eggnog. Enjoy the heck out of it! And then, swap to a version that’s a little healthier that you can feel equally as good about drinking.
 
 ##### Healthier Hot Cocoa
 
