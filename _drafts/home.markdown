@@ -4,6 +4,7 @@ date: 2018-12-19 04:00:00 -08:00
 categories:
 - Relationships
 author: Melanie Loon
+image: "/uploads/clarisse-meyer-213603-unsplash-1.jpg"
 series: Reflect
 ---
 
@@ -29,11 +30,15 @@ It may have been easy for the bulk of your life to let your elders carry the res
 
 ### How can you stay engaged and discover your relatives' history anew?
 
+![stephanie-studer-507119-unsplash-1.jpg](/uploads/stephanie-studer-507119-unsplash-1.jpg)
+
 #### Remix Old Traditions
 
 So perhaps writing recipes down is an affront to grandma’s entire being. I’m first-generation Chinese on my mom’s side, and when we cook together, we’ve just begun getting to an excited point of using recipes! Otherwise, most everything is done with a few staple ingredients and improvisation. What’s something you love to make that would go so well next to your dad’s carving job on the turkey?
 
 My family tends to unite the most around food, and I’d bet yours does too. What’s a new activity you can do together to break a sweat, or do something kind for your neighbors? I’m already thinking back to food. Maybe there’s one special cookie recipe your aunt only breaks out during the holidays. Make an especially enormous batch and pack up some holiday cheer to share your traditions with your neighbors!
+
+![food-photographer-jennifer-pallian-173718-unsplash-1.jpg](/uploads/food-photographer-jennifer-pallian-173718-unsplash-1.jpg)
 
 #### Lead New Traditions
 
