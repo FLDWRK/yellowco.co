@@ -23,6 +23,7 @@ tags:
 - dairy-free hot cocoa
 - dairy-free eggnog
 author: Brianna Towne
+image: "/uploads/toa-heftiba-177828-unsplash-1.jpg"
 series: Reflect
 ---
 
@@ -47,6 +48,8 @@ Sweetener to taste (a couple tbsp of honey is great)
 
 2. Stir all other ingredients and mix to combine. Stir frequently over medium heat for about 5 minutes until thick and smooth.
 
+![erol-ahmed-214590-unsplash-1.jpg](/uploads/erol-ahmed-214590-unsplash-1.jpg)
+
 ##### Vegan Eggnog
 
 _Serves 2_
@@ -66,6 +69,8 @@ Pinch of Himalayan sea salt
 1. Add all of the ingredients to a high speed blender and blend until creamy. Serve immediately. 
 
 2. For an adult version, add spiced rum, bourbon, brandy, or whiskey.
+
+![joanna-kosinska-594746-unsplash-1.jpg](/uploads/joanna-kosinska-594746-unsplash-1.jpg)
 
 ##### Ginger Cider Hot Toddy
 
