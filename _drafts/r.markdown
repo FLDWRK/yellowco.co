@@ -18,8 +18,8 @@ _Serves 2_
 1 ounce unsweetened dark chocolate
 2 teaspoons coconut oil
 ½ teaspoon vanilla extract
-sprinkle of ground cinnamon
-sweetener to taste (a couple tbsp of honey is great)
+Sprinkle of ground cinnamon
+Sweetener to taste (a couple tbsp of honey is great)
 
 **Instructions**
 1. In a medium saucepan, heat the coconut milk until it starts to bubble over medium heat.
@@ -31,47 +31,43 @@ sweetener to taste (a couple tbsp of honey is great)
 _Serves 2_
 
 **Ingredients**
-
 2 cups non-dairy milk of choice (I love homemade hazelnut milk)
 ½ cup coconut milk, full fat 
 ⅓ cup raw cashews, soaked overnight or for at least 30 minutes (optional)
 4 pitted dates
 1 teaspoon vanilla extract
 1 teaspoon freshly ground nutmeg
-pinch of ground cinnamon
-pinch of ground cloves
-pinch of himalayan sea salt
+Pinch of ground cinnamon
+Pinch of ground cloves
+Pinch of Himalayan sea salt
 
 **Instructions**
-
 1. Add all of the ingredients to a high speed blender and blend until creamy. Serve immediately. 
 
-2. For the grown-up version add spiced rum, bourbon, brandy or whiskey.
+2. For an adult version, add spiced rum, bourbon, brandy, or whiskey.
 
 ##### Ginger Cider Hot Toddy
 
 _Serves 2_
 
 **Ingredients**
-
 4 cups apple cider
 2 bags of herbal tea
 2 tbsp raw honey
 1 inch knob of fresh ginger, minced
 2 slices of fresh lemon
 2 cinnamon sticks
-2 shots of brandy whiskey, rum of bourbon (optional)
+2 shots of brandy whiskey, rum, or bourbon (optional)
 
 **Instructions**
+1. In a medium saucepan over medium heat, warm cider.
 
-1. In a medium saucepan over medium heat, warm cider
+2. Steep tea bags in cider for 3-5 minutes.
 
-2. Steep tea bags in cider for 3-5 minutes
+3. Stir in honey and ginger.
 
-3. Stir in honey and ginger
+4. Pour into 2 mugs and give it another stir with the cinnamon sticks.
 
-4. Pour in to 2 mugs and give it another stir with the cinnamon sticks
+5. Add shot of desired spirits (optional).
 
-5. Add shot of desired spirits (optional)
-
-6. Top with a slice of lemon in each mug
+6. Top with a slice of lemon in each mug.
