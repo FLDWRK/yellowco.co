@@ -3,6 +3,25 @@ title: 3 Clean, Dairy-Free Recipes of Your Fave Holiday Drinks
 date: 2018-12-21 04:00:00 -08:00
 categories:
 - Conscious Living
+tags:
+- holiday drinks
+- vegan holiday drinks
+- vegan eggnog
+- vegan hot cocoa
+- hot toddy
+- christmas drinks
+- paleo
+- whole 30
+- vegan
+- clean holiday drinks
+- organic
+- healthy holiday drinks
+- healthy hot cocoa
+- healthy eggnog
+- dairy-free
+- dairy-free drinks
+- dairy-free hot cocoa
+- dairy-free eggnog
 author: Brianna Towne
 series: Reflect
 ---
