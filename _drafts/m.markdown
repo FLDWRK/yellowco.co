@@ -4,7 +4,7 @@ date: 2018-12-24 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Bailey Van Tassel
-image: "/uploads/042416_ERoche_Singh_214-60d08e.jpg"
+image: "/uploads/042416_ERoche_Singh_186.jpg"
 series: Reflect
 ---
 
@@ -16,6 +16,8 @@ I wanted a plan that I could share with all stakeholders, and that would give me
 
 Your approach will be determined depending on the type of entrepreneur that you are. For example, a solopreneur, or service provider, has all the tasks to think of, whereas someone running a company may have employees that can absorb extra tasks. That doesn’t change the hardness of the issue, but it is something to think about. If there is one single takeaway that I have right off the bat, it’s this: 
 
+![042416_ERoche_Singh_209-380a2e.jpg](/uploads/042416_ERoche_Singh_209-380a2e.jpg)
+
 ### There is no right way to do this; there is only the right way for _you_ to do this for you. 
 
 When I started creating my maternity leave plan, my main goal was to answer this question, “What can I do to give the highest love and respect to my family, my employees, and my clients?” In that order.  
@@ -26,6 +28,8 @@ Here are my five pieces of advice for creating your mompreneur maternity leave p
 
 Why did you start this company of yours? What lifestyle did you want when you created it? For me, I realized that I had wanted to run my own business for this exact season of life. For flexibility when I had a family. It was time for me to tap into that and cash my hard work in for some time off. Funny enough, being an entrepreneur is much less flexible and much more time consuming that I had originally thought, but it’s also a role that affords you the ability to create change as needed. 
 
+![042416_ERoche_Singh_205.jpg](/uploads/042416_ERoche_Singh_205.jpg)
+
 #### Bulk up, or lean out.
 
 For most entrepreneurs you’ll either need to bulk up your staff, or lean out your workload. If you’re removing yourself, then someone either needs less of you or more of someone else – so think about which you prefer and which the company could benefit most from. I personally scaled back my client load and let go of any stressful or unneeded accounts. I went back to basics so that I could focus my limited attention on meaningful work. I even let go of staff, which was so hard, but so necessary. 
@@ -35,6 +39,8 @@ For most entrepreneurs you’ll either need to bulk up your staff, or lean out y
 Your baby will teach you this from day one, but control is an illusion. Get your mind ready for on-the-fly decisions, days that go completely sideways, and nights that are… nevermind. You’ll learn about that as needed. 
 
 ### Find someone supportive that can be your go-to should you lose control of your day, and need help on things that are easy to delegate like printing, quick email responses, social posting, etc. 
+
+![042416_ERoche_Singh_217-ac5044.jpg](/uploads/042416_ERoche_Singh_217-ac5044.jpg)
 
 #### Give yourself an adjustment period before baby, not just after.
 
