@@ -54,11 +54,10 @@ My family tends to unite the most around food, and I’d bet yours does too. Wha
 
 What’s something you've always wished your family would do during the holidays? I know, I hear you saying, “Understand what I do for work.” This time steeped in family is exactly the perfect time to refresh the bounds on your perspective of what makes you you.
 
-As an adult, who do you decide you are today? What stories will you keep to pass on? What traditions will you want to share with your quickly extending family and the surprise guests they might bring to dinner?
+### As an adult, who do you decide you are today? What stories will you keep to pass on? 
 
-Say there’s an issue that’s really heavy on your heart that some family members just don’t understand. Rather than arguing a new case, is there a way you can give back to your community together that might spur some new compassion?
+What traditions will you want to share with your quickly extending family and the surprise guests they might bring to dinner?
 
-Don’t let these opportunities pass you by. You too can be a keeper and creator of family tradition and togetherness. I hear at every life stage that it’s still hard to believe someone let you be a grown up. But somebody did!
+Say there’s an issue that’s really heavy on your heart that some family members just don’t understand. Rather than arguing a new case, is there a way you can give back to your community together that might spur some new compassion? Don’t let these opportunities pass you by. You too can be a keeper and creator of family tradition and togetherness. I hear at every life stage that it’s still hard to believe someone let you be a grown up. But somebody did!
 
 So let’s take ownership of the privilege to have all of our yesterdays as well as this very bright today. In this season of joy, be warm and merry, and be free to decide and act on who you will be now.
-
