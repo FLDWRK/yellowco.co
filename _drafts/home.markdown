@@ -3,6 +3,18 @@ title: How to Not Revert to Your Teenage Self While Home for the Holidays
 date: 2018-12-19 04:00:00 -08:00
 categories:
 - Relationships
+tags:
+- personal growth
+- family
+- family relationships
+- family dynamics
+- home for the holidays
+- holiday tension
+- family tension
+- traditions
+- family tradition
+- holiday traditions
+- home for christmas
 author: Melanie Loon
 image: "/uploads/clarisse-meyer-213603-unsplash-1.jpg"
 series: Reflect
