@@ -40,7 +40,7 @@ As we go home or old friends come back into town, there are many people to catch
 
 It may have been easy for the bulk of your life to let your elders carry the responsibility of family tradition maestro, but let’s say this is jazz. What can you add? Do you know how to share the story of how your family came to be, and came to do this or that each holiday?
 
-### How can you stay engaged and discover your relatives' history anew?
+### How can you stay engaged and discover your relatives' history anew?  
 
 #### Remix Old Traditions
 
