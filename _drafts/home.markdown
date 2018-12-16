@@ -1,5 +1,5 @@
 ---
-title: home
+title: How to Not Revert to Your Teenage Self While Home for the Holidays
 date: 2018-12-19 04:00:00 -08:00
 categories:
 - Relationships
