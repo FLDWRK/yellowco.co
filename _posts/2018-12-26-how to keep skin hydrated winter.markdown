@@ -3,6 +3,23 @@ title: How to Keep Your Skin Hydrated & Glowing This Winter
 date: 2018-12-26 04:00:00 -08:00
 categories:
 - Health
+tags:
+- skin care
+- beauty
+- hydrate skin
+- winter
+- glowing
+- facial oil
+- cleansing oil
+- exfoliating
+- hydrate
+- self care
+- beauty routine
+- skin care routine
+- cocokind
+- clean beauty
+- natural beauty
+- clean ingredient beauty
 author: Emily Schrems
 image: "/uploads/lisa-moyneur-630938-unsplash.jpg"
 series: Reflect
