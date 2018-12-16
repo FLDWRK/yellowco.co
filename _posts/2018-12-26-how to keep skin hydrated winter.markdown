@@ -41,7 +41,9 @@ Of course, this isn’t to say that you should grab your nearest cooking oil and
 
 This step is pretty straightforward. The goal in exfoliation is to eliminate dry, dead skin cells to expose the next layer of radiant skin. Removing old skin cells helps your products work more effectively, because they’re able to penetrate more deeply and cleanse when skin is freshly exfoliated. Most dermatologists recommend light exfoliation after cleansing three times per week. 
 
-The key word there: _light!_ Too-vigorous or harsh scrubbing can irritate the skin. In fact, irritation on the protective skin barrier can actually dehydrate your skin and lead to redness, breakouts, roughness, and wrinkles. Look for products that use fine, gentle particles. And remember – the harsher the scrub, the less often it needs to be used!
+The key word there: _light!_ Too-vigorous or harsh scrubbing can irritate the skin. In fact, irritation on the protective skin barrier can actually dehydrate your skin and lead to redness, breakouts, roughness, and wrinkles. 
+
+### Look for products that use fine, gentle particles. And remember – the harsher the scrub, the less often it needs to be used!
 
 I love [this one](https://www.cocokind.com/collections/face/products/organic-sea-moss-exfoliator)! This sea moss exfoliator is gentle for scrubbing away enough dead skin without damaging your protective layer. I use it 3 or 4 times per week after cleansing. 
 
