@@ -7,13 +7,11 @@ author: Bailey Van Tassel
 series: Reflect
 ---
 
-5 Tips for Creating A Mompreneur Maternity Leave 
-
 I was honestly in a tizzy when planning for my mompreneur maternity leave. The minute after finding out that I was pregnant (okay, maybe the second or third minute) I was thinking, “And now what about work?”. With all the business decisions on my shoulders, taking time off for baby seemed daunting and dare I say, impossible. I was like a calculator only outputting “does not compute” whenever I even thought of it. 
 
 To tackle the task, I took a lot of time to seek out advisors and do some inner work thinking about what success looked like for me. I wanted a plan that I could share with all stakeholders and that would give me the needed peace to go into motherhood calmly and confidently. 
 
-Depending on the type of entrepreneur that you are, will determine your appraoch. For example, a solopreneur or service provider has all the tasks to think of, whereas someone running a company may have employees that can absorb extra tasks. That doesn’t change the hardness of the issue, but it is something to think about. If there is one single takeaway that I have right off the bat, it’s this: there is no right way to do this; there is only the right way for you to do this for you. 
+Depending on the type of entrepreneur that you are, will determine your approach. For example, a solopreneur or service provider has all the tasks to think of, whereas someone running a company may have employees that can absorb extra tasks. That doesn’t change the hardness of the issue, but it is something to think about. If there is one single takeaway that I have right off the bat, it’s this: there is no right way to do this; there is only the right way for you to do this for you. 
 
 When I started created my maternity leave plan, my main goal was to answer this question, “What can I do to give the highest love and respect to my family, my employees, and my clients?” In that order.  
 
