@@ -1,5 +1,5 @@
 ---
-title: 3 Clean, Dairy-Free Recipes of Your Fave Holiday Drinks
+title: 3 Clean, Dairy-Free Recipes for Your Fave Holiday Drinks
 date: 2018-12-21 04:00:00 -08:00
 categories:
 - Conscious Living
