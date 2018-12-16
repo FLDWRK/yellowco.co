@@ -23,7 +23,7 @@ tags:
 - dairy-free hot cocoa
 - dairy-free eggnog
 author: Brianna Towne
-image: "/uploads/toa-heftiba-177828-unsplash-1.jpg"
+image: "/uploads/1-9ce622.jpeg"
 series: Reflect
 ---
 
