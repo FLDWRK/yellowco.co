@@ -4,6 +4,7 @@ date: 2018-12-24 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Bailey Van Tassel
+image: "/uploads/042416_ERoche_Singh_214-60d08e.jpg"
 series: Reflect
 ---
 
