@@ -4,7 +4,7 @@ date: 2018-12-26 04:00:00 -08:00
 categories:
 - Health
 author: Emily Schrems
-image: "/uploads/ian-dooley-298780-unsplash-1.jpg"
+image: "/uploads/lisa-moyneur-630938-unsplash.jpg"
 series: Reflect
 ---
 
@@ -18,7 +18,7 @@ The natural pH level of your skin falls between 4.5 and 5.5 on the pH scale, whe
 
 Of course, this isn’t to say that you should grab your nearest cooking oil and lather up! When transitioning to an oil based cleanser, look for those that contain lighter oils like grapeseed, argan, lavender, or coconut oils. These oils will pull out impurities while maintaining a healthy pH balance and keep your skin hydrated. Contrary to popular belief, oil pulls out oil from skin, so don’t be afraid of clogged pores if you have an oily complexion! Start transitioning by using oils only at night, and remember it can take up to eight weeks for your skin to adapt to new products. I love [this one](https://www.cocokind.com/collections/cleansers/products/organic-facial-cleansing-oil) from Cocokind! Their cleansers and moisturizers are oil-based, so they’re perfect pulling out impurities while keeping skin hydrated in the winter time. 
 
-![lisa-moyneur-630938-unsplash.jpg](/uploads/lisa-moyneur-630938-unsplash.jpg)
+![alex-loup-393847-unsplash.jpg](/uploads/alex-loup-393847-unsplash.jpg)
 
 #### Step 2: Exfoliation Exfoliation Exfoliation.
 
