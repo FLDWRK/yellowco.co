@@ -28,11 +28,9 @@ Whether you’re trekking over land and sea to a family doorstep, or you’re aw
 
 ### There’s a way to establish your individuality without breaking away from the truly special context from which you came.
 
-Does the thought of one million layered opinions crowd out your excitement of a home filled with laughter and understanding? It’s okay, let’s walk through this together.
+Does the thought of one million layered opinions crowd out your excitement of a home filled with laughter and understanding? It’s okay, let’s walk through this together. Here are a few ways to keep from reverting back to your teenage self this holiday season:
 
 ![stephanie-studer-507119-unsplash-1.jpg](/uploads/stephanie-studer-507119-unsplash-1.jpg)
-
-Here are a few ways to keep from reverting back to your teenage self this holiday season:
 
 #### Resist the Urge to Opt Out or Lay Low
 
