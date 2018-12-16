@@ -30,6 +30,8 @@ Whether you’re trekking over land and sea to a family doorstep, or you’re aw
 
 Does the thought of one million layered opinions crowd out your excitement of a home filled with laughter and understanding? It’s okay, let’s walk through this together.
 
+![stephanie-studer-507119-unsplash-1.jpg](/uploads/stephanie-studer-507119-unsplash-1.jpg)
+
 Here are a few ways to keep from reverting back to your teenage self this holiday season:
 
 #### Resist the Urge to Opt Out or Lay Low
@@ -41,8 +43,6 @@ As we go home or old friends come back into town, there are many people to catch
 It may have been easy for the bulk of your life to let your elders carry the responsibility of family tradition maestro, but let’s say this is jazz. What can you add? Do you know how to share the story of how your family came to be, and came to do this or that each holiday?
 
 ### How can you stay engaged and discover your relatives' history anew?
-
-![stephanie-studer-507119-unsplash-1.jpg](/uploads/stephanie-studer-507119-unsplash-1.jpg)
 
 #### Remix Old Traditions
 
