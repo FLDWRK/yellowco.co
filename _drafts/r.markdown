@@ -7,23 +7,31 @@ author: Brianna Towne
 series: Reflect
 ---
 
-3 Healthier Holiday Drink Recipes
 When I first started thinking about crafting these clean holiday drink recipes the phrase “guilt-free” first came to mind. It’s funny, how we vilify certain foods or food groups (sugar, carbs, fat) when the truth is, if we simply take everything in moderation, we’d all be far happier and healthier. The phrase “guilt-free” just amplifies the idea that some foods are ‘bad’ and others are ‘good’. Well I don’t believe that to be true. Food is food. Some options are healthier than others but there’s nothing inherently good or bad about anything. So please, if you’ve been waiting all year for your favorite eggnog - go for it. You have my permission to enjoy a guilt-free full of fat eggnog. Enjoy the heck out of it! And then, swap to a version that’s a little healthier that you can feel equally as good about drinking.
-Healthier Hot Cocoa
-Ingredients
+
+##### Healthier Hot Cocoa
+
+_Serves 2_
+
+**Ingredients**
 1½ cups coconut milk, full fat
 1 ounce unsweetened dark chocolate
 2 teaspoons coconut oil
 ½ teaspoon vanilla extract
 sprinkle of ground cinnamon
 sweetener to taste (a couple tbsp of honey is great)
-Instructions
-In a medium saucepan, heat the coconut milk until it starts to bubble over medium heat.
-Stir all other ingredients and mix to combine. Stir frequently over medium heat for about 5 minutes until thick and smooth.
 
-Serving: serves 2
-Vegan Eggnog
-Ingredients
+**Instructions**
+1. In a medium saucepan, heat the coconut milk until it starts to bubble over medium heat.
+
+2. Stir all other ingredients and mix to combine. Stir frequently over medium heat for about 5 minutes until thick and smooth.
+
+##### Vegan Eggnog
+
+_Serves 2_
+
+**Ingredients**
+
 2 cups non-dairy milk of choice (I love homemade hazelnut milk)
 ½ cup coconut milk, full fat 
 ⅓ cup raw cashews, soaked overnight or for at least 30 minutes (optional)
@@ -33,14 +41,18 @@ Ingredients
 pinch of ground cinnamon
 pinch of ground cloves
 pinch of himalayan sea salt
-Instructions
-Add all of the ingredients to a high speed blender and blend until creamy. Serve immediately. 
-For the grown-up version add spiced rum, bourbon, brandy or whiskey.
 
-Serving: serves 2
+**Instructions**
 
-Ginger Cider Hot Toddy
-Ingredients
+1. Add all of the ingredients to a high speed blender and blend until creamy. Serve immediately. 
+
+2. For the grown-up version add spiced rum, bourbon, brandy or whiskey.
+
+##### Ginger Cider Hot Toddy
+
+_Serves 2_
+
+**Ingredients**
 
 4 cups apple cider
 2 bags of herbal tea
@@ -49,14 +61,17 @@ Ingredients
 2 slices of fresh lemon
 2 cinnamon sticks
 2 shots of brandy whiskey, rum of bourbon (optional)
-Instructions
 
-In a medium saucepan over medium heat, warm cider
-Steep tea bags in cider for 3-5 minutes
-Stir in honey and ginger
-Pour in to 2 mugs and give it another stir with the cinnamon sticks
-Add shot of desired spirits (optional)
-Top with a slice of lemon in each mug
+**Instructions**
 
-Serving: serves 2
+1. In a medium saucepan over medium heat, warm cider
 
+2. Steep tea bags in cider for 3-5 minutes
+
+3. Stir in honey and ginger
+
+4. Pour in to 2 mugs and give it another stir with the cinnamon sticks
+
+5. Add shot of desired spirits (optional)
+
+6. Top with a slice of lemon in each mug
