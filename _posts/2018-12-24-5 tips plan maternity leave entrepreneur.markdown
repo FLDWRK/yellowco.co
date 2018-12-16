@@ -64,3 +64,5 @@ The best thing you can do is prepare your business, clients, staff, etc. for thi
 ### Overall, I believe that knowing ourselves is the most powerful way we can prepare for little ones. 
 
 Reflect on who you are and what your personality needs to thrive. If you need quiet and space, get that. If you’re going to be dying to get back on email, then allow yourself that too. It’s all about what creates a happy heart for you and that baby - nothing else. Remember my personal motherhood motto: there is no right way to do this; there is only the right way for you to do this for you. 
+
+_Photos by [Buena Lane Photography](http://www.buenalane.com/)_
