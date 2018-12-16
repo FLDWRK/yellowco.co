@@ -15,15 +15,15 @@ The phrase “guilt-free” just amplifies the idea that some foods are "bad" an
 
 _Serves 2_
 
-**Ingredients**
-1½ cups coconut milk, full fat
-1 ounce unsweetened dark chocolate
-2 teaspoons coconut oil
-½ teaspoon vanilla extract
-Sprinkle of ground cinnamon
+**Ingredients**  
+1½ cups coconut milk, full fat  
+1 ounce unsweetened dark chocolate  
+2 teaspoons coconut oil  
+½ teaspoon vanilla extract  
+Sprinkle of ground cinnamon  
 Sweetener to taste (a couple tbsp of honey is great)
 
-**Instructions**
+**Instructions**  
 1. In a medium saucepan, heat the coconut milk until it starts to bubble over medium heat.
 
 2. Stir all other ingredients and mix to combine. Stir frequently over medium heat for about 5 minutes until thick and smooth.
@@ -32,18 +32,18 @@ Sweetener to taste (a couple tbsp of honey is great)
 
 _Serves 2_
 
-**Ingredients**
-2 cups non-dairy milk of choice (I love homemade hazelnut milk)
-½ cup coconut milk, full fat 
-⅓ cup raw cashews, soaked overnight or for at least 30 minutes (optional)
-4 pitted dates
-1 teaspoon vanilla extract
-1 teaspoon freshly ground nutmeg
-Pinch of ground cinnamon
-Pinch of ground cloves
+**Ingredients**  
+2 cups non-dairy milk of choice (I love homemade hazelnut milk)  
+½ cup coconut milk, full fat   
+⅓ cup raw cashews, soaked overnight or for at least 30 minutes (optional)  
+4 pitted dates  
+1 teaspoon vanilla extract  
+1 teaspoon freshly ground nutmeg  
+Pinch of ground cinnamon  
+Pinch of ground cloves  
 Pinch of Himalayan sea salt
 
-**Instructions**
+**Instructions**  
 1. Add all of the ingredients to a high speed blender and blend until creamy. Serve immediately. 
 
 2. For an adult version, add spiced rum, bourbon, brandy, or whiskey.
@@ -52,16 +52,16 @@ Pinch of Himalayan sea salt
 
 _Serves 2_
 
-**Ingredients**
-4 cups apple cider
-2 bags of herbal tea
-2 tbsp raw honey
-1 inch knob of fresh ginger, minced
-2 slices of fresh lemon
-2 cinnamon sticks
-2 shots of brandy whiskey, rum, or bourbon (optional)
+**Ingredients**  
+4 cups apple cider  
+2 bags of herbal tea  
+2 tbsp raw honey  
+1 inch knob of fresh ginger, minced  
+2 slices of fresh lemon  
+2 cinnamon sticks  
+2 shots of brandy whiskey, rum, or bourbon (optional)  
 
-**Instructions**
+**Instructions**  
 1. In a medium saucepan over medium heat, warm cider.
 
 2. Steep tea bags in cider for 3-5 minutes.
