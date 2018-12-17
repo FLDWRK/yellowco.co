@@ -4,6 +4,7 @@ date: 2018-12-28 04:00:00 -08:00
 categories:
 - Growth
 author: Kacy Schlener
+image: "/uploads/ShopKaleidos-020-1.JPG"
 series: Reflect
 ---
 
