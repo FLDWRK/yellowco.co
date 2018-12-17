@@ -3,6 +3,18 @@ title: beatrice
 date: 2018-12-28 04:00:00 -08:00
 categories:
 - Growth
+tags:
+- enneagram
+- enneagram advice
+- beatrice chestnut
+- interview
+- studying the enneagram
+- enneagram for entrepreneurs
+- personality test
+- personality type
+- personaltiy assesment
+- personal growth
+- personal growth tool
 author: Kacy Schlener
 image: "/uploads/ShopKaleidos-020-1.JPG"
 series: Reflect
