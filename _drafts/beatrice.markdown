@@ -1,5 +1,6 @@
 ---
-title: beatrice
+title: 'The Tool to Truly “Know Thyself”: An Interview with Enneagram Expert Beatrice
+  Chestnut'
 date: 2018-12-28 04:00:00 -08:00
 categories:
 - Growth
@@ -34,7 +35,7 @@ The Enneagram is successful as a tool for transformation because it provided an 
 
 ### The Enneagram helps us see these invisible habitual patterns of defense so we can break free of them. 
 
-The ancient Greeks believed the secret to life and the basis of every kind of knowledge started with the key idea, “Know Thyself.” And the Enneagram comes from this kind of wisdom tradition. It’s based in time-tested truths about our human nature and possibility for transcendence. 
+The ancient Greeks believed the secret to life and the basis of every kind of knowledge started with the key idea, “Know thyself.” And the Enneagram comes from this kind of wisdom tradition. It’s based in time-tested truths about our human nature and possibility for transcendence. 
 
 ![enneagram 2.jpeg](/uploads/enneagram%202.jpeg)
 
