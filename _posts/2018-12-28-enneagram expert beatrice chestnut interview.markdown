@@ -33,7 +33,7 @@ I learned the Enneagram informally, from a friend’s father over the dinner tab
 
 The Enneagram is successful as a tool for transformation because it provided an objective map of personality that we can use to become more aware of our unconscious patterns and blind spots so we can become more conscious. Each personality starts out as a survival strategy, but in adulthood, becomes a self-limiting, yet largely automatic, defensive structure. 
 
-### The Enneagram helps us see these invisible habitual patterns of defense so we can break free of them. 
+### The Enneagram helps us see these invisible, habitual patterns of defense so that we can break free of them. 
 
 The ancient Greeks believed the secret to life and the basis of every kind of knowledge started with the key idea, “Know thyself.” And the Enneagram comes from this kind of wisdom tradition. It’s based in time-tested truths about our human nature and possibility for transcendence. 
 
