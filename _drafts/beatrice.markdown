@@ -36,7 +36,7 @@ The Enneagram is successful as a tool for transformation because it provided an 
 
 The ancient Greeks believed the secret to life and the basis of every kind of knowledge started with the key idea, “Know Thyself.” And the Enneagram comes from this kind of wisdom tradition. It’s based in time-tested truths about our human nature and possibility for transcendence. 
 
-img
+[ShopKaleidos-002-1.JPG](/uploads/ShopKaleidos-002-1.JPG)
 
 ###### When did you know you wanted to dedicate so much of your work to the Enneagram?
 
@@ -50,7 +50,7 @@ Making sure you have typed yourself accurately is important. If you are certain 
 
 These aspects provide very specific insights that can help guide self-observation and raise your self-awareness level. The “passion” is also a very important aspect to focus on, as it’s the emotional driver at the core of the personality that often remains unconscious. It’s important to make that and other blind spots more conscious through carefully observing yourself and noticing things you may not have noticed before when you were just in the “default” mode of your type and subtype. 
 
-img
+[ShopKaleidos-019-1.JPG](/uploads/ShopKaleidos-019-1.JPG)
 
 ###### For those who are already knowledgeable about the Enneagram, how would you recommend they deepen their learning? 
 
@@ -66,7 +66,7 @@ The Enneagram is great for enhancing relationships. It starts with self-awarenes
 
 The Enneagram can both create a mutual understanding very quickly and encourage more empathy for others, because we see that people don’t disagree with us just because they are being perverse or difficult, but because they have a whole different lens on the same reality. Solopreneurs can get a sense of what they do well and what they don’t pay attention to. This can reveal when they may need to develop more skill in a specific area, or when they may need to contract for a specific kind of help.
 
-img
+[ShopKaleidos-005-1.JPG](/uploads/ShopKaleidos-005-1.JPG)
 
 ###### In the midst of our current divisive political climate, how could we look to the Enneagram as a tool? 
 
@@ -77,3 +77,5 @@ Also, the Enneagram system shows us how instinct and our “lower emotions” ar
 ###### What advice would you give to a single, female, 29-year-old Eight, who works and lives remotely, is constantly fighting to balance her love for both community and exploring, and wants to learn how to be her healthiest self in an inherently independent lifestyle that makes building new relationships difficult? Asking for a friend, of course 😉. 
 
 Okay! The key for many Eights is to be able to access vulnerability. Being independent may feel safe and comfortable, but if she can tap into what makes her feel vulnerable and lean into that discomfort, she may be able to balance her desire for exploring and independence with being more engaged with her community and more connected with other people. When Eights can get in touch with and live more from their sensitivity and vulnerability (and big-heartedness), they automatically balance out an over-focus on being independent and remote with an ability to open up to deeper connection and more satisfying relationships. 
+
+_Photos by [Eun Creative](http://www.euncreative.com/)_
