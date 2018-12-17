@@ -1,5 +1,5 @@
 ---
-title: 'The Tool to Truly “Know Thyself”: An Interview with Enneagram Expert Beatrice
+title: 'The Tool to Truly “Know Thyself”: Our  Interview with Enneagram Expert Beatrice
   Chestnut'
 date: 2018-12-28 04:00:00 -08:00
 categories:
