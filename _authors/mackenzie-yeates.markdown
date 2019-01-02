@@ -1,6 +1,7 @@
 ---
 title: Mackenzie Yeates
 date: 2019-01-02 12:30:00 -08:00
+bio_image: "/uploads/mackenzie.jpg"
 website: https://kotn.com/
 ---
 
