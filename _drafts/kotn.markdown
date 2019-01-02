@@ -12,6 +12,7 @@ tags:
 - create capsule wardrobe
 - sustainable shopping
 author: Mackenzie Yeates
+image: "/uploads/andrej-lisakov-541769-unsplash.jpg"
 ---
 
 If you spend as much time on Pinterest as I do, you’ve probably heard of capsule wardrobes: the narrowed down selection of products designed to help you shop and dress smarter. I was intrigued by the idea of putting more planning into my wardrobe but I wasn’t sure if I could handle the limitations. 
