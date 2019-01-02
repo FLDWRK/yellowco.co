@@ -3,6 +3,14 @@ title: kotn
 date: 2019-01-04 04:00:00 -08:00
 categories:
 - Conscious Living
+tags:
+- capsule wardrobe
+- sustainable fashion
+- ethical fashion
+- conscious consumer
+- capsule
+- create capsule wardrobe
+- sustainable shopping
 author: Mackenzie Yeates
 ---
 
