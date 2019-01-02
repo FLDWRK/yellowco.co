@@ -37,6 +37,8 @@ Think about color palettes and layer in favorite season-specific items. Again, l
 
 Bring items to the cobbler or tailor that need to be repaired. This is an essential part of keeping a sustainable wardrobe. Investing in quality items and making sure that you take care of them from season to season. 
 
+![capsule-1.jpg](/uploads/capsule-1.jpg)
+
 #### Step 3: Wishlist
 
 I think a thoughtful wishlist is the most important tool in helping you shop smart. After analyzing what you already have in your closet, think about what might be missing, or what new pieces you might want to add to your wardrobe. If you are more intentional about what you want to purchase, avoid that impulse Zara buy. This also helps me to make smarter choices about investment pieces. If I find something I love, I will add it to a Pinterest wishlist and then re-visit it a week later to see if I still feel the same way about it. 
