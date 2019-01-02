@@ -1,6 +1,9 @@
 ---
 title: kotn
-date: 2019-01-02 12:29:00 -08:00
+date: 2019-01-04 04:00:00 -08:00
+categories:
+- Conscious Living
+author: Mackenzie Yeates
 ---
 
 If you spend as much time on Pinterest as I do, you’ve probably heard of capsule wardrobes: the narrowed down selection of products designed to help you shop and dress smarter. I was intrigued by the idea of putting more planning into my wardrobe but I wasn’t sure if I could handle the limitations. I recently took off on a five-week work trip to Egypt and I was forced to pack the bare essentials. I stuck to versatile separates that could be mixed and matched into a smorgasbord of combinations. The contents of my suitcase literally took me from plane to factory, to a trip to the opera. I realized that the limitations were actually empowering, that the lack of choice made me dress better. I was hooked and ready to make this philosophy part of my daily life. The thing is, there’s no perfect formula. Back home in Canada, having four coats in my capsule including an incredibly warm vintage fur is deemed necessary. The trick is to pick what works for you and edit ruthlessly. 
