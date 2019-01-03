@@ -29,7 +29,9 @@ SO TAKE IN SOME GOOD! Podcasts (cough – like [Awesome with Alison](http://thea
 
 ##### 2. Change your thoughts. 
 
-I have the secret to life – ready? HA! If you want different results you need different thoughts. Often for me, I cannot change my thoughts until I WATCH and observe my thoughts. This means meditation, reflection – whatever I can stomach. Having a hard time with meditation? Try a gratitude practice! Gratitude is scientifically proven to make everything better (for real, it’s science)! I have an awesome free one [RIGHT HERE](http://thealisonshow.com/podcasts/awesome-with-alison-ep-24-im-freaking-grateful-a-gratitude-practice-to-help-you-love-your-life/). 
+I have the secret to life – ready? HA! If you want different results you need different thoughts. Often for me, I cannot change my thoughts until I WATCH and observe my thoughts. This means meditation, reflection – whatever I can stomach. Having a hard time with meditation? Try a gratitude practice! Gratitude is scientifically proven to make everything better (for real, it’s science)! I have an awesome free one [RIGHT HERE](http://thealisonshow.com/podcasts/awesome-with-alison-ep-24-im-freaking-grateful-a-gratitude-practice-to-help-you-love-your-life/).
+
+![7Z9B7868.jpg](/uploads/7Z9B7868.jpg)
 
 ##### 3. Move it or lose it! 
 
@@ -39,13 +41,17 @@ In order to save your mind, you MUST move your body! Movement doesn’t have to 
 
 UGH THIS ONE IS SO HARD AND ANNOYING TO ME. BUT spending time to be proud of your accomplishments will refuel you, and make you a more awesome person to be around. You light up the world when you DO YOUR THING – don’t forget to share that light. Make a toast, go to dinner, or take a celebratory lap around the house. You are doing a really good job! Also say that to yourself periodically – in the mirror. “I’m doing AWESOME!” (Fist pump not required but encouraged.) Because what’s the point of achieving all this crap if we can’t enjoy it? It’s wasteful. Truly. 
 
+![partywithalison-97.jpg](/uploads/partywithalison-97.jpg)
+
 ##### 5. Invest in people who invest in you. 
 
 Your time is precious and your energy priceless. Make sure you’re maximizing all you have with those who invest in you! This is some of the best business advice I have for you too (I also founded [Alison’s Brand School](https://www.instagram.com/alisonsbrandschool/) – WINK)! We often tend to invest in those who are NOT investing in us – and that’s the quickest way to bankrupt your feelings of awesomeness. 
 
 ##### 6. You are not a robot – don’t expect to behave as one.
 
-This means you cannot be perfect, and also perfect does not exist. You will make mistakes, you will learn awesome principles and not apply them perfectly. Progress will not always be linear. Why? BECAUSE YOU ARE NOT A ROBOT. I have to remind myself of this daily.  Do I wish I was a robot? Honestly sometimes it seems nice. Sigh. 
+This means you cannot be perfect, and also perfect does not exist. You will make mistakes, you will learn awesome principles and not apply them perfectly. Progress will not always be linear. Why? BECAUSE YOU ARE NOT A ROBOT. I have to remind myself of this daily.  Do I wish I was a robot? Honestly sometimes it seems nice. Sigh.
+
+![7Z9B8424.jpg](/uploads/7Z9B8424.jpg) 
 
 ##### 7. HANG OUT WITH ME (or other people you like)! 
 
