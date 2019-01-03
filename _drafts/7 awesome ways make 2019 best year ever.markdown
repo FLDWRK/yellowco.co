@@ -3,6 +3,16 @@ title: 7 Awesome Ways You Can Tangibly Make 2019 the Best Year Ever
 date: 2019-01-07 04:00:00 -08:00
 categories:
 - Growth
+tags:
+- new year
+- new year goals
+- resolutions
+- new year resolutions
+- personal growth
+- feel more awesome
+- alison faulkner
+- the alison show
+- gratitude
 author: Alison Faulkner
 image: "/uploads/awesomewithalison-158.jpg"
 ---
@@ -43,6 +53,6 @@ I think one super important thing we can do for ourselves is find people WHO SPE
 
 I KNOW that 2019 can and will be your best year yet! So don’t look back – you’re not going that way. And remember, only you can be YOU – and you’re already as awesome as you need to be.
 
-If you’d like to spend more time talking about feeling as awesome as you are, how to do what you feel called to do in life and also how to make feeling good FUN, you should for sure listen to my podcast [Awesome with Alison](http://thealisonshow.com/podcasts/)! It’s free, it’s to-the-point and I’d love to have you as part of our Awesome Empire. I’m also on IG as [@thealisonshow](https://www.instagram.com/thealisonshow/) --where I airhump and share my thoughts and life.
+_Where you can find Alison: If you’d like to spend more time talking about feeling as awesome as you are, how to do what you feel called to do in life and also how to make feeling good FUN, you should for sure listen to my podcast [Awesome with Alison](http://thealisonshow.com/podcasts/)! It’s free, it’s to-the-point, and I’d love to have you as part of our Awesome Empire. I’m also on IG as [@thealisonshow](https://www.instagram.com/thealisonshow/) –where I dance and share my thoughts and life._
 
 _Photos courtesy of [The Alison Show](http://thealisonshow.com/)_
