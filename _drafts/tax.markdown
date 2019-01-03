@@ -33,30 +33,30 @@ We all know that saving is more important than ever, and the IRS actually reward
 
 #### [Volunteering](https://www.hrblock.com/tax-center/filing/adjustments-and-deductions/volunteer-work-tax-deductions/) 
 
-Did you know that if you [volunteer](https://www.hrblock.com/tax-center/filing/adjustments-and-deductions/volunteer-work-tax-deductions/) for a §501(c)(3) tax-exempt organization, you may be eligible for a tax break? Be sure to record mileage when you head to your favorite charity, and any out-of-pocket expenses you spend while doing so! As with all tax breaks, there are exceptions and rules, so be sure to keep your volunteer work documented, and do your r
+Did you know that if you [volunteer](https://www.hrblock.com/tax-center/filing/adjustments-and-deductions/volunteer-work-tax-deductions/) for a 501(c)(3) tax-exempt organization, you may be eligible for a tax break? Be sure to record mileage when you head to your favorite charity, and any out-of-pocket expenses you spend while doing so! As with all tax breaks, there are exceptions and rules, so be sure to keep your volunteer work documented, and do your research.
 
-#### [Student loans](https://turbotax.intuit.com/tax-tips/college-and-education/what-is-a-1098-e-student-loan-interest/L8Tr1X9hD)
+#### [Student Loans](https://turbotax.intuit.com/tax-tips/college-and-education/what-is-a-1098-e-student-loan-interest/L8Tr1X9hD)
 
-We all know it hurts to pay those [student loans](https://turbotax.intuit.com/tax-tips/college-and-education/what-is-a-1098-e-student-loan-interest/L8Tr1X9hD), but did you know they are tax deductible? Even if your parents paid back your student loans, they are still deductible for you (not your parents.) Each year, you can deduct up to $2,500 of student-loan interest paid by you, or your parents. 
+We all know it hurts to pay those [student loans](https://turbotax.intuit.com/tax-tips/college-and-education/what-is-a-1098-e-student-loan-interest/L8Tr1X9hD), but did you know they are tax deductible? Even if your parents paid back your student loans, they are still deductible for you (not your parents). Each year, you can deduct up to $2,500 of student-loan interest paid by you, or your parents. 
 
 #### [Child Care Expenses](https://turbotax.intuit.com/tax-tips/family/deducting-summer-camps-and-daycare-with-the-child-and-dependent-care-credit/L8aAzvmjB)
 
-Did you send your child or dependant to day-care or summer camp? Did you rack up a lot of babysitting bills throughout the year? The good news is that up to 35% of expenses --$3,000 for one child, and $6,000 for two-- are [tax deductible](https://turbotax.intuit.com/tax-tips/family/deducting-summer-camps-and-daycare-with-the-child-and-dependent-care-credit/L8aAzvmjB)!
+Did you send your child or dependent to day-care or summer camp? Did you rack up a lot of babysitting bills throughout the year? The good news is that up to 35% of expenses - $3,000 for one child, and $6,000 for two - are [tax deductible](https://turbotax.intuit.com/tax-tips/family/deducting-summer-camps-and-daycare-with-the-child-and-dependent-care-credit/L8aAzvmjB)!
 
-#### [Moving expenses](https://www.irs.gov/taxtopics/tc455) 
+#### [Moving Expenses](https://www.irs.gov/taxtopics/tc455) 
 
 As someone who has moved across the country for work reasons multiple times, I deeply empathize with the pain of seeing those bills rack up! Thankfully, [those expenses](https://www.irs.gov/taxtopics/tc455) are tax deductible as long as you move within 50 miles of your new workplace and work full time for 39 weeks out of your first year in your new home.
  
 #### [Charitable Contributions](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions) 
 
-Most people know that you can write off items that you donate to [charitable organizations](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions) like Goodwill or the Salvation Army. Just make sure to keep records of what you donated and when, and pay attention-- itemize your deductions, then check to see that the total of your deductions is greater than whatever the standard deduction is-- if it’s not, then go with the standard deductions! 
+Most people know that you can write off items that you donate to [charitable organizations](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions) like Goodwill or the Salvation Army. Just make sure to keep records of what you donated and when, and pay attention. Itemize your deductions, then check to see that the total of your deductions is greater than whatever the standard deduction is - if it’s not, then go with the standard deductions! 
 
 #### [Lifetime Learning Credit](https://www.irs.gov/credits-deductions/individuals/llc)
 
-If you are still in school, or if you have graduated, but decided to take some extra classes for your own benefit, you can [deduct from those expenses](https://www.irs.gov/credits-deductions/individuals/llc)! If you’re in a post-secondary school, ask them for Form 8863 and plan on claiming a maximum credit of 20 percent of up to $10,000 in eligible costs or $2,000
+If you are still in school, or if you have graduated, but decided to take some extra classes for your own benefit, you can [deduct from those expenses](https://www.irs.gov/credits-deductions/individuals/llc)! If you’re in a post-secondary school, ask them for Form 8863 and plan on claiming a maximum credit of 20%, up to $10,000, in eligible costs.
 	
-**Sidenote:** You cannot claim this and the [American Opportunity Credit](https://www.irs.gov/credits-deductions/individuals/aotc) in the same year, and if you are a student in one of your first 4 years of university, it will probably make more sense for you to claim the American Opportunity Credit. 
+**Sidenote:** You cannot claim this and the [American Opportunity Credit](https://www.irs.gov/credits-deductions/individuals/aotc) in the same year, and if you are a student in one of your first four years of university, it will probably make more sense for you to claim the American Opportunity Credit. 
 
 #### [Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit)
 
-Did you have a hard year? Did projects fall through, or maybe you got laid off? Assuming you are over 25 and under 65, you may qualify for help from the federal government by taking advantage of this [refundable tax credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit). It ranges from a credit of $519 to $6,431 for 2018, and you can see if you qualify [right here](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/use-the-eitc-assistant). If you’ve never applied but qualified in the past, you can apply to claim this credit for up to the past three previous years.
+Did you have a hard year? Did projects fall through, or maybe you got laid off? Assuming you are over 25 and under 65, you may qualify for help from the federal government by taking advantage of this [refundable tax credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit). It ranges from a credit of $519 - $6,431 for 2018, and you can see if you qualify [right here](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/use-the-eitc-assistant). If you’ve never applied but qualified in the past, you can apply to claim this credit for up to the past three previous years.
