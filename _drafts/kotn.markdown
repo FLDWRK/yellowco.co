@@ -54,3 +54,5 @@ Accessories are the best way to add flair to a minimalist wardrobe. Think about 
 You can plan outfits by trying on and photographing them or doing digital layouts. I like to just snap a selfie in the mirror before going out when I find an outfit I like. That way when I snooze my alarm and wake up having no idea what to wear, I can go through my phone and find an outfit to repeat. 
 
 As a busy entrepreneur, simplifying certain areas of my life has helped me to have some peace of mind. I’m inundated with hundreds of decisions to make every day, so limiting choices in my wardrobe is a way to keep my decision fatigue at bay. If you plan correctly, creating capsule wardrobe can make rushed mornings easier, and help you shop, dress, and pack more sustainably.
+
+![capsule-2.jpg](/uploads/capsule-2.jpg)
