@@ -4,6 +4,7 @@ date: 2019-01-09 04:00:00 -08:00
 categories:
 - Relationships
 author: Bailey Van Tassel
+image: "/uploads/deborah-diem-541112-unsplash-1.jpg"
 ---
 
 I remember feeling so unprepared. I had no idea how traumatic having a miscarriage would be both physically and emotionally. It was hard on my body, which had already adjusted to being pregnant. I had a ton of unexpected feelings ranging from shame and embarrassment to relief. And it was even hard for my husband and I to deal with as a couple because it felt so different for him than it did for me. Friends of mine who had never been through a miscarriage, or even childbirth at all, struggled to find ways to be supportive. They mainly just had no idea what I was going through, so didn’t know what to say, or if they should say anything at all. 
