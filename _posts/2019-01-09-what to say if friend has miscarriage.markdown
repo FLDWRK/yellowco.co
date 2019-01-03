@@ -3,6 +3,14 @@ title: What to Say If Your Friend Has a Miscarriage
 date: 2019-01-09 04:00:00 -08:00
 categories:
 - Relationships
+tags:
+- miscarriage
+- what to say miscarriage
+- what to say when your friend has a miscarriage
+- relationships
+- what to say to friend
+- pregnancy
+- infertility
 author: Bailey Van Tassel
 image: "/uploads/deborah-diem-541112-unsplash-1.jpg"
 ---
@@ -17,6 +25,8 @@ My philosophy on talking to a friend about anything hard is this:
 
 (Thank you, Aesop, and Amen to that!) If your intention is to be supportive, then go for it. Here are some tips for what to say, and when. 
 
+![esther-driehaus-1176560-unsplash-1.jpg](/uploads/esther-driehaus-1176560-unsplash-1.jpg)
+
 ##### “I love you no matter what. Reach out to me anytime, for any reason.” 
 
 Often we just need to hear the people we love remind us that they love us. This is a great thing to say once you’ve heard the news. Let your friend know that no matter what she’s feeling or needing, you’re there for her. I felt much better to hear someone say something short and sweet, rather than avoid the subject and say nothing. Sometimes all I could muster was an emoji heart response, and that’s okay. 
@@ -28,6 +38,8 @@ If you’re really at a loss, just tell your friend this. It’s appropriate to 
 ##### “If you don’t want to talk about it, let me know. But if you do, how are you feeling?” 
 
 Asking how someone is feeling is such a loaded question. Give your friend the option to not talk about it first, and then keep the door open to be a friendly ear. I’d say a few days after you’ve initially touched base, this is a great follow up. I felt like talking about my experience helped me heal, so appreciated when friends didn’t avoid it. I also felt sometimes like the avoidance was more awkward than just asking me outright how I was doing. 
+
+![charles-deluvio-1171440-unsplash-1.jpg](/uploads/charles-deluvio-1171440-unsplash-1.jpg)
 
 ##### “I know this may be a hard time for you, so I would love to help you take your mind off it. Want to get a mani tomorrow?” 
 
