@@ -1,5 +1,5 @@
 ---
-title: how to build capsule wardrobe
+title: How to Build Your Capsule Wardrobe This Year
 date: 2019-01-04 04:00:00 -08:00
 categories:
 - Conscious Living
