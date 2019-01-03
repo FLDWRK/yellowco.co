@@ -1,5 +1,5 @@
 ---
-title: 7 FUN IDEAS TO MAKE 2019 YOUR BEST YEAR YET!
+title: 7 Awesome Ways You Can Tangibly Make 2019 the Best Year Ever
 date: 2019-01-07 04:00:00 -08:00
 categories:
 - Growth
