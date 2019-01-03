@@ -55,4 +55,4 @@ You can plan outfits by trying on and photographing them or doing digital layout
 
 As a busy entrepreneur, simplifying certain areas of my life has helped me to have some peace of mind. I’m inundated with hundreds of decisions to make every day, so limiting choices in my wardrobe is a way to keep my decision fatigue at bay. If you plan correctly, creating capsule wardrobe can make rushed mornings easier, and help you shop, dress, and pack more sustainably.
 
-![capsule-2.jpg](/uploads/capsule-2.jpg)
+![capsule-2-64fd0e.jpg](/uploads/capsule-2-64fd0e.jpg)
