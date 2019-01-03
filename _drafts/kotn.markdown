@@ -21,7 +21,7 @@ I recently took off on a five-week work trip to Egypt and I was forced to pack t
 
 ### The trick is to pick what works for you and edit ruthlessly. 
 
-Here are a few tips for creating your own capsule wardrobe.
+Here are a few tips for creating your own capsule wardrobe, and my example capsule that I've put together.
 
 #### Step 1: Reference
 
