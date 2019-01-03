@@ -4,6 +4,7 @@ date: 2019-01-07 04:00:00 -08:00
 categories:
 - Growth
 author: Alison Faulkner
+image: "/uploads/awesomewithalison-158.jpg"
 ---
 
 HI! I’m Alison, and I’m a fairly crazy person who helps other people feel less crazy and do what they feel called to do! I love to help us all feel as awesome as we are. And I BELIEVE THIS: Feeling GOOD IS FUN! 
