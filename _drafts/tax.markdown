@@ -17,6 +17,7 @@ tags:
 - finance
 - tax advice
 author: Kacy Schlener
+image: "/uploads/rawpixel-1125494-unsplash-1.jpg"
 ---
 
 I used to hate filing my taxes more than anything else in this world. It became an infamously dark time in my home. Once April hit, my family and friends would start keeping their distance from the mumbled curses and rants that always preceded me locking myself away in my office at 10pm on April 14th while I frantically dug through paperwork I’d “filed” (read: shoved unceremoniously into my sock drawer) over the past year, googling tax tips furiously and calling my dad in tears begging for help (and disparaging our government) as I tried to remember what the correct forms to file for the highest deduction. 
@@ -30,6 +31,8 @@ As a contract worker, I could always expect to pay thousands of dollars in taxes
 We all know that saving is more important than ever, and the IRS actually rewards you if you start investing in your own future (which you should). If you have an IRA (Individual Retirement Account) or if your company sponsors a retirement account for you, you may be eligible for up to $2,000 tax credit if you’re single, and $4,000 if you file jointly! 
 
 **Sidenote:** It is insanely easy (and wise) to set up an IRA! I highly recommend using [Betterment](https://www.betterment.com/ira-accounts/). Everything can be automated, and their investment algorithms keep your bank account growing without you having to constantly manage it. 
+
+![studio-ease-629073-unsplash-1.jpg](/uploads/studio-ease-629073-unsplash-1.jpg)
 
 #### [Volunteering](https://www.hrblock.com/tax-center/filing/adjustments-and-deductions/volunteer-work-tax-deductions/) 
 
@@ -46,6 +49,8 @@ Did you send your child or dependent to day-care or summer camp? Did you rack up
 #### [Moving Expenses](https://www.irs.gov/taxtopics/tc455) 
 
 As someone who has moved across the country for work reasons multiple times, I deeply empathize with the pain of seeing those bills rack up! Thankfully, [those expenses](https://www.irs.gov/taxtopics/tc455) are tax deductible as long as you move within 50 miles of your new workplace and work full time for 39 weeks out of your first year in your new home.
+
+![rawpixel-626044-unsplash-1.jpg](/uploads/rawpixel-626044-unsplash-1.jpg)
  
 #### [Charitable Contributions](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions) 
 
