@@ -25,7 +25,7 @@ You’ve MAYBE heard this all before – but maybe I’ll say it in a way that w
 
 ##### 1. Input equals output. 
 
-SO TAKE IN SOME GOOD! Podcasts (cough – like [Awesome with Alison](http://thealisonshow.com/podcasts/)), books, GOLDEN SILENCE! These are all GOOD things that will help you put out more GOOD things. When you’re feeling stagnant, think about your input. You can’t pull water from a dry well! FILL ER UP! 
+SO TAKE IN SOME GOOD! Podcasts (cough – like [Awesome with Alison](http://thealisonshow.com/podcasts/)), books, GOLDEN SILENCE! These are all GOOD things that will help you put out more GOOD things. When you’re feeling stagnant, think about your input. You can’t pull water from a dry well! FILL 'ER UP! 
 
 ##### 2. Change your thoughts. 
 
@@ -59,6 +59,6 @@ I think one super important thing we can do for ourselves is find people WHO SPE
 
 I KNOW that 2019 can and will be your best year yet! So don’t look back – you’re not going that way. And remember, only you can be YOU – and you’re already as awesome as you need to be.
 
-_Where you can find Alison: If you’d like to spend more time talking about feeling as awesome as you are, how to do what you feel called to do in life and also how to make feeling good FUN, you should for sure listen to my podcast [Awesome with Alison](http://thealisonshow.com/podcasts/)! It’s free, it’s to-the-point, and I’d love to have you as part of our Awesome Empire. I’m also on IG as [@thealisonshow](https://www.instagram.com/thealisonshow/) –where I dance and share my thoughts and life._
+_Where you can find Alison: If you’d like to spend more time talking about feeling as awesome as you are, how to do what you feel called to do in life and also how to make feeling good FUN, you should for sure listen to my podcast [Awesome with Alison](http://thealisonshow.com/podcasts/)! It’s free, it’s to-the-point, and I’d love to have you as part of our Awesome Empire. I’m also on IG as [@thealisonshow](https://www.instagram.com/thealisonshow/) - where I dance and share my thoughts and life._
 
 _Photos courtesy of [The Alison Show](http://thealisonshow.com/)_
