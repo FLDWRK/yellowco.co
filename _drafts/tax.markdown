@@ -1,5 +1,5 @@
 ---
-title: tax
+title: 'Tax Deduction Tips: 8 Overlooked Write-Offs You Won''t Want to Miss'
 date: 2019-01-11 04:00:00 -08:00
 categories:
 - Entrepreneurs
