@@ -3,6 +3,19 @@ title: tax
 date: 2019-01-11 04:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- tax deductions
+- entrepreneur
+- contractor
+- self employed
+- '1099'
+- what can you deduct from taxes
+- tax tips for entrepreneurs
+- tax tips for self employed
+- tax tips
+- deductions
+- finance
+- tax advice
 author: Kacy Schlener
 ---
 
