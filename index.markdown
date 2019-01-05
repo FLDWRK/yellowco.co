@@ -3,6 +3,8 @@ title: Home
 position: 4
 body-class: home
 banners:
+- link: https://yellowco.co/blog/2018/12/28/enneagram-expert-beatrice-chestnut-interview/
+  image: "/uploads/Beatrice-Chestnut-enneagram.jpg"
 - link: https://yellowco.co/blog/2018/01/10/new-year-resolution-goals-word-intention/
   image: "/uploads/Intention.jpg"
 - link: "/membership"
@@ -12,6 +14,8 @@ banners:
 - link: https://yellowco.co/retreats/bali/
   image: "/uploads/BALI-HEADER-bed6f1.jpg"
 sm-banners:
+- link: https://yellowco.co/blog/2018/12/28/enneagram-expert-beatrice-chestnut-interview/
+  image: "/uploads/Beatrice-Chestnut-enneagram-sm.jpg"
 - link: https://yellowco.co/blog/2018/01/10/new-year-resolution-goals-word-intention/
   image: "/uploads/Intention-sm.jpg"
 - link: "/membership"
