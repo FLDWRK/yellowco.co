@@ -3,23 +3,23 @@ title: Home
 position: 4
 body-class: home
 banners:
+- link: https://yellowco.co/blog/2018/01/10/new-year-resolution-goals-word-intention/
+  image: "/uploads/Intention.jpg"
+- link: "/membership"
+  image: "/assets/images/membership-link.jpg"
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header.jpg"
 - link: https://yellowco.co/retreats/bali/
   image: "/uploads/BALI-HEADER-bed6f1.jpg"
-- link: https://www.universe.com/events/yellow-conference-2019-tickets-los-angeles-SY12HX
-  image: "/uploads/Yellow-2019-6add09.jpg"
-- link: "/membership"
-  image: "/assets/images/membership-link.jpg"
 sm-banners:
+- link: https://yellowco.co/blog/2018/01/10/new-year-resolution-goals-word-intention/
+  image: "/uploads/Intention-sm.jpg"
+- link: "/membership"
+  image: "/assets/images/membership-link-sm.jpg"
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header-SM.jpg"
 - link: https://yellowco.co/retreats/bali/
   image: "/uploads/Bali-Header-SM.jpg"
-- link: https://www.universe.com/events/yellow-conference-2019-tickets-los-angeles-SY12HX
-  image: "/uploads/Yellow-2019-sm-0b1332.jpg"
-- link: "/membership"
-  image: "/assets/images/membership-link-sm.jpg"
 buttons:
 - text: Membership
   link: "/membership"
