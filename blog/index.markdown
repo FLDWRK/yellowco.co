@@ -7,7 +7,7 @@ nav:
     highlight: blog
 pagination:
   enabled: true
-series: Reflect
+series: Purpose- MN
 layout: custom/blog
 ---
 
