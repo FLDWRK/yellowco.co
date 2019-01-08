@@ -15,6 +15,7 @@ tags:
 - non-profit female leaders
 - north korean refugee crisis
 author: Kacy Schlener
+image: "/uploads/d-1.jpg"
 ---
 
 _I first became aware of North Korea’s many human rights violations during a summer I spent in Hawaii. It just so happened that nearly half of my friends that summer were from South Korea. As we grew to know each other better, my new friends started sharing stories they’d heard from parents and grandparents about friends and family that were still in North Korea. I remember being shocked hearing them speak about people who had made it over the North Korean border to only be shot as they ran towards freedom, or of letters being snuck out of the country hidden in visitor's shoes to be delivered to their family in South Korea._ 
@@ -31,6 +32,8 @@ North Korea represents one of the biggest challenges facing humanity today. It i
 
 Thousands of North Koreans have risked their lives to flee these conditions and to escape their country in search of food, family and freedom. However, the North Korean regime makes it illegal to leave the country without state permission.  
 
+img
+
 For those who manage to escape into neighboring China, they are still at grave risk and are often forced into hiding because the Chinese government refuses to recognize them as refugees. Instead, they cooperate with the North Korean government to arrest and forcibly send people back. If they’re caught and sent back, North Koreans are at great risk of harsh punishments, including brutal beatings, forced labor, forced abortions, torture, and internment in political prison camps.  
 
 Many North Korean women in China find themselves victims of sex trafficking, forced to work in brothels or online sex chatrooms, or are bought and sold as wives. Some women have been sold for as little as a few hundred dollars to a few thousand dollars.
@@ -45,6 +48,8 @@ Newly arriving North Korean refugees face a range of challenges as they acclimat
 
 **Changing the Narrative:**  
 In the global mainstream media North Korea has been defined narrowly as “crazy Kim and nukes,” and that has caused a deficit of support for the North Korean people. We are changing and broadening people’s perception of this issue in order to mobilize the level of support that the North Korean people deserve. We work directly with North Korean defectors and other experts to develop new insights, frameworks, and ways of understanding the issue, and then we disseminate this to journalists, policymakers/governments, and our grassroots movement. 
+
+img
 
 ###### Where does your personal passion for freedom for North Korean citizens come from?
 
@@ -61,6 +66,8 @@ We have witnessed the extreme depravity of mankind throughout history - the unfa
 ###### Why is it important to help North Korean refugees after they have already left North Korea?
 
 We work directly with North Korean refugees because of the humanitarian imperative - the grave risks they face in their courageous escape and the unfathomable challenges they face throughout that journey and even into their resettlement in a new country. But also because we have seen their undeniable potential as some of the most effective agents of change on this issue. 
+
+img
 
 ###### Once someone escapes from North Korea, what do they typically do? What struggles do they face?
 
@@ -81,6 +88,8 @@ North Korea is in the news often, and yet there is a significant part of the nar
 ### Our TV screens and news feeds are flooded with news about North Korea that focus mostly on nuclear weapons, security issues, and Kim Jong-un. 
 
 And while these issues are certainly important they should not define North Korea. Rather, 25 million North Korean people should be at the center of the headlines - the ways in which they are overcoming extreme challenges and forging incredible bottom-up changes inside the country with their resilience and ingenuity. The greatest potential for change on this issue lies within the North Korean people. 
+
+img
 
 ###### What have you found to be the most common misconception about North Korea and its citizens? 
 
