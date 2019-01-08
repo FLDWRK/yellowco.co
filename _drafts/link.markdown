@@ -32,7 +32,7 @@ North Korea represents one of the biggest challenges facing humanity today. It i
 
 Thousands of North Koreans have risked their lives to flee these conditions and to escape their country in search of food, family and freedom. However, the North Korean regime makes it illegal to leave the country without state permission.  
 
-img
+![Screen Shot 2019-01-08 at 3.32.55 PM-1.jpg](/uploads/Screen%20Shot%202019-01-08%20at%203.32.55%20PM-1.jpg)
 
 For those who manage to escape into neighboring China, they are still at grave risk and are often forced into hiding because the Chinese government refuses to recognize them as refugees. Instead, they cooperate with the North Korean government to arrest and forcibly send people back. If they’re caught and sent back, North Koreans are at great risk of harsh punishments, including brutal beatings, forced labor, forced abortions, torture, and internment in political prison camps.  
 
@@ -49,7 +49,7 @@ Newly arriving North Korean refugees face a range of challenges as they acclimat
 **Changing the Narrative:**  
 In the global mainstream media North Korea has been defined narrowly as “crazy Kim and nukes,” and that has caused a deficit of support for the North Korean people. We are changing and broadening people’s perception of this issue in order to mobilize the level of support that the North Korean people deserve. We work directly with North Korean defectors and other experts to develop new insights, frameworks, and ways of understanding the issue, and then we disseminate this to journalists, policymakers/governments, and our grassroots movement. 
 
-img
+![redo-staff-phtoo-resize.jpg](/uploads/redo-staff-phtoo-resize.jpg)
 
 ###### Where does your personal passion for freedom for North Korean citizens come from?
 
@@ -67,7 +67,7 @@ We have witnessed the extreme depravity of mankind throughout history - the unfa
 
 We work directly with North Korean refugees because of the humanitarian imperative - the grave risks they face in their courageous escape and the unfathomable challenges they face throughout that journey and even into their resettlement in a new country. But also because we have seen their undeniable potential as some of the most effective agents of change on this issue. 
 
-img
+![b-1.jpg](/uploads/b-1.jpg)
 
 ###### Once someone escapes from North Korea, what do they typically do? What struggles do they face?
 
@@ -89,7 +89,7 @@ North Korea is in the news often, and yet there is a significant part of the nar
 
 And while these issues are certainly important they should not define North Korea. Rather, 25 million North Korean people should be at the center of the headlines - the ways in which they are overcoming extreme challenges and forging incredible bottom-up changes inside the country with their resilience and ingenuity. The greatest potential for change on this issue lies within the North Korean people. 
 
-img
+![a-1.jpg](/uploads/a-1.jpg)
 
 ###### What have you found to be the most common misconception about North Korea and its citizens? 
 
