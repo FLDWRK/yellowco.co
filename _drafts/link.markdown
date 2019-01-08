@@ -6,7 +6,7 @@ categories:
 author: Kacy Schlener
 ---
 
-
+_I first became aware of North Korea’s many human rights violations during a summer I spent in Hawaii. It just so happened that nearly half of my friends that summer were from South Korea. As we grew to know each other better, my new friends started sharing stories they’d heard from parents and grandparents about friends and family that were still in North Korea. I remember being shocked hearing them speak about people who had made it over the North Korean border to only be shot as they ran towards freedom, and of notes to family in South Korea sneaked out of the country in the soles of visitor’s shoes. Shortly afterwards, a man my friends knew named Kenneth Bae who had been held in a North Korean prison for 4 years,was released, and I started learning about his efforts to help North Korean refugees. I had always heard of North Korea in the context of it being a nation that is dangerous to the rest of the world (thanks media). I’d never been told about the millions of North Korean citizens who have starved to death, or the hundreds of thousands of North Korean citizens who live and die in labor camps. North Korean citizens face tremendous hardships if they are ever able to leave North Korea, and it is thanks to organizations like LINK that those individuals have the opportunity to start a new life._
 
 ###### To readers who may be unfamiliar with [LiNK](https://www.libertyinnorthkorea.org/) and the important work that you do in North Korea, can you give an overview of the problem that LINK is addressing, and the solution that LINK offers?
 
