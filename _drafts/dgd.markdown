@@ -1,6 +1,5 @@
 ---
-title: 'PR with Purpose: Our First Winner of the Do-Good Dozen, Danielle Finck - Founder
-  of Elle Communications'
+title: 'PR with Purpose: Our First Do-Good Dozen Award Winner, Danielle Finck'
 date: 2019-01-14 04:00:00 -08:00
 categories:
 - Entrepreneurs
