@@ -3,6 +3,19 @@ title: 'PR with Purpose: Our First Do-Good Dozen Award Winner, Danielle Finck'
 date: 2019-01-14 04:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- do-good dozen
+- yellow do-good dozen
+- female founder
+- elle communications
+- danielle finck
+- pr
+- pr with purpose
+- social enterprise pr
+- start-up pr
+- doing good
+- meaningful work
+- social impact
 author: Hanna Snyder
 image: "/uploads/danielle-797170.jpg"
 ---
