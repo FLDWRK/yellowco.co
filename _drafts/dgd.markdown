@@ -20,6 +20,8 @@ My focus on purpose as the core of Elle Communications began as a desire to use 
 
 As “impact” has grown and become more trendy, there are plenty of brands masking marketing as philanthropy and we prefer to uplift those with the most thoughtful, effective, and genuine approaches. 
 
+[IMG_9704.JPG](/uploads/IMG_9704.JPG)
+
 ###### How does doing PR for “do-good” companies differ from doing PR for brands that aren’t as socially conscious?
 
 In many ways, it doesn’t. It’s our job to make conscious brands cool and relevant, and we employ many strategies that help our clients compete with organizations that aren’t operating for impact. After all, we’re ultimately trying to get consumers to support something that’s good for people and the planet instead of something that isn’t. 
@@ -38,6 +40,8 @@ I’m inspired by the people I work with and for. While I’ve called out a few 
 
 I’m truly inspired by everyone who finds a way to use their time, talents, and resources to support the issues they’re passionate about. 
 
+[IMG_0552.JPG](/uploads/IMG_0552.JPG)
+
 ###### It seems that small social enterprise start-ups rarely have the budget for PR, and yet, it can often be what they need most to get off the ground. What advice would you give to a new, small business that doesn’t have many resources yet?
 
 We actually launched a program called Elle Beginnings a couple of years ago for exactly this reason! We work with early-stage businesses to advise and coach them on PR strategies that they then implement internally. We have worked with companies like Lauren Scruggs’ clean hair care brand, [Stranded](https://www.thestrandedshop.com/), a police transparency app called [Raheem](https://www.raheem.ai/), and a business collective in San Diego called [Moniker](https://monikergroup.com/). 
@@ -45,6 +49,8 @@ We actually launched a program called Elle Beginnings a couple of years ago for 
 ###### In your words, what does it mean to “do good”?
 
 I don’t like to approach people and the world dualistically that some are “doing good” and others are not, because it just isn’t my place to make that judgement call. I guess the best way I could answer this is what I said above - that the world just needs us to show up and give our time, talents, and resources to the issues we feel passionately about. We all need to be thoughtful about what we consume and how we move through the world. 
+
+![IMG_3271.jpeg](/uploads/IMG_3271.jpeg)
 
 ###### What’s one of the most important lessons you’ve learned as an entrepreneur?
 
