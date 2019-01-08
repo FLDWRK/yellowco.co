@@ -4,6 +4,7 @@ date: 2019-01-14 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
+image: "/uploads/danielle-797170.jpg"
 ---
 
 _This year at Yellow, we’re launching a new, 12-month award series called the “Do-Good Dozen” to honor women who are using their unique skills to create true change for good, all in different work spheres. We use the phrase “do-good” a lot here at Yellow, but it looks different for everyone! You don’t have to move across the country, you don’t even need to found a company. You can do good wherever you’re at, and we want to highlight trail-blazing women who have shown up to do just that. Our hope is to shed light on the many, many ways that “good” is needed and expressed in the world – in work and in life._
@@ -22,7 +23,7 @@ My focus on purpose as the core of Elle Communications began as a desire to use 
 
 As “impact” has grown and become more trendy, there are plenty of brands masking marketing as philanthropy and we prefer to uplift those with the most thoughtful, effective, and genuine approaches. 
 
-[IMG_9704.JPG](/uploads/IMG_9704.JPG)
+![d 1.jpeg](/uploads/d%201.jpeg)
 
 ###### How does doing PR for “do-good” companies differ from doing PR for brands that aren’t as socially conscious?
 
@@ -42,7 +43,7 @@ I’m inspired by the people I work with and for. While I’ve called out a few 
 
 I’m truly inspired by everyone who finds a way to use their time, talents, and resources to support the issues they’re passionate about. 
 
-[IMG_0552.JPG](/uploads/IMG_0552.JPG)
+![d2.jpeg](/uploads/d2.jpeg)
 
 ###### It seems that small social enterprise start-ups rarely have the budget for PR, and yet, it can often be what they need most to get off the ground. What advice would you give to a new, small business that doesn’t have many resources yet?
 
