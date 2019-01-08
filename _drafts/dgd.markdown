@@ -6,7 +6,7 @@ categories:
 author: Hanna Snyder
 ---
 
-_This year at Yellow, we’re launching a new award series called the “Do-Good Dozen” to honor women who are using their unique skills to create true change for good. We use the phrase “do-good” a lot here at Yellow, and we want to shed light on the many, many ways that “good” is needed and expressed in the world – specifically within different industries and job roles._
+_This year at Yellow, we’re launching a new, 12-month award series called the “Do-Good Dozen” to honor women who are using their unique skills to create true change for good, all in different work spheres. We use the phrase “do-good” a lot here at Yellow, but it looks different for everyone! You don’t have to move across the country, you don’t even need to found a company. You can do good wherever you’re at, and we want to highlight trail-blazing women who have shown up to do just that. Our hope is to shed light on the many, many ways that “good” is needed and expressed in the world – in work and in life. _
 
 _Our first winner of the Do-Good Dozen is Danielle Finck, the founder of Elle Communications! Danielle saw a need in the PR industry to better serve brands who are creating an impact for good on the world. Hear more about her incredible work, who she’s currently inspired by, and the most important lessons she’s learned in our interview with her below!_
 
