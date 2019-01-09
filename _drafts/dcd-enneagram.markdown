@@ -64,8 +64,8 @@ A [Type Two](http://dropcapdesign.com/blog/enneagram-two) (often called The Help
 - Champions of collaboration and mutual support
 
 **Ways to Grow:**  
-- Establish healthy work boundaries so that you can tend to your own needs  
--Pay attention to your motives for helping others - are you giving to get?
+- Establish healthy work boundaries so that you can tend to your own needs
+- Pay attention to your motives for helping others - are you giving to get?
 - Let others help you and notice when you’re trying to “do it all”
 
 ![Yellow_Enneagram-03.jpg](/uploads/Yellow_Enneagram-03.jpg)
