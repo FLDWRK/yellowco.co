@@ -18,6 +18,10 @@ tags:
 - drop cap design
 - illustration
 - enneagram illustration
+- fulfilling work
+- dream job
+- purpose
+- calling
 author: Kadie Smith
 image: "/uploads/Yellow_Enneagram-05.jpg"
 ---
