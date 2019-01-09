@@ -3,6 +3,18 @@ title: dcd - enneagram
 date: 2019-01-18 04:00:00 -08:00
 categories:
 - Growth
+tags:
+- enneagram
+- enneagram advice
+- enneagram tips
+- enneagram for entrepreneurs
+- studying the enneagram
+- work
+- entrepreneurs
+- what kind of work should i do
+- personality type
+- personal growth
+- job fits
 ---
 
 At the end of 2017, I was going through a major business transition and feeling discouraged in my career. The year had started with excitement and anticipation, but was ending in burn-out. I was in the perfect mental and emotional space to take an objective look at myself, so I decided to take a closer look at a personality tool I had been mildly interested in - [the Enneagram](https://www.enneagraminstitute.com/). I wanted to discover my blind spots and rekindle my passion so that I could make a bigger impact at work, which made me quickly fall in love with the Enneagram model.
