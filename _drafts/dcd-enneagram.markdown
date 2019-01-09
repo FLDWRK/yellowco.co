@@ -1,5 +1,5 @@
 ---
-title: dcd - enneagram
+title: How Your Enneagram Type Can Be Most Effective & Fulfilled at Work
 date: 2019-01-18 04:00:00 -08:00
 categories:
 - Growth
