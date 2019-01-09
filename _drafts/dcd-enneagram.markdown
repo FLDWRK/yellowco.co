@@ -17,13 +17,13 @@ So here’s a brief look at each [Enneagram type](https://www.enneagraminstitute
 
 A [Type One](http://dropcapdesign.com/blog/enneagram-one) is committed to doing the right thing and motivated by a desire to improve their world. Success to a One is seeing the results of their efforts, and they are constantly searching for the best way to do something. A One is always more critical of themselves than others, and maintains a high standard of integrity.
 
-**Unique Strengths:**
+**Unique Strengths:**  
 - Finding the right processes to seamlessly run a project
 - Commitment to quality and holding everyone (including themselves) to a standard of excellence
 - Amazing work ethic
 - Self-sufficient and sincerely want to do a good job 
 
-**Ways to Grow:**
+**Ways to Grow:**  
 - Notice your tendency to be overly critical of yourself and others
 - Acknowledge your natural tendency towards anger and find healthy ways to release it
 - Allow yourself to break the rules every now and again, and remember it’s okay if others do too
@@ -32,13 +32,13 @@ A [Type One](http://dropcapdesign.com/blog/enneagram-one) is committed to doing 
 
 A [Type Two](http://dropcapdesign.com/blog/enneagram-two) is motivated by pleasing and supporting others. Eager to lend a helping hand, a Two is the first to volunteer and desires appreciation from their team. A Two is naturally considerate, sympathetic, and understanding, but can often neglect their own needs in the process.
 
-**Unique Strengths:**
+**Unique Strengths:**  
 - Ability to sense others’ needs and make them feel valuable
 - Compassionate and generous nature
 - Dedication to supporting the team and making a positive impact
 - Champions of collaboration and mutual support
 
-**Ways to Grow:**
+**Ways to Grow:**  
 - Establish healthy work boundaries so that you can tend to your own needs
  -Pay attention to your motives for helping others - are you giving to get?
 - Let others help you and notice when you’re trying to “do it all”
@@ -47,13 +47,13 @@ A [Type Two](http://dropcapdesign.com/blog/enneagram-two) is motivated by pleasi
 
 A [Type Three](http://dropcapdesign.com/blog/enneagram-three) over identifies with their work and evaluates themselves based on accomplishing goals. While they excel at reading an audience, a Three can become a chameleon trying to meeting the expectations of others. Hardworking, charming, and ambitious, a Three finds the most efficient way to reach success.
 
-**Unique Strengths:**
+**Unique Strengths:**  
 - Ability to “read a room” and understand what will work for a certain audience
 - Can move things forward and do more than their share of responsibility to make it happen
 - Enjoys working and carries natural enthusiasm and passion
 Will not waste anyone’s time
 
-**Ways to Grow:**
+**Ways to Grow:**  
 - Notice your aggressive nature when it comes to chasing goals and make sure you’re not steamrolling others in the process
 - Practice patience in your interactions and allow yourself to “waste time” if it means building a relationship
 - Actively unplug from the world in order to align with your inner self and process emotions
@@ -62,13 +62,13 @@ Will not waste anyone’s time
 
 A [Type Four](http://dropcapdesign.com/blog/enneagram-four) is concerned with being seen, heard, and understood. A Four wants to connect to the world in a meaningful way, and is naturally sensitive to any roadblocks in communication. It’s easy for a Four to see what’s missing in a situation, or pick up on tension or frustration within a team.
 
-**Unique Strengths:**
+**Unique Strengths:**  
 - High emotional intelligence and intuition that allows you to pinpoint culture issues
 - Strong eye for aesthetics and ability to see hidden potential in things
 - Passionate individuals who want to contribute in a meaningful way
 - Easy to talk to, especially when navigating tough challenges or conflict
 
-**Ways to Grow:**
+**Ways to Grow:**  
 - Watch out for your tendency to idealize the perfect scenario and turn it into an expectation
 - Try to leave work problems at the door when you go home for the day. You tend to carry burdens easily.
 - Commit to daily structure. You’ll find you experience more creative freedom with guidelines.
@@ -77,13 +77,13 @@ A [Type Four](http://dropcapdesign.com/blog/enneagram-four) is concerned with be
 
 A [Type Five](http://dropcapdesign.com/blog/enneagram-five) at work feels most confident working independently to process information before execution. A Five prefers to engage with others on an intellectual, rather than an emotional, level and would rather use information to push a cause forward. 
 
-**Unique Strengths:**
+**Unique Strengths:**  
 - Ability to gather and organize information to understand the most logical path forward
 - Enjoy learning and becoming an expert
 - Good sense of personal boundaries and high respect for others’ boundaries
 - Values improvement and are always open to hearing how they can do better
 
-**Ways to Grow:**
+**Ways to Grow:**  
 - Be aware of your tendency to hold off on taking action because you don’t feel you have enough information to move forward
 - Even though you value independence, try not to make others feel isolated as a result
 - Notice when you avoid certain tasks that feel uncomfortable or make you feel unqualified
@@ -122,13 +122,13 @@ A [Type Seven](http://dropcapdesign.com/blog/enneagram-seven) at work is always 
 
 A [Type Eight](http://dropcapdesign.com/blog/enneagram-eight) at work is a natural leader. Eights carry an innate confidence and “take-charge” demeanor that causes others easily follow along. With direct communication and a commitment to truthfulness, they can be trusted to fearlessly champion a cause and work hard to protect the underdog.
 
-**Unique Strengths:**
+**Unique Strengths:**  
 - Ability to visualize a bigger picture and rally support
 - Fearlessly tackle tough challenges and pave the way for others
 - Strong conviction to protect the underdog and promote justice
 - Say exactly what they think and are straightforward with their intentions
 
-**Ways to Grow:**
+**Ways to Grow:**  
 - Embrace vulnerability as an effective way to connect with others and allow them to also support you 
 - Prioritize time to sit in stillness and rest without feeling the need to get involved
 - Be aware your own strength, and notice when it becomes a wall with less aggressive types
