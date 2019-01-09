@@ -1,6 +1,6 @@
 ---
-title: 'The Non-Profit Bringing Freedom & Changing the Narrative of North Korea: Our
-  Interview with the Ceo of LiNK'
+title: 'The Non-Profit Changing the Narrative of North Korea: Our Interview with the
+  CEO of LiNK'
 date: 2019-01-16 04:00:00 -08:00
 categories:
 - Culture
