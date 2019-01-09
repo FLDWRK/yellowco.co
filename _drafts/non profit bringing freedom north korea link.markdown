@@ -96,14 +96,15 @@ One of the most common misconceptions about North Korea is that it is an impossi
 
 ###### How can Yellow's community get involved with LINK?
 
-1. Change the narrative in your own community by hosting an event ([documentary screening](https://www.nkmillennials.com/), presentation, NK speaker - you can contact us [here](https://www.libertyinnorthkorea.org/contact/))
-2. Commit to rescuing one North Korean refugee ($3,000) by hosting a fundraiser or signing up to start your own online fundraising campaign [here](https://fundraise.libertyinnorthkorea.org/)
-3. [Donate](https://www.libertyinnorthkorea.org/donate/) 
-4. Learn more and spread the word:
-[Sleep Well My Baby](https://www.youtube.com/watch?v=vs-7ufYdcJs&t=46s): Short narrative film about the plight of female NK refugees in China  
-[World Refugee Day Video](https://www.youtube.com/watch?v=puyDr8Hqu4w)  
-A glimpse into our work rescuing [North Korean refugees](https://drive.google.com/file/d/1MVjZ-vGKxvcUDGfK4aXBvwNesjiEI71-/view)  
-Our latest documentary about North Korean millennials who are shaking up the status quo (in 10 different languages): [The Jangmadang Generation](https://www.nkmillennials.com/)  
+- Change the narrative in your own community by hosting an event ([documentary screening](https://www.nkmillennials.com/), presentation, NK speaker - you can contact us [here](https://www.libertyinnorthkorea.org/contact/))
+
+- Commit to rescuing one North Korean refugee ($3,000) by hosting a fundraiser or signing up to start your own online fundraising campaign [here](https://fundraise.libertyinnorthkorea.org/)
+
+- [Donate](https://www.libertyinnorthkorea.org/donate/) 
+
+- Learn more and spread the word:  
+[Sleep Well My Baby](https://www.youtube.com/watch?v=vs-7ufYdcJs&t=46s): Short narrative film about the plight of female NK refugees in China, [World Refugee Day Video](https://www.youtube.com/watch?v=puyDr8Hqu4w), a glimpse into our work rescuing [North Korean refugees](https://drive.google.com/file/d/1MVjZ-vGKxvcUDGfK4aXBvwNesjiEI71-/view), or our latest documentary about North Korean millennials who are shaking up the status quo (in 10 different languages): [The Jangmadang Generation](https://www.nkmillennials.com/).  
+
 - Connect with us at [LibertyinNorthKorea.org](https://www.libertyinnorthkorea.org/), or on  [Facebook](https://www.facebook.com/libertyinnk), [Instagram](https://www.instagram.com/libertyinnorthkorea/), and [Twitter](https://twitter.com/LibertyinNK)
 
 ###### Is there anything else you would like to add?
