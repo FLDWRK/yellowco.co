@@ -54,9 +54,7 @@ In the global mainstream media North Korea has been defined narrowly as “crazy
 
 ###### Where does your personal passion for freedom for North Korean citizens come from?
 
-Almost 70 years ago, my grandmother left Pyongyang to visit her brother in Japan. But after the division of the peninsula, she was never able to return again to see her husband and two children.  Understandably, she never talked about her life in North Korea. So my interest in the issue was actually spurred by a book I read, “The Aquariums of Pyongyang,” about a little boy who was imprisoned with his entire family at the age of nine in one of North Korea’s brutal political prison camps. The story shocked me, particularly because I would later come to learn that these camps still exist today.  
- 
-I felt overwhelmed by the sheer enormity and complexity of the issue. 
+Almost 70 years ago, my grandmother left Pyongyang to visit her brother in Japan. But after the division of the peninsula, she was never able to return again to see her husband and two children.  Understandably, she never talked about her life in North Korea. So my interest in the issue was actually spurred by a book I read, “The Aquariums of Pyongyang,” about a little boy who was imprisoned with his entire family at the age of nine in one of North Korea’s brutal political prison camps. The story shocked me, particularly because I would later come to learn that these camps still exist today. I felt overwhelmed by the sheer enormity and complexity of the issue. 
 
 ### I also felt increasingly frustrated by the lack of meaningful progress and the unbelievably small amount of attention and support there was for the North Korean people considering the size of the issue. 
 
@@ -98,14 +96,14 @@ One of the most common misconceptions about North Korea is that it is an impossi
 
 ###### How can Yellow's community get involved with LINK?
 
-- Change the narrative in your own community by hosting an event ([documentary screening](https://www.nkmillennials.com/), presentation, NK speaker - you can contact us [here](https://www.libertyinnorthkorea.org/contact/))
-- Commit to rescuing one North Korean refugee ($3,000) by hosting a fundraiser or signing up to start your own online fundraising campaign [here](https://fundraise.libertyinnorthkorea.org/)
--[Donate](https://www.libertyinnorthkorea.org/donate/) 
--Learn more and spread the word:
+1. Change the narrative in your own community by hosting an event ([documentary screening](https://www.nkmillennials.com/), presentation, NK speaker - you can contact us [here](https://www.libertyinnorthkorea.org/contact/))
+2. Commit to rescuing one North Korean refugee ($3,000) by hosting a fundraiser or signing up to start your own online fundraising campaign [here](https://fundraise.libertyinnorthkorea.org/)
+3. [Donate](https://www.libertyinnorthkorea.org/donate/) 
+4. Learn more and spread the word:
 [Sleep Well My Baby](https://www.youtube.com/watch?v=vs-7ufYdcJs&t=46s): Short narrative film about the plight of female NK refugees in China  
-[World Refugee Day Video](https://www.youtube.com/watch?v=puyDr8Hqu4w)
-A glimpse into our work rescuing [North Korean refugees](https://drive.google.com/file/d/1MVjZ-vGKxvcUDGfK4aXBvwNesjiEI71-/view)
-Our latest documentary about North Korean millennials who are shaking up the status quo (in 10 different languages): [The Jangmadang Generation](https://www.nkmillennials.com/)
+[World Refugee Day Video](https://www.youtube.com/watch?v=puyDr8Hqu4w)  
+A glimpse into our work rescuing [North Korean refugees](https://drive.google.com/file/d/1MVjZ-vGKxvcUDGfK4aXBvwNesjiEI71-/view)  
+Our latest documentary about North Korean millennials who are shaking up the status quo (in 10 different languages): [The Jangmadang Generation](https://www.nkmillennials.com/)  
 - Connect with us at [LibertyinNorthKorea.org](https://www.libertyinnorthkorea.org/), or on  [Facebook](https://www.facebook.com/libertyinnk), [Instagram](https://www.instagram.com/libertyinnorthkorea/), and [Twitter](https://twitter.com/LibertyinNK)
 
 ###### Is there anything else you would like to add?
