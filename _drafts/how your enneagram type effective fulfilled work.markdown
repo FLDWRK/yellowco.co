@@ -45,15 +45,15 @@ I hope it will spark the same interest and curiosity it did in me, and allow you
 A [Type One](http://dropcapdesign.com/blog/enneagram-one) (often called The Perfectionist) is committed to doing the right thing and is motivated by a desire to improve their world. Success to a One is seeing the results of their efforts, and they are constantly searching for the best way to do something. A One is always more critical of themselves than others, and maintains a high standard of integrity.
 
 **Unique Strengths:**  
-- Finding the right processes to seamlessly run a project
-- Commitment to quality and holding everyone (including themselves) to a standard of excellence
-- Amazing work ethic
-- Self-sufficient and sincerely want to do a good job 
+- Finding the right processes to seamlessly run a project.
+- Commitment to quality and holding everyone (including themselves) to a standard of excellence.
+- Amazing work ethic.
+- Self-sufficient and sincerely want to do a good job. 
 
 **Ways to Grow:**  
-- Notice your tendency to be overly critical of yourself and others
-- Acknowledge your natural tendency towards anger and find healthy ways to release it
-- Allow yourself to break the rules every now and again, and remember it’s okay if others do too
+- Notice your tendency to be overly critical of yourself and others.
+- Acknowledge your natural tendency towards anger and find healthy ways to release it.
+- Allow yourself to break the rules every now and again, and remember it’s okay if others do too.
 
 ![Yellow_Enneagram-02.jpg](/uploads/Yellow_Enneagram-02.jpg)
 
@@ -62,15 +62,15 @@ A [Type One](http://dropcapdesign.com/blog/enneagram-one) (often called The Perf
 A [Type Two](http://dropcapdesign.com/blog/enneagram-two) (often called The Helper) is motivated by pleasing and supporting others. Eager to lend a helping hand, a Two is the first to volunteer and desires appreciation from their team. A Two is naturally considerate, sympathetic, and understanding, but can often neglect their own needs in the process.
 
 **Unique Strengths:**  
-- Ability to sense others’ needs and make them feel valuable
-- Compassionate and generous nature
-- Dedication to supporting the team and making a positive impact
-- Champions of collaboration and mutual support
+- Ability to sense others’ needs and make them feel valuable.
+- Compassionate and generous nature.
+- Dedication to supporting the team and making a positive impact.
+- Champions of collaboration and mutual support.
 
 **Ways to Grow:**  
-- Establish healthy work boundaries so that you can tend to your own needs
+- Establish healthy work boundaries so that you can tend to your own needs.
 - Pay attention to your motives for helping others - are you giving to get?
-- Let others help you and notice when you’re trying to “do it all”
+- Let others help you and notice when you’re trying to “do it all”.
 
 ![Yellow_Enneagram-03.jpg](/uploads/Yellow_Enneagram-03.jpg)
 
@@ -79,15 +79,15 @@ A [Type Two](http://dropcapdesign.com/blog/enneagram-two) (often called The Help
 A [Type Three](http://dropcapdesign.com/blog/enneagram-three) (often called The Performer or The Achiever) over-identifies with their work and evaluates themselves based on accomplishing goals. While they excel at reading an audience, a Three can become a chameleon trying to meeting the expectations of others. Hardworking, charming, and ambitious, a Three finds the most efficient way to be successful.
 
 **Unique Strengths:**  
-- Ability to “read a room” and understand what will work for a certain audience
-- Can move things forward and do more than their share of responsibility to make it happen
-- Enjoys working and carries natural enthusiasm and passion
-- Will not waste anyone’s time
+- Ability to “read a room” and understand what will work for a certain audience.
+- Can move things forward and do more than their share of responsibility to make it happen.
+- Enjoys working and carries natural enthusiasm and passion.
+- Will not waste anyone’s time.
 
 **Ways to Grow:**  
-- Notice your aggressive nature when it comes to chasing goals and make sure you’re not steamrolling others in the process
-- Practice patience in your interactions and allow yourself to “waste time” if it means building a relationship
-- Actively unplug from the world in order to align with your inner self and process emotions
+- Notice your aggressive nature when it comes to chasing goals and make sure you’re not steamrolling others in the process.
+- Practice patience in your interactions and allow yourself to “waste time” if it means building a relationship.
+- Actively unplug from the world in order to align with your inner self and process emotions.
 
 ![Yellow_Enneagram-04.jpg](/uploads/Yellow_Enneagram-04.jpg)
 
@@ -96,13 +96,13 @@ A [Type Three](http://dropcapdesign.com/blog/enneagram-three) (often called The 
 A [Type Four](http://dropcapdesign.com/blog/enneagram-four) (often called The Romantic, The Artist, or The Individual) is concerned with being seen, heard, and understood. A Four wants to connect to the world in a meaningful way, and is naturally sensitive to any roadblocks in communication. It’s easy for a Four to see what’s missing in a situation, or pick up on tension and frustration within a team.
 
 **Unique Strengths:**  
-- High emotional intelligence and intuition that allows you to pinpoint cultural issues
-- Strong eye for aesthetics and ability to see hidden potential in things
-- Passionate individuals who want to contribute in a meaningful way
-- Easy to talk to, especially when navigating tough challenges or conflict
+- High emotional intelligence and intuition that allows you to pinpoint cultural issues.
+- Strong eye for aesthetics and ability to see hidden potential in things.
+- Passionate individuals who want to contribute in a meaningful way.
+- Easy to talk to, especially when navigating tough challenges or conflict.
 
 **Ways to Grow:**  
-- Watch out for your tendency to idealize the perfect scenario and turn it into an expectation
+- Watch out for your tendency to idealize the perfect scenario and turn it into an expectation.
 - Try to leave work problems at the door when you go home for the day. You tend to carry burdens easily.
 - Commit to daily structure. You’ll find you experience more creative freedom with guidelines.
 
@@ -113,15 +113,15 @@ A [Type Four](http://dropcapdesign.com/blog/enneagram-four) (often called The Ro
 A [Type Five](http://dropcapdesign.com/blog/enneagram-five) (often called The Observer or The Investigator) at work feels most confident working independently to process information before execution. A Five prefers to engage with others on an intellectual, rather than an emotional, level and would rather use information to push a cause forward. 
 
 **Unique Strengths:**  
-- Ability to gather and organize information to understand the most logical path forward
-- Enjoy learning and becoming an expert
-- Good sense of personal boundaries and high respect for others’ boundaries
-- Values improvement and are always open to hearing how they can do better
+- Ability to gather and organize information to understand the most logical path forward.
+- Enjoy learning and becoming an expert.
+- Good sense of personal boundaries and high respect for others’ boundaries.
+- Values improvement and are always open to hearing how they can do better.
 
 **Ways to Grow:**  
-- Be aware of your tendency to hold off on taking action because you don’t feel you have enough information to move forward
-- Even though you value independence, try not to make others feel isolated as a result
-- Notice when you avoid certain tasks that feel uncomfortable or make you feel unqualified
+- Be aware of your tendency to hold off on taking action because you don’t feel you have enough information to move forward.
+- Even though you value independence, try not to make others feel isolated as a result.
+- Notice when you avoid certain tasks that feel uncomfortable or make you feel unqualified.
 
 ![Yellow_Enneagram-06.jpg](/uploads/Yellow_Enneagram-06.jpg)
 
@@ -130,15 +130,15 @@ A [Type Five](http://dropcapdesign.com/blog/enneagram-five) (often called The Ob
 A [Type Six](http://dropcapdesign.com/blog/enneagram-six) (often called The Loyalist) at work is always aware of what could potentially go wrong. Slow to jump on board, a Six will ask lots of questions to identify potential risk factors. Once a Six finds something to be trustworthy, they are considered the most loyal and dedicated type on the Enneagram.
 
 **Unique Strengths:**  
-- Able to assess risk and solve problems
-- Commitment to team and mission
-- Diligently give credit where credit is due
-- Not afraid to speak up if they think someone is heading in a dangerous direction 
+- Able to assess risk and solve problems.
+- Commitment to team and mission.
+- Diligently give credit where credit is due.
+- Not afraid to speak up if they think someone is heading in a dangerous direction.
 
 **Ways to Grow:**  
-- Beware of appearing pessimistic to the team and discouraging change
-- Certainty isn’t always a guarantee, so practice accepting the unknown and making decisions anyway
-- Develop a meditation practice to process through your fear and anxiety
+- Beware of appearing pessimistic to the team and discouraging change.
+- Certainty isn’t always a guarantee, so practice accepting the unknown and making decisions anyway.
+- Develop a meditation practice to process through your fear and anxiety.
 
 ![Yellow_Enneagram-07.jpg](/uploads/Yellow_Enneagram-07.jpg)
 
@@ -147,15 +147,15 @@ A [Type Six](http://dropcapdesign.com/blog/enneagram-six) (often called The Loya
 A [Type Seven](http://dropcapdesign.com/blog/enneagram-seven) (often called The Enthusiast) at work is always able to see the positive. Fascinated by new ideas, experiences, and people, Sevens tend to have multiple interests and simultaneous projects underway. Sevens are happiest being happy and try to avoid the feeling of being tied down or constrained.
 
 **Unique Strengths:**  
-- Able to improvise when you’re not completely sure how to do something
-- Optimistic attitude is a plus for building a supportive team culture
-- Naturally fast-paced and endless stream of ideas
-- Easily sees the best in others and speaks to it
+- Able to improvise when you’re not completely sure how to do something.
+- Optimistic attitude is a plus for building a supportive team culture.
+- Naturally fast-paced and endless stream of ideas.
+- Easily sees the best in others and speaks to it.
 
 **Ways to Grow:**  
-- Commit to fewer ideas and see them all the way to the finish line 
-- Work on the ability to let others talk to you about problems 
-- Slow down to think through new ideas to make sure they are realistic and in the best interest of others on your team
+- Commit to fewer ideas and see them all the way to the finish line. 
+- Work on the ability to let others talk to you about problems. 
+- Slow down to think through new ideas to make sure they are realistic and in the best interest of others on your team.
 
 ![Yellow_Enneagram-08.jpg](/uploads/Yellow_Enneagram-08.jpg)
 
@@ -164,15 +164,15 @@ A [Type Seven](http://dropcapdesign.com/blog/enneagram-seven) (often called The 
 A [Type Eight](http://dropcapdesign.com/blog/enneagram-eight) (often called The Challenger) at work is a natural leader. Eights carry an innate confidence and "take-charge" demeanor that causes others to easily follow along. With direct communication and a commitment to truth, they can be trusted to fearlessly champion a cause and work hard to protect the underdog.
 
 **Unique Strengths:**  
-- Ability to visualize a bigger picture and rally support
-- Fearlessly tackle tough challenges and pave the way for others
-- Strong conviction to protect the underdog and promote justice
-- Say exactly what they think and are straightforward with their intentions
+- Ability to visualize a bigger picture and rally support.
+- Fearlessly tackle tough challenges and pave the way for others.
+- Strong conviction to protect the underdog and promote justice.
+- Say exactly what they think and are straightforward with their intentions.
 
 **Ways to Grow:**  
-- Embrace vulnerability as an effective way to connect with others and allow them to also support you 
-- Prioritize time to sit in stillness and rest without feeling the need to get involved
-- Be aware your own strength, and notice when it becomes a wall with less aggressive types
+- Embrace vulnerability as an effective way to connect with others and allow them to also support you. 
+- Prioritize time to sit in stillness and rest without feeling the need to get involved.
+- Be aware your own strength, and notice when it becomes a wall with less aggressive types.
 
 ![Yellow_Enneagram-09.jpg](/uploads/Yellow_Enneagram-09.jpg)
 
@@ -181,15 +181,15 @@ A [Type Eight](http://dropcapdesign.com/blog/enneagram-eight) (often called The 
 A [Type Nine](http://dropcapdesign.com/blog/enneagram-nine) (often called The Peacemaker) at work is an advocate for the harmony and unity of a team. Nines have the natural ability to understand which decisions will best benefit the whole, and are comfortable working behind the scenes to make each person feel supported. Effective mediators, Nines are the most understanding type on the Enneagram.
 
 **Unique Strengths:**  
-- Naturally unselfish and supportive of others
-- Diplomatic and able to effectively mediate conflict
-- Generally cheerful and friendly demeanor that helps break down others’ defenses
-- Make everyone feel included
+- Naturally unselfish and supportive of others.
+- Diplomatic and able to effectively mediate conflict.
+- Generally cheerful and friendly demeanor that helps break down others’ defenses.
+- Makes everyone feel included.
 
 **Ways to Grow:**  
-- Do something strictly for yourself, and notice any feelings of guilt that might arise
-- Notice your tendency to procrastinate and actively work to finish projects before you lose steam
-- Only say “yes” when you really mean it
+- Do something strictly for yourself, and notice any feelings of guilt that might arise.
+- Notice your tendency to procrastinate and actively work to finish projects before you lose steam.
+- Only say “yes” when you really mean it.
 
 If you don’t know your Enneagram number and want to learn more, I suggest clicking the links above to learn more about each particular type. It’s an ongoing process to discover your true type, and one that shouldn’t be defined too quickly. The Enneagram is best when it is used as a tool for discovery and self-awareness, not just another labeling mechanism to keep you confined to a box.
 
