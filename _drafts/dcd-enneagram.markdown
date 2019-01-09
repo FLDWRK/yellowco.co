@@ -24,7 +24,7 @@ image: "/uploads/Yellow_Enneagram-05.jpg"
 
 Near the end of 2017, I was going through a major business transition and feeling discouraged. The year had started with excitement and anticipation, but was ending in burn out. 
 
-In hindsight, this meant I was in the perfect mental and emotional space to take an objective look at myself. Around this time, I decided to take a closer look at a personality tool I had been mildly interested in - the Enneagram. I wanted to discover my blind spots and rekindle my passion so that I could be more effective and fulfilled at work, which made me quickly fall in love with the model.
+In hindsight, this meant I was in the perfect mental and emotional space to take an objective look at myself. Around this time, I decided to take a closer look at a personality tool I had been mildly interested in - [the Enneagram](https://www.enneagraminstitute.com/type-descriptions/). I wanted to discover my blind spots and rekindle my passion so that I could be more effective and fulfilled at work, which made me quickly fall in love with the model.
 
 Over the holidays, I read every Enneagram book and resource I could get my hands on. In my research, learned so many fascinating truths about myself. I started to connect the dots about why I enjoyed working with certain people in certain roles, and why others didn’t mesh. I began to see myself as a unique and fluid individual who was constantly transitioning between stress and security, health and unhealth, strength and weakness. 
 
@@ -38,7 +38,7 @@ I hope it will spark the same interest and curiosity it did in me, and allow you
 
 #### [Type One](http://dropcapdesign.com/blog/enneagram-one)
 
-A [Type One](http://dropcapdesign.com/blog/enneagram-one) (often called The Perfectionist) is committed to doing the right thing and motivated by a desire to improve their world. Success to a One is seeing the results of their efforts, and they are constantly searching for the best way to do something. A One is always more critical of themselves than others, and maintains a high standard of integrity.
+A [Type One](http://dropcapdesign.com/blog/enneagram-one) (often called The Perfectionist) is committed to doing the right thing and is motivated by a desire to improve their world. Success to a One is seeing the results of their efforts, and they are constantly searching for the best way to do something. A One is always more critical of themselves than others, and maintains a high standard of integrity.
 
 **Unique Strengths:**  
 - Finding the right processes to seamlessly run a project
@@ -64,8 +64,8 @@ A [Type Two](http://dropcapdesign.com/blog/enneagram-two) (often called The Help
 - Champions of collaboration and mutual support
 
 **Ways to Grow:**  
-- Establish healthy work boundaries so that you can tend to your own needs
- -Pay attention to your motives for helping others - are you giving to get?
+- Establish healthy work boundaries so that you can tend to your own needs  
+-Pay attention to your motives for helping others - are you giving to get?
 - Let others help you and notice when you’re trying to “do it all”
 
 ![Yellow_Enneagram-03.jpg](/uploads/Yellow_Enneagram-03.jpg)
