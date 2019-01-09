@@ -15,6 +15,9 @@ tags:
 - personality type
 - personal growth
 - job fits
+- drop cap design
+- illustration
+- enneagram illustration
 author: Kadie Smith
 image: "/uploads/Yellow_Enneagram-05.jpg"
 ---
