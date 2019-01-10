@@ -6,7 +6,7 @@
   url: /events
 - id: experiences
   title: Experiences
-  url: /retreats/bali
+  url: "https://yellowcollective.lpages.co/retreats/"
 - id: conference
   title: Conference
   url: /conference
@@ -15,4 +15,4 @@
   url: /blog
 - id: login
   title: Log In
-  url: "https://members.yellowco.co/"
+  url: "https://yellowco.mn.co/"
