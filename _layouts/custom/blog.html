@@ -89,16 +89,15 @@ layout: site
     </div>
   </section>
 </div>
-{% include newsletter-form.html %}
 <div class="container">
   <section>
     <div class="row">
       <div class="col-12">
-        <div class="header-rule"><h2 class="text-center">More stories</h2></div>
+        <div class="header-rule"><h2 class="text-center">The Latest</h2></div>
       </div>
     </div>
     <div class="row">
-      {% for post in site.posts limit:6 offset:3 %}
+      {% for post in site.posts limit:9 offset:3 %}
       <div class="col-12 col-sm-6 col-md-6 col-lg-4">
         <a href="{{ post.url }}">
           <div class="card card-deck-6">
