@@ -38,7 +38,7 @@ So here’s a brief look at each [Enneagram type](https://www.enneagraminstitute
 
 I hope it will spark the same interest and curiosity it did in me, and allow you to see your strengths and weaknesses in a new way.
 
-![Yellow_Enneagram-01.jpg](/uploads/Yellow_Enneagram-01.jpg)
+![Yellow_Enneagram-01-1.jpg](/uploads/Yellow_Enneagram-01-1.jpg)
 
 #### [Type One](http://dropcapdesign.com/blog/enneagram-one)
 
@@ -55,7 +55,7 @@ A [Type One](http://dropcapdesign.com/blog/enneagram-one) (often called The Perf
 - Acknowledge your natural tendency towards anger and find healthy ways to release it.
 - Allow yourself to break the rules every now and again, and remember it’s okay if others do too.
 
-![Yellow_Enneagram-02.jpg](/uploads/Yellow_Enneagram-02.jpg)
+![Yellow_Enneagram-02-1.jpg](/uploads/Yellow_Enneagram-02-1.jpg)
 
 #### [Type Two](http://dropcapdesign.com/blog/enneagram-two)
 
@@ -72,7 +72,7 @@ A [Type Two](http://dropcapdesign.com/blog/enneagram-two) (often called The Help
 - Pay attention to your motives for helping others - are you giving to get?
 - Let others help you and notice when you’re trying to “do it all”.
 
-![Yellow_Enneagram-03.jpg](/uploads/Yellow_Enneagram-03.jpg)
+![Yellow_Enneagram-03-1.jpg](/uploads/Yellow_Enneagram-03-1.jpg)
 
 #### [Type Three](http://dropcapdesign.com/blog/enneagram-three)
 
@@ -89,7 +89,7 @@ A [Type Three](http://dropcapdesign.com/blog/enneagram-three) (often called The 
 - Practice patience in your interactions and allow yourself to “waste time” if it means building a relationship.
 - Actively unplug from the world in order to align with your inner self and process emotions.
 
-![Yellow_Enneagram-04.jpg](/uploads/Yellow_Enneagram-04.jpg)
+![Yellow_Enneagram-04-1.jpg](/uploads/Yellow_Enneagram-04-1.jpg)
 
 #### [Type Four](http://dropcapdesign.com/blog/enneagram-four)
 
@@ -106,7 +106,7 @@ A [Type Four](http://dropcapdesign.com/blog/enneagram-four) (often called The Ro
 - Try to leave work problems at the door when you go home for the day. You tend to carry burdens easily.
 - Commit to daily structure. You’ll find you experience more creative freedom with guidelines.
 
-![Yellow_Enneagram-05-6dccdf.jpg](/uploads/Yellow_Enneagram-05-6dccdf.jpg)
+![Yellow_Enneagram-05-1.jpg](/uploads/Yellow_Enneagram-05-1.jpg)
 
 #### [Type Five](http://dropcapdesign.com/blog/enneagram-five)
 
@@ -123,7 +123,7 @@ A [Type Five](http://dropcapdesign.com/blog/enneagram-five) (often called The Ob
 - Even though you value independence, try not to make others feel isolated as a result.
 - Notice when you avoid certain tasks that feel uncomfortable or make you feel unqualified.
 
-![Yellow_Enneagram-06.jpg](/uploads/Yellow_Enneagram-06.jpg)
+![Yellow_Enneagram-06-1.jpg](/uploads/Yellow_Enneagram-06-1.jpg)
 
 #### [Type Six](http://dropcapdesign.com/blog/enneagram-six)
 
@@ -140,7 +140,7 @@ A [Type Six](http://dropcapdesign.com/blog/enneagram-six) (often called The Loya
 - Certainty isn’t always a guarantee, so practice accepting the unknown and making decisions anyway.
 - Develop a meditation practice to process through your fear and anxiety.
 
-![Yellow_Enneagram-07.jpg](/uploads/Yellow_Enneagram-07.jpg)
+![Yellow_Enneagram-07-1.jpg](/uploads/Yellow_Enneagram-07-1.jpg)
 
 #### [Type Seven](http://dropcapdesign.com/blog/enneagram-seven)
 
@@ -157,7 +157,7 @@ A [Type Seven](http://dropcapdesign.com/blog/enneagram-seven) (often called The 
 - Work on the ability to let others talk to you about problems. 
 - Slow down to think through new ideas to make sure they are realistic and in the best interest of others on your team.
 
-![Yellow_Enneagram-08.jpg](/uploads/Yellow_Enneagram-08.jpg)
+![Yellow_Enneagram-08-1.jpg](/uploads/Yellow_Enneagram-08-1.jpg)
 
 #### [Type Eight](http://dropcapdesign.com/blog/enneagram-eight)
 
@@ -174,7 +174,7 @@ A [Type Eight](http://dropcapdesign.com/blog/enneagram-eight) (often called The 
 - Prioritize time to sit in stillness and rest without feeling the need to get involved.
 - Be aware your own strength, and notice when it becomes a wall with less aggressive types.
 
-![Yellow_Enneagram-09.jpg](/uploads/Yellow_Enneagram-09.jpg)
+![Yellow_Enneagram-09-1.jpg](/uploads/Yellow_Enneagram-09-1.jpg)
 
 #### [Type Nine](http://dropcapdesign.com/blog/enneagram-nine)
 
