@@ -1,6 +1,6 @@
 ---
-title: This Bar Saves Lives Pr Manager Shares Her Tips on How to Connect People with
-  Your Social Enterprise
+title: 3 Tips on How to Connect People with Your Social Enterprise from This Bar Saves
+  Lives' PR Manager
 date: 2019-01-25 04:00:00 -08:00
 categories:
 - Conscious Living
