@@ -38,14 +38,19 @@ I am the PR manager at This Bar Saves Lives. I bring purpose to my day-to-day be
 
 ###### What are your PR tips are for social enterprises, especially those in the early stages of development?
 
-Keep your impact message focused | There’s no doubt, if you are dedicated to a social enterprise, you are making great things happen in this world. Don’t let all that awesomeness get lost in too many words. Focused messaging allows people to connect with your brand and then your actions will show your depth of awesomeness. Plus, it will be much easier for press outlets to pick up your story. 
+##### Keep your impact message focused. 
+
+There’s no doubt, if you are dedicated to a social enterprise, you are making great things happen in this world. Don’t let all that awesomeness get lost in too many words. Focused messaging allows people to connect with your brand and then your actions will show your depth of awesomeness. Plus, it will be much easier for press outlets to pick up your story. 
 
 With This Bar Saves Lives, we focus on sending life-saving food to children in need… then as you get to know us, you see through our actions that we also support local nutrition initiatives, national crises, and more. 
 
-Bring everyone in on the impact | Everyone you communicate with will benefit from understanding that their actions directly relate to making your social mission a reality – from your suppliers to your fans, to editors and beyond. I believe that every communication is a chance to empower others.
-I mean, even you reading this gets the word out about ways that, together, we can help treat children with malnutrition.
+##### Bring everyone in on the impact.
 
-Make your social model Instagrammable | Not ready to spend big bucks on advertising? Word of mouth advertising is more meaningful than ever, and low to no budgets won’t hold you back! From the product unboxing experience to your booth presence and beyond, think of how your brand presence encourages social posts to help spread the word about your mission (and ultimately your business). 
+Everyone you communicate with will benefit from understanding that their actions directly relate to making your social mission a reality – from your suppliers to your fans, to editors and beyond. I believe that every communication is a chance to empower others. I mean, even you reading this gets the word out about ways that, together, we can help treat children with malnutrition.
+
+##### Make your social model Instagrammable.
+
+Not ready to spend big bucks on advertising? Word of mouth advertising is more meaningful than ever, and low to no budgets won’t hold you back! From the product unboxing experience to your booth presence and beyond, think of how your brand presence encourages social posts to help spread the word about your mission (and ultimately your business). 
 We love to show people ways to interact with our bars beyond unwrapping their deliciousness. For example, on Giving Tuesday we gave away Starbucks gift cards and encouraged people to buy our bars there, give one away and capture it on Instagram. We not only had lots of posts come through, but we absolutely loved the content (Check out our highlight bubble on Insta!). 
 
 ###### What advice would you give to women who want to make an impact through their work but don't know where to start?
