@@ -1,5 +1,5 @@
 ---
-title: jobs
+title: changing jobs where to start
 date: 2019-01-23 04:00:00 -08:00
 categories:
 - Growth
