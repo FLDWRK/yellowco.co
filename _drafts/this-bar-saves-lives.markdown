@@ -59,7 +59,8 @@ We love to show people ways to interact with our bars beyond unwrapping their de
 
 Start with Radical Hope… but, really. When you understand that your actions, no matter how “small” can make a positive impact, you’ll see change. It can be easy to see notable brands making a great impact and forget that they too had humble beginnings. Then, I suggest looking for ways to open the dialogue about that cause with your colleagues, customers, and like-minded thinkers. Your impact might start with one-off initiatives or it might be a whole business model shift. 
 
-### What matters is to start _doing something_.
+### What matters is to start _doing something_.  
+<br>
 
 ###### How can we get involved with your work to spread Radical Hope?
 
