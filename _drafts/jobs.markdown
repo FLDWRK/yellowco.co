@@ -17,9 +17,8 @@ tags:
 - purposeful work
 - holistic work
 author: 'Zencare '
+image: "/uploads/joanna-kosinska-439233-unsplash-1.jpg"
 ---
-
-How to Change Careers: Where to Start if You’re Feeling Totally Overwhelmed
 
 Picture this: It’s Monday morning. You sit down at your desk and open your email to a flood of messages, and you begin your week digging yourself out of your inbox. You’re reading through emails about client conflicts and impending deadlines, and a campaign that’s running behind schedule – and, underneath it all, what you’re really reading is: _It’s time for a change._
 
@@ -48,6 +47,8 @@ Then, consider your skills and strengths, and whether you’re currently in good
 
 Bad days are inevitable, and there will be other not-so-ideal elements – even when pursuing a career you’re passionate about. But you may find the bigger picture outweighs the negative nuances far more than in a job you’re not excited about. 
 
+![mengyi-766684-unsplash-1.jpg](/uploads/mengyi-766684-unsplash-1.jpg)
+
 #### 2. Identify and actively prioritize what matters to you.
   
 How critical is work-life balance to you? How about the option of working remotely? You’ll want to consider priorities like these when looking for new jobs.
@@ -57,6 +58,8 @@ How critical is work-life balance to you? How about the option of working remote
 You might find that there are a higher concentration of cons in one area, but perhaps they’re mostly short-term issues that you expect will quickly resolve (i.e. a longer commute, but you’re already planning to move in the next few months). This renders them as of little importance in the grand scheme of your career, Baum explains.
 
 ### “Without organizing this information, you may have a sense of overwhelm and take it as a sign that the job isn’t right for you, when perhaps it could be a great fit after getting past a few initial challenges,” she adds.
+
+![rawpixel-480212-unsplash-1.jpg](/uploads/rawpixel-480212-unsplash-1.jpg)
 
 #### 3. Stay open to trying new things. 
 
