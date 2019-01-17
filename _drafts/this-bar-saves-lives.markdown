@@ -19,6 +19,8 @@ This Bar Saves Lives is a mission with a company, not a company with a mission. 
 
 It all started with Radical Hope. We say, “Hope inspires belief. Radical Hope inspires action”. Our Co-Founders Kristen Bell, Ryan Devlin, Todd Grinnell, and Ravi Patel saw the heartbreaking effects of malnutrition after Todd and Ryan visited a refugee camp. Fueled by radical hope for change they agreed that all children, no matter what their circumstances, deserve the chance to thrive. They knew they couldn’t be the only ones who want to put an end to this, so they came up with a way to help empower more people to make a positive impact on malnutrition and beyond. We enjoy supporting others who focus on disease prevention, natural disaster support, gender inequality and more – all which help to alleviate malnutrition. 
 
+img
+
 ###### What’s your role at This Bar Saves Lives, and how do you bring purpose into the day-to-day tasks of your work?
 
 I am the PR manager at This Bar Saves Lives. I bring purpose to my day-to-day believing that every action is building momentum towards a meaningful impact.
@@ -29,9 +31,7 @@ Our approach to providing life-saving nutrition is special because we have lots 
 
 Also, we partner with experts in the field like Action Against Hunger and DFID (the British government’s international aid). We align our missions to achieve a shared goal of increasing the number of children treated in the Horn of Africa. This Bar Saves Lives provides the funds for the treatments, DFID covers infrastructure costs, and Action Against Hunger is on the ground getting the treatment to the children. This innovative approach that includes a private business, government entity, and public agency dramatically increases the number of kids we can treat. 
 
-
-
-
+img
 
 ###### What are your PR tips are for social enterprises, especially those in the early stages of development?
 
@@ -48,7 +48,10 @@ Everyone you communicate with will benefit from understanding that their actions
 ##### Make your social model Instagrammable.
 
 Not ready to spend big bucks on advertising? Word of mouth advertising is more meaningful than ever, and low to no budgets won’t hold you back! From the product unboxing experience to your booth presence and beyond, think of how your brand presence encourages social posts to help spread the word about your mission (and ultimately your business). 
+
 We love to show people ways to interact with our bars beyond unwrapping their deliciousness. For example, on Giving Tuesday we gave away Starbucks gift cards and encouraged people to buy our bars there, give one away and capture it on Instagram. We not only had lots of posts come through, but we absolutely loved the content (Check out our highlight bubble on Insta!). 
+
+img
 
 ###### What advice would you give to women who want to make an impact through their work but don't know where to start?
 
