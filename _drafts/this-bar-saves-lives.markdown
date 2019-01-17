@@ -19,23 +19,19 @@ This Bar Saves Lives is a mission with a company, not a company with a mission. 
 
 It all started with Radical Hope. We say, “Hope inspires belief. Radical Hope inspires action”. Our Co-Founders Kristen Bell, Ryan Devlin, Todd Grinnell, and Ravi Patel saw the heartbreaking effects of malnutrition after Todd and Ryan visited a refugee camp. Fueled by radical hope for change they agreed that all children, no matter what their circumstances, deserve the chance to thrive. They knew they couldn’t be the only ones who want to put an end to this, so they came up with a way to help empower more people to make a positive impact on malnutrition and beyond. We enjoy supporting others who focus on disease prevention, natural disaster support, gender inequality and more – all which help to alleviate malnutrition. 
 
+###### What’s your role at This Bar Saves Lives, and how do you bring purpose into the day-to-day tasks of your work?
+
+I am the PR manager at This Bar Saves Lives. I bring purpose to my day-to-day believing that every action is building momentum towards a meaningful impact.
+
 ###### What makes your approach to providing life-saving nutrition special?
 
 Our approach to providing life-saving nutrition is special because we have lots of ways to get involved. Everyone can join our mission by purchasing, donating to our fund (text DONATENOW to 707070), heading to our website to become a Snacktivist, or by participating in our social media campaigns. Together, we help save the lives of children in some of the hardest to reach areas of the world.
 
 Also, we partner with experts in the field like Action Against Hunger and DFID (the British government’s international aid). We align our missions to achieve a shared goal of increasing the number of children treated in the Horn of Africa. This Bar Saves Lives provides the funds for the treatments, DFID covers infrastructure costs, and Action Against Hunger is on the ground getting the treatment to the children. This innovative approach that includes a private business, government entity, and public agency dramatically increases the number of kids we can treat. 
 
-###### Where can I find your snack bars?
 
-Our bars can be spotted in retail stores nationwide, including Starbucks, Target, Whole Foods, and even on some Delta flights! But if you’re an online shopper like me, head to Amazon or our website, www.thisbarsaveslives.com. 
 
-###### How can we get involved with your work to spread Radical Hope?
 
-We’re always looking for great stories of Radical Hope, people who have gone beyond believing they can make a positive impact to actually doing something about it. We’d love to hear your Radical Hope story, just email me at ash@thisbarsaveslives.com with your story and we’ll possibly feature you in 2019! 
-
-###### What’s your role at This Bar Saves Lives and how do you bring purpose into the day-to-day tasks of your work?
-
-I am the PR manager at This Bar Saves Lives. I bring purpose to my day-to-day believing that every action is building momentum towards a meaningful impact.
 
 ###### What are your PR tips are for social enterprises, especially those in the early stages of development?
 
@@ -58,5 +54,13 @@ We love to show people ways to interact with our bars beyond unwrapping their de
 
 Start with Radical Hope… but, really. When you understand that your actions, no matter how “small” can make a positive impact, you’ll see change. It can be easy to see notable brands making a great impact and forget that they too had humble beginnings.
 Then I suggest looking for ways to open the dialogue about that cause with your colleagues, customers, and like-minded thinkers. Your impact might start with one-off initiatives or it might be a whole business model shift. What matters is to start doing something.
+
+###### How can we get involved with your work to spread Radical Hope?
+
+We’re always looking for great stories of Radical Hope, people who have gone beyond believing they can make a positive impact to actually doing something about it. We’d love to hear your Radical Hope story, just email me at ash@thisbarsaveslives.com with your story and we’ll possibly feature you in 2019! 
+
+###### Where can I find your snack bars?
+
+Our bars can be spotted in retail stores nationwide, including Starbucks, Target, Whole Foods, and even on some Delta flights! But if you’re an online shopper like me, head to Amazon or our website, www.thisbarsaveslives.com. 
 
 _Images courtesy of [This Bar Saves Lives](https://www.thisbarsaveslives.com/)_
