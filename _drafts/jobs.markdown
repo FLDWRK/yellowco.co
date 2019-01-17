@@ -1,5 +1,6 @@
 ---
-title: changing jobs where to start
+title: Need a Job Change but Totally Overwhelmed with Where to Start? Take These Three
+  Steps
 date: 2019-01-23 04:00:00 -08:00
 categories:
 - Growth
