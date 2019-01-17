@@ -1,5 +1,6 @@
 ---
-title: this bar saves lives
+title: This Bar Saves Lives Pr Manager Shares Her Tips on How to Connect People with
+  Your Social Enterprise
 date: 2019-01-25 04:00:00 -08:00
 categories:
 - Conscious Living
