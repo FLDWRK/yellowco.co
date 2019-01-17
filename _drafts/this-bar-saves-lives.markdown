@@ -6,14 +6,12 @@ categories:
 author: Talitha Baker
 ---
 
-This Bar Saves Lives
-By Talitha Baker
+_We can’t believe that something as simple as a (delicious) snack bar you can buy at Starbucks would be able to save a life. However, the team at This Bar Saves Lives is working diligently to ensure that every bar’s sale helps save the life of child. Well, that certainly seems worth celebrating on Celebration of Life Day!_
 
-January 22 is Celebration of Life Day, and we can’t believe that something as simple as a (delicious) snack bar you can buy at Starbucks would be able to save a life. However, the team at This Bar Saves Lives is working diligently to ensure that every bar’s sale helps save the life of child. Well, that certainly seems worth celebrating on Celebration of Life Day!
-
-I sat down with Ash Castro, This Bar Saves Lives’ PR Manager to learn more about the unique and innovative ways these delicious snacks are making a difference in the world.
+_I sat down with Ash Castro, This Bar Saves Lives’ PR Manager to learn more about the unique and innovative ways these delicious snacks are making a difference in the world._
 
 For those of us not familiar with it, what is This Bar Saves Lives?
+
 This Bar Saves Lives is a mission with a company, not a company with a mission. We do everything we can to help end severe malnutrition, and one of those ways is through our business model. We make delicious snack bars and every single purchase you make directly sends life-saving food to a child in need. Our Co-Founders Kristen Bell, Ryan Devlin, Todd Grinnell, and Ravi Patel launched This Bar Saves Lives with a simple motto, "Buy a bar. Feed a child. We eat together." Our bars are made with premium ingredients and are delicious! My favorite right now is Dark Chocolate Peanut Butter.  
 
 Where did this concept come from?
