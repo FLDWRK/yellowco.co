@@ -7,9 +7,7 @@ author: Talitha Baker
 image: "/uploads/unnamed%20(3).jpg"
 ---
 
-_We can’t believe that something as simple as a (delicious) snack bar you can buy at Starbucks would be able to save a life. However, the team at [This Bar Saves Lives](https://www.thisbarsaveslives.com/) is working diligently to ensure that every bar’s sale helps save the life of child. Well, that certainly seems worth celebrating on Celebration of Life Day!_
-
-_I sat down with Ash Castro, This Bar Saves Lives’ PR Manager to learn more about the unique and innovative ways these delicious snacks are making a difference in the world._
+_We can’t believe that something as simple as a (delicious) snack bar you can buy at Starbucks would be able to save a life. However, the team at [This Bar Saves Lives](https://www.thisbarsaveslives.com/) is working diligently to ensure that every bar’s sale helps save the life of child. Well, that certainly seems worth celebrating on Celebration of Life Day! I sat down with Ash Castro, This Bar Saves Lives’ PR Manager to learn more about the unique and innovative ways these delicious snacks are making a difference in the world._
 
 ###### For those of us not familiar with it, what is This Bar Saves Lives?
 
