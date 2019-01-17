@@ -3,6 +3,19 @@ title: changing jobs where to start
 date: 2019-01-23 04:00:00 -08:00
 categories:
 - Growth
+tags:
+- career change
+- career
+- how to change career
+- job change
+- find the right job
+- job fit
+- perfect job
+- dream job
+- job search
+- meaningful work
+- purposeful work
+- holistic work
 author: 'Zencare '
 ---
 
@@ -42,7 +55,6 @@ How critical is work-life balance to you? How about the option of working remote
 “When thinking through a career change, sometimes emotions can get in the way of honestly weighing out your options,” says [Julia Baum](https://www.zencare.co/julia-baum), a therapist in New York City whose specializes in career counseling and life transitions. “Writing a short-term and long-term pro/con list, in ranked order of importance, is a way to think through your options in a more organized manner than a traditional pro/con list.”
 
 You might find that there are a higher concentration of cons in one area, but perhaps they’re mostly short-term issues that you expect will quickly resolve (i.e. a longer commute, but you’re already planning to move in the next few months). This renders them as of little importance in the grand scheme of your career, Baum explains.
-
 
 ### “Without organizing this information, you may have a sense of overwhelm and take it as a sign that the job isn’t right for you, when perhaps it could be a great fit after getting past a few initial challenges,” she adds.
 
