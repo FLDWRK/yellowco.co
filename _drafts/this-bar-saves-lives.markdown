@@ -3,11 +3,25 @@ title: this bar saves lives
 date: 2019-01-25 04:00:00 -08:00
 categories:
 - Conscious Living
+tags:
+- this bar saves lives
+- social enterprises
+- social entrepreneur
+- kristen bell
+- ash castro
+- pr
+- pr tips
+- social enterprise pr
+- purposeful work
+- pr with purpose
+- malnutrition
+- social impact
+- businesses for good
 author: Talitha Baker
 image: "/uploads/unnamed%20(3).jpg"
 ---
 
-_I can’t believe that something as simple as a (delicious) snack bar you can buy at Starbucks would be able to save a life. However, the team at [This Bar Saves Lives](https://www.thisbarsaveslives.com/) is working diligently to ensure that every bar’s sale helps save the life of child. Well, that certainly seems worth celebrating! I sat down with Ash Castro, This Bar Saves Lives’ PR Manager to learn more about the unique and innovative ways these delicious snacks are making a difference in the world._
+_I can’t believe that something as simple as a (delicious) snack bar you can buy at Starbucks would be able to save a life. However, the team at [This Bar Saves Lives](https://www.thisbarsaveslives.com/) is working diligently to ensure that every bar’s sale helps save the life of child. Well, that certainly seems worth celebrating! I sat down with Ash Castro, This Bar Saves Lives’ PR Manager, to learn more about the unique and innovative ways these delicious snacks are making a difference in the world._
 
 ###### For anyone not familiar with [This Bar Saves Lives](https://www.thisbarsaveslives.com/), can you share a bit about the company?
 
