@@ -6,7 +6,7 @@ author: Hanna Snyder
 
 _intro_
 
-###### You set out to create something pretty out of the norm for this time — not only by creating a print newspaper (when so many publications have gone digital), but a media outlet that focuses on good news. What motivated you to start this kind of (potentially risky) venture?
+###### You set out to create something pretty out of the norm for this time — not only by creating a print newspaper (when so many publications have gone digital), but a media outlet that focuses on _good_ news. What motivated you to start this kind of (potentially risky) venture?
 
 I remember the feeling of despair and  I experienced all of 2015 and 2016. The United States was experiencing what felt like its most divisive presidential election in history. There was a growing consciousness of the systemic oppression of people of color. We were seeing photos of the heartbreaking journey of Syrian refugees fleeing war and terror. And I remember not feeling like I knew what to do about it.
 
@@ -24,7 +24,7 @@ Plus, we thought the name _Goodnewspaper_ would be pretty cute.
 
 When I was in high school I was given a camera to use for a year as a part of a photography class at my school. I immediately fell in love with the magic of capturing photos. And so I quickly turned to MySpace and Flickr and blogs to find inspiration in the photography world. And somehow, the first photographers I stumbled across were a number of photographers who were using photography as a tool to tell stories.
 
-And ultimately, I believe every good photo does tell a story. But somehow, these photographers were doing it in a way that was blowing my mind. They were telling stories that deeply mattered. Their photos moved me, and I could tell from the comments that they moved other people as well. And so I decided I wanted to use my new camera to try to tell stories that moved me and hopefully moved others.
+And ultimately, I believe every good photo _does_ tell a story. But somehow, these photographers were doing it in a way that was blowing my mind. They were telling stories that deeply mattered. Their photos moved me, and I could tell from the comments that they moved other people as well. And so I decided I wanted to use my new camera to try to tell stories that moved me and hopefully moved others.
 
 I found all kinds of ways to begin applying this in my small town. I started photographing senior photos (trying to tell a different story than the other local photographer was telling through his photos), photographing weddings (focusing more on relationships than table settings), and family photos (telling stories of families who had overcome great difficulties).
 
@@ -34,7 +34,7 @@ Somewhere along the way, I began volunteering my time shooting photos for some n
 
 And quickly, I fell in love with telling stories of the impactful, meaningful work nonprofits and individuals were doing around the world. The more I leaned into this, the more I loved it.
 
-I began using words to tell stories, in addition to just photos, and came to understand that I was ultimately passionate about storytelling not necessarily any particular medium.
+I began using words to tell stories, in addition to just photos, and came to understand that I was ultimately passionate about _storytelling_ not necessarily any particular medium.
 
 Over time I started leaning into writing more, began experimenting with filmmaking, and even began using Snapchat as an a medium to tell stories that mattered. Today, in addition to photography, I tell stories through writing, speaking, podcasting, social media, our email newsletter, and our print newspaper.
 
@@ -50,15 +50,15 @@ I’ve learned a few lessons over the last few years of making our podcast:
 
 **2. Be consistent.** Pick a schedule, communicate it, and stick to it. There are thousands of great podcasts out there. If you want people to show up for you, make sure you keep showing up for them.
 
-**3. If you’re not great with the technical stuff, either learn and become great with it, or find yourself someone who is great with it.** I’m terrible when it comes to audio stuff, so I’m incredibly grateful to have a producer who is such a pro about it. The last thing you want is to have a great conversation that nobody ever hears because they turn off the episode after hearing a bad quality intro.
+**3. If you’re not great with the technical stuff, either learn and become great with it, or find yourself someone who _is_ great with it.** I’m _terrible_ when it comes to audio stuff, so I’m incredibly grateful to have a producer who is such a pro about it. The last thing you want is to have a _great_ conversation that nobody ever hears because they turn off the episode after hearing a bad quality intro.
 
 ###### How do you believe we can better our relationship with media in our current political climate? 
 
 I’m constantly trying to figure out how to approach media in a more healthy way. Everyone’s a little bit different, and I think there are different approaches for different moments in our lives and even for different events that happen in the world, but here’s what I’m practicing right now:
 
-- I try not to read or listen to the news before 11am. My job is pretty focused on the news, so this is a bit wild. But there’s this idea that news isn’t really news unless it’s still relevant next week. I don’t need to read the news in the middle of my morning routine. I can allow my morning to be what fills me up and prepares me for the day. When I get to work, I can focus on my priorities for the day. Then, after all that is done, I can tune into the news 
+- I try not to read or listen to the news before 11am. My job is pretty focused on the news, so this is a bit wild. But there’s this idea that news isn’t _really_ news unless it’s still relevant next week. I don’t need to read the news in the middle of my morning routine. I can allow my morning to be what fills me up and prepares me for the day. When I get to work, I can focus on my priorities for the day. Then, after all that is done, I can tune into the news 
 
-- I try to be intentional about where I get my primary news from. While I love finding out about the news on Twitter — that’s not really reading the news — it’s reading people’s opinions about the news. I personally work hard to get news from a variety of sources, all from places with good accountability and checks and balances. For me, I pay for subscriptions/memberships to NPR, the New York Times, the Washington Post, and the Wall Street Journal. No media outlet is perfect, but what you want is an outlet that holds itself accountable when it makes mistakes, and whose agenda is purely to tell the truth — not to decide what happens when that truth is told.
+- I try to be intentional about where I get my primary news from. While I _love_ finding out about the news on Twitter — that’s not really reading the news — it’s reading people’s _opinions_ about the news. I personally work hard to get news from a variety of sources, all from places with good accountability and checks and balances. For me, I pay for subscriptions/memberships to NPR, the New York Times, the Washington Post, and the Wall Street Journal. No media outlet is perfect, but what you want is an outlet that holds itself accountable when it makes mistakes, and whose agenda is purely to tell the truth — not to decide what happens when that truth is told.
 
 - When I see news that makes me sad, I try to genuinely feel it. It’s so easy to allow yourself to become numb to the heartbreak you see in the world, especially in my line of work. So I work really hard to make sure I’m actually seeing the bad news without rose colored glasses. I think this is especially important for me, a white man living with a relative amount of privilege, who focuses on the good in the world. It would be unfair for me to always skip the pain of others and jump straight ahead to the “good news”.
 
