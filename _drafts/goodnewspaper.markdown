@@ -31,7 +31,7 @@ And we thought that if we were able to somehow avoid push notifications and dist
 
 Plus, we thought the name _Goodnewspaper_ would be pretty cute.
 
-[Goodnewspaper by Good Good Good 1-1.JPG](/uploads/Goodnewspaper%20by%20Good%20Good%20Good%201-1.JPG)
+![g2.jpeg](/uploads/g2.jpeg)
 
 ###### How did you get started as a storyteller? How has that evolved for you over time?
 
