@@ -24,7 +24,7 @@ author: Hanna Snyder
 image: "/uploads/Goodnewspaper-on-Kickstarter---Good-News-Newspaper---Multiple-on-Blue-1.jpg"
 ---
 
-_this interview is chock-full of goodness (no surprise there), so let's just cut to the chase._
+_This interview is chock-full of goodness (no surprise there), so let's just cut to the chase._
 
 ###### You set out to create something pretty out of the norm for this time — not only by creating a print newspaper (when so many publications have gone digital), but a media outlet that focuses on _good_ news. What motivated you to start this kind of (potentially risky) venture?
 
