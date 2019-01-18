@@ -14,6 +14,8 @@ I remember the feeling of despair and  I experienced all of 2015 and 2016. The U
 
 There’s plenty of good news online. Don’t get me wrong. But I didn’t see anyone with a nuanced enough approach to what constitutes good news. A lot of the things on the internet that flaunt themselves as good news are what we at Good Good Good like to call “feel good” news — not “real good” news. “Feel good” news is stories of cute puppies, beautiful coincidences, and people finding wedding rings. All of those things are wonderful, and important, and make the world a better place — but we want to focus on the deeper, more systemic good news. 
 
+img
+
 “Real good” news is always a response to a deep problem in the world. It begins with heartbreak, and maybe even anger. And then turns that into innovation, creativity, focus, determination, and the drive to put an end to that deep problem in the world — to create a solution. We wanted to dive into the real, messy hope that the world is filled with, but doesn’t get nearly as much attention as it deserves.
 
 I’d already started to dip our toes into these ideas. We’d launched a podcast, [Sounds Good with Branden Harvey](https://itunes.apple.com/us/podcast/sounds-good-with-branden-harvey/id1080864041?mt=2&ign-mpt=uo%3D8), and a free email newsletter, the [Goodnewsletter](https://www.goodgoodgood.co/goodnewsletter) — but we wondered if there was a way that we could be more effective with spreading good news. Maybe there was a way to communicate stories of good news when people weren’t in the anxiety-inducing context of their inbox or when they weren’t multitasking?
@@ -25,6 +27,8 @@ And that’s where the idea of a newspaper came from. We wanted people to be abl
 And we thought that if we were able to somehow avoid push notifications and distractions, people might even be able to take action to become good news.
 
 Plus, we thought the name _Goodnewspaper_ would be pretty cute.
+
+img
 
 ###### How did you get started as a storyteller? How has that evolved for you over time?
 
@@ -46,6 +50,8 @@ Over time I started leaning into writing more, began experimenting with filmmaki
 
 In the times where I see the most personal growth, I also see the most business growth. And similarly, when I’m in a less healthy mental state, I can see the direct impact on the work I do. Because of this, I’ve been really intentional over the last few years to take care of myself and focus on growing. I’ve found it really helpful to use the Enneagram as a tool for understanding my journey from unhealth to health, and I’ve also found seeing a counselor to be incredibly beneficial. On top of this, just making sure I’m balancing spending intentional time with close friends and family has been really helpful for keeping work in perspective.
 
+img
+
 ###### What three tips would you give to someone who wants to start a podcast?
 
 I’ve learned a few lessons over the last few years of making our podcast:
@@ -66,15 +72,17 @@ I’m constantly trying to figure out how to approach media in a more healthy wa
 
 ### No media outlet is perfect, but what you want is an outlet that holds itself accountable when it makes mistakes, and whose agenda is purely to tell the truth — not to decide what happens when that truth is told.
 
+img
+
 - **When I see news that makes me sad, I try to genuinely feel it.** It’s so easy to allow yourself to become numb to the heartbreak you see in the world, especially in my line of work. So I work really hard to make sure I’m actually seeing the bad news without rose colored glasses. I think this is especially important for me, a White man living with a relative amount of privilege, who focuses on the good in the world. It would be unfair for me to always skip the pain of others and jump straight ahead to the “good news”.
 
 - **Whenever I see good news, I take a moment to write it down.** We all see good news all day long, but because our brains have an internal negativity bias (it’s a weird part of all of our brain biology), we have to work 4x as hard to get good news to stick. Bad news basically sticks without us even trying. 
 
-### When you write down good news, you’re taking a moment to remember that news and tell your brain it’s important. 
-
-Even if you never look at that note again, you’re changing the way your brain stores that news.
+### When you write down good news, you’re taking a moment to remember that news and tell your brain it’s important. Even if you never look at that note again, you’re changing the way your brain stores that news.
 
 - **When I see something that really makes me mad or sad, I try to do something about it.** I can’t do this for every single story, but when an issue really sticks out to me or keeps tugging at my heart, I try to take some small, medium, or large step toward meaningful action.
+
+img
 
 ###### What’s one of your favorite stories you have ever published?
 
@@ -87,6 +95,8 @@ Ilwad is one of the most inspiring women I’ve ever talked to and her feature s
 Sometimes I wonder if “calling” is something we can only see in hindsight. Sure, I think there are some Universal Callings all of us can lean into: Love People. Create Peace. Spread Beauty. But those don’t necessarily inform the specific parts of our lives. I don’t feel at all that it was my “calling” to be a photographer or a professional Snapchatter. Or that it’s my “calling” to run a newspaper. But when I look back on the last decade of my creative life, I do see some of the threads that weave all of those things together into Experienced Callings: A passion for telling untold stories that motivate. A sense of curiosity. A call toward adventure and new experiences. A desire to spread hope. And when I’m able to look back at that, it also creates a bit of a guide on how I can follow that same path over the next decade. 
 
 It’s a beautiful guide, that can also be held loosely. I want to ensure that I still have the opportunity to be surprised and let my curiosity lead me to places I never would have expected. I continue to ask myself how I’m being led by Universal Callings and my Experienced Callings, while not holding tightly to the Hows. (If I held too tightly to the Hows, I never would have even considered experimenting with mediums as outside the norm as Snapchat and newspapers.)
+
+img
 
 ###### You share this quote from Fred Rogers quite often: “When I was a boy and I would see scary things in the news, my mother would say to me, 'Look for the helpers. You will always find people who are helping.’ ”
 
