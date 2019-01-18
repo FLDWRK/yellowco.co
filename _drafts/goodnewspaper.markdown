@@ -4,6 +4,7 @@ date: 2019-01-21 04:00:00 -08:00
 categories:
 - Culture
 author: Hanna Snyder
+image: "/uploads/Goodnewspaper-on-Kickstarter---Good-News-Newspaper---Multiple-on-Blue-1.jpg"
 ---
 
 _this interview is chock-full of goodness (no surprise there), so let's just cut to the chase._
@@ -16,7 +17,7 @@ I remember the feeling of despair and  I experienced all of 2015 and 2016. The U
 
 There’s plenty of good news online. Don’t get me wrong. But I didn’t see anyone with a nuanced enough approach to what constitutes good news. A lot of the things on the internet that flaunt themselves as good news are what we at Good Good Good like to call “feel good” news — not “real good” news. “Feel good” news is stories of cute puppies, beautiful coincidences, and people finding wedding rings. All of those things are wonderful, and important, and make the world a better place — but we want to focus on the deeper, more systemic good news. 
 
-img
+![Good Good Good Photos (30 of 43)-1.jpg](/uploads/Good%20Good%20Good%20Photos%20(30%20of%2043)-1.jpg)
 
 “Real good” news is always a response to a deep problem in the world. It begins with heartbreak, and maybe even anger. And then turns that into innovation, creativity, focus, determination, and the drive to put an end to that deep problem in the world — to create a solution. We wanted to dive into the real, messy hope that the world is filled with, but doesn’t get nearly as much attention as it deserves.
 
@@ -30,7 +31,7 @@ And we thought that if we were able to somehow avoid push notifications and dist
 
 Plus, we thought the name _Goodnewspaper_ would be pretty cute.
 
-img
+[Goodnewspaper by Good Good Good 1-1.JPG](/uploads/Goodnewspaper%20by%20Good%20Good%20Good%201-1.JPG)
 
 ###### How did you get started as a storyteller? How has that evolved for you over time?
 
@@ -52,7 +53,7 @@ Over time I started leaning into writing more, began experimenting with filmmaki
 
 In the times where I see the most personal growth, I also see the most business growth. And similarly, when I’m in a less healthy mental state, I can see the direct impact on the work I do. Because of this, I’ve been really intentional over the last few years to take care of myself and focus on growing. I’ve found it really helpful to use the Enneagram as a tool for understanding my journey from unhealth to health, and I’ve also found seeing a counselor to be incredibly beneficial. On top of this, just making sure I’m balancing spending intentional time with close friends and family has been really helpful for keeping work in perspective.
 
-img
+![Good Good Good Photos (39 of 43)-1.jpg](/uploads/Good%20Good%20Good%20Photos%20(39%20of%2043)-1.jpg)
 
 ###### What three tips would you give to someone who wants to start a podcast?
 
@@ -74,7 +75,7 @@ I’m constantly trying to figure out how to approach media in a more healthy wa
 
 ### No media outlet is perfect, but what you want is an outlet that holds itself accountable when it makes mistakes, and whose agenda is purely to tell the truth — not to decide what happens when that truth is told.
 
-img
+![Good Good Good Photos (17 of 43)-1.jpg](/uploads/Good%20Good%20Good%20Photos%20(17%20of%2043)-1.jpg)
 
 - **When I see news that makes me sad, I try to genuinely feel it.** It’s so easy to allow yourself to become numb to the heartbreak you see in the world, especially in my line of work. So I work really hard to make sure I’m actually seeing the bad news without rose colored glasses. I think this is especially important for me, a White man living with a relative amount of privilege, who focuses on the good in the world. It would be unfair for me to always skip the pain of others and jump straight ahead to the “good news”.
 
@@ -84,7 +85,7 @@ img
 
 - **When I see something that really makes me mad or sad, I try to do something about it.** I can’t do this for every single story, but when an issue really sticks out to me or keeps tugging at my heart, I try to take some small, medium, or large step toward meaningful action.
 
-img
+![Branden Harvey Headshot by Maria Lamb - 1-1.jpg](/uploads/Branden%20Harvey%20Headshot%20by%20Maria%20Lamb%20-%201-1.jpg)
 
 ###### What’s one of your favorite stories you have ever published?
 
@@ -98,7 +99,7 @@ Sometimes I wonder if “calling” is something we can only see in hindsight. S
 
 It’s a beautiful guide, that can also be held loosely. I want to ensure that I still have the opportunity to be surprised and let my curiosity lead me to places I never would have expected. I continue to ask myself how I’m being led by Universal Callings and my Experienced Callings, while not holding tightly to the Hows. (If I held too tightly to the Hows, I never would have even considered experimenting with mediums as outside the norm as Snapchat and newspapers.)
 
-img
+![Good-Good-Good-Photos-(5-of-6)-1.jpg](/uploads/Good-Good-Good-Photos-(5-of-6)-1.jpg)
 
 ###### You share this quote from Fred Rogers quite often: “When I was a boy and I would see scary things in the news, my mother would say to me, 'Look for the helpers. You will always find people who are helping.’ ”
 
