@@ -1,6 +1,8 @@
 ---
 title: goodnewspaper
 date: 2019-01-21 04:00:00 -08:00
+categories:
+- Culture
 author: Hanna Snyder
 ---
 
