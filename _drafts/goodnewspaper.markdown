@@ -24,7 +24,7 @@ author: Hanna Snyder
 image: "/uploads/Goodnewspaper-on-Kickstarter---Good-News-Newspaper---Multiple-on-Blue-1.jpg"
 ---
 
-_It's become a common assumption that where the word "news" lies, the word "good" sits far away from it. And while it's true that our media does hold many less-than-encouraging stories – could it also be known for seeking out the stories of good in the world? Could this approach even help us develop a healthy relationship with how we receive, rather than avoid, any news in the media? [Branden Harvey](https://www.instagram.com/brandenharvey/), founder of [Good Good Good](https://www.goodgoodgood.co/) which produces [The Goodnewspaper](https://www.goodgoodgood.co/goodnewspaper/), has been working towards making this a reality for a while now. This interview with him is chock-full of goodness (no surprise there), so let's just cut to the chase._
+_It's become a common assumption that where the word "news" lies, the word "good" sits far away from it. And while it's true that our media does hold many less-than-encouraging stories – could it also be known for seeking out the stories of good in the world? Could this approach even help us develop a healthier relationship with how we receive, rather than avoid, any news in the media? [Branden Harvey](https://www.instagram.com/brandenharvey/), founder of [Good Good Good](https://www.goodgoodgood.co/) which produces [The Goodnewspaper](https://www.goodgoodgood.co/goodnewspaper/), has been working towards making this a reality for a while now. This interview with him is chock-full of goodness (no surprise there), so let's just cut to the chase._
 
 ###### You set out to create something pretty out of the norm for this time — not only by creating a print newspaper (when so many publications have gone digital), but a media outlet that focuses on _good_ news. What motivated you to start this kind of (potentially risky) venture?
 
@@ -46,7 +46,7 @@ And that’s where the idea of a newspaper came from. We wanted people to be abl
 
 And we thought that if we were able to somehow avoid push notifications and distractions, people might even be able to take action to become good news.
 
-Plus, we thought the name _Goodnewspaper_ would be pretty cute.
+Plus, we thought the name _[Goodnewspaper](https://www.goodgoodgood.co/goodnewspaper/)_ would be pretty cute.
 
 ![g2.jpeg](/uploads/g2.jpeg)
 
