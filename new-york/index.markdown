@@ -11,8 +11,8 @@ long-description: A gathering for entrepreneurial-minded women who are using the
   how we find and create meaning in this world. How can we create meaningful work
   in the world for good and encourage others around us to use their work for good?
   How can we use what we have to spread more love, kindness and goodness during these
-  difficult times? We can’t wait to dive in!<br><b>Interested in volunteering? [Click
-  here for the application!](https://docs.google.com/forms/d/e/1FAIpQLSdtC9Xcp_1Xi8rFyLZVkYMyRhtauZ7qLKPgc3-6YtGdWXUthQ/viewform))</b>
+  difficult times? We can’t wait to dive in! Interested in volunteering? [Click here
+  for the application!](https://docs.google.com/forms/d/e/1FAIpQLSdtC9Xcp_1Xi8rFyLZVkYMyRhtauZ7qLKPgc3-6YtGdWXUthQ/viewform)
 speakers:
 - name: Vik Harrison
   title: CO-FOUNDER
