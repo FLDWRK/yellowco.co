@@ -68,6 +68,7 @@ No one likes having hard conversations, but sometimes they’re necessary. You n
 Some legal issues to discuss ahead of time include how you plan on modifying the agreement, what to do in the case of a dispute, and what happens if you need to dissolve the partnership. This is obviously not an exhaustive list of what you’ll need to be honest with each other about over the course of the partnership, but it’s a good jumping off point. 
 
 ### The Personal: 
+<br>
 
 ##### 6. Do You Communicate in a Healthy Way? 
 
