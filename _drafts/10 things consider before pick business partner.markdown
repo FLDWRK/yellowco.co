@@ -3,6 +3,21 @@ title: Don’t Pick Your Business Partner Before Considering These 10 Things
 date: 2019-01-28 04:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- business partner
+- choosing business partner
+- dream business partner
+- entrepeneur
+- entrepreneurship
+- partnership
+- starting a business
+- legal advice
+- business partner legal
+- lawyer
+- entrepreneur lawyer
+- small business
+- llc
+- corporation
 author: Olivia Phillips
 image: "/uploads/Yellow-Voice-47-1.jpg"
 ---
