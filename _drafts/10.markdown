@@ -4,6 +4,7 @@ date: 2019-01-28 04:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Olivia Phillips
+image: "/uploads/Yellow-Voice-47-1.jpg"
 ---
 
 Starting a small business can be a crazy adventure. It’s sort of like driving to a destination you’ve never been to before. But if you’re like me, a road trip isn’t as much fun to you without a co-pilot, and when you’re starting a business, that co-pilot is your business partner. 
@@ -16,7 +17,7 @@ I know this because, in addition to working with entrepreneurs, I also happen to
 
 So, I’d like to share some wisdom with you! What follows is a mix of ten legal questions and personal considerations Steph and I suggest you mull over if you’re thinking about taking on a business partner.
 
-img 
+![Yellow-Voice-75-1.jpg](/uploads/Yellow-Voice-75-1.jpg)
 
 ### The Legal:  
 <br>
@@ -37,7 +38,7 @@ You’ll also want to discuss what percentage of ownership you each have in the 
 
 You’ll want to include a percentage of ownership provision (especially if one partner plans to contribute through sweat equity), and don’t forget to include how profits and losses will be split in the agreement, because this goes hand-in-hand with ownership. Unless otherwise specified in the agreement, profits and losses will be allocated by the percentage of ownership. And keep in mind that this decision will also have tax implications, so be sure you have a CPA cued up for that conversation.
 
-img
+![Yellow-Voice-52-a1c78e.jpg](/uploads/Yellow-Voice-52-a1c78e.jpg)
 
 ##### 4. What Are Each of Your Roles and Responsibilities?
 
@@ -61,7 +62,7 @@ In any good partnership, there needs to be communication. In a _great_ partnersh
 
 I sure do! And because I feel that way about my partner, there’s motivation to communicate in a way that pushes us forward together, and not apart. 
 
-img
+![Yellow-Voice-73-1.jpg](/uploads/Yellow-Voice-73-1.jpg)
 
 ##### 7. Do You Trust Each Other?
 
