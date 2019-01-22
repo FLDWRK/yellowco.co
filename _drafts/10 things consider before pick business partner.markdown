@@ -87,3 +87,5 @@ For instance, I’m the first to admit that I tend to get pessimistic when I’m
 Last but certainly not least: do you like each other?! Remember, this is someone you’re going to be spending a lot of time with, having a lot of conversations with, and potentially eating a lot of nachos with. Or at least, that’s how it was in our case. You need to like the person you’re partnering with, so consider why you’ve chosen to partner with them in the first place. If you realize you’re not fangirling hard over your partner, it might be time to take a step back and think about what you’re getting into. 
 
 I hope you’ll walk away from this list with a better idea of what you should look for in your dream partner. Questions? Comments? Wanna talk about how cute a puppy with a clipboard would be? Send me or Steph an email at liv@wilkmazz.com or steph@wilkmazz.com! We’re always happy to chat. 
+
+_Photos by [Kate Spencer Photo](http://katespencerphoto.com/)_
