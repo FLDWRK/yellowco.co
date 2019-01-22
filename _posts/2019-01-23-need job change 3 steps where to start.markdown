@@ -17,7 +17,7 @@ tags:
 - meaningful work
 - purposeful work
 - holistic work
-author: Zencare
+author: Molli Carlson
 image: "/uploads/joanna-kosinska-439233-unsplash-1.jpg"
 ---
 
