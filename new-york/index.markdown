@@ -47,6 +47,7 @@ venue:
     1916 and once served as a classic car restoration shop. It was transformed into
     a private events venue in 2013 and now provides a unique backdrop for stylish
     weddings, corporate events, and photo shoots.
+description: "### Interested in volunteering? [Click here for the application!](https://docs.google.com/forms/d/e/1FAIpQLSdtC9Xcp_1Xi8rFyLZVkYMyRhtauZ7qLKPgc3-6YtGdWXUthQ/viewform)"
 layout: custom/new-york
 ---
 
