@@ -2,7 +2,8 @@
 title: Yellow Conference New York
 subtitle: OUR VERY FIRST EAST COAST EVENT
 event-details: MAY 10TH, 2019 • A 1-DAY EVENT
-short-description: "### Interested in volunteering? [Click here for the application!](https://docs.google.com/forms/d/e/1FAIpQLSdtC9Xcp_1Xi8rFyLZVkYMyRhtauZ7qLKPgc3-6YtGdWXUthQ/viewform)"
+short-description: A 1-day gathering for women who are working for the good of the
+  world.
 long-description: A gathering for entrepreneurial-minded women who are using their
   gifts, skills and talents to make the world a better place. Join us for our very
   first East Coast event where we will be exploring what it looks like to “create
