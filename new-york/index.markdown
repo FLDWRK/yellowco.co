@@ -32,6 +32,10 @@ speakers:
   title: Co-Founder
   company: Celsious
   image: "/uploads/Screenshot%202018-10-22%2008.04.17.png"
+- name: Carly Stein
+  title: Founder and CEO
+  company: Beekeepers Naturals
+  image: "/uploads/Screen%20Shot%202019-01-23%20at%209.40.37%20AM.png"
 - name: More speakers and panelists to be announced!
   image: "/assets/images/nyc/more-to-come.png"
 venue:
