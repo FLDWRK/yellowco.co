@@ -1,7 +1,7 @@
 ---
 title: Molly Pross
 date: 2019-01-24 12:01:00 -08:00
-bio_image: "/uploads/molly.jpg"
+bio_image: "/uploads/molly%20copy.jpg"
 website: https://www.bumpbestie.com/
 ---
 
