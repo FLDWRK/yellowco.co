@@ -1,5 +1,5 @@
 ---
-title: asmr
+title: What ASMR Is & Why You Should Listen to These Chill Sounds While You Work
 date: 2019-01-30 04:00:00 -08:00
 categories:
 - Health
@@ -37,7 +37,9 @@ It usually feels like physical tingling sensations beginning in the scalp and tr
 
 There’s an entire community involved in the ASMR movement, featuring different ASMR artists who’ve dedicated their time to creating content that helps others experience the sensations and find a sense of relaxation and community. The ASMR community has uncovered many popular triggers, such as small methodical movements, tapping different objects, calming role-play scenarios (such as getting a haircut), or whispering certain words. Whether it’s in a visual or audio form, most triggers rely on methodical repetition and a calming (and sometimes comforting presence) from the ASMR artist. 
 
-When used well, ASMR could be a great tool for entrepreneurs, freelancers, and creatives to maintain both a calm work environment as well as a separate time for self-care and relaxation. With its produced feelings of calmness, sleepiness, or even euphoria, there are several benefits to delving into ASMR such as decreasing anxiety and depression, assisting with insomnia, and offering a therapeutic experience during a stressful or lonely time. 
+### When used well, ASMR could be a great tool for entrepreneurs, freelancers, and creatives to maintain both a calm work environment as well as a separate time for self-care and relaxation. 
+
+With its produced feelings of calmness, sleepiness, or even euphoria, there are several benefits to delving into ASMR such as decreasing anxiety and depression, assisting with insomnia, and offering a therapeutic experience during a stressful or lonely time. 
 
 If you’re new to ASMR, try introducing it to your routine in one of the following ways, to see if it affects you positively:
 
