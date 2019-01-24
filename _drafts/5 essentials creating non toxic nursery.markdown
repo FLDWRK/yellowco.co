@@ -23,6 +23,7 @@ tags:
 - safe home products
 - non-toxic home products
 author: Molly Pross
+image: "/uploads/charles-1171440-unsplash-1.jpg"
 ---
 
 Congrats, you’re pregnant! I think most people would agree that pregnancy is an ideal time to reflect on your home environment and to make healthy changes. When I became pregnant, I literally spent hours creating spreadsheets of products, dissecting Amazon product reviews, and crowdsourcing opinions from girlfriends and random moms pushing their strollers down the street. If that wasn’t overwhelming enough, I went down an even larger rabbit hole learning about indoor air quality and about chemicals commonly found in the home and nursery. Unregulated chemical use is increasing, and prevalent in products we use every day. In the last 50 years, we’ve seen a dramatic increase in chemical production in the U.S. and while they affect us all, pregnant women and children face the greatest risk. 
