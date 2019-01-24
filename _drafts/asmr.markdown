@@ -3,7 +3,24 @@ title: asmr
 date: 2019-01-30 04:00:00 -08:00
 categories:
 - Health
+tags:
+- asmr
+- anxiety
+- health
+- wellness
+- what is asmr
+- podcast
+- relaxation
+- mental health
+- depression
+- insomnia
+- tools
+- therapeutic
+- routine
+- wellness routine
+- youtube
 author: Rachel Neal
+image: "/uploads/icons8-team-643494-unsplash-1.jpg"
 ---
 
 “I want to show you something,” my husband said as he led me to a chair in front of his laptop. I sat and he put headphones on me. Pulled up on the screen was an hour-long YouTube video of a women silently, methodically going through her makeup bag. You could only see her forearms and hands, as she picked up each product gently and then began tapping, opening and closing, and sorting each thing in the container. I was confused (and a little weirded out) to say the least, but my husband would give me ZERO explanation. I decided to trust him and focused on settling into the experience. Suddenly, I felt a tingling sensation in my head and down my spine, as a feeling of sleepiness and calmness arose in me. I told my husband what I was feeling — and he excitedly told me about ASMR, a term I had never heard of. 
@@ -15,6 +32,8 @@ The term “ASMR”, which stands for Autonomous Sensory Meridian Response, was 
 ### Essentially, ASMR is a group of positive sensations that are triggered by seen, heard, or felt stimuli. 
 
 It usually feels like physical tingling sensations beginning in the scalp and traveling to the spine and limbs, combined with an emotional feeling of well-being. If you’ve ever felt similar things while having your hair played with, you may know the sensations I’m describing! 
+
+![daniel-fontenele-710667-unsplash-1.jpg](/uploads/daniel-fontenele-710667-unsplash-1.jpg)
 
 There’s an entire community involved in the ASMR movement, featuring different ASMR artists who’ve dedicated their time to creating content that helps others experience the sensations and find a sense of relaxation and community. The ASMR community has uncovered many popular triggers, such as small methodical movements, tapping different objects, calming role-play scenarios (such as getting a haircut), or whispering certain words. Whether it’s in a visual or audio form, most triggers rely on methodical repetition and a calming (and sometimes comforting presence) from the ASMR artist. 
 
@@ -28,7 +47,9 @@ If you work on a phone or laptop, trade in your tunes for ASMR as a calming alte
 
 #### Use ASMR before bed or a nap. 
 
-Utilizing ASMR to wind down both mentally and physically is one of my favorite relaxation routines. This is best done with an auditory trigger rather than a visual one, so you’re not keeping yourself awake with the blue light of your screen. Choose a video (but darken the screen light) or podcast, put on headphones, and get into a comfortable position while focusing on the trigger sounds. If you’ve ever put on white noise or rain sounds to assist with sleep, this is a similar practice!  
+Utilizing ASMR to wind down both mentally and physically is one of my favorite relaxation routines. This is best done with an auditory trigger rather than a visual one, so you’re not keeping yourself awake with the blue light of your screen. Choose a video (but darken the screen light) or podcast, put on headphones, and get into a comfortable position while focusing on the trigger sounds. If you’ve ever put on white noise or rain sounds to assist with sleep, this is a similar practice! 
+
+![aiony-haust-667702-unsplash-1.jpg](/uploads/aiony-haust-667702-unsplash-1.jpg) 
 
 #### Add ASMR to your morning routine. 
 
