@@ -1,6 +1,34 @@
 ---
-title: m
+title: 5 Essentials for Creating a Non-Toxic Nursery
 date: 2019-02-01 04:00:00 -08:00
+categories:
+- Conscious Living
 author: Molly Pross
 ---
 
+Guide to Building a Non-Toxic Nursery
+
+Congrats, you’re pregnant! I think most people would agree that pregnancy is an ideal time to reflect on your home environment and to make healthy changes. When I became pregnant, I literally spent hours creating spreadsheets of products, dissecting Amazon product reviews and crowdsourcing opinions from girlfriends and random moms pushing their strollers down the street – and if that wasn’t overwhelming enough, I went down an even larger rabbit hole learning about indoor air quality and about chemicals commonly found in the home and nursery. Unregulated chemical use is increasing, and prevalent in products we use every day. In the last 50 years, we’ve seen a dramatic increase in chemical production in the U.S. and while they affect us all, pregnant women and children face the greatest risk. 
+
+It’s part of the reason why I started Bump Bestie. As a confused and overworked mama-to-be, I really wanted to reenvision baby prep for the modern parent. I thought that there had to be an easier way to figure out what products suited my lifestyle and budget as well as how to minimize chemical exposure when purchasing products and setting up the nursery!  Luckily, taking steps to protect your little ones from chemical exposure is easier and affordable than ever, so if you’re looking for ideas or what to prioritize for your non-toxic nursery, here are 5 of my favorite items:
+
+1. Crib - Ikea Sniglar
+If there’s one area I recommend clients investing in organic and less-toxic furniture in the nursery it’s hands down the crib and crib mattress. Think about it – your little bundle is going to be spending 12-17 hours a day sleeping and that’s a lot of time spent on a surface close to the baby’s face for extended periods of time.  When it comes to picking a safe crib, there are a ton of options that can run easily in the thousands of dollars but it doesn’t have to cost an arm and a leg. Ikea actually makes a (read: VERY affordable) non-toxic crib option called the Sniglar that is made from 100% solid, unfinished beechwood. With that said, the Sniglar is one of the least toxic cribs available on the market that offers a lot of bang for your buck.
+
+2. Crib Mattress – Babyletto Coco Core Non-Toxic Crib Mattress
+What’s a non-toxic crib without a non-toxic crib mattress? Buying a non-toxic crib without a safe crib mattress is sort of like buying a happy meal with a diet coke. They don’t really cancel each other out – so no, don’t do it. This is another product that can run you easily in the $500 to $600 range. Granted most crib mattresses are dual-sided so your infant sleeps on a firmer surface for the first year or so and once they’re a bonafide toddler, you can flip it for a softer mattress. So while this is another investment piece, you’ll get at least a solid 3 years out of this until you transition to a big boy/girl bed. Organic mattresses can be made out of many different kinds of materials and the Babyletto mattress in particular is made from natural coconut husk and natural latex and the mattress core is OEKO-TEX 100 certified which means that the textiles and fabrics tested are certified free of more than 100 harmful chemicals and substances and are safe for human use so you don’t have to worry about the use of polyurethane foam, vinyl, PVC, chemical flame retardants, phthalates and other off-gassing materials.
+
+3. Chair – Monte Design Como Glider
+Creating a stress-free nursing/bottle-feeding area is super important and since you’re going to spend a TON of time in your nursery chair, you might as well make your corner functional and find a chair that you LOVE! A comfortable, well-stocked “feeding” station can go a long way toward eliminating stress, giving new parents a much-needed moment to rest and bond with their babies. Avoid having a chair that off-gases toxic chemicals in the air of your nursery by choosing a chair that is Greenguard certified and made with safer materials. I love the chairs from Monte Design Group from Canada. The company uses high-density foam that is free of chemical flame retardants (and CertiPUR-US certified), wood that is LEED certified and contains no formaldehyde, water-based paints and finishes that are lead-free and glues that are water-based and biodegradable. Additionally, their fabrics are also Oeko-Tex Standard 100 compliant and they’re good looking so it wouldn’t be totally out of the question to repurpose your chair in the living room once your nursing days are over.
+
+4. Changing Pad – Naturepedic Organic Cotton Changing Pad
+Another surface that your babe is going to be coming into contact with on a regular basis is your changing pad! Naturepedic is a trusted and recognizable brand in the non-toxic arena that also offers great crib mattress options as well. I particularly like their No-Compromise changing pad featuring a non-toxic design as well as a matching organic cover. If you’re worried about pee and poop getting on it and all the laundry that can come with that, another option is the Keekaroo Peanut that does not require a cover and is wipeable which means less laundry. That one is certified free of latex, PVC, BPA, phthalates and formamide.
+
+5. Rug – Lorena Canals Rugs
+What’s a nursery without a sweet rug that really ties the room together? Enter Lorena Canals Rugs which are handmade with care and the best thing is they are machine washable! Yes, you read that right. You can literally throw these in the washer and dryer and they’re made with non-toxic dyes and 100% natural cotton. If buying elsewhere, be aware that a lot of synthetic rugs tend to off gas a lot. They generally are made from polypropylene which is a plastic and have some sort of chemical backing, not to mention most rugs are treated with mothproofing and stain resistant chemicals. Don’t forget about the rug pad either – make sure to find ones that are natural rubber latex free of glues, adhesives or plastacizers.
+
+Molly Pross – link to site www.bumpbestie.com
+Founder of Bump Bestie
+Molly Pross is the founder of Bump Bestie, a modern baby planning, gear consulting and maternity concierge service that eases the transition to parenthood. Reenvisioning baby prep for the modern parent, Molly provides personalized support and peace of mind to expecting families as they navigate an unfamiliar and exciting time in their lives. 
+
+A sought-after non-toxic lifestyle expert, Molly also works with families to create a healthy home and educates families on how to reduce toxic exposure by empowering them with information and practical alternatives that optimize the health of their family and environment. Based in Los Angeles, Molly works with clients both locally and virtually, nationwide.
