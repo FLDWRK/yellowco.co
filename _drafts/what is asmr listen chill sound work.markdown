@@ -47,11 +47,11 @@ If you’re new to ASMR, try introducing it to your routine in one of the follow
 
 If you work on a phone or laptop, trade in your tunes for ASMR as a calming alternative. While I tend to listen to whispering videos as I work at coffee shops, the speaking triggers may be distracting for some. Try a non-speaking option and see if it assists with your focus and keeps the productivity stresses at bay. 
 
+![aiony-haust-667702-unsplash-1.jpg](/uploads/aiony-haust-667702-unsplash-1.jpg) 
+
 #### Use ASMR before bed or a nap. 
 
 Utilizing ASMR to wind down both mentally and physically is one of my favorite relaxation routines. This is best done with an auditory trigger rather than a visual one, so you’re not keeping yourself awake with the blue light of your screen. Choose a video (but darken the screen light) or podcast, put on headphones, and get into a comfortable position while focusing on the trigger sounds. If you’ve ever put on white noise or rain sounds to assist with sleep, this is a similar practice! 
-
-![aiony-haust-667702-unsplash-1.jpg](/uploads/aiony-haust-667702-unsplash-1.jpg) 
 
 #### Add ASMR to your morning routine. 
 
