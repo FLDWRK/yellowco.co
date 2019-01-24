@@ -52,3 +52,5 @@ Another surface that your babe is going to be coming into contact with on a regu
 #### [5. Lorena Canals Rugs](https://lorenacanals.us/)
 
 What’s a nursery without a sweet rug that really ties the room together? Enter [Lorena Canals Rugs](https://lorenacanals.us/). They're handmade with care, and the best part is they are machine washable! Yes, you read that right. You can literally throw these in the washer and dryer, and they’re made with non-toxic dyes and 100% natural cotton. If buying elsewhere, be aware that a lot of synthetic rugs tend to off gas a lot. They generally are made from polypropylene which is a plastic and have some sort of chemical backing, not to mention most rugs are treated with mothproofing and stain resistant chemicals. Don’t forget about the rug pad either – make sure to find ones that are natural rubber latex free of glues, adhesives or plasticizers.
+
+Images via [Lorena Canals](https://lorenacanals.us/), [Monte Design](https://montedesign.com/)
