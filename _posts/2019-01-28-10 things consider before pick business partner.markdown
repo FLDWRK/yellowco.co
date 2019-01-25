@@ -18,7 +18,7 @@ tags:
 - small business
 - llc
 - corporation
-author: Olivia Phillips
+author: Liv Phillips
 image: "/uploads/Yellow-Voice-47-1.jpg"
 ---
 
