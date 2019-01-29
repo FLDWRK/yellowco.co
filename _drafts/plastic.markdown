@@ -3,6 +3,25 @@ title: 5 ways to cut out plastic & Switch to Safer options in the Kitchen
 date: 2019-02-06 04:00:00 -08:00
 categories:
 - Conscious Living
+tags:
+- zero plastic
+- plastic free
+- non-toxic
+- non-toxic kitchen
+- plastic free kitchen
+- zero plastic kitchen
+- health
+- environment
+- eco-friendly
+- chemicals
+- bpa-free
+- stasher bags
+- bees wrap
+- wax wrap
+- food storage
+- byta
+- straws
+- steel straws
 author: Lauren Breiding
 image: "/uploads/zero-plastic.jpg"
 ---
