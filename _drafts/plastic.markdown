@@ -4,6 +4,7 @@ date: 2019-02-06 04:00:00 -08:00
 categories:
 - Conscious Living
 author: Lauren Breiding
+image: "/uploads/zero-plastic.jpg"
 ---
 
 The zero-plastic movement is taking off by storm and I’m here for it! Not only is it better for the environment and your wallet to reduce plastic, but your body will thank you down the line. 
