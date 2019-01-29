@@ -1,5 +1,5 @@
 ---
-title: plastic
+title: 5 ways to cut out plastic & Switch to Safer options in the Kitchen
 date: 2019-02-06 04:00:00 -08:00
 categories:
 - Conscious Living
