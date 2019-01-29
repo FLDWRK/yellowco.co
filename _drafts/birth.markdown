@@ -3,6 +3,20 @@ title: birth
 date: 2019-02-08 04:00:00 -08:00
 categories:
 - Health
+tags:
+- giving birth
+- motherhood
+- hospital birth
+- birthing center
+- doula
+- midwife
+- home birth
+- birth options
+- pregnant
+- pregnancy
+- medical
+- health
+- childbirth
 author: Brianna Towne
 image: "/uploads/s-a-r-a-h-s-h-a-r-p-973522-unsplash-1.jpg"
 ---
