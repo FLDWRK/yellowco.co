@@ -16,11 +16,11 @@ It is no surprise that chemicals are hidden in plastics. Remember when finding a
 
 Saying no to plastic is a great place to start when switching to safer products. Here are five ways to reduce plastic, clean up your kitchen, and support the health of your family:
 
+![PearlCookieParty_homepage_1440x640@2x.jpg](/uploads/PearlCookieParty_homepage_1440x640@2x.jpg)
+
 #### Switch from plastic food storage to glass food storage. 
 
 This is a big one because food can sit in plastic for days on end, creating an environment for chemicals to leach into your food and eventually your body. Not only will your food stay fresh longer, but you can freeze in it, microwave in it and not worry about any chemical invasions during the intense heat of the dishwasher. Run to your nearest discount store to find a set on sale or do a quick Amazon Prime search and you’ll be ready to go. Pro tip: save glass jars from food you are eating (like pasta sauce, pickles, coconut oil, etc.), wash them, and reuse them for food storage.
-
-![PearlCookieParty_homepage_1440x640@2x.jpg](/uploads/PearlCookieParty_homepage_1440x640@2x.jpg)
 
 #### Ditch the plastic bags. 
 
