@@ -8,7 +8,9 @@ author: Lauren Breiding
 
 The zero-plastic movement is taking off by storm and I’m here for it! Not only is it better for the environment and your wallet to reduce plastic, but your body will thank you down the line. 
 
-We are all exposed to a variety of toxic chemicals every single day through the air we breath, the water we drink, the food we eat, the personal products we use, the cleaning products we use, and the list goes on. While we cannot help some of these scenarios, I am a big proponent of choosing safer alternatives whenever possible. Studies have shown that the rise of many health issues is partly due to our exposure to these toxic chemicals. 
+We are all exposed to a variety of toxic chemicals every single day through the air we breath, the water we drink, the food we eat, the personal products we use, the cleaning products we use, and the list goes on. 
+
+### While we cannot help some of these scenarios, I am a big proponent of choosing safer alternatives whenever possible. Studies have shown that the rise of many health issues is partly due to our exposure to these toxic chemicals. 
 
 It is no surprise that chemicals are hidden in plastics. Remember when finding a BPA-free water bottle was a new thing? Well the truth is it doesn’t stop there. There is a reason it is still not good to microwave food in plastics... when succumbed to heat, chemicals from the plastic can leach into your food. While there have been huge strides in removing BPA (a known endocrine disruptor) from plastic, the jury is still out on whether or not the alternatives are any better for your health. 
 
