@@ -63,8 +63,8 @@ The home birth is obviously the most flexible of all options. You’ll likely be
 
 At home you’re, well, at your home. You have access to your food, drinks, bed, couch, tub - everything. The home birth also allows for the most people to be at the birth with you. 
 
-### Many mothers who give birth at home have family and friends to surround them and welcome their baby in to the world. 
+### Many mothers who give birth at home have more family and friends to surround them and welcome their baby in to the world. 
 
-Hospitals and birthing centers often have a limit on how many people can be in the room. Most insurance plans do not cover home births, so the expense will be coming out of pocket for you. Childbirth is not cheap, so this is a big factor to consider for your birth plan. 
+In contrast, hospitals and birthing centers often have a limit on how many people can be in the room. Most insurance plans do not cover home births, so the expense will be coming out of pocket for you. Childbirth is not cheap, so this is a big factor to consider for your birth plan. 
 
 There is no wrong or bad choice here. Whatever option you choose will result in you becoming a mother and your heart exploding with love for your new little one. There are a lot of factors to consider when deciding where to give birth, and it’s up to you and your partner to go through and choose which is best for you. 
