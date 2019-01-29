@@ -1,5 +1,5 @@
 ---
-title: 5 ways to cut out plastic & Switch to Safer options in the Kitchen
+title: 5 Zero-Plastic Kitchen Products to Switch to for a Healthier Home
 date: 2019-02-06 04:00:00 -08:00
 categories:
 - Conscious Living
