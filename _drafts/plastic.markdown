@@ -6,8 +6,6 @@ categories:
 author: Lauren Breiding
 ---
 
-Why Reducing Plastic Can Be Good For Your Health
-
 The zero-plastic movement is taking off by storm and I’m here for it! Not only is it better for the environment and your wallet to reduce plastic, but your body will thank you down the line. 
 
 We are all exposed to a variety of toxic chemicals every single day through the air we breath, the water we drink, the food we eat, the personal products we use, the cleaning products we use, and the list goes on. While we cannot help some of these scenarios, I am a big proponent of choosing safer alternatives whenever possible. Studies have shown that the rise of many health issues is partly due to our exposure to these toxic chemicals. 
