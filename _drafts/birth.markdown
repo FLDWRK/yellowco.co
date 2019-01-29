@@ -61,6 +61,10 @@ Insurance-wise, it is likely possible to find a birthing center that accepts you
 
 The home birth is obviously the most flexible of all options. You’ll likely be seeing a midwife and a doula if you have one for your prenatal care, and she will come to your home when you are in labor. You won’t have access to medical interventions, so if you are high risk you’ll need to look at other options. 
 
-At home you’re, well, at your home. You have access to your food, drinks, bed, couch, tub - everything. The home birth also allows for the most people to be at the birth with you. Many mothers who give birth at home have family and friends to surround them and welcome their baby in to the world. Hospitals and birthing centers often have a limit on how many people can be in the room. Most insurance plans do not cover home births, so the expense will be coming out of pocket for you. Childbirth is not cheap, so this is a big factor to consider for your birth plan. 
+At home you’re, well, at your home. You have access to your food, drinks, bed, couch, tub - everything. The home birth also allows for the most people to be at the birth with you. 
+
+### Many mothers who give birth at home have family and friends to surround them and welcome their baby in to the world. 
+
+Hospitals and birthing centers often have a limit on how many people can be in the room. Most insurance plans do not cover home births, so the expense will be coming out of pocket for you. Childbirth is not cheap, so this is a big factor to consider for your birth plan. 
 
 There is no wrong or bad choice here. Whatever option you choose will result in you becoming a mother and your heart exploding with love for your new little one. There are a lot of factors to consider when deciding where to give birth, and it’s up to you and your partner to go through and choose which is best for you. 
