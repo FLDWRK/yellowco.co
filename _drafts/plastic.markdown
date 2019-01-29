@@ -36,3 +36,4 @@ This is especially fun if you have straw loving little ones in the house. Not on
 
 Like I always say, it is not about being perfect overnight, but if you can be in charge of what you are bringing into your home you are starting off in a great place. So the next time you run out of plastic bags or can’t find that matching lid to your plastic container, make the switch away from plastic and be proud! You are making a huge step for your health and the environment. 
 
+Images via Stasher, Byta
