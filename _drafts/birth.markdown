@@ -1,5 +1,6 @@
 ---
-title: birth
+title: 'Home Birth vs. Hospital vs. Birthing Center: How to Choose the Best Option
+  for Your Delivery'
 date: 2019-02-08 04:00:00 -08:00
 categories:
 - Health
