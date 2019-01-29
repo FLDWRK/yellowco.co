@@ -4,6 +4,7 @@ date: 2019-02-08 04:00:00 -08:00
 categories:
 - Health
 author: Brianna Towne
+image: "/uploads/s-a-r-a-h-s-h-a-r-p-973522-unsplash-1.jpg"
 ---
 
 I was twenty-one when I first discovered I was pregnant. I had absolutely no idea what I wanted my "birth plan" to look like, what my options were for where to give birth, anything. I was completely on autopilot. Going through the motions of what I thought was the “right” thing to do.
@@ -22,6 +23,8 @@ You’ll be monitored closely at a hospital by nurses and staff. They’ll frequ
 
 You may be asked to stay in the bed so you and baby can be monitored. You will have an IV port placed in your arm in case anything needs to be administered. Depending on the hospital’s rules, you may only be allowed to have ice chips and water during labor - no food or other drinks. Each hospital has its own rules and guidelines so it’s important to get a tour, check out their rules, and see if that fits the vision you have for your birth.
 
+![charles-1183835-unsplash-1.jpg](/uploads/charles-1183835-unsplash-1.jpg)
+
 #### Birthing Center
 
 I had my fourth baby in a birthing center and it was an amazing experience. I was older, more educated, and knew my options by then and wanted to go a different route from the hospital births I had experienced in the past. 
@@ -37,6 +40,8 @@ You’ll likely be supported by a midwife, a nurse, and a doula for birth. Most 
 Your birthing team will be able to give you ample privacy and only check in on you as needed. I honestly felt like my husband and I were on a date for most of my labor because we were alone and just hanging out in between contractions! 
 
 Insurance-wise, it is likely possible to find a birthing center that accepts your insurance. Birthing center staff will be able to assist you in finding out your coverage and payment. You’ll have a lot of freedom with a birthing center, but that also means knowing all of your options for childbirth. Make sure to grab some books and do some research so you know what to expect and what options you have.
+
+![john-looy-755994-unsplash-1.jpg](/uploads/john-looy-755994-unsplash-1.jpg)
 
 #### Home Birth
 
