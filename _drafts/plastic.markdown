@@ -18,6 +18,8 @@ Saying no to plastic is a great place to start when switching to safer products.
 
 This is a big one because food can sit in plastic for days on end, creating an environment for chemicals to leach into your food and eventually your body. Not only will your food stay fresh longer, but you can freeze in it, microwave in it and not worry about any chemical invasions during the intense heat of the dishwasher. Run to your nearest discount store to find a set on sale or do a quick Amazon Prime search and you’ll be ready to go. Pro tip: save glass jars from food you are eating (like pasta sauce, pickles, coconut oil, etc.), wash them, and reuse them for food storage.
 
+![PearlCookieParty_homepage_1440x640@2x.jpg](/uploads/PearlCookieParty_homepage_1440x640@2x.jpg)
+
 #### Ditch the plastic bags. 
 
 This is a fun one to switch because my number one recommendation is a company I love to support: [Stasher Bags](https://www.amazon.com/Stasher-Reusable-Silicone-Sandwich-Storage/dp/B01DZQT9CU). They are made of 100% silicone and can be put in the dishwasher, used in the freezer, used to boil food, or just carry around your snacks. They come in all sizes from gallon to snack size. While there is an initial investment, think about how many boxes of plastic bags you purchase in just one year. This will be better for you and your wallet in the long run. 
@@ -25,6 +27,8 @@ This is a fun one to switch because my number one recommendation is a company I 
 #### Skip the plastic wrap. 
 
 While this is so tempting to use because of ease, I challenge you to not repurchase that box when it runs out. Here are safer alternatives you can reuse over and over instead: [Bee’s Wrap](https://www.amazon.com/Bees-Wrap-Assorted-Sustainable-Honeycomb/dp/B0126LMDFK/ref=pd_bxgy_79_img_2/135-6157732-2437226?_encoding=UTF8&pd_rd_i=B0126LMDFK&pd_rd_r=0c67a33d-23fc-11e9-b0de-212d94c64fa6&pd_rd_w=eFuHk&pd_rd_wg=tSLf6&pf_rd_p=3f9889ac-6c45-46e8-b515-3af650557207&pf_rd_r=PYGAAQRKWP3Q6B0R09CE&psc=1&refRID=PYGAAQRKWP3Q6B0R09CE), silicone food covers (great for cut produce or to stretch over any shape of storage), parchment paper (also a great replacement for aluminum foil... I swear it cooks food better) or go for a storage method listed in the first two tips.
+
+![byta_home.jpg](/uploads/byta_home.jpg)
 
 #### Go reusable for liquids. 
 
