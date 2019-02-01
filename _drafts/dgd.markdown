@@ -15,6 +15,8 @@ _We’re thrilled to announce our February honoree of the Do-Good Dozen, [Katie 
 We’re building a community at [Virgin Unite](https://www.virgin.com/unite/) that works to displace traditional philanthropy by connecting brilliant, passionate people with innovative non-profit leaders. We’re lucky to work across all kinds of causes from climate change to criminal justice, in every corner of the world. Even more so, we have the privilege of partnering with frontline leaders revolutionizing their fields. 
 
 At [Jiamini](https://jiamini.org/) we provide bright kids, likely to be left behind by poverty, with the opportunity to shape their futures. We work with each student individually to set up a support system specifically for her or his unique needs. If a student is living with HIV, she may need health advocacy and extra nutrition; a student with learning difficulties might be best for a vocational apprenticeship; students living with elderly grandparents might need extra food at home, and so on. Our individual support approach meets each of the 105 kids we currently support exactly where they are, and gives them tools to build their own success. This opportunity ripples throughout the community as our students go on to have careers and support their younger relatives through school. 
+
+![Ulusaba2016_IMG_1226-1.jpg](/uploads/Ulusaba2016_IMG_1226-1.jpg)
  
 ###### What has working in corporate impact strategy shown you about our ability to make a difference in the world?
 
