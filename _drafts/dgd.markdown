@@ -1,5 +1,5 @@
 ---
-title: ":An Interview with Do-Good Dozen Award Winner, Katie Hunt-Morr"
+title: ":An Interview with Our Do-Good Dozen Award Winner, Katie Hunt-Morr"
 date: 2019-02-04 03:00:00 -08:00
 categories:
 - Entrepreneurs
@@ -24,7 +24,7 @@ author: Hanna Snyder
 
 _As you may have seen, we recently launched a new, [12-month award series called the “Do-Good Dozen”](https://yellowcollective.lpages.co/do-good-dozen/) to honor women who are using their unique skills to create true change for good, all in different work spheres. We use the phrase “do-good” a lot here at Yellow, but it looks different for everyone! You don’t have to move across the country, you don’t even need to found a company. You can do good wherever you’re at, and we want to highlight trail-blazing women who have shown up to do just that. Our hope is to shed light on the many, many ways that “good” is needed and expressed in the world – in work and in life._
  
-_We’re thrilled to announce our February honoree of the Do-Good Dozen, [Katie Hunt-Morr](https://www.virgin.com/person/katie-hunt-morr), the Director of Community at [Virgin Unite](https://www.virgin.com/unite/)! Katie has been helping make huge waves of change not only through her work in corporate impact, but also through the [non-profit](https://jiamini.org/) she founded to break the cycle of poverty in Tanzania through education. Hear more about her amazing work, what she wants to see more of in the corporate sphere, and who she’s currently inspired by in our interview with her below!_
+_We’re thrilled to announce our February winner of the Do-Good Dozen, [Katie Hunt-Morr](https://www.virgin.com/person/katie-hunt-morr), the Director of Community at [Virgin Unite](https://www.virgin.com/unite/)! Katie has been helping make huge waves of change not only through her work in corporate impact, but also through the [non-profit](https://jiamini.org/) she founded to break the cycle of poverty in Tanzania through education. Hear more about her amazing work, what she wants to see more of in the corporate sphere, and who she’s currently inspired by in our interview with her below!_
 
 ###### Tell us a bit about the work you do, and your journey to get there!
 
@@ -44,7 +44,7 @@ Corporations can move faster than government and with infinitely more resources 
 
 I went to visit a friend serving in Peace Corps in rural Tanzania, with no intention of starting an organization. I met two of the kids she was close to in her neighborhood - really sweet, smart kids who were going to have to drop out of school because they couldn’t pay the public school fees. We went to their local school and asked how much it would cost to keep them enrolled. I was prepared to pool money from my friends and family to make it happen. It turned out keeping them in school was going to be less than $35 – and adding new uniforms, detergent, and school supplies was under $75. I was shocked. We worked with the school to identify ten more kids who needed support and I went home to find ten people to give me $75. We didn’t plan on building a non-profit, but when it was so clear how many lives we could change, the choice was obvious. 
 
-### It’s still crazy to me that an amount less than many people spend on their morning coffee can be difference between kids ending their education or reaching their full potential. 
+### It’s still crazy to me that an amount less than many people spend on their morning coffee can be the difference between kids ending their education and reaching their full potential. 
 
 ![12-89bcf8.jpeg](/uploads/12-89bcf8.jpeg)
 
