@@ -1,5 +1,6 @@
 ---
-title: ":An Interview with Our Do-Good Dozen Award Winner, Katie Hunt-Morr"
+title: 'Meet the Woman Using Corporate Impact to Solve Global Issues: Our Do-Good
+  Dozen Award Winner, Katie Hunt-Morr'
 date: 2019-02-04 03:00:00 -08:00
 categories:
 - Entrepreneurs
