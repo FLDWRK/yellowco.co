@@ -1,5 +1,5 @@
 ---
-title: dgd
+title: ":An Interview with Do-Good Dozen Award Winner, Katie Hunt-Morr"
 date: 2019-02-04 03:00:00 -08:00
 categories:
 - Entrepreneurs
