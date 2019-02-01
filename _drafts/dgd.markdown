@@ -46,7 +46,7 @@ I went to visit a friend serving in Peace Corps in rural Tanzania, with no inten
 
 ### It’s still crazy to me that an amount less than many people spend on their morning coffee can be difference between kids ending their education or reaching their full potential. 
 
-[IMG_0318-1.JPG](/uploads/IMG_0318-1.JPG)
+![12-89bcf8.jpeg](/uploads/12-89bcf8.jpeg)
 
 ###### Did you have any hesitations about being able to put time into it outside of your other work? How were you able to move past those doubts and move forward?
 
