@@ -3,6 +3,22 @@ title: ":An Interview with Do-Good Dozen Award Winner, Katie Hunt-Morr"
 date: 2019-02-04 03:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- Katie Hunt-Morr
+- do-good dozen
+- virgin unite
+- nonprofit
+- corporate impact
+- jiamini
+- social good
+- social impact
+- entrepreneurs
+- purposeful entrepreneur
+- purposeful work
+- interview
+- business impact
+- sustainability
+- female founders
 author: Hanna Snyder
 ---
 
