@@ -30,6 +30,8 @@ I went to visit a friend serving in Peace Corps in rural Tanzania, with no inten
 
 ### It’s still crazy to me that an amount less than many people spend on their morning coffee can be difference between kids ending their education or reaching their full potential. 
 
+[IMG_0318-1.JPG](/uploads/IMG_0318-1.JPG)
+
 ###### Did you have any hesitations about being able to put time into it outside of your other work? How were you able to move past those doubts and move forward?
 
 Not at the time, but as my career has grown finding time for Jiamini’s needs has become harder and harder. But – I know that every hour I invest is giving kids the opportunity they deserve, so you just make the time. 
@@ -50,6 +52,8 @@ My feelings about working in corporate impact haven’t evolved, but the sector 
 
 Every day it gets more exciting to be a small part of the growing movement. 
 
+![DSC00305-1.jpg](/uploads/DSC00305-1.jpg)
+
 ###### What do you want to see more of in the corporate sphere?
 
 Courage to step away from quarterly returns to make long-term investments in sustainability. Some amazing companies have sacrificed immediate returns to significantly change their operations, because it’s right - even if it isn’t popular. Market pressures are more flexible than I think a lot of companies realize. 
@@ -61,6 +65,8 @@ It took me along time to learn that investing in the health of a team is the mos
 ### The dynamic between teammates can bring out the absolute best possibilities or block the true potential of their work. 
 
 Every person needs to feel valued and clear on their role within the team. People are fragile, and it’s important to fine tune the group of individuals coming together to work each day. 
+
+![Ulusaba2016_IMG_1232 (1)-1.jpg](/uploads/Ulusaba2016_IMG_1232%20(1)-1.jpg)
 
 ###### How can we get involved in the incredible work you’re doing with Virgin Unite, and with your non-profit, Jiamini?
 
