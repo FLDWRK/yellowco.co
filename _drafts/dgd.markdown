@@ -44,7 +44,11 @@ Working in corporate impact has never felt like a choice to me. You see all of t
 
 ###### Has that evolved over time?
 
-My feelings about working in corporate impact haven’t evolved, but the sector has moved tremendously since I started. Businesses are willing to invest in driving large-scale change and putting incredible minds and resources toward driving impact. Every day it gets more exciting to be a small part of the growing movement. 
+My feelings about working in corporate impact haven’t evolved, but the sector has moved tremendously since I started. 
+
+### Businesses are willing to invest in driving large-scale change and putting incredible minds and resources toward driving impact. 
+
+Every day it gets more exciting to be a small part of the growing movement. 
 
 ###### What do you want to see more of in the corporate sphere?
 
@@ -52,7 +56,11 @@ Courage to step away from quarterly returns to make long-term investments in sus
 
 ###### What’s one of the most important lessons you’ve learned as part of a team and a founder?
 
-It took me along time to learn that investing in the health of a team is the most important part of the job. The dynamic between teammates can bring out the absolute best possibilities or block the true potential of the work. Every person needs to feel valued and clear on their role within the team. People are fragile, and it’s important to fine tune the group of individuals coming together to work each day. 
+It took me along time to learn that investing in the health of a team is the most important part of the job. 
+
+### The dynamic between teammates can bring out the absolute best possibilities or block the true potential of their work. 
+
+Every person needs to feel valued and clear on their role within the team. People are fragile, and it’s important to fine tune the group of individuals coming together to work each day. 
 
 ###### How can we get involved in the incredible work you’re doing with Virgin Unite, and with your non-profit, Jiamini?
 
