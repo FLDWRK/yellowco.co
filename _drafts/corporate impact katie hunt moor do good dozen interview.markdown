@@ -77,7 +77,7 @@ Courage to step away from quarterly returns to make long-term investments in sus
 
 ###### What’s one of the most important lessons you’ve learned as part of a team and a founder?
 
-It took me along time to learn that investing in the health of a team is the most important part of the job. 
+It took me a long time to learn that investing in the health of a team is the most important part of the job. 
 
 ### The dynamic between teammates can bring out the absolute best possibilities or block the true potential of their work. 
 
