@@ -92,4 +92,4 @@ We dream of scaling the work Virgin Unite does behind the scenes by inspiring pe
 
 What we need most at Jiamini is sponsors for our students. Each person who steps up as a sponsor givens a brilliant kid the opportunity to build their best possible future. Details are [here](https://jiamini.org/our-work/sponsorship/). We also have some incredible partnerships with small businesses. Our size lets us get creative with partners and co-develop programs and messaging for their clients – [email me to collaborate](mailto:katie@jiamini.org). Donations are massively helpful for us. We can make a huge difference in our students’ lives for less than the cost of a latté. You can [donate here](https://jiamini.org/product/donations/). The rest of the directors and I work as volunteers, so 100% of donations go directly to supporting our students and programs on the ground. 
 
-_Images courtesy of Katie Hunt-Morr_
+_Illustration by [Hanna Snyder](http://hancreative.co/) for Yellow Co., Photos courtesy of Katie Hunt-Morr_
