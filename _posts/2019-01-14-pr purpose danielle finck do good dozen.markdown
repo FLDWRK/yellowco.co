@@ -76,4 +76,4 @@ It always works out in the end. If it hasn’t worked out yet, it isn’t the en
 
 We share a lot about the clients we’re working with and support on our Instagram feed. Follow us there and get involved in supporting these brands [@ellecomm](https://www.instagram.com/ellecomm/). 
 
-_Images courtesy of [Danielle Finck](https://www.instagram.com/daniellefinck/)_
+_Illustration by [Hanna Snyder](http://hancreative.co/) for Yellow Co., Photos courtesy of [Danielle Finck](https://www.instagram.com/daniellefinck/)_
