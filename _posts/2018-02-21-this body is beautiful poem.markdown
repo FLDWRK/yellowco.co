@@ -100,3 +100,5 @@ As women living in this current culture, we are finding everyday the necessity o
 This is my anthem: that as a girl who was timid and squirmed uncomfortably in her own body, I would grow to be a woman who would stand a little taller, a lot more confidently, and help remind others of their own beauty and value. There is a level of respect that comes from embracing yourself fully - a declaration that says, “You see this body? This skin? These dimples and stretch marks? They are mine and you cannot decide their value. That privilege is reserved for me and only me.”
 
 *Illustrations by [Larsen & Lund](http://www.larsenandlund.com/)*
+
+[CONNECT WITH CREATIVE, PURPOSE DRIVEN ENTREPRENEURS: BECOME A YELLOW MEMBER](https://yellowco.co/membership/)
