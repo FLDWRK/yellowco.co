@@ -21,6 +21,7 @@ tags:
 - sustainability
 - female founders
 author: Hanna Snyder
+image: "/uploads/Katie-Hunt-Morr.jpg"
 ---
 
 _As you may have seen, we recently launched a new, [12-month award series called the “Do-Good Dozen”](https://yellowcollective.lpages.co/do-good-dozen/) to honor women who are using their unique skills to create true change for good, all in different work spheres. We use the phrase “do-good” a lot here at Yellow, but it looks different for everyone! You don’t have to move across the country, you don’t even need to found a company. You can do good wherever you’re at, and we want to highlight trail-blazing women who have shown up to do just that. Our hope is to shed light on the many, many ways that “good” is needed and expressed in the world – in work and in life._
