@@ -75,3 +75,5 @@ Being disconnected with my body was an experience that really wounded me. Howeve
 I also had to think outside the box. I've always been a dancer, but I couldn't point my toes anymore! So, I decided to take African-based dances, which are mostly done with flat feet. I signed up for Afro-Caribbean, Afro-Brazilian, and West African dance classes. It was a way that I could reconnect with myself in a pretty low-stakes way. I wasn't trying to get back to my old routine (that would depress me); I was making a brand new one. Who cares if I didn't master Afro-Caribbean moves right away? I was totally new to it. I think trying a new thing during recovery is the key to building up confidence and curiosity again.
 
 _Images courtesy of [Mari Andrew](http://bymariandrew.com/)_
+
+[CONNECT WITH CREATIVE, PURPOSE DRIVEN ENTREPRENEURS: BECOME A YELLOW MEMBER](https://yellowco.co/membership/)
