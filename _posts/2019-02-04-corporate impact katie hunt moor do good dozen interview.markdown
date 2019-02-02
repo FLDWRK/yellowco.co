@@ -46,7 +46,7 @@ Corporations can move faster than government and with infinitely more resources 
 
 I went to visit a friend serving in Peace Corps in rural Tanzania, with no intention of starting an organization. I met two of the kids she was close to in her neighborhood - really sweet, smart kids who were going to have to drop out of school because they couldn’t pay the public school fees. We went to their local school and asked how much it would cost to keep them enrolled. I was prepared to pool money from my friends and family to make it happen. It turned out keeping them in school was going to be less than $35 – and adding new uniforms, detergent, and school supplies was under $75. I was shocked. We worked with the school to identify ten more kids who needed support and I went home to find ten people to give me $75. We didn’t plan on building a non-profit, but when it was so clear how many lives we could change, the choice was obvious. 
 
-### It’s still crazy to me that an amount less than many people spend on their morning coffee can be the difference between kids ending their education and reaching their full potential. 
+### It’s still crazy to me that an amount less than many people spend on their morning coffee can be the difference between kids ending their education or reaching their full potential. 
 
 ![12-89bcf8.jpeg](/uploads/12-89bcf8.jpeg)
 
