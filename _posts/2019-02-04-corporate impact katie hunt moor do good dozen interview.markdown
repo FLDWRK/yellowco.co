@@ -82,7 +82,7 @@ It took me a long time to learn that investing in the health of a team is the mo
 
 ### The dynamic between teammates can bring out the absolute best possibilities or block the true potential of their work. 
 
-Every person needs to feel valued and clear on their role within the team. People are fragile, and it’s important to fine tune the group of individuals coming together to work each day. 
+Every person needs to feel valued and clear on their role within the team. People are fragile, and it’s important to fine tune the dynamic of the group of individuals coming together to work each day. 
 
 ![Ulusaba2016_IMG_1232 (1)-1.jpg](/uploads/Ulusaba2016_IMG_1232%20(1)-1.jpg)
 
