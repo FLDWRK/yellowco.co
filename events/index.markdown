@@ -14,7 +14,7 @@ events:
 - title: The 6th Annual Los Angeles Yellow Conference
   location: Hudson Loft • Downtown Los Angeles, CA
   when: August 22nd & 23rd
-  url: "/2019"
+  url: https://yellowcollective.lpages.co/yellow-conference-2019/
 layout: custom/events
 ---
 
