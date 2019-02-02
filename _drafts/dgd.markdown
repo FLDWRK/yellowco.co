@@ -1,6 +1,6 @@
 ---
-title: 'Meet the Woman Using Corporate Impact to Solve Global Issues: Our Do-Good
-  Dozen Award Winner, Katie Hunt-Morr'
+title: 'Meet Our Next Do-Good Dozen Award Winner: Corporate Impact Strategist, Katie
+  Hunt-Moor'
 date: 2019-02-04 03:00:00 -08:00
 categories:
 - Entrepreneurs
@@ -37,7 +37,7 @@ At [Jiamini](https://jiamini.org/) we provide bright kids, likely to be left beh
  
 ###### What has working in corporate impact strategy shown you about our ability to make a difference in the world?
 
-### I truly believe that businesses are the key to solving humanity biggest problems. 
+### I truly believe that businesses are the key to solving humanity's biggest problems. 
 
 Corporations can move faster than government and with infinitely more resources than the non-profit sector. It’s been incredible to watch, and support, the rise of social enterprises over the course of my career. Most new entrepreneurs are thinking about their impact – both positive and negative – from their company’s genesis. By making a triple bottom line their measurement of success from day one, they have incredible potential to have a positive impact, attract customers, and shift competitors. I love seeing businesses taking social enterprise thinking to a larger scale, seeking not just to be net-neutral and make a profit, but to make a profit addressing some of the world’s most intractable problems. 
 
