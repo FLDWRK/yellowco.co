@@ -1,6 +1,6 @@
 ---
-title: 'Meet Our Next Do-Good Dozen Award Winner: Corporate Impact Strategist, Katie
-  Hunt-Moor'
+title: 'Creating Global Change with Corporate Impact: Meet Our Next Do-Good Dozen
+  Award Winner, Katie Hunt-Moor'
 date: 2019-02-04 03:00:00 -08:00
 categories:
 - Entrepreneurs
