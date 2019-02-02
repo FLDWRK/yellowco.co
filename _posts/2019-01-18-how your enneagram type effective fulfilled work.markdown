@@ -196,3 +196,5 @@ If you don’t know your Enneagram number and want to learn more, I suggest clic
 I hope this year brings more "ah-ha" moments into your life, as you learn how to navigate the depths of your personality and show up as your best and most authentic self at work.
 
 _Illustrations by [Drop Cap Design](http://dropcapdesign.com/)_
+
+[CONNECT WITH CREATIVE, PURPOSE DRIVEN ENTREPRENEURS: BECOME A YELLOW MEMBER](https://yellowco.co/membership/)
