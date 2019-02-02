@@ -77,3 +77,5 @@ If the Mediterranean Diet doesn’t sound like it’s for you, that’s totally 
 ### The best diet is the one that serves your body and makes you feel your best. 
 
 Not what the latest blogger is doing or what your friends keep posting on Facebook. If Paleo works for you and you love it - go for it! But don’t do it because it’s trendy and you think you "should". Today’s diet and wellness craze is at an all-time high. And that’s both good and bad. It can be an incredible tool for health change, but it can also bring a lot of stress and shame and fear. So listen to your inner voice, your body, and consider working with a health expert who can help you feel amazing in your body.
+
+[CONNECT WITH CREATIVE, PURPOSE DRIVEN ENTREPRENEURS: BECOME A YELLOW MEMBER](https://yellowco.co/membership/)
