@@ -40,7 +40,7 @@ Saying no to plastic is a great place to start when switching to safer products.
 
 #### Switch from plastic food storage to glass food storage. 
 
-This is a big one because food can sit in plastic for days on end, creating an environment for chemicals to leach into your food and eventually your body. Not only will your food stay fresh longer, but you can freeze in it, microwave in it and not worry about any chemical invasions during the intense heat of the dishwasher. Run to your nearest discount store to find a set on sale or do a quick [Amazon Prime search](https://www.amazon.com/dp/B06XJKYS83/ref=as_li_ss_tl?&ascsub&ref=exp_influencer-fb435596_lv_dp_vv_d&linkCode=sl1&tag=deto06-20&linkId=cfe8a5cd848dc5aa2ac3d7a5e29327f9&language=en_US) and you’ll be ready to go. Pro tip: save glass jars from food you are eating (like pasta sauce, pickles, coconut oil, etc.), wash them, and reuse them for food storage.
+This is a big one because food can sit in plastic for days on end, creating an environment for chemicals to leach into your food and eventually your body. Not only will your food stay fresh longer, but you can freeze in it, microwave in it and not worry about any chemical invasions during the intense heat of the dishwasher. Run to your nearest discount store to find a set on sale or do a quick [Amazon search](https://www.amazon.com/dp/B06XJKYS83/ref=as_li_ss_tl?&ascsub&ref=exp_influencer-fb435596_lv_dp_vv_d&linkCode=sl1&tag=deto06-20&linkId=cfe8a5cd848dc5aa2ac3d7a5e29327f9&language=en_US) and you’ll be ready to go. Pro tip: save glass jars from food you are eating (like pasta sauce, pickles, coconut oil, etc.), wash them, and reuse them for food storage.
 
 #### Ditch the plastic bags. 
 
@@ -54,7 +54,7 @@ While this is so tempting to use because of ease, I challenge you to not repurch
 
 #### Go reusable for liquids. 
 
-Think water, coffee, tea, matcha, smoothies etc. Not only is this more convenient for on-the-go liquids, but you will be surprised at how often you grab for plastic or single-use cups that are full of chemicals and harm our planet. My favorite go-to for water is a [S’well Bottle](https://www.swellbottle.com/), and for an on the go hot beverage mug: [Byta](https://mybyta.com/). Remember those glass jars I mentioned reusing above? I use these for smoothies daily.
+Think water, coffee, tea, matcha, smoothies etc. Not only is this more convenient for on-the-go liquids, but you will be surprised at how often you grab for plastic or single-use cups that are full of chemicals and harm our planet. My favorite go-to for water is a [S’well Bottle](https://www.amazon.com/Swell-Vacuum-Insulated-Stainless-Supernova/dp/B00PUIIDBU/ref=as_li_ss_tl?s=home-garden&ie=UTF8&qid=1549166504&sr=1-4&keywords=swell%2Bbottle&linkCode=sl1&tag=deto06-20&linkId=0e904e4d325086fded6df0fdfc66465d&language=en_US&th=1), and for an on the go hot beverage mug: [Byta](https://mybyta.com/). Remember those glass jars I mentioned reusing above? I use these for smoothies daily.
 
 #### Switch to [stainless steel straws](https://www.amazon.com/Stainless-Drinking-Tumblers-Cleaning-Included/dp/B019YJT918/ref=as_li_ss_tl?ie=UTF8&qid=1549166589&sr=8-5&keywords=stainless+steel+straws&linkCode=sl1&tag=deto06-20&linkId=634b91590ac79139ad41a6f96263a8c9&language=en_US). 
 
