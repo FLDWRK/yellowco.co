@@ -22,17 +22,28 @@ While it might seem that good coffee shops, art galleries, and high rise condos 
 
 In a situation that feels so big, it’s easy to feel powerless. As a 30-something white woman living in a majority Hispanic community, I have to consider how my presence in my neighborhood affects my community.  I have found 6 practical and thoughtful tips to engage in this in my neighborhood:
 
-Acknowledge your privilege
+#### Acknowledge your privilege.
+
 If you can pay rent or buy a house in a neighborhood post-gentrification, are able to enjoy its amenities, and are not somebody that other people want out of their community because of your physical appearance or identify, you have privilege that many of your neighbors do not have.
-Get to know your neighborhood history and culture
+
+#### Get to know your neighborhood history and culture.
+
 Oftentimes, people move to neighborhoods for their culture, history, architecture, and availability of low-cost housing. Neighborhoods have a rich tapestry of history and culture, but without really learning about it, you could end up replacing a vibrant community with a superficial version of what it means to you.
-Listen to the voices of your neighbors, and don’t speak for them
+
+#### Listen to the voices of your neighbors, and don’t speak for them.
+
 If there is one thing that’s become increasingly apparent in the last few years, it is that being a “voice for the voiceless and the oppressed” actually marginalises and erases voices that need to be heard. Get to know your neighbors, join a neighborhood group, and step aside for them to speak and to lead (remember tip one on privilege).
-Let yourself be uncomfortable
+
+#### Let yourself be uncomfortable.
+
 Most, if not all, of our world is designed to make us comfortable. But the anger or frustration that your neighbors feel about their changing neighborhoods is based in lived experience that you might benefit from. Be sensitive and allow yourself to feel the discomfort.
-Invest in community-focused and community-run organizations
+
+#### Invest in community-focused and community-run organizations.
+
 If you want to invest your money or time into your neighborhood (you do! It’s the best!), make sure you are giving directly to the community and following their lead. Communities know who they are, how they do things, and what they need better than anyone else (including you!). And they should have the power to direct these efforts. 
-Question tactics and measures that address community “safety”
+
+#### Question tactics and measures that address community “safety”.
+
 One of the strongest data points for indicators of gentrification and displacement is increased 911 calls. It’s not necessarily that neighborhoods are more dangerous, it’s that newcomers (often white, often middle or high-income) see signs of danger or nuisance when others see their neighbors. In every community I work in, residents of all ages, backgrounds and creeds want a safe community. But safety means different things to different groups. 
 
 It’s easy to be overwhelmed with the reality of gentrification, but this isn’t a call to shame or guilt. We have the opportunity to align our choices with our values and vision for the world we want to live in. 
