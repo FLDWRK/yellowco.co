@@ -6,11 +6,6 @@ categories:
 author: Jenna Tourje
 ---
 
-YellowCo Blog 
-Gentrification/ Displacement (500-1000 words)
-
-Takeaway for readers - What is gentrification/displacement, why should I care, and what can I do about it?
-
 At the end of my street is a tiny German/Mexican eatery that serves a combination of tacos and bratwurst with differing results. When it opened it replaced a dingy taco place that had not changed its recipes since the 1950’s. The first weekend the new establishment opened, my sister and I sat at the bar with an older Hispanic man and his son who had walked over from the nearby apartments. We paid $10 each for a drink. We chatted a bit, drank our beer, and considered the overpriced tacos. It didn’t take long to realize that this new establishment in our neighborhood wasn’t built for its neighbors. 
 
 I’ve shared this story with friends, and we’ve listed off other things we’ve noticed on our block - the delicious pizza place that took over an abandoned auto garage, the scattering of densely-built townhomes replacing worn apartment buildings, and rent increases that almost double to what we had paid a couple years earlier. We fear that our neighborhood will change beyond recognition. We fear that those in our communities most vulnerable to change will suffer because of it. We talk about the big ideas of gentrification and displacement and at some point reality feels too big and we feel powerless. 
