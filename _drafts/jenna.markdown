@@ -16,11 +16,15 @@ As an urban planner, I work with communities across the United States to design 
 
 ### It’s difficult enough to define gentrification, let alone find the tools to prevent it. 
 
+img
+
 The reality is sometimes it is not big, bad corporations moving into a neighborhood, or careless landlords kicking low-income and minority families out of their homes. More often than not, it’s policies put into place decades ago that allow for changing development patterns, dramatically rising housing costs, and a lack of affordable housing and strong neighborhood institutions.
 
 ### What we do know is that gentrification and displacement disproportionately impact communities of color. 
 
 As planners and academics, we look at early predictors of gentrification documented in neighborhoods all over North America - in San Francisco, Brooklyn, Charleston, and Echo Park (to name a few). These predictors rely on big data that is not always accurate or up-to-date, and include the percentage of low-income residents, non-college educated adults, renters, rental prices rising higher than county rates, and access to a train station. But big data doesn’t always predict future trends. 
+
+img
 
 ### While it might seem that good coffee shops, art galleries, and high-rise condos signal coming gentrification, the wheels of displacement happened long before we see the signs in our communities. 
 
@@ -37,6 +41,8 @@ Oftentimes, people move to neighborhoods for their culture, history, architectur
 #### Listen to the voices of your neighbors, and don’t speak for them.
 
 If there is one thing that’s become increasingly apparent in the last few years, it is that being a “voice for the voiceless and the oppressed” actually marginalizes and erases voices that need to be heard. Get to know your neighbors, join a neighborhood group, and step aside for them to speak and to lead (remember tip one on privilege).
+
+img
 
 #### Let yourself be uncomfortable.
 
