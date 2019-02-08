@@ -1,6 +1,9 @@
 ---
 title: jenna
-date: 2019-02-08 10:45:00 -08:00
+date: 2019-02-11 04:00:00 -08:00
+categories:
+- Culture
+author: Jenna Tourje
 ---
 
 YellowCo Blog 
