@@ -4,6 +4,7 @@ date: 2019-02-11 04:00:00 -08:00
 categories:
 - Culture
 author: Jenna Tourje
+image: "/uploads/lauren-fleischmann-579983-unsplash%20(1)-1.jpg"
 ---
 
 At the end of my street is a tiny German/Mexican eatery that serves a combination of tacos and bratwurst with differing results. When it opened, it replaced a dingy taco place that had not changed its recipes since the 1950s. The first weekend the new establishment opened, my sister and I sat at the bar with an older Hispanic man and his son who had walked over from the nearby apartments. We paid $10 each for a drink. We chatted a bit, drank our beer, and considered the overpriced tacos. It didn’t take long to realize that this new establishment in our neighborhood wasn’t built for its neighbors. 
@@ -16,7 +17,7 @@ As an urban planner, I work with communities across the United States to design 
 
 ### It’s difficult enough to define gentrification, let alone find the tools to prevent it. 
 
-img
+![flipboard-650186-unsplash (1)-1.jpg](/uploads/flipboard-650186-unsplash%20(1)-1.jpg)
 
 The reality is sometimes it is not big, bad corporations moving into a neighborhood, or careless landlords kicking low-income and minority families out of their homes. More often than not, it’s policies put into place decades ago that allow for changing development patterns, dramatically rising housing costs, and a lack of affordable housing and strong neighborhood institutions.
 
@@ -24,7 +25,7 @@ The reality is sometimes it is not big, bad corporations moving into a neighborh
 
 As planners and academics, we look at early predictors of gentrification documented in neighborhoods all over North America - in San Francisco, Brooklyn, Charleston, and Echo Park (to name a few). These predictors rely on big data that is not always accurate or up-to-date, and include the percentage of low-income residents, non-college educated adults, renters, rental prices rising higher than county rates, and access to a train station. But big data doesn’t always predict future trends. 
 
-img
+![kyle-ryan-1135780-unsplash (1)-1.jpg](/uploads/kyle-ryan-1135780-unsplash%20(1)-1.jpg)
 
 ### While it might seem that good coffee shops, art galleries, and high-rise condos signal coming gentrification, the wheels of displacement happened long before we see the signs in our communities. 
 
@@ -42,7 +43,7 @@ Oftentimes, people move to neighborhoods for their culture, history, architectur
 
 If there is one thing that’s become increasingly apparent in the last few years, it is that being a “voice for the voiceless and the oppressed” actually marginalizes and erases voices that need to be heard. Get to know your neighbors, join a neighborhood group, and step aside for them to speak and to lead (remember tip one on privilege).
 
-img
+![robin-benzrihem-545317-unsplash (1)-1.jpg](/uploads/robin-benzrihem-545317-unsplash%20(1)-1.jpg)
 
 #### Let yourself be uncomfortable.
 
