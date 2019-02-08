@@ -30,9 +30,9 @@ img
 
 As in my neighborhood, once we notice neighborhood change, we are often a decade too late to stop it. In a situation that feels so big, it’s easy to feel powerless. As a 30-something White woman living in a majority Hispanic community, I have to consider how my presence in my neighborhood affects my community. I have found six practical and thoughtful tips to engage in this in my neighborhood:
 
-#### Acknowledge your privilege.
+#### Acknowledge any privilege.
 
-If you can pay rent or buy a house in a neighborhood post-gentrification, are able to enjoy its amenities, and are not someone that other people want out of their community because of your physical appearance or identity, you have privilege that many of your neighbors do not have.
+If you can pay rent or buy a house in a neighborhood post-gentrification, are able to enjoy its amenities, or are not typically judged negatively by others based on your physical appearance or identity, you have privilege that many of your neighbors may not have.
 
 #### Get to know your neighborhood history and culture.
 
