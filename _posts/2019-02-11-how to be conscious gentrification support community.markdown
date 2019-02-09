@@ -1,6 +1,6 @@
 ---
 title: How to Be Conscious of Gentrification and Support the Community You’re In
-date: 2019-02-11 04:00:00 -08:00
+date: 2019-02-11 03:00:00 -08:00
 categories:
 - Culture
 tags:
