@@ -1,5 +1,5 @@
 ---
-title: jenna
+title: How to Be Conscious of Gentrification and Support the Community You’re In
 date: 2019-02-11 04:00:00 -08:00
 categories:
 - Culture
@@ -21,13 +21,13 @@ As an urban planner, I work with communities across the United States to design 
 
 The reality is sometimes it is not big, bad corporations moving into a neighborhood, or careless landlords kicking low-income and minority families out of their homes. More often than not, it’s policies put into place decades ago that allow for changing development patterns, dramatically rising housing costs, and a lack of affordable housing and strong neighborhood institutions.
 
-### What we do know is that gentrification and displacement disproportionately impact communities of color. 
+### What we do know is that gentrification and displacement disproportionately impacts communities of color. 
 
 As planners and academics, we look at early predictors of gentrification documented in neighborhoods all over North America - in San Francisco, Brooklyn, Charleston, and Echo Park (to name a few). These predictors rely on big data that is not always accurate or up-to-date, and include the percentage of low-income residents, non-college educated adults, renters, rental prices rising higher than county rates, and access to a train station. But big data doesn’t always predict future trends. 
 
 ![kyle-ryan-1135780-unsplash (1)-1.jpg](/uploads/kyle-ryan-1135780-unsplash%20(1)-1.jpg)
 
-### While it might seem that good coffee shops, art galleries, and high-rise condos signal coming gentrification, the wheels of displacement happened long before we see the signs in our communities. 
+### While it might seem that luxury coffee shops, art galleries, and high-rise condos signal coming gentrification, the wheels of displacement happened long before we see the signs in our communities. 
 
 As in my neighborhood, once we notice neighborhood change, we are often a decade too late to stop it. In a situation that feels so big, it’s easy to feel powerless. As a 30-something White woman living in a majority Hispanic community, I have to consider how my presence in my neighborhood affects my community. I have found six practical and thoughtful tips to engage in this in my neighborhood:
 
@@ -47,7 +47,7 @@ If there is one thing that’s become increasingly apparent in the last few year
 
 #### Let yourself be uncomfortable.
 
-Most, if not all, of our world is designed to make us comfortable. But the anger or frustration that your neighbors feel about their changing neighborhoods is based on lived experience that you might benefit from. Be sensitive and allow yourself to feel the discomfort.
+Most, if not all, of our world is designed to make us comfortable. But the anger or frustration that your neighbors feel about their changing neighborhoods is based on their lived experience. Be sensitive and allow yourself to feel the discomfort.
 
 #### Invest in community-focused and community-run organizations.
 
@@ -55,6 +55,6 @@ If you want to invest your money or time into your neighborhood (And you should!
 
 #### Question tactics and measures that address community “safety”.
 
-One of the strongest data points for indicators of gentrification and displacement is increased 911 calls. It’s not necessarily that neighborhoods are more dangerous, it’s that newcomers (often White, and/or often middle or high-income) see signs of danger or nuisance, while others just see their neighbors. In every community I work in, residents of all ages, backgrounds, and creeds want a safe community. But safety means different things to different groups. 
+One of the strongest data points for indicators of gentrification and displacement is increased 911 calls. It’s not necessarily that the neighborhood had become more dangerous, it’s that newcomers (often White, and/or often middle or high-income) see signs of danger or nuisance, while others just see their neighbors. In every community I work in, residents of all ages, backgrounds, and creeds want a safe community. But "safety" can mean different things to different groups of people. 
 
 It’s easy to be overwhelmed with the reality of gentrification, but this isn’t a call to shame or guilt. We have the opportunity to align our choices with our values and vision for the world we want to live in.
