@@ -3,6 +3,18 @@ title: How to Be Conscious of Gentrification and Support the Community You’re 
 date: 2019-02-11 04:00:00 -08:00
 categories:
 - Culture
+tags:
+- community
+- gentrification
+- conscious of gentrification
+- neighborhood
+- displacement
+- culture
+- city culture
+- urban culture
+- support community
+- what to do gentrification
+- rising rent
 author: Jenna Tourje
 image: "/uploads/lauren-fleischmann-579983-unsplash%20(1)-1.jpg"
 ---
