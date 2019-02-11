@@ -21,7 +21,7 @@ When I returned home, I couldn’t find propolis anywhere, so I began apprentici
 
 In just a few short years, this little start-up has flourished beyond what I ever imagined. I was even recognized as one of Forbes' [30 Under 30 entrepreneurs](https://www.forbes.com/profile/carly-stein/?list=30under30-food-drink#2c33414f645c) for 2019 — it’s unreal!      
 
-img
+[IMG_1759 (1).JPG](/uploads/IMG_1759%20(1).JPG)
 
 ###### For any who don’t know, what other substances do bees produce besides honey? What benefits are found in them?
 
@@ -41,7 +41,7 @@ Incorporating propolis into my routine has _radically_ changed my immune system.
 
 Royal jelly is also a powerhouse healer (and my lifesaver for helping me to stay in the zone). I work a lot and am constantly traveling and changing time zones. The royal jelly and adaptogens in B.LXR help me to beat the jet lag and stay sharp without excessive amounts of caffeine. Lots of our customers use it for memory support, too.   
 
-img
+![100A1815.jpg](/uploads/100A1815.jpg)
 
 ###### From bee pollen to royal jelly, you have quite a variety of products - all with varying benefits! For anyone who has never tried bee products (other than standard honey) before, how should they determine what to try first?
 
@@ -51,7 +51,7 @@ It really depends on what they are looking for. For brain health, memory, focus,
 
 One of our core values at BKN is sustainability. Getting [B. Corp](https://bcorporation.net/) certified was natural for us since we were already most of the way there. For instance, one of our biggest missions is to ensure that bees have access to clean foraging grounds far away from harmful pesticides, which is why all of our harvested ingredients and products undergo third party pesticide testing. This is a big deal. This testing allows us to ensure that there are no nasty pesticides getting into our hives and harming our bees — and definitely no nasty residual chemicals getting into our products. It’s a win for everybody.  
 
-img        
+![100A7399.jpg](/uploads/100A7399.jpg)       
 
 ###### What are some of your favorite recipes to add your products to?
 
@@ -67,7 +67,7 @@ img
 
 That’s why practicing sustainable beekeeping is so important to us, and it means putting the needs of the bees first. We take every precaution to keep our bees away from pesticides and give them access to plenty of clean foraging grounds. We take it a step further by partnering with leading research organizations like UC Davis Bee Research Facility and the Canadian Bee Research Fund to raise awareness. We even donate a portion of the profits from our Save the Bees apparel line towards bee research.          
 
-img
+![100A8730.jpg](/uploads/100A8730.jpg)
 
 ###### What are a few tangible ways we can help save the bees?
 
@@ -79,7 +79,7 @@ I love this question! When it comes down to it, saving the bees may seem like an
 
 **3. Spread the word.** One of the most important things you can do is to educate others. The bees can’t advocate for themselves, so we have to do it for them. Get your friends and family to plant bee gardens so that clean bee habitats continue to grow in your neighborhood.      
 
-img
+![Carly holding honey.jpg](/uploads/Carly%20holding%20honey.jpg)
 
 ###### What is your hope for the future of the wellness sphere?
 
