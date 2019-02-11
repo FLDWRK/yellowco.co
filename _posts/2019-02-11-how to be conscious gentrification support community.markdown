@@ -41,7 +41,7 @@ As planners and academics, we look at early predictors of gentrification documen
 
 ### While it might seem that luxury coffee shops, art galleries, and high-rise condos signal coming gentrification, the wheels of displacement happened long before we see the signs in our communities. 
 
-As in my neighborhood, once we notice neighborhood change, we are often a decade too late to stop it. In a situation that feels so big, it’s easy to feel powerless. As a 30-something White woman living in a majority Hispanic community, I have to consider how my presence in my neighborhood affects my community. I have found six practical and thoughtful tips to engage in this in my neighborhood:
+As in my neighborhood, once we notice neighborhood change, we are often a decade too late to stop it. In a situation that feels so big, it’s easy to feel powerless. As a 30-something white woman living in a majority Hispanic community, I have to consider how my presence in my neighborhood affects my community. I have found six practical and thoughtful tips to engage in this in my neighborhood:
 
 #### Acknowledge any privilege.
 
@@ -67,6 +67,6 @@ If you want to invest your money or time into your neighborhood (And you should!
 
 #### Question tactics and measures that address community “safety”.
 
-One of the strongest data points for indicators of gentrification and displacement is increased 911 calls. It’s not necessarily that the neighborhood had become more dangerous, it’s that newcomers (often White, and/or often middle or high-income) see signs of danger or nuisance, while others just see their neighbors. In every community I work in, residents of all ages, backgrounds, and creeds want a safe community. But "safety" can mean different things to different groups of people. 
+One of the strongest data points for indicators of gentrification and displacement is increased 911 calls. It’s not necessarily that the neighborhood had become more dangerous, it’s that newcomers (often white, and/or often middle or high-income) see signs of danger or nuisance, while others just see their neighbors. In every community I work in, residents of all ages, backgrounds, and creeds want a safe community. But "safety" can mean different things to different groups of people. 
 
 It’s easy to be overwhelmed with the reality of gentrification, but this isn’t a call to shame or guilt. We have the opportunity to align our choices with our values and vision for the world we want to live in.
