@@ -6,6 +6,7 @@ categories:
 author: Hanna Snyder
 ---
 
+_intro_
 
 ###### You have a bit of a wild story behind what first introduced you to the benefits of bee products. Can you share about this story, and how it then fueled you to start Beekeepers Naturals?  
 
@@ -29,7 +30,7 @@ And of course bee pollen is the bees’ main source of protein. It actually cont
 
 ###### How have you seen bee products impact your health and the health of others?
 
-Incorporating propolis into my routine has radically changed my immune system. I used to get terrible winter colds and struggle with chronic strep throat and tonsillitis. These days, I almost never get sick. I use propolis daily to support my body, especially during cold and flu season, while traveling, or when I am under a lot of stress. With our Propolis Throat Spray, I’ve seen propolis help so many customers to recover and reduce their frequency of getting sick.    
+Incorporating propolis into my routine has _radically_ changed my immune system. I used to get terrible winter colds and struggle with chronic strep throat and tonsillitis. These days, I almost never get sick. I use propolis daily to support my body, especially during cold and flu season, while traveling, or when I am under a lot of stress. With our Propolis Throat Spray, I’ve seen propolis help so many customers to recover and reduce their frequency of getting sick.    
 
 Royal jelly is also a powerhouse healer (and my lifesaver for helping me to stay in the zone). I work a lot and am constantly traveling and changing time zones. The royal jelly and adaptogens in B.LXR help me to beat the jet lag and stay sharp without excessive amounts of caffeine. Lots of our customers use it for memory support, too.   
 
@@ -43,9 +44,11 @@ One of our core values at BKN is sustainability. Getting B. Corp certified was n
 
 ###### What are some of your favorite recipes to add your products to?
 
-*I legit sprinkle bee pollen over every smoothie for an extra burst of nutrients. (I’m a bit obsessed.)   
-*B.Powered works great for making salad dressings—with olive oil, fresh herbs, garlic, and a little vinegar.    
-*I don’t use refined sugars, so honey is my go to sweetener for all baking. I especially love making a healthy chocolate mousse out of whipped avocados and our Superfood Cacao Honey—it’s so good!      
+- I legit sprinkle bee pollen over every smoothie for an extra burst of nutrients. (I’m a bit obsessed.)   
+
+- B.Powered works great for making salad dressings—with olive oil, fresh herbs, garlic, and a little vinegar.    
+
+- I don’t use refined sugars, so honey is my go to sweetener for all baking. I especially love making a healthy chocolate mousse out of whipped avocados and our Superfood Cacao Honey—it’s so good!      
 
 ###### You value sustainability very highly – not only in your beekeeping practices, but through your partnerships to help save bees from the drastic decrease in bee colonies. Can you share a bit about this issue, and how Beekeeper’s is taking action to help?
 
@@ -55,11 +58,11 @@ Bees play such a valuable role in our ecosystem (they pollinate ⅓ of our globa
 
 I love this question! When it comes down to it, saving the bees may seem like an overwhelming task, but it actually only requires a few small, actionable steps on your part:   
 
-No. 1 Avoid pesticides. Don’t spray pesticides on your lawn—support organic or local pesticide-free growers as often as possible. A lot of people don’t realize that what they buy at the grocery store really matters. To support bees, that means buying organic and pesticide-free as often as you can, buying raw honey products, and looking for brands that prioritize sustainability. 
+**1. Avoid pesticides.** Don’t spray pesticides on your lawn—support organic or local pesticide-free growers as often as possible. A lot of people don’t realize that what they buy at the grocery store really matters. To support bees, that means buying organic and pesticide-free as often as you can, buying raw honey products, and looking for brands that prioritize sustainability. 
 
-No. 2 Plant flowers. Make sure your local bees have access to clean, nourishing food by planting a bee garden. Design a garden (even in a window box) with year-round blooms so your local bees have good stuff to eat all three seasons. It’s also helpful to create a little bee bath (like a mini version of a bird bath with a little landing rock in the center) so they have access to fresh water, too.       
+**2. Plant flowers.** Make sure your local bees have access to clean, nourishing food by planting a bee garden. Design a garden (even in a window box) with year-round blooms so your local bees have good stuff to eat all three seasons. It’s also helpful to create a little bee bath (like a mini version of a bird bath with a little landing rock in the center) so they have access to fresh water, too.       
 
-No. 3 Spread the word. One of the most important things you can do is educate. The bees can’t advocate for themselves, so we have to do it for them. Get your friends and family to plant bee gardens so that clean bee habitat continues to grow in your neighborhood.      
+**3. Spread the word.** One of the most important things you can do is educate. The bees can’t advocate for themselves, so we have to do it for them. Get your friends and family to plant bee gardens so that clean bee habitat continues to grow in your neighborhood.      
 
 ###### What is your hope for the future of the wellness space/industry?
 
