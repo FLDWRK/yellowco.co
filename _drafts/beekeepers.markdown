@@ -20,6 +20,8 @@ When I returned home, I couldn’t find propolis anywhere, so I began apprentici
 
 In just a few short years, this little start-up has flourished beyond what I ever imagined. I was even recognized as one of Forbes' [30 Under 30 entrepreneurs](https://www.forbes.com/profile/carly-stein/?list=30under30-food-drink#2c33414f645c) for 2019 — it’s unreal!      
 
+img
+
 ###### For any who don’t know, what other substances do bees produce besides honey? What benefits are found in them?
 
 Bees produce so much beyond honey! For one there’s propolis, which is an antioxidant-rich substance made from plant and tree resins, which function as the immune system of the hive. It contains over 300 beneficial compounds and helps to reduce inflammation and support immune function (in humans and bees alike). I take it daily to support immune health and digestion, but it’s especially effective when recovering from a cold or sore throat.   
@@ -38,13 +40,17 @@ Incorporating propolis into my routine has _radically_ changed my immune system.
 
 Royal jelly is also a powerhouse healer (and my lifesaver for helping me to stay in the zone). I work a lot and am constantly traveling and changing time zones. The royal jelly and adaptogens in B.LXR help me to beat the jet lag and stay sharp without excessive amounts of caffeine. Lots of our customers use it for memory support, too.   
 
+img
+
 ###### From bee pollen to royal jelly, you have quite a variety of products - all with varying benefits! For anyone who has never tried bee products (other than standard honey) before, how should they determine what to try first?
 
-It really depends on what they are looking for. For brain health, memory, focus, and productivity support, I recommend our royal jelly brain fuel, [B.LXR](https://beekeepersnaturals.com/collections/all/products/b-lxr). For all natural immune support, definitely go for the [propolis](https://beekeepersnaturals.com/collections/all/products/propolis-spray). If you’re looking for a pre-workout protein and nutrient boost, [bee pollen](https://beekeepersnaturals.com/collections/all/products/bee-pollen) is your perfect snack. For sleep support and anxiety, raw honey has impressive natural calming properties, which we pair with hemp extract in our [B.Chill Honey](https://beekeepersnaturals.com/collections/all/products/b-chill). For beautifying and all-around energy, I recommend our hive superfood complex, [B.Powered](https://beekeepersnaturals.com/collections/all/products/b-powered), since it contains a powerful blend of all the foods of the hive (and it makes an amazing face mask).     
+It really depends on what they are looking for. For brain health, memory, focus, and productivity support, I recommend our royal jelly brain fuel, [B.LXR](https://beekeepersnaturals.com/collections/all/products/b-lxr). For all natural immune support, definitely go for the [propolis](https://beekeepersnaturals.com/collections/all/products/propolis-spray). If you’re looking for a pre-workout protein and nutrient boost, [bee pollen](https://beekeepersnaturals.com/collections/all/products/bee-pollen) is your perfect snack. For sleep support and anxiety, raw honey has impressive natural calming properties, which we pair with hemp extract in our [B.Chill Honey](https://beekeepersnaturals.com/collections/all/products/b-chill). For beautifying and all-around energy, I recommend our hive superfood complex, [B.Powered](https://beekeepersnaturals.com/collections/all/products/b-powered), since it contains a powerful blend of all the foods of the hive (and it makes an amazing face mask).   
 
 ###### You’ve made it a priority for Beekeepers to meet the rigorous standards of being a certified [B-Corporation](https://bcorporation.net/). Was it a difficult process to implement the practices required to be held to that level?
 
-One of our core values at BKN is sustainability. Getting [B. Corp](https://bcorporation.net/) certified was natural for us since we were already most of the way there. For instance, one of our biggest missions is to ensure that bees have access to clean foraging grounds far away from harmful pesticides, which is why all of our harvested ingredients and products undergo third party pesticide testing. This is a big deal. This testing allows us to ensure that there are no nasty pesticides getting into our hives and harming our bees — and definitely no nasty residual chemicals getting into our products. It’s a win for everybody.        
+One of our core values at BKN is sustainability. Getting [B. Corp](https://bcorporation.net/) certified was natural for us since we were already most of the way there. For instance, one of our biggest missions is to ensure that bees have access to clean foraging grounds far away from harmful pesticides, which is why all of our harvested ingredients and products undergo third party pesticide testing. This is a big deal. This testing allows us to ensure that there are no nasty pesticides getting into our hives and harming our bees — and definitely no nasty residual chemicals getting into our products. It’s a win for everybody.  
+
+img        
 
 ###### What are some of your favorite recipes to add your products to?
 
@@ -52,13 +58,15 @@ One of our core values at BKN is sustainability. Getting [B. Corp](https://bcorp
 
 - Our B.Powered honey works great for making salad dressings with olive oil, fresh herbs, garlic, and a little vinegar.    
 
-- I don’t use refined sugars, so honey is my go-to sweetener for all baking. I especially love making a healthy chocolate mousse out of whipped avocados and our Superfood Cacao Honey — it’s so good!      
+- I don’t use refined sugars, so honey is my go-to sweetener for all baking. I especially love making a healthy chocolate mousse out of whipped avocados and our Superfood Cacao Honey — it’s so good!  
 
 ###### You value sustainability very highly – not only in your beekeeping practices, but through your partnerships to help save bees from the drastic decrease in bee colonies. Can you share a bit about this issue, and how Beekeeper’s is taking action to help?
 
 ### Bees play such a valuable role in our ecosystem – they pollinate ⅓ of our global food supply! 
 
 That’s why practicing sustainable beekeeping is so important to us, and it means putting the needs of the bees first. We take every precaution to keep our bees away from pesticides and give them access to plenty of clean foraging grounds. We take it a step further by partnering with leading research organizations like UC Davis Bee Research Facility and the Canadian Bee Research Fund to raise awareness. We even donate a portion of the profits from our Save the Bees apparel line towards bee research.          
+
+img
 
 ###### What are a few tangible ways we can help save the bees?
 
@@ -69,6 +77,8 @@ I love this question! When it comes down to it, saving the bees may seem like an
 **2. Plant flowers.** Make sure your local bees have access to clean, nourishing food by planting a bee garden. Design a garden (even in a window box) with year-round blooms so your local bees have good stuff to eat all three seasons. It’s also helpful to create a little bee bath (like a mini version of a bird bath with a little landing rock in the center) so they have access to fresh water, too.       
 
 **3. Spread the word.** One of the most important things you can do is to educate others. The bees can’t advocate for themselves, so we have to do it for them. Get your friends and family to plant bee gardens so that clean bee habitats continue to grow in your neighborhood.      
+
+img
 
 ###### What is your hope for the future of the wellness sphere?
 
