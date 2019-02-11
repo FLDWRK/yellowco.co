@@ -18,7 +18,7 @@ When I returned home, I couldn’t find propolis anywhere, so I began apprentici
  
 ### I never intended to start a business, I just wanted to support the bees and help people like me heal – so it all grew out of a very organic place. 
 
-In just a few short years, this little start-up has flourished beyond what I ever imagined. I was even recognized as one of Forbes 30 Under 30 entrepreneurs for 2019—it’s unreal!      
+In just a few short years, this little start-up has flourished beyond what I ever imagined. I was even recognized as one of Forbes' [30 Under 30 entrepreneurs](https://www.forbes.com/profile/carly-stein/?list=30under30-food-drink#2c33414f645c) for 2019 — it’s unreal!      
 
 ###### For any who don’t know, what other substances do bees produce besides honey? What benefits are found in them?
 
