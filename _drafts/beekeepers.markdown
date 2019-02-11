@@ -4,6 +4,7 @@ date: 2019-02-13 03:00:00 -08:00
 categories:
 - Conscious Living
 author: Hanna Snyder
+image: "/uploads/100A6209.jpg"
 ---
 
 _intro_
