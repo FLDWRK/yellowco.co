@@ -13,7 +13,7 @@ Smaller companies, like Sun & Swell Foods are constantly looking to innovate. Ka
  
 #### 2. Benchmark 
 
-How can smaller companies (likely without a social responsibility department) build an equally robust and thoughtful business? Like Sun & Swell, the B Impact Assessment designed by B Lab, can be a great way for a business to assess, benchmark and set goals. Oftentimes, it is challenging to know where your blind spots are in a business. That’s why the assessment holistically addresses five key areas: workers, governance, customers, community and environment. Once you have assessed all the areas, you will have a more thorough understanding of where you can improve to build a stronger, more sustainable company. 
+How can smaller companies (likely without a social responsibility department) build an equally robust and thoughtful business? Like Sun & Swell, the [B Impact Assessment](https://bimpactassessment.net/) designed by B Lab, can be a great way for a business to assess, benchmark and set goals. Oftentimes, it is challenging to know where your blind spots are in a business. That’s why the assessment holistically addresses five key areas: _workers, governance, customers, community and environment._ Once you have assessed all the areas, you will have a more thorough understanding of where you can improve to build a stronger, more sustainable company. 
 
 #### 3. Create 
  
