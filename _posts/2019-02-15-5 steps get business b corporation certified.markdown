@@ -1,6 +1,5 @@
 ---
-title: 5 Steps to Move Your Business Toward Being B Corp Certified & Becoming a Social
-  Impact Leader
+title: 5 Steps to Move Your Business Toward Being B Corp Certified
 date: 2019-02-15 03:00:00 -08:00
 categories:
 - Entrepreneurs
