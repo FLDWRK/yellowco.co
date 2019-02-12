@@ -22,7 +22,7 @@ author: Hanna Snyder
 image: "/uploads/100A6209.jpg"
 ---
 
-_intro_
+_Today on the blog: all about the bees. Carly Stein wasn't planning to launch a company when she discovered the healing benefits of bee products – she was just trying to get over being sick. A few years, a beekeeping apprentice, and (I think safe to say) a lot of work later, her company, Beekeeper's Naturals is a certified B corporation, and she's been featured on Forbes' 30 under 30_
 
 ###### You have a bit of a wild story behind what first introduced you to the benefits of bee products. Can you share about this story, and how it then fueled you to start [Beekeeper's Naturals](https://beekeepersnaturals.com/)?  
 
