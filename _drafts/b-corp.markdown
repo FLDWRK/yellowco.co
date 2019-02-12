@@ -3,6 +3,7 @@ title: b corp
 date: 2019-02-15 03:00:00 -08:00
 categories:
 - Entrepreneurs
+author: Avery Osborn & Becky Collier
 ---
 
 Your business– it’s built with ingenuity, intention and purpose. Perhaps your products or services are employing an underserved community, addressing a global issue, or inspiring creativity, beauty or health. That’s certainly admirable, but what’s next? How can your purpose-driven company become a leader in the field? 
