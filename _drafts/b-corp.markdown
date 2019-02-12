@@ -28,9 +28,9 @@ Your business – it’s built with ingenuity, intention, and purpose. Perhaps y
  
 It’s no challenge to find impressive examples of leading social enterprises. Patagonia, Warby Parker, and Everlane are just a few of those names repeatedly recognized for their social and environmental achievements. They go beyond their missions by continuously innovating and leaning into the nitty gritty details of their models. From their supply chain transparency to their environmental stewardship initiatives, they leave close to nothing unkempt. However, they’re certainly not the only ones prioritizing their triple bottom line. 
  
-Smaller companies, like Sun & Swell Foods are constantly looking to innovate. Kate and Bryan Flynn started the company with the mission of making healthy snacking more accessible. Just last year, they became a B Corp. 
+Smaller companies, like Sun & Swell Foods are constantly looking to innovate. Kate and Bryan Flynn started the company with the mission of making healthy snacking more accessible. Just last year, they became a [B Corp](https://bcorporation.net/). 
 
-### Certified B Corporations are businesses across the globe that commit to the highest social and environmental standards, using business as a force for good. 
+### Certified [B Corporations](https://bcorporation.net/) are businesses across the globe that commit to the highest social and environmental standards, using business as a force for good. 
 
 Throughout the process, Sun & Swell made substantial improvements across their model, from establishing a relationship with a local non-profit partner to setting goals for source reduction in their packaging in 2019. They’re still improving, day by day, and seeking inspiration from their leaders. 
 
