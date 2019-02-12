@@ -19,7 +19,7 @@ tags:
 - bee pollen
 - b corporation
 author: Hanna Snyder
-image: "/uploads/100A6209.jpg"
+image: "/uploads/100A7726.jpg"
 ---
 
 _Today on the blog: all about bees. Carly Stein wasn't planning to launch a company when she discovered the healing benefits of bee substances – she was just trying to get over being sick while traveling. One Italian pharmacy, a few years, a beekeeping apprentice, and (I think safe to say) a lot of work and research later, her company, [Beekeeper's Naturals](https://beekeepersnaturals.com/) is a certified B Corporation, and she's been featured on [Forbes'](https://www.forbes.com/profile/carly-stein/?list=30under30-food-drink#333f78b5645c) 30 under 30. We got to hear more from Carly about the incredible bee-made superfoods that we never knew existed, tangible ways we can help save the bee population, and why sustainable beekeeping is essential to our global food supply._
@@ -36,7 +36,7 @@ When I returned home, I couldn’t find propolis anywhere, so I began apprentici
 
 In just a few short years, this little start-up has flourished beyond what I ever imagined. I was even recognized as one of Forbes' [30 Under 30 entrepreneurs](https://www.forbes.com/profile/carly-stein/?list=30under30-food-drink#2c33414f645c) for 2019 — it’s unreal!      
 
-[IMG_1759.JPG](/uploads/IMG_1759.JPG)
+![bee .jpeg](/uploads/bee%20.jpeg)
 
 ###### For any who don’t know, what other substances do bees produce besides honey? What benefits are found in them?
 
@@ -82,7 +82,7 @@ One of our core values at BKN is sustainability. Getting [B. Corp](https://bcorp
 
 That’s why practicing sustainable beekeeping is so important to us, and it means putting the needs of the bees first. We take every precaution to keep our bees away from pesticides and give them access to plenty of clean foraging grounds. We take it a step further by partnering with leading research organizations like UC Davis Bee Research Facility and the Canadian Bee Research Fund to raise awareness. We even donate a portion of the profits from our Save the Bees apparel line towards bee research.          
 
-![100A8730.jpg](/uploads/100A8730.jpg)
+![100A6209.jpg](/uploads/100A6209.jpg)
 
 ###### What are a few tangible ways we can help save the bees?
 
