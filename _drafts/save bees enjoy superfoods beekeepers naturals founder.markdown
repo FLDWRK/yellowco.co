@@ -19,7 +19,7 @@ tags:
 - bee pollen
 - b corporation
 author: Hanna Snyder
-image: "/uploads/100A7726.jpg"
+image: "/uploads/100A8730.jpg"
 ---
 
 _Today on the blog: all about bees. Carly Stein wasn't planning to launch a company when she discovered the healing benefits of bee substances – she was just trying to get over being sick while traveling. One Italian pharmacy, a few years, a beekeeping apprentice, and (I think safe to say) a lot of work and research later, her company, [Beekeeper's Naturals](https://beekeepersnaturals.com/) is a certified B Corporation, and she's been featured on [Forbes'](https://www.forbes.com/profile/carly-stein/?list=30under30-food-drink#333f78b5645c) 30 under 30. We got to hear more from Carly about the incredible bee-made superfoods that we never knew existed, tangible ways we can help save the bee population, and why sustainable beekeeping is essential to our global food supply._
