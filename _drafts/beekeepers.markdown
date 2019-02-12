@@ -1,5 +1,6 @@
 ---
-title: beekeepers
+title: 'How to Save the Bees & Still Enjoy Their Superfoods: Our Interview with Beekeeper’s
+  Naturals Founder'
 date: 2019-02-13 03:00:00 -08:00
 categories:
 - Conscious Living
@@ -16,6 +17,7 @@ tags:
 - propolis
 - honey health benefits
 - bee pollen
+- b corporation
 author: Hanna Snyder
 image: "/uploads/100A6209.jpg"
 ---
