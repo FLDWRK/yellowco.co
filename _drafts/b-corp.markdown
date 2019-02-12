@@ -3,6 +3,21 @@ title: b corp
 date: 2019-02-15 03:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- b corp
+- B-Corporation
+- b-corp certified
+- how to get b corp certified
+- sustainable
+- sustainability
+- ethical
+- ethical practices
+- eco-friendly
+- b corp assessment
+- entrepreneur
+- purposeful entrepreneur
+- social impact
+- social impact organization
 author: Avery Osborn & Becky Collier
 ---
 
@@ -16,7 +31,7 @@ Smaller companies, like Sun & Swell Foods are constantly looking to innovate. Ka
  
 #### 2. Benchmark 
 
-How can smaller companies (likely without a social responsibility department) build an equally robust and thoughtful business? Like Sun & Swell, the [B Impact Assessment](https://bimpactassessment.net/) designed by B Lab, can be a great way for a business to assess, benchmark and set goals. Oftentimes, it is challenging to know where your blind spots are in a business. That’s why the assessment holistically addresses five key areas: _workers, governance, customers, community and environment._ Once you have assessed all the areas, you will have a more thorough understanding of where you can improve to build a stronger, more sustainable company. 
+How can smaller companies (likely without a social responsibility department) build an equally robust and thoughtful business? Like Sun & Swell, the [B Impact Assessment](https://bimpactassessment.net/) designed by B Lab, can be a great way for a business to assess, benchmark, and set goals. Oftentimes, it is challenging to know where your blind spots are in a business. That’s why the assessment holistically addresses five key areas: _workers, governance, customers, community, and environment._ Once you have assessed all the areas, you will have a more thorough understanding of where you can improve to build a stronger, more sustainable company. 
 
 #### 3. Create 
  
@@ -28,4 +43,4 @@ Once you have made these changes and joined the B Corp community, the next step 
 
 #### 5. Celebrate & Collaborate 
  
-As your business continues to improve, celebrate! Your community and other like-minded companies will be inspired by your actions and more apt to join the movement. As more businesses jump on board, we'll see more positive change happen across the globe– whether that's by cleaning up our ocean, improving the quality of life for our workers, or giving back to our local communities– and that's just the beginning.
+As your business continues to improve, celebrate! Your community and other like-minded companies will be inspired by your actions and more apt to join the movement. As more businesses jump on board, we'll see more positive change happen across the globe – whether that's by cleaning up our ocean, improving the quality of life for workers, or giving back to our local communities – and that's just the beginning.
