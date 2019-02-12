@@ -1,6 +1,7 @@
 ---
 title: Avery Osborn & Becky Collier
 date: 2019-02-11 17:36:00 -08:00
+bio_image: "/uploads/everoot.jpg"
 website: https://www.everootconsulting.com/
 ---
 
