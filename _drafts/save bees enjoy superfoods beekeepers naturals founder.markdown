@@ -52,9 +52,9 @@ It’s also full of vitamins, minerals, and enzymes, and there is evidence to su
 
 ###### How have you seen bee products impact your health and the health of others?
 
-Incorporating propolis into my routine has _radically_ changed my immune system. I used to get terrible winter colds and struggle with chronic strep throat and tonsillitis. These days, I almost never get sick. I use propolis daily to support my body, especially during cold and flu season, while traveling, or when I am under a lot of stress. With our Propolis Throat Spray, I’ve seen propolis help so many customers to recover and reduce their frequency of getting sick.    
+Incorporating propolis into my routine has _radically_ changed my immune system. I used to get terrible winter colds and struggle with chronic strep throat and tonsillitis. These days, I almost never get sick. I use propolis daily to support my body, especially during cold and flu season, while traveling, or when I am under a lot of stress. With our [Propolis Throat Spray](https://beekeepersnaturals.com/collections/all/products/propolis-spray), I’ve seen propolis help so many customers to recover and reduce their frequency of getting sick.    
 
-Royal jelly is also a powerhouse healer (and my lifesaver for helping me to stay in the zone). I work a lot and am constantly traveling and changing time zones. The royal jelly and adaptogens in B.LXR help me to beat the jet lag and stay sharp without excessive amounts of caffeine. Lots of our customers use it for memory support, too.   
+Royal jelly is also a powerhouse healer (and my lifesaver for helping me to stay in the zone). I work a lot and am constantly traveling and changing time zones. The royal jelly and adaptogens in [B.LXR](https://beekeepersnaturals.com/collections/all/products/b-lxr) help me to beat the jet lag and stay sharp without excessive amounts of caffeine. Lots of our customers use it for memory support, too.   
 
 ![100A1815.jpg](/uploads/100A1815.jpg)
 
@@ -74,7 +74,7 @@ One of our core values at BKN is sustainability. Getting [B. Corp](https://bcorp
 
 - Our B.Powered honey works great for making salad dressings with olive oil, fresh herbs, garlic, and a little vinegar.    
 
-- I don’t use refined sugars, so honey is my go-to sweetener for all baking. I especially love making a healthy chocolate mousse out of whipped avocados and our Superfood Cacao Honey — it’s so good!  
+- I don’t use refined sugars, so honey is my go-to sweetener for all baking. I especially love making a healthy chocolate mousse out of whipped avocados and our [Superfood Cacao Honey](https://beekeepersnaturals.com/products/superfood-cacao-honey-1) — it’s so good!  
 
 ###### You value sustainability very highly – not only in your beekeeping practices, but through your partnerships to help save bees from the drastic decrease in bee colonies. Can you share a bit about this issue, and how Beekeeper’s is taking action to help?
 
