@@ -1,5 +1,5 @@
 ---
-title: b corp
+title: 5 Steps to Take Toward Being a Social Impact Leader by Getting B Corp Certified
 date: 2019-02-15 03:00:00 -08:00
 categories:
 - Entrepreneurs
