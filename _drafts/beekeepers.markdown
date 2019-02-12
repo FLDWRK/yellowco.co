@@ -21,7 +21,7 @@ When I returned home, I couldn’t find propolis anywhere, so I began apprentici
 
 In just a few short years, this little start-up has flourished beyond what I ever imagined. I was even recognized as one of Forbes' [30 Under 30 entrepreneurs](https://www.forbes.com/profile/carly-stein/?list=30under30-food-drink#2c33414f645c) for 2019 — it’s unreal!      
 
-[IMG_1759 (1).JPG](/uploads/IMG_1759%20(1).JPG)
+[IMG_1759.JPG](/uploads/IMG_1759.JPG)
 
 ###### For any who don’t know, what other substances do bees produce besides honey? What benefits are found in them?
 
