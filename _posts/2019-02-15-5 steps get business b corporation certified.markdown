@@ -18,6 +18,7 @@ tags:
 - purposeful entrepreneur
 - social impact
 - social impact organization
+- sustainable business
 author: Avery Osborn & Becky Collier
 image: "/uploads/stil-734835-unsplash.jpg"
 ---
