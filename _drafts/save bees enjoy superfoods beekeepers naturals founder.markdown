@@ -48,7 +48,9 @@ And of course, bee pollen is the bees’ main source of protein.
 
 ### Bee pollen actually contains more protein per weight than any animal source! 
 
-It’s also full of vitamins, minerals, and enzymes, and there is evidence to suggest that it may even help boost athletic endurance.     
+It’s also full of vitamins, minerals, and enzymes, and there is evidence to suggest that it may even help boost athletic endurance.
+
+![100A5741.jpg](/uploads/100A5741.jpg)     
 
 ###### How have you seen bee products impact your health and the health of others?
 
