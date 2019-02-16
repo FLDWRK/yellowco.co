@@ -46,7 +46,7 @@ If you want help with the research part of this process, I suggest getting in co
 
 Something I’ve learned from working with nonprofits and similar organizations is that many times, donations are given that aren’t necessarily needed. For example, I once held a clothing drive for a local teen homeless shelter, only to find out upon dropping off the clothes, that their lobby had been taken over by unopened bags of clothing that they didn’t need at the time. Instead of assuming they needed clothing, I could have asked what they needed and I would have found out that they actually were in desperate need of toiletries that month and could hold off on accepting clothing for several months. Lesson learned. 
 
-### It helps to create a relationship and a partnership with your give back organization, not a one-way charity system. 
+### It helps to create a relationship and a _partnership_ with your give back organization, not a one-way charity system. 
 
 Ask them what specific needs they have. Is it a monetary sum to pay for certain expenses, or a new piece of equipment, or meals? Is it matching a donation of your product with every sale (i.e. "one-for-one")? Knowing their specific needs will help you not only measure your business’ impact on their programs, but it will also show your customers you’re serious about the partnership. When you’re able to explain to your community of clients or buyers what exactly their purchase is helping fund, they’re all the more likely to want to support you, as well as that organization. 
 
