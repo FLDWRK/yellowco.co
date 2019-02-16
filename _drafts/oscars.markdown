@@ -27,6 +27,7 @@ tags:
 - women of color
 - entertainment industry
 - film
+- oscarssowhite
 author: Chantelle Gibbs
 image: "/uploads/20yalitza-aparicio1SUB-superJumbo.jpg"
 ---
@@ -40,6 +41,8 @@ Let me make one thing clear - the issue is not a lack of talent, the issue is a 
 You’ve got to get to the root of the issue (pun always intended).
 
 Before the premiere dates, before filming, before the casting calls and auditions, who is in the room where it happens? If the same big-wigs and executives that green-light ideas, sign off on budgets, and hire those they’ve always hired continue to operate under the same guise and pattern they’ve always operated under, how could one expect a new year with suddenly different results? 
+
+![josh-edgoose-679183-unsplash-1.jpg](/uploads/josh-edgoose-679183-unsplash-1.jpg)
 
 As a person of color and actress myself, I see representation spelled as "opportunity". Are people of color having access to the same opportunities as their fellow peers, whether they be studio heads, producers, casting directors, screenwriters, actors or actresses? This question demands an answer as the one that follows looms near: Are people of color afforded the opportunity to see themselves represented, normalized, acknowledged, and celebrated in movies as their white peers have been able to for years? Intrinsic in positive change is a shift forward, and it is this movement forward that yields results.
 
