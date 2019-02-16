@@ -66,7 +66,7 @@ In 1989, Spike Lee directed his first feature film, _Do the Right Thing_, which 
 
 14 years later is a long time to wait for a sequel to your favorite animated superhero movie, and 19 Pixar short films is a long time to wait for a female director. But that’s exactly what we got with _Bao_, the animated short film that appeared right before _Incredibles 2_ played in theatres, and it’s the first time a Pixar short has been directed by a female. _Bao_, nominated for Best Animated Short, is a story inspired by Shi’s own childhood, raised as a Chinese-American in Toronto by her two parents, Chinese immigrants. The short resounded with many families, specifically those that also don the immigrant parent and child story.
 
-![23oscar-beachler-articleLarge.jpg](/uploads/23oscar-beachler-articleLarge.jpg)
+![23oscar-beachler-articleLarge-13abe9.jpg](/uploads/23oscar-beachler-articleLarge-13abe9.jpg)
  
 #### Hannah Beachler, _Black Panther_
 
