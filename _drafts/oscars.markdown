@@ -3,6 +3,29 @@ title: oscars
 date: 2019-02-18 03:00:00 -08:00
 categories:
 - Culture
+tags:
+- oscars
+- oscars diversity
+- academy award
+- oscar nominees
+- academy award nominees
+- diversity
+- diversity in film
+- roma
+- blackkklansman
+- bao
+- black panther
+- hannah beachler
+- spike lee
+- domee shi
+- yalitza aparicio
+- representation
+- female directors
+- directors of color
+- actressess of color
+- women of color
+- entertainment industry
+- film
 author: Chantelle Gibbs
 image: "/uploads/josh-edgoose-679183-unsplash-1.jpg"
 ---
