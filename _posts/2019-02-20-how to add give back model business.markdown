@@ -41,7 +41,7 @@ Once you’ve identified some causes you feel strongly about, do some research. 
 
 Another important part of the research process is identifying the legitimacy of the organizations. Find reviews, impact reports, and any other information that will help you determine the tangible impact, not just the intention, of the organization. This should help you narrow down to one organization to support, and I suggest starting there, with one. 
 
-### You can always add additional organizations to partner with afterward, but starting with one will help you develop a strong relationship with them first – and buffer the learning process that comes with this relationship. 
+### You can always add additional organizations to partner with afterward, but starting with one will help you develop a strong relationship with them first.
 
 If you want help with the research part of this process, I suggest getting in contact with [Yellow Co. member](https://yellowco.co/membership/), Rachael Parker-Chavez of [Defining Good](https://www.defininggood.com/). Rachael is an expert in working with small business owners to create specific social good action plans, and connecting them with worthy organizations!
 
