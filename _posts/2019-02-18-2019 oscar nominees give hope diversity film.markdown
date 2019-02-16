@@ -32,15 +32,11 @@ author: Chantelle Gibbs
 image: "/uploads/20yalitza-aparicio1SUB-superJumbo.jpg"
 ---
 
-Perhaps you recall the hashtag, #OscarsSoWhite, which first surfaced in January 2015, when an upset April Reign, managing editor for [BroadwayBlack.com](http://broadwayblack.com/), first tweeted of her frustrations at the season’s announcement of Oscar nominations. The hashtag went viral as that year, every single nomination for a leading and supporting actor/actress category was a white person. The following year? All 20 slots, still white. Nothing changed.
-
-Let me make one thing clear - the issue is not a lack of talent, the issue is a lack of representation. 
+Perhaps you recall the hashtag, #OscarsSoWhite, which first surfaced in January 2015, when an upset April Reign, managing editor for [BroadwayBlack.com](http://broadwayblack.com/), first tweeted of her frustrations at the season’s announcement of Oscar nominations. The hashtag went viral as that year, every single nomination for a leading and supporting actor/actress category was a white person. The following year? All 20 slots, still white. Nothing changed. Let me make one thing clear - the issue is not a lack of talent, the issue is a lack of representation. 
 
 ### Diversity is not a box to be checked; throwing people of color into the nomination pool just to pacify the uproar is like throwing on a hat to conceal a bad hair day. 
 
-You’ve got to get to the root of the issue (pun always intended).
-
-Before the premiere dates, before filming, before the casting calls and auditions, who is in the room where it happens? If the same big-wigs and executives that green-light ideas, sign off on budgets, and hire those they’ve always hired continue to operate under the same guise and pattern they’ve always operated under, how could one expect a new year with suddenly different results? 
+You’ve got to get to the root of the issue (pun always intended). Before the premiere dates, before filming, before the casting calls and auditions, who is in the room where it happens? If the same big-wigs and executives that green-light ideas, sign off on budgets, and hire those they’ve always hired continue to operate under the same guise and pattern they’ve always operated under, how could one expect a new year with suddenly different results? 
 
 ![josh-edgoose-679183-unsplash-1.jpg](/uploads/josh-edgoose-679183-unsplash-1.jpg)
 
