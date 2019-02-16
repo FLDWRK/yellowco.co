@@ -1,6 +1,6 @@
 ---
-title: 'These 2019 Nominees Are Giving Us Hope for Diverse Representation After Years
-  of #OscarsSoWhite'
+title: 'These 2019 Nominees Are Giving Us Hope for Diverse Representation in Film
+  After Years of #OscarsSoWhite'
 date: 2019-02-18 03:00:00 -08:00
 categories:
 - Culture
