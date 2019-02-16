@@ -1,5 +1,5 @@
 ---
-title: How to Add a Give Back Model into Your Business
+title: How to Add a Give Back Model to Your Product
 date: 2019-02-20 03:00:00 -08:00
 categories:
 - Entrepreneurs
