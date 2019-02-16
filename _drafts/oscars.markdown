@@ -1,5 +1,6 @@
 ---
-title: oscars
+title: 'Why the 2019 Oscar Nominees Are Giving Us Hope for Diverse Representation
+  After Years of #OscarsSoWhite'
 date: 2019-02-18 03:00:00 -08:00
 categories:
 - Culture
