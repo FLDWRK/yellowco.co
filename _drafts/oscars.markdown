@@ -28,7 +28,7 @@ tags:
 - entertainment industry
 - film
 author: Chantelle Gibbs
-image: "/uploads/josh-edgoose-679183-unsplash-1.jpg"
+image: "/uploads/20yalitza-aparicio1SUB-superJumbo.jpg"
 ---
 
 Perhaps you recall the hashtag, #OscarsSoWhite, which first surfaced in January 2015, when an upset April Reign, managing editor for [BroadwayBlack.com](http://broadwayblack.com/), first tweeted of her frustrations at the season’s announcement of Oscar nominations. The hashtag went viral as that year, every single nomination for a leading and supporting actor/actress category was a white person. The following year? All 20 slots, still white. Nothing changed.
@@ -49,7 +49,7 @@ Cheryl Boone Isaacs, former president of the Academy as well as the first Africa
 
 Here are a few names and nominations from this year’s Academy Awards that excite me and dare me to believe that #OscarsSoWhite could quite possibly never have to trend again. 
 
-![20yalitza-aparicio1SUB-superJumbo.jpg](/uploads/20yalitza-aparicio1SUB-superJumbo.jpg)
+![merlin_149211219_6a164908-e703-4515-942f-55f2430f78e5-superJumbo.jpg](/uploads/merlin_149211219_6a164908-e703-4515-942f-55f2430f78e5-superJumbo.jpg)
 
 #### Yalitza Aparicio, _Roma_
 
