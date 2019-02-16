@@ -13,6 +13,12 @@ tags:
 - conscious company
 - business model
 - give back product
+- business
+- purposeful work
+- purposeful entrepreneur
+- female owned business
+- entrepreneur
+- entrepreneur advice
 author: Ashley Ayala
 ---
 
