@@ -51,5 +51,4 @@ Wakanda forever is not just a trope, it is the truth. And the truth is that with
 
 _Images via [The New York Times](https://www.nytimes.com/2019/01/17/movies/yalitza-aparicio-roma.html), [Dazed](http://www.dazeddigital.com/), 
 
-_Resources:_
-
+_Resources: [Vanity Fair](https://www.vanityfair.com/hollywood/2018/03/oscarssowhite-is-still-relevant-this-year), [Rolling Stone](https://www.rollingstone.com/movies/movie-news/academy-promises-historic-changes-to-diversify-membership-178731/), [USA Today](https://www.usatoday.com/story/life/movies/2016/02/02/oscars-academy-award-nominations-diversity/79645542/), [Huffington Post](https://www.huffingtonpost.com/entry/yalitza-aparicio-roma-indigenous-women_us_5c5c9692e4b0a502ca339969), [CNN](https://www.cnn.com/2019/01/22/entertainment/spike-lee-oscars-best-director-nomination/index.html), [The Columbian](https://www.columbian.com/news/2019/jan/24/spike-lee-gets-his-first-oscar-nod-for-directing/), [The Press Enterprise](https://www.pe.com/2019/02/08/with-pixars-bao-domee-shi-made-history-as-a-woman-director-and-earned-an-oscar-nomination/), [The New York Times](https://www.nytimes.com/2019/01/22/movies/hannah-beachler-oscar-nomination.html), [USA Today](https://www.usatoday.com/story/life/movies/2019/01/22/oscars-nominations-why-black-panther-deserves-best-picture-nod/2644294002/)_
