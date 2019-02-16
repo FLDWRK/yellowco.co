@@ -33,7 +33,7 @@ Make a list of your beliefs and stances on various social issues. Obviously, thi
 
 List them all, and then choose a few that are the most important to you.
 
-![Zelma Rose_09.jpg](/uploads/Zelma%20Rose_09.jpg)
+![Zelma Rose_04.jpg](/uploads/Zelma%20Rose_04.jpg)
 
 #### Do some research.
 
@@ -55,7 +55,7 @@ Something I’ve learned from working with nonprofits and similar organizations 
 
 Ask them what specific needs they have. Is it a monetary sum to pay for certain expenses, or a new piece of equipment, or meals? Is it matching a donation of your product with every sale (i.e. "one-for-one")? Knowing their specific needs will help you not only measure your business’ impact on their programs, but it will also show your customers you’re serious about the partnership. When you’re able to explain to your community of clients or buyers what exactly their purchase is helping fund, they’re all the more likely to want to support you, as well as that organization. 
 
-![Zelma Rose_04.jpg](/uploads/Zelma%20Rose_04.jpg)
+![Zelma Rose_09.jpg](/uploads/Zelma%20Rose_09.jpg)
 
 #### Foster the partnership and relay the message to your customers.
 
