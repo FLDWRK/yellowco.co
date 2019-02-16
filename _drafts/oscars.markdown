@@ -44,7 +44,7 @@ As a person of color and actress myself, I see representation spelled as "opport
 
 Cheryl Boone Isaacs, former president of the Academy as well as the first African-American and third woman in her position, together with the Academy voters of 2016 vowed to double the number of women and minority members by 2020. A celebration of this notion is a celebration of a positive shift not only in Hollywood, or at the Academy Awards, but in culture. 
 
-### This year’s nominations are a nod to how we, along with the generations to come after us, will continue to see a normalization of the beautifully well-rounded, tangible representation of the diverse and colorful world as we know it. 
+### This year’s nominations are a nod to how we, along with the generations to come after us, will continue to see a beautifully well-rounded, tangible representation of the diverse and colorful world as we know it. 
 
 Here are a few names and nominations from this year’s Academy Awards that excite me and dare me to believe that #OscarsSoWhite could quite possibly never have to trend again. 
 
