@@ -6,8 +6,7 @@ categories:
 author: Mikaela Ryan
 ---
 
-TOP 5 THINGS IN POLITICS TO ACTUALLY PAY ATTENTION TO 
-A lot of headlines don’t matter, but some actually do. 
+_A lot of headlines don’t matter, but some actually do._ 
 
 You know that awkward moment at a social event when someone asks you, “Hey, what do you think about *insert world event here*?" and you proceed to nervously sip whatever beverage you’re holding and pretend to TOTALLY know what they are talking about? Yeah, that sums up at least 17% of my conversations living and working in DC. The trick? Knowing which issues _actually_ matter and which can be overlooked. Because between figuring out what to cook for dinner and how to make a dentist appointment, there’s only so much brain span left for being an informed citizen. Here are the top five headlines to pay attention to right now: 
 
