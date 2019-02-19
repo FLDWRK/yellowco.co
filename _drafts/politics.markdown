@@ -4,6 +4,7 @@ date: 2019-02-22 03:00:00 -08:00
 categories:
 - Culture
 author: Mikaela Ryan
+image: "/uploads/philip-strong-213128-unsplash-1.jpg"
 ---
 
 _A lot of headlines don’t matter, but some actually do._ 
@@ -25,6 +26,8 @@ The hype over Russia and North Korea has somewhat died down as we’ve realized 
 ###### 3. With low approval ratings post-shutdown, Trump is attempting a more optimistic rebrand for 2020 (see: [chipper, restrained tone of his State of the Union address](https://www.wsj.com/livecoverage/trump-state-of-the-union-address-2018/card/1517366191)), but will keep pushing for that wall.
 
 His tough stance on immigration is a hallmark of his first campaign, is popular with his base, and is a campaign promise he intends to keep. With a Democratic majority in the House, led by Nancy Pelosi, expect a whole lot of friction. Crossing our fingers it won’t amount to two-month-government-shutdown level friction, BUT the issue won’t magically resolve anytime soon. Even after Democrats conceded to a modified funding package that provides for a variety of border security measures: “physical barriers” (nice term for: partial wall), technology, and more border personnel, [Trump declared a national emergency](https://www.nytimes.com/2019/02/15/us/politics/national-emergency-trump.html) to access more funding. If that sounds concerning to you, you’re not wrong. Republicans face a tough choice of whether to collectively oppose Trump’s move, or acquiesce.
+
+![rawpixel-645294-unsplash-1.jpg](/uploads/rawpixel-645294-unsplash-1.jpg)
 
 ###### 4. What the heck is the US Military strategy in the Middle East (does anyone ever know)? 
 
