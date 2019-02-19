@@ -16,6 +16,8 @@ On the left, a menagerie of Democratic candidates, from Starbucks executive, How
 
 **What to keep an eye on:** Whether the party will embrace Democratic Socialism, championed by candidates like Bernie and Alexandria Ocasio-Cortez, or whether the party will choose a moderate candidate to win over Middle America, like Amy Klobuchar or Beto O’Rouke (A Democrat who almost won the Senate race in Texas of all places!? Yeah, that happened). Also, award for candidate with the best IG presence so far goes to: [Cory Booker](https://www.instagram.com/corybooker/). 
 
+![element5-digital-1126202-unsplash-1.jpg](/uploads/element5-digital-1126202-unsplash-1.jpg)
+
 ###### 2. China, the next global superpower? Not NOT a thing. 
 
 The hype over Russia and North Korea has somewhat died down as we’ve realized who the real threat to national security is: China. Here’s what’s awkward: Trump and his administration have different ideas on the best way to counteract China’s ambition. [Trump is a big fan of tariffs](https://www.forbes.com/sites/kenrapoza/2019/02/17/dear-china-get-ready-for-25-tariffs/#3f4a98755935) (taxing imported Chinese goods), whereas most China policy advisors agree that tariffs aren’t super effective. The Chinese government is doing some pretty shady stuff, like intensely monitoring their citizens with a social score and facial recognition technology ([Google it](http://fortune.com/2018/10/28/in-china-facial-recognition-tech-is-watching-you/), it’s wild), and regularly stealing US intellectual property. US policymakers are majorly side-eyeing China, as they should be. 
