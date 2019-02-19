@@ -1,8 +1,36 @@
 ---
-title: politics
+title: The Top 5 Political Headlines in the News Right Now That You Should Actually
+  Know About
 date: 2019-02-22 03:00:00 -08:00
 categories:
 - Culture
+tags:
+- current events
+- culture
+- politics
+- 2020 election
+- simple politics
+- simple news
+- easy to read news
+- easy to understand politics
+- 2020 president
+- 2020 presidential candidates
+- china
+- chinese government
+- facial recognition
+- trump
+- trump wall
+- wall funding
+- government shutdown
+- us politics
+- middle east
+- us military
+- military strategy
+- venezuela
+- juan guaido
+- president maduro
+- venezuela election
+- mira
 author: Mikaela Ryan
 image: "/uploads/philip-strong-213128-unsplash-1.jpg"
 ---
