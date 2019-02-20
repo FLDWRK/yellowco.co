@@ -1,7 +1,7 @@
 ---
 title: Mikaela Ryan
 date: 2019-02-18 15:56:00 -08:00
-bio_image: "/uploads/MR.jpg"
+bio_image: "/uploads/IMG_7281%202%20(1).jpg"
 website: https://www.heymira.co/
 ---
 
