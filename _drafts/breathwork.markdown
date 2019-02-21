@@ -21,6 +21,7 @@ tags:
 - breathwork exercise
 - breathwork guide
 author: Jenna Reiss
+image: "/uploads/robin-benzrihem-1354596-unsplash-1.jpg"
 ---
 
 Meditation is incredibly accessible these days. There are classes, studios, podcasts, and guides all diving into mindfulness, yet somehow, one of the most common sayings I hear from clients is, “I’m not good at meditation.” Truth is, there is no bad meditating – but, it’s also true that meditation isn’t right for everyone. Only you know the answer to this because you know your body best. If you are the type of person that feels traditional meditation isn’t the right tool, maybe you’re holding onto old stories, habits, or you could use support in releasing tension and all that you’re holding onto, then maybe Breathwork is the right tool for you. 
@@ -31,6 +32,8 @@ Breathwork Meditation is different than any other form of meditation. It’s an 
 
 It’s the strongest heart-opening practice I know of. I use this practice, along with traditional meditation and Intuitive Coaching as a Breathwork Meditation Coach, to guide individuals and support them in their healing. When we breathe this way into our bodies, we drop out of the mind, connect more fully with our hearts, and can find clarity and peace that might have been buried under old patterns and habits. I support individuals in entering a state of being that provides them with the opportunity to let go of old belief systems, shift the everyday perspective, and walk away lighter, and more open-minded and hearted. Breathwork is a truly personalized experience for every individual, meaning that two people will likely have vastly different experiences. 
 
+![c-swabdesign-1348267-unsplash (1)-1.jpg](/uploads/c-swabdesign-1348267-unsplash%20(1)-1.jpg)
+
 ### It is overall rooted in the idea that you are your own healer. 
 
 A lot of external experiences happen in our lives that cause pain, grief, confusion, fear, and these emotions are all a part of being alive. These emotions are not bad, or negative emotions, they’re simply emotions that hold information for our bodies, information our bodies need to process before we can heal and move into the emotions we enjoy feeling like joy, pleasure, and happiness. 
@@ -39,6 +42,8 @@ In breathwork, you honor the emotions that are present, emotions that are stuck,
 Life is unpredictable and impermanent. When we get in touch with our emotions, with our energetic blocks and wounds, we have an opportunity to go above and beyond the smallness of our own personal story and let our lessons become universal teachings for all. For me, it feels way better to see what’s right in front of me, than it does to pretend it’s not there and look away. 
 
 If you want to try Breathwork, I recommend going to a class or a workshop by a Healer Trained Breathwork Facilitator. It’s special to allow someone to guide you and hold space for you. Be sure to research teachers and their background. You can also find information about my breathwork workshops [here](http://jennareiss.com/). If you're ready to give it a try at home by yourself, here's an exercise you can walk through: 
+
+![c-swabdesign-1348274-unsplash-1.jpg](/uploads/c-swabdesign-1348274-unsplash-1.jpg)
 
 ##### Step 1: Prepare your space.
 
