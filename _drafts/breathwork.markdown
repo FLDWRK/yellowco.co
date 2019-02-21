@@ -3,6 +3,23 @@ title: breathwork
 date: 2019-02-25 03:00:00 -08:00
 categories:
 - Health
+tags:
+- breathwork
+- meditation
+- breathwork meditation
+- breathwork coach
+- jenna reiss
+- wellness
+- chakra
+- breathing
+- meditative breathing
+- health
+- coaching
+- mindfulness
+- open mind
+- open heart
+- breathwork exercise
+- breathwork guide
 author: Jenna Reiss
 ---
 
