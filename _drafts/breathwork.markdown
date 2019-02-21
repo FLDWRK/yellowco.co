@@ -1,10 +1,11 @@
 ---
 title: breathwork
-date: 2019-02-20 19:56:00 -08:00
+date: 2019-02-25 03:00:00 -08:00
+categories:
+- Health
+author: Jenna Reiss
 ---
 
-Yellow Co. Blog Feature
- 
 Meditation is incredibly accessible these days. There are classes, studios, podcasts, and guides, all diving into mindfulness, yet somehow, one of the most common sayings I hear from clients is “I’m not good at meditation”. Truth is, there is no bad meditating, but it’s also true that meditation isn’t right for everyone. Only you know the answer to this because you know your body best. If you are the type of person that feels traditional meditation isn’t the right tool, maybe you’re holding onto old stories, habits, or you could use support in releasing tension and all that you’re holding onto, then maybe Breathwork is the right tool for you. 
 
 Breathwork Meditation  is different than any other form of meditation. It’s an active breathing meditation which disrupts the traditional meditation facade that one has to sit in silence with their thoughts, in a peaceful, all white-room in order to reap the benefits. Breathwork allows participants to naturally become more connected to their emotions and physical bodies vs minds and thoughts which is where we traditionally spend most of our day. It’s the strongest heart-opening practice I know of. 
