@@ -1,5 +1,6 @@
 ---
-title: breathwork
+title: 'Breaking down Breathwork: Everything You Should Know About Trying This Form
+  of Meditation'
 date: 2019-02-25 03:00:00 -08:00
 categories:
 - Health
