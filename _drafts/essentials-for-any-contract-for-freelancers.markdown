@@ -6,11 +6,9 @@ categories:
 author: Liv Phillips
 ---
 
-Essentials for Any Contract for Freelancers
+The freelance hustle is no joke. Sometimes being a solopreneur can be incredibly stressful. I’m talking "crying in the bathroom because you don’t want your co-workers to hear you, but then you realize you don’t even have co-workers” level of stressful. But as an attorney who works with small businesses and creatives, let me give you a tip: one way to minimize stress is by having strong contracts in place for you and your business. For freelancers, consultants, and other creative professionals, those contracts usually include a CSA.
 
-The freelance hustle is no joke. Sometimes being a solopreneur can be incredibly stressful. I’m talking “crying in the bathroom because you don’t want your co-workers to hear you, but then you realize you don’t even have co-workers!” level of stressful. But as an attorney who works with small businesses and creatives, let me give you a tip: one way to minimize stress is by having strong contracts in place for you and your business. For freelancers, consultants, and other creative professionals, those contracts usually include a CSA.
-
- A “CSA” is short for either a “Creative Services Agreement” or, alternatively, a “Client Services Agreement.” In a nutshell, a CSA is a template contract customized for a particular business or services. There are a couple of reasons why a freelancer benefits from having a well-drafted CSA: 
+A “CSA” is short for either a “Creative Services Agreement” or alternatively, a “Client Services Agreement.” In a nutshell, a CSA is a template contract customized for a particular business or services. There are a couple of reasons why a freelancer benefits from having a well-drafted CSA: 
 
 #### It Demonstrates a Professional Relationship
 
