@@ -3,6 +3,24 @@ title: 8 Essentials to Make Sure You Include in Your Freelance Contracts
 date: 2019-03-01 03:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- contracts
+- freelance contracts
+- running a business
+- legal contracts
+- freelance
+- entrepreneur
+- CSA
+- agreement
+- terms
+- project
+- payment
+- what to put in contract
+- design
+- graphic design
+- artist
+- photographer
+- stylist
 author: Liv Phillips
 image: "/uploads/plush-design-studio-467760-unsplash-1.jpg"
 ---
