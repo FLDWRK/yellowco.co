@@ -39,6 +39,8 @@ You don’t pick your classes based on what’s exciting, you decide on a major 
 
 My newfound advisor told me to journal every day, throughout the day, for 30 days. He said to keep notes on what gave me energy and life, and what drained me. Everything from writing emails, to meetings, to research, and writing thank yous. 
 
+![yoann-siloine-532514-unsplash-1.jpg](/uploads/yoann-siloine-532514-unsplash-1.jpg)
+
 ### It was meant to give me clarity on what really lit my soul up. And it did. 
 
 It sounds simple and way too obvious, but the power of a ginormous list of things that give you joy is in the irrefutable evidence of the minor things, _not_ the major things. Marie Kondo would burst into flames from all the joy sparks. Sparks are exactly what they are - little bursts of energy that point you in the direction of your personal purpose. 
@@ -50,6 +52,8 @@ You can spend your time in pursuit of a something that lights you up, or somethi
 ### The most effective way to find fulfillment in your career is to intimately know what your unique purpose is and how you can pursue that. 
 
 It’s not about being a Marketing Coordinator, and then a Marketing Director and following the ladder - that can all be explained (my husband is a recruiter, so I know this for sure). What is more impressive is someone who knows how each stepping stone is getting them closer and closer to _their_ mission. 
+
+![stil-734871-unsplash.jpg](/uploads/stil-734871-unsplash.jpg)
 
 It’s a life-long practice of saying yes and no to things that really feel purposeful to you and that follow the mission you have for yourself. Know that achieving a goal can happen from many angles, not just one. If you know that you love to help people, there are a dozen “jobs” you could do that will get you there. What you need to know is what your own purpose is within that role. 
 
