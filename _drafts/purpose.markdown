@@ -4,6 +4,7 @@ date: 2019-02-27 03:00:00 -08:00
 categories:
 - Growth
 author: Bailey Van Tassel
+image: "/uploads/rawpixel-463439-unsplash-1.jpg"
 ---
 
 I sat across from a man that I had just met - a surfer turned pastor turned entrepreneur. I listened with wide eyes as his own bright blue gaze lit up. “It’s about what you like spending your time doing. And above that, how you feel called to serve. Nothing else matters.” This was his career advice to me. 
