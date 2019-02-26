@@ -19,6 +19,8 @@ You’re running a legit business, not a lemonade stand! It’s crucial to have 
 
 By outlining what you’re providing to a client, you’re also explaining what you’ll be charging for! Having a client sign off on your rates before you even start working ideally ensures that there’s no protesting later. 
 
+![kari-shea-1066699-unsplash-1.jpg](/uploads/kari-shea-1066699-unsplash-1.jpg)
+
 #### So, What Should My CSA Include?
 
 Your CSA can change (at your discretion) between clients and projects, but they should always outline the basics of what you’re agreeing on. If you already have a CSA in place, the following should serve as a checklist of provisions you’ll want  to make sure you have in your current agreement. If you don’t have a CSA, take a look below to get a feel for these agreements, but speak to an attorney to help draft an agreement that is specific to your needs.  
@@ -35,6 +37,8 @@ Like I mentioned earlier, CSAs are great for making sure expectations on payment
 
 You should have some language that protects you in the event that your client does not provide you with materials you’ve requested, or if they provide the materials too late to make the scheduled delivery date. For example, imagine you’re an artist that’s been hired to paint a portrait of a client to give to their significant other as a birthday present. You’ve requested that your client provide you with a photograph for reference at least three weeks before the date of delivery. Now imagine that your client never gets that photo to you. In that situation, you hopefully have a provision in place that says that you won’t be held responsible for the non-delivery, because it wasn’t your fault! You should also have similar language that protects you in the event of any suspension of performance by the client, because again, that ain’t your fault. 
 
+![stil-734843-unsplash.jpg](/uploads/stil-734843-unsplash.jpg)
+
 ###### 4. Intellectual Property Protection
 
 Depending on what it is you’ll be doing, intellectual property (the “IP”) provisions within a CSA can get pretty involved. At the very least, your CSA should make clear who owns the IP, how and when it can be used by the other party, and whether or not you should receive attribution for the work when it’s publicly displayed. 
@@ -46,6 +50,8 @@ You’ll also want to include an indemnification provision. This section basical
 ###### 6. Satisfaction 
 
 This one is key, especially for any CSA that centers around creative expression. This section makes it clear that the client will pay you for your services, regardless of whether or not they’re satisfied with the end result. Because if you’ve been checking in with your client all along the way and you’ve done the work asked of you, your client shouldn’t be able to withhold payment, right? Right!
+
+![stil-734845-unsplash-1.jpg](/uploads/stil-734845-unsplash-1.jpg)
 
 ###### 7. Severability and Non-Waiver
 
