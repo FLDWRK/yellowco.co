@@ -1,5 +1,5 @@
 ---
-title: determining your purpose i/o looking for perfect job
+title: Searching for the Perfect Job? Why You Should Search for Your Purpose First
 date: 2019-02-27 03:00:00 -08:00
 categories:
 - Growth
