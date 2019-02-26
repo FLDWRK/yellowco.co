@@ -41,15 +41,15 @@ My newfound advisor told me to journal every day, throughout the day, for 30 day
 
 ### It was meant to give me clarity on what really lit my soul up. And it did. 
 
-It sounds simple and way too obvious, but the power of a ginormous list of things that give you joy is in the irrefutable evidence of the minor things, not the major things. Marie Kondo would burst into flames from all the joy sparks. Sparks are exactly what they are - little bursts of energy that point you in the direction of your personal purpose. 
+It sounds simple and way too obvious, but the power of a ginormous list of things that give you joy is in the irrefutable evidence of the minor things, _not_ the major things. Marie Kondo would burst into flames from all the joy sparks. Sparks are exactly what they are - little bursts of energy that point you in the direction of your personal purpose. 
 
-The truth of the matter is this: what you do can be chalked up quite simply. It’s how you spend your time. It’s not a title or a “job”. It’s your exchange of time on earth for money. 
+The truth of the matter is this: what you _do_ can be chalked up quite simply. It’s how you spend your time. It’s not a title or a “job”. It’s your exchange of time on earth for money. 
 
 You can spend your time in pursuit of a something that lights you up, or something that just passes the time - it’s the same hours on the clock. If you want to truly be happy with work, you must be happy in the minute by minute passing of time. 
 
 ### The most effective way to find fulfillment in your career is to intimately know what your unique purpose is and how you can pursue that. 
 
-It’s not about being a Marketing Coordinator, and then a Marketing Director and following the ladder - that can all be explained (my husband is a recruiter, so I know this for sure). What is more impressive is someone who knows how each stepping stone is getting them closer and closer to their mission. 
+It’s not about being a Marketing Coordinator, and then a Marketing Director and following the ladder - that can all be explained (my husband is a recruiter, so I know this for sure). What is more impressive is someone who knows how each stepping stone is getting them closer and closer to _their_ mission. 
 
 It’s a life-long practice of saying yes and no to things that really feel purposeful to you and that follow the mission you have for yourself. Know that achieving a goal can happen from many angles, not just one. If you know that you love to help people, there are a dozen “jobs” you could do that will get you there. What you need to know is what your own purpose is within that role. 
 
