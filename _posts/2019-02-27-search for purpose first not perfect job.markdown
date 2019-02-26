@@ -31,7 +31,7 @@ image: "/uploads/rawpixel-463439-unsplash-1.jpg"
 
 I sat across from a man that I had just met - a surfer turned pastor turned entrepreneur. I listened with wide eyes as his own bright blue gaze lit up. “It’s about what you like spending your time doing. And above that, how you feel called to serve. Nothing else matters.” This was his career advice to me. 
 
-The thing was, after a few years out in the “real world”, I was no closer to finding my perfect job than I had been at graduation. It’s a long running joke that no one actually gets a job based on their college degree. It’s funny because it’s true and relatable. 
+The thing was, after a few years out in the “real world”, I was no closer to finding my perfect job than I had been at graduation. It’s a long running joke that no one actually gets a job based on their college degree (because it’s true). 
 
 ### [Less than 30% of people actually get jobs doing what they studied to do in college](https://www.washingtonpost.com/news/wonk/wp/2013/05/20/only-27-percent-of-college-grads-have-a-job-related-to-their-major/?noredirect=on&utm_term=.90d0723f97aa). 
 
@@ -51,7 +51,7 @@ You can spend your time in pursuit of a something that lights you up, or somethi
 
 ### The most effective way to find fulfillment in your career is to intimately know what your unique purpose is and how you can pursue that. 
 
-It’s not about being a Marketing Coordinator, and then a Marketing Director and following the ladder - that can all be explained (my husband is a recruiter, so I know this for sure). What is more impressive is someone who knows how each stepping stone is getting them closer and closer to _their_ mission. 
+It’s not about being a Marketing Coordinator, and then a Marketing Director and just climbing the ladder. What is more impressive is someone who knows how each stepping stone is getting them closer and closer to _their_ mission. 
 
 ![stil-734871-unsplash.jpg](/uploads/stil-734871-unsplash.jpg)
 
