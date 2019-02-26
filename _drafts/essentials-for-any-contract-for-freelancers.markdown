@@ -4,6 +4,7 @@ date: 2019-03-01 03:00:00 -08:00
 categories:
 - Entrepreneurs
 author: Liv Phillips
+image: "/uploads/plush-design-studio-467760-unsplash-1.jpg"
 ---
 
 The freelance hustle is no joke. Sometimes being a solopreneur can be incredibly stressful. I’m talking "crying in the bathroom because you don’t want your co-workers to hear you, but then you realize you don’t even have co-workers” level of stressful. But as an attorney who works with small businesses and creatives, let me give you a tip: one way to minimize stress is by having strong contracts in place for you and your business. For freelancers, consultants, and other creative professionals, those contracts usually include a CSA.
