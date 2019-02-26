@@ -1,5 +1,5 @@
 ---
-title: Essentials for Any Contract for Freelancers
+title: 8 Essentials to Make Sure You Include in Your Freelance Contracts
 date: 2019-03-01 03:00:00 -08:00
 categories:
 - Entrepreneurs
