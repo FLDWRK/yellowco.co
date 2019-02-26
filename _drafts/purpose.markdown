@@ -3,6 +3,28 @@ title: Searching for the Perfect Job? Why You Should Search for Your Purpose Fir
 date: 2019-02-27 03:00:00 -08:00
 categories:
 - Growth
+tags:
+- purpose
+- work
+- perfect job
+- perfect career
+- what is my purpose
+- purposeful work
+- meaningful work
+- job assessment
+- how to find your perfect job
+- job fit
+- career fit
+- finding career
+- career path
+- why
+- your why
+- mission
+- personal mission
+- personal growth
+- personal growth tool
+- job change
+- job transition
 author: Bailey Van Tassel
 image: "/uploads/rawpixel-463439-unsplash-1.jpg"
 ---
