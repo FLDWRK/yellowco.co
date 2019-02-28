@@ -30,6 +30,8 @@ _Meet Nneji and Chinonye Akunne, sisters and Co-founders of ILERA Apothecary. Th
 
 As kids, Chinonye experimented with different ingredients in our refrigerator, creating formulations for natural skin and haircare products, and I could be found putting collages together for my “future” media company. As we grew older, we started to pay more attention to our health as well as what we put inside and on our bodies. When our youngest brother went vegan, he searched for a deodorant that was not only 100% natural but effective. He couldn’t find one on the market so, he took to the internet and discovered he could create one himself. With the help of Chinonye and her chemistry background, she was able to refine the product and create ILERA Apothecary’s first product offering. 
 
+![ILERA Apothecary Product Shot3.jpg](/uploads/ILERA%20Apothecary%20Product%20Shot3.jpg)
+
 ###### You describe ILERA as being “rooted in native Nigerian principles”, and even traveled to your parent’s hometown in southeastern Nigeria to source ingredients for your first batch of products. Can you share more about what this means to you, and in what other ways you’ve brought your heritage into your business?
 
 ### Incorporating our Nigerian heritage was the easiest decision to make when we decided to start ILERA. 
@@ -38,7 +40,7 @@ While we were born in the United States, we were raised as both Americans and Ni
 
 When we would travel to Nigeria on holiday, we would be fully immersed in various cultures and communities. From Lagos to Awo-Idemili, we’d partake in a diverse set of cultural traditions, which has had a tremendous effect on how we operate. The name ILERA, comes from the Yoruba tribe, meaning health. While we come from the Igbo tribe, we felt it was imperative to pull cultural references from the entire country. 
 
-img
+[OBODO9.JPG](/uploads/OBODO9.JPG)
 
 ###### We love that your products are all natural and full of organic, sustainably sourced ingredients! This is definitely no small feat, but a practice we’re seeing more and more skincare brands take part in (which is amazing). How do you make sure you stay competitive as a brand with other natural skincare lines? 
 
@@ -50,7 +52,7 @@ ILERA Apothecary was created to educate the beauty industry on the importance of
 
 ### Our goal is to show the world that skincare is not limited to a single eurocentric viewpoint that is usually shared in the beauty industry. 
 
-img
+[OBODO7.JPG](/uploads/OBODO7.JPG)
 
 ###### It sounds like you each bring such different skills to the table – Chinonye as the scientist and maker behind your products, and Nneji directing all things creative. Did this balance come naturally? Additionally – how is it balancing your relationship being both sisters and co-founders?
 
@@ -58,13 +60,15 @@ While we do come from different educational backgrounds, we have grown to unders
 
 As sisters, it’s easy to allow our relationship to get mixed in with business but, as our company continues to grow, we are learning how to handle tough conversations on the business front, without allowing our personal emotions to get involved. It’s definitely a hard thing to do but, we have a deep respect for one another and strong passion for the business so, we make it work. 
 
+![ILERA Apothecary Product Shot2.jpg](/uploads/ILERA%20Apothecary%20Product%20Shot2.jpg)
+
 ###### You’re three years into your business now. What is one struggle you have overcome in these first few years that taught you a lot? What advice would you give to any entrepreneur just starting out on that topic?
 
 The ability to effectively communicate is extremely important in business, and we learned that we had to work on that in the beginning before we could move forward. When we started ILERA, I was living in Los Angeles and Chinonye was living in Detroit. We hadn’t lived around one another since high school and being sisters, it was easy for us to quickly disagree with one another and not know how to resolve it; resulting in us getting our parents involved after every disagreement. As we grew, I made the decision to move to Detroit for a short period of time, which I believe helped us better understand each other as business partners. Living closer together allowed us to have a better understanding of who we were as adults, which led to us understanding how to communicate better. 
 
-To our fellow entrepreneurs: Stick to the terms, focus on the business, and keep your emotions out of it.
+### To our fellow entrepreneurs: Stick to the terms, focus on the business, and keep your emotions out of it.
 
-img
+[OBODO5.JPG](/uploads/OBODO5.JPG)
 
 ###### With where you’re at now in year three, what are your goals between now and year five?
 
@@ -79,6 +83,8 @@ Nneji: I wake up every morning around 4:30am and start my day with a glass of wa
 I am also a huge fan of celebrating birthdays. While birthdays only happen once a year, I use every 3rd of the month to celebrate a win that I achieved, because it’s easy to forget even the smallest wins when you’re busy working. 
 
 Chinonye: Yoga is my go-to wellness routine. I have a yoga studio that is on the ground floor of my apartment that makes my 5am classes super easy to get to. I also do a lot of “mindful walking”, where I walk outside no headphones so I can concentrate on the physical sensations of each step. 
+
+![OBODO3.jpg](/uploads/OBODO3.jpg)
 
 ###### Are there any quotes or mantras that fuel your life and/or business?
 
