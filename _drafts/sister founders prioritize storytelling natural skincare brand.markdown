@@ -38,6 +38,8 @@ While we were born in the United States, we were raised as both Americans and Ni
 
 When we would travel to Nigeria on holiday, we would be fully immersed in various cultures and communities. From Lagos to Awo-Idemili, we’d partake in a diverse set of cultural traditions, which has had a tremendous effect on how we operate. The name ILERA, comes from the Yoruba tribe, meaning health. While we come from the Igbo tribe, we felt it was imperative to pull cultural references from the entire country. 
 
+img
+
 ###### We love that your products are all natural and full of organic, sustainably sourced ingredients! This is definitely no small feat, but a practice we’re seeing more and more skincare brands take part in (which is amazing). How do you make sure you stay competitive as a brand with other natural skincare lines? 
 
 We believe our storytelling is the most important aspect of our brand. Due to our multicultural upbringing, we tell the story of our diversity by incorporating our obodo, community in the Igbo language, into our seasonal campaigns. By doing so, it allows us to not only showcase the diversity in our brand, but also enables us to show that ILERA Apothecary is for everyone. 
@@ -47,6 +49,8 @@ We believe our storytelling is the most important aspect of our brand. Due to ou
 ILERA Apothecary was created to educate the beauty industry on the importance of natural ingredients in products. Alongside that mission, we also wanted to tell the stories of individuals in the ILERA community. 
 
 ### Our goal is to show the world that skincare is not limited to a single eurocentric viewpoint that is usually shared in the beauty industry. 
+
+img
 
 ###### It sounds like you each bring such different skills to the table – Chinonye as the scientist and maker behind your products, and Nneji directing all things creative. Did this balance come naturally? Additionally – how is it balancing your relationship being both sisters and co-founders?
 
@@ -59,6 +63,8 @@ As sisters, it’s easy to allow our relationship to get mixed in with business 
 The ability to effectively communicate is extremely important in business, and we learned that we had to work on that in the beginning before we could move forward. When we started ILERA, I was living in Los Angeles and Chinonye was living in Detroit. We hadn’t lived around one another since high school and being sisters, it was easy for us to quickly disagree with one another and not know how to resolve it; resulting in us getting our parents involved after every disagreement. As we grew, I made the decision to move to Detroit for a short period of time, which I believe helped us better understand each other as business partners. Living closer together allowed us to have a better understanding of who we were as adults, which led to us understanding how to communicate better. 
 
 To our fellow entrepreneurs: Stick to the terms, focus on the business, and keep your emotions out of it.
+
+img
 
 ###### With where you’re at now in year three, what are your goals between now and year five?
 
