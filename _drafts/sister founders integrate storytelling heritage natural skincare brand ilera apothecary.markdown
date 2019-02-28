@@ -24,11 +24,11 @@ author: Hanna Snyder
 image: "/uploads/Chinonye&Nneji%20Akunne.jpg"
 ---
 
-_Meet Nneji and Chinonye Akunne, sisters and Co-founders of ILERA Apothecary. The duo has an incredible story of starting their natural skincare brand concocting products in their kitchen, deeply incorporating their Nigerian roots the brand in as first-generation Americans, and using storytelling to set their company apart. Get the full story in our interview below!_
+_Meet Nneji and Chinonye Akunne, sisters and Co-founders of [ILERA Apothecary](https://ileraapothecary.com/). The duo has an incredible story of starting their natural skincare brand concocting products in their kitchen, deeply incorporating their Nigerian roots the brand in as first-generation Americans, and using storytelling to set their company apart. Get the full story in our interview below!_
 
-###### Where did the dream to start ILERA Apothecary start for you both? Tell us a bit about your story!
+###### Where did the dream to start [ILERA Apothecary](https://ileraapothecary.com/) start for you both? Tell us a bit about your story!
 
-As kids, Chinonye experimented with different ingredients in our refrigerator, creating formulations for natural skin and haircare products, and I could be found putting collages together for my “future” media company. As we grew older, we started to pay more attention to our health as well as what we put inside and on our bodies. When our youngest brother went vegan, he searched for a deodorant that was not only 100% natural but effective. He couldn’t find one on the market so, he took to the internet and discovered he could create one himself. With the help of Chinonye and her chemistry background, she was able to refine the product and create ILERA Apothecary’s first product offering. 
+As kids, Chinonye experimented with different ingredients in our refrigerator, creating formulations for natural skin and haircare products, and I could be found putting collages together for my “future” media company. As we grew older, we started to pay more attention to our health as well as what we put inside and on our bodies. When our youngest brother went vegan, he searched for a deodorant that was not only 100% natural but effective. He couldn’t find one on the market so, he took to the internet and discovered he could create one himself. With the help of Chinonye and her chemistry background, she was able to refine the product and create [ILERA Apothecary’s](https://ileraapothecary.com/) first product offering. 
 
 ![ILERA Apothecary Product Shot3.jpg](/uploads/ILERA%20Apothecary%20Product%20Shot3.jpg)
 
@@ -90,4 +90,4 @@ Chinonye: Yoga is my go-to wellness routine. I have a yoga studio that is on the
 
 “Anything is possible.” As first-generation Americans, we saw our parents complete post-graduate degrees, gain full-time jobs, have entrepreneurial ventures, all the while raising children in a land far from what they were used to. If our parents can set goals larger than themselves and achieve them then, we can too. 
 
-_Photos courtesy of Ilera Apothecary_
+_Photos courtesy of [ILERA Apothecary](https://ileraapothecary.com/)_
