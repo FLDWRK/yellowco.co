@@ -44,7 +44,7 @@ When we would travel to Nigeria on holiday, we would be fully immersed in variou
 
 ###### We love that your products are all natural and full of organic, sustainably sourced ingredients! This is definitely no small feat, but a practice we’re seeing more and more skincare brands take part in (which is amazing). How do you make sure you stay competitive as a brand with other natural skincare lines? 
 
-We believe our storytelling is the most important aspect of our brand. Due to our multicultural upbringing, we tell the story of our diversity by incorporating our obodo, community in the Igbo language, into our seasonal campaigns. By doing so, it allows us to not only showcase the diversity in our brand, but also enables us to show that ILERA Apothecary is for everyone. 
+We believe our storytelling is the most important aspect of our brand. Due to our multicultural upbringing, we tell the story of our diversity by incorporating our _obodo_, community in the Igbo language, into our seasonal campaigns. By doing so, it allows us to not only showcase the diversity in our brand, but also enables us to show that ILERA Apothecary is for everyone. 
 
 ###### As you mentioned, you recently launched a new collection (and campaign) called Obodo, inspired by community. What is the story behind this collection? What do you want it to evoke in people?
 
