@@ -1,10 +1,28 @@
 ---
 title: ilera
 date: 2019-03-04 03:00:00 -08:00
+categories:
+- Conscious Living
+tags:
+- ilera apothecary
+- female founders
+- female founders of color
+- women of color
+- founders of color
+- skincare
+- natural skincare
+- wellness
+- organic
+- organic skincare
+- sustainable
+- community
+- storytelling
+- brand
+- marketing
 author: Hanna Snyder
 ---
 
-_intro_
+_Meet Nneji and Chinonye Akunne, sisters and Co-founders of ILERA Apothecary. The duo has an incredible story of starting their natural skincare brand concocting products in their kitchen, deeply incorporating their Nigerian roots the brand in as first-generation Americans, and using storytelling to set their company apart. Get the full story in our interview below!_
 
 ###### Where did the dream to start ILERA Apothecary start for you both? Tell us a bit about your story!
 
