@@ -1,5 +1,5 @@
 ---
-title: Why This Sister, Founder Duo Incorporates Storytelling & Their Nigerian Roots
+title: Why This Sister, Founder Duo Integrates Storytelling & Their Nigerian Roots
   in Their Natural Skincare Brand
 date: 2019-03-04 03:00:00 -08:00
 categories:
