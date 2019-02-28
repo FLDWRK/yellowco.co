@@ -40,7 +40,7 @@ While we were born in the United States, we were raised as both Americans and Ni
 
 When we would travel to Nigeria on holiday, we would be fully immersed in various cultures and communities. From Lagos to Awo-Idemili, we’d partake in a diverse set of cultural traditions, which has had a tremendous effect on how we operate. The name ILERA, comes from the Yoruba tribe, meaning health. While we come from the Igbo tribe, we felt it was imperative to pull cultural references from the entire country. 
 
-[OBODO9.JPG](/uploads/OBODO9.JPG)
+![9.jpeg](/uploads/9.jpeg)
 
 ###### We love that your products are all natural and full of organic, sustainably sourced ingredients! This is definitely no small feat, but a practice we’re seeing more and more skincare brands take part in (which is amazing). How do you make sure you stay competitive as a brand with other natural skincare lines? 
 
@@ -52,7 +52,7 @@ ILERA Apothecary was created to educate the beauty industry on the importance of
 
 ### Our goal is to show the world that skincare is not limited to a single eurocentric viewpoint that is usually shared in the beauty industry. 
 
-[OBODO7.JPG](/uploads/OBODO7.JPG)
+![7.jpeg](/uploads/7.jpeg)
 
 ###### It sounds like you each bring such different skills to the table – Chinonye as the scientist and maker behind your products, and Nneji directing all things creative. Did this balance come naturally? Additionally – how is it balancing your relationship being both sisters and co-founders?
 
@@ -68,7 +68,7 @@ The ability to effectively communicate is extremely important in business, and w
 
 ### To our fellow entrepreneurs: Stick to the terms, focus on the business, and keep your emotions out of it.
 
-[OBODO5.JPG](/uploads/OBODO5.JPG)
+![OBODO3.jpg](/uploads/OBODO3.jpg)
 
 ###### With where you’re at now in year three, what are your goals between now and year five?
 
@@ -84,7 +84,7 @@ I am also a huge fan of celebrating birthdays. While birthdays only happen once 
 
 Chinonye: Yoga is my go-to wellness routine. I have a yoga studio that is on the ground floor of my apartment that makes my 5am classes super easy to get to. I also do a lot of “mindful walking”, where I walk outside no headphones so I can concentrate on the physical sensations of each step. 
 
-![OBODO3.jpg](/uploads/OBODO3.jpg)
+![5.jpeg](/uploads/5.jpeg)
 
 ###### Are there any quotes or mantras that fuel your life and/or business?
 
