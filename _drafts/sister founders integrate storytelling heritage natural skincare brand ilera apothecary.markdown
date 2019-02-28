@@ -1,6 +1,6 @@
 ---
 title: Why This Sister, Founder Duo Integrates Storytelling & Their Nigerian Roots
-  in Their Natural Skincare Brand
+  into Their Natural Skincare Brand
 date: 2019-03-04 03:00:00 -08:00
 categories:
 - Conscious Living
