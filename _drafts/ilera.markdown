@@ -21,6 +21,7 @@ tags:
 - brand
 - marketing
 author: Hanna Snyder
+image: "/uploads/Chinonye&Nneji%20Akunne.jpg"
 ---
 
 _Meet Nneji and Chinonye Akunne, sisters and Co-founders of ILERA Apothecary. The duo has an incredible story of starting their natural skincare brand concocting products in their kitchen, deeply incorporating their Nigerian roots the brand in as first-generation Americans, and using storytelling to set their company apart. Get the full story in our interview below!_
