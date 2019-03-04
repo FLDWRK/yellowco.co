@@ -32,7 +32,7 @@ At Nisolo I work on the Brand Partnerships team (we’re small, yet mighty!), wi
 
 ### I love the challenge of finding how Nisolo’s brand and mission can be communicated on a partner’s platform when their voice might be entirely different from ours.
 
-img
+![IMG_3378.jpg](/uploads/IMG_3378.jpg)
 
 ###### What are some partnerships that have helped grow Nisolo in awareness and revenue? Why were they so successful? 
 
@@ -42,6 +42,8 @@ A few years ago during the holiday season, our team came up with a new idea that
 
 Each of these mediums achieve a similar goal (acquiring new customers and increasing brand awareness), but operate in a very different way. For example, the affiliate channel is data-driven and those partnerships are usually long term working relationships focused on generating sales. Working with influencers is fun because it’s a way for us to experiment with many types of audiences to see how the brand resonates with them through likes, comments, and hopefully new followers to our Instagram account. Press features might be focused more on telling the brand story or amplifying an exciting campaign or product release we have coming up. These are also extremely valuable because it’s hard for people to know what to trust when we’re always being marketed to.
 
+![Nisolo_chelsea_men_women.jpg](/uploads/Nisolo_chelsea_men_women.jpg)
+
 ###### What is [Venture For America](https://ventureforamerica.org/) and how did it help you find a job that aligns with your values? 
 
 [Venture For America](https://ventureforamerica.org/) is an entrepreneurship fellowship that helps recent graduates find startup jobs in U.S. cities that have a growing entrepreneurial community. I discovered Nisolo through the fellowship and immediately fell in love with the company and role we were hiring for. In college, I wrote my senior thesis on the state of regulation in the apparel manufacturing industry, so it felt like fate when I read Nisolo’s mission: to push the fashion industry in a more sustainable direction – where success is based on more than just offering the cheapest price – a direction that not only values exceptional design, but the producer and planet just as much as the end consumer.
@@ -50,17 +52,21 @@ Venture For America emphasized the importance of working for a place that makes 
 
 ###### What are three essentials that help you be your best self ? 
 
-Daily gratitude journal: I write down three things I’m grateful for every day so that I never have to think too hard about a reason to be happy.
+**Daily gratitude journal:** I write down three things I’m grateful for every day so that I never have to think too hard about a reason to be happy.
 
-Running: I try to run every morning as a way to wake up and think through things I usually push aside during the day.  
+**Running:** I try to run every morning as a way to wake up and think through things I usually push aside during the day.  
 
-Staying in touch with old friends: If I ever have 20-30 minutes free after work or in between commitments, I usually call a friend to catch up. It keeps me aware of the fact that everyone else’s life is changing just as rapidly as mine is, and makes me happy to know that physical distance doesn’t have to affect my friendships negatively.
+**Staying in touch with old friends:** If I ever have 20-30 minutes free after work or in between commitments, I usually call a friend to catch up. It keeps me aware of the fact that everyone else’s life is changing just as rapidly as mine is, and makes me happy to know that physical distance doesn’t have to affect my friendships negatively.
+
+![IMG_3315-1.jpg](/uploads/IMG_3315-1.jpg)
 
 ###### Is there a cultural or societal norm that you've had to "redefine" for yourself in life? (i.e. To succeed you must hustle nonstop.)
 
 One norm I’ve learned to challenge was the idea that there is one successful formula for how to build a strong professional network. I’ve always been hesitant to meet with people specifically to ask for targeted advice or to “pick their brain” on a subject. It has always felt uncomfortable to me because I don’t think that type of situation allows me to be myself and truly learn what I want to learn. 
 
 ### The moment I realized that there’s no singular way to successfully navigate the professional world, I was able to feel comfortable being myself and pursue relationships that give me the space to do that. Now, my most cherished professional relationships are built from a place of friendship first.
+
+![IMG_1095.jpg](/uploads/IMG_1095.jpg)
 
 ###### For someone who doesn't currently work at a social enterprise such as Nisolo but still wants their work to be tangibly meaningful, what advice would you give? 
 
