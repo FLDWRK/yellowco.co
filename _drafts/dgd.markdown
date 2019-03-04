@@ -1,5 +1,6 @@
 ---
-title: dgd
+title: 'Spreading a Brand Mission by Building Relationships: Our Do-Good Dozen Winner,
+  Alexandra Bacchus, Partnerships at Nisolo'
 date: 2019-03-06 03:00:00 -08:00
 categories:
 - Entrepreneurs
