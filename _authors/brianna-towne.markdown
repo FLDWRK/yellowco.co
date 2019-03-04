@@ -1,11 +1,9 @@
 ---
 title: Brianna Towne
-company_name: 
-job_title: 
 bio_image: "/uploads/bri.jpg"
-website: https://www.rootwll.com/
+website: https://www.briannatowne.com/
 is_guest: true
 ---
 
-Bri is a nutrition educator and yoga instructor helping mamas and mamas-to-be repair their relationships with food, get clear on the healthiest path to nurturing their unique bodies, and eating and moving without fear, shame, or deprivation. Bri is a wife and mama of 3 little ones and one big doggie. She lives in Los Angeles by the beach and never gets tired of seeing the sunset over the ocean every night. Bri's favorite food is popcorn, she can't stand balloons, and is pretty terrified of birds.
+Bri is a nutritionist and exercise therapist helping mamas and mamas-to-be repair their relationships with food, get clear on the healthiest path to nurturing their unique bodies, and eating and exercising without fear, shame, or deprivation. She is the developer of the MIND + BODY + FOOD method which combines her expertise in health psychology, yoga, personal training, and nutrition to create a truly holistic picture of health. Bri lives in Los Angeles with her husband and four children. 
 
