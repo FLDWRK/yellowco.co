@@ -81,4 +81,4 @@ Yellow Co. already does so much to lift up women trying to do good in the world 
 
 It could mean wearing something way longer than we’re used to, or finding a way to recycle that item responsibly. Nisolo has some amazing sustainability initiatives that I wish everyone knew about, like our [Shoe Reclamation program](https://nisolo.com/pages/shoe-reclamation-program) in partnership with Soles4Souls. We accept donated shoes in any condition, from any brand, and give them to micro-entrepreneurs in growing economies who refurbish and resell them, giving an old pair of shoes new life. _And_ every donation earns you a $30 credit to shop with Nisolo :). We love Yellow Co. – thank you so much for supporting the work we do here!
 
-_Photos courtesy of Alexandra Bacchus_
+_Photos courtesy of [Alexandra Bacchus](https://nisolo.com/)_
