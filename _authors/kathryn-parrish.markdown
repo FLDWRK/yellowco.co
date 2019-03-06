@@ -2,7 +2,7 @@
 title: Kathryn Parrish
 company_name: Yellow Co.
 job_title: Director of Partnerships
-bio_image: "/uploads/kathryn.jpg"
+bio_image: "/uploads/kathryn%20new.jpg"
 website: https://www.instagram.com/kathryn_parrish/
 is_guest: false
 ---
