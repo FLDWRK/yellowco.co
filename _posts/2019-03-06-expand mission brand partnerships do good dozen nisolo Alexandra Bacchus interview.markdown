@@ -23,6 +23,7 @@ tags:
 - work
 - career
 author: Kathryn Parrish
+image: "/uploads/Alexandra-.jpg"
 ---
 
 _At Yellow, we believe that “Doing Good” looks different for everyone. When you feel alive and are fully stepping into who you were made to be, you are offering the world your unique talent and point of view. Our [Do-Good Dozen](https://yellowcollective.lpages.co/do-good-dozen/) Award Winner for this month goes to Alexandra Bacchus, who uses her skills in Brand Partnerships to serve the greater good at [Nisolo](https://nisolo.com/), a brand that creates ethically and sustainably made leather goods. If you’ve seen us mention Nisolo often, it’s because their shoes are versatile and so comfortable to wear [during our annual conference](https://www.instagram.com/p/BYSCHa3FThP/), and they're doing amazing work for both people and the planet. For more on Nisolo’s work, check out [our interview with co-founder Zoe Cleary.](https://yellowco.co/blog/2018/09/21/nisolo-shoes-saving-amazon-trees/) We chatted with Alexandra about how she found meaningful work, redefining success, and discovering the benefits of various types of partnerships._
