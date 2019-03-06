@@ -7,4 +7,4 @@ website: https://www.instagram.com/kathryn_parrish/
 is_guest: false
 ---
 
-As Director of Partnerships for [Yellow Co.](https://yellowco.co/), Kathryn loves meeting kindred spirits and dreaming up ways (preferably over delicious coffee) to live a more conscious and creative life. She lives in Oregon with her husband and dogs and loves exploring small towns, busy cities, and the wellness world. Previous writing includes Thoughtfully Magazine, Brit + Co, and HelloGiggles. You can connect with her on Instagram [@kathryn_parrish](https://www.instagram.com/kathryn_parrish/).
+As Director of Partnerships for [Yellow Co.](https://yellowco.co/), Kathryn loves learning about and supporting brands, people and organizations that are doing good in the world. Something with personality here but I am running out of time so I'll add it another time? Previous writing includes Thoughtfully Magazine, Brit + Co, and HelloGiggles. You can connect with her on Instagram [@kathryn_parrish](https://www.instagram.com/kathryn_parrish/).
