@@ -14,8 +14,8 @@ banners:
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header.jpg"
 sm-banners:
-- link: https://yellowcollective.lpages.co/retreats/
-  image: "/uploads/Soloprenuer-Retreat-sm.jpg"
+- link: https://yellowcollective.lpages.co/do-good-dozen/
+  image: "/uploads/DGD-sm.jpg"
 - link: https://yellowco.co/blog/2018/12/28/enneagram-expert-beatrice-chestnut-interview/
   image: "/uploads/Beatrice-Chestnut-enneagram-sm.jpg"
 - link: "/membership"
