@@ -3,8 +3,8 @@ title: Home
 position: 4
 body-class: home
 banners:
-- link: https://yellowcollective.lpages.co/retreats/
-  image: "/uploads/Soloprenuer-Retreat.jpg"
+- link: https://yellowcollective.lpages.co/do-good-dozen/
+  image: "/uploads/Do-Good-Dozen.jpg"
 - link: https://yellowco.co/blog/2018/12/28/enneagram-expert-beatrice-chestnut-interview/
   image: "/uploads/Beatrice-Chestnut-enneagram.jpg"
 - link: "/membership"
