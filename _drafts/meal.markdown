@@ -1,5 +1,6 @@
 ---
-title: meal
+title: 7 Steps for Mindful Meal Planning to Save Money & Eat Healthy (Even When You’re
+  Crazy Busy)
 date: 2019-03-08 03:00:00 -08:00
 categories:
 - Conscious Living
