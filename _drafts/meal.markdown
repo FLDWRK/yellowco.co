@@ -17,6 +17,8 @@ Enter: PINTEREST. Pinterest is not a social media outlet. It is a search engine.
 
 Another favorite resource of mine is [barre3](https://barre3.com/). I love their workouts, both online and in studio, but they also have amazingly yummy recipes! And the best part, you don't have to be an online subscriber to get access to them! Just download the app and BOOM. You have tons of recipes that are so easy and colorful right at your fingertips!
 
+![charles-538048-unsplash-1.jpg](/uploads/charles-538048-unsplash-1.jpg)
+
 #### 2. Keep a running list.
 
 This is a really important part to long-term meal planning. You need a recipe repertoire at your fingertips so you can go back to recipes that you love or swap out new ones. Every month, I sit down and make a list of recipes we've tried in the past month, what we loved, what we didn't, where they came from (so I can find them again), etc. I usually end up with a couple week's worth of recipes and stick with that.
@@ -35,6 +37,8 @@ For the longest time, I would only plan my dinners. Which was all well and good 
 
 Before you head out the door for the grocery store, make sure to check your fridge and pantry against your shopping list. You may find a lonely bunch of baby spinach in the back of your fridge that would go great with the casserole you were planning for next week. Bump it up to this week and you've got one less thing to buy, and one less thing to toss when that spinach starts to wilt. Knowing what you already have in your kitchen BEFORE you shop and before you finalize your list will save you so much time and money!
 
+![rawpixel-648581-unsplash-1.jpg](/uploads/rawpixel-648581-unsplash-1.jpg)
+
 #### 5. Stock the fridge.
 
 When you've finished your shopping you'll need a place to store all of your new food. Every week when I get home from the grocery, the first thing I do is empty out the fridge of old leftovers that didn't last, empty or near-empty containers, and old unused veggies. Once it's cleaned up, I stock it up. I have actually gotten rid of the drawers in my fridge. 
@@ -46,6 +50,8 @@ This also allows easy access for the kids when they're hungry!
 #### 6. Prep your meals.
 
 I don't go crazy chopping and prepping at the beginning of the week, but I do make sure every meal's ingredients are bundled together in a similar place. That way, it's easy to find when I get to Wednesday's beet, spinach, and quinoa bowl. I also spend some extra time on grocery day chopping up veggies for snacks and putting them in kid-friendly containers for easy access. Bell peppers, cucumbers, and cherry tomatoes are favorites around here, so I just chop 'em up, put them in a big bowl, and leave them on a lower shelf so when the kids say, "Mama i'm hungry," I can say, "Okay, go get something from the fridge!" When they open it up and the first thing they see is a colorful bowl of delicious veggies, they'll grab it first. It works on grown-ups too. (Keep a container of hummus or homemade spinach and artichoke dip on hand as well.)
+
+![foodism360-397390-unsplash-1.jpg](/uploads/foodism360-397390-unsplash-1.jpg)
 
 #### 7. Be flexible.
 
