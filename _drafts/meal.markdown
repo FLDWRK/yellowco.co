@@ -4,6 +4,7 @@ date: 2019-03-08 03:00:00 -08:00
 categories:
 - Conscious Living
 author: Brianna Towne
+image: "/uploads/dose-juice-1184488-unsplash-1.jpg"
 ---
 
 I am a HUGE planner and my meals are no exception. I love sitting down, writing out my shopping list and menu for the week, and coming back to fill up my fridge with fresh food. Something about a well-stocked fridge makes me happy. Maybe I’m in the minority here, but I love it! I know that meal planning isn't for everyone, and many dread that time on Sunday night when they start thinking about meals for the week ahead. But it does not have to be a struggle! It can be fun and exciting and empowering to plan out your meals for the week! It is also a great way to make sure you're planning for healthy, sustainable meals instead of frantically ordering pizza on a Thursday night because you ran out of food. Hey, it happens! But it doesn't have to.
