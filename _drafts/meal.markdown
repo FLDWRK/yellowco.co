@@ -4,6 +4,32 @@ title: 7 Steps for Mindful Meal Planning to Save Money & Eat Healthy (Even When 
 date: 2019-03-08 03:00:00 -08:00
 categories:
 - Conscious Living
+tags:
+- meal planning
+- healthy meals
+- healthy meal planning
+- sustainable
+- busy women
+- busy schedule
+- save money
+- eat healthy
+- nutritious
+- recipes
+- resources
+- meal planning resource
+- meal planning help
+- healthy food
+- grocery shopping
+- grocery list
+- tips
+- meal tips
+- nutritionist
+- mom
+- mother
+- kids
+- meal planning for moms
+- busy moms
+- meal planning for kids
 author: Brianna Towne
 image: "/uploads/dose-juice-1184488-unsplash-1.jpg"
 ---
