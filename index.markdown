@@ -25,10 +25,10 @@ sm-banners:
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header-SM.jpg"
 buttons:
-- text: Membership
+- text: Become a Member
   link: "/membership"
-- text: Conference
-  link: "/conference"
+- text: Come to an Event
+  link: "/events"
 custom_page_title: Yellow Co. | Women working together for the good of the world.
 layout: custom/home
 ---
