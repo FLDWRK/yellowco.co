@@ -1,12 +1,10 @@
 ---
-title: comm
+title: Seriously Struggling with Your Boss’s Communication Style? How to Resolve It
 date: 2019-03-11 03:00:00 -07:00
 categories:
 - Relationships
 author: Kristi Triplett Jones
 ---
-
-How To Talk To Your Boss About Communication Issues In A Healthy Way
 
 Communication is the foundation of all human relationships. From communicating verbally, to eye contact, to a single word – it’s vital to know how to communicate effectively in your personal and professional relationships. Even though we have control over our own communication, we unfortunately can’t control those around us. It can get even more difficult when communication issues arise at work, and even more so when they're with your boss. Many of us have been there and I’ve certainly had to have some difficult, straight talks with the big woman/man on campus.
  
