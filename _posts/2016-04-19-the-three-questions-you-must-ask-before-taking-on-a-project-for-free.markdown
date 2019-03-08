@@ -1,6 +1,6 @@
 ---
 title: The Three Questions You Must Ask Before Taking On a Project for Free
-date: 2016-04-19 04:00:33 -07:00
+date: 2016-04-19 04:00:00 -07:00
 categories:
 - Advice
 - The Solopreneur
@@ -36,5 +36,3 @@ It’s easy to give discounts and do things for free when you want to please peo
 In the end, it’s up to you to discern what’s best for your business. I’ve learned so much in the past couple years and I am continuing to do so by improving workflow, working with clients, and collaborating with other artists. The most important thing I’ve learned is to be bold and trust myself and my talent, all while maintaining a humble heart and being open to new opportunities to learn and grow.
 
 _Photos by [Andrea David](http://andreadavidoc.com/2/category/lifestyle/1.html)_
-
-[![ANDREADAVID](https://yellow-blog-images.imgix.net/2016/04/ANDREADAVID.jpg)](http://andreadavidoc.com/index.html)
