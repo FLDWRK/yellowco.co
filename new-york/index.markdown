@@ -39,12 +39,12 @@ speakers:
   title: 'Co-Founder & Co-CEO '
   company: Mind Body Green
   image: "/uploads/3xAEdvyO_400x400.jpg"
-- name: More speakers and panelists to be announced!
-  image: "/assets/images/nyc/more-to-come.png"
 - name: Lauren Bush Lauren
   title: 'CEO, Creative Director, and Co-Founder '
   company: FEED Projects
   image: "/uploads/Screen%20Shot%202019-03-07%20at%205.08.00%20PM.png"
+- name: More speakers and panelists to be announced!
+  image: "/assets/images/nyc/more-to-come.png"
 venue:
 - title: 501 Union, Brooklyn
   image: "/assets/images/nyc/venue.jpg"
