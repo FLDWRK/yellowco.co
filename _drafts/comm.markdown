@@ -16,6 +16,8 @@ So how do you do it? How do you have an effective conversation with your boss ar
 Get your thoughts out on paper and get organized. It’s important that you jot down your intention for having this conversation, what goals you want to achieve, and anything else that you may not fully remember when you’re in the meeting. 
 
 ### This will allow your thoughts to be clear rather than chaotic so you step in with full control over your part of the conversation.
+
+![stil-734864-unsplash-1.jpg](/uploads/stil-734864-unsplash-1.jpg)
  
 #### Get A Meeting Scheduled
 
@@ -23,7 +25,11 @@ When you reach out to your boss, it’s important that you purposely explain wha
  
 #### Discuss Roles and Responsibilities
 
-Before you step into the meeting, are you clear? Present? Receptive? To help ease into the conversation, it’s good to address your roles and responsibilities in the company. Do you have these listed out as a resource? Print them out and take them into the meeting with you. Get clear about how you’re performing in your role (even if you know you’re absolutely killing it) and have your boss talk with you.
+Before you step into the meeting, are you clear? Present? Receptive? To help ease into the conversation, it’s good to address your roles and responsibilities in the company. Do you have these listed out as a resource? Print them out and take them into the meeting with you. 
+
+### Get clear about how you’re performing in your role (even if you know you’re absolutely killing it).
+
+![stil-354979-unsplash-1.jpg](/uploads/stil-354979-unsplash-1.jpg)
  
 #### Straight Talk on Communication Issues
 
