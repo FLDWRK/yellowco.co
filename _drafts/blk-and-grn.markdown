@@ -1,5 +1,6 @@
 ---
-title: blk & grn
+title: 'Clean Beauty for Black Women, by Black Women: Our Interview with Blk + Grn
+  Founder'
 date: 2019-03-13 03:00:00 -07:00
 categories:
 - Conscious Living
