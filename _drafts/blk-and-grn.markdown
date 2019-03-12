@@ -4,6 +4,7 @@ date: 2019-03-13 03:00:00 -07:00
 categories:
 - Conscious Living
 author: Yellow Co.
+image: "/uploads/BLK_GRN_Product_lifestyle_natural_black_melanin-2355_1024x1024.jpg"
 ---
 
 10% code is Yell10
