@@ -1,5 +1,5 @@
 ---
-title: 'Clean Beauty for Black Women, by Black Women: Our Interview with Blk + Grn
+title: 'Clean Beauty for Black Women, by Black Women: Our Interview with BLK + GRN
   Founder'
 date: 2019-03-13 03:00:00 -07:00
 categories:
