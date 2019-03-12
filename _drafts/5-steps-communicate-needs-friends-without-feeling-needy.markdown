@@ -4,6 +4,7 @@ date: 2019-03-18 03:00:00 -07:00
 categories:
 - Relationships
 author: Jenna Britton
+image: "/uploads/img404-813f73.jpg"
 ---
 
 Lasting friendships require thoughtful attention, just as romantic relationships do. And yet, we rarely put much maintenance into our friendships, simply assuming that they will last on their own merit... for the rest of our lives. On the contrary, friendships can be just as deep (if not more so) than romantic partnerships; and, for that reason, they require the same healthy relationship habits: presence, connection, priority, and perhaps most importantly, great communication.
