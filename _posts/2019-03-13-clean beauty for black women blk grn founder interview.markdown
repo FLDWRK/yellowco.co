@@ -42,7 +42,7 @@ Black women are looking for higher quality Black-owned products, but there wasn�
 
 ![Screen Shot 2019-03-12 at 2.16.55 PM.png](/uploads/Screen%20Shot%202019-03-12%20at%202.16.55%20PM.png)
 
-###### What do you all look for when you’re sourcing your conscious products?
+###### What all do you look for when sourcing your conscious products?
 
 All of our Black artisans are carefully chosen by Black women's health experts who know what an all-natural product truly looks like. We've seen firsthand the damaging effects harmful ingredients and practices have had on our community. Our marketplace aims to rectify this by connecting women of color to high-quality, toxic-free brands that share in our mission of health, wellness, and community cultivation.
 
@@ -69,9 +69,9 @@ I recommend connecting with content that’s outside of your comfort zone. Our [
 
 I value Black women, small businesses, and my own happiness. But my choices didn’t always reflect these values. 
 
-### I feel that if your choices, actions, and purchasing decisions do not reflect your values, then you haven’t identified them and/or been intentional about them. I know I wasn’t. 
+### I feel that if your choices, actions, and purchasing decisions do not reflect your values, then you haven’t identified them and/or been intentional about them. 
 
-As consumers we have to hold each other accountable. I started by connecting to Black artisans that I believed in – someone else can start by having a conversation. 
+I know I wasn’t. As consumers we have to hold each other accountable. I started by connecting to Black artisans that I believed in – someone else can start by having a conversation. 
 
 ![Screen Shot 2019-03-12 at 2.17.19 PM.png](/uploads/Screen%20Shot%202019-03-12%20at%202.17.19%20PM.png)
 
