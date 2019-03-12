@@ -42,21 +42,21 @@ Take a look at your current clients (and relationships, coworkers, job day-to-da
 
 ### Look at the clients that don’t pay your full rate and ask yourself, is the quantity of discounted work more valuable than making room for full-price contracts? 
 
-If your client continues to ask for work that isn’t in the scope of your services or is not work you want to continue doing in the future, is it worth keeping the income or making space for the work you know you’re meant to do? 
-
 ![ron-mcclenny-748683-unsplash-1.jpg](/uploads/ron-mcclenny-748683-unsplash-1.jpg)
+
+If your client continues to ask for work that isn’t in the scope of your services or is not work you want to continue doing in the future, is it worth keeping the income or making space for the work you know you’re meant to do? 
 
 These questions are scary because they’re asking us to examine something dangerous: the loss of livelihood, the closure of a relationship, or just the restructuring of an existing agreement. If you can get past the fear of missing out on your existing revenue, you enter a space where you can imagine a better situation and even make a plan for a healthier future.
 
 What I found was that not only was the client not a good fit for me, I was not the right fit for them. They wanted work from me that I didn’t want to do; at a rate for which I didn’t feel comfortable working. We had different expectations that never quite aligned, and we were working on borrowed time. Rather than jumping ship or burning a bridge, there are ways to preserve a client relationship and even keep the light on for future collaboration if you plan accordingly. 
+
+![stil-564518-unsplash (1)-1.jpg](/uploads/stil-564518-unsplash%20(1)-1.jpg)
 
 ### Here's what to do when you realize a client engagement is no longer a good fit for your business: 
 
 1. Understand the breakdown in the relationship and where your needs are not being met. 
 
 2. Determine whether or not the relationship is salvageable by considering - and even inquiring - into their expectations. If you can renegotiate duties, payment, time commitment, or scope, the client relationship will be stronger after the restructure that works for both parties. 
-
-![stil-564518-unsplash (1)-1.jpg](/uploads/stil-564518-unsplash%20(1)-1.jpg)
 
 3. Clearly outline what you need from your clients moving forward, based on what you’ve discovered to be unworkable in this situation. Keep this information handy as you begin to refill your client roster, and as you consider potential contracts in the future.
 
