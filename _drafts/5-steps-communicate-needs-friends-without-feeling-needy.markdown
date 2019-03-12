@@ -3,6 +3,22 @@ title: 5 Steps to Communicate Your Needs to Your Friends (Without Feeling Needy)
 date: 2019-03-18 03:00:00 -07:00
 categories:
 - Relationships
+tags:
+- relationships
+- friendships
+- build friendships
+- communication
+- needs
+- speak needs
+- share needs
+- good communication
+- healthy communication
+- healthy friendships
+- open
+- grace
+- growth
+- personal growth
+- speak up
 author: Jenna Britton
 image: "/uploads/img404-813f73.jpg"
 ---
