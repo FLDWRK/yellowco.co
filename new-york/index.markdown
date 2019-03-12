@@ -37,7 +37,7 @@ speakers:
   image: "/uploads/Screen%20Shot%202019-01-23%20at%209.40.37%20AM.png"
 - name: Colleen Wachob
   title: 'Co-Founder & Co-CEO '
-  company: Mind Body Green
+  company: Mindbodygreen
   image: "/uploads/3xAEdvyO_400x400.jpg"
 - name: Lauren Bush Lauren
   title: 'CEO, Creative Director, and Co-Founder '
