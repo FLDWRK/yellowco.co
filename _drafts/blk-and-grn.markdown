@@ -8,7 +8,7 @@ author: Yellow Co.
 image: "/uploads/BLK_GRN_Product_lifestyle_natural_black_melanin-2355_1024x1024.jpg"
 ---
 
-_When [Dr. Kristian Henderson](https://www.instagram.com/drkristianh/) created [BLK + GRN](https://blkgrn.com/), she was setting out to meet not just one, but multiple needs she saw that weren’t being met for Black women. By creating an online marketplace full of non-toxic beauty and personal care products, all made by Black artisans and founders, she’s providing women better access to clean products, and better access for them to scale their businesses. Hear more from Dr. Kristian herself in our interview with her below, and check out their marketplace [here](https://blkgrn.com/pages/social)! You can even grab 10% off by using code: Yell10!_
+_When [Dr. Kristian Henderson](https://www.instagram.com/drkristianh/) created [BLK + GRN](https://blkgrn.com/), she was setting out to meet not just one, but multiple needs she saw that weren’t being met for Black women. By creating an online marketplace full of non-toxic beauty and personal care products, all made by Black artisans and founders, she’s providing women better access to clean products, and better access for them to scale their businesses. Hear more from Dr. Kristian herself in our interview with her below, and check out their marketplace [here](https://blkgrn.com/)! **You can even grab 10% off by using code: Yell10!**_
 
 ###### How did you get started doing what you do? Tell us your story!
 
