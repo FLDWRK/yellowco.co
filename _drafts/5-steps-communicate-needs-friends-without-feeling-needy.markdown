@@ -13,6 +13,8 @@ Lasting friendships require thoughtful attention, just as romantic relationships
 
 But perhaps because we have such high expectations for the innate health of our friendships, it can be that much harder to ask for what we need when things aren’t going so well. According to life coach, [Thais Sky](https://www.thaissky.com/): “Psychology tells us that being attached to one another is a core human need that goes beyond childhood and into our adult lives. When we can recognize that, as social creatures, we are programmed to rely on each other, it paves the way for us to understand that interdependence is a sign of strength.” It’s imperative that we learn how to communicate what we need in our friendships — and any partnership — not from a place of neediness, but to create the healthy, strong, mutually reliant relationships that truly last.
 
+![IMG_5938.jpg](/uploads/IMG_5938.jpg)
+
 Here are five tips to help you do that well:
 
 #### Get Clear On What You Want
@@ -27,15 +29,17 @@ Conversations that have the potential to become emotional or heated should alway
 
 That being said, it’s not likely that you’ll _effectively_ communicate how you’re feeling or what you need if you try to converse with your friend from that negative headspace. Instead, have an intentional (and perhaps, scheduled) conversation when you’re both calm and prepared to discuss something deeper. Let your friend know what you want to talk about, so that they don’t feel blindsided and can perhaps prepare some talking points of their own.
 
+![img431.jpg](/uploads/img431.jpg)
+
 #### Avoid Being Accusatory
 
 It’s easy to want to blame your friend for every instance that they didn’t or couldn’t give you what you need. But what if they were dealing with their own issues? What if they didn’t realize you were distant or hurting? 
 
 ### What if they wanted to help, but they didn’t even _know_ what you need?
 
-As with any healthy relationship communication, avoid putting unnecessary responsibility on the other party and take responsibility for your own feelings and needs. Try to avoid blaming statements if your friends haven’t yet identified or supported your needs; instead, use “I” statements to take responsibility for your feelings. Instead of saying, “You never make time for me!” try telling them: “I feel like I’m not a priority in your life. I need to feel that you want to spend time with me.” 
+As with any healthy relationship communication, avoid putting unnecessary responsibility on the other party and take responsibility for your own feelings and needs. Try to avoid blaming statements if your friends haven’t yet identified or supported your needs; instead, use “I” statements to take responsibility for your feelings. Instead of saying, “You never make time for me!” try telling them: “I feel like I’m not a priority in your life. I need to feel that you want to spend time with me.” This approach empowers you by allowing you to take responsibility for the only thing you can really know and control: your own feelings.
 
-### This approach empowers you by allowing you to take responsibility for the only thing you can really know and control: your own feelings.
+![img402-c3ac09.jpg](/uploads/img402-c3ac09.jpg)
 
 #### Include Steps to Support You
 
@@ -46,6 +50,8 @@ Of course, it can feel frustrating when your friends — the people who are supp
 ### A friend who actively listens to your requests, then intentionally implements the best steps you’ve asked them to take is the true sign of a friend who cares.
 
 Think about the needs you identified in the first step, then list 1-3 actionable ways your friend can best support that need. Be honest with yourself and with them about the tangible steps that will meet your needs.
+
+![IMG_5867.jpg](/uploads/IMG_5867.jpg)
 
 #### Offer to Return the Favor
 
