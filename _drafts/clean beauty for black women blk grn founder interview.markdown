@@ -4,6 +4,28 @@ title: 'Clean Beauty for Black Women, by Black Women: Our Interview with BLK + G
 date: 2019-03-13 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- blk + grn
+- dr. kristian henderson
+- dr. kristian h
+- black women
+- beauty for black women
+- non-toxic
+- personal care
+- self care
+- non-toxic product
+- clean beauty
+- clean products
+- green
+- clean living
+- conscious living
+- black owned
+- female founders
+- female entrepreneurs
+- women of color
+- founders of color
+- black artisans
+- interview
 author: Yellow Co.
 image: "/uploads/BLK_GRN_Product_lifestyle_natural_black_melanin-2355_1024x1024.jpg"
 ---
