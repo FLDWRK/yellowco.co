@@ -39,6 +39,8 @@ What I found was that not only was the client not a good fit for me, I was not t
 
 2. Determine whether or not the relationship is salvageable by considering - and even inquiring - into their expectations. If you can renegotiate duties, payment, time commitment, or scope, the client relationship will be stronger after the restructure that works for both parties. 
 
+![stil-564518-unsplash (1)-1.jpg](/uploads/stil-564518-unsplash%20(1)-1.jpg)
+
 3. Clearly outline what you need from your clients moving forward, based on what you’ve discovered to be unworkable in this situation. Keep this information handy as you begin to refill your client roster, and as you consider potential contracts in the future.
 
 4. Illustrate how you could best serve this client on your way out. A transition plan, assisting with training your replacement, or an organized turnover of materials. Outline a timeline that works for you; I would suggest 30-90 days, based on the industry and how you’re able to decrease the scope of work over the timeline duration. This information empowers the company to replace you thoughtfully and not be left scrambling, and for you to maintain some financial security as you focus on substituting their income. 
