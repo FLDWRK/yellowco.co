@@ -18,7 +18,7 @@ With a background in Public Health, one of the topics central to my research was
 
 Black women are looking for higher quality Black-owned products, but there wasn’t an easy way to purchase these green products. That inspired me to launch [BLK + GRN](https://blkgrn.com/), a platform for marketing and selling beauty and personal care products from Black founders made using non-toxic ingredients.
 
-![Kristian Henderson.jpg](/uploads/Kristian%20Henderson.jpg)
+![Screen Shot 2019-03-12 at 2.16.55 PM.png](/uploads/Screen%20Shot%202019-03-12%20at%202.16.55%20PM.png)
 
 ###### What do you all look for when you’re sourcing your conscious products?
 
@@ -51,7 +51,7 @@ I value Black women, small businesses, and my own happiness. But my choices didn
 
 As consumers we have to hold each other accountable. I started by connecting to Black artisans that I believed in – someone else can start by having a conversation. 
 
-![Dr.KristianHenderson.jpg](/uploads/Dr.KristianHenderson.jpg)
+![Screen Shot 2019-03-12 at 2.17.19 PM.png](/uploads/Screen%20Shot%202019-03-12%20at%202.17.19%20PM.png)
 
 ###### Any advice for other female entrepreneurs you’d like to offer our community?
 
