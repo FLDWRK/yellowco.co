@@ -3,6 +3,23 @@ title: How to Know When You Need to Fire a Client
 date: 2019-03-15 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- freelance
+- client
+- client relationship
+- workload
+- getting clients
+- fire a client
+- business
+- graphic design
+- writer
+- photographer
+- copywriter
+- client roster
+- portfolio
+- client relationships
+- let go client
+- let go
 author: Amelia Bartlett
 image: "/uploads/stil-564510-unsplash-1.jpg"
 ---
