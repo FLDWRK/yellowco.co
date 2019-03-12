@@ -7,7 +7,7 @@ author: Yellow Co.
 image: "/uploads/BLK_GRN_Product_lifestyle_natural_black_melanin-2355_1024x1024.jpg"
 ---
 
-10% code is Yell10
+_When [Dr. Kristian Henderson](https://www.instagram.com/drkristianh/) created [BLK + GRN](https://blkgrn.com/), she was setting out to meet not just one, but multiple needs she saw that weren’t being met for Black women. By creating an online marketplace full of non-toxic beauty and personal care products, all made by Black artisans and founders, she’s providing women better access to clean products, and better access for them to scale their businesses. Hear more from Dr. Kristian herself in our interview with her below, and check out their marketplace [here](https://blkgrn.com/pages/social)! You can even grab 10% off by using code: Yell10!_
 
 ###### How did you get started doing what you do? Tell us your story!
 
@@ -15,7 +15,7 @@ With a background in Public Health, one of the topics central to my research was
 
 ### Black women spend twice as much on personal care products, yet 75% of the products marketed to Black women are formulated with ingredients that are considered toxic and linked to cancer, hormone disruption, and reproductive damage. 
 
-Black women are looking for higher quality Black-owned products, but there wasn’t an easy way to purchase these green products. That inspired me to launch BLK + GRN, a platform for marketing and selling beauty and personal care products from Black founders made using non-toxic ingredients.
+Black women are looking for higher quality Black-owned products, but there wasn’t an easy way to purchase these green products. That inspired me to launch [BLK + GRN](https://blkgrn.com/), a platform for marketing and selling beauty and personal care products from Black founders made using non-toxic ingredients.
 
 ![Kristian Henderson.jpg](/uploads/Kristian%20Henderson.jpg)
 
