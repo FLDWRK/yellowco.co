@@ -54,3 +54,5 @@ Now, it’s time to turn the tables: Encourage your friend to share their needs 
 This is what makes a relationship a _relationship_ after all; it’s the careful dance of managing each other’s needs, supporting each other’s desires, and learning and growing individually and as unit because of your willingness to hear from and support one another.
 
 “Asking for what you want from a friend, whether it’s for them to show up for you in a certain way or to stop doing something that hurts you, is hard and asks us to directly confront what it means to take up space and to feel worthy in that space,” says Thais. If you haven’t yet fully developed that sense of worthiness — the confidence to identify what you need and believe that you deserve to receive it — give yourself grace and look at each opportunity to express your needs as an opportunity and a practice. Remember that the friends who are right for you will always be able to receive that.
+
+_Photos by [Summer Staeb](https://www.summerstaeb.com/)_
