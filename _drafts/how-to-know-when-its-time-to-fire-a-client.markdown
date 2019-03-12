@@ -4,6 +4,7 @@ date: 2019-03-15 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Amelia Bartlett
+image: "/uploads/stil-564510-unsplash-1.jpg"
 ---
 
 I just had my first experience in “letting go” of a client. I let go of my biggest client, who I’d been with the longest, and who was my primary source of income. The very next day, after the shock had diminished, I experienced a near euphoric motivation to get to work. I felt this new expansive space in my brain for creatively serving my existing clients. I became more sensitive to opportunities around me, and even reached out to not one, but two potential leads with ideas I knew could serve their business.
