@@ -1,0 +1,7 @@
+---
+title: Yellow Conference New York
+date: 2019-03-12 14:17:00 -07:00
+permalink: NEW-YORK-CONFERENCE
+layout: custom/conference
+---
+
