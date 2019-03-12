@@ -1,5 +1,5 @@
 ---
-title: how to know when it's time to fire a client
+title: How to Know When You Need to Fire a Client
 date: 2019-03-15 03:00:00 -07:00
 categories:
 - Entrepreneurs
