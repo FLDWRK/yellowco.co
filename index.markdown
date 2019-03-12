@@ -3,8 +3,6 @@ title: Home
 position: 4
 body-class: home
 banners:
-- link: https://yellowco.co/new-york/
-  image: "/uploads/FLASH-SALE.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 - link: https://yellowcollective.lpages.co/do-good-dozen/
@@ -14,8 +12,6 @@ banners:
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header.jpg"
 sm-banners:
-- link: https://yellowco.co/new-york/
-  image: "/uploads/FLASH-SALE-SM.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
 - link: https://yellowcollective.lpages.co/do-good-dozen/
