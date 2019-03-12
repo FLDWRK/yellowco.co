@@ -14,8 +14,8 @@ long-description: A gathering for entrepreneurial-minded women who are using the
   difficult times? We can’t wait to dive in!
 speakers:
 - name: Vik Harrison
-  title: CO-FOUNDER
-  company: CHARITY:WATER
+  title: Co-Founder
+  company: charity:water
   image: "/uploads/vik_portrait.jpg"
 - name: 'Mari Andrew '
   title: Writer & Illustrator
