@@ -121,4 +121,4 @@ I truly believe that collaboration can save the world. When we come together to 
 
 By ditching the scarcity mindset and adopting an abundance mindset, we can all succeed together. If I can enable even a small number of people to feel comfortable and confident doing that, my life will have purpose.  
 
-_Photos courtesy of Baily Hancock_
+_Photos courtesy of [Baily Hancock](https://bailyhancock.com/)_
