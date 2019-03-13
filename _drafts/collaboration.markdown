@@ -3,12 +3,24 @@ title: Collaboration
 date: 2019-03-20 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- collaboration
+- partnerships
+- brand partnerships
+- brand collaboration
+- creative collaboration
+- collaboration over competition
+- consultant
+- collaboration consultant
+- entrepreneur
+- interview
+- female founder
 author: Laura Youngkin
 ---
 
-_It’s a brave new world out there, and brand collaborations have become almost essential to growing a new business or helping shine a fresh light on well-established brands. But where do you start? I sat down with Baily Hancock, and LA-based Collaboration Consultant, to get the 411 on how to get started and grow your business through collaboration._
+_It’s a brave new world out there, and brand collaborations have become almost essential to growing a new business or helping shine a fresh light on well-established brands. But where do you start? I sat down with [Baily Hancock](https://bailyhancock.com/), and LA-based Collaboration Consultant, to get the 411 on how to get started and grow your business through collaboration._
 
-###### Baily, you're a Collaboration Consultant. Tell me more about what your job entails.
+###### Baily, you're a [Collaboration Consultant](https://bailyhancock.com/). Tell me more about what your job entails.
 
 Depending on the day and client, I’m part business coach, marketing strategist, and entrepreneur therapist, but all with a collaboration lense.  I teach entrepreneurs how to gain credibility through collaboration and grow their business with partnerships. I’m a firm believer in teaching a woman to fish rather than catching the fish for her, so I provide my clients with the tools, templates, and best practices to successfully leverage partnerships and collaborations in their business long after our time together is finished. 
 
