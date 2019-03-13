@@ -85,6 +85,8 @@ The most important thing you can do to increase the likelihood of someone saying
 
 Of course, you must also make sure that it’s worth it for you as well, but when doing the initial outreach frame it in a way that doesn’t scare them off with an unformed, one-sided collaboration idea. 
 
+![CourtneyPaigeRay_BailyHancock-46-1.jpg](/uploads/CourtneyPaigeRay_BailyHancock-46-1.jpg)
+
 ###### What are the most common goals for collaborations?
 
 The number one goal most people have with collaborating is exposure for their product, service, event, or platform. That’s also the most effective way to leverage collaboration - by teaming up with a well-aligned brand, organization, or community, you’re able to gain immediate trust and credibility with their followers that simply doesn’t come from traditional means of promotion.
@@ -95,6 +97,8 @@ Other goals for collaborations are: hookups or opportunities for your community 
 
 Don’t over-promise and under-deliver! Make sure you can actually come through with what you’ve promised to a partner; stiffing them on delivery is the quickest way to sour a relationship. Be clear about your goals and expectations from the get-go. Start small and with people you already know and trust rather than going after a big brand that you have no connection to and pitching a huge idea. Also, evaluate every collaboration after it ends so you can learn from them and do better going forward.
 
+![CourtneyPaigeRay_BailyHancock-117-1.jpg](/uploads/CourtneyPaigeRay_BailyHancock-117-1.jpg)
+
 ###### How can anyone use brand collaborations and partnerships to enhance their voice and reach?
 
 When you collaborate with a well-aligned brand, it enables you to get in front of your target demographic in a way that feels much more authentic and engaging to the partner’s community. Even if they have a small following, those are all people who might not have ever heard of you and your business otherwise. 
@@ -103,7 +107,7 @@ If you’re going to do a brand collaboration, make sure you’re prepared on yo
 
 ### Don’t waste that valuable exposure by not having a way for them to immediately be looped into your community in some way.
 
-IMG
+![CourtneyPaigeRay_BailyHancock-237-1-892781.jpg](/uploads/CourtneyPaigeRay_BailyHancock-237-1-892781.jpg)
 
 ###### To that end, how can you make sure to maintain your vision and voice during a collaboration?
 
