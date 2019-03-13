@@ -1,6 +1,6 @@
 ---
-title: 'Collaboration Nation: This Expert Answers All Your Questions on the Essential
-  Practice to Grow Your Business'
+title: 'Collaboration Nation: This Expert Answers All Your Questions on an Essential
+  Practice to Business Growth'
 date: 2019-03-20 03:00:00 -07:00
 categories:
 - Entrepreneurs
