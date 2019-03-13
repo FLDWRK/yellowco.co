@@ -16,6 +16,7 @@ tags:
 - interview
 - female founder
 author: Laura Youngkin
+image: "/uploads/CourtneyPaigeRay_BailyHancock-33-1.jpg"
 ---
 
 _It’s a brave new world out there, and brand collaborations have become almost essential to growing a new business or helping shine a fresh light on well-established brands. But where do you start? I sat down with [Baily Hancock](https://bailyhancock.com/), and LA-based Collaboration Consultant, to get the 411 on how to get started and grow your business through collaboration._
