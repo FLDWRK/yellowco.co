@@ -15,6 +15,16 @@ tags:
 - entrepreneur
 - interview
 - female founder
+- business growth
+- business advice
+- small business
+- tips
+- growth advice
+- marketing
+- social media
+- blog
+- guest blog
+- podcast
 author: Laura Youngkin
 image: "/uploads/CourtneyPaigeRay_BailyHancock-33-1.jpg"
 ---
