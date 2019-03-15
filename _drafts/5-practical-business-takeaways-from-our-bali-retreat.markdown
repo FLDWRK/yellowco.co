@@ -22,7 +22,7 @@ I want to share with you five of the key takeaways from the content we studied a
 
 One of the most powerful workshops we went through at the retreat was modeled after Simon Sinek’s Golden Circle. It’s structured around having your WHY at the center of everything you do, then your HOW, then your WHAT. A lot of times we start with the WHAT, instead of diving into to core of WHY we’re doing what we’re doing. 
 
-### Your WHY is your brand’s purpose. It’s why you exist. 
+### Your _why_ is your brand’s purpose. It’s why you exist. 
 
 The best brands and organizations know their why and filter everything through that. Like Simon Sinek says, “People don’t buy what you do, they buy WHY you do it.” Identifying WHY you do what you do is essential to making decisions as you move forward and allows you to engage your audience in a way that is meaningful and relatable. 
 
