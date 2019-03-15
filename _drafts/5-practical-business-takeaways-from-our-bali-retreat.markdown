@@ -4,7 +4,7 @@ date: 2019-03-22 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Joanna Waterfall
-image: "/uploads/YellowCoBali-31.jpg"
+image: "/uploads/YellowCoBali-150.jpg"
 ---
 
 After a few years of running large annual conferences and experiencing the power of women coming together in person, we knew there was another in person experience that would provide something deeper and more tangible we could offer our community of world-changing women.
