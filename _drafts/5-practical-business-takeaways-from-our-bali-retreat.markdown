@@ -34,6 +34,8 @@ Although it’s not the most “urgent” thing to do when you’re running your
 
 A sales funnel is, simply put, how you organize and categorize your customers and potential customers. It’s coming up with an intentional marketing plan to make sure those potential customers are interacting with your brand and moving down the funnel. towards becoming actual customers. Then, towards becoming loyal customers who turn into ambassadors for your brand. Essentially, it’s how you make money and grow an amazing community of customers who will return to you again and again! At our retreat we found that this was a super helpful and important exercise when it comes to figuring out how your business is going to make money and bring in leads! 
 
+_**[Want to create your own sales funnel? Hop on our email list to download our Sales Funnel worksheet!](https://yellowcollective.lpages.co/sales-funnel-worksheet/)**_
+
 ![Screen Shot 2019-03-14 at 6.42.43 PM.png](/uploads/Screen%20Shot%202019-03-14%20at%206.42.43%20PM.png)
 
 #### A great way for small businesses to grow and make money is to collaborate and partner with larger businesses or audiences.
