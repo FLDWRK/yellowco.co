@@ -3,6 +3,28 @@ title: 5 Practical Takeaways from Our Bali Retreat on Building Your Do-Good Busi
 date: 2019-03-22 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- entrepreneur
+- social enterprise
+- entrepreneur retreats
+- do-good business
+- social business
+- business advice
+- build business
+- business growth
+- workshops
+- events
+- in person events
+- women
+- female founders
+- female entrepreneur events
+- retreats for women
+- portland
+- orange county
+- los angeles
+- social entrepreneur
+- impact
+- social impact
 author: Joanna Waterfall
 image: "/uploads/YellowCoBali-150.jpg"
 ---
@@ -37,7 +59,7 @@ Although it’s not the most “urgent” thing to do when you’re running your
 
 #### Know and practice your sales funnel.
 
-A sales funnel is, simply put, how you organize and categorize your customers and potential customers. It’s coming up with an intentional marketing plan to make sure those potential customers are interacting with your brand and moving down the funnel. towards becoming actual customers. Then, towards becoming loyal customers who turn into ambassadors for your brand. Essentially, it’s how you make money and grow an amazing community of customers who will return to you again and again! At our retreat we found that this was a super helpful and important exercise when it comes to figuring out how your business is going to make money and bring in leads! 
+A sales funnel is, simply put, how you organize and categorize your customers and potential customers. It’s coming up with an intentional marketing plan to make sure those potential customers are interacting with your brand and moving down the funnel towards becoming actual customers. Then, towards becoming loyal customers who turn into ambassadors for your brand. Essentially, it’s how you make money and grow an amazing community of customers who will return to you again and again! At our retreat we found that this was a super helpful and important exercise when it comes to figuring out how your business is going to make money and bring in leads! 
 
 _**[Want to create your own sales funnel? Hop on our email list to download our Sales Funnel worksheet!](https://yellowcollective.lpages.co/sales-funnel-worksheet/)**_
 
@@ -61,21 +83,21 @@ There’s only so much you can learn from Google searches and online tutorials. 
 
 #### Businesses are built by taking one step at a time.
 
-After going over seven days of content and workshops together, it was easy to feel overwhelmed by information overload! One thing we had to all remind each other of is that big things are accomplished one step at a time. It’s can get discouraging when you feel like you have so much to do and so far to go, but when we break down the big goals into smaller, more actionable goals and little to-dos, the big picture completes itself. So, when you get stressed with how far you feel from your end goal, remember, take it ONE STEP AT A TIME. Just start by taking one small step forward!
+After going over seven days of content and workshops together, it was easy to feel overwhelmed by information overload! One thing we had to all remind each other of is that big things are accomplished one step at a time. It can get discouraging when you feel like you have so much to do and so far to go, but when we break down the big goals into smaller, more actionable goals and little to-dos, the big picture completes itself. So, when you get stressed with how far you feel from your end goal, remember, take it ONE STEP AT A TIME. Just start by taking one small step forward!
 
 We had such a great time at our Bali Retreat, and are excited to announce two more in-person experiences we’re hosting in June!
 
 ![WEEKEND-workshop-Graphic.jpg](/uploads/WEEKEND-workshop-Graphic.jpg)
 
-##### Weekend Workshop June 14th - 16th  
+##### [Weekend Workshop June 14th - 16th](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)  
 ##### Orange County, CA
 
-We’re hosting our first ever Weekend Workshop to dive into a mini version of the content we went over in Bali, all aimed to help you grow and scale your do-good business. Join us alongside the Founder & CEO of [P.F. Candle Co.](https://pfcandleco.com/), Kristen Pumphrey and Co-Founder and CEO of [31 Bits](https://31bits.com/), Jessie Simonson, at [FLDWRK Fullerton](https://fldwrk.io/) as we workshop how to build your do-good business.
+We’re hosting our first ever [Weekend Workshop](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270) to dive into a mini version of the content we went over in Bali, all aimed to help you grow and scale your do-good business. Join us alongside the Founder & CEO of [P.F. Candle Co.](https://pfcandleco.com/), Kristen Pumphrey and Co-Founder and CEO of [31 Bits](https://31bits.com/), Jessie Simonson, at [FLDWRK Fullerton](https://fldwrk.io/) as we workshop how to build your do-good business.
 
 ###### _[Click here to grab your spot!](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)_
 <br>
 
-##### Enneagram Retreat June 27th - 30th  
+##### [Enneagram Retreat June 27th - 30th](https://yellowcollective.lpages.co/retreats/)  
 ##### Portland, OR
 
 Our next retreat experience is coming up June 27th - 30th in Portland! Join us as we dive into the Enneagram and dreamscaping for your life with Enneagram expert and CTC Certified Coach, [Ashlee Sikorski](https://www.ashleesikorski.com/). We will be spending a long weekend jumping into the coaching, tools, knowledge, resources, and community you need to better know yourself, your dreams, and ultimately your life trajectory.
