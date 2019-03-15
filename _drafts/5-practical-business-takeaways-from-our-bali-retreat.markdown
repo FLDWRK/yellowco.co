@@ -80,3 +80,6 @@ Portland, OR
 Our next retreat experience is coming up June 27th - 30th in Portland! Join us as we dive into the Enneagram and dreamscaping for your life with Enneagram expert and CTC Certified Coach, [Ashlee Sikorski](https://www.ashleesikorski.com/). We will be spending a long weekend jumping into the coaching, tools, knowledge, resources, and community you need to better know yourself, your dreams, and ultimately your life trajectory.
 
 ###### [Click here for more info!](https://yellowcollective.lpages.co/retreats/)
+
+<br>
+_Bali photos by [ComePlum Photo](http://comeplum.com/)_
