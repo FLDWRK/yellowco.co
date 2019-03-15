@@ -68,18 +68,19 @@ We had such a great time at our Bali Retreat, and are excited to announce two mo
 ![WEEKEND-workshop-Graphic.jpg](/uploads/WEEKEND-workshop-Graphic.jpg)
 
 ##### Weekend Workshop June 14th - 16th  
-Orange County, CA
+##### Orange County, CA
 
 We’re hosting our first ever Weekend Workshop to dive into a mini version of the content we went over in Bali, all aimed to help you grow and scale your do-good business. Join us alongside the Founder & CEO of [P.F. Candle Co.](https://pfcandleco.com/), Kristen Pumphrey and Co-Founder and CEO of [31 Bits](https://31bits.com/), Jessie Simonson, at [FLDWRK Fullerton](https://fldwrk.io/) as we workshop how to build your do-good business.
 
-###### [Click here to grab your spot!](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)
+###### _[Click here to grab your spot!](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)_
+<br>
 
 ##### Enneagram Retreat June 27th - 30th  
-Portland, OR
+##### Portland, OR
 
 Our next retreat experience is coming up June 27th - 30th in Portland! Join us as we dive into the Enneagram and dreamscaping for your life with Enneagram expert and CTC Certified Coach, [Ashlee Sikorski](https://www.ashleesikorski.com/). We will be spending a long weekend jumping into the coaching, tools, knowledge, resources, and community you need to better know yourself, your dreams, and ultimately your life trajectory.
 
-###### [Click here for more info!](https://yellowcollective.lpages.co/retreats/)
+###### _[Click here for more info!](https://yellowcollective.lpages.co/retreats/)_
 
 <br>
 _Bali photos by [ComePlum Photo](http://comeplum.com/)_
