@@ -4,6 +4,7 @@ date: 2019-03-22 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Joanna Waterfall
+image: "/uploads/YellowCoBali-31.jpg"
 ---
 
 After a few years of running large annual conferences and experiencing the power of women coming together in person, we knew there was another in person experience that would provide something deeper and more tangible we could offer our community of world-changing women.
@@ -12,11 +13,15 @@ A large conference is awesome – don’t get me wrong, I love them! They’re i
 
 For our first retreat of the year, we decided to go big. BALI! Why not go international for your first retreat?? Heck, why not schedule it for a time when you’re going to be 31 weeks pregnant?? Sounded like a good idea to us! In all fairness when we were planning this retreat and set the dates I was not pregnant and had no idea I would be :). But throwing an international retreat for our first time actually turned out to be amazing.
 
+![YellowCoBali-140.jpg](/uploads/YellowCoBali-140.jpg)
+
 In addition to adventuring through Bali, eating delicious food, visiting an all-natural, sustainable dye factory called [Tarum Dye Factory](https://31bits.com/pages/tarum-dye-factory), and mentoring teenage future entrepreneurs at an organization called [Stella's Child](https://www.stellaschild.org/), we scooped up Jessie Simonson, CEO of social enterprise [31 Bits](https://31bits.com/) to spend a week jumping into the coaching, tools, knowledge, resources, and community needed to start, build, or scale our attendee’s do-good businesses. All while building new friendships with like-minded women and adventuring through the beautiful island of Bali.
 
 Our Bali Retreat was created for women who currently have a working product, program, or service that is helping people, and who are wanting to turn their side hustle into a full-time gig. They say that teaching is the best way to learn, and although I was a coach alongside the talented Jessie Simonson, there were so many things that I personally learned and was reminded of when it comes to growing and scaling a do-good business! 
 
 I want to share with you five of the key takeaways from the content we studied and presented at the retreat.
+
+![YellowCoBali-31.jpg](/uploads/YellowCoBali-31.jpg)
 
 #### "People don’t buy what you do, they buy why you do it." - Simon Sinek
 
@@ -46,9 +51,13 @@ Have you ever wondered how small businesses get started, begin making money, and
 
 Do you have a service that employees in larger businesses might benefit from? Modern businesses are always looking for a way to bring value to their employees. Get creative and consider how you can pitch what you do to larger companies. That way, you can make some good money and begin to create a deeper impact with your business!
 
+![YellowCoBali-149-1.jpg](/uploads/YellowCoBali-149-1.jpg)
+
 #### The best learning happens in person (and a beautiful setting doesn’t hurt!).
 
 There’s only so much you can learn from Google searches and online tutorials. Don’t get me wrong, there are so many great online resources when it comes to growing your business, but the GOLD comes from being in a room with other women, talking, collaborating, asking questions, getting messy, and helping each other. There’s nothing like it! So much more can be gained in an environment like this, not to mention the relationships that continue to support you long after the experience is over. That’s why at Yellow Co. we feel so passionately about creating heartfelt, in-person experiences for women, whether it’s at a [retreat](https://yellowcollective.lpages.co/retreats/), a [conference](https://yellowco.co/events/), or a [Hive gathering](https://yellowco.co/membership/). If you have the opportunity, get out from behind the screen and learn with women in person - it’s GOLD I tell you!
+
+![YellowCoBali-138.jpg](/uploads/YellowCoBali-138.jpg)
 
 #### Businesses are built by taking one step at a time.
 
@@ -56,13 +65,17 @@ After going over seven days of content and workshops together, it was easy to fe
 
 We had such a great time at our Bali Retreat, and are excited to announce two more in-person experiences we’re hosting in June!
 
-##### Weekend Workshop June 14th - 16th | Orange County, CA
+![WEEKEND-workshop-Graphic.jpg](/uploads/WEEKEND-workshop-Graphic.jpg)
+
+##### Weekend Workshop June 14th - 16th  
+Orange County, CA
 
 We’re hosting our first ever Weekend Workshop to dive into a mini version of the content we went over in Bali, all aimed to help you grow and scale your do-good business. Join us alongside the Founder & CEO of [P.F. Candle Co.](https://pfcandleco.com/), Kristen Pumphrey and Co-Founder and CEO of [31 Bits](https://31bits.com/), Jessie Simonson, at [FLDWRK Fullerton](https://fldwrk.io/) as we workshop how to build your do-good business.
 
 ###### [Click here to grab your spot!](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)
 
-##### Enneagram Retreat June 27th - 30th | Portland, OR
+##### Enneagram Retreat June 27th - 30th  
+Portland, OR
 
 Our next retreat experience is coming up June 27th - 30th in Portland! Join us as we dive into the Enneagram and dreamscaping for your life with Enneagram expert and CTC Certified Coach, [Ashlee Sikorski](https://www.ashleesikorski.com/). We will be spending a long weekend jumping into the coaching, tools, knowledge, resources, and community you need to better know yourself, your dreams, and ultimately your life trajectory.
 
