@@ -1,5 +1,5 @@
 ---
-title: 5 Practical Business Takeaways from our Bali Retreat
+title: 5 Practical Takeaways from Our Bali Retreat on Building Your Do-Good Business
 date: 2019-03-22 03:00:00 -07:00
 categories:
 - Entrepreneurs
