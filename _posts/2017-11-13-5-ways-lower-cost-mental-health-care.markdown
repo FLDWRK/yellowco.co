@@ -1,12 +1,12 @@
 ---
 title: 5 Ways to Lower Your Mental Health Care Costs
-date: 2017-11-13 04:00:42 -08:00
+date: 2017-11-13 04:00:00 -08:00
 categories:
 - Health
 author: Brianna Towne
+image: https://yellow-blog-images.imgix.net/2017/11/image6.jpg
 series: With
 redirect_from: "/with/5-ways-lower-cost-mental-health-care/"
-image: https://yellow-blog-images.imgix.net/2017/11/image6.jpg
 ---
 
 Even with insurance coverage and government programs that can help pay for mental health treatment, there is still a stigma in society that needs to be overcome. For me, it took years to get over the fear, shame, and guilt of my anxiety enough to even consider getting help. Even then, it took my husband asking ever so gently if I would consider seeing a therapist. I didn't want to be seen as weak, or as someone who needed help, or wasn't mentally up to the challenge of daily life. Somewhere along the road there was a shift away from all of that shame towards pride in taking back a little control for myself.
@@ -39,7 +39,7 @@ A lot of large companies will cover a certain number of sessions with an approve
 
 #### 4\. Look into government funded programs.
 
-It's exhausting to do a lot of research to find a way to get the help you need without shoveling out hundreds, or thousands, of dollars. [Mentalhealth.gov](https://www.mentalhealth.gov/index.html) has great resources for finding care, tips for how to make sure your insurance company is covering what it's supposed to cover, and special services for service members and veterans.
+It's exhausting to do a lot of research to find a way to get the help you need without shoveling out hundreds, or thousands, of dollars. [Mentalhealth.gov](https://www.mentalhealth.gov/) has great resources for finding care, tips for how to make sure your insurance company is covering what it's supposed to cover, and special services for service members and veterans.
 
 #### 5\. Start a meet-up in your community.
 
