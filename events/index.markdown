@@ -10,7 +10,7 @@ events:
 - title: Yellow Conference New York
   location: 501 Union • Brooklyn, NY
   when: May 10th
-  url: "/new-york"
+  url: https://yellowcollective.lpages.co/yellow-conference-new-york/
 - title: Weekend Workshop • Grow & Scale your Do-Good Business
   location: FLDWRK Fullerton
   when: June 14th - 15th
