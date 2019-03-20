@@ -3,6 +3,8 @@ title: Home
 position: 4
 body-class: home
 banners:
+- link: https://yellowcollective.lpages.co/retreats/#two-column[1
+  image: "/uploads/Enneagram-REtreat.jpg"
 - link: https://yellowcollective.lpages.co/do-good-dozen/
   image: "/uploads/Do-Good-Dozen.jpg"
 - link: "/membership"
@@ -12,6 +14,8 @@ banners:
 - link: https://yellowcollective.lpages.co/yellow-conference-new-york/
   image: "/uploads/YELLOW-NY-Header.jpg"
 sm-banners:
+- link: https://yellowcollective.lpages.co/retreats/#two-column[1
+  image: "/uploads/Enneagram-REtreat-SM.jpg"
 - link: https://yellowcollective.lpages.co/do-good-dozen/
   image: "/uploads/DGD-sm.jpg"
 - link: "/membership"
