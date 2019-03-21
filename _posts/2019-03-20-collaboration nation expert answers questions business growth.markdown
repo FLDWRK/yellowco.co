@@ -30,7 +30,7 @@ author: Laura Youngkin
 image: "/uploads/CourtneyPaigeRay_BailyHancock-33-1.jpg"
 ---
 
-_It’s a brave new world out there, and brand collaborations have become almost essential to growing a new business or helping shine a fresh light on well-established brands. But where do you start? I sat down with [Baily Hancock](https://bailyhancock.com/), and LA-based Collaboration Consultant, to get the 411 on how to get started and grow your business through collaboration._
+_It’s a brave new world out there, and brand collaborations have become almost essential to growing a new business or helping shine a fresh light on well-established brands. But where do you start? I sat down with [Baily Hancock](https://bailyhancock.com/), an LA-based Collaboration Consultant, to get the 411 on how to get started and grow your business through collaboration._
 
 ###### Baily, you're a [Collaboration Consultant](https://bailyhancock.com/). Tell me more about what your job entails.
 
@@ -121,4 +121,4 @@ I truly believe that collaboration can save the world. When we come together to 
 
 By ditching the scarcity mindset and adopting an abundance mindset, we can all succeed together. If I can enable even a small number of people to feel comfortable and confident doing that, my life will have purpose.  
 
-_Photos courtesy of [Baily Hancock](https://bailyhancock.com/)_
+_Photos by [Courtney Paige Ray](https://courtneypaigeray.com/) courtesy of [Baily Hancock](https://bailyhancock.com/)_
