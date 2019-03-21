@@ -39,7 +39,7 @@ For our first retreat of the year, we decided to go big. BALI! Why not go intern
 
 In addition to adventuring through Bali, eating delicious food, visiting an all-natural, sustainable dye factory called [Tarum Dye Factory](https://31bits.com/pages/tarum-dye-factory), and mentoring teenage future entrepreneurs at an organization called [Stella's Child](https://www.stellaschild.org/), we scooped up Jessie Simonson, CEO of social enterprise [31 Bits](https://31bits.com/) to spend a week jumping into the coaching, tools, knowledge, resources, and community needed to start, build, or scale our attendee’s do-good businesses. All while building new friendships with like-minded women and adventuring through the beautiful island of Bali.
 
-Our Bali Retreat was created for women who currently have a working product, program, or service that is helping people, and who are wanting to turn their side hustle into a full-time gig. They say that teaching is the best way to learn, and although I was a coach alongside the talented Jessie Simonson, there were so many things that I personally learned and was reminded of when it comes to growing and scaling a do-good business! 
+Our Bali Retreat was created for women who currently have a working product, program, or service that is helping people, and who are wanting to turn their side hustle into a full-time gig. They say that teaching is the best way to learn, and although I was a coach alongside the talented Jessie Simonson, there were so many things that I personally learned and was reminded of when it comes to growing and scaling a do-good business!
 
 I want to share with you five of the key takeaways from the content we studied and presented at the retreat.
 
@@ -47,11 +47,11 @@ I want to share with you five of the key takeaways from the content we studied a
 
 #### "People don’t buy what you do, they buy why you do it." - Simon Sinek
 
-One of the most powerful workshops we went through at the retreat was modeled after Simon Sinek’s Golden Circle. It’s structured around having your WHY at the center of everything you do, then your HOW, then your WHAT. A lot of times we start with the WHAT, instead of diving into to core of WHY we’re doing what we’re doing. 
+One of the most powerful workshops we went through at the retreat was modeled after Simon Sinek’s Golden Circle. It’s structured around having your WHY at the center of everything you do, then your HOW, then your WHAT. A lot of times we start with the WHAT, instead of diving into to core of WHY we’re doing what we’re doing.
 
-### Your _why_ is your brand’s purpose. It’s why you exist. 
+### Your *why* is your brand’s purpose. It’s why you exist.
 
-The best brands and organizations know their why and filter everything through that. Like Simon Sinek says, “People don’t buy what you do, they buy WHY you do it.” Identifying WHY you do what you do is essential to making decisions as you move forward and allows you to engage your audience in a way that is meaningful and relatable. 
+The best brands and organizations know their why and filter everything through that. Like Simon Sinek says, “People don’t buy what you do, they buy WHY you do it.” Identifying WHY you do what you do is essential to making decisions as you move forward and allows you to engage your audience in a way that is meaningful and relatable.
 
 Although it’s not the most “urgent” thing to do when you’re running your business, taking time to articulate and figure out your WHY will save you hours of time and money in the future! If you don’t know your WHY, check out Simon’s Golden circle and take some time to brainstorm and articulate it.
 
@@ -59,17 +59,17 @@ Although it’s not the most “urgent” thing to do when you’re running your
 
 #### Know and practice your sales funnel.
 
-A sales funnel is, simply put, how you organize and categorize your customers and potential customers. It’s coming up with an intentional marketing plan to make sure those potential customers are interacting with your brand and moving down the funnel towards becoming actual customers. Then, towards becoming loyal customers who turn into ambassadors for your brand. Essentially, it’s how you make money and grow an amazing community of customers who will return to you again and again! At our retreat we found that this was a super helpful and important exercise when it comes to figuring out how your business is going to make money and bring in leads! 
+A sales funnel is, simply put, how you organize and categorize your customers and potential customers. It’s coming up with an intentional marketing plan to make sure those potential customers are interacting with your brand and moving down the funnel towards becoming actual customers. Then, towards becoming loyal customers who turn into ambassadors for your brand. Essentially, it’s how you make money and grow an amazing community of customers who will return to you again and again! At our retreat we found that this was a super helpful and important exercise when it comes to figuring out how your business is going to make money and bring in leads!
 
-_**[Want to create your own sales funnel? Hop on our email list to download our Sales Funnel worksheet!](https://yellowcollective.lpages.co/sales-funnel-worksheet/)**_
+***[Want to create your own sales funnel? Hop on our email list to download our Sales Funnel worksheet!](https://yellowcollective.lpages.co/sales-funnel-worksheet/)***
 
 ![Screen Shot 2019-03-14 at 6.42.43 PM.png](/uploads/Screen%20Shot%202019-03-14%20at%206.42.43%20PM.png)
 
 #### A great way for small businesses to grow and make money is to collaborate and partner with larger businesses or audiences.
 
-Have you ever wondered how small businesses get started, begin making money, and really get off the ground? Quite often it happens when a small business partners with a larger business who has a budget and a larger audience. 
+Have you ever wondered how small businesses get started, begin making money, and really get off the ground? Quite often it happens when a small business partners with a larger business who has a budget and a larger audience.
 
-### If you’re a product-based business, consider partnering with larger organizations for corporate gifting. 
+### If you’re a product-based business, consider partnering with larger organizations for corporate gifting.
 
 Do you have a service that employees in larger businesses might benefit from? Modern businesses are always looking for a way to bring value to their employees. Get creative and consider how you can pitch what you do to larger companies. That way, you can make some good money and begin to create a deeper impact with your business!
 
@@ -87,22 +87,25 @@ After going over seven days of content and workshops together, it was easy to fe
 
 We had such a great time at our Bali Retreat, and are excited to announce two more in-person experiences we’re hosting in June!
 
-![WEEKEND-workshop-Graphic.jpg](/uploads/WEEKEND-workshop-Graphic.jpg)
+![WEEKEND-workshop-Graphic-f540e5.jpg](/uploads/WEEKEND-workshop-Graphic-f540e5.jpg)
 
-##### [Weekend Workshop June 14th - 16th](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)  
+##### [Weekend Workshop June 14th - 16th](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)
+
 ##### Orange County, CA
 
-We’re hosting our first ever [Weekend Workshop](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270) to dive into a mini version of the content we went over in Bali, all aimed to help you grow and scale your do-good business. Join us alongside the Founder & CEO of [P.F. Candle Co.](https://pfcandleco.com/), Kristen Pumphrey and Co-Founder and CEO of [31 Bits](https://31bits.com/), Jessie Simonson, at [FLDWRK Fullerton](https://fldwrk.io/) as we workshop how to build your do-good business.
+We’re hosting our first ever [Weekend Workshop](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270) to dive into a mini version of the content we went over in Bali, all aimed to help you grow and scale your do-good business. Join us alongside the Founder & CEO of [P.F. Candle Co.](https://pfcandleco.com/), Kristen Pumphrey and Co-Founder at [FLDWRK Fullerton](https://fldwrk.io/) as we workshop how to build your do-good business.
 
-###### _[Click here to grab your spot!](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)_
+###### *[Click here to grab your spot!](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)*
+
 <br>
 
-##### [Enneagram Retreat June 27th - 30th](https://yellowcollective.lpages.co/retreats/)  
+##### [Enneagram Retreat June 27th - 30th](https://yellowcollective.lpages.co/retreats/)
+
 ##### Portland, OR
 
 Our next retreat experience is coming up June 27th - 30th in Portland! Join us as we dive into the Enneagram and dreamscaping for your life with Enneagram expert and CTC Certified Coach, [Ashlee Sikorski](https://www.ashleesikorski.com/). We will be spending a long weekend jumping into the coaching, tools, knowledge, resources, and community you need to better know yourself, your dreams, and ultimately your life trajectory.
 
-###### _[Click here for more info!](https://yellowcollective.lpages.co/retreats/)_
+###### *[Click here for more info!](https://yellowcollective.lpages.co/retreats/)*
 
 <br>
-_Bali photos by [ComePlum Photo](http://comeplum.com/)_
+*Bali photos by [ComePlum Photo](http://comeplum.com/)*
