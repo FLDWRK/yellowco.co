@@ -3,6 +3,22 @@ title: Why This Powerful Documentary About Periods Won an Oscar
 date: 2019-03-25 03:00:00 -07:00
 categories:
 - Culture
+tags:
+- oscar nominees
+- Period end of sentence
+- documentary
+- oscar winning documentary
+- india
+- women
+- netflix
+- media
+- mestruation stigma
+- periods
+- menstruation
+- global
+- stigma
+- taboos
+- culture
 author: Mikaela Ryan
 image: "/uploads/p16501921_v_v8_aa.jpg"
 ---
