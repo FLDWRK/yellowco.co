@@ -12,7 +12,7 @@ My garden had humble beginnings. Very humble. I bought a premade veggie garden i
 
 Since that fateful summer, I now have two raised beds in my little suburban cul-de-sac. I was determined to find a way to explore my dream of wanting a big garden and one day thought, why not just go for it? Actually, it didn’t exactly start that way. My husband challenged me and told me that, “This gardening dream was just a phase.” So I set out to prove him wrong. That I did, friend, that I did! I also wanted to find a way to pursue this little passion and see if it was real. 
 
-### Turns out, watching things grow and then being able to feed my family with them is something I never tire of and that inspires me daily to seek out everyday wonder. 
+### Turns out, watching things grow and then being able to feed my family with them is something I never tire of and that inspires me to seek out everyday wonder. 
 
 If you’re just starting out and have that itch to get your hands dirty and see something grow that you can pick and put straight on your plate, here are three plants you can’t kill (that can all grow together in one pot!), and three rules of a green thumb. 
 
