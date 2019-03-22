@@ -8,7 +8,7 @@ author: Bailey Van Tassel
 image: "/uploads/andrew-spencer-690111-unsplash.jpg"
 ---
 
-My garden has humble beginnings. Very humble. I bought a premade veggie garden in a pot from a garden center that had six things in it. I immediately killed one of them and the others all produced very, very tiny fruit. It was still so rewarding and pushed me to learn more about how to make my veggies happy and healthy. 
+My garden had humble beginnings. Very humble. I bought a premade veggie garden in a pot from a garden center that had six things in it. I immediately killed one of them and the others all produced very, very tiny fruit. It was still so rewarding and pushed me to learn more about how to make my veggies happy and healthy. 
 
 Since that fateful summer, I now have two raised beds in my little suburban cul-de-sac. I was determined to find a way to explore my dream of wanting a big garden and one day thought, why not just go for it? Actually, it didn’t exactly start that way. My husband challenged me and told me that, “This gardening dream was just a phase.” So I set out to prove him wrong. That I did, friend, that I did! I also wanted to find a way to pursue this little passion and see if it was real. 
 
