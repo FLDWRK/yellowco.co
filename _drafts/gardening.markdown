@@ -16,6 +16,8 @@ Since that fateful summer, I now have two raised beds in my little suburban cul-
 
 If you’re just starting out and have that itch to get your hands dirty and see something grow that you can pick and put straight on your plate, here are three plants you can’t kill (that can all grow together in one pot!), and three rules of a green thumb. 
 
+![nordwood-themes-535273-unsplash-75b62a.jpg](/uploads/nordwood-themes-535273-unsplash-75b62a.jpg)
+
 #### Get started with three simple rules: 
 
 1. Wherever gets the most sun possible is where you want to place your plants. Anything you plant in Spring will be giving you goodies in Summer and those plants need all the sun. 
@@ -24,6 +26,8 @@ If you’re just starting out and have that itch to get your hands dirty and see
 
 Three no-kill plants: 
 These three plants can all be planted next to each other, all work together in one dish, and are all easy to keep alive! Try planting them in a big 10 inch to 12 inch pot if you want to keep them all together to minimize your watering efforts. 
+
+![rezel-apacionado-362232-unsplash.jpg](/uploads/rezel-apacionado-362232-unsplash.jpg)
 
 #### 1. Chives 
 
