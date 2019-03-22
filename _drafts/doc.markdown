@@ -1,5 +1,5 @@
 ---
-title: doc
+title: Why This Powerful Documentary About Periods Won an Oscar
 date: 2019-03-25 03:00:00 -07:00
 categories:
 - Culture
