@@ -4,6 +4,23 @@ title: 'Home Gardening 101: 3 Plants to Start Your Summer Garden That You Can’
 date: 2019-03-27 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- gardening
+- home garden
+- gardening 101
+- easy gardening
+- diy
+- easy plants
+- potted plants
+- herbs
+- veggies
+- veggie garden
+- herb garden
+- conscious living
+- plant
+- gardener
+- easy
+- plants you can't kill
 author: Bailey Van Tassel
 image: "/uploads/andrew-spencer-690111-unsplash.jpg"
 ---
