@@ -4,6 +4,7 @@ date: 2019-03-27 03:00:00 -07:00
 categories:
 - Conscious Living
 author: Bailey Van Tassel
+image: "/uploads/andrew-spencer-690111-unsplash.jpg"
 ---
 
 My garden has humble beginnings. Very humble. I bought a premade veggie garden in a pot from a garden center that had six things in it. I immediately killed one of them and the others all produced very very tiny fruit. It was still so rewarding and pushed me to learn more about how to make my veggies happy and healthy. 
