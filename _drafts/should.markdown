@@ -34,7 +34,7 @@ I know you may be thinking well I can’t just do everything I WANT all day, eve
 Let me walk you through some examples:
 
 “I should really do the dishes.”
-I am not one who enjoys cleaning so saying I want to do the dishes is a flat out lie that my brain is not going to buy into and jump into… but what do I really want? I want a clean kitchen because when I have a clean kitchen I feel more at peace, more in control, more aligned. SO, I DO WANT TO DO THE DISHES!
+I am not one who enjoys cleaning so saying I _want_ to do the dishes is a flat out lie that my brain is not going to buy into and jump into… _but_ what do I really want? I _want_ a clean kitchen because when I have a clean kitchen I feel more at peace, more in control, more aligned. SO, I DO WANT TO DO THE DISHES!
 And bam, I get off my but and I do those dishes, put on a podcast or music, and enjoy getting the dishes done.  
 
 “I should eat a salad.”
@@ -47,6 +47,6 @@ And then I realized that by committing to eliminating this ONE WORD, it forced m
 
 I’m sure this isn’t the first time you have heard to “stop shoulding all over yourself”. I see people sharing things like that all the time, but then I see a few posts later they are saying, “What should I do about this?” Or, “You should try this!”
 
-A should is a should, is a should. I ask you, urge you, I beg you to PLEASE GIVE THE WORD UP COMPLETELY! If you truly want to feel the effects that is – and would you not?! You will change your life by changing your thoughts and this one word is the key to all of that. 
+A should is a should, is a should. I ask you, urge you, I beg you to PLEASE GIVE THE WORD UP COMPLETELY! If you truly want to feel the effects that is – and would you not?! You _will_ change your life by changing your thoughts and this one word is the key to all of that. 
 
 If you are looking for more thoughts to change your life..check out my daily inspiration APP (called Own Your Awesome), Affirmation based (slightly sassy) product line, and of course join me on Instagram where I am always sharing mindset insights, mantras and actionable tips to be present to what is happening in your life so that you can fully be present to your life and how awesome you are. 
