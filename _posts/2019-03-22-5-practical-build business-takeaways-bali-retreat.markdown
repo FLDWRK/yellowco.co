@@ -93,7 +93,7 @@ We had such a great time at our Bali Retreat, and are excited to announce two mo
 
 ##### Orange County, CA
 
-We’re hosting our first ever [Weekend Workshop](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270) to dive into a mini version of the content we went over in Bali, all aimed to help you grow and scale your do-good business. Join us alongside the Founder & CEO of [P.F. Candle Co.](https://pfcandleco.com/), Kristen Pumphrey and Co-Founder at [FLDWRK Fullerton](https://fldwrk.io/) as we workshop how to build your do-good business.
+We’re hosting our first ever [Weekend Workshop](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270) to dive into a mini version of the content we went over in Bali, all aimed to help you grow and scale your do-good business. Join us alongside the Founder & CEO of [P.F. Candle Co.](https://pfcandleco.com/), Kristen Pumphrey at [FLDWRK Fullerton](https://fldwrk.io/) as we workshop how to build your do-good business.
 
 ###### *[Click here to grab your spot!](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)*
 
