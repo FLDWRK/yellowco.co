@@ -25,17 +25,17 @@ image: "/uploads/p16501921_v_v8_aa.jpg"
 
 “I can’t say the word,” insists a young woman in award-winning documentary _Period, End of Sentence_. With brows furrowed, eyes averted, and a gaggle of young dudes snickering in the courtyard, embarrassment was written across her face. The tortuous word? “Period.”
 
-_Period, End of Sentence_, a 26 minute Netflix documentary and winner of an Academy Award for Best Documentary (Short Subject), addresses menstruation stigma, telling the story of [a group of women](https://www.bbc.com/news/world-asia-india-47307335) in rural Hapur, India who install a low-cost sanitary pad machine in their village to aid in social and economic mobility. The film was directed by 25-year-old Reyka Zehtabchi, the first Iranian-American to win an Oscar, and produced by award-winning Guneet Monga, one of the “top 50 Indians changing India,” according to [India Today](https://www.indiatoday.in/magazine/cover-story/story/20121224-guneet-monga-helped-give-independent-cinema-a-facelift-761047-1999-11-30). _Period, End of Sentence_ follows Hapur’s women as they grow their pad brand, “Fly” with the help of the pad machine. 
+_Period, End of Sentence_, a 26 minute Netflix documentary and winner of an Academy Award for Best Documentary (Short Subject), addresses menstruation stigma, telling the story of [a group of women](https://www.bbc.com/news/world-asia-india-47307335) in rural Hapur, India, who install a low-cost sanitary pad machine in their village to aid in social and economic mobility. The film was directed by 25-year-old Reyka Zehtabchi, the first Iranian-American to win an Oscar, and produced by award-winning Guneet Monga, one of the “top 50 Indians changing India,” according to [India Today](https://www.indiatoday.in/magazine/cover-story/story/20121224-guneet-monga-helped-give-independent-cinema-a-facelift-761047-1999-11-30). _Period, End of Sentence_ follows Hapur’s women as they grow their pad brand, Fly, with the help of the pad machine. 
 
 One line from Reyka’s Zehtabchi’s [Oscars acceptance speech](https://www.goodmorningamerica.com/culture/story/documentary-short-oscar-winner-period-end-sentence-girls-61281827) particularly dominated Twitter feeds and film headlines: 
 
 ### “A period should end a sentence, not a girl’s education.” 
 
-The gender disparity between men and women in India, from literacy to income, remains sharp and the menstruation stigma only exacerbates that gap. The arrival of a period supersedes normal middle-school tampon concealing, wardrobe inconveniences, or period cup usage stress. Due to lack of access to sanitary facilities and supplies, it interrupt an education or career. 
+The gender disparity between men and women in India, from literacy to income, remains sharp and the menstruation stigma only exacerbates that gap. The arrival of a period supersedes normal middle-school tampon concealing, wardrobe inconveniences, or period cup usage stress. Due to lack of access to sanitary facilities and supplies, it interrupts an education or career. 
 
 ![good morning america.jpg](/uploads/good%20morning%20america.jpg)
 
-Lack of access to sanitation facilities and poor health education hinders women from a consistent work or schooling schedule while on their period. Female students and teachers,  experiencing a “[gender unfriendly school culture](https://www.tandfonline.com/doi/full/10.3402/gha.v9.33032?scroll=top&needAccess=true),” often miss school or go home early while on their period. [Studies show](https://www.tandfonline.com/doi/full/10.3402/gha.v9.33032?scroll=top&needAccess=true) that relatively equal levels of school enrollment and performance between boys and girls up until puberty, when they start to diverge. 
+Lack of access to sanitation facilities and poor health education hinders women from a consistent work or schooling schedule while on their period. Female students and teachers,  experiencing a “[gender unfriendly school culture](https://www.tandfonline.com/doi/full/10.3402/gha.v9.33032?scroll=top&needAccess=true),” often miss school or go home early while on their period. [Studies show](https://www.tandfonline.com/doi/full/10.3402/gha.v9.33032?scroll=top&needAccess=true) that there are relatively equal levels of school enrollment and performance between boys and girls up until puberty, when they start to diverge. 
 
 ### [One study](http://menstrualhygieneday.org/wp-content/uploads/2016/04/FSG-Menstrual-Health-Landscape_India.pdf) found that 71% of girls didn’t even _know_ about menstruation before their first period. 
 
@@ -61,7 +61,7 @@ The machine has already had a dramatic impact, [as explained by director Zehtabc
 
 ![BBC's Abhishek Madhukar 4.jpg](/uploads/BBC's%20Abhishek%20Madhukar%204.jpg)
 
-Fly employee Sneha, who is using her paycheck to fund police woman training, says of the company’s future: “I’ll be able to find Fly pads in any store.” Sneha’s primary ambition of becoming a police woman probably didn’t factor in winning an Oscar, but everybody’s gotta have a side hustle - her’s just happens to be starring in an award-winning documentary. 
+Fly employee Sneha, who is using her paycheck to fund her policewoman training, says of the company’s future: “I’ll be able to find Fly pads in any store.” Sneha’s primary ambition of becoming a policewoman probably didn’t factor in winning an Oscar, but everybody’s gotta have a side hustle - hers just happens to be starring in an award-winning documentary. 
 
 The result of a yoga-thon Kickstarter, a female powerhouse team, and 26 minutes on Netflix? A shiny gold Oscar statue, but more importantly, educational conversation and a sense of dignity for women in India. “The next generation is much more open,” reflects my friend Mary Elizabeth Heard, founder of [a social entrepreneurship venture](https://marigold.company/) providing jobs for women in rural India. “I get the sense - and it’s hopeful - that things are changing.” 
 
