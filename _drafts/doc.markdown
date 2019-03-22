@@ -4,6 +4,7 @@ date: 2019-03-25 03:00:00 -07:00
 categories:
 - Culture
 author: Mikaela Ryan
+image: "/uploads/p16501921_v_v8_aa.jpg"
 ---
 
 “I can’t say the word,” insists a young woman in award-winning documentary _Period, End of Sentence_. With brows furrowed, eyes averted, and a gaggle of young dudes snickering in the courtyard, embarrassment was written across her face. The tortuous word? “Period.”
