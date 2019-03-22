@@ -4,6 +4,20 @@ title: How Cutting One Word out of My Vocabulary Made Me the Most Mindful Person
 date: 2019-03-29 03:00:00 -07:00
 categories:
 - Growth
+tags:
+- mindfulness
+- personal growth
+- personal development
+- mindful
+- vocabulary
+- power of words
+- power of language
+- guilt
+- shame
+- self growth
+- lifestyle
+- conversation
+- self talk
 author: Tricia Huffman
 image: "/uploads/yasmine-boheas-1279216-unsplash.jpg"
 ---
