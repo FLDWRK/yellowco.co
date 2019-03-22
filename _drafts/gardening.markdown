@@ -1,5 +1,6 @@
 ---
-title: gardening
+title: 'Home Gardening 101: 3 Plants to Start Your Summer Garden That You Can’t Kill
+  (Promise)'
 date: 2019-03-27 03:00:00 -07:00
 categories:
 - Conscious Living
