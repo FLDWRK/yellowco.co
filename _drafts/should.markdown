@@ -1,5 +1,6 @@
 ---
-title: should
+title: How Cutting out One Word from My Vocabulary Made Me the Most Mindful Person
+  I Know
 date: 2019-03-29 03:00:00 -07:00
 categories:
 - Growth
@@ -12,7 +13,7 @@ I left my badass career of being a touring live sound engineer with no money sav
 
 What happened from shifting focus from that one word ended up being life changing in so, so, so many ways. So I’m here to tell you HOW and WHY it did, and urge you to ban that word from your life as well. 
 
-1). It put me in the driver’s seat of my own life. 
+#### It put me in the driver’s seat of my own life. 
 
 What I discovered in committing to not letting “should” come out of my mouth was that 95% of the time the word that best replaced it was “want” and holy wow was that a powerful switch. I mean, check out the differences in how these sentences feel:
 
@@ -27,7 +28,7 @@ Do I WANT to go to Mary’s party?
 
 Shoulds feel heavy, like a weight you are carrying around. They do not feel fun or like a choice. Wants feel freer, lighter, and way more powerful. They remind you that you get a choice, and that you are actually allowed to do what you want. By making this word shift you get instantly tuned in to your present self and what feels good to you – not what everyone else is doing, what you used to want, what social media says, or what your peers are doing – but what YOU want and who you are in the now. 
 
-2.  It cuts out procrastination and allows me to see the big picture, the why, the motivation.
+#### It cuts out procrastination and allows me to see the big picture, the why, the motivation.
 
 I know you may be thinking well I can’t just do everything I WANT all day, every day. I have responsibilities and I have to get things done! I get it. I got you. Another way that cutting the shoulds out worked magic for me was in breaking things down so that I could either get to a WANT and then be motivated to dive in – or to show me, yep, that’s not right for me.
 
@@ -40,7 +41,7 @@ And bam, I get off my but and I do those dishes, put on a podcast or music, and 
 “I should eat a salad.”
 I really don’t want a salad, I want pizza so let me look deeper.  When I eat this salad I feel clean and clear and have energy for the rest of the day.  When I eat the pizza that I am craving I feel bloated and heavy, which often results in being unmotivated. And from there I make my choice. I can either see that I want that clean feeling, so I do want the salad. Or I can see that, you know what I feel like I really do WANT that pizza today so I am going to get it and enjoy it fully with no guilt for what I “should have” eaten! I personally feel like food guilt makes me feel worse than eating the food I want! Or, you can choose to make a healthier version of a pizza of course. 
 
-3.)  I became the most mindful person I know!
+#### I became the most mindful person I know!
 You guys, I am serious! I gave up the word SHOULD in March of 2008 and not until recently did I realize this insanely profound gift that it gave me. I had been trying to track how is it that I am so present to what I am telling myself and the words I choose? How am I able to constantly edit my language so that it serves me and empowers me? What makes me special? HOW AM I CAPABLE OF THIS?! Because, I know it isn’t as simple as just pay better attention to your thoughts!
 
 And then I realized that by committing to eliminating this ONE WORD, it forced me to pay complete attention to all of my thoughts and speech. That was the trick in the HOW I am so mindful. By cutting out this one word you start to recognize your negative thoughts more quickly, how you talk to yourself and how you talk to others. I am not lying to you when I tell you this is life changing. 
