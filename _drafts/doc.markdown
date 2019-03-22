@@ -33,3 +33,4 @@ Fly employee Sneha, who is using her paycheck to fund police woman training, say
 
 The result of a yoga-thon Kickstarter, a female powerhouse team, and 26 minutes on Netflix? A shiny gold Oscar statue, but more importantly, educational conversation and a sense of dignity for women in India. “The next generation is much more open,” reflects my friend Mary Elizabeth Heard, founder of [a social entrepreneurship venture](https://marigold.company/) providing jobs for women in rural India. “I get the sense - and it’s hopeful - that things are changing.” 
 
+_Photos via [Flixster](https://flixster.com/), [BBC by Abhishek Madhukar](https://www.bbc.com/news/world-asia-india-47307335), and [Good Morning America](https://www.goodmorningamerica.com/culture/story/documentary-short-oscar-winner-period-end-sentence-girls-61281827)_
