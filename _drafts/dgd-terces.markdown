@@ -95,4 +95,4 @@ Our work is about teaching people tools for staying present. Consider that is ac
 For me, it has always been about “our people”. I love that gratitude has gained scientific notoriety now and is considered mainstream so the opportunity to share it with others has expanded. Being grateful is the core of a transformed life, no matter your circumstances. 
 I love developing leaders, seeing in them what they cannot yet see in themselves 
 
-_Illustration by [Hanna Snyder](http://hancreative.co/) for Yellow Co., Photos courtesy of Terces Engelhart_
+_Illustration by [Hanna Snyder](http://hancreative.co/) for Yellow Co., Photos courtesy of [Terces Engelhart](https://www.instagram.com/terces/)_
