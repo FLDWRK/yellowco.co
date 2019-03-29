@@ -1,5 +1,6 @@
 ---
-title: dgd terces
+title: 'Nourishing the World: An Interview with Our Do-Good Dozen Winner, Café Gratitude
+  Founder Terces Engelhart'
 date: 2019-04-01 03:00:00 -07:00
 categories:
 - Entrepreneurs
