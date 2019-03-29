@@ -47,13 +47,13 @@ Look for opportunities to serve others.
 
 Stick with it. Do whatever it takes in the beginning to keep your dream or vision alive. Empower others. 
 
-###### You host Eternal Presence workshops with your husband, Matthew, on a variety of focuses – what is one consistent practice/topic, etc. that you always include in each, regardless of the theme?
+###### You host [Eternal Presence workshops](http://www.eternal-presence.com/) with your husband, Matthew, on a variety of focuses – what is one consistent practice/topic, etc. that you always include in each, regardless of the theme?
 
 Our work is about teaching people tools for staying present. Consider that is actually where all the goodies in life are, love, kindness, generosity…. We practice something we call “clearing” in all our workshops.  Clearing is a simple and profound practice of simply being with another person, asking them a couple questions and really listening to what they say without fixing, coaching, changing or adding ANYTHING.  It is a way to clear out what might be interfering with someone being present and then let them share from their current experience and finally acknowledging them which is calling into existence a way of being to step into (creating a future). 
 
 ###### What company, brand, or individual are you currently inspired by? Why?
 
-I appreciate the commitment of Vintner's Daughter and the passion of Organifi, and I love what my friend Chrissy Helmer is doing in her podcasts and store Eco Chic here in town. 
+I appreciate the commitment of [Vintner's Daughter](https://vintnersdaughter.com/) and the passion of [Organifi](https://www.organifishop.com/), and I love what my friend Chrissy Helmer is doing in her podcasts and store [Eco Chic](http://ecochiclife.net/) here in town. 
 
 ###### What are you most excited about for what you have planned for the future of Café Gratitude and Be Love Farm? 
 
