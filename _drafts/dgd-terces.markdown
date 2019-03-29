@@ -1,5 +1,5 @@
 ---
-title: 'Nourishing the World: An Interview with Our Do-Good Dozen Winner, Café Gratitude
+title: 'Nourishing the World with Gratefulness: Our Do-Good Dozen Winner, Café Gratitude
   Founder Terces Engelhart'
 date: 2019-04-01 03:00:00 -07:00
 categories:
@@ -53,7 +53,7 @@ I have also always listened to my inner guidance in making choices and stepping 
 
 ### We simply wanted to create every possible opportunity to communicate something meaningful and inspiring to both our employees and customers. 
 
-There can be so much negative and degrading conversation with both others and ourselves, and so we wanted to change that conversation. 
+There can be so much negative and degrading conversation with both others and ourselves, so we wanted to change that conversation. 
 
 ###### With great growth and success often comes many public opinions and sometimes harsh criticism. How do you navigate those conflicts and stay grounded in your mission?
 
@@ -87,7 +87,7 @@ I appreciate the commitment of [Vintner's Daughter](https://vintnersdaughter.com
 
 ###### You host [Eternal Presence workshops](http://www.eternal-presence.com/) with your husband, Matthew, on a variety of focuses – what is one consistent practice that you always include in each, regardless of the theme?
 
-Our work is about teaching people tools for staying present. Consider that is actually where all the goodies in life are – love, kindness, generosity… We practice something we call “clearing” in all our workshops. Clearing is a simple and profound practice of simply being with another person, asking them a couple questions, and really listening to what they say without fixing, coaching, changing, or adding ANYTHING. It is a way to clear out what might be interfering with someone being present, then lets them share from their current experience and finally acknowledging them, which calls into existence a way of being to step into (creating a future). 
+Our work is about teaching people tools for staying present. Consider that is actually where all the goodies in life are – love, kindness, generosity… We practice something we call “clearing” in all our workshops. Clearing is a simple and profound practice of simply being with another person, asking them a couple questions, and really listening to what they say without fixing, coaching, changing, or adding ANYTHING. It is a way to clear out what might be interfering with someone being present, then allows them to share from their current experience and finally acknowledging them, which calls into existence a way of being to step into (creating a future). 
 
 ![3-eedc42.jpg](/uploads/3-eedc42.jpg)
 
