@@ -44,9 +44,9 @@ img
 
 My birth name is Marsha, and I never minded my name. However I was sexually abused at 16 years old and kept it a secret for 20 years and struggled with an eating disorder. At 36-years-old when I started to recover, I was guided by my inner guidance (whom I call God) to turn the secret around and change my name to Terces, which is secret spelled backwards. It was one of the most difficult things for me to do; I wasn’t a hippie, I didn’t know anyone who had changed their name. However it turned out to be one of the most powerful things I could have done. I’ve been Terces for 33 years now and nearly everyday someone asks me about my name which gives me the opportunity to share. 
 
-### Transparency is a valuable part of my journey after being secretive for so many years. 
+### Transparency is a valuable part of my journey after being secretive for so many years. “What you can’t share possesses you,” I say. 
 
-“What you can’t share possesses you,” I say. 
+img
 
 ###### What are three essentials that help you be your best self ? 
 
