@@ -16,7 +16,7 @@ I start my day with milking cows and making cheese when we are on the farm. I am
 
 I’m also writing a book, so I set aside time for that as well. I’m a grandmother to soon-to-be 13 little (and not so little) ones, so I love spending time with them. I teach at my local church’s leadership school and enjoy helping others see the value of gratitude. Finally, my husband and I have tea around 4pm.
 
-img
+![6.jpg](/uploads/6.jpg)
 
 ###### Is there a cultural or societal norm that you’ve had to “redefine” for yourself in life? (i.e. To succeed you must hustle nonstop.)
 
@@ -26,7 +26,7 @@ I’d say the one I most face now is that I “should be retiring”.
 
 I have also always listened to my inner guidance in making choices and stepping out in faith, not always knowing what the next step would be or even where it was all leading. I am still doing that as we continually create “what’s next”. 
 
-img
+![7-9e8700.jpg](/uploads/7-9e8700.jpg)
 
 ###### How did you come up with the idea for all of your dishes at Café Gratitude to be named as affirmations?
 
@@ -38,7 +38,7 @@ There can be so much negative and degrading conversation with both others and ou
 
 For us it has always been important that we are who we say we are, that way when criticism comes, we either see it as input to grow, or someone's opinion, which may or may not have value. 
 
-img
+![Screen Shot 2019-03-29 at 10.01.20 AM.png](/uploads/Screen%20Shot%202019-03-29%20at%2010.01.20%20AM.png)
 
 ###### Can you share the story behind your first name?
 
@@ -46,7 +46,7 @@ My birth name is Marsha, and I never minded my name. However I was sexually abus
 
 ### Transparency is a valuable part of my journey after being secretive for so many years. “What you can’t share possesses you,” I say. 
 
-img
+![5.jpg](/uploads/5.jpg)
 
 ###### What are three essentials that help you be your best self ? 
 
@@ -62,11 +62,13 @@ Stick with it. Do whatever it takes in the beginning to keep your dream or visio
 
 I appreciate the commitment of [Vintner's Daughter](https://vintnersdaughter.com/), the passion of [Organifi](https://www.organifishop.com/), and I love what my friend Chrissy Helmer is doing in her podcasts and store [Eco Chic](http://ecochiclife.net/) here in town. 
 
-img
+![2-a454ac.jpg](/uploads/2-a454ac.jpg)
 
 ###### You host [Eternal Presence workshops](http://www.eternal-presence.com/) with your husband, Matthew, on a variety of focuses – what is one consistent practice that you always include in each, regardless of the theme?
 
 Our work is about teaching people tools for staying present. Consider that is actually where all the goodies in life are – love, kindness, generosity… We practice something we call “clearing” in all our workshops. Clearing is a simple and profound practice of simply being with another person, asking them a couple questions, and really listening to what they say without fixing, coaching, changing, or adding ANYTHING. It is a way to clear out what might be interfering with someone being present, then lets them share from their current experience and finally acknowledging them, which calls into existence a way of being to step into (creating a future). 
+
+![3-eedc42.jpg](/uploads/3-eedc42.jpg)
 
 ###### What are you most excited about for what you have planned for the future of Café Gratitude and Be Love Farm? 
 
