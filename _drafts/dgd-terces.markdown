@@ -16,6 +16,8 @@ I start my day with milking cows and making cheese when we are on the farm. I am
 
 I’m also writing a book, so I set aside time for that as well. I’m a grandmother to soon-to-be 13 little (and not so little) ones, so I love spending time with them. I teach at my local church’s leadership school and enjoy helping others see the value of gratitude. Finally, my husband and I have tea around 4pm.
 
+img
+
 ###### Is there a cultural or societal norm that you’ve had to “redefine” for yourself in life? (i.e. To succeed you must hustle nonstop.)
 
 I’d say the one I most face now is that I “should be retiring”. 
@@ -23,6 +25,8 @@ I’d say the one I most face now is that I “should be retiring”.
 ### At 69, I still feel committed to doing all I can to empower the upcoming generations to lead powerfully and with love. 
 
 I have also always listened to my inner guidance in making choices and stepping out in faith, not always knowing what the next step would be or even where it was all leading. I am still doing that as we continually create “what’s next”. 
+
+img
 
 ###### How did you come up with the idea for all of your dishes at Café Gratitude to be named as affirmations?
 
@@ -34,9 +38,15 @@ There can be so much negative and degrading conversation with both others and ou
 
 For us it has always been important that we are who we say we are, that way when criticism comes, we either see it as input to grow, or someone's opinion, which may or may not have value. 
 
+img
+
 ###### Can you share the story behind your first name?
 
-My birth name is Marsha, and I never minded my name. However I was sexually abused at 16 years old and kept it a secret for 20 years and struggled with an eating disorder. At 36-years-old when I started to recover, I was guided by my inner guidance (whom I call God) to turn the secret around and change my name to Terces, which is secret spelled backwards. It was one of the most difficult things for me to do; I wasn’t a hippie, I didn’t know anyone who had changed their name. However it turned out to be one of the most powerful things I could have done. I’ve been Terces for 33 years now and nearly everyday someone asks me about my name which gives me the opportunity to share. Transparency is a valuable part of my journey after being secretive for so many years. “What you can’t share possesses you,” I say. 
+My birth name is Marsha, and I never minded my name. However I was sexually abused at 16 years old and kept it a secret for 20 years and struggled with an eating disorder. At 36-years-old when I started to recover, I was guided by my inner guidance (whom I call God) to turn the secret around and change my name to Terces, which is secret spelled backwards. It was one of the most difficult things for me to do; I wasn’t a hippie, I didn’t know anyone who had changed their name. However it turned out to be one of the most powerful things I could have done. I’ve been Terces for 33 years now and nearly everyday someone asks me about my name which gives me the opportunity to share. 
+
+### Transparency is a valuable part of my journey after being secretive for so many years. 
+
+“What you can’t share possesses you,” I say. 
 
 ###### What are three essentials that help you be your best self ? 
 
@@ -48,13 +58,13 @@ Look for opportunities to serve others.
 
 Stick with it. Do whatever it takes in the beginning to keep your dream or vision alive. Empower others. 
 
-###### You host [Eternal Presence workshops](http://www.eternal-presence.com/) with your husband, Matthew, on a variety of focuses – what is one consistent practice that you always include in each, regardless of the theme?
-
-Our work is about teaching people tools for staying present. Consider that is actually where all the goodies in life are – love, kindness, generosity… We practice something we call “clearing” in all our workshops. Clearing is a simple and profound practice of simply being with another person, asking them a couple questions, and really listening to what they say without fixing, coaching, changing, or adding ANYTHING. It is a way to clear out what might be interfering with someone being present, then lets them share from their current experience and finally acknowledging them, which calls into existence a way of being to step into (creating a future). 
-
 ###### What company, brand, or individual are you currently inspired by? Why?
 
 I appreciate the commitment of [Vintner's Daughter](https://vintnersdaughter.com/), the passion of [Organifi](https://www.organifishop.com/), and I love what my friend Chrissy Helmer is doing in her podcasts and store [Eco Chic](http://ecochiclife.net/) here in town. 
+
+###### You host [Eternal Presence workshops](http://www.eternal-presence.com/) with your husband, Matthew, on a variety of focuses – what is one consistent practice that you always include in each, regardless of the theme?
+
+Our work is about teaching people tools for staying present. Consider that is actually where all the goodies in life are – love, kindness, generosity… We practice something we call “clearing” in all our workshops. Clearing is a simple and profound practice of simply being with another person, asking them a couple questions, and really listening to what they say without fixing, coaching, changing, or adding ANYTHING. It is a way to clear out what might be interfering with someone being present, then lets them share from their current experience and finally acknowledging them, which calls into existence a way of being to step into (creating a future). 
 
 ###### What are you most excited about for what you have planned for the future of Café Gratitude and Be Love Farm? 
 
