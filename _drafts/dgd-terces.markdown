@@ -3,6 +3,26 @@ title: dgd terces
 date: 2019-04-01 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- Café Gratitude
+- Gracias Madre
+- Be Love Farms
+- Terces Engelhart
+- Founder
+- Co-founder
+- interview
+- workshop
+- entrepreneur
+- restaurant
+- vegan
+- organic
+- plant-based
+- Café Gratitude founder
+- retreat
+- farm
+- conscious living
+- female founders
+- founder interview
 author: Kathryn Parrish
 ---
 
