@@ -73,6 +73,6 @@ That was the trick in the HOW I am so mindful. By cutting out this one word you 
 
 I’m sure this isn’t the first time you have heard to “stop shoulding all over yourself”. I see people sharing things like that all the time, but then I see a few posts later they are saying, “What should I do about this?” Or, “You should try this!”
 
-A should is a should, is a should. I ask you, urge you, I beg you to PLEASE GIVE THE WORD UP COMPLETELY! If you truly want to feel the effects that is – and would you not?! You _will_ change your life by changing your thoughts and this one word is the key to all of that. 
+A should is a should, is a should. I ask you, urge you, I beg you to PLEASE GIVE THE WORD UP COMPLETELY! If you truly want to feel the effects that is – and why would you not?! You _will_ change your life by changing your thoughts and this one word is the key to all of that. 
 
 If you are looking for more thoughts to change your life..check out my daily inspiration APP (called Own Your Awesome), Affirmation based (slightly sassy) product line, and of course join me on Instagram where I am always sharing mindset insights, mantras and actionable tips to be present to what is happening in your life so that you can fully be present to your life and how awesome you are. 
