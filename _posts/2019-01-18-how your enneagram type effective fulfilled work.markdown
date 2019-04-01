@@ -201,4 +201,4 @@ _Illustrations by [Drop Cap Design](http://dropcapdesign.com/)_
 
 <br>
 
-##### _Want to dive deeper into the Enneagram with like-minded women and an Enneagram expert coach? Join us at our Enneagram Dreamscaping Retreat in Portland this June! [Click here for details!](https://yellowcollective.lpages.co/retreats/)_
+##### _[Want to dive deeper into the Enneagram with like-minded women and an Enneagram expert coach? Join us at our Enneagram Dreamscaping Retreat in Portland this June!Click here for details!](https://yellowcollective.lpages.co/retreats/))_

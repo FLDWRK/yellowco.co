@@ -19,6 +19,8 @@ image: "/uploads/CONFLICT-YellowCo0739.jpg"
 series: Conflict
 ---
 
+_Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland this June! [Click here for details!](https://yellowcollective.lpages.co/retreats/)_
+
 So, you’re in a group of of your closest friends and say, “I think Kanye West should be the next President.” How do you imagine each of them responding in this scenario?
 
 Maybe some laughingly agree. Maybe some instantly get riled up and start emphatically stating why that’s not true. Maybe some find the idea of Kanye’s America fascinating and worthy of exploration. Maybe some see conflict building in the group and instantly start trying to keep the peace. Now, I’ve never actually said that in a group of people, but I have seen similar responses when conflict arises in a group. 
@@ -102,3 +104,7 @@ Another tool I find especially helpful is the [Enneagram Institute relationship 
 I have a friend who describes conflict as a rock tumbler. That these jagged, brownish gray rocks go in, and they come out soft and with all unknown, amazing colors like teal and pink revealed! There is some tumbling that happens in between, but nothing you can’t handle. My hope for you, reader, is that you lean into self-awareness and ask yourself what next steps you want to take. Maybe it’s talking to your someone, or picking up an Enneagram book. Whatever it is, keep the course and do the heart-work. You are worth it.
 
 _Photos by [Nicol Biesek](https://nicolbiesek.com/) for Yellow Co._
+
+<br>
+
+##### _[Want to dive deeper into the Enneagram with like-minded women and an Enneagram expert coach? Join us at our Enneagram Dreamscaping Retreat in Portland this June!Click here for details!](https://yellowcollective.lpages.co/retreats/))_
