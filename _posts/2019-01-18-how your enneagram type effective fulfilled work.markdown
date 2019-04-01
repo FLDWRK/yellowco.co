@@ -26,6 +26,8 @@ author: Kadie Smith
 image: "/uploads/Yellow_Enneagram-05.jpg"
 ---
 
+_Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland this June! [Click here for details!](https://yellowcollective.lpages.co/retreats/)_
+
 Near the end of 2017, I was going through a major business transition and feeling discouraged. The year had started with excitement and anticipation, but was ending in burn out. 
 
 In hindsight, this meant I was in the perfect mental and emotional space to take an objective look at myself. Around this time, I decided to take a closer look at a personality tool I had been mildly interested in - [the Enneagram](https://www.enneagraminstitute.com/type-descriptions/). I wanted to discover my blind spots and rekindle my passion so that I could be more effective and fulfilled at work, which made me quickly fall in love with the model.
@@ -197,4 +199,6 @@ I hope this year brings more "ah-ha" moments into your life, as you learn how to
 
 _Illustrations by [Drop Cap Design](http://dropcapdesign.com/)_
 
-[CONNECT WITH CREATIVE, PURPOSE DRIVEN ENTREPRENEURS: BECOME A YELLOW MEMBER](https://yellowco.co/membership/)
+<br>
+
+##### _Want to dive deeper into the Enneagram with like-minded women and an Enneagram expert coach? Join us at our Enneagram Dreamscaping Retreat in Portland this June! [Click here for details!](https://yellowcollective.lpages.co/retreats/)_
