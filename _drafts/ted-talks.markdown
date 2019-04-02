@@ -4,6 +4,7 @@ date: 2019-04-05 03:00:00 -07:00
 categories:
 - Culture
 author: Jenna Tourje
+image: "/uploads/chris-barbalis-135753-unsplash.jpg"
 ---
 
 Whether you live in an apartment in the city or a ranch house on a cul-de-sac, you are intrinsically connected to place in more ways that you can imagine. These TED Talks highlight the deep ties between people and place from architecture to urban gardening and from public art to the way we move through our city. Ultimately, our relationships with people, in our neighborhoods, and with the environment can spark creativity, happiness, and belonging.
