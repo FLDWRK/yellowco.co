@@ -107,4 +107,5 @@ _Photos by [Nicol Biesek](https://nicolbiesek.com/) for Yellow Co._
 
 <br>
 
-##### _[Want to dive deeper into the Enneagram with like-minded women and an Enneagram expert coach? Join us at our Enneagram Dreamscaping Retreat in Portland this June!Click here for details!](https://yellowcollective.lpages.co/retreats/))_
+##### [Want to dive deeper into the Enneagram with like-minded women and an Enneagram expert coach? Join us at our Enneagram Dreamscaping Retreat in Portland this June! Click here for details!](https://yellowcollective.lpages.co/retreats/)
+<br>
