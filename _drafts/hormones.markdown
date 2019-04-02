@@ -8,7 +8,9 @@ author: Candace Burch, M.A.
 
 Like most women I know, I’d always assumed that all those lovely lotions, potions, creams, and cosmetics I’d been using since my teens were perfectly safe to slather on wherever I thought they could do the most good. Never did I consider that their magical skin smoothing, lip plumping, eye enhancing, teeth whitening powers could actually be hazardous to my health!
  
-When I finally woke up to the harsh realities and started digging into the subject, I was shocked to learn that many of my favorite personal care products were loaded with potent chemicals called “xeno estrogens” (xeno meaning foreign or unnatural) that have the power to disrupt our hormones and cause roller coaster symptoms of imbalance.
+When I finally woke up to the harsh realities and started digging into the subject, I was shocked to learn that many of my favorite personal care products were loaded with potent chemicals called “xeno estrogens” (xeno meaning foreign or unnatural). 
+
+### These chemicals have the power to disrupt our hormones and cause roller coaster symptoms of imbalance. 
  
 I was astounded to discover that there was asbestos in my blusher, parabens in my eyeshadow, plastic softener in my shampoo, and lead in my lipstick! And to make matters worse, it turns out these hidden ingredients are largely unregulated by the FDA, even though environmental medicine has established that they disturb the delicate hormone balance within each of us to ill effect. (So much for blind faith!)
  
@@ -20,7 +22,11 @@ So what can we do? Become informed! Start with the facts, learn what you can do 
  
 #### How Do Xenos Impact Hormone Levels?
  
-By "binding" or attaching themselves to the receptor sites of target tissues in the body, xenos barge in to the actual cell machinery, mimicking and over-stimulating the activity of the hormones that govern our physical, mental, and emotional health. Xenos are major contributors to hidden hormone imbalances, estrogen dominance in particular, are associated with low-thyroid complications, and elevated risks for breast cancer. The unhappy result is an ongoing assault on our hard-won hormonal balance.
+By "binding" or attaching themselves to the receptor sites of target tissues in the body, xenos barge in to the actual cell machinery, mimicking and over-stimulating the activity of the hormones that govern our physical, mental, and emotional health. 
+
+### Xenos are major contributors to hidden hormone imbalances, estrogen dominance in particular, are associated with low-thyroid complications, and elevated risks for breast cancer. 
+
+The unhappy result is an ongoing assault on our hard-won hormonal balance.
  
 #### What Products Are They In?
 
