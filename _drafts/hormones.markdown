@@ -4,6 +4,7 @@ date: 2019-04-03 03:00:00 -07:00
 categories:
 - Health
 author: Candace Burch, M.A.
+image: "/uploads/daiga-ellaby-699140-unsplash-1.jpg"
 ---
 
 Like most women I know, I’d always assumed that all those lovely lotions, potions, creams, and cosmetics I’d been using since my teens were perfectly safe to slather on wherever I thought they could do the most good. Never did I consider that their magical skin smoothing, lip plumping, eye enhancing, teeth whitening powers could actually be hazardous to my health!
@@ -16,9 +17,9 @@ I was astounded to discover that there was asbestos in my blusher, parabens in m
  
 In her brilliant book, _The Molecules of Emotion_, Candace Pert, Ph.D. (neuroscientist/discoverer of the opiate receptor in the brain) says, “Only recently have we gotten the hard proof that the accumulation of these toxins in our bodies chronically stimulates our estrogen and testosterone receptors, putting them into a state of overdrive and leading to cancer.” (Note: at least 11 different xenohormones have been identified in the milk of injected cows!)
  
-If that weren’t enough, many scientists would tell you that all these environmental toxins are actually making our immune systems less resilient!
- 
-So what can we do? Become informed! Start with the facts, learn what you can do to reduce your exposure to these harmful toxins.
+If that weren’t enough, many scientists would tell you that all these environmental toxins are actually making our immune systems less resilient! So what can we do? Become informed! Start with the facts, learn what you can do to reduce your exposure to these harmful toxins.
+
+![maud-simon-596881-unsplash-1-d4d1a0.jpg](/uploads/maud-simon-596881-unsplash-1-d4d1a0.jpg)
  
 #### How Do Xenos Impact Hormone Levels?
  
@@ -27,6 +28,8 @@ By "binding" or attaching themselves to the receptor sites of target tissues in 
 ### Xenos are major contributors to hidden hormone imbalances, estrogen dominance in particular, are associated with low-thyroid complications, and elevated risks for breast cancer. 
 
 The unhappy result is an ongoing assault on our hard-won hormonal balance.
+
+![diana-kadreva-605288-unsplash-1.jpg](/uploads/diana-kadreva-605288-unsplash-1.jpg)
  
 #### What Products Are They In?
 
@@ -38,6 +41,8 @@ The unhappy result is an ongoing assault on our hard-won hormonal balance.
  
 To name a few more:
 **Plastic bottles** made of polycarbonates leach into the liquid we drink. **Canned foods** often have BPA in the lining. **Dry cleaning**, artificially scented deodorizers and **air fresheners** are packed with phthalates, xenochemicals used to soften plastics – **shower curtains** too!
+
+![charles-625891-unsplash-1.jpg](/uploads/charles-625891-unsplash-1.jpg)
  
 #### What Can You Do About It?
  
