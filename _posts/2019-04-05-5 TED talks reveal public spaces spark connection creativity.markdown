@@ -1,5 +1,5 @@
 ---
-title: 5 Ted Talks Reveal How Public Spaces Can Spark Connection & Creativity
+title: 5 TED Talks Reveal How Public Spaces Can Spark Connection & Creativity
 date: 2019-04-05 03:00:00 -07:00
 categories:
 - Culture
