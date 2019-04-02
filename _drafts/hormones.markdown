@@ -6,8 +6,6 @@ categories:
 author: Candace Burch, M.A.
 ---
 
-These man made toxins disrupt our hormones and are found in our food, cosmetics, home, and personal products (what they are & how to avoid them!)
-
 Like most women I know, I’d always assumed that all those lovely lotions, potions, creams, and cosmetics I’d been using since my teens were perfectly safe to slather on wherever I thought they could do the most good. Never did I consider that their magical skin smoothing, lip plumping, eye enhancing, teeth whitening powers could actually be hazardous to my health!
  
 When I finally woke up to the harsh realities and started digging into the subject, I was shocked to learn that many of my favorite personal care products were loaded with potent chemicals called “xeno estrogens” (xeno meaning foreign or unnatural) that have the power to disrupt our hormones and cause roller coaster symptoms of imbalance.
