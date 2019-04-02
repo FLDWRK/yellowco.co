@@ -4,6 +4,23 @@ title: How Xeno Estrogens Are Affecting Your Hormone Balance and How You Can Avo
 date: 2019-04-03 03:00:00 -07:00
 categories:
 - Health
+tags:
+- xeno estrogens
+- clean beauty
+- housecleaner
+- beauty product
+- non-toxic
+- makeup
+- natural
+- home products
+- cleaning products
+- plastic
+- hormone balance
+- hormones
+- chemicals
+- safe
+- clean
+- bathroom
 author: Candace Burch, M.A.
 image: "/uploads/daiga-ellaby-699140-unsplash-1.jpg"
 ---
