@@ -35,11 +35,11 @@ Plastic bottles made of polycarbonates leach into the liquid we drink. Canned fo
  
 #### What Can You Do About It?
  
-###### 1. Examine Labels
+###### Examine Labels
  
 Become your own detective of the xenos lurking in everyday products. Look for “hormone-free, paraben-free, sulfate-free, BPA-free, GMO-free” natural brands. If you can’t pronounce the ingredients on a label, reject it! Go green, eco-friendly, organic wherever possible. You can also use the [Skin Deep app](https://www.ewg.org/apps/) from the Environmental Working Group, and the [Think Dirty App](https://www.thinkdirtyapp.com/) for help finding the best non-toxic products.
  
-###### 2. Call Your Congresswoman/Man
+###### Call Your Congresswoman/Man
  
 It’s hard to believe, but FDA law governing the surveillance of the $70 billion dollar beauty industry has not been updated since it was first enacted in 1938! That’s nearly 80 years ago, long before parabens, BPA, and plastic softeners took up permanent residence in our personal care products! This begs the question: how much can we rely on our federal surveillance agencies to ensure that our (genetically modified, additive rich, hormone-injected) foods and products are actually safe to swallow? Call your congress person and demand new legislation to update lax laws governing the safety and surveillance of our personal care products.
 
