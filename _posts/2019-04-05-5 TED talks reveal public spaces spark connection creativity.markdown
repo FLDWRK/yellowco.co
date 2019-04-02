@@ -86,3 +86,5 @@ When was the last time you determined your commute home from work based on enjoy
 ###### 16 minutes
 
 Born in the UK, raised in the US, and a child of Ghana and Nigeria, Taiye Selasi redefines what it means to be from somewhere. In her words, “I’m not multinational, I’m not national at all. How can I come from a nation? How can a human being come from a concept?” Instead of focusing on countries and history, Taiye developed a methodology to identify where you are a local, focusing on rituals, relationships, and restrictions. 
+
+<br>
