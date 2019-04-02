@@ -27,6 +27,7 @@ image: "/uploads/Yellow_Enneagram-05.jpg"
 ---
 
 _Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland this June! [Click here for details!](https://yellowcollective.lpages.co/retreats/)_
+<br>
 
 Near the end of 2017, I was going through a major business transition and feeling discouraged. The year had started with excitement and anticipation, but was ending in burn out. 
 
@@ -201,4 +202,5 @@ _Illustrations by [Drop Cap Design](http://dropcapdesign.com/)_
 
 <br>
 
-##### _[Want to dive deeper into the Enneagram with like-minded women and an Enneagram expert coach? Join us at our Enneagram Dreamscaping Retreat in Portland this June!Click here for details!](https://yellowcollective.lpages.co/retreats/))_
+##### [Want to dive deeper into the Enneagram with like-minded women and an Enneagram expert coach? Join us at our Enneagram Dreamscaping Retreat in Portland this June! Click here for details!](https://yellowcollective.lpages.co/retreats/)
+<br>
