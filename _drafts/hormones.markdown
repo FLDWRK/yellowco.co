@@ -1,5 +1,6 @@
 ---
-title: hormones
+title: How Xeno Estrogens Are Affecting Your Hormone Balance and How You Can Avoid
+  Them
 date: 2019-04-03 03:00:00 -07:00
 categories:
 - Health
