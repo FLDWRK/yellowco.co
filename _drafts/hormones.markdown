@@ -30,14 +30,14 @@ The unhappy result is an ongoing assault on our hard-won hormonal balance.
  
 #### What Products Are They In?
 
-Lipstick: Studies have found heavy metals, including lead, cadmium, arsenic, aluminum, and other toxins deemed hazardous by the CDC in a random sampling of lip products used by women of all ages. Given the fact that lead accumulates in the body and is dangerous even in tiny doses, the estimates that the average woman eats 10 pounds of lipstick in her lifetime are particularly concerning!  
+**Lipstick:** Studies have found heavy metals, including lead, cadmium, arsenic, aluminum, and other toxins deemed hazardous by the CDC in a random sampling of lip products used by women of all ages. Given the fact that lead accumulates in the body and is dangerous even in tiny doses, the estimates that the average woman eats 10 pounds of lipstick in her lifetime are particularly concerning!  
  
-Skin Creams: Have been found to contain mercury, a particularly nasty toxin that can build up in body tissues causing tremors, memory loss, vision and/or hearing problems, and other lethal aspects of mercury poisoning.
+**Skin Creams:** Have been found to contain mercury, a particularly nasty toxin that can build up in body tissues causing tremors, memory loss, vision and/or hearing problems, and other lethal aspects of mercury poisoning.
  
-Beef, Pork, Poultry and Dairy: Are routinely injected with synthetic growth hormones like RBST (aka xenos) that fatten up cattle and in the process, humans. Eating these foods can cause major imbalances such as estrogen dominance.
+**Beef, Pork, Poultry and Dairy:** Are routinely injected with synthetic growth hormones like RBST (aka xenos) that fatten up cattle and in the process, humans. Eating these foods can cause major imbalances such as estrogen dominance.
  
 To name a few more:
-Plastic bottles made of polycarbonates leach into the liquid we drink. Canned foods often have BPA in the lining. Dry cleaning, artificially scented deodorizers, and air fresheners are packed with phthalates, xenochemicals used to soften plastics – shower curtains too!
+**Plastic bottles** made of polycarbonates leach into the liquid we drink. **Canned foods** often have BPA in the lining. **Dry cleaning**, artificially scented deodorizers and **air fresheners** are packed with phthalates, xenochemicals used to soften plastics – **shower curtains** too!
  
 #### What Can You Do About It?
  
