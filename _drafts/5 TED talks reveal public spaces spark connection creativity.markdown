@@ -3,6 +3,29 @@ title: 5 Ted Talks Reveal How Public Spaces Can Spark Connection & Creativity
 date: 2019-04-05 03:00:00 -07:00
 categories:
 - Culture
+tags:
+- TED talks
+- TED
+- public talks
+- culture
+- public spaces
+- encouraging
+- inspirational
+- educational
+- videos
+- parks
+- cities
+- buildings
+- places
+- people
+- neighborhood
+- city
+- garden
+- connection
+- creativity
+- belonging
+- community garden
+- architecture
 author: Jenna Tourje
 image: "/uploads/chris-barbalis-135753-unsplash.jpg"
 ---
