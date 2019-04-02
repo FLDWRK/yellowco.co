@@ -41,7 +41,7 @@ Whether you live in an apartment in the city or a ranch house on a cul-de-sac, y
 ##### [Before I Die I Want To… by Candy Cheng](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to)  
 ###### 6 minutes
 
-Blending creativity with urban revitalization, Candy Cheng channeled a tragic experience in her life into an urban phenomenon. You might have seen Before I Die walls in your community or on blank walls in neighborhoods you’ve visited. Candy defined a legacy of converting neglected spaces into constructive spaces through creating chalk walls where neighbors can use their voice to define their space. What started as an experiment turned into a global phenomenon that shows how powerful public spaces can be if neighbors are given the chance to shape them.
+Blending creativity with urban revitalization, Candy Cheng channeled a tragic experience in her life into an urban phenomenon. You might have seen "Before I Die" walls in your community or on blank walls in neighborhoods you’ve visited. Candy defined a legacy of converting neglected spaces into constructive spaces through creating chalk walls where neighbors can use their voice to define their space. What started as an experiment turned into a global phenomenon that shows how powerful public spaces can be if neighbors are given the chance to shape them.
 
 <br>
 
@@ -52,7 +52,7 @@ Blending creativity with urban revitalization, Candy Cheng channeled a tragic ex
 ##### [A Guerilla Gardener in South Central LA by Ron Finley](https://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la?language=en)  
 ###### 10 minutes
 
-Ron Finley describes himself as the guerilla gardener of South Central LA, and says that “food is the problem, food is the solution” in his neighborhood. South Central is known as a neighborhood rife with violence and drugs, but obesity and heart disease are the community’s biggest killers. In this talk, Ron describes planting a food forest in the landscaping along the sidewalk in front of his house to address problem of a lack of access to healthy food. Listen to learn how he inspired creativity over bureaucracy, and created a legacy of gardening as graffiti in South Central. 
+Ron Finley describes himself as the guerilla gardener of South Central LA, and says that, “Food is the problem, food is the solution,” in his neighborhood. South Central is known as a neighborhood rife with violence and drugs, but obesity and heart disease are the community’s biggest killers. In this talk, Ron describes planting a food forest in the landscaping along the sidewalk in front of his house to address problem of a lack of access to healthy food. Listen to learn how he inspired creativity over bureaucracy, and created a legacy of gardening as graffiti in South Central. 
 
 <br>
 
@@ -74,7 +74,7 @@ When was the last time you determined your commute home from work based on enjoy
 ##### [Buildings That Blend Nature and City by Jeanne Gang](https://www.ted.com/talks/jeanne_gang_buildings_that_blend_nature_and_city)  
 ###### 12 minutes
 
-“Cities are about people, but today cities are out of balance,” says Jeanne Gang, a renowned architect who designs buildings that balance the needs of people and ecology. In this visually rich TED talk, Jeanne shares about three projects that highlight relationships between people and their environment as the key driver of design. From a Center for Social Justice modeled after a community meeting house in Mali to a police station remodelled from a fortress to a place of trust in the community, Jeanne’s shares about how architecture can increase opportunities for positive interactions between people and their neighborhood.
+“Cities are about people, but today cities are out of balance,” says Jeanne Gang, a renowned architect who designs buildings that balance the needs of people and ecology. In this visually rich TED talk, Jeanne shares about three projects that highlight relationships between people and their environment as the key driver of design. From a Center for Social Justice modeled after a community meeting house in Mali, to a police station remodeled from a fortress to a place of trust in the community, Jeanne shares about how architecture can increase opportunities for positive interactions between people and their neighborhood.
 
 <br>
 
@@ -85,4 +85,4 @@ When was the last time you determined your commute home from work based on enjoy
 ##### [Don’t Ask Where I’m From, Ask Where I’m a Local by Taiye Selasi](https://www.ted.com/talks/taiye_selasi_don_t_ask_where_i_m_from_ask_where_i_m_a_local?language=en)  
 ###### 16 minutes
 
-Born in the UK, raised in the US, and a child of Ghana and Nigeria, Taiye Selasi redefines what it means to be from somewhere. In her words, “I’m not multinational, I’m not national at all. How can I come from a nation? How can a human being come from a concept?” Instead of focusing on countries and history, Taiye developed a methodology to identify where you are a local, focusing on Rituals, Relationships, and Restrictions. 
+Born in the UK, raised in the US, and a child of Ghana and Nigeria, Taiye Selasi redefines what it means to be from somewhere. In her words, “I’m not multinational, I’m not national at all. How can I come from a nation? How can a human being come from a concept?” Instead of focusing on countries and history, Taiye developed a methodology to identify where you are a local, focusing on rituals, relationships, and restrictions. 
