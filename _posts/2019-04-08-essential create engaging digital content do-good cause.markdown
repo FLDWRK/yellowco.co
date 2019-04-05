@@ -51,7 +51,7 @@ So for you, be open about the gaps that lie between what your organization _want
 
 ![stil-734835-unsplash-355710.jpg](/uploads/stil-734835-unsplash-355710.jpg)
 
-#### If you’re filming or recording real people for your campaigns, surround yourself with an emotionally intelligent creative team.
+#### If you’re filming or recording non-actors for your campaigns, surround yourself with an emotionally intelligent creative team.
 
 Being in LA and a part of the Yellow community, I am really fortunate to be surrounded by incredibly talented women who touch all different parts of the creative process. From art directors, producers, to professional public speakers - I know a lot of people who are comfortable being in front of and behind the camera. You, as a Yellow blog reader, likely do as well.
 
@@ -73,4 +73,4 @@ You’ll see certain words, phrases, and visual compositions seep into your work
 
 <br>
 
-_Gabriele Almon is the Founder of [The Storyteller’s Summit](https://www.thestorytellersummit.com/), which brings creative, entertainment, and influencer communities together to collaborate with do-good storytellers. It's taking place in Los Angeles on April 19th, and you can grab 30% off your ticket with code **joinus**!_
+_Gabriele Almon is the Founder of [The Storyteller’s Summit](https://www.thestorytellersummit.com/), which brings creative, entertainment, and influencer communities together to collaborate with do-good storytellers. The summit is taking place in Los Angeles on April 19th, and you can grab [30% off](https://www.eventbrite.com/e/the-storytellers-summit-registration-55609798404) your ticket with code **joinus**!_
