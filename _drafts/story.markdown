@@ -1,14 +1,10 @@
 ---
-title: story
+title: Creating the Best Digital Content for Your Do-Good Cause
 date: 2019-04-08 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Gabriele Almon
 ---
-
-Creating the Best Digital Content for Your Do-Good Cause
-By Gabriele Almon
-
 
 In a world with so much content and crises pouring through our screens, how can do-good organizations (like: non-profits, public agencies, or social enterprise) cut through the noise and engage new audiences?
 
@@ -46,9 +42,6 @@ If you’re reading this, you might be experimenting with your writer’s voice 
 When pop in your earphones, tune into a TV show, or plop on your couch to consume content, is you expose yourself to a variety of storytelling structures, voices, and methods.  Over time, you can start to see a pattern in what you gravitates and you’ll see certain words, phrases, and visual compositions seep into your work that actually pull from what you’ve seen before.
 
 In a busy, busy world - taking time to go the movies isn’t just a hobby, it’s a professional development exercise as well. So enjoy!
-
-
-
 
 
 …
