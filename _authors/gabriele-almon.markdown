@@ -5,4 +5,4 @@ bio_image: "/uploads/Square%20Headshot%20for%20Yellow.png"
 website: http://www.riseofthebulls.com/
 ---
 
-[Gabriele Almon](https://www.instagram.com/GabrieleAlmon/) is the Founder of The Storyteller’s Summit which brings creative, entertainment, and influencer communities together to collaborate with do-good storytellers. She is also the Founder of Rise of the Bulls, a changemaker laboratory, based in Los Angeles. Rise of the Bulls is on a mission to equip creatives with the tools necessary to help solve the world’s largest problems using their unique gifts and strengths. Come learn more and sign up to participate in upcoming events at: [www.riseofthebulls.com](http://www.riseofthebulls.com/)
+[Gabriele Almon](https://www.instagram.com/GabrieleAlmon/) is the Founder of Rise of the Bulls, a changemaker laboratory, based in Los Angeles. Rise of the Bulls is on a mission to equip creatives with the tools necessary to help solve the world’s largest problems using their unique gifts and strengths. Come learn more and sign up to participate in upcoming events at: [www.riseofthebulls.com](http://www.riseofthebulls.com/)
