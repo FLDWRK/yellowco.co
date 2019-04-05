@@ -47,7 +47,7 @@ People are _craving_ opportunities to have an impact on the issues they see on t
 
 So for you, be open about the gaps that lie between what your organization _wants_ to do and your organization can do at the present. (There should _always_ be a gap, so keep dreaming big.) Share the journey you’ve been on since its inception and what’s stopping you. 
 
-### Then, be specific with things one individual can do to fill that push the needle forward with _one_ action, and what ripple effect that action will have on your organization. 
+### Then, be specific with things _one_ individual can do to push the needle forward with _one_ action, and what ripple effect that action will have on your organization. 
 
 ![stil-734835-unsplash-355710.jpg](/uploads/stil-734835-unsplash-355710.jpg)
 
