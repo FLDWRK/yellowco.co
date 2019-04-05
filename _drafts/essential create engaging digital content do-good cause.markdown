@@ -43,7 +43,9 @@ Don’t just think about your sales funnel when developing your creative assets 
 
 People are _craving_ opportunities to have an impact on the issues they see on the headlines every day. At the same time, many of these same people doubt in their ability to be impactful. They wonder if they're skilled enough, wise enough, or strong enough to do something meaningful.
 
-So for you, be open about the gaps that lie between what your organization _wants_ to do and your organization can do at the present. (There should _always_ be a gap, so keep dreaming big.) Share the journey you’ve been on since its inception and what’s stopping you. Then, be specific with things one individual can do to fill that push the needle forward with _one_ action, AND what ripple effect that action will have on your organization. 
+So for you, be open about the gaps that lie between what your organization _wants_ to do and your organization can do at the present. (There should _always_ be a gap, so keep dreaming big.) Share the journey you’ve been on since its inception and what’s stopping you. 
+
+### Then, be specific with things one individual can do to fill that push the needle forward with _one_ action, and what ripple effect that action will have on your organization. 
 
 ![stil-734835-unsplash-355710.jpg](/uploads/stil-734835-unsplash-355710.jpg)
 
