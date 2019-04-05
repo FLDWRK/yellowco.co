@@ -1,8 +1,28 @@
 ---
-title: Creating the Best Digital Content for Your Do-Good Cause
+title: The Essential to Creating Engaging Digital Content for Your Do-Good Cause
 date: 2019-04-08 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- digital content
+- social media content
+- social enterprise
+- nonprofit
+- storytelling
+- campaign
+- engage
+- audience
+- platform
+- digital media
+- marketing
+- meaningful
+- purpose
+- cause
+- do-good
+- how to start social impact business
+- organization
+- social impact organization
+- storyteller summit
 author: Gabriele Almon
 ---
 
