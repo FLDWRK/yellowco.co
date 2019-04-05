@@ -39,6 +39,8 @@ A book I’m reading, _[The Best Story Wins](https://www.amazon.com/Best-Story-W
 
 Don’t just think about your sales funnel when developing your creative assets or planning campaigns; think about the emotional journey you want to take people on and build all of your content around that.
 
+![georgia-de-lotz-1283628-unsplash.jpg](/uploads/georgia-de-lotz-1283628-unsplash.jpg)
+
 #### Find a way to give people a place in your story, otherwise they’ll scroll past your post and onto one that does.
 
 People are _craving_ opportunities to have an impact on the issues they see on the headlines every day. At the same time, many of these same people doubt in their ability to be impactful. They wonder if they're skilled enough, wise enough, or strong enough to do something meaningful.
