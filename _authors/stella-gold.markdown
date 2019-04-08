@@ -1,8 +1,8 @@
 ---
-title: Danielle Magee
+title: Stella Gold
 date: 2018-10-19 11:08:00 -07:00
 bio_image: "/uploads/danielle.jpg"
-website: https://www.instagram.com/livelikeanace/
+website: https://www.instagram.com/stellagoldxo
 ---
 
-Danielle is a business money maker and loves to elevate women through community and education. She is also a mental health and sustainability activist. She works for [Ladies Get Paid](https://www.ladiesgetpaid.com/), helping women find their voice in the workplace and get paid what they deserve. She has a serious love affair with horror movies and Cher. Because who doesn't want to be Cher?! Follow Danielle on Instagram at [@livelikeanace](https://www.instagram.com/livelikeanace/)!
+Stella Gold is an entrepreneur and feminist. Three years ago she found herself drowning in money anxiety after she lost her father. She decided to turn her grief into gold. She previously worked for Ladies Get Paid, helping women get paid what they deserve. Now Stella works for the Financial Gym, empowering people to take control over their finances. Follow Stella on Instagram at @stellagoldxo.
