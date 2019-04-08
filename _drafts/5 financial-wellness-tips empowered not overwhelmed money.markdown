@@ -4,6 +4,23 @@ title: 5 Financial Wellness Tips to Feel Empowered (Instead of Overwhelmed) by Y
 date: 2019-04-10 03:00:00 -07:00
 categories:
 - Growth
+tags:
+- finances
+- financial investing
+- financial wellness
+- money
+- money tips
+- empowered
+- overwhelmed
+- salary
+- investing
+- savings
+- saving up
+- marie kondo
+- money mindset
+- equal pay
+- raise
+- stress
 author: Stella Gold
 image: "/uploads/katie-harp-pinterest-marketing-1080597-unsplash-1.jpg"
 ---
