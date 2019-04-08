@@ -1,5 +1,6 @@
 ---
-title: financial wellness tips
+title: 5 Financial Wellness Tips to Feel Empowered (Instead of Overwhelmed) by Your
+  Money
 date: 2019-04-10 03:00:00 -07:00
 categories:
 - Growth
