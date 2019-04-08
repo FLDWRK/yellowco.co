@@ -4,6 +4,7 @@ date: 2019-04-10 03:00:00 -07:00
 categories:
 - Growth
 author: Stella Gold
+image: "/uploads/katie-harp-pinterest-marketing-1080597-unsplash-1.jpg"
 ---
 
 Money. How does that word make you feel? Usually what comes up in the work that I do as a financial trainer is fear, shame, anxiety, and guilt. Money is taboo to talk about, but thankfully, our culture is shifting. More and more women are talking about money, educating themselves, and taking control of their finances. But what if you don’t know where to start? 
@@ -18,15 +19,23 @@ First things first. It’s time to overcome those money fears because really, it
 
 I meet with clients that come from a variety of socioeconomic backgrounds. Some people make well over six figures but are paralyzed by money anxiety and a scarcity mindset, even with $50,000 in their savings account. Then, I meet a client who has $1,000 in their savings, a little debt, and makes $40,000/year but feels like they have an abundance of money. Money anxiety goes away when we change our mindset, not when we make that dream salary.
 
-### Marie Kondo Your Money
+![neonbrand-315896-unsplash.jpg](/uploads/neonbrand-315896-unsplash.jpg)
 
-Now that we’ve established an abundance mindset free of stigmas and shame, we can focus on what you are spending money on and how that spending makes you feel. This is why Marie Kondo is such a sensation. While she focuses more on cleaning up your home, her method can totally apply to cleaning up your finances. Instant gratification and joy are two very different things but often get mixed up. Spend some time looking over your statements and marking a star on the purchases that genuinely sparked joy, and crossing out the ones that strike up feelings of guilt/shame. [Joy](https://www.findjoy.com/?gclid=EAIaIQobChMIwdCmwM-U4QIVKB-tBh2l6gOCEAAYASAAEgIOJPD_BwE) is an app that is dedicated to this process and actually super fun to use! 
+#### Marie Kondo Your Money
+
+Now that we’ve established an abundance mindset free of stigmas and shame, we can focus on what you are spending money on and how that spending makes you feel. This is why Marie Kondo is such a sensation. While she focuses more on cleaning up your home, her method can totally apply to cleaning up your finances. 
+
+### Instant gratification and joy are two very different things but often get mixed up. 
+
+Spend some time looking over your statements and marking a star on the purchases that genuinely sparked joy, and crossing out the ones that strike up feelings of guilt/shame. [Joy](https://www.findjoy.com/?gclid=EAIaIQobChMIwdCmwM-U4QIVKB-tBh2l6gOCEAAYASAAEgIOJPD_BwE) is an app that is dedicated to this process and actually super fun to use! 
 
 #### Pay Yourself First
 
 63% of people do not have $500 in their savings account. Overall, you should be saving at minimum 15% of your income to an emergency fund, or what I like to call a “Freedom Fund.” This should be equivalent to 3 to 6 months of your fixed expenses. Ever have a job that you absolutely loathed and wanted to leave, but felt trapped in staying for the money? A freedom fund gives you that out to never feel stuck again. Or, do you want to travel the world for a couple months to do some soul searching? Freedom fund. For example, if your fixed expenses are $3,000/month you should have at least $9,000 saved. You deserve to pay yourself first and liberate yourself from any financial situation that comes your way. 
 
 Once you reach your 3 to 6 months worth of savings, you can take that 15% of savings toward your other goals like traveling, investing, education, or buying a property. You deserve to have whatever goals you want to achieve.
+
+![katie-harp-pinterest-marketing-1080607-unsplash-1.jpg](/uploads/katie-harp-pinterest-marketing-1080607-unsplash-1.jpg)
 
 #### Ask for a Raise
 
