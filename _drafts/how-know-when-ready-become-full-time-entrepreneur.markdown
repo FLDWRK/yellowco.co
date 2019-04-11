@@ -3,7 +3,26 @@ title: How to Know When You’re Ready to Become a Full-Time Entrepreneur
 date: 2019-04-12 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- social entrepreneur
+- purposeful entrepreneur
+- entrepreneur
+- entrepreneur retreat
+- entrepreneur workshop
+- women entrepreneurs
+- women
+- Female Founders
+- quit job
+- full time job
+- full time
+- work at home
+- remote
+- business owner
+- start business
+- advice
+- tips
 author: Natalia Crawford
+image: "/uploads/plush-design-studio-729894-unsplash-1.jpg"
 ---
 
 I remember my cubicle days like it was yesterday. The literal and figurative darkness of the season, the lack of hope, fulfillment and joy and the big dream and desire to live for something bigger and more meaningful. It’s the reason why two years into being a full-time entrepreneur I still feel so grateful to get to wake up every single day to do what I love.
@@ -12,7 +31,9 @@ If you are still in the cubicle (literally or not) and don't want to be, let me 
  
 It got to the point where I HAD to quit my full-time job for the sake of my own health. At the moment, I remember thinking and feeling like I was too young for this. I remembered a well-known entrepreneur sharing about how her father passed away at a young age from stress. That was not going to be me. Along with the health issues, I felt like God/The Universe was telling me to make the leap. To get out of the boat and walk on water. To jump out of the plane and trust that the parachute would work. So I took a leap of faith and I jumped.
  
-_No, I didn’t have any clients. No, I wasn’t making any cash in my business. No, I didn’t have a solid plan._
+### No, I didn’t have any clients. No, I wasn’t making any cash in my business. No, I didn’t have a solid plan.
+
+![s-o-c-i-a-l-c-u-t-542907-unsplash (1)-1.jpg](/uploads/s-o-c-i-a-l-c-u-t-542907-unsplash%20(1)-1.jpg)
  
 Now, I’m not writing this to tell you to go quit your job right now. In most cases, I would advise against it. But I want you to hear my story and then I want you to live yours. Here’s what followed:
  
@@ -25,6 +46,8 @@ Listen, everybody’s story is different and I could outline three steps for you
 ### No matter when you do it, it’s going to be a leap of faith. You have to trust what is outside of you, and believe in you.
 
 Here is what I do want to advise you to do when you feel ready (or are getting ready) to make your business your full-time job.
+
+![nicole-honeywill-1192754-unsplash-1.jpg](/uploads/nicole-honeywill-1192754-unsplash-1.jpg)
 
 #### Invest in coaching.
 
