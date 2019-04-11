@@ -12,7 +12,7 @@ If you are still in the cubicle, let me talk to you for a second and give you a 
  
 It got to the point where I HAD to quit my full-time job for the sake of my own health. At the moment, I remember thinking and feeling like I was too young for this. I remembered a well-known entrepreneur sharing about how her father passed away at a young age from stress. That was not going to be me. Along with the health issues, I felt like God/The Universe was telling me to make the leap. To get out of the boat and walk on water. To jump out of the plane and trust that the parachute would work. So I took a leap of faith and I jumped.
  
-No, I didn’t have any clients. No, I wasn’t many any cash in my business. No, I didn’t have a solid plan.
+_No, I didn’t have any clients. No, I wasn’t many any cash in my business. No, I didn’t have a solid plan._
  
 Now, I’m not writing this to tell you to go quit your job right now. In most cases, I would advise against it. But I want you to hear my story and then I want you to live yours. Here’s what followed:
  
@@ -21,22 +21,20 @@ I knew I couldn’t do it alone, so I INVESTED (and I say invested because I was
 I booked up with clients in three months, hired my first employee, doubled my revenue the following month, and alongside my husband, we build our agency to hit 6-figures year one. It was a leap of faith. An investment. A belief in myself and my business. A survival kind of situation that worked.
  
 Listen, everybody’s story is different and I could outline three steps for you but I don’t believe this is a one size fits all kind of situation. Ultimately, I believe it comes down to you knowing what is best for you, when the right time is for you and trusting that.
-No matter when you do it, it’s going to be a leap of faith. You have to trust what is outside of you, and believe in you.
-Here is what I do want to advise you when you feel ready (or are getting ready) to make your business your full-time job.
-Invest in coaching.
 
+### No matter when you do it, it’s going to be a leap of faith. You have to trust what is outside of you, and believe in you.
+
+Here is what I do want to advise you when you feel ready (or are getting ready) to make your business your full-time job.
+
+#### Invest in coaching.
 
 I wholeheartedly believe in having a guide/mentor to help you every step of the way. They will advise you, keep you focused and help you move forward.
 
-
-Have a community.
-
+#### Have a community.
 
 Just like right now you might be feeling like you are the only one struggling to go full-time, when you’re full-time you’ll feel like your the only one struggling to succeed. It’s important to not do this entrepreneurial journey alone. There is nothing stronger than having support and community who gets you at your side.
 
+#### Believe in yourself.
 
-Believe in yourself.
-
-
-Your mindset is key in this journey. You have to believe in yourself and in your dream more than anyone else. It has to come from within and it has to come from you. If you want an easy daily mindset practice, download these free business affirmations to help you start the day with the right mindset in place.
+Your mindset is key in this journey. You have to believe in yourself and in your dream more than anyone else. It has to come from within and it has to come from you. If you want an easy daily mindset practice, download these free [business affirmations](https://socialbusinessbosses.com/freeresources) to help you start the day with the right mindset in place.
 You’ll know when you’re ready not because of external circumstances but because you, the entrepreneur, the dream holder, will be ready. And when you are, go for it! Make the leap of faith! You’ve got this!
