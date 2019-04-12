@@ -33,7 +33,7 @@ Social media is my profession, somewhat accidentally. I never aspired to become 
 
 Along with the usual digital culprits accompanying a 9-5 job — checking Slack and email — toggling back and forth between the five Instagram accounts and mindlessly tapping on my bus ride home was starting to feel less than ideal. 
 
-### As awesome as a digital detox amongst Joshua trees, clad in Outdoor Voices apparel and Chatarunga-ing my way to zen sounds, my current role requires that I pay pretty close attention to the social media world. 
+### As awesome as a digital detox amongst Joshua trees, clad in Outdoor Voices apparel, and Chatarunga-ing my way to zen sounds, my current role requires that I pay pretty close attention to the social media world. 
 
 ![leone-venter-693463-unsplash-1-7ec451.jpg](/uploads/leone-venter-693463-unsplash-1-7ec451.jpg)
 
@@ -43,7 +43,7 @@ The idea for a digitally-edited or digitally-minimalist life comes from an [Ezra
 
 Instead, Newport makes the case for a digital minimalism, which he defines as “a philosophy of technology use in which you focus your online time on a small number of carefully selected activities… that strongly support things you value, and then happily miss out on everything else.” The difference between digital minimalism and digital detoxing is semantic, but important: 
 
-### Shifting from “detox” to “minimalism,” neutralizes social media instead implying inherent toxicity.
+### Shifting from “detox” to “minimalism” neutralizes social media instead of implying inherent toxicity.
 
 As a full-time social media assistant, here are five digitally-minimalist practices based on Newport’s theory that have restored some mental clarity to me:
 
