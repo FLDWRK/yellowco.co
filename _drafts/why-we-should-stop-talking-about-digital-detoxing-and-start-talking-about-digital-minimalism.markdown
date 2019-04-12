@@ -1,6 +1,6 @@
 ---
-title: Why we should stop talking about digital detoxing and start talking about digital
-  minimalism
+title: Why Digital Minimalism Is the Answer to Social Media Not Taking over Your Life
+  & 5 Ways to Try It
 date: 2019-04-15 03:00:00 -07:00
 categories:
 - Culture
