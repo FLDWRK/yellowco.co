@@ -35,6 +35,8 @@ Along with the usual digital culprits accompanying a 9-5 job — checking Slack 
 
 ### As awesome as a digital detox amongst Joshua trees, clad in Outdoor Voices apparel and Chatarunga-ing my way to zen sounds, my current role requires that I pay pretty close attention to the social media world. 
 
+![leone-venter-693463-unsplash-1-7ec451.jpg](/uploads/leone-venter-693463-unsplash-1-7ec451.jpg)
+
 Not to mention, after relocating from California to the East Coast, staying in touch with friends and family is contingent upon my iPhone. Trying to give that up for Lent, even partially, proved to be more difficult than I thought. 
 
 The idea for a digitally-edited or digitally-minimalist life comes from an [Ezra Klein Show](https://www.stitcher.com/podcast/vox/the-ezra-klein-show/e/58174211) podcast interview with [Cal Newport](http://www.calnewport.com/), author of bestselling _[Deep Work](http://www.calnewport.com/books/deep-work/)_ and _[Digital Minimalism: Choosing a Focused Life in a Noisy World](http://www.calnewport.com/books/digital-minimalism/)_. I expected Newport to lecture me on why I should delete social media entirely, which would result in me not being able to pay rent. No thanks. 
@@ -44,6 +46,8 @@ Instead, Newport makes the case for a digital minimalism, which he defines as �
 ### Shifting from “detox” to “minimalism,” neutralizes social media instead implying inherent toxicity.
 
 As a full-time social media assistant, here are five digitally-minimalist practices based on Newport’s theory that have restored some mental clarity to me:
+
+![melinda-gimpel-1395871-unsplash-1.jpg](/uploads/melinda-gimpel-1395871-unsplash-1.jpg)
 
 #### 1. Turn off all those incessant red notifications. 
 
@@ -56,6 +60,8 @@ Yes I get it, you don’t want to unfollow that one person who will totally noti
 #### 3. Leave the phone at home! 
 
 I can usually swing a couple hours outside the house on the weekend where I don’t NEED my phone. Instead of referring to my Evernote grocery list at Trader Joe’s, I’ll write a list. If I’m walking somewhere new, I’ll commit the route to memory before I head out.
+
+![brooke-lark-609899-unsplash-1.jpg](/uploads/brooke-lark-609899-unsplash-1.jpg)
 
 #### 4. Ruthlessly unsubscribe from emails. 
 
