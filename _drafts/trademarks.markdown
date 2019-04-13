@@ -1,5 +1,5 @@
 ---
-title: trademarks
+title: Everything You Could Want to Know About Trademarks for Your Brand
 date: 2019-04-17 03:00:00 -07:00
 categories:
 - Entrepreneurs
