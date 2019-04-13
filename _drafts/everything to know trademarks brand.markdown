@@ -32,6 +32,8 @@ We’ve all heard of trademark or trademark rights, and we’ve all seen that cu
 
 Typically, trademarks are separated into two categories: “word marks” and “logo marks.”  Word marks consist simply of the word or words that make up your business name, slogan, or any other identifier of your brand (like “Yellow Co.”). Logo marks, on the other hand, consist of graphic elements, and may or may not include words as well (think the little apple we all have on the back of our iPhones, or the Nike swoosh with the word “Nike” underneath). I’ll refer to both of these collectively as a “mark” throughout the rest of this article.
 
+![victor-xok-590629-unsplash-1.jpg](/uploads/victor-xok-590629-unsplash-1.jpg)
+
 #### So How Do I Get Trademark Protection?
 
 While most people believe they need to register their mark in order to gain trademark protection, you actually receive _some_ trademark protection as soon as you use your mark “in commerce,” or in connection with your business, facing the public. This is a concept called “common law” trademark. Cool, right? With common law trademark, you receive protection in the geographic area where you sell your products or provide your services (i.e. where customers or clients recognize your mark). That’s a pretty good reason why you might want to start using your mark as soon as you’ve committed to it, rather than hiding it and waiting for a giant brand launch months down the road. 
@@ -44,6 +46,8 @@ Statutory trademark (1) creates the legal presumption that you own a mark, and t
 
 Those five points are the benefits of statutory trademark in a nutshell (told you it does way more). But how do you gain statutory trademark protection? I’m glad you asked. You’ll have to formally register with the United States Patent and Trademark Office, or “USPTO.” But before you even start your application, you’ll want to do some prep work. 
 
+![j-kelly-brito-247570-unsplash-1-d4941f.jpg](/uploads/j-kelly-brito-247570-unsplash-1-d4941f.jpg)
+
 #### First Step: Determining the Strength of Your Mark
 
 First, start with a viability analysis, which means hiring an attorney. Some people choose to forego this step when money is tight, but I cannot type this loudly enough: DON’T DO THAT. This step is absolutely crucial, because trademark applications are expensive, and you don’t want to waste money on them if your mark isn’t even protectable in the first place; so this could save you a lot of money in the long run. Why might your mark not be protectable? Another fantastic question, you’re on a roll today. Well, in this step, it all comes down to the five categories for the “strength” of your mark. 
@@ -52,6 +56,8 @@ First, start with a viability analysis, which means hiring an attorney. Some peo
 
 They are: Fanciful, Arbitrary, Suggestive, Descriptive, and Generic. Before the USPTO will even look at the rest of your application, it will first determine where your mark fits into this spectrum. If the USPTO determines that your mark is descriptive or generic, they will reject your application. But if they determine that it is fanciful, arbitrary, or suggestive, they’ll move on to see if they can find other reasons to reject your application (because the examiners are kind of unpredictable, tbh.) But that’s not for you to worry about right now, let’s move on to the next step.
 
+![ben-kolde-635320-unsplash-1.jpg](/uploads/ben-kolde-635320-unsplash-1.jpg)
+
 #### Second Step: Conducting A Knockout Search
 
 Next, you’ll want to have your attorney run a preliminary search, or what we call a “knockout search” to make sure there’s not a “confusingly similar” mark in any of the trademark classes you’ll be registering in. Similarity is an important thing to consider, because it’s also something the trademark examiners are analyzing when evaluating your application. There are forty-five broad trademark classes (think of them like categories) and when you apply for trademark, you’ll have to select one (or more) of those classes for your trademark to fall under. If you’re trying to register your mark in a trademark class that already has a similar mark registered within it, this might be where your trademark journey stops. But this is why you’ll want to hire an attorney rather than just Googling on your own; an attorney will be able to give you a realistic idea of whether your mark is confusingly similar and whether or not it’s wise to move forward.   
@@ -59,6 +65,8 @@ Next, you’ll want to have your attorney run a preliminary search, or what we c
 And before we go any further, let me just pause here to give you a practical tip: when you’re planning out your business strategy, it’s always wise to do the knockout search anyway (even if you don’t plan on formally registering) to make sure your mark isn’t already being used by someone else. 
 
 ### This will help you avoid having to re-brand later after you’ve already gotten traction under your original brand. 
+
+![nicole-honeywill-1285867-unsplash-1.jpg](/uploads/nicole-honeywill-1285867-unsplash-1.jpg)
 
 #### Third Step: Submitting Your Application!
 
@@ -69,6 +77,8 @@ When you apply, you will need to also provide descriptions (i.e. specific types 
 ### In other words, an Intent to Use application is essentially like making a reservation for your mark, which is pretty cool.
 
 (Although, side note: this can be a more expensive application in the long run). Once an Intent to Use application is accepted by the USPTO, you will have six months to submit this evidence, but this period can be extended by up to 30 months, if needed.
+
+![nicole-honeywill-1192754-unsplash-1.jpg](/uploads/nicole-honeywill-1192754-unsplash-1.jpg)
 
 #### Office Actions: What You Need To Know
 
@@ -83,6 +93,8 @@ That’s where trademark monitoring comes in. Trademark monitoring is pretty muc
 ### If you don’t actively monitor your mark, it could become diluted, which means your trademark is no longer unique to your product. 
 
 When this happens, other people can start using your trademark, without your permission. You know how everybody says Kleenex when they mean tissue? Kind of like that. 
+
+![nicole-honeywill-1221926-unsplash-1.jpg](/uploads/nicole-honeywill-1221926-unsplash-1.jpg)
 
 #### Wrapping Things Up
 
