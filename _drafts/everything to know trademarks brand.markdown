@@ -40,7 +40,7 @@ While most people believe they need to register their mark in order to gain trad
 
 But a lot of people want more protection than what common law trademark provides, and understandably so! Because it’s specific to your geographic area, you could be selling a product in California under one mark, while another business is doing the exact same thing under the exact same mark in Arizona, and there’s not really a whole lot you can do to get them to stop. Unless you’ve applied for (drumroll please…) statutory trademark! 
 
-### “Statutory” trademark is like common law trademark’s cooler big sister, because it gets to do way more stuff! 
+### A “statutory” trademark is like common law trademark’s cooler big sister, because it gets to do way more stuff! 
 
 Statutory trademark (1) creates the legal presumption that you own a mark, and that you have the exclusive right to use that mark throughout the _entire United States_ in connection with your goods/services; (2) puts the public on notice that you own the mark, setting a boundary from infringement; (3) gives you the right to sue in federal court about the use of your mark; (4) makes it easier to apply and obtain foreign trademark registrations; and (5) allows you to use the “®” sign in connection with your mark, which is otherwise illegal to use; meaning, if your mark is not registered (AKA you have a common law trademark), you can _only_ use the ™ in connection with your branding. 
 
@@ -56,7 +56,7 @@ First, start with a viability analysis, which means hiring an attorney. Some peo
 
 They are: Fanciful, Arbitrary, Suggestive, Descriptive, and Generic. Before the USPTO will even look at the rest of your application, it will first determine where your mark fits into this spectrum. If the USPTO determines that your mark is descriptive or generic, they will reject your application. But if they determine that it is fanciful, arbitrary, or suggestive, they’ll move on to see if they can find other reasons to reject your application (because the examiners are kind of unpredictable, tbh.) But that’s not for you to worry about right now, let’s move on to the next step.
 
-![ben-kolde-635320-unsplash-1.jpg](/uploads/ben-kolde-635320-unsplash-1.jpg)
+![nicole-honeywill-1221926-unsplash-1.jpg](/uploads/nicole-honeywill-1221926-unsplash-1.jpg)
 
 #### Second Step: Conducting A Knockout Search
 
@@ -66,7 +66,7 @@ And before we go any further, let me just pause here to give you a practical tip
 
 ### This will help you avoid having to re-brand later after you’ve already gotten traction under your original brand. 
 
-![nicole-honeywill-1285867-unsplash-1.jpg](/uploads/nicole-honeywill-1285867-unsplash-1.jpg)
+![ben-kolde-635320-unsplash-1.jpg](/uploads/ben-kolde-635320-unsplash-1.jpg)
 
 #### Third Step: Submitting Your Application!
 
@@ -78,7 +78,7 @@ When you apply, you will need to also provide descriptions (i.e. specific types 
 
 (Although, side note: this can be a more expensive application in the long run). Once an Intent to Use application is accepted by the USPTO, you will have six months to submit this evidence, but this period can be extended by up to 30 months, if needed.
 
-![nicole-honeywill-1192754-unsplash-1.jpg](/uploads/nicole-honeywill-1192754-unsplash-1.jpg)
+![nicole-honeywill-1285867-unsplash-1.jpg](/uploads/nicole-honeywill-1285867-unsplash-1.jpg)
 
 #### Office Actions: What You Need To Know
 
@@ -94,7 +94,7 @@ That’s where trademark monitoring comes in. Trademark monitoring is pretty muc
 
 When this happens, other people can start using your trademark, without your permission. You know how everybody says Kleenex when they mean tissue? Kind of like that. 
 
-![nicole-honeywill-1221926-unsplash-1.jpg](/uploads/nicole-honeywill-1221926-unsplash-1.jpg)
+![jessy-smith-534048-unsplash-1.jpg](/uploads/jessy-smith-534048-unsplash-1.jpg)
 
 #### Wrapping Things Up
 
