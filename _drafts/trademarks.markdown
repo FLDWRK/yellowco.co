@@ -4,6 +4,7 @@ date: 2019-04-17 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Liv Phillips
+image: "/uploads/studio-media-1174542-unsplash-1.jpg"
 ---
 
 We’ve all heard of trademark or trademark rights, and we’ve all seen that cute little ™ symbol hanging around some of our favorite brands’ names and logos. Trademark rights are a form of intellectual property (or “IP”) protection for your brand and logo. This is an essential for many businesses in this digital day and age, where brands are splashed across our phones, tablets, and computers 24/7. 
