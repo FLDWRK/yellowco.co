@@ -1,5 +1,6 @@
 ---
-title: trevor project
+title: 'How This Organization Is Helping Prevent Suicide Among LGBTQ Youth: An Interview
+  with the Trevor Project'
 date: 2019-04-19 03:00:00 -07:00
 categories:
 - Culture
