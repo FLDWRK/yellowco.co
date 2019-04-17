@@ -21,7 +21,7 @@ tags:
 - non-profits
 - non-profit leader
 author: Rachel Neal
-image: "/uploads/3O5A2887.jpg"
+image: "/uploads/3O5A2975.jpg"
 ---
 
 _Suicide is the second leading cause of death among young people between the ages of 10 and 24, and youth that identify as gay or bisexual are almost five times as likely to have attempted suicide compared to heterosexual youth. Thankfully, [The Trevor Project](https://www.thetrevorproject.org/#sm.000cws2ec13r3f09spr22m5lp6l4y) is trying to change the story by offering their support to LGBTQ youth in crisis. One of the main components of this organization is the [TrevorLifeline](https://www.thetrevorproject.org/get-help-now/#sm.000cws2ec13r3f09spr22m5lp6l4y), a phone service aimed at intervening during times of crisis and preventing suicide. I spoke with Paloma Woo, LCSW, the Senior Crisis Services Manager at The Trevor Project about the organization’s mission and the effects it’s had on the community it is serving._
@@ -32,7 +32,7 @@ The Trevor Project’s mission is to end suicide among lesbian, gay, bisexual, t
 
 We currently serve 68,000 crisis contacts annually, but we estimate that each year more than 1.5 million LGBTQ youth experience suicidal ideation and could benefit from our services. And we recently celebrated our 21st birthday, which is no small feat! Trevor staff celebrated the organization’s 21st birthday across offices in Los Angeles, New York City, and Washington, D.C.
 
-img
+![3O5A2887.jpg](/uploads/3O5A2887.jpg)
 
 ###### What resources and services does The Trevor Project offer currently? Are there any new services or ideas being developed to further assist LGBTQ youth?  
 
@@ -40,7 +40,7 @@ The heart and soul of The Trevor Project is our 24/7 crisis services programs, w
 
 ### Despite being around for more than 20 years, we are growing as an organization to provide more ways to serve youth in crisis in whatever ways are most comfortable and accessible to them. 
 
-img
+![3O5A3006.jpg](/uploads/3O5A3006.jpg)
 
 ###### What does your role as Senior Crisis Services Manager entail? Tell us about the day-to-day!
 
@@ -54,7 +54,7 @@ Since we provide support through using a crisis intervention model of care, we d
 
 Similarly, we’ve had people, now adults, who have previously used our services become a part of our volunteer community, supporting Trevor through the many opportunities that we have available. Getting to know them and seeing how much of a positive impact our programs make is incredibly gratifying. 
 
-img
+![IMG_1246.jpg](/uploads/IMG_1246.jpg)
 
 ###### The Trevor Project offers so many avenues to receive crisis services. What is the organization’s overall philosophy and method of guiding LGBTQ youth through times of crisis?
 
@@ -68,7 +68,7 @@ We have an amazing team of crisis counselors who are trained to sit with young p
 
 There are many, many reasons that someone would reach out to our crisis services programs, and we don’t judge any of them. We know crises are different for each and every person. Nevertheless, some of the most common themes that we see are isolation, fear of rejection, and feeling like they don’t belong, which may be related to bullying, relationships, coming out, or a whole other host of presenting issues. 
 
-img
+![3O5A3003.jpg](/uploads/3O5A3003.jpg)
 
 ###### How could anyone in the Yellow community best get involved in The Trevor Project’s efforts to help LGBTQ youth if interested?
 
