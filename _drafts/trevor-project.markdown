@@ -32,6 +32,8 @@ The Trevor Project’s mission is to end suicide among lesbian, gay, bisexual, t
 
 We currently serve 68,000 crisis contacts annually, but we estimate that each year more than 1.5 million LGBTQ youth experience suicidal ideation and could benefit from our services. And we recently celebrated our 21st birthday, which is no small feat! Trevor staff celebrated the organization’s 21st birthday across offices in Los Angeles, New York City, and Washington, D.C.
 
+img
+
 ###### What resources and services does The Trevor Project offer currently? Are there any new services or ideas being developed to further assist LGBTQ youth?  
 
 The heart and soul of The Trevor Project is our 24/7 crisis services programs, which include TrevorLifeline, TrevorChat and TrevorText. We also offer an awesome peer support service called TrevorSpace and provide informative resources on our website at our [Trevor Support Center](https://www.thetrevorproject.org/resources/trevor-support-center/#sm.000cws2ec13r3f09spr22m5lp6l4y). 
@@ -46,7 +48,11 @@ As the Senior Crisis Services Manager, I am responsible for overseeing the day-t
 
 ###### How have you seen The Trevor Project positively impact LGBTQ youth, their families, and allies? We’d love to hear about the overall effect, as well as any specific stories that come to mind!
 
-Since we provide support through using a crisis intervention model of care, we don’t always learn the outcome of each call. Some of the most rewarding moments, however, are when we receive calls back from youth who let us know that they’ve reached out to us in the past and that, based on the support and connection that we were able to provide in those dark moments, they were able to work through them. Similarly, we’ve had people, now adults, who have previously used our services become a part of our volunteer community, supporting Trevor through the many opportunities that we have available. Getting to know them and seeing how much of a positive impact our programs make is incredibly gratifying. 
+Since we provide support through using a crisis intervention model of care, we don’t always learn the outcome of each call. 
+
+### Some of the most rewarding moments, however, are when we receive calls back from youth who let us know that they’ve reached out to us in the past and that, based on the support and connection that we were able to provide in those dark moments, they were able to work through them. 
+
+Similarly, we’ve had people, now adults, who have previously used our services become a part of our volunteer community, supporting Trevor through the many opportunities that we have available. Getting to know them and seeing how much of a positive impact our programs make is incredibly gratifying. 
 
 img
 
