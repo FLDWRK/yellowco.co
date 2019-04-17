@@ -12,13 +12,13 @@ _Suicide is the second leading cause of death among young people between the age
 
 The Trevor Project’s mission is to end suicide among lesbian, gay, bisexual, transgender, queer and questioning (LGBTQ) young people. 
 
-We are the world’s largest crisis intervention and suicide prevention organization for LGBTQ youth. We run 24/7 crisis services programs, including TrevorLifeline, TrevorChat, and TrevorText. We also work to prevent LGBTQ youth suicide through our safe space social networking site that provides peer-to-peer support, as well as our education, training, research, and advocacy programs. 
+We are the world’s largest crisis intervention and suicide prevention organization for LGBTQ youth. We run 24/7 crisis services programs, including [TrevorLifeline](https://www.thetrevorproject.org/get-help-now/#sm.000cws2ec13r3f09spr22m5lp6l4y), [TrevorChat](https://www.thetrevorproject.org/get-help-now/#sm.000cws2ec13r3f09spr22m5lp6l4y), and [TrevorText](https://www.thetrevorproject.org/get-help-now/#sm.000cws2ec13r3f09spr22m5lp6l4y). We also work to prevent LGBTQ youth suicide through our safe space social networking site that provides peer-to-peer support, as well as our education, training, research, and advocacy programs. 
 
 We currently serve 68,000 crisis contacts annually, but we estimate that each year more than 1.5 million LGBTQ youth experience suicidal ideation and could benefit from our services. And we recently celebrated our 21st birthday, which is no small feat! Trevor staff celebrated the organization’s 21st birthday across offices in Los Angeles, New York City, and Washington, D.C.
 
 ###### What resources and services does The Trevor Project offer currently? Are there any new services or ideas being developed to further assist LGBTQ youth?  
 
-The heart and soul of The Trevor Project is our 24/7 crisis services programs, which include TrevorLifeline, TrevorChat and TrevorText. We also offer an awesome peer support service called TrevorSpace and provide informative resources on our website at our Trevor Support Center. Despite being around for more than 20 years, we are growing as an organization to provide more ways to serve youth in crisis in whatever ways are most comfortable and accessible to them. 
+The heart and soul of The Trevor Project is our 24/7 crisis services programs, which include TrevorLifeline, TrevorChat and TrevorText. We also offer an awesome peer support service called TrevorSpace and provide informative resources on our website at our [Trevor Support Center](https://www.thetrevorproject.org/resources/trevor-support-center/#sm.000cws2ec13r3f09spr22m5lp6l4y). Despite being around for more than 20 years, we are growing as an organization to provide more ways to serve youth in crisis in whatever ways are most comfortable and accessible to them. 
 
 ###### What does your role as Senior Crisis Services Manager entail? Tell us about the day-to-day!
 
@@ -38,7 +38,7 @@ There are many, many reasons that someone would reach out to our crisis services
 
 ###### How could Yellow readers best get involved in The Trevor Project’s efforts to help LGBTQ youth?
 
-We couldn’t do the work that we do without the support of our amazing and robust volunteer community. We are always looking for folks who are just as dedicated and passionate about our mission as we are. If you’re one of those people, you can volunteer with us from anywhere in the country as a crisis counselor, or in other capacities, including our advocacy work. Learn more about volunteering at TheTrevorProject.org/Volunteer
+We couldn’t do the work that we do without the support of our amazing and robust volunteer community. We are always looking for folks who are just as dedicated and passionate about our mission as we are. If you’re one of those people, you can volunteer with us from anywhere in the country as a crisis counselor, or in other capacities, including our advocacy work. [Learn more about volunteering here.](https://www.thetrevorproject.org/get-involved/volunteer/#sm.000cws2ec13r3f09spr22m5lp6l4y)
 
 ###### In your wildest dreams, what changes do you hope to see in society as a result of The Trevor Project’s work?
 
