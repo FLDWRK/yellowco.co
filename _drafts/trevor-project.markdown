@@ -21,6 +21,8 @@ The heart and soul of The Trevor Project is our 24/7 crisis services programs, w
 
 ### Despite being around for more than 20 years, we are growing as an organization to provide more ways to serve youth in crisis in whatever ways are most comfortable and accessible to them. 
 
+img
+
 ###### What does your role as Senior Crisis Services Manager entail? Tell us about the day-to-day!
 
 As the Senior Crisis Services Manager, I am responsible for overseeing the day-to-day operations of TrevorLifeline, which is our crisis intervention and suicide prevention phone line. One of the things that I love about my job is that every day is different and that we work in a fast-paced environment. A day in the life could look like helping to support our amazing team of crisis counselors, developing policies and procedures to deliver the high quality of work that we expect from the full team, and paying attention to key news items that may affect our volume of callers using our services. And since our program requires a lot of collaboration and has many moving parts, there are, of course, many, many meetings. 
@@ -28,6 +30,8 @@ As the Senior Crisis Services Manager, I am responsible for overseeing the day-t
 ###### How have you seen The Trevor Project positively impact LGBTQ youth, their families, and allies? We’d love to hear about the overall effect, as well as any specific stories that come to mind!
 
 Since we provide support through using a crisis intervention model of care, we don’t always learn the outcome of each call. Some of the most rewarding moments, however, are when we receive calls back from youth who let us know that they’ve reached out to us in the past and that, based on the support and connection that we were able to provide in those dark moments, they were able to work through them. Similarly, we’ve had people, now adults, who have previously used our services become a part of our volunteer community, supporting Trevor through the many opportunities that we have available. Getting to know them and seeing how much of a positive impact our programs make is incredibly gratifying. 
+
+img
 
 ###### The Trevor Project offers so many avenues to receive crisis services. What is the organization’s overall philosophy and method of guiding LGBTQ youth through times of crisis?
 
@@ -40,6 +44,8 @@ We have an amazing team of crisis counselors who are trained to sit with young p
 ###### In your experience, what have been the most common crises and issues youth are seeking support on from The Trevor Project counselors?
 
 There are many, many reasons that someone would reach out to our crisis services programs, and we don’t judge any of them. We know crises are different for each and every person. Nevertheless, some of the most common themes that we see are isolation, fear of rejection, and feeling like they don’t belong, which may be related to bullying, relationships, coming out, or a whole other host of presenting issues. 
+
+img
 
 ###### How could anyone in the Yellow community best get involved in The Trevor Project’s efforts to help LGBTQ youth if interested?
 
