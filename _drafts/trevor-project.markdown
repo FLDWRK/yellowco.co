@@ -21,7 +21,7 @@ tags:
 - non-profits
 - non-profit leader
 author: Rachel Neal
-image: "/uploads/3O5A2975.jpg"
+image: "/uploads/3O5A2887.jpg"
 ---
 
 _Suicide is the second leading cause of death among young people between the ages of 10 and 24, and youth that identify as gay or bisexual are almost five times as likely to have attempted suicide compared to heterosexual youth. Thankfully, [The Trevor Project](https://www.thetrevorproject.org/#sm.000cws2ec13r3f09spr22m5lp6l4y) is trying to change the story by offering their support to LGBTQ youth in crisis. One of the main components of this organization is the [TrevorLifeline](https://www.thetrevorproject.org/get-help-now/#sm.000cws2ec13r3f09spr22m5lp6l4y), a phone service aimed at intervening during times of crisis and preventing suicide. I spoke with Paloma Woo, LCSW, the Senior Crisis Services Manager at The Trevor Project about the organization’s mission and the effects it’s had on the community it is serving._
