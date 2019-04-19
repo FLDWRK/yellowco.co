@@ -13,11 +13,9 @@ _Austin Channing Brown is a woman I’ve looked up to for a long time. She is th
 
 I’ve had a bent toward justice for a long time. When I was a kid, I wanted to open an entire campus for foster care teens that felt more like a resort. But it was during college that I began to truly understand the depths of racial justice. On a trip called Sankofa, a three day bus trip visiting museums and speaking to activists, changed my life. 
 
-
 ###### Tell us a bit about the story behind your name, Austin. 
  
 I always knew I had a boys name, but I didn’t know why my parents chose it until I was 8 or 9. A librarian wouldn’t accept my library card, and it made me so mad, I demanded that my mother explain why she had given me this name. She then told me that she and my father knew Austin would be my name when they said it aloud and realized anyone who heard it would assume I’m a white man. She explained, “One day you will have to fill out applications for college or a job. We just wanted to get you to the interview.” 
-
 
 ###### In your book you write, “Sadly, most white people are more worried about being called racist than about whether or not their actions are in fact racist or harmful.” Can you elaborate on the importance of this difference in mindset?  
 
