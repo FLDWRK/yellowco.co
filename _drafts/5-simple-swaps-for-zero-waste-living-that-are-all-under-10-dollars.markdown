@@ -1,5 +1,5 @@
 ---
-title: 5 Simple Swaps for Zero-Waste Living That Are All Under $10
+title: 5 Simple Swaps for Zero-Waste Living All Under $10
 date: 2019-04-22 03:00:00 -07:00
 categories:
 - Conscious Living
