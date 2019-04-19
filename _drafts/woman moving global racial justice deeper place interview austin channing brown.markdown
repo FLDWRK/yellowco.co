@@ -4,6 +4,15 @@ title: 'The Woman Moving the Global Racial Justice Conversation to a Deeper Plac
 date: 2019-04-24 03:00:00 -07:00
 categories:
 - Culture
+tags:
+- austin channing brown
+- racial justice
+- culture
+- race conversations
+- racial equality
+- deep conversation
+- i'm still here
+- cross racial friendship
 author: Joanna Waterfall
 image: "/uploads/austin_51.jpg"
 ---
