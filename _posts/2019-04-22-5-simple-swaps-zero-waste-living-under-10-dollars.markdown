@@ -29,7 +29,7 @@ tags:
 - easy
 - budget
 author: Megan fal
-image: "/uploads/fikri-rasyid-699015-unsplash.jpg"
+image: "/uploads/nefeli-kavvada-1489678-unsplash.jpg"
 ---
 
 Growing up in a coastal town, I was always acutely aware of the impacts our consumer waste had on our local environment. Whenever there was a storm rolling in, my family and I would head down to the beach to watch the waves, but what we couldn’t see in that moment was all the man-made waste that would be left on the shores once the storm had past. 
@@ -42,7 +42,7 @@ Luckily, the plastic-free and zero-waste movements have taken off and people all
 
 While there are many incredible sustainable brands that are starting to make it easier for people to make the switch to “greener” solutions, the up front investment of transitioning to a low-waste lifestyle can feel a little out of reach. Which is why I believe so strongly in educating people about how they can make simple and affordable swaps to reduce their waste that makes this movement accessible for everyone. We need to motivate the masses, and if we are going to do that we need to make sure that the sustainable solution is one that absolutely everyone can afford. 
 
-img
+![fikri-rasyid-699015-unsplash.jpg](/uploads/fikri-rasyid-699015-unsplash.jpg)
 
 #### 1. Skip the Plastic Food Packaging and Opt for Glass
 
@@ -58,7 +58,7 @@ Plastic packaging extends all the way to our beauty/personal care products, and 
 
 One of my favorite brands making beautiful artisan soaps is [Osmia Organics](https://osmiaorganics.com/), and [Humankind](https://byhumankind.com/products/shampoo) makes an amazing shampoo bar if you are looking to switch to a plastic-free hair care routine as well.
 
-img
+![annie-spratt-1145914-unsplash-1.jpg](/uploads/annie-spratt-1145914-unsplash-1.jpg)
 
 #### 4. Ditch Plastic Tampon Applicators
 
