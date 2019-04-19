@@ -29,7 +29,7 @@ tags:
 - easy
 - budget
 author: Megan fal
-image: "/uploads/nefeli-kavvada-1489678-unsplash.jpg"
+image: "/uploads/fikri-rasyid-699015-unsplash.jpg"
 ---
 
 Growing up in a coastal town, I was always acutely aware of the impacts our consumer waste had on our local environment. Whenever there was a storm rolling in, my family and I would head down to the beach to watch the waves, but what we couldn’t see in that moment was all the man-made waste that would be left on the shores once the storm had past. 
