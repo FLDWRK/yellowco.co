@@ -1,5 +1,6 @@
 ---
-title: austin
+title: 'The Woman Moving the Global Racial Justice Conversation to a Deeper Place:
+  Our Interview with Austin Channing Brown'
 date: 2019-04-24 03:00:00 -07:00
 categories:
 - Culture
