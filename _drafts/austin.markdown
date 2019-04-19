@@ -4,6 +4,7 @@ date: 2019-04-24 03:00:00 -07:00
 categories:
 - Culture
 author: Joanna Waterfall
+image: "/uploads/austin_51.jpg"
 ---
 
 _Austin Channing Brown is a woman I’ve looked up to for a long time. She is the Author of “Im Still Here: Black dignity in a world made for whiteness” and now has an important new project she’s working on called “The Next Question”. The Next Question is a TV show meant to change and move the racial conversation forward and to a deeper place. Something our world and culture is currently craving and needing so badly. She currently has a [Kickstarter Campaign](https://www.kickstarter.com/projects/39682875/the-next-question?ref=project) out right now working to fund this important project. It was an honor to be able to ask Austin a bit more about herself and learn more about her heart and the important work she’s doing in the world!_
