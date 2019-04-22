@@ -62,6 +62,6 @@ Am I aware of my biases? If so, what am I doing to educate myself and challenge 
 
 Whose perspectives am I missing and how do I literally invite them into my conversations?
 
-What does inclusion look like for me/ my company, and what can I do to fill the gaps? 
+What does inclusion look like for me/my company, and what can I do to fill the gaps? 
 
 _Photos courtesy of _
