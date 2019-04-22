@@ -29,7 +29,7 @@ author: Jackie Viramontez
 image: "/uploads/IMG_3420.JPG"
 ---
 
-_Bianca Wilson, co-founder of [/Sā/](https://www.say-space.com/), left a stable job at Apple to pursue a new bottom line in business: diversity and inclusion. /Sa/ workshops challenge teams to uncover organizational blind spots and biases so they can experience new levels of empathy, collaboration, influence, and profitability. I asked Bianca to share the necessity and impact of diversity and inclusion, and practical steps within that sphere we can take to create change._ 
+_Bianca Wilson, co-founder of [/Sā/](https://www.say-space.com/), left a stable job at Apple to pursue a new bottom line in business: diversity and inclusion. /Sā/ workshops challenge teams to uncover organizational blind spots and biases so they can experience new levels of empathy, collaboration, influence, and profitability. I asked Bianca to share the necessity and impact of diversity and inclusion, and practical steps within that sphere we can take to create change._ 
 
 ###### You have a powerful quote on your website that says, “Diversity is being invited to the party, inclusion is being asked to dance.” How have you’ve seen these words play out in the teams you’ve facilitated?
 
