@@ -4,6 +4,7 @@ date: 2019-04-26 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Natalia Crawford
+image: "/uploads/paul-hanaoka-483071-unsplash-1.jpg"
 ---
 
 When it comes to building a business, two things that are inevitable and healthy is growth and change. It’s a sign that your business is expanding and evolving like any successful business would. However, with change and expansion come the question of knowing when it’s time to change a core part of your business: your business model.
