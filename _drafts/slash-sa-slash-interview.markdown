@@ -15,6 +15,8 @@ Many companies see diversity and inclusion as a numbers game: How do we get our 
 
 ### When teams create circles they block certain people out. When they create horseshoes, diverse people can come into the team and keep coming in because they feel invited. 
 
+[IMG_8837 2.JPG](/uploads/IMG_8837%202.JPG)
+
 ###### How do you get teams to be open, honest, and vulnerable despite the desire to be politically correct, and the charge around bias and privilege?
 
 We use an exercise called "exposing our own bias". As facilitators, we start by sharing biased thoughts we have, and then sharing how we can go out of our way to not let biases control our behavior. Our mantra is: You reveal. You feel it. You heal it. You move on. 
@@ -28,6 +30,8 @@ The tone is that there is no right or wrong, there are simply different perspect
 The saying, "You don’t know what you don’t know," is real. When there are diverse perspectives at one table, you generate more ideas, collaboration, and creativity that ultimately impact profitability. You have an edge on everyone else. Think of the creative collaboration companies are missing when they don’t foster inclusive and diverse cultures. 
 
 _According to McKinsey Research, racially diverse companies are 35% more likely to outperform industry medians and have fifteen times more sales revenue._
+
+![IMG_8894.jpg](/uploads/IMG_8894.jpg)
  
 ###### One of your missions is to help organization’s uncover blind spots: What are the most common biases leaders don’t see and why? 
 
@@ -46,6 +50,8 @@ The obstacle we face is that many companies like one-hit-wonders, when one works
 ### The companies that succeed long-term care less about quick fixes and more about long term implementation. 
 
 They have systems in place that maintain results. They do the work to create cultures and environments that support inclusion so minorities not only stay but thrive, succeed, and grow.
+
+![14.jpg](/uploads/14.jpg)
 
 ###### You do a great job empowering all employees to contribute as leaders. What tangible steps can individuals take to make diversity and inclusion a priority while pursuing their own brand or business partnerships?
 
