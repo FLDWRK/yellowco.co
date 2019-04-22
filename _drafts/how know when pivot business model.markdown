@@ -21,6 +21,8 @@ For example, if you had a toy that wasn't working, would you throw it away or pe
 
 In the same way, identify what _is_ working with what you are currently offering. What seems to be producing results and be selling? Know what works well and keep that around.
 
+![vladimir-mokry-1180901-unsplash-1.jpg](/uploads/vladimir-mokry-1180901-unsplash-1.jpg)
+
 #### Identify What’s Sustainable
 
 One of the other key identifiers I want you to focus on is sustainability. Ask yourself whether or not this is something you can see yourself doing long-term. Some indicators of that would be whether or not you enjoy it, whether or not your clients seem to like and/or need it, and how long you believe you’ll be able to keep doing what you are doing based on the trajectory of the business space.
@@ -30,6 +32,8 @@ One of the other key identifiers I want you to focus on is sustainability. Ask y
 Another key piece of this equation is scalability. Are you able to scale what you are currently doing? Or is it actually limiting you from experience growth? I believe that everyone has a level of scalability they want to attain, so as long as you can attain that level with what you are doing, then you're good. 
 
 ### However, if your current model is limiting you from attaining the level of scalability that you desire, then it’s time for a shift.
+
+![sabrina-mazzeo-658826-unsplash-1.jpg](/uploads/sabrina-mazzeo-658826-unsplash-1.jpg)
 
 #### Understand the Timeframe
 
