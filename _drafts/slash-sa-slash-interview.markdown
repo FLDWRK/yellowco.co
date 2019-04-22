@@ -25,13 +25,13 @@ The tone is that there is no right or wrong, there are simply different perspect
 
 ### Empathy and curiosity are much better tools for creating vulnerability, accountability, and ultimately healing than defensiveness and disconnect.
 
+![IMG_8894.jpg](/uploads/IMG_8894.jpg)
+
 ###### How do these transformative conversations and the inclusion they create increase profitability, retention, and long-term success? 
 
 The saying, "You don’t know what you don’t know," is real. When there are diverse perspectives at one table, you generate more ideas, collaboration, and creativity that ultimately impact profitability. You have an edge on everyone else. Think of the creative collaboration companies are missing when they don’t foster inclusive and diverse cultures. 
 
 _According to McKinsey Research, racially diverse companies are 35% more likely to outperform industry medians and have fifteen times more sales revenue._
-
-![IMG_8894.jpg](/uploads/IMG_8894.jpg)
  
 ###### One of your missions is to help organization’s uncover blind spots: What are the most common biases leaders don’t see and why? 
 
@@ -40,6 +40,9 @@ Many leaders believe, or want to believe, that it’s an equal playing field, th
 Companies and agencies find employees from a large pool, but the pool isn’t diverse. The things candidates need to get into that pool in the first place require privilege.
 
 Because of a leader’s position or experience, they don’t see the phenomenon called “leaving parts of yourself at the door”. People, especially minorities, leave parts of themselves behind because they don’t feel safe bringing them into the office. For example, when women become (stereotypical) men in order to lead, they leave massive parts of their perspective and emotions behind that could open new levels of dialogue and empathy if engaged.
+
+
+![14.jpg](/uploads/14.jpg)
 
 ###### What organizations have you worked with, and what can we learn from them? 
 
@@ -51,11 +54,11 @@ The obstacle we face is that many companies like one-hit-wonders, when one works
 
 They have systems in place that maintain results. They do the work to create cultures and environments that support inclusion so minorities not only stay but thrive, succeed, and grow.
 
-![14.jpg](/uploads/14.jpg)
-
 ###### You do a great job empowering all employees to contribute as leaders. What tangible steps can individuals take to make diversity and inclusion a priority while pursuing their own brand or business partnerships?
 
 Get curious about your own bias. Look at your friend group and who you spend time with at work as an indication of possible blind spots. Then, notice who you might be unintentionally excluding, whether by socioeconomic factors, gender, race, etc. Start moving your circle to a horseshoe, and invite them to sit with you; literally invite them to lunch and hear their perspective. 
+
+![15.jpg](/uploads/15.jpg)
 
 ###### The answer to this question could fill a book, but what is the risk of NOT spotting blind spots and not fostering an inclusive culture?
 
