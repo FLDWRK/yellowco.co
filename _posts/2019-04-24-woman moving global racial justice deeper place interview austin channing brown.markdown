@@ -17,7 +17,7 @@ author: Joanna Waterfall
 image: "/uploads/austin_51.jpg"
 ---
 
-_Austin Channing Brown is a woman I’ve looked up to for a long time. She is the Author of [“I'm Still Here: Black Dignity in a World Made for Whiteness”](http://austinchanning.com/the-book) and now has an important new project she’s working on called “The Next Question”. The Next Question is a TV show meant to change and move the racial conversation forward and to a deeper place. Something our world and culture is currently craving and needing so badly. Her [Kickstarter Campaign](https://www.kickstarter.com/projects/39682875/the-next-question?ref=project) for this project was a huge success - we can't wait to see what comes from it. It was an honor to be able to ask Austin a bit more about herself and learn more about her heart and the important work she’s doing in the world!_
+_Austin Channing Brown is a woman I’ve looked up to for a long time. She is the Author of [“I'm Still Here: Black Dignity in a World Made for Whiteness”](http://austinchanning.com/the-book) and now has an important new project she’s working on called [The Next Question](https://www.tnqshow.com/). The Next Question is a TV show meant to change and move the racial conversation forward and to a deeper place. Something our world and culture is currently craving and needing so badly. Her [Kickstarter Campaign](https://www.kickstarter.com/projects/39682875/the-next-question?ref=project) for this project was a huge success - we can't wait to see what comes from it. It was an honor to be able to ask Austin a bit more about herself and learn more about her heart and the important work she’s doing in the world!_
 
 ###### When did you decide to commit yourself to pursuing racial justice? Was there a time and a place when you knew you were called to this work?  
 
@@ -29,7 +29,7 @@ I always knew I had a [typically] boy name, but I didn’t know why my parents c
 
 ###### In your book you write, “Sadly, most white people are more worried about being called racist than about whether or not their actions are in fact racist or harmful.” Can you elaborate on the importance of this difference in mindset?  
 
-I once had a student who was very concerned because her friends repeatedly told her that some of her comments were racist. Rather than defend herself, she went to a mentor and said, “I need to learn more about this, because I don’t want to be racist. I don’t want to be someone who causes hurt.” Her focus was on others, and her impact on others. 
+I once had a student who was very concerned because her friends repeatedly told her that some of her comments were racist. Rather than defend herself, she went to a mentor and said, “I need to learn more about this, because I don’t want to be racist. I don’t want to be someone who causes hurt.” Her focus was on others and her impact on them. 
 
 ### She didn’t want to appear to be better; she wanted to be better. That is the difference. 
 
@@ -63,4 +63,4 @@ _[Update: The Kickstarter was [successfully funded](https://www.kickstarter.com/
 
 I’m on Facebook at Austin Channing Brown. You can also find me on Twitter and Instagram [@austinchanning](https://www.instagram.com/austinchanning/). My website is [austinchanning.com](http://austinchanning.com/). The handle and website for The Next Question is [@TNQshow](https://www.instagram.com/tnqshow/). 
 
-_Photos courtesy of Austin Channing Brown_
+_Photos courtesy of [Austin Channing Brown](http://austinchanning.com/)_
