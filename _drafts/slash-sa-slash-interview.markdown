@@ -6,7 +6,7 @@ categories:
 author: Jackie Viramontez
 ---
 
-_Bianca Wilson, co-founder of /Sa/, left a stable job at Apple to pursue a new bottom line in business: diversity and inclusion. Their workshops challenge teams to uncover organizational blind spots and bias so they can experience new levels of empathy, collaboration, influence and profitability. We asked Bianca to share the necessity and impact of D & I, and practical steps we can take to create change._ 
+_Bianca Wilson, co-founder of [/Sa/](https://www.say-space.com/), left a stable job at Apple to pursue a new bottom line in business: diversity and inclusion. /Sa/ workshops challenge teams to uncover organizational blind spots and biases so they can experience new levels of empathy, collaboration, influence, and profitability. I asked Bianca to share the necessity and impact of diversity and inclusion, and practical steps within that sphere we can take to create change._ 
 
 ###### You have a powerful quote on your website that says, “Diversity is being invited to the party, inclusion is being asked to dance.” How have you’ve seen these words play out in the teams you’ve facilitated?
 
@@ -26,7 +26,7 @@ Empathy and curiosity are much better tools for creating vulnerability, accounta
 
 The saying, ‘You don’t know what you don’t know’ is real. When there are diverse perspectives at one table, you generate more ideas, collaboration, and creativity that ultimately impact profitability. You have an edge on every else. Think of the creative collaboration companies are missing when they don’t foster inclusive and diverse cultures. 
 
-According to McKinsey Research, racially diverse companies are 35 percent more likely to outperform industry medians and have fifteen times more sales revenue.
+_According to McKinsey Research, racially diverse companies are 35 percent more likely to outperform industry medians and have fifteen times more sales revenue._
  
 ###### One of your missions is to help organization’s uncover blind spots: What are the most common biases leaders don’t see and why? 
 
