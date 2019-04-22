@@ -3,6 +3,28 @@ title: "/sa/ interview"
 date: 2019-05-03 03:00:00 -07:00
 categories:
 - Culture
+tags:
+- diversity
+- inclusion
+- work environment
+- workshops
+- organization
+- corporate culture
+- work culture
+- diversity in the workplace
+- bias
+- racial equality
+- privilege
+- racial bias
+- empathy
+- communication
+- conversation
+- diverse companies
+- racially diverse
+- leaders
+- leadership
+- say space
+- Bianca Wilson
 author: Jackie Viramontez
 image: "/uploads/IMG_3420.JPG"
 ---
@@ -40,7 +62,6 @@ Many leaders believe, or want to believe, that it’s an equal playing field, th
 Companies and agencies find employees from a large pool, but the pool isn’t diverse. The things candidates need to get into that pool in the first place require privilege.
 
 Because of a leader’s position or experience, they don’t see the phenomenon called “leaving parts of yourself at the door”. People, especially minorities, leave parts of themselves behind because they don’t feel safe bringing them into the office. For example, when women become (stereotypical) men in order to lead, they leave massive parts of their perspective and emotions behind that could open new levels of dialogue and empathy if engaged.
-
 
 ![14.jpg](/uploads/14.jpg)
 
