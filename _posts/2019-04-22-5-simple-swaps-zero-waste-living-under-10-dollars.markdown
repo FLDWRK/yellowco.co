@@ -28,7 +28,7 @@ tags:
 - cheap
 - easy
 - budget
-author: Megan fal
+author: Megan Faletra
 image: "/uploads/nefeli-kavvada-1489678-unsplash.jpg"
 ---
 
