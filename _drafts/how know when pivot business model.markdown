@@ -1,5 +1,5 @@
 ---
-title: How to know when to pivot your business model or stick with it
+title: How to Know When It's Time to Pivot Your Business Model
 date: 2019-04-26 03:00:00 -07:00
 categories:
 - Entrepreneurs
