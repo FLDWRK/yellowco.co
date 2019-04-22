@@ -33,13 +33,19 @@ I once had a student who was very concerned because her friends repeatedly told 
 
 ### She didn’t want to appear to be better; she wanted to be better. That is the difference. 
 
+img
+
 ###### In a recent Instagram post you wrote, "I’ve not been called to change the hearts of white people, I’ve been called to affirm the dignity of black people... Before I can affirm someone else’s dignity, I must believe deeply in my own - just the way God made me." Can you share a bit about your journey in believing in your own dignity and what that's looked like for you?  
 
 My journey started when my mom would dress me in the morning and rub cocoa butter into my skin telling me how beautiful it is. Since then, it has involved loving my hair, and finding the right make-up, seeking out books and movies that represent me, and surrounding myself with other proud black women. Combatting the lies of inferiority has been a life-long process, but it is one I take great delight in. 
 
 ###### How can we deepen our cross-racial friendships?  
 
-I find myself becoming less and less interested in cross-racial friendships. I am interested in partnerships, in coalitions, in communities. I am interested in shared passions, strategy making, and reaching toward a common goal. And that requires mutuality, trust, and a commitment to learning. That requires honesty, self-reflection and an honest look at history. Let’s deepen relationships while we fix the world. 
+I find myself becoming less and less interested in cross-racial friendships. I am interested in partnerships, in coalitions, in communities. 
+
+### I am interested in shared passions, strategy making, and reaching toward a common goal. And that requires mutuality, trust, and a commitment to learning. 
+
+That requires honesty, self-reflection and an honest look at history. Let’s deepen relationships while we fix the world. 
 
 ###### How has your most recent book, _I'm Still Here_, impacted your life since it came out?  
 
