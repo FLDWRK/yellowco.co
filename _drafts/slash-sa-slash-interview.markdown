@@ -10,7 +10,11 @@ _Bianca Wilson, co-founder of [/Sa/](https://www.say-space.com/), left a stable 
 
 ###### You have a powerful quote on your website that says, “Diversity is being invited to the party, inclusion is being asked to dance.” How have you’ve seen these words play out in the teams you’ve facilitated?
 
-Many companies see diversity and inclusion as a numbers game: How do we get our numbers up? That only points to the diversity part of the equation. Diversity is “getting invited” to the team, but not having a voice once there. Many underrepresented groups who speak up are met with defensiveness, numbness, or indifference. Companies may have the numbers, but their lack of inclusion results in turnover, lack of engagement, or worse (lawsuits etc). The very thing that gets them invited - their difference - doesn’t have space to thrive; their voices are not heard and their experiences are not validated. 
+Many companies see diversity and inclusion as a numbers game: How do we get our numbers up? That only points to the diversity part of the equation. Diversity is “getting invited” to the team, but not having a voice once there. Many underrepresented groups who speak up are met with defensiveness, numbness, or indifference. 
+
+### Companies may have the numbers, but their lack of inclusion results in turnover, lack of engagement, or worse (lawsuits, etc.). 
+
+The very thing that gets them invited, their difference, doesn’t have space to thrive; their voices are not heard and their experiences are not validated. 
 
 Glennon Doyle has a quote about creating horseshoes instead of circles. When teams create circles they block certain people out. When they create horseshoes, diverse people can come into the team and keep coming in because they feel invited. 
 
