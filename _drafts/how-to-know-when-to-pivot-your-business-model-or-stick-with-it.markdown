@@ -6,32 +6,32 @@ categories:
 author: Natalia Crawford
 ---
 
-Title: Knowing When It’s Time to Pivot in Business
+When it comes to building a business, two things that are inevitable and healthy is growth and change. It’s a sign that your business is expanding and evolving like any successful business would. However, with change and expansion come the question of knowing when it’s time to change a core part of your business: your business model.
 
-Author: Natalia Amador
+Your business model is the very thing that helps your business be profitable, serves your clients, and keeps you running. Knowing when it’s time to shift things or keep pushing forward as is can be tricky. There are a few ways that I have found to be helpful when trying to make the decision of whether to pivot your business, or stick through it. 
 
-When it comes to building a business one of the things that is inevitable and healthy is growth and change. It’s a sign that your business is expanding and that it’s evolving like any successful business would. However, with change and expansion comes the question of knowing when it’s time to change the core of your business: your business model.
+#### Identify What’s Working and What’s Not Working
 
-Your business model is the very thing that helps your business be profitable, serves your clients and that keeps you running as a business. Knowing when it’s time to shift things or when it’s time to keep pushing forward with it as is can be tricky. There are a few ways that I have found to be helpful when trying to make the decision of pivoting in your business or sticking it through. 
+One of the biggest mistakes I see entrepreneurs make is that when they feel like something isn’t working in their business they want to burn it all down. And by all I mean _all_. 
 
-Here is what they are:
+### Just because something isn’t working doesn’t mean the whole thing is broken. 
 
-Identify What’s Working and What’s Not Working
+For example, if you had a toy that wasn't working, would you throw it away or perhaps try changing the batteries first to see if that’s the problem? I’m guessing you’d try and change the batteries. Instead of calling the entire service or product broken, identify what isn’t working within it and try fixing that before you burn it all down.
 
-One of the biggest mistakes I see entrepreneurs make is that when they feel like something isn’t working in their business they want to burn it all down. And by all I mean all. Just because something isn’t working doesn’t mean the whole thing is broken. For example, if you had a toy that needed batteries but it wasn’t working would you throw it away or perhaps try changing the batteries to see if that’s the problem? I’m guessing you’d try and change the batteries. Instead of calling the entire service or product broken, identify what isn’t working within it and try fixing that before you burn it all down.
+In the same way, identify what _is_ working with what you are currently offering. What seems to be producing results and be selling? Know what works well and keep that around.
 
-In the same way, identify what is working with what you are currently offering. What seems to be producing results and be selling? Know what works well and keep that around.
+#### Identify What’s Sustainable
 
-Identify What’s Sustainable
+One of the other key identifiers I want you to focus on is sustainability. Ask yourself whether or not this is something you can see yourself doing long-term. Some indicators of that would be whether or not you enjoy it, whether or not your clients seem to like and/or need it, and how long you believe you’ll be able to keep doing what you are doing based on the trajectory of the business space.
 
-One of the other key identifiers I want you to focus on is sustainability. Ask yourself whether or not this is something you can see yourself doing long-term. Some indicators of that would be whether or not you enjoy it, whether or not your clients seem to like it and how long you believe you’ll be able to keep doing what you are doing based on the trajectory of the business space.
+#### Identify What’s Scalable
 
-Identify What’s Scalable
+Another key piece of this equation is scalability. Are you able to scale what you are currently doing? Or is it actually limiting you from experience growth? I believe that everyone has a level of scalability they want to attain, so as long as you can attain that level with what you are doing, then you're good. 
 
-Another key piece I want you to look at is scalability. Are you able to scale what you are currently doing? Or is it actually limiting you from experience growth. I do believe that everyone has a level of scalability they want to attain so as long as you can attain that level with what you are doing then you are good. However, if it’s limiting you from attaining the level of scalability that you desire then it’s time for a shift.
+### However, if your current model is limiting you from attaining the level of scalability that you desire, then it’s time for a shift.
 
-Understand the Timeframe
+#### Understand the Timeframe
 
-If you find yourself constantly shifting your business model because you feel like things aren’t working this might be an indicator that you are changing things too fast. A good rule of thumb to follow is to test something for a minimum of 90 days before making any sort of decision on it. 90 days is a good amount of time for you to see, test and discern whether or not something you are doing is going to work in your business. You can’t go on a diet for one week or work out for one week and expect to see results. You have to be willing to give things the time and space for them to work. Do the same thing in your business, otherwise nothing is ever going to work.
+If you find yourself constantly shifting your business model because you feel like things aren’t working, this might be an indicator that you are changing things too fast. A good rule of thumb to follow is to test something for a minimum of 90 days before making any sort of decision on it. 90 days is a good amount of time for you to observe, test, and discern whether or not something you are doing is going to work in your business. You can’t go on a diet for just one week and expect to see results. You have to be willing to give things the time and space for them to work. Do the same thing in your business.
 
-Your business model is the bloodline of your business, treat it as such. Know that it’s what gives life to your business and be wise about the way you change, add or adjust it. Be flexible and in the end know that when everything aligns with you in your business, it’s inevitable that your business will grow.
+Your business model is the bloodline of your business, so treat it as such. Know that it’s what gives life to your business and be wise about the way you change, add to, or adjust it. Be flexible, and in the end know that when everything aligns with you in your business, it’s inevitable that your business will grow.
