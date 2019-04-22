@@ -33,7 +33,7 @@ I once had a student who was very concerned because her friends repeatedly told 
 
 ### She didn’t want to appear to be better; she wanted to be better. That is the difference. 
 
-img
+![NSLC_EGW-19-3c8768.jpg](/uploads/NSLC_EGW-19-3c8768.jpg)
 
 ###### In a recent Instagram post you wrote, "I’ve not been called to change the hearts of white people, I’ve been called to affirm the dignity of black people... Before I can affirm someone else’s dignity, I must believe deeply in my own - just the way God made me." Can you share a bit about your journey in believing in your own dignity and what that's looked like for you?  
 
@@ -46,6 +46,8 @@ I find myself becoming less and less interested in cross-racial friendships. I a
 ### I am interested in shared passions, strategy making, and reaching toward a common goal. And that requires mutuality, trust, and a commitment to learning. 
 
 That requires honesty, self-reflection and an honest look at history. Let’s deepen relationships while we fix the world. 
+
+![austin_49.jpg](/uploads/austin_49.jpg)
 
 ###### How has your most recent book, _I'm Still Here_, impacted your life since it came out?  
 
