@@ -64,5 +64,5 @@ Your business model is the bloodline of your business, so treat it as such. Know
 
 ###### [Do you have a do-good business you’re looking to grow? Learn how with us this June!](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)
 
-###### [Join us at our Weekend Workshop in Fullerton, CA! Click here for details.](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)
+###### [Join us at our Weekend Workshop in Fullerton, CA! Click HERE for details.](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)
 <br>
