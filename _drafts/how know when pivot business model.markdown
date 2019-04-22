@@ -3,6 +3,25 @@ title: How to Know When It's Time to Pivot Your Business Model
 date: 2019-04-26 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- social entrepreneur
+- entrepreneur
+- purposeful entrepreneur
+- entrepreneur retreat
+- entrepreneur workshop
+- entrepreneur advice
+- running a business
+- business
+- shift business model
+- business model
+- businesses for good
+- Start a business
+- grow business
+- female owned business
+- scale business
+- scalability
+- profitability
+- sustainable business
 author: Natalia Crawford
 image: "/uploads/paul-hanaoka-483071-unsplash-1.jpg"
 ---
