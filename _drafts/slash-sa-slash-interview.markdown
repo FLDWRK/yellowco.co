@@ -37,7 +37,7 @@ Many companies see diversity and inclusion as a numbers game: How do we get our 
 
 ### When teams create circles they block certain people out. When they create horseshoes, diverse people can come into the team and keep coming in because they feel invited. 
 
-[IMG_8837 2.JPG](/uploads/IMG_8837%202.JPG)
+![16.jpeg](/uploads/16.jpeg)
 
 ###### How do you get teams to be open, honest, and vulnerable despite the desire to be politically correct, and the charge around bias and privilege?
 
