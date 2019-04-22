@@ -22,7 +22,7 @@ tags:
 - scalability
 - profitability
 - sustainable business
-author: Natalia Crawford
+author: Natalia Amador
 image: "/uploads/paul-hanaoka-483071-unsplash-1.jpg"
 ---
 
