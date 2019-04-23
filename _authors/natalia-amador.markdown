@@ -1,8 +1,8 @@
 ---
 title: Natalia Amador
 bio_image: "/uploads/natalia.jpg"
-website: https://www.nataliacrawford.com/
+website: https://socialbusinessbosses.com/
 is_guest: true
 ---
 
-Natalia Amador is a Latina, speaker, writer, and business/online marketing expert helping women build profitable online businesses that are designed around their dream life. She is based out of Seattle, Washington where she lives with her husband and pet bunny. Natalia is passionate about helping women overcome societal and cultural barriers by empowering them to lead and succeed in business and in life.
+Natalia Amador is a Business + Online Marketing Coach who helps women launch and scale profitable online businesses that are designed around their dream life. She is a lover of cheesy jokes, the best guacamole-maker you’ll ever meet, and loves finding ways to give back and make a difference in the world. When she isn’t helping others build their dream business online, she enjoys doing some creative writing while drinking freshly brewed cups of cafecito (coffee), shopping, and cooking. She currently resides in Los Angeles, CA, where she was born and raised. You can learn more about her and how to work with her at [socialbusinessbosses.com](https://socialbusinessbosses.com/).
