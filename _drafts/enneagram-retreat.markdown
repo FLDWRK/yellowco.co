@@ -70,7 +70,7 @@ Answering these may seem like unproductive work, but actually these answers give
 
 ###### Step 2: Capture Your Wonderful Ideas!
 
-A crazy example I tell clients is that six years ago, my husband and I dreamscaped in a cozy coffee shop in San Juan Capistrano, CA. We recently looked back at our dreamscape and saw we wrote down, “Live in a yellow house,” and, “Own 4 chickens.” Which incredibly enough, has become a reality without us ever connecting the two in real time! When we were prompted to choose a color for our home two years ago, we had many options and were not thinking about our dreamscape. But the dream inside of us came to life without our realizing, and the color yellow found us. Same story with the chickens, and goats.
+A crazy example I tell clients is that six years ago, my husband and I dreamscaped in a cozy coffee shop in San Juan Capistrano, CA. We recently looked back at our dreamscape and saw we wrote down, “Live in a yellow house,” and, “Own 4 chickens.” Which incredibly enough, has become a reality without us ever connecting the two in real time! When we were prompted to choose a color for our home two years ago, we had many options and were not thinking about our dreamscape. But the dream inside of us came to life without our realizing, and the color yellow found us. [Same story](https://www.ashleesikorski.com/asc-blog/why-you-don-t-show-up-to-your-dreams) with the chickens, and goats.
 
 ![Sikorski - AT Goats 3-1.jpg](/uploads/Sikorski%20-%20AT%20Goats%203-1.jpg) 
 
