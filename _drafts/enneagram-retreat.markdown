@@ -3,6 +3,22 @@ title: Enneagram  retreat
 date: 2019-04-29 03:00:00 -07:00
 categories:
 - Growth
+tags:
+- Enneagram
+- Enneagram retreat
+- Women's retreats
+- Portland
+- Portland retreats
+- Growth
+- Leadership
+- Yellow Retreats
+- Dreamscaping
+- Entrepreneur retreat
+- creative retreat
+- coaching
+- coaching retreat
+- enneagram advice
+- enneagram for entrepreneurs
 author: Ashlee Sikorski
 image: "/uploads/Sikorski%20-%20AS%20Coaching%20Art%203.jpg"
 ---
@@ -69,7 +85,7 @@ Each of us have a unique way about us and our own life path. It just takes some 
 
 This June, I am leading a leading the workshops at Yellow Co.'s [Enneagram Dreamscaping Retreat](https://yellowcollective.lpages.co/retreats/#two-column[1) where we will spend three days together in Portland dreaming and diving into the Enneagram. Everyone who attends will leave with a tremendous sense of clarity, action steps, and a plan for how to live the life that is “trying to be lived inside them.” I hope to see you there!
 
-#### [Apply for our Portland Enneagram Dreamscaping Retreat here! Prices go up May 1st!](https://yellowcollective.lpages.co/retreats/#two-column[1)
+#### [Apply for our Portland Enneagram Dreamscaping Retreat here! Prices go up on May 1st!](https://yellowcollective.lpages.co/retreats/#two-column[1)
 
 <br>
 
