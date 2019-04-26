@@ -4,6 +4,7 @@ date: 2019-04-29 03:00:00 -07:00
 categories:
 - Growth
 author: Ashlee Sikorski
+image: "/uploads/Sikorski%20-%20AS%20Coaching%20Art%203.jpg"
 ---
 
 _Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland this June! [Click here to grab your spot](https://yellowcollective.lpages.co/retreats/#two-column[1) before prices go up May 1st!_
@@ -15,6 +16,8 @@ Do you know what holds you back? What gets in the way of you accomplishing your 
 to reflect on one’s life and learn deeply about oneself. However, at the base of one’s external life is this inner self who is being fulfilled or not, who is getting their emotional needs met or not. This deeper self whose needs are being met or not profoundly affects how an individual moves through the world, what they feel motivated (or unmotivated) to do, and all that “productivity” modern society values so intensely.
 
 I like to tell folks, our one job in this life is to figure out how we are wired and how we can share our gifts and talents with the people around us. It’s no easy task. But no one has to figure it out alone, and there are tons of tools which can help.
+
+![enneagram.jpg](/uploads/enneagram.jpg)
 
 #### The Enneagram 
 
@@ -28,6 +31,7 @@ I love this tool because it gives language to the internal landscape beneath the
 
 After getting into the process of becoming self-aware, the question becomes how to share one’s unique gifts with the world. My second favorite tool that relates especially to this question is dreamscaping.
 
+![Sikorski - AS Coffee Table.jpg](/uploads/Sikorski%20-%20AS%20Coffee%20Table.jpg)
 
 #### Dreamscaping
 
@@ -47,13 +51,17 @@ Answering these may seem like unproductive work, but actually these answers give
 
 ###### Step 2: Capture Your Wonderful Ideas!
 
-A crazy example I tell clients is that six years ago, my husband and I dreamscaped in a cozy coffee shop in San Juan Capistrano, CA. We recently looked back at our dreamscape and saw we wrote down, “Live in a yellow house,” and, “Own 4 chickens.” Which incredibly enough, has become a reality without us ever connecting the two in real time! When we were prompted to choose a color for our home two years ago, we had many options and were not thinking about our dreamscape. But the dream inside of us came to life without our realizing, and the color yellow found us. Same story with the chickens, and goats. 
+A crazy example I tell clients is that six years ago, my husband and I dreamscaped in a cozy coffee shop in San Juan Capistrano, CA. We recently looked back at our dreamscape and saw we wrote down, “Live in a yellow house,” and, “Own 4 chickens.” Which incredibly enough, has become a reality without us ever connecting the two in real time! When we were prompted to choose a color for our home two years ago, we had many options and were not thinking about our dreamscape. But the dream inside of us came to life without our realizing, and the color yellow found us. Same story with the chickens, and goats.
+
+![Sikorski - AT Goats 3-1.jpg](/uploads/Sikorski%20-%20AT%20Goats%203-1.jpg) 
 
 ###### Step 3: Categorize, Sort, and Notice Patterns in Your Dreams
 
 When dreamscaping, we start to notice trends in what came up. “Ah-ha!” moments and surprising twists to treasures that existed inside us, that we didn’t know were there. 
 
 ### These patterns are trends about ourselves inform us how we should move forward in making big life decisions, such as what profession to cultivate and where to live.
+
+![Sikorski - Steps 9-1.jpg](/uploads/Sikorski%20-%20Steps%209-1.jpg)
 
 ###### Step 4: Work with a Coach to Create a Plan to Step into This Life
 
