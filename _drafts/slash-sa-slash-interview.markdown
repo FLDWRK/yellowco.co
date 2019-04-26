@@ -1,5 +1,6 @@
 ---
-title: "/sa/ interview"
+title: How This Co-Founder Is Creating Safe Spaces for Organizations to Open up About
+  Diversity & Inclusion
 date: 2019-05-03 03:00:00 -07:00
 categories:
 - Culture
