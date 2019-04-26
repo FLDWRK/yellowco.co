@@ -1,5 +1,5 @@
 ---
-title: Enneagram  retreat
+title: Craving Direction? Discover Your Next Step with the Enneagram & Dreamscaping
 date: 2019-04-29 03:00:00 -07:00
 categories:
 - Growth
@@ -19,6 +19,7 @@ tags:
 - coaching retreat
 - enneagram advice
 - enneagram for entrepreneurs
+- direction
 author: Ashlee Sikorski
 image: "/uploads/Sikorski%20-%20AS%20Coaching%20Art%203.jpg"
 ---
