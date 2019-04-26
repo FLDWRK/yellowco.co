@@ -71,4 +71,6 @@ This June, I am leading a leading the workshops at Yellow Co.'s [Enneagram Dream
 
 #### [Apply for our Portland Enneagram Dreamscaping Retreat here! Prices go up May 1st!](https://yellowcollective.lpages.co/retreats/#two-column[1)
 
+<br>
+
 _Photos courtesy of [Ashlee Sikorski](https://www.ashleesikorski.com/)_
