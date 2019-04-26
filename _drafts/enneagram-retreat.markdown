@@ -6,6 +6,8 @@ categories:
 author: Ashlee Sikorski
 ---
 
+_Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland this June! [Click here to grab your spot](https://yellowcollective.lpages.co/retreats/#two-column[1) before prices go up May 1st!_
+
 Do you know what holds you back? What gets in the way of you accomplishing your goals? dreams?
 
 ### Unfortunately in a world where productivity is most valued, it can feel like a waste of time to do the “heart work” –
