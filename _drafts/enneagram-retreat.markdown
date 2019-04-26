@@ -78,7 +78,7 @@ A crazy example I tell clients is that six years ago, my husband and I dreamscap
 
 When dreamscaping, we start to notice trends in what came up. “Ah-ha!” moments and surprising twists to treasures that existed inside us, that we didn’t know were there. 
 
-### These patterns are trends about ourselves inform us how we should move forward in making big life decisions, such as what profession to cultivate and where to live.
+### These patterns and trends about ourselves inform us how we should move forward in making big life decisions, such as what profession to cultivate and where to live.
 
 ![Sikorski - Steps 9-1.jpg](/uploads/Sikorski%20-%20Steps%209-1.jpg)
 
