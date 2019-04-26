@@ -20,6 +20,8 @@ tags:
 - enneagram advice
 - enneagram for entrepreneurs
 - direction
+- portland women
+- community
 author: Ashlee Sikorski
 image: "/uploads/Sikorski%20-%20AS%20Coaching%20Art%203.jpg"
 ---
