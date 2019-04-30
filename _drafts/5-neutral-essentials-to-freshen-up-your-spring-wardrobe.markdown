@@ -12,9 +12,9 @@ We're finally here – the season of blooming trees, Sunday picnics, and that lo
 
 #### [The Penny Chore Coat by Only Child](https://www.onlychildclothing.com/collections/outerwear/products/penny-chore-coat-in-cotton-canvas)
 
-I'd love to highlight that it has plenty of storage, four exterior pockets that we tested to make sure it fits all the essentials!  Phone, keys, cards, etc.  We also recently expanded our sizing and this jacket fits from sizes 0-20.  
+There are few things I love more than the freedom of not slinging a bag over my shoulder, thanks to some super functional pockets. So it's been no surprise to me that I've been essentially living out of this Chore Coat that has not two, but four, perfectly-sized pockets to carry everything I could need. This has been a great essential to throw on over everything from a springy dress on cooler evenings, to boyfriend jeans and a sweatshirt for just the right amount of polish. The cotton canvas truly goes with everything and has been the perfect finishing touch to pull a light, spring look together. Only Child creates versatile basics with personality in Oakland, designing with sustainability in mind. Each piece is made to order, and they only use natural, environmentally-friendly fibers. Plus, they create a variety of sizes for everyone (this jacket is made for sizes from 0-20)! _(P.S. I'm not saying I've discovered that one pocket can hold whole bottle of wine – but I'm also not saying that it doesn't.)_
 
-**You can even grab 10% off your first order with code: YELLOW10**
+**You can grab 10% off your first Only Child order with code: YELLOW10**
 
 ![alice-and-whittles-classic-moutarde-dor-ankle-rain-boot-02_8998c34e-512f-476c-ac40-f40076c04662_2000x.jpg](/uploads/alice-and-whittles-classic-moutarde-dor-ankle-rain-boot-02_8998c34e-512f-476c-ac40-f40076c04662_2000x.jpg)
 
