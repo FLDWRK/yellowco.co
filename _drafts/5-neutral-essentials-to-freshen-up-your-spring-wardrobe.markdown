@@ -1,5 +1,5 @@
 ---
-title: 5 neutral essentials to freshen up your spring wardrobe
+title: 5 Neutral Essentials to Freshen up Your Spring Wardrobe
 date: 2019-05-01 03:00:00 -07:00
 categories:
 - Conscious Living
