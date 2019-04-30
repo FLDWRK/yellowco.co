@@ -3,8 +3,41 @@ title: 5 Neutral Essentials to Freshen up Your Spring Wardrobe
 date: 2019-05-01 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- ethical fashion
+- spring
+- wardrobe
+- spring essentials
+- neutral
+- white
+- clothing
+- sustainable
+- conscious
+- socially conscious
+- only child
+- alice + whittles
+- hackwith design house
+- rachael harrah
+- shirts
+- blouse
+- dresses
+- rain boots
+- tops
+- coat
+- outerwear
+- jacket
+- light color
+- neutrals
+- ethically made
+- ethically made clothing
+- conscious fashion
+- sustainable fashion
+- fashion blog
+- season
+- staples
+- versatile
 author: Hanna Snyder
-image: "/uploads/spring-guide.jpg"
+image: "/uploads/spring-guide2.jpg"
 ---
 
 We're finally here – the season of blooming trees, Sunday picnics, and that lovely-yet-confusing shift of the weather. It seems no matter where you live, spring comes with a handful of equal parts sunshine, gray days, random rainfalls, and even some lingering snow. But if you're anything like me, you've already tried to break out your sundresses and summery, linen shirts at the first sight of a 70 degree day. The best way I've found to dress for any type of spring day, while still feeling like I'm ready to frolic through a field of wildflowers? Some truly lovely, versatile pieces in gorgeous neutral shades. If you're looking to freshen up your wardrobe with a few pieces this spring, here are a few favorite, ethically-made essentials of mine that will carry you through this transitional season, all the way through a sun-filled summer.
