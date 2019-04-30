@@ -32,11 +32,10 @@ I've always wanted to be a rain boot person, but have never found a pair that fe
 
 #### [Button-Up Bow Top by Hackwith Design House](https://hackwithdesignhouse.com/product/button-up-bow-top-ss19/)
 
---
+If you're looking for your new go-to, stunning top to take you through the summer, here she is. To me, Hackwith Design House are the experts at designing statement-making pieces that maintain an elegant subtlety. Their Button-Up Bow Top is no exception with its tie-front bow detail and mini ruffle sleeve detail. Hackwith Design House makes all of their items in-house at their Minnesota studio, often made-to-order, and have truly become leaders in the socially conscious, small clothing business sphere. In addition to their main collection, they have launched their [Sustain Shop](https://hackwithdesignhouse.com/product-category/sustain-shop/), which recycles HDH styles sent in by customers, turning well-loved pieces into a new style or finding a new home for those in great condition.
 
 ![The_Girl_from_Kutch_692_853x.jpg](/uploads/The_Girl_from_Kutch_692_853x.jpg)
 
 #### [Mitul Dress by The Summer House](https://thesummerhouse.in/collections/dresses/products/silk-dress-1)
 
---
-
+For a finishing touch to round out this list – the perfectly silky spring dress. I love a floral print as much as the next girl, but absolutely adore the gorgeous, abstract line drawing print The Summer House chose for this piece. With an easy, throw it on before running out the door shape, and drapey silhouette, this dress is sure to be worn again and again. Ethically made in India with environmentally friendly materials, The Summer House creates truly gorgeous, socially conscious styles you'll want to wear daily. 
