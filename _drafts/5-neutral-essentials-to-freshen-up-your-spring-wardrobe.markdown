@@ -6,7 +6,7 @@ categories:
 author: Hanna Snyder
 ---
 
-
+We're finally here – the season of blooming trees, Sunday picnics, and that lovely-yet-confusing shift of the weather. It seems no matter where you live, spring comes with a handful of equal parts sunshine, gray days, random rainfalls, and even some lingering snow. But if you're anything like me, you've already tried to break out your sundresses and summery, linen shirts at the first sight of a 70 degree day. The best way I've found to dress for any type of spring day, while still feel like I'm ready to frolic through a field of wildflowers? Some truly lovely, versatile pieces in gorgeous neutral shades. If you're looking to freshen up your wardrobe with a few pieces this spring, here are a few favorite, ethically-made essentials of mine that will carry you through this transitional season, all the way through a sun-filled summer.
 
 ![IMG_0332.jpg](/uploads/IMG_0332.jpg)
 
