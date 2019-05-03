@@ -68,7 +68,11 @@ Rhodiola is another ancient tool used for historically for anxiety, fatigue, ane
 
 #### Activated B Vitamins (including B12)
 
-A B12 vitamin deficiency has been well studied to show links to early signs of memory impairment. B12 is essential for DNA synthesis, the formation of red blood cells, the health of nerve cells in the brain, normal function of the brain and nervous system, and the production of energy for the body. The good news about vitamin B12 is that you don’t have to take a supplement or powder to get it in to your daily routine to keep your brain firing properly. B12 is found is beef, milk, eggs, organ meats, and so many other animal products. For vegans out there, I highly suggest taking a vitamin B12 supplement. 
+A B12 vitamin deficiency has been well studied to show links to early signs of memory impairment. B12 is essential for DNA synthesis, the formation of red blood cells, the health of nerve cells in the brain, normal function of the brain and nervous system, and the production of energy for the body. 
+
+### The good news about vitamin B12 is that you don’t have to take a supplement or powder to get it in to your daily routine to keep your brain firing properly. 
+
+B12 is found is beef, milk, eggs, organ meats, and so many other animal products. For vegans out there, I highly suggest taking a vitamin B12 supplement. 
 
 #### Vitamin D
 
@@ -82,7 +86,11 @@ Fish oil (specifically omega-3) has been studied extensively for its relation to
 
 #### Prebiotic Fiber
 
-Your brain can be directly affected by the bacteria in your gut. The two are connected by the vagus nerve as well as neurotransmitters. It would be safe to assume that changing your gut health can help improve your brain. The trouble is, that the type, strain, amount, etc. of probiotics and prebiotics that would be best for brain health is still far from being conclusively researched. One study found that taking a prebiotic called galactooligosaccharides for three weeks significantly reduced the amount of stress hormone in the body, called cortisol. You can find prebiotics in ginger root, onions, garlic, leeks, and asparagus. All great foods to incorporate in to your diet regardless of they effect in supporting brain health! For more gut-healing support, I suggest speaking with a nutritionist to really dig in to what’s going on in your body. 
+Your brain can be directly affected by the bacteria in your gut. The two are connected by the vagus nerve as well as neurotransmitters. 
+
+### It would be safe to assume that changing your gut health can help improve your brain. 
+
+The trouble is, that the type, strain, amount, etc. of probiotics and prebiotics that would be best for brain health is still far from being conclusively researched. One study found that taking a prebiotic called galactooligosaccharides for three weeks significantly reduced the amount of stress hormone in the body, called cortisol. You can find prebiotics in ginger root, onions, garlic, leeks, and asparagus. All great foods to incorporate in to your diet regardless of they effect in supporting brain health! For more gut-healing support, I suggest speaking with a nutritionist to really dig in to what’s going on in your body. 
 
 #### Bottom Line:
 
