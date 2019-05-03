@@ -1,5 +1,5 @@
 ---
-title: mind
+title: 'Better Brain Health: A Breakdown of Which Natural Supplements Actually Work'
 date: 2019-05-08 03:00:00 -07:00
 author: Brianna Towne
 image: "/uploads/joanie-simon-353427-unsplash.jpg"
