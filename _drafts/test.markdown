@@ -12,7 +12,7 @@ _You may sometimes (okay, all the time) hear us at Yellow talk about a “do-goo
 
 I’ve spent my career in startups – from a socially responsible e-commerce company I joined right out of college to then starting a sustainable clothing brand in the UK. Everything I did in college and my early career was focused on economic development and social impact through business, so when I found myself traveling as a volunteer in Kenya and learned that girls there often stayed home during their periods, I knew I wanted to create a brand that could represent the modern, conscious woman, while helping to provide period products and education to girls in need around the world.
 
-img
+![Cora Organic_Period Pad 01.jpg](/uploads/Cora%20Organic_Period%20Pad%2001.jpg)
 
 ###### What is the meaning behind the name "Cora"? 
 
@@ -20,7 +20,7 @@ With a name rooted in history, Cora embodies the timelessness of feminine power.
 
 ### Today, our company Cora seeks to support women in remembering and reclaiming their inherent power through a deeper reverence and understanding of their bodies.
 
-img
+![Molly Hayward_Headshot.jpg](/uploads/Molly%20Hayward_Headshot.jpg)
 
 ###### Tell us about how Cora gives back, going beyond a one-for-one model to empower women's lives and education.  
 
@@ -32,7 +32,7 @@ We believe that every woman on the planet should have access to safe and effecti
 
 We recently profiled a girl in India named Ankita who has benefited from the pads we give. She talks about feeling confident, going to school, seeing her friends, and having the opportunity now to get a job after she graduates.
 
-img
+![Cora Organic_Kenya Giving 02.jpg](/uploads/Cora%20Organic_Kenya%20Giving%2002.jpg)
 
 ###### How would you suggest a brand without a large budget go about incorporating their values (organic, fair-trade, give-back, etc.) into their business model? 
 
@@ -42,7 +42,7 @@ I don’t believe you have to start with a huge budget in order to infuse you va
 
 I looked for organizations that were focused specifically on the issue of menstrual health, and identified those who were also integrating long-term education and empowerment initiatives, as opposed to just giving products.
 
-img
+![Cora Organic_Tampon.jpg](/uploads/Cora%20Organic_Tampon.jpg)
 
 ###### What is a societal or cultural norm you've had to redefine for yourself?  
 
@@ -54,7 +54,7 @@ I’ve stopped trying to look and sound like/act like the traditional woman in b
 
 Thank you! Given the massive shift that’s happening in the category of organic and natural personal care, seeking outside investment was a way to accelerate our growth and has allowed us to secure our position as the top brand in the space. I wish I’d have known how few women would be sitting across the table from me in those meetings. Thankfully, both male and female investors have seen the value in Cora, but it still surprises me when I end up in a room full of men. 
 
-img
+![FullFamily_2019.03.20_01.jpg](/uploads/FullFamily_2019.03.20_01.jpg)
 
 ###### You spearheaded the movement and reinvention of feminine hygiene products that not only help our bodies and the planet, but also gives back to others. How do you stay focused and confident in your mission when competitors are popping up left and right?  
 
@@ -68,7 +68,7 @@ Having a team of executors who are all deeply passionate about the work we do at
 
 Certainly coming out of the first company I co-founded. I had hustled hard for two years, but because I found I wasn’t naturally passionate about the industry, and that it was going to take a really long time before seeing meaningful social impact in that business, I decided to move on. I was truly heartbroken and had no idea what I was going to do next. But of course, lo and behold, it was because I had just left that company that a friend invited me to travel to Kenya, and that was when I learned about this issue of menstrual inequality, and the idea for Cora was born. 
 
-img
+![Cora Organic_India Giving 01.jpg](/uploads/Cora%20Organic_India%20Giving%2001.jpg)
 
 ###### We're big fans of your online platform [Blood + Milk](https://www.bloodandmilk.com/), where you're destigmatizing, and pushing boundaries around sharing the female experience. What other women or companies currently inspire and inform you?
 
