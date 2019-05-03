@@ -70,7 +70,7 @@ Rhodiola is another ancient tool used for historically for anxiety, fatigue, ane
 
 A B12 vitamin deficiency has been well studied to show links to early signs of memory impairment. B12 is essential for DNA synthesis, the formation of red blood cells, the health of nerve cells in the brain, normal function of the brain and nervous system, and the production of energy for the body. 
 
-### The good news about vitamin B12 is that you don’t have to take a supplement or powder to get it in to your daily routine to keep your brain firing properly. 
+### The good news about vitamin B12 is that you don’t have to take a supplement or powder to get it into your daily routine to keep your brain firing properly. 
 
 B12 is found is beef, milk, eggs, organ meats, and so many other animal products. For vegans out there, I highly suggest taking a vitamin B12 supplement. 
 
