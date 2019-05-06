@@ -4,6 +4,7 @@ date: 2019-05-08 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Kathryn Parrish
+image: "/uploads/Molly%20Hayward.jpg"
 ---
 
 _You may sometimes (okay, all the time) hear us at Yellow talk about a “do-good brand”. To explain, a “do-good” brand values the way their product or company impacts the world and those within it. To be more specific, a brand that weaves in values such as giving back, ethical pay and environment for the workers, eco-friendly materials and practices, clean ingredients, and overall well-being of the consumer and company into their business model. It’s so important that we realize how our small purchases and daily choices can create waves of good. Our [Do-Good Dozen](https://yellowcollective.lpages.co/do-good-dozen/) Winner this month, [Molly Hayward](https://www.instagram.com/mollyrosehayward/), co-founder of [Cora](https://cora.life/), embodies not just one, but all of our values as she empowers women everywhere with her social impact brand of organic and sustainable menstrual products. Molly looks out for every woman who is involved, from the women making the products to the girls and women using them. Read on to hear how Molly redefines what it means to be a woman in business, how to align your values, and how she's challenging us to have honest conversations about womanhood on Cora’s online platform, [Blood + Milk.](https://www.bloodandmilk.com/)_
