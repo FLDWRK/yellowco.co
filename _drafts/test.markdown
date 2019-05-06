@@ -1,5 +1,6 @@
 ---
-title: DGD - Molly Hayward
+title: 'Using Periods to Foster Female Empowerment, Education, & Employment: Do-Good
+  Dozen Winner, Cora Co-Founder Molly Hayward'
 date: 2019-05-08 03:00:00 -07:00
 categories:
 - Entrepreneurs
