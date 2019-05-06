@@ -1,9 +1,11 @@
 ---
-title: 'Using Periods to Foster Female Empowerment, Education, & Employment: Do-Good
-  Dozen Winner, Cora Co-Founder Molly Hayward'
+title: 'Using Periods to Foster Female Empowerment & Education: Our Do-Good Dozen
+  Winner, Cora Co-Founder Molly Hayward'
 date: 2019-05-08 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- Molly Hayward
 author: Kathryn Parrish
 image: "/uploads/Molly%20Hayward.jpg"
 ---
