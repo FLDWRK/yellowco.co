@@ -1,6 +1,6 @@
 ---
 title: DGD - Molly Hayward
-date: 2019-05-06 03:00:00 -07:00
+date: 2019-05-08 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Kathryn Parrish
