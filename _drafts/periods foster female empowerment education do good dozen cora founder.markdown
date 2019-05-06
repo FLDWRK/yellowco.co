@@ -6,6 +6,32 @@ categories:
 - Entrepreneurs
 tags:
 - Molly Hayward
+- do-good dozen
+- yellow do-good dozen
+- cora
+- cora tampon
+- pad
+- tampon
+- organic
+- social impact
+- education
+- empowerment
+- employment
+- women
+- periods
+- menstruation
+- blood and milk
+- cora organics
+- girls education
+- india
+- kenya
+- sustainable
+- fair trade
+- ethical
+- feminine products
+- Female Founders
+- destigmatize
+- taboo
 author: Kathryn Parrish
 image: "/uploads/Molly%20Hayward.jpg"
 ---
