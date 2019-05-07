@@ -1,6 +1,8 @@
 ---
 title: ggp
 date: 2019-05-10 03:00:00 -07:00
+categories:
+- Conscious Living
 author: Yellow Co.
 ---
 
@@ -43,4 +45,4 @@ _"I wish all women in Bangladesh to follow my example, to move forward and start
 When we launched GGP more than 13 years ago, our goal was to work collaboratively with artisan communities to help them establish enterprises that would create income generating jobs for women well into the future. The term “win-win” may be over-used but it accurately describes the impact that a well-managed business with well-trained, empowered artisans can have on the health of a community. Happily, we have seen the positive effect that our approach can deliver. Our greatest hope is that the economic activity that GGP and brands like ours generate in local communities will increasingly lead to secure, reliable income and greater economic opportunity for women, who in turn, will invest in their families’ futures. 
 
  
-_Joining us at our [New York Conference](https://yellowcollective.lpages.co/yellow-conference-new-york/) today? You’ll head home with our conference tote created in partnership with [GGP](https://globalgoodspartners.org/) by their female artisans! We’re intentional in making sure that our do-goodie bags are not only filled with conscious brands you’ll love, but that the bag itself is making just as much impact too._
+_Joining us at our [Yellow New York Conference](https://yellowcollective.lpages.co/yellow-conference-new-york/) today? You’ll head home with our conference tote created in partnership with [GGP](https://globalgoodspartners.org/) by their female artisans! We’re intentional in making sure that our do-goodie bags are not only filled with conscious brands you’ll love, but that the bag itself is making just as much of an impact too._
