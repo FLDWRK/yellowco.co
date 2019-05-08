@@ -4,6 +4,7 @@ date: 2019-05-10 03:00:00 -07:00
 categories:
 - Conscious Living
 author: Yellow Co.
+image: "/uploads/GGP_Bangladesh_ToteBag.jpg"
 ---
 
 (introduction by Yellow Co. to be added)
@@ -14,13 +15,13 @@ As a general term, “a fair, living wage” means that a worker’s pay enables
  
 In the aftermath of the devastating 2013 collapse of Rana Plaza in Bangladesh, the fashion industry, in particular, has stepped up to insist on safer and healthier conditions for workers that produce their products. Fashion Revolution Week was born of this disaster to remember those who lost their lives, and to advocate for change for workers and working conditions in the fashion industry. Yet, in many places where protection for workers remains weak or nonexistent, wages are too often used as the variable to lower production costs. Consumer expectations play a role in expanding fair, living wages to more and more workers. At GGP, we take every opportunity to communicate the benefit of equitable wages and the inherent value they add to the products we sell. 
 
-img
+![GGP_Bangladesh3.png](/uploads/GGP_Bangladesh3.png)
 
 ###### What were the realities faced by the women you met in Bangladesh who were previously _not_ earning a living wage? 
 
 By some measurements, Bangladesh has made progress in reducing extreme poverty in the last several decades, yet it's estimated that 74% of those living below the poverty line are women. As a highly patriarchal society, most women in Bangladesh face constraints that permeate almost every aspect of their lives. Bangladesh has the world’s fourth highest rate of child marriages, depriving girls of their education and the prospect of gainful employment. While women traditionally manage small family tracts of farmland, their work is unpaid. Additionally, rates of sexual violence and maternal death remain dangerously high. These factors, combined with a lack of secure housing, health care, and income generating work, create a life of deprivation and dependence for far too many Bangladeshi women. 
 
-img
+![Tunisian_Ceramics.jpg](/uploads/Tunisian_Ceramics.jpg)
 
 ###### Many organizations speak to the fact that providing work opportunities is often the most sustainable solution for serving an undeveloped area. Can you share about why that is the case? 
 
@@ -32,7 +33,7 @@ Bangladesh has a rich craft history built around the country’s natural resourc
 
 At Global Goods Partners, we work with artisan women in Bangladesh, offering them access to a customer base, along with design and technical assistance so they can compete successfully in the international marketplace. We’re working towards our overriding goal of addressing poverty alleviation by creating a foundation that will enable increasing numbers of women around the world to join the global economy and reliably earn fair living wages. By partnering with women artisans in over 20 countries, from small community groups to large cooperatives, we’ve been able to impact the lives of over 20,000 women worldwide. We’re proud that our partnership with Yellow Co. to produce the New York Conference tote bags has been able to provide meaningful, dignified work for Bangladeshi women.
 
-img
+![Brass_Medallion_Earrings.jpg](/uploads/Brass_Medallion_Earrings.jpg)
  
 ###### What kinds of impact have you seen in the lives of the artisan women you work with from having this kind of work opportunity? 
 
@@ -46,7 +47,7 @@ Married at 12, Haricha Begum and her family struggled to get by on the income he
 
 ### As a group, they have become empowered to stand up to fight against the social injustice and unfairness they face because of their gender. 
 
-img
+![GGP_Bangladesh5.png](/uploads/GGP_Bangladesh5.png)
 
 Though the women come from different cultural and religious backgrounds, they have joined together to campaign for equal rights and other common interests.
 
@@ -54,7 +55,7 @@ In Haricha’s producer group, all women are involved in the discussion of the q
 
 _"I wish all women in Bangladesh to follow my example, to move forward and start working so that they live worthy lives. Before women did not work and therefore had little value within the family. Their parents did not give them importance. Now, because we bring in money, our parents listen to us, we take part in decisions, our autonomy is strengthened." – Sonia Akter, Artisan at CORR_
 
-img
+![Zig_Zag_Weekender.jpg](/uploads/Zig_Zag_Weekender.jpg)
   
 ###### If consumers increasingly made it a priority to support brands like yours, what is your greatest hope for the future impact that could be made in these communities?
 
@@ -63,3 +64,5 @@ When we launched GGP more than 13 years ago, our goal was to work collaborativel
 <br>
  
 _Joining us at our [Yellow New York Conference](https://yellowcollective.lpages.co/yellow-conference-new-york/) today? You’ll head home with our conference tote created in partnership with [GGP](https://globalgoodspartners.org/) by their female artisans! We’re intentional in making sure that our do-goodie bags are not only filled with conscious brands you’ll love, but that the bag itself is making just as much of an impact too._
+
+_Photos courtesy of [Global Goods Partners](https://globalgoodspartners.org/)_
