@@ -26,7 +26,7 @@ author: Ashlee Sikorski
 image: "/uploads/Sikorski%20-%20AS%20Coaching%20Art%203.jpg"
 ---
 
-_Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland this June! [Click here to grab your spot](https://yellowcollective.lpages.co/retreats/#two-column[1) before prices go up May 1st!_
+_Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland this June! [Click here to grab your spot](https://yellowcollective.lpages.co/retreats/#two-column[1)!_
 
 Do you know what holds you back? What gets in the way of you accomplishing your goals? dreams?
 
@@ -88,7 +88,7 @@ Each of us have a unique way about us and our own life path. It just takes some 
 
 This June, I am leading a leading the workshops at Yellow Co.'s [Enneagram Dreamscaping Retreat](https://yellowcollective.lpages.co/retreats/#two-column[1) where we will spend three days together in Portland dreaming and diving into the Enneagram. Everyone who attends will leave with a tremendous sense of clarity, action steps, and a plan for how to live the life that is “trying to be lived inside them.” I hope to see you there!
 
-#### [Apply for our Portland Enneagram Dreamscaping Retreat here! Prices go up on May 1st!](https://yellowcollective.lpages.co/retreats/#two-column[1)
+#### [Apply for our Portland Enneagram Dreamscaping Retreat here!](https://yellowcollective.lpages.co/retreats/#two-column[1)
 
 <br>
 
