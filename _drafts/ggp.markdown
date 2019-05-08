@@ -7,7 +7,7 @@ author: Yellow Co.
 image: "/uploads/GGP_Bangladesh_ToteBag.jpg"
 ---
 
-(introduction by Yellow Co. to be added)
+_We hear the phrase "ethically made by artisans" and "fair, living wage" a lot in the social impact business space – but what does the impact of these practices truly look like in the daily lives of the women crafting these products? Today on the blog, we're hearing from [Global Goods Partners](https://globalgoodspartners.org/), a not-for-profit social enterprise committed to providing sustainable jobs for women. We're big fans of the work they're doing, and even got to partner with GGP by having them make our [NY Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-new-york/) tote bags (as spotted in the image above)! Check out our interview with them below, and hear how life has shifted for the artisans they work with, and the real impact we have as consumers when we purchase from brands like GGP._
 
 ###### What does it actually mean to earn a fair, living wage? 
 
