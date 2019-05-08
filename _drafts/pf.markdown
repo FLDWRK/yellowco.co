@@ -1,9 +1,10 @@
 ---
-title: Three Marketing Fundamentals for your Product Launch Toolbox
+title: 3 Marketing Fundamentals for Your Next Product (Or Anything!) Launch
 date: 2019-05-13 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Kristen Pumphrey
+image: "/uploads/PF-Retail-Grant-Puckett-30-1.jpg"
 ---
 
 _Want to dive deeper into learning how to grow and scale your do-good business? Join us at our fun-filled [Weekend Workshop](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270) in Orange Country this June, alongside [P.F. Candle](https://pfcandleco.com/) Founder (and writer of this post!), Kristen Pumphrey! [Click here to grab your spot!](https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270)_
