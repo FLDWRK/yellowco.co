@@ -3,6 +3,29 @@ title: ggp
 date: 2019-05-10 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- conscious jewelry
+- conscious clothing
+- conscious fashion
+- ethically made
+- fair wage
+- living wage
+- bangaldesh
+- artisan
+- female
+- women
+- developing countries
+- social impact
+- businesses
+- consumer
+- conscious consumer
+- education
+- sustainable
+- fashion
+- clothing
+- ethical fashion
+- ethical home goods
+- global goods partners
 author: Yellow Co.
 image: "/uploads/GGP_Bangladesh_ToteBag.jpg"
 ---
