@@ -3,6 +3,30 @@ title: 3 Marketing Fundamentals for Your Next Product (Or Anything!) Launch
 date: 2019-05-13 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- marketing
+- marketing tips
+- do-good business
+- business workshops
+- mentor
+- coach
+- pf candle
+- kristen pumphrey
+- social media
+- engagement
+- analytics
+- messaging
+- copy
+- brand
+- branding
+- customer
+- data
+- insight
+- revenue
+- marketing advice
+- product launch
+- campaign
+- service launch
 author: Kristen Pumphrey
 image: "/uploads/PF-Retail-Grant-Puckett-30-1.jpg"
 ---
