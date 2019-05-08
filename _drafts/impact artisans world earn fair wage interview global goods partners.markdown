@@ -1,5 +1,6 @@
 ---
-title: ggp
+title: 'The True Impact of Artisans Around the World Earning a Fair Wage: Our Interview
+  with Global Goods Partners'
 date: 2019-05-10 03:00:00 -07:00
 categories:
 - Conscious Living
