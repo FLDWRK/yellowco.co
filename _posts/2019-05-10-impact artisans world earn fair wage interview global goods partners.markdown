@@ -39,7 +39,7 @@ As a general term, “a fair, living wage” means that a worker’s pay enables
  
 In the aftermath of the devastating 2013 collapse of Rana Plaza in Bangladesh, the fashion industry, in particular, has stepped up to insist on safer and healthier conditions for workers that produce their products. Fashion Revolution Week was born of this disaster to remember those who lost their lives, and to advocate for change for workers and working conditions in the fashion industry. Yet, in many places where protection for workers remains weak or nonexistent, wages are too often used as the variable to lower production costs. Consumer expectations play a role in expanding fair, living wages to more and more workers. At GGP, we take every opportunity to communicate the benefit of equitable wages and the inherent value they add to the products we sell. 
 
-![GGP_Bangladesh3.png](/uploads/GGP_Bangladesh3.png)
+![ggp-2.jpg](/uploads/ggp-2.jpg)
 
 ###### What were the realities faced by the women you met in Bangladesh who were previously _not_ earning a living wage? 
 
@@ -71,7 +71,7 @@ Married at 12, Haricha Begum and her family struggled to get by on the income he
 
 ### As a group, they have become empowered to stand up to fight against the social injustice and unfairness they face because of their gender. 
 
-![GGP_Bangladesh5.png](/uploads/GGP_Bangladesh5.png)
+![ggp-1.jpg](/uploads/ggp-1.jpg)
 
 Though the women come from different cultural and religious backgrounds, they have joined together to campaign for equal rights and other common interests.
 
