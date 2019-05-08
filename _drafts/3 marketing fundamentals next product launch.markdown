@@ -15,11 +15,11 @@ So, you’re ready to launch a product. Or a brand. Or maybe you just want to su
 
 If you’re not already tracking your key analytics (KPI - key performance indicators), stop reading this immediately and go sign up for a Google Analytics account. Tracking your analytics isn’t fancy or complicated - a Google spreadsheet will do. 
 
-### Any major tools that you use, like digital ads, newsletters, and instagram, should be tracked on a weekly basis. 
+### Any major tools that you use, like digital ads, newsletters, and Instagram, should be tracked on a weekly basis. 
 
 It’s impossible to improve if you don’t know where you’re starting from. This will also offer you insight into where you should be putting your effort: maybe you discover that Instagram is good for engagement, but doesn’t convert sales. If your goal is to drive revenue, you know to focus the bulk of your effort on ads or newsletters, or whatever it is that converts. But if you’re just trying to have some fun and get a message out: please, post away.
 
-img
+![Production-6-1.jpg](/uploads/Production-6-1.jpg)
 
 We run all of our analytic spreadsheets year over year, so we track the current yearly average of all the numbers as well as the previous year comparative data. From there, the data we collect and track depends on the tool. For newsletters, we’re tracking Open Rate, Number of Orders, Revenue, Average Order Value, Conversion Rate, and Unsubscribe Rate (as well as the number of recipients). For ads, we’ll track impressions and clicks in addition to our costs and the revenue. We want to see what our return on ad spend is here. Instagram tracks followers and average post engagement, as that’s our general goal on Instagram.
 
@@ -29,7 +29,7 @@ See what I did there? Not each of our tools that we track has the key purpose of
 
 Your Evergreen Messaging is the core tenant of who your company, or for lack of a better word, “brand”, is. To me, everything that people think makes a brand (colors, logos, photos, models, store placement) stems from your messaging first. If your core message is that you’re a bicycle company that gives back 5% of revenue to conservation charities that work to reduce greenhouse gas emissions, that should be present in everything you do. Your colors can be inspired by the places that a bike would take you; maybe your logo evokes a swift sense of movement. You’ll want to pick influencers and collaborators that share the same ethos, and partner with retailers that share a common customer base. I find that broad digital ads (not retargeting) are especially good places for evergreen messaging. 
 
-img
+![Production-32-1.jpg](/uploads/Production-32-1.jpg)
 
 ### This is your elevator pitch - what makes you different?
 
@@ -39,7 +39,7 @@ Like a pebble that you keep in your pocket, evergreen messaging runs the risk of
 
 When you’re launching a new product, it’s always important to weave in your Evergreen Messaging to create a smooth transition for customers. Which brings us to…
 
-img
+![PF-Retail-Grant-Puckett-35-1.jpg](/uploads/PF-Retail-Grant-Puckett-35-1.jpg)
 
 #### Know Thy Customer
 
@@ -47,11 +47,11 @@ One of the reasons P.F. took off the way it did is because of how well we know o
 
 But what if your brand isn’t product based or you can’t do pop-up opportunities? Seek out engagement on social channels - ask questions, post jokes, see what people respond to. 
 
-### Engage in your community not to make a buck, but to see where there really is a hole to fill. 
+### Engage in your community, not to make a buck, but to see where there really is a hole to fill. 
 
 Instagram story polls are an incredible way to get your followers to engage - people love taking polls. Just be aware that your social media base is not the entirety of your customer base, and should be weighed when you’re making decisions.
 
-img
+![Production-60.jpg](/uploads/Production-60.jpg)
 
 From a data standpoint, there’s a massive amount you can learn about your customer from Google and Facebook - age, interests, you name it. How you choose to use this is up to your personal comfortability with using data, which can be a pretty divisive topic. One of the more fascinating ways we once used data was by installing an app on the back end of our Shopify that tracked users on their journey of our website. All personal data - like names, addresses, and credit cards - were blacked out. We were in the process of redesigning our website and wanted to see first hand where the hiccups were. What we discovered is that the hottest button on our website wasn’t our most popular product - it was our “About” page. It’s all about that evergreen messaging, right?
 
