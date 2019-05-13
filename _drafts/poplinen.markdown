@@ -1,6 +1,6 @@
 ---
-title: 'how to start Building a Sustainable Supply Chain as a small business: an Interview
-  with Poplinen founder'
+title: 'How to Build a Sustainable Supply Chain as a Small Business: An Interview
+  with Poplinen Founder'
 date: 2019-05-17 03:00:00 -07:00
 categories:
 - Conscious Living
