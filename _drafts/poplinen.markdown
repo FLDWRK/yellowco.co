@@ -1,15 +1,13 @@
 ---
-title: poplinen
+title: 'how to start Building a Sustainable Supply Chain as a small business: an Interview
+  with Poplinen founder'
 date: 2019-05-17 03:00:00 -07:00
 categories:
 - Conscious Living
 author: Talitha Baker
 ---
 
-Building a Sustainable Supply Chain, an Interview with Poplinen’s Desiree Buchanan
-Talitha Baker
- 
-I'm obsessed with [Poplinen](https://www.poplinen.co/), because Poplinen is obsessed with fit. Most of us gals are all too familiar with the embarrassing button-down boob gap… Or we can’t find business tops that fit both our arms and our chest correctly. Poplinen swoops in with ethical, affordable, and fashion-forward shirts that promise to get fit right. However, beyond just crafting the perfect fit, Poplinen is also obsessed with creating an eco-friendly supply chain. I sat down with Poplinen founder, [Desiree Buchanan](https://www.instagram.com/desi_buchanan/), to learn more.
+_I'm obsessed with [Poplinen](https://www.poplinen.co/), because Poplinen is obsessed with fit. Most of us gals are all too familiar with the embarrassing button-down boob gap… Or we can’t find business tops that fit both our arms and our chest correctly. Poplinen swoops in with ethical, affordable, and fashion-forward shirts that promise to get fit right. However, beyond just crafting the perfect fit, Poplinen is also obsessed with creating an eco-friendly supply chain. I sat down with Poplinen founder, [Desiree Buchanan](https://www.instagram.com/desi_buchanan/), to learn more._
  
 ###### For anyone not familiar with [Poplinen](https://www.poplinen.co/), what does your company do?
 
