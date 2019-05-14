@@ -5,13 +5,15 @@ categories:
 - Growth
 ---
 
-Is there anything better than a group of entrepreneurial women coming together on a Friday to pursue their own growth and connect with other business babes? Having attended the [LA Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) a few years ago, I was very excited to experience the very first Yellow Conference in NYC. The morning started off bright and early at 501 Union (incredibly beautiful venue!) in Brooklyn where about 200 women gathered in anticipation for the day’s events. After a short, choreographed dance that left us all in awe and even more excited for what the day had in store, Joanna Waterfall took the stage via a video to welcome us. Even though she expressed her deep sense of FOMO for not being able to join in person, she shared how she (quite literally) has her hands full with her sweet newborn. 
+Is there anything better than a group of entrepreneurial women coming together on a Friday to pursue their own growth and connect with other business babes? Having attended the [LA Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) a few years ago, I was very excited to experience the very first Yellow Conference in NYC. The morning started off bright and early at [501 Union](http://www.501union.com/#home) (incredibly beautiful space!) in Brooklyn where 200 women gathered in anticipation for the day’s events. After an incredible, emotion-evoking dance that left us all in awe and even more excited for what the day had in store, founder Joanna Waterfall (virtually) took the stage via video to welcome us. Even though she expressed her deep sense of FOMO for not being able to join in person, she shared how she (quite literally) has her hands full with her sweet newborn. 
 
-The conference’s theme was Create Meaningful Work. Consistently woven throughout the day, we were presented with the idea that we are not what we do, but it is equally as important to see how our work aligns with who we are. As entrepreneurs we are givers so we need to self care in a way that brings life and creativity to our work.
+The conference’s theme was **Create Meaningful Work**. 
 
-Work isn’t a career, it’s how you find and create meaning in this world.
+### Consistently throughout the day we were presented with the idea that while we are not defined by what we do, when we align our work with who we are, powerful impact happens. 
 
-On that note, Cassandra Bianco led us in a short, calming meditation to set aside the demands of life and business in order to be present. As attendees continued to filtered in, the speaker lineup began with the Reverend Jacqueline J. Lewis PH.D. who inspired us to rise up and take our place in the love “revolution”. When we do the work to embody the 7 kinds of love, we are able to let go of the things from the past that distract us from our purpose. 
+A few of my other favorite takeaways from the day: As entrepreneurs, we are givers, so we need to self care in a way that brings life and creativity to our work. And finally, work isn’t a career – it’s how you find and create meaning in this world.
+
+Next up, [Cassandra Bianco](https://www.instagram.com/cnbianco/) led us in a short, calming meditation to set aside the demands of life and business in order to be present. As attendees continued to filtered in, the speaker lineup began with the Reverend Jacqueline J. Lewis PH.D. who inspired us to rise up and take our place in the love “revolution”. When we do the work to embody the 7 kinds of love, we are able to let go of the things from the past that distract us from our purpose. 
 
 “If we are agents of healing and redemption, we can rewrite the world.” - Reverend Jacqueline J. Lewis PH.D.
 
