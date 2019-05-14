@@ -13,11 +13,11 @@ The conference’s theme was **Create Meaningful Work**.
 
 A few of my other favorite takeaways from the day: As entrepreneurs, we are givers, so we need to self care in a way that brings life and creativity to our work. And finally, work isn’t a career – it’s how you find and create meaning in this world.
 
-Next up, [Cassandra Bianco](https://www.instagram.com/cnbianco/) led us in a short, calming meditation to set aside the demands of life and business in order to be present. As attendees continued to filtered in, the speaker lineup began with the Reverend Jacqueline J. Lewis PH.D. who inspired us to rise up and take our place in the love “revolution”. When we do the work to embody the 7 kinds of love, we are able to let go of the things from the past that distract us from our purpose. 
+Next up, [Cassandra Bianco](https://www.instagram.com/cnbianco/) led us in a short, calming meditation to set aside the demands of life and business in order to be present. The speaker lineup began with the [Reverend Jacqueline J. Lewis PH.D.](http://www.jacquijlewis.com/) who inspired us to rise up and take our place in the love “revolution”. She shared how when we do the work to embody the many kinds of love, we are able to let go of the things from the past that distract us from our purpose. 
 
-“If we are agents of healing and redemption, we can rewrite the world.” - Reverend Jacqueline J. Lewis PH.D.
+### “If we are agents of healing and redemption, we can rewrite the world.” - Reverend Jacqueline J. Lewis PH.D.
 
-Feeling motivated to carry the impact with even greater responsibility, we were ready to get down to business. Vik Harrison, Co-Founder of charity:water and Founder of The Branded Startup, took it away with actionable tips on how to take a marketing strategy and incorporate a story telling aspect. The bigger the transformation in the narrative, the better the story will connect with human beings who feel inspired to hope or compelled to change. 
+Feeling motivated to carry our impact with even greater responsibility, we were ready to get down to business. [Vik Harrison](https://www.instagram.com/vikharrison/), Co-Founder and Creative Director of [charity:water](https://www.charitywater.org/) and Founder of [The Branded Startup](https://www.thebrandedstartup.com/), took it away with actionable tips on how to incorporate storytelling into marketing strategies. As Vik said – the bigger the transformation in the narrative, the better the story will connect with human beings who feel inspired to hope, or compelled to change. 
 
 It was a short break later that Vera Leung, Creative Director at International Justice Mission, brought Vik’s point to life by sharing a personal interaction she had with a 7-year-old boy named Marco in Thailand that IJM had rescued from cybertrafficking. In honor of making every person feel seen and loved in the midst of their suffering, we blew bubbles like she had in her story with Marco. 
 
