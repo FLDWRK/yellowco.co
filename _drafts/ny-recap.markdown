@@ -19,11 +19,15 @@ Next up, [Cassandra Bianco](https://www.instagram.com/cnbianco/) led us in a sho
 
 Feeling motivated to carry our impact with even greater responsibility, we were ready to get down to business. [Vik Harrison](https://www.instagram.com/vikharrison/), Co-Founder and Creative Director of [charity:water](https://www.charitywater.org/) and Founder of [The Branded Startup](https://www.thebrandedstartup.com/), took it away with actionable tips on how to incorporate storytelling into marketing strategies. As Vik said – the bigger the transformation in the narrative, the better the story will connect with human beings who feel inspired to hope, or compelled to change. 
 
-It was a short break later that Vera Leung, Creative Director at International Justice Mission, brought Vik’s point to life by sharing a personal interaction she had with a 7-year-old boy named Marco in Thailand that IJM had rescued from cybertrafficking. In honor of making every person feel seen and loved in the midst of their suffering, we blew bubbles like she had in her story with Marco. 
+After a short break, Vera Leung, Creative Director at International Justice Mission, brought Vik’s point to life by sharing a personal interaction she had with a 7-year-old boy named Maarko in Thailand that IJM had rescued from cybertrafficking. In honor of making every person feel seen and loved in the midst of their suffering, we blew bubbles like she had in her story with Maarko. 
 
 “Tell stories that help people see the inherent wonder into the lives of people who have been abused and in violence.” - Vera Leung
 
-Lunch time provided the perfect opportunity to grab a quick bite and hurry back to peruse the Do Good Goods Marketplace! Some of my personal favorite vendors included date spread from Wanna Date, reusable bags from FEED, and unique jewelry pieces from Kickeko Goods. It was also the prime time to take a sneak peek into our fully stocked swag bags packaged conveniently in a Global Goods Partners tote. At a glance, it held everything from a Hip coffee mug to Think coffee beans to Further Food collagen peptides samples and many more items. I couldn’t want to delve a little deeper into the bag, but before we knew it the Female Founders Panel was assembling and drew our attention back to the stage. 
+-- provided the perfect opportunity to grab a quick bite and hurry back to peruse the Do-Good Goods Marketplace! (Rebbl, provided by Think - flow) Some of my personal favorite vendors included Moon Cycle Bakery --- chocolates, - bags from FEED, and Mazi handmade earrings, and Beekeepers Naturals -- . 
+
+date spread from Wanna Date, , and unique jewelry pieces from Kickeko Goods. It was also the prime time to take a sneak peek into our fully stocked swag bags packaged conveniently in a Global Goods Partners tote. It held everything from an ethically made leather cord taco from Parker Clay, the cutest breezy blouse from Summerhouse Collective, to-go coffee mug from Hip, and a full bottle of Rose spray from Trilogy. 
+
+Hip coffee mug to Think coffee beans to  and many more items. I couldn’t want to delve a little deeper into the bag, but before we knew it the Female Founders Panel was assembling and drew our attention back to the stage. 
 
 We were met with the ultimate lady bosses, Lauren Bush Lauren, CEO, Creative Director, & Co-Founder of FEED Projects, Theresa and Corinna Williams, Co-Founders of Celsious, and Lauren Singer, Founder & CEO of Package Free Shop. The panel was facilitated by none other than Colleen Wachob, Co-Founder & Co-CEO of mindbodygreen, who drew out nuggets of wisdom through questions. Women across the room were hastily jotting down notes full of actionable items to turn around and implement into a business structure, hiring strategy, personal time, and collaborative partnerships. 
 
@@ -31,5 +35,6 @@ Would there really be a Yellow Conference without the opportunity to connect thr
 
 “The best art inspires people to not be like you, but inspires people to be like themselves.” - Mari Andrew
 
-Throughout the day there were many times I scanned the room and felt so inspired to be in such a beautiful space as so many social good trailblazers. Whether it was connecting with new friends or seeing other women find common ground over similar interests, the general atmosphere encouraged transparency and empowerment. Traveling from all over to be attend, it was amazing to know that we were surrounded with fellow boss ladies who took the time to invest in personal growth that will be carried back into business. 
+happy hour w/ dry farm wines and plant based cookie dough from ps snacks
 
+Throughout the day there were many times I scanned the room and felt so inspired to be in such a beautiful space as so many social good trailblazers. Whether it was connecting with new friends or seeing other women find common ground over similar interests, the general atmosphere encouraged transparency and empowerment. Traveling from all over to be attend, it was amazing to know that we were surrounded with fellow boss ladies who took the time to invest in personal growth that will be carried back into business. 
