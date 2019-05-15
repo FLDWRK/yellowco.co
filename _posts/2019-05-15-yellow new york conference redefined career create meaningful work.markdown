@@ -45,7 +45,7 @@ Next up, [Cassandra Bianco](https://www.instagram.com/cnbianco/) led us in a sho
 
 Feeling motivated to carry our impact with even greater responsibility, we were ready to get down to business. [Vik Harrison](https://www.instagram.com/vikharrison/), Co-Founder and Creative Director of [charity:water](https://www.charitywater.org/) and Founder of [The Branded Startup](https://www.thebrandedstartup.com/), took it away with actionable tips on how to incorporate storytelling into your marketing strategies. As Vik said – the bigger the transformation in the narrative we tell, the better the story will connect with human beings who feel inspired to hope, or compelled to change. 
 
-### “Great brands understand that it’s about the relationship not the transaction.” - Vik Harrison
+### “Great brands understand that it’s about the relationship, not the transaction.” - Vik Harrison
 
 ![asher-gardner-yellow-previews-23.jpg](/uploads/asher-gardner-yellow-previews-23.jpg)
 
