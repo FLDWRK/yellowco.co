@@ -22,7 +22,7 @@ Feeling motivated to carry our impact with even greater responsibility, we were 
 
 After a short break, [Vera Leung](https://www.instagram.com/veraleung/), Creative Director at [International Justice Mission](https://www.ijm.org/), brought Vik’s point to life by sharing a personal interaction she had with a 7-year-old boy named Maarko in Thailand that IJM had rescued from cybertrafficking. In honor of making every person feel seen and loved in the midst of their suffering, we blew bubbles like she had in her story with Maarko. 
 
-“Tell stories that help people see the inherent wonder in the lives of people who have been abused and in violence.” - Vera Leung
+### “The things we say and do have the power to propel us forward or take us down.” - Vera Leung
 
 After her powerful talk, we refueled with delicious social impact coffee provided by Think Coffee and delicious organic plant-based drinks from Rebbl, and had some time to peruse Yellow's Do-Good Goods Marketplace! Some of my personal favorite vendors included hormone balancing sweet treats from [Moon Cycle Bakery](https://www.mooncyclebakery.com/), canvas and leather give-back bags from [FEED](https://feedprojects.com/), handmade clay earrings from [Mazí](https://www.shopmazi.com/), and all the superfood honey goodies from [Beekeeper's Naturals](https://beekeepersnaturals.com/). 
 
@@ -32,7 +32,7 @@ We were met with the ultimate lady bosses: Lauren Bush Lauren, CEO, Creative Dir
 
 Would there really be a Yellow Conference without the opportunity to connect through an attendee activity? The volume of the room rose with a buzz of voices as everyone was led by Yellow's host for the day and Director of Partnerships, [Kathryn Parrish](https://www.instagram.com/kathryn_parrish/), through a discussion of thought-provoking prompts on creating meaningful work. To close out the day, [Mari Andrew](https://www.instagram.com/bymariandrew/), writer and illustrator, chatted with Rachael Baxter, Co-Founder of [Conscious Magazine](https://consciousmagazine.co/), in a live-podcast style Q&A. Mari's relatable personality and genuine story of her work was a wonderful reminder to give the most authentic expression of ourselves to the work that we do. As she put it:
 
-“The best art inspires people not to be like you, but to be like themselves.” - Mari Andrew
+### “The best service you can provide to people creatively is not to inspire them to be more like you, but to inspire them to be more like them. ” - Mari Andrew
 
 With full hearts and inspired minds, we joined together for a happy hour in the lounge – sipping on delicious natural wines from [Dry Farm Wines](https://www.dryfarmwines.com/), and snacking on the most amazing plant-based cookie dough (yes, you read that right) from [P.S. Snacks](https://ps-snacks.com/) as we debriefed all the goodness from the day with each other!
 
