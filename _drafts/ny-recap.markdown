@@ -1,8 +1,9 @@
 ---
-title: ny recap
+title: How the Yellow NY Conference Redefined a Career into Creating Meaningful Work
 date: 2019-05-15 03:00:00 -07:00
 categories:
 - Growth
+author: Emily Meade
 ---
 
 Is there anything better than a group of entrepreneurial women coming together on a Friday to pursue their own growth and connect with other business babes? Having attended the [LA Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) a few years ago, I was very excited to experience the very first Yellow Conference in NYC. The morning started off bright and early at [501 Union](http://www.501union.com/#home) (incredibly beautiful space!) in Brooklyn where 200 women gathered in anticipation for the day’s events. After an incredible, emotion-evoking dance that left us all in awe and even more excited for what the day had in store, founder Joanna Waterfall (virtually) took the stage via video to welcome us. Even though she expressed her deep sense of FOMO for not being able to join in person, she shared how she (quite literally) has her hands full with her sweet newborn. 
