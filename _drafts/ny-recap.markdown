@@ -1,5 +1,6 @@
 ---
-title: How the Yellow NY Conference Redefined a Career into Creating Meaningful Work
+title: How the Yellow NY Conference Redefined a "Career" into Creating Meaningful
+  Work
 date: 2019-05-15 03:00:00 -07:00
 categories:
 - Growth
