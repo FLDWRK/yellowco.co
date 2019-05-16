@@ -23,6 +23,7 @@ tags:
 - entrepreneur
 - advice
 author: Natalia Amador
+image: "/uploads/cayley-nossiter-1097369-unsplash.jpg"
 ---
 
 Is it just me or does it seem like there are countless opportunities when it comes to investing in your business? It’s something that we can avoid (like I did for the first two years in business), it’s something that can become addicting, and it’s also something that we can find ourselves trapped in when we invest without seeing any ROI. Throughout my years in business and different investments, there is one foundational thing that I have found to be true: 
@@ -35,6 +36,8 @@ I often like to use the example of investing in your education. You don’t wait
 
 If you’re struggling with building your business, it’s probably because there is something missing that you don’t know and when you are willing to make the investment it will not only save you time and money but it will also accelerate your growth. This is where the question comes in, how do you know what to invest in and when? My goal here is to help you identify exactly what you need to invest in and when by taking you through a series of steps that will help you find the answer.
 
+![melinda-gimpel-1395900-unsplash-1.jpg](/uploads/melinda-gimpel-1395900-unsplash-1.jpg)
+
 #### Step 1: Identify the next level
 
 The first thing I want you to do is to ask yourself what that next level is that you’re trying to get to. Maybe it’s starting your business, scaling to consistent four-figures, growing your social media presence, etc. Identify where you want to get to next, and when I say that I mean the _next_ step, not the long-term vision, because taking the right next step will get you to that long term vision.
@@ -44,6 +47,8 @@ The first thing I want you to do is to ask yourself what that next level is that
 Once you’ve identified where you want to get to next, we want to identify the problem. In other words, what’s stopping you from getting there? What’s holding you back? What obstacle is in your way? Is it a lack of knowing what to do? How to do it? For example, if you need more clients, is the problem that you don’t know how to get them? Maybe you want to make more money in your business but you don’t know how. 
 
 ### Identify what the problem is as specifically as possible, because then you’ll know exactly how to fix it.
+
+![melinda-gimpel-1395871-unsplash (1)-1.jpg](/uploads/melinda-gimpel-1395871-unsplash%20(1)-1.jpg)
 
 #### Step 3: Identify the solution
 
