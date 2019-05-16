@@ -19,7 +19,7 @@ image: "/uploads/CONFLICT-YellowCo0739.jpg"
 series: Conflict
 ---
 
-_Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland this June! [Click here for details!](https://yellowcollective.lpages.co/retreats/)_
+_Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland with [Ashlee Sikorski](https://www.kickstarter.com/projects/9shapes/nine-shapes) this June! [Click here for details!](https://yellowcollective.lpages.co/retreats/)_
 
 So, you’re in a group of of your closest friends and say, “I think Kanye West should be the next President.” How do you imagine each of them responding in this scenario?
 
