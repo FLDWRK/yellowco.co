@@ -21,6 +21,7 @@ tags:
 - vote
 - climate change
 author: Megan Faletra
+image: "/uploads/gaelle-marcel-1060858-unsplash-1.jpg"
 ---
 
 The conscious consumer movement has taken off and now more than ever people are choosing to make purchases based on social ethics and environmental standards. Consumer purchasing behavior is powerful, and we are already starting to see how giant companies like [Unilever are responding to consumer demands](https://www.unilever.com/news/news-and-features/Feature-article/2019/we-are-introducing-reusable-refillable-packaging-to-help-cut-waste.html) for safer and more eco-friendly products. 
@@ -31,7 +32,7 @@ Make no mistake though, many companies are using the sustainability movement as 
 
 It becomes a movement that is represented by the people who can afford to spend $250 on organic linen bedding, and buy (often) expensive clean skincare products. It becomes a movement that is now not capable of motivating the masses, and instead is rooted in privilege, and if we want to really make an impact in fighting climate change, then this movement cannot be one that only a part of the world’s population can participate in.
 
-img
+![laura-mitulla-1433381-unsplash-1.jpg](/uploads/laura-mitulla-1433381-unsplash-1.jpg)
 
 ###### Why the Most Sustainable Option Is What You Already Own
 
@@ -41,7 +42,7 @@ While I would never argue that making more sustainable and ethical purchases is 
 
 But in order to get there, we have to take a hard look at how and why we make new purchases, and what the lifecycle of that purchase will be. If we already know that the lifecycle of a new item will be short and end in a trash can, or a donation pile, then the question we should be asking ourselves is if we really need to make the purchase in the first place. 
 
-img
+![maddi-bazzocco-1174194-unsplash-1.jpg](/uploads/maddi-bazzocco-1174194-unsplash-1.jpg)
 
 ###### 5 Ways to Live More Sustainably Without Ever Opening Your Wallet
 
@@ -55,7 +56,7 @@ While individual voices and actions matter, we need drastic policy change if we 
 
 Hosting a clothing swap is one of the best ways that you can revamp your wardrobe for free, while also getting rid of items you no longer want. The best part about clothing swaps is that they are also really social, and result in absolutely no textile waste.
 
-img
+![norbert-levajsics-243761-unsplash-1.jpg](/uploads/norbert-levajsics-243761-unsplash-1.jpg)
 
 #### Walk and Bike More 
 
