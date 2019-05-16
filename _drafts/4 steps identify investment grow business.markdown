@@ -3,6 +3,25 @@ title: 4 Steps to Identify What You Should Actually Invest in to Grow Your Biz
 date: 2019-05-20 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- Start a business
+- grow business
+- growth
+- sales
+- return on investment
+- courses
+- coach
+- coaching
+- employee
+- invest
+- retreats
+- what to spend money on
+- what to invest in
+- female founder
+- running a business
+- small business
+- entrepreneur
+- advice
 author: Natalia Amador
 ---
 
