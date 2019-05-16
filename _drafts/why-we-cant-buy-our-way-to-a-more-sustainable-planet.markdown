@@ -15,6 +15,8 @@ Make no mistake though, many companies are using the sustainability movement as 
 
 It becomes a movement that is represented by the people who can afford to spend $250 on organic linen bedding, and buy (often) expensive clean skincare products. It becomes a movement that is now not capable of motivating the masses, and instead is rooted in privilege, and if we want to really make an impact in fighting climate change, then this movement cannot be one that only a part of the world’s population can participate in.
 
+img
+
 ###### Why the Most Sustainable Option Is What You Already Own
 
 While I would never argue that making more sustainable and ethical purchases is not important, I will argue that often times the most sustainable option is something that you already own. Waste is still waste, whether it was made sustainably or not, which is why often times the most sustainable option isn’t something new that you need to buy, and instead is something you can repurpose at home.
@@ -22,6 +24,8 @@ While I would never argue that making more sustainable and ethical purchases is 
 ### If you have ever heard about the concept of a circular economy, you know that reusing and repurposing is at the foundation of how we can create a truly waste-free system. 
 
 But in order to get there, we have to take a hard look at how and why we make new purchases, and what the lifecycle of that purchase will be. If we already know that the lifecycle of a new item will be short and end in a trash can, or a donation pile, then the question we should be asking ourselves is if we really need to make the purchase in the first place. 
+
+img
 
 ###### 5 Ways to Live More Sustainably Without Ever Opening Your Wallet
 
@@ -34,6 +38,8 @@ While individual voices and actions matter, we need drastic policy change if we 
 #### Host a Clothing Swap
 
 Hosting a clothing swap is one of the best ways that you can revamp your wardrobe for free, while also getting rid of items you no longer want. The best part about clothing swaps is that they are also really social, and result in absolutely no textile waste.
+
+img
 
 #### Walk and Bike More 
 
