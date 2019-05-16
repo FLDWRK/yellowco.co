@@ -1,5 +1,6 @@
 ---
-title: genes
+title: Why Your Lifestyle Choices Can Improve Your Mental Health Even If Your Genes
+  Feel Stacked Against You
 date: 2019-05-22 03:00:00 -07:00
 categories:
 - Health
