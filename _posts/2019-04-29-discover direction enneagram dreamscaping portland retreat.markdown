@@ -92,4 +92,4 @@ This June, I am leading a leading the workshops at Yellow Co.'s [Enneagram Dream
 
 <br>
 
-_Photos courtesy of [Ashlee Sikorski](https://www.ashleesikorski.com/)_
+_Photos courtesy of [Ashlee Sikorski](https://www.kickstarter.com/projects/9shapes/nine-shapes)_
