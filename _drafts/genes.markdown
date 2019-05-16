@@ -3,6 +3,25 @@ title: genes
 date: 2019-05-22 03:00:00 -07:00
 categories:
 - Health
+tags:
+- mental health
+- genes
+- genetics
+- epigenetics
+- research
+- better mental health
+- exercise
+- diet
+- attention
+- positive thinking
+- community
+- encouragement
+- health
+- women's health
+- depression
+- anxiety
+- anxiety treatment
+- illustration
 author: Jackie Viramontez
 image: "/uploads/popbyhiral%20-%20face%202.jpg"
 ---
@@ -15,6 +34,8 @@ I get it. Growing up, the cards weren’t stacked in my favor either. A history 
  
 Lucky for me, my mom’s doctor introduced her to an emerging field of research called Epigenetics. According to Live Science, “Epigenetics literally means 'above' or 'on top of' genetics. It refers to external modifications to DNA that turn genes 'on' or 'off'.” Some genes like eye color and height are permanently “on”, but genes for physical and mental health are more malleable. 
 
+![popbyhiral - faces (1).jpg](/uploads/popbyhiral%20-%20faces%20(1).jpg)
+
 ### In some ways, we can turn unhealthy genes off and healthy genes on with our lifestyle. 
 
 If genes are the lightbulb, Epigenetics is the light switch. You might have the genes to be prone to depression and anxiety, but you can keep these genes turned “off” with daily lifestyle choices like these:
@@ -26,6 +47,8 @@ We’ve all felt the physiological benefit of a workout, but the _New York Times
 ##### Diet: 
 
 I love any study that encourages chocolate consumption. Polyphenols, located in foods like fruits, veggies, grape skins, and cocoa, protect our cells from stress and our minds from depression. Pick one polyphenol-rich food and add it to your grocery list! Dong so will feed the genes that support mental health.
+
+![popbyhiral - face.jpg](/uploads/popbyhiral%20-%20face.jpg)
  
 ##### Attention: 
 
