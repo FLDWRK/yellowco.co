@@ -26,7 +26,7 @@ author: Ashlee Sikorski
 image: "/uploads/Sikorski%20-%20AS%20Coaching%20Art%203.jpg"
 ---
 
-_Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland this June! [Click here to grab your spot](https://yellowcollective.lpages.co/retreats/#two-column[1)!_
+_Want to dive deeper into the Enneagram with like-minded women? Join us at our **Enneagram Dreamscaping Retreat** in Portland with [Ashlee Sikorski](https://www.kickstarter.com/projects/9shapes/nine-shapes) this June! [Click here to grab your spot](https://yellowcollective.lpages.co/retreats/#two-column[1)!_
 
 Do you know what holds you back? What gets in the way of you accomplishing your goals? dreams?
 
