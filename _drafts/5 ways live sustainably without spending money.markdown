@@ -4,6 +4,22 @@ title: 5 Ways to Live More Sustainably Without Opening Your Wallet That Anyone C
 date: 2019-05-24 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- sustainability
+- conscious living
+- conscious home
+- sustainable lifestyle
+- sustainability movement
+- privilege
+- not spending money
+- walk
+- bike
+- reuse
+- compost
+- recycle
+- clothing swap
+- vote
+- climate change
 author: Megan Faletra
 ---
 
