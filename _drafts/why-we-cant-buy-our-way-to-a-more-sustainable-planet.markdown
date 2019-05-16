@@ -1,5 +1,6 @@
 ---
-title: Why We Can’t Buy Our Way To A More Sustainable Planet
+title: 5 Ways to Live More Sustainably Without Opening Your Wallet That Anyone Can
+  Try
 date: 2019-05-24 03:00:00 -07:00
 categories:
 - Conscious Living
