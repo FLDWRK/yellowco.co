@@ -41,17 +41,17 @@ Lucky for me, my mom’s doctor introduced her to an emerging field of research 
 
 If genes are the lightbulb, Epigenetics is the light switch. You might have the genes to be prone to depression and anxiety, but you can keep these genes turned “off” with daily lifestyle choices like these:
  
-##### Exercise: 
+##### Exercise 
 
 We’ve all felt the physiological benefit of a workout, but the _New York Times_ explained that, “Certain genes become active or quieter as a result of exercise.” This week, schedule three, 30 minute windows for moderate exercise. Your mental health will thank you, and not just because of the endorphin boost. Genes that trigger stress will turn off. Genes that regulate stress will turn on.
  
-##### Diet: 
+##### Diet 
 
 I love any study that encourages chocolate consumption. Polyphenols, located in foods like fruits, veggies, grape skins, and cocoa, protect our cells from stress and our minds from depression. Pick one polyphenol-rich food and add it to your grocery list! Dong so will feed the genes that support mental health.
 
 ![popbyhiral - face.jpg](/uploads/popbyhiral%20-%20face.jpg)
  
-##### Attention: 
+##### Attention 
 
 There is more and more evidence proving that our mind impacts our biology. While we can’t always control our thoughts, we can control how much time and attention we give negative thought bubbles. Spending one hour worrying about a criticism, and one minute reflecting on a compliment, sends a message to our brain that, “Negative is more important than positive.” Attention teaches our brain what’s important. 
 
@@ -59,7 +59,7 @@ There is more and more evidence proving that our mind impacts our biology. While
 
 Go to bed five minutes early to write a gratitude list. Or, set a phone alarm reminding you to spend time daydreaming about something you love. Your mental-health-supporting genes will thank you.
  
-##### Community: 
+##### Community
 
 Why do women have longer lifespans? One study linked women’s extended years to the extended time women spend with smiling babies! You don’t need to be a mother to get the mental health benefits of positive relationships. Look at your to-do list, and notice the relationships attached to each item. Which clients, colleagues, friends and family are you interacting with on the daily? Which relationships trigger stress and which spark joy? Balance the scales by adding or removing one relationship that helps or hurts your mental health. Surround yourself with people who make you feel healthier, in body, mind, and DNA.
  
