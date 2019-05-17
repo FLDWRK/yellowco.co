@@ -3,14 +3,14 @@ title: Home
 position: 4
 body-class: home
 banners:
-- link: https://yellowcollective.lpages.co/yellow-conference-new-york/
-  image: "/uploads/YELLOW-NY-Header.jpg"
 - link: https://yellowcollective.lpages.co/weekend-workshop/
   image: "/uploads/Weekend-Workshop.jpg"
 - link: https://yellowcollective.lpages.co/retreats/#two-column[1
   image: "/uploads/Enneagram-REtreat.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
+- link: https://yellowcollective.lpages.co/yellow-conference-new-york/
+  image: "/uploads/YELLOW-NY-Header.jpg"
 sm-banners:
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header-SM.jpg"
