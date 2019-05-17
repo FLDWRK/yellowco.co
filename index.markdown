@@ -9,8 +9,8 @@ banners:
   image: "/uploads/Enneagram-REtreat.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
-- link: https://yellowcollective.lpages.co/yellow-conference-new-york/
-  image: "/uploads/YELLOW-NY-Header.jpg"
+- link: 
+  image: 
 sm-banners:
 - link: https://yellowco.co/new-york/
   image: "/uploads/YELLOW-NY-Header-SM.jpg"
