@@ -41,7 +41,7 @@ For me, the most natural next step in my sustainability journey was to migrate t
 
 Using a safety razor felt intimidating to me at first, but once you get the hang of it, you’ll appreciate the beauty of never having to run to Target to restock your plastic razor stash because you forgot you only had one left (was that just me?). Safety razors cost more up front, but with regular care and replacement of the blades, they can last for years and offer a closer shave. You can find a [safety razor and replacement blades here](https://www.tinyyellowbungalow.com/product/long-handled-double-edge-safety-razor/). 
 
-![fullsizeoutput_76.jpeg](/uploads/fullsizeoutput_76.jpeg)
+![fullsizeoutput_6.jpeg](/uploads/fullsizeoutput_6.jpeg)
 
 #### [Bamboo Toothbrush ](https://www.tinyyellowbungalow.com/product/single-bamboo-toothbrush/)
 
