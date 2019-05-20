@@ -61,7 +61,7 @@ This just in – hankies are no longer just for seventy-year-old men! These [han
 
 ![brush.jpg](/uploads/brush.jpg)
 
-#### [Wooden Brushes](https://www.tinyyellowbungalow.com/product/wood-hairbrush/)
+#### [Wooden Brushes](https://www.tinyyellowbungalow.com/product/dry-body-brush/)
 
 This one may seem a tad obvious, but is a transition I’m personally still making! I believe the most sustainable thing you can do is to use what you already have, but as your current items wear out and it’s time to invest in new, quality tools, take a look at these [wooden dry brushes](https://www.tinyyellowbungalow.com/product/dry-body-brush/), [hair brushes](https://www.tinyyellowbungalow.com/product/wood-hairbrush/), and [nail brushes](https://www.tinyyellowbungalow.com/product/wood-nail-brush/). The materials are more sustainable to produce and some pieces of the products are even compostable.
 
