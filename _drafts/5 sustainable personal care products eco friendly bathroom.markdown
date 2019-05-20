@@ -1,8 +1,26 @@
 ---
-title: '6'
+title: 5 Sustainable Personal Care Products for a More Eco-Friendly Bathroom
 date: 2019-05-31 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- tiny yellow bungalow
+- personal care
+- products
+- sustainable products
+- eco friendly
+- sustainability
+- conscious living
+- conscious consumer
+- toothbrush
+- wooden
+- brush
+- reusable cotton round
+- handkercheif
+- tissues
+- reusable tissue
+- organic
+- razor
 author: Sydney Huffhines
 image: "/uploads/phil-hearing-1430189-unsplash-1.jpg"
 ---
