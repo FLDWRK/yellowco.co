@@ -25,8 +25,6 @@ author: Sydney Huffhines
 image: "/uploads/phil-hearing-1430189-unsplash-1.jpg"
 ---
 
-Six Low Waste Personal Care Products to Take Your Next Step Into Sustainability
-
 Some may refer to the widespread adoption of stainless steel straws and other “green” options as a trend, but I prefer to think of it as a slow and steady reawakening to the beauty of slow, intentional, and mindful living. 
 
 ### We are moving away from our need for instantly gratifying, disposable goods and getting back to the roots of handmade, thoughtful items.
