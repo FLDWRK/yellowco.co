@@ -1,6 +1,7 @@
 ---
 title: Sydney Huffhines
 date: 2019-05-20 13:16:00 -07:00
+bio_image: "/uploads/sydney.jpg"
 website: https://www.instagram.com/sydlivingsimply/
 ---
 
