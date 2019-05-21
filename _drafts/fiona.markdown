@@ -12,7 +12,7 @@ author: Hanna Snyder
 
 Like most of us these days, I do a bit of everything! I write books, run workshops and retreats, create online courses and I’m a brand consultant. I guess what drives everything is a passion for working with entrepreneurs and helping them create brands that they can be truly proud of. My official bio says that I empower entrepreneurs to create incredible brands which I think sums me up nicely!
 
-I’m perhaps best known for my bestselling books: How to Style your Brand and Brand Brilliance which changed the face of what was possible for business books. I felt strongly that I could create a business book that was both impactful and beautiful and I couldn’t understand why no one had done it before. I love the impact they’ve had on so many entrepreneurs.
+I’m perhaps best known for my bestselling books: _[How to Style your Brand](https://www.amazon.com/How-Style-Your-Brand-Distinctive/dp/0956454534/)_ and _[Brand Brilliance](https://www.amazon.com/Brand-Brilliance-Elevate-Enchant-Audience/dp/0956454542/)_, which changed the face of what was possible for business books. I felt strongly that I could create a business book that was both impactful and beautiful and I couldn’t understand why no one had done it before. I love the impact they’ve had on so many entrepreneurs.
 
 Much of my time now goes into developing online courses: I love that process of creating something new and exciting that’ll solve a problem for my clients. And it’s a good blend of writing, styling, designing and presenting - so perfect for me!
 
@@ -28,7 +28,7 @@ Part of it’s about getting your clients to take you seriously, to see you in t
 
 ###### How can a business decide when it is time for them to have their branding redesigned?
 
-I think you tend to just know. For me, it’s always been about there being a sense that people aren’t ‘getting it’. Maybe you’re missing opportunities. Maybe a competitor’s getting more of the work you should have won. Maybe it’s the knowledge that your business has evolved, moved on and that you need to update your image to reflect that. As entrepreneurs we tend to know when it’s time to rebrand, but that doesn’t mean that it doesn’t feel scary- especially when it’s an established business. The stakes are high. You want to get it right and you don’t want to alienate your loyal clients.
+I think you tend to just _know_. For me, it’s always been about there being a sense that people aren’t ‘getting it’. Maybe you’re missing opportunities. Maybe a competitor’s getting more of the work you should have won. Maybe it’s the knowledge that your business has evolved, moved on and that you need to update your image to reflect that. As entrepreneurs we tend to know when it’s time to rebrand, but that doesn’t mean that it doesn’t feel scary- especially when it’s an established business. The stakes are high. You want to get it right and you don’t want to alienate your loyal clients.
 
 ###### Do you think it is important to carry over any “familiar” brand design elements when a business is going through a rebranding? Or is it not necessary?
 
@@ -36,7 +36,7 @@ It really depends on your motivation for rebranding. Personally, I like to start
 
 ###### For any entrepreneurs out there looking for a designer to create their visual identity, what should they look for to make sure the designer is a good fit with their brand?
 
-Such a great question! You have to pick your designer based on their work. Find someone whose style fits with the aesthetic you need for your brand, otherwise, however great your relationship at the start, you will find it immensely hard work.
+Such a great question! You _have_ to pick your designer based on their work. Find someone whose style fits with the aesthetic you need for your brand, otherwise, however great your relationship at the start, you will find it immensely hard work.
 
 For me, it starts with creating a clear vision for the brand. Once we have that, we’ll look for a designer whose portfolio reflects the sorts of things we have on the mood board. Of course they have to be affordable, of course I’m looking for someone professional and someone my client has chemistry with, but ultimately, aesthetics come first.
 
@@ -54,6 +54,6 @@ I learned so much. That you can never do a good job quickly. That you need to wo
 
 ###### What are a few of your favorite resources to share with fellow female entrepreneurs and/or creatives?
 
-My friend Elizabeth has just published a book, The Empowered Entrepreneur which is brilliant. Read it! It will change your business and your life.
+My friend Elizabeth has just published a book, _[The Empowered Entrepreneur](https://www.elizabethcairns.com/book)_, which is brilliant. Read it! It will change your business and your life.
 
 _Photos courtesy of [The Brand Stylist](https://www.thebrand-stylist.com/)_
