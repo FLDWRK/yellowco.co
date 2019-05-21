@@ -4,6 +4,28 @@ title: 4 Questions to Ask Yourself Before Posting on Social Media in Response to
 date: 2019-05-29 03:00:00 -07:00
 categories:
 - Culture
+tags:
+- social media
+- social media culture
+- brands
+- natural disaster
+- crisis
+- tragedy
+- shooting
+- fire
+- response
+- what to say
+- what to post
+- social media posting
+- empathy
+- intention
+- engagement
+- content
+- timely
+- relevant
+- how to help
+- motivation
+- victim
 author: Jenna Catalon
 image: "/uploads/amy-ferris-1104648-unsplash%20(1)-1.jpg"
 ---
@@ -46,9 +68,7 @@ We should be making lists like these every time we feel called to post. Having t
 
 ##### If I was a victim, would I want strangers to be posting their thoughts on my situation? 
 
-And here’s the heart of the thing: If you’re exercising true empathy on social media, you should be asking yourself this question with every message — not just disaster posts. Like our mothers or mother-like figures in our lives always told us, spend a day in another’s shoes, and only then will you know if you or your brand should post about a natural disaster. 
-
-The answer to the social media question is empathy in all things and especially disaster posts. 
+And here’s the heart of the thing: If you’re exercising true empathy on social media, you should be asking yourself this question with every message — not just disaster posts. Like our mothers or mother-like figures in our lives always told us, spend a day in another’s shoes, and only then will you know if you or your brand should post about a natural disaster. The answer to the social media question is empathy in all things and especially disaster posts. 
 
 ### We have to be really honest with ourselves and create mechanisms for rooting out posts that lack empathy or warp it in any way.
 
