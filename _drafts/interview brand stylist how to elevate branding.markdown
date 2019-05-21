@@ -1,6 +1,6 @@
 ---
-title: 'What to Do When It’s Time to Elevate Branding: Our Interview with The Brand
-  Stylist'
+title: 'What to Do When It’s Time to Elevate Your Branding: Our Interview with The
+  Brand Stylist'
 date: 2019-05-27 03:00:00 -07:00
 categories:
 - Entrepreneurs
