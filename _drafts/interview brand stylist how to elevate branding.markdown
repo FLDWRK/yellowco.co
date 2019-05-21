@@ -1,9 +1,17 @@
 ---
-title: 'What to Do When It’s Time to Elevate Branding: Our Interview with the Brand
+title: 'What to Do When It’s Time to Elevate Branding: Our Interview with The Brand
   Stylist'
 date: 2019-05-27 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- branding
+- rebrand
+- elevate
+- the brand stylist
+- Fiona Humberstone
+- designer
+- brand consultant
 author: Hanna Snyder
 image: "/uploads/The%20Brand%20Stylist%20Naming%20Workshop_0119-1.jpg"
 ---
