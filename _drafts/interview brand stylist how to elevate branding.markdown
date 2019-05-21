@@ -12,6 +12,18 @@ tags:
 - Fiona Humberstone
 - designer
 - brand consultant
+- business branding
+- entrepreneur
+- entrepreneur advice
+- female founders
+- books
+- represent
+- clients
+- small business
+- choose designer
+- branding elements
+- forty brilliant brand designers
+- mompreneur
 author: Hanna Snyder
 image: "/uploads/The%20Brand%20Stylist%20Naming%20Workshop_0119-1.jpg"
 ---
