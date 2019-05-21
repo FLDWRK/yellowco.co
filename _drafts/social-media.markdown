@@ -1,5 +1,6 @@
 ---
-title: social media
+title: 4 Questions to Ask Yourself Before Posting on Social Media in Response to a
+  Disaster or Crisis
 date: 2019-05-29 03:00:00 -07:00
 categories:
 - Culture
