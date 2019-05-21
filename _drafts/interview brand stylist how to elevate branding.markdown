@@ -1,16 +1,22 @@
 ---
-title: fiona
+title: 'What to Do When It’s Time to Elevate Branding: Our Interview with the Brand
+  Stylist'
 date: 2019-05-27 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Hanna Snyder
+image: "/uploads/The%20Brand%20Stylist%20Naming%20Workshop_0119-1.jpg"
 ---
 
 _[Fiona Humberstone](https://www.instagram.com/thebrand_stylist/) is the founder of [The Brand Stylist](https://www.thebrand-stylist.com/), and an expert on all things branding. Today on the blog, she's sharing all of her insight on how branding affects brands, what to do when it's time for a rebrand, and the many lessons she's learned along the way of her career._
 
 ###### Tell us a bit about the work you do, and why you do it!
 
-Like most of us these days, I do a bit of everything! I write books, run workshops and retreats, create online courses, and I’m a brand consultant. I guess what drives everything is a passion for working with entrepreneurs and helping them create brands that they can be truly proud of. My official bio says that I empower entrepreneurs to create incredible brands, which I think sums me up nicely!
+Like most of us these days, I do a bit of everything! I write books, run workshops and retreats, create online courses, and I’m a brand consultant. 
+
+### I guess what drives everything is a passion for working with entrepreneurs and helping them create brands that they can be truly proud of. 
+
+My official bio says that I empower entrepreneurs to create incredible brands, which I think sums me up nicely!
 
 I’m perhaps best known for my bestselling books: _[How to Style your Brand](https://www.amazon.com/How-Style-Your-Brand-Distinctive/dp/0956454534/)_ and _[Brand Brilliance](https://www.amazon.com/Brand-Brilliance-Elevate-Enchant-Audience/dp/0956454542/)_, which changed the face of what was possible for business books. I felt strongly that I could create a business book that was both impactful and beautiful, and I couldn’t understand why no one had done it before. I love the impact they’ve had on so many entrepreneurs.
 
