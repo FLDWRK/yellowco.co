@@ -44,6 +44,8 @@ Much of my time now goes into developing online courses: I love that process of 
 
 Alongside that, I’ll help clients solve their branding challenges on A Day with The Brand Stylist, which is so fun. And my retreat in Mallorca is one of the highlights of my year. I love creating a really special experience. 
 
+![The Brand Stylist Naming Workshop_0068-1.jpg](/uploads/The%20Brand%20Stylist%20Naming%20Workshop_0068-1.jpg)
+
 ###### How have you seen both great branding and weak branding impact companies?
 
 Massively. And I’ve experienced it firsthand on my own entrepreneurial journey. 
@@ -53,6 +55,8 @@ Massively. And I’ve experienced it firsthand on my own entrepreneurial journey
 It’s about working out what you want to be known for, what sets you apart, and how you want your clients to see you. Once you know that, you can create an identity that helps your clients see you in the way that you want. It’s pretty straightforward really. Work out how you’d like your company to come across, and then make sure that everything you communicate sends out the right signals.
 
 Part of it is about getting your clients to take you seriously, to see you in the way that you’d like to be seen. The other (much more exciting) side to it is around really setting your business apart, captivating your clients, and creating a brand that creates some incredible opportunities for you. Commercially that’s going to have a huge impact on your business.
+
+![The Brand Stylist Retreat Boxes 2018 (2 of 12)-1.jpg](/uploads/The%20Brand%20Stylist%20Retreat%20Boxes%202018%20(2%20of%2012)-1.jpg)
 
 ###### How can a business decide when it is time for them to have their branding redesigned?
 
@@ -64,6 +68,8 @@ It really depends on your motivation for rebranding. Personally, I like to start
 
 ### I guess the important thing is to focus on what your business needs moving forwards rather than holding onto baggage for the sake of it.
 
+![2018-06-13-Creative-Flair-155-1.jpg](/uploads/2018-06-13-Creative-Flair-155-1.jpg)
+
 ###### For any entrepreneurs out there looking for a designer to create their visual identity, what should they look for to make sure the designer is a good fit with their brand?
 
 Such a great question! You _have_ to pick your designer based on their work. Find someone whose style fits with the aesthetic you need for your brand, otherwise, however great your relationship at the start, you will find it immensely hard work.
@@ -74,13 +80,19 @@ For me, it starts with creating a clear vision for the brand. Once we have that,
 
 Well, I turned 40 in February and was thinking of how I might celebrate on my blog. The idea of a curated list of brand designers seemed like the perfect gift. It was a great way to showcase and discover talented brand stylists as well as a fabulous resource for my clients. 
 
+![40-Brilliant-Designers-Inner-Mock-1.jpg](/uploads/40-Brilliant-Designers-Inner-Mock-1.jpg)
+
 ###### As an entrepreneur yourself, what is one struggle or failure you endured that taught you something valuable?
 
 I’m pretty lucky that now I run a business I adore, my work inspires me, and I’m well paid for what I do. I think it would be easy to assume that I’ve always had it easy, but it’s hard graft and experience that have brought me to this point and given me a focus that drive what I do now.
 
 We had our first daughter when we were just 25 and 26. Without the financial cushion many of our contemporaries had, we were under a lot of pressure. My first business was a pile it high, sell it cheap print franchise that taught me a lot. I hustled hard and the business was successful, but it wasn’t sustainable. Slowly I learned how to build value in our design work, find clients who valued our creativity, and would allow us to do a great job. We went on a massive learning curve and by the time I sold the company seven years later we were attracting work from all over the world on the basis of our portfolio and our creative talent. That doesn’t sound so earth shattering now, but in 2012 it was pretty unheard of. 
 
-I learned so much. That you can never do a good job quickly. That you need to work with clients who value and respect your creativity, and are prepared to invest in what you do. That only by streamlining your portfolio and celebrating your creative style do you win the work you really want. That you don’t need to say yes to everything. So much!
+### I learned so much. That you can never do a good job quickly. That you need to work with clients who value and respect your creativity, and are prepared to invest in what you do. 
+
+That only by streamlining your portfolio and celebrating your creative style do you win the work you really want. That you don’t need to say yes to everything. So much!
+
+![The Brand Stylist Naming Workshop_0068-1.jpg](/uploads/The%20Brand%20Stylist%20Naming%20Workshop_0068-1.jpg)
 
 ###### What are a few of your favorite resources to share with fellow female entrepreneurs and/or creatives?
 
