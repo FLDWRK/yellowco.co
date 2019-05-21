@@ -6,6 +6,7 @@ categories:
 author: Hanna Snyder
 ---
 
+_[Fiona Humberstone](https://www.instagram.com/thebrand_stylist/) is the founder of [The Brand Stylist](https://www.thebrand-stylist.com/), and an expert on all things branding. Today on the blog, she's sharing all of her insight on how branding affects brands, what to do when it's time for a rebrand, and the many lessons she's learned along the way of her career._
 
 ###### Tell us a bit about the work you do, and why you do it!
 
