@@ -44,7 +44,7 @@ Much of my time now goes into developing online courses: I love that process of 
 
 Alongside that, I’ll help clients solve their branding challenges on A Day with The Brand Stylist, which is so fun. And my retreat in Mallorca is one of the highlights of my year. I love creating a really special experience. 
 
-![The Brand Stylist Naming Workshop_0068-1.jpg](/uploads/The%20Brand%20Stylist%20Naming%20Workshop_0068-1.jpg)
+![download (1)-1.jpeg](/uploads/download%20(1)-1.jpeg)
 
 ###### How have you seen both great branding and weak branding impact companies?
 
@@ -56,7 +56,7 @@ It’s about working out what you want to be known for, what sets you apart, and
 
 Part of it is about getting your clients to take you seriously, to see you in the way that you’d like to be seen. The other (much more exciting) side to it is around really setting your business apart, captivating your clients, and creating a brand that creates some incredible opportunities for you. Commercially that’s going to have a huge impact on your business.
 
-![The Brand Stylist Retreat Boxes 2018 (2 of 12)-1.jpg](/uploads/The%20Brand%20Stylist%20Retreat%20Boxes%202018%20(2%20of%2012)-1.jpg)
+![The Brand Stylist Retreat Boxes 2018 (30 of 1)-1.jpg](/uploads/The%20Brand%20Stylist%20Retreat%20Boxes%202018%20(30%20of%201)-1.jpg)
 
 ###### How can a business decide when it is time for them to have their branding redesigned?
 
@@ -66,7 +66,7 @@ I think you tend to just _know_. For me, it’s always been about there being a 
 
 It really depends on your motivation for rebranding. Personally, I like to start with a clean slate. I’ll think about what a brand needs to own their space in the market, and I’ll create a vision for the brand that reflects the aesthetic that will help them do that. If it so happens that an element of their old identity can work, then great. Realistically though, it probably won’t. 
 
-### I guess the important thing is to focus on what your business needs moving forwards rather than holding onto baggage for the sake of it.
+### The important thing is to focus on what your business needs moving forwards, rather than holding onto baggage for the sake of it.
 
 ![2018-06-13-Creative-Flair-155-1.jpg](/uploads/2018-06-13-Creative-Flair-155-1.jpg)
 
@@ -92,7 +92,7 @@ We had our first daughter when we were just 25 and 26. Without the financial cus
 
 That only by streamlining your portfolio and celebrating your creative style do you win the work you really want. That you don’t need to say yes to everything. So much!
 
-![The Brand Stylist Naming Workshop_0068-1.jpg](/uploads/The%20Brand%20Stylist%20Naming%20Workshop_0068-1.jpg)
+![The Brand Stylist Retreat Boxes 2018 (2 of 12)-1.jpg](/uploads/The%20Brand%20Stylist%20Retreat%20Boxes%202018%20(2%20of%2012)-1.jpg)
 
 ###### What are a few of your favorite resources to share with fellow female entrepreneurs and/or creatives?
 
