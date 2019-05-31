@@ -49,7 +49,7 @@ Perfect gives someone else ownership of your heart, and comparison to them is st
 
 ![nathan-dumlao-591059-unsplash-1.jpg](/uploads/nathan-dumlao-591059-unsplash-1.jpg)
 
-#### We forget that we are always only getting half of the story. 
+#### We forget that we are _always_ only getting half of the story. 
 
 They say there are three versions of the truth, yours, mine, and what really happened. Nothing has been more true for Instagram. There’s real life, what you see on someone else’s feed, and what they think you’re going to perceive when they post something. Never forget that while social media can be an informative, fun, and great creative and connecting outlet, it can also just be deceiving. It’s someone else, _just like you_, putting content into the world with their personal emotional agenda behind it all. 
 
