@@ -2,7 +2,23 @@
 title: 4 Reasons to Not Let Instagram Comparison Get to You as a Mom
 date: 2019-06-07 03:00:00 -07:00
 categories:
-- Culture
+- Growth
+tags:
+- motherhood
+- influencers
+- baby
+- mom
+- instagram
+- social media
+- social media culture
+- comparison
+- children
+- childhood
+- raising a baby
+- raising child
+- parenting
+- internet
+- personal growth
 author: Bailey Van Tassel
 ---
 
