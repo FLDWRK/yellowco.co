@@ -28,6 +28,8 @@ Mental health awareness continues to be a topic of discussion in the news, among
  
 In the last few years, data has indicated through a variety of research studies that [between 30% and 50%](https://journals.lww.com/joem/Fulltext/2018/04000/Mental_Health_in_the_Workplace___A_Call_to_Action.5.aspx) of all adults in the United States will experience mental illness, or know someone with a mental illness, during some point in their lives. 
 
+![samantha-gades-761358-unsplash-1.jpg](/uploads/samantha-gades-761358-unsplash-1.jpg)
+
 ### Mental health is the foundation of our well-being. 
 
 Humans are the movers and shakers of the business world, and as such, we have the chance to promote awareness and communication within our businesses or workplace. Want to know how? It only going to happen by having the right conversations, creating a culture that’s inclusive of mental health, and knowing how to sustain that culture.
@@ -39,6 +41,8 @@ Almost every time, this conversation begins with you. Maybe you’ve experienced
 #### Creating a Culture That Values Mental Health in Your Workplace 
  
 Once the conversation has started, it will hopefully spread in a way where there is awareness and acceptance of this new movement in your business. Begin to incorporate fun “human” things in your business or workplace that aren’t about work. Create a #randomgoodfeels channel in your Slack group where you can post about the new restaurant in town, or a funny moment you experienced at your workout class. Business leaders: make one-on-one meetings with your employees so they have the space to talk about whatever they may want to talk about; work, family, stress, dreams. Maybe your business needs a makeover of your Employee Assistance Program (EAP). Maybe you need to highlight resources you’ve create to guide your employees. It’s time to make your humans, your coworkers, your people, a bigger priority.
+
+![toa-heftiba-644507-unsplash-1.jpg](/uploads/toa-heftiba-644507-unsplash-1.jpg)
 
 #### Sustaining a Business Culture That Values Mental Health 
 
