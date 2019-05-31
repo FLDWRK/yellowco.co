@@ -3,11 +3,20 @@ title: How to Cultivate Mental Health Awareness and Inclusivity in the Workplace
 date: 2019-06-03 03:00:00 -07:00
 categories:
 - Health
+tags:
+- workplace
+- coworkers
+- mental health
+- mental health issues
+- inclusivity
+- communication
+- conversation
+- awareness
 author: Kristi Triplett Jones
 image: "/uploads/radu-marcusu-498248-unsplash-1.jpg"
 ---
 
- Mental health awareness continues to be a topic of discussion in the news, among our friend groups, our family members, and more. However, where it’s not the most discussed is in the “professional” setting of the workplace. This topic is still known to be “imperfect”, for the focused perfection work space. It’s been known though that the majority of the current adult population spends at the least one-third of their lives at work, which is why _culture_ in a company should be _top priority_. As business owners and employees, there is massive opportunity to create a positive, healthy work/life balance where inclusion around mental health is valued.
+Mental health awareness continues to be a topic of discussion in the news, among our friend groups, our family members, and more. However, where it’s not the most discussed is in the “professional” setting of the workplace. This topic is still known to be “imperfect”, for the focused perfection work space. It’s been known though that the majority of the current adult population spends at the least one-third of their lives at work, which is why _culture_ in a company should be _top priority_. As business owners and employees, there is massive opportunity to create a positive, healthy work/life balance where inclusion around mental health is valued.
  
 In the last few years, data has indicated through a variety of research studies that [between 30% and 50%](https://journals.lww.com/joem/Fulltext/2018/04000/Mental_Health_in_the_Workplace___A_Call_to_Action.5.aspx) of all adults in the United States will experience mental illness, or know someone with a mental illness, during some point in their lives. 
 
