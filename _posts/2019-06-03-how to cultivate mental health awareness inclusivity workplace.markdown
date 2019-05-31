@@ -37,12 +37,12 @@ Humans are the movers and shakers of the business world, and as such, we have th
 #### Having Conversations Around Mental Health Awareness and Inclusion 
 
 Almost every time, this conversation begins with you. Maybe you’ve experienced, or know someone who has experienced, mental health issues. You have the voice to speak up and begin this type of conversation movement. For me, I can recall back to 2015 when I went through a season of depression where I was diagnosed with Major Depressive Disorder – and here I was counseling my own clients. What you may think is “impossible” is many times VERY possible. Going through that season, I now get to share this experience with others; my strengths, my struggles, my wins, my straight fails. Your vulnerability is courageous, and sets the standard for others to open up about their experiences.
+
+![toa-heftiba-644507-unsplash-1.jpg](/uploads/toa-heftiba-644507-unsplash-1.jpg)
  
 #### Creating a Culture That Values Mental Health in Your Workplace 
  
 Once the conversation has started, it will hopefully spread in a way where there is awareness and acceptance of this new movement in your business. Begin to incorporate fun “human” things in your business or workplace that aren’t about work. Create a #randomgoodfeels channel in your Slack group where you can post about the new restaurant in town, or a funny moment you experienced at your workout class. Business leaders: make one-on-one meetings with your employees so they have the space to talk about whatever they may want to talk about; work, family, stress, dreams. Maybe your business needs a makeover of your Employee Assistance Program (EAP). Maybe you need to highlight resources you’ve create to guide your employees. It’s time to make your humans, your coworkers, your people, a bigger priority.
-
-![toa-heftiba-644507-unsplash-1.jpg](/uploads/toa-heftiba-644507-unsplash-1.jpg)
 
 #### Sustaining a Business Culture That Values Mental Health 
 
