@@ -12,6 +12,14 @@ tags:
 - communication
 - conversation
 - awareness
+- boss
+- professional
+- employee
+- leader
+- founder
+- work culture
+- company culture
+- support
 author: Kristi Triplett Jones
 image: "/uploads/radu-marcusu-498248-unsplash-1.jpg"
 ---
