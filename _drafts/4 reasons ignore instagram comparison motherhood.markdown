@@ -20,6 +20,7 @@ tags:
 - internet
 - personal growth
 author: Bailey Van Tassel
+image: "/uploads/sai-de-silva-41029-unsplash-1.jpg"
 ---
 
 First things first, I must assure you that my son will insert a throw-himself-on-the-ground tantrum and/or throw full rolls of toilet paper into any toilet on the best of days. Those are the best of days, not the worst. The worst are way uglier and involve me losing my patience, yelling, threatening, negotiating, forgetting diapers, and rushing us around. That’s the thing. That’s life on the best of days and the worst of days - messy and unpredictable and changing moment by moment. 
@@ -28,11 +29,15 @@ The aforementioned best days with my full-blown terrible-twos-toddler are the on
 
 ### In the era of Instagram, are we even aware of what reality is anymore - of what our emotional agenda is? 
 
+![nathan-dumlao-552249-unsplash-1.jpg](/uploads/nathan-dumlao-552249-unsplash-1.jpg)
+
 We wake up and scroll with one eye open, filling our subconscious up with images of organic cotton baby coordinates and organized nurseries. Of wooden toys that do not light up or make noise, and not a one single mom has a TV on or an iPad out. That alone can kill your motherhood vibe and poison the water in your already-drying-up well of mental capacity. Thinking another mom knows better, is doing better, or has it better. Better is not real to your kids. You have invented that. So why do we do this? Why do we let social media influence us so much as mothers?
 
 #### We are “parenting” and not living. 
 
 I recently listened to a podcast that pointed out that the term “parenting” wasn’t in our culture until the 1950s with the rise of the Dr. Spocks of the world. The reason we felt then, and still feel now, that we need this guidance is because we are raising kids in a much different world. We no longer live multi-generationally with wisdom from the mothers of our mothers to help guide us personally. Families are smaller so we have less experience in our youth helping raise our siblings. Households involve more working parents than stay at home parents, leaving the banality of life at home behind, and showcasing to us that children must be constantly entertained and engaged in provided learning. 
+
+![brina-blum-767639-unsplash-1.jpg](/uploads/brina-blum-767639-unsplash-1.jpg)
 
 #### We think there is a perfect way to do things.
 
@@ -42,11 +47,15 @@ This is not just a motherhood thing, this is a modern life thing. There is no pe
 
 Perfect gives someone else ownership of your heart, and comparison to them is stealing your joy, creativity, and pride. 
 
+![nathan-dumlao-591059-unsplash-1.jpg](/uploads/nathan-dumlao-591059-unsplash-1.jpg)
+
 #### We forget that we are always only getting half of the story. 
 
 They say there are three versions of the truth, yours, mine, and what really happened. Nothing has been more true for Instagram. There’s real life, what you see on someone else’s feed, and what they think you’re going to perceive when they post something. Never forget that while social media can be an informative, fun, and great creative and connecting outlet, it can also just be deceiving. It’s someone else, _just like you_, putting content into the world with their personal emotional agenda behind it all. 
 
 When I find myself feeling low and "fraudy" because of someone’s Instagram, I immediately think: a) Why am I following this person, and do I need to be? b) This is not my truth. My truth is different, and that’s a good thing. 
+
+![brytny-com-616575-unsplash-1.jpg](/uploads/brytny-com-616575-unsplash-1.jpg)
 
 #### We like labels.
 
