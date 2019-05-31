@@ -10,9 +10,9 @@ First things first, I must assure you that my son will insert a throw-himself-on
 
 The aforementioned best days with my full-blown terrible-twos-toddler are the ones where I have no emotional agenda. We usually have some things on the calendar, but from an emotional perspective when I have a clear mind and can be present with him to let his needs and moods, mixed with my own needs and moods, dictate the rhythm of the day is when I have the most chilled out zen motherhood days. These beautiful days are not dependent on if I work or stay home, if I have decided to homeschool or do private school, or send my litte one one off to daycare or out with a nanny. They aren’t dependent on much more than my decision each day to being on my mental A-game. To be my best self, my authentic and natural self. My sometimes we watch Peppa Pig self. 
 
-In the era of Instagram, are we even aware of what reality is anymore - of what our emotional agenda is? We wake up and scroll with one eye open, filling our subconscious up with images of organic cotton baby coordinates and organized nurseries. Of wooden toys that do not light up or make noise, and not a one single mom has a TV on or an iPad out. That alone can kill your motherhood vibe and poison the water in your already-drying-up well of mental capacity. Thinking another mom knows better, is doing better, or has it better. Better is not real to your kids. You have invented that. 
+### In the era of Instagram, are we even aware of what reality is anymore - of what our emotional agenda is? 
 
-So why do we do this? Why do we let social media influence us so much as mothers?
+We wake up and scroll with one eye open, filling our subconscious up with images of organic cotton baby coordinates and organized nurseries. Of wooden toys that do not light up or make noise, and not a one single mom has a TV on or an iPad out. That alone can kill your motherhood vibe and poison the water in your already-drying-up well of mental capacity. Thinking another mom knows better, is doing better, or has it better. Better is not real to your kids. You have invented that. So why do we do this? Why do we let social media influence us so much as mothers?
 
 #### We are “parenting” and not living. 
 
