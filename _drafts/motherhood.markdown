@@ -1,5 +1,5 @@
 ---
-title: motherhood
+title: 4 Reasons to Not Let Instagram Comparison Get to You as a Mom
 date: 2019-06-07 03:00:00 -07:00
 categories:
 - Culture
