@@ -1,5 +1,6 @@
 ---
-title: dgd
+title: 'Spreading Social Justice with Storytelling: Meet Do-Good Dozen Winner Jacqueline
+  Romano'
 date: 2019-06-05 03:00:00 -07:00
 tags:
 - do-good dozen
@@ -65,7 +66,7 @@ I’ve recently began to do daily work on getting reconnected to my self worth/l
 
 I love this question, because after studying all of these individuals for Blindfold, and working consistently on myself to continue on my own path, it has made it more effortless to guide people who are trying to discover how they can use their tools and gifts in the work they do. I think the key is truly going inward. 
 
-### Ask yourself what you can do to connect with your true self; the person you are without any fears, pain, anger, and resentments that may have built up over the years. 
+### Ask yourself what you can do to connect with your true self; the person you are without any fears, pain, anger, or resentment that may have built up over the years. 
 
 Connect with that inner person to discover what gets your heart pumping each day. Take what you learn, and you will find that creative spark of the ways in which you can implement it into your life.
 
@@ -76,6 +77,8 @@ Connect with that inner person to discover what gets your heart pumping each day
 In 2013, Blindfold [published an article on a young activist named Alezandra Russell](https://blindfoldmag.com/snuffing-the-red-light-urban-lights-mission/). We highlighted her journey in founding her non-profit organization Urban Light, as part of her fight to empower at-risk boys in Thailand to live a life outside of sex trafficking and exploitation. I was so impressed by her fearlessness and passion that I felt called to do my part in sharing her story even further. So, what started as a short-form documentary on the work that Alezandra and Urban Light are doing, has turned into years of research and development for a full-length documentary film I am now directing. 
 
 The premise has expanded to not only telling the stories of at-risk young males who are exploited, abused, and trafficked within the sex tourism industry of Thailand, but also calls out the social violence that perpetuates this ongoing issue and follows the activists who are fighting to give these boys the justice they desperately need. After years of powering through the development stage, I came to realize that in order to have the strength to continue on with this film, I had to face my own history with sexual violence and abuse.
+
+![2019-JacquelineRomano00005-1.jpg](/uploads/2019-JacquelineRomano00005-1.jpg)
 
 Like the boys, I felt silenced by those who violated me, and by the people whom I reported the violations to. Knowing that I can help this film touch a wider audience of people by being somewhat open about my own experiences, and the healing work that has transpired as a result of taking this project on, gives me an extra push. The goal has always been to call out social injustices, while showing that there is a way to stand up for this population of disregarded boys. 
 
