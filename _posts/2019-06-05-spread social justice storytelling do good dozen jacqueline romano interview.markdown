@@ -26,7 +26,7 @@ author: Kathryn Parrish
 image: "/uploads/jacqueline.jpg"
 ---
 
-_We asked the Yellow community (you!) to help us find our [Do-Good Dozen](https://yellowcollective.lpages.co/do-good-dozen/) winner for the month of June, and were blown away by the amazing women you introduced us to. Described as compassionate, driven, and creative by those that nominated her, [Jacqueline Romano](https://www.jacquelineromano.com/) stood out to us as we learned more about her work at [Blindfold Magazine](https://blindfoldmag.com/) and sharing of her own story to help others heal. Through visual storytelling on their digital platform, Blindfold shows there is no one-size-fits-all answer to bettering the world, and we couldn’t agree more. Jacqueline believes she was given her gifts, “To use as a tool to connect people through story, to give hope, and guide people who want to take action to their purpose." Read on to hear how this month’s Do-Good Dozen winner navigates her way from her personal interests and skills to sharing them with the world and becoming a voice for others in her documentary filmmaking._ 
+_We asked the Yellow community (you!) to help us find our [Do-Good Dozen](https://yellowcollective.lpages.co/do-good-dozen/) winner for the month of June, and were blown away by the amazing women you introduced us to. Described as compassionate, driven, and creative by those that nominated her, [Jacqueline Romano](https://www.jacquelineromano.com/) stood out to us as we learned more about her work at [Blindfold Magazine](https://blindfoldmag.com/) and sharing of her own story to help others heal. Through visual storytelling on their digital platform, Blindfold shows there is no one-size-fits-all answer to bettering the world, and we couldn’t agree more. Jacqueline believes she was given her gifts, “To use as a tool to connect people through story, to give hope, and guide people who want to take action to their purpose." Read on to hear how this month’s Do-Good Dozen winner navigates sharing her personal interests and skills with the world and becoming a voice for others through documentary filmmaking._ 
 
 ###### Tell us a little about yourself and how your interest in documentary filmmaking began. 
 
@@ -70,7 +70,7 @@ I love this question, because after studying all of these individuals for Blindf
 
 ### Ask yourself what you can do to connect with your true self; the person you are without any fears, pain, anger, or resentment that may have built up over the years. 
 
-Connect with that inner person to discover what gets your heart pumping each day. Take what you learn, and you will find that creative spark of the ways in which you can implement it into your life.
+Connect with that inner person to discover what gets your heart pumping each day. Take what you learn, and you will find that creative spark that reveals the ways in which you can implement your true self into your work.
 
 ![BTS-JacquelineRomano00002-1.jpg](/uploads/BTS-JacquelineRomano00002-1.jpg)
 
