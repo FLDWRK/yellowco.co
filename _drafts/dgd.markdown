@@ -1,6 +1,24 @@
 ---
 title: dgd
 date: 2019-06-05 03:00:00 -07:00
+tags:
+- do-good dozen
+- yellow do-good dozen
+- socially conscious
+- filmmaker
+- blindfold magazine
+- freelancer
+- editor
+- producer
+- film
+- documentary
+- social impact
+- interview
+- creative women
+- storytelling
+- photographer
+- personal growth
+- self discovery
 author: Kathryn Parrish
 image: "/uploads/JACQUELINE-ROMANO.jpg"
 ---
@@ -49,7 +67,7 @@ I love this question, because after studying all of these individuals for Blindf
 
 ### Ask yourself what you can do to connect with your true self; the person you are without any fears, pain, anger, and resentments that may have built up over the years. 
 
-Connect with that inner person to discover what gets your heart pumping each day.  Take what you learn, and you will find that creative spark of the ways in which you can implement it into your life.
+Connect with that inner person to discover what gets your heart pumping each day. Take what you learn, and you will find that creative spark of the ways in which you can implement it into your life.
 
 ![BTS-JacquelineRomano00002-1.jpg](/uploads/BTS-JacquelineRomano00002-1.jpg)
 
