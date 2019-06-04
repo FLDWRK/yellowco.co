@@ -13,6 +13,8 @@ From a young age, I always had a strong desire to use my creativity to bring awa
 
 ### When I eventually picked up a camera in high school, it clicked that I could use this creative tool to connect people to other human experiences through documentary filmmaking, especially in the realm of social justice and awareness.
 
+![2019-JacquelineRomano00006-1.jpg](/uploads/2019-JacquelineRomano00006-1.jpg)
+
 ###### What does your daily work at Blindfold Magazine look like? 
 
 I am surrounded by an amazing team of contributors and interns who support the growth of our storytelling platform, and who are also excited for the impact it is having on our audience. Every day is variable to the next. Some days are spent interviewing activists, advocates, and thought leaders for our written articles, some are spent producing and directing content for our “Mini-Doc” series. Other days are spent creating promotional materials, or brainstorming new ideas for who we will interview or collaborate with. Our goal is always to deliver authentic and inspirational content in an engaging way.
@@ -21,13 +23,15 @@ I am surrounded by an amazing team of contributors and interns who support the g
 
 In my opinion, a socially conscious person is an individual who is committed to using their ideas, passions, and tools to contribute to the greater good of our planet, and all who call it home. This can be viewed in a wide spectrum, ranging from what might be viewed as the most simple contributions, to a much wider scale of impact. What it always comes to, especially when considering who we highlight on [blindfoldmag.com](https://blindfoldmag.com/), is someone who embodies conscious awareness, authenticity, and the spreading of love.
 
+![2019-JacquelineRomano00002-1.jpg](/uploads/2019-JacquelineRomano00002-1.jpg)
+
 ###### We learned from the women who nominated you that you mentor others in photography, videography, and filmmaking. What has mentoring taught you? How do you instill in those you mentor that their talent and skills can contribute to the betterment of the world? 
 
 It has taught me love, acceptance, and patience. I find that I have a strong pull toward wanting to being someone who people can come to for truth, for motivation, and for advice when they are ready to step into their true calling. In order for me to do this, I make a daily conscious effort to empower myself, so that I can also lead by example. I encourage them to remember their inner greatness. 
 
-### No one is expecting anyone to change the world on their own, that is a collaborative effort. 
+### No one is expecting anyone to change the world on their own, that is a collaborative effort. They are amazing just by doing their part with what’s true for them.
 
-They are amazing just by doing their part with what’s true for them. 
+![BTS-JacquelineRomano00011-1.jpg](/uploads/BTS-JacquelineRomano00011-1.jpg)
 
 ###### What company, brand, or individual are you currently inspired by? Why?
 
@@ -37,9 +41,17 @@ This really is always amending, as I am always meeting new individuals who inspi
 
 I’ve recently began to do daily work on getting reconnected to my self worth/love and making a commitment to empowering myself so that I can be more loving to all beings, and more authentic to who I am. Being authentic can make a big impact on others around you, and can also show people that it is powerful to be yourself. Using meditation and gratitude practices, keeping my mind and body healthy through the food I eat, and staying active with yoga, muay thai, and cycling, have all helped me to stay on track with being my best self.
 
+![2019-JacquelineRomano00004-1.jpg](/uploads/2019-JacquelineRomano00004-1.jpg)
+
 ###### What advice would you give to those trying to merge who they are with the work that they do?
 
-I love this question, because after studying all of these individuals for Blindfold, and working consistently on myself to continue on my own path, it has made it more effortless to guide people who are trying to discover how they can use their tools and gifts in the work they do. I think the key is truly going inward. You ask yourself what you can do to connect with your true self, the person you are without any fears, without the pain, anger, and resentments that may have built up over the years. Connect with that inner person to discover what gets your heart pumping each day.  Take what you learn, and you will find that creative spark of the ways in which you can implement it into your life.
+I love this question, because after studying all of these individuals for Blindfold, and working consistently on myself to continue on my own path, it has made it more effortless to guide people who are trying to discover how they can use their tools and gifts in the work they do. I think the key is truly going inward. 
+
+### Ask yourself what you can do to connect with your true self; the person you are without any fears, pain, anger, and resentments that may have built up over the years. 
+
+Connect with that inner person to discover what gets your heart pumping each day.  Take what you learn, and you will find that creative spark of the ways in which you can implement it into your life.
+
+![BTS-JacquelineRomano00002-1.jpg](/uploads/BTS-JacquelineRomano00002-1.jpg)
 
 ###### As a storyteller, have there been any social issues that you felt compelled to tell on your own before waiting for it to come to you as a "job"? 
 
@@ -50,5 +62,7 @@ The premise has expanded to not only telling the stories of at-risk young males 
 Like the boys, I felt silenced by those who violated me, and by the people whom I reported the violations to. Knowing that I can help this film touch a wider audience of people by being somewhat open about my own experiences, and the healing work that has transpired as a result of taking this project on, gives me an extra push. The goal has always been to call out social injustices, while showing that there is a way to stand up for this population of disregarded boys. 
 
 ### What I didn’t realize when I first started working on this film was that by telling the stories of these boys' experiences, and now my own, it could also help anyone watching to find hope and an opportunity for healing.
+
+<br>
 
 _Illustration by [Hanna Snyder](http://hancreative.co/) for Yellow Co., Photos courtesy of [Jacqueline Romano](https://www.jacquelineromano.com/)_
