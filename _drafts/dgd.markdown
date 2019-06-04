@@ -2,6 +2,8 @@
 title: 'Spreading Social Justice with Storytelling: Meet Do-Good Dozen Winner Jacqueline
   Romano'
 date: 2019-06-05 03:00:00 -07:00
+categories:
+- Conscious Living
 tags:
 - do-good dozen
 - yellow do-good dozen
