@@ -1,5 +1,5 @@
 ---
-title: Try These Super Practical & Effective Ways to Empower Your Employees (Rather
+title: Try These Super Practical & Effective Tips to Empower Your Employees (Rather
   Than Micromanage)
 date: 2019-06-12 03:00:00 -07:00
 categories:
