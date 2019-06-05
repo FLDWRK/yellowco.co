@@ -1,5 +1,6 @@
 ---
-title: Jade Purple Brown
+title: 'How This Illustrator Created Her Dream Career with a Non-Traditional Path:
+  An Interview with Jade Purple Brown'
 date: 2019-06-10 03:00:00 -07:00
 categories:
 - Entrepreneurs
@@ -19,6 +20,10 @@ tags:
 - meaningful work
 - create meaningful work
 - inspiration
+- traditional career
+- career path
+- non-traditional
+- non-linear
 author: Melanie Loon
 image: "/uploads/JadePurpleBrown.png"
 ---
