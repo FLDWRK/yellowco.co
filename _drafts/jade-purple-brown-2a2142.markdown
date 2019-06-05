@@ -25,11 +25,17 @@ Definitely! The dynamic, confident figures I draw inspire me to show up fully in
  
 ###### From creative career myths about timelines of progress to what opportunities are available, there are so many floating around! What’s been the biggest myth solved in your career so far?
  
-The biggest misconception I’ve busted is that you have to follow a linear path in order to be successful in the design world. I didn’t go to school for art and design, I learned pretty much everything I know from researching online and reading books and I’ve never had an internship at an influential company. I practiced my ass off, and through a lot of trial and error, I was able to carve out a career that made sense for me. I’ve learned that if you really want something you don’t always have to take the traditional route in order to get it. 
+The biggest misconception I’ve busted is that you have to follow a linear path in order to be successful in the design world. I didn’t go to school for art and design, I learned pretty much everything I know from researching online and reading books and I’ve never had an internship at an influential company. I practiced my ass off, and through a lot of trial and error, I was able to carve out a career that made sense for me. 
+
+### I’ve learned that if you really want something you don’t always have to take the traditional route in order to get it. 
  
 ###### On your website you mention that your art helps encourage yourself and others to be more optimistic and free. What was the turning point when you realized your art could do that?
  
-Creating art has always been an escape for me. It gives me the opportunity to slow down and reflect, almost like a form of meditation. I try to create art that represents how I want to feel, even though at that very moment I may be feeling my down, dealing with a tough situation. Whenever I finish a piece I always feel better than when I first started, which is a big reason why I enjoy creating fresh new things. Getting positive feedback when I share my work online has also been very telling. It’s made me realize that my work could be healing and encouraging for others too!
+Creating art has always been an escape for me. It gives me the opportunity to slow down and reflect, almost like a form of meditation. I try to create art that represents how I want to feel, even though at that very moment I may be feeling my down, dealing with a tough situation. 
+
+### Whenever I finish a piece I always feel better than when I first started, which is a big reason why I enjoy creating fresh new things. 
+
+Getting positive feedback when I share my work online has also been very telling. It’s made me realize that my work could be healing and encouraging for others too!
  
 ###### Focus tends to be, well, not always the creative’s most natural-born strong suit, but it looks like a high value of yours. How do you put that discipline into practice and how does it feed your creativity?
  
