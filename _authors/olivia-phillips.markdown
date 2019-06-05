@@ -1,7 +1,7 @@
 ---
 title: Liv Phillips
 date: 2019-01-22 14:13:00 -08:00
-bio_image: "/uploads/Olivia%20Phillips%20Stand-in%20Headshot.png"
+bio_image: "/uploads/liv-2.jpg"
 website: https://wilkmazz.com/about-us/
 ---
 
