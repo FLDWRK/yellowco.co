@@ -20,6 +20,7 @@ tags:
 - create meaningful work
 - inspiration
 author: Melanie Loon
+image: "/uploads/JadePurpleBrown.png"
 ---
 
 _For the artist, to make is to share the lens with which one sees the world. The lens chosen by [Jade Purple Brown](http://www.jadepurplebrown.com/), an illustrator and art director, is alive with bold hues. Counting companies like Apple, Google, Refinery29, Chronicle Books, and Moroccanoil as clients, Jade writes that she creates to encourage “herself and others to be more optimistic and free.” In her figure drawings, women appear with strong stances, relaxed charisma, and a sense of looking forward. How does a creative mark both their style and career growth with this sense of forward movement? I asked Jade._
