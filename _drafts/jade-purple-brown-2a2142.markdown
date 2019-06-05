@@ -3,6 +3,22 @@ title: Jade Purple Brown
 date: 2019-06-10 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- jade purple brown
+- illustrator
+- instagram
+- women of color
+- artists
+- entrepreneur
+- art director
+- visual design
+- branding
+- freedom
+- positivity
+- career
+- meaningful work
+- create meaningful work
+- inspiration
 author: Melanie Loon
 ---
 
