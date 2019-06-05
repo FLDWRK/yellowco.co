@@ -5,8 +5,6 @@ body-class: home
 banners:
 - link: https://yellowcollective.lpages.co/weekend-workshop/
   image: "/uploads/Weekend-Workshop.jpg"
-- link: https://yellowcollective.lpages.co/retreats/#two-column[1
-  image: "/uploads/Enneagram-REtreat.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 - link: 
