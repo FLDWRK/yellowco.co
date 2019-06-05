@@ -4,6 +4,7 @@ date: 2019-06-12 03:00:00 -07:00
 categories:
 - Relationships
 author: Liv Phillips
+image: "/uploads/you-x-ventures-1442657-unsplash-1.jpg"
 ---
 
 As an employer, you’ve got a lot on your plate. You need to make sure your clients are happy, the day-to-day tedium is managed, and that your employees are empowered to help you make it all happen. But creating a culture of empowerment doesn’t just happen overnight; it takes conscious effort to show your employees that they’re trusted, respected, and important. 
