@@ -5,17 +5,15 @@ body-class: home
 banners:
 - link: https://yellowcollective.lpages.co/weekend-workshop/
   image: "/uploads/Weekend-Workshop.jpg"
+- link: https://thehoxton.com/hoxtown/events/enneagram-biz-n-fizz
+  image: "/uploads/Enneagram-Panel.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
-- link: 
-  image: 
 sm-banners:
-- link: https://yellowco.co/new-york/
-  image: "/uploads/YELLOW-NY-Header-SM.jpg"
 - link: https://yellowcollective.lpages.co/weekend-workshop/
   image: "/uploads/Weekend-Workshop-sm.jpg"
-- link: https://yellowcollective.lpages.co/retreats/#two-column[1
-  image: "/uploads/Enneagram-REtreat-SM.jpg"
+- link: https://thehoxton.com/hoxtown/events/enneagram-biz-n-fizz
+  image: "/uploads/Enneagram-Panel-sm.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
 buttons:
