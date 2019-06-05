@@ -48,7 +48,7 @@ In my opinion, a socially conscious person is an individual who is committed to 
 
 ###### We learned from the women who nominated you that you mentor others in photography, videography, and filmmaking. What has mentoring taught you? How do you instill in those you mentor that their talent and skills can contribute to the betterment of the world? 
 
-It has taught me love, acceptance, and patience. I find that I have a strong pull toward wanting to being someone who people can come to for truth, for motivation, and for advice when they are ready to step into their true calling. In order for me to do this, I make a daily conscious effort to empower myself, so that I can also lead by example. I encourage them to remember their inner greatness. 
+It has taught me love, acceptance, and patience. I find that I have a strong pull toward wanting to be someone who people can come to for truth, for motivation, and for advice when they are ready to step into their true calling. In order for me to do this, I make a daily conscious effort to empower myself, so that I can also lead by example. I encourage them to remember their inner greatness. 
 
 ### No one is expecting anyone to change the world on their own, that is a collaborative effort. They are amazing just by doing their part with what’s true for them.
 
