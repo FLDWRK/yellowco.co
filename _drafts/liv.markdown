@@ -25,10 +25,11 @@ There’s no one right way to hold a performance review; the frequency and type 
 My first tip is to make sure you’re creating “SMART” goals together. SMART is an acronym for Specific, Measurable, Achievable, Relevant and Time-Bound. Meaning, don’t just say “in the first 90 days, we want to see growth,” because duh. 
 
 Here’s an example of a SMART goal for an employee in a sales position for a small store that sells skincare products: in the first 90 days, the employee should make at least 12 sales totaling at least $1,000 worth of product. Let’s break this down: 
-This goal is specific and measurable-- there are 3 different sets of numbers that form a metric here. 
-It’s achievable-- that’s about 1 sale a week, or about $84 worth of sales on average per week. 
-It’s relevant-- if it’s a sales job, it makes sense to measure the goal via sales (rather than say, cleaning the store). 
-It’s time-bound-- it sets a 90 day benchmark, which enables the employee calculate those weekly averages I just mentioned and helps them make sure they’re on track to succeed.
+
+- This goal is specific and measurable: There are 3 different sets of numbers that form a metric here. 
+- It’s achievable: That’s about 1 sale a week, or about $84 worth of sales on average per week. 
+- It’s relevant: If it’s a sales job, it makes sense to measure the goal via sales (rather than say, cleaning the store). 
+- It’s time-bound: It sets a 90 day benchmark, which enables the employee calculate those weekly averages I just mentioned and helps them make sure they’re on track to succeed.
 
 By creating SMART goals, your employees can work with a clear mission in mind and have accountability for their roles, motivating them to work efficiently and enthusiastically. SMART goals also help you make unbiased, objective formal evaluations, which can protect you in the unfortunate event that your professional relationship ever comes to an end. 
 
