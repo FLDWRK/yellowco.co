@@ -1,9 +1,37 @@
 ---
-title: Try These Super Practical & Effective Tips to Empower Your Employees (Rather
-  Than Micromanage)
+title: Super Practical & Effective Tips to Empower Your Employees (Rather Than Micromanage)
 date: 2019-06-12 03:00:00 -07:00
 categories:
 - Relationships
+tags:
+- leadership
+- employees
+- business owner
+- small business
+- entrepreneur
+- owner
+- manager
+- leader
+- tips
+- advice
+- performance review
+- empower
+- coworkers
+- team
+- work culture
+- relationships
+- performance management
+- structure
+- system
+- tools
+- review
+- goal setting
+- goals
+- measurable goals
+- create goals
+- practical
+- feedback
+- communication
 author: Liv Phillips
 image: "/uploads/you-x-ventures-1442657-unsplash-1.jpg"
 ---
@@ -14,6 +42,8 @@ As an employer, you’ve got a lot on your plate. You need to make sure your cli
 
 What’s a performance management system? It’s just a fancy way of saying that you have a plan for reviewing your employees’ work and for communicating with them about their successes, areas for growth, and the company in general. 
 
+![avel-chuklanov-1491018-unsplash-1.jpg](/uploads/avel-chuklanov-1491018-unsplash-1.jpg)
+
 #### Give Your Employees the Tools They Need to Thrive
 
 Before going any further, please jot this down: a performance management system is not code for micromanagement. Micromanaging is not only terribly inefficient, it also makes your employees less likely to enjoy their jobs (shocker), leading to lack of motivation and higher turnover, which is more money out of your business’s bank account. Why would you want a system in place that does _that?!_
@@ -21,6 +51,8 @@ Before going any further, please jot this down: a performance management system 
 No no, my friends. An _effective_ performance management system empowers your employees by providing clarity and accountability toward performance objectives, evaluating performance fairly and consistently, giving them tools and tips for growth and learning opportunities, and recognizing stellar performance. If you have a system that does these four things, you won’t need to micromanage, because your employees will have this shiz on lock.
 
 Okay, I’ll stop waxing poetic about how a performance management system should theoretically work; let’s get practical. A performance management system should consist of two-way communication between the employee and the employer. This usually means (1) regular performance reviews that the employer schedules, as well as (2) the ongoing opportunity for the employee to give feedback as often as needed. First, I’ll break down the performance review; then, we’ll talk about creating a feedback system.
+
+![brooke-cagle-1181684-unsplash-1.jpg](/uploads/brooke-cagle-1181684-unsplash-1.jpg)
 
 #### The Performance Review
 
@@ -35,6 +67,8 @@ Meaning, don’t just say, “In the first 90 days, we want to see growth,” be
 - **It’s relevant:** If it’s a sales job, it makes sense to measure the goal via sales (rather than say, cleaning the store). 
 - **It’s time-bound:** It sets a 90 day benchmark, which enables the employee calculate those weekly averages I just mentioned and helps them make sure they’re on track to succeed.
 
+![avel-chuklanov-1491019-unsplash-1.jpg](/uploads/avel-chuklanov-1491019-unsplash-1.jpg)
+
 By creating SMART goals, your employees can work with a clear mission in mind and have accountability for their roles, motivating them to work efficiently and enthusiastically. SMART goals also help you make unbiased, objective formal evaluations, which can protect you in the unfortunate event that your professional relationship ever comes to an end. 
 
 My second tip is to establish company values and integrate them into the performance review. Ideally, when you form your business, you should commit your company’s core values to paper. If you didn’t do this at the start of your business, you should do this when you make your first hire. If you’ve already made your first hire, well… there’s no time like the present! 
@@ -45,6 +79,8 @@ If one of your values is joy, and an employee has been particularly chipper and 
 
 Giving feedback during a performance review is only one part of the equation in ensuring your employees feel empowered; it’s equally important to _receive_ feedback. So what if an employee isn’t quite living up to your company values? That’s one place where listening comes in handy. 
 
+![avel-chuklanov-1491019-unsplash-1.jpg](/uploads/avel-chuklanov-1491019-unsplash-1.jpg)
+
 #### The Feedback System
 
 If you have an employee who you believe is not living up to your company values, talk it out and be receptive to feedback. You can say that their behavior doesn’t appear to be in line with company values, but let them respond and listen to their side of the situation. And don’t make this conversation negative or personal, because who can give honest feedback in that kind of situation? 
@@ -52,6 +88,8 @@ If you have an employee who you believe is not living up to your company values,
 For example, if one of your values is community, but you have an employee who doesn’t participate in company outings, rather than asserting that they aren’t a team player, ask them what community looks like to them and what the company could do to improve in this aspect. 
 
 ### If the feedback is constructive, you may be able to create a more inclusive workplace, which means happier employees, and happier employees means employees who will take ownership over their roles and help the business thrive. 
+
+![jeff-sheldon-3231-unsplash (1)-1.jpg](/uploads/jeff-sheldon-3231-unsplash%20(1)-1.jpg)
 
 The ability to give feedback during a performance review is important, but ideally, your employees know that they’re _always_ encouraged to speak up about what they’re experiencing in the workplace. Create an open line of communication by leveraging technology and giving your employees the ability to submit feedback in real time. I love using Google Forms to do this (#notsponsored), because if you’re already working through Google’s platforms, it’s very easy to integrate, there’s no additional cost, and responses can be submitted anonymously. Super efficient! Be sure to note how to use this digital feedback system (and include the URL) in your employee handbook and remind your employees at every opportunity that their feedback is valued. 
 
