@@ -37,7 +37,11 @@ When I first aligned Dressember with anti-trafficking (in 2013), I had no idea a
 
 ###### What has been your greatest struggle in growing the Dressember Foundation?
 
-The first couple years were thrilling: Dressember grew so much, and so fast. The movement is still growing, but the rate of growth has slowed down a bit. I think the struggle in this work--and in any social good work-- is staying in the game even when things aren’t exciting. This work is a labor of love for me; if I were doing it just when I felt like it or when it was exciting and energizing, I would have quit a long time ago. I’m lucky now to have an incredible team of staff, volunteers, interns, and contractors who help keep Dressember moving and growing-- in the early days it was just me and an accountant! It’s amazing what a solid team has done to help Dressember mature and evolve. 
+The first couple years were thrilling: Dressember grew so much, and so fast. The movement is still growing, but the rate of growth has slowed down a bit. 
+
+### I think the struggle in this work - and in any social good work - is staying in the game even when things aren’t exciting. 
+
+This work is a labor of love for me; if I were doing it just when I felt like it or when it was exciting and energizing, I would have quit a long time ago. I’m lucky now to have an incredible team of staff, volunteers, interns, and contractors who help keep Dressember moving and growing-- in the early days it was just me and an accountant! It’s amazing what a solid team has done to help Dressember mature and evolve. 
 
 ###### What has been your proudest moment to date as a founder?
 
@@ -53,7 +57,9 @@ There have been so many people who have impacted me and helped me as I carve my 
 
 ###### What are your hopes for the future of Dressember?
 
-I’d love to see the Dressember community continue to grow, and to see our impact grow along with it. There is the tangible impact we can make through programmatic funding, awareness, and education, and the intangible impact of spreading dignity to women worldwide, and dismantling systemic misogyny in all its forms. My ultimate goal is to see an end to trafficking, and to create a world where every woman and girl is convinced of her worth, and free to live a vibrant, autonomous life physically, spiritually, emotionally, and mentally. 
+I’d love to see the Dressember community continue to grow, and to see our impact grow along with it. There is the tangible impact we can make through programmatic funding, awareness, and education, and the intangible impact of spreading dignity to women worldwide, and dismantling systemic misogyny in all its forms. 
+
+### My ultimate goal is to see an end to trafficking, and to create a world where every woman and girl is convinced of her worth, and free to live a vibrant, autonomous life physically, spiritually, emotionally, and mentally. 
 
 ![Blythe headshot option PC_ Jordan Sabolick.jpg](/uploads/Blythe%20headshot%20option%20PC_%20Jordan%20Sabolick.jpg)
 
