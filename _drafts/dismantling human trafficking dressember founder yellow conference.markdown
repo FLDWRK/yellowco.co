@@ -76,7 +76,7 @@ I also feel so proud of my staff! I am currently out on maternity leave and I ca
 
 There have been so many people who have impacted me and helped me as I carve my own path, but there is one person who has been the most significant: my best friend and my husband, Jordan Sabolick. Jordan has taught me what it means to love; to stay in the fight even when things are difficult. He’s modeled empathy and patience for me even as I’ve broken his heart. He’s shown me what it means to live a life led by joy and punctuated with hope; he is one of the most joyful, optimistic people I know. He is encouraging to a fault, my number one cheerleader, and makes me feel special and beautiful even when I’m at my lowest. Dressember wouldn’t exist without him. 
 
--
+![Blythe at her computer with the team -- PC_ Funraise.jpg](/uploads/Blythe%20at%20her%20computer%20with%20the%20team%20--%20PC_%20Funraise.jpg)
 
 ###### What are your hopes for the future of Dressember?
 
