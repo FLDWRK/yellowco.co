@@ -27,7 +27,7 @@ The programs we are funding are increasing the rate of interception, increasing 
 
 ###### What times of transition in your life have proved most important to get you where you are now? 
 
-College and transitioning out of college were both important times for me. Looking back, it was an incredibly frustrating season-- I felt I had so much passion and so much to give, but not much to prove it. I also didn’t have a specific vision or path I wanted to pursue. I was passionate about anti-trafficking, but felt totally unqualified to engage in the fight. I started Dressember while I was in grad school, and it’s still amaing to me that something I created out of boredom took on this life of its own and has become a global community of people who, like me, have felt passionate but powerless. 
+College and transitioning out of college were both important times for me. Looking back, it was an incredibly frustrating season - I felt I had so much passion and so much to give, but not much to prove it. I also didn’t have a specific vision or path I wanted to pursue. I was passionate about anti-trafficking, but felt totally unqualified to engage in the fight. I started Dressember while I was in grad school, and it’s still amazing to me that something I created out of boredom took on this life of its own and has become a global community of people who, like me, have felt passionate but powerless. 
 
 ###### Can you share about a moment in which you took action to align your values with the work that you do? Did that come with any sacrifices?
 
@@ -41,13 +41,13 @@ The first couple years were thrilling: Dressember grew so much, and so fast. The
 
 ### I think the struggle in this work - and in any social good work - is staying in the game even when things aren’t exciting. 
 
-This work is a labor of love for me; if I were doing it just when I felt like it or when it was exciting and energizing, I would have quit a long time ago. I’m lucky now to have an incredible team of staff, volunteers, interns, and contractors who help keep Dressember moving and growing-- in the early days it was just me and an accountant! It’s amazing what a solid team has done to help Dressember mature and evolve. 
+This work is a labor of love for me; if I were doing it just when I felt like it or when it was exciting and energizing, I would have quit a long time ago. I’m lucky now to have an incredible team of staff, volunteers, interns, and contractors who help keep Dressember moving and growing - in the early days it was just me and an accountant! It’s amazing what a solid team has done to help Dressember mature and evolve. 
 
 ###### What has been your proudest moment to date as a founder?
 
-I was able to give a TEDx talk in 2015; that still stands out in my mind as a huge milestone and accomplishment. TED is a huge platform, and having that talk under my belt has opened other doors to share about the Dressember story and mission. 
+I was able to give a [TEDx talk](https://www.youtube.com/watch?v=MGuTpWTcSE8) in 2015; that still stands out in my mind as a huge milestone and accomplishment. TED is a huge platform, and having that talk under my belt has opened other doors to share about the Dressember story and mission. 
 
-I also feel so proud of my staff! I am out on maternity leave and I can’t tell you how much it means to not worry for one second that my team is capable to handle everything while I’m out. After working basically alone for four years, I don’t take the fact that I have such an incredible and capable team for granted. 
+I also feel so proud of my staff! I am currently out on maternity leave and I can’t tell you how much it means to not worry for one second that my team is capable to handle everything while I’m out. After working basically alone for four years, I don’t take the fact that I have such an incredible and capable team for granted. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGuTpWTcSE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -63,8 +63,8 @@ I’d love to see the Dressember community continue to grow, and to see our impa
 
 ![Blythe headshot option PC_ Jordan Sabolick.jpg](/uploads/Blythe%20headshot%20option%20PC_%20Jordan%20Sabolick.jpg)
 
-###### What are you most looking forward to sharing at the Yellow Conference?
+###### What are you most looking forward to sharing at the [Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) as a speaker?
 
-I’ve attended Yellow the past two years, and am honored to take the stage and get a chance to share my story and what I’ve learned along the way. I’m excited to share how Dressember started, and hope my story inspires others to use their unique gifts to engage in their passions and build a more socially just world.
+I’ve attended the [Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) for the past two years, and am honored to take the stage and get a chance to share my story and what I’ve learned along the way. I’m excited to share how Dressember started, and hope my story inspires others to use their unique gifts to engage in their passions and build a more socially just world.
 
 _Photos courtesy of [Dressember](https://www.dressember.org/)_
