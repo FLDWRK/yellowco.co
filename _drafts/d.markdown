@@ -33,7 +33,7 @@ College and transitioning out of college were both important times for me. Looki
 
 When I first aligned Dressember with anti-trafficking (in 2013), I had no idea about the overlap between slavery and the apparel industry. Someone wrote us on Twitter to point out, in a rather kind way, that if we aren’t encouraging our community to wear ethically produced dresses during the campaign, there is an unfortunate irony behind our movement. That was a game changing moment for me: I had to completely change the way I shop, and the things I value in what I purchase. I began taking baby steps: first eliminating fast fashion brands, then slowly moving toward second hand/vintage clothing, and toward buying fair trade and ethically made items. It’s changed my relationship with clothing; instead of viewing clothing as disposable and pursuing trends as they come and go, I buy less and try to only buy items that will last several years. We’ve also built ethical fashion education into our Dressember messaging and resources to gently guide our community toward viewing their purchasing power in a new way. 
 
-![Blythe in her home -- PC_ Funraise-701ccd.jpg](/uploads/Blythe%20in%20her%20home%20--%20PC_%20Funraise-701ccd.jpg)
+![The Dressember Team -- PC_ Funraise.jpg](/uploads/The%20Dressember%20Team%20--%20PC_%20Funraise.jpg)
 
 ###### What has been your greatest struggle in growing the Dressember Foundation?
 
@@ -49,7 +49,7 @@ I was able to give a [TEDx talk](https://www.youtube.com/watch?v=MGuTpWTcSE8) in
 
 I also feel so proud of my staff! I am currently out on maternity leave and I can’t tell you how much it means to not worry for one second that my team is capable to handle everything while I’m out. After working basically alone for four years, I don’t take the fact that I have such an incredible and capable team for granted. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MGuTpWTcSE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/MGuTpWTcSE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### Who has impacted your life in a profound way?
 
