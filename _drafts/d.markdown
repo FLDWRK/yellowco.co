@@ -1,5 +1,6 @@
 ---
-title: dressember
+title: 'Dismantling Human Trafficking with a Dress: Meet Our Yellow Conference Speaker
+  & Dressember Founder'
 date: 2019-06-14 03:00:00 -07:00
 author: Hanna Snyder
 image: "/uploads/Blythe%20Headshot%20Option%202%20PC_%20Jordan%20Sabolick.jpg"
