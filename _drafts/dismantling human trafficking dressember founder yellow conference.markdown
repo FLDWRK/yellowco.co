@@ -2,6 +2,8 @@
 title: 'Dismantling Human Trafficking with a Dress: Meet Our Yellow Conference Speaker
   & Dressember Founder'
 date: 2019-06-14 03:00:00 -07:00
+categories:
+- Culture
 tags:
 - Yellow Conference
 - yellow conference 2019
@@ -10,7 +12,6 @@ tags:
 - Female Founders
 - non-profit
 - human trafficking
-- change human trafficking
 - dress
 - december
 - social issues
@@ -20,6 +21,7 @@ tags:
 - align
 - ted speaker
 - ted talk
+- end human trafficking
 author: Hanna Snyder
 image: "/uploads/Blythe%20Headshot%20Option%202%20PC_%20Jordan%20Sabolick.jpg"
 ---
