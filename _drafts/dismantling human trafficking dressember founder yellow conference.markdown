@@ -64,17 +64,19 @@ The first couple years were thrilling: Dressember grew so much, and so fast. The
 
 This work is a labor of love for me; if I were doing it just when I felt like it or when it was exciting and energizing, I would have quit a long time ago. I’m lucky now to have an incredible team of staff, volunteers, interns, and contractors who help keep Dressember moving and growing - in the early days it was just me and an accountant! It’s amazing what a solid team has done to help Dressember mature and evolve. 
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/MGuTpWTcSE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ###### What has been your proudest moment to date as a founder?
 
 I was able to give a [TEDx talk](https://www.youtube.com/watch?v=MGuTpWTcSE8) in 2015; that still stands out in my mind as a huge milestone and accomplishment. TED is a huge platform, and having that talk under my belt has opened other doors to share about the Dressember story and mission. 
 
 I also feel so proud of my staff! I am currently out on maternity leave and I can’t tell you how much it means to not worry for one second that my team is capable to handle everything while I’m out. After working basically alone for four years, I don’t take the fact that I have such an incredible and capable team for granted. 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/MGuTpWTcSE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ###### Who has impacted your life in a profound way?
 
 There have been so many people who have impacted me and helped me as I carve my own path, but there is one person who has been the most significant: my best friend and my husband, Jordan Sabolick. Jordan has taught me what it means to love; to stay in the fight even when things are difficult. He’s modeled empathy and patience for me even as I’ve broken his heart. He’s shown me what it means to live a life led by joy and punctuated with hope; he is one of the most joyful, optimistic people I know. He is encouraging to a fault, my number one cheerleader, and makes me feel special and beautiful even when I’m at my lowest. Dressember wouldn’t exist without him. 
+
+-
 
 ###### What are your hopes for the future of Dressember?
 
