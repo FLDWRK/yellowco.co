@@ -5,4 +5,4 @@ website: http://www.leadselfleadothers.com/
 is_guest: true
 ---
 
-Kristi is a Certified Risk-Taking + Leadership Coach who works with women of different cultural backgrounds, promoting what healthy risk looks like around the world. Over the past 12 years, Kristi has traveled abroad with several companies assisting individuals and executives in empowerment, relational trainings, and engagement with their people and communities. She is a mental health writer, professional speaker, and advocate. You will most likely find her discovering new recipes, drinking hot tea with her corgi and yoga pants on.
+Kristi is a Certified Executive Coach who, for the past 12 years, has guided companies and communities internationally through human connection and relational intelligence experiences. She is a mental health writer, professional speaker, and advocate. You will most likely find her riding bikes with her husband with their corgi in a backpack to find the newest street food delicacy.
