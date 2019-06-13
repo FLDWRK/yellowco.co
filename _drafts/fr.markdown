@@ -58,3 +58,5 @@ We could stay on the sidelines and get it wrong. We could open our mouths and me
 So I think the key is this: communication communication communication. Because everyone is vastly unique, multi-faceted and learning more about who they are and what they need every day, communication is key. Ask the hard questions of your people, and be comfortable with trial and error. Get it wrong the first time, but learn what to do better next time. 
 
 Don’t be afraid to pose the question to someone you’ve known for decades: “How can I care for you better?” I think the friendships and relationships we feel especially comfortable in should be the ones we resist “arriving at.” What a gift it is to know someone like the back of our hand but still recognize their depth, complexity, and proclivity to surprise us. And I believe that when we do that for others, we will watch it happen for ourselves. Friendships cannot be boiled down to a cheesy pop song, but even still — cheer loud, play hard, love well.
+
+_Photos by: [Karen Marie Co.](http://www.karenmarie.co/)_
