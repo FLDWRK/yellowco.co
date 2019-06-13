@@ -3,6 +3,20 @@ title: 3 Simple Steps to Declutter Your Home into a Haven
 date: 2019-06-17 03:00:00 -07:00
 categories:
 - Health
+tags:
+- home
+- organize
+- improvement
+- interior decorating
+- clutter
+- mental health
+- mind
+- peace
+- motivation
+- design
+- decoration
+- space
+- interior space
 author: Julia Goddard
 image: "/uploads/minh-pham-1534723-unsplash-1.jpg"
 ---
