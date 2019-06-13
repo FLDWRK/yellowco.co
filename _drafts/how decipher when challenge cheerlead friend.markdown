@@ -1,5 +1,5 @@
 ---
-title: How to Deciper When to Challenge or Cheerlead Your Friend
+title: How to Decipher When to Challenge or Cheerlead Your Friend
 date: 2019-06-19 03:00:00 -07:00
 categories:
 - Relationships
@@ -19,7 +19,7 @@ tags:
 - called out
 - female friends
 author: Chantelle Gibbs
-image: "/uploads/_MG_5520-1.jpg"
+image: "/uploads/b.jpg"
 ---
 
 Back in 2015, my friends and I impulsively spent an exorbitant amount of money to see Taylor Swift on her 1989 World Tour. There was so much traffic driving down to San Diego that we regretfully missed sweet Shawn Mendes’ set, but we knew there were still surprise guest performances to look forward to. And surprised we were - Swift brought out “Sk8er girl,” Avril Lavigne and Jamaican reggae artist, OMI, to sing their respective crowd favorites and dance with her. 
@@ -30,7 +30,7 @@ And while no one could ever restore the damage done to my heart that night due t
 
 But is there a time and place where we choose not to don that title? I’ve been mulling over the difference between being a cheerleader versus when it comes time to put down the pom poms and step into the trenches with a friend. 
 
-![_MG_5105-1.jpg](/uploads/_MG_5105-1.jpg)
+![y.jpg](/uploads/y.jpg)
 
 Surely there are moments we hang on the sidelines, sensing the necessity of keeping some distance as we watch a friend make their own decisions and forge the paths that only they can. Yet what also unfolds is the adage of “seeing something, saying something” – meaning, when duty calls, we push trivialities to the side and get on the field. Out of love and care, we champion our people by sharing reminders of the harsher truths. 
 
@@ -40,7 +40,7 @@ I’m still stuck on a friend’s vulnerability offered to me recently - she exp
 
 How does one discern the difference? Must a good relationship consist of a dynamic that healthily vacillates between the two dispositions? While I’d never claim to be an expert on the subject, here are some thoughts I’ve found to have aided me personally in my own friendships as I’ve stumbled and learned along the way.
 
-![_MG_5271-1.jpg](/uploads/_MG_5271-1.jpg)
+![ab.jpg](/uploads/ab.jpg)
 
 #### In Your Corner
 
@@ -50,7 +50,7 @@ When they let us know of a big event coming up, share a point of stress and/or e
 
 That’s the beauty of being “right there when [they] need.” I believe our friends and loved ones should be able to know exactly where to look to find us and see us, rocking jerseys with their names inscribed and holding signs that communicate the same allegiance on the good days and the bad. And maybe that’s just it - _they_ decide when to look over and see us when they need encouragement the most. Our job sometimes can be to just keep on swimming, which in many cases, is just to keep on cheering.
 
-![_MG_5543-1.jpg](/uploads/_MG_5543-1.jpg)
+![e.jpg](/uploads/e.jpg)
 
 #### In the Trenches
 
@@ -64,7 +64,7 @@ I always want to check my bias and personal opinions at the door, which is why i
 - “Does this thought truly challenge my friend in love or does it puff up my own ego?”  
 - “Will it be worth it to say, ‘I told you’ later or ‘I’m for you’ now?”  
 
-![_MG_5117-1.jpg](/uploads/_MG_5117-1.jpg)
+![n.jpg](/uploads/n.jpg)
 
 A situation you’re in might warrant confrontation, which more often than not, could be tethered to defensiveness or disregard. Still maybe we persist, maybe we drop it, or maybe we take our observations to the grave.
 
@@ -72,7 +72,7 @@ A situation you’re in might warrant confrontation, which more often than not, 
 
 Sometimes I have failed to see the truth in myself, and my best folks have come alongside me to shake me out of my dark haze. Even if I was at first sensitive to their constructive sharpening, the life-giving words that they spoke grounded and sobered me. I knew that I could trust their intentions because of how they had proved themselves time and time again.
 
-![_MG_5518-1.jpg](/uploads/_MG_5518-1.jpg)
+![a.jpg](/uploads/a.jpg)
 
 #### No Formula
 
