@@ -1,6 +1,9 @@
 ---
 title: int
 date: 2019-06-17 03:00:00 -07:00
+categories:
+- Health
+author: Julia Goddard
 ---
 
 Growing up a moody, sarcastic, unorganized girl with a bad habit of leaving little piles of my stuff everywhere, I made for a pretty annoying roommate. I still remember the exchanges of “Julia, grace is over for your bags of stuff sitting there.” “Julia, I can’t handle your little piles anymore.” If I can change my ways, anyone can. I really have, come over to my (mostly) tidy house and see! Decluttering and decorating your home is not just beneficial visually, but can increase your overall state of well-being. 
