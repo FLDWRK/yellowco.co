@@ -1,5 +1,5 @@
 ---
-title: fr
+title: How to Deciper When to Challenge or Cheerlead Your Friend
 date: 2019-06-19 03:00:00 -07:00
 categories:
 - Relationships
