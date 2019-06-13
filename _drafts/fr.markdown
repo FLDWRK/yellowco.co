@@ -18,7 +18,9 @@ Surely there are moments we hang on the sidelines, sensing the necessity of keep
 
 I’m still stuck on a friend’s vulnerability offered to me recently - she expressed that my “calling out” and push of her to be mentally tougher had weathered her down; she claimed she needed less of the sharpening and more of the rallying. I was rendered speechless. I had seen behaviors and patterns of thinking in this friend that I had deemed unhealthy, and even at odds with the best version of herself I knew she was capable of aspiring towards. Yet despite acting from what I know to have been a good intention, I had blundered my way through an apology for inadvertently hurting her. I had hurt her by not recognizing that what she needed most was silence, validation, and a firm grip of solidarity.
 
-So in one hand, there’s the impending danger of being too controlling when stepping in. In the other lies caution for a potential level of passivity with cheerleading. How does one discern the difference? Must a good relationship consist of a dynamic that healthily vacillates between the two dispositions? 
+### So in one hand, there’s the impending danger of being too controlling when stepping in. In the other lies caution for a potential level of passivity with cheerleading. 
+
+How does one discern the difference? Must a good relationship consist of a dynamic that healthily vacillates between the two dispositions? 
 
 While I’d never claim to be an expert on the subject, here are some thoughts I’ve found to have aided me personally in my own friendships as I’ve stumbled and learned along the way.
 
