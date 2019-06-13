@@ -3,6 +3,21 @@ title: How to Deciper When to Challenge or Cheerlead Your Friend
 date: 2019-06-19 03:00:00 -07:00
 categories:
 - Relationships
+tags:
+- friendships
+- relationships
+- relational health
+- challenge friend
+- support
+- emotional
+- be there
+- friend
+- vulnerability
+- humility
+- how to challenge
+- speak up
+- called out
+- female friends
 author: Chantelle Gibbs
 image: "/uploads/_MG_5520-1.jpg"
 ---
