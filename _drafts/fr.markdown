@@ -4,6 +4,7 @@ date: 2019-06-19 03:00:00 -07:00
 categories:
 - Relationships
 author: Chantelle Gibbs
+image: "/uploads/_MG_5520-1.jpg"
 ---
 
 Back in 2015, my friends and I impulsively spent an exorbitant amount of money to see Taylor Swift on her 1989 World Tour. There was so much traffic driving down to San Diego that we regretfully missed sweet Shawn Mendes’ set, but we knew there were still surprise guest performances to look forward to. And surprised we were - Swift brought out “Sk8er girl,” Avril Lavigne and Jamaican reggae artist, OMI, to sing their respective crowd favorites and dance with her. 
