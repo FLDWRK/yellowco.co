@@ -1,7 +1,7 @@
 ---
 title: Bailey Van Tassel
 bio_image: "/assets/images/bailey-van-tassel.jpg"
-website: http://www.baileyvantassel.com/
+website: 'tribevantassel.com '
 is_guest: true
 ---
 
