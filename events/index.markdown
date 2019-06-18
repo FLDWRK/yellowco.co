@@ -7,10 +7,11 @@ nav:
 subtitle1: Gathering women working
 subtitle2: for the good of the world.
 events:
-- title: Weekend Workshop • Grow & Scale your Do-Good Business
-  location: FLDWRK Fullerton
-  when: June 14th - 15th
-  url: https://www.universe.com/events/weekend-workshop-tickets-fullerton-WKN270
+- title: 'WORKSHOP • Identify Your Number: Using the Enneagram to Create Meaningful
+    Work'
+  location: Portland, OR • The Hoxton Hotel
+  when: June 27th
+  url: https://www.universe.com/events/identify-your-number-using-the-enneagram-to-create-meaningful-work-tickets-portland-19PH3F
 - title: Free Event in Portland- Enneagram, Biz & Fiz
   location: Portland, OR • The Hoxton Hotel
   when: June 26th
