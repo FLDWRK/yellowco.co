@@ -3,6 +3,22 @@ title: This Influencer Took Her Instagram Private and Everything Was Fine
 date: 2019-06-21 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- Instagram
+- influencer
+- photographer
+- suzy holman
+- private instagram
+- social media
+- social media culture
+- authenticity
+- entrepreneurs
+- female business owner
+- social media business
+- sponsorships
+- contracts
+- paid content
+- public
 author: Bailey Van Tassel
 image: "/uploads/MadsenXsimplysuzys-7-1.jpg"
 ---
