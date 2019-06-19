@@ -33,7 +33,7 @@ _The beginning of June marked a month of reclaiming Instagram for her. That mean
 
 I am a photographer by trade, owning two photography studios, so what started out as a place to showcase my photography work via Instagram became me showing my personal photography work, and then morphed into showing my personal life. That led me to getting some sponsorships, and it snowballed from there. 
 
-[IMG-4248.JPG](/uploads/IMG-4248.JPG)
+![IMG-4248-1 copy.jpg](/uploads/IMG-4248-1%20copy.jpg)
 
 ###### You decided to abandon a public Instagram account for a month, giving up business deals and opportunities in order to make your account private and be able to share the reality of your daily life. What prompted this month of reclaiming Instagram for you? 
 
@@ -57,7 +57,7 @@ Once you put that out there, it erases it for you and helps remove that shame. T
 
 Yes. I’m only going to be present on Instagram now for one week on and one week off. I wanted to really put some focus back on my real life and be more conscious of how I spend my time. 
 
-[IMG-7980.JPG](/uploads/IMG-7980.JPG)
+![IMG-79801 copy.jpg](/uploads/IMG-79801%20copy.jpg)
 
 ###### Do you have any ideas for keeping this movement going?
 
