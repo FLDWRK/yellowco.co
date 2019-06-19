@@ -1,9 +1,10 @@
 ---
-title: this influencer went private on instagram and everything was fine
+title: This Influencer Took Her Instagram Private and Everything Was Fine
 date: 2019-06-21 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Bailey Van Tassel
+image: "/uploads/MadsenXsimplysuzys-7-1.jpg"
 ---
 
 _[Suzy Holman](https://www.simplysuzys.co/) is single-handedly changing Instagram for us. Yes, it’s that bold of a statement. She’s a wife, mother to four, and business owner of six-figure companies. She owns [Denver Photo Collective](https://www.denverphotocollective.com/), a photography and event studio, and is a social media [influencer](https://www.instagram.com/simplysuzys/) utilizing Instagram as her marketing and sales platform._
@@ -16,15 +17,17 @@ _The beginning of June marked a month of reclaiming Instagram for her. That mean
 
 I am a photographer by trade, owning two photography studios, so what started out as a place to showcase my photography work via Instagram became me showing my personal photography work, and then morphed into showing my personal life. That led me to getting some sponsorships, and it snowballed from there. 
 
+[IMG-4248.JPG](/uploads/IMG-4248.JPG)
+
 ###### You decided to abandon a public Instagram account for a month, giving up business deals and opportunities in order to make your account private and be able to share the reality of your daily life. What prompted this month of reclaiming Instagram for you? 
 
 I had a few really nasty experiences with followers and I kind of just snapped. The bigger my following grew, the more trolls commented on my posts or via DMs. People who don’t know me, and clearly don’t know my heart, would send nasty messages. Even knowing they’re just negative people, what they say still hurts my heart. Strangers were telling me I was a terrible person who didn’t deserve to have children, among other horrible things, and that just made me snap. 
 
-### I had to ask myself, “Why am I putting my heart on display for this?"
-
-"Am I going to change because of these people? No. All they’re doing is hurting my heart.” I felt an overwhelming feeling of being done, and didn’t have this going private experience as a plan, it just sort of happened. 
+I had to ask myself, “Why am I putting my heart on display for this? Am I going to change because of these people? No. All they’re doing is hurting my heart.” I felt an overwhelming feeling of being done, and didn’t have this going private experience as a plan, it just sort of happened. 
 
 ### I had to break a lot of work contracts, but just couldn’t do it anymore. 
+
+![Springhouswe-6-1.jpg](/uploads/Springhouswe-6-1.jpg)
 
 ###### What have you learned from this experiment? 
 
@@ -38,6 +41,8 @@ Once you put that out there, it erases it for you and helps remove that shame. T
 
 Yes. I’m only going to be present on Instagram now for one week on and one week off. I wanted to really put some focus back on my real life and be more conscious of how I spend my time. 
 
+[IMG-7980.JPG](/uploads/IMG-7980.JPG)
+
 ###### Do you have any ideas for keeping this movement going?
 
 I wish that I could inspire others to do this one-week-on and one-week-off plan with me. We are so connected to our phones, that we miss so much of what’s happening right in front of us. There’s a lot of power in being connected, but there’s a super power in not being connected. 
@@ -48,4 +53,4 @@ We all have Instagram fatigue, but it requires an act of bravery to say, “I do
 
 Practice being vulnerable and real. Just do it, and it will get easier. You will be amazed at how much closer you get to those around you. Showing up as your most authentic self is the most powerful tool you have in relationships. 
 
-_Photos courtesy of Suzy Holman_
+_Photos courtesy of [Suzy Holman](https://www.simplysuzys.co/)_
