@@ -79,7 +79,7 @@ If one of your values is joy, and an employee has been particularly chipper and 
 
 Giving feedback during a performance review is only one part of the equation in ensuring your employees feel empowered; it’s equally important to _receive_ feedback. So what if an employee isn’t quite living up to your company values? That’s one place where listening comes in handy. 
 
-![avel-chuklanov-1491019-unsplash-1.jpg](/uploads/avel-chuklanov-1491019-unsplash-1.jpg)
+![samantha-gades-761358-unsplash (1)-1.jpg](/uploads/samantha-gades-761358-unsplash%20(1)-1.jpg)
 
 #### The Feedback System
 
