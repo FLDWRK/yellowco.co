@@ -14,17 +14,21 @@ Jumping in fully without having boundaries and balance can create chaos not only
 
 Maybe you’re feeling like my friend. Excited about change, growth, empowerment. Maybe you’re feeling a little overwhelmed? These are both great places to be in as managers because this is where the growth begins. With you. So here are some tips as first time managers that you can use to lead yourself AND lead your team well.
 
-GRACE, GRACE
+#### Grace, Grace
+
 I’ve said this before and I’ll say it again. Grace, Grace, my friend. This is one of the biggest ah ha moments when I’m working with executives of businesses. Once they realize they’re not perfect human beings and begin to give grace to themselves, you watch their shoulders drop 10 inches to the floor. A weight falls off and you breathe. It’s so incredibly important to understand you’re not perfect, you will fail, AND you will still manage and lead a team of people powerfully if you desire to do so.
 
 
-Get Some Help
+#### Get Some Help
+
 One of the things I noticed about my friend leading the store was that she didn’t have any help. She tried to do it all on her own. It’s impossible for us to ever know everything we should always know. Did you catch that? There is absolutely too much information in this world, and it’s so important that we get with the right people who can help us along the way. Find a mentor who has been in your shoes. Maybe there is a higher up who is willing to work with you in this new transition. Get some help and slow down so you can then speed up. 
 
-Create Healthy and Necessary Boundaries
+#### Create Healthy and Necessary Boundaries
+
 Boundaries with your employees, boundaries with how much work you’re doing, boundaries with the conversations outside of the four walls that normally involve your management, boundaries with the inner critic that tries to tell you you’re not good enough. These are just a few ideas to get you to begin thinking of where you need to set some boundaries so that you are living a healthy, full life of work and living!
 
-It’s About Your People
+#### It’s About Your People
+
 Managers manage people. Therefore, it’s time for you to help out your team in accomplishing those big hairy audacious goals. You were great at your job before, completing tasks and hitting goals - now you get to set that space up for others and move them forward. Get to know your people, how they prefer to be spoken with, what lights them up in the business, and where their skills can be strengthened. Take the time to work with them in creating strong development plans so they have vision for their growth in the company and where you can help keep them accountable. Your performance is measured by the performance of your team, so how can you best set them up for success?
 
 Remember, many leaders can take themselves too seriously. I want to caution you on this. Lean in. Have truthful and real conversations that are vulnerable and courageous. Never stop learning because you will never know it all and that’s totally ok. Celebrate the failures with your team. Take all of the humanness and put it into your leadership. 
