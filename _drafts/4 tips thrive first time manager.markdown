@@ -3,6 +3,27 @@ title: 4 Tips to Thrive as a First-Time Manager
 date: 2019-06-24 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- work
+- career
+- manager
+- leader
+- leadership
+- tips
+- advice
+- coworkers
+- leading a team
+- first time manager
+- new manager
+- leadership advice
+- leadership tips
+- women
+- female leaders
+- women in power
+- workplace
+- office
+- thrive
+- lead well
 author: Kristi Triplett Jones
 image: "/uploads/you-x-ventures-1428246-unsplash-1.jpg"
 ---
