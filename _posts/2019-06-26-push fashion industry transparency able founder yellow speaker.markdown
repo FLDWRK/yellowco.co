@@ -28,7 +28,7 @@ author: Hanna Snyder
 image: "/uploads/Barrett%20Ward%20Headshot.jpg"
 ---
 
-_Meet one of our next speakers for our [2019 Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/), Barret Ward, Founder of [ABLE](https://www.livefashionable.com/)! ABLE is an incredible lifestyle brand focused on ending generational poverty by providing jobs for women. Their products are handcrafted and bring impact to Nashville, Ethiopia, Mexico, Peru, and more. Beyond this, ABLE is working towards changing the fashion industry itself by starting a movement for companies to publish their lowest paid wages. Learn more about ABLE and Barret in our interview with him below on transparency, what motivates their team, and what has impacted him most as a founder and father._
+_Meet one of our next speakers for our [2019 Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/), Barrett Ward, Founder & CEO of [ABLE](https://www.livefashionable.com/)! ABLE is an incredible lifestyle brand focused on ending generational poverty by providing jobs for women. Their products are handcrafted and bring impact to Nashville, Ethiopia, Mexico, Peru, and more. Beyond this, ABLE is working towards changing the fashion industry itself by starting a movement for companies to publish their lowest paid wages. Learn more about ABLE and Barret in our interview with him below on transparency, what motivates their team, and what has impacted him most as a founder and father._
 
 ###### Tell us a little bit about ABLE, and what sparked you to start it.
 
