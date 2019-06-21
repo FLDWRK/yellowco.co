@@ -39,7 +39,7 @@ Did you catch that? There is absolutely too much information in this world, and 
 
 Boundaries with your employees, boundaries with how much work you’re doing, boundaries with the conversations outside of the four walls that normally involve your management, boundaries with the inner critic that tries to tell you you’re not good enough. These are just a few ideas to get you to begin thinking of where you need to set some boundaries so that you are living a healthy, full life of work and living!
 
-
+![you-x-ventures-1437336-unsplash-1.jpg](/uploads/you-x-ventures-1437336-unsplash-1.jpg)
 
 #### It’s About Your People
 
