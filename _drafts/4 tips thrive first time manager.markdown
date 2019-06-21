@@ -1,5 +1,5 @@
 ---
-title: Tips For First Time Managers
+title: 4 Tips to Thrive as a First-Time Manager
 date: 2019-06-24 03:00:00 -07:00
 categories:
 - Entrepreneurs
