@@ -4,6 +4,26 @@ title: 'Pushing the Fashion Industry to New Levels of Transparency: Meet ABLE Fo
 date: 2019-06-26 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- able
+- clothing
+- conscious clothing
+- ethical fashion
+- leather goods
+- shoes
+- fair wages
+- living wages
+- publish your wages
+- ethiopia
+- women empowerment
+- nashville
+- ethical clothing brand
+- founder
+- yellow 2019
+- yellow conference
+- social impact
+- fashion industry
+- transparency
 author: Hanna Snyder
 image: "/uploads/Barrett%20Ward%20Headshot.jpg"
 ---
