@@ -34,7 +34,7 @@ Spending time with the poor.  I’ve learned that my self-absorbed nature that w
 
 ###### Can you share about a moment in which you took action to align your values with the work that you do? Did that come with any sacrifices?
 
-I’ve learned there is no security in building up walls of secrecy, or hiding my insecurities, fears, and even failures. Helen Keller wrote, “Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.” In publishing our lowest wages, we are living out our principles, and I don't care if it comes with risks or sacrifices because I don’t want to live life measuring potential outcomes if they would change “doing the right thing.”
+I’ve learned there is no security in building up walls of secrecy, or hiding my insecurities, fears, and even failures. Helen Keller wrote, _“Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.”_ In publishing our lowest wages, we are living out our principles, and I don't care if it comes with risks or sacrifices because I don’t want to live life measuring potential outcomes if they would change “doing the right thing.”
 
 ###### What times of transition in your life have proved most important to get you where you are now?
  
