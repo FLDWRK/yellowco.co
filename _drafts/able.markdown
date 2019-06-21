@@ -1,5 +1,6 @@
 ---
-title: ABLE
+title: 'Pushing the Fashion Industry to New Levels of Transparency: Meet ABLE Founder
+  & 2019 Yellow Speaker'
 date: 2019-06-26 03:00:00 -07:00
 categories:
 - Conscious Living
