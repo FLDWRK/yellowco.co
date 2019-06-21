@@ -4,6 +4,7 @@ date: 2019-06-24 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Kristi Triplett Jones
+image: "/uploads/you-x-ventures-1428246-unsplash-1.jpg"
 ---
 
 You’re the boss now. All of the to-dos, shoulds, emails, questions, and meetings are filling up your brain. Don’t panic. Let’s all take a moment right now to close our eyes, notice the space that’s around us, and breathe. Come to this present moment. Take a big inhale through the nose, and big exhale out of the mouth (like the really loud ones you make when you come home from a long day at work. It’s okay - we’ve all been there). 
@@ -14,6 +15,8 @@ So here you are, the manager! Here is a huge congratulations to you! Celebrate w
 
 I remember my first retail job right after grad school. I needed a side job while I was growing this coaching biz, and I absolutely loved this store. My good friend was promoted to store manager shortly after, which was going to be great for the business since she had incredible vision, she had respect for the team, and the team had respect for her. She jumped in fast, she was a go-getter, she was ready to make a change. 
 
+![you-x-ventures-1439463-unsplash-1.jpg](/uploads/you-x-ventures-1439463-unsplash-1.jpg)
+
 This also meant that with her new position, every piece of information had to go through her. She had to be an expert at all processes, know all the details, read a 1,000 page "Welcome New Manager" book of rules and to-dos, make sure the store was hitting numbers, explain everything, know the whys behind it all, and so on. With no boundaries and balance, the chaos began to control her. It happens, we’re human, and through some tough months she learned that in the beginning of this new position, she should have slowed down to speed up. With some help from the right people and her new perspective, she flipped her leadership around, and together with her team, she grew the business by 3 million dollars.
 
 Maybe you’re feeling like my friend. Excited about change, growth, and empowerment. Maybe you’re feeling a little overwhelmed? These are both great places to be in as managers because this is where the growth begins. With you. So here are some tips as first time managers that you can use to lead yourself AND lead your team well.
@@ -21,6 +24,8 @@ Maybe you’re feeling like my friend. Excited about change, growth, and empower
 #### Grace, Grace
 
 I’ve said this before and I’ll say it again. Grace, grace, my friend. This is one of the biggest ah-ha moments when I’m working with executives of businesses. Once they realize they’re not perfect human beings and begin to give grace to themselves, you watch their shoulders drop 10 inches to the floor. A weight falls off and you breathe. It’s so incredibly important to understand you’re not perfect, you will fail, AND you will still manage and lead a team of people powerfully if you desire to do so.
+
+![you-x-ventures-1579065-unsplash-1.jpg](/uploads/you-x-ventures-1579065-unsplash-1.jpg)
 
 #### Get Some Help
 
@@ -33,6 +38,8 @@ Did you catch that? There is absolutely too much information in this world, and 
 #### Create Healthy and Necessary Boundaries
 
 Boundaries with your employees, boundaries with how much work you’re doing, boundaries with the conversations outside of the four walls that normally involve your management, boundaries with the inner critic that tries to tell you you’re not good enough. These are just a few ideas to get you to begin thinking of where you need to set some boundaries so that you are living a healthy, full life of work and living!
+
+
 
 #### It’s About Your People
 
