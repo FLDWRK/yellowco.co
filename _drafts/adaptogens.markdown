@@ -15,7 +15,7 @@ Let’s say you are in a stressful work meeting and your heart rate rises, and y
 
 In order to be classified as an adaptogen, an herb or mushroom must act on the hypothalamic-pituitary-adrenal (HPA) axis in a non-toxic manner. You can think of this axis as the hormonal conversation happening between your brain and your body. Adaptogens adjust hormone levels so that your body stays at a constant and even level. This encourages your stress levels, energy levels, and even your immune system to stay at a healthy baseline. 
 
-![IMG_A0121A583401-8.jpeg](/uploads/IMG_A0121A583401-8.jpeg)
+![IMG_A0121A583401-1.jpeg](/uploads/IMG_A0121A583401-1.jpeg)
 
 #### What are the best adaptogens to incorporate into your wellness routine? 
 
@@ -31,7 +31,7 @@ Reishi is an ethereal, yellow-red mushroom that has been used as a medicine for 
 
 Found in the highlands of Nepal, Tibet, and China, cordyceps is often called the “caterpillar mushroom.” Research has suggested that Cordyceps has the  ability to decrease fatigue and increase physical endurance. Studies have also shown that cordyceps protect the skin against ultraviolet radiation damage (the sun!).
 
-![IMG_A0121A583401-10.jpeg](/uploads/IMG_A0121A583401-10.jpeg)
+![IMG_A0121A583401-8.jpeg](/uploads/IMG_A0121A583401-8.jpeg)
 
 #### Why are you only hearing about adaptogens now? 
 
