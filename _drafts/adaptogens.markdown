@@ -4,6 +4,7 @@ date: 2019-06-28 03:00:00 -07:00
 categories:
 - Health
 author: Nadine Joseph
+image: "/uploads/IMG_A0121A583401-3.jpeg"
 ---
 
 Adaptogens are a unique category of herbs and mushrooms that help the body balance its reaction to stress. They’ve been used in Traditional Chinese Medicine and Ayurvedic healing traditions for hundreds of years. Adaptogens can be brewed in a tea, blended into a smoothie, or enjoyed in a nut milk latte.  
