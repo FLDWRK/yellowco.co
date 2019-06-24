@@ -52,7 +52,7 @@ _Ingredients:_
 1 tbsp culinary grade lavender buds
 1/2 c water
 1/2 c coconut milk
-1 tsp Genius Mushroom Blend
+1 tsp Mushroom Blend (I love [this one](https://prettymushroom.com/products/genius-mushroom-blend)!)
 1 tsp maple syrup
 
 _How to make:_ Steep lavender buds in hot water for 7 minutes. Afterward, add the lavender tea mixture to warmed coconut milk. Stir in Genius Mushroom blend and maple syrup. Enjoy!
