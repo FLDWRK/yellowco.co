@@ -51,14 +51,16 @@ If you’re into earthy-tasting tonics, you can use add tinctures to your normal
 
 Looking for a bit more guidance? Try out this Lavender Latte recipe! It's comforting, relaxing, and creamy - all the things needed to ease into a good morning.
 
-**Adaptogenic Lavender Latte**  
-_Ingredients:_ 
+###### Adaptogenic Lavender Latte
+
+**Ingredients:**  
 1 tbsp culinary grade lavender buds  
 1/2 c water  
 1/2 c coconut milk  
 1 tsp mushroom blend (I love [this one](https://prettymushroom.com/products/genius-mushroom-blend)!)  
 1 tsp maple syrup
 
-_How to make:_ Steep lavender buds in hot water for 7 minutes. Afterward, add the lavender tea mixture to warmed coconut milk. Stir in mushroom blend and maple syrup. Enjoy!
+**How to make:**  
+Steep lavender buds in hot water for 7 minutes. Afterward, add the lavender tea mixture to warmed coconut milk. Stir in mushroom blend and maple syrup. Enjoy!
 
 _Photos courtesy of [Pretty Mushroom](https://prettymushroom.com/)_
