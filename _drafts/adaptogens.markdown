@@ -31,7 +31,7 @@ Reishi is an ethereal, yellow-red mushroom that has been used as a medicine for 
 
 Found in the highlands of Nepal, Tibet, and China, cordyceps is often called the “caterpillar mushroom.” Research has suggested that Cordyceps has the  ability to decrease fatigue and increase physical endurance. Studies have also shown that cordyceps protect the skin against ultraviolet radiation damage (the sun!).
 
-
+![IMG_A0121A583401-10.jpeg](/uploads/IMG_A0121A583401-10.jpeg)
 
 #### Why are you only hearing about adaptogens now? 
 
