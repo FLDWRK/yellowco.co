@@ -1,5 +1,6 @@
 ---
-title: Adaptogens
+title: Why Adaptogens Are Worth Adding into Your Diet (Especially in This Calming
+  Lavender Latte)
 date: 2019-06-28 03:00:00 -07:00
 categories:
 - Health
