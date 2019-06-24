@@ -66,7 +66,7 @@ _My parents gleaned their knowledge from living in the mountains between Vietnam
 
 ![IMG_A0121A583401-8.jpeg](/uploads/IMG_A0121A583401-8.jpeg)
 
-#### How can I incorporate adaptogens into my diet? 
+#### How can you incorporate adaptogens into my diet? 
 
 If you’re into earthy-tasting tonics, you can use add tinctures to your normal drinks or even sip on an adaptogenic tea. If you are looking for an approachable way to add adaptogens to your daily wellness routine, you might want to consider a pre-mixed blend. You can add the powder into everything - your favorite banana bread recipe, a morning smoothie, or even homemade salad dressings. 
 
