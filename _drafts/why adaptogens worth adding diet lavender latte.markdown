@@ -25,7 +25,7 @@ tags:
 - drinks
 - wellness recipes
 author: Nadine Joseph
-image: "/uploads/IMG_A0121A583401-3.jpeg"
+image: "/uploads/IMG_A0121A583401-2.jpeg"
 ---
 
 Adaptogens are a unique category of herbs and mushrooms that help the body balance its reaction to stress. They’ve been used in Traditional Chinese Medicine and Ayurvedic healing traditions for hundreds of years. Adaptogens can be brewed in a tea, blended into a smoothie, or enjoyed in a nut milk latte.  
@@ -36,7 +36,7 @@ Let’s say you are in a stressful work meeting and your heart rate rises, and y
 
 In order to be classified as an adaptogen, an herb or mushroom must act on the hypothalamic-pituitary-adrenal (HPA) axis in a non-toxic manner. You can think of this axis as the hormonal conversation happening between your brain and your body. Adaptogens adjust hormone levels so that your body stays at a constant and even level. This encourages your stress levels, energy levels, and even your immune system to stay at a healthy baseline. 
 
-![IMG_A0121A583401-1.jpeg](/uploads/IMG_A0121A583401-1.jpeg)
+![IMG_A0121A583401-3.jpeg](/uploads/IMG_A0121A583401-3.jpeg)
 
 #### What are the best adaptogens to incorporate into your wellness routine? 
 
@@ -52,7 +52,7 @@ Reishi is an ethereal, yellow-red mushroom that has been used as a medicine for 
 
 Found in the highlands of Nepal, Tibet, and China, cordyceps is often called the “caterpillar mushroom.” Research has suggested that Cordyceps has the  ability to decrease fatigue and increase physical endurance. Studies have also shown that cordyceps protect the skin against ultraviolet radiation damage (the sun!).
 
-![IMG_A0121A583401-8.jpeg](/uploads/IMG_A0121A583401-8.jpeg)
+![IMG_A0121A583401-1.jpeg](/uploads/IMG_A0121A583401-1.jpeg)
 
 #### Why are you only hearing about adaptogens now? 
 
@@ -64,7 +64,7 @@ _My parents lived in a small village in the mountains between Vietnam and Laos. 
 
 _My parents gleaned their knowledge from living in the mountains between Vietnam and Laos, and from their ancestors that lived on that land. So it’s an interesting dichotomy to see some of that knowledge portrayed as a marketing message for large brands. This discomfort/contrast is why it’s important for us to state that we really do respect the cultures and traditions that have used these ingredients before they were incorporated into the western world. And why we exclusively source ethically and sustainably.”_
 
-![IMG_A0121A583401-2.jpeg](/uploads/IMG_A0121A583401-2.jpeg)
+![IMG_A0121A583401-8.jpeg](/uploads/IMG_A0121A583401-8.jpeg)
 
 #### How can I incorporate adaptogens into my diet? 
 
