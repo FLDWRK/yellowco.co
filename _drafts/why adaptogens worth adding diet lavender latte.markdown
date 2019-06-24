@@ -4,6 +4,26 @@ title: Why Adaptogens Are Worth Adding into Your Diet (Especially in This Calmin
 date: 2019-06-28 03:00:00 -07:00
 categories:
 - Health
+tags:
+- adaptogens
+- guide
+- health
+- wellness
+- routine
+- diet
+- lavender latte
+- recipe
+- adaptogenic
+- holistic health
+- Ayurvedic
+- natural
+- pretty mushroom
+- mushrooms
+- ashwagandha
+- reishi
+- cordyceps
+- drinks
+- wellness recipes
 author: Nadine Joseph
 image: "/uploads/IMG_A0121A583401-3.jpeg"
 ---
