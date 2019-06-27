@@ -1,6 +1,6 @@
 ---
-title: 'Advocating for Better Beauty Laws: Meet Beautycounter’s SVP of Social Mission
-  & Do-Good Dozen Winner'
+title: 'Advocating for Better Beauty: Meet Lindsay Dahl, Beautycounter Social Mission
+  Svp & Do-Good Dozen Winner'
 date: 2019-07-03 03:00:00 -07:00
 categories:
 - Conscious Living
