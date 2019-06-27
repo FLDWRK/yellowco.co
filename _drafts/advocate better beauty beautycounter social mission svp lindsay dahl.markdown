@@ -46,7 +46,11 @@ I head up the safety, sustainability, advocacy, and giving programs at [Beautyco
 
 ###### Was there someone in your life making bold and positive actions that exemplified what it means to be an activist for you? 
 
-My grandma taught me that it’s okay to ruffle some feathers if it means doing what’s right. She divorced her husband and took over his construction company in a time and era where none of that was possible. I also respected how my grandma was bold and ahead of her time, but she didn’t come across as tough. I learned that how you present yourself directly impacts how people will hear your message. Are you righteous and angry in your activism? Or do you bring a down to earth, softer side to advocating? Everyone has their own style, but I channel her when I’m advocating for clean beauty. 
+My grandma taught me that it’s okay to ruffle some feathers if it means doing what’s right. She divorced her husband and took over his construction company in a time and era where none of that was possible. I also respected how my grandma was bold and ahead of her time, but she didn’t come across as tough. 
+
+### I learned that how you present yourself directly impacts how people will hear your message. 
+
+Are you righteous and angry in your activism? Or do you bring a down to earth, softer side to advocating? Everyone has their own style, but I channel her when I’m advocating for clean beauty. 
 
 ![030619_BcRedRepeated_Feed.jpg](/uploads/030619_BcRedRepeated_Feed.jpg)
 
