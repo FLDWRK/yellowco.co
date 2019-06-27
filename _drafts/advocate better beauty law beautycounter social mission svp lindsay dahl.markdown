@@ -1,6 +1,6 @@
 ---
 title: 'Advocating for Better Beauty: Meet Lindsay Dahl, Beautycounter Social Mission
-  Svp & Do-Good Dozen Winner'
+  SVP & Do-Good Dozen Winner'
 date: 2019-07-03 03:00:00 -07:00
 categories:
 - Conscious Living
@@ -42,7 +42,7 @@ I love this question because Beautycounter has always been about inspiring other
 4. Be honest about how hard it is to make safer products.
 5. And [join Beautycounter in Washington](https://www.beautycounter.com/advocacy) as we ask Congress for better beauty laws! 
 
-![041619_NYCBillboard_Feed.jpg](/uploads/041619_NYCBillboard_Feed.jpg)
+![Screen Shot 2019-06-21 at 11.34.53 AM.png](/uploads/Screen%20Shot%202019-06-21%20at%2011.34.53%20AM.png)
 
 ###### What brand, organization, or individual are you currently inspired by and why?
 
@@ -64,7 +64,7 @@ This mindset makes for a good employee, but it can be highly toxic. I love my ca
 
 Seeing people engage in the political process in a meaningful way. I have the benefit of seeing first-hand how our phone calls, emails, and meetings move Congress to act. I think so many people assume that their voice, their call, their vote doesn’t matter. Having worked on well over a dozen state and federal laws, I have seen how people like you and I can effect change. Ten years ago, barely anyone knew about the toxic plastic BPA, and now it’s hard to find a water bottle that doesn’t have a “BPA free” sticker on it. Our future doesn’t look like the status quo. 
 
-![Screen Shot 2019-06-21 at 11.34.53 AM.png](/uploads/Screen%20Shot%202019-06-21%20at%2011.34.53%20AM.png) 
+![041619_NYCBillboard_Feed.jpg](/uploads/041619_NYCBillboard_Feed.jpg)
 
 ###### What steps can we take today to help advocate for better beauty and personal care?
 
