@@ -11,9 +11,9 @@ image: "/uploads/Lindsay-Dahl.jpg"
 
 I grew up in Minnesota from your run of the mill midwestern family. I was a quirky and precocious kid who wanted to do things differently. My parents taught me that if you want to achieve something big, you need to play the long game. That mindset has helped me channel the patience needed to navigate the legislative process. Passing laws to protect the health of American families takes a long time, but when you win, you win big.    
 
-###### What does your role at Beautycounter as SVP of Social Mission entail? What are some of the biggest issues you are currently working on at Capitol Hill, as well as internally with BC products? 
+###### What does your role at [Beautycounter](https://www.beautycounter.com/) as SVP of Social Mission entail? What are some of the biggest issues you are currently working on at Capitol Hill, as well as internally with BC products? 
 
-I head up the safety, sustainability, advocacy and giving programs at Beautycounter – dream job! We are actively working to pass legislation that will clean up the beauty industry, increase transparency, and make sure the ingredients used in beauty products are safe. At Beautycounter, we’re working on increasing the sustainability of our packaging and searching for new preservatives. Our goal has always been to bring beautiful, high-performing products (aka – they work!) to market using only the safest ingredients possible. I have the benefit of working with our best in class team to help make that happen. 
+I head up the safety, sustainability, advocacy and giving programs at [Beautycounter](https://www.beautycounter.com/) – dream job! We are actively working to pass legislation that will clean up the beauty industry, increase transparency, and make sure the ingredients used in beauty products are safe. At Beautycounter, we’re working on increasing the sustainability of our packaging and searching for new preservatives. Our goal has always been to bring beautiful, high-performing products (aka – they work!) to market using only the safest ingredients possible. I have the benefit of working with our best in class team to help make that happen. 
 
 ###### Was there someone in your life making bold and positive actions that exemplified what it means to be an activist for you? 
 
