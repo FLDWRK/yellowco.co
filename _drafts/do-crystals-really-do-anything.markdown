@@ -3,6 +3,22 @@ title: do crystals really do anything?
 date: 2019-07-05 03:00:00 -07:00
 categories:
 - Health
+tags:
+- crystals
+- gems
+- crystal trend
+- rocks
+- health
+- wellness
+- balance
+- meditation
+- wellness trends
+- gua sha
+- rose quartz
+- do crystals work
+- what do crystals do
+- spirituality
+- spiritual
 author: Jenna Catalon
 image: "/uploads/avery-klein-C_dRtsnBOQA-unsplash.jpg"
 ---
