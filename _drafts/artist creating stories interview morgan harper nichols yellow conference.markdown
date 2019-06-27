@@ -30,7 +30,7 @@ author: Hanna Snyder
 image: "/uploads/IMG_2891.jpg"
 ---
 
-
+_Whether the work of [Morgan Harper Nichols](https://www.instagram.com/morganharpernichols/) has been filling your Instagram feed for years, or her name is entirely new to you, we're so excited to share more of her story on our blog today on being an artist, writer, mother, and [2019 Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) speaker! One of the most striking things about Morgan's work to me has not just been her words that make so many of us feel seen, or her gorgeously fluid art that feels like diving into a sunset – but the fact that the pieces she shares are written for strangers. She welcomes anyone to submit a story, whether their own or someone close to them, to her via Instagram direct messages, and from there she draws her inspiration to create something beautifully encouraging. Get to know more about Morgan's own story in our interview with her below, and [join us in August](https://yellowcollective.lpages.co/yellow-conference-2019/) to hear her speak in person!_
 
 ###### What was your work background before you became the illustrator & poet we all know and love? How did that lead you to the work you do now?
 
@@ -72,7 +72,7 @@ Start small. Create something for one person at a time. Paint a portrait for you
 
 So instead of trying to speak to the entire world or even to an entire community, speak to one person at a time. So many of the most meaningful connections in life are formed just that way.
 
-![IMG_2892.jpg](/uploads/IMG_2892.jpg)
+![IMG_2889.jpg](/uploads/IMG_2889.jpg)
 
 ###### What is something (practical or profound) you wish you could tell yourself five years ago that you know today?
 
@@ -92,7 +92,7 @@ Trusting that I am worthy of being heard just as much as anyone else.
 
 I am slowly unlearning this, but it is a daily challenge for me. I am forever learning the difference between humility and not thinking less of myself to a detriment. 
 
-![IMG_2889.jpg](/uploads/IMG_2889.jpg)
+![IMG_2892.jpg](/uploads/IMG_2892.jpg)
 
 ###### What are you most looking forward to at the [Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/)?
 
