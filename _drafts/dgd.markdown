@@ -27,11 +27,11 @@ Stop wearing perfume, they are loaded with toxic chemicals that are known allerg
 
 I love this question because Beautycounter has always been about inspiring other brands to do better, because we believe all beauty should be clean beauty. Top five tips for companies seeking change: 
 
-Acknowledge the beauty industry needs to use safer ingredients
-Fully disclose all fragrance ingredients
-Screen color cosmetics for heavy metals
-Be honest about how hard it is to make safer products
-And join Beautycounter in Washington as we ask Congress for better beauty laws! 
+1. Acknowledge the beauty industry needs to use safer ingredients
+2. Fully disclose all fragrance ingredients
+3. Screen color cosmetics for heavy metals
+4. Be honest about how hard it is to make safer products
+5. And join Beautycounter in Washington as we ask Congress for better beauty laws! 
 
 ###### What brand, organization, or individual are you currently inspired by and why?
 
