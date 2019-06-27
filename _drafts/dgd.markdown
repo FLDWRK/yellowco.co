@@ -14,7 +14,7 @@ I grew up in Minnesota from your run-of-the-mill Midwestern family. I was a quir
 
 ### Passing laws to protect the health of American families takes a long time, but when you win, you win big.    
 
-[IMG_5892.JPG](/uploads/IMG_5892.JPG)
+![IMG_5892 copy.jpg](/uploads/IMG_5892%20copy.jpg)
 
 ###### What does your role at [Beautycounter](https://www.beautycounter.com/) as SVP of Social Mission entail? What are some of the biggest issues you are currently working on at Capitol Hill, as well as internally with BC products? 
 
@@ -24,7 +24,7 @@ I head up the safety, sustainability, advocacy, and giving programs at [Beautyco
 
 My grandma taught me that it’s okay to ruffle some feathers if it means doing what’s right. She divorced her husband and took over his construction company in a time and era where none of that was possible. I also respected how my grandma was bold and ahead of her time, but she didn’t come across as tough. I learned that how you present yourself directly impacts how people will hear your message. Are you righteous and angry in your activism? Or do you bring a down to earth, softer side to advocating? Everyone has their own style, but I channel her when I’m advocating for clean beauty. 
 
-[IMG_5893.JPG](/uploads/IMG_5893.JPG)
+![IMG_5893 copy.jpg](/uploads/IMG_5893%20copy.jpg)
 
 ###### What are two things you wish people knew about when it comes to toxic chemicals in personal care products? 
 
