@@ -1,6 +1,6 @@
 ---
-title: 'Advocating for Better Beauty: Meet Beautycounter’s SVP of Social Mission &
-  Do-Good Dozen Winner'
+title: 'Advocating for Better Beauty Laws: Meet Beautycounter’s SVP of Social Mission
+  & Do-Good Dozen Winner'
 date: 2019-07-03 03:00:00 -07:00
 categories:
 - Conscious Living
@@ -20,11 +20,13 @@ I grew up in Minnesota from your run-of-the-mill Midwestern family. I was a quir
 
 I head up the safety, sustainability, advocacy, and giving programs at [Beautycounter](https://www.beautycounter.com/) – dream job! We are actively working to pass legislation that will clean up the beauty industry, increase transparency, and make sure the ingredients used in beauty products are safe. At Beautycounter, we’re working on increasing the sustainability of our packaging and searching for new preservatives. Our goal has always been to bring beautiful, high-performing products (aka – they work!) to market using only the safest ingredients possible. I have the benefit of working with our best in class team to help make that happen. 
 
+![IMG_5893 copy.jpg](/uploads/IMG_5893%20copy.jpg)
+
 ###### Was there someone in your life making bold and positive actions that exemplified what it means to be an activist for you? 
 
 My grandma taught me that it’s okay to ruffle some feathers if it means doing what’s right. She divorced her husband and took over his construction company in a time and era where none of that was possible. I also respected how my grandma was bold and ahead of her time, but she didn’t come across as tough. I learned that how you present yourself directly impacts how people will hear your message. Are you righteous and angry in your activism? Or do you bring a down to earth, softer side to advocating? Everyone has their own style, but I channel her when I’m advocating for clean beauty. 
 
-![IMG_5893 copy.jpg](/uploads/IMG_5893%20copy.jpg)
+![030619_BcRedRepeated_Feed.jpg](/uploads/030619_BcRedRepeated_Feed.jpg)
 
 ###### What are two things you wish people knew about when it comes to toxic chemicals in personal care products? 
 
