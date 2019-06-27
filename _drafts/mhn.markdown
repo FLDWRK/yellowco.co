@@ -16,9 +16,13 @@ It was an uncertain season for a while because I didn’t really know how this c
 
 That’s what has always inspired me to keep going and to keep creating.
 
+-
+
 ###### Our [conference theme this year is Align](https://yellowcollective.lpages.co/yellow-conference-2019/) – and we’re so excited to hear you speak on this! Have there been any specific moments in which you had to make a change, or take action, to align who you are with the work that you do? Did that come with any hardships? If so, how did you overcome them?
 
 When I was faced with a career change after touring full-time in music, I was terrified and discouraged. Not only did this drastically change my main source of income, but I was unsure of what kind of work I was even qualified to do beyond that. I felt like so much had been taken away and all I had left was a head full of ideas. I began to write and create art because I realized that this was something I could do while I figured everything else out. Little did I know, that small step would lead to all of the others.
+
+-
 
 ###### Your illustrations and poetry are rooted in encouraging and empowering others. What do you draw from within you to find the right words to give to others?
 
@@ -27,6 +31,8 @@ My main source of inspiration is from people and their stories. Since I was youn
 ### I truly believe that our stories connect us and we can see ourselves in one another. 
 
 I have always had a hard time trying to articulate how I feel, so when I have the opportunity to look beyond myself into the life of someone else, I feel like a connection is formed. And through that connection, I am able to write the words and make the art that I likely need to hear myself.
+
+-
 
 ###### You (very recently) became a mother! Has this life change affected how you view your work and/or goals?
 
@@ -40,6 +46,8 @@ Start small. Create something for one person at a time. Paint a portrait for you
 
 So instead of trying to speak to the entire world or even to an entire community, speak to one person at a time. So many of the most meaningful connections in life are formed just that way.
 
+-
+
 ###### What is something (practical or profound) you wish you could tell yourself five years ago that you know today?
 
 It does not make you irresponsible if you need time to sort things out. Five years ago, I felt like I had to have a plan for everything. I didn’t think it was possible to sustain a living or be at peace with where I was unless I had an answer or an explanation for everything. Now I know that I cannot squeeze all of my life into a series of perfectly curated boxes. It’s okay for projects and ideas and thoughts to spill over into one another. It’s okay to say "no" sometimes and not feel like you have to explain yourself. It doesn’t make you irresponsible to take it one day at a time.
@@ -48,11 +56,17 @@ It does not make you irresponsible if you need time to sort things out. Five yea
 
 Continuing to get out of my comfort zone. I am 29 years old and I feel like my entire 20s was filled with a lot of moments where I had to step out into the unknown, and sometimes, I secretly wish that turning 30 meant that I was finished with that part of my story. However, I know that I must continue to embrace the unknown. I must continue to do things that go beyond me.
 
+-
+
 ###### What has been your greatest struggle as an artist and poet?
 
-Trusting that I am worthy of being heard just as much as anyone else. I have a habit of selling myself short because I feel like someone else is more qualified, interesting, or worthy. I am slowly unlearning this, but it is a daily challenge for me. 
+Trusting that I am worthy of being heard just as much as anyone else. 
 
-### I am forever learning the difference between humility and not thinking less of myself to a detriment. 
+### I have a habit of selling myself short because I feel like someone else is more qualified, interesting, or worthy. 
+
+I am slowly unlearning this, but it is a daily challenge for me. I am forever learning the difference between humility and not thinking less of myself to a detriment. 
+
+-
 
 ###### What are you most looking forward to at the [Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/)?
 
