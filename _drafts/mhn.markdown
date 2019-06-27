@@ -1,6 +1,6 @@
 ---
-title: 'The Artist Creating for the Stories of Strangers: Morgan Harper Nichols, 2019
-  Yellow Speaker'
+title: 'The Artist Creating for the Stories of Strangers: 2019 Yellow Speaker Morgan
+  Harper Nichols'
 date: 2019-07-01 03:00:00 -07:00
 categories:
 - Entrepreneurs
