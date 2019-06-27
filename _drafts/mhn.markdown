@@ -4,6 +4,28 @@ title: 'The Artist Creating for the Stories of Strangers: Morgan Harper Nichols,
 date: 2019-07-01 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- Morgan Harper Nichols
+- artist
+- Instagram poets
+- instagram artists
+- poet
+- illustrator
+- social media
+- storytelling
+- female artist
+- artists of color
+- women of color
+- writer
+- interview
+- yellow conference
+- yellow conference speaker
+- yellow 2019
+- career
+- meaningful work
+- art
+- poetry
+- connection
 author: Hanna Snyder
 image: "/uploads/IMG_2891.jpg"
 ---
