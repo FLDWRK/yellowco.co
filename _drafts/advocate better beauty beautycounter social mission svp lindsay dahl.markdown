@@ -30,6 +30,8 @@ author: Kathryn Parrish
 image: "/uploads/Lindsay-Dahl.jpg"
 ---
 
+_This month’s [Do-Good Dozen winner](https://yellowcollective.lpages.co/do-good-dozen/), [Lindsay Dahl](https://www.instagram.com/beautycounter.hill.nerd/), is a self-proclaimed rabble-rouser and we’re stirred up and ready to rumble. Lindsay takes her passion, frustration and knowledge in the personal care and beauty industry and uses her skills to create change on a large scale.Through her [writing](https://lindsaydahl.com/), campaigning on capitol hill and her work as SVP of Social Mission at [Beautycounter](https://www.beautycounter.com/), Lindsay advocates for toxin-free, better ingredients that go in our homes, baby products, skin and more. Read on to learn about who she is, current inspirations, what surprised her about motherhood and how we can be a part of this movement just by sending a text on our phones._   
+
 ###### Tell us a little about the journey that led you to who you are today.
 
 I grew up in Minnesota from your run-of-the-mill Midwestern family. I was a quirky and precocious kid who wanted to do things differently. My parents taught me that if you want to achieve something big, you need to play the long game. That mindset has helped me channel the patience needed to navigate the legislative process. 
