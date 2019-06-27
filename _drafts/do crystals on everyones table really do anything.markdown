@@ -1,5 +1,5 @@
 ---
-title: do crystals really do anything?
+title: Do These Crystals on Everyone's Side Table Really Do Anything?
 date: 2019-07-05 03:00:00 -07:00
 categories:
 - Health
