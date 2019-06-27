@@ -4,6 +4,7 @@ date: 2019-07-05 03:00:00 -07:00
 categories:
 - Health
 author: Jenna Catalon
+image: "/uploads/avery-klein-C_dRtsnBOQA-unsplash.jpg"
 ---
 
 Everyone has their own “self-care Saturday” routine. Often, mine looks like a lazy stroll over the Potomac to Georgetown via the Francis Scott Key bridge. The other day, I took refuge in the three-story Anthropologie & Co. store on M Street. And yes, it _is_ heaven. With home goods and bridal on the top floor, new arrivals on the middle floor, and accessories downstairs, it’s just a mood-boost sandwich. I smelled _every_ candle until I was a little high on life, I touched all the pretty appliqué dresses, and I tried on sunnies to my heart’s content. (I’d had a long week, okay?)
