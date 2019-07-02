@@ -4,6 +4,7 @@ date: 2019-07-08 03:00:00 -07:00
 categories:
 - Growth
 author: Kasey Dreier
+image: "/uploads/StylewithBuki-016-1.JPG"
 ---
 
 I spend my days coaching creative entrepreneurs and professional rock stars on how to find and live their purpose. Together we co-curate their most meaningful life and career – and I’ve started to notice a concerning pattern. Most of the creative entrepreneurs I work with resist calling themselves a “leader”. Additionally, many of the professional rock stars I coach who are leaders in their companies and fields struggle to make space for their inner artist at home and at work. 
