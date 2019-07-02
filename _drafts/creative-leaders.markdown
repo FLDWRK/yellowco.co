@@ -3,6 +3,7 @@ title: creative leaders
 date: 2019-07-08 03:00:00 -07:00
 categories:
 - Growth
+author: Kasey Dreier
 ---
 
 I spend my days coaching creative entrepreneurs and professional rock stars on how to find and live their purpose. Together we co-curate their most meaningful life and career. And I’ve started to notice a concerning pattern.
