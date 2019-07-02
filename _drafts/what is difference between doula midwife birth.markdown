@@ -3,6 +3,31 @@ title: What's the Difference Between a Doula and a Midwife?
 date: 2019-07-10 03:00:00 -07:00
 categories:
 - Health
+tags:
+- doula
+- midwife
+- natural birth
+- interview
+- health
+- pregnancy
+- pre-partum
+- post-partum
+- birth
+- baby
+- first baby
+- children
+- motherhood
+- partner
+- birth partner
+- hospital
+- doctor
+- what is midwife
+- what is doula
+- difference
+- what to choose birth
+- birth plan
+- birth center
+- natural
 author: Kristi Triplett Jones
 image: "/uploads/JulienGarman-009.JPG"
 ---
