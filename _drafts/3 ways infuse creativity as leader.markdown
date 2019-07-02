@@ -23,7 +23,7 @@ tags:
 - practices
 - tips
 author: Kasey Dreier
-image: "/uploads/StylewithBuki-016-1.JPG"
+image: "/uploads/StylewithBuki-042-1.JPG"
 ---
 
 I spend my days coaching creative entrepreneurs and professional rock stars on how to find and live their purpose. Together we co-curate their most meaningful life and career – and I’ve started to notice a concerning pattern. Most of the creative entrepreneurs I work with resist calling themselves a “leader”. Additionally, many of the professional rock stars I coach who are leaders in their companies and fields struggle to make space for their inner artist at home and at work. 
@@ -51,7 +51,7 @@ How many times have you made something that sucked, but then the “failure” i
 
 So this week, hold a "Crappy Ideas Session" at home, the office, a coffee date with a fellow entrepreneur, or the next PTA meeting. Pick a problem or project you want to work on and generate as many ideas or designs as possible, free from the need to be “perfect.” Then, take a look at what you come up with and see what it inspires.
 
-[StylewithBuki-042-1.JPG](/uploads/StylewithBuki-042-1.JPG)
+[StylewithBuki-016-1.JPG](/uploads/StylewithBuki-016-1.JPG)
 
 #### 2. Flip the frame! 
 
