@@ -1,5 +1,5 @@
 ---
-title: 3 Ways to Infuse More Creativity as a Leader
+title: 3 Ways to Infuse More Creativity into Your Leadership
 date: 2019-07-08 03:00:00 -07:00
 categories:
 - Growth
@@ -39,7 +39,7 @@ Long before institutions and media brainwashed us to associate the archetypal le
 
 It seems to me that leadership and creativity are actually long-time BFFs, and I’m on a mission to reunite them. Because in my opinion, the world is currently walking down a lot of broken roads, and we’ve never needed creative leaders more than we do right now. So whether you’re a creative looking to own your inner leader, or a different type of professional looking to own your inner artist, here are three things you can do to marry your creativity and leadership together. 
 
-[StylewithBuki-026-1.JPG](/uploads/StylewithBuki-026-1.JPG)
+![x.jpeg](/uploads/x.jpeg)
 
 #### 1. Embrace vulnerability: 
 
@@ -51,7 +51,7 @@ How many times have you made something that sucked, but then the “failure” i
 
 So this week, hold a "Crappy Ideas Session" at home, the office, a coffee date with a fellow entrepreneur, or the next PTA meeting. Pick a problem or project you want to work on and generate as many ideas or designs as possible, free from the need to be “perfect.” Then, take a look at what you come up with and see what it inspires.
 
-[StylewithBuki-016-1.JPG](/uploads/StylewithBuki-016-1.JPG)
+![y.jpeg](/uploads/y.jpeg)
 
 #### 2. Flip the frame! 
 
@@ -65,7 +65,7 @@ Here’s a simple way to do that.
 
 Is there a problem or challenge that you currently feel stuck on? Try this out! (It’s a neat trick that I learned in engineering school.) Recruit a teammate and lay out the project or problem. Then, write down or draw out all of the assumptions that you’re making. For example, let’s say that you are planning to run a workshop and film it for marketing collateral, but you can’t seem to figure out how to make it happen. 
 
-[StylewithBuki-017-1.JPG](/uploads/StylewithBuki-017-1.JPG)
+![z.jpeg](/uploads/z.jpeg)
 
 So your assumptions currently are:
 - I have to have $2,500 to throw a kick ass event and pay a team to film it.
@@ -81,7 +81,7 @@ Then, assume the opposite. Literally flip your assumptions.
 
 Then, do a quick design session with the new assumptions. See what you come up with. (Note: this is a process I used to use as a stormwater engineer and one I use all the time with my clients. It’s very versatile.)
 
-[StylewithBuki-033-1.JPG](/uploads/StylewithBuki-033-1.JPG)
+![w.jpeg](/uploads/w.jpeg)
 
 #### 3. Connect the dots. 
 
@@ -98,7 +98,7 @@ For example:
 
 If we want to create outside of silos, we have to literally create outside of siloed environments. In other words, change our scenery. We’re conditioned to do certain activities in certain places at certain times. So give yourself permission to mix up your mediums on Monday (or really any day... I just like alliteration). Get your team together to do an activity that has nothing to do with the work that you’re doing, and see what dots and patterns appear. 
 
-[StylewithBuki-022-1.JPG](/uploads/StylewithBuki-022-1.JPG)
+![b-e7bf17.jpeg](/uploads/b-e7bf17.jpeg)
 
 The ways of thinking that have created the world’s current challenges will not be able to solve them. The world needs more creative leaders. We need people who have the courage to go their own way and to create a path for others to follow. We need people who can inspire us to flip problems upside down and connect invisible dots. 
 
