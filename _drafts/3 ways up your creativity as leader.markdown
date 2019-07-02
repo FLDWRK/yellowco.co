@@ -1,5 +1,5 @@
 ---
-title: creative leaders
+title: 3 Ways to up Your Creativity as a Leader
 date: 2019-07-08 03:00:00 -07:00
 categories:
 - Growth
