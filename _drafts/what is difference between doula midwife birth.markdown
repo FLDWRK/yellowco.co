@@ -38,7 +38,7 @@ _There has been a huge increase in American mothers choosing to use midwives and
 
 I was never interested in the birthing process. I thought it was beautiful, a true miracle, but never was interested. A few years ago, I was sitting at work - I was a writer - and I asked myself, where could I really connect with people. I was by myself the majority of my working time, which was lonely and not very life-giving. I wanted to be a support to someone, to help people feel strength and courage in their most vulnerable moments. Going to sleep that very night, I had this vivid dream. I was at a birth with a woman. She was sweating, screaming. and her mom was next to her. The doctor was there and then there I was right next to her, supporting her. I had the dream again the next night. After that week, I started to research birth work where I lived. I found a few blog posts and websites about doulas, which I had heard about but didn’t fully understand. I read more, and discovered that this was exactly what I wanted to do. You get to come in as this powerhouse and force of knowledge for people in their most vulnerable moments. I immediately signed up for a doula training class and began. 
 
-[JulienGarman-013.JPG](/uploads/JulienGarman-013.JPG)
+![b22.jpeg](/uploads/b22.jpeg)
 
 ###### Having so many years of experience as a doula, could you describe the difference between a doula and a midwife? 
 
@@ -52,7 +52,7 @@ People don’t realize that there is a chunk of time where the midwife can’t b
 
 When the midwife is in the room, the partner can sometimes feel awkward and out of place. The doula can make sure the partner is feeling comfortable, that they understand this is THEIR child being born, and they don’t miss any experience in the room. There are so many different experiences you can have with a midwife. It’s important to sit down and discuss when they will be with you during the birthing process, what their process of birth looks like, and so on. 
 
-[JulienGarman-002.JPG](/uploads/JulienGarman-002.JPG)
+![b2.jpeg](/uploads/b2.jpeg)
 
 ###### How does the midwife and doula work together during labor?
 
@@ -64,7 +64,7 @@ There are so many benefits of getting a midwife, and that should be decided with
 
 ### It has the potential to be a chaotic environment, so the doula is the grounding person for you. Your advocate. Your support. Your guide.
 
-[JulienGarman-022.JPG](/uploads/JulienGarman-022.JPG)
+![b4.jpeg](/uploads/b4.jpeg)
 
 The biggest thing I’m realizing is that the doula is there for the mother and for the partner. Whether your partner is a woman or man, that person almost always feels like they don’t have a place in the labor room. But this is their child, too. The partner has a place and a voice in the labor room, and the doula gets everyone involved. New life is coming into the world, so let’s all be fully into it. 
 
