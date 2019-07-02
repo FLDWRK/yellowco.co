@@ -41,7 +41,7 @@ It seems to me that leadership and creativity are actually long-time BFFs, and I
 
 ![x.jpeg](/uploads/x.jpeg)
 
-#### 1. Embrace vulnerability: 
+#### 1. Embrace vulnerability. 
 
 It’s time to put purpose back in the center of our lives and our work. That requires leadership and leaning into vulnerability. Luckily, creativity and vulnerability are close cousins.
 
