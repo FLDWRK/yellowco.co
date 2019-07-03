@@ -47,13 +47,17 @@ We’re also focused on building a research and development capacity to ensure t
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/x7cwR2G-5Ng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 ###### I loved your [Stop Sexortation Campaign](https://www.thorn.org/sextortion/). How do you help young people navigate the pressures they face to send nude photos to others? And how do you help with the subsequent bullying they often face if the photos leak? 
 
 The fastest growing portion of online child sexual imagery is self-produced. There are a lot of circumstances under which this is created. Often it can be created by a child when they think they’re just sharing it with a friend and then it gets out of control and goes viral. Or, often it can be created under coercion by someone they know or by someone they meet online who convinces them to produce material. Sometimes these situations can get out of control to the point where the child is then extorted to continue to produce more and more egregious content. The perpetrator relies on the fact that the child is afraid and ashamed in order to get them to comply with their direction. 
 
 ### Our campaign and efforts right now are designed to remove the shame; to give children and caregivers the words and information they need to talk about this. 
 
-If a child can talk about it, and ask for help without the fear of getting in trouble, then we create a safe space to stop the abuse.  
+If a child can talk about it, and ask for help without the fear of getting in trouble, then we create a safe space to stop the abuse. 
+
+- 
 
 ###### When it comes to the issue of online child sexual abuse, what gives you hope?
 
