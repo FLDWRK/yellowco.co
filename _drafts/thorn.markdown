@@ -3,6 +3,23 @@ title: thorn
 date: 2019-07-12 03:00:00 -07:00
 categories:
 - Culture
+tags:
+- Thorn
+- TED
+- audacious project
+- sexual abuse
+- non-profit
+- technology
+- julie cordua
+- ashton kutcher
+- interview
+- sex trafficking
+- children
+- child
+- internet
+- making change
+- eliminating sex trafficking
+- ted talk
 author: Talitha Baker
 image: "/uploads/ted-1.jpg"
 ---
