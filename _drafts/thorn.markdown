@@ -4,6 +4,7 @@ date: 2019-07-12 03:00:00 -07:00
 categories:
 - Culture
 author: Talitha Baker
+image: "/uploads/ted-1.jpg"
 ---
 
 _Child sex trafficking is a heartbreaking issue that’s been fueled through the internet’s wide reach and through the increasing global access to cameras. To outsmart traffickers, organizations like [Thorn](https://www.thorn.org/) are constantly pushing technological boundaries, stopping online child trafficking in its tracks. I spoke with Thorn’s CEO, [Julie Cordua](https://www.thorn.org/about-our-fight-against-sexual-exploitation-of-children/), to learn more about how they work strategically on this issue, while also weaving a message of hope into all that they do._
