@@ -1,5 +1,6 @@
 ---
-title: thorn
+title: 'The Nonprofit Using Technology to End Online Child Abuse: An Interview with
+  Thorn’s CEO'
 date: 2019-07-12 03:00:00 -07:00
 categories:
 - Culture
