@@ -18,7 +18,7 @@ We then create products and programs to intervene in three key ways:
 2. Enabling platforms to stop abuse 
 3. Changing behaviors.   
 
--
+![DSC07859-1.jpg](/uploads/DSC07859-1.jpg)
 
 ###### What makes your approach to resolving the issue of online child sexual abuse unique?
 
@@ -28,7 +28,7 @@ We’re one of the only organizations in the world that maintains a full-time en
 
 We work across multiple types of organizations: law enforcement, government, nonprofits, the private sector, in order to achieve our common goals. We’re essentially building technology and connecting data to help make the whole ecosystem run more smoothly. There’s a massive amount of data in this field and right now it’s siloed around the world. It will work best for the child if it’s connected, moving in real-time, so that those on the frontlines can make critical decisions about identifying victims and stopping the viral spread of content on platforms.    
 
--
+[TED2019_20190416_1BH3673_3000-1.JPG](/uploads/TED2019_20190416_1BH3673_3000-1.JPG)
 
 ###### I understand you’re one of eight recipients to earn a portion of a $280 million grant from TED’s [The Audacious Project](https://audaciousproject.org/). Congrats! How do you plan to put those funds to use? 
 
@@ -44,7 +44,7 @@ Our technical rebuild of this system will drastically cut human review times, el
 
 We’re also focused on building a research and development capacity to ensure that we are not missing emerging trends and we’re building for the future, not just today. Technology moves very quickly and today we’re cleaning up the content that has spread widely unchecked for decades.  We don’t want to be in this position again and want to get ahead of the next way technology will be used for abuse.
 
--
+![DSC07864-1.jpg](/uploads/DSC07864-1.jpg)
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/x7cwR2G-5Ng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -58,7 +58,7 @@ The fastest growing portion of online child sexual imagery is self-produced. The
 
 If a child can talk about it, and ask for help without the fear of getting in trouble, then we create a safe space to stop the abuse. 
 
-- 
+![DSC07871-1.jpg](/uploads/DSC07871-1.jpg)
 
 ###### When it comes to the issue of online child sexual abuse, what gives you hope?
 
