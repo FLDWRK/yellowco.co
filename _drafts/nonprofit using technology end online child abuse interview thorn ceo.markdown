@@ -62,8 +62,6 @@ Our technical rebuild of this system will drastically cut human review times, el
 
 We’re also focused on building a research and development capacity to ensure that we are not missing emerging trends and we’re building for the future, not just today. Technology moves very quickly and today we’re cleaning up the content that has spread widely unchecked for decades.  We don’t want to be in this position again and want to get ahead of the next way technology will be used for abuse.
 
-![DSC07864-1.jpg](/uploads/DSC07864-1.jpg)
-
 <iframe width="720" height="405" src="https://www.youtube.com/embed/x7cwR2G-5Ng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
@@ -76,7 +74,7 @@ The fastest growing portion of online child sexual imagery is self-produced. The
 
 If a child can talk about it, and ask for help without the fear of getting in trouble, then we create a safe space to stop the abuse. 
 
-![DSC07871-1.jpg](/uploads/DSC07871-1.jpg)
+![DSC07864-1.jpg](/uploads/DSC07864-1.jpg)
 
 ###### When it comes to the issue of online child sexual abuse, what gives you hope?
 
