@@ -6,7 +6,7 @@ categories:
 author: Talitha Baker
 ---
 
-_Child sex trafficking is a heartbreaking issue that’s been fueled through the internet’s wide reach and through the increasing global access to cameras. To outsmart traffickers, organizations like [Thorn](https://www.thorn.org/) are constantly pushing technological boundaries, stopping online child trafficking in its tracks. I sat down with Thorn’s CEO, Julia Cordua, to learn more about how they work strategically on this issue, while also interweaving a message of hope into all that they do._
+_Child sex trafficking is a heartbreaking issue that’s been fueled through the internet’s wide reach and through the increasing global access to cameras. To outsmart traffickers, organizations like [Thorn](https://www.thorn.org/) are constantly pushing technological boundaries, stopping online child trafficking in its tracks. I sat down with Thorn’s CEO, [Julie Cordua](https://www.thorn.org/about-our-fight-against-sexual-exploitation-of-children/), to learn more about how they work strategically on this issue, while also interweaving a message of hope into all that they do._
 
 ###### Can you share about the work Thorn does?
 
@@ -23,6 +23,7 @@ We’re one of the only organizations in the world that maintains a full-time en
 
 We work across multiple types of organizations: law enforcement, government, nonprofits, the private sector, in order to achieve our common goals. We’re essentially building technology and connecting data to help make the whole ecosystem run more smoothly. There’s a massive amount of data in this field and right now it’s siloed around the world. It will work best for the child if it’s connected, moving in real-time, so that those on the frontlines can make critical decisions about identifying victims and stopping the viral spread of content on platforms.    
 
+https://twitter.com/i/broadcasts/1zqJVawyjVdGB?fbclid=IwAR1TvOM9BZ81gpY0ZJFJK08pHaphtZen_nvo_4Zhel3f-WbmBT4-Rcp-uK8
 
 ###### I understand you’re one of eight recipients to earn a portion of a $280 million grant from TED’s The Audacious Project. Congrats! How do you plan to put those funds to use? (I’ll include this video in the answer 1:36) 
 
