@@ -29,13 +29,13 @@ We work across multiple types of organizations: law enforcement, government, non
 
 https://twitter.com/i/broadcasts/1zqJVawyjVdGB?fbclid=IwAR1TvOM9BZ81gpY0ZJFJK08pHaphtZen_nvo_4Zhel3f-WbmBT4-Rcp-uK8
 
-###### I understand you’re one of eight recipients to earn a portion of a $280 million grant from TED’s The Audacious Project. Congrats! How do you plan to put those funds to use? 
+###### I understand you’re one of eight recipients to earn a portion of a $280 million grant from TED’s [The Audacious Project](https://audaciousproject.org/). Congrats! How do you plan to put those funds to use? 
 
 _(You can watch Julie's talk here, just skip ahead to 1:36)_ 
 
 Our audacious goal is to eliminate the trade of child sexual abuse material online. We’re using these funds to build upon work we’ve already doing to build the tools to help identify children in abuse images faster and to stop the spread of abuse material online. This requires us to expand our engineering and data science teams.  
 
-It also means we’ll be investing deeply in partnerships that help make the whole global ecosystem work better. We’ll be partnering with the National Center for Missing and Exploited Children to rebuild and re-tool NCMEC’s industry reporting platform (the CyberTipline) with leading edge image vision tools and automation. This is the hotline where companies are required to report child sexual abuse they find on their platform. 
+It also means we’ll be investing deeply in partnerships that help make the whole global ecosystem work better. We’ll be partnering with the [National Center for Missing and Exploited Children](http://www.missingkids.com/) to rebuild and re-tool NCMEC’s industry reporting platform (the CyberTipline) with leading edge image vision tools and automation. This is the hotline where companies are required to report child sexual abuse they find on their platform. 
 
 ### In 2018, companies reported more than 45 million images and videos of suspected child sexual abuse. 
 
@@ -43,9 +43,9 @@ Our technical rebuild of this system will drastically cut human review times, el
 
 We’re also focused on building a research and development capacity to ensure that we are not missing emerging trends and we’re building for the future, not just today. Technology moves very quickly and today we’re cleaning up the content that has spread widely unchecked for decades.  We don’t want to be in this position again and want to get ahead of the next way technology will be used for abuse.
 
-###### I loved your Stop Sexortation Campaign. How do you help young people navigate the pressures they face to send nude photos to others? And how do you help with the subsequent bullying they often face if the photos leak? 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/x7cwR2G-5Ng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=x7cwR2G-5Ng
+###### I loved your [Stop Sexortation Campaign](https://www.thorn.org/sextortion/). How do you help young people navigate the pressures they face to send nude photos to others? And how do you help with the subsequent bullying they often face if the photos leak? 
 
 The fastest growing portion of online child sexual imagery is self-produced. There are a lot of circumstances under which this is created. Often it can be created by a child when they think they’re just sharing it with a friend and then it gets out of control and goes viral. Or, often it can be created under coercion by someone they know or by someone they meet online who convinces them to produce material. Sometimes these situations can get out of control to the point where the child is then extorted to continue to produce more and more egregious content. The perpetrator relies on the fact that the child is afraid and ashamed in order to get them to comply with their direction. 
 
