@@ -1,5 +1,5 @@
 ---
-title: x
+title: 4 Ways to Use Social Media During Your Next Event to Raise More $$ & Awareness
 date: 2019-07-19 03:00:00 -07:00
 categories:
 - Entrepreneurs
