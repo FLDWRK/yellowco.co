@@ -29,7 +29,7 @@ tags:
 - business
 - community
 author: Dana Bakich
-image: "/uploads/mia-baker-15q2ZCDbQFU-unsplash-1.jpg"
+image: "/uploads/XYZ.jpeg"
 ---
 
 Planning an event can be stressful! There are so many details to consider for your guests, but what about the people that can’t attend? Developing a thoughtful social media strategy can help you expand your pool of donors and attract support from those unable to be there in-person. 
