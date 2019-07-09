@@ -4,6 +4,7 @@ date: 2019-07-19 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Dana Bakich
+image: "/uploads/sticker-mule-cPSroMqTRQg-unsplash-1.jpg"
 ---
 
 Planning a fundraising event can be stressful! There are so many details to consider for your guests, but what about the people that can’t attend? Developing a thoughtful social media strategy can help you expand your pool of donors and attract support from those unable to be there in-person. 
@@ -20,6 +21,8 @@ Plan posts to send at regular intervals that recognize speakers or that share ev
 - **Define a hashtag** for the event and use it in every related post to generate recognition. It’s a good idea to use the same hashtag each year; this helps keep up awareness from one year to the next.
 - **Give your speakers tools** they can use to help promote the gala and publicize their involvement. For example, create engaging graphics and sample posts for others to share.
 
+![hans-vivek-Ex8y5KfgBNI-unsplash-1.jpg](/uploads/hans-vivek-Ex8y5KfgBNI-unsplash-1.jpg)
+
 #### Monetize your digital channels (yes, you can do this)!
 
 Traditional sponsorship packages often include mentions on social media, but few offer a digital-only package. That’s right! MONETIZE those social media channels! Digital content reaches far beyond the walls of an event, so this can be an attractive option for companies interested in getting noticed for trying to make a difference. A digital sponsorship package could include multiple offerings. Here’s a few ideas to get you brainstorming!
@@ -29,13 +32,15 @@ Traditional sponsorship packages often include mentions on social media, but few
 - **Host a ["Live With" video on Instagram](https://help.instagram.com/126662934757177?helpref=search&sr=1&query=live%20with)** and have the sponsor join you remotely for a split-screen conversation. This notifies both organizations’ followers, which helps to attract new supporters and expand your audience. For example, Unseen, a nonprofit that trains organizations fighting human trafficking, shared a live Facebook video in which it interviewed a group it works with about its impact. The partner nonprofit, Shai Fund, also shared the feed on its page to help boost views and engagement.
 - **Let a sponsor’s spokesperson take over your [Instagram Story](https://help.instagram.com/1660923094227526)** – a story shows photos, videos, and texts that expire in 24 hours – to showcase the company’s involvement with your cause. 
 
--
+![priscilla-du-preez-jLH2jMEL6Ls-unsplash-1.jpg](/uploads/priscilla-du-preez-jLH2jMEL6Ls-unsplash-1.jpg)
 
 #### “Go Live” providing a BTS perspective of your event.
 
 We’ve heard it a million times - use [Facebook Live](https://www.facebook.com/watch/?v=542037599606410) in your marketing strategy. It’s truly an impactful tool that has the power to generate awareness and $$$ using the donate button.
 Do you remember when Ariana Grande posted a live video of her 2017 “One Love Manchester” benefit concert? She was able to help raise $280,000 in donations for the Entertainment Industry Foundation. 
 We’re all not Ariana Grande, but by going live, Facebook sends out a notification to followers to watch. It’s an immediate call-to-action to drive engagement. 
+
+![priscilla-du-preez-7etIYqqw2jU-unsplash-1.jpg](/uploads/priscilla-du-preez-7etIYqqw2jU-unsplash-1.jpg)
 
 #### Extend the impact & reduce #FOMO.
    
