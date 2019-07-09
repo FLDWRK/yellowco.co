@@ -1,10 +1,10 @@
 ---
-title: 4 Ways to Use Social Media During Your Next Event to Raise More $$ & Awareness
+title: 4 Ways to Use Social Media During Your Next Event to Raise More $$ and Awareness
 date: 2019-07-19 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Dana Bakich
-image: "/uploads/sticker-mule-cPSroMqTRQg-unsplash-1.jpg"
+image: "/uploads/mia-baker-15q2ZCDbQFU-unsplash-1.jpg"
 ---
 
 Planning an event can be stressful! There are so many details to consider for your guests, but what about the people that can’t attend? Developing a thoughtful social media strategy can help you expand your pool of donors and attract support from those unable to be there in-person. 
@@ -21,7 +21,7 @@ Plan posts to send at regular intervals that recognize speakers or that share ev
 - **Define a hashtag** for the event and use it in every related post to generate recognition. It’s a good idea to use the same hashtag each year; this helps keep up awareness from one year to the next.
 - **Give your speakers tools** they can use to help promote the gala and publicize their involvement. For example, create engaging graphics and sample posts for others to share.
 
-![hans-vivek-Ex8y5KfgBNI-unsplash-1.jpg](/uploads/hans-vivek-Ex8y5KfgBNI-unsplash-1.jpg)
+![priscilla-du-preez-jLH2jMEL6Ls-unsplash-1.jpg](/uploads/priscilla-du-preez-jLH2jMEL6Ls-unsplash-1.jpg)
 
 #### Monetize your digital channels (yes, you can do this)!
 
@@ -32,7 +32,7 @@ Traditional sponsorship packages often include mentions on social media, but few
 - **Host a ["Live With" video on Instagram](https://help.instagram.com/126662934757177?helpref=search&sr=1&query=live%20with)** and have the sponsor join you remotely for a split-screen conversation. This notifies both organizations’ followers, which helps to attract new supporters and expand your audience. For example, Unseen, a nonprofit that trains organizations fighting human trafficking, shared a live Facebook video in which it interviewed a group it works with about its impact. The partner nonprofit, Shai Fund, also shared the feed on its page to help boost views and engagement.
 - **Let a sponsor’s spokesperson take over your [Instagram Story](https://help.instagram.com/1660923094227526)** – a story shows photos, videos, and texts that expire in 24 hours – to showcase the company’s involvement with your cause. 
 
-![priscilla-du-preez-jLH2jMEL6Ls-unsplash-1.jpg](/uploads/priscilla-du-preez-jLH2jMEL6Ls-unsplash-1.jpg)
+![hans-vivek-Ex8y5KfgBNI-unsplash-1.jpg](/uploads/hans-vivek-Ex8y5KfgBNI-unsplash-1.jpg)
 
 #### “Go Live” providing a BTS perspective of your event.
 
