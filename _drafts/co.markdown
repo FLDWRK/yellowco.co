@@ -1,9 +1,10 @@
 ---
-title: how to convince your boss to send you to the 2019 yellow conference
+title: How to Convince Your Boss to Send You to the 2019 Yellow Conference
 date: 2019-07-15 03:00:00 -07:00
 categories:
 - Growth
 author: Joanna Waterfall
+image: "/uploads/103-0P7A4966-1.jpg"
 ---
 
 The [2019 Yellow Conference](https://yellowco.co/conference/) is coming QUICK! We've been hearing from some of you that while you're dying to make it, you need some help getting the time off from work and/or getting your company to pay for you to come. We want to make sure you can be there, so today we're sharing everything you need to know to pitch the Yellow Conference to your boss - why it's a worthy investment, what you can bring back to your team afterwards, how it will benefit you as an employee and them as a business, and more!  So gather that courage, go pitch it to your boss, and then [grab your ticket to Yellow](https://yellowco.co/conference/)!
