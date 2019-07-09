@@ -15,19 +15,19 @@ Answer: It’s called [The Yellow Conference](https://yellowco.co/conference/) a
 
 You can check out our 2019 speaker line-up [here](https://yellowco.co/conference/) with more announcements to come soon! This year will be speaking, and will be joining our panels!
 
-![0P7A2777-1.jpg](/uploads/0P7A2777-1.jpg)
+![464-0P7A5417-3b798f.jpg](/uploads/464-0P7A5417-3b798f.jpg)
 
 ##### Boss Question #2: What are you going to get out of this?
 
 Answer: Overall, the focus is on helping women create meaningful work in the world. Whether that’s through do-good business and entrepreneurship, art, creativity, writing or whatever your ﬁeld of work is. I’m going to leave feeling inspired and more motivated (meaning the amount I’m going to get done on Monday is going to be insane good). I’m going to leave with more tools, resources and advice on how I can (and we can, as a company) integrate more meaning, purpose and social causes into our work culture, systems and processes. I’m also going to leave with some amazing connections with women in the social good space. Which means more partnerships and potential opportunities for us as a company! There’s also a Do-Good Goods Marketplace, which if you let me go, maaaybe I’ll grab you a do-good gift! ;)
 
-![0P7A3043-1.jpg](/uploads/0P7A3043-1.jpg)
+![357-0P7A7555.jpg](/uploads/357-0P7A7555.jpg)
 
 ##### Boss Question #3: Why do you want to go?
 
 Answer: I know as a company we value making an impact for good and creating meaningful and purposeful work. This is what I’ll learn to do more of and connect with other women who are also working towards the same thing. I want to challenge myself and my current way of thinking, be exposed to new ideas and industry trends, I want to make connections with others in the social good space, and I believe that me attending this conference will beneﬁt our organization as a whole when I come back and implement everything I’ve learned! Aaaand I want to get my holiday shopping done in the Do-Good Goods Marketplace!
 
-![0P7A7029-1.jpg](/uploads/0P7A7029-1.jpg)
+![083-0P7A4869.jpg](/uploads/083-0P7A4869.jpg)
 
 ##### Boss Question #4: Cool! How much is it?
 
