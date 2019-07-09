@@ -1,11 +1,10 @@
 ---
 title: x
-date: 2019-07-09 13:56:00 -07:00
+date: 2019-07-19 03:00:00 -07:00
+categories:
+- Entrepreneurs
+author: Dana Bakich
 ---
-
-Word Count: 974
-
-4 Tips on Using Social Media to Increase $$ at Your Next Fundraising Event
 
 Planning a fundraising event can be stressful! There are so many details to consider for your guests, but what about the people that can’t attend? Developing a thoughtful social media strategy can help you expand your pool of donors and attract support from those unable to be there in-person. 
 
