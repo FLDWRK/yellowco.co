@@ -2,6 +2,7 @@
 title: everything to know about natural wines
 date: 2019-07-17 03:00:00 -07:00
 author: Megan Faletra
+image: "/uploads/kelsey-chance-CutTQTt2HyI-unsplash.jpg"
 ---
 
 _Natural wines are taking off globally as more people are becoming intersted in how their favorite wines are made and the impact they leave on the environment, and our bodies. But picking a natural wine can be confusing with labels like biodynamic, organic, and sustainable all being used to describe natural wines, and consumers being left wondering which option really is best. To help clear up some of this confusion, we decided to dive into the complex world of natural wines with one of our favorite brands Dry Farm Wines to discuss what really makes a wine “natural”, and what consumers should be on the look out for when choosing their next natural wine._
