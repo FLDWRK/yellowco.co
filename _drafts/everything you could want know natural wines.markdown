@@ -1,6 +1,8 @@
 ---
-title: everything to know about natural wines
+title: Everything You Could Want to Know About Natural Wines
 date: 2019-07-17 03:00:00 -07:00
+categories:
+- Conscious Living
 author: Megan Faletra
 image: "/uploads/kelsey-chance-CutTQTt2HyI-unsplash.jpg"
 ---
