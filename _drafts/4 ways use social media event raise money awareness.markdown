@@ -3,6 +3,31 @@ title: 4 Ways to Use Social Media During Your Next Event to Raise More $$ and Aw
 date: 2019-07-19 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- events
+- fundraiser
+- conference
+- summit
+- money
+- profit
+- make money
+- donors
+- sponsors
+- raise money
+- raise awareness
+- social media
+- igtv
+- facebook live
+- instagram live
+- instagram stories
+- nonprofits
+- entrepreneurs
+- strategy
+- live
+- digital channels
+- social media platform
+- business
+- community
 author: Dana Bakich
 image: "/uploads/mia-baker-15q2ZCDbQFU-unsplash-1.jpg"
 ---
