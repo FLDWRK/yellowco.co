@@ -3,6 +3,33 @@ title: How to Convince Your Boss to Send You to the 2019 Yellow Conference
 date: 2019-07-15 03:00:00 -07:00
 categories:
 - Growth
+tags:
+- Yellow Conference
+- yellow conference 2019
+- conference
+- los angeles
+- dtla
+- women
+- entrepreneurs
+- women's conference
+- entrepreneur conference
+- creative conference
+- creatives
+- female founders
+- speakers
+- panels
+- workshops
+- marketplace
+- do-good goods marketplace
+- ethical shopping
+- '2019'
+- yellow
+- meaningful work
+- purposeful entrepreneur
+- social entrepreneur
+- boss
+- convince your boss
+- have work send you to yellow
 author: Joanna Waterfall
 image: "/uploads/103-0P7A4966-1.jpg"
 ---
