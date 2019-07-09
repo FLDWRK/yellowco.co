@@ -17,24 +17,28 @@ He set out on a mission to share this wine with the US market in the hopes of he
 ###### What is the difference between natural and commercially produced wine?
 
 There are many. Here are the top 3:
-No commercial processing. Natural Wines are not processed like commercial wines. Commercial wines are made with industrial additives, heavy machinery, and farming chemicals. This creates a mass-produced, shelf stable product. Natural Wine does not contain any of this. It’s wine that is naturally alive with beneficial gut bacteria and antioxidants, made from two simple ingredients: organic grapes and wild yeast. 
-Smaller farms. Commercial wines come from large corporations that hide behind smaller brands. Natural Wines come from small, family farms working with respect for Nature. They follow organic or biodynamic farming practices that remove human intervention whenever possible.
-Vibrant taste. Commercial wines present the same taste: heavy, full body with high alcohol and sweeter finish. Natural Wines taste different. They are alive, so they taste more vibrant and fresh. Plus, they go better with food since they do not contain heavy flavor additives or dyes.    
+  
+**No commercial processing.** Natural Wines are not processed like commercial wines. Commercial wines are made with industrial additives, heavy machinery, and farming chemicals. This creates a mass-produced, shelf stable product. Natural Wine does not contain any of this. It’s wine that is naturally alive with beneficial gut bacteria and antioxidants, made from two simple ingredients: organic grapes and wild yeast. 
+
+**Smaller farms.** Commercial wines come from large corporations that hide behind smaller brands. Natural Wines come from small, family farms working with respect for Nature. They follow organic or biodynamic farming practices that remove human intervention whenever possible.
+
+**Vibrant taste.** Commercial wines present the same taste: heavy, full body with high alcohol and sweeter finish. Natural Wines taste different. They are alive, so they taste more vibrant and fresh. Plus, they go better with food since they do not contain heavy flavor additives or dyes.    
 
 ###### What do you wish more people knew about commercially produced wines?
 
 We wish more people know about these 2 ills in the commercial wine industry: 
 
-Heavy use of additives. The FDA approves 76 additives for use in winemaking in the US. The consumer would not know this because wine lobbyists fight hard to keep contents labels off wine bottles. Legal additives include  
-High alcohol. Since the 1990s, wine alcohol levels have steadily increased. In 1992, the average was 12.7%. In 2009, it jumped to 13.8%. Today, it averages nearly 15% and climbing. Wine corporations love high alcohol because it’s addictive. But alcohol is toxic, and can be harmful if consumed in high doses.
+**Heavy use of additives.** The FDA approves 76 additives for use in winemaking in the US. The consumer would not know this because wine lobbyists fight hard to keep contents labels off wine bottles. Legal additives include  
+
+**High alcohol.** Since the 1990s, wine alcohol levels have steadily increased. In 1992, the average was 12.7%. In 2009, it jumped to 13.8%. Today, it averages nearly 15% and climbing. Wine corporations love high alcohol because it’s addictive. But alcohol is toxic, and can be harmful if consumed in high doses.
 
 ###### Several terms are often often used in relation to natural wines - can you describe the differences between Biodynamic, Organic, and Natural wines?
 
-Biodynamic is a certified method of farming that focuses on increasing biodiversity of the farm by creating a complete ecosystem. This includes composting, planting native flower species, and picking grapes by the sun/moon cycles. The biodiversity strengthens soil bacteria, leading to healthier, polyphenol-rich wines with thoughtful complexity of flavor.
+**Biodynamic** is a certified method of farming that focuses on increasing biodiversity of the farm by creating a complete ecosystem. This includes composting, planting native flower species, and picking grapes by the sun/moon cycles. The biodiversity strengthens soil bacteria, leading to healthier, polyphenol-rich wines with thoughtful complexity of flavor.
 
-Organic is a certified method of farming that does not allow the use of fertilizers, pesticides, and some other chemicals in the vineyard. Organic farming increases soil health and promotes stronger plants that fight for themselves instead of relying on the help of man made chemicals.
+**Organic** is a certified method of farming that does not allow the use of fertilizers, pesticides, and some other chemicals in the vineyard. Organic farming increases soil health and promotes stronger plants that fight for themselves instead of relying on the help of man made chemicals.
 
-Natural is not a legally defined term, but it refers to a powerful idea: to make real wine, you must remove humans as much as possible. Nature has all the tools it needs to produce healthful, tasty wine: wild native yeasts, organic grapes, soil, sun, wind, and rain.    
+**Natural** is not a legally defined term, but it refers to a powerful idea: to make real wine, you must remove humans as much as possible. Nature has all the tools it needs to produce healthful, tasty wine: wild native yeasts, organic grapes, soil, sun, wind, and rain.    
 
 ###### What are the health benefits of choosing a natural wine over a commercially produced wine?
 
@@ -74,7 +78,7 @@ And we do something most wine clubs will not: we offer a 100% Happiness Promise.
 
 It is virtually impossible to find our high quality, lab tested wines in stores and restaurants. But, here are a few tips to get you close:
 
-Choose organic or biodynamic wines
-Drink wines mainly from Europe (our favorite countries are France, Austria, and Italy) 
-Look for the alcohol content on the bottle and choose anything below 12.5%
-If there is a wine specialist or sommelier present, ask for wines that are “fully fermented” - i.e., less than 1g of sugar 
+- Choose organic or biodynamic wines.
+- Drink wines mainly from Europe (our favorite countries are France, Austria, and Italy). 
+- Look for the alcohol content on the bottle and choose anything below 12.5%.
+- If there is a wine specialist or sommelier present, ask for wines that are “fully fermented” - i.e., less than 1g of sugar. 
