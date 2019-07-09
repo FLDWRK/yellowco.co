@@ -7,9 +7,9 @@ author: Dana Bakich
 image: "/uploads/sticker-mule-cPSroMqTRQg-unsplash-1.jpg"
 ---
 
-Planning a fundraising event can be stressful! There are so many details to consider for your guests, but what about the people that can’t attend? Developing a thoughtful social media strategy can help you expand your pool of donors and attract support from those unable to be there in-person. 
+Planning an event can be stressful! There are so many details to consider for your guests, but what about the people that can’t attend? Developing a thoughtful social media strategy can help you expand your pool of donors and attract support from those unable to be there in-person. 
 
-We’ve all seen the Facebook Fundraisers, monthly asks online, and email campaigns for giving. When you’re planning your event, don’t forget about the digital component that can bring in not only additional $$, but awareness as well. Here’s four digital tactics that can help you take any fundraising event to the next level. 
+We’ve all seen the Facebook Fundraisers, monthly asks online, and email campaigns for giving/sales. When you’re planning your event, don’t forget about the digital component that can bring in not only additional $$, but awareness as well. Here’s four digital tactics that can help you take any event to the next level. 
 
 #### Get your audience pumped early!
 
@@ -46,7 +46,7 @@ We’re all not Ariana Grande, but by going live, Facebook sends out a notificat
    
 The event is now over and you’re thinking about taking the next day off… The day after is the MOST important day to reiterate your mission and how special the event was. Since it’s still fresh in everyone’s mind, you want to make sure to keep the conversation and interest top of mind. Keep the momentum going by:
 
-- **Create a new [Twitter “moment”](https://help.twitter.com/en/using-twitter/twitter-moments)** that showcases highlights on Twitter related to the gala. This is a visually appealing yet easy way to showcase the most impactful moments of the night. When you create a Twitter moment, you’re essentially creating a highlight reel of tweets from the night. The moment can include other users’ tweets, images, and videos as well as your own. (Tag @moments and @nonprofits to increase your chances of getting retweeted and amplifying your post.)
+- **Create a new [Twitter “moment”](https://help.twitter.com/en/using-twitter/twitter-moments)** that showcases highlights on Twitter related to the event. This is a visually appealing yet easy way to showcase the most impactful moments of the night. When you create a Twitter moment, you’re essentially creating a highlight reel of tweets from the night. The moment can include other users’ tweets, images, and videos as well as your own. (Tag @moments and @nonprofits - if applicable - to increase your chances of getting retweeted and amplifying your post.)
 - **Make an Instagram “[highlight](https://help.instagram.com/813938898787367?helpref=search&sr=3&query=highlight)”**, which is similar to a Twitter moment. You can select your favorite stories to add to a highlight that will stay on your profile as long as you like.
 - **Post a video on IGTV**, Instagram’s video application, which allows users to publish 15 seconds to 10 minutes of video content. (If you’re a verified account, you can upload up to 60 minutes of content.) Videos must be vertical, so you should request a version in this format if you hire a professional videographer to film your event. A video that recaps the gala or advertises the date for next year’s gathering are both options that work well.
 - **Upload your best event photos to a new Facebook album.** Doing this each year will help potential guests see what you’ve accomplished and how much fun it is to attend so they’ll consider joining in the future.
