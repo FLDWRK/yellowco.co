@@ -59,11 +59,8 @@ There are many. Here are the top 3:
 **High alcohol.** Since the 1990s, wine alcohol levels have steadily increased. In 1992, the average was 12.7%. In 2009, it jumped to 13.8%. Today, it averages nearly 15% and climbing. Wine corporations love high alcohol because it’s addictive. But alcohol is toxic, and can be harmful if consumed in high doses.
 
 ###### Several terms are often often used in relation to natural wines - can you describe the differences between Biodynamic, Organic, and Natural wines?
-<br>
 
-##### Biodynamic
-
-Biodynamic is a certified method of farming that focuses on increasing biodiversity of the farm by creating a complete ecosystem. This includes composting, planting native flower species, and picking grapes by the sun/moon cycles. The biodiversity strengthens soil bacteria, leading to healthier, polyphenol-rich wines with thoughtful complexity of flavor.
+**Biodynamic** is a certified method of farming that focuses on increasing biodiversity of the farm by creating a complete ecosystem. This includes composting, planting native flower species, and picking grapes by the sun/moon cycles. The biodiversity strengthens soil bacteria, leading to healthier, polyphenol-rich wines with thoughtful complexity of flavor.
 
 **Organic** is a certified method of farming that does not allow the use of fertilizers, pesticides, and some other chemicals in the vineyard. Organic farming increases soil health and promotes stronger plants that fight for themselves instead of relying on the help of man made chemicals.
 
