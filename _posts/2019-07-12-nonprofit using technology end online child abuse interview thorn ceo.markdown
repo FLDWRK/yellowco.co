@@ -50,7 +50,7 @@ We work across multiple types of organizations: law enforcement, government, non
 
 ###### I understand you’re one of eight recipients to earn a portion of a $280 million grant from TED’s [The Audacious Project](https://audaciousproject.org/). Congrats! How do you plan to put those funds to use? 
 
-_(You can watch Julie's talk here, just skip ahead to 1:36)_ 
+_(You can watch [Julie's talk here](https://twitter.com/i/broadcasts/1zqJVawyjVdGB?fbclid=IwAR1TvOM9BZ81gpY0ZJFJK08pHaphtZen_nvo_4Zhel3f-WbmBT4-Rcp-uK8), just skip ahead to 1:36)_ 
 
 Our audacious goal is to eliminate the trade of child sexual abuse material online. We’re using these funds to build upon work we’ve already doing to build the tools to help identify children in abuse images faster and to stop the spread of abuse material online. This requires us to expand our engineering and data science teams.  
 
