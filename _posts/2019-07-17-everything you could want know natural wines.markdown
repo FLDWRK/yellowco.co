@@ -36,7 +36,7 @@ Our Founder, Todd White, is a serial entrepreneur and fanatic about health. Whil
 
 ### Enter natural wines, a movement amongst a few artisanal wine growers in Europe to produce wines without human intervention. 
 
-Todd found that natural wines were without sugar, lower in alcohol, and lower in sulfites. He immediately noticed that it changed how he felt when he drank: it was a cleaner buzz without negative impacts on his health. He set out on a mission to share this wine with the US market in the hopes of helping wine drinkers stay healthy and still enjoy wine. 
+Todd found that natural wines were without sugar, lower in alcohol, and lower in sulfites. He immediately noticed that it changed how he felt when he drank: it was a cleaner buzz without negative impacts on his health. He set out on a mission to share [this wine](https://dryfarmwines.com/?rfsn=2696666.b75923) with the US market in the hopes of helping wine drinkers stay healthy and still enjoy wine. 
 
 ![oscar-nord-6rgwUHMokWU-unsplash.jpg](/uploads/oscar-nord-6rgwUHMokWU-unsplash.jpg)
 
