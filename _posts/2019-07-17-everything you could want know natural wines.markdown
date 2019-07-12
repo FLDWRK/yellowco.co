@@ -28,9 +28,9 @@ author: Megan Faletra
 image: "/uploads/kelsey-chance-CutTQTt2HyI-unsplash.jpg"
 ---
 
-_Natural wines are taking off globally as more people are becoming intersted in how their favorite wines are made and the impact they leave on the environment, and our bodies. But picking a natural wine can be confusing with labels like biodynamic, organic, and sustainable all being used to describe natural wines, and consumers being left wondering which option really is best. To help clear up some of this confusion, I decided to dive into the complex world of natural wines with one of our favorite brands [Dry Farm Wines](https://www.dryfarmwines.com/) to discuss what really makes a wine “natural”, and what consumers should be on the look out for when choosing their next natural wine._
+_Natural wines are taking off globally as more people are becoming intersted in how their favorite wines are made and the impact they leave on the environment, and our bodies. But picking a natural wine can be confusing with labels like biodynamic, organic, and sustainable all being used to describe natural wines, and consumers being left wondering which option really is best. To help clear up some of this confusion, I decided to dive into the complex world of natural wines with one of our favorite brands [Dry Farm Wines](https://dryfarmwines.com/?rfsn=2696666.b75923) to discuss what really makes a wine “natural”, and what consumers should be on the look out for when choosing their next natural wine._
 
-###### Can you tell us about how [Dry Farm Wines](https://www.dryfarmwines.com/) was founded and why natural wines, and making them more accessible, is so important to you?
+###### Can you tell us about how [Dry Farm Wines](https://dryfarmwines.com/?rfsn=2696666.b75923) was founded and why natural wines, and making them more accessible, is so important to you?
 
 Our Founder, Todd White, is a serial entrepreneur and fanatic about health. While he changed his diet, took up meditation, and honed his physical fitness, he was still feeling negative reactions from red wine. He decided to look for a healthier alternative. 
 
@@ -84,7 +84,7 @@ Sulfites are naturally occurring in wine as a by-product of fermentation. So whi
 
 ![the-printable-concept-GkGpPJZv9OI-unsplash.jpg](/uploads/the-printable-concept-GkGpPJZv9OI-unsplash.jpg)
 
-###### How do you see our climate crisis impacting the wine industry? What does Dry Farm Wines do to support sustainable farming and wine production?
+###### How do you see our climate crisis impacting the wine industry? What does [Dry Farm Wines](https://dryfarmwines.com/?rfsn=2696666.b75923) do to support sustainable farming and wine production?
 
 Sustainable farming is in crisis now more than ever. With the expansion of commercial farms and increased demand for food and drink products, farmers opt to use chemicals like glyphosate and practices like manmade irrigation because they increase yield and profitability.   
 
@@ -96,9 +96,9 @@ Their focus on biodiversity - preserving native species and planting new ones - 
 
 ###### How are you working towards making it easier for people to gain access to natural wine? 
 
-Natural wine is a premium product that is hard to find in the US. That’s because it can only be made in small batches and is often found in Europe, where wine has been produced for thousands of years. Our mission at Dry Farm Wines is to bring this naturally inspired, healthful product to as many people as we can in the US. 
+Natural wine is a premium product that is hard to find in the US. That’s because it can only be made in small batches and is often found in Europe, where wine has been produced for thousands of years. Our mission at [Dry Farm Wines](https://dryfarmwines.com/?rfsn=2696666.b75923) is to bring this naturally inspired, healthful product to as many people as we can in the US. 
 
-We travel to Europe to source these wines. Then, each wine is lab tested by a certified wine lab to meet our health specifications. This ensures a pure product. Next, we hand pack selections of 6 or 12 bottles as part of a [membership program](https://www.dryfarmwines.com/products/wine-membership). You can receive boxes as often as you’d like, and every box we send you is unique and full of new tastes and styles.
+We travel to Europe to source these wines. Then, each wine is lab tested by a certified wine lab to meet our health specifications. This ensures a pure product. Next, we hand pack selections of 6 or 12 bottles as part of a [membership program](https://dryfarmwines.com/?rfsn=2696666.b75923). You can receive boxes as often as you’d like, and every box we send you is unique and full of new tastes and styles.
 
 In each box, we focus on delivering pure taste and new experiences. You can enjoy local grape varieties and regional styles that are rare in the American market (as well as the classics). And we do something most wine clubs will not: we offer a 100% Happiness Promise. If you do not like a wine for any reason, we replace or refund it without fees or surveys.   
 
