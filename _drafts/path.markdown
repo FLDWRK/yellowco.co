@@ -1,5 +1,5 @@
 ---
-title: How This Marketing Vp Successfully Spreads Their Social Impact Mission to Eliminate
+title: How This Marketing VP Successfully Spreads Their Social Impact Mission to Eliminate
   Single-Use Plastic
 date: 2019-07-22 03:00:00 -07:00
 categories:
