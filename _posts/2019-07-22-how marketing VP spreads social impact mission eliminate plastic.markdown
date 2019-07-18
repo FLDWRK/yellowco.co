@@ -18,6 +18,15 @@ tags:
 - conscious lifestyle
 - single-use plastic
 - clean up ocean
+- marketing
+- tips
+- successful marketing
+- marketing strategy
+- social impact business
+- social impact
+- mission
+- story
+- social media
 author: Hanna Snyder
 image: "/uploads/March08.jpg"
 ---
