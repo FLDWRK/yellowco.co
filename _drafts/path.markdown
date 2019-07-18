@@ -18,7 +18,7 @@ tags:
 - single-use plastic
 - clean up ocean
 author: Hanna Snyder
-image: "/uploads/March13.jpg"
+image: "/uploads/March08.jpg"
 ---
 
 _intro_
