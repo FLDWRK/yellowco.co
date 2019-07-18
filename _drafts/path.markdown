@@ -3,6 +3,21 @@ title: path
 date: 2019-07-22 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- water
+- sustainability
+- oceans
+- plastic bottles
+- water bottles
+- reusable water bottles
+- recycle
+- recyclable
+- sustainabile items
+- conscious consumerism
+- conscious lifestyle
+- single-use plastic
+- clean up ocean
+author: Hanna Snyder
 ---
 
 _intro_
