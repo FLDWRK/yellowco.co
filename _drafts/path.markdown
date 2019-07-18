@@ -7,7 +7,7 @@ categories:
 
 _intro_
 
-###### Tell us a bit about your story and how Path Water came to be!
+###### Tell us a bit about your story and how [Path Water](https://drinkpathwater.com/) came to be!
  
 Parked outside of a CVS on Christmas Eve, I was sitting in my truck with Shadi and Amer brainstorming our next chapter. We wanted to change the world, we were ambitious and upset by what was happening to our planet. We wanted to build something that began at the root of the problem, which is when we thought of the beverage industry, bottled water in particular. Sitting in that parking lot we realized that no company had created a safely reusable, 100% recyclable bottle that was durable and affordable. We committed to our idea and rented an office space the next day. Since then PATHWATER and our mission to end single-use plastic have become our life. 
  
@@ -57,4 +57,4 @@ To keep it simple, our greatest goal is to show the world that there is an alter
  
 Choose refill not landfill. Start with using a refillable bottle and challenge yourself to reuse it as many times as you can. Every time you do, remember that is one bottle saved from going into the ocean. I think you’ll be pleasantly surprised by how much you are helping to save our planet.
 
-_Images courtesy of Path Water_
+_Images courtesy of [Path Water](https://drinkpathwater.com/)_
