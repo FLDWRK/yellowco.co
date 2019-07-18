@@ -18,6 +18,7 @@ tags:
 - single-use plastic
 - clean up ocean
 author: Hanna Snyder
+image: "/uploads/March13.jpg"
 ---
 
 _intro_
@@ -31,23 +32,27 @@ Parked outside of a CVS on Christmas Eve, I was sitting in my truck with Shadi a
 Our water is locally sourced and reverse osmosis filtered, in an aluminum bottle with a BPA-free liner. This is crucial because even if you are someone who refills your plastic water bottle in an effort to not contribute to plastic pollution, you are still drinking contaminated water. Plastic bottles have microplastics  from the heating and cooling of the bottle which you then consume. 
 
 Water is a human right. Everyone deserves to have access to clean water, so at PATHWATER our mission is to provide a reusable bottle that can be safely refilled infinitely, and the water comes free.  We are a water bottle company that isn't selling water, but rather a lifestyle. 
+
+![MarchB12.jpg](/uploads/MarchB12.jpg)
  
 ###### As the VP of Marketing for Path, what has proved most essential in your work to share Path’s story?
  
-There are a handful of key components that have all played a role, but to me, the most essential has been the PSA program and the "Follow for a Bottle Campaign." October 2018 we launched the “Follow for a Bottle Campaign” where our Field Marketing teams in Los Angeles and the Bay Area gave out a bottle for every follow on Facebook or Instagram. 
-
-### We raised our social media numbers from 700 to 48,000 in 3 months and connected with our communities to cultivate future partnerships and hands-on knowledge about our consumers.
+There are a handful of key components that have all played a role, but to me, the most essential has been the PSA program and the "Follow for a Bottle Campaign." October 2018 we launched the “Follow for a Bottle Campaign” where our Field Marketing teams in Los Angeles and the Bay Area gave out a bottle for every follow on Facebook or Instagram. We raised our social media numbers from 700 to 48,000 in 3 months and connected with our communities to cultivate future partnerships and hands-on knowledge about our consumers.
 
 The PATHWATER Student Ambassador program (PSA) is about educating the next generation and empowering kids to be the change. Students go to our website, sign the petition to ban single-use plastic at their school, and from there they receive an ambassador kit containing a bottle and apparel to use as tools to spread the word.
 The end goal is to garner enough signatures to ban the sale of plastic water bottles on campus, as well as encourage more student-led initiatives such as environmental groups and beach cleans ups. 
 
 ### We genuinely care and prioritize educating kids on the effects of pollution and hope to inspire them to take on the challenge of creating a greener future. 
 
+![PSA.jpg](/uploads/PSA.jpg)
+
 ###### There’s no question that water bottles are often one of the biggest proponents of single-use plastics. What other single-use plastic items are a large part of the problem that we should prioritize avoiding? 
  
 Aside from plastic water bottles, the biggest culprits are the everyday items that are so programmed into our routine we forget that they are single use. These items could be straws, grocery and produce bags, packaging, wrapping, the list goes on. I applaud the restaurants and bars that have replaced plastic straws with alternatives, and companies who package their merchandise with paper or compostable materials… but it is not enough. 
 
 ### We as people need to reprogram our habits to choose sustainability over single use.
+
+![March03.jpg](/uploads/March03.jpg)
  
 ###### You’re very passionate about cleaning up our oceans, which are facing quite a crisis due to the plastics that wind up in the sea. What gives you hope in the face of such a major issue? 
  
@@ -63,6 +68,8 @@ It’s okay to give the product away! Our company is cause-based, and we have do
  
 **Build a team that is inspired and dedicated.**   
 It is so much easier to achieve goals when surrounded by people who are excited about what they do. Build a team that works well with each other, who will celebrate wins by charging forward, and look at losses as lessons to be learned, not failures to be discouraged by. Build a team that you trust to always come back to the "why". 
+
+![Marketing Team-1.jpg](/uploads/Marketing%20Team-1.jpg)
  
 ###### What are your biggest hopes for the future of Path Water?
  
