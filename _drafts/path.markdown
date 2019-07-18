@@ -1,5 +1,6 @@
 ---
-title: path
+title: How This Marketing Vp Successfully Spreads Their Social Impact Mission to Eliminate
+  Single-Use Plastic
 date: 2019-07-22 03:00:00 -07:00
 categories:
 - Conscious Living
@@ -21,7 +22,7 @@ author: Hanna Snyder
 image: "/uploads/March08.jpg"
 ---
 
-_The need to eliminate single-use plastic is no secret – but doing so isn't necessarily simple. While investing in a reusable water bottle has become second nature to many, having a solid, affordable, and entirely recyclable option is something we haven't seen a lot of, until meeting Path Water. Today we're hearing from Ali Orabi, Co-Founder & VP of Marketing at Path Water on his marketing tips for social impact businesses, the strategies that have proved successful for their growth, and their initiatives to not only make a greener future, but inspire the next generation to do the same._
+_The need to eliminate single-use plastic is no secret – but doing so isn't necessarily simple. While investing in a reusable water bottle has become second nature to many, having a solid, affordable, and entirely recyclable option is something we haven't seen a lot of, until meeting [Path Water](https://drinkpathwater.com/). Today we're hearing from Ali Orabi, Co-Founder & VP of Marketing at Path Water on his marketing tips for social impact businesses, the strategies that have proved successful for their growth, and their initiatives to not only make a greener future, but inspire the next generation to do the same._
 
 ###### Tell us a bit about your story and how [Path Water](https://drinkpathwater.com/) came to be!
  
