@@ -40,7 +40,7 @@ Water is a human right. Everyone deserves to have access to clean water, so at P
  
 There are a handful of key components that have all played a role, but to me, the most essential has been the PSA program and the "Follow for a Bottle Campaign." October 2018 we launched the “Follow for a Bottle Campaign” where our Field Marketing teams in Los Angeles and the Bay Area gave out a bottle for every follow on Facebook or Instagram. We raised our social media numbers from 700 to 48,000 in 3 months and connected with our communities to cultivate future partnerships and hands-on knowledge about our consumers.
 
-The PATHWATER Student Ambassador program (PSA) is about educating the next generation and empowering kids to be the change. Students go to our website, sign the petition to ban single-use plastic at their school, and from there they receive an ambassador kit containing a bottle and apparel to use as tools to spread the word.
+The PATHWATER [Student Ambassador program](https://drinkpathwater.com/pages/psa) (PSA) is about educating the next generation and empowering kids to be the change. Students go to our website, sign the petition to ban single-use plastic at their school, and from there they receive an ambassador kit containing a bottle and apparel to use as tools to spread the word.
 The end goal is to garner enough signatures to ban the sale of plastic water bottles on campus, as well as encourage more student-led initiatives such as environmental groups and beach cleans ups. 
 
 ### We genuinely care and prioritize educating kids on the effects of pollution and hope to inspire them to take on the challenge of creating a greener future. 
