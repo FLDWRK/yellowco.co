@@ -5,19 +5,11 @@ body-class: home
 banners:
 - link: https://yellowcollective.lpages.co/yellow-conference-2019/
   image: "/uploads/ALIGN-HEADER.jpg"
-- link: https://yellowcollective.lpages.co/weekend-workshop/
-  image: "/uploads/Weekend-Workshop.jpg"
-- link: https://thehoxton.com/hoxtown/events/enneagram-biz-n-fizz
-  image: "/uploads/Enneagram-Panel.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 sm-banners:
 - link: https://yellowcollective.lpages.co/yellow-conference-2019/
   image: "/uploads/Align-SM.jpg"
-- link: https://yellowcollective.lpages.co/weekend-workshop/
-  image: "/uploads/Weekend-Workshop-sm.jpg"
-- link: https://thehoxton.com/hoxtown/events/enneagram-biz-n-fizz
-  image: "/uploads/Enneagram-Panel-sm.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
 buttons:
