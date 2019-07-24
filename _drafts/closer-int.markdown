@@ -56,6 +56,10 @@ If you have a good agent they should be sharing your work with people as often a
 
 If you can do those two things, your agent will be better equipped to open big doors for you. 
 
+###### How do you decide when and who to take on as artists?
+
+We look at new artists every six months (we just finished interviewing almost a dozen potential artists) and then we choose who we want to move forward with. We’ll decide to look for new artists if someone leaves the roster or if we notice an opportunity in the market. For instance, we’ve noticed a lot of demand for 3D illustrators so we’re working hard to bring on more illustrators with that skill set.
+
 ###### What is your vision for the future of Closer&Closer in the next few years?
 
 We want to be a company that expands what artists believe is possible for their careers. As we grow, the most important thing we are talking about is how we can maintain our values. 
@@ -64,6 +68,3 @@ One of the things that makes us really special is that we prioritize relationshi
 
 In more concrete terms, my goal right now is to continue building the foundations for an agency that sticks around for years to come. We know that there will be turbulence in the economy in the near future. I’ll be proud if we build something that can ride the economic storms and come out stronger on the other side.
 
-###### How do you decide when and who to take on as artists?
-
-We look at new artists every six months (we just finished interviewing almost a dozen potential artists) and then we choose who we want to move forward with. We’ll decide to look for new artists if someone leaves the roster or if we notice an opportunity in the market. For instance, we’ve noticed a lot of demand for 3D illustrators so we’re working hard to bring on more illustrators with that skill set.
