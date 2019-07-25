@@ -1,6 +1,6 @@
 ---
 title: closer int
-date: 2019-07-26 03:00:00 -07:00
+date: 2019-07-31 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Melanie Loon
