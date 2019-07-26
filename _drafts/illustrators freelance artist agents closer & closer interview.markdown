@@ -8,6 +8,8 @@ author: Melanie Loon
 image: "/uploads/CarmiGrau_PersonalProject_03.jpg"
 ---
 
+_Illustration by [Carmi Grau](https://closerandcloser.co/Carmi-Grau)_
+
 _It’s easier said than done to name a creative ambition and hone a certain amount of mastery to make that passion into a career. Today, endless options and tools seem to support choosing a new road once it is left to be desired, but what is that risk of changing your mind really like? Of changing your life?_
 
 _When years of illustration and typography had run their course, burnout crept in for [Drew Melton](https://www.instagram.com/closerandcloserco/). But by starting to represent other artists, he recommitted to what drew him to the creative profession in the first place: the process of making the dream real. I asked him what it’s like to now head up [Closer&Closer](https://closerandcloser.co/), an artist representation agency and production studio based in Los Angeles._
@@ -20,6 +22,9 @@ We help our artists find projects by promoting and sharing their work with peopl
 
 It was a big shift in identity. I had built my entire sense of self-worth around my ability to create great lettering by hand. When we had a carbon monoxide leak, I developed a bad tremor that prohibited me from pursuing it the way I had.
 
+![CarmiGrau_LifeIsTough.jpg](/uploads/CarmiGrau_LifeIsTough.jpg)
+_Illustration by [Carmi Grau](https://closerandcloser.co/Carmi-Grau)_
+
 I’m a Type-A person, so whenever I do something I want to be the best. When I couldn’t do that I started to get really depressed. I lost a lot of self-confidence. However, my physical issues weren’t really the problem. The problem really was that I wasn’t enjoying the work at all. I was great at working hard and getting projects. But I didn’t actually enjoy doing the illustration part of my job. If you’re going to be an illustrator, that should be your favorite part of the job.
 
 I noticed that I enjoyed working with clients, building relationships, and negotiating projects far more than creating the artwork. I still remember the day I told my coach, Jon Roberts, that I didn’t like making art. I couldn’t believe how hard it was. 
@@ -27,6 +32,9 @@ I noticed that I enjoyed working with clients, building relationships, and negot
 ### I still remember talking to other illustrators who told me they were disappointed that I was just going to walk way – but I knew I had a different calling. 
 
 I didn’t fully know what it was but I knew I was good at building relationships and business. I decided to blend my natural abilities with my background in art. Best decision I ever made.
+
+![NANNA-prieler - Megaphon-Realization-4.jpg](/uploads/NANNA-prieler%20-%20Megaphon-Realization-4.jpg)
+_Illustration by [Nanna Prieler](https://closerandcloser.co/Nanna-Prieler)_
 
 ###### What are you most proud of about your current work?
 
@@ -42,6 +50,9 @@ Start small, be consistent, and tweak constantly. As an artist I am an idealist.
 
 Two and a half years into this business I’ve come to appreciate the power of consistency over time. We are working with clients and artists I only dreamed of working with a few years ago. Some of these relationships have come from my drive. But my proudest accomplishments have come from showing up day in and day out and doing the work. Constantly tweaking, improving, and learning from experience.
 
+![Monique-Aimee - MayaAngelou.jpg](/uploads/Monique-Aimee%20-%20MayaAngelou.jpg)
+_Illustration by [Monique Aimee](https://closerandcloser.co/Monique-Aimee)_
+
 ###### You mentioned in an interview with VoyageLA that 2017 held, “a million mistakes and [you] changed directions a dozen times.” Which of the paths that you considered during that time feels the most foreign now?
 
 Being an illustrator. 
@@ -51,6 +62,9 @@ Being an illustrator.
 Burnout is the excessive desire for more without the satisfaction of achievement. When I find myself working compulsively long after “closing time” on things that can wait, I have to be honest with myself about what’s driving me. It’s not the need to work. It’s a compulsion. 
 
 ### It’s a fear of stopping that keeps me busy.
+
+![girlband-Josefina-Schargorodsky.jpg](/uploads/girlband-Josefina-Schargorodsky.jpg)
+_Illustration by [Josefina Schargorodsky](https://closerandcloser.co/Josefina-Schargorodsky)_
 
 ###### How do you guide your artists to steer clear of burnout and maintain a sustainable career path?
 
@@ -63,6 +77,8 @@ Talk to as many agents as you can and learn the landscape. There are no rules fo
 ### If you have a good agent they should be sharing your work with people as often as possible, but it’s up to you as an illustrator to create art that people want to pay for. 
 
 Artists ask me how they can ensure that their career won’t stagnate. I don’t have an answer for that yet, but the formula I give them is to 1. Be exceptional (or choose something you can be exceptional at) and 2. Never stop learning, growing, and producing work. If you can do those two things, your agent will be better equipped to open big doors for you. 
+
+![6L9A6120.jpg](/uploads/6L9A6120.jpg)
 
 ###### How do you decide when and who to take on as artists?
 
