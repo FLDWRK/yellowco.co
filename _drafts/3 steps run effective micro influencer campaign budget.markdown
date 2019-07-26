@@ -1,6 +1,6 @@
 ---
 title: 3 Steps to Run an Effective Micro-Influencer Campaign on a Budget
-date: 2019-07-29 03:00:00 -07:00
+date: 2019-07-26 16:20:30.974000000 -07:00
 categories:
 - Entrepreneurs
 author: Dana Bakich
