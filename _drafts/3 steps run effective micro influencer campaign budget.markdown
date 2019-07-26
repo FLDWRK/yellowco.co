@@ -1,5 +1,5 @@
 ---
-title: How to run a successful Micro-Influencer Campaign
+title: 3 Steps to Run an Effective Micro-Influencer Campaign on a Budget
 date: 2019-07-29 03:00:00 -07:00
 categories:
 - Entrepreneurs
