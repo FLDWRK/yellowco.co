@@ -10,7 +10,7 @@ image: "/uploads/CarmiGrau_PersonalProject_03.jpg"
 
 _It’s easier said than done to name a creative ambition and hone a certain amount of mastery to make that passion into a career. Today, endless options and tools seem to support choosing a new road once it is left to be desired, but what is that risk of changing your mind really like? Of changing your life?_
 
-_When years of illustration and typography had run their course, burnout crept in for [Drew Melton](https://www.instagram.com/closerandcloserco/). But by starting to represent other artists, he recommitted to what drew him to the creative profession in the first place: the process of making the dream real. I asked him what it’s like to now head [Closer&Closer](https://closerandcloser.co/), an artist representation agency and production studio based in Los Angeles._
+_When years of illustration and typography had run their course, burnout crept in for [Drew Melton](https://www.instagram.com/closerandcloserco/). But by starting to represent other artists, he recommitted to what drew him to the creative profession in the first place: the process of making the dream real. I asked him what it’s like to now head up [Closer&Closer](https://closerandcloser.co/), an artist representation agency and production studio based in Los Angeles._
 
 ###### Tell us a bit about the work you do as an agency and production studio.
 
