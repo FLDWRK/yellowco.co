@@ -1,5 +1,6 @@
 ---
-title: closer int
+title: Do You Need an Agent as an Illustrator? Closer&Closer Breaks down Everything
+  You Need to Know
 date: 2019-07-31 03:00:00 -07:00
 categories:
 - Entrepreneurs
