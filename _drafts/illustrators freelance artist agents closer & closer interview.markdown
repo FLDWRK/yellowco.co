@@ -63,7 +63,7 @@ Burnout is the excessive desire for more without the satisfaction of achievement
 
 ### It’s a fear of stopping that keeps me busy.
 
-![girlband-Josefina-Schargorodsky.jpg](/uploads/girlband-Josefina-Schargorodsky.jpg)
+![1 (1)-ac8a94.jpg](/uploads/1%20(1)-ac8a94.jpg)
 _Illustration by [Josefina Schargorodsky](https://closerandcloser.co/Josefina-Schargorodsky)_
 
 ###### How do you guide your artists to steer clear of burnout and maintain a sustainable career path?
