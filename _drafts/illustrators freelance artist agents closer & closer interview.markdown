@@ -1,7 +1,7 @@
 ---
 title: Do Illustrators Need Agents Too? Closer&Closer Shares What You Need to Know
   as a Freelance Artist
-date: 2019-07-31 03:00:00 -07:00
+date: 2019-07-29 03:00:00 -07:00
 categories:
 - Entrepreneurs
 tags:
