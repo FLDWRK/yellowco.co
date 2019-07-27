@@ -94,6 +94,7 @@ Talk to as many agents as you can and learn the landscape. There are no rules fo
 Artists ask me how they can ensure that their career won’t stagnate. I don’t have an answer for that yet, but the formula I give them is to 1. Be exceptional (or choose something you can be exceptional at) and 2. Never stop learning, growing, and producing work. If you can do those two things, your agent will be better equipped to open big doors for you. 
 
 ![6L9A6120.jpg](/uploads/6L9A6120.jpg)
+_Drew Melton of [Closer&Closer](https://closerandcloser.co/)_
 
 ###### How do you decide when and who to take on as artists?
 
