@@ -4,6 +4,21 @@ title: Do Illustrators Need Agents Too? Closer&Closer Shares What You Need to Kn
 date: 2019-07-31 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- illustrator
+- agency
+- agent
+- freelance
+- artist
+- letterer
+- entrepreneur
+- career
+- tips
+- advice
+- representation
+- interview
+- drew melton
+- closer & closer
 author: Melanie Loon
 image: "/uploads/CarmiGrau_PersonalProject_03.jpg"
 ---
