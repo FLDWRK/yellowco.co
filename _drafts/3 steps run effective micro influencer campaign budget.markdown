@@ -1,6 +1,6 @@
 ---
 title: 3 Steps to Run an Effective Micro-Influencer Campaign on a Budget
-date: 2019-07-26 16:20:30.974000000 -07:00
+date: 2019-07-31 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Dana Bakich
@@ -25,6 +25,8 @@ Think about the last hair product you tried, place you traveled, or Netflix show
 
 ### Nano and micro-influencer campaigns have a more direct impact.
 
+-
+
 #### First thing first: GOALS.
 
 What are your goals for launching this campaign? Some examples could be:
@@ -46,6 +48,8 @@ What does success look like? Before you even start the campaign, align your goal
 - How many pieces of content would you like published?
 - Are you trying to generate some type of conversion?
 
+-
+
 #### Set yourself up for success.
 
 It’s possible to run a campaign manually, but there are amazing tools out there that are extremely reasonable to help you setup, monitor, and track your campaign.
@@ -57,6 +61,8 @@ It’s possible to run a campaign manually, but there are amazing tools out ther
 **PeopleMap:** I love this tool! [PeopleMap](https://www.peoplemap.co/?wvideo=co6x5otedq) was designed as an Instagram marketing tool by Puno, who is also the founder of ilovecreatives.com. PeopleMap allows you to analyze your IG audience and search for like-minded people via hashtags. You can setup a campaign and track the metrics all within this tool. It’s brilliant AND only $20/month. [Sign up here](https://app.peoplemap.co/a/signup?ref=1sR7fcyR)!
  
 Now it’s time to get to work!
+
+-
 
 #### Step 1: Know your strategy and what you’re asking for.
 
