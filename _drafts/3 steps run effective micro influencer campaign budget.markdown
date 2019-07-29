@@ -4,6 +4,7 @@ date: 2019-07-31 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Dana Bakich
+image: "/uploads/maddi-bazzocco-Vbt1zTCsSNA-unsplash-1.jpg"
 ---
 
 You can’t attend any conference or event without hearing the term, “influencer.” It’s been integrated into the marketing industry as a must-have strategy. When done well, you can see incredible results. 
@@ -25,7 +26,7 @@ Think about the last hair product you tried, place you traveled, or Netflix show
 
 ### Nano and micro-influencer campaigns have a more direct impact.
 
--
+![priscilla-du-preez-GobsYxc_H_0-unsplash-1.jpg](/uploads/priscilla-du-preez-GobsYxc_H_0-unsplash-1.jpg)
 
 #### First thing first: GOALS.
 
@@ -48,7 +49,7 @@ What does success look like? Before you even start the campaign, align your goal
 - How many pieces of content would you like published?
 - Are you trying to generate some type of conversion?
 
--
+![avel-chuklanov-DUmFLtMeAbQ-unsplash-1.jpg](/uploads/avel-chuklanov-DUmFLtMeAbQ-unsplash-1.jpg)
 
 #### Set yourself up for success.
 
@@ -62,7 +63,7 @@ It’s possible to run a campaign manually, but there are amazing tools out ther
  
 Now it’s time to get to work!
 
--
+![priscilla-du-preez-FTsLN4L1f7Y-unsplash-1.jpg](/uploads/priscilla-du-preez-FTsLN4L1f7Y-unsplash-1.jpg)
 
 #### Step 1: Know your strategy and what you’re asking for.
 
