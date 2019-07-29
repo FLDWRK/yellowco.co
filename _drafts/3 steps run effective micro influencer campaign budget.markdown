@@ -3,6 +3,21 @@ title: 3 Steps to Run an Effective Micro-Influencer Campaign on a Budget
 date: 2019-07-31 03:00:00 -07:00
 categories:
 - Entrepreneurs
+tags:
+- social media
+- campaign
+- micro influencer
+- nano
+- influencer
+- budget
+- small business
+- entrepreneur
+- strategy
+- marketing
+- tips
+- advice
+- goal
+- social media tools
 author: Dana Bakich
 image: "/uploads/maddi-bazzocco-Vbt1zTCsSNA-unsplash-1.jpg"
 ---
