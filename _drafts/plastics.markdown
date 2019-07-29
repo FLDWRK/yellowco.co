@@ -13,7 +13,7 @@ A group of women who are all taking up space in their fields, empowering each ot
 
 Plastics contain chemicals that classify as endocrine disruptors. They can mimic hormones and interfere with the endocrine system, which can cause a variety of health problems from auto-immune disorders to fertility problems and neurological issues. What’s more, women (who are able and choose to have kids) pass down their chemical body burden to the next generation during gestation and through breastfeeding. 
 
-Why are we still using plastic if there’s such a big health risk?
+#### Why are we still using plastic if there’s such a big health risk?
 
 Notice how in the previous paragraph I had to phrase it as “can cause”? Different manufacturers use different “cocktails” to make their plastics. The sources of monomers, solvants, initiators, catalysts and additives will vary by grade of plastic, color and intended use. Now depending on say, if a fire-retardant is used, the potential health effects will differ. 
 
@@ -21,7 +21,7 @@ Plastics and their health risks get to hide under this umbrella of chemicals, ch
 
 A lot of the chemicals used in plastic production have only been mass produced for the last 70 years or so, making them relatively new in terms of what we know about how they affect us and the environment. But the good news is, studies are growing. Hopefully, the uptick in public interest will mean more funding for the scientists working to understand the risks. 
 
-How can we reduce plastic production and protect our health?
+#### How can we reduce plastic production and protect our health?
 
 First, it’s important to recognize that the majority of plastic production is rooted in consumerism. Many of these wasteful, single-use plastic items have been marketed to us as a need when they’re really not. Let yourself run out of cling wrap and you’ll see how fast you change the way you store your food. Plate over a bowl? Easy. You don’t have to go out and buy a metal straw to replace the plastic version, most of us can simply stop using straws. Reducing your plastic use does not need to be instagram-worthy, costly or complicated. 
 
@@ -29,7 +29,7 @@ But it’s pays to recognize where your biggest plastic footprints are. For exam
 
 Educating ourselves and making changes can feel overwhelming. To keep it simple I ask myself these questions before a purchase – “can I make do without it?”, “can I get it fixed?” (if it’s a replacement), “can I buy it used?”, and if not, “can I get it made of / or packaged in biodegradable materials?”. Becoming mindful about what we consume and the impacts of our consumption is the first step in creating long-lasting change.
 
-What can we do to protect our communities and the environment?
+#### What can we do to protect our communities and the environment?
 
 There’s not a single one of us unaffected by plastic. Coastal communities may live with the most visual reminders and highest environmental impact, but in a study released earlier this year, the most common source of microplastics in human feces came from synthetic clothing fibres and plastic food wrap. Not even the air we breathe or water we drink is free of plastic. It’s going to take wide scale change to protect our collective future. 
 
