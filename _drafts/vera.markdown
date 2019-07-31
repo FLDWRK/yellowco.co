@@ -22,7 +22,7 @@ At IJM, we spend thirty minutes beginning our day in what we call â€˜stillnessâ€
 
 ###### What are the main problems you have to solve creatively in your work (in terms of growing IJM, etc.)? How do you tackle those?
 
-One of the main challenges we have at IJM is that many people think slavery is something of the past. But in fact, today, there are millions of people trapped in slavery around the world. Another challenge is the belief that we can't end it. But, we are more equipped today to end slavery in our lifetime. Amidst all of the important causes and issues today, how do we (IJM) break through and connect people to this urgent need.
+One of the main challenges we have at IJM is that many people _think_ slavery is something of the past. But in fact, today, there are millions of people trapped in slavery around the world. Another challenge is the belief that we _can't_ end it. But, we are more equipped today to end slavery in our lifetime. Amidst all of the important causes and issues today, how do we (IJM) break through and connect people to this urgent need.
  
 My team tackles these challenges by telling a good story. At IJM, what we see and who we help, makes for some of the world's best stories. Each one is an epic infused with urgency and hope. Our stories aim to draw people into the reality of those who are trapped in slavery and violence and move as many people and resources as we can to rescue those who have been enslaved and restore them to lives of freedom. 
 
@@ -48,9 +48,11 @@ Moving from one job to another has always been a turning point for me. When I ca
 
 ###### What 3 tips would you give to a designer who hopes to become a Creative Director in the future? 
 
- There's no other you. Be confident and courageous in who you are and your unique point of view. Learn to communicate that vision in your work with a clarity and passion that inspires others.
-Keep the creative challenge and your audience at the forefront. When your idea, design, or concept provides a solution that resonates with your audience, that's when you've hit the mark.
-Be kind in your feedback to other creatives. Your input and thoughts should build others up and be actionable.
+1. There's no other you. Be confident and courageous in who you are and your unique point of view. Learn to communicate that vision in your work with a clarity and passion that inspires others.
+
+2. Keep the creative challenge and your audience at the forefront. When your idea, design, or concept provides a solution that resonates with your audience, that's when you've hit the mark.
+
+3. Be kind in your feedback to other creatives. Your input and thoughts should build others up and be actionable.
 
 ###### What are you most looking forward to sharing with us at the Yellow Conference? 
 
