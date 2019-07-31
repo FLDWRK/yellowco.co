@@ -6,7 +6,7 @@ categories:
 author: Hanna Snyder
 ---
 
-_It's no secret that storytelling is essential to impactfully spreading the word about something, whether it's a new film, a product, or a brand launch. But when it comes to the world of nonprofits who are tackling some of the most pressing global issues, how do you strike the balance of honoring the heavy realities of these crises, while engaging people to feel like they can take action? Today on the blog, we're hearing from a woman who has a lot of experience doing just that. Meet [Vera Leung](https://www.instagram.com/veraleung/), Creative Director at [International Justice Mission](https://www.ijm.org/), and a [2019 Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) speaker! Read our interview with Vera below to hear her about how she creatively problem-solves at IJM, her three tips for designers aspiring to be creative directors, and her hope for the future of IJM. (Or better yet, [join us](https://yellowcollective.lpages.co/yellow-conference-2019/) in August to hear her speak in person!)_
+_It's no secret that storytelling is essential to impactfully spreading the word about something, whether it's a new film, a product, or a brand launch. But when it comes to the world of nonprofits who are tackling some of the most pressing global issues, how do you strike the balance of honoring the heavy realities of these crises, while engaging people to feel like they can take action? Today on the blog, we're hearing from a woman who has a lot of experience doing just that. Meet [Vera Leung](https://www.instagram.com/veraleung/), Creative Director at [International Justice Mission](https://www.ijm.org/), and a [2019 Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) speaker! Read our interview with Vera below to hear her about how she creatively problem-solves at IJM, her three tips for designers aspiring to be creative directors, and her hope for the future of IJM. (Or better yet, [join us](https://yellowcollective.lpages.co/yellow-conference-2019/) this month to hear her speak in person!)_
 
 ###### Tell us a little bit about your background, and how it led you to work at IJM.
 
@@ -67,6 +67,10 @@ There will be lessons and surprises in all the steps you take — right or wrong
 2. **Keep the creative challenge and your audience at the forefront.** When your idea, design, or concept provides a solution that resonates with your audience, that's when you've hit the mark.
 
 3. **Be kind in your feedback to other creatives.** Your input and thoughts should build others up and be actionable.
+
+###### What are you most looking forward to sharing with us at the [Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/)? 
+
+I'm looking forward to introducing you to an amazing little boy whose life and story has inspired and moved thousands to help end cybersex trafficking in the Philippines. 
 
 ###### What do you most hope to see happen in the next year at IJM?
 
