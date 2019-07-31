@@ -26,7 +26,7 @@ At IJM, we spend thirty minutes beginning our day in what we call "stillness". I
 
 My team is really creative and super fun to be around, so I try to soak in as much time with them as I can. 
 
-###### What are the main problems you have to solve creatively in your work (in terms of growing IJM, etc.)? How do you tackle those?
+###### What are the main problems you have to solve creatively in your work? How do you tackle those?
 
 One of the main challenges we have at IJM is that many people _think_ slavery is something of the past. But in fact, today, there are millions of people trapped in slavery around the world. Another challenge is the belief that we _can't_ end it. But, we are more equipped today to end slavery in our lifetime. Amidst all of the important causes and issues today, how do we (IJM) break through and connect people to this urgent need.
  
