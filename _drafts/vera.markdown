@@ -18,7 +18,7 @@ I moved onto art directing a magazine at a university. These years helped me lea
  
 When I started at [IJM](https://www.ijm.org/) nine years ago, I joined as the Senior Designer and our team was much smaller. Now I lead our Creative team in North America in developing the stories, campaigns, and experiences that will move people to end slavery. It’s neat to look back and see how all my prior experiences tie together to shape what I do now.
 
--
+![©KATRINASORRENTINO_IJM_DR-149-1.jpg](/uploads/%C2%A9KATRINASORRENTINO_IJM_DR-149-1.jpg)
 
 ###### What does your day-to-day as a Creative Director for IJM look like?
 
@@ -28,7 +28,7 @@ At IJM, we spend thirty minutes beginning our day in what we call "stillness". I
 
 My team is really creative and super fun to be around, so I try to soak in as much time with them as I can. 
 
-- 
+![150901_IJMcambodia_EstherHavensPhotography_481-1.jpg](/uploads/150901_IJMcambodia_EstherHavensPhotography_481-1.jpg)
 
 ###### What are the main problems you have to solve creatively in your work? How do you tackle those?
 
@@ -40,7 +40,7 @@ My team tackles these challenges by telling a good story. At IJM, what we see an
 
 The gift of getting to know our survivors — their openness to me in sharing who they are, what makes them laugh, what their dreams are - is something I’ll always carry with me. Knowing the suffering they've already overcome and seeing where they're headed is incredibly moving. The resilience, strength, and determination that they embody gives me great hope for our future and reminds me that in the midst of life's challenges, there is light. 
 
--
+![©KatrinaSorrentino_NOVO_IJM_FINALS-4035-1.jpg](/uploads/%C2%A9KatrinaSorrentino_NOVO_IJM_FINALS-4035-1.jpg)
 
 ###### IJM truly does incredible work as the largest anti-slavery organization in the world. From a creative standpoint, how do you approach the storytelling and visuals for IJM to convey the heavy reality of the global issues IJM is working on with human trafficking in an approachable way for people to see that they can help make a difference alongside you?
 
@@ -52,7 +52,7 @@ When we tell a story, both our subject and our audience are the hero. They are b
  
 My hope is that we all are able to see that we can reach out to close the distance between us, and help each other with our resources, our time, our talent, and our influence. There are many ways to make a difference in this fight and it will take all of us. 
 
--
+![©KatrinaSorrentino_NOVO_IJM_FINALS-5276-1.jpg](/uploads/%C2%A9KatrinaSorrentino_NOVO_IJM_FINALS-5276-1.jpg)
 
 ###### This year our [conference theme is Align](https://yellowcollective.lpages.co/yellow-conference-2019/) – was there a “turning point” for you in which you took action to align your values with the work you do? What did that process look like? Did it come with any challenges?
 
@@ -68,7 +68,7 @@ Moving from one job to another has always been a turning point for me. When I ca
 
 There will be lessons and surprises in all the steps you take — right or wrong. They are all valuable parts of your story.
 
--
+![©KatrinaSorrentino_NOVO_IJM_FINALS-5188-1.jpg](/uploads/%C2%A9KatrinaSorrentino_NOVO_IJM_FINALS-5188-1.jpg)
 
 ###### What three tips would you give to a designer who hopes to become a Creative Director in the future? 
 
@@ -81,6 +81,8 @@ There will be lessons and surprises in all the steps you take — right or wrong
 ###### What are you most looking forward to sharing with us at the [Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/)? 
 
 I'm looking forward to introducing you to an amazing little boy whose life and story has inspired and moved thousands to help end cybersex trafficking in the Philippines. 
+
+![JS_20160520_8723-Edit-1.jpg](/uploads/JS_20160520_8723-Edit-1.jpg)
 
 ###### What do you most hope to see happen in the next year at IJM?
 
