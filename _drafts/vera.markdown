@@ -10,15 +10,21 @@ author: Hanna Snyder
 
 ###### Tell us a little bit about your background, and how it led you to work at IJM.
 
-I studied Advertising at Boston University and began as a graphic designer in an ad agency working my way up, learning how the agency industry operates, and learning the tricks of Adobe. I was always fascinated with how design and creativity could influence people to feel and do something.
+I studied Advertising at Boston University and began as a graphic designer in an ad agency working my way up, learning how the agency industry operates, and learning the tricks of Adobe. 
+
+### I was always fascinated with how design and creativity could influence people to feel and do something.
  
 I moved onto art directing a magazine at a university. These years helped me learn how imagery and design work together with words to tell good stories. I loved getting to meet and learn from extremely interesting, intelligent and bright people.
  
-When I started at IJM nine years ago, I joined as the Senior Designer and our team was much smaller. Now I lead our Creative team in North America in developing the stories, campaigns, and experiences that will move people to end slavery. It’s neat to look back and see how all my prior experiences tie together to shape what I do now.
+When I started at [IJM](https://www.ijm.org/) nine years ago, I joined as the Senior Designer and our team was much smaller. Now I lead our Creative team in North America in developing the stories, campaigns, and experiences that will move people to end slavery. It’s neat to look back and see how all my prior experiences tie together to shape what I do now.
 
 ###### What does your day-to-day as a Creative Director for IJM look like?
 
-At IJM, we spend thirty minutes beginning our day in what we call ‘stillness’. I like to use my time to meditate, listen to music, or read. The practice helps ground me and starts my day off with intention. Throughout the week, I'll spend time with each team member working on our creative campaigns and stories and highlighting news or stories from the week of what our teams are doing in the field. I’m always looking for what is the story we need to tell, how do we tell it in the best way and how do we connect people to those stories. My team is really creative and super fun to be around, so I try to soak in as much time with them as I can. 
+At IJM, we spend thirty minutes beginning our day in what we call "stillness". I like to use my time to meditate, listen to music, or read. The practice helps ground me and starts my day off with intention. Throughout the week, I'll spend time with each team member working on our creative campaigns and stories and highlighting news or stories from the week of what our teams are doing in the field. 
+
+### I’m always looking for what is the story we need to tell, how do we tell it in the best way, and how do we connect people to those stories. 
+
+My team is really creative and super fun to be around, so I try to soak in as much time with them as I can. 
 
 ###### What are the main problems you have to solve creatively in your work (in terms of growing IJM, etc.)? How do you tackle those?
 
