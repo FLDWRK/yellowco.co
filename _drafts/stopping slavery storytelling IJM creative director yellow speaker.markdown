@@ -1,8 +1,36 @@
 ---
-title: vera
+title: 'Stopping Slavery with Storytelling: Meet IJM Creative Director & 2019 Yellow
+  Speaker'
 date: 2019-08-05 03:00:00 -07:00
 categories:
 - Culture
+tags:
+- IJM
+- international justice mission
+- Vera Leung
+- creative director
+- interview
+- slavery
+- ending slavery
+- human trafficking
+- storytelling
+- campaign
+- design
+- visuals
+- graphic designer
+- nonprofit
+- social impact
+- women
+- creativity
+- yellow conference 2019
+- yellow conference
+- speaker
+- women's conference
+- creative conference
+- los angeles
+- conference
+- dtla
+- hudson loft
 author: Hanna Snyder
 ---
 
