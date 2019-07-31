@@ -1,6 +1,9 @@
 ---
 title: vera
-date: 2019-07-31 11:20:00 -07:00
+date: 2019-08-05 03:00:00 -07:00
+categories:
+- Culture
+author: Hanna Snyder
 ---
 
 
@@ -13,11 +16,9 @@ I moved onto art directing a magazine at a university. These years helped me lea
  
 When I started at IJM nine years ago, I joined as the Senior Designer and our team was much smaller. Now I lead our Creative team in North America in developing the stories, campaigns, and experiences that will move people to end slavery. It’s neat to look back and see how all my prior experiences tie together to shape what I do now.
 
-
 ###### What does your day-to-day as a Creative Director for IJM look like?
 
 At IJM, we spend thirty minutes beginning our day in what we call ‘stillness’. I like to use my time to meditate, listen to music, or read. The practice helps ground me and starts my day off with intention. Throughout the week, I'll spend time with each team member working on our creative campaigns and stories and highlighting news or stories from the week of what our teams are doing in the field. I’m always looking for what is the story we need to tell, how do we tell it in the best way and how do we connect people to those stories. My team is really creative and super fun to be around, so I try to soak in as much time with them as I can. 
-
 
 ###### What are the main problems you have to solve creatively in your work (in terms of growing IJM, etc.)? How do you tackle those?
 
