@@ -32,6 +32,7 @@ tags:
 - dtla
 - hudson loft
 author: Hanna Snyder
+image: "/uploads/Vera-60-1.jpg"
 ---
 
 _It's no secret that storytelling is essential to impactfully spreading the word about something, whether it's a new film, a product, or a brand launch. But when it comes to the world of nonprofits who are tackling some of the most pressing global issues, how do you strike the balance of honoring the heavy realities of these crises, while engaging people to feel like they can take action? Today on the blog, we're hearing from a woman who has a lot of experience doing just that. Meet [Vera Leung](https://www.instagram.com/veraleung/), Creative Director at [International Justice Mission](https://www.ijm.org/), and a [2019 Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) speaker! Read our interview with Vera below to hear her about how she creatively problem-solves at IJM, her three tips for designers aspiring to be creative directors, and her hope for the future of IJM. (Or better yet, [join us](https://yellowcollective.lpages.co/yellow-conference-2019/) this month to hear her speak in person!)_
