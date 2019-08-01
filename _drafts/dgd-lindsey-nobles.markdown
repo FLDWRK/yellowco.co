@@ -1,5 +1,6 @@
 ---
-title: dgd lindsey nobles
+title: 'Pioneering a Path to Holistic Healing: Onsite’s VP of Marketing and Business
+  Development & Do-Good Dozen Winner'
 date: 2019-08-07 03:00:00 -07:00
 categories:
 - Growth
@@ -8,7 +9,7 @@ image: "/uploads/Lindsey-Nobles.jpg"
 
 _Everyone deserves, needs, and is capable of healing. The stigma around therapy is increasingly being broken down as people continue to speak up with vulnerability about their stories – making places like [Onsite](https://www.onsiteworkshops.com/) undoubtedly valuable. This emotional health retreat center in Tennessee offers the resources to help people connect with who they are, and is filled with skilled therapists, culinary, administrative, hospitality, and marketing teams that make it run smoothly and successfully. This month’s [Do-Good Dozen](https://yellowcollective.lpages.co/do-good-dozen/) winner is [Lindsey Nobles](https://www.instagram.com/lindseynobles/?hl=en), the VP of Marketing and Business Development at Onsite. Her voice, described by a co-worker, “Sparks real change and reminds everyone of their true value. She has a palpable passion for honesty, self-awareness, and answering the hard questions around a table of friends and strangers.” We believe work is not simply a job title, it is how you create and find meaning in this world. Lindsey is a great example of how your skills, talents, and doing the deep inner-work can lead you to doing good in your everyday life as well as something greater than oneself. Read on to hear her own journey taking a more holistic approach to healing, as well as advice for those just starting their business._
 
-_(PS. If you haven't heard, the CEO of Onsite, Miles Adcox, and Ruthie Lindsey (previous Yellow speaker!) will be joining us at the [2019 Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) to host a live recording of [The Unspoken Podcast](https://theunspokenpodcast.com/), where they dig deep with raw and vulnerable conversation. Grab your spot here!)_
+_(PS. If you haven't heard, the CEO of Onsite, Miles Adcox, and Ruthie Lindsey (previous Yellow speaker!) will be joining us at the [2019 Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) to host a live recording of [The Unspoken Podcast](https://theunspokenpodcast.com/), where they dig deep with raw and vulnerable conversation. Grab your spot [here](https://yellowcollective.lpages.co/yellow-conference-2019/)!)_
 
 ###### Tell us a little about where you're from, where you live now, and what your life looked like right before joining Onsite.
 
