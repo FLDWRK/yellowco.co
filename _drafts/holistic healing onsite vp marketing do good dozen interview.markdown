@@ -1,6 +1,6 @@
 ---
-title: 'Pioneering a Path to Holistic Healing: Onsite’s VP of Marketing and Business
-  Development & Do-Good Dozen Winner'
+title: 'Pioneering a Path to Holistic Healing: Meet Onsite’s VP of Marketing & Do-Good
+  Dozen Winner'
 date: 2019-08-07 03:00:00 -07:00
 categories:
 - Growth
