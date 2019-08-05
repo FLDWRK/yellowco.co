@@ -3,6 +3,7 @@ title: plastics
 date: 2019-08-12 03:00:00 -07:00
 categories:
 - Health
+author: Nikkey Dawn
 ---
 
 Ocean plastic is becoming a growing concern, but while awareness is rising, so is the production of plastic. A staggering 8 billion tons of plastic makes its way into the ocean every year. Last summer, I went in search of this plastic, sailing along the Pacific Northwest coast to sample the ocean, seafloor, and air for micro and nanopolastics. Unfortunately, I found what I was looking for – not one sample was free of plastic.
