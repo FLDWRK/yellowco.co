@@ -1,5 +1,5 @@
 ---
-title: plastics
+title: The Scoop on Micro Plastics and What You Can Do About Not Consuming Them
 date: 2019-08-12 03:00:00 -07:00
 categories:
 - Health
