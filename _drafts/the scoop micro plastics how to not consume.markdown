@@ -19,7 +19,7 @@ tags:
 - conscious
 - pollution
 author: Nikkey Dawn
-image: "/uploads/sophia-marston-bZI7Wj_KoWw-unsplash-1.jpg"
+image: "/uploads/nicepear-jakarta-fVKCTLZ-8fU-unsplash-1.jpg"
 ---
 
 Ocean plastic is becoming a growing concern, but while awareness is rising, so is the production of plastic. A staggering 8 billion tons of plastic makes its way into the ocean every year. Last summer, I went in search of this plastic, sailing along the Pacific Northwest coast to sample the ocean, seafloor, and air for micro and nanopolastics. Unfortunately, I found what I was looking for – not one sample was free of plastic.
@@ -56,7 +56,7 @@ So while you may have switched to a reusable mug (which is great!) you still may
 
 Educating ourselves and making changes can feel overwhelming. To keep it simple I ask myself these questions before a purchase – “can I make do without it?”, “can I get it fixed?” (if it’s a replacement), “can I buy it used?”, and if not, “can I get it made of / or packaged in biodegradable materials?”. Becoming mindful about what we consume and the impacts of our consumption is the first step in creating long-lasting change.
 
-![nicepear-jakarta-fVKCTLZ-8fU-unsplash-1.jpg](/uploads/nicepear-jakarta-fVKCTLZ-8fU-unsplash-1.jpg)
+![sophia-marston-bZI7Wj_KoWw-unsplash-1.jpg](/uploads/sophia-marston-bZI7Wj_KoWw-unsplash-1.jpg)
 
 #### What can we do to protect our communities and the environment?
 
