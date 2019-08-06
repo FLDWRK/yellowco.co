@@ -4,6 +4,7 @@ date: 2019-08-12 03:00:00 -07:00
 categories:
 - Health
 author: Nikkey Dawn
+image: "/uploads/sophia-marston-bZI7Wj_KoWw-unsplash-1.jpg"
 ---
 
 Ocean plastic is becoming a growing concern, but while awareness is rising, so is the production of plastic. A staggering 8 billion tons of plastic makes its way into the ocean every year. Last summer, I went in search of this plastic, sailing along the Pacific Northwest coast to sample the ocean, seafloor, and air for micro and nanopolastics. Unfortunately, I found what I was looking for – not one sample was free of plastic.
@@ -14,6 +15,8 @@ I was one of 14 women with a mix of professional backgrounds from science to his
 
 They can mimic hormones and interfere with the endocrine system, which can cause a variety of health problems from auto-immune disorders to fertility problems and neurological issues. What’s more, women (who are able and choose to have kids) pass down their chemical body burden to the next generation during gestation and through breastfeeding. 
 
+![allie-smith-QCDUX0JmZgo-unsplash-1.jpg](/uploads/allie-smith-QCDUX0JmZgo-unsplash-1.jpg)
+
 #### Why are we still using plastic if there’s such a big health risk?
 
 Notice how in the previous paragraph I had to phrase it as “can cause”? Different manufacturers use different “cocktails” to make their plastics. The sources of monomers, solvants, initiators, catalysts and additives will vary by grade of plastic, color and intended use. Now depending on say, if a fire-retardant is used, the potential health effects will differ. 
@@ -23,6 +26,8 @@ Plastics and their health risks get to hide under this umbrella of chemicals, ch
 ### A lot of the chemicals used in plastic production have only been mass produced for the last 70 years or so, making them relatively new in terms of what we know about how they affect us and the environment. 
 
 But the good news is, studies are growing. Hopefully, the uptick in public interest will mean more funding for the scientists working to understand the risks. 
+
+![aldo-delara-hztee92Tlgk-unsplash-1.jpg](/uploads/aldo-delara-hztee92Tlgk-unsplash-1.jpg)
 
 #### How can we reduce plastic production and protect our health?
 
@@ -35,6 +40,8 @@ But it’s pays to recognize where your biggest plastic footprints are. For exam
 So while you may have switched to a reusable mug (which is great!) you still may be contribution to plastic pollution in a big way, without even knowing it.
 
 Educating ourselves and making changes can feel overwhelming. To keep it simple I ask myself these questions before a purchase – “can I make do without it?”, “can I get it fixed?” (if it’s a replacement), “can I buy it used?”, and if not, “can I get it made of / or packaged in biodegradable materials?”. Becoming mindful about what we consume and the impacts of our consumption is the first step in creating long-lasting change.
+
+![nicepear-jakarta-fVKCTLZ-8fU-unsplash-1.jpg](/uploads/nicepear-jakarta-fVKCTLZ-8fU-unsplash-1.jpg)
 
 #### What can we do to protect our communities and the environment?
 
