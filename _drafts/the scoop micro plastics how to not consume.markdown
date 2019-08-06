@@ -3,6 +3,21 @@ title: The Scoop on Micro Plastics and What You Can Do About Not Consuming Them
 date: 2019-08-12 03:00:00 -07:00
 categories:
 - Health
+tags:
+- micro plastics
+- plastic
+- environment
+- eco-friendly
+- plastic-free
+- toxins
+- ocean
+- clean ocean
+- hormones
+- hormone disruption
+- chemicals
+- health
+- conscious
+- pollution
 author: Nikkey Dawn
 image: "/uploads/sophia-marston-bZI7Wj_KoWw-unsplash-1.jpg"
 ---
