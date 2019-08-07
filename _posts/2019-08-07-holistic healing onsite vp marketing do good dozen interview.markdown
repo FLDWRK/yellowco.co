@@ -20,6 +20,7 @@ tags:
 - nashville
 - miles adcox
 - lindsey nobles
+author: Kathryn Parrish
 image: "/uploads/Lindsey-Nobles.jpg"
 ---
 
