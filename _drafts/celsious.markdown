@@ -3,6 +3,25 @@ title: celsious
 date: 2019-08-19 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- clean living
+- conscious living
+- plastic
+- eco-friendly
+- laundry
+- celsious
+- laundromat
+- toxin-free
+- detergent
+- clothing
+- fashion
+- sustainable
+- washing
+- laundry tips
+- education
+- corinne williams
+- theresa williams
+- safe
 author: Lauren Breiding
 image: "/uploads/@Francesco_Rao_space2.jpg"
 ---
