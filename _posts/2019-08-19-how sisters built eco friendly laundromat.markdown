@@ -69,7 +69,9 @@ Being able to leverage my connections and knowledge of the industry has helped f
 
 **Theresa:** My training as a product designer helped me translate bringing my sister’s vision for Celsious into the calm, welcoming, and efficient space that a lot of our customers love, so much so that laundry day is now a highlight of their week. I not only designed Celsious’ interior, but when some of our contractors stopped showing up toward the end of our buildout I had the tools and skills to complete a fair amount of the millwork and finishes myself.
 
-### Design thinking continues to inform my problem solving whenever we improve on or add a service, product, or procedure. Being empathetic to our users’ experience continues to inform every decision we take.
+### Design thinking continues to inform my problem solving whenever we improve on or add a service, product, or procedure. 
+
+Being empathetic to our users’ experience continues to inform every decision we take.
 
 ![@Alyssa_Blumstein_patio.jpg](/uploads/@Alyssa_Blumstein_patio.jpg)
 
