@@ -1,5 +1,6 @@
 ---
-title: celsious
+title: How These Sisters Built an Eco-Friendly Laundromat That’s Making Us Never Look
+  at Laundry the Same Way Again
 date: 2019-08-19 03:00:00 -07:00
 categories:
 - Conscious Living
