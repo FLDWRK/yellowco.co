@@ -4,6 +4,7 @@ date: 2019-08-19 03:00:00 -07:00
 categories:
 - Conscious Living
 author: Lauren Breiding
+image: "/uploads/@Francesco_Rao_space2.jpg"
 ---
 
 _The last thing you would ever expect at your next laundromat stop is free, safe detergent or a cafe filled with food and drink from the top health and wellness brands. Corinne and Theresa Williams have taken their expertise in fashion and journalism to do just that. [Celsious](http://celsious.com/) is a eco-friendly laundromat in Brooklyn that meshes fashion, sustainability and education all under one roof.  Read on for more about how the basic need for clean whites launched an innovative laundry service that will have you counting down until your next laundry day._
