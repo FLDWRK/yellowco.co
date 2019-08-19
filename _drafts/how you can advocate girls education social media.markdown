@@ -1,5 +1,6 @@
 ---
-title: i stand
+title: How You Can Advocate for Girls’ Education This Month Simply by Using Social
+  Media
 date: 2019-08-26 03:00:00 -07:00
 categories:
 - Culture
