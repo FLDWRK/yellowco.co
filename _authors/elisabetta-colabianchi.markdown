@@ -3,8 +3,8 @@ title: Elisabetta Colabianchi
 company_name: Global Dream Collective
 job_title: Founder
 bio_image: "/assets/images/elisabetta-colabianchi.jpg"
-website: http://www.globaldreamcollective.com/
+website: https://www.instagram.com/lovekurandza/
 is_guest: true
 ---
 
-Elisabetta is a social entrepreneur who helps women uncover their purpose and become a greater force for good in the world. She’s the founder of the Global Dream Collective, a community and resource for world changers and impact makers. Elisabetta’s also the founder of Kurandza, a non-profit that empowers women and girls in East Africa through education. When she’s not writing about conscious travel and social good on her blog, you can find her practicing yoga, indulging in chocolate, or exploring nature.
+Elisabetta is the founder of Kurandza, a non-profit that empowers women and girls in eastern Africa and around the world. She is also a social impact consultant and works with purpose-driven women who want to start or grow their non-profit or social enterprise initiatives. Elisabetta speaks 5 languages and enjoys traveling the world when she's not at home in the San Francisco Bay Area. She loves making new friends, so come say hi to her on Instagram!
