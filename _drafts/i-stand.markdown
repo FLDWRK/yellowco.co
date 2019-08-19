@@ -4,6 +4,7 @@ date: 2019-08-26 03:00:00 -07:00
 categories:
 - Culture
 author: Elisabetta Colabianchi
+image: "/uploads/Kurandza-ISTANDFORGIRLS-11.jpg"
 ---
 
 After I got back to the US from volunteering with the Peace Corps for three years in a small village in rural Mozambique, I decided to start [Kurandza](https://www.kurandza.org/). We’re a non-profit social enterprise that helps girls get access to education, and helps women become entrepreneurs, with the goal of empowering the next generation of female leaders. Seeing firsthand how education can change the entire trajectory of a girl’s life, and the ripple effect it creates that impacts the entire community and generations for years to come, I chose to focus on girls education as the core of our organization.
