@@ -1,7 +1,5 @@
 ---
 title: Elisabetta Colabianchi
-company_name: Global Dream Collective
-job_title: Founder
 bio_image: "/assets/images/elisabetta-colabianchi.jpg"
 website: https://www.instagram.com/lovekurandza/
 is_guest: true
