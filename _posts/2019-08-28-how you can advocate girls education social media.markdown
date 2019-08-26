@@ -63,6 +63,6 @@ These initiatives wouldn’t be possible without our annual [#IStandForGirls](ht
 
 Making an impact and providing an education to girls is something each one of us can help with, and I’m honored that Yellow Co. is a part of this year’s #IStandForGirls campaign. Yellow has joined in the movement with a goal of getting the Yellow community to support 10 (or more) girls! If you would like to join the cause and help bring education to girls in eastern Africa, we are currently inviting the community to join our [#IStandForGirls launch team](https://www.kurandza.org/launch-team)! Starting September 1st and throughout the entire month, Kurandza will be asking participants to spread the word via social media by posting a photo of themselves holding a sign with the #IStandForGirls hashtag and explaining why they personally think girls education is important to reinforce the message that education matters for ALL GIRLS! Join the launch team [here](https://www.kurandza.org/launch-team). 
 
-If you would like to sponsor the education of a girl, [head here](https://www.kurandza.org/sponsor-a-girl). You can learn more about the work Kurandza is doing in Mozambique [here](https://www.kurandza.org/our-work).
+If you would like to sponsor the education of a girl, [head here](https://www.kurandza.org/istandforgirls). You can learn more about the work Kurandza is doing in Mozambique [here](https://www.kurandza.org/our-work).
 
 _Photos courtesy of [Kurandza](https://www.kurandza.org/)_
