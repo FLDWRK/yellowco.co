@@ -42,7 +42,7 @@ Entering my second year at Yellow, Day One felt like a homecoming. Walking in fe
 
 They are here to represent their communities, own their failures, remind each other of their triumphs, and learn something new — or come away sparked by something waiting to be found again. 
 
-### Perhaps that thing about ourselves, as Joanna welcomed us to revisit, would be the transformative belief that by being who we are and doing what we were created to do, we can change the world.
+### Perhaps that thing about ourselves, as Yellow welcomed us to revisit, would be the transformative belief that by being who we are and doing what we were created to do, we can change the world.
 
 ![yellow conference @natalieecrane -119-1.jpg](/uploads/yellow%20conference%20@natalieecrane%20-119-1.jpg)
 _Photo by [Natalie Crane](https://www.instagram.com/natalieecrane/)_
