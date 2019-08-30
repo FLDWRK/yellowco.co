@@ -1,5 +1,6 @@
 ---
-title: 2019 recap
+title: 'Why Aligning Who You Are with Your Work Is Exactly What the World Needs: My
+  Time at Yellow Conference 2019'
 date: 2019-09-02 03:00:00 -07:00
 categories:
 - Growth
