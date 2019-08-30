@@ -35,7 +35,8 @@ In the weeks leading up to Yellow Conference this year, I didn’t know how much
 
 It’s a tender thing to say in a world bustling with ambition, in a room of incredibly capable, dynamic women – but in reality it is just the place to say it. This year, the theme of the 2019 Yellow Conference was “Align”. The theme served as a holistic calling to align who we are – our values, our passions, and skills – with all that we do in the world. After an insightful, encouraging, and admittedly emotional two days, what I saw in myself and fellow attendees was what I came again for: rejuvenation.
 
--
+![yellow conference @natalieecrane -63-1.jpg](/uploads/yellow%20conference%20@natalieecrane%20-63-1.jpg)
+_Photo by [Natalie Crane](https://www.instagram.com/natalieecrane/)_
 
 From hurrying (late) into the brightness of [Hudson Loft](http://www.hudsonloft.com/) from the L.A. traffic, grabbing a cup of delicious and necessary Verve coffee, I settled into a seat listening to emcee [Ingrid Gonzalez](https://www.instagram.com/ingridsgonzalez/) welcome everyone and I remembered: Yellow knows how to set the tone. We were in for something great.
 
@@ -45,7 +46,8 @@ They are here to represent their communities, own their failures, remind each ot
 
 ### Perhaps that thing about ourselves, as Joanna welcomed us to revisit, would be the transformative belief that by being who we are and doing what we were created to do, we can change the world.
 
--
+![yellow conference @natalieecrane -119-1.jpg](/uploads/yellow%20conference%20@natalieecrane%20-119-1.jpg)
+_Photo by [Natalie Crane](https://www.instagram.com/natalieecrane/)_
 
 After inclusive dance troupe [Infinite Flow’s](http://www.infiniteflowdance.org/) first performance of the conference, Liz Forkin Bohannon, founder of [Sseko](https://ssekodesigns.com/), opened the speaker series with a manifesto of _[Beginner’s Pluck](https://www.amazon.com/Beginners-Pluck-Build-Purpose-Impact/dp/0801094240/ref=mp_s_a_1_1?keywords=beginners+pluck&qid=1565995383&s=gateway&sprefix=begi&sr=8-1)_; that is for dreaming “small” and fighting past believing we have to be “special” to make a difference. In her new book she details her journey founding Sseko Designs. What began as a remixed flip-flop design ignited with a passion to help keep young Ugandan women in school, and open opportunities for them to attend university and pursue career growth. Today, Sseko is an ethical fashion company bridging the gap for talented young women facing a challenging job market, and will enable their 131st woman to go to college. In ten years of entrepreneurship, Liz has pretty much gone through it all, and candidly answered our questions about failure, mentorship, and persistence.
 
@@ -53,13 +55,17 @@ Next, Terces Engelhart, founder of [Café Gratitude](https://www.cafegratitude.c
 
 ### As Terces shared, “If I call out the best in people, the best will arise.”
 
--
+![yellow conference - day 2 (5 of 149)-1.jpg](/uploads/yellow%20conference%20-%20day%202%20(5%20of%20149)-1.jpg)
+_Photo by [Hayley Scully](https://www.haylscreative.com/)_
 
 Inspired by our first speaker sessions, what was most special to me was experiencing the conference alongside friends, old and new, who were here for the first time. Knowing how much the education and palpable collective passion affected me last year, I was really excited to see what my friends would draw from it, and how it might turn over new discoveries for them.
 
 During our break, attendees were free to roam the Do-Good Goods Marketplace, the Wellness Loft, the Retreat Room, and for the first time, the Nurture Room; specially arranged for mothers to nurse and rest. The presence and attention to detail paid to make these rooms  beautiful set a tone: 
 
 ### Here, we would regard the whole person, not just our headlining achievements, but everything that makes up our worlds.
+
+![yellowco - day 1 (88 of 291)-1.jpg](/uploads/yellowco%20-%20day%201%20(88%20of%20291)-1.jpg)
+_Photo by [Hayley Scully](https://www.haylscreative.com/)_
 
 Peeking through the tote bags of goodies designed with and ethically made by [Parker Clay](https://www.parkerclay.com/), there was pretty much no amenity overlooked by the Yellow Co. team as each was filled with items benefiting people and planet: nutrient-packed, non-GMO banana chips by [Bare Snacks](https://baresnacks.com/) and [Tosi](https://tosi.com/) cashew Super Bites, and plant-powered, cruelty-free beauty products by [Trilogy](http://trilogy.com/), [Goldfaden MD](https://goldfadenmd.com/), and [Smartypits](https://smartypits.com/). Ethical fashion picks included socks by [Richer Poorer](https://richer-poorer.com/) and [Go Rings](https://gorings.com/)’ signature dainty, layered ring. Awaiting breakout sessions, everyone was kept hydrated by refillable bottles of [Pathwater](https://drinkpathwater.com/) and kept caffeinated by [Verve](https://www.vervecoffee.com/) drip coffee and cold brew. Upstairs from the Do-Good Goods Marketplace, the Wellness Loft offered facials by [Heyday](https://www.heydayskincare.com/) and polished nails with [Restore Blank](https://restoreblank.com/).
 
@@ -72,7 +78,8 @@ Our group in the Bloom Room asked away, from questions about supply chain, to lo
 
 Motivation is palpable when you can see what’s truly possible. The Do-Good Goods Marketplace is a wonderland of brands hand-picked and vetted by Yellow for quality, sustainability, supply chain, environmental impact, and more. During these two days, we got to hear directly from marketplace vendors BeautyCounter via Lindsay, Gaia Herbs via Elena, and on Day Two, Barrett Ward, founder of ABLE. But filling the airy first floor of Hudson Loft were tried and true innovators, uncompromising in their values, including nontoxic beauty products by [Aether Beauty](https://aetherbeautyco.com/), dainty baubles by [UNCVRD Jewelry](https://www.uncvrdjewelry.com/), and the cutest t-shirts by [HALF UNITED](https://www.halfunited.com/). This year’s official conference t-shirt was designed by [Dazey LA](https://www.dazeyla.com/) and worn by Yellow volunteers who kept a full schedule running smoothly!
 
--
+![yellow conference - day 2 (45 of 149).jpg](/uploads/yellow%20conference%20-%20day%202%20(45%20of%20149).jpg)
+_Photo by [Hayley Scully](https://www.haylscreative.com/)_
 
 Rounding everyone back up to the main stage, we sat down to hear from [International Justice Mission](https://www.ijm.org/) Creative Director [Vera Leung](https://www.instagram.com/veraleung/), who showed us how IJM pursues dignity and protection for people through their storytelling. “Our stories are better lived in community; change is only possible with all of us,” she said. Modern slavery picks a fight that will take all of us. Hope isn’t lost for the ones who are most vulnerable. As Vera shared through one rescued boy’s friendship, his vision for hope ignites hers to tell his and many others’ to see IJM’s mission through — end slavery within our lifetime.
 
@@ -82,7 +89,8 @@ To end the first day, the screens on the main stage splashed with a familiar pal
 
 And just like that, it was a wrap on Day One! We toasted with sustainable made natural wines by [Dry Farm Wines](https://www.dryfarmwines.com/) and plant-based bites by [Beyond Meat](https://www.beyondmeat.com/), browsing the marketplace and enjoying each other’s company.
 
--
+![yellow conference @natalieecrane -287-1.jpg](/uploads/yellow%20conference%20@natalieecrane%20-287-1.jpg)
+_Photo by [Natalie Crane](https://www.instagram.com/natalieecrane/)_
 
 Opening the second day again with emotive, beautiful performances incorporating wheelchair dance by Infinite Flow, today, founder and artistic director [Marisa Hamamoto](https://www.marisahamamoto.com/) revealed how her own recovery from a stroke’s paralysis struck a passion to create a dance company standing for joyful inclusivity of race, size, age, gender, and disability.
 
