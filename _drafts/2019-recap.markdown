@@ -28,11 +28,9 @@ tags:
 author: Melanie Loon
 ---
 
-In the weeks leading up this year's [Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/), I didn’t know how much I was craving balance, a certain search for “the way back,” or the way home.
+In the weeks leading up to this year's [Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/), I didn’t know how much I hd been craving a search for the way back home to myself until it fell directly in front of me. During Yellow’s 6th annual LA conference at [Hudson Loft](http://www.hudsonloft.com/) this August, founder Joanna Waterfall challenged the audience with exactly this. Throughout the conference she encouraged us to fully revisit “that thing” within us longing to get out. The dream that has lied dormant for too long; the calling that we’ve let slip by. 
 
-“Think about that thing that maybe you haven’t known about yourself in a long time.”
-
-As Yellow Co.’s 6th annual conference came to a close at [Hudson Loft](http://www.hudsonloft.com/) this August, founder Joanna Waterfall charged the audience with this. It’s a tender thing to say in a world, or a city, bustling with ambition, in a room of incredibly capable, dynamic women, but it is just the place to say it. This year, the theme of the 2019 Yellow Conference was “Align.” After an insightful, encouraging, and admittedly emotional two days, what I saw in myself and fellow attendees was what I came again for: rejuvenation.
+It’s a tender thing to say in a world bustling with ambition, in a room of incredibly capable, dynamic women – but in reality it is just the place to say it. This year, the theme of the 2019 Yellow Conference was “Align”. The theme served as a holistic calling to align who we are – our values, our passions, and skills – with all that we do in the world. After an insightful, encouraging, and admittedly emotional two days, what I saw in myself and fellow attendees was what I came again for: rejuvenation.
 
 From hurrying (late) into the brightness of Hudson Loft from the L.A. traffic, grabbing a cup of delicious and necessary Verve coffee, I settled into a seat listening to emcee [Ingrid Gonzalez](https://www.instagram.com/ingridsgonzalez/) welcome everyone and I remembered: Yellow knows how to set the tone. We were in for something great.
 
