@@ -36,7 +36,9 @@ From hurrying (late) into the brightness of Hudson Loft from the L.A. traffic, g
 
 Entering my second year at Yellow, Day One felt like a homecoming. Walking in felt like coming home to purpose, and the celebration of it. Great style rules the two floors of conference wonderland, but what’s deeply palpable is a sense of being surrounded by women who are here to do the work – who are _doing_ the work. These women are here to learn, but they’re already making their vocations something soul-entwined, and not just for comfort, the familiar, or the impressive.
 
-They are here to represent their communities, own their failures, remind each other of their triumphs, and learn something new — or come away sparked by something waiting to be found again. Perhaps that thing, as Joanna welcomed us to revisit, would be the transformative belief that by being who we are and doing what we were created to do, we can change the world.
+They are here to represent their communities, own their failures, remind each other of their triumphs, and learn something new — or come away sparked by something waiting to be found again. 
+
+### Perhaps that thing about ourselves, as Joanna welcomed us to revisit, would be the transformative belief that by being who we are and doing what we were created to do, we can change the world.
 
 After inclusive dance troupe [Infinite Flow’s](http://www.infiniteflowdance.org/) first performance of the conference, Liz Forkin Bohannon, founder of [Sseko](https://ssekodesigns.com/), opened the speaker series with a manifesto of _[Beginner’s Pluck](https://www.amazon.com/Beginners-Pluck-Build-Purpose-Impact/dp/0801094240/ref=mp_s_a_1_1?keywords=beginners+pluck&qid=1565995383&s=gateway&sprefix=begi&sr=8-1)_; that is for dreaming “small” and fighting past believing we have to be “special” to make a difference. In her new book she details her journey founding Sseko Designs. What began as a remixed flip-flop design ignited with a passion to help keep young Ugandan women in school, and open opportunities for them to attend university and pursue career growth. Today, Sseko is an ethical fashion company bridging the gap for talented young women facing a challenging job market, and will enable their 131st woman to go to college. In ten years of entrepreneurship, Liz has pretty much gone through it all, and candidly answered our questions about failure, mentorship, and persistence.
 
@@ -60,7 +62,7 @@ Motivation is palpable when you can see what’s truly possible. The Do-Good Goo
 
 Rounding everyone back up to the main stage, we sat down to hear from [International Justice Mission](https://www.ijm.org/) Creative Director [Vera Leung](https://www.instagram.com/veraleung/), who showed us how IJM pursues dignity and protection for people through their storytelling. “Our stories are better lived in community; change is only possible with all of us,” she said. Modern slavery picks a fight that will take all of us. Hope isn’t lost for the ones who are most vulnerable. As Vera shared through one rescued boy’s friendship, his vision for hope ignites hers to tell his and many others’ to see IJM’s mission through — end slavery within our lifetime.
 
-Between Yellow’s New York Conference in May and this one in Los Angeles, Yellow rallied 35 women to commit to give monthly towards IJM’s global efforts as Freedom Partners. In total, this means that the Yellow community will be able to fully fund two complete human trafficking rescue missions this year, gathering just over $12,000.
+Between Yellow’s New York Conference in May and this one in Los Angeles, Yellow rallied 35 women to commit to give monthly towards IJM’s global efforts as Freedom Partners. In total, this means that the Yellow community will be able to fully fund two complete human trafficking rescue missions this year, gathering just over $12,000! It was inspiring to see such a tangible example of how people taking action to solve a global issue can truly make an impact. 
 
 To end the first day, the screens on the main stage splashed with a familiar palette of brush strokes and the cadence of encouragement you’ve probably stopped scrolling on Instagram for. Artist, writer, and musician, [Morgan Harper Nichols](https://morganharpernichols.com/), entered the stage to show us the very beginnings of how a poem with more honesty than she was ready to share took Pinterest by storm and launched a one-to-one letter writing journey that has proliferated across Instagram. Humble, hilarious, and heartfelt, MHN was the real deal.
 
@@ -68,7 +70,9 @@ And just like that, it was a wrap on Day One! We toasted with sustainable made n
 
 Opening the second day again with emotive, beautiful performances incorporating wheelchair dance by Infinite Flow, today, founder and artistic director [Marisa Hamamoto](https://www.marisahamamoto.com/) revealed how her own recovery from a stroke’s paralysis struck a passion to create a dance company standing for joyful inclusivity of race, size, age, gender, and disability.
 
-In sharing the story of [ABLE](https://www.livefashionable.com), founder Barrett Ward made us laugh and brought us candid truth about the realities of transitioning from a non-profit to a for-profit, and ensuring that the help a do-good business provides puts the community and its needs before its own vision of accomplishment. 
+In sharing the story of [ABLE](https://www.livefashionable.com), founder Barrett Ward made us laugh and brought us candid truth about the realities of transitioning from a non-profit to a for-profit, reminding us that a do-good business should put the needs of the community they're serving first before its own vision of accomplishment. In speaking on the challenge for transparency that ABLE is bringing to the fashion industry, Barrett left us with perhaps the most jotted-down quote of the conference, 
+
+### "You don’t have to be perfect before you can be honest."
 
 Next, [Dressember](https://www.dressember.org/) founder [Blythe Hill](https://www.instagram.com/blythehill/) challenged us to take what seem like our silly ideas seriously, and to have compassion for the simple, enjoyable activities that connect people naturally. She encouraged us to be mobilized to help others by going outside our bubble, ask what breaks our hearts, and confront that as a mission. 
 
@@ -76,11 +80,7 @@ Next, [Dressember](https://www.dressember.org/) founder [Blythe Hill](https://ww
 
 After so many pages of note-taking, we had much to process just from speaker sessions. But before breaking off for lunch, we took a few minutes to reflect and share some personal practical takeaways with seat-mates through questions led by Joanna:
 
-What dreams or goals were stirring for our neighbors? Was there something we had buried, that we now need to step into?
-
-“What scares you the most about it?” asked Joanna. “If you took a chance on that dream or goal, what’s the worst that could happen?”
-
-The room filled with busy voices. This was a space for messy thoughts and real compassion as we then considered what just one action step could be to move closer to a dream.
+What dreams or goals were stirring for our neighbors? Was there something we had buried, that we now need to step into? “What scares you the most about it?” asked Joanna. “If you took a chance on that dream or goal, what’s the worst that could happen?” The room filled with busy voices. This was a space for messy thoughts and real compassion as we then considered what just one action step could be to move closer to a dream.
 
 For Day Two’s breakout session, my brain really got to work in a session led by [FLDWRK's](https://www.fldwrk.io/) Director of Programs, [Jonathon Murillo](https://www.instagram.com/jonathonmurillo/), to clarify our mission statement by getting to the bottom of that mission’s “problem statement” – the real reason for the mission’s existence. Taking inspiration from Dr. Martin Luther King Jr.’s “I Have a Dream” speech and freshly articulated statements from the audience, the balance he proposed was that between the audacious and the achievable. In that tension is where we create.
 
@@ -92,8 +92,12 @@ To end our time, the amazing artist [MILCK](https://milckmusic.com/) (Connie Lim
 
 It’s a gift and a privilege to have our hands on the wheel, steering our career paths in a way that aligns with our values. Work can be more than something we do to get by or earn recognition for.
 
-From Liz, we learned that figuring out how to break the mold isn’t rocket science. From Terces, Morgan, and Blythe, we learned to just take the first step; it will lead you to the next. From Larayia, Barrett, Liz, and Vera, we asked ourselves, "How can you humbly learn from others about how to truly serve their needs?" From MILCK, Miles, and Ruthie, we found the confidence to tell the truth of our journeys so we can heal both ourselves and those around us.
+From Liz, we learned that figuring out how to break the mold isn’t rocket science. From Terces, Morgan, and Blythe, we learned to just take the first step; it will lead you to the next. From Larayia, Barrett, Liz, and Vera, we asked ourselves –
 
-“Think about that thing,” Joanna urged in the end, “that thing you haven’t known about yourself in a long time.” For me, it means confidently sharing untold stories, and humbly asking for help to grow. What I gained from Yellow 2019 is reinvigorated hope for what’s possible beyond just me and my abilities. I can own my limits and believe in my community’s love and strength to fill where I lack. Relearning this feels like a deep breath, ready to make a new first step.
+### "How can you humbly learn from others about how to truly serve their needs?" 
+
+From MILCK, Miles, and Ruthie, we found the confidence to tell the truth of our journeys so we can heal both ourselves and those around us.
+
+“Think about that thing,” Joanna urged in the end, “that thing about yourself you haven't thought about in a long time.” For me, it means confidently sharing untold stories, and humbly asking for help to grow. What I gained from Yellow 2019 is reinvigorated hope for what’s possible beyond just me and my abilities. I can own my limits and believe in my community’s love and strength to fill where I lack. Relearning this feels like a deep breath, ready to make a new first step.
 
 _Photos by _
