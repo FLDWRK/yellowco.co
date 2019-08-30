@@ -33,10 +33,10 @@ In the weeks leading up to the 6th annual [Yellow Conference](https://yellowcoll
 
 It’s actually a very tender thing to say in a world bustling with ambition, in a room of incredibly capable, dynamic women – but in reality it is just the place to say it. This year’s theme served as a holistic calling to align who we are – our values, our passions, and skills – with all that we do in the world. After an insightful, encouraging, and admittedly emotional two days, what I saw in myself and fellow attendees was what I returned to Yellow for: rejuvenation.
 
+From hurrying into the brightness of [Hudson Loft](http://www.hudsonloft.com/), grabbing a cup of delicious and necessary Verve coffee, I settled into a seat listening to emcee [Ingrid Gonzalez](https://www.instagram.com/ingridsgonzalez/) welcome everyone and I remembered: Yellow knows how to set the tone. We were in for something great.
+
 ![yellow conference @natalieecrane -63-1.jpg](/uploads/yellow%20conference%20@natalieecrane%20-63-1.jpg)
 _Photo by [Natalie Crane](https://www.instagram.com/natalieecrane/)_
-
-From hurrying into the brightness of [Hudson Loft](http://www.hudsonloft.com/), grabbing a cup of delicious and necessary Verve coffee, I settled into a seat listening to emcee [Ingrid Gonzalez](https://www.instagram.com/ingridsgonzalez/) welcome everyone and I remembered: Yellow knows how to set the tone. We were in for something great.
 
 Entering my second year at Yellow, Day One felt like a homecoming. Walking in felt like coming home to purpose, and the celebration of it. Great style rules the two floors of conference wonderland, but what’s deeply palpable is a sense of being surrounded by women who are here to do the work – who are _doing_ the work. These women are here to learn, but they’re already making their vocations something soul-entwined, and not just for comfort, the familiar, or the impressive.
 
