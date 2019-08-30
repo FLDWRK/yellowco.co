@@ -98,7 +98,8 @@ In sharing the story of [ABLE](https://www.livefashionable.com), founder Barrett
 
 ### "You don’t have to be perfect before you can be honest."
 
--
+![yellow conference @natalieecrane -104-1.jpg](/uploads/yellow%20conference%20@natalieecrane%20-104-1.jpg)
+_Photo by [Natalie Crane](https://www.instagram.com/natalieecrane/)_
 
 Next, [Dressember](https://www.dressember.org/) founder [Blythe Hill](https://www.instagram.com/blythehill/) challenged us to take what seem like our silly ideas seriously, and to have compassion for the simple, enjoyable activities that connect people naturally. She encouraged us to be mobilized to help others by going outside our bubble, ask what breaks our hearts, and confront that as a mission. 
 
@@ -108,19 +109,22 @@ After so many pages of note-taking, we had much to process just from speaker ses
 
 What dreams or goals were stirring for our neighbors? Was there something we had buried, that we now need to step into? “What scares you the most about it?” asked Joanna. “If you took a chance on that dream or goal, what’s the worst that could happen?” The room filled with busy voices. This was a space for messy thoughts and real compassion as we then considered what just one action step could be to move closer to a dream.
 
--
+![yellow conference @natalieecrane -94-1.jpg](/uploads/yellow%20conference%20@natalieecrane%20-94-1.jpg)
+_Photo by [Natalie Crane](https://www.instagram.com/natalieecrane/)_
 
 For Day Two’s breakout session, my brain really got to work in a session led by [FLDWRK's](https://www.fldwrk.io/) Director of Programs, [Jonathon Murillo](https://www.instagram.com/jonathonmurillo/), to clarify our mission statement by getting to the bottom of that mission’s “problem statement” – the real reason for the mission’s existence. Taking inspiration from Dr. Martin Luther King Jr.’s “I Have a Dream” speech and freshly articulated statements from the audience, the balance he proposed was that between the audacious and the achievable. In that tension is where we create.
 
 A cushion of time allowed a friend and I to compare notes from another breakout session hosted by [Ashlee Sikorski](https://www.ashleesikorski.com/). An intermediate Enneagram communication workshop, this one surprised both of us with its focus on the three Enneagram intelligence centers — Heart, Mind, and Body — with each of us practicing another’s primary way of communicating!
 
--
+![yellow conference - day 2 (60 of 149)-1-1.jpg](/uploads/yellow%20conference%20-%20day%202%20(60%20of%20149)-1-1.jpg)
+_Photo by [Hayley Scully](https://www.haylscreative.com/)_
 
 The last two speaker sessions ended our time strong, all of us reuniting to hear from LaRayia Gaston, founder of [Lunch On Me](https://www.lunchonme.org/), a Los Angeles-based non-profit working for health and mind-body-spirit healing for those experiencing homelessness. Lunch On Me redistributes organic food at risk of being wasted to be served as delicious, quality meals for residents of Skid Row. Convicting and compassionate, LaRayia challenged us to test the purity of our strength of spirit, and to love the vulnerable without reason. “It is a gift to be a powerhouse,” she said. “You can use all of your gifts; you don’t have just one. But start with love.”
 
 To end our time, the amazing artist [MILCK](https://milckmusic.com/) (Connie Lim) joined [Ruthie Lindsey](https://www.instagram.com/ruthielindsey/) and [Miles Adcox](https://www.instagram.com/milesadcox/) for a live podcast recording of [The Unspoken Podcast](https://theunspokenpodcast.com/). Through Connie’s personal artistic journey, the three unraveled universally felt struggles of trauma, communication, growth, and acceptance. There couldn’t be a better picture of the compassion and unity felt as when the room fell silent for MILCK’s song “Quiet”, and filled with harmony as she invited us to join in. That united chorus, “I can’t keep quiet…” will undoubtedly be heard in the missions these women take up.
 
--
+![yellow conference - day 2 (102 of 149)-1.jpg](/uploads/yellow%20conference%20-%20day%202%20(102%20of%20149)-1.jpg)
+_Photo by [Hayley Scully](https://www.haylscreative.com/)_
 
 It’s a gift and a privilege to have our hands on the wheel, steering our career paths in a way that aligns with our values. Work can be more than something we do to get by or earn recognition for. From Liz, we learned that figuring out how to break the mold isn’t rocket science. From Terces, Morgan, and Blythe, we learned to just take the first step; it will lead you to the next. From Larayia, Barrett, Liz, and Vera, we asked ourselves –
 
