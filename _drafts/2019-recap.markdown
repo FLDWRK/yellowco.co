@@ -26,6 +26,7 @@ tags:
 - mentor
 - yellow collective
 author: Melanie Loon
+image: "/uploads/hayley-1.jpg"
 ---
 
 In the weeks leading up to the [Yellow Conference](https://yellowcollective.lpages.co/yellow-conference-2019/) this year, I didn’t know how much I had been craving a map for the way back home to purpose until it fell directly in front of me. During Yellow’s 6th annual LA conference this August, founder Joanna Waterfall challenged the audience to search for exactly this. Over two days set at [Hudson Loft](), she encouraged us to fully revisit “that thing” within us longing to get out. The dream that has sat dormant for too long; the calling that we’ve let slip by.
@@ -62,7 +63,8 @@ During our break, attendees were free to roam the Do-Good Goods Marketplace, the
 
 Peeking through the tote bags of goodies designed with and ethically made by [Parker Clay](https://www.parkerclay.com/), there was pretty much no amenity overlooked by the Yellow Co. team as each was filled with items benefiting people and planet: nutrient-packed, non-GMO banana chips by [Bare Snacks](https://baresnacks.com/) and [Tosi](https://tosi.com/) cashew Super Bites, and plant-powered, cruelty-free beauty products by [Trilogy](http://trilogy.com/), [Goldfaden MD](https://goldfadenmd.com/), and [Smartypits](https://smartypits.com/). Ethical fashion picks included socks by [Richer Poorer](https://richer-poorer.com/) and [Go Rings](https://gorings.com/)’ signature dainty, layered ring. Awaiting breakout sessions, everyone was kept hydrated by refillable bottles of [Pathwater](https://drinkpathwater.com/) and kept caffeinated by [Verve](https://www.vervecoffee.com/) drip coffee and cold brew. Upstairs from the Do-Good Goods Marketplace, the Wellness Loft offered facials by [Heyday](https://www.heydayskincare.com/) and polished nails with [Restore Blank](https://restoreblank.com/).
 
--
+![yellowco - flatlay (13 of 26) (1)-1.jpg](/uploads/yellowco%20-%20flatlay%20(13%20of%2026)%20(1)-1.jpg)
+_Photo by [Hayley Scully](https://www.haylscreative.com/)_
 
 As we reconvened for the next session, attendees could opt to take a breath in a sound bath hosted by [Unplug Meditation](https://www.unplug.com/) in the Wellness Loft, or join one of two other breakout sessions. I broke off for [Quigley’s](https://officiallyquigley.com/) social media seminar on reverse engineering Instagram engagement (captions first!), and hopped over to the Align Your Business with Your Values panel hosted by [The Good Trade’s](https://www.thegoodtrade.com/) founder Amy Ann Caldwell. I headed there with a new friend to hear [Beautycounter](https://www.beautycounter.com/) SVP of Social Mission [Lindsay Dahl](https://www.instagram.com/beautycounter.hill.nerd), [Galerie LA](https://galerie.la/) founder Dechel McKillian, and [Gaia Herbs](https://www.gaiaherbs.com/) EVP of Marketing and E-Commerce Elena Lécué. The women broke down how to hone in on the key values for a brand, and how their companies have practically put their values first, forming methodology, strategy, and consumer interaction around those pillars. “Look for the [values] you can’t do your company without,” said Dechel.
 
@@ -120,4 +122,4 @@ From MILCK, Miles, and Ruthie, we found the confidence to tell the truth of our 
 
 “Think about that thing,” Joanna urged in the end, “that thing about yourself you haven't thought about in a long time.” For me, it means confidently sharing untold stories, and humbly asking for help to grow. What I gained from Yellow 2019 is reinvigorated hope for what’s possible beyond just me and my abilities. I can own my limits and believe in my community’s love and strength to fill where I lack. Relearning this feels like a deep breath, ready to make a new first step.
 
-_Photos by _
+_Feature image by [Hayley Scully](https://www.haylscreative.com/), additional images by [Natalie Crane](https://www.instagram.com/natalieecrane/) and [Hayley Scully](https://www.haylscreative.com/) as noted_
