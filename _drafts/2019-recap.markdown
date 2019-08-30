@@ -76,6 +76,9 @@ As we reconvened for the next session, attendees could opt to take a breath in a
 
 Our group in the Bloom Room asked away, from questions about supply chain, to locations, to career path, to wholesale problem-solving. While I didn’t come in with any specific needs, I came away with a refreshed rubric to view value-driven businesses from women whose experience are showing how it can be done.
 
+![yellow conference @natalieecrane -181-1.jpg](/uploads/yellow%20conference%20@natalieecrane%20-181-1.jpg)
+_Photo by [Natalie Crane](https://www.instagram.com/natalieecrane/)_
+
 Motivation is palpable when you can see what’s truly possible. The Do-Good Goods Marketplace is a wonderland of brands hand-picked and vetted by Yellow for quality, sustainability, supply chain, environmental impact, and more. During these two days, we got to hear directly from marketplace vendors BeautyCounter via Lindsay, Gaia Herbs via Elena, and on Day Two, Barrett Ward, founder of ABLE. But filling the airy first floor of Hudson Loft were tried and true innovators, uncompromising in their values, including nontoxic beauty products by [Aether Beauty](https://aetherbeautyco.com/), dainty baubles by [UNCVRD Jewelry](https://www.uncvrdjewelry.com/), and the cutest t-shirts by [HALF UNITED](https://www.halfunited.com/). This year’s official conference t-shirt was designed by [Dazey LA](https://www.dazeyla.com/) and worn by Yellow volunteers who kept a full schedule running smoothly!
 
 ![yellow conference - day 2 (45 of 149).jpg](/uploads/yellow%20conference%20-%20day%202%20(45%20of%20149).jpg)
