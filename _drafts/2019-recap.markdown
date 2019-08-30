@@ -90,7 +90,7 @@ Between Yellow’s New York Conference in May and this one in Los Angeles, Yello
 
 To end the first day, the screens on the main stage splashed with a familiar palette of brush strokes and the cadence of encouragement you’ve probably stopped scrolling on Instagram for. Artist, writer, and musician, [Morgan Harper Nichols](https://morganharpernichols.com/), entered the stage to show us the very beginnings of how a poem with more honesty than she was ready to share took Pinterest by storm and launched a one-to-one letter writing journey that has proliferated across Instagram. Humble, hilarious, and heartfelt, MHN was the real deal.
 
-And just like that, it was a wrap on Day One! We toasted with sustainable made natural wines by [Dry Farm Wines](https://www.dryfarmwines.com/) and plant-based bites by [Beyond Meat](https://www.beyondmeat.com/), browsing the marketplace and enjoying each other’s company.
+And just like that, it was a wrap on Day One! We toasted with sustainable made natural wines by [Dry Farm Wines](https://www.dryfarmwines.com/), and snacked on plant-based bites by [Beyond Meat](https://www.beyondmeat.com/) and handmade, direct-trade dark chocolates by [Eat Chic Chocolates](https://www.eatchicchocolates.com/), while browsing the marketplace and enjoying each other’s company.
 
 ![yellow conference @natalieecrane -287-1.jpg](/uploads/yellow%20conference%20@natalieecrane%20-287-1.jpg)
 _Photo by [Natalie Crane](https://www.instagram.com/natalieecrane/)_
