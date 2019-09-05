@@ -3,6 +3,23 @@ title: Package Free Shop interview
 date: 2019-09-23 03:00:00 -07:00
 categories:
 - Conscious Living
+tags:
+- the package free shop
+- trash is for tossers
+- lauren singer
+- interview
+- conscious lifestyle
+- plastic
+- sustainability
+- sustainable entrepreneurs
+- founder
+- environment
+- eco-friendly
+- product
+- reduce plastic
+- zero-waste
+- office
+- companies
 author: Avery Osborn & Becky Collier
 image: "/uploads/MGP_9173-2-1.jpg"
 ---
