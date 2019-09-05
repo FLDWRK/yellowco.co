@@ -20,6 +20,7 @@ tags:
 - interviewing
 - networking
 author: Jenna Catalon
+image: "/uploads/stil-L8PS8Sb7KXg-unsplash.jpg"
 ---
 
 Moving to Washington, DC in the summer boiled down to four long months of swampy humidity and sweating through every last one of my nice blouses. So, you could imagine that a little part of me died every time I had to don a blazer for an interview or networking event. (Two words: dry cleaning.) My job search spanned the summer and was just as intense as the heat. After scheduling nearly thirty informational interviews and submitting more than sixty applications, I army-crawled into the fall having clinched the job, but also making a bunch of mindfulness mistakes along the way. I learned that getting the job is important, but keeping your sanity throughout the process is critical.
@@ -32,6 +33,8 @@ We all know that there’s something downright magical about the amount of confi
 	
 Build three to four power outfits prior to interview day. Free yourself from having to suddenly become Tan France the morning before you go in, and have a few go-to’s that showcase your style and maximize your comfort. Try a polished piece like these [elastic-waisted pants](https://www.everlane.com/products/womens-italian-goweave-easy-pant-black?collection=womens-bottoms) from Everlane. (Heck yeah, I said “elastic-waist”.)
 
+![brooke-cagle-_8XsemgliHw-unsplash-1.jpg](/uploads/brooke-cagle-_8XsemgliHw-unsplash-1.jpg)
+
 #### Step Two: Set up informational interviews.
 	
 I don’t mean to sound like your college career counselor here, but honestly they got this one right. Beyond only providing industry knowledge, informational interviews are empowering because you’re the one who gets to set the terms. The pressure’s off, and you simply get to talk with a real-life person in a casual setting. 
@@ -42,15 +45,17 @@ Personally, I’ve found a wealth of encouragement from the informational interv
 
 It’s fortifying to leave the endless lists of postings on LinkedIn behind for a couple hours to sip on a cappuccino with someone who’s been there and done that.
 
+![brooke-cagle-YpefHkUc8BQ-unsplash-1.jpg](/uploads/brooke-cagle-YpefHkUc8BQ-unsplash-1.jpg)
+
 #### Step Three: Do yoga.
 	
 Or mediate. Or go for a run. Or do whatever it is that helps you to stop your mind from buzzing. These days, it’s much too easy to get lost down the rabbit hole of job postings and company websites. 
 
 ### Too quickly, we jump from one post to another and wind up, hours later, questioning every decision that we’ve ever made to get us to the point in our career where we find ourselves today and question the very fabric of our self-perception. 
 
-Or is that just me?
-	
-When I feel myself in the beginning stages of a professional existential crisis, I close my laptop, put on my comfiest leggings, and hop on my yoga mat. Yoga might not be your thing — you might be more like Christina Applegate’s character in _Dead To Me_. In that case, go listen to metal music in your car and have your screamo moment. I’ve found it helpful to set a timer on my phone for a specified amount of time that I want to be online, and then, no matter what, whenever that timer is up, I vinyasa-flow it out. 
+Or is that just me? When I feel myself in the beginning stages of a professional existential crisis, I close my laptop, put on my comfiest leggings, and hop on my yoga mat. Yoga might not be your thing — you might be more like Christina Applegate’s character in _Dead To Me_. In that case, go listen to metal music in your car and have your screamo moment. I’ve found it helpful to set a timer on my phone for a specified amount of time that I want to be online, and then, no matter what, whenever that timer is up, I vinyasa-flow it out. 
+
+![brooke-cagle-g1Kr4Ozfoac-unsplash-1.jpg](/uploads/brooke-cagle-g1Kr4Ozfoac-unsplash-1.jpg)
 
 #### Step Four: Find your hype-people.
 	
