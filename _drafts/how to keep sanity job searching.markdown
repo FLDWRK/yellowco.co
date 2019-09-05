@@ -1,6 +1,24 @@
 ---
 title: How to Keep Your Sanity While Job Searching
 date: 2019-09-16 03:00:00 -07:00
+categories:
+- Growth
+tags:
+- job search
+- job board
+- job
+- career
+- start new job
+- linked in
+- application
+- interview
+- interview tips
+- job search tips
+- stress
+- informational interview
+- support
+- interviewing
+- networking
 author: Jenna Catalon
 ---
 
