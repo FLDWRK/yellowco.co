@@ -34,11 +34,15 @@ I have been living a zero-waste lifestyle for eight years now. [The Package Free
 
 The Package Free Shop was a way to bring all these brands together. It would empower the brands and empower the individuals wanting to free themselves from waste. I started The Package Free Shop about two years ago as a three-month pop up. It ended up doing really well, so we made it into an e-commerce site. It's growing incredibly quickly and everyone who works here is super passionate about sustainability.
 
+![MGP_2324-1.jpg](/uploads/MGP_2324-1.jpg)
+
 ###### What are the first steps a company can take to shift over to more sustainable practices? 
 
 For shipping and receiving, take control before things get to you. Speak to your vendors and partners and have a contractual alignment about what is not acceptable to you. Make sure they have recycled shipping labels and use paper, not plastic. Those are some simple things you can do to have a positive impact. 
 
 In our office, we do some simple things. We don’t have garbage cans, we compost and we recycle. We have coffee in a french press, snacks in bulk, and a glass jug for water. Those are things we got set up from the beginning, and we are successful in it because we did it from the get go. When people come in on day one, we explain that it is a zero waste office and that they are going to have to do things a little differently. Change is hard for people – it’s easier to just rip off the band aid and explain that this is how we are doing things. It’s our desire for us as a company to make a difference, so we make it a priority in the office too. 
+
+![MGP_2528-1.jpg](/uploads/MGP_2528-1.jpg)
 
 ###### For companies looking to design and manufacture more environmentally mindful products, how do you suggest they approach this challenge? 
 
@@ -47,6 +51,8 @@ The best question to ask is, “Does this product need to exist?” It seems lik
 ### Ask, “Is this product going to create more positive impact than negative impact?” That’s the first filter. 
 
 If the answer is yes, then ask, “What are the ingredients? What are the materials? Who will manufacture it? What are the quantities we are ordering? How do the products get shipped to the customer? What is the end of life? Is there a closed-loop system that can be implemented?” There are a million questions. I think; the simpler the product the better. The fewer pieces that go into a product, the easier it is to regulate them. 
+
+![MGP_9500-1.jpg](/uploads/MGP_9500-1.jpg)
 
 ###### What are some other innovative zero-waste companies you’ve identified who are leading in this space?
 
@@ -59,6 +65,8 @@ I started Package Free when I was young with little experience and very little m
 ### I have to learn every single day and accept that I don’t know so much more than I think I know. 
 
 Something as simple as setting up benefits or payroll or hiring – there are so many things that I have to figure out. That has been the coolest, but also the most challenging, thing in this whole process. It’s astounding when I think about the amount of things I know now that I didn’t know two years ago. 
+
+![give a shit tote 2-1.jpg](/uploads/give%20a%20shit%20tote%202-1.jpg)
 
 ###### What is your vision for the Package Free Shop over the next few years? 
 
