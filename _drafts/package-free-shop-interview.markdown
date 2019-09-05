@@ -4,6 +4,7 @@ date: 2019-09-23 03:00:00 -07:00
 categories:
 - Conscious Living
 author: Avery Osborn & Becky Collier
+image: "/uploads/MGP_9173-2-1.jpg"
 ---
 
 _As a sustainability advocate and a founder of a zero-waste e-commerce site, The Package Free Shop, Lauren Singer has certainly embraced her conviction to make the world “less trashy”. Read the interview with her below to discover insights from her journey building an environmentally mindful company._
