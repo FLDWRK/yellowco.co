@@ -1,5 +1,5 @@
 ---
-title: how to stay grounded while job hunting
+title: How to Keep Your Sanity While Job Searching
 date: 2019-09-16 03:00:00 -07:00
 author: Jenna Catalon
 ---
