@@ -1,6 +1,9 @@
 ---
 title: dgd
-date: 2019-09-04 03:00:00 -07:00
+date: 2019-09-09 03:00:00 -07:00
+categories:
+- Culture
+author: Shelby Bauer
 ---
 
 _Empowerment reinforces, fuels, and preserves community. Our words and actions can have such an impact in making real changes to bring justice to marginalized groups. This month’s Do-Good Dozen Winner is Mónica Ramirez, entrepreneur and human rights advocate. Mónica has had her writings published in TIME Magazine and is a major founder in the creation of the first legal project in the US to address discrimination against farmworker women. She inspires other women to get involved in advocacy and demonstrates the importance of persistency in any field of work. Mónica’s diverse skill set and heart for others is evident in her daily work. Continue reading to learn more about Mónica’s advocacy journey as well as advice for those interested in keeping the conversation going around marginalized communities._
