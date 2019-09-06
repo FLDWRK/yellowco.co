@@ -1,5 +1,6 @@
 ---
-title: Package Free Shop interview
+title: 'Becoming a Zero-Waste Business: The Package Free Shop shares how we can make
+  our workplaces less trashy'
 date: 2019-09-23 03:00:00 -07:00
 categories:
 - Conscious Living
