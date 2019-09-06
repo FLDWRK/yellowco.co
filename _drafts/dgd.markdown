@@ -13,15 +13,21 @@ _Empowerment reinforces, fuels, and preserves community. Our words and actions c
 
 From a young age, I was drawn to advocacy work and started nurturing a passion to make a change, specifically within the gender equality space. It became a part of who I was, and really bled into every effort I have ever pursued professionally. Years ago, I was an attorney helping to fight against gender-based violence and for immigrant’s human rights. Then, back in 2003, I started focusing the conversation more around farmworker women. This turned into creating the first legal project in the US that specifically was addressing discrimination against them. It started as a state-based project in Florida that I named Esperanza. 
 
+![CA Equal Payday Event.jpg](/uploads/CA%20Equal%20Payday%20Event.jpg)
+
 I later turned this into a national initiative that became known as Esperanza: The Immigrant Women’s Legal Initiative of Southern Poverty Law Center. Since, I created and founded [Justice for Migrant Women](https://justice4women.org/) to not only continue to start the conversation around migrant women and the daily issues they face, such as workplace sexual violence and unfair wages, but also to help provide support to political leaders, influencers, and advocates who want to help tell the story and change laws for the benefit of migrant women and children in the US. 
 
 Through my work, I have the opportunity to speak out on behalf of women who are both discriminated against and harmed daily, whether it be through physical or sexual violence, or economic harm. Having spent many hours and years walking alongside these women and being in community with them helped me to channel their voice and experiences in pieces like _Dear Sisters_ in TIME. This letter was created and written on behalf of farmworker women whose interests are served by [Alianza Nacional de Campesinas](https://www.alianzanacionaldecampesinas.org/), an organization that I co-founded. The purpose of the letter was to help support and stand beside all women in Hollywood who have been sexually abused in the workplace.
 
 Being an advocate for migrant women around the country, including being the Director of Gender Justice Campaigns for the National Domestic Workers Alliance, has allowed me to be a part of key projects that help ensure that all women workers - from the most marginalized and least visible to the most privileged and most visible - are seen, heard and considered.
 
+![Golden Globes_2018_Group photo.jpg](/uploads/Golden%20Globes_2018_Group%20photo.jpg)
+
 ###### Writing has taken a big place in your advocacy work – a well known example being your “Dear Sisters” letter published by TIME that helped spark the Time’s Up movement, and now the #QuerdaFamilia letter. How have you seen this form of advocacy make a different kind of impact? 
 
 Through the power of words, we are able to connect on a deep human level we need to unite and rally around crucial change. Most recently, the [#QuerdaFamilia letter](https://queridafamilialetter.org/), which I helped spearhead with America Ferrera, Eva Longoria, Diane Guerrero, Alex Martinez Kondracke and Olga Segura, completely shifted the national conversation following the immigration raids and mass shootings to refocus the conversation on love, solidarity, ally-ship and resilience. More than 200 activists and leaders signed on to the letter, allowing the reach of the letter to extend far beyond where it was published in The New York Times, El Diario, El Nuevo Herald and La Opinion and resulted in over 1 billion impressions. This form of advocacy will always be a critical way to reach the hearts of people about the issues I’m tackling. 
+
+![Today America and Monica.jpg](/uploads/Today%20America%20and%20Monica.jpg)
  
 ###### How have you had to change your approach to advocacy over the years?
 
@@ -30,6 +36,8 @@ I have always been used to doing the majority of the work by myself because I ha
 ### Over the years, I have had to think a lot more about how to zoom out and really think about the most impactful, strategic moves that can be made with the resources that we have on the largest scale possible.
 
 However this is often not the more hands on, groundwork that I grew up doing and really enjoy. This is a challenge, personally, because I think that all of our work should be informed by folks in communities and on the ground, but it’s difficult to maintain that approach and style with a small team and limited resources because we want those engagements to be sustained and meaningful. So, I have had to learn to adjust over time to strike a balance.
+
+![Bandana Project Brunch.jpg](/uploads/Bandana%20Project%20Brunch.jpg)
 
 ###### What are some of the doubts you’ve had to overcome in your life to be where you’re at now?
 
@@ -41,6 +49,8 @@ Latinas and all people have their own power. I think some people may have decide
 
 ### Latinas and other people have told me that seeing me do my work has helped them feel like they, too, can make a difference and should get involved.
 
+![unstoppable women photo_group.jpg](/uploads/unstoppable%20women%20photo_group.jpg)
+
 ###### What compelled you to become an activist for this specific community of women? What encourages and motivates you to continue?
 
 Growing up, my parents taught that it was important to be proud of my culture and my family’s history as migrant farmworkers. They also taught me about justice issues in the US, including issues confronting farmworkers, and the importance of giving back to the community. It was their influence and compassion that inspired me to do my work to educate the world on the issues that migrant women face and the steps that are required to provide a safer, equal working environment for them. 
@@ -48,6 +58,8 @@ Growing up, my parents taught that it was important to be proud of my culture an
 ### As I continue this work and push for equality, I always keep my family and culture at the forefront of my mind. 
 
 It is what grounds me and keeps me centered on my mission.
+
+![CA Equal Payday Event1.jpg](/uploads/CA%20Equal%20Payday%20Event1.jpg)
 
 ###### Can you share about how [The Bandana Project](https://justice4women.org/the-bandana-project) started, and where it has evolved to today in the impact it has made in the lives of farmworkers? 
 
@@ -61,6 +73,8 @@ When people post and showcase the bandanas, they are standing behind the women a
 
 And as a result of The Bandana Project, no one will have to suffer in silence. If you want to learn more about how you can participate in the Bandana Project, you can always check out our website at [justice4women.org](https://justice4women.org/). 
 
+![Bandana Project_Cesars Chicago.jpeg](/uploads/Bandana%20Project_Cesars%20Chicago.jpeg)
+
 ###### What recommendations do you have for women who want to get involved in advocacy? Where do you start? 
 
 I always recommend figuring out what you love and what you’re passionate about, and finding an organization either locally or nationally that you can support through volunteering and engaging in a tangible way. If you feel as though there’s nothing that has already been created, start your own. Even if you’re meeting with a small group monthly, educating people about issues, or even just creating posts on your personal social media that inform your following about things that are happening in the world, all advocacy starts somewhere and no gesture is too small. 
@@ -68,6 +82,8 @@ I always recommend figuring out what you love and what you’re passionate about
 ### There are people in your circle and community who need your voice and need your passion. There are people that you can reach that no one else can. 
 
 We need you to help get these important messages and information to them, too. 
+
+![CA Equal Payday Event2.jpg](/uploads/CA%20Equal%20Payday%20Event2.jpg)
 
 ###### Who are some individuals in your life who shaped you into the woman you are today? 
 
