@@ -1,5 +1,5 @@
 ---
-title: Mónica Ramírez
+title: 'Meet the woman : Do-Good Dozen Winner Mónica Ramírez'
 date: 2019-09-09 03:00:00 -07:00
 categories:
 - Culture
