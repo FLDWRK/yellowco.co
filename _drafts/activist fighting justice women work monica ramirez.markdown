@@ -4,6 +4,21 @@ title: 'Meet the Activist Making Waves Fighting for the Justice of Women at Work
 date: 2019-09-09 03:00:00 -07:00
 categories:
 - Culture
+tags:
+- monica ramirez
+- justice for migrant women
+- times up
+- dear sisters
+- querida familia
+- time
+- migrant women
+- latina
+- work
+- farmworkers
+- activism
+- the bandana project
+- interview
+- justice
 author: Shelby Bauer
 image: "/uploads/Monica-Ramirez.jpg"
 ---
