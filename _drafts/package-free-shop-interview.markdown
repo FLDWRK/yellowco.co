@@ -21,7 +21,7 @@ tags:
 - zero-waste
 - office
 - companies
-author: Avery Osborn & Becky Collier
+author: Avery Osborn
 image: "/uploads/MGP_9173-2-1.jpg"
 ---
 
