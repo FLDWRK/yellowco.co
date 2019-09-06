@@ -55,6 +55,18 @@ However this is often not the more hands on, groundwork that I grew up doing and
 
 ![Bandana Project Brunch.jpg](/uploads/Bandana%20Project%20Brunch.jpg)
 
+###### You’ve been involved with some extremely important work responding to the border crisis and ICE raids. Can you share about what this has looked like?
+
+The response has been two-fold. First, we want to simply meet immigrants, Latinx community members, and others who have been under attack and terrorized by many different policies, including immigration policies. We must, and have been working really hard to acknowledge the collective pain of our communities, along with the sadness and the horrors of these events- from immigration detention, raids, and all of the other ways that have undermined our humanity and diminished our value. My goal has been to spread a different message - one of love, empathy, and solidarity. This was embodied in the #QueridaFamilia letter, as well as other actions that we have been taking. 
+
+The second key response has been by aggressively reaching out to vulnerable community members using every means possible, from on the ground outreach in places like farmworker camps and educational fairs in Ohio to inform people of their rights, to community events in places like Washington state with the United Farmworkers and other groups, to planning and holding large scale social impact campaigns on issues like the widespread sexual harassment against migrant women through projects like The Bandana Project. 
+
+### While these atrocities are heartbreaking, I am motivated by the work that Justice for Migrant Women does to help immigrant community members know that they are not alone, that they are loved, that we see them and hear them whether they are on the border or the interior of our country. 
+
+This is especially important to me in the midst of all of the pain and fear that so many of us are witnessing and feel. 
+
+![immigration reform group photo_alianza.jpg](/uploads/immigration%20reform%20group%20photo_alianza.jpg)
+
 ###### What are some of the doubts you’ve had to overcome in your life to be where you’re at now?
 
 I continually struggle with the doubts that I think a lot of people confront. I deal with imposter syndrome, like I think many people do. I question whether I am smart enough, do I belong in the rooms that I am being invited to be in, am I prepared enough, am I the best representative of my community. I just push through and I ground myself by remembering that as long as I am acting with a pure heart and pure intentions to do good then I am exactly where I should be, even if it might be places that I never dreamed of finding myself.
