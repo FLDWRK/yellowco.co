@@ -12,7 +12,7 @@ tags:
 - tips
 - advice
 author: Jenna Catalon
-image: "/uploads/stil-n1J3mVYw_3k-unsplash-1.jpg"
+image: "/uploads/stil-n1J3mVYw_3k-unsplash-1%20copy.jpg"
 ---
 
 Moving to Washington, DC in the summer boiled down to four long months of swampy humidity and sweating through every last one of my nice blouses. So, you could imagine that a little part of me died every time I had to don a blazer for an interview or networking event. (Two words: dry cleaning.) My job search spanned the summer and was just as intense as the heat. After scheduling nearly thirty informational interviews and submitting more than sixty applications, I army-crawled into the fall having clinched the job but also making a bunch of mindfulness mistakes along the way. I learned that getting the job is important, but keeping your sanity throughout the process is critical.
@@ -23,7 +23,7 @@ Job search on the horizon? *Cue collective deep breath.* We got this.
 
 We all know that there’s something downright magical about the amount of confidence we can feel when we’re comfortable in our clothes. I’ve been in too many interviews where I’m thinking about the one-size-too-tight waist of my pants or the blister that’s forming from my pumps. For your next job search, commit to freeing your mind of wardrobe worries, and allow yourself the freedom to showcase your authentic personality and many accomplishments.
 	
-Build three to four power outfits prior to interview day. Free yourself from having to suddenly become Tan France the morning before you go in, and have a few go-to’s that showcase your style and maximize your comfort. 
+Build three to four power outfits prior to interview day. Free yourself from having to suddenly become [Tan France](https://www.everlane.com/products/womens-italian-goweave-easy-pant-black?utm_medium=cpc&utm_source=pla-google&utm_campaign=837582652&utm_content=222015506134&utm_term=pla-364931139332&adgroup=42032510090&pid=3939-20880&device=c&gclid=EAIaIQobChMI3O7z-eSy4wIVl7XACh3IVQwaEAQYASABEgK-K_D_BwE) the morning before you go in, and have a few go-to’s that showcase your style and maximize your comfort. 
 
 ### Try polished pieces like elastic-waisted pants from Everlane or a super stretchy Brooks Brothers jacket. (Heck yeah, I said “elastic-waist”.)
 
