@@ -109,7 +109,7 @@ There have been many. First and foremost, my parents. They raised me to value th
 
 It is our job to make people understand that if we are not talking about the experiences of marginalized people and solutions to problems that they face, then we can not really say that we are trying to solve these issues for everyone. 
 
-### Access to justice, rights, food, clothing, work, dignity and so many things should not only be available to the privileged. 
+### Access to justice, rights, food, clothing, work, dignity, and so many things should not only be available to the privileged. 
 
 If we do not center those who are on the margins, then there is a great risk that we will be excluding them and perpetuating some of the ills that we seek to address. Among these most marginalized, it is our duty to do what we can to educate the people around us on what happens to migrant women and children on a day-to-day basis. Sharing with family, friends, co-workers, and other students in your class is a great way to start. Sadly, not many people are aware of the inequality that migrant women face in their workplace, and I’m convinced that we can do our part by teaching what we know to the people we love and are surrounded by. 
 
