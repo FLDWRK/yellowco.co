@@ -1,5 +1,6 @@
 ---
-title: 'Meet the woman : Do-Good Dozen Winner Mónica Ramírez'
+title: 'Meet the Activist Making Huge Waves Fighting for the Justice of Women at Work:
+  Social Entrepreneur & Do-Good Dozen Winner Mónica Ramírez'
 date: 2019-09-09 03:00:00 -07:00
 categories:
 - Culture
