@@ -3,13 +3,9 @@ title: Home
 position: 4
 body-class: home
 banners:
-- link: https://yellowcollective.lpages.co/yellow-conference-2019/
-  image: "/uploads/ALIGN-HEADER.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 sm-banners:
-- link: https://yellowcollective.lpages.co/yellow-conference-2019/
-  image: "/uploads/Align-SM.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
 buttons:
