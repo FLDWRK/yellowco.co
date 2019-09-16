@@ -13,7 +13,7 @@ tags:
 - labor laws
 - career
 - job
-author: Olivia Phillips
+author: Liv Phillips
 image: "/uploads/bench-accounting-nfTA8pdaq9A-unsplash-6495dc.jpg"
 ---
 
