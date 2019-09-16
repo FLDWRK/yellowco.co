@@ -62,20 +62,20 @@ So if you’re an employer and you need to train your employees, this is what yo
 
 Training in a classroom setting, through interactive digital learning, or through a live webinar. A digital training must provide instructions on how to contact a trainer who can answer questions within two business days.
 The training should include the following topics:
-* The definition of sexual harassment under the Fair Employment and Housing Act and Title VII of the federal Civil Rights Act of 1964;
-* Other statutes and case-law prohibiting and preventing sexual harassment;
-* The types of conduct that can be sexual harassment;
-* The remedies available for victims of sexual harassment;
-* Strategies to prevent sexual harassment;
-* Supervisors’ obligation to report harassment;
-* Practical examples of harassment;
-* The limited confidentiality of the complaint process;
-* Resources for victims of sexual harassment, including to whom they should report it;
-* How employers must correct harassing behavior;
-* What to do if a supervisor is personally accused of harassment;
-* The elements of an effective anti-harassment policy and how to use it;
-* “Abusive conduct” under Government Code section 12950.1, subdivision (g)(2).
-* Discuss harassment based on gender identity, gender expression, and sexual orientation, which shall include practical examples inclusive of harassment based on gender identity, gender expression, and sexual orientation.
+* The definition of sexual harassment under the Fair Employment and Housing Act and Title VII of the federal Civil Rights Act of 1964
+* Other statutes and case-law prohibiting and preventing sexual harassment
+* The types of conduct that can be sexual harassment
+* The remedies available for victims of sexual harassment
+* Strategies to prevent sexual harassment
+* Supervisors’ obligation to report harassment
+* Practical examples of harassment
+* The limited confidentiality of the complaint process
+* Resources for victims of sexual harassment, including to whom they should report it
+* How employers must correct harassing behavior
+* What to do if a supervisor is personally accused of harassment
+* The elements of an effective anti-harassment policy and how to use it
+* “Abusive conduct” under Government Code section 12950.1, subdivision (g)(2)
+* Discuss harassment based on gender identity, gender expression, and sexual orientation, which shall include practical examples inclusive of harassment based on gender identity, gender expression, and sexual orientation
 
 And the training must include questions that assess learning, skill-building activities to assess understanding and application of content, and hypothetical scenarios about harassment with discussion questions.
 
