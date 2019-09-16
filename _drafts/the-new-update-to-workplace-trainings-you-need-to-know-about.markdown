@@ -85,9 +85,9 @@ If you’re an employee and you want to be proactive about this, ask your superv
 
 If your employer does know about this training and you think they could take their prevention a step further, encourage them to look into independent organizations and reporting platforms like [WeVow](https://wevow.com/), [Spot](https://talktospot.com/), and [#NotMe](https://www.not-me.com/en). These platforms equip organizations to do right by their employees, to take a stand against misconduct in the workplace, and put the power back into employees’ hands. 
 
-If your employer does not know about this requirement, don’t freak out; a LOT of employers I’ve spoken with aren’t aware of this. Feel free to forward this article to them! And they can always reach out to my team at holler@wilkmazz.com if they want to take advantage of a free 30-minute consultation to talk this out. 
+If your employer does not know about this requirement, don’t freak out; a LOT of employers I’ve spoken with aren’t aware of this. Feel free to forward this article to them! And they can always reach out to my team at [holler@wilkmazz.com](mailto:holler@wilkmazz.com) if they want to take advantage of a free 30-minute consultation to talk this out. 
 
 #### Wrapping Things Up
 
-I hope this has been an illuminating read! But, if you have any lingering questions, feel free to send my team an email at holler@wilkmazz.com. Cultivating a healthy workplace culture is always worth the investment, and we’re happy to help you with it however we can!
+I hope this has been an illuminating read! But, if you have any lingering questions, feel free to send my team an email at [holler@wilkmazz.com](mailto:holler@wilkmazz.com). Cultivating a healthy workplace culture is always worth the investment, and we’re happy to help you with it however we can!
 
