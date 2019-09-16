@@ -13,6 +13,7 @@ California has long been one of the most protective states toward employees. In 
 
 ### This was a huge step in the right direction at the time, but in the era of the Me Too and Time’s Up movements, it needed a little updating. 
 
+
 “But Liv, this sounds great, what do you mean it needed updating?” Well, think of how many local businesses you visit on a daily or weekly basis (restaurants, salons, mechanics, etc.). Now think about the likelihood of these businesses having more than fifty employees. Pretty slim chances, right? And on top of that, even if they do employee fifty or more people, only supervisors were required to be trained; there was no requirement for non-supervisory employees. This left a ton of holes open in this mandate, and that’s what needed to change.
 
 I pay attention to these changes in the law because they help my clients stay outta trouble. But with this particular update in law, I also feel inclined to tell you about it, because I think it’s so important. And before you ask me to come down from my soapbox, let me throw this out there: the change was so wide-sweeping, it probably affects you, whether you’re an employee or an employer! So let’s dig in, shall we? 
@@ -41,7 +42,9 @@ One thing that hasn’t changed since this update is the frequency of training. 
 
 This is where I want to pause and bring something to your attention that’s not new: employers have an affirmative duty to create a workplace environment that is free from employment practices prohibited by the Fair Employment and Housing Act. An affirmative duty means that it will require effort (meaning: you gotta be proactive) to satisfy the duty. 
 
-Specifically, employers MUST develop and distribute to employees a written harassment, discrimination, and retaliation prevention policy. This is where you need to lay out a ton of important info, including but not limited to: who’s covered under the Act, what the employer’s complaint policy looks like, how employees can report an issue about their immediate supervisor, and more. 
+### Specifically, employers MUST develop and distribute to employees a written harassment, discrimination, and retaliation prevention policy. 
+
+This is where you need to lay out a ton of important info, including but not limited to: who’s covered under the Act, what the employer’s complaint policy looks like, how employees can report an issue about their immediate supervisor, and more. 
 
 This written policy is great to revisit with your employees annually, along with your training materials, even if it’s not required. 
 
