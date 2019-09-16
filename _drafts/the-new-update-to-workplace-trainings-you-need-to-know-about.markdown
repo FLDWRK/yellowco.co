@@ -9,7 +9,9 @@ author: Olivia Phillips
 
 As a labor and employment attorney, it’s kind of my job to pay attention to the constant changes in the law. These changes can sometimes be confusing to navigate, expensive to implement, and frustrating to employers and employee alike. But, that’s not always the case! One recent update that I think is good for everybody? California’s updated harassment prevention training requirements, which were announced this year. 
 
-California has long been one of the most protective states toward employees. In the early 2000s, California set the standard for the nation, combating harassment in the workplace by rolling out Assembly Bill 1825, which was made law under state Government Code section 12950.1. Under this law, the general rule was that California employers with fifty (that’s 5-0) employees or more in any part of the country were mandated to hold harassment prevention training for supervisory employees every two years. ### This was a huge step in the right direction at the time, but in the era of the Me Too and Time’s Up movements, it needed a little updating. 
+California has long been one of the most protective states toward employees. In the early 2000s, California set the standard for the nation, combating harassment in the workplace by rolling out Assembly Bill 1825, which was made law under state Government Code section 12950.1. Under this law, the general rule was that California employers with fifty (that’s 5-0) employees or more in any part of the country were mandated to hold harassment prevention training for supervisory employees every two years. 
+
+### This was a huge step in the right direction at the time, but in the era of the Me Too and Time’s Up movements, it needed a little updating. 
 
 “But Liv, this sounds great, what do you mean it needed updating?” Well, think of how many local businesses you visit on a daily or weekly basis (restaurants, salons, mechanics, etc.). Now think about the likelihood of these businesses having more than fifty employees. Pretty slim chances, right? And on top of that, even if they do employee fifty or more people, only supervisors were required to be trained; there was no requirement for non-supervisory employees. This left a ton of holes open in this mandate, and that’s what needed to change.
 
@@ -37,7 +39,11 @@ So what’s the distinction? Per the [California Department of Fair Employment a
 
 One thing that hasn’t changed since this update is the frequency of training. This training only needs to be given every two (2) years. That said, any good training will encourage employers and supervisors to revisit what is being taught as frequently as possible. Because who actually remembers anything they learned more than a year ago?
 
-This is where I want to pause and bring something to your attention that’s not new: employers have an affirmative duty to create a workplace environment that is free from employment practices prohibited by the Fair Employment and Housing Act. An affirmative duty means that it will require effort (meaning: you gotta be proactive) to satisfy the duty. Specifically, employers MUST develop and distribute to employees a written harassment, discrimination, and retaliation prevention policy. This is where you need to lay out a ton of important info, including but not limited to: who’s covered under the Act, what the employer’s complaint policy looks like, how employees can report an issue about their immediate supervisor, and more. This written policy is great to revisit with your employees annually, along with your training materials, even if it’s not required. 
+This is where I want to pause and bring something to your attention that’s not new: employers have an affirmative duty to create a workplace environment that is free from employment practices prohibited by the Fair Employment and Housing Act. An affirmative duty means that it will require effort (meaning: you gotta be proactive) to satisfy the duty. 
+
+Specifically, employers MUST develop and distribute to employees a written harassment, discrimination, and retaliation prevention policy. This is where you need to lay out a ton of important info, including but not limited to: who’s covered under the Act, what the employer’s complaint policy looks like, how employees can report an issue about their immediate supervisor, and more. 
+
+This written policy is great to revisit with your employees annually, along with your training materials, even if it’s not required. 
 
 Another great question I’ve been asked is “when do I train employees who’ve been hired after I’ve already conducted my business’ biennial training?” You need to train your workers within six (6) months of their “assumption of the position,” or in other words, their date of hire. So in theory, if you hold one training session in December and one the following July for anyone who wasn’t trained previously, you should be fine. The exact dates might require a little bit of tweaking to make that scenario work, but you get the idea: you can do this in cycles, either every 6, 4, or 3 months. 
 
@@ -53,20 +59,21 @@ So if you’re an employer and you need to train your employees, this is what yo
 
 Training in a classroom setting, through interactive digital learning, or through a live webinar. A digital training must provide instructions on how to contact a trainer who can answer questions within two business days.
 The training should include the following topics:
-The definition of sexual harassment under the Fair Employment and Housing Act and Title VII of the federal Civil Rights Act of 1964;
-Other statutes and case-law prohibiting and preventing sexual harassment;
-The types of conduct that can be sexual harassment;
-The remedies available for victims of sexual harassment;
-Strategies to prevent sexual harassment;
-Supervisors’ obligation to report harassment;
-Practical examples of harassment;
-The limited confidentiality of the complaint process;
-Resources for victims of sexual harassment, including to whom they should report it;
-How employers must correct harassing behavior;
-What to do if a supervisor is personally accused of harassment;
-The elements of an effective anti-harassment policy and how to use it;
-“Abusive conduct” under Government Code section 12950.1, subdivision (g)(2).
-Discuss harassment based on gender identity, gender expression, and sexual orientation, which shall include practical examples inclusive of harassment based on gender identity, gender expression, and sexual orientation.
+* The definition of sexual harassment under the Fair Employment and Housing Act and Title VII of the federal Civil Rights Act of 1964;
+* Other statutes and case-law prohibiting and preventing sexual harassment;
+* The types of conduct that can be sexual harassment;
+* The remedies available for victims of sexual harassment;
+* Strategies to prevent sexual harassment;
+* Supervisors’ obligation to report harassment;
+* Practical examples of harassment;
+* The limited confidentiality of the complaint process;
+* Resources for victims of sexual harassment, including to whom they should report it;
+* How employers must correct harassing behavior;
+* What to do if a supervisor is personally accused of harassment;
+* The elements of an effective anti-harassment policy and how to use it;
+* “Abusive conduct” under Government Code section 12950.1, subdivision (g)(2).
+* Discuss harassment based on gender identity, gender expression, and sexual orientation, which shall include practical examples inclusive of harassment based on gender identity, gender expression, and sexual orientation.
+
 And the training must include questions that assess learning, skill-building activities to assess understanding and application of content, and hypothetical scenarios about harassment with discussion questions.
 
 #### What to Do If You’re An Employee
