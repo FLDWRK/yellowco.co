@@ -1,10 +1,20 @@
 ---
-title: The New Update to Workplace Trainings You NEED To Know About
+title: The New Update to Workplace Trainings You Need to Know About
 date: 2019-09-30 03:00:00 -07:00
 categories:
 - Entrepreneurs
-- Growth
+tags:
+- legal
+- small business
+- best practices
+- training
+- compliance
+- harassment
+- labor laws
+- career
+- job
 author: Olivia Phillips
+image: "/uploads/bench-accounting-nfTA8pdaq9A-unsplash-6495dc.jpg"
 ---
 
 As a labor and employment attorney, it’s kind of my job to pay attention to the constant changes in the law. These changes can sometimes be confusing to navigate, expensive to implement, and frustrating to employers and employee alike. But, that’s not always the case! One recent update that I think is good for everybody? California’s updated harassment prevention training requirements, which were announced this year. 
@@ -17,6 +27,8 @@ California has long been one of the most protective states toward employees. In 
 “But Liv, this sounds great, what do you mean it needed updating?” Well, think of how many local businesses you visit on a daily or weekly basis (restaurants, salons, mechanics, etc.). Now think about the likelihood of these businesses having more than fifty employees. Pretty slim chances, right? And on top of that, even if they do employee fifty or more people, only supervisors were required to be trained; there was no requirement for non-supervisory employees. This left a ton of holes open in this mandate, and that’s what needed to change.
 
 I pay attention to these changes in the law because they help my clients stay outta trouble. But with this particular update in law, I also feel inclined to tell you about it, because I think it’s so important. And before you ask me to come down from my soapbox, let me throw this out there: the change was so wide-sweeping, it probably affects you, whether you’re an employee or an employer! So let’s dig in, shall we? 
+
+![bench-accounting-xxeAftHHq6E-unsplash.jpg](/uploads/bench-accounting-xxeAftHHq6E-unsplash.jpg)
 
 #### The Size of the Covered Businesses Has Changed
 
@@ -47,6 +59,8 @@ This is where I want to pause and bring something to your attention that’s not
 This is where you need to lay out a ton of important info, including but not limited to: who’s covered under the Act, what the employer’s complaint policy looks like, how employees can report an issue about their immediate supervisor, and more. 
 
 This written policy is great to revisit with your employees annually, along with your training materials, even if it’s not required. 
+
+![bench-accounting-ziwuqMZNRvs-unsplash.jpg](/uploads/bench-accounting-ziwuqMZNRvs-unsplash.jpg)
 
 Another great question I’ve been asked is “when do I train employees who’ve been hired after I’ve already conducted my business’ biennial training?” You need to train your workers within six (6) months of their “assumption of the position,” or in other words, their date of hire. So in theory, if you hold one training session in December and one the following July for anyone who wasn’t trained previously, you should be fine. The exact dates might require a little bit of tweaking to make that scenario work, but you get the idea: you can do this in cycles, either every 6, 4, or 3 months. 
 
