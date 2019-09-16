@@ -21,7 +21,7 @@ California’s new training requirements apply to businesses with FIVE (5) or mo
 
 One question I’ve gotten a few times is “how do I count my employees?” It’s a really good question! For calculating your employee count here, both full-time and part-time employees should be counted.  If you have “temporary” or “seasonal” employees, they should be counted, too. If you’re the owner of the business and you’re on the payroll as an employee, you should count yourself, as well. 
 
-And you know what? You should count your independent contractors, too. The text of the law says an employer may be a person who is “regularly employing five or more persons or regularly receiving the services of five or more persons providing services pursuant to a contract.” This is an important distinction!
+And you know what? You should count your independent contractors, too. The [text of the law](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1343) says an employer may be a person who is “regularly employing five or more persons or regularly receiving the services of five or more persons providing services pursuant to a contract.” This is an important distinction!
 
 So long story short, if you’re paying somebody to work for you, count ‘em!
 
@@ -31,7 +31,7 @@ As I mentioned, before the change in law, only supervisors had to be trained. Be
 
 In 2019, we’re recognizing that that’s totally bogus. Everybody can prevent harassment! And because that’s true, this update in the law now makes it so that allllll employees must be trained in harassment prevention. But, there’s still a little bit of a catch here. Supervisory employees are required to do two (2) hours of training, whereas all non-supervisory employees are only required to do one (1) hour of training. 
 
-So what’s the distinction? Per the California Department of Fair Employment and Housing, a supervisory employee is “anyone with authority to hire, fire, assign, transfer, discipline, or reward other employees. A supervisor is also anyone with the authority to effectively recommend (but not necessarily take) these actions if exercising that authority requires the use of independent judgment.” Couldn’t have said it better if I tried. 
+So what’s the distinction? Per the [California Department of Fair Employment and Housing](https://www.dfeh.ca.gov/resources/frequently-asked-questions/employment-faqs/sexual-harassment-faqs/), a supervisory employee is “anyone with authority to hire, fire, assign, transfer, discipline, or reward other employees. A supervisor is also anyone with the authority to effectively recommend (but not necessarily take) these actions if exercising that authority requires the use of independent judgment.” Couldn’t have said it better if I tried. 
 
 #### The Frequency of Training Has NOT Changed
 
@@ -43,7 +43,7 @@ Another great question I’ve been asked is “when do I train employees who’v
 
 #### When To Complete the Training
 
-If I’ve talked to you about this training prior to August 30, 2019, disregard what I told you about training deadlines. Originally, this training needed to be completed by January 1, 2020. But as of August 30, when Governor Newsom signed Senate Bill 778, the deadline has been extended to January 1, 2021. I guess sometimes procrastinating doesn’t bite you in the behind! 
+If I’ve talked to you about this training prior to August 30, 2019, disregard what I told you about training deadlines. Originally, this training needed to be completed by January 1, 2020. But as of August 30, when Governor Newsom signed [Senate Bill 778](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB778), the deadline has been extended to January 1, 2021. I guess sometimes procrastinating doesn’t bite you in the behind! 
 
 #### What to Look for In a Training
 
@@ -73,7 +73,7 @@ And the training must include questions that assess learning, skill-building act
 
 If you’re an employee and you want to be proactive about this, ask your supervisor when they’ll conduct their next training! They’ll either know about this requirement… or they won’t. Lucky for you, we’ve got tips for either scenario.
 
-If your employer does know about this training and you think they could take their prevention a step further, encourage them to look into independent organizations and reporting platforms like WeVow, Spot, and #NotMe. These platforms equip organizations to do right by their employees, to take a stand against misconduct in the workplace, and put the power back into employees’ hands. 
+If your employer does know about this training and you think they could take their prevention a step further, encourage them to look into independent organizations and reporting platforms like [WeVow](https://wevow.com/), [Spot](https://talktospot.com/), and [#NotMe](https://www.not-me.com/en). These platforms equip organizations to do right by their employees, to take a stand against misconduct in the workplace, and put the power back into employees’ hands. 
 
 If your employer does not know about this requirement, don’t freak out; a LOT of employers I’ve spoken with aren’t aware of this. Feel free to forward this article to them! And they can always reach out to my team at holler@wilkmazz.com if they want to take advantage of a free 30-minute consultation to talk this out. 
 
