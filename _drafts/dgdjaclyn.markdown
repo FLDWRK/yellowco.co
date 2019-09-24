@@ -34,19 +34,25 @@ From a lifestyle standpoint, we’ve really got to remember to do those things t
 
 Fear - it’s a common belief, but an extremely powerful one; fear of failure can keep you locked into situations that are not serving you and patterns that are limiting your ability to thrive.
 Fear is such a profound part of reckoning with a serious illness. There are the big, obvious fears of course, but there's also a lot of subtle fears that come with that experience. I think a lot of health care providers, doctors in particular, can struggle with being diagnosed with a major medical illness because it's so antithetical to the role we were prepared for as providers of care. We're the ones that are supposed to have the answers - and it can be very disorienting, and even embarrassing, to suddenly find yourself on the opposite end of the equation. But you do learn to prioritize your life in a completely different way, including shedding a lot of fears. You learn to stop waiting for the perfect time or circumstance to start pursuing the things that are important to you; instead, you just have to dive in and you can’t worry too much about the possibility of failure. 
+
 *** Cancer teaches you to be your own strongest advocate, and your biggest cheerleader.
 
 ###### What are 3 life essentials that keep you centered and focused?
 
  My number one life essential is my family; I couldn’t do what I do without my husband, the never-ending support of our wonderful families and friends - and of course our precious dog, Cali. They are the core that keeps me grounded and true to myself in every decision I make.
 But if we’re talking about non-family essentials, I would say my big ones are: 
+
 1)   Sinigang, which is a Filipino stew that’s tangy and savory at the same time, thanks to its tamarind-infused bone broth base. I make sinigang pretty often and I’m always looking for ways to maximize its nourishing, comforting essence with fresh vegetables and grass-fed meats. I can’t recommend it enough!
+
 2)   My husband gave me a copy of The Obstacle is the Way by Ryan Holiday several years ago, and I’ve come back to it several times since then, especially when I was at more challenging points in my breast cancer treatment. I think some of the lessons it offers are universally applicable to any challenge you may encounter, which I think is part of its value.
+
 3)   Curiosity. Staying curious is an essential part of living in this world, especially as it relates to your health. Always be prepared to learn as much as you can, and even challenge information or ideas when necessary.
 
 ###### If someone doesn’t live where Parsley is provided, what can we look for in health providers as we hope to help the shift in how healthcare works? 
 
-Find a provider who listens! That alone is absolutely golden; you want someone who will work with you, side by side. But you might not have to wait too much longer to see a Parsley Health provider – we’re currently expanding our telehealth practice to new markets very soon!
+*** Find a provider who listens! 
+
+That alone is absolutely golden; you want someone who will work with you, side by side. But you might not have to wait too much longer to see a Parsley Health provider – we’re currently expanding our telehealth practice to new markets very soon!
 
 (Parsley can provide all links to website, social media, etc.)
 
