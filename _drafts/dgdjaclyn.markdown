@@ -1,6 +1,6 @@
 ---
-title: 'Treating the Whole Patient: How DGD Winner Jaclyn Tolentino is Redefining
-  Healthcare at Parsley Health'
+title: 'Treating the Whole Patient: How Do-Good Dozen Winner Jaclyn Tolentino is Redefining
+  Healthcare'
 date: 2019-10-07 03:00:00 -07:00
 categories:
 - Health
