@@ -36,7 +36,7 @@ Increasingly, I'm also seeing patients who have been diagnosed with cancer and a
 ###### Although every body is different with various needs, what are some basics you feel everyone should incorporate in their lives to holistically take better care of themselves and to help or avoid the issues mentioned above? 
  
 
-### There are so many simple changes you can make that can have dramatic implications for your overall wellbeing. The first, and most important step, is to pay attention to how you feel. Listen to your body!
+There are so many simple changes you can make that can have dramatic implications for your overall wellbeing. ### The first, and most important step, is to pay attention to how you feel. Listen to your body!
 
 That sounds so simple but cultivating an awareness of how we feel in our own bodies is an extremely useful skill that can actually be quite challenging! Start checking in with yourself regularly - several times a day - especially after things like meals, exercise, or sleep - or even lack thereof. That’s how you’re really going to figure out what works for you and what doesn’t in terms of things like nutrition, sleep hygiene, stress reduction, or even what types of physical exercises are going to be most effective for you. 
 
