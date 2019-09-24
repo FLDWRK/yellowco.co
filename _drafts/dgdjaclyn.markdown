@@ -54,6 +54,5 @@ But if we’re talking about non-family essentials, I would say my big ones are:
 
 That alone is absolutely golden; you want someone who will work with you, side by side. But you might not have to wait too much longer to see a Parsley Health provider – we’re currently expanding our telehealth practice to new markets very soon!
 
-(Parsley can provide all links to website, social media, etc.)
 
 _Illustration by Hanna Snyder for Yellow Co., Photos courtesy of [Parsley Health](https://www.parsleyhealth.com/)_
