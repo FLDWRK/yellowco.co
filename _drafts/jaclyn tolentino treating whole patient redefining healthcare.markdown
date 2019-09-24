@@ -20,7 +20,8 @@ author: Jaclyn Tolentino
 
 ###### Tell us a little about your story, your own personal health journey and how that informs the work you do today?
 
-My journey as a physician basically started in childhood - I've pretty much always loved science, always wanted to be a doctor. I choose to attend an osteopathic medical school in part because it embraces the whole-body philosophy, which really appealed to me, and I went into family medicine because there's something extremely rewarding about the caring for someone through every season and chapter of their life. But my journey to becoming a functional medicine doctor started after a life changing breast cancer diagnosis in July of 2016. ### Navigating the medical world as a patient is an entirely different experience than occupying that space as a provider, and nothing can prepare you for the realities of facing a serious illness.
+My journey as a physician basically started in childhood - I've pretty much always loved science, always wanted to be a doctor. I choose to attend an osteopathic medical school in part because it embraces the whole-body philosophy, which really appealed to me, and I went into family medicine because there's something extremely rewarding about the caring for someone through every season and chapter of their life. But my journey to becoming a functional medicine doctor started after a life changing breast cancer diagnosis in July of 2016. 
+### Navigating the medical world as a patient is an entirely different experience than occupying that space as a provider, and nothing can prepare you for the realities of facing a serious illness.
 Going through my own process of treatment and recovery opened my eyes to the ways in which we, as physicians, can be practicing medicine better - and smarter! It also taught me how to be a better, stronger, more empathetic healer - I've carried every step of my journey as a breast cancer warrior into my current medical practice and it influences the way I work with each of my patients. 
 
 ###### Can you share what functional medicine is and how Parsley Health is redefining health care through their membership offerings? 
@@ -61,7 +62,8 @@ But if we’re talking about non-family essentials, I would say my big ones are:
 
 ###### If someone doesn’t live where Parsley is provided, what can we look for in health providers as we hope to help the shift in how healthcare works? 
 
-Find a provider who listens! That alone is absolutely golden; you want someone who will work with you, side by side. But you might not have to wait too much longer to see a Parsley Health provider – we’re currently expanding our telehealth practice to new markets very soon!
+Find a provider who listens! That alone is absolutely golden; ### you want someone who will work with you, side by side. 
+But you might not have to wait too much longer to see a Parsley Health provider – we’re currently expanding our telehealth practice to new markets very soon!
 
 
 _Illustration by Hanna Snyder for Yellow Co., Photos courtesy of [Parsley Health](https://www.parsleyhealth.com/)_
