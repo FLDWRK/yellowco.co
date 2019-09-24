@@ -56,11 +56,11 @@ Cancer teaches you to be your own strongest advocate, and your biggest cheerlead
  My number one life essential is my family; I couldn’t do what I do without my husband, the never-ending support of our wonderful families and friends - and of course our precious dog, Cali. They are the core that keeps me grounded and true to myself in every decision I make.
 But if we’re talking about non-family essentials, I would say my big ones are: 
 
-1)   Sinigang, which is a Filipino stew that’s tangy and savory at the same time, thanks to its tamarind-infused bone broth base. I make sinigang pretty often and I’m always looking for ways to maximize its nourishing, comforting essence with fresh vegetables and grass-fed meats. I can’t recommend it enough!
+*Sinigang*, which is a Filipino stew that’s tangy and savory at the same time, thanks to its tamarind-infused bone broth base. I make sinigang pretty often and I’m always looking for ways to maximize its nourishing, comforting essence with fresh vegetables and grass-fed meats. I can’t recommend it enough!
 
-2)   My husband gave me a copy of [The Obstacle is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Ryan Holiday several years ago, and I’ve come back to it several times since then, especially when I was at more challenging points in my breast cancer treatment. I think some of the lessons it offers are universally applicable to any challenge you may encounter, which I think is part of its value.
+*[The Obstacle is the Way]*(https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Ryan Holiday. My husband gave me a copy several years ago, and I’ve come back to it several times since then, especially when I was at more challenging points in my breast cancer treatment. I think some of the lessons it offers are universally applicable to any challenge you may encounter, which I think is part of its value.
 
-3)   Curiosity. Staying curious is an essential part of living in this world, especially as it relates to your health. Always be prepared to learn as much as you can, and even challenge information or ideas when necessary.
+*Curiosity*. Staying curious is an essential part of living in this world, especially as it relates to your health. Always be prepared to learn as much as you can, and even challenge information or ideas when necessary.
 
 ###### If someone doesn’t live where Parsley is provided, what can we look for in health providers as we hope to help the shift in how healthcare works? 
 
