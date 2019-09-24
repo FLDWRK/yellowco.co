@@ -44,4 +44,4 @@ Find a provider who listens! That alone is absolutely golden; you want someone w
 
 (Parsley can provide all links to website, social media, etc.)
 
-_Photos courtesy of [Parsley Health](https://www.parsleyhealth.com/)_
+_Illustration by Hanna Snyder for Yellow Co., Photos courtesy of [Parsley Health](https://www.parsleyhealth.com/)_
