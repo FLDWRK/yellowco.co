@@ -1,6 +1,7 @@
 ---
 title: DGDJaclyn
-date: 2019-09-24 11:08:00 -07:00
+date: 2019-10-07 03:00:00 -07:00
+author: Jaclyn Tolentino
 ---
 
 1. Tell us a little about your story, your own personal health journey and how that informs the work you do today?
