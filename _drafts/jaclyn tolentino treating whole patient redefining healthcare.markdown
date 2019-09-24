@@ -4,6 +4,17 @@ title: 'Treating the Whole Patient: How Do-Good Dozen Winner Jaclyn Tolentino is
 date: 2019-10-07 03:00:00 -07:00
 categories:
 - Health
+tags:
+- health
+- medicine
+- cancer
+- holistic health
+- wellness
+- chronic pain
+- functional medicine
+- health care
+- alternative medicine
+- progressive medicine
 author: Jaclyn Tolentino
 ---
 
