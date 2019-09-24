@@ -1,5 +1,6 @@
 ---
-title: DGDJaclyn
+title: 'Treating the Whole Patient: How DGD Winner Jaclyn Tolentino is Redefining
+  Healthcare at Parsley Health'
 date: 2019-10-07 03:00:00 -07:00
 categories:
 - Health
