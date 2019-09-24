@@ -61,9 +61,7 @@ But if we’re talking about non-family essentials, I would say my big ones are:
 
 ###### If someone doesn’t live where Parsley is provided, what can we look for in health providers as we hope to help the shift in how healthcare works? 
 
-### Find a provider who listens! 
-
-That alone is absolutely golden; you want someone who will work with you, side by side. But you might not have to wait too much longer to see a Parsley Health provider – we’re currently expanding our telehealth practice to new markets very soon!
+Find a provider who listens! That alone is absolutely golden; you want someone who will work with you, side by side. But you might not have to wait too much longer to see a Parsley Health provider – we’re currently expanding our telehealth practice to new markets very soon!
 
 
 _Illustration by Hanna Snyder for Yellow Co., Photos courtesy of [Parsley Health](https://www.parsleyhealth.com/)_
