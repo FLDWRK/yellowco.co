@@ -16,6 +16,7 @@ tags:
 - alternative medicine
 - progressive medicine
 author: Jaclyn Tolentino
+image: "/uploads/Jaclyn-361013.jpg"
 ---
 
 ###### Tell us a little about your story, your own personal health journey and how that informs the work you do today?
@@ -24,10 +25,12 @@ My journey as a physician basically started in childhood - I've pretty much alwa
 ### Navigating the medical world as a patient is an entirely different experience than occupying that space as a provider, and nothing can prepare you for the realities of facing a serious illness.
 Going through my own process of treatment and recovery opened my eyes to the ways in which we, as physicians, can be practicing medicine better - and smarter! It also taught me how to be a better, stronger, more empathetic healer - I've carried every step of my journey as a breast cancer warrior into my current medical practice and it influences the way I work with each of my patients. 
 
+![JACLYN-3-034a6c.jpg](/uploads/JACLYN-3-034a6c.jpg)
+
 ###### Can you share what functional medicine is and how Parsley Health is redefining health care through their membership offerings? 
 
 Functional Medicine is a patient-centered, whole body approach to cultivating wellness, treating disease, and preventing chronic conditions. At [Parsley Health](https://www.parsleyhealth.com/), we're looking at every aspect of a patient's overall health - that includes physical, emotional, even spiritual wellness. If you're coming to our offices to address a specific concern, we're not just trying to alleviate the symptoms - we're looking for the root cause of the issue and addressing that using every tool available to us. That might include advanced laboratory testing and diagnostics, lifestyle modifications, dietary changes, exercise, and mind-body approaches. Unique to Parsley Health, I team up with our health coaches to provide consistent support throughout the membership.  I like to think of functional medicine as a really expansive toolbox, and it's my job as the practitioner to select the best possible tools to address your individual needs. Parsley Health combines the best of functional medicine and primary care, into an advanced model of care that’s modern, progressive, holistic, and most importantly, effective.
-
+---
 ###### What are the most common issues you are seeing in your patients? 
 
 The most common issues I see with my patients are hormone imbalances, autoimmune conditions, and gut issues. Maintaining homeostasis in the body is really important – when one aspect of our overall health is thrown off, that can have a ripple effect that presents in a wide variety of symptoms. My patients are dealing with issues like inflammation – often their gut is involved - and that can manifest in symptoms from disrupted sleep, weight gain, skin issues, irregular menstrual cycles, and ongoing digestive problems. My role as a provider is to help facilitate conditions that are conducive to restoring balance in the body.
@@ -44,12 +47,16 @@ That sounds so simple but cultivating an awareness of how we feel in our own bod
 
 From a lifestyle standpoint, we’ve really got to remember to do those things that we know we should be doing, but we often find difficult. Sleep! Hydration! Managing stress levels, which can have such a huge impact on our physical health. Getting the diet under control – that’s a very individualized factor but getting it right with our diet begins with listening to the signals our body is sending us.
 
+![Jaclyn 6-cfed35.jpg](/uploads/Jaclyn%206-cfed35.jpg)
+
 ###### What was a self-limiting belief that held you back from being your best self? How did you overcome (or how do you continue to work on) this false-truth you were telling yourself?
 
 Fear - it’s a common belief, but an extremely powerful one; fear of failure can keep you locked into situations that are not serving you and patterns that are limiting your ability to thrive.
 ### Fear is such a profound part of reckoning with a serious illness. 
 There are the big, obvious fears of course, but there's also a lot of subtle fears that come with that experience. I think a lot of health care providers, doctors in particular, can struggle with being diagnosed with a major medical illness because it's so antithetical to the role we were prepared for as providers of care. We're the ones that are supposed to have the answers - and it can be very disorienting, and even embarrassing, to suddenly find yourself on the opposite end of the equation. But you do learn to prioritize your life in a completely different way, including shedding a lot of fears. ### You learn to stop waiting for the perfect time or circumstance to start pursuing the things that are important to you; instead, you just have to dive in and you can’t worry too much about the possibility of failure. 
 Cancer teaches you to be your own strongest advocate, and your biggest cheerleader.
+
+![JACLYN-5-a137ee.jpg](/uploads/JACLYN-5-a137ee.jpg)
 
 ###### What are 3 life essentials that keep you centered and focused?
 
