@@ -3,9 +3,13 @@ title: Home
 position: 4
 body-class: home
 banners:
+- link: https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/
+  image: "/uploads/IJM-blog.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 sm-banners:
+- link: https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/
+  image: "/uploads/IJM-Bammer-Small.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
 buttons:
