@@ -5,11 +5,15 @@ body-class: home
 banners:
 - link: https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/
   image: "/uploads/IJM-blog.jpg"
+- link: http://lizbohannon.co/tour
+  image: "/uploads/Tour-header.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
 sm-banners:
 - link: https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/
   image: "/uploads/IJM-Bammer-Small.jpg"
+- link: http://lizbohannon.co/tour
+  image: "/uploads/Tour-header-sm.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
 buttons:
