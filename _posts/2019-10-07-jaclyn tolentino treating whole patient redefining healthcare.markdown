@@ -19,6 +19,8 @@ author: Jaclyn Tolentino
 image: "/uploads/Jaclyn-361013.jpg"
 ---
 
+Here at Yellow Co., we take a wholehearted and holistic approach to work/life integration and fully believe that when you take care of yourself, you can take better care of the world and those around you. When it comes to healthcare, Parsley Health uses [functional medicine](https://www.parsleyhealth.com/functional-medicine) to help patients find the root of their problems by taking the whole person into consideration before diagnosing or prescribing. Having gone through her own  journey with cancer, our [Do-Good Dozen](https://yellowcollective.lpages.co/do-good-dozen/) winner for this month, Jaclyn Tolentino, brings her whole self to her work at Parlsey Health’s new West Hollywood location in Los Angeles with her in-depth experience and knowledge. Read on to learn more about Jaclyn, how you can improve your health and well-being and participate in this important shift in primary healthcare.
+
 ###### Tell us a little about your story, your own personal health journey and how that informs the work you do today?
 
 My journey as a physician basically started in childhood - I've pretty much always loved science, always wanted to be a doctor. I choose to attend an osteopathic medical school in part because it embraces the whole-body philosophy, which really appealed to me, and I went into family medicine because there's something extremely rewarding about the caring for someone through every season and chapter of their life. But my journey to becoming a functional medicine doctor started after a life changing breast cancer diagnosis in July of 2016. 
