@@ -1,7 +1,7 @@
 ---
 title: How to Craft a Purposeful Mission Statement to Guide Your Work & Life + Special
   Anouncement!
-date: 2019-10-01 10:18:00 -07:00
+date: 2019-10-14 10:18:00 -07:00
 ---
 
 Raise your hand if you’ve experienced what it feels like to feel unfocused, scattered and questioning every step you take. Girl, I SEE YOU, and you’re definitely not alone. It’s difficult not to experience this in our digital world- so much is being thrown at us on a daily basis it’s hard to sort through all our options and know what direction to take, right?! This results in us feeling scattered, stuck and frustrated. And it SUCKS. No one wants to feel like they’re wasting their precious time on this earth. No one wants to feel a lack of clarity or understanding on the decisions they’re making about the only life they get to live.
