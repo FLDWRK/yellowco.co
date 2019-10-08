@@ -4,6 +4,27 @@ title: How to Craft a Purposeful Mission Statement to Guide Your Work & Life + S
 date: 2019-10-14 03:00:00 -07:00
 categories:
 - Growth
+tags:
+- ecourse
+- mission statement
+- work
+- life
+- career
+- aligned
+- meaningful work
+- coaching
+- workshops
+- online workshop
+- women
+- community
+- life coaching
+- life mission
+- direction
+- guidance
+- resource
+- online
+- free
+- personal mission
 author: Joanna Waterfall
 image: "/uploads/1570475437779.jpeg"
 ---
