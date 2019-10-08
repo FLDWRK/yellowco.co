@@ -15,7 +15,7 @@ tags:
 - health care
 - alternative medicine
 - progressive medicine
-author: Jaclyn Tolentino
+author: Kathryn Parrish
 image: "/uploads/Jaclyn-361013.jpg"
 ---
 
