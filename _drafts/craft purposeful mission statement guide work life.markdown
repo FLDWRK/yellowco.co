@@ -47,7 +47,7 @@ You’ll walk out of this course better knowing yourself, how your story integra
 
 The course will be launching at the end of October, and will be available exclusively to our members for FREE for a limited time.Yes, members will get this valuable E-Course for FREE for a limited time. 
 
-Want to be the first to access the course for free  AND get a ton of extra benefits?? Become a member of our community for just $6/month (when purchased annually) right here: https://yellowco.mn.co/plans/5327?bundle_token=6b0598ff8616b85515fc63b0d4947cd5&utm_source=manual Honestly, if that’s not a deal I don’t know what is :)
+Want to be the first to access the course for free  AND get a ton of extra benefits?? Become a member of our community for just $6/month (when purchased annually) [right here](https://yellowco.mn.co/plans/5327?bundle_token=6b0598ff8616b85515fc63b0d4947cd5&utm_source=manual)! Honestly, if that’s not a deal I don’t know what is :).
 
 If you’d like a preview of the E-Course and a worksheet to help kickstart your personal mission statement, [click here](https://yellowcollective.lpages.co/personal-mission-statement-e-workshop/).
 
