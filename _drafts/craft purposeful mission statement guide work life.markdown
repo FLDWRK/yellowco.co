@@ -39,6 +39,8 @@ We at Yellow Co. are SO excited to start offering in-depth tools and resources t
 
 Our first e-course is releasing exclusively to our Yellow community members at the end of this month! It’s called **“Your Personal Mission Statement: How to Craft a Purposeful Mission Statement to Guide Your Work & Life”**. This course is going to help you find and articulate your personal focus while establishing clarity and alignment for your work. All through developing a personal mission statement. 
 
+![andrew-neel-ute2XAFQU2I-unsplash.jpg](/uploads/andrew-neel-ute2XAFQU2I-unsplash.jpg)
+
 What’s a personal mission statement, and why do I need one, you ask? Great question. A personal mission statement is a one-sentence articulation of what you value, your internal motivations, and what success looks like to you personally. 
 
 ### A personal mission statement acts as your own exclusive guide to filter your decisions (for both work and life) through. 
@@ -46,6 +48,8 @@ What’s a personal mission statement, and why do I need one, you ask? Great que
 This allows you to make sure the path you walk down and the decisions you make are aligned with who you are and the value you bring to the world. It offers you clarity and understanding on your purpose and path. Having this written out in a place you can see it and engage with it on a daily basis is a true game changer.
 
 If you’re feeling stuck, scattered, frustrated, or overwhelmed with options, this course will help you slow down, refocus and consciously move yourself to a place that is more aligned with who you are. You’ll walk out of this course better knowing yourself, how your story integrates with your purpose, and a clear personal mission statement you can write down or print out and put right by your computer.
+
+![Screen Shot 2019-10-08 at 1.26.01 PM.png](/uploads/Screen%20Shot%202019-10-08%20at%201.26.01%20PM.png)
 
 The course will be launching at the end of October, and will be available exclusively to our members for FREE for a limited time. _Yes, members will get this valuable E-Course for FREE for a limited time._ 
 
