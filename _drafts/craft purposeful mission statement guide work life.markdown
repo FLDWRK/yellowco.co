@@ -49,7 +49,7 @@ This allows you to make sure the path you walk down and the decisions you make a
 
 If you’re feeling stuck, scattered, frustrated, or overwhelmed with options, this course will help you slow down, refocus and consciously move yourself to a place that is more aligned with who you are. You’ll walk out of this course better knowing yourself, how your story integrates with your purpose, and a clear personal mission statement you can write down or print out and put right by your computer.
 
-![Screen Shot 2019-10-08 at 1.26.01 PM.png](/uploads/Screen%20Shot%202019-10-08%20at%201.26.01%20PM.png)
+[![Screen Shot 2019-10-08 at 1.26.01 PM.png](/uploads/Screen%20Shot%202019-10-08%20at%201.26.01%20PM.png)](https://yellowco.mn.co/plans/5327?bundle_token=6b0598ff8616b85515fc63b0d4947cd5&utm_source=manual)
 
 The course will be launching at the end of October, and will be available exclusively to our members for FREE for a limited time. _Yes, members will get this valuable E-Course for FREE for a limited time._ 
 
