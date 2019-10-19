@@ -1,6 +1,6 @@
 ---
 title: 5 Steps to Write Your Most Effective & Authentic Instagram Caption Yet
-date: 2019-10-21 04:00:00 -07:00
+date: 2019-10-21 03:00:00 -07:00
 categories:
 - Culture
 tags:
