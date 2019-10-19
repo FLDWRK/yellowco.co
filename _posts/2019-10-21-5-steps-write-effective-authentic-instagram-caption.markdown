@@ -40,7 +40,7 @@ Every single person that comes across your post is authentic, and what brands ha
 
 ![stil-n1J3mVYw_3k-unsplash (1).jpg](/uploads/stil-n1J3mVYw_3k-unsplash%20(1).jpg)
 
-#### Step one: Take a deep breath.
+#### Step One: Take a deep breath.
 
 Don’t worry, I feel you. Being a brand on Instagram is scary. The competition is tough, and we haven’t mentioned the A-word yet - algorithm. I see you, I know you, I am you. Everyday, I have the same doubts that you’re having right now, so in light of that, let’s all take a deep breath. 
 
