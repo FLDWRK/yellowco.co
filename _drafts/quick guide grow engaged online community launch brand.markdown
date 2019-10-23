@@ -23,6 +23,7 @@ tags:
 - tools
 - customer
 author: Diana Youn
+image: "/uploads/nikiya-christie-008wjRkYmOM-unsplash-1.jpg"
 ---
 
 For emerging entrepreneurs who are just getting started on building your brand, a successful launch involves growing a highly engaged community before you even have a product to sell. When prompted, this community can provide valuable feedback in helping you shape your brand offerings (after all, you’re creating your product for them!), and will ensure that you’re not launching with zero market demand. This post is a quick-start guide with the essential tools to build and nurture an enthusiastic community that will already be excited by the time you launch. First, we’ll go over some fundamentals, then get into building and sharing out content that relates and engages.
@@ -37,6 +38,8 @@ Before you get started, it’s essential to know who your ideal customer is. You
 
 Once you’ve identified your ideal customer, create a brand message and aesthetic that resonates with him or her. Defining your brand voice to match your ideal customer will also help to deepen your connection. I won’t dive too deep into this because it can be an extensive process, but a quick way to help establish your branding is to come up with up to five words that truly define your brand. These words can be used as a filter when making business decisions.
 
+![plush-design-studio-DZ1PZftv1Os-unsplash-1.jpg](/uploads/plush-design-studio-DZ1PZftv1Os-unsplash-1.jpg)
+
 ###### 3. Set up a landing page with an email opt-in tied to your mailing list. 
 
 Next, you’ll want to set up a landing page (a single web page) with your visual identity, message, an email opt-in, and a captivating call-to-action (CTA) to sign up. You can offer the visitor behind-the-scenes updates, a discount or pre-launch offer, or an irresistible lead magnet in the form of valuable content. Focus on getting quality subscribers to sign up, who fit your target market description. Email marketing will be a critical component in building a connection with your growing community as you share and deliver your story straight to their inbox.
@@ -44,6 +47,8 @@ Next, you’ll want to set up a landing page (a single web page) with your visua
 ###### 4. Get the word out to your network.
 
 If you’re a [Yellow Co. member](https://yellowco.co/membership/), you may know that the theme for the month of September was to dream small. Relating back to this theme, you don’t have to tell the world about your brand right away! Commit to taking small steps and asking just your close friends, family members, and people you know who’ll love your brand, to sign up for your mailing list. Even if they aren’t your ideal customer, chances are, they’ll know someone who is and may be able to help share your brand with people in their circle. Once you’ve taken this step, you can get the word out further by messaging the rest of your network and announcing on your personal social media channels.
+
+![avel-chuklanov-DUmFLtMeAbQ-unsplash-1-ea6174.jpg](/uploads/avel-chuklanov-DUmFLtMeAbQ-unsplash-1-ea6174.jpg)
 
 #### Creating and Sharing Your Content:
 
@@ -53,11 +58,15 @@ Next, we’ll go over creating and sharing your content and story through email 
 
 Blogging and guest posting can help to establish you as a thought leader and expert in your field. It also drives interested visitors to your site and improves your Google site ranking. For your blog, start by sharing bits of your story and brand journey, as well as any other content that resonates with your community. For guest posts, make a list of the media platforms, such as publications and podcasts, that your community members like to spend their time on. Then, pitch post topics you know will bring value to these outlets and its members. Once your pitch is accepted and you start putting together your guest post or content, make sure to include an author bio with a direct link back to your site!
 
+![jason-briscoe-heEPoapeiVk-unsplash-1.jpg](/uploads/jason-briscoe-heEPoapeiVk-unsplash-1.jpg)
+
 ###### 2. Send out email newsletters to engage your community.
 
 As mentioned above, email marketing is crucial to connecting with your community. You’ve already started sharing your story and sneak peeks of your brand creation process in your blog posts. Now, you can turn those posts into shorter, reader-friendly versions for your email newsletters! By using an email marketing platform such as [Mailchimp](https://mailchimp.com/) or [Klaviyo](https://www.klaviyo.com/), you can also share valuable content and resources that your readers may find helpful, encourage two-way communication, and request for feedback directly from your subscribers. 
 
 For example, let's say you're starting a sustainable women's swimwear line and you're wondering if your customer base would prefer a one piece bathing suit or a two-piece bikini in a specific style and color. You can gauge their interest and preference by sending out an email with a quick survey, form, or inviting them to directly reply back to that email with their thoughts! As for the type of content you may want to share, you can provide practical tips on how to wash and care for your swimsuits, as well as an informative guide on the types of swimsuit fabrics that are both high quality and good for the environment. 
+
+![freshh-connection-I_TdcaXmUNc-unsplash-1.jpg](/uploads/freshh-connection-I_TdcaXmUNc-unsplash-1.jpg)
 
 ###### 3. Share your content on social media.
 
