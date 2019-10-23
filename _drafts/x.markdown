@@ -13,7 +13,7 @@ For emerging entrepreneurs who are just getting started on building your brand, 
 
 ###### 1. Zero in on your ideal customer.
 
-Before you get started, it’s essential to know who your ideal customer is. You’ll be able to establish a deeper connection and provide value to this group by truly understanding their interests, knowing what resonates with them, and learning about where they hang out online and offline. You can do this by conducting qualitative interviews, and sending out market research surveys through platforms like Typeform, to collect demographic and quantitative data. Then, when you’ve crafted your ideal customer persona, you can refer back to this person when putting together your content.
+Before you get started, it’s essential to know who your ideal customer is. You’ll be able to establish a deeper connection and provide value to this group by truly understanding their interests, knowing what resonates with them, and learning about where they hang out online and offline. You can do this by conducting qualitative interviews, and sending out market research surveys through platforms like [Typeform](https://www.typeform.com/), to collect demographic and quantitative data. Then, when you’ve crafted your ideal customer persona, you can refer back to this person when putting together your content.
 
 ###### 2. Hone in on your brand message, voice, and visual identity.
 
@@ -29,7 +29,7 @@ If you’re a [Yellow Co. member](https://yellowco.co/membership/), you may know
 
 #### Creating and Sharing Your Content:
 
-Next, we’ll go over creating and sharing your content and story through email marketing, guest posting, blogging, and social media. Through these channels, you’ll be able to connect with and engage your growing community. It helps to create a content calendar via Google Sheets or a project management tool such as Asana, so you can be consistent in producing and sharing content, and keeping track of your content schedule.
+Next, we’ll go over creating and sharing your content and story through email marketing, guest posting, blogging, and social media. Through these channels, you’ll be able to connect with and engage your growing community. It helps to create a content calendar via [Google Sheets](https://www.google.com/sheets/about/) or a project management tool such as [Asana](https://asana.com/), so you can be consistent in producing and sharing content, and keeping track of your content schedule.
 
 ###### 1. Blog and contribute guest posts to other media outlets.
 
@@ -37,7 +37,7 @@ Blogging and guest posting can help to establish you as a thought leader and exp
 
 ###### 2. Send out email newsletters to engage your community.
 
-As mentioned above, email marketing is crucial to connecting with your community. You’ve already started sharing your story and sneak peeks of your brand creation process in your blog posts. Now, you can turn those posts into shorter, reader-friendly versions for your email newsletters! By using an email marketing platform such as Mailchimp or Klaviyo, you can also share valuable content and resources that your readers may find helpful, encourage two-way communication, and request for feedback directly from your subscribers. 
+As mentioned above, email marketing is crucial to connecting with your community. You’ve already started sharing your story and sneak peeks of your brand creation process in your blog posts. Now, you can turn those posts into shorter, reader-friendly versions for your email newsletters! By using an email marketing platform such as [Mailchimp](https://mailchimp.com/) or [Klaviyo](https://www.klaviyo.com/), you can also share valuable content and resources that your readers may find helpful, encourage two-way communication, and request for feedback directly from your subscribers. 
 
 For example, let's say you're starting a sustainable women's swimwear line and you're wondering if your customer base would prefer a one piece bathing suit or a two-piece bikini in a specific style and color. You can gauge their interest and preference by sending out an email with a quick survey, form, or inviting them to directly reply back to that email with their thoughts! As for the type of content you may want to share, you can provide practical tips on how to wash and care for your swimsuits, as well as an informative guide on the types of swimsuit fabrics that are both high quality and good for the environment. 
 
