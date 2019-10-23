@@ -1,12 +1,11 @@
 ---
-title: x
+title: Your Quick-Start Guide to Growing a Highly Engaged Community Before You Launch
+  Your Brand
 date: 2019-10-28 03:00:00 -07:00
 categories:
 - Entrepreneurs
 author: Diana Youn
 ---
-
-Your Quick-Start Guide to Growing a Highly Engaged Community Before You Launch Your Brand
 
 For emerging entrepreneurs who are just getting started on building your brand, a successful launch involves growing a highly engaged community before you even have a product to sell. When prompted, this community can provide valuable feedback in helping you shape your brand offerings (after all, you’re creating your product for them!), and will ensure that you’re not launching with zero market demand. This post is a quick-start guide with the essential tools to build and nurture an enthusiastic community that will already be excited by the time you launch. First, we’ll go over some fundamentals, then get into building and sharing out content that relates and engages.
 
