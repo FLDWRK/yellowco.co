@@ -23,7 +23,7 @@ tags:
 - tools
 - customer
 author: Diana Youn
-image: "/uploads/nikiya-christie-008wjRkYmOM-unsplash-1.jpg"
+image: "/uploads/plush-design-studio-DZ1PZftv1Os-unsplash-1.jpg"
 ---
 
 For emerging entrepreneurs who are just getting started on building your brand, a successful launch involves growing a highly engaged community before you even have a product to sell. When prompted, this community can provide valuable feedback in helping you shape your brand offerings (after all, you’re creating your product for them!), and will ensure that you’re not launching with zero market demand. This post is a quick-start guide with the essential tools to build and nurture an enthusiastic community that will already be excited by the time you launch. First, we’ll go over some fundamentals, then get into building and sharing out content that relates and engages.
@@ -38,7 +38,7 @@ Before you get started, it’s essential to know who your ideal customer is. You
 
 Once you’ve identified your ideal customer, create a brand message and aesthetic that resonates with him or her. Defining your brand voice to match your ideal customer will also help to deepen your connection. I won’t dive too deep into this because it can be an extensive process, but a quick way to help establish your branding is to come up with up to five words that truly define your brand. These words can be used as a filter when making business decisions.
 
-![plush-design-studio-DZ1PZftv1Os-unsplash-1.jpg](/uploads/plush-design-studio-DZ1PZftv1Os-unsplash-1.jpg)
+![nikiya-christie-008wjRkYmOM-unsplash-1.jpg](/uploads/nikiya-christie-008wjRkYmOM-unsplash-1.jpg)
 
 ###### 3. Set up a landing page with an email opt-in tied to your mailing list. 
 
