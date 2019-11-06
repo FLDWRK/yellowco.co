@@ -28,7 +28,7 @@ author: Michelle Thomas
 image: "/uploads/christin-hume-Hcfwew744z4-unsplash-1.jpg"
 ---
 
-One of the most significant stumbling blocks to growth that the majority of small business owners will face is access to capital. You can have an incredible product, talent, or service specialty, but if no one wants to pay for it, you can’t earn a living. If you launch a business that does good, you have an added incentive to turn a profit because all those sales you so painstakingly secure directly equate to increased financial support for a cause you’re championing. Your growth catalyzes your cause’s success. For example, at my business Mata Traders, we launched a fair trade fashion brand produced by women co-op members in India and Nepal because we saw, time and time again, that women with economic power use it to stabilize their families and educate their children, helping to end the cycle of poverty in marginalized communities. While access to capital can feel near impossible sometimes, there are definitely ways you can obtain it and further your growth.
+One of the most significant stumbling blocks to growth that the majority of small business owners will face is access to capital. You can have an incredible product, talent, or service specialty, but if no one wants to pay for it, you can’t earn a living. If you launch a business that does good, you have an added incentive to turn a profit because all those sales you so painstakingly secure directly equate to increased financial support for a cause you’re championing. Your growth catalyzes your cause’s success. For example, at my business [Mata Traders](https://www.matatraders.com/), we launched a fair trade fashion brand produced by women co-op members in India and Nepal because we saw, time and time again, that women with economic power use it to stabilize their families and educate their children, helping to end the cycle of poverty in marginalized communities. While access to capital can feel near impossible sometimes, there are definitely ways you can obtain it and further your growth.
 
 #### Seed Capital
 
@@ -42,7 +42,7 @@ The next thing you’ll need to be able to do is sell, sell, sell whatever it is
 
 ### Because we invested in product development and could actualize sales dollars, we established a track record of profitability that helped us woo bank lenders when it came time for that. 
 
-We also found that leveraging the support of bigger companies like ModCloth and Stitch really helped legitimize our brand. A vouch from them went a long way with their loyal customers, and helped establish a pathway for our growth.
+We also found that leveraging the support of bigger companies like [ModCloth](https://www.modcloth.com/) and [Stitch Fix](https://www.stitchfix.com/) really helped legitimize our brand. A vouch from them went a long way with their loyal customers, and helped establish a pathway for our growth.
 
 ![bench-accounting-xxeAftHHq6E-unsplash-1.jpg](/uploads/bench-accounting-xxeAftHHq6E-unsplash-1.jpg)
 
@@ -62,7 +62,7 @@ The second type of lender to look for is one who lends specifically within your 
 
 ### Once you’ve identified your niche, there may very well be lenders who exist solely to help businesses within that niche survive. 
 
-We found an ethical investment organization called Shared Interest that shares Mata’s mission to alleviate poverty through fair and just trade, and who will only lend to other accredited fair trade businesses and organizations. Because we are members of the Fair Trade Federation, they agreed to take us on and over the years have given us access to a credit limit three times the size of the line of credit are allotted from our bank directly. 
+We found an ethical investment organization called [Shared Interest](https://www.shared-interest.com/gb) that shares Mata’s mission to alleviate poverty through fair and just trade, and who will only lend to other accredited fair trade businesses and organizations. Because we are members of the [Fair Trade Federation](https://www.fairtradefederation.org/), they agreed to take us on and over the years have given us access to a credit limit three times the size of the line of credit are allotted from our bank directly. 
 
 ![christin-hume-mfB1B1s4sMc-unsplash-1.jpg](/uploads/christin-hume-mfB1B1s4sMc-unsplash-1.jpg)
 
