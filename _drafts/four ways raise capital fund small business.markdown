@@ -1,5 +1,5 @@
 ---
-title: Four Ways to Raise Capital to Fund Your Small Business
+title: Four Ways to Raise Capital & Fund Your Small Business
 date: 2019-11-11 03:00:00 -08:00
 categories:
 - Entrepreneurs
