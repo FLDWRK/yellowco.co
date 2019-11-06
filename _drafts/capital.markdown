@@ -29,7 +29,7 @@ author: Michelle Thomas
 
 One of the most significant stumbling blocks to growth that the majority of small business owners will face is access to capital. You can have an incredible product, talent, or service specialty, but if no one wants to pay for it, you can’t earn a living. If you launch a business that does good, you have an added incentive to turn a profit because all those sales you so painstakingly secure directly equate to increased financial support for a cause you’re championing. Your growth catalyzes your cause’s success. For example, at my business Mata Traders, we launched a fair trade fashion brand produced by women co-op members in India and Nepal because we saw, time and time again, that women with economic power use it to stabilize their families and educate their children, helping to end the cycle of poverty in marginalized communities. While access to capital can feel near impossible sometimes, there are definitely ways you can obtain it and further your growth.
 
-#### Two types of Seed Capital, self-funded or loan/gift
+#### Seed Capital
 
 In the early stages of your business’s development, your options for access to capital will be limited, and some may be more risky than others. If you need seed capital, which almost everyone will to get started, there are at least two ways to raise it. You can either self-fund, or ask friends and family for a loan or gift. We did both. 
 
