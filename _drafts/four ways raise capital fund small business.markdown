@@ -25,6 +25,7 @@ tags:
 - advice
 - help
 author: Michelle Thomas
+image: "/uploads/christin-hume-Hcfwew744z4-unsplash-1.jpg"
 ---
 
 One of the most significant stumbling blocks to growth that the majority of small business owners will face is access to capital. You can have an incredible product, talent, or service specialty, but if no one wants to pay for it, you can’t earn a living. If you launch a business that does good, you have an added incentive to turn a profit because all those sales you so painstakingly secure directly equate to increased financial support for a cause you’re championing. Your growth catalyzes your cause’s success. For example, at my business Mata Traders, we launched a fair trade fashion brand produced by women co-op members in India and Nepal because we saw, time and time again, that women with economic power use it to stabilize their families and educate their children, helping to end the cycle of poverty in marginalized communities. While access to capital can feel near impossible sometimes, there are definitely ways you can obtain it and further your growth.
@@ -35,7 +36,7 @@ In the early stages of your business’s development, your options for access to
 
 To self-fund, we took out multiple low interest (0% APR if you can still find them) credit card cash advances with long repayment terms, either 36 or 60 months. With a basic cash flow statement and a short term sales plan with strategies and tactics built twelve months out, we felt comfortable with that level of risk. We drafted out repayment schedules to insure the money was paid back before the end of the terms, which kept the money interest-free and boosted our credit score to make us more appealing to other types of lenders.  
 
--
+![christin-hume-PNWp1dZ7sO0-unsplash-1.jpg](/uploads/christin-hume-PNWp1dZ7sO0-unsplash-1.jpg)
 
 The next thing you’ll need to be able to do is sell, sell, sell whatever it is you’re marketing. At Mata, the more dresses we can sell, the more business we can provide the women who make our dresses, which amplifies our mission. We would vend at street festival booths, and exhibit at trade shows and conference expos. We’d take road trips to visit customers and sell out of the back of our van; and 
 
@@ -43,7 +44,7 @@ The next thing you’ll need to be able to do is sell, sell, sell whatever it is
 
 We also found that leveraging the support of bigger companies like ModCloth and Stitch really helped legitimize our brand. A vouch from them went a long way with their loyal customers, and helped establish a pathway for our growth.
 
--
+![bench-accounting-xxeAftHHq6E-unsplash-1.jpg](/uploads/bench-accounting-xxeAftHHq6E-unsplash-1.jpg)
 
 #### Debt Financing
 
@@ -53,7 +54,7 @@ Once you can establish a solid sales history, make relationships with lenders. W
 
 You want to find a lender motivated to act as a mediary between you and the bank’s underwriters, and oftentimes these people are headquartered in the bank’s corporate offices. Make an appointment with a business banker at the bank’s headquarters located nearest to you. Ask to partner with a business banker who handles small businesses specifically. Our bankers work in teams, but one handles businesses like ours, with revenue under five million; the others handle much larger businesses and wouldn’t be a good fit in the immediate future.   
 
--
+![christin-hume-k2Kcwkandwg-unsplash-1.jpg](/uploads/christin-hume-k2Kcwkandwg-unsplash-1.jpg)
 
 #### Cooperative Lending Societies
 
@@ -63,7 +64,7 @@ The second type of lender to look for is one who lends specifically within your 
 
 We found an ethical investment organization called Shared Interest that shares Mata’s mission to alleviate poverty through fair and just trade, and who will only lend to other accredited fair trade businesses and organizations. Because we are members of the Fair Trade Federation, they agreed to take us on and over the years have given us access to a credit limit three times the size of the line of credit are allotted from our bank directly. 
 
--
+![christin-hume-mfB1B1s4sMc-unsplash-1.jpg](/uploads/christin-hume-mfB1B1s4sMc-unsplash-1.jpg)
 
 #### Grants
 
