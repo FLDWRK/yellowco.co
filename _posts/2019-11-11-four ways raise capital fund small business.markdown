@@ -38,7 +38,7 @@ To self-fund, we took out multiple low interest (0% APR if you can still find th
 
 ![christin-hume-PNWp1dZ7sO0-unsplash-1.jpg](/uploads/christin-hume-PNWp1dZ7sO0-unsplash-1.jpg)
 
-The next thing you’ll need to be able to do is sell, sell, sell whatever it is you’re marketing. At Mata, the more dresses we can sell, the more business we can provide the women who make our dresses, which amplifies our mission. We would vend at street festival booths, and exhibit at trade shows and conference expos. We’d take road trips to visit customers and sell out of the back of our van; and 
+The next thing you’ll need to be able to do is sell, sell, sell whatever it is you’re marketing. At Mata, the more dresses we can sell, the more business we can provide the women who make our dresses, which amplifies our mission. We would vend at street festival booths, and exhibit at trade shows and conference expos. We’d take road trips to visit customers and sell out of the back of our van.
 
 ### Because we invested in product development and could actualize sales dollars, we established a track record of profitability that helped us woo bank lenders when it came time for that. 
 
@@ -50,7 +50,7 @@ We also found that leveraging the support of bigger companies like ModCloth and 
 
 Once you can establish a solid sales history, make relationships with lenders. We found three avenues with which to access additional growth capital, and we succeeded in all three because we built relationships with those institutions that had capital to lend. The first, most traditional route is to obtain debt financing through a major national banking institute. 
 
-### All I can recommend is when it’s time to make the big ask, is to avoid your local branch. 
+### All I can recommend is when it’s time to make the big ask, avoid your local branch. 
 
 You want to find a lender motivated to act as a mediary between you and the bank’s underwriters, and oftentimes these people are headquartered in the bank’s corporate offices. Make an appointment with a business banker at the bank’s headquarters located nearest to you. Ask to partner with a business banker who handles small businesses specifically. Our bankers work in teams, but one handles businesses like ours, with revenue under five million; the others handle much larger businesses and wouldn’t be a good fit in the immediate future.   
 
