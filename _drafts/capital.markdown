@@ -3,6 +3,27 @@ title: Four Ways to Raise Capital to Fund Your Small Business
 date: 2019-11-11 03:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- small business
+- entrepreneur
+- female
+- women
+- capital
+- resources
+- funding
+- money
+- waist to gain capital
+- loans
+- business
+- start
+- seed capital
+- self-fund
+- finances
+- grants
+- women owned
+- female founders
+- advice
+- help
 author: Michelle Thomas
 ---
 
