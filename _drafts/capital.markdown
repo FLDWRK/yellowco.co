@@ -35,11 +35,15 @@ In the early stages of your business’s development, your options for access to
 
 To self-fund, we took out multiple low interest (0% APR if you can still find them) credit card cash advances with long repayment terms, either 36 or 60 months. With a basic cash flow statement and a short term sales plan with strategies and tactics built twelve months out, we felt comfortable with that level of risk. We drafted out repayment schedules to insure the money was paid back before the end of the terms, which kept the money interest-free and boosted our credit score to make us more appealing to other types of lenders.  
 
+-
+
 The next thing you’ll need to be able to do is sell, sell, sell whatever it is you’re marketing. At Mata, the more dresses we can sell, the more business we can provide the women who make our dresses, which amplifies our mission. We would vend at street festival booths, and exhibit at trade shows and conference expos. We’d take road trips to visit customers and sell out of the back of our van; and 
 
 ### Because we invested in product development and could actualize sales dollars, we established a track record of profitability that helped us woo bank lenders when it came time for that. 
 
 We also found that leveraging the support of bigger companies like ModCloth and Stitch really helped legitimize our brand. A vouch from them went a long way with their loyal customers, and helped establish a pathway for our growth.
+
+-
 
 #### Debt Financing
 
@@ -49,11 +53,17 @@ Once you can establish a solid sales history, make relationships with lenders. W
 
 You want to find a lender motivated to act as a mediary between you and the bank’s underwriters, and oftentimes these people are headquartered in the bank’s corporate offices. Make an appointment with a business banker at the bank’s headquarters located nearest to you. Ask to partner with a business banker who handles small businesses specifically. Our bankers work in teams, but one handles businesses like ours, with revenue under five million; the others handle much larger businesses and wouldn’t be a good fit in the immediate future.   
 
-### Cooperative Lending Societies
+-
+
+#### Cooperative Lending Societies
 
 The second type of lender to look for is one who lends specifically within your niche. We launched at a time when fair trade clothing labels like ours had virtually no competition; which is something I’d recommend to anyone. Find a niche market and ask: what are these customers missing? What can’t they get? And then give that to them. 
 
-Once you’ve identified your niche, there may very well be lenders who exist solely to help businesses within that niche survive. We found an ethical investment organization called Shared Interest that shares Mata’s mission to alleviate poverty through fair and just trade, and who will only lend to other accredited fair trade businesses and organizations. Because we are members of the Fair Trade Federation, they agreed to take us on and over the years have given us access to a credit limit three times the size of the line of credit are allotted from our bank directly. 
+### Once you’ve identified your niche, there may very well be lenders who exist solely to help businesses within that niche survive. 
+
+We found an ethical investment organization called Shared Interest that shares Mata’s mission to alleviate poverty through fair and just trade, and who will only lend to other accredited fair trade businesses and organizations. Because we are members of the Fair Trade Federation, they agreed to take us on and over the years have given us access to a credit limit three times the size of the line of credit are allotted from our bank directly. 
+
+-
 
 #### Grants
 
