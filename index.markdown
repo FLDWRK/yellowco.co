@@ -3,19 +3,19 @@ title: Home
 position: 4
 body-class: home
 banners:
-- link: https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/
-  image: "/uploads/IJM-blog.jpg"
-- link: http://lizbohannon.co/tour
-  image: "/uploads/Tour-header.jpg"
+- link: https://www.universe.com/events/merry-bright-2019-tickets-PCZKGT/
+  image: "/uploads/Web-Large.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
-sm-banners:
 - link: https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/
-  image: "/uploads/IJM-Bammer-Small.jpg"
-- link: http://lizbohannon.co/tour
-  image: "/uploads/Tour-header-sm.jpg"
+  image: "/uploads/IJM-blog.jpg"
+sm-banners:
+- link: https://www.universe.com/events/merry-bright-2019-tickets-PCZKGT/
+  image: "/uploads/Web-Small.jpg"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
+- link: https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/
+  image: "/uploads/IJM-Bammer-Small.jpg"
 buttons:
 - text: Become a Member
   link: "/membership"
