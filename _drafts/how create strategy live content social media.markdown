@@ -50,7 +50,7 @@ As you’re mapping out your standard social media content calendar, think about
 
 ![stil-1Ak7e5n78r0-unsplash-1.jpg](/uploads/stil-1Ak7e5n78r0-unsplash-1.jpg)
 
-#### Using Facebook Live
+#### Using Facebook live
 
 The 2018 “State of Social” report showed that 96% of companies use Facebook actively. Of those companies, nearly half are producing live content on their Facebook account. If Facebook Live’s aren’t part of your social media strategy yet, here’s why they should be.
 
@@ -72,7 +72,7 @@ There’s a few key things to consider when setting up a Facebook Live. If you�
 
 ![stil-Mw9KxYkqsnk-unsplash-1.jpg](/uploads/stil-Mw9KxYkqsnk-unsplash-1.jpg)
 
-#### Using Instagram Live.
+#### Using Instagram live
 
 It’s no secret that Instagram has become a crucial social platform for influencers and companies of all sizes. With over 1 billion monthly active users, 64% of adults between 18-29 use Instagram (Sprout Social). Each day, over 100 million Instagrammers watch or record live video. There’s a few benefits as a user to utilize the live functionality: 
 
