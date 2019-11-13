@@ -23,6 +23,7 @@ tags:
 - company
 - business
 author: Dana Bakich
+image: "/uploads/stil-J-An_1PrhTc-unsplash-1.jpg"
 ---
 
 How many times have you received a push notification on your phone from a friend or a brand going live on any social media platform? A lot, right? 
@@ -47,6 +48,8 @@ The sky is the limit! There’s countless options depending on what you and/or y
 
 As you’re mapping out your standard social media content calendar, think about including a weekly live session as another content idea. After a few lives, look at your metrics and see how did the live video perform against other media. 
 
+![stil-1Ak7e5n78r0-unsplash-1.jpg](/uploads/stil-1Ak7e5n78r0-unsplash-1.jpg)
+
 #### Using Facebook Live
 
 The 2018 “State of Social” report showed that 96% of companies use Facebook actively. Of those companies, nearly half are producing live content on their Facebook account. If Facebook Live’s aren’t part of your social media strategy yet, here’s why they should be.
@@ -65,7 +68,9 @@ There’s a few key things to consider when setting up a Facebook Live. If you�
 1. [Selfie Ring Light](https://www.amazon.com/QIAYA-Selfie-Camera-Photography-BatteryPowered/dp/B01NCW7FVU/ref=pd_lpo_sbs_229_t_0?_encoding=UTF8&psc=1&refRID=WENFNQSB21XRTNQCQXAP) - If you don’t have perfect natural lighting, consider buying a ring light for $10-$12 on Amazon.
 2. Connectivity - Always check your connection! Ideally, you should have 5 MB of data per second at a minimum for your upload speed. ([SpeedTest](https://www.speedtest.net/) is an amazing website and mobile app for testing your internet connection)
 3. [Tripod](https://www.amazon.com/Manfrotto-MKCOMPACTACN-BK-Compact-Action-Tripod/dp/B00L6F16L0/ref=sr_1_3?crid=3I3QJ0V6V83CS&keywords=tripod+manfrotto&qid=1568847283&s=electronics&sprefix=tripod+m%2Celectronics%2C237&sr=1-3) - Stabilize! Consider a tripod if you will be going live for longer than 10 minutes, need to fit multiple people in the frame, or need extra stability!
-4. [Lav Mic](https://www.amazon.com/Microphone-Tikysky-Smartphone-Interview-Recording/dp/B07TH2DZ6X/ref=sr_1_1_sspa?keywords=mobile+lav+mic&qid=1568847305&s=electronics&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFBVlozUFZYRTZLN0UmZW5jcnlwdGVkSWQ9QTAyNzE5MjAxQk5QUDRVMVJaME80JmVuY3J5cHRlZEFkSWQ9QTAzMDAzMzFIR0JOMTgyOEwxU0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) - Can they hear you? If you have a lot of background noise, buy a lavalier microphone that plugs right into your phone. This way you will primarily pick up the important sounds and be able to avoid the background noise in your video! (Make sure to buy the iPhone adapter)
+4. [Lav Mic](https://www.amazon.com/Microphone-Tikysky-Smartphone-Interview-Recording/dp/B07TH2DZ6X/ref=sr_1_1_sspa?keywords=mobile+lav+mic&qid=1568847305&s=electronics&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFBVlozUFZYRTZLN0UmZW5jcnlwdGVkSWQ9QTAyNzE5MjAxQk5QUDRVMVJaME80JmVuY3J5cHRlZEFkSWQ9QTAzMDAzMzFIR0JOMTgyOEwxU0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) - Can they hear you? If you have a lot of background noise, buy a lavalier microphone that plugs right into your phone. This way you will primarily pick up the important sounds and be able to avoid the background noise in your video! (Make sure to buy the iPhone adapter.)
+
+![stil-Mw9KxYkqsnk-unsplash-1.jpg](/uploads/stil-Mw9KxYkqsnk-unsplash-1.jpg)
 
 #### Using Instagram Live.
 
