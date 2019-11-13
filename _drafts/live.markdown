@@ -41,15 +41,12 @@ The 2018 “State of Social” report showed that 96% of companies use Facebook 
 
 #### What tools and tech do I need?
 
-There’s a few key things to consider when setting up a Facebook Live. If you’re on a tight budget, this video outlines exactly what to purchase on Amazon to get you started and looking like a pro. 
+There’s a few key things to consider when setting up a Facebook Live. If you’re on a tight budget, [this video](https://www.facebook.com/watch/?v=542037599606410) outlines exactly what to purchase on Amazon to get you started and looking like a pro. When you’re setting up a live on a small budget, these are the tools recommended in video:
 
-Embed video: https://www.facebook.com/watch/?v=542037599606410
-When you’re setting up a live on a small budget, these are the tools recommended in video:
-
-1. Selfie Ring Light - If you don’t have perfect natural lighting, consider buying a ring light for $10-$12 on Amazon.
-2. Connectivity - Always check your connection! Ideally, you should have 5 MB of data per second at a minimum for your upload speed. (SpeedTest is an amazing website and mobile app for testing your internet connection)
-3. Tripod - Stabilize! Consider a tripod if you will be going live for longer than 10 minutes, need to fit multiple people in the frame, or need extra stability!
-4. Lav Mic - Can they hear you? If you have a lot of background noise, buy a lavalier microphone that plugs right into your phone. This way you will primarily pick up the important sounds and be able to avoid the background noise in your video! (Make sure to buy the iPhone adapter)
+1. [Selfie Ring Light](https://www.amazon.com/QIAYA-Selfie-Camera-Photography-BatteryPowered/dp/B01NCW7FVU/ref=pd_lpo_sbs_229_t_0?_encoding=UTF8&psc=1&refRID=WENFNQSB21XRTNQCQXAP) - If you don’t have perfect natural lighting, consider buying a ring light for $10-$12 on Amazon.
+2. Connectivity - Always check your connection! Ideally, you should have 5 MB of data per second at a minimum for your upload speed. ([SpeedTest](https://www.speedtest.net/) is an amazing website and mobile app for testing your internet connection)
+3. [Tripod](https://www.amazon.com/Manfrotto-MKCOMPACTACN-BK-Compact-Action-Tripod/dp/B00L6F16L0/ref=sr_1_3?crid=3I3QJ0V6V83CS&keywords=tripod+manfrotto&qid=1568847283&s=electronics&sprefix=tripod+m%2Celectronics%2C237&sr=1-3) - Stabilize! Consider a tripod if you will be going live for longer than 10 minutes, need to fit multiple people in the frame, or need extra stability!
+4. [Lav Mic](https://www.amazon.com/Microphone-Tikysky-Smartphone-Interview-Recording/dp/B07TH2DZ6X/ref=sr_1_1_sspa?keywords=mobile+lav+mic&qid=1568847305&s=electronics&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFBVlozUFZYRTZLN0UmZW5jcnlwdGVkSWQ9QTAyNzE5MjAxQk5QUDRVMVJaME80JmVuY3J5cHRlZEFkSWQ9QTAzMDAzMzFIR0JOMTgyOEwxU0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) - Can they hear you? If you have a lot of background noise, buy a lavalier microphone that plugs right into your phone. This way you will primarily pick up the important sounds and be able to avoid the background noise in your video! (Make sure to buy the iPhone adapter)
 
 #### Using Instagram Live.
 
@@ -61,7 +58,7 @@ It’s no secret that Instagram has become a crucial social platform for influen
 
 #### Ready for the next level? 
 
-If you’re looking to make a higher investment in live-streaming with multiple cameras and simultaneous streams, I highly recommend two programs: SlingStudio and SocialLive. 
+If you’re looking to make a higher investment in live-streaming with multiple cameras and simultaneous streams, I highly recommend two programs: [SlingStudio](https://www.myslingstudio.com/) and [SocialLive](https://www.socialive.us/video-creation-and-livestreaming-platform/). 
 
 These programs both allow you to stream to not only multiple Facebook Pages, but other social channels as well. They also provide the ability to integrate lower thirds, graphics, video assets, logos, etc. for a more produced live experience. This is a great opportunity to pitch partners or sponsors to help pay for any tech or talent costs.
 
