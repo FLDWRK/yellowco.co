@@ -1,10 +1,8 @@
 ---
-title: live
+title: How to Create a Strategy for Live Content on Social Media
 date: 2019-11-18 03:00:00 -08:00
 author: Dana Bakich
 ---
-
-The Importance of Developing a Live Programming Strategy
 
 How many times have you received a push notification on your phone from a friend or a brand going live on any social media platform? A lot, right? 
 
