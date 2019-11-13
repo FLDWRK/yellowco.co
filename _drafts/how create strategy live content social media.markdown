@@ -1,6 +1,27 @@
 ---
 title: How to Create a Strategy for Live Content on Social Media
 date: 2019-11-18 03:00:00 -08:00
+categories:
+- Culture
+tags:
+- live content
+- instagram live
+- facebook live
+- social media
+- strategy
+- tips
+- tools
+- equipment
+- need
+- marketing
+- calendar
+- content
+- engagement
+- audience
+- followers
+- platform
+- company
+- business
 author: Dana Bakich
 ---
 
