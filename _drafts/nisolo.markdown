@@ -42,4 +42,4 @@ Before we share a call to action, let’s pause and ensure we’re not getting l
 
 To accelerate the shift toward living wages, we have partnered with our competitor, ABLE, to co-launch a movement that makes next steps for consumers and brands as seamless and straightforward as possible. Starting now, we will need the help of all consumers to launch the #LowestWageChallenge to the industry. Head to the [Lowest Wage Challenge website](https://www.lowestwagechallenge.com/) to learn how you can help.
  
-_Photos courtesy of [Nisolo](https://nisolo.com/)_
+_For more information, head to Nisolo's blog [here](https://nisolo.com/blogs/stride-sustainability/living-wages-in-the-fashion-industry) and [here](https://nisolo.com/blogs/stride-sustainability/the-lowest-wage-in-our-supply-chain)! Photos courtesy of [Nisolo](https://nisolo.com/)_
