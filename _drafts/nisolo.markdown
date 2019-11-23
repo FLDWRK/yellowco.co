@@ -4,6 +4,7 @@ date: 2019-11-25 03:00:00 -08:00
 categories:
 - Conscious Living
 author: Patrick Woodyard
+image: "/uploads/BWP_Nisolo_-35-1.jpg"
 ---
 
 While we are thankfully starting to see a lot of talk about the serious ways that the fashion industry is failing our _planet_, the impact the industry is having on _people_ has taken a dangerous back seat. We don’t believe these have to be mutually exclusive, and the time is now to shed further light on the serious social injustices going on within the industry. It is estimated that less than 2% of the people who make the clothes on our bodies earn a living wage _(Source: The True Cost)_. This means an estimated 98% of workers in the fashion industry are likely being held in systemic poverty and cannot meet their most basic needs. And, 75% of these workers are women between the ages of 18 and 24 _(Source: Fashion Revolution, 2017)_.
