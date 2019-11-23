@@ -4,6 +4,21 @@ title: Why Competitors Nisolo & ABLE Are Partnering to Launch a Movement of Tran
 date: 2019-11-25 03:00:00 -08:00
 categories:
 - Conscious Living
+tags:
+- lowest wage
+- living wage
+- fashion industry
+- ethically made
+- nisolo
+- able
+- sustainable
+- ethical fashion
+- clothing
+- brands
+- transparency
+- factories
+- lowest wage challenge
+- systemic poverty
 author: Patrick Woodyard
 image: "/uploads/BWP_Nisolo_-35-1.jpg"
 ---
