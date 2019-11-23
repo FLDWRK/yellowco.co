@@ -15,6 +15,8 @@ While we are thankfully starting to see a lot of talk about the serious ways tha
 And, 75% of these workers are women between the ages of 18 and 24 _(Source: Fashion Revolution, 2017)_. This is not a small problem. In fact, the fashion industry employs 75 million factory workers around the world (that’s a higher number than the population of over 220 different countries) _(Source: Fashion United, 2017)_. Factoring in that many workers have children, the number of people this problem affects quickly becomes as large as the population of the United States, the 3rd largest country in the world. Our industry’s negligence to provide a living wage is especially concerning when considering that the United Nations has declared it a basic human right.
  
 Unfortunately, all of this means that the products we enjoy most – your favorite pair of jeans, your go-to pair of shoes, that first outfit worn when the laundry is done – were likely made by people who are unable to meet the basic needs of themselves and their children.
+
+-
  
 #### 5 Ways Brands Are Actively Dodging Responsibility for Living Wages
  
@@ -29,6 +31,8 @@ However, minimum wages in many manufacturing countries within the fashion indust
 ###### 2. Brands dodge responsibility by claiming living wages are too costly. 
 
 Some brands claim that paying workers a living wage is too difficult from an expense perspective, but that’s not entirely true. Studies show that it would only cost a brand 1-4% more per garment to ensure living wages across their supply chain _(Source: Oxfam, 2019)_.
+
+-
  
 ###### 3. Brands dodge responsibility by saying the factory is responsible, not them. 
 
@@ -42,6 +46,8 @@ In other cases, major brands put the responsibility _on the workers themselves_,
 
 Brands claiming that providing a living wage is not possible because living wages are difficult to calculate is a sad excuse. While they may not be perfect, living wage global benchmarks such as WageIndicator and Trading Economics are widely available (and MIT publishes a public database that shares what a living wage is in every county of the U.S.). On top of using these resources, brands can simply ask their workers what their living expenses are and establish the lowest wage based on those figures. 
 
+-
+
 Enough is enough. At the expense of human dignity and wellbeing, brands are not improving their practices fast enough. This must change. And, we believe this can change within our lifetime. 
 
 ### While the industry is far from this reality today, we believe the fashion industry has the potential to serve as one of the most powerful conduits for social and environmental progress. 
@@ -52,9 +58,11 @@ Knowing the lowest wage establishes a critical baseline and helps us understand 
 
 One of our closest competitors, [ABLE](https://www.livefashionable.com/), pioneered this thought around the importance of the lowest wage when they published the lowest wage of their Nashville, TN offices in October of 2018. Exactly one year later, just as ABLE gears up to publish the lowest wages of their factories in Ethiopia, we’re partnering with them to share the lowest wages in our supply chain as well. Because of the countless times we have seen firsthand the ways that receiving a living wage can completely transform the wellbeing of entire families, our hope is that one day, all brands will openly share the lowest wages within their factories and begin working toward making them 3rd party verified living wages.
 
+-
+
 However, from a basic economics standpoint, Supply (that is, the industry naturally moving in the direction of living wages) will never fix itself. Rather, Demand must outpace and drive Supply forward. Put simply, unless consumers begin to step up and demand through their words and purchases a faster shift toward living wages from the brands they love, this change will continue to happen far too slowly at the expense of human dignity and wellbeing. 
 
-#### The time has come for this generation of consumers to demand more from the industry for the sake of millions of people and their families.
+### The time has come for this generation of consumers to demand more from the industry for the sake of millions of people and their families.
 
 Before we share a call to action, let’s pause and ensure we’re not getting lost in the numbers of this issue – 75 million people and only 2% earn enough to cover their basic needs. These numbers are astounding on their own, but let’s bring them to life. There are real people with names and homes and families behind these numbers, and they likely made the clothing you are wearing right now. With 75% of them being women, let’s ask a different way: Is she safe from physical and sexual harm because of the stability of her job? Is she earning enough to put food on the table? Can she send her children to school, deterring generational poverty? Is she free to dream? Brands publishing their lowest wages is the first step of many to ensuring a “yes” to these questions, as it lays the baseline foundation for providing a living wage to everyone in the fashion industry’s supply chain.
 
