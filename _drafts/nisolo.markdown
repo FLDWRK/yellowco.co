@@ -19,15 +19,25 @@ All of this might be a surprise to you, but it may not be a surprise to the vast
  
 Rather than sharing in the responsibility of living wages within their supply chains, major fashion brands actively dodge responsibility through these five ways:
  
-1. **Brands dodge responsibility by saying they pay “the legal minimum wage.”** However, minimum wages in many manufacturing countries within the fashion industry are only half of what would be considered a living wage _(Source: Global Fashion Agenda, 2017)_.
+###### 1. Brands dodge responsibility by saying they pay “the legal minimum wage.” 
+
+However, minimum wages in many manufacturing countries within the fashion industry are only half of what would be considered a living wage _(Source: Global Fashion Agenda, 2017)_.
  
-2. **Brands dodge responsibility by claiming living wages are too costly.** Some brands claim that paying workers a living wage is too difficult from an expense perspective, but that’s not entirely true. Studies show that it would only cost a brand 1-4% more per garment to ensure living wages across their supply chain _(Source: Oxfam, 2019)_.
+###### 2. Brands dodge responsibility by claiming living wages are too costly. 
+
+Some brands claim that paying workers a living wage is too difficult from an expense perspective, but that’s not entirely true. Studies show that it would only cost a brand 1-4% more per garment to ensure living wages across their supply chain _(Source: Oxfam, 2019)_.
  
-3. **Brands dodge responsibility by saying the factory is responsible, not them.** In many cases, brands shift the responsibility of ensuring a living wage to the manufacturer from whom they purchase. The problem with this logic is that those same brands are using their purchasing power to demand an extremely low cost from factories for the products they buy. And, the factories know there is always a threat that major brands will leave if they try to raise prices in order to pay workers more.
+###### 3. Brands dodge responsibility by saying the factory is responsible, not them. 
+
+In many cases, brands shift the responsibility of ensuring a living wage to the manufacturer from whom they purchase. The problem with this logic is that those same brands are using their purchasing power to demand an extremely low cost from factories for the products they buy. And, the factories know there is always a threat that major brands will leave if they try to raise prices in order to pay workers more.
  
-4. **Brands dodge responsibility by saying workers are responsible.** In other cases, major brands put the responsibility _on the workers themselves_, claiming that “collective bargaining” and the right to create unions is the #1 protection of living wages. The problem with this logic? The reality is that workers are often threatened with losing their jobs when wages are challenged, and in some cases, even physically beaten by management. 
+###### 4. Brands dodge responsibility by saying workers are responsible. 
+
+In other cases, major brands put the responsibility _on the workers themselves_, claiming that “collective bargaining” and the right to create unions is the #1 protection of living wages. The problem with this logic? The reality is that workers are often threatened with losing their jobs when wages are challenged, and in some cases, even physically beaten by management. 
  
-5. **Brands dodge responsibility by saying living wages are too hard to calculate.** Brands claiming that providing a living wage is not possible because living wages are difficult to calculate is a sad excuse. While they may not be perfect, living wage global benchmarks such as WageIndicator and Trading Economics are widely available (and MIT publishes a public database that shares what a living wage is in every county of the U.S.). On top of using these resources, brands can simply ask their workers what their living expenses are and establish the lowest wage based on those figures. 
+###### 5. Brands dodge responsibility by saying living wages are too hard to calculate. 
+
+Brands claiming that providing a living wage is not possible because living wages are difficult to calculate is a sad excuse. While they may not be perfect, living wage global benchmarks such as WageIndicator and Trading Economics are widely available (and MIT publishes a public database that shares what a living wage is in every county of the U.S.). On top of using these resources, brands can simply ask their workers what their living expenses are and establish the lowest wage based on those figures. 
 Enough is enough. At the expense of human dignity and wellbeing, brands are not improving their practices fast enough. This must change. And, we believe this can change within our lifetime. While the industry is far from this reality today, we believe the fashion industry has the potential to serve as one of the most powerful conduits for social and environmental progress. We’re calling on all brands to vulnerably lean in and share their lowest wages and how they compare to living wages where they operate. 
 
 Knowing the lowest wage establishes a critical baseline and helps us understand whether or not the wages of brands and factories are on a trajectory toward living wages. Therefore, by identifying and openly sharing the lowest wage, brands take the first step toward protecting the most vulnerable workers and everyone else in their supply chains as well. 
