@@ -1,5 +1,6 @@
 ---
-title: nisolo
+title: Why These Two Competitors Are Partnering to Launch a Movement of Transparency
+  in the Fashion Industry
 date: 2019-11-25 03:00:00 -08:00
 categories:
 - Conscious Living
