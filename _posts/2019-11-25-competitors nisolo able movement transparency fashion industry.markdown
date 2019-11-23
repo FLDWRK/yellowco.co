@@ -73,7 +73,7 @@ Knowing the lowest wage establishes a critical baseline and helps us understand 
 
 One of our closest competitors, [ABLE](https://www.livefashionable.com/), pioneered this thought around the importance of the lowest wage when they published the lowest wage of their Nashville, TN offices in October of 2018. Exactly one year later, just as ABLE gears up to publish the lowest wages of their factories in Ethiopia, we’re partnering with them to share the lowest wages in our supply chain as well. Because of the countless times we have seen firsthand the ways that receiving a living wage can completely transform the wellbeing of entire families, our hope is that one day, all brands will openly share the lowest wages within their factories and begin working toward making them 3rd party verified living wages.
 
-[LWC_TeamPhoto-1.JPG](/uploads/LWC_TeamPhoto-1.JPG)
+![team 2.jpeg](/uploads/team%202.jpeg)
 
 However, from a basic economics standpoint, Supply (that is, the industry naturally moving in the direction of living wages) will never fix itself. Rather, Demand must outpace and drive Supply forward. Put simply, unless consumers begin to step up and demand through their words and purchases a faster shift toward living wages from the brands they love, this change will continue to happen far too slowly at the expense of human dignity and wellbeing. 
 
