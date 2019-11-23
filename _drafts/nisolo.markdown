@@ -16,7 +16,7 @@ And, 75% of these workers are women between the ages of 18 and 24 _(Source: Fash
  
 Unfortunately, all of this means that the products we enjoy most – your favorite pair of jeans, your go-to pair of shoes, that first outfit worn when the laundry is done – were likely made by people who are unable to meet the basic needs of themselves and their children.
 
--
+![Nisolo_Lori_blackandsand3-1.jpg](/uploads/Nisolo_Lori_blackandsand3-1.jpg)
  
 #### 5 Ways Brands Are Actively Dodging Responsibility for Living Wages
  
@@ -32,7 +32,7 @@ However, minimum wages in many manufacturing countries within the fashion indust
 
 Some brands claim that paying workers a living wage is too difficult from an expense perspective, but that’s not entirely true. Studies show that it would only cost a brand 1-4% more per garment to ensure living wages across their supply chain _(Source: Oxfam, 2019)_.
 
--
+![CBP_3431-1.jpg](/uploads/CBP_3431-1.jpg)
  
 ###### 3. Brands dodge responsibility by saying the factory is responsible, not them. 
 
@@ -46,7 +46,7 @@ In other cases, major brands put the responsibility _on the workers themselves_,
 
 Brands claiming that providing a living wage is not possible because living wages are difficult to calculate is a sad excuse. While they may not be perfect, living wage global benchmarks such as WageIndicator and Trading Economics are widely available (and MIT publishes a public database that shares what a living wage is in every county of the U.S.). On top of using these resources, brands can simply ask their workers what their living expenses are and establish the lowest wage based on those figures. 
 
--
+![Nisolo_FW19_Lifestyle_2908_v1-1.jpg](/uploads/Nisolo_FW19_Lifestyle_2908_v1-1.jpg)
 
 Enough is enough. At the expense of human dignity and wellbeing, brands are not improving their practices fast enough. This must change. And, we believe this can change within our lifetime. 
 
@@ -58,7 +58,7 @@ Knowing the lowest wage establishes a critical baseline and helps us understand 
 
 One of our closest competitors, [ABLE](https://www.livefashionable.com/), pioneered this thought around the importance of the lowest wage when they published the lowest wage of their Nashville, TN offices in October of 2018. Exactly one year later, just as ABLE gears up to publish the lowest wages of their factories in Ethiopia, we’re partnering with them to share the lowest wages in our supply chain as well. Because of the countless times we have seen firsthand the ways that receiving a living wage can completely transform the wellbeing of entire families, our hope is that one day, all brands will openly share the lowest wages within their factories and begin working toward making them 3rd party verified living wages.
 
--
+[LWC_TeamPhoto-1.JPG](/uploads/LWC_TeamPhoto-1.JPG)
 
 However, from a basic economics standpoint, Supply (that is, the industry naturally moving in the direction of living wages) will never fix itself. Rather, Demand must outpace and drive Supply forward. Put simply, unless consumers begin to step up and demand through their words and purchases a faster shift toward living wages from the brands they love, this change will continue to happen far too slowly at the expense of human dignity and wellbeing. 
 
