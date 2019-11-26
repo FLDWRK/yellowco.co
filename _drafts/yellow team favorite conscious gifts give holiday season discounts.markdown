@@ -1,5 +1,5 @@
 ---
-title: Our Team’s Favorite Do-Good Gifts to Give This Holiday Season (With Discounts!)
+title: Our Team’s Favorite Do-Good Gifts to Give This Season (With Discounts!)
 date: 2019-12-02 03:00:00 -08:00
 categories:
 - Conscious Living
