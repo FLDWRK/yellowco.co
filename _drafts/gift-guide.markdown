@@ -10,8 +10,6 @@ It's that time of year again for thoughtful gift giving, and our team is so exci
 
 ###### Kacy's Faves | Our Director of Operations
 
-<br>
-
 ##### [Grey Labdanum Perfume by Abel](https://us.abelodor.com/shop/grey-labdanum/)
 
 Most people are aware that their skin carries a natural scent-- it's a science to discover exactly which notes in what scents will pull the best characteristics out of your own and blend to create something beautiful and long lasting! Abel has made a science out of doing just that, and has a line of fragrances that evolve to match the chemistry of your skin. Golden Neroli is my favorite spring and summer fragrance (read more about that [here](https://yellowco.co/blog/2018/12/14/16-non-toxic-perfumes-perfect-fragrance/)), but for winter it is hands down Grey Labdanum. It's a fresh and frosty scent, with just enough citrus top notes to balance the deeper patchouli heart notes and labdanum base notes that follow. As it is worn, it evolves from a sharp, clear scent into something smooth and rich. AND-- since all ingredients within Abel's fragrances are 100% natural, (rather than using harsh and potentially toxic ingredients), it safe to wear Abel all day, every day! 
@@ -38,11 +36,11 @@ The Original GOLDE blend is what I'm giving to my foodie friends - it makes the 
 
 ![CBP_9814 (1)-1.jpg](/uploads/CBP_9814%20(1)-1.jpg)
 
-#### The Amalia All Weather Boot by Nisolo 
+#### [The Amalia All Weather Boot by Nisolo](http://www.anrdoezrs.net/click-9216101-13855541) 
 
-From sandals to boots to heels, Nisolo ethically makes the most quality and comfortable shoes I own. The only problem is in rain or snow which is now solved with these all-weather boots. I might need to gift these to myself this year!
+From sandals to boots to heels, [Nisolo](http://www.jdoqocy.com/click-9216101-12504316) ethically makes the most quality and comfortable shoes I own. The only problem is in rain or snow which is now solved with [these all-weather boots](http://www.anrdoezrs.net/click-9216101-13855541). I might need to gift these to myself this year!
 
-**Get 15% off with code YELLOWCO15 through 1/4/20**
+**[Get 15% off with code YELLOWCO15 through 1/4/20](http://www.jdoqocy.com/click-9216101-12504316)**
 
 ![unnamed (1)-1cfff4.jpg](/uploads/unnamed%20(1)-1cfff4.jpg)
 
