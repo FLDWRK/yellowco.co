@@ -1,6 +1,44 @@
 ---
 title: gift guide
 date: 2019-12-02 03:00:00 -08:00
+categories:
+- Conscious Living
+tags:
+- gift guide
+- conscious holiday gift
+- ethical gifts
+- holiday gift
+- christmas gift guide
+- christmas shopping discounts
+- discounts
+- ethical
+- holiday
+- conscious
+- sustainable
+- clean wine
+- natural wine
+- home goods
+- mug
+- skincare
+- clean skincare
+- natural skincare
+- asarai
+- 31 bits
+- dry farm wines
+- nisolo
+- able
+- abel
+- perfume
+- clean perfume
+- ethical fashion
+- shoes
+- ethical leather
+- parker clay
+- golde
+- golden latte
+- haircare
+- natural hair product
+- missio
 author: Yellow Co.
 ---
 
