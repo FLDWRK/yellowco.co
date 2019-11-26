@@ -16,7 +16,7 @@ Most people are aware that their skin carries a natural scent-- it's a science t
 
 ![DSC_4450.jpg](/uploads/DSC_4450.jpg)
 
-##### The Make Your Own Bundle by Missio
+##### [The Make Your Own Bundle by Missio](https://www.missiohair.com/shopmissio/custombundle)
 
 As someone with hair that literally falls down past my waist, it's safe to assume that I have tried quite a few hair products. After visiting the marketplace and buying a bottle of Missio's dry shampoo at the 2019 Yellow Conference in LA, it quickly became a necessity. It smells faintly like coconut and keeps your hair fresh, but also gives your hair an amazing lift, which is great for people like me with hair that lays limp and flat! Not only do all of Missio's products smell and work amazing, it's great to know that a product as basic and necessary as shampoo or conditioner is helping in the fight against human trafficking! This Christmas the Yellow Community gets to enjoy 20% off of a special "make your own bundle" that includes shampoo + conditioner + one styling product! 
 
@@ -50,16 +50,28 @@ Speaking of quality, Parker Clay bags and goods are made to last and made with p
 
 Joanna
 
-31 Bits Speckled Mug
+![31 bits speckled sand ceramic mug 2 ethical goods-1.jpg](/uploads/31%20bits%20speckled%20sand%20ceramic%20mug%202%20ethical%20goods-1.jpg)
+
+##### [Speckled Ceramic Mug by 31 Bits](https://31bits.com/collections/home-gifts/products/speckled-sand-ceramic-mug?variant=30987083677779)
 
 I believe you can tell a lot about a person by looking at two things- their music choice and their coffee mug ;) If you’re anything like me, the holiday season is defined by my constantly clutching a coffee mug throughout 89% of the day. When something that spends that much time in my hands is ethically made by artisans in Bali, it literally makes my day that much better. This mug is just that, and it’s super cute too! Each mug is a little bit different, as they are each hand made one by one. This mug makes a meaningful and special companion to hang out with you throughout the entire winter season.
 
-Able Dress
+**[Take 25% off](https://31bits.com/discount/YELLOW25) with code YELLOW25 through 12/31/19**
+
+![Screen Shot 2019-11-26 at 8.55.39 AM.png](/uploads/Screen%20Shot%202019-11-26%20at%208.55.39%20AM.png)
+
+##### [Veda Dress by Able](https://www.livefashionable.com/collections/dresses-jumpsuits/products/veda-midi-dress?variant=30843713650768)
 
 Every girl needs a simple black dress. If you haven’t yet found your staple, THIS one will change your life. I wore this dress all throughout my pregnancy, and long after. It’s so simple that it makes it easy to dress up with heels and some red lipstick, or dress down with a messy bun and a pair of sandals. It is beyond soft and oh so comfy. I love this dress so much I have literally slept in it multiple times. Not to mention you can feel good wearing it (not just on the outside) because it’s ethically made! A must have for any season of any year.
 
 Hanna
 
-dry farm
+![wine.jpg](/uploads/wine.jpg)
 
-asarai 
+##### Natural Wine by Dry Farm Wines
+
+![ASARAI_3.jpg](/uploads/ASARAI_3.jpg)
+
+##### [Australian Red Clay Face Mask by Asarai](https://www.asarai.com/products/earth-tones-mask)
+
+**Get 20% off with code YELLOW20 through 1/1/20**
