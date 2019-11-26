@@ -68,7 +68,12 @@ Hanna
 
 ![wine.jpg](/uploads/wine.jpg)
 
-##### Natural Wine by Dry Farm Wines
+##### [Natural Wine by Dry Farm Wines](dryfarmwines.com/yellowco)
+
+You can get an extra bottle of wine for a penny with your first order [here](dryfarmwines.com/yellowco)
+
+order a wine box
+today only get our classic membership pricing on a one time purchase
 
 ![ASARAI_3.jpg](/uploads/ASARAI_3.jpg)
 
