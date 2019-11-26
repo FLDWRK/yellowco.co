@@ -24,9 +24,9 @@ As someone with hair that literally falls down past my waist, it's safe to assum
 
 **Get 20% off the Make Your Own Bundle with code: Yellow20 through 12/31/19**
 
-###### Kathryn's Faves | Our Director of Partnerships
-
 ![Screen Shot 2019-11-26 at 8.37.50 AM.png](/uploads/Screen%20Shot%202019-11-26%20at%208.37.50%20AM.png)
+
+###### Kathryn's Faves | Our Director of Partnerships
 
 ##### [Turmeric Tonic Blend by Golde](https://golde.co/products/golde-turmeric-powder)
 
@@ -50,9 +50,9 @@ Speaking of quality, Parker Clay bags and goods are made to last and made with p
 
 **Take $20 off a purchase of $100 or more with code yellowholiday20 through 12/31/19**
 
-###### Joanna's Faves | Our Founder
-
 ![31 bits speckled sand ceramic mug 2 ethical goods-1.jpg](/uploads/31%20bits%20speckled%20sand%20ceramic%20mug%202%20ethical%20goods-1.jpg)
+
+###### Joanna's Faves | Our Founder
 
 ##### [Speckled Ceramic Mug by 31 Bits](https://31bits.com/collections/home-gifts/products/speckled-sand-ceramic-mug?variant=30987083677779)
 
@@ -66,9 +66,9 @@ I believe you can tell a lot about a person by looking at two things- their musi
 
 Every girl needs a simple black dress. If you haven’t yet found your staple, THIS one will change your life. I wore this dress all throughout my pregnancy, and long after. It’s so simple that it makes it easy to dress up with heels and some red lipstick, or dress down with a messy bun and a pair of sandals. It is beyond soft and oh so comfy. I love this dress so much I have literally slept in it multiple times. Not to mention you can feel good wearing it (not just on the outside) because it’s ethically made! A must have for any season of any year.
 
-###### Hanna's Faves | Our Director of Communications
-
 ![wine.jpg](/uploads/wine.jpg)
+
+###### Hanna's Faves | Our Director of Communications
 
 ##### [Natural Wine by Dry Farm Wines](dryfarmwines.com/yellowco)
 
