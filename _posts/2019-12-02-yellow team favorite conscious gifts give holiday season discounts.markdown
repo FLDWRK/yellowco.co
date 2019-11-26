@@ -97,7 +97,7 @@ From sandals to boots to heels, [Nisolo](http://www.jdoqocy.com/click-9216101-12
 
 ##### [Turmeric Tonic Blend by Golde](https://golde.co/products/golde-turmeric-powder)
 
-The [Original Golde blend](https://golde.co/products/golde-turmeric-powder) is what I'm giving to my foodie friends this season. It makes the coziest golden lattes, and has tons of nourishing ingredients that are also great to cook with (turmeric, coconut, ginger, cinnamon, and black pepper to name a few!). I love adding it to chopped up sweet potatoes popped in the oven with coconut oil, smoothies, and so many other dishes – you gotta try it! Golde makes a variety of all natural, superfood-boosted essentials, all of which would make the perfect gift!
+The [Original Golde blend](https://golde.co/products/golde-turmeric-powder) is what I'm giving to my foodie friends this season. It makes the coziest golden lattes, and has tons of nourishing ingredients that are also great to cook with (turmeric, coconut, ginger, cinnamon, and black pepper to name a few!). I love adding it to chopped up sweet potatoes popped in the oven with coconut oil, smoothies, and so many other dishes – you gotta try it! [Golde](https://golde.co/) makes a variety of all natural, superfood-boosted essentials, all of which would make the perfect gift!
 
 **Grab 15% off with code YELLOWCO through 12/31/19**
 
@@ -124,3 +124,5 @@ I believe you can tell a lot about a person by looking at two things - their mus
 ##### [Veda Dress by ABLE](https://www.livefashionable.com/collections/dresses-jumpsuits/products/veda-midi-dress?variant=30843713650768)
 
 Every girl needs a simple black dress. If you haven’t found your staple yet, THIS one will change your life. I wore [this dress](https://www.livefashionable.com/collections/dresses-jumpsuits/products/veda-midi-dress?variant=30843713650768) all throughout my pregnancy, and long after. It’s so simple that it makes it easy to dress up with heels and some red lipstick, or dress down with a messy bun and a pair of sandals. It is beyond soft and oh so comfy. I love this dress so much, I have literally slept in it multiple times. Not to mention, you can feel good wearing it (not just on the outside) because all of [ABLE'S](https://www.livefashionable.com/) products are ethically made! It makes a perfect gift for your friend, sister, or yourself to wear during any season of the year! 
+
+**Get 20% off with code YELLOW20 through 12/31/19**
