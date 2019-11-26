@@ -40,6 +40,7 @@ tags:
 - natural hair product
 - missio
 author: Yellow Co.
+image: "/uploads/gif.gif"
 ---
 
 It's that time of year again for thoughtful gift giving, and our team is so excited to share our faves of the season with you! We have so much opportunity during the holidays to be conscious of the impact our purchases have, and to mindfully choose the brands, and products, we want to support. This year, each member on our team has rounded up a few of their favorite items to gift, all from brands that truly inspire, motivate, and excite us by the incredible impact each of them are making in the world. Plus – we have discounts for you to save with for each brand below! Happy holidays & happy thoughtful shopping!
