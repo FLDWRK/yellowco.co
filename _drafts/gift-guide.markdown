@@ -4,9 +4,11 @@ date: 2019-12-02 03:00:00 -08:00
 author: Yellow Co.
 ---
 
-Kacy
+It's that time of year again for thoughtful gift giving, and our team is so excited to share our faves of the season with you! We have so much opportunity during the holidays to be conscious of the impact our purchases have, and to mindfully choose the brands, and products, we want to support. This year, each member on our team has rounded up a few of their favorite items to gift, all from brands that truly inspire, motivate, and excite us by the incredible impact each of them are making in the world. Plus – we have discounts for you to save with for each brand below! Happy holidays & happy thoughtful shopping!
 
 ![Abel2088-1.jpg](/uploads/Abel2088-1.jpg)
+
+###### Kacy's Faves | Our Director of Operations
 
 ##### [Grey Labdanum Perfume by Abel](https://us.abelodor.com/shop/grey-labdanum/)
 
@@ -22,7 +24,7 @@ As someone with hair that literally falls down past my waist, it's safe to assum
 
 **Get 20% off the Make Your Own Bundle with code: Yellow20 through 12/31/19**
 
-Kathryn
+###### Kathryn's Faves | Our Director of Partnerships
 
 ![Screen Shot 2019-11-26 at 8.37.50 AM.png](/uploads/Screen%20Shot%202019-11-26%20at%208.37.50%20AM.png)
 
@@ -48,7 +50,7 @@ Speaking of quality, Parker Clay bags and goods are made to last and made with p
 
 **Take $20 off a purchase of $100 or more with code yellowholiday20 through 12/31/19**
 
-Joanna
+###### Joanna's Faves | Our Founder
 
 ![31 bits speckled sand ceramic mug 2 ethical goods-1.jpg](/uploads/31%20bits%20speckled%20sand%20ceramic%20mug%202%20ethical%20goods-1.jpg)
 
@@ -64,7 +66,7 @@ I believe you can tell a lot about a person by looking at two things- their musi
 
 Every girl needs a simple black dress. If you haven’t yet found your staple, THIS one will change your life. I wore this dress all throughout my pregnancy, and long after. It’s so simple that it makes it easy to dress up with heels and some red lipstick, or dress down with a messy bun and a pair of sandals. It is beyond soft and oh so comfy. I love this dress so much I have literally slept in it multiple times. Not to mention you can feel good wearing it (not just on the outside) because it’s ethically made! A must have for any season of any year.
 
-Hanna
+###### Hanna's Faves | Our Director of Communications
 
 ![wine.jpg](/uploads/wine.jpg)
 
