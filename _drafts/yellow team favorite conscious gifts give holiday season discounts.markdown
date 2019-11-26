@@ -67,25 +67,25 @@ As someone with hair that literally falls down past my waist, it's safe to assum
 
 ###### Hanna's Faves | Our Director of Communications
 
-##### [Natural Wine by Dry Farm Wines](dryfarmwines.com/yellowco)
+##### [Natural Wine by Dry Farm Wines](https://www.dryfarmwines.com/pages/pennybottlelp?rfsn=2696666.b75923)
 
-Anyone who knows me knows I love a good glass of wine – whether over dinner with friends, to sip on while cooking, or to bring along to any holiday party. Over the years I've tried more and more natural wines, and I truly can't go back. To me, the taste is _so_ much cleaner, smoother, and of course, safer to drink knowing that Dry Farm Wines are all natural, and are free of additives and added sugar. One of their wine boxes would make an absolutely perfect gift for any wine-lover you know.
+Anyone who knows me knows I love a good glass of wine – whether over dinner with friends, to sip on while cooking, or to bring along to any holiday party. Over the years I've tried more and more natural wines, and I truly can't go back. To me, the taste is _so_ much cleaner, smoother, and of course, safer to drink knowing that [Dry Farm Wines](https://www.dryfarmwines.com/pages/pennybottlelp?rfsn=2696666.b75923) are all natural, and are free of additives and added sugar. One of their wine boxes would make an absolutely perfect gift for any wine-lover you know.
 
-**[With your first order, grab an extra bottle of wine for only a penny here!](dryfarmwines.com/yellowco)**
+**On your first order, grab an extra bottle of wine for only a penny [here!](https://www.dryfarmwines.com/pages/pennybottlelp?rfsn=2696666.b75923)**
 
-**Today only (12/2), you can order a single wine box at Dry Farm's classic membership pricing by [heading here](dryfarmwines.com/cybermonday?rfsn=2696666.b75923).**
+**Today only (12/2), you can order a single wine box at Dry Farm's classic membership pricing by [heading here](https://www.dryfarmwines.com/cybermonday?rfsn=2696666.b75923).**
 
 ![ASARAI_3.jpg](/uploads/ASARAI_3.jpg)
 
 ##### [Australian Red Clay Face Mask by Asarai](https://www.asarai.com/products/earth-tones-mask)
 
-I tend to be picky about many things, but skincare is definitely at the top of the list. After testing out many different brands over the years (and having some scary results along the way), once I find great quality, affordable products that work, you better believe I'm sticking with them. This clay mask by Asarai is natural, fragrance-free, toxin-free, and seriously leaves your face glowing and _so_ soft. I've loved adding it into my routine (you only leave it on for about 10 minutes!) and would highly recommend gifting it to someone you love (or yourself!) this season. 
+I tend to be picky about many things, but skincare is definitely at the top of the list. After testing out many different brands over the years (and having some scary results along the way), once I find great quality, natural, affordable products that work, you better believe I'm sticking with them. This [clay mask](https://www.asarai.com/products/earth-tones-mask) by [Asarai](https://www.asarai.com/) is natural, fragrance-free, toxin-free, and seriously leaves your face glowing and _so_ soft. I've loved adding it into my routine (you only leave it on for about 10 minutes!) and would highly recommend gifting it to someone you love (or yourself!) this season. 
 
 **Get 20% off with code YELLOW20 through 1/1/20**
 
-###### Kathryn's Faves | Our Director of Partnerships
-
 ![CBP_9814 (1)-1.jpg](/uploads/CBP_9814%20(1)-1.jpg)
+
+###### Kathryn's Faves | Our Director of Partnerships
 
 #### [The Amalia All Weather Boot by Nisolo](http://www.anrdoezrs.net/click-9216101-13855541) 
 
