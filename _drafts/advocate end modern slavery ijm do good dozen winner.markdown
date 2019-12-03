@@ -37,7 +37,7 @@ After that, I just kept saying, "yes" to any action big or small. Eventually, I 
  
 My role as an Advocacy Coordinator is to equip and mobilize people in using their collective voices to support IJM’s mission. The U.S. Government holds a unique and influential place in the global landscape to confront atrocities and effect change. Our elected leaders can make a difference by passing bills that address the unprecedented abuse and violence of the most vulnerable people around the world. Recently, I went to Washington DC with hundreds of other IJM Volunteers from around the nation to lobby on Capitol Hill for H.R. 2836, a bi-partisan bill which would provide crucial funding to protect women and children from violence in Central America. Importantly, I work alongside IJM’s incredibly gifted and passionate staff members who are continually connecting with our Legislators fueling the fight against slavery and violence. Together, IJM has helped secure crucial funding and support for compact acts and the Global Fund to End Modern Slavery Initiative, which is the biggest anti-slavery bill passed in the last 20 years.
 
-![MAIN JB Profile PHOTO Dressy2-  (1)-1.jpg](/uploads/MAIN%20JB%20Profile%20PHOTO%20Dressy2-%20%20(1)-1.jpg)
+![JoyatHarris Office 2017 Summit.jpg](/uploads/JoyatHarris%20Office%202017%20Summit.jpg)
  
 ###### Are there any skills you acquired during your time in the entertainment industry that you utilize today? 
 
