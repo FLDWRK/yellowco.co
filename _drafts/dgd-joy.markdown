@@ -14,6 +14,8 @@ I am a California native from a family of nine children raised in a low-income n
 
 After that, I just kept saying, "yes" to any action big or small. Eventually, I was asked to join the volunteer team as the Advocacy Coordinator, along with other passionate leaders across the nation who are looking to put slavery out of business for good.
 
+![2019 Advocacy Summit-SoCal Team.jpg](/uploads/2019%20Advocacy%20Summit-SoCal%20Team.jpg)
+
 ###### What does your daily work look like as an Advocacy Coordinator? 
  
 My role as an Advocacy Coordinator is to equip and mobilize people in using their collective voices to support IJM’s mission. The U.S. Government holds a unique and influential place in the global landscape to confront atrocities and effect change. Our elected leaders can make a difference by passing bills that address the unprecedented abuse and violence of the most vulnerable people around the world. Recently, I went to Washington DC with hundreds of other IJM Volunteers from around the nation to lobby on Capitol Hill for H.R. 2836, a bi-partisan bill which would provide crucial funding to protect women and children from violence in Central America. Importantly, I work alongside IJM’s incredibly gifted and passionate staff members who are continually connecting with our Legislators fueling the fight against slavery and violence. Together, IJM has helped secure crucial funding and support for compact acts and the Global Fund to End Modern Slavery Initiative, which is the biggest anti-slavery bill passed in the last 20 years.
@@ -28,13 +30,17 @@ Last year at IJM’s 20th Year Anniversary event called “Liberate” I was abl
 
 ### Her story was evidence that our voice truly matters. I will never forget that moment. 
 
+![Liberate 2018.jpg](/uploads/Liberate%202018.jpg)
+
 ###### As you mentioned, you helped the Child Protection Compact Act pass into law. What did that process look like and what does it mean for children in the Philippines? 
  
 One of my first advocacy meetings was with Senator Dianne Feinstein’s office in Los Angeles. When I sat down at the table, I felt so nervous. I thought, “I have clearly lost my mind, who am I to speak to the halls of power?” I pushed past the fear and shared about the Child Protection Compact Act and asked for the Senator’s support. That bill passed, which then provided important funding to create a special task force to address sex trafficking in the Philippines. That task force was the one that helped save the survivor I met last October. 
 
 ### Since IJM’s work began in the Philippines, they have rescued over 1,450 children who were being sex trafficked. 
 
-IJM’s advocacy has helped the Women and Children’s Protection Center in the Philippines realize a 182% increase in personnel since 2016. There is still more work to be done – this is just the beginning. 
+IJM’s advocacy has helped the Women and Children’s Protection Center in the Philippines realize a 182% increase in personnel since 2016. There is still more work to be done – this is just the beginning.
+
+![IMG_2187.jpg](/uploads/IMG_2187.jpg) 
 
 ###### Any advice for those looking to create meaningful work, whether that be in their daily lives, career, or interests?  
 
@@ -47,6 +53,8 @@ I am on a lifelong mission of becoming my best self. For me it takes having flex
 1. Staying present. In a driven, digitally connected, and fast-paced world, I can feel pulled in so many directions. In those moments I must choose to be present over productive and that enables me to view life in a whole new way.
 2. Staying inspired. I still love reading books from historical heroes and people who have overcome overwhelming odds. It helps me to step out of my own headspace and realize that I am part of a beautiful tapestry being woven together with some incredible human beings.  
 3. Staying thankful. Science backs the fact that thankful people are more resilient, peaceful, and happier. Every morning, before I get out of bed I just whisper, “Thank you, thank you, thank you.” I also have a gratitude journal and I write down what I am thankful for every day. Always be grateful.
+
+![MAIN JB Profile PHOTO Dressy2-  (1)-1.jpg](/uploads/MAIN%20JB%20Profile%20PHOTO%20Dressy2-%20%20(1)-1.jpg)
 
 ###### How can we help bring awareness to this issue and support IJM? 
 
