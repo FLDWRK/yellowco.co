@@ -1,5 +1,6 @@
 ---
-title: 'Fighting for Freedom: Meet IJM Advocacy Coordinator & Do-Good Dozen Winner'
+title: 'Fighting for Freedom from Modern Slavery: Meet Ijm Advocacy Coordinator &
+  Do-Good Dozen Winner'
 date: 2019-12-09 03:00:00 -08:00
 categories:
 - Culture
