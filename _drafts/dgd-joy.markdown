@@ -8,7 +8,11 @@ image: "/uploads/joy.jpg"
 
 ###### Tell us a little about yourself and how you came to volunteer with IJM. 
 
-I am a California native from a family of nine children raised in a low-income neighborhood, so I would say my road to IJM started long ago when I was a child. My father immigrated from Nigeria and my Mom is from the South, and throughout my life I was taught not only to work hard but to also care for the underdog. When I learned that there are nearly 40 million people still living in slavery, I knew I had to do something. A problem that big and complex can feel paralyzing, but I just started with what I had and asked IJM, “What can I do?” After that, I just kept saying, "yes" to any action big or small. Eventually, I was asked to join the volunteer team as the Advocacy Coordinator, along with other passionate leaders across the nation who are looking to put slavery out of business for good.
+I am a California native from a family of nine children raised in a low-income neighborhood, so I would say my road to IJM started long ago when I was a child. My father immigrated from Nigeria and my Mom is from the South, and throughout my life I was taught not only to work hard but to also care for the underdog. When I learned that there are nearly 40 million people still living in slavery, I knew I had to do something. 
+
+### A problem that big and complex can feel paralyzing, but I just started with what I had and asked IJM, “What can I do?” 
+
+After that, I just kept saying, "yes" to any action big or small. Eventually, I was asked to join the volunteer team as the Advocacy Coordinator, along with other passionate leaders across the nation who are looking to put slavery out of business for good.
 
 ###### What does your daily work look like as an Advocacy Coordinator? 
  
