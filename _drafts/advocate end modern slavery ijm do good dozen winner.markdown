@@ -21,6 +21,7 @@ author: Kathryn Parrish
 image: "/uploads/joy.jpg"
 ---
 
+_intro_
 
 ###### Tell us a little about yourself and how you came to volunteer with IJM. 
 
