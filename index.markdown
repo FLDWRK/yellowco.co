@@ -5,17 +5,17 @@ body-class: home
 banners:
 - link: https://www.universe.com/events/merry-bright-2019-tickets-PCZKGT/
   image: "/uploads/Web-Large.jpg"
+- link: https://yellowco.co/blog/2019/12/02/yellow-team-favorite-conscious-gifts-give-holiday-season-discounts/
+  image: "/uploads/Gift-Guide"
 - link: "/membership"
   image: "/assets/images/membership-link.jpg"
-- link: https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/
-  image: "/uploads/IJM-blog.jpg"
 sm-banners:
 - link: https://www.universe.com/events/merry-bright-2019-tickets-PCZKGT/
   image: "/uploads/Web-Small.jpg"
+- link: https://yellowco.co/blog/2019/12/02/yellow-team-favorite-conscious-gifts-give-holiday-season-discounts/
+  image: "/uploads/Gift-Guide-Small"
 - link: "/membership"
   image: "/assets/images/membership-link-sm.jpg"
-- link: https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/
-  image: "/uploads/IJM-Bammer-Small.jpg"
 buttons:
 - text: Become a Member
   link: "/membership"
