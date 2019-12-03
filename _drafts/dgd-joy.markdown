@@ -4,6 +4,19 @@ title: 'Fighting for Freedom from Modern Slavery: Meet Ijm Advocacy Coordinator 
 date: 2019-12-09 03:00:00 -08:00
 categories:
 - Culture
+tags:
+- ijm
+- international justice mission
+- sex trafficking
+- end human trafficking
+- human trafficking
+- eliminating sex trafficking
+- volunteer
+- california
+- senator
+- advocacy
+- non-profit
+- do-good dozen
 author: Kathryn Parrish
 image: "/uploads/joy.jpg"
 ---
