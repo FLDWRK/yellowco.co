@@ -19,6 +19,8 @@ After that, I just kept saying, "yes" to any action big or small. Eventually, I 
 ###### What does your daily work look like as an Advocacy Coordinator? 
  
 My role as an Advocacy Coordinator is to equip and mobilize people in using their collective voices to support IJM’s mission. The U.S. Government holds a unique and influential place in the global landscape to confront atrocities and effect change. Our elected leaders can make a difference by passing bills that address the unprecedented abuse and violence of the most vulnerable people around the world. Recently, I went to Washington DC with hundreds of other IJM Volunteers from around the nation to lobby on Capitol Hill for H.R. 2836, a bi-partisan bill which would provide crucial funding to protect women and children from violence in Central America. Importantly, I work alongside IJM’s incredibly gifted and passionate staff members who are continually connecting with our Legislators fueling the fight against slavery and violence. Together, IJM has helped secure crucial funding and support for compact acts and the Global Fund to End Modern Slavery Initiative, which is the biggest anti-slavery bill passed in the last 20 years.
+
+![MAIN JB Profile PHOTO Dressy2-  (1)-1.jpg](/uploads/MAIN%20JB%20Profile%20PHOTO%20Dressy2-%20%20(1)-1.jpg)
  
 ###### Are there any skills you acquired during your time in the entertainment industry that you utilize today? 
 
@@ -30,7 +32,7 @@ Last year at IJM’s 20th Year Anniversary event called “Liberate” I was abl
 
 ### Her story was evidence that our voice truly matters. I will never forget that moment. 
 
-![Liberate 2018.jpg](/uploads/Liberate%202018.jpg)
+![IMG_0150.jpg](/uploads/IMG_0150.jpg)
 
 ###### As you mentioned, you helped the Child Protection Compact Act pass into law. What did that process look like and what does it mean for children in the Philippines? 
  
