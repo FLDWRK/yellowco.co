@@ -21,7 +21,7 @@ author: Kathryn Parrish
 image: "/uploads/joy.jpg"
 ---
 
-_If you attended our NY or LA conferences this year, you heard from [IJM's Creative Director](https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/), Vera Leung, about the issue affecting millions of people not only far away, but in the very cities where we live – human trafficking and modern slavery. As we end this year of our Do-Good Dozen awards we honor IJM’s Advocacy Coordinator for the [IJM Southern California Volunteer team](https://www.ijm.org/), Joy Collins-Brodt, for the incredible work both she and IJM do rescuing and getting justice for these victims. Read on to hear about Joy’s career-shift, lobbying on Capitol Hill, and my personal favorite takeaway: “If you are operating in your strengths and talents - that is meaningful.”_
+_If you attended our NY or LA conferences this year, you heard from [IJM's Creative Director](https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/), Vera Leung, about the issue affecting millions of people not only far away, but in the very cities where we live – human trafficking and modern slavery. As we end this year of our Do-Good Dozen awards, we honor IJM’s Advocacy Coordinator for the [IJM Southern California Volunteer team](https://www.ijm.org/), Joy Collins-Brodt, for the incredible work both she and IJM do rescuing and getting justice for these victims. Read on to hear about Joy’s career-shift, lobbying on Capitol Hill, and my personal favorite takeaway: “If you are operating in your strengths and talents - that is meaningful.”_
 
 ###### Tell us a little about yourself and how you came to volunteer with IJM. 
 
@@ -55,8 +55,7 @@ Last year at IJM’s 20th Year Anniversary event called “Liberate” I was abl
  
 One of my first advocacy meetings was with Senator Dianne Feinstein’s office in Los Angeles. When I sat down at the table, I felt so nervous. I thought, “I have clearly lost my mind, who am I to speak to the halls of power?” I pushed past the fear and shared about the Child Protection Compact Act and asked for the Senator’s support. That bill passed, which then provided important funding to create a special task force to address sex trafficking in the Philippines. That task force was the one that helped save the survivor I met last October. 
 
-### [Since IJM’s work began in the Philippines, they have rescued over 1,450 children who were being sex trafficked. 
-](https://www.ijm.org/news/ijm-announces-grant-from-u-s-department-of-state-to-address-online-sexual-exploitation-of-children-and-child-labor-trafficking-in-the-philippines)
+### [Since IJM’s work began in the Philippines, they have rescued over 1,450 children who were being sex trafficked.](https://www.ijm.org/news/ijm-announces-grant-from-u-s-department-of-state-to-address-online-sexual-exploitation-of-children-and-child-labor-trafficking-in-the-philippines)
 
 IJM’s advocacy has helped the Women and Children’s Protection Center in the Philippines realize a 182% increase in personnel since 2016. There is still more work to be done – this is just the beginning.
 
