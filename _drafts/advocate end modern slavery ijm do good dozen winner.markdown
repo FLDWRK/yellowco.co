@@ -21,7 +21,7 @@ author: Kathryn Parrish
 image: "/uploads/joy.jpg"
 ---
 
-_intro_
+_If you attended our NY or LA conferences this year, you heard from [IJM's Creative Director](https://yellowco.co/blog/2019/08/05/stopping-slavery-storytelling-IJM-creative-director-yellow-speaker/), Vera Leung, about the issue affecting millions of people not only far away, but in the very cities where we live – human trafficking and modern slavery. As we end this year of our Do-Good Dozen awards we honor IJM’s Advocacy Coordinator for the [IJM Southern California Volunteer team](https://www.ijm.org/), Joy Collins-Brodt, for the incredible work both she and IJM do rescuing and getting justice for these victims. Read on to hear about Joy’s career-shift, lobbying on Capitol Hill, and my personal favorite takeaway: “If you are operating in your strengths and talents - that is meaningful.”_
 
 ###### Tell us a little about yourself and how you came to volunteer with IJM. 
 
@@ -80,4 +80,6 @@ I am on a lifelong mission of becoming my best self. For me it takes having flex
 
 Start with what you have, where you are, and with who you are. What are your strengths, gifts and talents? I highly recommend finding organizations that are already doing great work and volunteering for them. Keep learning more about issues of slavery and how our consumption of certain products is directly linked to trafficking - from coffee, to clothing, to electronic products. You can also apply to join a local IJM volunteer team which is a great way to get involved in the wonderful work happening around the globe. For more information you can email advocacy@ijm.org or [head here](https://myijm.secure.force.com/Volunteers/).  
  
-_Photos are a courtesy of Joy Collins-Brodt and International Justice Mission_
+_Photos are a courtesy of Joy Collins-Brodt and [International Justice Mission](https://www.ijm.org/)_
+
+_No matter your skills or career, there is always a way to advocate for issues you’re passionate about! This month, women from our Yellow community are participating in [Dressember](https://www.dressember2019.org/team/yellow-does-dressember), a global anti-human trafficking campaign, to raise funds and awareness for organizations like IJM! [Head here](https://www.dressember2019.org/team/yellow-does-dressember) to learn more and donate._
