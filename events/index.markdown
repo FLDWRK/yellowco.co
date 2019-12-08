@@ -11,14 +11,10 @@ events:
   location: Downtown LA, Naked Eye Studio
   when: December 12th
   url: https://www.universe.com/events/merry-bright-2019-tickets-PCZKGT/
-- title: SACRED COMMERCE RETREAT with TERCES  ENGELHART
-  location: The Coachman Hotel, Lake Tahoe
-  when: NOVEMBER 7-10, 2019
-  url: http://yellowco.co/retreats
-- title: BALI SMALL BUSINESS OWNER RETREAT
-  location: 'Bali, Indonesia '
-  when: February 2020
-  url: http://yellowco.co/retreats
+- title: THE YELLOW CONFERENCE LA
+  location: LOS ANGELES, CA
+  when: AUGUST 27TH & 28TH
+  url: 
 layout: custom/events
 ---
 
