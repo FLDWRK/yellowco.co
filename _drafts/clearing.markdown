@@ -24,8 +24,62 @@ When they are ready we ask them the second question, which if you are familiar w
  
 The final step is to acknowledge the person. Our view of acknowledgment is not based in something being done, but rather for a way of being, or a quality. We have learned that you can acknowledge anyone for any way of being; kind, supportive, compassionate, generous, loving, and when you do that quality actually arises in them. We know this to be true when you think about it, if someone is criticized frequently, doubt, insecurity and lack of confidence shows up, just as when someone is appreciated, called kind or generous they begin to embody those qualities. Then they switch and the other person gets “cleared.”
  
-Here is a link to our clearing instructions so you can actually try it yourself. Be patient, take it step by step and keep practicing, you will experience the difference for yourself.  
+Below are our instructions for clearing so you can actually try it yourself. Be patient, take it step by step and keep practicing, you will experience the difference for yourself.  
  
--
+###### Step One
+
+Preparation. Get yourself cleared. This can be done with the first person you clear in the day.
+
+###### Step Two
+
+“Be with” the person you are clearing, notice any resistance to looking at one another in the eyes. Just “be there”, don’t add anything. Take a breath  together. That is the Sacred, love, (your word for God), over there having another human experience. Be honored and honoring. If you are clearing by phone you can ask the person if they are ready and committed to being cleared.
+
+###### Step Three
+
+Ask them what they are present to. There are many ways to say this. Our District Manager chooses a different question every day. The first questions deals with the shadow, the wound. This question is designed to distinguish how the habitual mind is creating separation. It begins to cultivate an awareness that one’s internal dialogue is just a repetitive mechanism intended to evoke fragmentation.
+- What are you present to?
+- What is in the way of you being here right now?
+- What version of something’s wrong or something’s missing are you listening to?
+- What would you love to be forgiven for?
+- What‘s your biggest disappointment?
+- What’s your biggest fear?
+- Who do you gossip about?
+- Where or with whom are stingy? 
+- What are you resisting? 
+
+If the person you are clearing stays conceptual or talking about something rather then in their experience, ask them what that feels like. Example: 
+
+Clearer: “What are you present too?”
+Being cleared: “My mother in law is coming tonight and my house is a wreck.”
+
+Clearer: What I hear you saying is that your mother in law is coming tonight and that your house is a wreck. Then ask them: How does that feel or what is that experience like?
+Being cleared: “I feel ashamed about my house and I’m afraid to be judged.”
+
+Clearer: What I hear you saying is that you feel ashamed about the house and that you are afraid to be judged.
+
+Now the one being cleared is more in their experience. They have moved from their head to their heart.
+
+###### Step Four
+
+Listen\Recreation. Just listen, don’t fix. Recreate what they said verbatim. Like in the above example. Let them know you got the communication. Let them be heard. The easiest way to derail a clearing is to try and fix the one being cleared. In the above example, if I had offered to send over a cleaning service, I would have validated the story the one being cleared was living in. I would have moved the attention from their consciousness, (something they have control over) to the circumstances. That would only deepen the illusion that life is about getting the conditions right. Trying to master the circumstances is the source of scarcity and suffering. Mastering being is the source of freedom. Do not coach in a clearing. 
+
+###### Step Five
+
+Creating something new. This question is an opportunity to shift one’s attention to something new. To get present now. To love one’s life.
+- What are you grateful for?
+- What do you want to be acknowledged for?
+- What do you love about your life?
+- What is blessed about your life?
+- What does your community love about you?
+- What do you love about your mother?
+- What moves you?
+- What inspires you?
+- If money were no consideration, what would your life be for?
+
+###### Step Six
+
+Acknowledge them. Thank them for being there, for their commitment. Be moved. When you are moved they are clear. This is perhaps the most important step. Sometimes the clearing all happens right here. Remember there doesn’t have to be evidence for acknowledgment. Acknowledgment is a space that the clearer creates in their speaking for the one being cleared to step into. The clearer's job is to dig deep, to be moved by the person who comes to work every day. Be moved by that spiritual being over there who's having a human experience. Be present that they are doing the best they can with the life they have. Acknowledge them. If you are moved by the acknowledgment you can be pretty sure they are clear. 
+
+The clearing is a privilege. As an employer of over 200 employees, my job is mostly keeping people clear and inspired. If my people and my community are inspired the work gets done. To save time, clearing can happen in a group. The manager sits with the group, has people pair up, a takes them through the steps. The pairs clear each other.
  
 This practice has created a community that not only works well together but cares for one another. The connection between co-workers is palpable. Our people feel heard, valued and appreciated, which we believe makes all the difference in the quality of their lives. Dip your toe in start acknowledging the people in your family, your business, your circle of friends, and remember to make it for a way of being or quality and watch what happens. 
