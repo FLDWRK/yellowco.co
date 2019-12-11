@@ -4,6 +4,28 @@ title: Cafe Gratitude Coworkers Use This Practice with Each Other to Connect & F
 date: 2019-12-16 03:00:00 -08:00
 categories:
 - Growth
+tags:
+- Café Gratitude
+- Café Gratitude founder
+- Gracias Madre
+- coworkers
+- practice
+- connection
+- growth
+- team
+- strengthen team
+- feel seen
+- heard
+- acknowledge
+- tools
+- relationships
+- team building
+- work
+- employees
+- leadership
+- guide
+- appreciate
+- conversation
 author: Terces Engelhart
 image: "/uploads/ValerieDenisePhotos-54.jpg"
 ---
