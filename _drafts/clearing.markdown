@@ -1,5 +1,6 @@
 ---
-title: clearing
+title: Cafe Gratitude Coworkers Use This Practice with Each Other to Connect & Feel
+  Seen
 date: 2019-12-16 03:00:00 -08:00
 categories:
 - Growth
@@ -60,11 +61,10 @@ Ask them what they are present to. There are many ways to say this. Our District
 
 If the person you are clearing stays conceptual, or talking about something, rather than being in their experience, ask them what that feels like. Example: 
 
-**Clearer:** “What are you present to?”
+**Clearer:** “What are you present to?”  
 **Person being cleared:** “My mother in law is coming tonight and my house is a wreck.”
 
-**Clearer:** "What I hear you saying is that your mother in law is coming tonight and that your house is a wreck." 
-Then ask them: How does that feel, or what is that experience like?
+**Clearer:** "What I hear you saying is that your mother in law is coming tonight and that your house is a wreck." Then ask them: How does that feel, or what is that experience like?  
 **Being cleared:** “I feel ashamed about my house and I’m afraid to be judged.”
 
 **Clearer:** "What I hear you saying is that you feel ashamed about the house, and that you are afraid to be judged."
