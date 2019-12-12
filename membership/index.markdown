@@ -1,6 +1,6 @@
 ---
 title: Membership
-position: 5
+position: 11
 nav:
   id: membership
   site:

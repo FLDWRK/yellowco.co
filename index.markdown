@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 4
+position: 10
 body-class: home
 banners:
 - link: https://www.universe.com/events/merry-bright-2019-tickets-PCZKGT/

@@ -1,6 +1,6 @@
 ---
 title: Conference
-position: 7
+position: 14
 custom_page_title: 2018 Yellow Conference in Los Angeles, CA
 keywords: yellow, collective, conference, work, entrepreneurship, social good, bloom,
   women, woman, entrepreneur, creative, inspiration, gathering, event, Los Angeles,

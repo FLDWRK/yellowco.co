@@ -1,5 +1,6 @@
 ---
 title: Upcoming Events
+position: 0
 nav:
   id: events
   site:

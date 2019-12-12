@@ -1,6 +1,6 @@
 ---
 title: Blog
-position: 0
+position: 6
 nav:
   id: blog
   site:
