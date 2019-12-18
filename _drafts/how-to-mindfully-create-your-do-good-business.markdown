@@ -14,11 +14,11 @@ To help you avoid good- or green-washing, I’ve outlined four common business m
 
 A health and wellness or activity based retreat or where people focus on skill based learning, empowerment exercises or coaching. The trip may have a community or environment component “give-back” and is focused on driving tourism to the region. These can either take place in a destination that haven’t hit the mainstream travel market yet to save on cost and offer an “authentic” experience or in a destination known for retreats and self-development experiences.
 
-##### A Problematic Case Example:
+###### A Problematic Case Example:
 
 You create a diving and yoga retreat on an island in Indonesia and the profits help fund a local coral conservation project. But you haven't thought to survey the community where you're running these trips on if they want to embrace the tourism industry, and you haven’t made sure they have the necessary facilities and systems to support tourism. Your trips are a hit and now the community is faced with an influx of people who are creating a bigger strain on their resources. 
 
-##### Starter Questions:
+###### Starter Questions:
 
 Have you had feedback and approval from the community and addressed areas of concern? 
 
@@ -35,15 +35,15 @@ Are you treating your on the ground employees or contractors with the same stand
 
 A product (or line of products) that the sale of contributes to solutions for a social or environmental cause. With social causes, sometimes for every item purchased a similar item will go to a person in need of the product. With environmental causes, the sale of a product raises funds, sometimes the product is an unrelated item like a bracelet. The item will be heavily branded with a recognizable design so the wearer can show that they have the same values as and support the brand.
  
-##### A Problematic Case Example, Social Cause:
+###### A Problematic Case Example, Social Cause:
 
 You make high-end merino wool toques, with proceeds from the sale of these toques you decide to create a less costly version and donate them to people living on the street. But you haven’t surveyed or collaborated with the support organizations that work within the community. It turns out they are already inundated with clothing donations but what they really need is funding to expand services and programs that help this at-risk population. 
 
-##### A Problematic Case Example, Environment Cause:
+###### A Problematic Case Example, Environment Cause:
 
 You make beach towels and with every sale, a portion of the profits goes towards an ocean conservation project. But, the beach towels are made of synthetic fibres and contribute to ocean microplastics every time they are washed. 
 
-##### Starter Questions:
+###### Starter Questions:
 
 **Environmental:**  
  Is the production cost to the environment higher than the good it would be doing?
@@ -63,11 +63,11 @@ Instead of offering products, could you offer sustainable support (for example, 
 
 For those that sell artisan goods, the wares are often created lower income communities or countries, and marketed/sold to consumers in higher income communities or countries. Jewelry, textiles, accessories, home goods, and clothing are common items, they are usually bought at a lower price and marked up for the consumer. These re-sell programs can empower women to create an income in unequal opportunity societies. Sometimes you’ll see a portion of profits are also used to set up community programs. 
 
-##### A Problematic Case Example:
+###### A Problematic Case Example:
 
 You start an online marketplace and start carrying textiles from weavers in Peru. You share each weavers story hoping to help drive more sales. Without realizing it, instead of focusing on their craft you’ve focused on their personal struggles hoping the consumer will empathize and be more likely to support the artisan. The weavers end up feeling reduced to a stereotype rather than respected as artisans. 
 
-##### Starter Questions:
+###### Starter Questions:
 
 Why do you want to work with artisans in another country over the ones in your own community? (If there’s any hint of white saviorism or ego in your answer, it’s time for deeper reflection)
 
@@ -87,11 +87,11 @@ Is the artisan still compensated should the business fail?
 
 This is probably the most varied out of the models so for this instance we’ll focus on a quality of life improvement product. A company will make a technology that can give people access to clean water, renewable energy, food production or address another challenge in meeting human needs or rights. The company creates a consumer product that funds initiatives to use the same technology in a way that provides a solution to a community’s challenges such as access to clean drinking water. 
 
-##### A Problematic Case Example:
+###### A Problematic Case Example:
 
 You create a filtration system for people who spend time in the backcountry. you employ people only in your country of origin but work in communities in other countries to use the same technology in your consumer product to provide access to clean drinking water. You go on trips to these communities for marketing material photo ops, often with white or “western” looking people posing with POC, the outsider(s) (intentionally or not) look positioned as heros or saviors of the community.
 
-##### Starter Questions:
+###### Starter Questions:
 
 Are you or could you employ or fund experts on the ground in the communities you will be running programs or product distribution in?
 
