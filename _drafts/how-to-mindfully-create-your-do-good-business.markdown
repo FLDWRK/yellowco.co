@@ -20,16 +20,12 @@ You create a diving and yoga retreat on an island in Indonesia and the profits h
 
 ###### Starter Questions:
 
-Have you had feedback and approval from the community and addressed areas of concern? 
-
-Are there any Indigenous peoples land rights or other issues you need to respect and educate yourself on?
-
-Does the community have enough resources and systems (such as waste) to support tourism?
-If you’re relying on a trail system, park or reserve, can it handle an increase in visitation without environmental consequences? Is the area already suffering from overtourism?
-
-Are you employing local guides, hosts and instructors? If not, is there a barrier you can help solve (such as funding English classes)?
-
-Are you treating your on the ground employees or contractors with the same standard as your home country, making sure they have health, safety and insurance programs?
+- Have you had feedback and approval from the community and addressed areas of concern? 
+- Are there any Indigenous peoples land rights or other issues you need to respect and educate yourself on?
+- Does the community have enough resources and systems (such as waste) to support tourism?
+- If you’re relying on a trail system, park or reserve, can it handle an increase in visitation without environmental consequences? Is the area already suffering from overtourism?
+- Are you employing local guides, hosts and instructors? If not, is there a barrier you can help solve (such as funding English classes)?
+- Are you treating your on the ground employees or contractors with the same standard as your home country, making sure they have health, safety and insurance programs?
 
 #### The Product for a Cause
 
@@ -46,18 +42,17 @@ You make beach towels and with every sale, a portion of the profits goes towards
 ###### Starter Questions:
 
 **Environmental:**  
- Is the production cost to the environment higher than the good it would be doing?
-Is the product useful and will it withstand trends or is it likely to end up in a landfill within 5 years' time?
-Can you afford to make it of sustainable materials? If you can’t, should you make it at all?
-Are you creating a meaningful discussion and opportunities for the consumer to learn more about the issue through the marketing, sale and purchase of the item?
-
-Through the sale of this item are you asking people to buy things they don’t really need, the root cause of many environmental issues?
+- Is the production cost to the environment higher than the good it would be doing?
+- Is the product useful and will it withstand trends or is it likely to end up in a landfill within 5 years' time?
+- Can you afford to make it of sustainable materials? If you can’t, should you make it at all?
+- Are you creating a meaningful discussion and opportunities for the consumer to learn more about the issue through the marketing, sale and purchase of the item?
+- Through the sale of this item are you asking people to buy things they don’t really need, the root cause of many environmental issues?
 
 **Social:**  
-If you are supporting people or a community, are you telling their stories? If so, do you have consent? And are you doing it with dignity?
-Are you contributing to pollution, unsafe working conditions or unfair wages in another country with the production of your item?
-Have you surveyed the community and worked with local groups to find out what they need the most? 
-Instead of offering products, could you offer sustainable support (for example, job creation)?
+- If you are supporting people or a community, are you telling their stories? If so, do you have consent? And are you doing it with dignity?
+- Are you contributing to pollution, unsafe working conditions or unfair wages in another country with the production of your item?
+- Have you surveyed the community and worked with local groups to find out what they need the most? 
+- Instead of offering products, could you offer sustainable support (for example, job creation)?
 
 #### The Artisan Goods Seller
 
@@ -69,19 +64,13 @@ You start an online marketplace and start carrying textiles from weavers in Peru
 
 ###### Starter Questions:
 
-Why do you want to work with artisans in another country over the ones in your own community? (If there’s any hint of white saviorism or ego in your answer, it’s time for deeper reflection)
-
-If the artisan is using a design, style or pattern belonging to a culture, are they of that culture or are they appropriating it (using it without permission for personal gain)? 
-
-If the artisan isy are using their culture’s collective intellectual property, how can you support or protect their copyrights so their traditional designs are not ripped off and mass produced? 
-
-If you are using the artisans stories in your marketing are you doing so with consent (true consent, where the person understand the size and potential of the audience) and dignity? 
-
-Is the profit split fair? Are they making a living or above wage?
-
-Have you been careful not to over promise in sales so that the artisan does not invest too much time or materials or discontinuing to sell with other distributors?
-
-Is the artisan still compensated should the business fail?
+- Why do you want to work with artisans in another country over the ones in your own community? (If there’s any hint of white saviorism or ego in your answer, it’s time for deeper reflection)
+- If the artisan is using a design, style or pattern belonging to a culture, are they of that culture or are they appropriating it (using it without permission for personal gain)? 
+- If the artisan are using their culture’s collective intellectual property, how can you support or protect their copyrights so their traditional designs are not ripped off and mass produced? 
+- If you are using the artisans stories in your marketing are you doing so with consent (true consent, where the person understand the size and potential of the audience) and dignity? 
+- Is the profit split fair? Are they making a living or above wage?
+- Have you been careful not to over promise in sales so that the artisan does not invest too much time or materials or discontinuing to sell with other distributors?
+- Is the artisan still compensated should the business fail?
 
 #### The Social Impact B-Corp
 
@@ -93,12 +82,9 @@ You create a filtration system for people who spend time in the backcountry. you
 
 ###### Starter Questions:
 
-Are you or could you employ or fund experts on the ground in the communities you will be running programs or product distribution in?
-
-Are you also running product distribution programs to areas in your own country facing the same issues?
-
-Do you have enough to give away or will you be creating division and contention in a community?
-
-Are you using influencers or prolific people from outside the community to market the brand? Could you be using people from within the community instead?
+- Are you or could you employ or fund experts on the ground in the communities you will be running programs or product distribution in?
+- Are you also running product distribution programs to areas in your own country facing the same issues?
+- Do you have enough to give away or will you be creating division and contention in a community?
+- Are you using influencers or prolific people from outside the community to market the brand? Could you be using people from within the community instead?
 
 These questions are meant to get you thinking and exercising mindfulness, but each case will come with its own complexities and nuances. Think of yourself as the person being impacted in the economic chain or as the consumer. What would you want to know? What would you want the business to consider? What are the best practices in the industry? It may seem overwhelming at first but when we challenge ourselves to think deeper, we get to the truly good stuff.
