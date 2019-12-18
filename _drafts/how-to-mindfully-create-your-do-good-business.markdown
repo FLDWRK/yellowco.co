@@ -61,7 +61,7 @@ Instead of offering products, could you offer sustainable support (for example, 
 
 #### The Artisan Goods Seller
 
-A seller of artisans goods, the wares are often created in the global south and sold to consumers in the global north. Jewelry, textiles, accessories, home goods and clothing are common items, they are usually bought at a lower price and marked up for the western consumer. These re-sell programs can empower women to create an income in unequal opportunity societies. Sometimes you’ll see a portion of profits are also used to set up community programs. 
+For those that sell artisan goods, the wares are often created lower income communities or countries, and marketed/sold to consumers in higher income communities or countries. Jewelry, textiles, accessories, home goods, and clothing are common items, they are usually bought at a lower price and marked up for the consumer. These re-sell programs can empower women to create an income in unequal opportunity societies. Sometimes you’ll see a portion of profits are also used to set up community programs. 
 
 ##### A Problematic Case Example:
 
