@@ -3,7 +3,29 @@ title: How to Mindfully Create Your Do-Good Business
 date: 2019-12-23 03:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- do-good business
+- entrpreneur
+- intention
+- social impact
+- bcorp
+- b-corporation
+- give back
+- environment
+- charity
+- non-profit
+- guidelines
+- check list
+- questions
+- start business
+- social good
+- social cause
+- product
+- artisan
+- goods
+- cause
 author: Nikkey Dawn
+image: "/uploads/stil-n205UbNhy7E-unsplash-1.jpg"
 ---
 
 As passionate, value-driven women, we want to do good, both in life and in business. The problem is, good intentions alone do not protect us from causing harm. We have never been so globally connected; each decision we make when it comes to running our businesses can have a multitude of implications for others. This connection has also brought about more awareness of environmental and social issues. We can craft thoughtful businesses that create good in the world, but to make sure that they are really doing, well, _good_ – critical thinking, honest reflection, and research must be pillars of our decision making.
@@ -27,6 +49,8 @@ You create a diving and yoga retreat on an island in Indonesia, and the profits 
 - Are you employing local guides, hosts and instructors? If not, is there a barrier you can help solve (such as funding English classes) so that you can do so?
 - Are you treating your on-the-ground employees or contractors with the same standard as your home country, making sure that they have health, safety, and insurance programs?
 
+![green-chameleon-s9CC2SKySJM-unsplash-1.jpg](/uploads/green-chameleon-s9CC2SKySJM-unsplash-1.jpg)
+
 #### The Product for a Cause
 
 A product that contributes to solutions for a social or environmental cause with its sales. With social causes, sometimes for every item purchased, a similar item will go to a person in need of the product. With environmental causes, the sale of a product raises funds; sometimes the product is an unrelated item like a bracelet. The item will be heavily branded with a recognizable design so the wearer can show that they have the same values as and support the brand.
@@ -39,7 +63,7 @@ You make high-end merino wool beanies, and with proceeds from the sale of these 
 
 You make beach towels and with every sale, a portion of the profits goes towards an ocean conservation project. But, the beach towels are made of synthetic fibers and contribute to ocean microplastics every time they are washed. 
 
-**Social:**  
+**Social:**
 - If you are supporting people or a community, are you telling their stories? If so, do you have consent? And are you doing it with dignity?
 - Are you contributing to pollution, unsafe working conditions, or unfair wages in another country with the production of your item?
 - Have you surveyed the community and worked with local groups to find out what they need the most? 
@@ -47,12 +71,14 @@ You make beach towels and with every sale, a portion of the profits goes towards
 
 ###### Starter Questions:
 
-**Environmental:**  
+**Environmental:**
 - Is the production cost to the environment higher than the good it would be doing?
 - Is the product useful and will it withstand trends, or is it likely to end up in a landfill within 5 years' time?
 - Can you afford to make it of sustainable materials? If you can’t, should you make it at all?
 - Are you creating a meaningful discussion for the consumer to learn more about the issue through the marketing, sale, and purchase of the item?
 - Through the sale of this item, are you asking people to buy things they don’t really need – the root cause of many environmental issues?
+
+![cristina-matos-albers-OeFCTlfTnEU-unsplash-1.jpg](/uploads/cristina-matos-albers-OeFCTlfTnEU-unsplash-1.jpg)
 
 #### The Artisan Goods Seller
 
@@ -71,6 +97,8 @@ You start an online marketplace carrying textiles from weavers in Peru. You shar
 - Is the profit split fair? Are they making a living, or above, wage?
 - Have you been careful not to over promise in sales so that the artisan does not invest too much time or materials, or discontinues to sell with other distributors?
 - Will the artisan still be compensated should the business fail?
+
+![stil-ck0i9Dnjtj0-unsplash-1.jpg](/uploads/stil-ck0i9Dnjtj0-unsplash-1.jpg)
 
 #### The Social Impact B-Corp
 
