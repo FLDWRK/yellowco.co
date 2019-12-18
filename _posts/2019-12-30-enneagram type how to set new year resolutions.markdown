@@ -103,4 +103,4 @@ If you’re finding yourself stuck in the new year, ask “why” and maybe this
 
 <br>
 
-_To learn more, schedule a FREE [Coaching Consult](https://www.ashleesikorski.com/services) for the New Year here or learn about the [Nine Shapes project](https://nineshapes.co/) for more Enneagram questions here!_
+_To learn more from Ashlee, schedule a FREE [Coaching Consult](https://www.ashleesikorski.com/services) for the New Year or learn about the [Nine Shapes project](https://nineshapes.co/) for more Enneagram questions!_
