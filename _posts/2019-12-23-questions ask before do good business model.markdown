@@ -65,13 +65,13 @@ You make high-end merino wool beanies, and with proceeds from the sale of these 
 
 You make beach towels and with every sale, a portion of the profits goes towards an ocean conservation project. But, the beach towels are made of synthetic fibers and contribute to ocean microplastics every time they are washed. 
 
+###### Starter Questions:
+
 **Social:**
 - If you are supporting people or a community, are you telling their stories? If so, do you have consent? And are you doing it with dignity?
 - Are you contributing to pollution, unsafe working conditions, or unfair wages in another country with the production of your item?
 - Have you surveyed the community and worked with local groups to find out what they need the most? 
 - Instead of offering products, could you offer sustainable support (for example, job creation)?
-
-###### Starter Questions:
 
 **Environmental:**
 - Is the production cost to the environment higher than the good it would be doing?
