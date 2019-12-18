@@ -1,5 +1,5 @@
 ---
-title: How to Mindfully Create Your Do-Good Business
+title: Questions to Ask Yourself Before Creating Your Do-Good Business Model
 date: 2019-12-23 03:00:00 -08:00
 categories:
 - Entrepreneurs
@@ -24,6 +24,8 @@ tags:
 - artisan
 - goods
 - cause
+- business model
+- structure
 author: Nikkey Dawn
 image: "/uploads/stil-n205UbNhy7E-unsplash-1.jpg"
 ---
