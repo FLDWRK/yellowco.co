@@ -1,5 +1,5 @@
 ---
-title: enne
+title: How to Set Meaningful Resolutions This Year Based on Your Enneagram Type
 date: 2019-12-30 03:00:00 -08:00
 categories:
 - Growth
