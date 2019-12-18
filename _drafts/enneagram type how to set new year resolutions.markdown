@@ -20,6 +20,11 @@ tags:
 - numbers
 - enneagram resolution
 - new year
+- resolutions that last
+- meaningful resolutions
+- holistic
+- inner work
+- self work
 author: Ashlee Sikorski
 image: "/uploads/leighann-renee-Wiz9zZR16YI-unsplash-1.jpg"
 ---
