@@ -3,6 +3,23 @@ title: enne
 date: 2019-12-30 03:00:00 -08:00
 categories:
 - Growth
+tags:
+- enneagram
+- new years resolutions
+- resolutions
+- '2020'
+- goals
+- goal setting
+- self reflection
+- growth
+- personal growth
+- awareness
+- coaching
+- enneagram types
+- growth for enneagram
+- numbers
+- enneagram resolution
+- new year
 author: Ashlee Sikorski
 ---
 
