@@ -26,7 +26,7 @@ tags:
 - inner work
 - self work
 author: Ashlee Sikorski
-image: "/uploads/leighann-renee-Wiz9zZR16YI-unsplash-1.jpg"
+image: "/uploads/copy-c7ce92.jpeg"
 ---
 
 Have you ever created New Year’s resolutions that didn’t pan out? Have you noticed a pattern of, each year come December, wanting to lose 10 pounds, find a new career, or (insert your new year’s resolution here) for the last several years now? And has this inspiring and thoughtful plan come to a crashing burn each March? 
