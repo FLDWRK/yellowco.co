@@ -47,6 +47,8 @@ This might be you if:
 - You seem to be focusing more on the negative rather than the positive.  
 
 Coaches will guide you to shift your perspective. They'll challenge the negative thoughts of intimidation and fear, and help you create positive ones. You will form solid habits in training the mind to shift during moments of doubt.
+
+![trent-szmolnik-wxSsX8kHaoI-unsplash.jpg](/uploads/trent-szmolnik-wxSsX8kHaoI-unsplash.jpg)
  
 #### You're trying to get it all done.
 
