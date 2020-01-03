@@ -1,8 +1,26 @@
 ---
-title: coaching
+title: How to Know When Coaching Is Right for You
 date: 2020-01-06 03:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- coaching
+- professional coaching
+- professional growth
+- personal growth
+- tools
+- relationship
+- goals
+- self development
+- when to get coaching
+- coaching benefits
+- what does coaching do
+- how does coaching help you
+- women
+- entrepreneurs
+- leaders
+- growth
+- support
 author: Kristi Triplett Jones
 ---
 
