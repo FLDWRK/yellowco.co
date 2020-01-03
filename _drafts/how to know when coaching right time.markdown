@@ -33,7 +33,8 @@ Choosing to work with a coach is a great decision, and it’s encouraged individ
 This might be you if:
 - You’ve created a business model but are not sure of your first step.
 - You just graduated from school and desire to discover what’s next.
-- You want to implement a culture of diversity and inclusion in your business and aren’t sure how to get the team on board. 
+- You want to implement a culture of diversity and inclusion in your business and aren’t sure how to get the team on board.    
+
 If you're feeling stuck, we've all been there. Coaches are able to give you strategic guidance into the next step and into a pace specifically fit for your needs.
  
 #### Your season has been filled with more comparison than contentment.
@@ -42,7 +43,8 @@ This might be you if:
 - You spend a majority of your time on social media and are unhappy with where you’re at. 
 - You tend to believe your inner critic more than your truths.
 - Your vision is blurry because of the whirlwind happening around you.
-- You seem to be focusing more on the negative rather than the positive.
+- You seem to be focusing more on the negative rather than the positive.  
+
 Coaches will guide you to shift your perspective. They'll challenge the negative thoughts of intimidation and fear, and help you create positive ones. You will form solid habits in training the mind to shift during moments of doubt.
  
 #### You're trying to get it all done.
@@ -51,6 +53,7 @@ This might be you if:
 - You’re scaling your business without enough help.
 - You’re taking care of a family, working a day job, picking up the groceries, and cleaning the house.
 - You're trying to complete all your tasks during the day and just can’t seem to get it all done. 
+
 Through in-depth vision and goal setting, time management skills, and critical focus lists, coaching will assist in obtaining those desired outcomes.
 
 #### Are you ready to jump?
