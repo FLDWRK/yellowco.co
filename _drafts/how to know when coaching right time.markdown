@@ -22,6 +22,7 @@ tags:
 - growth
 - support
 author: Kristi Triplett Jones
+image: "/uploads/daniel-gonzalez-KeiUIl9Lzo4-unsplash-1.jpg"
 ---
 
 Coaching dates back to the 1800s, and some would say even thousands of years ago. There are a variety of “coaching” methods; sports, business, lifestyle, nutrition, science, you name it – there’s most likely a coach for it.
