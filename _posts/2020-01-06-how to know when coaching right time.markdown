@@ -1,5 +1,5 @@
 ---
-title: How to Know When Coaching Is Right for You
+title: Considering Coaching? Discover If Now Is the Right Time for You
 date: 2020-01-06 03:00:00 -08:00
 categories:
 - Entrepreneurs
