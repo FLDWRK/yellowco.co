@@ -27,7 +27,7 @@ image: "/uploads/daniel-gonzalez-KeiUIl9Lzo4-unsplash-1.jpg"
 
 Coaching dates back to the 1800s, and some would say even thousands of years ago. There are a variety of “coaching” methods; sports, business, lifestyle, nutrition, science, you name it – there’s most likely a coach for it.
  
-Choosing to work with a coach is a great decision, and it’s encouraged individuals take time and thought before hiring the first coach they meet. It’s a proactive step that can achieve massive personal and professional results. Asking yourself if you need a coach? Below are some questions about where you're at that may help you identify whether coaching is right for you, right now.
+Choosing to work with a coach is a great decision, and it’s encouraged individuals take time and thought before hiring the first coach they meet. It’s a proactive step that can achieve massive personal and professional results. Asking yourself if you need a coach? Below are some examples of times in life when it could be most beneficial, that can help you identify whether the time is right for you to give coaching a try.
  
 #### You're not clear in the direction you should take next.
 
