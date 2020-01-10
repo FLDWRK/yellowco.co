@@ -3,6 +3,22 @@ title: How to Budget as a Freelancer With Fluctuating Income
 date: 2020-01-13 03:00:00 -08:00
 categories:
 - Entrepreneurs
+tags:
+- freelance
+- money
+- budget
+- finance
+- running a business
+- freelance advice
+- freelance practices
+- freelance tips
+- budgeting
+- savings
+- taxes
+- freelance taxes
+- clients
+- advice
+- income
 author: Kara Perez
 ---
 
