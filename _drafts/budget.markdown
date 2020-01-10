@@ -1,5 +1,5 @@
 ---
-title: budget
+title: How to Budget as a Freelancer With Fluctuating Income
 date: 2020-01-13 03:00:00 -08:00
 categories:
 - Entrepreneurs
