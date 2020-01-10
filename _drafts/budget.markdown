@@ -40,6 +40,8 @@ You want to feel in control, not stressed out. Finding the right tools to use ar
 
 **Tip:** For freelancers, try and have at least three months of living expenses saved before going full time as a freelancer. These savings can act as a buffer for when you have large gaps between paychecks. 
 
+-
+
 #### Track When and Where Your Payments Come In
 
 Knowledge is power, and nowhere is that more true than with your freelance finances. If you work with multiple clients who pay on different schedules and different platforms, you need to get clear on where and when you can expect payment. 
@@ -54,7 +56,9 @@ If you do a $1,500 project for all three clients and invoice them all on the sam
 
 Freelancers are responsible for paying their own taxes, and that means working it into your budget. A safe bet is to save 30% of every paycheck you get for taxes, so that you have enough for Uncle Sam.
 
-That means you are only taking home 70% of what you actually charge. Consider this when you set your rates and when you look to reinvest in your business. When it comes to your personal and business budget, work from 70% of your income, not the full 100%. 
+### That means you are only taking home 70% of what you actually charge. 
+
+Consider this when you set your rates and when you look to reinvest in your business. When it comes to your personal and business budget, work from 70% of your income, not the full 100%. 
 
 **Tip:** The quarterly tax due dates for 2020 are April 15th, June 15th, September 15th, and January 15th 2021. Put a reminder for them each a week AHEAD of the due date so you never miss it! 
 
