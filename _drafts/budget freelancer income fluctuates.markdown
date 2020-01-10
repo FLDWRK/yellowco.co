@@ -20,6 +20,7 @@ tags:
 - advice
 - income
 author: Kara Perez
+image: "/uploads/annie-spratt-0cPSKUEANqU-unsplash-1.jpg"
 ---
 
 Freelancers and small business owners have the good luck of being able to set their schedule, work from anywhere, and don’t have to deal with office politics. But unfortunately, we also face the problem of irregular paychecks, which can make managing your personal finances more difficult than we’d like. 
@@ -40,7 +41,7 @@ You want to feel in control, not stressed out. Finding the right tools to use ar
 
 **Tip:** For freelancers, try and have at least three months of living expenses saved before going full time as a freelancer. These savings can act as a buffer for when you have large gaps between paychecks. 
 
--
+![roman-bozhko-PypjzKTUqLo-unsplash-1.jpg](/uploads/roman-bozhko-PypjzKTUqLo-unsplash-1.jpg)
 
 #### Track When and Where Your Payments Come In
 
@@ -61,6 +62,8 @@ Freelancers are responsible for paying their own taxes, and that means working i
 Consider this when you set your rates and when you look to reinvest in your business. When it comes to your personal and business budget, work from 70% of your income, not the full 100%. 
 
 **Tip:** The quarterly tax due dates for 2020 are April 15th, June 15th, September 15th, and January 15th 2021. Put a reminder for them each a week AHEAD of the due date so you never miss it! 
+
+![annie-spratt-E9NE0qcq74k-unsplash-1.jpg](/uploads/annie-spratt-E9NE0qcq74k-unsplash-1.jpg)
 
 #### Planning For Business Costs
 
