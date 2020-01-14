@@ -1,9 +1,24 @@
 ---
-title: 4 steps to set values-aligned goals
+title: 4 Steps to Setting Value-Aligned Goals That Stick
 date: 2020-01-20 03:00:00 -08:00
 categories:
 - Growth
+tags:
+- goal setting
+- goals
+- new year goals
+- create goals
+- measurable goals
+- 2020 goals
+- resolutions
+- values
+- value
+- values exercise
+- coaching
+- entrepreneur
+- progress
 author: Brianna Towne
+image: "/uploads/stil-aHqF3dAZ988-unsplash.jpg"
 ---
 
 With goals at the forefront of everyone’s minds in January, I thought the world didn’t need another “goal setting” article. What we do need is a goal-getting article. It’s easy to come up with a goal - big or small. What’s more difficult (as shown by the consistent abandoning of goals after a month), is to keep working towards those goals and bring them to completion. Anyone can set a goal. Most have trouble actually keeping it.
@@ -20,13 +35,17 @@ First comes the why. In order for goals to actually stick, they have to be conne
 2. Circle every value that resonates with you and the life you want to live. No minimum or maximum - all the values that stick out to you. 
 3. Group the values you’ve circled into categories of your own choosing. These can look like “work, family, community” or “love, money, happiness” - whatever feels in alignment. Again, you can have as many or as few categories as feels right to you. Once you’ve placed the values into categories, take a look at the names of each category - these are your "Core Values". These are what you want to be striving for on a daily basis and what you’ll connect your goals to.
 
-#### Establish Small Steps That Lead to the Main Goal
+![stil-FsaMNGH-09c-unsplash (1).jpg](/uploads/stil-FsaMNGH-09c-unsplash%20(1).jpg)
+
+#### Establish Small Steps Toward the Main Goal
 
 Once you have your values and have aligned your goal to one or more of them, you start to fuel the desire inside yourself to achieve the goal - that’s the fire you need to keep stoking to achieve your goal. You keep the fires burning by coming up with baby steps you can easily achieve on your way to the big goal. For example, if your big goal is to finally tackle a full marathon, your smaller goals along the way could be putting money down on the race registration, finishing a ½ marathon, and joining a running group for motivation and inspiration. (Full disclosure - this is one of my own goals for this coming year.) If your goal is to eat healthier, find a way to quantify that with your smaller goals. Eat 10 different plants each day, drink 8 glasses of water daily, or practice meatless Monday. Whatever your big goal is, breaking it down into smaller goals along the way will help motivate, inspire and stoke that inner fire within.
 
 #### Determine Potential Roadblocks
 
 Once you’ve decided on your smaller goals, the next step is to foresee any possible roadblocks in your way and figure out workarounds for them. For example, your biggest roadblock may be finding childcare in order to work towards your goal. Your workaround may be setting up a nanny-share, finding a co-working space with childcare, or allocating part of your monthly budget for a babysitter a few days each week. By taking into consideration the roadblocks that likely stand in your way and tackling them before they drive your plans off the road, you’ll be more likely to stay on track.
+
+![neonbrand-Ak5c5VTch5E-unsplash.jpg](/uploads/neonbrand-Ak5c5VTch5E-unsplash.jpg)
 
 #### Track Your Progress
 
