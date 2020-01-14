@@ -31,7 +31,7 @@ First comes the why. In order for goals to actually stick, they have to be conne
 
 ###### Quick Values Exercise:
 
-1. Write down all of the values you can think of (you can [head here](https://static1.squarespace.com/static/59f783eddc2b4acb980f1120/t/5dcadb2384c25d728c6b6467/1573575460567/Uncover+your+core+values.pdf) for some examples).  
+1. Write down all of the values you can think of (you can _[head here](https://static1.squarespace.com/static/59f783eddc2b4acb980f1120/t/5dcadb2384c25d728c6b6467/1573575460567/Uncover+your+core+values.pdf)_ for some examples).  
 2. Circle every value that resonates with you and the life you want to live. No minimum or maximum - all the values that stick out to you. 
 3. Group the values you’ve circled into categories of your own choosing. These can look like “work, family, community” or “love, money, happiness” - whatever feels in alignment. Again, you can have as many or as few categories as feels right to you. Once you’ve placed the values into categories, take a look at the names of each category - these are your "Core Values". These are what you want to be striving for on a daily basis and what you’ll connect your goals to.
 
