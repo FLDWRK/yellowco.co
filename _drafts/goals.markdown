@@ -10,7 +10,7 @@ With goals at the forefront of everyone’s minds in January, I thought the worl
 
 As a nutritionist with training in both health psychology and behavior change, I see this phenomenon time and time again. Women come in having had these big, lofty goals for years, but have never actually gotten to where they want to be. They don’t know how to get from here to there and, maybe even more importantly, they don’t know why they want to achieve that goal in the first place.
 
-#### 1. Find Your Values
+#### Find Your Values
 
 First comes the why. In order for goals to actually stick, they have to be connected to some internal motivator. The deepest way to do that is to lay out your core values, and then see where your goals align with those values.
 
