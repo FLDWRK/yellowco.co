@@ -1,32 +1,5 @@
 .footer-site {
-  background-color: $gray-lighter;
+  font-size: 12px;
   padding-top: 3rem;
   padding-bottom: 1rem;
-  .newsletter {
-    h3 {
-      font-size: 2rem;
-    }
-    .form-control {
-      border-color: $brand-black;
-      padding-top: .7rem;
-      padding-bottom: .70rem;
-    }
-  }
-  h3.email-yellow {
-    font-size: 1.5rem;
-    letter-spacing: 1px;
-    position: relative;
-    top: 12px;
-    &:hover {
-      text-decoration: none;
-    }
-  }
-  hr {
-    border-top: 1px solid $brand-black;
-  }
-  .footer-link {
-    font-family: $font-family-subheadings;
-    letter-spacing: 2px;
-    font-size: .8rem;
-  }
 }

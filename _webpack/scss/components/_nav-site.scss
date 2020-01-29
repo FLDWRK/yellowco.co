@@ -2,9 +2,12 @@
   margin-top: 0.8rem;
   margin-bottom: 0.5rem;
   padding: 0.5rem 0;
-  font-family: $font-family-subheadings;
+  font-family: Karla, sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  display: flex;
+  flex-wrap: wrap;
   @include media-breakpoint-only(xs) {
     margin-top: 0.25rem;
   }
@@ -48,29 +51,20 @@
     @include media-breakpoint-only(md) {
       margin-left: 0.2rem;
     }
-    @include media-breakpoint-only(lg) {
-      margin-left: 1rem;
-    }
-    @include media-breakpoint-only(xl) {
-      margin-left: 1.75rem;
-    }
   }
 
   > .navbar-nav .nav-link {
     color: $gray-dark;
+    white-space: nowrap;
     @include media-breakpoint-only(md) {
-      font-size: 0.65rem;
+      font-size: 12px;
     }
     @include media-breakpoint-only(lg) {
-      font-size: 0.82rem;
+      font-size: 12px;
     }
     @include media-breakpoint-only(xl) {
-      font-size: 0.85rem;
+      font-size: 12px;
     }
-  }
-
-  > .navbar-nav .active {
-    border-bottom: 3px solid $brand-black;
   }
 
   > .navbar-toggler {
@@ -78,6 +72,7 @@
     border: 0 !important;
     outline: 0 !important;
     right: 0 !important;
+    font-family: Karla, sans-serif !important;
     cursor: pointer;
 
     &:active {

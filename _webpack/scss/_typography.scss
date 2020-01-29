@@ -65,7 +65,7 @@ h6 {
 
   h1,
   h2 {
-    background: $white;
+    background: $brand-bg;
     margin: 0;
     line-height: 3.25rem;
     padding: 0 1.4rem;
@@ -107,11 +107,11 @@ p.lead > strong {
 }
 
 .league-spartan {
-  font-family: 'League Spartan', sans-serif;
+  font-family: "League Spartan", sans-serif;
 }
 
 .open-sans {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .playfair {
@@ -119,7 +119,7 @@ p.lead > strong {
 }
 
 .playfair-display {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 .text-gray {

@@ -2,16 +2,16 @@
   <button type="button" class="navbar-toggler navbar-toggler-right">
     <small>MENU</small> &#9776;
   </button>
-  <a class="navbar-brand _no-underline" href="{{page.logo_link | default:'/'}}">
-    <img src="/assets/images/yellow-logo.svg" alt="{{ site.title }}">
+  <a class="navbar-brand _no-underline" href="{{page.logo_link | default:'https://yellowco.co'}}">
+    <img src="/assets/images/yellow-wordmark.svg" alt="{{ site.title }}">
   </a>
   <ul class="nav navbar-nav ml-auto my-auto">
     {% for site_page in site.data.nav-site %}
-      <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
-        <a href="{{ site_page.url | prepend: site.baseurl }}" class="nav-link">
-          {{ site_page.title }}
-        </a>
-      </li>
+    <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
+      <a href="{{ site_page.url | prepend: site.baseurl }}" class="nav-link">
+        {{ site_page.title }}
+      </a>
+    </li>
     {% endfor %}
   </ul>
 </nav>

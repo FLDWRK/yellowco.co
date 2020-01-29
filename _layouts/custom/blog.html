@@ -2,12 +2,7 @@
 layout: site
 ---
 
-{% if paginator.previous_page %}
-
-<!-- BLOG PREVIOUS PAGE LAYOUT -->
-
 <div class="container blog">
-  {% include newsletter-form.html %}
   <section>
     <div class="row">
       {% for post in paginator.posts %}
@@ -15,19 +10,11 @@ layout: site
         <a href="{{ post.url }}">
           <div class="card card-deck-6">
             {% if post.image %}
-            <img
-              src="{{ post.image | image_src }}?w=450&h=250&fit=crop&crop=faces"
-              class="card-img-top img-fluid"
-              alt="{{ post.title }}"
-              data-rjs="2"
-            />
+            <img src="{{ post.image | image_src }}?w=450&h=250&fit=crop&crop=faces" class="card-img-top img-fluid"
+              alt="{{ post.title }}" data-rjs="2" />
             {% else %}
-            <img
-              src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=250&fit=crop&crop=faces"
-              class="card-img-top img-fluid w-100"
-              alt="{{ post.title }}"
-              data-rjs="2"
-            />
+            <img src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=250&fit=crop&crop=faces"
+              class="card-img-top img-fluid w-100" alt="{{ post.title }}" data-rjs="2" />
             {% endif %}
             <div class="card-block pl-0">
               <h6 class="card-title">{{ post.title }}</h6>
@@ -40,98 +27,10 @@ layout: site
     </div>
   </section>
 </div>
-{% else %}
-<!-- BLOG INDEX LAYOUT -->
-<div class="container blog">
-  <section class="blog-feature">
-    <div class="row justify-content-center mb-4">
-      <div class="col-12 col-lg-12 px-1 px-sm-0">
-        <div class="card-deck card-deck-blog justify-content-center">
-          {% for post in site.posts limit:3 %}
-          <div class="card my-2">
-            <a href="{{ post.url }}" class="_no-underline">
-              {% if post.image %}
-              <img
-                src="{{ post.image | image_src }}?w=345&h=420&fit=crop&crop=faces"
-                class="card-img-top img-fluid"
-                alt="{{ post.title }}"
-                data-rjs="2"
-              />
-              {% else %}
-              <img
-                src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=345&h=420&fit=crop&crop=faces"
-                class="card-img-top img-fluid"
-                alt="{{ post.title }}"
-                data-rjs="2"
-              />
-              {% endif %}
-            </a>
-            <div class="card-block text-center">
-              <h6 class="card-category">
-                <a
-                  href="/blog/category/{{ post.categories | first | slugify }}"
-                  class="no-underline"
-                >
-                  <mark>{{ post.categories | first }}</mark>
-                </a>
-              </h6>
-              <h2 class="card-title">
-                <a href="{{ post.url }}" class="_no-underline"
-                  >{{ post.title }}</a
-                >
-              </h2>
-              <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </section>
-</div>
-<div class="container">
-  <section>
-    <div class="row">
-      <div class="col-12">
-        <div class="header-rule"><h2 class="text-center">The Latest</h2></div>
-      </div>
-    </div>
-    <div class="row">
-      {% for post in site.posts limit:9 offset:3 %}
-      <div class="col-12 col-sm-6 col-md-6 col-lg-4">
-        <a href="{{ post.url }}">
-          <div class="card card-deck-6">
-            {% if post.image %}
-            <img
-              src="{{ post.image | image_src }}?w=450&h=250&fit=crop&crop=faces"
-              class="card-img-top img-fluid"
-              alt="{{ post.title }}"
-              data-rjs="2"
-            />
-            {% else %}
-            <img
-              src="https://yellow-blog-images.imgix.net/post-image-default.jpg?w=450&h=250&fit=crop&crop=faces"
-              class="card-img-top img-fluid"
-              alt="{{ post.title }}"
-              data-rjs="2"
-            />
-            {% endif %}
-            <div class="card-block pl-0">
-              <h6 class="card-title">{{ post.title }}</h6>
-              <p class="card-date">{{ post.date | date:"%B %e, %Y" }}</p>
-            </div>
-          </div>
-        </a>
-      </div>
-      {% endfor %}
-    </div>
-  </section>
-</div>
-{% endif %}
 
 <!-- PAGINATION -->
 
-<div class="container">
+<div class="container blog-nav">
   <div class="row">
     <div class="col">
       {% if paginator.next_page %}
@@ -139,10 +38,7 @@ layout: site
         <i class="fa fa-lg fa-caret-left" aria-hidden="true"></i> Older
       </a>
       {% endif %} &nbsp; {% if paginator.previous_page %}
-      <a
-        href="{{ paginator.previous_page_path }}"
-        class="btn btn-outline-primary"
-      >
+      <a href="{{ paginator.previous_page_path }}" class="btn btn-outline-primary">
         Newer <i class="fa fa-lg fa-caret-right" aria-hidden="true"></i>
       </a>
       {% endif %}

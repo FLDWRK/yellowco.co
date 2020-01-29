@@ -1,5 +1,6 @@
 $enable-transitions: true;
 // COLORS
+$brand-bg: #faf6ef;
 $brand-primary: #f4ef11;
 $yellow: $brand-primary;
 $brand-black: #231f20;
@@ -16,11 +17,11 @@ $btn-warning-color: $brand-black;
 $border-radius: 0;
 $border-radius-lg: 0;
 $border-radius-sm: 0;
-$border-width: 4px;
+$border-width: 1px;
 // TYPOGRAPHY
 $font-family-serif: "Playfair Display";
 $font-family-sans-serif: "Open Sans";
-$font-family-subheadings: 'League Spartan', sans-serif;
+$font-family-subheadings: "League Spartan", sans-serif;
 $headings-font-family: $font-family-serif;
 $headings-lg-font-family: $headings-font-family;
 $headings-sm-font-family: $font-family-subheadings;
@@ -39,13 +40,13 @@ $display4-size: $font-size-h4;
 $btn-font-family: $font-family-subheadings;
 $link-color: $brand-black;
 
-@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap/scss/bootstrap";
 $fa-font-path: "/assets/fonts";
-@import '~font-awesome/scss/font-awesome';
-@import 'css/fotorama';
-@import 'buttons';
-@import 'fixes';
-@import 'fonts';
-@import 'icons';
-@import 'links';
-@import 'typography';
+@import "~font-awesome/scss/font-awesome";
+@import "css/fotorama";
+@import "buttons";
+@import "fixes";
+@import "fonts";
+@import "icons";
+@import "links";
+@import "typography";

@@ -1,6 +1,7 @@
 .card-deck-blog {
   .card {
-    border: solid 3px $brand-black;
+    border: solid 1px $brand-black;
+    background-color: $brand-bg;
 
     .card-category {
       font-size: 0.75rem;
@@ -12,23 +13,22 @@
       margin: auto;
       top: -1.625rem;
       color: #9b9b9b;
-      margin-bottom: -1.15rem;
 
       a {
         mark {
-          background-color: white;
+          background-color: $brand-bg;
           padding: 0.75rem 1rem 0.5rem;
           color: #9b9b9b;
           transition: all 0.3s ease 0s;
         }
       }
 
-      a:hover {
-        mark {
-          background-color: $brand-primary;
-          color: darken(#9b9b9b, 45%);
-        }
-      }
+      // a:hover {
+      //   mark {
+      //     background-color: $brand-primary;
+      //     color: darken(#9b9b9b, 45%);
+      //   }
+      // }
     }
 
     .card-title {
@@ -66,6 +66,7 @@
       max-width: 100%;
     }
   }
+
   // .card:nth-child(2) {
   //   margin-right: 0;
   // }

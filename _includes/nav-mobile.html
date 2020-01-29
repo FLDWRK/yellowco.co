@@ -1,14 +1,14 @@
 <nav class="nav nav-mobile flex-column" role="navigation">
   <a href="/">
-    <img src="/assets/images/yellow-logo-white-bar.svg" alt="{{ site.title }}" class="nav-mobile-logo">
+    <img src="/assets/images/yellow-wordmark.svg" alt="{{ site.title }}" class="nav-mobile-logo">
   </a>
   <ul class="list-unstyled">
     {% for site_page in site.data.nav-site %}
-      <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
-        <a href="{{ site_page.url | prepend: site.baseurl }}" class="nav-link">
-          {{ site_page.title | upcase }}
-        </a>
-      </li>
+    <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
+      <a href="{{ site_page.url | prepend: site.baseurl }}" class="nav-link">
+        {{ site_page.title | upcase }}
+      </a>
+    </li>
     {% endfor %}
   </ul>
 </nav>

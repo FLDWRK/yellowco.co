@@ -1,18 +1,6 @@
-- id: membership
-  title: Membership
-  url: /membership
-- id: events
-  title: Events
-  url: /events
-- id: experiences
-  title: Experiences
-  url: "https://yellowcollective.lpages.co/retreats/"
-- id: conference
-  title: Conference
-  url: "https://yellowcollective.lpages.co/yellow-conference-2019/"
-- id: blog
-  title: Blog
-  url: /blog
-- id: login
-  title: Log In
-  url: "https://yellowco.mn.co/"
+- id: home
+  title: Home
+  url: https://yellowco.co
+- id: archive
+  title: Archive
+  url: /
