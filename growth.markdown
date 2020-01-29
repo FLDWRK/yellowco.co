@@ -1,6 +1,6 @@
 ---
 title: Growth
-position: 17
+position: 4
 category: Growth
 layout: category
 ---

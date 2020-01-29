@@ -1,6 +1,6 @@
 ---
 title: Culture
-position: 1
+position: 2
 category: Culture
 layout: category
 ---
