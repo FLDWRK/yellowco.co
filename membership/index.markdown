@@ -1,5 +1,6 @@
 ---
 title: Membership
+published: false
 position: 11
 nav:
   id: membership
