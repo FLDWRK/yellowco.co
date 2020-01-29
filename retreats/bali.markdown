@@ -1,7 +1,7 @@
 ---
 title: Bali Retreat - Launch & Build Your Do-Good Business
 published: false
-position: 5
+position: 8
 nav:
   site:
     highlight: experiences
