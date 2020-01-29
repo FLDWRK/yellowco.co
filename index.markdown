@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Blog Archive
 position: 0
 nav:
   id: blog
@@ -9,4 +9,3 @@ pagination:
   enabled: true
 layout: custom/blog
 ---
-
