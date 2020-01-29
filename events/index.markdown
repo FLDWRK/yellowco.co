@@ -1,7 +1,7 @@
 ---
 title: Upcoming Events
 published: false
-position: 0
+position: 4
 nav:
   id: events
   site:

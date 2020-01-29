@@ -1,7 +1,7 @@
 ---
 title: Membership
 published: false
-position: 11
+position: 13
 nav:
   id: membership
   site:

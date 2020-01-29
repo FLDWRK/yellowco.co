@@ -1,6 +1,7 @@
 ---
 title: Blog
-position: 6
+published: false
+position: 10
 nav:
   id: blog
   site:

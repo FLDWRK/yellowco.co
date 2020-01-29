@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurs
-position: 16
+position: 2
 category: Entrepreneurs
 layout: category
 ---
